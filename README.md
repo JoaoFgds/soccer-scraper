@@ -1,203 +1,219 @@
-# Transfermarkt Football Data Scraper
+# Transfermarkt Soccer Scraper
 
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This project is a robust web scraper designed to extract football (soccer) data from Transfermarkt.com. It focuses on collecting league standings and team match schedules for various leagues and seasons, particularly the first and second divisions of major world championships. The scraper is built with resilience in mind, including retries, delays, and logging to handle web scraping challenges ethically and efficiently.
+## Overview
 
-**Important Note:** Web scraping should be done responsibly. Transfermarkt's terms of service prohibit automated data extraction for commercial use. This tool is for educational and personal research purposes only. Use it at your own risk, and respect rate limits to avoid IP bans.
+This project is a robust and scalable Python-based web scraper designed to extract comprehensive soccer data from [Transfermarkt](https://www.transfermarkt.com.br), one of the most detailed public sources for football statistics. The application systematically processes multiple leagues and historical seasons to build a rich dataset for sports analytics, predictive modeling, or historical research.
 
-## Table of Contents
+The scraper is engineered with politeness and resilience at its core. It incorporates intelligent delays and a sophisticated retry mechanism to ensure stable, long-running execution while respecting the website's servers and minimizing the risk of IP blocks. This project is not just a script, but a small-scale data engineering pipeline, moving from raw web data to structured, usable CSV files.
 
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Output Structure](#output-structure)
-- [Examples](#examples)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
+## Key Features
 
-## Features
+-   **Modular & Scalable Architecture**: The code is organized into a clean `src` layout, separating distinct responsibilities (configuration, network requests, data parsing, utilities) into dedicated modules for high maintainability and ease of expansion.
+-   **Robust Network Handling**: Features a resilient request handler that automatically retries on transient network errors and specific server responses (HTTP 429/503), using an exponential backoff strategy to gracefully handle server load.
+-   **Polite & Ethical Scraping**: A randomized delay is enforced between all requests to mimic human-like browsing behavior, ensuring the scraper does not overwhelm the target server. This is crucial for long-term operational stability.
+-   **Configuration-Driven Control**: The entire scraping process is controlled via a central configuration file (`config.py`). Users can easily define which leagues to scrape, manage their processing state (`processed` flag), and set historical data limits (`start_year`).
+-   **Structured & Organized Data Output**: All extracted data is saved into clean, machine-readable CSV files, organized in a logical directory hierarchy: `data/raw/{league_slug}/{season_year}/`.
 
-- **Multi-League Support:** Scrapes data from multiple leagues, including Premier League (GB1), Championship (GB2), LaLiga (ES1), Segunda División (ES2), Bundesliga (L1), 2. Bundesliga (L2), Serie A (IT1), Serie B (IT2), Ligue 1 (FR1), Ligue 2 (FR2), Brasileirão Série A (BRA1), Brasileirão Série B (BRA2), and more. Easily extendable via configuration.
-- **Multi-Season Scraping:** Automatically iterates over seasons from a configurable start year to the current year.
-- **Data Extracted:**
-  - League standings: Position, team name, games played, wins, draws, losses, goals, goal difference, points, and team URLs.
-  - Team schedules: Round, date, time, home/away teams, formation, coach, audience, result, and match link.
-- **Robustness:** 
-  - Randomized delays and exponential backoff retries to handle rate limiting and network issues.
-  - Logging for debugging and monitoring.
-  - Custom exceptions for scraping errors.
-- **Modular Design:** Separate functions for fetching HTML, parsing standings, and extracting schedules.
-- **Output:** Saves data as CSV files organized by league, season, and team.
-- **Ethical Considerations:** Built-in delays to minimize server load; no parallel processing by default to avoid abuse.
+## Data Coverage
 
-## Requirements
+This project has successfully scraped and processed historical data for the following major European and Brazilian football leagues. The data for each league covers the seasons from a defined start year up to the **2024** season. The scraping process respects a minimum start year of **1990** for historical data.
 
-- Python 3.8 or higher
-- Libraries:
-  - `requests` for HTTP requests
-  - `beautifulsoup4` (bs4) for HTML parsing
-  - `pandas` for data handling and CSV export
-  - `urllib` (standard library) for URL manipulation
+*Note: For leagues following a mid-year calendar (e.g., most European leagues), the year represents the start of the season. For example, data for the year `2023` corresponds to the `2023/24` season.*
 
-No additional installations are needed beyond these (install via `pip` as shown below).
 
-## Installation
+| League                             | Country | Seasons Covered |
+| :--------------------------------- | :------ | :-------------- |
+| Premier League                     | England | 1992-2024       |
+| Championship                       | England | 2004-2024       |
+| LaLiga                             | Spain   | 2000-2024       |
+| LaLiga2                            | Spain   | 2007-2024       |
+| Bundesliga                         | Germany | 1990-2024       |
+| 2. Bundesliga                      | Germany | 1990-2024       |
+| Serie A                            | Italy   | 1990-2024       |
+| Serie B                            | Italy   | 2002-2024       |
+| Ligue 1                            | France  | 1990-2024       |
+| Ligue 2                            | France  | 1994-2024       |
+| Campeonato Brasileiro Série A      | Brazil  | 2006-2024       |
+| Campeonato Brasileiro Série B      | Brazil  | 2009-2024       |
 
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/transfermarkt-scraper.git
-   cd transfermarkt-scraper
-   ```
+## Architectural Deep Dive
 
-2. Create a virtual environment (optional but recommended):
-   ```
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
+To meet the goal of being a robust and maintainable application, the project's code is divided into several modules, each with a single responsibility. The data flows between these modules in a logical sequence.
 
-3. Install dependencies:
-   ```
-   pip install requests beautifulsoup4 pandas
-   ```
+-   `src/soccer_scraper/config.py`: The single source of truth for all operational parameters. It holds constants like request headers, retry settings, and the main `LEAGUES` dictionary that defines the scope of the scraping tasks. No other module should contain hardcoded configuration values.
+-   `src/soccer_scraper/network.py`: The communication layer. Its primary function, `fetch_soup`, handles all outgoing HTTP requests, embedding the politeness delay and exponential backoff logic. It is the only module that directly interacts with the internet. It uses parameters from `config.py` and raises exceptions from `exceptions.py`.
+-   `src/soccer_scraper/parsers.py`: The core "brain" of the scraper. This module contains functions (`fetch_league_standings`, `fetch_team_games`) responsible for taking raw HTML content (provided by `network.py`) and parsing it with BeautifulSoup to extract structured data into pandas DataFrames. The logic here is specific to Transfermarkt's HTML structure.
+-   `src/soccer_scraper/utils.py`: A toolbox for common, reusable tasks. It contains helper functions like `sanitize_filename` that are used across different parts of the application to ensure consistent data cleaning.
+-   `src/soccer_scraper/exceptions.py`: Defines custom exceptions like `ScrapingError`. This allows the application to differentiate between predictable scraping failures (e.g., a table not found) and general Python errors.
+-   `main.py` (and `src/soccer_scraper/main.py`): The central orchestrator. These modules do not contain any low-level scraping logic. Instead, they import components from the other modules and execute the high-level workflow: reading the configuration, looping through leagues and seasons, calling the appropriate parsers, handling errors, and saving the results.
 
-4. (Optional) If using YAML/JSON for configuration, install `pyyaml` or ensure `json` is available (standard library).
+## Configuration In-Depth
 
-## Configuration
+All operational parameters are controlled from `src/soccer_scraper/config.py`.
 
-The scraper is configurable via a separate file for leagues and seasons. By default, use `config.py`, `leagues.json`, or `leagues.yaml` (as per previous instructions). Place this file in the project root.
+| Constant                      | Description                                                                                             |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------- |
+| `MAX_RETRIES`                 | The maximum number of times the scraper will retry a failed network request.                            |
+| `BACKOFF_FACTOR`              | A multiplier that determines how quickly the delay between retries increases (e.g., `2**attempt`).      |
+| `REQUEST_DELAY_RANGE_SECONDS` | A tuple `(min, max)` defining the random waiting period in seconds before each HTTP request.            |
+| `OUTPUT_DIR`                  | The root directory where all scraped data will be saved.                                                |
+| `BASE_URL`                    | The base URL for Transfermarkt, used to construct absolute links from relative paths.                   |
+| `HEADERS`                     | HTTP headers sent with each request to identify the client as a standard web browser.                   |
+| `LEAGUES`                     | The main dictionary defining the scraping tasks. Each key (`name`, `slug`, etc.) is vital for the process. |
 
-### Example `leagues.json` Configuration
-```json
-{
-    "premierleague": {
-        "name": "Premier League",
-        "slug": "premier-league",
-        "code": "GB1",
-        "start_year": 1992
-    },
-    "championship": {
-        "name": "Championship",
-        "slug": "championship",
-        "code": "GB2",
-        "start_year": 2004
-    },
-    "brasileiraoseriea": {
-        "name": "Campeonato Brasileiro Série A",
-        "slug": "campeonato-brasileiro-serie-a",
-        "code": "BRA1",
-        "start_year": 2003
-    }
-    // Add more leagues as needed
-}
-```
+##  Erorr Handling & Logging
 
-- **Keys:** Use a unique name for the league (e.g., "premierleague").
-- **name:** Full league name for HTML section identification.
-- **slug:** URL slug (e.g., "premier-league").
-- **code:** League code (e.g., "GB1").
-- **start_year:** Earliest season to scrape (to avoid incomplete historical data).
+The application is designed to run for long periods without supervision.
+- **Custom Exception**: `ScrapingError` is raised for predictable issues (e.g., failed requests, missing HTML tables). This allows the main loop to catch these errors, log them, and continue to the next item without crashing.
+- **Logging Levels**:
+  - `INFO`: Tracks the main progress of the script (e.g., "Starting processing for league...", "Processing season...").
+  - `WARNING`: Indicates non-critical issues, such as skipping a table row with an unexpected format or being unable to parse a specific data point.
+  - `ERROR`: Reports a failure for a specific task (e.g., processing a single season) that was caught and handled.
+  - `CRITICAL`: Reports a major failure that may have stopped a significant part of the process.
 
-In the script, load this configuration in the `__main__` block (examples provided in code comments).
+## Limitations and Known Issues
 
-Adjust global constants like `OUTPUT_DIR`, `MAX_RETRIES`, `REQUEST_DELAY_RANGE_SECONDS` in the script as needed.
+-   **Website Changes**: The scraper's logic in `parsers.py` is tightly coupled to the HTML structure of Transfermarkt. Any significant change to the website's layout will likely break the parsers and require code updates.
+-   **IP Blocking**: While the scraper is designed to be polite, extremely long and continuous scraping sessions (spanning many hours or days) could still trigger automated blocking from the website. It is recommended to process a few leagues at a time if you encounter connection issues.
+-   **Data Accuracy**: The data is a direct reflection of what is publicly available on Transfermarkt. Its accuracy is subject to the source's own data quality.
 
-## Usage
+## Project Structure
 
-Run the script directly:
-```
-python scraper.py
-```
+soccer_scraper/
+├── .venv/
+├── data/
+│   └── raw/
+├── src/
+│   └── soccer_scraper/
+│       ├── init.py
+│       ├── config.py
+│       ├── exceptions.py
+│       ├── network.py
+│       ├── parsers.py
+│       ├── utils.py
+│       └── main.py
+├── .gitignore
+├── .python-version
+├── main.py
+├── pyproject.toml
+├── README.md
+└── uv.lock
 
-- The script will iterate over all configured leagues and their seasons (from `start_year` to `END_SEASON`).
-- Data is saved to `data/raw/{league}/{season}/` directories.
-- Logs are printed to console; check for warnings/errors.
+## Setup and Installation
 
-### Custom Runs
-- Modify `__main__` to target specific leagues/seasons, e.g.:
-  ```python
-  main(
-      championship_name="premierleague",
-      season_id=2023,
-      league_slug="premier-league",
-      league_code="GB1",
-      league_name="Premier League"
-  )
-  ```
+Follow these steps to set up the project environment.
 
-- For batch processing, use the loop in `__main__`.
+### Prerequisites
 
-### Adding New Leagues
-1. Find the league's slug and code on Transfermarkt (e.g., via browser inspection: standings URL like `/laliga/tabelle/wettbewerb/ES1`).
-2. Add to the configuration file.
-3. Test with a single season to verify selectors work (HTML structure may vary slightly).
+-   [Git](https://git-scm.com/)
+-   [Python](https://www.python.org/) (version 3.9+ recommended)
+-   [pyenv](https://github.com/pyenv/pyenv) (recommended for managing Python versions; it will use the `.python-version` file automatically)
+-   [uv](https://github.com/astral-sh/uv) (an extremely fast Python package installer and resolver)
 
-## Output Structure
+### Installation Steps
 
-- **Root:** `data/raw/`
-- **Per League/Season:** `{league_name}/{season_id}/`
-  - `final_standings/{league_name}_{season_id}_standings.csv`: League-wide standings.
-  - `team_games/{league_name}_{season_id}_{team_name}.csv`: Per-team schedules with columns: round, date, time, home_team, away_team, formation, coach, audience, result, match_link.
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/YOUR_USERNAME/soccer_scraper.git](https://github.com/YOUR_USERNAME/soccer_scraper.git)
+    cd soccer_scraper
+    ```
 
-Example:
-```
-data/raw/
-├── premierleague/
-│   ├── 2023/
-│   │   ├── final_standings/premierleague_2023_standings.csv
-│   │   └── team_games/
-│   │       ├── premierleague_2023_manchestercity.csv
-│   │       └── ... (other teams)
-│   └── 2024/
-│       └── ...
-└── brasileiraoseriea/
-    └── ...
-```
+2.  **Set up the Python environment:**
+    * A virtual environment is crucial for isolating project dependencies. Create one using `uv`:
+        ```bash
+        uv venv
+        ```
 
-## Examples
+3.  **Install dependencies:**
+    * Activate the virtual environment:
+        ```bash
+        source .venv/bin/activate
+        ```
+    * Sync the environment with the exact package versions specified in `uv.lock` for a reproducible setup:
+        ```bash
+        uv sync
+        ```
 
-### Scraping Premier League 2023/24
-Run the script with configuration limited to Premier League. Output: Standings CSV and 20 team schedule CSVs.
+## How to Run
 
-### Extending to Brasileirão
-Add to config:
-```json
-"brasileiraoseriea": {
-    "name": "Campeonato Brasileiro Série A",
-    "slug": "campeonato-brasileiro-serie-a",
-    "code": "BRA1",
-    "start_year": 2003
-}
-```
-Rerun the script.
+The scraper is configured and executed from the project's root directory.
 
-### Handling Errors
-- If a season has no data (e.g., future years), the script logs a warning and skips.
-- For site changes, update selectors in `fetch_team_games` or `fetch_league_standings`.
+1.  **Configure the Scraper**:
+    * Open `src/soccer_scraper/config.py`.
+    * The `LEAGUES` dictionary is the main control panel. Set the `"processed"` key to `"false"` for any league you wish to process.
+    * You can also adjust the `MIN_START_YEAR` in `src/soccer_scraper/main.py` if you wish to limit how far back the scraper goes.
 
-## Troubleshooting
+2.  **Run the Script**:
+    * Ensure your virtual environment is activated.
+    * Execute the main entry point script:
+        ```bash
+        python main.py
+        ```
+    * The script will log its progress to the console.
 
-- **IP Ban:** Increase delays (`REQUEST_DELAY_RANGE_SECONDS`) or use proxies (not implemented; add via `requests` proxies param).
-- **Selector Errors:** If HTML changes, inspect the page (e.g., via browser dev tools) and update BS4 queries.
-- **Empty DataFrames:** Check logs; may indicate incomplete seasons or parsing issues.
-- **Dependencies:** Ensure libraries are installed; use `pip list` to verify.
-- **Rate Limiting:** If 429 errors occur, extend `BACKOFF_FACTOR` or add longer inter-season sleeps.
+## Data Output Schema
 
-For issues, open a GitHub issue with logs and URLs.
+All data is saved within the `data/raw/` directory, following a `league_slug/season_year/` structure.
+
+---
+
+### 1. League Standings
+
+A single file containing the final classification table for a given league and season.
+
+-   **Directory:** `data/raw/{league_slug}/{season_year}/final_standings/`
+-   **Filename:** `{league_slug}_{season_year}_standings.csv`
+-   **Description:** This file represents a snapshot of the complete league table at the end of the season. It is crucial for discovering all participating teams and their respective page URLs for deeper scraping.
+
+| Column            | Type   | Description                                                     | Example         |
+| ----------------- | ------ | --------------------------------------------------------------- | --------------- |
+| `position`        | string | The team's final rank in the table.                             | "1"             |
+| `team`            | string | The full name of the team.                                      | "Manchester City" |
+| `played`          | string | Total number of matches played.                                 | "38"            |
+| `won`             | string | Total number of matches won.                                    | "28"            |
+| `drawn`           | string | Total number of matches drawn.                                  | "7"             |
+| `lost`            | string | Total number of matches lost.                                   | "3"             |
+| `goal_ratio`      | string | Goals for vs. goals against.                                    | "96:34"         |
+| `goal_difference` | string | The final goal difference.                                      | "+62"           |
+| `points`          | string | Total points accumulated.                                       | "91"            |
+| `team_url`        | string | The absolute URL to the team's main page on Transfermarkt.      | "https://..."   |
+
+---
+
+### 2. Team Games
+
+A separate CSV file is created for each team, detailing their full season journey in the league.
+
+-   **Directory:** `data/raw/{league_slug}/{season_year}/team_games/`
+-   **Filename:** `{league_slug}_{season_year}_{sanitized_team_name}.csv`
+-   **Description:** This file provides a match-by-match breakdown for a single team, including tactical information, results, and attendance, offering a granular view of their performance over the season.
+
+| Column      | Type    | Description                                                     | Example                  |
+| ----------- | ------- | --------------------------------------------------------------- | ------------------------ |
+| `round`     | string  | The matchday or round number.                                   | "1"                      |
+| `date`      | string  | The date of the match.                                          | "Sun Aug 18, 2024"       |
+| `time`      | string  | The kickoff time in the local timezone of the site.             | "12:30"                  |
+| `home_team` | string  | The name of the home team.                                      | "Chelsea FC"             |
+| `away_team` | string  | The name of the away team.                                      | "Manchester City"        |
+| `formation` | string  | The tactical formation used by the team.                        | "4-3-3 Attacking"        |
+| `coach`     | string  | The name of the team's coach for that match.                    | "Pep Guardiola"          |
+| `audience`  | integer | The official match attendance.                                  | 55017                    |
+| `result`    | string  | The final score of the match.                                   | "0:2"                    |
+| `match_link`| string  | The absolute URL to the detailed match report on Transfermarkt. | "https://..."            |
 
 ## Contributing
 
-Contributions are welcome! Fork the repo, create a branch, and submit a pull request. Focus on:
-- Adding new leagues.
-- Improving robustness (e.g., parallel processing with threads).
-- Unit tests for parsing functions.
+Contributions are welcome! If you'd like to improve the scraper or add new features, please follow these steps:
 
-Follow PEP 8 style guidelines.
+1.  Fork the repository.
+2.  Create a new feature branch (`git switch -c feature/your-awesome-feature`).
+3.  Commit your changes (`git commit -m "feat: Add your awesome feature"`).
+4.  Push to the branch (`git push origin feature/your-awesome-feature`).
+5.  Open a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.

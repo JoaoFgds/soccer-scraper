@@ -373,7 +373,12 @@ def main(league_name: str, league_slug: str, league_code: str, season_year: int)
     os.makedirs(matches_output_dir, exist_ok=True)
     os.makedirs(standings_output_dir, exist_ok=True)
 
-    standings_url = f"https://www.transfermarkt.com.br/{league_slug}/tabelle/wettbewerb/{league_code}/saison_id/{season_year}"
+    if league_code in ["BRA1", "BRA2"]:
+        season_year_url = season_year - 1
+    else:
+        season_year_url = season_year
+
+    standings_url = f"https://www.transfermarkt.com.br/{league_slug}/tabelle/wettbewerb/{league_code}/saison_id/{season_year_url}"
 
     logging.info(f"Starting data extraction for {league_name} - season {season_year}.")
 
@@ -408,7 +413,7 @@ def main(league_name: str, league_slug: str, league_code: str, season_year: int)
                 safe_team_name = _sanitize_filename(team_name)
                 output_path = os.path.join(
                     matches_output_dir,
-                    f"{league_slug}_{season_year}_{safe_team_name}.csv",
+                    f"{safe_league_slug}_{season_year}_{safe_team_name}.csv",
                 )
                 schedule_df.to_csv(output_path, index=False)
                 logging.info(f"Games for '{team_name}' saved to {output_path}")
@@ -450,63 +455,63 @@ if __name__ == "__main__":
             "slug": "laliga2",
             "code": "ES2",
             "start_year": "2007",
-            "processed": "false",
+            "processed": "true",
         },
         "bundesliga": {
             "name": "Bundesliga",
             "slug": "bundesliga",
             "code": "L1",
             "start_year": "1963",
-            "processed": "false",
+            "processed": "true",
         },
         "2bundesliga": {
             "name": "2. Bundesliga",
             "slug": "2-bundesliga",
             "code": "L2",
             "start_year": "1981",
-            "processed": "false",
+            "processed": "true",
         },
         "seriea": {
             "name": "Serie A",
             "slug": "serie-a",
             "code": "IT1",
             "start_year": "1946",
-            "processed": "false",
+            "processed": "true",
         },
         "serieb": {
             "name": "Serie B",
             "slug": "serie-b",
             "code": "IT2",
             "start_year": "2002",
-            "processed": "false",
+            "processed": "true",
         },
         "ligue1": {
             "name": "Ligue 1",
             "slug": "ligue-1",
             "code": "FR1",
             "start_year": "1948",
-            "processed": "false",
+            "processed": "true",
         },
         "ligue2": {
             "name": "Ligue 2",
             "slug": "ligue-2",
             "code": "FR2",
             "start_year": "1994",
-            "processed": "false",
+            "processed": "true",
         },
         "brasileiraoseriea": {
             "name": "Campeonato Brasileiro Série A",
             "slug": "campeonato-brasileiro-serie-a",
             "code": "BRA1",
             "start_year": "2006",
-            "processed": "false",
+            "processed": "true",
         },
         "brasileiraoserieb": {
             "name": "Campeonato Brasileiro Série B",
             "slug": "campeonato-brasileiro-serie-b",
             "code": "BRA2",
             "start_year": "2009",
-            "processed": "false",
+            "processed": "true",
         },
     }
 
