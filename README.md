@@ -153,7 +153,7 @@ The scraper is configured and executed from the project's root directory.
     * Ensure your virtual environment is activated.
     * Execute the main entry point script:
         ```bash
-        python main.py
+        uv run main.py
         ```
     * The script will log its progress to the console.
 
