@@ -174,11 +174,11 @@ A single file containing the final classification table for a given league and s
 | ----------------- | ------ | --------------------------------------------------------------- | --------------- |
 | `position`        | string | The team's final rank in the table.                             | 1             |
 | `team`            | string | The full name of the team.                                      | Manchester City |
-| `played`          | string | Total number of matches played.                                 | 38"            |
-| `won`             | string | Total number of matches won.                                    | 28"            |
-| `drawn`           | string | Total number of matches drawn.                                  | 7"             |
-| `lost`            | string | Total number of matches lost.                                   | 3"             |
-| `goal_ratio`      | string | Goals for vs. goals against.                                    | 96:34"         |
+| `played`          | string | Total number of matches played.                                 | 38            |
+| `won`             | string | Total number of matches won.                                    | 28            |
+| `drawn`           | string | Total number of matches drawn.                                  | 7             |
+| `lost`            | string | Total number of matches lost.                                   | 3             |
+| `goal_ratio`      | string | Goals for vs. goals against.                                    | 96:34         |
 | `goal_difference` | string | The final goal difference.                                      | 62           |
 | `points`          | string | Total points accumulated.                                       | 91            |
 | `team_url`        | string | The absolute URL to the team's main page on Transfermarkt.      | https://...   |
@@ -204,7 +204,7 @@ A separate CSV file is created for each team, detailing their full season journe
 | `coach`     | string  | The name of the team's coach for that match.                    | Pep Guardiola          |
 | `audience`  | integer | The official match attendance.                                  | 55017                    |
 | `result`    | string  | The final score of the match.                                   | 0:2                    |
-| `match_link`| string  | The absolute URL to the detailed match report on Transfermarkt. | https://..."            |
+| `match_link`| string  | The absolute URL to the detailed match report on Transfermarkt. | https://...            |
 
 ## Contributing
 
