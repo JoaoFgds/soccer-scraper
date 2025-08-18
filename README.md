@@ -82,13 +82,14 @@ The application is designed to run for long periods without supervision.
 
 ## Project Structure
 
+```bash
 soccer_scraper/
 ├── .venv/
 ├── data/
 │   └── raw/
 ├── src/
 │   └── soccer_scraper/
-│       ├── init.py
+│       ├── __init__.py
 │       ├── config.py
 │       ├── exceptions.py
 │       ├── network.py
@@ -101,6 +102,7 @@ soccer_scraper/
 ├── pyproject.toml
 ├── README.md
 └── uv.lock
+```
 
 ## Setup and Installation
 
@@ -170,16 +172,16 @@ A single file containing the final classification table for a given league and s
 
 | Column            | Type   | Description                                                     | Example         |
 | ----------------- | ------ | --------------------------------------------------------------- | --------------- |
-| `position`        | string | The team's final rank in the table.                             | "1"             |
-| `team`            | string | The full name of the team.                                      | "Manchester City" |
-| `played`          | string | Total number of matches played.                                 | "38"            |
-| `won`             | string | Total number of matches won.                                    | "28"            |
-| `drawn`           | string | Total number of matches drawn.                                  | "7"             |
-| `lost`            | string | Total number of matches lost.                                   | "3"             |
-| `goal_ratio`      | string | Goals for vs. goals against.                                    | "96:34"         |
-| `goal_difference` | string | The final goal difference.                                      | "+62"           |
-| `points`          | string | Total points accumulated.                                       | "91"            |
-| `team_url`        | string | The absolute URL to the team's main page on Transfermarkt.      | "https://..."   |
+| `position`        | string | The team's final rank in the table.                             | 1             |
+| `team`            | string | The full name of the team.                                      | Manchester City |
+| `played`          | string | Total number of matches played.                                 | 38"            |
+| `won`             | string | Total number of matches won.                                    | 28"            |
+| `drawn`           | string | Total number of matches drawn.                                  | 7"             |
+| `lost`            | string | Total number of matches lost.                                   | 3"             |
+| `goal_ratio`      | string | Goals for vs. goals against.                                    | 96:34"         |
+| `goal_difference` | string | The final goal difference.                                      | 62           |
+| `points`          | string | Total points accumulated.                                       | 91            |
+| `team_url`        | string | The absolute URL to the team's main page on Transfermarkt.      | https://...   |
 
 ---
 
@@ -193,16 +195,16 @@ A separate CSV file is created for each team, detailing their full season journe
 
 | Column      | Type    | Description                                                     | Example                  |
 | ----------- | ------- | --------------------------------------------------------------- | ------------------------ |
-| `round`     | string  | The matchday or round number.                                   | "1"                      |
-| `date`      | string  | The date of the match.                                          | "Sun Aug 18, 2024"       |
-| `time`      | string  | The kickoff time in the local timezone of the site.             | "12:30"                  |
-| `home_team` | string  | The name of the home team.                                      | "Chelsea FC"             |
-| `away_team` | string  | The name of the away team.                                      | "Manchester City"        |
-| `formation` | string  | The tactical formation used by the team.                        | "4-3-3 Attacking"        |
-| `coach`     | string  | The name of the team's coach for that match.                    | "Pep Guardiola"          |
+| `round`     | string  | The matchday or round number.                                   | 1                      |
+| `date`      | string  | The date of the match.                                          | Sun Aug 18, 2024      |
+| `time`      | string  | The kickoff time in the local timezone of the site.             | 12:30                  |
+| `home_team` | string  | The name of the home team.                                      | Chelsea FC             |
+| `away_team` | string  | The name of the away team.                                      | Manchester City        |
+| `formation` | string  | The tactical formation used by the team.                        | 4-3-3 Attacking        |
+| `coach`     | string  | The name of the team's coach for that match.                    | Pep Guardiola          |
 | `audience`  | integer | The official match attendance.                                  | 55017                    |
-| `result`    | string  | The final score of the match.                                   | "0:2"                    |
-| `match_link`| string  | The absolute URL to the detailed match report on Transfermarkt. | "https://..."            |
+| `result`    | string  | The final score of the match.                                   | 0:2                    |
+| `match_link`| string  | The absolute URL to the detailed match report on Transfermarkt. | https://..."            |
 
 ## Contributing
 
