@@ -118,10 +118,11 @@ Follow these steps to set up the project environment.
 ### Installation Steps
 
 1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/YOUR_USERNAME/soccer_scraper.git](https://github.com/YOUR_USERNAME/soccer_scraper.git)
-    cd soccer_scraper
-    ```
+    * Command:
+        ```bash
+        git clone [https://github.com/YOUR_USERNAME/soccer_scraper.git](https://github.com/YOUR_USERNAME/soccer_scraper.git)
+        cd soccer_scraper
+        ```
 
 2.  **Set up the Python environment:**
     * A virtual environment is crucial for isolating project dependencies. Create one using `uv`:
