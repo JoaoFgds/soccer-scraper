@@ -11,7 +11,3 @@ dependencies = [
     "pandas>=2.3.1",
     "requests>=2.32.4",
 ]
-
-[project.readme]
-file = "README.md"
-content-type = "text/markdown"

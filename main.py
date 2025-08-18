@@ -1,12 +1,13 @@
-import logging
 import os
-import random
 import re
 import time
-from typing import Dict, List
-
-import pandas as pd
+import random
+import logging
 import requests
+import unicodedata
+import pandas as pd
+
+from typing import Dict, List
 from bs4 import BeautifulSoup, Tag
 from urllib.parse import urljoin
 
@@ -30,45 +31,88 @@ HEADERS = {
 
 
 class ScrapingError(Exception):
-    """Custom exception for errors encountered during the scraping process."""
+    """
+    Custom exception for predictable errors during the scraping process.
+
+    This exception is intended to be raised when a scraping operation fails
+    for a specific, anticipated reason, such as an HTTP request failure after
+    all retries or a required HTML element not being found on the page.
+
+    Using a specific exception type allows for more granular error handling
+    in the application's main control flow, distinguishing scraping-related
+    failures from other unexpected programming errors.
+
+    Example:
+        try:
+            standings_df = fetch_league_standings(url)
+        except ScrapingError as e:
+            logging.error(f"Could not scrape standings: {e}")
+            # The application can then handle the failure gracefully.
+    """
 
     pass
 
 
 def _sanitize_filename(text: str) -> str:
     """
-    Cleans a string to be used as a safe filename.
+    Cleans and sanitizes a string to be used as a single-word, safe filename.
 
-    Replaces spaces with underscores, converts to lowercase, and removes all
-    characters that are not alphanumeric or underscores.
+    This function performs the following steps:
+    1.  Normalizes Unicode characters to remove accents (e.g., 'ç' -> 'c').
+    2.  Converts the string to lowercase.
+    3.  Removes any character that is not a letter, number, whitespace, or hyphen.
+    4.  Removes all remaining spaces and hyphens, concatenating the string into a single word.
 
     Args:
         text: The original string to be cleaned.
 
     Returns:
-        A clean and safe string for use in filenames.
+        A clean, single-word, and safe string for use in filenames.
     """
-    text = text.lower().replace(" ", "").replace("-2004", "")
-    return re.sub(r"(?u)[^-\w.]", "", text)
+    text = str(text)
+    text = unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode("utf-8")
+    text = text.lower()
+    text = re.sub(r"[^\w\s-]", "", text)
+    text = re.sub(r"[\s-]+", "", text)
+
+    return text
 
 
 def fetch_soup(url: str) -> BeautifulSoup:
     """
-    Performs an HTTP GET request and returns a BeautifulSoup object.
+    Performs a robust HTTP GET request and returns a parsed BeautifulSoup object.
 
-    Implements a randomized delay between requests and an exponential backoff
-    retry logic to handle server errors or rate limiting, enhancing the
-    scraper's robustness.
+    This is the central function for all web requests in the scraper. It is
+    designed to be resilient and respectful to the target server by incorporating
+    several key features:
+
+    1.  **Politeness Delay**: A randomized delay (configured by module-level
+        constants) is enforced before each request to mimic human-like
+        browsing patterns and avoid overwhelming the server.
+
+    2.  **Automatic Retries with Exponential Backoff**: The function will
+        automatically retry requests if it encounters transient issues. The
+        waiting time between retries increases exponentially to give the
+        server time to recover.
+
+    Retries are attempted for the following conditions:
+    -   Rate limiting errors (HTTP 429).
+    -   Server availability errors (HTTP 503).
+    -   General network connection errors (e.g., DNS failure, connection refused).
+
+    The function will fail immediately for non-transient HTTP errors such as
+    'Not Found' (404) or 'Forbidden' (403), as retrying these is futile.
 
     Args:
-        url: The URL of the website to fetch.
+        url (str): The URL of the website to fetch.
 
     Returns:
-        A BeautifulSoup object containing the parsed HTML of the page.
+        BeautifulSoup: A BeautifulSoup object containing the parsed HTML of the
+            successfully fetched page.
 
     Raises:
-        ScrapingError: If a network error or an unrecoverable HTTP status
-                       error occurs after exhausting all retries.
+        ScrapingError: If a non-retriable HTTP error occurs, or if all retry
+            attempts for a transient error are exhausted.
     """
     delay = random.uniform(*REQUEST_DELAY_RANGE_SECONDS)
     time.sleep(delay)
@@ -112,17 +156,27 @@ def fetch_league_standings(standings_url: str) -> pd.DataFrame:
     """
     Extracts the league standings table from a competition page.
 
-    Also captures the URL for each team's page, which is essential for
-    discovering the schedule pages.
+    This function serves as a foundational step in the scraping process. It
+    parses the main classification table for a given league and season to
+    gather essential information about each participating team.
+
+    The extracted data includes both the statistical standings (points, wins,
+    goals, etc.) and, critically, the unique URL to each team's homepage on
+    Transfermarkt. This URL is required by other functions to locate more
+    detailed data, such as individual team schedules.
 
     Args:
-        standings_url: The URL of the league standings page.
+        standings_url (str): The URL of the league standings page.
 
     Returns:
-        A pandas DataFrame containing the standings data and team URLs.
+        pd.DataFrame: A pandas DataFrame containing the standings data. The
+            DataFrame includes the following columns: 'position', 'team',
+            'played', 'won', 'drawn', 'lost', 'goal_ratio', 'goal_difference',
+            'points', and 'team_url'.
 
     Raises:
-        ScrapingError: If the standings table is not found in the HTML.
+        ScrapingError: If the main standings table (class='items') cannot be
+            found in the page's HTML.
     """
     soup = fetch_soup(standings_url)
     table_data = []
@@ -168,37 +222,47 @@ def fetch_league_standings(standings_url: str) -> pd.DataFrame:
     return pd.DataFrame(table_data)
 
 
-def fetch_team_games(calendar_url: str) -> pd.DataFrame:
+def fetch_team_games(
+    calendar_url: str, league_name: str, league_code: str
+) -> pd.DataFrame:
     """
-    Extracts a team's match schedule from its specific calendar page.
+    Extracts a team's match schedule for a specific league from its calendar page.
 
-    This function follows a defined logic to find the schedule table: it first
-    attempts to locate a div with the id 'GB1'. If that fails, it falls back to
-    finding an h2 element containing 'Premier League' and then selects the
-    next adjacent table element.
+    This function employs a two-step strategy to locate the correct schedule
+    table on the provided page. It first attempts to find the table's container
+    directly by searching for a div element whose ID matches the `league_code`.
+    If this primary method fails, it uses a fallback search: it scans all `<h2>`
+    headings for the `league_name` and then selects the first table that
+    follows the correct heading.
 
     Args:
-        calendar_url: The URL of the team's schedule page.
+        calendar_url (str): The full URL of the team's schedule ('spielplan') page.
+        league_name (str): The human-readable name of the league (e.g., "Premier League"),
+            used in the fallback search to find the correct section.
+        league_code (str): The unique competition code from Transfermarkt (e.g., "GB1"),
+            used as the primary method to find the schedule table.
 
     Returns:
-        A pandas DataFrame containing the details of each match found.
+        pd.DataFrame: A pandas DataFrame containing the details of each match,
+            including round, date, teams, result, and more.
 
     Raises:
-        ValueError: If the competition section or the schedule table cannot be found.
+        ValueError: If both the primary and fallback search methods fail to
+            locate the schedule table.
     """
     soup = fetch_soup(calendar_url)
     match_data_list = []
 
-    competition_section = soup.find("div", id="GB2")
+    competition_section = soup.find("div", id=league_code)
     schedule_table = None
     if not competition_section:
         h2_tags = soup.find_all("h2")
         for h2 in h2_tags:
-            if "Championship" in h2.text:
+            if league_name in h2.text:
                 schedule_table = h2.find_next("table")
                 break
         else:
-            raise ValueError("Premier League section not found.")
+            raise ValueError(f"{league_name} section not found.")
     else:
         schedule_table = competition_section.find("table")
 
@@ -272,37 +336,55 @@ def fetch_team_games(calendar_url: str) -> pd.DataFrame:
     return pd.DataFrame(match_data_list)
 
 
-def main(championship_name: str, season_id: int):
+def main(league_name: str, league_slug: str, league_code: str, season_year: int):
     """
-    Main entry point for the scraping script.
+    Orchestrates the scraping process for a single league and season.
 
-    Orchestrates the process of fetching the league standings to discover all
-    teams, then individually scrapes the full schedule for each team.
+    This function serves as the main workflow controller. It takes league and
+    season identifiers to perform a series of scraping tasks:
+    1.  Fetches the main league standings table to identify all participating teams
+        and their respective URLs.
+    2.  Saves the complete league standings to a dedicated CSV file.
+    3.  Iterates through each team, constructing the URL for its detailed
+        match schedule page.
+    4.  Scrapes the schedule for each team and saves the data to a separate
+        CSV file.
+    5.  All outputs are organized into a structured directory based on the league
+        and season. Errors during the process are logged without halting the
+        entire execution.
 
     Args:
-        championship_name: The name of the championship for directory structuring.
-        season_id: The starting year of the season to be processed (e.g., 2023).
+        league_name (str): The human-readable name of the league, used for
+            logging and informational purposes (e.g., "Premier League").
+        league_slug (str): The URL-friendly slug for the league, used in
+            constructing URLs and file paths (e.g., "premier-league").
+        league_code (str): The unique competition code used by Transfermarkt
+            (e.g., "GB1").
+        season_year (int): The starting year of the season to be processed
+            (e.g., 2023 for the 2023/24 season).
     """
-    season_output_dir = os.path.join(OUTPUT_DIR, championship_name, str(season_id))
+
+    safe_league_slug = _sanitize_filename(league_slug)
+
+    season_output_dir = os.path.join(OUTPUT_DIR, safe_league_slug, str(season_year))
     matches_output_dir = os.path.join(season_output_dir, "team_games")
     standings_output_dir = os.path.join(season_output_dir, "final_standings")
 
     os.makedirs(matches_output_dir, exist_ok=True)
     os.makedirs(standings_output_dir, exist_ok=True)
 
-    standings_url = f"https://www.transfermarkt.com.br/championship/tabelle/wettbewerb/GB2/saison_id/{season_id}"
+    standings_url = f"https://www.transfermarkt.com.br/{league_slug}/tabelle/wettbewerb/{league_code}/saison_id/{season_year}"
 
-    logging.info(
-        f"Starting data extraction for {championship_name}, season {season_id}."
-    )
+    logging.info(f"Starting data extraction for {league_name} - season {season_year}.")
 
     try:
         standings_df = fetch_league_standings(standings_url)
         logging.info(f"Found {len(standings_df)} teams in the league table.")
+        logging.info(f"Link: '{standings_url}'.")
 
         standings_path = os.path.join(
             standings_output_dir,
-            f"{championship_name}_{season_id}_standings.csv",
+            f"{safe_league_slug}_{season_year}_standings.csv",
         )
         standings_df.to_csv(standings_path, index=False)
         logging.info(f"League standings saved to {standings_path}")
@@ -315,23 +397,23 @@ def main(championship_name: str, season_id: int):
                 logging.warning(f"No URL found for team '{team_name}'. Skipping.")
                 continue
 
-            schedule_url = f"{team_url.replace('/startseite/', '/spielplan/')}/saison_id/{season_id}/plus/1#GB2"
+            schedule_url = f"{team_url.replace('/startseite/', '/spielplan/')}/plus/1#{league_code}"
 
-            logging.info(f"Fetching schedule for '{team_name}'.")
-            logging.info(f"Schedule link: '{schedule_url}'.")
+            logging.info(f"Fetching games for '{team_name}'.")
+            logging.info(f"Link: '{schedule_url}'.")
 
-            schedule_df = fetch_team_games(schedule_url)
+            schedule_df = fetch_team_games(schedule_url, league_name, league_code)
 
             if not schedule_df.empty:
                 safe_team_name = _sanitize_filename(team_name)
                 output_path = os.path.join(
                     matches_output_dir,
-                    f"{championship_name}_{season_id}_{safe_team_name}.csv",
+                    f"{league_slug}_{season_year}_{safe_team_name}.csv",
                 )
                 schedule_df.to_csv(output_path, index=False)
-                logging.info(f"Schedule for '{team_name}' saved to {output_path}")
+                logging.info(f"Games for '{team_name}' saved to {output_path}")
             else:
-                logging.warning(f"Could not extract schedule for '{team_name}'.")
+                logging.warning(f"Could not extract games for '{team_name}'.")
 
     except ScrapingError as e:
         logging.critical(f"A critical error occurred: {e}")
@@ -340,10 +422,140 @@ def main(championship_name: str, season_id: int):
 
 
 if __name__ == "__main__":
-    CHAMPIONSHIP = "championship"
-    START_SEASON = 2004
-    END_SEASON = 2023
-    for season_id in range(START_SEASON, END_SEASON + 1):
-        main(championship_name=CHAMPIONSHIP, season_id=season_id)
-        time.sleep(60)
-        print("\n")
+
+    leagues_dict = {
+        "premierleague": {
+            "name": "Premier League",
+            "slug": "premier-league",
+            "code": "GB1",
+            "start_year": "1992",
+            "processed": "true",
+        },
+        "championship": {
+            "name": "Championship",
+            "slug": "championship",
+            "code": "GB2",
+            "start_year": "2004",
+            "processed": "true",
+        },
+        "laliga": {
+            "name": "LaLiga",
+            "slug": "laliga",
+            "code": "ES1",
+            "start_year": "2000",
+            "processed": "true",
+        },
+        "laliga2": {
+            "name": "LaLiga2",
+            "slug": "laliga2",
+            "code": "ES2",
+            "start_year": "2007",
+            "processed": "false",
+        },
+        "bundesliga": {
+            "name": "Bundesliga",
+            "slug": "bundesliga",
+            "code": "L1",
+            "start_year": "1963",
+            "processed": "false",
+        },
+        "2bundesliga": {
+            "name": "2. Bundesliga",
+            "slug": "2-bundesliga",
+            "code": "L2",
+            "start_year": "1981",
+            "processed": "false",
+        },
+        "seriea": {
+            "name": "Serie A",
+            "slug": "serie-a",
+            "code": "IT1",
+            "start_year": "1946",
+            "processed": "false",
+        },
+        "serieb": {
+            "name": "Serie B",
+            "slug": "serie-b",
+            "code": "IT2",
+            "start_year": "2002",
+            "processed": "false",
+        },
+        "ligue1": {
+            "name": "Ligue 1",
+            "slug": "ligue-1",
+            "code": "FR1",
+            "start_year": "1948",
+            "processed": "false",
+        },
+        "ligue2": {
+            "name": "Ligue 2",
+            "slug": "ligue-2",
+            "code": "FR2",
+            "start_year": "1994",
+            "processed": "false",
+        },
+        "brasileiraoseriea": {
+            "name": "Campeonato Brasileiro Série A",
+            "slug": "campeonato-brasileiro-serie-a",
+            "code": "BRA1",
+            "start_year": "2006",
+            "processed": "false",
+        },
+        "brasileiraoserieb": {
+            "name": "Campeonato Brasileiro Série B",
+            "slug": "campeonato-brasileiro-serie-b",
+            "code": "BRA2",
+            "start_year": "2009",
+            "processed": "false",
+        },
+    }
+
+    FINAL_YEAR = 2024
+    MIN_START_YEAR = 1990
+
+    for league_key, league_info in leagues_dict.items():
+
+        if league_info["processed"] == "false":
+
+            league_name = league_info["name"]
+            league_slug = league_info["slug"]
+            league_code = league_info["code"]
+            start_year = int(league_info["start_year"])
+
+            if start_year < MIN_START_YEAR:
+                start_year = MIN_START_YEAR
+
+            logging.info(f"--- Starting processing for league: {league_name} ---")
+
+            for year in range(start_year, FINAL_YEAR + 1):
+                logging.info(f"Processing season: {year}")
+
+                try:
+                    main(
+                        league_name=league_name,
+                        league_slug=league_slug,
+                        league_code=league_code,
+                        season_year=year,
+                    )
+                except Exception as e:
+                    logging.error(
+                        f"An error occurred while processing {league_name} - {year}: {e}"
+                    )
+                    continue
+
+                logging.info("Waiting 30 seconds before the next season...")
+                time.sleep(30)
+                print("\n")
+
+            leagues_dict[league_key]["processed"] = "true"
+            logging.info(
+                f"--- Finished processing for league: {league_name}. Status updated. ---"
+            )
+
+            logging.info("Waiting 2 minutes before the next league...")
+            time.sleep(120)
+
+        else:
+            logging.info(f"League '{league_info['name']}' already processed. Skipping.")
+
+    logging.info("--- All leagues have been processed. ---")
