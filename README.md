@@ -36,6 +36,9 @@ This project has successfully scraped and processed historical data for the foll
 | Serie B                            | Italy   | 2002-2024       |
 | Ligue 1                            | France  | 1990-2024       |
 | Ligue 2                            | France  | 1994-2024       |
+| Liga Portugal                      | Portugal| 1996-2024       |
+| Liga Portugal 2                    | Portugal| 2007-2024       |
+| Ligue 2                            | France  | 1994-2024       |
 | Campeonato Brasileiro Série A      | Brazil  | 2006-2024       |
 | Campeonato Brasileiro Série B      | Brazil  | 2009-2024       |
 
@@ -88,7 +91,7 @@ soccer_scraper/
 ├── data/
 │   └── raw/
 ├── src/
-│   └── soccer_scraper/
+│   └── scraper/
 │       ├── __init__.py
 │       ├── config.py
 │       ├── exceptions.py
