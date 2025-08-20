@@ -128,14 +128,14 @@ LEAGUES = {
         "slug": "j1-league",
         "code": "JAP1",
         "start_year": "2005",
-        "processed": "false",
+        "processed": "true",
     },
     "j2league": {
         "name": "J2 League",
         "slug": "j2-league",
         "code": "JAP2",
         "start_year": "2010",
-        "processed": "false",
+        "processed": "true",
     },
     "superlig": {
         "name": "Süper Lig",
