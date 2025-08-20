@@ -38,11 +38,11 @@ This project has successfully scraped and processed historical data for the foll
 | Ligue 2                            | France  | 1994-2024       |
 | Liga Portugal                      | Portugal| 1996-2024       |
 | Liga Portugal 2                    | Portugal| 2007-2024       |
-| Jupiler Pro League                 | Bélgica | 2008-2024       |
-| Challenger Pro League              | Bélgica | 2006-2024       |
-| J1 League                          | Japão   | 2005-2024       |
-| J2 League                          | Japão   | 2010-2024       |
-| Super Lig                          | Turquia | 2014-2024       |
+| Jupiler Pro League                 | Belgium | 2008-2024       |
+| Challenger Pro League              | Belgium | 2006-2024       |
+| J1 League                          | Japan   | 2005-2024       |
+| J2 League                          | Japan   | 2010-2024       |
+| Super Lig                          | Turkey  | 2014-2024       |
 | Campeonato Brasileiro Série A      | Brazil  | 2006-2024       |
 | Campeonato Brasileiro Série B      | Brazil  | 2009-2024       |
 
