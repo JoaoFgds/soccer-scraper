@@ -38,7 +38,11 @@ This project has successfully scraped and processed historical data for the foll
 | Ligue 2                            | France  | 1994-2024       |
 | Liga Portugal                      | Portugal| 1996-2024       |
 | Liga Portugal 2                    | Portugal| 2007-2024       |
-| Ligue 2                            | France  | 1994-2024       |
+| Jupiler Pro League                 | Bélgica | 2008-2024       |
+| Challenger Pro League              | Bélgica | 2006-2024       |
+| J1 League                          | Japão   | 2005-2024       |
+| J2 League                          | Japão   | 2010-2024       |
+| Super Lig                          | Turquia | 2014-2024       |
 | Campeonato Brasileiro Série A      | Brazil  | 2006-2024       |
 | Campeonato Brasileiro Série B      | Brazil  | 2009-2024       |
 
@@ -46,16 +50,16 @@ This project has successfully scraped and processed historical data for the foll
 
 To meet the goal of being a robust and maintainable application, the project's code is divided into several modules, each with a single responsibility. The data flows between these modules in a logical sequence.
 
--   `src/soccer_scraper/config.py`: The single source of truth for all operational parameters. It holds constants like request headers, retry settings, and the main `LEAGUES` dictionary that defines the scope of the scraping tasks. No other module should contain hardcoded configuration values.
--   `src/soccer_scraper/network.py`: The communication layer. Its primary function, `fetch_soup`, handles all outgoing HTTP requests, embedding the politeness delay and exponential backoff logic. It is the only module that directly interacts with the internet. It uses parameters from `config.py` and raises exceptions from `exceptions.py`.
--   `src/soccer_scraper/parsers.py`: The core "brain" of the scraper. This module contains functions (`fetch_league_standings`, `fetch_team_games`) responsible for taking raw HTML content (provided by `network.py`) and parsing it with BeautifulSoup to extract structured data into pandas DataFrames. The logic here is specific to Transfermarkt's HTML structure.
--   `src/soccer_scraper/utils.py`: A toolbox for common, reusable tasks. It contains helper functions like `sanitize_filename` that are used across different parts of the application to ensure consistent data cleaning.
--   `src/soccer_scraper/exceptions.py`: Defines custom exceptions like `ScrapingError`. This allows the application to differentiate between predictable scraping failures (e.g., a table not found) and general Python errors.
--   `main.py` (and `src/soccer_scraper/main.py`): The central orchestrator. These modules do not contain any low-level scraping logic. Instead, they import components from the other modules and execute the high-level workflow: reading the configuration, looping through leagues and seasons, calling the appropriate parsers, handling errors, and saving the results.
+-   `src/scraper/config.py`: The single source of truth for all operational parameters. It holds constants like request headers, retry settings, and the main `LEAGUES` dictionary that defines the scope of the scraping tasks. No other module should contain hardcoded configuration values.
+-   `src/scraper/network.py`: The communication layer. Its primary function, `fetch_soup`, handles all outgoing HTTP requests, embedding the politeness delay and exponential backoff logic. It is the only module that directly interacts with the internet. It uses parameters from `config.py` and raises exceptions from `exceptions.py`.
+-   `src/scraper/parsers.py`: The core "brain" of the scraper. This module contains functions (`fetch_league_standings`, `fetch_team_games`) responsible for taking raw HTML content (provided by `network.py`) and parsing it with BeautifulSoup to extract structured data into pandas DataFrames. The logic here is specific to Transfermarkt's HTML structure.
+-   `src/scraper/utils.py`: A toolbox for common, reusable tasks. It contains helper functions like `sanitize_filename` that are used across different parts of the application to ensure consistent data cleaning.
+-   `src/scraper/exceptions.py`: Defines custom exceptions like `ScrapingError`. This allows the application to differentiate between predictable scraping failures (e.g., a table not found) and general Python errors.
+-   `main.py` (and `src/scraper/main.py`): The central orchestrator. These modules do not contain any low-level scraping logic. Instead, they import components from the other modules and execute the high-level workflow: reading the configuration, looping through leagues and seasons, calling the appropriate parsers, handling errors, and saving the results.
 
 ## Configuration In-Depth
 
-All operational parameters are controlled from `src/soccer_scraper/config.py`.
+All operational parameters are controlled from `src/scraper/config.py`.
 
 | Constant                      | Description                                                                                             |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------- |
@@ -148,9 +152,9 @@ Follow these steps to set up the project environment.
 The scraper is configured and executed from the project's root directory.
 
 1.  **Configure the Scraper**:
-    * Open `src/soccer_scraper/config.py`.
+    * Open `src/scraper/config.py`.
     * The `LEAGUES` dictionary is the main control panel. Set the `"processed"` key to `"false"` for any league you wish to process.
-    * You can also adjust the `MIN_START_YEAR` in `src/soccer_scraper/main.py` if you wish to limit how far back the scraper goes.
+    * You can also adjust the `MIN_START_YEAR` in `src/scraper/main.py` if you wish to limit how far back the scraper goes.
 
 2.  **Run the Script**:
     * Ensure your virtual environment is activated.
