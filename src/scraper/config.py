@@ -144,4 +144,18 @@ LEAGUES = {
         "start_year": "2014",
         "processed": "true",
     },
+    "saudiproleague": {
+        "name": "Saudi Pro League",
+        "slug": "saudi-pro-league",
+        "code": "SA1",
+        "start_year": "2014",
+        "processed": "true",
+    },
+    "ligadeprimera": {
+        "name": "Liga de Primera",
+        "slug": "liga-de-primera",
+        "code": "CLPD",
+        "start_year": "2018",
+        "processed": "true",
+    },
 }

@@ -6,7 +6,7 @@ import logging
 from . import config
 from .utils import sanitize_filename
 from .exceptions import ScrapingError
-from .parsers import fetch_league_standings, fetch_team_games
+from .parsers import fetch_league_standings, fetch_team_schedules
 
 logging.basicConfig(
     level=logging.INFO,
@@ -56,7 +56,7 @@ def run_scraper_for_season(
     os.makedirs(matches_output_dir, exist_ok=True)
     os.makedirs(standings_output_dir, exist_ok=True)
 
-    if league_code in ["BRA1", "BRA2", "JAP1", "JAP2"]:
+    if league_code in ["BRA1", "BRA2", "JAP1", "JAP2", "CLPD"]:
         season_year_url = season_year - 1
     else:
         season_year_url = season_year
@@ -90,7 +90,7 @@ def run_scraper_for_season(
             logging.info(f"Fetching games for '{team_name}'.")
             logging.info(f"Link: '{schedule_url}'.")
 
-            schedule_df = fetch_team_games(schedule_url, league_name, league_code)
+            schedule_df = fetch_team_schedules(schedule_url, league_name, league_code)
 
             if not schedule_df.empty:
                 safe_team_name = sanitize_filename(team_name)

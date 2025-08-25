@@ -81,7 +81,7 @@ def fetch_league_standings(standings_url: str) -> pd.DataFrame:
     return pd.DataFrame(table_data)
 
 
-def fetch_team_games(
+def fetch_team_schedules(
     calendar_url: str, league_name: str, league_code: str
 ) -> pd.DataFrame:
     """
