@@ -14,11 +14,8 @@ PROCESSED_DATA_DIR = DATA_DIR / "processed"
 # Ensure processed data directory exists
 PROCESSED_DATA_DIR.mkdir(parents=True, exist_ok=True)
 
-# Output file paths
-STANDINGS_CONCAT_CSV = PROCESSED_DATA_DIR / "final_standings_processed.csv"
-SCHEDULES_CONCAT_CSV = PROCESSED_DATA_DIR / "team_schedules_processed.csv"
-ATTENDANCE_CONCAT_CSV = PROCESSED_DATA_DIR / "attendance_summary_processed.csv"
-FINAL_JSON = PROCESSED_DATA_DIR / "standings_summary.json"
+# Output file path
+FINAL_STANDINGS_SUMMARY_CSV = PROCESSED_DATA_DIR / "final_standings_summary.csv"
 
 
 def configure_logging():
