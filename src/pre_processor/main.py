@@ -13,45 +13,79 @@ logger = logging.getLogger(__name__)
 def pre_processor_pipeline():
     """
     Main entry point for the pre-processing workflow.
-    Generates a summary of standings data and saves it to a CSV file.
+    Generates summary, valid, and complete standings files.
     """
     logger.info("--- Starting Data Pre-processing Workflow ---")
+
+    # Initialize dataframes to ensure they are available in the broader scope
+    summary_df = pd.DataFrame()
+    complete_standings_df = pd.DataFrame()
+    valid_standings_ref_df = pd.DataFrame()
+
+    # --- Task 1: Generate Summary and Valid Standings Files ---
     summary_df = processors.create_standings_summary()
 
     if not summary_df.empty:
-        # Save the full summary file
         summary_df.to_csv(config.FINAL_STANDINGS_SUMMARY_CSV, index=False)
         logger.info(
             f"Final standings summary saved to: {config.FINAL_STANDINGS_SUMMARY_CSV.relative_to(config.BASE_DIR)}"
         )
 
-        # Filter for valid seasons
         valid_standings_df = summary_df[
             (summary_df["is_valid_url"])
             & (summary_df["is_double_rounded"])
             & (summary_df["is_valid_attendance"])
         ]
 
-        # Select and save the reference file for valid leagues
         if not valid_standings_df.empty:
             valid_cols = ["source_id", "source_csv_file", "league_name", "season_year"]
-            valid_standings_ref_df = valid_standings_df[valid_cols]
-
+            valid_standings_ref_df = valid_standings_df[valid_cols].copy()
             valid_standings_ref_df.to_csv(config.FINAL_STANDINGS_VALID_CSV, index=False)
-
-            logger.info(
-                f"Successfully saved {len(valid_standings_ref_df)} valid seasons."
-            )
             logger.info(
                 f"Reference file for valid standings saved to: {config.FINAL_STANDINGS_VALID_CSV.relative_to(config.BASE_DIR)}"
+            )
+            logger.info(
+                f"Successfully saved {len(valid_standings_ref_df)} valid seasons."
             )
         else:
             logger.warning(
                 "No seasons passed all validation criteria. 'final_standings_valid.csv' will not be created."
             )
-
     else:
         logger.warning("No summary data was generated.")
+
+    # --- Task 2: Generate the Complete, Enriched Standings File ---
+    complete_standings_df = processors.create_standings_complete()
+
+    if not complete_standings_df.empty:
+        complete_standings_df.to_csv(config.FINAL_STANDINGS_COMPLETE_CSV, index=False)
+        logger.info(
+            f"Complete standings file saved to: {config.FINAL_STANDINGS_COMPLETE_CSV.relative_to(config.BASE_DIR)}"
+        )
+    else:
+        logger.warning("No complete standings data was generated.")
+
+    # --- Task 3: Filter Complete Standings to Create a Validated Version ---
+    if not complete_standings_df.empty and not valid_standings_ref_df.empty:
+        # Get the list of valid source_ids
+        valid_source_ids = valid_standings_ref_df["source_id"].unique()
+
+        # Filter the complete dataframe
+        final_valid_df = complete_standings_df[
+            complete_standings_df["source_id"].isin(valid_source_ids)
+        ].copy()
+
+        final_valid_df.to_csv(config.FINAL_STANDINGS_COMPLETE_VALID_CSV, index=False)
+        logger.info(
+            f"Validated complete standings file saved to: {config.FINAL_STANDINGS_COMPLETE_VALID_CSV.relative_to(config.BASE_DIR)}"
+        )
+        logger.info(
+            f"Successfully saved {len(final_valid_df)} rows in the validated complete file."
+        )
+    else:
+        logger.warning(
+            "Could not create 'final_standings_complete_valid.csv' due to missing source data."
+        )
 
     logger.info("--- Data Pre-processing Workflow Complete ---")
 

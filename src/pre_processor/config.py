@@ -17,6 +17,10 @@ PROCESSED_DATA_DIR.mkdir(parents=True, exist_ok=True)
 # Output file paths
 FINAL_STANDINGS_SUMMARY_CSV = PROCESSED_DATA_DIR / "final_standings_summary.csv"
 FINAL_STANDINGS_VALID_CSV = PROCESSED_DATA_DIR / "final_standings_valid.csv"
+FINAL_STANDINGS_COMPLETE_CSV = PROCESSED_DATA_DIR / "final_standings_complete.csv"
+FINAL_STANDINGS_COMPLETE_VALID_CSV = (
+    PROCESSED_DATA_DIR / "final_standings_complete_valid.csv"
+)
 
 
 def configure_logging():

@@ -137,7 +137,7 @@ def process_season_data(standings_file: Path) -> dict | None:
         return None
 
 
-def create_standings_summary():
+def create_standings_summary() -> pd.DataFrame:
     """
     Orchestrates the processing of all league standings to create a unified summary.
 
@@ -171,3 +171,89 @@ def create_standings_summary():
     summary_df = pd.DataFrame(summary_data)
     logger.info(f"Successfully created summary for {len(summary_df)} seasons.")
     return summary_df
+
+
+def create_standings_complete() -> pd.DataFrame:
+    """
+    Concatenates all raw standings files, enriches them with metadata and new IDs,
+    and returns a single complete DataFrame.
+
+    Returns:
+        A DataFrame containing all standings data, or an empty DataFrame if no data is found.
+    """
+    logger.info("Starting complete standings data creation...")
+    all_standings_dfs = []
+
+    standings_files = Path(config.RAW_DATA_DIR).rglob("*_standings.csv")
+
+    for standings_file in standings_files:
+        try:
+            df = pd.read_csv(standings_file, encoding="utf-8")
+            if df.empty:
+                logger.warning(
+                    f"Skipping empty standings file for concatenation: {standings_file.name}"
+                )
+                continue
+
+            metadata = utils.extract_metadata_from_filename(standings_file)
+
+            # Enrich DataFrame with new columns
+            df["team_sanitized"] = df["team"].apply(utils.sanitize_filename)
+            df["league_name"] = metadata["league_name"]
+            df["season_year"] = metadata["season_year"]
+            df["source_csv_file"] = standings_file.name
+            df["source_id"] = utils.generate_id(standings_file.name)
+            df["id"] = df.apply(
+                lambda row: utils.generate_id(
+                    f"{row['team_sanitized']}_{row['source_csv_file']}"
+                ),
+                axis=1,
+            )
+
+            # Ensure 'position' is a nullable integer
+            df["position"] = pd.to_numeric(df["position"], errors="coerce").astype(
+                "Int64"
+            )
+
+            all_standings_dfs.append(df)
+
+        except Exception as e:
+            logger.error(
+                f"Failed to process {standings_file.name} for concatenation: {e}"
+            )
+
+    if not all_standings_dfs:
+        logger.warning("No standings data found to concatenate.")
+        return pd.DataFrame()
+
+    final_df = pd.concat(all_standings_dfs, ignore_index=True)
+
+    # Reorder columns to match the final schema
+    final_schema = [
+        "position",
+        "team",
+        "team_sanitized",
+        "played",
+        "won",
+        "drawn",
+        "lost",
+        "goal_ratio",
+        "goal_difference",
+        "points",
+        "team_url",
+        "league_name",
+        "season_year",
+        "source_csv_file",
+        "source_id",
+        "id",
+    ]
+    # Handle 'draw' vs 'drawn' discrepancy
+    if "draw" in final_df.columns and "drawn" not in final_df.columns:
+        final_df.rename(columns={"draw": "drawn"}, inplace=True)
+
+    final_df = final_df.reindex(columns=final_schema)
+
+    logger.info(
+        f"Successfully created complete standings file with {len(final_df)} rows."
+    )
+    return final_df
