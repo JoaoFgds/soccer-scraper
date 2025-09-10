@@ -4,10 +4,12 @@ Core processing logic for the soccer scraper data.
 Contains functions for handling standings and schedule data to generate a summary.
 """
 import logging
+import numpy as np
 import pandas as pd
 from pathlib import Path
 from src.pre_processor import config
 from src.pre_processor import utils
+
 
 logger = logging.getLogger(__name__)
 
@@ -256,4 +258,167 @@ def create_standings_complete() -> pd.DataFrame:
     logger.info(
         f"Successfully created complete standings file with {len(final_df)} rows."
     )
+    return final_df
+
+
+def _impute_audience(df: pd.DataFrame) -> pd.DataFrame:
+    """Imputes missing audience values based on various strategies, considering only home games of the principal team."""
+
+    # Calculate the principal team by finding the most frequent team across home and away
+    team_principal = df["home_team_sanitized"].value_counts().idxmax()
+
+    # Filter to only home games of the principal team
+    home_df = df[df["home_team_sanitized"] == team_principal].copy()
+
+    audience_clean_home = home_df["audience"].replace(0, np.nan)
+
+    if audience_clean_home.notna().any():
+        mean_val = audience_clean_home.mean()
+        median_val = audience_clean_home.median()
+        mode_val = (
+            audience_clean_home.mode().iloc[0]
+            if not audience_clean_home.mode().empty
+            else np.nan
+        )
+
+        home_df["audience_filled_mean"] = audience_clean_home.fillna(mean_val)
+        home_df["audience_filled_median"] = audience_clean_home.fillna(median_val)
+        home_df["audience_filled_mode"] = audience_clean_home.fillna(mode_val)
+    else:
+        home_df["audience_filled_mean"] = np.nan
+        home_df["audience_filled_median"] = np.nan
+        home_df["audience_filled_mode"] = np.nan
+
+    home_df["audience_filled_fb"] = audience_clean_home.ffill().bfill()
+
+    for col in [
+        "audience_filled_fb",
+        "audience_filled_mean",
+        "audience_filled_mode",
+        "audience_filled_median",
+    ]:
+        if col in home_df:
+            home_df[col] = home_df[col].round(0).astype("Int64")
+
+    return home_df
+
+
+def _process_season_games(
+    team_games_dir: Path, league_name: str, season_year: int
+) -> pd.DataFrame | None:
+    """Processes all team game files for a single season."""
+    all_games_enriched = []
+
+    for team_file in team_games_dir.glob("*.csv"):
+        try:
+            df = pd.read_csv(team_file, encoding="utf-8")
+            if df.empty:
+                continue
+
+            df["home_team_sanitized"] = df["home_team"].apply(utils.sanitize_filename)
+            df["source_csv_file"] = team_file.name
+
+            df = _impute_audience(df)
+
+            all_games_enriched.append(df)
+        except Exception as e:
+            logger.error(f"Error processing game file {team_file.name}: {e}")
+
+    if not all_games_enriched:
+        return None
+
+    season_df = pd.concat(all_games_enriched, ignore_index=True)
+    # No drop_duplicates needed, as each processed df contains only unique home games per team
+
+    season_df["away_team_sanitized"] = season_df["away_team"].apply(
+        utils.sanitize_filename
+    )
+    season_df["coach_sanitized"] = season_df["coach"].apply(utils.sanitize_filename)
+
+    try:
+        date_part = season_df["date"].str.split(" ").str[1]
+        datetime_str = date_part + " " + season_df["time"]
+        season_df["datetime"] = pd.to_datetime(
+            datetime_str, format="%d/%m/%Y %H:%M", errors="coerce"
+        )
+    except Exception:
+        season_df["datetime"] = pd.NaT
+
+    standings_csv_file = f"{league_name}_{season_year}_standings.csv"
+    season_df["league_name"] = league_name
+    season_df["season_year"] = season_year
+    season_df["standings_csv_file"] = standings_csv_file
+    season_df["standings_id"] = utils.generate_id(standings_csv_file)
+    season_df["source_id"] = season_df["source_csv_file"].apply(utils.generate_id)
+    season_df["id"] = season_df.apply(
+        lambda row: utils.generate_id(
+            f"{row['round']}_{row['home_team_sanitized']}_{row['standings_csv_file']}"
+        ),
+        axis=1,
+    )
+
+    return season_df
+
+
+def create_team_games_complete() -> pd.DataFrame:
+    """
+    Creates a single, cleaned CSV containing all distinct games from all seasons.
+    """
+    logger.info("Starting team games completion process...")
+    all_seasons_dfs = []
+
+    for league_dir in config.RAW_DATA_DIR.iterdir():
+        if not league_dir.is_dir():
+            continue
+        for year_dir in league_dir.iterdir():
+            if not year_dir.is_dir():
+                continue
+
+            team_games_dir = year_dir / "team_games"
+            if team_games_dir.is_dir():
+                logger.info(f"Processing games for: {league_dir.name}/{year_dir.name}")
+                season_df = _process_season_games(
+                    team_games_dir, league_dir.name, int(year_dir.name)
+                )
+                if season_df is not None:
+                    all_seasons_dfs.append(season_df)
+
+    if not all_seasons_dfs:
+        logger.warning("No team game data found to process.")
+        return pd.DataFrame()
+
+    final_df = pd.concat(all_seasons_dfs, ignore_index=True)
+
+    final_schema = [
+        "round",
+        "date",
+        "time",
+        "datetime",
+        "home_team",
+        "home_team_sanitized",
+        "away_team",
+        "away_team_sanitized",
+        "formation",
+        "coach",
+        "coach_sanitized",
+        "result",
+        "audience",
+        "audience_filled_fb",
+        "audience_filled_mean",
+        "audience_filled_mode",
+        "audience_filled_median",
+        "league_name",
+        "season_year",
+        "source_csv_file",
+        "standings_csv_file",
+        "source_id",
+        "standings_id",
+        "id",
+    ]
+
+    final_df = final_df.reindex(columns=final_schema)
+    logger.info(
+        f"Successfully created complete team games file with {len(final_df)} rows."
+    )
+
     return final_df

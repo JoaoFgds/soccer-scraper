@@ -13,17 +13,14 @@ logger = logging.getLogger(__name__)
 def pre_processor_pipeline():
     """
     Main entry point for the pre-processing workflow.
-    Generates summary, valid, and complete standings files.
+    Generates all summary, valid, and complete processed files.
     """
     logger.info("--- Starting Data Pre-processing Workflow ---")
 
-    # Initialize dataframes to ensure they are available in the broader scope
-    summary_df = pd.DataFrame()
-    complete_standings_df = pd.DataFrame()
-    valid_standings_ref_df = pd.DataFrame()
-
-    # --- Task 1: Generate Summary and Valid Standings Files ---
+    # --- Task 1 & 2: Generate Standings Summary and Complete Files ---
     summary_df = processors.create_standings_summary()
+    complete_standings_df = processors.create_standings_complete()
+    valid_standings_ref_df = pd.DataFrame()  # Ensure it's defined
 
     if not summary_df.empty:
         summary_df.to_csv(config.FINAL_STANDINGS_SUMMARY_CSV, index=False)
@@ -47,15 +44,8 @@ def pre_processor_pipeline():
             logger.info(
                 f"Successfully saved {len(valid_standings_ref_df)} valid seasons."
             )
-        else:
-            logger.warning(
-                "No seasons passed all validation criteria. 'final_standings_valid.csv' will not be created."
-            )
     else:
         logger.warning("No summary data was generated.")
-
-    # --- Task 2: Generate the Complete, Enriched Standings File ---
-    complete_standings_df = processors.create_standings_complete()
 
     if not complete_standings_df.empty:
         complete_standings_df.to_csv(config.FINAL_STANDINGS_COMPLETE_CSV, index=False)
@@ -65,16 +55,12 @@ def pre_processor_pipeline():
     else:
         logger.warning("No complete standings data was generated.")
 
-    # --- Task 3: Filter Complete Standings to Create a Validated Version ---
+    # --- Task 3: Create Validated Versions of Complete Files ---
     if not complete_standings_df.empty and not valid_standings_ref_df.empty:
-        # Get the list of valid source_ids
         valid_source_ids = valid_standings_ref_df["source_id"].unique()
-
-        # Filter the complete dataframe
         final_valid_df = complete_standings_df[
             complete_standings_df["source_id"].isin(valid_source_ids)
         ].copy()
-
         final_valid_df.to_csv(config.FINAL_STANDINGS_COMPLETE_VALID_CSV, index=False)
         logger.info(
             f"Validated complete standings file saved to: {config.FINAL_STANDINGS_COMPLETE_VALID_CSV.relative_to(config.BASE_DIR)}"
@@ -86,6 +72,16 @@ def pre_processor_pipeline():
         logger.warning(
             "Could not create 'final_standings_complete_valid.csv' due to missing source data."
         )
+
+    # --- Task 4: Generate Complete Team Games File ---
+    team_games_df = processors.create_team_games_complete()
+    if not team_games_df.empty:
+        team_games_df.to_csv(config.TEAM_GAMES_COMPLETED_CSV, index=False)
+        logger.info(
+            f"Complete team games file saved to: {config.TEAM_GAMES_COMPLETED_CSV.relative_to(config.BASE_DIR)}"
+        )
+    else:
+        logger.warning("No completed team games data was generated.")
 
     logger.info("--- Data Pre-processing Workflow Complete ---")
 
