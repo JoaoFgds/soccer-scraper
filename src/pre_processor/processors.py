@@ -1,8 +1,3 @@
-# File: src/pre_processor/processors.py
-"""
-Core processing logic for the soccer scraper data.
-Contains functions for handling standings and schedule data to generate a summary.
-"""
 import logging
 import numpy as np
 import pandas as pd
@@ -10,64 +5,74 @@ from pathlib import Path
 from src.pre_processor import config
 from src.pre_processor import utils
 
-
 logger = logging.getLogger(__name__)
 
 
 def _load_and_consolidate_games(team_games_dir: Path) -> pd.DataFrame | None:
-    """
-    Loads all game files from a directory, consolidates them, and returns a
-    DataFrame with distinct matches.
+    """Loads and consolidates game files from a directory into a single DataFrame with unique matches.
 
     Args:
-        team_games_dir: Path to the directory containing team game CSVs.
+        team_games_dir (Path): Directory path containing team game CSV files.
 
     Returns:
-        A DataFrame of distinct games, or None if no valid games are found.
+        pd.DataFrame | None: Consolidated DataFrame with unique games, or None if no valid data is found.
+
+    Raises:
+        pd.errors.EmptyDataError: If a CSV file is empty or malformed.
+        Exception: For other unexpected errors during file processing.
     """
-    all_games_list = []
+    all_games_dfs = []
     for team_file in team_games_dir.glob("*.csv"):
         try:
             game_df = pd.read_csv(team_file, encoding="utf-8")
             if not game_df.empty:
-                all_games_list.append(game_df)
+                all_games_dfs.append(game_df)
+                logger.debug(f"Successfully loaded game file: {team_file.name}")
+            else:
+                logger.warning(f"Empty game file skipped: {team_file.name}")
         except pd.errors.EmptyDataError:
-            logger.warning(f"Skipping empty team game file: {team_file.name}")
+            logger.warning(f"Empty or malformed CSV file skipped: {team_file.name}")
         except Exception as e:
-            logger.error(f"Error processing team file {team_file.name}: {e}")
+            logger.error(f"Failed to process game file {team_file.name}: {str(e)}")
 
-    if not all_games_list:
+    if not all_games_dfs:
+        logger.info(f"No valid game files found in directory: {team_games_dir}")
         return None
 
-    consolidated_games_df = pd.concat(all_games_list, ignore_index=True)
-    # Create an explicit copy to avoid SettingWithCopyWarning later
+    consolidated_games_df = pd.concat(all_games_dfs, ignore_index=True)
     distinct_games_df = consolidated_games_df.drop_duplicates(
         subset=["date", "home_team", "away_team", "result"]
     ).copy()
+    logger.info(
+        f"Consolidated {len(distinct_games_df)} unique games from {len(all_games_dfs)} files"
+    )
 
     return distinct_games_df
 
 
 def process_season_data(standings_file: Path) -> dict | None:
-    """
-    Processes the data for a single season to generate a summary dictionary.
+    """Processes season data from a standings file to generate a summary dictionary.
 
     Args:
-        standings_file: The Path object for the league standings CSV file.
+        standings_file (Path): Path to the league standings CSV file.
 
     Returns:
-        A dictionary containing the summarized data for the season, or None if processing fails.
+        dict | None: Dictionary with season summary metrics, or None if processing fails.
+
+    Raises:
+        FileNotFoundError: If the standings file does not exist.
+        pd.errors.EmptyDataError: If the standings file is empty or malformed.
+        Exception: For other unexpected errors during processing.
     """
+    logger.info(f"Starting processing for standings file: {standings_file.name}")
     try:
-        logger.info(f"Processing season from: {standings_file.name}")
         metadata = utils.extract_metadata_from_filename(standings_file)
         league_name = metadata["league_name"]
         season_year = metadata["season_year"]
 
-        # 1. Read and validate standings data
         standings_df = pd.read_csv(standings_file, encoding="utf-8")
         if standings_df.empty:
-            logger.warning(f"Skipping empty standings file: {standings_file.name}")
+            logger.warning(f"Empty standings file: {standings_file.name}")
             return None
 
         num_total_teams = len(standings_df)
@@ -78,12 +83,9 @@ def process_season_data(standings_file: Path) -> dict | None:
             )
         )
 
-        # 2. Validate and load game data
         team_games_dir = standings_file.parent.parent / "team_games"
         if not team_games_dir.is_dir():
-            logger.warning(
-                f"Team games directory not found for {standings_file.name}. Skipping season."
-            )
+            logger.warning(f"Team games directory not found for {standings_file.name}")
             return None
 
         team_files = list(team_games_dir.glob("*.csv"))
@@ -91,18 +93,14 @@ def process_season_data(standings_file: Path) -> dict | None:
 
         distinct_games_df = _load_and_consolidate_games(team_games_dir)
         if distinct_games_df is None:
-            logger.warning(
-                f"No valid game data found for season: {league_name}/{season_year}. Skipping."
-            )
+            logger.warning(f"No valid game data for {league_name}/{season_year}")
             return None
 
-        # 3. Calculate metrics
         num_total_games = len(distinct_games_df)
         is_double_rounded = num_total_games == num_total_teams * (num_total_teams - 1)
 
         distinct_games_df["audience"] = distinct_games_df["audience"].fillna(0)
         num_null_attendance_games = int((distinct_games_df["audience"] == 0).sum())
-
         pct_null_attendance_games = (
             (num_null_attendance_games / num_total_games) * 100
             if num_total_games > 0
@@ -110,7 +108,9 @@ def process_season_data(standings_file: Path) -> dict | None:
         )
         is_valid_attendance = pct_null_attendance_games < 5.0
 
-        # 4. Assemble result
+        logger.info(
+            f"Processed season {league_name}/{season_year} with {num_total_games} games"
+        )
         return {
             "source_id": utils.generate_id(standings_file.name),
             "source_csv_file": standings_file.name,
@@ -130,60 +130,65 @@ def process_season_data(standings_file: Path) -> dict | None:
         logger.error(f"Standings file not found: {standings_file}")
         return None
     except pd.errors.EmptyDataError:
-        logger.error(f"Standings file is empty or malformed: {standings_file.name}")
+        logger.error(f"Empty or malformed standings file: {standings_file.name}")
         return None
     except Exception as e:
-        logger.error(
-            f"An unexpected error occurred while processing {standings_file.name}: {e}"
-        )
+        logger.error(f"Unexpected error processing {standings_file.name}: {str(e)}")
         return None
 
 
 def create_standings_summary() -> pd.DataFrame:
-    """
-    Orchestrates the processing of all league standings to create a unified summary.
+    """Creates a unified summary DataFrame from all league standings files.
 
     Returns:
-        pd.DataFrame: A DataFrame containing the summary of all processed seasons.
+        pd.DataFrame: Summary of processed seasons, or empty DataFrame if no data is found.
+
+    Raises:
+        Exception: For unexpected errors during directory iteration or file processing.
     """
-    logger.info("Starting standings summary creation...")
+    logger.info("Initiating standings summary creation")
     summary_data = []
 
     for league_dir in config.RAW_DATA_DIR.iterdir():
         if not league_dir.is_dir():
+            logger.debug(f"Skipping non-directory: {league_dir}")
             continue
 
         for year_dir in league_dir.iterdir():
             if not year_dir.is_dir():
+                logger.debug(f"Skipping non-directory: {year_dir}")
                 continue
 
             standings_dir = year_dir / "final_standings"
             if not standings_dir.is_dir():
+                logger.debug(f"No standings directory found: {standings_dir}")
                 continue
 
             for standings_file in standings_dir.glob("*_standings.csv"):
+                logger.debug(f"Processing standings file: {standings_file.name}")
                 season_summary = process_season_data(standings_file)
                 if season_summary:
                     summary_data.append(season_summary)
 
     if not summary_data:
-        logger.warning("No data processed. Returning an empty DataFrame.")
+        logger.warning("No season data processed; returning empty DataFrame")
         return pd.DataFrame()
 
     summary_df = pd.DataFrame(summary_data)
-    logger.info(f"Successfully created summary for {len(summary_df)} seasons.")
+    logger.info(f"Created summary DataFrame with {len(summary_df)} seasons")
     return summary_df
 
 
 def create_standings_complete() -> pd.DataFrame:
-    """
-    Concatenates all raw standings files, enriches them with metadata and new IDs,
-    and returns a single complete DataFrame.
+    """Concatenates and enriches all standings files into a single DataFrame.
 
     Returns:
-        A DataFrame containing all standings data, or an empty DataFrame if no data is found.
+        pd.DataFrame: Enriched standings data, or empty DataFrame if no data is found.
+
+    Raises:
+        Exception: For unexpected errors during file reading or processing.
     """
-    logger.info("Starting complete standings data creation...")
+    logger.info("Initiating complete standings data creation")
     all_standings_dfs = []
 
     standings_files = Path(config.RAW_DATA_DIR).rglob("*_standings.csv")
@@ -192,14 +197,11 @@ def create_standings_complete() -> pd.DataFrame:
         try:
             df = pd.read_csv(standings_file, encoding="utf-8")
             if df.empty:
-                logger.warning(
-                    f"Skipping empty standings file for concatenation: {standings_file.name}"
-                )
+                logger.warning(f"Empty standings file skipped: {standings_file.name}")
                 continue
 
             metadata = utils.extract_metadata_from_filename(standings_file)
 
-            # Enrich DataFrame with new columns
             df["team_sanitized"] = df["team"].apply(utils.sanitize_filename)
             df["league_name"] = metadata["league_name"]
             df["season_year"] = metadata["season_year"]
@@ -212,25 +214,24 @@ def create_standings_complete() -> pd.DataFrame:
                 axis=1,
             )
 
-            # Ensure 'position' is a nullable integer
             df["position"] = pd.to_numeric(df["position"], errors="coerce").astype(
                 "Int64"
             )
 
             all_standings_dfs.append(df)
+            logger.debug(f"Processed standings file: {standings_file.name}")
 
         except Exception as e:
             logger.error(
-                f"Failed to process {standings_file.name} for concatenation: {e}"
+                f"Failed to process standings file {standings_file.name}: {str(e)}"
             )
 
     if not all_standings_dfs:
-        logger.warning("No standings data found to concatenate.")
+        logger.warning("No valid standings data found for concatenation")
         return pd.DataFrame()
 
     final_df = pd.concat(all_standings_dfs, ignore_index=True)
 
-    # Reorder columns to match the final schema
     final_schema = [
         "position",
         "team",
@@ -249,25 +250,30 @@ def create_standings_complete() -> pd.DataFrame:
         "source_id",
         "id",
     ]
-    # Handle 'draw' vs 'drawn' discrepancy
     if "draw" in final_df.columns and "drawn" not in final_df.columns:
         final_df.rename(columns={"draw": "drawn"}, inplace=True)
 
     final_df = final_df.reindex(columns=final_schema)
+    logger.info(f"Created complete standings DataFrame with {len(final_df)} rows")
 
-    logger.info(
-        f"Successfully created complete standings file with {len(final_df)} rows."
-    )
     return final_df
 
 
 def _impute_audience(df: pd.DataFrame) -> pd.DataFrame:
-    """Imputes missing audience values based on various strategies, considering only home games of the principal team."""
+    """Imputes missing audience values for home games of the most frequent team.
 
-    # Calculate the principal team by finding the most frequent team across home and away
+    Args:
+        df (pd.DataFrame): Input DataFrame with game data, including 'home_team_sanitized' and 'audience' columns.
+
+    Returns:
+        pd.DataFrame: Filtered DataFrame with imputed audience columns for home games.
+
+    Raises:
+        KeyError: If required columns are missing.
+        ValueError: If audience data cannot be processed.
+    """
+    logger.debug("Imputing audience values for DataFrame")
     team_principal = df["home_team_sanitized"].value_counts().idxmax()
-
-    # Filter to only home games of the principal team
     home_df = df[df["home_team_sanitized"] == team_principal].copy()
 
     audience_clean_home = home_df["audience"].replace(0, np.nan)
@@ -300,35 +306,51 @@ def _impute_audience(df: pd.DataFrame) -> pd.DataFrame:
         if col in home_df:
             home_df[col] = home_df[col].round(0).astype("Int64")
 
+    logger.debug(f"Completed audience imputation for team {team_principal}")
     return home_df
 
 
 def _process_season_games(
     team_games_dir: Path, league_name: str, season_year: int
 ) -> pd.DataFrame | None:
-    """Processes all team game files for a single season."""
+    """Processes team game files for a single season, enriching with metadata and imputing audience data.
+
+    Args:
+        team_games_dir (Path): Directory containing team game CSV files.
+        league_name (str): Name of the league.
+        season_year (int): Year of the season.
+
+    Returns:
+        pd.DataFrame | None: Enriched DataFrame with game data, or None if no valid data is found.
+
+    Raises:
+        Exception: For errors during file reading, data processing, or datetime parsing.
+    """
+    logger.info(f"Processing season games for {league_name}/{season_year}")
     all_games_enriched = []
 
     for team_file in team_games_dir.glob("*.csv"):
         try:
             df = pd.read_csv(team_file, encoding="utf-8")
             if df.empty:
+                logger.warning(f"Empty game file skipped: {team_file.name}")
                 continue
 
             df["home_team_sanitized"] = df["home_team"].apply(utils.sanitize_filename)
             df["source_csv_file"] = team_file.name
 
             df = _impute_audience(df)
-
             all_games_enriched.append(df)
+            logger.debug(f"Processed game file: {team_file.name}")
+
         except Exception as e:
-            logger.error(f"Error processing game file {team_file.name}: {e}")
+            logger.error(f"Failed to process game file {team_file.name}: {str(e)}")
 
     if not all_games_enriched:
+        logger.warning(f"No valid game data found for {league_name}/{season_year}")
         return None
 
     season_df = pd.concat(all_games_enriched, ignore_index=True)
-    # No drop_duplicates needed, as each processed df contains only unique home games per team
 
     season_df["away_team_sanitized"] = season_df["away_team"].apply(
         utils.sanitize_filename
@@ -341,7 +363,11 @@ def _process_season_games(
         season_df["datetime"] = pd.to_datetime(
             datetime_str, format="%d/%m/%Y %H:%M", errors="coerce"
         )
-    except Exception:
+        logger.debug(f"Successfully parsed datetime for {league_name}/{season_year}")
+    except Exception as e:
+        logger.warning(
+            f"Failed to parse datetime for {league_name}/{season_year}: {str(e)}"
+        )
         season_df["datetime"] = pd.NaT
 
     standings_csv_file = f"{league_name}_{season_year}_standings.csv"
@@ -357,26 +383,36 @@ def _process_season_games(
         axis=1,
     )
 
+    logger.info(
+        f"Completed processing {len(season_df)} games for {league_name}/{season_year}"
+    )
     return season_df
 
 
 def create_team_games_complete() -> pd.DataFrame:
+    """Creates a unified DataFrame with all distinct team games across seasons.
+
+    Returns:
+        pd.DataFrame: Consolidated DataFrame with enriched game data, or empty if no data is found.
+
+    Raises:
+        Exception: For errors during directory iteration or file processing.
     """
-    Creates a single, cleaned CSV containing all distinct games from all seasons.
-    """
-    logger.info("Starting team games completion process...")
+    logger.info("Initiating team games completion process")
     all_seasons_dfs = []
 
     for league_dir in config.RAW_DATA_DIR.iterdir():
         if not league_dir.is_dir():
+            logger.debug(f"Skipping non-directory: {league_dir}")
             continue
         for year_dir in league_dir.iterdir():
             if not year_dir.is_dir():
+                logger.debug(f"Skipping non-directory: {year_dir}")
                 continue
 
             team_games_dir = year_dir / "team_games"
             if team_games_dir.is_dir():
-                logger.info(f"Processing games for: {league_dir.name}/{year_dir.name}")
+                logger.info(f"Processing games for {league_dir.name}/{year_dir.name}")
                 season_df = _process_season_games(
                     team_games_dir, league_dir.name, int(year_dir.name)
                 )
@@ -384,7 +420,7 @@ def create_team_games_complete() -> pd.DataFrame:
                     all_seasons_dfs.append(season_df)
 
     if not all_seasons_dfs:
-        logger.warning("No team game data found to process.")
+        logger.warning("No valid team game data found")
         return pd.DataFrame()
 
     final_df = pd.concat(all_seasons_dfs, ignore_index=True)
@@ -417,8 +453,6 @@ def create_team_games_complete() -> pd.DataFrame:
     ]
 
     final_df = final_df.reindex(columns=final_schema)
-    logger.info(
-        f"Successfully created complete team games file with {len(final_df)} rows."
-    )
+    logger.info(f"Created complete team games DataFrame with {len(final_df)} rows")
 
     return final_df
