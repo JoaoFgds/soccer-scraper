@@ -12,6 +12,40 @@ from src.pre_processor import utils
 logger = logging.getLogger(__name__)
 
 
+def _load_and_consolidate_games(team_games_dir: Path) -> pd.DataFrame | None:
+    """
+    Loads all game files from a directory, consolidates them, and returns a
+    DataFrame with distinct matches.
+
+    Args:
+        team_games_dir: Path to the directory containing team game CSVs.
+
+    Returns:
+        A DataFrame of distinct games, or None if no valid games are found.
+    """
+    all_games_list = []
+    for team_file in team_games_dir.glob("*.csv"):
+        try:
+            game_df = pd.read_csv(team_file, encoding="utf-8")
+            if not game_df.empty:
+                all_games_list.append(game_df)
+        except pd.errors.EmptyDataError:
+            logger.warning(f"Skipping empty team game file: {team_file.name}")
+        except Exception as e:
+            logger.error(f"Error processing team file {team_file.name}: {e}")
+
+    if not all_games_list:
+        return None
+
+    consolidated_games_df = pd.concat(all_games_list, ignore_index=True)
+    # Create an explicit copy to avoid SettingWithCopyWarning later
+    distinct_games_df = consolidated_games_df.drop_duplicates(
+        subset=["date", "home_team", "away_team", "result"]
+    ).copy()
+
+    return distinct_games_df
+
+
 def process_season_data(standings_file: Path) -> dict | None:
     """
     Processes the data for a single season to generate a summary dictionary.
@@ -23,17 +57,17 @@ def process_season_data(standings_file: Path) -> dict | None:
         A dictionary containing the summarized data for the season, or None if processing fails.
     """
     try:
+        logger.info(f"Processing season from: {standings_file.name}")
         metadata = utils.extract_metadata_from_filename(standings_file)
         league_name = metadata["league_name"]
         season_year = metadata["season_year"]
 
-        # Read standings data
+        # 1. Read and validate standings data
         standings_df = pd.read_csv(standings_file, encoding="utf-8")
         if standings_df.empty:
             logger.warning(f"Skipping empty standings file: {standings_file.name}")
             return None
 
-        # Basic metrics from standings
         num_total_teams = len(standings_df)
         is_valid_url = all(
             standings_df.apply(
@@ -42,43 +76,28 @@ def process_season_data(standings_file: Path) -> dict | None:
             )
         )
 
-        # Team games path and validation
+        # 2. Validate and load game data
         team_games_dir = standings_file.parent.parent / "team_games"
         if not team_games_dir.is_dir():
-            logger.warning(f"Team games directory not found for {standings_file.name}")
+            logger.warning(
+                f"Team games directory not found for {standings_file.name}. Skipping season."
+            )
             return None
 
         team_files = list(team_games_dir.glob("*.csv"))
         has_all_teams_files = len(team_files) == num_total_teams
 
-        # Robustly process distinct games and attendance
-        all_games_list = []
-        for team_file in team_files:
-            try:
-                game_df = pd.read_csv(team_file, encoding="utf-8")
-                if not game_df.empty:
-                    all_games_list.append(game_df)
-            except Exception as e:
-                logger.error(f"Error processing team file {team_file.name}: {e}")
-
-        if not all_games_list:
+        distinct_games_df = _load_and_consolidate_games(team_games_dir)
+        if distinct_games_df is None:
             logger.warning(
-                f"No game data found for season: {league_name}/{season_year}"
+                f"No valid game data found for season: {league_name}/{season_year}. Skipping."
             )
             return None
 
-        # Consolidate all games and drop duplicates to get a unique set of matches
-        consolidated_games_df = pd.concat(all_games_list, ignore_index=True)
-        # CORRECTION: Add .copy() to prevent SettingWithCopyWarning
-        distinct_games_df = consolidated_games_df.drop_duplicates(
-            subset=["date", "home_team", "away_team", "result"]
-        ).copy()
-
+        # 3. Calculate metrics
         num_total_games = len(distinct_games_df)
-        # A perfect double-rounded season has N * (N-1) games.
         is_double_rounded = num_total_games == num_total_teams * (num_total_teams - 1)
 
-        # Attendance metrics
         distinct_games_df["audience"] = distinct_games_df["audience"].fillna(0)
         num_null_attendance_games = int((distinct_games_df["audience"] == 0).sum())
 
@@ -89,23 +108,32 @@ def process_season_data(standings_file: Path) -> dict | None:
         )
         is_valid_attendance = pct_null_attendance_games < 5.0
 
+        # 4. Assemble result
         return {
-            "id": utils.generate_id(standings_file.name),
+            "source_id": utils.generate_id(standings_file.name),
             "source_csv_file": standings_file.name,
             "league_name": league_name,
             "season_year": season_year,
+            "has_all_teams_files": has_all_teams_files,
             "num_total_teams": num_total_teams,
             "num_total_games": num_total_games,
-            "has_all_teams_files": has_all_teams_files,
             "num_null_attendance_games": num_null_attendance_games,
             "pct_null_attendance_games": round(pct_null_attendance_games, 2),
-            "is_double_rounded": is_double_rounded,
             "is_valid_url": is_valid_url,
+            "is_double_rounded": is_double_rounded,
             "is_valid_attendance": is_valid_attendance,
         }
 
+    except FileNotFoundError:
+        logger.error(f"Standings file not found: {standings_file}")
+        return None
+    except pd.errors.EmptyDataError:
+        logger.error(f"Standings file is empty or malformed: {standings_file.name}")
+        return None
     except Exception as e:
-        logger.error(f"Failed to process season from {standings_file.name}: {e}")
+        logger.error(
+            f"An unexpected error occurred while processing {standings_file.name}: {e}"
+        )
         return None
 
 

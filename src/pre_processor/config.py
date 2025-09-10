@@ -14,8 +14,9 @@ PROCESSED_DATA_DIR = DATA_DIR / "processed"
 # Ensure processed data directory exists
 PROCESSED_DATA_DIR.mkdir(parents=True, exist_ok=True)
 
-# Output file path
+# Output file paths
 FINAL_STANDINGS_SUMMARY_CSV = PROCESSED_DATA_DIR / "final_standings_summary.csv"
+FINAL_STANDINGS_VALID_CSV = PROCESSED_DATA_DIR / "final_standings_valid.csv"
 
 
 def configure_logging():
