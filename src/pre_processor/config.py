@@ -1,7 +1,7 @@
-# File: src/pre_processor/config.py
 """
 Configuration and logging setup for the pre-processor module.
 """
+
 import logging
 from pathlib import Path
 
@@ -22,7 +22,9 @@ FINAL_STANDINGS_COMPLETE_VALID_CSV = (
     PROCESSED_DATA_DIR / "final_standings_complete_valid.csv"
 )
 
-TEAM_GAMES_COMPLETED_CSV = PROCESSED_DATA_DIR / "team_games_completed.csv"
+
+TEAM_GAMES_COMPLETED_CSV = PROCESSED_DATA_DIR / "team_games_complete.csv"
+TEAM_GAMES_COMPLETED_VALID_CSV = PROCESSED_DATA_DIR / "team_games_complete_valid.csv"
 
 
 def configure_logging():

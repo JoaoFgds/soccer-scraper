@@ -1,7 +1,7 @@
-# File: src/pre_processor/main.py
 """
 Orchestrates the entire data pre-processing workflow.
 """
+
 import logging
 import pandas as pd
 from src.pre_processor import config
@@ -29,7 +29,8 @@ def pre_processor_pipeline():
         )
 
         valid_standings_df = summary_df[
-            (summary_df["is_valid_url"])
+            (summary_df["has_all_teams_files"])
+            & (summary_df["is_valid_url"])
             & (summary_df["is_double_rounded"])
             & (summary_df["is_valid_attendance"])
         ]
@@ -82,6 +83,26 @@ def pre_processor_pipeline():
         )
     else:
         logger.warning("No completed team games data was generated.")
+
+    # --- Task 5: Create Validated Team Games File ---
+    if not team_games_df.empty and not valid_standings_ref_df.empty:
+        valid_standings_ids = valid_standings_ref_df["source_id"].unique()
+        final_valid_team_games_df = team_games_df[
+            team_games_df["standings_id"].isin(valid_standings_ids)
+        ].copy()
+        final_valid_team_games_df.to_csv(
+            config.TEAM_GAMES_COMPLETED_VALID_CSV, index=False
+        )
+        logger.info(
+            f"Validated team games file saved to: {config.TEAM_GAMES_COMPLETED_VALID_CSV.relative_to(config.BASE_DIR)}"
+        )
+        logger.info(
+            f"Successfully saved {len(final_valid_team_games_df)} rows in the validated team games file."
+        )
+    else:
+        logger.warning(
+            "Could not create 'team_games_complete_valid.csv' due to missing source data."
+        )
 
     logger.info("--- Data Pre-processing Workflow Complete ---")
 
