@@ -569,3 +569,42 @@ def create_team_games_complete() -> pd.DataFrame:
     )
 
     return final_df
+
+
+def create_team_games_mid_valid(
+    valid_games_df: pd.DataFrame,
+) -> Optional[pd.DataFrame]:
+    """
+    Filters a DataFrame of valid games to include only the first half of each season.
+
+    Args:
+        valid_games_df (pd.DataFrame): DataFrame containing games from valid seasons.
+
+    Returns:
+        Optional[pd.DataFrame]: A DataFrame with only the first-round games, or None if input is empty.
+    """
+    if valid_games_df.empty:
+        logger.warning("Input DataFrame for mid-season split is empty. Skipping.")
+        return None
+
+    logger.info("Starting mid-season (first round) data creation.")
+    df = valid_games_df.copy()
+    df["round"] = pd.to_numeric(df["round"], errors="coerce")
+    df.dropna(subset=["round"], inplace=True)
+    df["round"] = df["round"].astype(int)
+
+    def filter_first_half(group: pd.DataFrame) -> pd.DataFrame:
+        max_round = group["round"].max()
+        mid_point = max_round / 2
+        return group[group["round"] <= mid_point]
+
+    mid_season_df = (
+        df.groupby(["league_name", "season_year"])
+        .apply(filter_first_half, include_groups=False)
+        .reset_index(drop=True)
+    )
+
+    logger.info(
+        f"Successfully created mid-season DataFrame with {len(mid_season_df)} rows."
+    )
+    return mid_season_df

@@ -104,6 +104,21 @@ def pre_processor_pipeline():
             "Could not create 'team_games_complete_valid.csv' due to missing source data."
         )
 
+    # --- Task 6: Create Mid-Season Validated Team Games File ---
+    if not final_valid_team_games_df.empty:
+        mid_season_df = processors.create_team_games_mid_valid(
+            final_valid_team_games_df
+        )
+        if mid_season_df is not None and not mid_season_df.empty:
+            mid_season_df.to_csv(config.TEAM_GAMES_MID_VALID_CSV, index=False)
+            logger.info(
+                f"Mid-season (first round) validated games file saved to: {config.TEAM_GAMES_MID_VALID_CSV.relative_to(config.BASE_DIR)}"
+            )
+    else:
+        logger.warning(
+            "Could not create 'team_games_mid_valid.csv' due to missing source data."
+        )
+
     logger.info("--- Data Pre-processing Workflow Complete ---")
 
 

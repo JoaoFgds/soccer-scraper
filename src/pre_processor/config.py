@@ -25,6 +25,7 @@ FINAL_STANDINGS_COMPLETE_VALID_CSV = (
 
 TEAM_GAMES_COMPLETED_CSV = PROCESSED_DATA_DIR / "team_games_complete.csv"
 TEAM_GAMES_COMPLETED_VALID_CSV = PROCESSED_DATA_DIR / "team_games_complete_valid.csv"
+TEAM_GAMES_MID_VALID_CSV = PROCESSED_DATA_DIR / "team_games_mid_valid.csv"
 
 
 def configure_logging():
