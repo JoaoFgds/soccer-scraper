@@ -1,0 +1,34 @@
+from pathlib import Path
+
+ROOT_DIR = Path(__file__).resolve().parent.parent.parent
+
+# DATA FOLDER
+
+DATA_DIR = ROOT_DIR / "data"
+
+LOG_DIR = DATA_DIR / "logs"
+RAW_DATA_DIR = DATA_DIR / "raw"
+ANALYSED_DATA_DIR = DATA_DIR / "analysed"
+PROCESSED_DATA_DIR = DATA_DIR / "processed"
+
+# PROCESSED DATA FOLDERS
+
+TEAM_GAMES = PROCESSED_DATA_DIR / "team_games"
+FINAL_STANDINGS = PROCESSED_DATA_DIR / "final_standings"
+
+# PROCESSED DATA FILES
+
+TEAM_GAMES_MID_SEASON = TEAM_GAMES / "team_games_mid_valid.csv"
+FINAL_STANDINGS_VALID = FINAL_STANDINGS / "final_standings_complete_valid.csv"
+
+# ANALYSED DATA
+
+NAME_MAPPINGS = ANALYSED_DATA_DIR / "name_mappings"
+NAME_MAPPINGS_COMBINED = NAME_MAPPINGS / "combined"
+NAME_MAPPINGS_INDIVIDUAL = NAME_MAPPINGS / "individual"
+
+SCHEDULES_DATA = ANALYSED_DATA_DIR / "schedules_data"
+SCHEDULES_DATA_COMBINED = SCHEDULES_DATA / "combined"
+SCHEDULES_DATA_INDIVIDUAL = SCHEDULES_DATA / "individual"
+
+SPEARMAN_COEFFICIENT = ANALYSED_DATA_DIR / "spearman_coefficient"
