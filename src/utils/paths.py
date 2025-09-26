@@ -18,7 +18,7 @@ FINAL_STANDINGS = PROCESSED_DATA_DIR / "final_standings"
 
 # PROCESSED DATA FILES
 
-TEAM_GAMES_MID_SEASON = TEAM_GAMES / "team_games_mid_valid.csv"
+TEAM_GAMES_VALID = TEAM_GAMES / "team_games_complete_valid.csv"
 FINAL_STANDINGS_VALID = FINAL_STANDINGS / "final_standings_complete_valid.csv"
 
 # ANALYSED DATA

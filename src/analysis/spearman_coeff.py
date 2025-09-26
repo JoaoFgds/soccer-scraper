@@ -193,92 +193,162 @@ def _create_optimal_name_mapping(
     return pd.DataFrame(final_mapping)
 
 
+# def _get_team_schedule(
+#     team_canonical: str, season_games: pd.DataFrame, name_mapping: pd.DataFrame
+# ) -> List[str]:
+#     """
+#     Retrieves the ordered list of opponents for a specific team in the first half of a season.
+
+#     This function processes a DataFrame of season games to determine the schedule
+#     for a given team, specifically for rounds 1 through 19. It standardizes
+#     team names and sorts games by round number to ensure chronological accuracy,
+#     making it resilient to potential datetime data issues.
+
+#     Args:
+#         team_canonical (str): The official, standardized name of the team to analyze.
+#         season_games (pd.DataFrame): A DataFrame containing all games for the season.
+#             Expected columns: 'home_team_sanitized', 'away_team_sanitized', 'round'.
+#         name_mapping (pd.DataFrame): A DataFrame used for standardizing team names.
+#             Expected columns: 'other_name', 'canonical_name'.
+
+#     Returns:
+#         List[str]: An ordered list of the canonical names of the opponents the team
+#                    faced in the first 19 rounds of the season.
+#     """
+
+#     season_games_mapped = season_games.copy()
+
+#     # --- 1. Standardize Team Names ---
+
+#     # Convert the name mapping DataFrame into a dictionary for fast lookups.
+#     # This maps various team name spellings to a single, official name.
+#     name_map_dict = dict(
+#         zip(name_mapping["other_name"], name_mapping["canonical_name"])
+#     )
+
+#     # Apply the mapping to standardize away team names into a new column.
+#     season_games_mapped["away_team_canonical"] = season_games_mapped[
+#         "away_team_sanitized"
+#     ].map(name_map_dict)
+
+#     # If an away team was not in the mapping, its name will be NaN (Not a Number).
+#     # Fill these missing canonical names with their original sanitized names as a fallback.
+#     season_games_mapped["away_team_canonical"] = season_games_mapped[
+#         "away_team_canonical"
+#     ].fillna(season_games_mapped["away_team_sanitized"])
+
+#     # --- 2. Filter for Relevant Games ---
+
+#     # Select only the games that match two specific criteria:
+#     # Condition 1: The team was either the home or the away team.
+#     # Condition 2: The 'round' value must be a numeric string (e.g., "1", "19").
+
+#     team_games = season_games_mapped[
+#         (
+#             (season_games_mapped["home_team_sanitized"] == team_canonical)
+#             | (season_games_mapped["away_team_canonical"] == team_canonical)
+#         )
+#         & (season_games_mapped["round"].astype(str).str.isdigit())
+#     ]
+
+#     # --- 3. Sort Games Chronologically ---
+
+#     # Sort the filtered games by the round number to ensure the correct chronological order.
+#     # This is more reliable than sorting by datetime, which can be inconsistent or corrupt.
+
+#     team_games = team_games.sort_values(by="round")
+
+#     # --- 4. Extract Opponent Names ---
+
+#     # Initialize an empty list to store the final sequence of opponents.
+#     # Iterate over each row (game) in the sorted DataFrame.
+
+#     # Check if our team was playing at home.
+#     # If so, the opponent was the away team.
+#     # Otherwise, our team was away, and the opponent was the home team.
+#     # A safety check to ensure we don't add the team itself to the list.
+
+#     opponents = []
+#     for _, row in team_games.iterrows():
+#         if row["home_team_sanitized"] == team_canonical:
+#             opponent = row["away_team_canonical"]
+#         else:
+#             opponent = row["home_team_sanitized"]
+
+#         if opponent != team_canonical:
+#             opponents.append(opponent)
+
+#     return opponents
+
+
 def _get_team_schedule(
     team_canonical: str, season_games: pd.DataFrame, name_mapping: pd.DataFrame
 ) -> List[str]:
     """
-    Retrieves the ordered list of opponents for a specific team in the first half of a season.
+    Retrieves the chronologically ordered list of unique opponents for a team.
 
     This function processes a DataFrame of season games to determine the schedule
-    for a given team, specifically for rounds 1 through 19. It standardizes
-    team names and sorts games by round number to ensure chronological accuracy,
-    making it resilient to potential datetime data issues.
+    of the first round-robin ("primeiro turno"). It identifies all unique
+    opponents a team faced during the season and returns them ordered by the
+    date of their first encounter.
 
     Args:
         team_canonical (str): The official, standardized name of the team to analyze.
         season_games (pd.DataFrame): A DataFrame containing all games for the season.
-            Expected columns: 'home_team_sanitized', 'away_team_sanitized', 'round'.
+            Expected columns: 'home_team_sanitized', 'away_team_sanitized', and a
+            date/datetime column named 'datetime'.
         name_mapping (pd.DataFrame): A DataFrame used for standardizing team names.
             Expected columns: 'other_name', 'canonical_name'.
 
     Returns:
-        List[str]: An ordered list of the canonical names of the opponents the team
-                   faced in the first 19 rounds of the season.
+        List[str]: A list of unique canonical opponent names, sorted by the date
+                   of their first encounter with the team.
     """
-
+    # Create a copy to avoid modifying the original DataFrame.
     season_games_mapped = season_games.copy()
 
-    # --- 1. Standardize Team Names ---
-
-    # Convert the name mapping DataFrame into a dictionary for fast lookups.
-    # This maps various team name spellings to a single, official name.
+    # --- 1. Standardize Team Names (No changes here) ---
     name_map_dict = dict(
         zip(name_mapping["other_name"], name_mapping["canonical_name"])
     )
-
-    # Apply the mapping to standardize away team names into a new column.
     season_games_mapped["away_team_canonical"] = season_games_mapped[
         "away_team_sanitized"
     ].map(name_map_dict)
-
-    # If an away team was not in the mapping, its name will be NaN (Not a Number).
-    # Fill these missing canonical names with their original sanitized names as a fallback.
     season_games_mapped["away_team_canonical"] = season_games_mapped[
         "away_team_canonical"
     ].fillna(season_games_mapped["away_team_sanitized"])
 
-    # --- 2. Filter for Relevant Games ---
-
-    # Select only the games that match two specific criteria:
-    # Condition 1: The team was either the home or the away team.
-    # Condition 2: The 'round' value must be a numeric string (e.g., "1", "19").
-
+    # --- 2. Filter for All of the Team's Games ---
+    # Select all games where the team was either home or away.
     team_games = season_games_mapped[
-        (
-            (season_games_mapped["home_team_sanitized"] == team_canonical)
-            | (season_games_mapped["away_team_canonical"] == team_canonical)
-        )
-        & (season_games_mapped["round"].astype(str).str.isdigit())
-    ]
+        (season_games_mapped["home_team_sanitized"] == team_canonical)
+        | (season_games_mapped["away_team_canonical"] == team_canonical)
+    ].copy()
 
-    # --- 3. Sort Games Chronologically ---
+    # --- 3. Sort Games Chronologically by Datetime ---
+    # Ensure the 'datetime' column is in the correct format and sort by it.
+    # This is the new primary sorting method.
+    team_games["datetime"] = pd.to_datetime(team_games["datetime"])
+    team_games = team_games.sort_values(by="datetime", ascending=True)
 
-    # Sort the filtered games by the round number to ensure the correct chronological order.
-    # This is more reliable than sorting by datetime, which can be inconsistent or corrupt.
-
-    team_games = team_games.sort_values(by="round")
-
-    # --- 4. Extract Opponent Names ---
-
-    # Initialize an empty list to store the final sequence of opponents.
-    # Iterate over each row (game) in the sorted DataFrame.
-
-    # Check if our team was playing at home.
-    # If so, the opponent was the away team.
-    # Otherwise, our team was away, and the opponent was the home team.
-    # A safety check to ensure we don't add the team itself to the list.
-
-    opponents = []
+    # --- 4. Extract Unique Opponents while Preserving Order ---
+    # First, get a list of all opponents in chronological order (with duplicates).
+    opponents_in_order = []
     for _, row in team_games.iterrows():
         if row["home_team_sanitized"] == team_canonical:
             opponent = row["away_team_canonical"]
         else:
             opponent = row["home_team_sanitized"]
 
+        # A safety check to ensure we don't add the team itself to the list.
         if opponent != team_canonical:
-            opponents.append(opponent)
+            opponents_in_order.append(opponent)
 
-    return opponents
+    # Now, create a unique list of opponents that preserves the order of the first encounter.
+    # The dict.fromkeys() method is a highly efficient way to do this in Python 3.7+.
+    unique_opponents = list(dict.fromkeys(opponents_in_order))
+
+    return unique_opponents
 
 
 def calculate_strength_schedule_balance() -> pd.DataFrame:
@@ -321,28 +391,12 @@ def calculate_strength_schedule_balance() -> pd.DataFrame:
     logger.info("Loading input data: mid-season games and final standings.")
 
     try:
-        mid_team_games_df = pd.read_csv(paths.TEAM_GAMES_MID_SEASON)
+        team_games_df = pd.read_csv(paths.TEAM_GAMES_VALID)
         final_standings_df = pd.read_csv(paths.FINAL_STANDINGS_VALID)
         logger.info("Successfully loaded all required input files.")
     except FileNotFoundError as e:
         logger.error(f"Input file not found: {e}. Cannot proceed.", exc_info=True)
         return pd.DataFrame()
-
-    # ---------------------------------------------------------------------
-
-    # Enrich game data with league and season info for easier filtering.
-
-    season_info = final_standings_df[
-        ["source_id", "league_name", "season_year"]
-    ].drop_duplicates()
-
-    mid_team_games_df = pd.merge(
-        mid_team_games_df,
-        season_info,
-        left_on="standings_id",
-        right_on="source_id",
-        how="left",
-    )
 
     # ---------------------------------------------------------------------
 
@@ -358,9 +412,9 @@ def calculate_strength_schedule_balance() -> pd.DataFrame:
 
         logger.info(f"Processing league: {league}, Season: {season}")
 
-        season_games = mid_team_games_df[
-            (mid_team_games_df["league_name"] == league)
-            & (mid_team_games_df["season_year"] == season)
+        season_games = team_games_df[
+            (team_games_df["league_name"] == league)
+            & (team_games_df["season_year"] == season)
         ].copy()
 
         if season_games.empty:

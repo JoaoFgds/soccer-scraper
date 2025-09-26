@@ -432,25 +432,56 @@ def _enrich_season_games(
 
 
 def _parse_datetime(df: pd.DataFrame) -> pd.DataFrame:
-    """Parses date and time columns into a datetime column with multiple format support.
+    """
+    Parses date and time columns into a robust datetime column using an explicit format.
+
+    This function combines 'date' and 'time' string columns and converts
+    them into a single datetime object column. It is specifically designed to
+    handle formats that include a day-of-the-week abbreviation (e.g., 'sáb', 'sex')
+    by removing it before parsing.
 
     Args:
         df (pd.DataFrame): Input DataFrame with 'date' and 'time' columns.
 
     Returns:
-        pd.DataFrame: DataFrame with added 'datetime' column.
+        pd.DataFrame: The DataFrame with an added 'datetime' column of
+                      dtype datetime64[ns].
     """
-    from dateutil import parser
+    logger.info("Starting explicit datetime parsing for formats with weekdays...")
+
+    if "date" not in df.columns or "time" not in df.columns:
+        logger.error("Input DataFrame is missing required 'date' or 'time' columns.")
+        df["datetime"] = pd.NaT
+        return df
+
+    df["time"] = df["time"].replace("desconhecido", "00:00").fillna("00:00")
+    datetime_str = df["date"].fillna("") + " " + df["time"].fillna("")
+    cleaned_datetime_str = datetime_str.str.split(n=1).str[1]
+    date_format = "%d/%m/%Y %H:%M"
 
     try:
-        df["datetime"] = df.apply(
-            lambda row: parser.parse(row["date"] + " " + row["time"], fuzzy=True),
-            axis=1,
+        df["datetime"] = pd.to_datetime(
+            cleaned_datetime_str, format=date_format, errors="coerce"
         )
-        logger.info("Parsed datetime column successfully")
+
+        invalid_dates_count = df["datetime"].isna().sum()
+        if invalid_dates_count > 0:
+            logger.warning(
+                f"Datetime parsing complete. Found {invalid_dates_count} rows "
+                f"that did not match the format '{date_format}' and were set to NaT."
+            )
+        else:
+            logger.info(
+                "Successfully parsed datetime column for all rows using the specified format."
+            )
+
     except Exception as e:
-        logger.warning(f"Datetime parsing failed: {str(e)}. Using NaT")
+        logger.error(
+            f"An unexpected error occurred during datetime parsing. Error: {e}",
+            exc_info=True,
+        )
         df["datetime"] = pd.NaT
+
     return df
 
 
