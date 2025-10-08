@@ -5,13 +5,11 @@ import pandas as pd
 
 from fuzzywuzzy import fuzz
 from scipy.stats import spearmanr
-from typing import Dict, List, Tuple, Any
+from typing import Dict, List, Any
 from scipy.optimize import linear_sum_assignment
 
-from src.utils import paths, logger_setup
+from src.utils import paths
 
-
-logger_setup.setup_logging()
 logger = logging.getLogger(__name__)
 
 
@@ -191,94 +189,6 @@ def _create_optimal_name_mapping(
         )
 
     return pd.DataFrame(final_mapping)
-
-
-# def _get_team_schedule(
-#     team_canonical: str, season_games: pd.DataFrame, name_mapping: pd.DataFrame
-# ) -> List[str]:
-#     """
-#     Retrieves the ordered list of opponents for a specific team in the first half of a season.
-
-#     This function processes a DataFrame of season games to determine the schedule
-#     for a given team, specifically for rounds 1 through 19. It standardizes
-#     team names and sorts games by round number to ensure chronological accuracy,
-#     making it resilient to potential datetime data issues.
-
-#     Args:
-#         team_canonical (str): The official, standardized name of the team to analyze.
-#         season_games (pd.DataFrame): A DataFrame containing all games for the season.
-#             Expected columns: 'home_team_sanitized', 'away_team_sanitized', 'round'.
-#         name_mapping (pd.DataFrame): A DataFrame used for standardizing team names.
-#             Expected columns: 'other_name', 'canonical_name'.
-
-#     Returns:
-#         List[str]: An ordered list of the canonical names of the opponents the team
-#                    faced in the first 19 rounds of the season.
-#     """
-
-#     season_games_mapped = season_games.copy()
-
-#     # --- 1. Standardize Team Names ---
-
-#     # Convert the name mapping DataFrame into a dictionary for fast lookups.
-#     # This maps various team name spellings to a single, official name.
-#     name_map_dict = dict(
-#         zip(name_mapping["other_name"], name_mapping["canonical_name"])
-#     )
-
-#     # Apply the mapping to standardize away team names into a new column.
-#     season_games_mapped["away_team_canonical"] = season_games_mapped[
-#         "away_team_sanitized"
-#     ].map(name_map_dict)
-
-#     # If an away team was not in the mapping, its name will be NaN (Not a Number).
-#     # Fill these missing canonical names with their original sanitized names as a fallback.
-#     season_games_mapped["away_team_canonical"] = season_games_mapped[
-#         "away_team_canonical"
-#     ].fillna(season_games_mapped["away_team_sanitized"])
-
-#     # --- 2. Filter for Relevant Games ---
-
-#     # Select only the games that match two specific criteria:
-#     # Condition 1: The team was either the home or the away team.
-#     # Condition 2: The 'round' value must be a numeric string (e.g., "1", "19").
-
-#     team_games = season_games_mapped[
-#         (
-#             (season_games_mapped["home_team_sanitized"] == team_canonical)
-#             | (season_games_mapped["away_team_canonical"] == team_canonical)
-#         )
-#         & (season_games_mapped["round"].astype(str).str.isdigit())
-#     ]
-
-#     # --- 3. Sort Games Chronologically ---
-
-#     # Sort the filtered games by the round number to ensure the correct chronological order.
-#     # This is more reliable than sorting by datetime, which can be inconsistent or corrupt.
-
-#     team_games = team_games.sort_values(by="round")
-
-#     # --- 4. Extract Opponent Names ---
-
-#     # Initialize an empty list to store the final sequence of opponents.
-#     # Iterate over each row (game) in the sorted DataFrame.
-
-#     # Check if our team was playing at home.
-#     # If so, the opponent was the away team.
-#     # Otherwise, our team was away, and the opponent was the home team.
-#     # A safety check to ensure we don't add the team itself to the list.
-
-#     opponents = []
-#     for _, row in team_games.iterrows():
-#         if row["home_team_sanitized"] == team_canonical:
-#             opponent = row["away_team_canonical"]
-#         else:
-#             opponent = row["home_team_sanitized"]
-
-#         if opponent != team_canonical:
-#             opponents.append(opponent)
-
-#     return opponents
 
 
 def _get_team_schedule(

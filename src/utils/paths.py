@@ -2,11 +2,11 @@ from pathlib import Path
 
 ROOT_DIR = Path(__file__).resolve().parent.parent.parent
 
+LOG_DIR = ROOT_DIR / "logs"
+
 # DATA FOLDER
 
 DATA_DIR = ROOT_DIR / "data"
-
-LOG_DIR = DATA_DIR / "logs"
 RAW_DATA_DIR = DATA_DIR / "raw"
 ANALYSED_DATA_DIR = DATA_DIR / "analysed"
 PROCESSED_DATA_DIR = DATA_DIR / "processed"
@@ -32,3 +32,8 @@ SCHEDULES_DATA_COMBINED = SCHEDULES_DATA / "combined"
 SCHEDULES_DATA_INDIVIDUAL = SCHEDULES_DATA / "individual"
 
 SPEARMAN_COEFFICIENT = ANALYSED_DATA_DIR / "spearman_coefficient"
+
+PLOTS_DIR = ANALYSED_DATA_DIR / "plots"
+STATISTICAL_TESTS_DIR = ANALYSED_DATA_DIR / "statistical_tests"
+
+ANALYSIS_AUDIT_DIR = ANALYSED_DATA_DIR / "audit"
