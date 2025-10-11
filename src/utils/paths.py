@@ -1,39 +1,48 @@
+# src/utils/paths.py
+
 from pathlib import Path
 
+# --- Project Root ---
 ROOT_DIR = Path(__file__).resolve().parent.parent.parent
 
+# --- Logging ---
 LOG_DIR = ROOT_DIR / "logs"
+LOG_FILE = LOG_DIR / "app.log"
 
-# DATA FOLDER
-
+# --- Data Tiers ---
 DATA_DIR = ROOT_DIR / "data"
-RAW_DATA_DIR = DATA_DIR / "raw"
-ANALYSED_DATA_DIR = DATA_DIR / "analysed"
-PROCESSED_DATA_DIR = DATA_DIR / "processed"
+BRONZE_DATA_DIR = DATA_DIR / "bronze"  # Raw data from scraper
+SILVER_DATA_DIR = DATA_DIR / "silver"  # Processed and cleaned data
+GOLD_DATA_DIR = DATA_DIR / "gold"  # Analysis-ready data and artifacts
 
-# PROCESSED DATA FOLDERS
+# --- Assets (Manual files, configs, etc.) ---
+ASSETS_DIR = ROOT_DIR / "assets"
+MANUAL_NAME_MAPPING_PATH = ASSETS_DIR / "manual_name_mapping.csv"
 
-TEAM_GAMES = PROCESSED_DATA_DIR / "team_games"
-FINAL_STANDINGS = PROCESSED_DATA_DIR / "final_standings"
 
-# PROCESSED DATA FILES
+# --- Bronze Layer (Inputs for Pre-Processor) ---
+SCRAPER_OUTPUT_DIR = BRONZE_DATA_DIR / "scraper"
 
-TEAM_GAMES_VALID = TEAM_GAMES / "team_games_complete_valid.csv"
-FINAL_STANDINGS_VALID = FINAL_STANDINGS / "final_standings_complete_valid.csv"
+# --- Silver Layer (Outputs from Pre-Processor) ---
+PRE_PROCESSOR_OUTPUT_DIR = SILVER_DATA_DIR
+STANDINGS_COMPLETE_PATH = PRE_PROCESSOR_OUTPUT_DIR / "standings_complete.csv"
+STANDINGS_VALID_PATH = PRE_PROCESSOR_OUTPUT_DIR / "standings_valid.csv"
+GAMES_COMPLETE_PATH = PRE_PROCESSOR_OUTPUT_DIR / "games_complete.csv"
+GAMES_VALID_PATH = PRE_PROCESSOR_OUTPUT_DIR / "games_valid.csv"
+SEASON_SUMMARY_PATH = PRE_PROCESSOR_OUTPUT_DIR / "season_summary.csv"
 
-# ANALYSED DATA
+# --- Gold Layer (Outputs from Name Mapping & Analysis) ---
+ANALYSIS_OUTPUT_DIR = GOLD_DATA_DIR / "analysis"
+NAME_MAPPINGS_DIR = GOLD_DATA_DIR / "name_mappings"
 
-NAME_MAPPINGS = ANALYSED_DATA_DIR / "name_mappings"
-NAME_MAPPINGS_COMBINED = NAME_MAPPINGS / "combined"
-NAME_MAPPINGS_INDIVIDUAL = NAME_MAPPINGS / "individual"
 
-SCHEDULES_DATA = ANALYSED_DATA_DIR / "schedules_data"
-SCHEDULES_DATA_COMBINED = SCHEDULES_DATA / "combined"
-SCHEDULES_DATA_INDIVIDUAL = SCHEDULES_DATA / "individual"
+NAME_MAPPINGS_INDIVIDUAL_DIR = NAME_MAPPINGS_DIR
+NAME_MAPPINGS_COMBINED_PATH = NAME_MAPPINGS_DIR / "name_mappings_combined.csv"
 
-SPEARMAN_COEFFICIENT = ANALYSED_DATA_DIR / "spearman_coefficient"
-
-PLOTS_DIR = ANALYSED_DATA_DIR / "plots"
-STATISTICAL_TESTS_DIR = ANALYSED_DATA_DIR / "statistical_tests"
-
-ANALYSIS_AUDIT_DIR = ANALYSED_DATA_DIR / "audit"
+# Create directories to ensure they exist when written to
+ASSETS_DIR.mkdir(parents=True, exist_ok=True)
+PRE_PROCESSOR_OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+ANALYSIS_OUTPUT_DIR.mkdir(
+    parents=True, exist_ok=True
+)  # <--- GARANTIR QUE O DIRETÓRIO DE ANÁLISE EXISTA
+NAME_MAPPINGS_INDIVIDUAL_DIR.mkdir(parents=True, exist_ok=True)

@@ -65,6 +65,7 @@ venv.bak/
 
 # Data files 
 data/
+logs/
 
 # OS-specific files
 .DS_Store

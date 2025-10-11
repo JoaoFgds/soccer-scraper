@@ -16,5 +16,6 @@ dependencies = [
     "requests>=2.32.4",
     "scipy>=1.16.2",
     "seaborn>=0.13.2",
+    "thefuzz>=0.22.1",
     "xlrd>=2.0.2",
 ]
