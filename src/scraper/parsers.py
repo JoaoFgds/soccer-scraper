@@ -3,31 +3,34 @@ import pandas as pd
 from bs4 import Tag
 from urllib.parse import urljoin
 
-from . import config
+from . import constants
 from .network import fetch_soup
 from .exceptions import ScrapingError
+
 
 logger = logging.getLogger(__name__)
 
 
 def fetch_league_standings(standings_url: str) -> pd.DataFrame:
-    """
-    Extracts the league standings table from a given competition URL.
+    """Extracts the league standings table from a given competition URL.
 
-    This function parses the main classification table for a league and season
-    to gather team statistics and, critically, the unique URL to each team's
-    homepage on Transfermarkt, which is required for subsequent scraping tasks.
+    This function parses the main classification table for a specific league
+    and season. Its primary purpose is to gather team statistics and the unique
+    URL for each team's homepage on Transfermarkt, which is essential for
+    subsequent scraping tasks.
 
     Args:
-        standings_url (str): The URL of the league standings page.
+        standings_url (str): The full URL of the league standings page.
 
     Returns:
-        pd.DataFrame: A DataFrame containing the standings data, including columns
-            for 'position', 'team', stats, and 'team_url'.
+        pd.DataFrame: A DataFrame containing the standings data. Key columns
+            include 'position', 'team', various match stats, and 'team_url'.
+            Returns an empty DataFrame if the table is found but contains no data rows.
 
     Raises:
-        ScrapingError: If the main standings table (class='items') cannot be
-            found in the page's HTML, indicating a page structure change.
+        ScrapingError: If the main standings table (identified by the class
+            'items') cannot be found in the page's HTML, which likely
+            indicates a change in the website's structure.
     """
     soup = fetch_soup(standings_url)
     table = soup.find("table", class_="items")
@@ -53,7 +56,7 @@ def fetch_league_standings(standings_url: str) -> pd.DataFrame:
             else cols[1].text.strip()
         )
         team_url = (
-            urljoin(config.BASE_URL, team_anchor["href"]) if team_anchor else None
+            urljoin(constants.BASE_URL, team_anchor["href"]) if team_anchor else None
         )
 
         table_data.append(
@@ -76,37 +79,39 @@ def fetch_league_standings(standings_url: str) -> pd.DataFrame:
 def fetch_team_schedules(
     calendar_url: str, league_name: str, league_code: str
 ) -> pd.DataFrame:
-    """
-    Extracts a team's match schedule for a specific league from its calendar page.
+    """Extracts a team's match schedule for a specific league.
 
-    It first attempts to find the schedule table by the competition's unique
-    `league_code`. If that fails, it falls back to searching for the
-    `league_name` in page headings to locate the correct section.
+    This function scrapes a team's calendar page to find the match schedule for a
+    particular competition. It employs a two-step strategy to locate the correct
+    data table. First, it attempts to find the table using the competition's
+    unique `league_code`. If that fails, it falls back to searching for the
+    human-readable `league_name` within page headings to identify the section.
 
     Args:
-        calendar_url (str): The URL of the team's schedule ('spielplan') page.
-        league_name (str): The human-readable league name (e.g., "Premier League"),
-            used in the fallback search.
-        league_code (str): The unique competition code (e.g., "GB1"), used as
-            the primary search method.
+        calendar_url (str): The URL of the team's main schedule ('spielplan') page.
+        league_name (str): The display name of the league (e.g., "Premier League"),
+            which is used as a fallback search criterion.
+        league_code (str): The unique competition code (e.g., "GB1"), used as the
+            primary method for locating the schedule table.
 
     Returns:
-        pd.DataFrame: A DataFrame containing match details. Returns an empty
-            DataFrame if the table is found but has no data.
+        pd.DataFrame: A DataFrame containing match details such as date, teams,
+            and result. Returns an empty DataFrame if the schedule table is
+            found but contains no match data.
 
     Raises:
-        ScrapingError: If the schedule table cannot be located using either
-            the primary or fallback search method.
+        ScrapingError: If the schedule table cannot be located using either the
+            primary `league_code` search or the fallback `league_name` search.
     """
     soup = fetch_soup(calendar_url)
     schedule_table = None
 
-    # Primary strategy: find by competition ID
+    # Primary strategy: find the data block by the competition's unique ID.
     competition_section = soup.find("div", id=league_code)
     if competition_section and isinstance(competition_section, Tag):
         schedule_table = competition_section.find("table")
     else:
-        # Fallback strategy: find by league name in h2 tags
+        # Fallback strategy: find the section heading that contains the league name.
         h2_tags = soup.find_all("h2")
         for h2 in h2_tags:
             if h2 and league_name in h2.text:
@@ -145,7 +150,7 @@ def fetch_team_schedules(
                 "audience": cols[9].text.strip().replace(".", ""),
                 "result": result_anchor.text.strip() if result_anchor else "",
                 "match_link": (
-                    urljoin(config.BASE_URL, result_anchor["href"])
+                    urljoin(constants.BASE_URL, result_anchor["href"])
                     if result_anchor
                     else ""
                 ),

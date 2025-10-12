@@ -1,11 +1,11 @@
 import time
 import logging
 
-from . import config
+from . import constants
 from src.utils import paths
-from src.utils.logger_setup import setup_logging
+from src.utils.logger import setup_logging
+from src.utils.helpers import sanitize_filename
 
-from .utils import sanitize_filename
 from .exceptions import ScrapingError
 from .parsers import fetch_league_standings, fetch_team_schedules
 
@@ -16,9 +16,26 @@ logger = logging.getLogger(__name__)
 def run_scraper_for_season(
     league_name: str, league_slug: str, league_code: str, season_year: int
 ):
-    """
-    Orchestrates the scraping process for a single league and season.
-    ...
+    """Orchestrates the scraping process for a single league and season.
+
+    This function manages the entire workflow for scraping data for one
+    competition season. It performs the following steps:
+    1.  Constructs the necessary output directories for standings and matches.
+    2.  Determines the correct 'season_id' for the URL, handling exceptions
+        for leagues with calendar-year seasons.
+    3.  Fetches the main league standings table.
+    4.  Saves the standings to a CSV file.
+    5.  Iterates through each team in the standings to fetch their individual
+        match schedules for that season.
+    6.  Saves each team's schedule to a separate CSV file.
+    7.  Logs errors gracefully to allow the wider scraping process to continue.
+
+    Args:
+        league_name (str): The human-readable name of the league (e.g., "Premier League").
+        league_slug (str): The URL-friendly slug for the league (e.g., "premier-league").
+        league_code (str): The unique competition code used by the website (e.g., "GB1").
+        season_year (int): The starting year of the season to be scraped (e.g., 2023
+            for the 2023/24 season).
     """
     safe_league_slug = sanitize_filename(league_slug)
 
@@ -33,7 +50,7 @@ def run_scraper_for_season(
     if league_code in ["BRA1", "BRA2", "JAP1", "JAP2", "CLPD"]:
         season_id = season_year - 1
 
-    standings_url = f"{config.BASE_URL}/{league_slug}/tabelle/wettbewerb/{league_code}/saison_id/{season_id}"
+    standings_url = f"{constants.BASE_URL}/{league_slug}/tabelle/wettbewerb/{league_code}/saison_id/{season_id}"
     logger.info("Extracting data for %s - Season %s", league_name, season_year)
     logger.info("Standings URL: %s", standings_url)
 
@@ -95,15 +112,21 @@ def run_scraper_for_season(
 
 
 def scraper_pipeline():
-    """
-    Main entry point to run the full scraping process based on config.
+    """Runs the full scraping pipeline for all configured leagues.
+
+    This function serves as the main entry point for the scraper. It initializes
+    logging and then iterates through all leagues defined in the
+    `constants.LEAGUES` configuration dictionary. For each league, it scrapes
+    data for a range of seasons, from a defined start year up to a final
+    year. The pipeline introduces delays between requests for different seasons
+    and leagues to avoid overwhelming the target server.
     """
     setup_logging()
 
     FINAL_YEAR = 2024
     MIN_START_YEAR = 1990
 
-    for league_key, league_info in config.LEAGUES.items():
+    for league_key, league_info in constants.LEAGUES.items():
         if league_info.get("processed"):
             logger.info(
                 "League '%s' is marked as processed. Skipping.", league_info["name"]
@@ -125,7 +148,7 @@ def scraper_pipeline():
             logger.info("Waiting 30 seconds before next season...")
             time.sleep(30)
 
-        config.LEAGUES[league_key]["processed"] = True
+        constants.LEAGUES[league_key]["processed"] = True
         logger.info("--- Finished processing for %s. ---", league_name)
         logger.info("Waiting 2 minutes before next league...")
         time.sleep(120)

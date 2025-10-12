@@ -7,7 +7,7 @@ from src.analysis import spearman_coeff
 from src.analysis import spearman_coeff_summary
 from src.analysis import mann_whitney_seasons
 from src.analysis import mann_whitney_attendance
-from src.utils.logger_setup import setup_logging
+from utils.logger import setup_logging
 
 logger = logging.getLogger(__name__)
 

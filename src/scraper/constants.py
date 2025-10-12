@@ -9,9 +9,8 @@ are managed by `src.utils.paths`.
 MAX_RETRIES = 5
 BACKOFF_FACTOR = 2
 REQUEST_DELAY_RANGE_SECONDS = (3, 12)
-
-
 BASE_URL = "https://www.transfermarkt.com.br"
+
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36",
     "Accept-Language": "en-US,en;q=0.9,pt;q=0.8",
@@ -32,13 +31,13 @@ LEAGUES = {
     #     "start_year": "2004",
     #     "processed": "true",
     # },
-    "laliga": {
-        "name": "LaLiga",
-        "slug": "laliga",
-        "code": "ES1",
-        "start_year": 2024,
-        "processed": False,
-    },
+    # "laliga": {
+    #     "name": "LaLiga",
+    #     "slug": "laliga",
+    #     "code": "ES1",
+    #     "start_year": 2024,
+    #     "processed": False,
+    # },
     # "laliga2": {
     #     "name": "LaLiga2",
     #     "slug": "laliga2",
@@ -46,69 +45,69 @@ LEAGUES = {
     #     "start_year": "2007",
     #     "processed": "true",
     # },
-    "bundesliga": {
-        "name": "Bundesliga",
-        "slug": "bundesliga",
-        "code": "L1",
-        "start_year": 2024,
-        "processed": False,
-    },
-    # "2bundesliga": {
-    #     "name": "2. Bundesliga",
-    #     "slug": "2-bundesliga",
-    #     "code": "L2",
-    #     "start_year": "1981",
-    #     "processed": "true",
+    # "bundesliga": {
+    #     "name": "Bundesliga",
+    #     "slug": "bundesliga",
+    #     "code": "L1",
+    #     "start_year": 2024,
+    #     "processed": False,
     # },
-    "seriea": {
-        "name": "Serie A",
-        "slug": "serie-a",
-        "code": "IT1",
-        "start_year": 2024,
-        "processed": False,
-    },
-    # "serieb": {
-    #     "name": "Serie B",
-    #     "slug": "serie-b",
-    #     "code": "IT2",
-    #     "start_year": "2002",
-    #     "processed": "true",
+    # # "2bundesliga": {
+    # #     "name": "2. Bundesliga",
+    # #     "slug": "2-bundesliga",
+    # #     "code": "L2",
+    # #     "start_year": "1981",
+    # #     "processed": "true",
+    # # },
+    # "seriea": {
+    #     "name": "Serie A",
+    #     "slug": "serie-a",
+    #     "code": "IT1",
+    #     "start_year": 2024,
+    #     "processed": False,
     # },
-    "ligue1": {
-        "name": "Ligue 1",
-        "slug": "ligue-1",
-        "code": "FR1",
-        "start_year": 2024,
-        "processed": False,
-    },
-    # "ligue2": {
-    #     "name": "Ligue 2",
-    #     "slug": "ligue-2",
-    #     "code": "FR2",
-    #     "start_year": "1994",
-    #     "processed": "true",
+    # # "serieb": {
+    # #     "name": "Serie B",
+    # #     "slug": "serie-b",
+    # #     "code": "IT2",
+    # #     "start_year": "2002",
+    # #     "processed": "true",
+    # # },
+    # "ligue1": {
+    #     "name": "Ligue 1",
+    #     "slug": "ligue-1",
+    #     "code": "FR1",
+    #     "start_year": 2024,
+    #     "processed": False,
     # },
-    "brasileiraoseriea": {
-        "name": "Campeonato Brasileiro Série A",
-        "slug": "campeonato-brasileiro-serie-a",
-        "code": "BRA1",
-        "start_year": 2024,
-        "processed": False,
-    },
-    # "brasileiraoserieb": {
-    #     "name": "Campeonato Brasileiro Série B",
-    #     "slug": "campeonato-brasileiro-serie-b",
-    #     "code": "BRA2",
-    #     "start_year": "2009",
-    #     "processed": "true",
+    # # "ligue2": {
+    # #     "name": "Ligue 2",
+    # #     "slug": "ligue-2",
+    # #     "code": "FR2",
+    # #     "start_year": "1994",
+    # #     "processed": "true",
+    # # },
+    # "brasileiraoseriea": {
+    #     "name": "Campeonato Brasileiro Série A",
+    #     "slug": "campeonato-brasileiro-serie-a",
+    #     "code": "BRA1",
+    #     "start_year": 2024,
+    #     "processed": False,
     # },
-    "ligaportugal": {
-        "name": "Liga Portugal",
-        "slug": "liga-portugal",
-        "code": "PO1",
-        "start_year": 2024,
-        "processed": False,
-    },
+    # # "brasileiraoserieb": {
+    # #     "name": "Campeonato Brasileiro Série B",
+    # #     "slug": "campeonato-brasileiro-serie-b",
+    # #     "code": "BRA2",
+    # #     "start_year": "2009",
+    # #     "processed": "true",
+    # # },
+    # "ligaportugal": {
+    #     "name": "Liga Portugal",
+    #     "slug": "liga-portugal",
+    #     "code": "PO1",
+    #     "start_year": 2024,
+    #     "processed": False,
+    # },
     # "ligaportugal2": {
     #     "name": "Liga Portugal 2",
     #     "slug": "liga-portugal-2",
@@ -150,14 +149,14 @@ LEAGUES = {
     #     "code": "TR1",
     #     "start_year": "2014",
     #     "processed": "true",
+    # # },
+    # "saudiproleague": {
+    #     "name": "Saudi Pro League",
+    #     "slug": "saudi-pro-league",
+    #     "code": "SA1",
+    #     "start_year": 2024,
+    #     "processed": False,
     # },
-    "saudiproleague": {
-        "name": "Saudi Pro League",
-        "slug": "saudi-pro-league",
-        "code": "SA1",
-        "start_year": 2024,
-        "processed": False,
-    },
     # "ligadeprimera": {
     #     "name": "Liga de Primera",
     #     "slug": "liga-de-primera",
