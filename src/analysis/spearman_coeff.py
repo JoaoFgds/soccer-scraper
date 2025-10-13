@@ -67,7 +67,10 @@ def _get_first_round_opponents(
         | (season_games_df["away_team_canonical"] == team_canonical)
     ].copy()
 
-    team_games["datetime"] = pd.to_datetime(team_games["datetime"], errors="coerce")
+    team_games["datetime"] = pd.to_datetime(
+        team_games["datetime"], errors="coerce", format="%Y-%m-%d %H:%M:%S"
+    )
+
     team_games.sort_values(by="datetime", ascending=True, inplace=True)
 
     opponents_in_order = []

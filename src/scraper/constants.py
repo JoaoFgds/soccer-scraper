@@ -22,7 +22,7 @@ LEAGUES = {
         "slug": "premier-league",
         "code": "GB1",
         "start_year": 1992,
-        "processed": False,
+        "processed": True,
     },
     "championship": {
         "name": "Championship",

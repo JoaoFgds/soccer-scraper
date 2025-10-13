@@ -1,229 +1,327 @@
-# Transfermarkt Soccer Scraper
-
+# Soccer Analytics Engine
 [![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Overview
+## 1. Overview
+This project is a complete and robust data engineering pipeline designed to extract, process, and analyze professional soccer data from the [Transfermarkt](https://www.transfermarkt.com.br) website. Operating as a fully automated system, it transforms raw, unstructured web data into structured, validated datasets and, ultimately, actionable statistical insights. The application architecture is based on the **Medallion Architecture** with three stages (scrape, process, analysis), mirroring the Bronze, Silver, and Gold layers. This approach ensures data quality, traceability, and robustness. The ultimate goal is to analyze the concept of "schedule balance" and determine its statistical significance in team performance metrics, such as final league position and stadium occupancy.
 
-This project is a robust and scalable Python-based web scraper designed to extract comprehensive soccer data from [Transfermarkt](https://www.transfermarkt.com.br), one of the most detailed public sources for football statistics. The application systematically processes multiple leagues and historical seasons to build a rich dataset for sports analytics, predictive modeling, or historical research.
+## 2. Main Features
+- **End-to-End Automated Pipeline**: A single command can trigger the entire workflow: extracting raw data, cleaning and validating it, and running a full suite of statistical analyses.
+- **Medallion Data Architecture**:
+  - **Bronze Layer**: Raw, untouched data directly from the source.
+  - **Silver Layer**: Cleaned, validated, enriched, and analysis-ready data.
+  - **Gold Layer**: Aggregated business insights and statistical model outputs.
+- **Robust and Ethical Scraping**: The scraper is built to be resilient with automatic retries and exponential backoff. It incorporates random delays to ensure ethical, low-impact interaction with the source server.
+- **Automated Data Processing and Validation**: The processing stage applies a series of business rules to validate data quality, checking for completeness (e.g., all team files present), correctness (e.g., valid team URLs), and structural integrity (e.g., round-robin format).
+- **Advanced Statistical Analysis**: The analysis stage automatically calculates:
+  - **Spearman’s G Coefficient**: To quantify the strength and balance of each team’s schedule.
+  - **Mann-Whitney U Test**: To determine if schedule balance has a statistically significant impact on a team’s final league position and stadium occupancy rate.
+- **Modular and Maintainable Code**: The project is logically structured into distinct modules for scraping, processing, analysis, and utilities, following software engineering best practices.
 
-The scraper is engineered with politeness and resilience at its core. It incorporates intelligent delays and a sophisticated retry mechanism to ensure stable, long-running execution while respecting the website's servers and minimizing the risk of IP blocks. This project is not just a script, but a small-scale data engineering pipeline, moving from raw web data to structured, usable CSV files.
+## 3. Project Architecture and Data Flow
+The application is orchestrated by `main.py` at the project root, which executes the three main pipelines in sequence. Each stage consumes data from the previous layer and produces artifacts for the next.
 
-## Key Features
+### Main Module (main.py)
+This is the application’s entry point. It uses `argparse` to allow the user to run one of the three pipelines (scrape, process, analysis) or all sequentially (`all`). It contains no business logic, only orchestrating the execution of the main modules for each stage.
 
--   **Modular & Scalable Architecture**: The code is organized into a clean `src` layout, separating distinct responsibilities (configuration, network requests, data parsing, utilities) into dedicated modules for high maintainability and ease of expansion.
--   **Robust Network Handling**: Features a resilient request handler that automatically retries on transient network errors and specific server responses (HTTP 429/503), using an exponential backoff strategy to gracefully handle server load.
--   **Polite & Ethical Scraping**: A randomized delay is enforced between all requests to mimic human-like browsing behavior, ensuring the scraper does not overwhelm the target server. This is crucial for long-term operational stability.
--   **Configuration-Driven Control**: The entire scraping process is controlled via a central configuration file (`config.py`). Users can easily define which leagues to scrape, manage their processing state (`processed` flag), and set historical data limits (`start_year`).
--   **Structured & Organized Data Output**: All extracted data is saved into clean, machine-readable CSV files, organized in a logical directory hierarchy: `data/raw/{league_slug}/{season_year}/`.
+### Utilities Module (src/utils)
+This module provides support functionalities used throughout the project.
+- `helpers.py`: Contains critical helper functions, such as `sanitize_filename` for cleaning file names, `generate_id` for creating deterministic SHA-256 hashes for unique identifiers, `extract_metadata_from_filename` for extracting structured information from standardized file names, and `validate_url_year` for checking year consistency in URLs.
+- `logger.py`: Configures the application-wide logging system, directing logs to both the console and a rotating file. Includes a customized formatter that displays file paths relatively, making logs more readable.
+- `paths.py`: Centralizes all filesystem paths for the project. It defines the complete directory structure (Bronze, Silver, Gold) and creates these folders at startup to ensure the application can save its artifacts correctly.
 
-## Data Coverage
+### Stage 1: Scraper (Bronze Layer)
+- **Responsibility**: Extract raw, unaltered data for specified leagues and seasons from Transfermarkt.
+- **Main Modules**:
+  - `scraper/main.py`: Orchestrates the scraping workflow, iterating through leagues and seasons defined in `scraper/constants.py`.
+  - `scraper/constants.py`: Central configuration file defining scraping parameters, such as network settings (retries, delays), request headers, and the list of `LEAGUES` to be extracted.
+  - `scraper/network.py`: Manages all HTTP requests with robust error handling, random delays, and retries with exponential backoff.
+  - `scraper/parsers.py`: Contains logic to parse HTML content from web pages using BeautifulSoup and extract structured data into pandas DataFrames.
+  - `scraper/exceptions.py`: Defines the custom `ScrapingError` exception to handle predictable scraping failures.
+- **Output**: Raw CSV files organized by league and season, stored in `data/bronze/`. This layer serves as the single source of truth for all subsequent processing.
 
-This project has successfully scraped and processed historical data for the following major European and Brazilian football leagues. The data for each league covers the seasons from a defined start year up to the **2024** season. The scraping process respects a minimum start year of **1990** for historical data.
+### Stage 2: Processor (Silver Layer)
+- **Responsibility**: Transform raw data from the Bronze layer into clean, validated, analysis-ready datasets.
+- **Main Modules**:
+  - `processor/main.py`: Orchestrates the entire preprocessing and data validation workflow.
+  - `processor/processors.py`: Contains functions to read, consolidate, clean, enrich, and validate raw data. It performs critical data quality checks based on predefined business rules.
+  - `processor/mapping.py`: Implements a sophisticated team name standardization process. It uses a combination of a manual mapping file and an optimal assignment algorithm (`linear_sum_assignment` from SciPy) to resolve name variations across different data sources.
+- **Output**: Validated, complete master CSV files stored in `data/silver/`. These data are considered reliable and ready for business intelligence and statistical analysis.
 
-*Note: For leagues following a mid-year calendar (e.g., most European leagues), the year represents the start of the season. For example, data for the year `2023` corresponds to the `2023/24` season.*
+### Stage 3: Analysis (Gold Layer)
+- **Responsibility**: Consume validated data from the Silver layer and generate high-level insights and analytical artifacts.
+- **Main Modules**:
+  - `analysis/main.py`: Orchestrates the entire analysis pipeline.
+  - `analysis/spearman_coeff.py`: Calculates the "Schedule Strength Balance" (Spearman’s G coefficient) for each team in each valid season. Generates detailed JSON files with the raw data used in calculations.
+  - `analysis/spearman_coeff_summary.py`: Aggregates detailed G coefficient results into a summary table, providing an overview of schedule types (strong, weak, balanced) by season, league, and overall.
+  - `analysis/mann_whitney_seasons.py`: Performs Mann-Whitney U tests to assess whether schedule balance significantly impacts a team’s final league position.
+  - `analysis/mann_whitney_attendance.py`: Conducts a sensitivity analysis to determine if schedule balance correlates with stadium occupancy, testing with multiple imputed audience metrics.
+- **Output**: Final summary tables (CSV), detailed JSON files with statistical entries, and visualization plots stored in `data/gold/`. This layer represents the culmination of the project’s analytical objectives.
 
+## 4. Data Artifacts and Schemas
+The project produces structured data artifacts at each pipeline layer.
 
-| League                             | Country | Seasons Covered |
-| :--------------------------------- | :------ | :-------------- |
-| Premier League                     | England | 1992-2024       |
-| Championship                       | England | 2004-2024       |
-| LaLiga                             | Spain   | 2000-2024       |
-| LaLiga2                            | Spain   | 2007-2024       |
-| Bundesliga                         | Germany | 1990-2024       |
-| 2. Bundesliga                      | Germany | 1990-2024       |
-| Serie A                            | Italy   | 1990-2024       |
-| Serie B                            | Italy   | 2002-2024       |
-| Ligue 1                            | France  | 1990-2024       |
-| Ligue 2                            | France  | 1994-2024       |
-| Liga Portugal                      | Portugal| 1996-2024       |
-| Liga Portugal 2                    | Portugal| 2007-2024       |
-| Jupiler Pro League                 | Belgium | 2008-2024       |
-| Challenger Pro League              | Belgium | 2006-2024       |
-| J1 League                          | Japan   | 2005-2024       |
-| J2 League                          | Japan   | 2010-2024       |
-| Super Lig                          | Turkey  | 2014-2024       |
-| Campeonato Brasileiro Série A      | Brazil  | 2006-2024       |
-| Campeonato Brasileiro Série B      | Brazil  | 2009-2024       |
+### Bronze Layer (data/bronze/)
 
-## Architectural Deep Dive
+#### League Standings
+- **Path**: `data/bronze/scraper/{league_slug}/{season_year}/final_standings/{league_slug}_{season_year}_standings.csv`
+- **Description**: The final league standings table for a given season.
 
-To meet the goal of being a robust and maintainable application, the project's code is divided into several modules, each with a single responsibility. The data flows between these modules in a logical sequence.
+| Column          | Type   | Description                                    | Example           |
+|-----------------|--------|------------------------------------------------|-------------------|
+| position        | string | The team’s final ranking in the table.         | 1                 |
+| team            | string | The team’s full name.                          | Manchester City   |
+| played          | string | Total number of matches played.                | 38                |
+| won             | string | Total number of matches won.                   | 28                |
+| drawn           | string | Total number of matches drawn.                 | 7                 |
+| lost            | string | Total number of matches lost.                  | 3                 |
+| goal_ratio      | string | Goals scored vs. goals conceded.               | 96:34             |
+| goal_difference | string | Final goal difference.                         | 62                |
+| points          | string | Total points accumulated.                      | 91                |
+| team_url        | string | Absolute URL to the team’s main page on Transfermarkt. | https://... |
 
--   `src/scraper/config.py`: The single source of truth for all operational parameters. It holds constants like request headers, retry settings, and the main `LEAGUES` dictionary that defines the scope of the scraping tasks. No other module should contain hardcoded configuration values.
--   `src/scraper/network.py`: The communication layer. Its primary function, `fetch_soup`, handles all outgoing HTTP requests, embedding the politeness delay and exponential backoff logic. It is the only module that directly interacts with the internet. It uses parameters from `config.py` and raises exceptions from `exceptions.py`.
--   `src/scraper/parsers.py`: The core "brain" of the scraper. This module contains functions (`fetch_league_standings`, `fetch_team_schedules`) responsible for taking raw HTML content (provided by `network.py`) and parsing it with BeautifulSoup to extract structured data into pandas DataFrames. The logic here is specific to Transfermarkt's HTML structure.
--   `src/scraper/utils.py`: A toolbox for common, reusable tasks. It contains helper functions like `sanitize_filename` that are used across different parts of the application to ensure consistent data cleaning.
--   `src/scraper/exceptions.py`: Defines custom exceptions like `ScrapingError`. This allows the application to differentiate between predictable scraping failures (e.g., a table not found) and general Python errors.
--   `main.py` (and `src/scraper/main.py`): The central orchestrator. These modules do not contain any low-level scraping logic. Instead, they import components from the other modules and execute the high-level workflow: reading the configuration, looping through leagues and seasons, calling the appropriate parsers, handling errors, and saving the results.
+#### Team Games
+- **Path**: `data/bronze/scraper/{league_slug}/{season_year}/team_games/{league_slug}_{season_year}_{sanitized_team_name}.csv`
+- **Description**: A match-by-match breakdown for a single team, including tactical information, results, and attendance.
 
-## Configuration In-Depth
+| Column      | Type    | Description                                           | Example             |
+|-------------|---------|-------------------------------------------------------|---------------------|
+| round       | string  | The round or matchday number.                         | 1                   |
+| date        | string  | The match date.                                       | Sun, 08/18/2024     |
+| time        | string  | The start time in the website’s local timezone.       | 12:30               |
+| home_team   | string  | The home team’s name.                                 | Chelsea FC          |
+| away_team   | string  | The away team’s name.                                 | Manchester City     |
+| formation   | string  | The tactical formation used by the team.              | 4-3-3 attacking     |
+| coach       | string  | The team’s coach name for that match.                 | Pep Guardiola       |
+| audience    | integer | The official match attendance.                        | 55017               |
+| result      | string  | The final match score.                                | 0:2                 |
+| match_link  | string  | Absolute URL to the detailed match report.            | https://...         |
 
-All operational parameters are controlled from `src/scraper/config.py`.
+### Silver Layer (data/silver/)
 
-| Constant                      | Description                                                                                             |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------- |
-| `MAX_RETRIES`                 | The maximum number of times the scraper will retry a failed network request.                            |
-| `BACKOFF_FACTOR`              | A multiplier that determines how quickly the delay between retries increases (e.g., `2**attempt`).      |
-| `REQUEST_DELAY_RANGE_SECONDS` | A tuple `(min, max)` defining the random waiting period in seconds before each HTTP request.            |
-| `OUTPUT_DIR`                  | The root directory where all scraped data will be saved.                                                |
-| `BASE_URL`                    | The base URL for Transfermarkt, used to construct absolute links from relative paths.                   |
-| `HEADERS`                     | HTTP headers sent with each request to identify the client as a standard web browser.                   |
-| `LEAGUES`                     | The main dictionary defining the scraping tasks. Each key (`name`, `slug`, etc.) is vital for the process. |
+#### Seasons Summary
+- **Path**: `data/silver/seasons_summary.csv`
+- **Description**: A data quality artifact that summarizes and validates each extracted season based on a set of business rules.
 
-##  Erorr Handling & Logging
+| Column                    | Type    | Description                                                                 |
+|---------------------------|---------|-----------------------------------------------------------------------------|
+| source_id                 | string  | Unique SHA-256 hash of the source standings file.                           |
+| source_csv_file           | string  | Name of the source standings CSV file.                                      |
+| league_name               | string  | Sanitized slug of the league name.                                          |
+| season_year               | integer | Season start year.                                                          |
+| num_total_teams           | integer | Total number of teams in the standings table.                               |
+| num_total_games           | integer | Total number of unique games played in the season.                          |
+| num_null_attendance_games | integer | Count of games with null or zero attendance data.                           |
+| pct_null_attendance_games | float   | Percentage of games with null attendance.                                   |
+| is_valid_url              | boolean | Flag indicating if all team URLs in the standings are consistent with the season year. |
+| is_double_rounded         | boolean | Flag indicating if the total number of games matches a round-robin tournament (N*(N-1)). |
+| is_valid_attendance       | boolean | Flag indicating if the percentage of null attendance is below an acceptable threshold (5%). |
+| has_all_teams_files       | boolean | Flag indicating if a games file exists for every team listed in the standings. |
 
-The application is designed to run for long periods without supervision.
-- **Custom Exception**: `ScrapingError` is raised for predictable issues (e.g., failed requests, missing HTML tables). This allows the main loop to catch these errors, log them, and continue to the next item without crashing.
-- **Logging Levels**:
-  - `INFO`: Tracks the main progress of the script (e.g., "Starting processing for league...", "Processing season...").
-  - `WARNING`: Indicates non-critical issues, such as skipping a table row with an unexpected format or being unable to parse a specific data point.
-  - `ERROR`: Reports a failure for a specific task (e.g., processing a single season) that was caught and handled.
-  - `CRITICAL`: Reports a major failure that may have stopped a significant part of the process.
+#### Validated Standings
+- **Path**: `data/silver/final_standings_valid.csv`
+- **Description**: A consolidated master table of all high-quality season standings data, enriched with unique IDs and canonical team names.
 
-## Limitations and Known Issues
+| Column           | Type   | Description                                                                 |
+|------------------|--------|-----------------------------------------------------------------------------|
+| id               | string | Unique SHA-256 hash for the team-season record.                             |
+| source_id        | string | Unique SHA-256 hash of the source standings file.                           |
+| position         | Int64  | The team’s final numeric ranking.                                           |
+| team             | string | The team’s original display name.                                           |
+| team_sanitized   | string | Sanitized team name (lowercase, no spaces/accents).                         |
+| played           | Int64  | Matches played.                                                            |
+| won              | Int64  | Matches won.                                                               |
+| drawn            | Int64  | Matches drawn.                                                             |
+| lost             | Int64  | Matches lost.                                                              |
+| goal_ratio       | string | Goals scored:conceded ratio.                                               |
+| goal_difference  | string | Goal difference.                                                           |
+| points           | Int64  | Total points.                                                              |
+| team_url         | string | URL to the team’s page on Transfermarkt.                                    |
+| league_name      | string | Sanitized slug of the league name.                                          |
+| season_year      | integer| Season start year.                                                          |
+| source_csv_file  | string | Name of the source standings CSV file.                                      |
+| team_canonical   | string | Standardized canonical team name after mapping.                             |
 
--   **Website Changes**: The scraper's logic in `parsers.py` is tightly coupled to the HTML structure of Transfermarkt. Any significant change to the website's layout will likely break the parsers and require code updates.
--   **IP Blocking**: While the scraper is designed to be polite, extremely long and continuous scraping sessions (spanning many hours or days) could still trigger automated blocking from the website. It is recommended to process a few leagues at a time if you encounter connection issues.
--   **Data Accuracy**: The data is a direct reflection of what is publicly available on Transfermarkt. Its accuracy is subject to the source's own data quality.
+#### Validated Games
+- **Path**: `data/silver/team_games_valid.csv`
+- **Description**: A consolidated master table of all high-quality season games data, enriched with canonical names and imputed attendance values.
 
-## Project Structure
+| Column                  | Type         | Description                                                                 |
+|-------------------------|--------------|-----------------------------------------------------------------------------|
+| id                      | string       | Unique SHA-256 hash for the game record.                                    |
+| source_id               | string       | Unique SHA-256 hash of the source team games file.                          |
+| standings_id            | string       | Foreign key linking to the season’s standings file.                         |
+| round                   | string       | Round or matchday number.                                                  |
+| date                    | string       | Original match date.                                                       |
+| time                    | string       | Original match time.                                                       |
+| datetime                | datetime64[ns] | Parsed and unified match date and time.                                  |
+| home_team               | string       | Original home team name.                                                   |
+| home_team_sanitized     | string       | Sanitized home team name.                                                  |
+| home_team_canonical     | string       | Standardized canonical home team name.                                      |
+| away_team               | string       | Original away team name.                                                   |
+| away_team_sanitized     | string       | Sanitized away team name.                                                  |
+| away_team_canonical     | string       | Standardized canonical away team name.                                      |
+| formation               | string       | Tactical formation used.                                                   |
+| coach                   | string       | Original coach name.                                                       |
+| coach_sanitized         | string       | Sanitized coach name.                                                      |
+| result                  | string       | Final match score.                                                         |
+| audience                | Int64        | Official match attendance.                                                 |
+| audience_filled_fb      | Int64        | Attendance with missing values imputed by forward/backward fill.            |
+| audience_filled_mean    | Int64        | Attendance with missing values imputed by the team’s season mean.           |
+| audience_filled_median  | Int64        | Attendance with missing values imputed by the team’s season median.         |
+| league_name             | string       | Sanitized slug of the league name.                                          |
+| season_year             | integer      | Season start year.                                                          |
+| source_csv_file         | string       | Name of the source games CSV file.                                          |
+| standings_csv_file      | string       | Name of the associated standings CSV file.                                  |
 
-```bash
-soccer_scraper/
-├── .venv/
+### Gold Layer (data/gold/)
+
+#### Name Mappings
+- **Path (Combined)**: `data/gold/name_mappings/combined/name_mappings_combined.csv`
+- **Path (Individual)**: `data/gold/name_mappings/individual/{league}_{season}_mapping.csv`
+- **Description**: The output of the team name standardization process, showing how "other" names (from games data) were mapped to "canonical" names (from standings data).
+
+| Column             | Type    | Description                                                                 |
+|--------------------|---------|-----------------------------------------------------------------------------|
+| league_name        | string  | League name.                                                                |
+| season_year        | integer | Season year.                                                                |
+| canonical_name     | string  | The standard (ground truth) name.                                           |
+| other_name         | string  | The name that was mapped.                                                   |
+| precision_score    | integer | Similarity score (0-100) from thefuzz library. 101 indicates a manual mapping. |
+| is_confident_match | boolean | Flag indicating if the similarity score is above a confidence threshold (70). |
+
+#### Schedule Balance Coefficients
+- **Path**: `data/gold/analysis/spearman_coefficient/strength_schedule_balance.csv`
+- **Description**: The main output of the schedule balance analysis, containing the calculated G coefficient for each team-season.
+
+| Column          | Type    | Description                                                                 |
+|-----------------|---------|-----------------------------------------------------------------------------|
+| standings_id    | string  | ID linking to the season’s standings record.                                 |
+| league_name     | string  | League name.                                                                |
+| season_year     | integer | Season year.                                                                |
+| team_canonical  | string  | Canonical team name.                                                        |
+| final_position  | integer | Team’s final league ranking.                                                 |
+| R_array         | string  | String representation of the ideal opponent rankings list.                   |
+| S_array         | string  | String representation of the actual opponent rankings list in the order faced. |
+| G               | float   | Spearman’s rank correlation coefficient.                                     |
+| G_rounded       | float   | G coefficient rounded to 4 decimal places.                                   |
+| G_type          | string  | Schedule classification: unbalanced_strong, unbalanced_weak, or balanced.    |
+
+#### G Coefficient Summary
+- **Path**: `data/gold/analysis/spearman_coefficient/strength_schedule_summary.csv`
+- **Description**: An aggregated table summarizing the distribution of G types across three levels: by season, by league, and overall.
+
+| Column       | Type    | Description                                                                 |
+|--------------|---------|-----------------------------------------------------------------------------|
+| league_name  | string  | League name (all_leagues for overall summary).                               |
+| season_year  | string  | Season year (all_seasons for league and overall summaries).                  |
+| G_type       | string  | Schedule balance type.                                                       |
+| n_samples    | integer | Number of teams falling under this G type for the given scope.               |
+| G_avg        | float   | Average G coefficient for all samples in the group.                          |
+
+#### Schedule Raw Data
+- **Path (Combined)**: `data/gold/analysis/schedules_data/combined/schedule_data_combined.json`
+- **Path (Individual)**: `data/gold/analysis/schedules_data/individual/schedule_data_{league}_{season}.json`
+- **Description**: JSON files containing the raw data used to calculate Spearman’s G coefficient for each team, enabling full traceability and auditability of the analysis.
+
+#### Mann-Whitney U Test Results (P-Values)
+- **Description**: A series of CSV files containing p-values from significance tests.
+- **Paths**:
+  - `data/gold/analysis/mann_whitney/metrics/seasons/overall_mann_whitney_p_values.csv`: P-values comparing final ranking distributions across G groups for the entire dataset.
+  - `data/gold/analysis/mann_whitney/metrics/seasons/per_league_mann_whitney_p_values.csv`: P-values per league, aggregated across all seasons.
+  - `data/gold/analysis/mann_whitney/metrics/seasons/per_season_mann_whitney_p_values.csv`: P-values for each individual season.
+  - `data/gold/analysis/mann_whitney/metrics/attendance/attendance_p_values_consolidated.csv`: Consolidated p-values from the stadium occupancy sensitivity analysis.
+
+#### Visualization Plots
+- **Description**: Boxplots visualizing the distributions of final rankings and average attendance by G type group.
+- **Paths**:
+  - `data/gold/analysis/mann_whitney/plots/seasons/`: Contains boxplots for the final ranking analysis.
+  - `data/gold/analysis/mann_whitney/plots/attendance/`: Contains boxplots for the attendance analysis.
+
+## 5. Statistical Analysis Explained
+The core of this project is to investigate whether a team’s game schedule has a tangible effect on its performance.
+
+### Spearman’s G Coefficient: Measuring Schedule Balance
+To quantify schedule balance, we calculate Spearman’s rank correlation coefficient (**G**) between two vectors for the first half of the season:
+1. **R Vector (Ideal Schedule)**: A list of the final rankings of a team’s opponents, ordered from best to worst (1, 2, 3...). This represents an ideal "strongest to weakest" schedule.
+2. **S Vector (Actual Schedule)**: A list of the final rankings of the same opponents, but in the chronological order they were actually faced.
+The resulting **G** correlation is interpreted as follows:
+- **G > 0.3 (Unbalanced Strong)**: A strong positive correlation. The team tended to play weaker opponents first and stronger ones later, often perceived as an "easier start" to the season.
+- **G < -0.3 (Unbalanced Weak)**: A strong negative correlation. The team tended to play stronger opponents first and weaker ones later, perceived as a "tougher start."
+- **-0.3 <= G <= 0.3 (Balanced)**: No significant correlation. The team faced a mix of strong and weak opponents throughout the first half of the season.
+
+### Mann-Whitney U Test: Testing Significance
+After classifying each team’s schedule into one of three types (G-, G0, G+), we use the **Mann-Whitney U Test** to answer key questions. This non-parametric test determines if there is a statistically significant difference between the distributions of two independent groups. We use it to compare:
+1. **Final Rankings**: Is the distribution of final league positions for teams with an "unbalanced weak" schedule significantly different from those with a "balanced" or "unbalanced strong" schedule?
+2. **Stadium Occupancy**: Do teams with a perceived "easier start" (unbalanced strong) have a statistically different stadium occupancy rate compared to those with a "tougher start"?
+A low p-value (typically < 0.05) from this test would suggest that the observed differences are not due to chance, implying that schedule balance may indeed have a significant effect.
+
+## 6. Project Structure
+```
+├── assets/
+│   └── manual_name_mapping.csv
 ├── data/
-│   └── raw/
+│   ├── bronze/
+│   ├── silver/
+│   └── gold/
+├── logs/
+│   └── app.log
 ├── src/
-│   └── scraper/
-│       ├── __init__.py
-│       ├── config.py
-│       ├── exceptions.py
-│       ├── network.py
-│       ├── parsers.py
-│       ├── utils.py
-│       └── main.py
-├── .gitignore
-├── .python-version
+│   ├── analysis/
+│   ├── processor/
+│   ├── scraper/
+│   └── utils/
 ├── main.py
 ├── pyproject.toml
-├── README.md
-└── uv.lock
+└── README.md
 ```
 
-## Setup and Installation
-
-Follow these steps to set up the project environment.
+## 7. Setup and Installation
 
 ### Prerequisites
-
--   [Git](https://git-scm.com/)
--   [Python](https://www.python.org/) (version 3.9+ recommended)
--   [pyenv](https://github.com/pyenv/pyenv) (recommended for managing Python versions; it will use the `.python-version` file automatically)
--   [uv](https://github.com/astral-sh/uv) (an extremely fast Python package installer and resolver)
+- Python 3.9+
+- uv (recommended package manager)
 
 ### Installation Steps
+1. **Clone the repository:**
+   ```bash
+   git clone <repository-url>
+   cd soccer-analytics-engine
+   ```
+2. **Create and activate a virtual environment:**
+   ```bash
+   uv venv
+   source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+   ```
+3. **Install dependencies from pyproject.toml:**
+   ```bash
+   uv sync
+   ```
+   This command installs all dependencies specified in `pyproject.toml`, ensuring the project environment is correctly configured.
 
-1.  **Clone the repository:**
-    * Command:
-        ```bash
-        git clone [https://github.com/YOUR_USERNAME/soccer_scraper.git](https://github.com/YOUR_USERNAME/soccer_scraper.git)
-        cd soccer_scraper
-        ```
+## 8. How to Run
+The full pipeline is controlled via `main.py` using command-line arguments.
+1. **Activate the virtual environment:**
+   ```bash
+   source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+   ```
+2. **Run a specific pipeline:**
+   - To run only the scraper:
+     ```bash
+     uv run main.py scrape
+     ```
+   - To run only the data processor:
+     ```bash
+     uv run main.py process
+     ```
+   - To run only the statistical analysis:
+     ```bash
+     uv run main.py analysis
+     ```
+   - To run the entire end-to-end pipeline:
+     ```bash
+     uv run main.py all
+     ```
 
-2.  **Set up the Python environment:**
-    * A virtual environment is crucial for isolating project dependencies. Create one using `uv`:
-        ```bash
-        uv venv
-        ```
-
-3.  **Install dependencies:**
-    * Activate the virtual environment:
-        ```bash
-        source .venv/bin/activate
-        ```
-    * Sync the environment with the exact package versions specified in `uv.lock` for a reproducible setup:
-        ```bash
-        uv sync
-        ```
-
-## How to Run
-
-The scraper is configured and executed from the project's root directory.
-
-1.  **Configure the Scraper**:
-    * Open `src/scraper/config.py`.
-    * The `LEAGUES` dictionary is the main control panel. Set the `"processed"` key to `"false"` for any league you wish to process.
-    * You can also adjust the `MIN_START_YEAR` in `src/scraper/main.py` if you wish to limit how far back the scraper goes.
-
-2.  **Run the Script**:
-    * Ensure your virtual environment is activated.
-    * Execute the main entry point script:
-        ```bash
-        uv run main.py
-        ```
-    * The script will log its progress to the console.
-
-## Data Output Schema
-
-All data is saved within the `data/raw/` directory, following a `league_slug/season_year/` structure.
-
----
-
-### 1. League Standings
-
-A single file containing the final classification table for a given league and season.
-
--   **Directory:** `data/raw/{league_slug}/{season_year}/final_standings/`
--   **Filename:** `{league_slug}_{season_year}_standings.csv`
--   **Description:** This file represents a snapshot of the complete league table at the end of the season. It is crucial for discovering all participating teams and their respective page URLs for deeper scraping.
-
-| Column            | Type   | Description                                                     | Example         |
-| ----------------- | ------ | --------------------------------------------------------------- | --------------- |
-| `position`        | string | The team's final rank in the table.                             | 1             |
-| `team`            | string | The full name of the team.                                      | Manchester City |
-| `played`          | string | Total number of matches played.                                 | 38            |
-| `won`             | string | Total number of matches won.                                    | 28            |
-| `drawn`           | string | Total number of matches drawn.                                  | 7             |
-| `lost`            | string | Total number of matches lost.                                   | 3             |
-| `goal_ratio`      | string | Goals for vs. goals against.                                    | 96:34         |
-| `goal_difference` | string | The final goal difference.                                      | 62           |
-| `points`          | string | Total points accumulated.                                       | 91            |
-| `team_url`        | string | The absolute URL to the team's main page on Transfermarkt.      | https://...   |
-
----
-
-### 2. Team Games
-
-A separate CSV file is created for each team, detailing their full season journey in the league.
-
--   **Directory:** `data/raw/{league_slug}/{season_year}/team_games/`
--   **Filename:** `{league_slug}_{season_year}_{sanitized_team_name}.csv`
--   **Description:** This file provides a match-by-match breakdown for a single team, including tactical information, results, and attendance, offering a granular view of their performance over the season.
-
-| Column      | Type    | Description                                                     | Example                  |
-| ----------- | ------- | --------------------------------------------------------------- | ------------------------ |
-| `round`     | string  | The matchday or round number.                                   | 1                      |
-| `date`      | string  | The date of the match.                                          | Sun Aug 18, 2024      |
-| `time`      | string  | The kickoff time in the local timezone of the site.             | 12:30                  |
-| `home_team` | string  | The name of the home team.                                      | Chelsea FC             |
-| `away_team` | string  | The name of the away team.                                      | Manchester City        |
-| `formation` | string  | The tactical formation used by the team.                        | 4-3-3 Attacking        |
-| `coach`     | string  | The name of the team's coach for that match.                    | Pep Guardiola          |
-| `audience`  | integer | The official match attendance.                                  | 55017                    |
-| `result`    | string  | The final score of the match.                                   | 0:2                    |
-| `match_link`| string  | The absolute URL to the detailed match report on Transfermarkt. | https://...            |
-
-## Contributing
-
-Contributions are welcome! If you'd like to improve the scraper or add new features, please follow these steps:
-
-1.  Fork the repository.
-2.  Create a new feature branch (`git switch -c feature/your-awesome-feature`).
-3.  Commit your changes (`git commit -m "feat: Add your awesome feature"`).
-4.  Push to the branch (`git push origin feature/your-awesome-feature`).
-5.  Open a Pull Request.
-
-## License
-
+## 9. License
 This project is licensed under the MIT License.
