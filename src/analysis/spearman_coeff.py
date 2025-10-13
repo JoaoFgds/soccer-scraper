@@ -3,511 +3,265 @@ import logging
 import numpy as np
 import pandas as pd
 
-from fuzzywuzzy import fuzz
-from scipy.stats import spearmanr
-from typing import Dict, List, Any
-from scipy.optimize import linear_sum_assignment
-
 from src.utils import paths
+from scipy.stats import spearmanr
+from typing import Any, Dict, List, Tuple
 
 logger = logging.getLogger(__name__)
 
 
 class NumpyEncoder(json.JSONEncoder):
-    """
-    Custom JSON encoder to handle NumPy and Pandas data types.
+    """Custom JSON encoder to handle NumPy and pandas data types.
 
-    This encoder extends the default JSONEncoder to provide serialization for
-    data types commonly found in scientific computing libraries like NumPy and
-    Pandas, which are not natively supported by the standard `json` module.
-
-    It handles:
-    - NumPy integers (e.g., np.int64)
-    - NumPy floats (e.g., np.float64)
-    - NumPy arrays (np.ndarray)
-    - Pandas missing values (pd.NA, np.nan)
-
-    Usage:
-        json.dump(my_numpy_data, file, cls=NumpyEncoder)
+    This class extends the default JSON encoder to provide serialization for
+    common data types used in NumPy and pandas, such as integers, floats,
+    arrays, and missing values, which are not natively supported by JSON.
     """
 
     def default(self, obj: Any) -> Any:
-        """
-        Convert non-standard types to JSON-serializable formats.
+        """Serializes NumPy types into native Python types for JSON compatibility.
 
-        This method is called by the JSONEncoder for any object that it
-        doesn't know how to serialize. For all other types, it defers to
-        the parent class's default implementation.
+        This method is called for any object that is not a primitive type. It
+        checks if the object is a NumPy integer, float, or array, or a pandas
+        NA value, and converts it to a JSON-serializable format.
 
         Args:
-            obj (Any): The object to be encoded.
+            obj (Any): The object to serialize.
 
         Returns:
-            Any: A JSON-serializable representation of the object.
+            Any: The JSON-serializable representation of the object.
         """
         if isinstance(obj, np.integer):
             return int(obj)
-        elif isinstance(obj, np.floating):
+        if isinstance(obj, np.floating):
             return float(obj)
-        elif isinstance(obj, np.ndarray):
+        if isinstance(obj, np.ndarray):
             return obj.tolist()
-        elif pd.isna(obj):
+        if pd.isna(obj):
             return None
         return super().default(obj)
 
 
-def _sanitize_for_json(data: Any) -> Any:
-    """
-    Recursively sanitizes a data structure to ensure it is JSON serializable.
-
-    This function traverses nested dictionaries and lists, converting specific
-    NumPy and Pandas data types into their native Python equivalents that are
-    compatible with the standard `json` library.
-
-    Key conversions performed:
-    - NumPy integers (e.g., np.int64) are converted to standard `int`.
-    - NumPy floats (e.g., np.float64) are converted to standard `float`.
-    - Pandas NA values (pd.NA) and NumPy NaN values (np.nan) are
-      converted to `None`, which serializes to JSON `null`.
-
-    Args:
-        data (Any): The input data structure (e.g., dict, list, scalar)
-                    to be sanitized.
-
-    Returns:
-        Any: A new data structure containing only JSON-serializable types.
-    """
-    if isinstance(data, dict):
-        return {key: _sanitize_for_json(value) for key, value in data.items()}
-
-    elif isinstance(data, list):
-        return [_sanitize_for_json(item) for item in data]
-
-    elif isinstance(data, np.integer):
-        return int(data)
-
-    elif isinstance(data, np.floating):
-        if np.isnan(data):
-            return None
-        return float(data)
-
-    elif pd.isna(data):
-        return None
-
-    return data
-
-
-def _validate_outputs_paths():
-    """
-    Ensures that all required output directories exist.
-
-    This function checks for the presence of several directories defined in the
-    'paths' module. If any of these directories do not exist, it creates them
-    recursively. This is a setup utility to prevent errors when other parts
-    of the application attempt to write output files.
-    """
-    logger.info("Validating and creating output directories if necessary.")
-
-    # Create directories for name mappings data
-    paths.NAME_MAPPINGS_COMBINED.mkdir(parents=True, exist_ok=True)
-    paths.NAME_MAPPINGS_INDIVIDUAL.mkdir(parents=True, exist_ok=True)
-
-    # Create directories for schedules data
-    paths.SCHEDULES_DATA_COMBINED.mkdir(parents=True, exist_ok=True)
-    paths.SCHEDULES_DATA_INDIVIDUAL.mkdir(parents=True, exist_ok=True)
-
-    # Create directory for analysis results
-    paths.SPEARMAN_COEFFICIENT.mkdir(parents=True, exist_ok=True)
-
-    logger.info("All output directories are available.")
-
-
-def _create_optimal_name_mapping(
-    league: str,
-    season: int,
-    canonical_names: List[str],
-    other_names: List[str],
-) -> pd.DataFrame:
-    """
-    Creates a guaranteed, optimal, one-to-one mapping between canonical and other
-    names by solving the linear assignment problem.
-
-    This function ensures that every canonical name is matched with a unique
-    'other name' in a way that maximizes the total similarity score across all pairs.
-
-    Args:
-        league: The name of the league.
-        season: The season year.
-        canonical_names: A list of standard names. Each must have a match.
-        other_names: A list of names to be mapped. Must have at least as many
-                     elements as canonical_names.
-
-    Returns:
-        A pandas DataFrame containing the optimal one-to-one mappings.
-
-    Raises:
-        ValueError: If there are more canonical names than other names, making
-                    a unique assignment for each canonical name impossible.
-    """
-    num_canonical = len(canonical_names)
-    num_other = len(other_names)
-
-    if num_canonical > num_other:
-        raise ValueError(
-            f"Cannot create a unique mapping for every canonical name. "
-            f"Found {num_canonical} canonical names but only {num_other} other names."
-        )
-
-    # Step 1: Create a score matrix (profit matrix)
-    # Rows: canonical_names, Columns: other_names
-    score_matrix = np.zeros((num_canonical, num_other))
-    for i, canonical in enumerate(canonical_names):
-        for j, other in enumerate(other_names):
-            score_matrix[i, j] = fuzz.ratio(canonical, other)
-
-    # Step 2: Solve the assignment problem.
-    # The function linear_sum_assignment finds the minimum cost, so we use the
-    # negative of our score matrix to maximize the total score.
-    row_indices, col_indices = linear_sum_assignment(-score_matrix)
-
-    # Step 3: Build the final mapping from the optimal assignments.
-    final_mapping: List[Dict[str, Any]] = []
-    for r, c in zip(row_indices, col_indices):
-        canonical_name = canonical_names[r]
-        other_name = other_names[c]
-        score = score_matrix[r, c]
-
-        final_mapping.append(
-            {
-                "league_name": league,
-                "season_year": int(season),
-                "canonical_name": canonical_name,
-                "other_name": other_name,
-                "precision_score": int(score),
-                "is_score_greater_70": int(score) >= 70,
-            }
-        )
-
-    return pd.DataFrame(final_mapping)
-
-
-def _get_team_schedule(
-    team_canonical: str, season_games: pd.DataFrame, name_mapping: pd.DataFrame
+def _get_first_round_opponents(
+    team_canonical: str, season_games_df: pd.DataFrame
 ) -> List[str]:
-    """
-    Retrieves the chronologically ordered list of unique opponents for a team.
+    """Retrieves the ordered list of unique opponents a team faced in the first round.
 
-    This function processes a DataFrame of season games to determine the schedule
-    of the first round-robin ("primeiro turno"). It identifies all unique
-    opponents a team faced during the season and returns them ordered by the
-    date of their first encounter.
+    The function identifies all of a team's matches within a given season, sorts
+    them chronologically, and extracts the opponent from each match. It then
+    returns a list of unique opponent names, preserving the order of their
+    first encounter. This effectively represents the team's schedule for the
+    first half of a double round-robin season.
 
     Args:
-        team_canonical (str): The official, standardized name of the team to analyze.
-        season_games (pd.DataFrame): A DataFrame containing all games for the season.
-            Expected columns: 'home_team_sanitized', 'away_team_sanitized', and a
-            date/datetime column named 'datetime'.
-        name_mapping (pd.DataFrame): A DataFrame used for standardizing team names.
-            Expected columns: 'other_name', 'canonical_name'.
+        team_canonical (str): The canonical name of the team.
+        season_games_df (pd.DataFrame): A DataFrame containing all games for the
+            specific league and season.
 
     Returns:
-        List[str]: A list of unique canonical opponent names, sorted by the date
-                   of their first encounter with the team.
+        List[str]: An ordered list of unique opponent canonical names, based on
+            the sequence of their first encounter with the specified team.
     """
-    # Create a copy to avoid modifying the original DataFrame.
-    season_games_mapped = season_games.copy()
-
-    # --- 1. Standardize Team Names (No changes here) ---
-    name_map_dict = dict(
-        zip(name_mapping["other_name"], name_mapping["canonical_name"])
-    )
-    season_games_mapped["away_team_canonical"] = season_games_mapped[
-        "away_team_sanitized"
-    ].map(name_map_dict)
-    season_games_mapped["away_team_canonical"] = season_games_mapped[
-        "away_team_canonical"
-    ].fillna(season_games_mapped["away_team_sanitized"])
-
-    # --- 2. Filter for All of the Team's Games ---
-    # Select all games where the team was either home or away.
-    team_games = season_games_mapped[
-        (season_games_mapped["home_team_sanitized"] == team_canonical)
-        | (season_games_mapped["away_team_canonical"] == team_canonical)
+    team_games = season_games_df[
+        (season_games_df["home_team_canonical"] == team_canonical)
+        | (season_games_df["away_team_canonical"] == team_canonical)
     ].copy()
 
-    # --- 3. Sort Games Chronologically by Datetime ---
-    # Ensure the 'datetime' column is in the correct format and sort by it.
-    # This is the new primary sorting method.
-    team_games["datetime"] = pd.to_datetime(team_games["datetime"])
-    team_games = team_games.sort_values(by="datetime", ascending=True)
+    team_games["datetime"] = pd.to_datetime(team_games["datetime"], errors="coerce")
+    team_games.sort_values(by="datetime", ascending=True, inplace=True)
 
-    # --- 4. Extract Unique Opponents while Preserving Order ---
-    # First, get a list of all opponents in chronological order (with duplicates).
     opponents_in_order = []
     for _, row in team_games.iterrows():
-        if row["home_team_sanitized"] == team_canonical:
-            opponent = row["away_team_canonical"]
-        else:
-            opponent = row["home_team_sanitized"]
-
-        # A safety check to ensure we don't add the team itself to the list.
+        opponent = (
+            row["away_team_canonical"]
+            if row["home_team_canonical"] == team_canonical
+            else row["home_team_canonical"]
+        )
         if opponent != team_canonical:
             opponents_in_order.append(opponent)
 
-    # Now, create a unique list of opponents that preserves the order of the first encounter.
-    # The dict.fromkeys() method is a highly efficient way to do this in Python 3.7+.
-    unique_opponents = list(dict.fromkeys(opponents_in_order))
+    return list(dict.fromkeys(opponents_in_order))
 
-    return unique_opponents
+
+def _calculate_g_coefficient(
+    r_list: List[int], s_list: List[int], team_name: str
+) -> Tuple[float | None, str | None]:
+    """Calculates Spearman's G coefficient and classifies the schedule type.
+
+    The G coefficient is the Spearman's rank correlation between an ideal
+    schedule (`r_list`, opponents ranked from best to worst) and the team's
+    actual schedule (`s_list`, the ranks of opponents in chronological order).
+    The result is classified as 'unbalanced_strong', 'unbalanced_weak', or
+    'balanced' based on predefined correlation thresholds.
+
+    Args:
+        r_list (List[int]): The list of all possible opponent ranks, sorted.
+        s_list (List[int]): The list of the team's actual opponent ranks in the
+            order they were played.
+        team_name (str): The canonical name of the team, used for logging purposes.
+
+    Returns:
+        Tuple[float | None, str | None]: A tuple containing the calculated G
+            coefficient and its string classification (e.g., 'balanced').
+            Returns (None, None) if the calculation is not possible.
+    """
+    if len(r_list) != len(s_list) or len(s_list) <= 1:
+        return None, None
+
+    g, _ = spearmanr(r_list, s_list)
+    g = float(g) if not pd.isna(g) else None
+
+    if g is None:
+        logger.warning("Spearman correlation returned NaN for %s.", team_name)
+        return None, None
+
+    if g > 0.3:
+        g_type = "unbalanced_strong"
+    elif g < -0.3:
+        g_type = "unbalanced_weak"
+    else:
+        g_type = "balanced"
+
+    return g, g_type
 
 
 def calculate_strength_schedule_balance() -> pd.DataFrame:
-    """
-    Calculates and analyzes the strength of schedule balance for soccer leagues.
+    """Calculates schedule balance for all teams using Spearman's G coefficient.
 
-    This function quantifies how balanced a team's schedule was during the first
-    half of a season using the Spearman's rank correlation coefficient, denoted
-    as 'G'. The coefficient measures the relationship between a team's final
-    rank and the final ranks of its opponents from the first 19 rounds.
+    This is the main analysis function. It measures the correlation between the
+    final rank of a team's opponents and the chronological order in which they
+    were played during the first half of the season. A high positive
+    correlation ('unbalanced_strong') suggests a team played weaker opponents
+    first and stronger ones later. A high negative correlation
+    ('unbalanced_weak') suggests the opposite.
 
-    The interpretation of the 'G' coefficient is as follows:
-    - G > 0.3 (unbalanced_strong): The team tended to play more games against teams
-      that finished in lower positions (an easier schedule).
-    - G < -0.3 (unbalanced_weak): The team tended to play more games against teams
-      that finished in higher positions (a harder schedule).
-    - -0.3 <= G <= 0.3 (balanced): The schedule was relatively balanced, with no
-      significant correlation between opponent strength and game order.
-
-    The process involves several key steps:
-    1.  Loading mid-season game data and final season standings.
-    2.  Iterating through each unique league and season.
-    3.  Creating an optimal name mapping to reconcile team names between different
-        data sources for that season.
-    4.  For each team, constructing two arrays: 'R' (the rank of all possible
-        opponents) and 'S' (the actual ranks of their opponents).
-    5.  Calculating the 'G' coefficient by applying Spearman's correlation to the
-        'R' and 'S' arrays.
-    6.  Saving intermediate artifacts (individual name mappings, JSON schedule data)
-        and final combined outputs, including a CSV with the G-coefficients for all teams.
+    The function relies on the validated data from the silver layer. It outputs
+    a summary CSV file with the G coefficients and detailed JSON files
+    containing the raw rank arrays used for each calculation.
 
     Returns:
-        pd.DataFrame: A DataFrame containing the calculated schedule balance
-                      for each team, or an empty DataFrame if a critical error occurs.
+        pd.DataFrame: A DataFrame with the schedule balance analysis results for
+            each team in each valid season. Returns an empty DataFrame if a
+            critical error occurs, such as a missing input file.
     """
-
-    _validate_outputs_paths()
-
-    logger.info("Starting Strength of Schedule Balance calculation process.")
-    logger.info("Loading input data: mid-season games and final standings.")
-
+    logger.info("Starting Strength of Schedule Balance calculation.")
     try:
-        team_games_df = pd.read_csv(paths.TEAM_GAMES_VALID)
-        final_standings_df = pd.read_csv(paths.FINAL_STANDINGS_VALID)
-        logger.info("Successfully loaded all required input files.")
+        games_df = pd.read_csv(paths.GAMES_VALID_PATH)
+        standings_df = pd.read_csv(paths.STANDINGS_VALID_PATH)
+        logger.info("Successfully loaded validated games and standings files.")
     except FileNotFoundError as e:
-        logger.error(f"Input file not found: {e}. Cannot proceed.", exc_info=True)
+        logger.error("Input file not found: %s. Aborting analysis.", e, exc_info=True)
         return pd.DataFrame()
 
-    # ---------------------------------------------------------------------
+    results: List[Dict[str, Any]] = []
+    all_json_data: List[Dict[str, Any]] = []
 
-    # Process each league and season combination separately.
-
-    results = []
-    all_mappings = []
-    all_json_data = []
-
-    for (league, season), season_standings in final_standings_df.groupby(
+    for (league, season), season_standings in standings_df.groupby(
         ["league_name", "season_year"]
     ):
-
-        logger.info(f"Processing league: {league}, Season: {season}")
-
-        season_games = team_games_df[
-            (team_games_df["league_name"] == league)
-            & (team_games_df["season_year"] == season)
-        ].copy()
-
+        logger.info("Processing league: %s, Season: %d", league, season)
+        season_games = games_df[
+            (games_df["league_name"] == league) & (games_df["season_year"] == season)
+        ]
         if season_games.empty:
-            logger.warning(f"No game data found for {league} {season}. Skipping.")
+            logger.warning("No game data for %s %d. Skipping.", league, season)
             continue
 
-        # ---------------------------------------------------------------------
-
-        # Create and save an optimal name mapping for the current season.
-
-        away_names = sorted(season_games["away_team_sanitized"].unique())
-        canonical_names = sorted(season_games["home_team_sanitized"].unique())
-
-        mapping_df = _create_optimal_name_mapping(
-            league, season, canonical_names, away_names
-        )
-
-        mapping_file = (
-            paths.NAME_MAPPINGS_INDIVIDUAL / f"name_mapping_{league}_{season}.csv"
-        )
-        mapping_df.to_csv(mapping_file, index=False)
-        all_mappings.append(mapping_df)
-
-        logger.debug(f"Individual name mapping saved to {mapping_file}")
-
-        # ---------------------------------------------------------------------
-
-        position_map = season_standings.set_index("team_sanitized")[
+        position_map = season_standings.set_index("team_canonical")[
             "position"
         ].to_dict()
 
         all_positions = sorted(
             [int(p) for p in season_standings["position"].dropna().unique()]
         )
-
-        season_json = []
-
-        # Iterate through each team in the season to calculate its G coefficient.
+        season_json_data = []
 
         for _, team_row in season_standings.iterrows():
-
-            team_canonical = team_row["team_sanitized"]
+            team_canonical = team_row["team_canonical"]
             final_pos = team_row["position"]
 
             if pd.isna(final_pos):
                 logger.warning(
-                    f"Skipping {team_canonical} in {league} {season} due to missing final position."
+                    "Skipping %s in %s %d due to missing final position.",
+                    team_canonical,
+                    league,
+                    season,
                 )
                 continue
 
             final_pos = int(final_pos)
 
-            # Create R LIST
-
             r_list = [p for p in all_positions if p != final_pos]
 
-            # Create S LIST
-
-            opponents_canonical = _get_team_schedule(
-                team_canonical, season_games, mapping_df
+            opponents_canonical = _get_first_round_opponents(
+                team_canonical, season_games
             )
-
-            s_list_names = opponents_canonical
-
-            s_list_classif = [
+            s_list = [
                 int(pos)
                 for opp in opponents_canonical
                 if (pos := position_map.get(opp)) is not None
-                and not pd.isna(pos)
-                and int(pos) != final_pos
             ]
 
-            # Calculate Spearman's correlation
+            g, g_type = _calculate_g_coefficient(r_list, s_list, team_canonical)
 
-            if len(r_list) == len(s_list_classif) and len(s_list_classif) > 1:
-
-                g, _ = spearmanr(r_list, s_list_classif)
-                g = float(g) if not pd.isna(g) else None
-
-                if g is None:
-                    logger.warning(
-                        f"Spearman correlation returned NaN for {team_canonical}."
-                    )
-                    continue
-
-                team_json = {
-                    "league_name": league,
-                    "season_year": int(season),
-                    "canonical_name": team_canonical,
-                    "R_list": r_list,
-                    "S_list_names": s_list_names,
-                    "S_list_classif": s_list_classif,
-                }
-
-                season_json.append(_sanitize_for_json(team_json))
-
-                # Classify coefficient
-
-                if g > 0.3:
-                    g_type = "unbalanced_strong"
-                elif g < -0.3:
-                    g_type = "unbalanced_weak"
-                else:
-                    g_type = "balanced"
-
-                logger.debug(f"Calculated G={g:.2f} ({g_type}) for {team_canonical}.")
-
+            if g is not None:
                 results.append(
                     {
                         "standings_id": team_row["source_id"],
                         "league_name": league,
                         "season_year": int(season),
-                        "team_sanitized": team_canonical,
+                        "team_canonical": team_canonical,
                         "final_position": final_pos,
                         "R_array": r_list,
-                        "S_array": s_list_classif,
+                        "S_array": s_list,
                         "G": g,
                         "G_rounded": round(g, 4),
                         "G_type": g_type,
                     }
                 )
-
+                season_json_data.append(
+                    {
+                        "league_name": league,
+                        "season_year": int(season),
+                        "canonical_name": team_canonical,
+                        "R_list": r_list,
+                        "S_list_names": opponents_canonical,
+                        "S_list_classif": s_list,
+                    }
+                )
             else:
                 logger.warning(
-                    f"Skipping G-coeff for {team_canonical} ({league} {season}). "
-                    f"Reason: Mismatched or insufficient data. R_len={len(r_list)}, S_len={len(s_list_classif)}."
+                    "Skipping G-coeff for %s (%s %d). R_len=%d, S_len=%d.",
+                    team_canonical,
+                    league,
+                    season,
+                    len(r_list),
+                    len(s_list),
                 )
 
-        # ---------------------------------------------------------------------
+        if season_json_data:
+            all_json_data.extend(season_json_data)
+            json_file = (
+                paths.SCHEDULES_DATA_INDIVIDUAL_DIR
+                / f"schedule_data_{league}_{season}.json"
+            )
+            with open(json_file, "w", encoding="utf-8") as f:
+                json.dump(
+                    season_json_data, f, indent=2, cls=NumpyEncoder, ensure_ascii=False
+                )
 
-        all_json_data.extend(season_json)
+    if not results:
+        logger.warning("No results were generated across all seasons.")
+        return pd.DataFrame()
 
-        json_file = (
-            paths.SCHEDULES_DATA_INDIVIDUAL / f"schedule_data_{league}_{season}.json"
-        )
+    result_df = pd.DataFrame(results)
+    result_df.to_csv(paths.SPEARMAN_BALANCE_PATH, index=False)
+    logger.info("Saved schedule balance results to %s.", paths.SPEARMAN_BALANCE_PATH)
 
-        with open(json_file, "w", encoding="utf-8") as f:
-            json.dump(season_json, f, indent=2, cls=NumpyEncoder, ensure_ascii=False)
-
-        logger.debug("Individual season schedule JSON saved to %s", json_file)
-
-        # ---------------------------------------------------------------------
-
+    with open(paths.SCHEDULES_DATA_COMBINED_PATH, "w", encoding="utf-8") as f:
+        json.dump(all_json_data, f, indent=2, cls=NumpyEncoder, ensure_ascii=False)
     logger.info(
-        "Finished processing all leagues and seasons. Now saving combined files."
+        "Saved combined schedule JSON data to %s.", paths.SCHEDULES_DATA_COMBINED_PATH
     )
 
-    if all_mappings:
-
-        combined_mapping = pd.concat(all_mappings, ignore_index=True)
-        mapping_out = paths.NAME_MAPPINGS_COMBINED / "name_mappings_combined.csv"
-        combined_mapping.to_csv(mapping_out, index=False)
-        logger.info("Successfully saved combined name mappings to %s", mapping_out)
-
-    # ---------------------------------------------------------------------
-
-    sanitized_json_data = _sanitize_for_json(all_json_data)
-    json_out = paths.SCHEDULES_DATA_COMBINED / "schedule_data_combined.json"
-
-    with open(json_out, "w", encoding="utf-8") as f:
-        json.dump(
-            sanitized_json_data, f, indent=2, cls=NumpyEncoder, ensure_ascii=False
-        )
-
-    logger.info("Successfully saved combined schedule JSON data to %s", json_out)
-
-    # ---------------------------------------------------------------------
-
-    if results:
-
-        result_df = pd.DataFrame(results)
-        final_out = paths.SPEARMAN_COEFFICIENT / "strength_schedule_balance.csv"
-        result_df.to_csv(final_out, index=False)
-
-        logger.info(
-            "Successfully saved final schedule balance results to %s", final_out
-        )
-        logger.info(
-            f"Strength of Schedule Balance calculation finished. Generated {len(result_df)} results."
-        )
-
-        return result_df
-
-    else:
-        logger.warning("No results were generated. Process finished with no output.")
-        return pd.DataFrame()
+    return result_df

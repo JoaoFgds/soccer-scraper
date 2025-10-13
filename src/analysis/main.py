@@ -1,33 +1,62 @@
-# File: src/analysis/main.py
-"""
-Orchestrates the data analysis workflow.
-"""
 import logging
-from src.analysis import spearman_coeff
-from src.analysis import spearman_coeff_summary
-from src.analysis import mann_whitney_seasons
-from src.analysis import mann_whitney_attendance
-from utils.logger import setup_logging
+
+from src.analysis import (
+    spearman_coeff,
+    spearman_coeff_summary,
+    mann_whitney_seasons,
+    mann_whitney_attendance,
+)
+
+from src.utils.logger import setup_logging
 
 logger = logging.getLogger(__name__)
 
 
 def analysis_pipeline():
+    """Orchestrates the entire data analysis workflow.
+
+    This function serves as the main entry point for the analysis phase of the
+    project. It executes a sequence of data analysis tasks in a predefined
+    order, transforming the validated data from the silver layer into final
+    insights and artifacts in the gold layer.
+
+    The pipeline performs the following key steps:
+    1.  Calculates Spearman's G coefficient to measure the strength and
+        balance of each team's schedule for every valid season.
+    2.  Aggregates the G coefficient results into a high-level summary table.
+    3.  Conducts Mann-Whitney U tests to determine if a team's schedule
+        balance has a statistically significant effect on its final rank.
+    4.  Runs a sensitivity analysis using Mann-Whitney U tests to explore the
+        relationship between schedule balance and stadium occupancy.
     """
-    Main entry point for the analysis workflow.
-    """
+
+    setup_logging()
     logger.info("--- Starting Data Analysis Workflow ---")
 
-    # Passo 1: Calcular o coeficiente de Spearman
-    spearman_coeff.calculate_strength_schedule_balance()
+    try:
+        print("\n")
+        logger.info(
+            "Task 1: Calculating Spearman's coefficient for strength of schedule."
+        )
+        spearman_coeff.calculate_strength_schedule_balance()
 
-    # Passo 2: Gerar a tabela de resumo
-    spearman_coeff_summary.create_g_type_summary()
+        print("\n")
+        logger.info("Task 2: Creating summary table for G-type analysis.")
+        spearman_coeff_summary.create_g_type_summary()
 
-    # Passo 3: Executar a análise de significância estatística
-    mann_whitney_seasons.run_statistical_analysis()
+        print("\n")
+        logger.info("Task 3: Running Mann-Whitney U tests for season final ranks.")
+        mann_whitney_seasons.run_statistical_analysis()
 
-    # Passo 4: Executar a análise de ocupação de estádios
-    mann_whitney_attendance.run_occupancy_analysis()
+        print("\n")
+        logger.info("Task 4: Running Mann-Whitney U tests for stadium occupancy.")
+        mann_whitney_attendance.run_occupancy_analysis()
 
-    logger.info("--- Data Analysis Workflow Complete ---")
+    except Exception as e:
+        logger.critical(
+            "An unhandled error occurred during the analysis pipeline: %s",
+            e,
+            exc_info=True,
+        )
+    else:
+        logger.info("--- Data Analysis Workflow Complete ---")

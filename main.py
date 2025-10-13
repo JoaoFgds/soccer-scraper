@@ -3,8 +3,7 @@ import logging
 
 from src.utils import logger
 from src.scraper.main import scraper_pipeline
-
-# from src.analysis.main import analysis_pipeline
+from src.analysis.main import analysis_pipeline
 from src.processor.main import pre_processor_pipeline
 
 
@@ -43,10 +42,10 @@ def main():
         pre_processor_pipeline()
         logger.info("Pre-processor pipeline finished.")
 
-    # if args.pipeline in ["analysis", "all"]:
-    #     logger.info("Starting the analysis pipeline...")
-    #     analysis_pipeline()
-    #     logger.info("Analysis pipeline finished.")
+    if args.pipeline in ["analysis", "all"]:
+        logger.info("Starting the analysis pipeline...")
+        analysis_pipeline()
+        logger.info("Analysis pipeline finished.")
 
 
 if __name__ == "__main__":
