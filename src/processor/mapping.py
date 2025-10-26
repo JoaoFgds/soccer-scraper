@@ -342,8 +342,6 @@ def apply_name_mappings(
         "result",
         "audience",
         "audience_filled_fb",
-        "audience_filled_mean",
-        "audience_filled_median",
         "league_name",
         "season_year",
         "source_csv_file",

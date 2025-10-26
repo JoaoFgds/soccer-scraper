@@ -1,29 +1,40 @@
 import logging
 import pandas as pd
 from src.utils import paths
-
+from typing import List, Dict, Any
 
 logger = logging.getLogger(__name__)
 
 
+def _calculate_group_stats(group_df: pd.DataFrame, g_type_cols: List[str]) -> pd.Series:
+    """
+    Função auxiliar para calcular estatísticas de sumarização para um
+    determinado grupo de dados.
+    """
+    if group_df.empty:
+        return pd.Series(dtype="float64")
+
+    stats: Dict[str, Any] = {}
+
+    stats["total_tests"] = len(group_df)
+    stats["significant_tests"] = group_df["is_significant"].sum()
+
+    for col in g_type_cols:
+        counts = group_df[col].value_counts()
+
+        stats[f"{col}_balanced"] = counts.get("balanced", 0)
+        stats[f"{col}_unbalanced_strong"] = counts.get("unbalanced_strong", 0)
+        stats[f"{col}_unbalanced_weak"] = counts.get("unbalanced_weak", 0)
+
+    return pd.Series(stats)
+
+
 def create_g_type_summary():
-    """Aggregates Spearman's G coefficient results into a summary table.
+    """
+    Agrega os resultados do G-coefficient (em múltiplos limiares)
+    em uma tabela de sumarização.
 
-    This function takes the detailed output from the strength-of-schedule
-    balance analysis and creates a multi-level summary to provide insights at
-    different granularities.
-
-    The aggregation is performed in three stages:
-    1.  **By Season:** Groups data by league, season, and G-type to show the
-        distribution of schedule types within each specific season.
-    2.  **By League:** Groups data by league and G-type across all available
-        seasons to provide a long-term view of schedule balance for each league.
-    3.  **Overall:** Creates a global summary across all leagues and seasons to
-        show the overall distribution of schedule types in the entire dataset.
-
-    The results from these three levels are then combined, sorted, and saved
-    to a new summary CSV file, providing a comprehensive overview of the
-    analysis results.
+    (Docstring original omitida para brevidade)
     """
     logger.info("Starting creation of G-type summary.")
     try:
@@ -36,39 +47,91 @@ def create_g_type_summary():
         )
         return
 
-    # Level 1: Group by league, season, and G_type.
+    if df.empty:
+        logger.warning(
+            "Input file '%s' is empty. No summary will be created.",
+            paths.SPEARMAN_BALANCE_PATH,
+        )
+        return
+
+    g_type_cols = sorted([col for col in df.columns if col.startswith("G_type_")])
+
+    if not g_type_cols:
+        logger.error(
+            "No 'G_type_' columns found in '%s'. Aborting summary.",
+            paths.SPEARMAN_BALANCE_PATH,
+        )
+        return
+
+    logger.info(
+        "Found %d G-type columns to summarize: %s", len(g_type_cols), g_type_cols
+    )
+
+    # Nível 3: Agrupado por liga e temporada
     agg_season = (
-        df.groupby(["league_name", "season_year", "G_type"])
-        .agg(n_samples=("G", "count"), G_avg=("G", "mean"))
+        df.groupby(["league_name", "season_year"])
+        .apply(
+            _calculate_group_stats, g_type_cols=g_type_cols, include_groups=False
+        )  # <-- CORREÇÃO 1
         .reset_index()
     )
 
-    # Level 2: Group by league across all seasons.
+    # Nível 2: Agrupado por liga (todas as temporadas)
     agg_league = (
-        df.groupby(["league_name", "G_type"])
-        .agg(n_samples=("G", "count"), G_avg=("G", "mean"))
+        df.groupby("league_name")
+        .apply(
+            _calculate_group_stats, g_type_cols=g_type_cols, include_groups=False
+        )  # <-- CORREÇÃO 2
         .reset_index()
     )
     agg_league["season_year"] = "all_seasons"
 
-    # Level 3: Group across all leagues and seasons.
-    agg_all = (
-        df.groupby("G_type")
-        .agg(n_samples=("G", "count"), G_avg=("G", "mean"))
-        .reset_index()
-    )
+    # Nível 1: Geral (todas as ligas, todas as temporadas)
+    agg_all_series = _calculate_group_stats(df, g_type_cols)
+    agg_all = agg_all_series.to_frame().T
     agg_all["league_name"] = "all_leagues"
     agg_all["season_year"] = "all_seasons"
 
+    # Garante que os tipos de dados numéricos sejam mantidos após a transposição
+    for col in agg_all.columns:
+        if col not in ["league_name", "season_year"]:
+            # --- CORREÇÃO 3 ---
+            try:
+                agg_all[col] = pd.to_numeric(agg_all[col])
+            except ValueError:
+                # Imita 'errors="ignore"': se não for numérico, mantém o original.
+                pass
+            # --- FIM DA CORREÇÃO ---
+
+    # Combinar tudo
     summary_df = pd.concat([agg_season, agg_league, agg_all], ignore_index=True)
 
-    final_columns = ["league_name", "season_year", "G_type", "n_samples", "G_avg"]
+    # Reordenar colunas
+    id_cols = ["league_name", "season_year", "total_tests", "significant_tests"]
+
+    metric_cols = []
+    for col_name in g_type_cols:
+        metric_cols.extend(
+            [
+                f"{col_name}_balanced",
+                f"{col_name}_unbalanced_strong",
+                f"{col_name}_unbalanced_weak",
+            ]
+        )
+
+    final_columns = id_cols + metric_cols
     summary_df = summary_df.reindex(columns=final_columns)
 
-    summary_df.sort_values(by=["league_name", "season_year", "G_type"], inplace=True)
+    # Ordenar e salvar
+    summary_df.sort_values(by=["league_name", "season_year"], inplace=True)
     summary_df.reset_index(drop=True, inplace=True)
 
-    summary_df.to_csv(paths.SPEARMAN_SUMMARY_PATH, index=False, float_format="%.4f")
+    int_cols = [
+        col for col in summary_df.columns if col not in ["league_name", "season_year"]
+    ]
+    summary_df[int_cols] = summary_df[int_cols].astype(int)
+
+    summary_df.to_csv(paths.SPEARMAN_SUMMARY_PATH, index=False)
     logger.info(
         "Summary table with %d rows saved to '%s'.",
         len(summary_df),

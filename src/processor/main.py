@@ -2,8 +2,8 @@ import logging
 import pandas as pd
 
 from . import mapping
-from src.processor import processors
 from src.utils import paths
+from src.processor import processors
 from src.utils.logger import setup_logging
 
 

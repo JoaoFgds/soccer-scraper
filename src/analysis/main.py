@@ -1,10 +1,12 @@
 import logging
 
+
 from src.analysis import (
-    spearman_coeff,
     spearman_coeff_summary,
+    spearman_coeff_calculate,
     mann_whitney_seasons,
     mann_whitney_attendance,
+    spearman_coeff_plots,
 )
 
 from src.utils.logger import setup_logging
@@ -38,19 +40,23 @@ def analysis_pipeline():
         logger.info(
             "Task 1: Calculating Spearman's coefficient for strength of schedule."
         )
-        spearman_coeff.calculate_strength_schedule_balance()
+        spearman_coeff_calculate.calculate_strength_schedule_balance()
 
         print("\n")
         logger.info("Task 2: Creating summary table for G-type analysis.")
         spearman_coeff_summary.create_g_type_summary()
 
         print("\n")
-        logger.info("Task 3: Running Mann-Whitney U tests for season final ranks.")
-        mann_whitney_seasons.run_statistical_analysis()
+        logger.info("Task 3: Creating plots for G-type analysis.")
+        spearman_coeff_plots.generate_all_visualizations()
 
-        print("\n")
-        logger.info("Task 4: Running Mann-Whitney U tests for stadium occupancy.")
-        mann_whitney_attendance.run_occupancy_analysis()
+        # print("\n")
+        # logger.info("Task 3: Running Mann-Whitney U tests for season final ranks.")
+        # mann_whitney_seasons.run_statistical_analysis()
+
+        # print("\n")
+        # logger.info("Task 4: Running Mann-Whitney U tests for stadium occupancy.")
+        # mann_whitney_attendance.run_occupancy_analysis()
 
     except Exception as e:
         logger.critical(

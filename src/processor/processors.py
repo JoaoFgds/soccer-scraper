@@ -660,6 +660,7 @@ def _process_season_games(
     for team_file in game_files:
         try:
             df = _read_csv_file(team_file)
+            metadata = helpers.extract_metadata_from_filename(team_file)
             if df is not None:
                 df["home_team_sanitized"] = df["home_team"].apply(
                     helpers.sanitize_filename
@@ -764,8 +765,6 @@ def create_team_games_complete() -> pd.DataFrame:
         "result",
         "audience",
         "audience_filled_fb",
-        "audience_filled_mean",
-        "audience_filled_median",
         "league_name",
         "season_year",
         "source_csv_file",

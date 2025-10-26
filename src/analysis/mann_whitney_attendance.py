@@ -162,8 +162,6 @@ def run_occupancy_analysis() -> None:
 
     attendance_columns = [
         "audience_filled_fb",
-        "audience_filled_mean",
-        "audience_filled_median",
     ]
     all_p_value_results: List[pd.DataFrame] = []
 
@@ -197,6 +195,8 @@ def run_occupancy_analysis() -> None:
             p_league["season_year"] = "all_seasons"
             p_league["audience_column"] = col
             all_p_value_results.append(p_league)
+
+        # Level 3: Per-League / Season
 
     if not all_p_value_results:
         logger.warning("No p-value results were generated.")
