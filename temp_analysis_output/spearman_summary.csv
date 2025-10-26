@@ -1,7 +1,0 @@
-league_name,season_year,total_tests,significant_tests,G_type_0.25_balanced,G_type_0.25_unbalanced_strong,G_type_0.25_unbalanced_weak,G_type_0.30_balanced,G_type_0.30_unbalanced_strong,G_type_0.30_unbalanced_weak,G_type_0.35_balanced,G_type_0.35_unbalanced_strong,G_type_0.35_unbalanced_weak
-League A,2020,20,8,10,5,5,13,4,3,16,2,2
-League A,2021,20,12,8,2,10,12,1,7,15,0,5
-League B,2021,18,3,10,4,4,14,2,2,16,1,1
-League A,all_seasons,40,20,18,7,15,25,5,10,31,2,7
-League B,all_seasons,18,3,10,4,4,14,2,2,16,1,1
-all_leagues,all_seasons,58,23,28,11,19,39,7,12,47,3,8

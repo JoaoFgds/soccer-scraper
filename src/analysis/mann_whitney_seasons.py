@@ -1,85 +1,35 @@
 import logging
 import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
-
 from pathlib import Path
-from typing import Optional
+from typing import Optional, List, Dict, Any, TYPE_CHECKING
 from src.utils import paths
 from itertools import combinations
 from scipy.stats import mannwhitneyu
 
+# Importação condicional para type hinting
+if TYPE_CHECKING:
+    from pandas import DataFrame
 
 logger = logging.getLogger(__name__)
 
 
+# Mapeamento e ordem dos grupos
+
 GROUP_MAP = {"unbalanced_weak": "G-", "balanced": "G0", "unbalanced_strong": "G+"}
 GROUP_ORDER = ["G-", "G0", "G+"]
 
+# Pares de comparação para o teste
 
-def _generate_boxplot(df: pd.DataFrame, output_path: Path, title: str) -> None:
-    """Generates and saves a customized boxplot of final rank distribution by group.
-
-    This function creates a boxplot to visualize the distribution of final team
-    positions for each schedule balance group (G-, G0, G+). It applies custom
-    styling and saves the resulting plot to the specified file path.
-
-    Args:
-        df (pd.DataFrame): The DataFrame containing the data to plot. Must
-            include 'group_name' and 'final_position' columns.
-        output_path (Path): The file path where the generated plot image
-            will be saved.
-        title (str): The title to be displayed on the plot.
-    """
-    if df.empty or df["group_name"].nunique() < 2:
-        logger.warning(
-            "Skipping boxplot generation for '%s' due to insufficient data.", title
-        )
-        return
-
-    plt.rcParams["font.family"] = "DejaVu Sans"
-    plt.figure(figsize=(10, 7))
-    sns.set_style("whitegrid", {"axes.grid": True, "grid.linestyle": "--"})
-
-    sns.boxplot(
-        x="group_name",
-        y="final_position",
-        data=df,
-        order=GROUP_ORDER,
-        palette="viridis",
-        hue="group_name",
-        legend=False,
-    )
-
-    plt.title(title, fontsize=16, pad=20)
-    plt.xlabel("Group", fontsize=12)
-    plt.ylabel("Team Final Rank", fontsize=12)
-    plt.tight_layout()
-
-    output_path.parent.mkdir(parents=True, exist_ok=True)
-    plt.savefig(output_path)
-    plt.close()
-    logger.info("Boxplot saved to: %s", output_path)
+COMPARISON_PAIRS = [("G-", "G0"), ("G-", "G+"), ("G0", "G+")]
+P_VALUE_COLS = [f"{g1}_vs_{g2}" for g1, g2 in COMPARISON_PAIRS]
 
 
-def _run_tests_on_subset(data: pd.DataFrame) -> Optional[pd.DataFrame]:
-    """Performs pairwise Mann-Whitney U tests on a subset of data.
+# Constante para focar a análise em um único limiar
+G_TYPE_COLUMN_TO_ANALYZE = "G_type_0.300"
 
-    This function takes a DataFrame, groups it by the 'group_name' column, and
-    runs a two-sided Mann-Whitney U test for all combinations of the predefined
-    groups (G-, G0, G+). The test determines if the distributions of
-    'final_position' are significantly different between the groups.
 
-    Args:
-        data (pd.DataFrame): A subset of the analysis data for a specific
-            scope (e.g., a single season, a league, or overall). Must contain
-            'group_name' and 'final_position' columns.
-
-    Returns:
-        Optional[pd.DataFrame]: A single-row DataFrame containing the p-values
-            for each pairwise comparison (e.g., 'G-_vs_G0'). Returns `None`
-            if there are fewer than two distinct groups to compare in the data.
-    """
+def _run_tests_on_subset(data: pd.DataFrame) -> Optional["DataFrame"]:
+    """Executa testes Mann-Whitney U pareados em um subconjunto de dados."""
     groups = {
         name: group_data["final_position"]
         for name, group_data in data.groupby("group_name")
@@ -88,105 +38,295 @@ def _run_tests_on_subset(data: pd.DataFrame) -> Optional[pd.DataFrame]:
         return None
 
     p_values = {}
-    for g1, g2 in combinations(GROUP_ORDER, 2):
+    for g1, g2 in COMPARISON_PAIRS:
         col_name = f"{g1}_vs_{g2}"
         if g1 in groups and g2 in groups:
-            _, p_value = mannwhitneyu(groups[g1], groups[g2], alternative="two-sided")
-            p_values[col_name] = p_value
+            if groups[g1].empty or groups[g2].empty:
+                p_values[col_name] = None
+            else:
+                _, p_value = mannwhitneyu(
+                    groups[g1], groups[g2], alternative="two-sided"
+                )
+                p_values[col_name] = p_value
         else:
             p_values[col_name] = None
 
     p_values_df = pd.DataFrame([p_values])
+    return p_values_df.astype(float)
 
-    for col in p_values_df.columns:
-        if "_vs_" in col:
-            p_values_df[col] = p_values_df[col].astype(float)
 
-    return p_values_df
+def _calculate_significance_stats(group: pd.DataFrame) -> pd.Series:
+    """
+    (NOVA FUNÇÃO) Calcula as estatísticas de significância para um
+    determinado grupo de p-values (de um melted_df).
+    """
+    if group.empty:
+        return pd.Series(dtype="float64")
+
+    stats = {}
+    total_tests = len(group)
+
+    # Cria uma máscara booleana para p < 0.05
+    significant_mask = group["p_value"] < 0.05
+    total_significant = significant_mask.sum()
+
+    stats["total_tests"] = total_tests
+    stats["significant_tests"] = total_significant
+
+    # Calcula a porcentagem
+    if total_tests > 0:
+        stats["significant_percentage"] = total_significant / total_tests
+    else:
+        stats["significant_percentage"] = 0.0
+
+    # --- Breakdown por tipo de comparação ---
+    stats["significant_G-_vs_G0"] = significant_mask[
+        group["comparison"] == "G-_vs_G0"
+    ].sum()
+    stats["significant_G-_vs_G+"] = significant_mask[
+        group["comparison"] == "G-_vs_G+"
+    ].sum()
+    stats["significant_G0_vs_G+"] = significant_mask[
+        group["comparison"] == "G0_vs_G+"
+    ].sum()
+
+    return pd.Series(stats)
+
+
+def _analyze_and_log_results(results_df: pd.DataFrame) -> None:
+    """
+    (MODIFICADO) Analisa o DataFrame de p-values, salva o novo CSV de
+    contagens em 3 níveis e loga as respostas para as perguntas de negócio.
+
+    Primeiro, filtra quaisquer linhas com p-values nulos.
+    """
+    logger.info(
+        "--- Iniciando Análise Agregada dos P-Values (para %s) ---",
+        G_TYPE_COLUMN_TO_ANALYZE,
+    )
+
+    original_row_count = len(results_df)
+    # Filtra o DataFrame para manter apenas linhas onde TODOS os p-values
+    # são não-nulos.
+    analysis_df = results_df.dropna(subset=P_VALUE_COLS)
+    dropped_rows = original_row_count - len(analysis_df)
+
+    if dropped_rows > 0:
+        logger.info(
+            f"Removidas {dropped_rows} linhas (temporadas) com p-values nulos "
+            f"(testes incompletos) antes da análise. "
+            f"{len(analysis_df)} temporadas completas restantes."
+        )
+
+    if analysis_df.empty:
+        logger.warning(
+            "Nenhuma linha com conjunto completo de p-values "
+            "encontrada para analisar."
+        )
+        return
+    # --- FIM DA MODIFICAÇÃO ---
+
+    # "Derrete" o DataFrame (agora filtrado) para ter p-values em uma única coluna
+    melted_df = analysis_df.melt(
+        id_vars=["league_name", "season_year"],
+        value_vars=P_VALUE_COLS,
+        var_name="comparison",
+        value_name="p_value",
+    )
+    # Nenhuma dropna() é necessária aqui, pois já foi feito.
+
+    # --- 1. Calcular agregações nos 3 níveis ---
+
+    # Nível 3: (league, season)
+    agg_season = (
+        melted_df.groupby(["league_name", "season_year"])
+        .apply(_calculate_significance_stats, include_groups=False)
+        .reset_index()
+    )
+
+    # Nível 2: (league)
+    agg_league = (
+        melted_df.groupby("league_name")
+        .apply(_calculate_significance_stats, include_groups=False)
+        .reset_index()
+    )
+    agg_league["season_year"] = "all_seasons"
+
+    # Nível 1: (overall)
+    agg_all_series = _calculate_significance_stats(melted_df)
+    agg_all = agg_all_series.to_frame().T
+    agg_all["league_name"] = "all_leagues"
+    agg_all["season_year"] = "all_seasons"
+
+    # Corrige tipos de dados após a transposição
+    for col in agg_all.columns:
+        if col not in ["league_name", "season_year"]:
+            try:
+                agg_all[col] = pd.to_numeric(agg_all[col])
+            except ValueError:
+                pass
+
+    # --- 2. Combinar e Salvar o NOVO CSV de contagens ---
+
+    summary_df = pd.concat([agg_season, agg_league, agg_all], ignore_index=True)
+
+    id_cols = ["league_name", "season_year"]
+    metric_cols = [
+        "total_tests",
+        "significant_tests",
+        "significant_percentage",
+        "significant_G-_vs_G0",
+        "significant_G-_vs_G+",
+        "significant_G0_vs_G+",
+    ]
+
+    summary_df = summary_df.reindex(columns=id_cols + metric_cols)
+    summary_df.sort_values(by=["league_name", "season_year"], inplace=True)
+    summary_df.reset_index(drop=True, inplace=True)
+
+    int_cols = [
+        "total_tests",
+        "significant_tests",
+        "significant_G-_vs_G0",
+        "significant_G-_vs_G+",
+        "significant_G0_vs_G+",
+    ]
+    summary_df[int_cols] = summary_df[int_cols].fillna(0).astype(int)
+
+    summary_df.to_csv(paths.OVERALL_MANN_WHITNEY_PATH, index=False, float_format="%.4f")
+    logger.info(
+        "CSV de sumarização de significância salvo em: %s",
+        paths.OVERALL_MANN_WHITNEY_PATH,
+    )
+
+    # --- 3. Logar as respostas (usando o summary_df recém-criado) ---
+
+    overall_stats = summary_df[
+        (summary_df["league_name"] == "all_leagues")
+        & (summary_df["season_year"] == "all_seasons")
+    ]
+
+    if not overall_stats.empty:
+        stats = overall_stats.iloc[0]
+        logger.info(
+            f"[Análise Geral (Limiar {G_TYPE_COLUMN_TO_ANALYZE})] "
+            f"Percentual de testes significativos (p < 0.05): "
+            f"{stats['significant_percentage'] * 100:.2f}% "
+            f"({stats['significant_tests']} de {stats['total_tests']} testes)"
+        )
+
+    league_summary = (
+        summary_df[
+            (summary_df["season_year"] == "all_seasons")
+            & (summary_df["league_name"] != "all_leagues")
+        ]
+        .set_index("league_name")["significant_percentage"]
+        .sort_values(ascending=False)
+    )
+
+    if not league_summary.empty:
+        logger.info(
+            f"[Análise por Liga (Limiar {G_TYPE_COLUMN_TO_ANALYZE})] "
+            f"Liga com MAIOR efeito (mais testes significativos): "
+            f"{league_summary.index[0]} ({league_summary.iloc[0] * 100:.2f}%)"
+        )
+        logger.info(
+            f"[Análise por Liga (Limiar {G_TYPE_COLUMN_TO_ANALYZE})] "
+            f"Liga com MENOR efeito (menos testes significativos): "
+            f"{league_summary.index[-1]} ({league_summary.iloc[-1] * 100:.2f}%)"
+        )
+
+        league_summary_log = (league_summary * 100).to_string(float_format="%.2f%%")
+        logger.info(
+            "Sumário completo da taxa de significância por liga (para %s):\n%s",
+            G_TYPE_COLUMN_TO_ANALYZE,
+            league_summary_log,
+        )
+
+    logger.info("--- Análise Agregada Concluída ---")
 
 
 def run_statistical_analysis() -> None:
-    """Orchestrates the statistical analysis of schedule balance on final team ranks.
-
-    This function serves as the main entry point for the statistical testing
-    phase. It loads the detailed Spearman analysis results and conducts a
-    multi-level analysis to determine if there is a statistically significant
-    difference in the final league standings of teams based on their schedule
-    balance type (unbalanced-weak, balanced, or unbalanced-strong).
-
-    The analysis is performed at three granularities:
-    1.  **Overall:** All leagues and seasons combined.
-    2.  **Per-League:** Each league's data aggregated across all its seasons.
-    3.  **Per-Season:** Each individual league-season combination.
-
-    For each level, it runs Mann-Whitney U tests and generates boxplots to
-    visualize the distributions. The results (p-values and plots) are saved to
-    the 'gold' data directory.
     """
-    logger.info("Starting statistical significance analysis (Mann-Whitney U).")
+    Orquestra a análise estatística do balanço da tabela nos ranks finais
+    focando em um único limiar (G_type_0.300).
+    """
+    logger.info("Iniciando análise de significância estatística (Mann-Whitney U).")
+
     try:
         df = pd.read_csv(paths.SPEARMAN_BALANCE_PATH)
-        df["group_name"] = df["G_type"].map(GROUP_MAP)
-        df.dropna(subset=["final_position", "group_name"], inplace=True)
         logger.info(
-            "Loaded '%s' with %d valid rows.", paths.SPEARMAN_BALANCE_PATH, len(df)
+            "Carregado '%s' com %d linhas.", paths.SPEARMAN_BALANCE_PATH, len(df)
         )
     except FileNotFoundError:
         logger.error(
-            "Input file not found: %s. Aborting analysis.", paths.SPEARMAN_BALANCE_PATH
+            "Arquivo de entrada não encontrado: %s. Abortando análise.",
+            paths.SPEARMAN_BALANCE_PATH,
         )
         return
 
-    # --- Level 1: Overall Analysis ---
-    logger.info("--- Running Overall Statistical Analysis ---")
-    if (overall_p := _run_tests_on_subset(df)) is not None:
-        overall_p.to_csv(
-            paths.OVERALL_MANN_WHITNEY_PATH, index=False, float_format="%.4f"
+    if G_TYPE_COLUMN_TO_ANALYZE not in df.columns:
+        logger.error(
+            "Coluna de análise '%s' não encontrada em '%s'. Abortando.",
+            G_TYPE_COLUMN_TO_ANALYZE,
+            paths.SPEARMAN_BALANCE_PATH,
         )
-        logger.info("Overall p-values saved to: %s", paths.OVERALL_MANN_WHITNEY_PATH)
+        return
 
-    plot_path = paths.MANN_WHITNEY_SEASONS_PLOTS / "rank_dist_overall.png"
-    _generate_boxplot(df, plot_path, "Overall Team Final Rank Distribution by Group")
+    all_season_results: List["DataFrame"] = []
 
-    # --- Level 2: Per-League Analysis ---
-    logger.info("--- Running Per-League Statistical Analysis ---")
-    per_league_results = []
-    for league, league_df in df.groupby("league_name"):
-        if (p_league := _run_tests_on_subset(league_df)) is not None:
-            p_league["league_name"] = league
-            per_league_results.append(p_league)
+    logger.info("--- Processando limiar único: %s ---", G_TYPE_COLUMN_TO_ANALYZE)
 
-        plot_path = (
-            paths.MANN_WHITNEY_SEASONS_PLOTS / f"rank_dist_{league}_all_seasons.png"
+    # 1. Prepara o DataFrame para este limiar
+    df_thresh = df[
+        ["league_name", "season_year", "final_position", G_TYPE_COLUMN_TO_ANALYZE]
+    ].copy()
+    df_thresh["group_name"] = df_thresh[G_TYPE_COLUMN_TO_ANALYZE].map(GROUP_MAP)
+    df_thresh.dropna(subset=["final_position", "group_name"], inplace=True)
+
+    if df_thresh.empty:
+        logger.warning(
+            "Sem dados válidos para '%s'. Encerrando análise.", G_TYPE_COLUMN_TO_ANALYZE
         )
-        title = f"Final Rank Distribution for {league.replace('_', ' ').title()} (All Seasons)"
-        _generate_boxplot(league_df, plot_path, title)
+        return
 
-    if per_league_results:
-        league_df = pd.concat(per_league_results, ignore_index=True)
-        league_df.to_csv(
-            paths.PER_LEAGUE_MANN_WHITNEY_PATH, index=False, float_format="%.4f"
-        )
-        logger.info(
-            "Per-league p-values saved to: %s", paths.PER_LEAGUE_MANN_WHITNEY_PATH
-        )
-
-    # --- Level 3: Per-Season Analysis ---
-    logger.info("--- Running Per-Season Statistical Analysis ---")
-    per_season_results = []
-    for (league, season), season_df in df.groupby(["league_name", "season_year"]):
+    # 2. Executa testes na granularidade (liga, temporada)
+    for (league, season), season_df in df_thresh.groupby(
+        ["league_name", "season_year"]
+    ):
         if (p_season := _run_tests_on_subset(season_df)) is not None:
             p_season["league_name"] = league
             p_season["season_year"] = season
-            per_season_results.append(p_season)
+            all_season_results.append(p_season)
 
-    if per_season_results:
-        season_df = pd.concat(per_season_results, ignore_index=True)
-        season_df.to_csv(
-            paths.PER_SEASON_MANN_WHITNEY_PATH, index=False, float_format="%.4f"
+    if not all_season_results:
+        logger.warning(
+            "Análise concluída, mas nenhum resultado estatístico foi gerado."
         )
-        logger.info(
-            "Per-season p-values saved to: %s", paths.PER_SEASON_MANN_WHITNEY_PATH
-        )
+        return
 
-    logger.info("Statistical analysis complete.")
+    # Correção do Erro: Use pd.concat para unir uma lista de DataFrames
+    results_df = pd.concat(all_season_results, ignore_index=True)
+
+    # Reordena colunas para clareza
+    id_cols = ["league_name", "season_year"]
+    results_df = results_df.reindex(columns=id_cols + P_VALUE_COLS)
+
+    # Salva o CSV de P-VALUES por temporada
+    results_df.to_csv(
+        paths.PER_SEASON_MANN_WHITNEY_PATH, index=False, float_format="%.4f"
+    )
+    logger.info(
+        "Resultados (p-values) para '%s' salvos em: %s",
+        G_TYPE_COLUMN_TO_ANALYZE,
+        paths.PER_SEASON_MANN_WHITNEY_PATH,
+    )
+
+    # Executa a análise, salva o CSV de contagens e loga os resultados
+    _analyze_and_log_results(results_df)
+
+    logger.info("Análise estatística completa.")
+
+
+if __name__ == "__main__":
+    run_statistical_analysis()
