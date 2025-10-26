@@ -36,27 +36,27 @@ def analysis_pipeline():
     logger.info("--- Starting Data Analysis Workflow ---")
 
     try:
-        # print("\n")
-        # logger.info(
-        #     "Task 1: Calculating Spearman's coefficient for strength of schedule."
-        # )
-        # spearman_coeff_calculate.calculate_strength_schedule_balance()
+        print("\n")
+        logger.info(
+            "Task 1: Calculating Spearman's coefficient for strength of schedule."
+        )
+        spearman_coeff_calculate.calculate_strength_schedule_balance()
 
-        # print("\n")
-        # logger.info("Task 2: Creating summary table for G-type analysis.")
-        # spearman_coeff_summary.create_g_type_summary()
+        print("\n")
+        logger.info("Task 2: Creating summary table for G-type analysis.")
+        spearman_coeff_summary.create_g_type_summary()
 
-        # print("\n")
-        # logger.info("Task 3: Creating plots for G-type analysis.")
-        # spearman_coeff_plots.generate_all_visualizations()
+        print("\n")
+        logger.info("Task 3: Creating plots for G-type analysis.")
+        spearman_coeff_plots.generate_all_visualizations()
 
         print("\n")
         logger.info("Task 4: Running Mann-Whitney U tests for season final ranks.")
-        mann_whitney_seasons.run_statistical_analysis()
+        mann_whitney_seasons.run_seasons_analysis()
 
-        # print("\n")
-        # logger.info("Task 4: Running Mann-Whitney U tests for stadium occupancy.")
-        # mann_whitney_attendance.run_occupancy_analysis()
+        print("\n")
+        logger.info("Task 5: Running Mann-Whitney U tests for stadium occupancy.")
+        mann_whitney_attendance.run_occupancy_analysis()
 
     except Exception as e:
         logger.critical(
