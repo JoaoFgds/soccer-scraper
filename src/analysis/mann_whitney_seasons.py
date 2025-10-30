@@ -5,32 +5,42 @@ import matplotlib.pyplot as plt
 import matplotlib.ticker as mtick
 
 from pathlib import Path
-from typing import Optional, List, Dict, Any, TYPE_CHECKING
 from src.utils import paths
 from itertools import combinations
 from scipy.stats import mannwhitneyu
+from typing import Optional, List, Dict, Any, TYPE_CHECKING
 
-# Importação condicional para type hinting
+
 if TYPE_CHECKING:
     from pandas import DataFrame
+
 
 logger = logging.getLogger(__name__)
 
 
-# Mapeamento e ordem dos grupos
 GROUP_MAP = {"unbalanced_weak": "G-", "balanced": "G0", "unbalanced_strong": "G+"}
 GROUP_ORDER = ["G-", "G0", "G+"]
-# Pares de comparação para o teste
 COMPARISON_PAIRS = [("G-", "G0"), ("G-", "G+"), ("G0", "G+")]
 P_VALUE_COLS = [f"{g1}_vs_{g2}" for g1, g2 in COMPARISON_PAIRS]
 
 
-# Constante para focar a análise em um único limiar
 G_TYPE_COLUMN_TO_ANALYZE = "G_type_0.300"
 
 
 def _run_tests_on_subset(data: pd.DataFrame) -> Optional["DataFrame"]:
-    """Executa testes Mann-Whitney U pareados em um subconjunto de dados."""
+    """
+    Runs pairwise Mann-Whitney U tests on a subset of data.
+
+    Compares the 'final_position' metric between predefined groups (G-, G0, G+).
+
+    Args:
+        data: A DataFrame subset for a specific league/season, containing
+              'group_name' and 'final_position' columns.
+
+    Returns:
+        A DataFrame with a single row containing p-values for each
+        comparison pair, or None if insufficient data.
+    """
     groups = {
         name: group_data["final_position"]
         for name, group_data in data.groupby("group_name")
@@ -57,7 +67,20 @@ def _run_tests_on_subset(data: pd.DataFrame) -> Optional["DataFrame"]:
 
 
 def _calculate_significance_stats(group: pd.DataFrame) -> pd.Series:
-    """Calcula as estatísticas de significância para um grupo de p-values."""
+    """
+    Calculates significance statistics for a group of p-values.
+
+    Counts total tests, significant tests (p < 0.05), and provides
+    a breakdown of significant results by comparison pair.
+
+    Args:
+        group: A DataFrame of p-values, typically the 'melted' DataFrame
+               containing 'p_value' and 'comparison' columns.
+
+    Returns:
+        A pandas Series containing the calculated statistics
+        (e.g., 'total_tests', 'significant_percentage').
+    """
     if group.empty:
         return pd.Series(dtype="float64")
 
@@ -87,18 +110,23 @@ def _calculate_significance_stats(group: pd.DataFrame) -> pd.Series:
     return pd.Series(stats)
 
 
-# --- INÍCIO DAS FUNÇÕES DE PLOTAGEM ---
-
-
 def _generate_boxplot(df: pd.DataFrame, output_path: Path, title: str) -> None:
-    """(GRÁFICO 1) Gera o boxplot de 3 grupos."""
+    """
+    (PLOT 1) Generates and saves a three-group boxplot for final position.
+
+    Args:
+        df: The DataFrame containing data to plot (must include
+            'group_name' and 'final_position').
+        output_path: The Path object where the plot image will be saved.
+        title: The title for the chart.
+    """
     if df.empty or df["group_name"].nunique() < 2:
         logger.warning(
-            "Pulando geração do boxplot para '%s' (dados insuficientes).", title
+            "Skipping boxplot generation for '%s' (insufficient data).", title
         )
         return
 
-    logger.info("Gerando boxplot: %s", title)
+    logger.info("Generating boxplot: %s", title)
     plt.rcParams["font.family"] = "DejaVu Sans"
     plt.figure(figsize=(10, 7))
     sns.set_style("whitegrid", {"axes.grid": True, "grid.linestyle": "--"})
@@ -121,23 +149,29 @@ def _generate_boxplot(df: pd.DataFrame, output_path: Path, title: str) -> None:
 
     plt.savefig(output_path)
     plt.close()
-    logger.info("Boxplot salvo em: %s", output_path)
+    logger.info("Boxplot saved to: %s", output_path)
 
 
 def _plot_violin_G_vs_Gplus(df: pd.DataFrame, output_path: Path, title: str) -> None:
     """
-    (NOVO GRÁFICO SUGErIDO)
-    Gera um gráfico de violino comparando apenas G- e G+ para
-    mostrar a forma completa da distribuição.
-    """
-    logger.info("Gerando violin plot (G- vs G+): %s", title)
+    (PLOT 2 - VIOLIN) Generates a violin plot comparing G- and G+ final position.
 
-    # 1. Filtra os dados para incluir apenas os dois grupos extremos
+    This plot is designed to show the full distribution shape of final ranks
+    for the two extreme groups.
+
+    Args:
+        df: The DataFrame containing data to plot (must include
+            'group_name' and 'final_position').
+        output_path: The Path object where the plot image will be saved.
+        title: The title for the chart.
+    """
+    logger.info("Generating violin plot (G- vs G+): %s", title)
+
     df_plot = df[df["group_name"].isin(["G-", "G+"])].copy()
 
     if df_plot.empty or df_plot["group_name"].nunique() < 2:
         logger.warning(
-            "Pulando geração do violin plot para '%s' (dados insuficientes).", title
+            "Skipping violin plot generation for '%s' (insufficient data).", title
         )
         return
 
@@ -145,23 +179,20 @@ def _plot_violin_G_vs_Gplus(df: pd.DataFrame, output_path: Path, title: str) -> 
     plt.figure(figsize=(10, 7))
     sns.set_style("whitegrid", {"axes.grid": True, "grid.linestyle": "--"})
 
-    # 2. Define uma paleta de cores para os grupos
-    palette = {"G-": "#91cf60", "G+": "#d01c8b"}  # Verde e Magenta
+    palette = {"G-": "#91cf60", "G+": "#d01c8b"}
 
-    # 3. Cria o gráfico de violino
     sns.violinplot(
         x="group_name",
         y="final_position",
         data=df_plot,
-        order=["G-", "G+"],  # Garante a ordem
+        order=["G-", "G+"],
         palette=palette,
-        hue="group_name",  # Para evitar o FutureWarning
+        hue="group_name",
         legend=False,
-        inner="quartile",  # Mostra as linhas de quartil dentro do violino
-        cut=0,  # Limita o violino ao range dos dados
+        inner="quartile",
+        cut=0,
     )
 
-    # 4. Inverte o eixo Y
     plt.gca().invert_yaxis()
 
     plt.title(title, fontsize=16, pad=20)
@@ -171,12 +202,22 @@ def _plot_violin_G_vs_Gplus(df: pd.DataFrame, output_path: Path, title: str) -> 
 
     plt.savefig(output_path)
     plt.close()
-    logger.info("Violin plot salvo em: %s", output_path)
+    logger.info("Violin plot saved to: %s", output_path)
 
 
 def _plot_significance_by_league(summary_df: pd.DataFrame, output_path: Path) -> None:
-    """(GRÁFICO 2) Gera um gráfico de barras respondendo "Qual liga tem maior efeito?"."""
-    logger.info("Gerando gráfico de resumo de significância por liga...")
+    """
+    (PLOT 3 - Summary) Generates a bar chart of significance rate by league.
+
+    This plot answers "Which league shows the strongest effect?" by plotting
+    the 'significant_percentage' for all leagues (excluding 'all_leagues')
+    from the 'all_seasons' aggregation.
+
+    Args:
+        summary_df: The aggregated summary DataFrame.
+        output_path: The Path object where the plot image will be saved.
+    """
+    logger.info("Generating significance summary plot by league...")
 
     df_plot = summary_df[
         (summary_df["season_year"] == "all_seasons")
@@ -184,7 +225,7 @@ def _plot_significance_by_league(summary_df: pd.DataFrame, output_path: Path) ->
     ].sort_values(by="significant_percentage", ascending=False)
 
     if df_plot.empty:
-        logger.warning("Sem dados agregados de liga para plotar resumo.")
+        logger.warning("No aggregated league data to plot summary.")
         return
 
     plt.figure(figsize=(12, 8))
@@ -216,12 +257,21 @@ def _plot_significance_by_league(summary_df: pd.DataFrame, output_path: Path) ->
     plt.tight_layout()
     plt.savefig(output_path)
     plt.close()
-    logger.info("Gráfico de significância por liga salvo em: %s", output_path)
+    logger.info("Significance by league plot saved to: %s", output_path)
 
 
 def _plot_pvalue_distribution(melted_df: pd.DataFrame, output_path: Path) -> None:
-    """(GRÁFICO 3) Gera um stripplot mostrando a distribuição de todos os p-values."""
-    logger.info("Gerando gráfico de distribuição de p-values...")
+    """
+    (PLOT 4 - Summary) Generates a stripplot of the p-value distribution.
+
+    Shows all individual p-values from the league/season tests,
+    separated by comparison pair (e.g., 'G-_vs_G0').
+
+    Args:
+        melted_df: The long-format DataFrame containing all p-values.
+        output_path: The Path object where the plot image will be saved.
+    """
+    logger.info("Generating p-value distribution plot...")
     plt.figure(figsize=(14, 8))
     sns.set_style("whitegrid")
 
@@ -256,19 +306,26 @@ def _plot_pvalue_distribution(melted_df: pd.DataFrame, output_path: Path) -> Non
     plt.tight_layout()
     plt.savefig(output_path)
     plt.close()
-    logger.info("Gráfico de distribuição de p-values salvo em: %s", output_path)
-
-
-# --- FIM DAS FUNÇÕES DE PLOTAGEM ---
+    logger.info("P-value distribution plot saved to: %s", output_path)
 
 
 def _analyze_and_log_results(results_df: pd.DataFrame, plot_dir: Path) -> None:
     """
-    Analisa p-values, salva CSV de contagens, gera plots de resumo
-    e loga as respostas para as perguntas de negócio.
+    Analyzes p-values, saves summary CSVs, and generates summary plots.
+
+    This function takes the raw p-value results, calculates aggregate statistics
+    (by season, by league, and overall), saves the aggregated data,
+    and orchestrates the generation of summary plots
+    (_plot_significance_by_league, _plot_pvalue_distribution).
+
+    It also logs the main business answers derived from the aggregates.
+
+    Args:
+        results_df: DataFrame of raw p-values (one row per league/season).
+        plot_dir: The Path directory to save summary plots.
     """
     logger.info(
-        "--- Iniciando Análise Agregada dos P-Values (para %s) ---",
+        "--- Starting Aggregated P-Value Analysis (for %s) ---",
         G_TYPE_COLUMN_TO_ANALYZE,
     )
 
@@ -278,16 +335,15 @@ def _analyze_and_log_results(results_df: pd.DataFrame, plot_dir: Path) -> None:
 
     if dropped_rows > 0:
         logger.info(
-            f"Removidas {dropped_rows} linhas (temporadas) com p-values nulos "
-            f"(testes incompletos) antes da análise. "
-            f"{len(analysis_df)} temporadas completas restantes."
+            "Removed %d rows (seasons) with null p-values "
+            "(incomplete tests) before analysis. "
+            "%d complete seasons remaining.",
+            dropped_rows,
+            len(analysis_df),
         )
 
     if analysis_df.empty:
-        logger.warning(
-            "Nenhuma linha com conjunto completo de p-values "
-            "encontrada para analisar."
-        )
+        logger.warning("No rows with a complete set of p-values found to analyze.")
         return
 
     melted_df = analysis_df.melt(
@@ -297,7 +353,6 @@ def _analyze_and_log_results(results_df: pd.DataFrame, plot_dir: Path) -> None:
         value_name="p_value",
     )
 
-    # --- 1. Calcular agregações nos 3 níveis ---
     agg_season = (
         melted_df.groupby(["league_name", "season_year"])
         .apply(_calculate_significance_stats, include_groups=False)
@@ -321,7 +376,6 @@ def _analyze_and_log_results(results_df: pd.DataFrame, plot_dir: Path) -> None:
             except ValueError:
                 pass
 
-    # --- 2. Combinar e Salvar o NOVO CSV de contagens ---
     summary_df = pd.concat([agg_season, agg_league, agg_all], ignore_index=True)
     id_cols = ["league_name", "season_year"]
     metric_cols = [
@@ -346,18 +400,16 @@ def _analyze_and_log_results(results_df: pd.DataFrame, plot_dir: Path) -> None:
 
     summary_df.to_csv(paths.OVERALL_MANN_WHITNEY_PATH, index=False, float_format="%.4f")
     logger.info(
-        "CSV de sumarização de significância salvo em: %s",
+        "Significance summary CSV saved to: %s",
         paths.OVERALL_MANN_WHITNEY_PATH,
     )
 
-    # --- 3. Gerar Gráficos de Resumo ---
     plot_path_league_summary = plot_dir / "summary_significance_by_league.png"
     _plot_significance_by_league(summary_df, plot_path_league_summary)
 
     plot_path_pvalue_dist = plot_dir / "summary_pvalue_distribution.png"
     _plot_pvalue_distribution(melted_df, plot_path_pvalue_dist)
 
-    # --- 4. Logar as respostas ---
     overall_stats = summary_df[
         (summary_df["league_name"] == "all_leagues")
         & (summary_df["season_year"] == "all_seasons")
@@ -366,10 +418,14 @@ def _analyze_and_log_results(results_df: pd.DataFrame, plot_dir: Path) -> None:
     if not overall_stats.empty:
         stats = overall_stats.iloc[0]
         logger.info(
-            f"[Análise Geral (Limiar {G_TYPE_COLUMN_TO_ANALYZE})] "
-            f"Percentual de testes significativos (p < 0.05): "
-            f"{stats['significant_percentage'] * 100:.2f}% "
-            f"({stats['significant_tests']} de {stats['total_tests']} testes)"
+            "[Overall Analysis (Threshold %s)] "
+            "Percentage of significant tests (p < 0.05): "
+            "%.2f%% "
+            "(%d of %d tests)",
+            G_TYPE_COLUMN_TO_ANALYZE,
+            stats["significant_percentage"] * 100,
+            stats["significant_tests"],
+            stats["total_tests"],
         )
 
     league_summary = (
@@ -383,51 +439,59 @@ def _analyze_and_log_results(results_df: pd.DataFrame, plot_dir: Path) -> None:
 
     if not league_summary.empty:
         logger.info(
-            f"[Análise por Liga (Limiar {G_TYPE_COLUMN_TO_ANALYZE})] "
-            f"Liga com MAIOR efeito (mais testes significativos): "
-            f"{league_summary.index[0]} ({league_summary.iloc[0] * 100:.2f}%)"
+            "[League Analysis (Threshold %s)] "
+            "League with HIGHEST effect (most significant tests): "
+            "%s (%.2f%%)",
+            G_TYPE_COLUMN_TO_ANALYZE,
+            league_summary.index[0],
+            league_summary.iloc[0] * 100,
         )
         logger.info(
-            f"[Análise por Liga (Limiar {G_TYPE_COLUMN_TO_ANALYZE})] "
-            f"Liga com MENOR efeito (menos testes significativos): "
-            f"{league_summary.index[-1]} ({league_summary.iloc[-1] * 100:.2f}%)"
+            "[League Analysis (Threshold %s)] "
+            "League with LOWEST effect (least significant tests): "
+            "%s (%.2f%%)",
+            G_TYPE_COLUMN_TO_ANALYZE,
+            league_summary.index[-1],
+            league_summary.iloc[-1] * 100,
         )
         league_summary_log = (league_summary * 100).to_string(float_format="%.2f%%")
         logger.info(
-            "Sumário completo da taxa de significância por liga (para %s):\n%s",
+            "Full significance rate summary by league (for %s):\n%s",
             G_TYPE_COLUMN_TO_ANALYZE,
             league_summary_log,
         )
 
-    logger.info("--- Análise Agregada Concluída ---")
+    logger.info("--- Aggregated Analysis Concluded ---")
 
 
 def run_seasons_analysis() -> None:
     """
-    Orquestra a análise estatística do balanço da tabela nos ranks finais
-    focando em um único limiar (G_type_0.300).
-    """
-    logger.info("Iniciando análise de significância estatística (Mann-Whitney U).")
+    Orchestrates the statistical analysis of schedule balance on final ranks.
 
-    # Define e cria o diretório de plots
+    This function focuses on a single G-type threshold (G_type_0.300).
+    It loads the data, generates overall distribution plots (boxplot and violin),
+    then iterates through each league/season to perform Mann-Whitney U tests.
+    Finally, it aggregates all p-values, saves the raw and summary
+    results, and logs the key findings.
+    """
+    logger.info("Starting statistical significance analysis (Mann-Whitney U).")
+
     plot_dir = paths.MANN_WHITNEY_PLOTS_DIR
     plot_dir.mkdir(parents=True, exist_ok=True)
 
     try:
         df = pd.read_csv(paths.SPEARMAN_BALANCE_PATH)
-        logger.info(
-            "Carregado '%s' com %d linhas.", paths.SPEARMAN_BALANCE_PATH, len(df)
-        )
+        logger.info("Loaded '%s' with %d rows.", paths.SPEARMAN_BALANCE_PATH, len(df))
     except FileNotFoundError:
         logger.error(
-            "Arquivo de entrada não encontrado: %s. Abortando análise.",
+            "Input file not found: %s. Aborting analysis.",
             paths.SPEARMAN_BALANCE_PATH,
         )
         return
 
     if G_TYPE_COLUMN_TO_ANALYZE not in df.columns:
         logger.error(
-            "Coluna de análise '%s' não encontrada em '%s'. Abortando.",
+            "Analysis column '%s' not found in '%s'. Aborting.",
             G_TYPE_COLUMN_TO_ANALYZE,
             paths.SPEARMAN_BALANCE_PATH,
         )
@@ -435,7 +499,7 @@ def run_seasons_analysis() -> None:
 
     all_season_results: List["DataFrame"] = []
 
-    logger.info("--- Processando limiar único: %s ---", G_TYPE_COLUMN_TO_ANALYZE)
+    logger.info("--- Processing single threshold: %s ---", G_TYPE_COLUMN_TO_ANALYZE)
 
     df_thresh = df[
         ["league_name", "season_year", "final_position", G_TYPE_COLUMN_TO_ANALYZE]
@@ -445,16 +509,14 @@ def run_seasons_analysis() -> None:
 
     if df_thresh.empty:
         logger.warning(
-            "Sem dados válidos para '%s'. Encerrando análise.", G_TYPE_COLUMN_TO_ANALYZE
+            "No valid data for '%s'. Ending analysis.", G_TYPE_COLUMN_TO_ANALYZE
         )
         return
 
-    # --- GERA O GRÁFICO 1 (BOXPLOT) ---
     plot_path_box = plot_dir / f"rank_dist_overall_{G_TYPE_COLUMN_TO_ANALYZE}.png"
     title = f"Distribuição Geral do Rank Final (Limiar: {G_TYPE_COLUMN_TO_ANALYZE})"
     _generate_boxplot(df_thresh, plot_path_box, title)
 
-    # --- GERA O NOVO GRÁFICO DE VIOLINO ---
     plot_path_violin = (
         plot_dir / f"violin_Gminus_vs_Gplus_{G_TYPE_COLUMN_TO_ANALYZE}.png"
     )
@@ -464,7 +526,6 @@ def run_seasons_analysis() -> None:
     )
     _plot_violin_G_vs_Gplus(df_thresh, plot_path_violin, title_violin)
 
-    # --- Executa testes na granularidade (liga, temporada) ---
     for (league, season), season_df in df_thresh.groupby(
         ["league_name", "season_year"]
     ):
@@ -474,12 +535,9 @@ def run_seasons_analysis() -> None:
             all_season_results.append(p_season)
 
     if not all_season_results:
-        logger.warning(
-            "Análise concluída, mas nenhum resultado estatístico foi gerado."
-        )
+        logger.warning("Analysis complete, but no statistical results were generated.")
         return
 
-    # Correção do Erro: Use pd.concat para unir uma lista de DataFrames
     results_df = pd.concat(all_season_results, ignore_index=True)
 
     id_cols = ["league_name", "season_year"]
@@ -489,16 +547,15 @@ def run_seasons_analysis() -> None:
         paths.PER_SEASON_MANN_WHITNEY_PATH, index=False, float_format="%.4f"
     )
     logger.info(
-        "Resultados (p-values) para '%s' salvos em: %s",
+        "P-value results for '%s' saved to: %s",
         G_TYPE_COLUMN_TO_ANALYZE,
         paths.PER_SEASON_MANN_WHITNEY_PATH,
     )
 
-    # Executa a análise, salva o CSV de contagens e loga os resultados
     _analyze_and_log_results(results_df, plot_dir)
 
-    logger.info("Análise estatística completa.")
+    logger.info("--- Tournament Efficacy Analysis Concluded ---")
 
 
 if __name__ == "__main__":
-    run_statistical_analysis()
+    run_seasons_analysis()

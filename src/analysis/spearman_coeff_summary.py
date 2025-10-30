@@ -8,8 +8,21 @@ logger = logging.getLogger(__name__)
 
 def _calculate_group_stats(group_df: pd.DataFrame, g_type_cols: List[str]) -> pd.Series:
     """
-    Função auxiliar para calcular estatísticas de sumarização para um
-    determinado grupo de dados.
+    Calculates summary statistics for a given DataFrame group.
+
+    This helper function computes the total number of tests, the number of
+    significant tests, and the value counts for each G-type classification
+    (balanced, unbalanced_strong, unbalanced_weak) across all provided
+    threshold columns.
+
+    Args:
+        group_df: A pandas DataFrame subset (e.g., for a specific
+            league/season) containing the data to summarize.
+        g_type_cols: A list of column names that store the G-type
+            classifications (e.g., 'G_type_0.300').
+
+    Returns:
+        A pandas Series containing the aggregated statistics for the group.
     """
     if group_df.empty:
         return pd.Series(dtype="float64")
@@ -31,10 +44,18 @@ def _calculate_group_stats(group_df: pd.DataFrame, g_type_cols: List[str]) -> pd
 
 def create_g_type_summary():
     """
-    Agrega os resultados do G-coefficient (em múltiplos limiares)
-    em uma tabela de sumarização.
+    Aggregates G-coefficient results across multiple thresholds into a summary table.
 
-    (Docstring original omitida para brevidade)
+    This function loads the detailed G-coefficient results (from
+    SPEARMAN_BALANCE_PATH), identifies all G-type classification columns,
+    and then aggregates the data at three different levels:
+    1.  Overall (all leagues, all seasons)
+    2.  By League (all seasons)
+    3.  By League and Season
+
+    It calculates total tests, significant tests, and the counts for each
+    G-type classification at each aggregation level. The final summary
+    DataFrame is then saved to SPEARMAN_SUMMARY_PATH.
     """
     logger.info("Starting creation of G-type summary.")
     try:
@@ -67,46 +88,33 @@ def create_g_type_summary():
         "Found %d G-type columns to summarize: %s", len(g_type_cols), g_type_cols
     )
 
-    # Nível 3: Agrupado por liga e temporada
     agg_season = (
         df.groupby(["league_name", "season_year"])
-        .apply(
-            _calculate_group_stats, g_type_cols=g_type_cols, include_groups=False
-        )  # <-- CORREÇÃO 1
+        .apply(_calculate_group_stats, g_type_cols=g_type_cols, include_groups=False)
         .reset_index()
     )
 
-    # Nível 2: Agrupado por liga (todas as temporadas)
     agg_league = (
         df.groupby("league_name")
-        .apply(
-            _calculate_group_stats, g_type_cols=g_type_cols, include_groups=False
-        )  # <-- CORREÇÃO 2
+        .apply(_calculate_group_stats, g_type_cols=g_type_cols, include_groups=False)
         .reset_index()
     )
     agg_league["season_year"] = "all_seasons"
 
-    # Nível 1: Geral (todas as ligas, todas as temporadas)
     agg_all_series = _calculate_group_stats(df, g_type_cols)
     agg_all = agg_all_series.to_frame().T
     agg_all["league_name"] = "all_leagues"
     agg_all["season_year"] = "all_seasons"
 
-    # Garante que os tipos de dados numéricos sejam mantidos após a transposição
     for col in agg_all.columns:
         if col not in ["league_name", "season_year"]:
-            # --- CORREÇÃO 3 ---
             try:
                 agg_all[col] = pd.to_numeric(agg_all[col])
             except ValueError:
-                # Imita 'errors="ignore"': se não for numérico, mantém o original.
                 pass
-            # --- FIM DA CORREÇÃO ---
 
-    # Combinar tudo
     summary_df = pd.concat([agg_season, agg_league, agg_all], ignore_index=True)
 
-    # Reordenar colunas
     id_cols = ["league_name", "season_year", "total_tests", "significant_tests"]
 
     metric_cols = []
@@ -122,7 +130,6 @@ def create_g_type_summary():
     final_columns = id_cols + metric_cols
     summary_df = summary_df.reindex(columns=final_columns)
 
-    # Ordenar e salvar
     summary_df.sort_values(by=["league_name", "season_year"], inplace=True)
     summary_df.reset_index(drop=True, inplace=True)
 

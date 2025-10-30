@@ -14,25 +14,29 @@ CORRELATION_THRESHOLDS = [0.2, 0.25, 0.3, 0.35, 0.4]
 
 
 class NumpyEncoder(json.JSONEncoder):
-    """Custom JSON encoder to handle NumPy and pandas data types.
+    """
+    Custom JSON encoder to handle NumPy and pandas data types.
 
     This class extends the default JSON encoder to provide serialization for
     common data types used in NumPy and pandas, such as integers, floats,
-    arrays, and missing values, which are not natively supported by JSON.
+    arrays, and missing values (pd.NA), which are not natively supported by
+    the standard 'json' library.
     """
 
     def default(self, obj: Any) -> Any:
-        """Serializes NumPy types into native Python types for JSON compatibility.
+        """
+        Serializes NumPy/pandas types into native Python types.
 
-        This method is called for any object that is not a primitive type. It
-        checks if the object is a NumPy integer, float, or array, or a pandas
-        NA value, and converts it to a JSON-serializable format.
+        This method is called by the JSON encoder for any object that is not
+        a primitive type. It checks if the object is a NumPy integer, float,
+        or array, or a pandas NA value, and converts it to a
+        JSON-serializable format (int, float, list, or None).
 
         Args:
-            obj (Any): The object to serialize.
+            obj: The object to serialize.
 
         Returns:
-            Any: The JSON-serializable representation of the object.
+            The JSON-serializable representation of the object.
         """
         if isinstance(obj, np.integer):
             return int(obj)
@@ -48,22 +52,24 @@ class NumpyEncoder(json.JSONEncoder):
 def _get_first_round_opponents(
     team_canonical: str, season_games_df: pd.DataFrame
 ) -> List[str]:
-    """Retrieves the ordered list of unique opponents a team faced in the first round.
+    """
+    Retrieves the ordered list of unique opponents a team faced in the first round.
 
     The function identifies all of a team's matches within a given season, sorts
-    them chronologically, and extracts the opponent from each match. It then
-    returns a list of unique opponent names, preserving the order of their
+    them chronologically by datetime, and extracts the opponent from each match.
+    It then returns a list of unique opponent names, preserving the order of their
     first encounter. This effectively represents the team's schedule for the
     first half of a double round-robin season.
 
     Args:
-        team_canonical (str): The canonical name of the team.
-        season_games_df (pd.DataFrame): A DataFrame containing all games for the
+        team_canonical: The canonical name of the team whose schedule
+            is being analyzed.
+        season_games_df: A DataFrame containing all games for the
             specific league and season.
 
     Returns:
-        List[str]: An ordered list of unique opponent canonical names, based on
-            the sequence of their first encounter with the specified team.
+        An ordered list of unique opponent canonical names, based on
+        the sequence of their first encounter with the specified team.
     """
     team_games = season_games_df[
         (season_games_df["home_team_canonical"] == team_canonical)
@@ -95,24 +101,27 @@ def _classify_g_type(
     correlation_threshold: float,
     significance_level: float,
 ) -> str:
-    """Classifica um coeficiente G baseado em seu valor, p-value e limiares.
+    """
+    Classifies a G-coefficient based on its value, p-value, and thresholds.
+
+    Note: The p-value and significance_level are passed but currently
+    commented out in the logic, per the original code structure. The
+    classification is based purely on the G-value magnitude relative
+    to the correlation_threshold.
 
     Args:
-        g: O coeficiente de correlação de Spearman.
-        p_value: O p-value associado ao coeficiente g.
-        correlation_threshold: O valor 'g' mínimo (absoluto) para
-            classificar como 'unbalanced'.
-        significance_level: O p-value (alfa) máximo para que a correlação
-            seja considerada estatisticamente significativa.
+        g: The Spearman's rank correlation coefficient.
+        p_value: The p-value associated with the G-coefficient.
+        correlation_threshold: The minimum absolute 'g' value to be
+            classified as 'unbalanced'.
+        significance_level: The maximum p-value (alpha) for a
+            correlation to be considered statistically significant.
 
     Returns:
-        A string de classificação: 'unbalanced_strong', 'unbalanced_weak',
-        ou 'balanced'.
+        The classification string: 'unbalanced_strong', 'unbalanced_weak',
+        or 'balanced'.
     """
     is_significant = p_value < significance_level
-
-    # if not is_significant:
-    #     return "balanced"
 
     if g > correlation_threshold:
         return "unbalanced_strong"
@@ -123,9 +132,26 @@ def _classify_g_type(
 
 
 def calculate_strength_schedule_balance() -> pd.DataFrame:
-    """Calculates schedule balance for all teams using Spearman's G coefficient.
+    """
+    Calculates schedule balance for all teams using Spearman's G coefficient.
 
-    (Docstring original omitida para brevidade)
+    This function orchestrates the entire schedule balance analysis. It loads
+    the validated games and standings data. For each team in each season, it:
+    1. Determines the "ideal" opponent rank list (R_list).
+    2. Determines the actual opponent schedule list (S_list) using
+       `_get_first_round_opponents`.
+    3. Calculates the Spearman's rank correlation (G-coefficient) and p-value
+       between R_list and S_list.
+    4. Classifies the G-coefficient against multiple predefined thresholds
+       using `_classify_g_type`.
+    5. Saves the detailed results (including R and S arrays, G, p-value, and
+       classifications) to a CSV file.
+    6. Saves intermediate JSON data for schedule auditing.
+
+    Returns:
+        A DataFrame containing the calculated balance metrics for all
+        teams/seasons, or an empty DataFrame if a critical error occurs
+        (e.g., file not found).
     """
     logger.info("Starting Strength of Schedule Balance calculation.")
     try:
@@ -188,7 +214,6 @@ def calculate_strength_schedule_balance() -> pd.DataFrame:
                 if (pos := position_map.get(opp)) is not None
             ]
 
-            # 1. Validação de tamanho ANTES de calcular
             if len(r_list) != len(s_list) or len(s_list) <= 1:
                 logger.warning(
                     "Skipping G-coeff for %s (%s %d). R_len=%d, S_len=%d.",
@@ -200,11 +225,9 @@ def calculate_strength_schedule_balance() -> pd.DataFrame:
                 )
                 continue
 
-            # 2. Calcular G e P-value UMA VEZ
             g, p_value = spearmanr(r_list, s_list)
             g = float(g) if not pd.isna(g) else None
 
-            # 3. Lidar com cálculo inválido (NaN)
             if g is None or pd.isna(p_value):
                 logger.warning(
                     "Spearman correlation returned NaN for %s (%s %d).",
@@ -214,10 +237,8 @@ def calculate_strength_schedule_balance() -> pd.DataFrame:
                 )
                 continue
 
-            # 4. Calcular significância (com base no seu requisito)
             is_significant = p_value <= SIGNIFICANCE_LEVEL
 
-            # 5. Criar o dicionário de resultados base
             result_row = {
                 "standings_id": team_row["source_id"],
                 "league_name": league,
@@ -231,13 +252,11 @@ def calculate_strength_schedule_balance() -> pd.DataFrame:
                 "is_significant": is_significant,
             }
 
-            # 6. Calcular G_type para cada threshold e adicionar ao dicionário
             for thresh in CORRELATION_THRESHOLDS:
                 g_type = _classify_g_type(g, p_value, thresh, SIGNIFICANCE_LEVEL)
                 key_name = f"G_type_{thresh:.3f}"
                 result_row[key_name] = g_type
 
-            # 7. Adicionar o dicionário completo aos resultados
             results.append(result_row)
 
             season_json_data.append(
