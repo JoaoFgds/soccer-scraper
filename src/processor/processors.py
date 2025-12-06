@@ -17,47 +17,56 @@ logger = logging.getLogger(__name__)
 
 
 def _read_csv_file(file_path: Path) -> Optional[pd.DataFrame]:
-    """Safely reads a CSV file into a pandas DataFrame with robust error handling.
-
-    This function attempts to load a CSV file, gracefully handling common issues
-    that can occur during file reading. It specifically catches and logs
-    parsing errors, file encoding problems (assuming UTF-8), and handles cases
-    where a file might be empty. Instead of raising exceptions, it logs the
-    issue and returns None, allowing batch processes to continue without
-    interruption.
+    """Safely reads a CSV file trying different separators to avoid parsing errors.
 
     Args:
         file_path (Path): The path to the CSV file to be read.
 
     Returns:
-        Optional[pd.DataFrame]: A pandas DataFrame containing the data from the
-            CSV file. Returns `None` if the file is empty, cannot be parsed,
-            or if any other reading error occurs.
+        Optional[pd.DataFrame]: A pandas DataFrame containing the data, or None if failed.
     """
-    try:
-        df = pd.read_csv(file_path, encoding="utf-8")
-        if df.empty:
-            logger.warning("Empty file skipped: %s", file_path.name)
+    # Lista de separadores comuns para tentar (vírgula e ponto-e-vírgula)
+    separators = [",", ";"]
+
+    for sep in separators:
+        try:
+            df = pd.read_csv(file_path, encoding="utf-8", sep=sep)
+
+            # [CORREÇÃO CRÍTICA]:
+            # O Pandas não dá erro se usar o separador errado, ele apenas cria 1 coluna.
+            # Se tivermos apenas 1 coluna, ignoramos essa tentativa e testamos o próximo separador.
+            if len(df.columns) <= 1:
+                continue
+
+            if df.empty:
+                logger.warning("Empty file skipped: %s", file_path.name)
+                return None
+
+            logger.info(
+                "Successfully loaded file: %s with %d rows (sep='%s')",
+                file_path.name,
+                len(df),
+                sep,
+            )
+            return df
+
+        except (pd.errors.ParserError, UnicodeDecodeError):
+            # Se der erro de parser ou encode, tenta o próximo separador silenciosamente
+            continue
+        except Exception as e:
+            logger.error(
+                "An unexpected error occurred while reading file: %s. Error: %s",
+                file_path.name,
+                e,
+            )
             return None
-        logger.info(
-            "Successfully loaded file: %s with %d rows", file_path.name, len(df)
-        )
-        return df
-    except pd.errors.ParserError as e:
-        logger.error(
-            "Malformed CSV file could not be parsed: %s. Error: %s", file_path.name, e
-        )
-        return None
-    except UnicodeDecodeError as e:
-        logger.error("Encoding error in file: %s. Error: %s", file_path.name, e)
-        return None
-    except Exception as e:
-        logger.error(
-            "An unexpected error occurred while reading file: %s. Error: %s",
-            file_path.name,
-            e,
-        )
-        return None
+
+    # Se saiu do loop, nenhum separador funcionou
+    logger.error(
+        "Could not parse file %s. It might be malformed or use an unsupported separator.",
+        file_path.name,
+    )
+    return None
 
 
 def _validate_input_df(df: pd.DataFrame, required_columns: List[str]) -> bool:
@@ -222,7 +231,7 @@ def _load_and_consolidate_games(team_games_dir: Path) -> Optional[pd.DataFrame]:
     # Dropping them based on key match identifiers provides a unique set of games.
 
     distinct_games_df = consolidated_games_df.drop_duplicates(
-        subset=["date", "home_team", "away_team", "result"]
+        subset=["home_team", "away_team"]
     ).copy()
 
     logger.info(
