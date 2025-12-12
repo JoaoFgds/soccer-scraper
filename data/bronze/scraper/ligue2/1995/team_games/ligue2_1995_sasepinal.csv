@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,ter 18/07/1995,19:00,Stade Poitevin,SAS Epinal,?,Philippe Maurice,1750,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3240325
+2,ter 25/07/1995,19:00,SAS Epinal,Marselha,?,Philippe Maurice,8000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3240329
+3,sex 28/07/1995,19:00,AS Red Star 93,SAS Epinal,?,Philippe Maurice,1487,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3290964
+4,sex 04/08/1995,19:00,SAS Epinal,Chamois Niort,?,Philippe Maurice,1269,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3290976
+5,ter 08/08/1995,19:00,ASOA Valence,SAS Epinal,?,Philippe Maurice,2805,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3290989
+6,sex 11/08/1995,19:00,SAS Epinal,O Charleville,?,Philippe Maurice,1618,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3290994
+7,sex 18/08/1995,19:00,FC Sochaux,SAS Epinal,?,Philippe Maurice,3845,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3291003
+8,sex 25/08/1995,19:00,SAS Epinal,Le Mans UC 72,?,Philippe Maurice,1387,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3291021
+9,sex 01/09/1995,19:00,LB Châteauroux,SAS Epinal,?,Philippe Maurice,4167,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3291032
+10,sex 08/09/1995,19:00,Angers,SAS Epinal,?,Philippe Maurice,3276,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3292569
+11,sex 15/09/1995,19:00,SAS Epinal,Louh.-Cuiseaux,?,Philippe Maurice,1176,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3292575
+12,sex 22/09/1995,19:00,Amiens SC,SAS Epinal,?,Philippe Maurice,3816,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3292587
+13,sex 29/09/1995,20:00,SAS Epinal,Perpignan,?,Philippe Maurice,1149,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3292596
+14,ter 03/10/1995,20:00,USL Dunkerque,SAS Epinal,?,Philippe Maurice,1613,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3292606
+15,qui 12/10/1995,20:00,SAS Epinal,SM Caen,?,Philippe Maurice,2015,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3292624
+16,sex 20/10/1995,21:00,Toulouse,SAS Epinal,?,Philippe Maurice,7627,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3295153
+17,sex 27/10/1995,21:00,SAS Epinal,Mulhouse S-A,?,Philippe Maurice,1710,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3295158
+18,sex 03/11/1995,21:00,Stade Lavallois,SAS Epinal,?,Philippe Maurice,4270,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3295172
+19,qui 09/11/1995,21:00,SAS Epinal,Olympique Alès,?,Philippe Maurice,1078,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3295183
+20,sex 17/11/1995,21:00,FC Lorient,SAS Epinal,?,Philippe Maurice,2502,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3295196
+21,sex 24/11/1995,21:00,SAS Epinal,AS Nancy,?,Philippe Maurice,3712,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3295210
+22,sex 08/12/1995,21:00,Marselha,SAS Epinal,?,Philippe Maurice,9000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3301575
+23,ter 09/01/1996,21:00,SAS Epinal,AS Red Star 93,?,Philippe Maurice,1136,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3301593
+24,sex 19/01/1996,21:00,Chamois Niort,SAS Epinal,?,Philippe Maurice,2400,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3301603
+25,ter 19/03/1996,20:00,SAS Epinal,ASOA Valence,?,Philippe Maurice,1080,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3301608
+26,ter 06/02/1996,21:00,O Charleville,SAS Epinal,?,Philippe Maurice,1407,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3301625
+27,qui 04/04/1996,19:00,SAS Epinal,FC Sochaux,?,Philippe Maurice,2074,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3301640
+28,sex 16/02/1996,20:00,Le Mans UC 72,SAS Epinal,?,Philippe Maurice,2700,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3301645
+29,seg 26/02/1996,20:00,SAS Epinal,LB Châteauroux,?,Philippe Maurice,1365,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302604
+30,sex 01/03/1996,20:00,SAS Epinal,Angers,?,Philippe Maurice,1404,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302615
+31,sex 08/03/1996,20:00,Louh.-Cuiseaux,SAS Epinal,?,Philippe Maurice,1558,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302633
+32,ter 12/03/1996,20:00,SAS Epinal,Amiens SC,?,Philippe Maurice,1092,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302642
+33,sex 22/03/1996,20:00,Perpignan,SAS Epinal,?,Philippe Maurice,1871,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302648
+34,sex 29/03/1996,20:00,SAS Epinal,USL Dunkerque,?,Philippe Maurice,1174,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302664
+35,seg 08/04/1996,19:00,SM Caen,SAS Epinal,?,Philippe Maurice,7683,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302669
+36,sex 19/04/1996,19:00,SAS Epinal,Toulouse,?,Philippe Maurice,1970,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302682
+37,ter 23/04/1996,19:00,Mulhouse S-A,SAS Epinal,?,Philippe Maurice,2539,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302692
+38,sáb 27/04/1996,10:30,SAS Epinal,Stade Lavallois,?,Philippe Maurice,2000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302705
+39,qui 02/05/1996,19:00,Olympique Alès,SAS Epinal,?,Philippe Maurice,200,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302776
+40,sex 10/05/1996,19:00,SAS Epinal,FC Lorient,?,Philippe Maurice,1485,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302785
+41,qui 16/05/1996,19:00,AS Nancy,SAS Epinal,?,Philippe Maurice,12007,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302820
+42,seg 20/05/1996,19:00,SAS Epinal,Stade Poitevin,?,Philippe Maurice,6019,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302833

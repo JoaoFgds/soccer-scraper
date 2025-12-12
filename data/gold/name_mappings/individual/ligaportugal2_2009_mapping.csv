@@ -1,0 +1,17 @@
+league_name,season_year,canonical_name,other_name,precision_score,is_confident_match
+ligaportugal2,2009,adcarregado,carregado,90,True
+ligaportugal2,2009,cdfatima,cdfatima,100,True
+ligaportugal2,2009,cdfeirense,feirense,89,True
+ligaportugal2,2009,clubedesportivodasaves2020,cdaves,38,False
+ligaportugal2,2009,clubedesportivosantaclara,santaclara,57,False
+ligaportugal2,2009,clubedesportivotrofense,trofense,52,False
+ligaportugal2,2009,futebolclubepenafiel,penafiel,57,False
+ligaportugal2,2009,gdchaves,chaves,86,True
+ligaportugal2,2009,gdestorilpraia,estoril,67,False
+ligaportugal2,2009,gilvicentefutebolclube,gilvicente,62,False
+ligaportugal2,2009,portimonensesad,portimonense,89,True
+ligaportugal2,2009,scbeiramar,beiramar,89,True
+ligaportugal2,2009,sccovilha,covilha,88,True
+ligaportugal2,2009,scfreamunde,freamunde,90,True
+ligaportugal2,2009,udoliveirense,udoliveirense,100,True
+ligaportugal2,2009,varzimsc,varzim,86,True

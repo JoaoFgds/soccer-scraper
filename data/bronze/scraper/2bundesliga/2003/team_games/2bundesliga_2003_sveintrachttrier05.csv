@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 03/08/2003,10:00,Energ. Cottbus,Eintracht Trier,3-5-2,Paul Linz,13000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/386
+2,sáb 09/08/2003,14:00,Eintracht Trier,Erzgebirge Aue,3-5-2,Paul Linz,6125,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/556
+3,dom 17/08/2003,10:00,Greuther Fürth,Eintracht Trier,4-4-2 duplo 6,Paul Linz,5500,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/807
+4,sex 22/08/2003,14:00,Eintracht Trier,MSV Duisburg,3-5-2,Paul Linz,6425,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003
+5,dom 14/09/2003,10:00,VfB Lübeck,Eintracht Trier,3-5-2 ofensivo,Paul Linz,6500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1259
+6,dom 21/09/2003,10:00,Eintracht Trier,Unterhaching,3-5-2,Paul Linz,6136,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1456
+7,dom 28/09/2003,10:00,J. Regensburg,Eintracht Trier,3-5-2,Paul Linz,6500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1661
+8,sex 03/10/2003,14:00,Eintracht Trier,Arm. Bielefeld,3-5-2,Paul Linz,8100,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1824
+9,sex 17/10/2003,14:00,Eintracht Trier,Union Berlim,3-1-4-2,Paul Linz,4910,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2039
+10,dom 26/10/2003,12:00,Alem. Aachen,Eintracht Trier,3-1-4-2,Paul Linz,13585,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2268
+11,dom 02/11/2003,12:00,Eintracht Trier,Nuremberg,3-1-4-2,Paul Linz,5950,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2469
+12,sex 07/11/2003,16:00,VfL Osnabrück,Eintracht Trier,5-4-1,Paul Linz,11000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2638
+13,dom 23/11/2003,12:00,Eintracht Trier,RW Oberhausen,3-1-4-2,Paul Linz,4730,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2868
+14,dom 30/11/2003,12:00,LR Ahlen,Eintracht Trier,3-5-2,Paul Linz,3468,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3066
+15,sex 05/12/2003,16:00,Eintracht Trier,Karlsruher,3-1-4-2,Paul Linz,4015,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3269
+16,dom 14/12/2003,12:00,W. Burghausen,Eintracht Trier,3-1-4-2,Paul Linz,2700,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3464
+17,qua 17/12/2003,15:00,Eintracht Trier,Mainz,3-1-4-2,Paul Linz,6985,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3634
+18,dom 01/02/2004,12:00,Eintracht Trier,Energ. Cottbus,4-4-2 losango,Paul Linz,5500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874
+19,dom 08/02/2004,12:00,Erzgebirge Aue,Eintracht Trier,4-4-2 losango,Paul Linz,8300,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4052
+20,sex 13/02/2004,16:00,Eintracht Trier,Greuther Fürth,4-4-2 duplo 6,Paul Linz,4850,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4234
+21,sex 20/02/2004,15:00,MSV Duisburg,Eintracht Trier,4-4-2 duplo 6,Paul Linz,7122,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4438
+22,seg 01/03/2004,16:15,Eintracht Trier,VfB Lübeck,4-4-2 losango,Paul Linz,4000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634
+23,sex 05/03/2004,15:00,Unterhaching,Eintracht Trier,4-4-2 duplo 6,Paul Linz,2300,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4804
+24,sex 12/03/2004,15:00,Eintracht Trier,J. Regensburg,4-1-3-2,Paul Linz,5400,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5007
+25,dom 21/03/2004,11:00,Arm. Bielefeld,Eintracht Trier,4-4-2,Paul Linz,9638,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5248
+26,dom 28/03/2004,10:00,Union Berlim,Eintracht Trier,3-5-2,Paul Linz,7599,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5436
+27,sex 02/04/2004,14:00,Eintracht Trier,Alem. Aachen,4-4-2 duplo 6,Paul Linz,9600,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5623
+28,seg 12/04/2004,15:15,Nuremberg,Eintracht Trier,4-4-2 losango,Paul Linz,16864,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5876
+29,dom 18/04/2004,10:00,Eintracht Trier,VfL Osnabrück,4-4-2 losango,Paul Linz,6950,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6063
+30,dom 25/04/2004,10:00,RW Oberhausen,Eintracht Trier,4-4-2 losango,Paul Linz,5238,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6266
+31,sex 30/04/2004,14:00,Eintracht Trier,LR Ahlen,4-4-2 losango,Paul Linz,6535,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6478
+32,dom 09/05/2004,10:00,Karlsruher,Eintracht Trier,4-4-2 losango,Paul Linz,9800,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6682
+33,dom 16/05/2004,10:00,Eintracht Trier,W. Burghausen,4-4-2 losango,Paul Linz,8500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6884
+34,dom 23/05/2004,10:00,Mainz,Eintracht Trier,4-4-2 losango,Paul Linz,18700,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7093

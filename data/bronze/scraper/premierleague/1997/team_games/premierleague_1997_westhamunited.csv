@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 08/08/1997,19:00,Barnsley FC,West Ham,4-3-1-2,Harry Redknapp,18667,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941307
+2,ter 12/08/1997,19:00,West Ham,Tottenham,5-3-2,Harry Redknapp,25354,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941321
+3,sex 22/08/1997,19:00,Everton,West Ham,4-3-1-2,Harry Redknapp,34356,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941330
+4,ter 26/08/1997,19:00,Coventry City,West Ham,?,Harry Redknapp,18289,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941342
+5,sex 29/08/1997,19:00,West Ham,Wimbledon FC,?,Harry Redknapp,24516,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941349
+6,sex 12/09/1997,19:00,Man Utd,West Ham,?,Harry Redknapp,55068,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941358
+7,sex 19/09/1997,19:00,West Ham,Newcastle,4-3-1-2,Harry Redknapp,25884,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941370
+8,ter 23/09/1997,19:00,Arsenal,West Ham,4-4-2,Harry Redknapp,38012,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941381
+9,sex 26/09/1997,19:00,West Ham,Liverpool,?,Harry Redknapp,25908,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941387
+10,sex 03/10/1997,19:00,Southampton,West Ham,?,Harry Redknapp,15212,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941399
+11,sex 17/10/1997,20:00,West Ham,Bolton,?,Harry Redknapp,24864,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941407
+12,dom 26/10/1997,21:00,Leicester,West Ham,?,Harry Redknapp,20201,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941424
+13,ter 02/12/1997,21:00,West Ham,Crystal Palace,?,Harry Redknapp,23335,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941434
+14,sáb 08/11/1997,21:00,Chelsea,West Ham,?,Harry Redknapp,34382,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941443
+15,sáb 22/11/1997,21:00,Leeds,West Ham,?,Harry Redknapp,30031,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941453
+16,sex 28/11/1997,21:00,West Ham,Aston Villa,?,Harry Redknapp,24976,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941456
+17,sex 05/12/1997,21:00,Derby,West Ham,?,Harry Redknapp,29300,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941471
+18,sex 12/12/1997,21:00,West Ham,Sheff Wed,?,Harry Redknapp,24344,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941478
+19,sex 19/12/1997,21:00,Blackburn,West Ham,?,Harry Redknapp,21653,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941488
+20,qui 25/12/1997,21:00,West Ham,Coventry City,?,Harry Redknapp,24532,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941501
+21,sáb 27/12/1997,21:00,Wimbledon FC,West Ham,?,Harry Redknapp,22087,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942108
+22,sex 09/01/1998,21:00,West Ham,Barnsley FC,?,Harry Redknapp,23714,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942117
+23,sex 16/01/1998,21:00,Tottenham,West Ham,?,Harry Redknapp,30284,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942126
+24,sáb 31/01/1998,13:00,West Ham,Everton,?,Harry Redknapp,25909,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942140
+25,sáb 07/02/1998,13:00,Newcastle,West Ham,?,Harry Redknapp,36736,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942147
+26,ter 10/03/1998,20:00,West Ham,Man Utd,?,Harry Redknapp,25892,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942160
+27,sex 20/02/1998,21:00,Bolton,West Ham,?,Harry Redknapp,25000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942167
+28,dom 01/03/1998,20:00,West Ham,Arsenal,4-4-2,Harry Redknapp,25717,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942184
+29,seg 04/05/1998,19:00,Crystal Palace,West Ham,?,Harry Redknapp,19129,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942194
+30,sex 13/03/1998,20:00,West Ham,Chelsea,?,Harry Redknapp,25829,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942204
+31,dom 29/03/1998,19:00,West Ham,Leeds,?,Harry Redknapp,24107,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942214
+32,sex 03/04/1998,19:00,Aston Villa,West Ham,?,Harry Redknapp,39372,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942219
+33,sex 10/04/1998,19:00,West Ham,Derby,?,Harry Redknapp,25155,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942233
+34,dom 12/04/1998,19:00,Sheff Wed,West Ham,?,Harry Redknapp,28036,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942242
+35,sex 17/04/1998,19:00,West Ham,Blackburn,?,Harry Redknapp,24733,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942253
+36,sex 24/04/1998,19:00,West Ham,Southampton,?,Harry Redknapp,25878,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942262
+37,sex 01/05/1998,19:00,Liverpool,West Ham,?,Harry Redknapp,44414,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941289
+38,sáb 09/05/1998,19:00,West Ham,Leicester,?,Harry Redknapp,25781,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941300

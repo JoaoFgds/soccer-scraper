@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 10/08/1996,19:00,O Charleville,FC Lorient,?,Christian Gourcuff,1749,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026304
+2,sex 16/08/1996,19:00,FC Lorient,ASOA Valence,?,Christian Gourcuff,2610,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026321
+3,seg 19/08/1996,19:00,Troyes,FC Lorient,?,Christian Gourcuff,2987,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026334
+4,sex 23/08/1996,19:00,FC Lorient,Stade Lavallois,?,Christian Gourcuff,2500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026344
+5,qui 29/08/1996,19:00,Saint-Étienne,FC Lorient,?,Christian Gourcuff,12000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026354
+6,ter 03/09/1996,19:00,FC Lorient,AS Beauvais,?,Christian Gourcuff,1776,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026366
+7,sex 06/09/1996,19:00,FC Sochaux,FC Lorient,?,Christian Gourcuff,5505,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026371
+8,sex 13/09/1996,19:00,Chamois Niort,FC Lorient,?,Christian Gourcuff,4723,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026379
+9,ter 17/09/1996,19:00,FC Lorient,Perpignan,?,Christian Gourcuff,2000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026396
+10,sex 20/09/1996,19:00,FC Gueugnon,FC Lorient,?,Christian Gourcuff,2142,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026407
+11,sex 27/09/1996,19:00,FC Lorient,SC Toulon 83,?,Christian Gourcuff,1789,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026420
+12,ter 01/10/1996,19:00,FC Martigues,FC Lorient,?,Christian Gourcuff,800,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026424
+13,sex 04/10/1996,19:00,FC Lorient,SAS Epinal,?,Christian Gourcuff,1548,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026471
+14,sex 11/10/1996,20:00,Le Mans UC 72,FC Lorient,?,Christian Gourcuff,3650,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026479
+15,sex 18/10/1996,20:00,FC Lorient,Toulouse,?,Christian Gourcuff,3049,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026485
+16,sex 25/10/1996,20:00,Amiens SC,FC Lorient,?,Christian Gourcuff,4080,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026503
+17,sex 01/11/1996,21:00,FC Lorient,Stade Briochin,?,Christian Gourcuff,4254,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026513
+18,qua 06/11/1996,21:00,Mulhouse S-A,FC Lorient,?,Christian Gourcuff,1360,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026527
+19,ter 12/11/1996,21:00,FC Lorient,AS Red Star 93,?,Christian Gourcuff,1482,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026535
+20,sex 15/11/1996,21:00,Louh.-Cuiseaux,FC Lorient,?,Christian Gourcuff,1548,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026549
+21,sex 22/11/1996,21:00,FC Lorient,LB Châteauroux,?,Christian Gourcuff,1962,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026552
+22,ter 14/01/1997,21:00,ASOA Valence,FC Lorient,?,Christian Gourcuff,250,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026592
+23,sex 13/12/1996,21:00,FC Lorient,Troyes,?,Christian Gourcuff,2283,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026599
+24,sex 24/01/1997,21:00,Stade Lavallois,FC Lorient,?,Christian Gourcuff,3277,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026610
+25,sex 31/01/1997,21:00,FC Lorient,Saint-Étienne,?,Christian Gourcuff,4187,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026620
+26,sex 14/02/1997,21:00,AS Beauvais,FC Lorient,?,Christian Gourcuff,1800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026631
+27,sex 21/02/1997,20:00,FC Lorient,FC Sochaux,?,Christian Gourcuff,3187,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026642
+28,qui 06/03/1997,20:00,FC Lorient,Chamois Niort,?,Christian Gourcuff,2900,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026654
+29,ter 11/03/1997,20:00,Perpignan,FC Lorient,?,Christian Gourcuff,1845,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026662
+30,sex 14/03/1997,20:00,FC Lorient,FC Gueugnon,?,Christian Gourcuff,2998,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026673
+31,sex 21/03/1997,20:00,SC Toulon 83,FC Lorient,?,Christian Gourcuff,2790,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026684
+32,ter 25/03/1997,20:00,FC Lorient,FC Martigues,?,Christian Gourcuff,3000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026696
+33,seg 31/03/1997,19:00,SAS Epinal,FC Lorient,?,Christian Gourcuff,1501,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026709
+34,sex 04/04/1997,19:00,FC Lorient,Le Mans UC 72,?,Christian Gourcuff,3679,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026721
+35,qui 10/04/1997,19:00,Toulouse,FC Lorient,?,Christian Gourcuff,7410,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026725
+36,ter 15/04/1997,19:00,FC Lorient,Amiens SC,?,Christian Gourcuff,3000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026740
+37,qui 24/04/1997,19:00,Stade Briochin,FC Lorient,?,Christian Gourcuff,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026757
+38,ter 29/04/1997,19:00,FC Lorient,Mulhouse S-A,?,Christian Gourcuff,2500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026762
+39,sex 02/05/1997,19:00,AS Red Star 93,FC Lorient,?,Christian Gourcuff,2169,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026773
+40,qui 08/05/1997,19:00,FC Lorient,Louh.-Cuiseaux,?,Christian Gourcuff,1200,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026785
+41,qua 07/05/1997,19:00,LB Châteauroux,FC Lorient,?,Christian Gourcuff,5685,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026792
+42,sex 23/05/1997,19:00,FC Lorient,O Charleville,?,Christian Gourcuff,1500,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026808

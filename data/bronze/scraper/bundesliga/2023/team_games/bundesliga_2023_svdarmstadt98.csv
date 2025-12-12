@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 20/08/2023,12:30,Frankfurt,Darmstadt 98,3-4-3 plano,Torsten Lieberknecht,55000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095971
+2,sáb 26/08/2023,10:30,Darmstadt 98,Union Berlim,3-4-3 plano,Torsten Lieberknecht,17810,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095984
+3,sáb 02/09/2023,10:30,Leverkusen,Darmstadt 98,3-4-1-2,Torsten Lieberknecht,29653,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095987
+4,dom 17/09/2023,12:30,Darmstadt 98,M'gladbach,3-5-2 plano,Torsten Lieberknecht,17810,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096002
+5,sex 22/09/2023,15:30,Stuttgart,Darmstadt 98,5-4-1 plano,Torsten Lieberknecht,54000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096011
+6,dom 01/10/2023,10:30,Darmstadt 98,Werder Bremen,3-5-2 ofensivo,Torsten Lieberknecht,17810,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096020
+7,sáb 07/10/2023,10:30,Augsburg,Darmstadt 98,3-4-1-2,Torsten Lieberknecht,29200,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096028
+8,sáb 21/10/2023,10:30,Darmstadt 98,Leipzig,3-4-1-2,Torsten Lieberknecht,17810,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096038
+9,sáb 28/10/2023,10:30,Bayern,Darmstadt 98,3-4-1-2,Torsten Lieberknecht,75000,8:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096039
+10,sex 03/11/2023,16:30,Darmstadt 98,Bochum,3-4-1-2,Torsten Lieberknecht,17810,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096056
+11,sáb 11/11/2023,11:30,Darmstadt 98,Mainz,3-5-2,Torsten Lieberknecht,17810,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096065
+12,sáb 25/11/2023,11:30,Freiburg,Darmstadt 98,3-4-3 plano,Torsten Lieberknecht,34300,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096068
+13,sex 01/12/2023,16:30,Darmstadt 98,Colônia,4-2-3-1,Torsten Lieberknecht,17810,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096083
+14,sáb 09/12/2023,11:30,Heidenheim,Darmstadt 98,3-4-1-2,Torsten Lieberknecht,15000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096092
+15,sáb 16/12/2023,11:30,Darmstadt 98,Wolfsburg,3-4-1-2,Torsten Lieberknecht,16900,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096101
+16,ter 19/12/2023,16:30,Hoffenheim,Darmstadt 98,3-4-1-2,Torsten Lieberknecht,18125,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096107
+17,sáb 13/01/2024,14:30,Darmstadt 98,Dortmund,5-3-2,Torsten Lieberknecht,17810,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096119
+18,sáb 20/01/2024,11:30,Darmstadt 98,Frankfurt,3-4-3 plano,Torsten Lieberknecht,17550,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096124
+19,dom 28/01/2024,11:30,Union Berlim,Darmstadt 98,4-3-3 ofensivo,Torsten Lieberknecht,21786,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096137
+20,sáb 03/02/2024,11:30,Darmstadt 98,Leverkusen,4-4-2 duplo 6,Torsten Lieberknecht,17810,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096140
+21,sáb 10/02/2024,11:30,M'gladbach,Darmstadt 98,3-4-1-2,Torsten Lieberknecht,46121,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096155
+22,sáb 17/02/2024,11:30,Darmstadt 98,Stuttgart,3-4-1-2,Torsten Lieberknecht,17810,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096164
+23,sáb 24/02/2024,11:30,Werder Bremen,Darmstadt 98,3-5-2 plano,Torsten Lieberknecht,42358,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096173
+24,sáb 02/03/2024,11:30,Darmstadt 98,Augsburg,3-4-1-2,Torsten Lieberknecht,17810,0:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096181
+25,sáb 09/03/2024,11:30,Leipzig,Darmstadt 98,4-4-2 duplo 6,Torsten Lieberknecht,44319,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096191
+26,sáb 16/03/2024,11:30,Darmstadt 98,Bayern,4-4-2 duplo 6,Torsten Lieberknecht,17810,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096192
+27,dom 31/03/2024,14:30,Bochum,Darmstadt 98,4-4-2 losango,Torsten Lieberknecht,25023,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096209
+28,sáb 06/04/2024,10:30,Mainz,Darmstadt 98,4-4-2 duplo 6,Torsten Lieberknecht,33000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096218
+29,dom 14/04/2024,10:30,Darmstadt 98,Freiburg,3-4-1-2,Torsten Lieberknecht,17810,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096221
+30,sáb 20/04/2024,10:30,Colônia,Darmstadt 98,3-4-3 plano,Torsten Lieberknecht,50000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096236
+31,dom 28/04/2024,14:30,Darmstadt 98,Heidenheim,3-4-1-2,Torsten Lieberknecht,17416,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096245
+32,sáb 04/05/2024,10:30,Wolfsburg,Darmstadt 98,3-4-1-2,Torsten Lieberknecht,23108,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096254
+33,dom 12/05/2024,10:30,Darmstadt 98,Hoffenheim,3-4-3 plano,Torsten Lieberknecht,17810,0:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096260
+34,sáb 18/05/2024,10:30,Dortmund,Darmstadt 98,3-4-1-2,Torsten Lieberknecht,81365,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096272

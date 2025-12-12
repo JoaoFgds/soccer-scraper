@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 12/08/2018,14:00,Vitória SC B,Cova da Piedade,4-2-3-1,Alex,1617,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070435
+2,sáb 18/08/2018,13:00,Mafra,Vitória SC B,?,Alex,635,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070437
+3,dom 26/08/2018,13:00,Vitória SC B,Académica,4-3-3 ofensivo,Alex,1945,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070450
+4,dom 02/09/2018,13:00,Covilhã,Vitória SC B,4-3-3 ofensivo,Alex,374,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070482
+5,dom 23/09/2018,07:15,Vitória SC B,Leixões,?,Alex,1273,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070499
+6,dom 07/10/2018,12:00,Varzim,Vitória SC B,4-2-3-1,Alex,1074,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070503
+7,dom 28/10/2018,15:00,Vitória SC B,Paços Ferreira,?,Alex,1182,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070509
+8,dom 04/11/2018,13:00,Vitória SC B,Estoril,3-5-2 plano,Alex,957,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070520
+9,sáb 10/11/2018,13:00,Farense,Vitória SC B,?,Alex,1351,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070533
+10,sáb 01/12/2018,13:00,Vitória SC B,UD Oliveirense,?,Alex,892,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070541
+11,dom 09/12/2018,09:15,Penafiel,Vitória SC B,3-4-1-2,Alex,387,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070547
+12,dom 16/12/2018,13:00,Vitória SC B,Académico FC,3-4-1-2,Alex,779,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070559
+13,sáb 22/12/2018,13:00,Arouca,Vitória SC B,3-4-3 plano,Alex,795,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070578
+14,qua 02/01/2019,13:00,Vitória SC B,Famalicão,?,Alex,2117,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070581
+15,dom 06/01/2019,09:15,Braga B,Vitória SC B,3-4-3 plano,Alex,295,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070596
+16,qua 09/01/2019,15:00,Vitória SC B,Benfica B,?,Alex,1044,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070603
+17,dom 13/01/2019,13:00,FC Porto B,Vitória SC B,4-4-2 duplo 6,Alex,454,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070610
+18,sáb 19/01/2019,13:00,Cova da Piedade,Vitória SC B,?,Alex,416,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070709
+19,seg 28/01/2019,13:00,Vitória SC B,Mafra,?,Alex,374,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070765
+20,sáb 02/02/2019,15:00,Académica,Vitória SC B,?,Alex,2643,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070777
+21,seg 11/02/2019,13:00,Vitória SC B,Covilhã,?,Alex,285,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070790
+22,dom 17/02/2019,14:00,Leixões,Vitória SC B,3-5-2 plano,Alex,773,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070799
+23,dom 24/02/2019,14:00,Vitória SC B,Varzim,?,Alex,1308,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070804
+24,sáb 02/03/2019,08:00,Paços Ferreira,Vitória SC B,3-5-2 plano,Alex,2069,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070809
+25,dom 10/03/2019,08:15,Estoril,Vitória SC B,4-3-3 ofensivo,Alex,856,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070820
+26,dom 17/03/2019,14:00,Vitória SC B,Farense,3-1-4-2,Alex,1096,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070831
+27,dom 31/03/2019,14:00,UD Oliveirense,Vitória SC B,3-1-4-2,Alex,403,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070844
+28,seg 08/04/2019,14:00,Vitória SC B,Penafiel,4-3-3 ofensivo,Alex,831,4:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070846
+29,sáb 13/04/2019,12:00,Académico FC,Vitória SC B,3-4-1-2,Alex,339,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070862
+30,sáb 20/04/2019,14:00,Vitória SC B,Arouca,4-4-2 duplo 6,Alex,653,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070870
+31,dom 28/04/2019,07:15,Famalicão,Vitória SC B,4-3-1-2,Alex,5226,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070872
+32,seg 06/05/2019,12:00,Vitória SC B,Braga B,4-4-2 duplo 6,Alex,926,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070888
+33,sáb 11/05/2019,12:00,Benfica B,Vitória SC B,4-4-2 losango,Alex,572,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070895
+34,sáb 18/05/2019,07:00,Vitória SC B,FC Porto B,3-4-2-1,Alex,318,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070903

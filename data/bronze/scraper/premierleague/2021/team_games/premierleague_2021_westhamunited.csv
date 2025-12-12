@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 15/08/2021,10:00,Newcastle,West Ham,4-2-3-1,David Moyes,50673,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583482
+2,seg 23/08/2021,16:00,West Ham,Leicester,4-2-3-1,David Moyes,59901,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583527
+3,sáb 28/08/2021,11:00,West Ham,Crystal Palace,4-2-3-1,David Moyes,59571,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591999
+4,sáb 11/09/2021,11:00,Southampton,West Ham,4-2-3-1,David Moyes,30000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592029
+5,dom 19/09/2021,10:00,West Ham,Man Utd,4-2-3-1,David Moyes,60000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591969
+6,sáb 25/09/2021,11:00,Leeds,West Ham,4-2-3-1,David Moyes,36417,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591986
+7,dom 03/10/2021,10:00,West Ham,Brentford,4-2-3-1,David Moyes,49940,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592009
+8,dom 17/10/2021,10:00,Everton,West Ham,4-2-3-1,David Moyes,39132,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592014
+9,dom 24/10/2021,10:00,West Ham,Tottenham,4-2-3-1,David Moyes,59924,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592050
+10,dom 31/10/2021,13:30,Aston Villa,West Ham,4-2-3-1,David Moyes,41874,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591971
+11,dom 07/11/2021,13:30,West Ham,Liverpool,4-2-3-1,David Moyes,59909,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591960
+12,sáb 20/11/2021,12:00,Wolves,West Ham,4-2-3-1,David Moyes,30667,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592040
+13,dom 28/11/2021,11:00,Man City,West Ham,4-4-1-1,David Moyes,52571,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592099
+14,qua 01/12/2021,16:30,West Ham,Brighton,4-2-3-1,David Moyes,59626,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592136
+15,sáb 04/12/2021,09:30,West Ham,Chelsea,3-4-2-1,David Moyes,59942,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592069
+16,dom 12/12/2021,11:00,FC Burnley,West Ham,4-2-3-1,David Moyes,18065,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592074
+17,qua 15/12/2021,17:00,Arsenal,West Ham,4-2-3-1,David Moyes,59777,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592051
+18,qua 12/01/2022,16:45,West Ham,Norwich,4-2-3-1,David Moyes,59775,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592089
+19,dom 26/12/2021,12:00,West Ham,Southampton,4-4-2 duplo 6,David Moyes,45000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592263
+20,ter 28/12/2021,12:00,Watford,West Ham,4-2-3-1,David Moyes,20073,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592300
+21,sáb 01/01/2022,14:30,Crystal Palace,West Ham,4-2-3-1,David Moyes,24351,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592304
+22,dom 16/01/2022,11:00,West Ham,Leeds,4-2-3-1,David Moyes,59951,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592119
+23,sáb 22/01/2022,12:00,Man Utd,West Ham,4-2-3-1,David Moyes,73130,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592128
+24,ter 08/02/2022,16:45,West Ham,Watford,4-2-3-1,David Moyes,59581,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592212
+25,dom 13/02/2022,13:30,Leicester,West Ham,4-2-3-1,David Moyes,32061,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592198
+26,sáb 19/02/2022,09:30,West Ham,Newcastle,4-2-3-1,David Moyes,59949,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592109
+27,dom 27/02/2022,11:00,West Ham,Wolves,3-4-2-1,David Moyes,59946,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592293
+28,sáb 05/03/2022,14:30,Liverpool,West Ham,4-3-3 ofensivo,David Moyes,53059,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592144
+29,dom 13/03/2022,11:00,West Ham,Aston Villa,4-3-3 ofensivo,David Moyes,59957,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592259
+30,dom 20/03/2022,13:30,Tottenham,West Ham,3-4-2-1,David Moyes,58685,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592254
+31,dom 03/04/2022,10:00,West Ham,Everton,4-2-3-1,David Moyes,59953,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592262
+32,dom 10/04/2022,10:00,Brentford,West Ham,4-2-3-1,David Moyes,17032,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592174
+33,dom 17/04/2022,10:15,West Ham,FC Burnley,4-2-3-1,David Moyes,59958,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592275
+34,dom 24/04/2022,10:00,Chelsea,West Ham,3-4-1-2,David Moyes,32231,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592221
+35,dom 01/05/2022,12:30,West Ham,Arsenal,4-2-3-1,David Moyes,59959,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592276
+36,dom 08/05/2022,10:00,Norwich,West Ham,4-2-3-1,David Moyes,,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592277
+37,dom 15/05/2022,10:00,West Ham,Man City,4-3-1-2,David Moyes,59972,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592270
+38,dom 22/05/2022,12:00,Brighton,West Ham,4-2-3-1,David Moyes,31604,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592182

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 25/08/1997,17:30,Varzim,FC Porto,4-3-3 ofensivo,Horácio Gonçalves,6000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855486
+2,dom 31/08/1997,13:00,CF Estrela,Varzim,4-2-3-1,Horácio Gonçalves,2000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855497
+3,dom 14/09/1997,12:00,Varzim,Leça,4-2-3-1,Horácio Gonçalves,6000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855574
+4,sáb 20/09/1997,15:00,Campomaiorense,Varzim,4-2-3-1,Horácio Gonçalves,2000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855579
+5,dom 28/09/1997,11:00,Varzim,Vitória FC,4-2-3-1,Horácio Gonçalves,2000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855591
+6,dom 05/10/1997,12:00,Académica,Varzim,4-2-3-1,Horácio Gonçalves,5000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855598
+7,dom 19/10/1997,12:00,Varzim,Rio Ave,4-2-3-1,Horácio Gonçalves,5000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4563749
+8,sáb 01/11/1997,14:00,Sporting,Varzim,5-4-1 plano,Horácio Gonçalves,15000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855616
+9,dom 09/11/1997,13:00,Varzim,Braga,4-2-3-1,Horácio Gonçalves,10000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855628
+10,dom 23/11/1997,13:00,Farense,Varzim,4-2-3-1,Horácio Gonçalves,5000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855636
+11,dom 30/11/1997,13:00,Varzim,Chaves,4-2-3-1,Horácio Gonçalves,4000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855645
+12,sáb 06/12/1997,19:30,Vit. Guimarães,Varzim,4-2-3-1,Horácio Gonçalves,6000,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855654
+13,sáb 13/12/1997,14:00,Varzim,Boavista,?,Horácio Gonçalves,3000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855666
+14,dom 21/12/1997,19:30,Benfica,Varzim,?,Horácio Gonçalves,5000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855672
+15,dom 04/01/1998,13:00,Varzim,Salgueiros,?,Horácio Gonçalves,3000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855685
+16,dom 11/01/1998,14:00,Marítimo,Varzim,?,Horácio Gonçalves,4000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855691
+17,dom 18/01/1998,13:00,Varzim,Belenenses,?,Horácio Gonçalves,3000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855698
+18,dom 25/01/1998,14:00,FC Porto,Varzim,?,Horácio Gonçalves,25000,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855713
+19,dom 01/02/1998,13:00,Varzim,CF Estrela,?,Horácio Gonçalves,4000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855722
+20,dom 08/02/1998,13:00,Leça,Varzim,?,Horácio Gonçalves,3000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855724
+21,dom 15/02/1998,13:00,Varzim,Campomaiorense,?,Horácio Gonçalves,4000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855737
+22,sáb 21/02/1998,13:00,Vitória FC,Varzim,?,Horácio Gonçalves,4000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855749
+23,dom 01/03/1998,12:00,Varzim,Académica,?,Horácio Gonçalves,4000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855752
+24,dom 08/03/1998,12:00,Rio Ave,Varzim,?,Horácio Gonçalves,4000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855762
+25,sex 13/03/1998,18:30,Varzim,Sporting,?,Horácio Gonçalves,10000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855768
+26,dom 22/03/1998,12:00,Braga,Varzim,?,Horácio Gonçalves,6000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855785
+27,dom 29/03/1998,13:00,Varzim,Farense,?,António Miranda,3000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855790
+28,dom 05/04/1998,13:00,Chaves,Varzim,?,António Miranda,1000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855802
+29,sáb 11/04/1998,13:00,Varzim,Vit. Guimarães,?,António Miranda,7000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855805
+30,sáb 18/04/1998,13:00,Boavista,Varzim,?,António Miranda,2000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855814
+31,sáb 25/04/1998,17:30,Varzim,Benfica,?,António Miranda,7000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855823
+32,dom 03/05/1998,13:00,Salgueiros,Varzim,?,António Miranda,3000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855838
+33,dom 10/05/1998,13:00,Varzim,Marítimo,?,António Miranda,2000,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855845
+34,dom 17/05/1998,13:00,Belenenses,Varzim,?,António Miranda,2000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855857

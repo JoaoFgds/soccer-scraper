@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/09/2020,11:00,Cardiff,Sheff Wed,4-3-3 ofensivo,Neil Harris,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427441
+2,sáb 19/09/2020,08:30,Nott'm Forest,Cardiff,4-2-3-1,Neil Harris,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427589
+3,sáb 26/09/2020,11:00,Cardiff,Reading,4-2-3-1,Neil Harris,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427437
+4,sáb 03/10/2020,11:00,Blackburn,Cardiff,4-2-3-1,Neil Harris,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427301
+5,dom 18/10/2020,08:00,Preston NE,Cardiff,4-2-3-1,Neil Harris,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427655
+6,qua 21/10/2020,15:45,Cardiff,Bournemouth,4-2-3-1,Neil Harris,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427330
+7,sáb 24/10/2020,11:00,Cardiff,Middlesbrough,4-2-3-1,Neil Harris,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427322
+8,qua 28/10/2020,16:45,Derby,Cardiff,4-2-3-1,Neil Harris,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427667
+9,sáb 31/10/2020,12:00,QPR,Cardiff,4-2-3-1,Neil Harris,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427656
+10,ter 03/11/2020,16:45,Cardiff,Barnsley FC,4-4-2 duplo 6,Neil Harris,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427393
+11,sex 06/11/2020,15:00,Cardiff,Bristol City,4-2-3-1,Neil Harris,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427495
+12,sáb 21/11/2020,12:00,Millwall,Cardiff,4-4-2,Neil Harris,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427598
+13,qua 25/11/2020,16:45,Coventry City,Cardiff,4-4-2 duplo 6,Neil Harris,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427371
+14,sáb 28/11/2020,12:00,Cardiff,Luton,4-4-2 duplo 6,Neil Harris,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427328
+15,ter 01/12/2020,16:00,Cardiff,Huddersfield,4-2-3-1,Neil Harris,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427470
+16,sáb 05/12/2020,12:00,Watford,Cardiff,4-4-2,Neil Harris,1973,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427796
+17,ter 08/12/2020,16:45,Stoke,Cardiff,4-4-2 duplo 6,Neil Harris,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427507
+18,sáb 12/12/2020,09:30,Cardiff,Swansea,4-4-2 duplo 6,Neil Harris,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427516
+19,qua 16/12/2020,16:00,Cardiff,Birmingham,4-2-3-1,Neil Harris,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427635
+20,sáb 19/12/2020,09:30,Norwich,Cardiff,4-2-3-1,Neil Harris,2000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427350
+21,sáb 26/12/2020,12:00,Cardiff,Brentford,4-2-3-1,Neil Harris,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427514
+22,ter 29/12/2020,16:45,Wycombe Wand.,Cardiff,4-4-2 duplo 6,Neil Harris,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427801
+23,ter 09/02/2021,16:00,Rotherham,Cardiff,3-5-2,Mick McCarthy,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427683
+24,sáb 16/01/2021,12:00,Cardiff,Norwich,4-2-3-1,Neil Harris,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427545
+25,qua 20/01/2021,16:00,Cardiff,QPR,4-3-3 ofensivo,Neil Harris,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427727
+26,qua 27/01/2021,16:00,Barnsley FC,Cardiff,4-2-3-1,Mick McCarthy,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427419
+27,sáb 30/01/2021,12:00,Cardiff,Millwall,3-5-2 plano,Mick McCarthy,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427533
+28,sáb 06/02/2021,12:00,Bristol City,Cardiff,5-4-1 plano,Mick McCarthy,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427463
+29,sáb 13/02/2021,12:00,Cardiff,Coventry City,3-4-2-1,Mick McCarthy,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427559
+30,ter 16/02/2021,17:15,Luton,Cardiff,5-4-1 plano,Mick McCarthy,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427352
+31,sáb 20/02/2021,12:00,Cardiff,Preston NE,3-4-2-1,Mick McCarthy,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427436
+32,qua 24/02/2021,16:45,Bournemouth,Cardiff,5-4-1,Mick McCarthy,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427431
+33,sáb 27/02/2021,12:00,Middlesbrough,Cardiff,5-4-1 plano,Mick McCarthy,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427642
+34,ter 02/03/2021,16:00,Cardiff,Derby,5-4-1 plano,Mick McCarthy,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427373
+35,sex 05/03/2021,16:45,Huddersfield,Cardiff,5-4-1 plano,Mick McCarthy,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427587
+36,sáb 13/03/2021,12:00,Cardiff,Watford,5-4-1 plano,Mick McCarthy,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427548
+37,ter 16/03/2021,16:00,Cardiff,Stoke,5-4-1 plano,Mick McCarthy,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427333
+38,sáb 20/03/2021,14:30,Swansea,Cardiff,3-4-3 plano,Mick McCarthy,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427814
+39,sex 02/04/2021,11:00,Cardiff,Nott'm Forest,3-4-3 plano,Mick McCarthy,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427585
+40,seg 05/04/2021,13:30,Sheff Wed,Cardiff,3-4-2-1,Mick McCarthy,x,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427764
+41,sáb 10/04/2021,11:00,Cardiff,Blackburn,5-4-1 plano,Mick McCarthy,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427588
+42,sex 16/04/2021,14:00,Reading,Cardiff,5-4-1 plano,Mick McCarthy,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427679
+43,ter 20/04/2021,14:00,Brentford,Cardiff,3-4-2-1,Mick McCarthy,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427329
+44,sáb 24/04/2021,11:00,Cardiff,Wycombe Wand.,3-4-3 plano,Mick McCarthy,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427602
+45,sáb 01/05/2021,11:00,Birmingham,Cardiff,5-4-1 plano,Mick McCarthy,x,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427383
+46,sáb 08/05/2021,08:30,Cardiff,Rotherham,5-4-1 plano,Mick McCarthy,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427580

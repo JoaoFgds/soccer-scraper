@@ -1,0 +1,17 @@
+league_name,season_year,canonical_name,other_name,precision_score,is_confident_match
+ligaportugal,2006,academicadecoimbra,academica,67,False
+ligaportugal,2006,boavistafc,boavista,89,True
+ligaportugal,2006,cdnacional,nacional,89,True
+ligaportugal,2006,cfosbelenenses,belenenses,83,True
+ligaportugal,2006,clubedesportivodasaves2020,cdaves,38,False
+ligaportugal,2006,clubefutebolestreladaamadora,cfestrela,49,False
+ligaportugal,2006,clubsportmaritimo,maritimo,64,False
+ligaportugal,2006,fcpacosdeferreira,pacosferreira,87,True
+ligaportugal,2006,fcporto,fcporto,100,True
+ligaportugal,2006,naval1odemaio,naval1odemaio,100,True
+ligaportugal,2006,scbeiramar,beiramar,89,True
+ligaportugal,2006,scbraga,braga,83,True
+ligaportugal,2006,slbenfica,benfica,88,True
+ligaportugal,2006,sportingcp,sporting,89,True
+ligaportugal,2006,udleiria,leiria,86,True
+ligaportugal,2006,vitoriafutebolclube,vitoriafc,64,False

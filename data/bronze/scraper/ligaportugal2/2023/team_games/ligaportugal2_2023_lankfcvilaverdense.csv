@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 13/08/2023,07:00,Académico FC,Vilaverdense,4-2-3-1,António Barbosa,2523,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109787
+2,dom 20/08/2023,07:00,Vilaverdense,UD Oliveirense,4-2-3-1,António Barbosa,660,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109606
+3,dom 27/08/2023,10:00,Santa Clara,Vilaverdense,4-2-3-1,António Barbosa,1478,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109781
+4,dom 03/09/2023,11:30,Vilaverdense,Nacional,4-2-3-1,António Barbosa,686,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109796
+5,sáb 16/09/2023,07:00,AVS,Vilaverdense,4-2-3-1,António Barbosa,537,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109720
+6,sex 29/09/2023,14:00,Vilaverdense,Benfica B,4-2-3-1,António Barbosa,528,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109770
+7,sáb 07/10/2023,14:00,Paços Ferreira,Vilaverdense,4-2-3-1,António Barbosa,2839,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109811
+8,seg 30/10/2023,15:00,Vilaverdense,FC Porto B,4-3-3 ofensivo,Sérgio Machado,215,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109818
+9,sáb 04/11/2023,12:30,Belenenses,Vilaverdense,4-3-3 ofensivo,Sérgio Machado,1672,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109825
+10,dom 12/11/2023,11:00,Vilaverdense,CD Tondela,4-3-3 ofensivo,Sérgio Machado,150,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109832
+11,sáb 18/11/2023,08:00,Mafra,Vilaverdense,4-2-3-1,Sérgio Machado,502,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109857
+12,sex 01/12/2023,12:30,Vilaverdense,Leiria,4-2-3-1,Sérgio Machado,251,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109869
+13,dom 10/12/2023,12:30,Marítimo,Vilaverdense,4-2-3-1,Sérgio Machado,6877,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109883
+14,dom 17/12/2023,08:00,Vilaverdense,Leixões,4-3-3 ofensivo,Sérgio Machado,162,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109617
+15,qui 21/12/2023,15:00,Torreense,Vilaverdense,4-3-3 ofensivo,Sérgio Machado,527,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109891
+16,sáb 06/01/2024,11:00,Penafiel,Vilaverdense,4-3-3 defensivo,Sérgio Machado,479,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109628
+17,dom 14/01/2024,08:00,Vilaverdense,Feirense,4-2-3-1,Sérgio Machado,143,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109841
+18,sex 19/01/2024,15:00,Vilaverdense,Académico FC,4-2-3-1,Sérgio Machado,125,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109860
+19,dom 28/01/2024,15:00,UD Oliveirense,Vilaverdense,4-2-3-1,Sérgio Machado,566,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109633
+20,sex 02/02/2024,15:45,Vilaverdense,Santa Clara,4-3-3 ofensivo,Sérgio Machado,130,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109910
+21,sáb 10/02/2024,11:00,Nacional,Vilaverdense,4-2-3-1,Sérgio Machado,1443,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109661
+22,seg 19/02/2024,15:00,Vilaverdense,AVS,4-2-3-1,Sérgio Machado,107,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109684
+23,sáb 24/02/2024,15:00,Benfica B,Vilaverdense,4-2-3-1,Sérgio Machado,401,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109653
+24,seg 04/03/2024,17:15,Vilaverdense,Paços Ferreira,4-2-3-1,Sérgio Machado,167,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109676
+25,sáb 09/03/2024,12:30,FC Porto B,Vilaverdense,4-2-3-1,Sérgio Machado,372,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109647
+26,seg 18/03/2024,17:15,Vilaverdense,Belenenses,4-2-3-1,Sérgio Machado,225,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109697
+27,sex 29/03/2024,12:30,CD Tondela,Vilaverdense,4-2-3-1,Sérgio Machado,974,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109894
+28,dom 07/04/2024,07:00,Vilaverdense,Mafra,4-2-3-1,Sérgio Machado,107,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109711
+29,sáb 13/04/2024,10:00,Leiria,Vilaverdense,4-2-3-1,Sérgio Machado,4143,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109688
+30,dom 21/04/2024,11:30,Vilaverdense,Marítimo,4-2-3-1,Sérgio Machado,205,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109730
+31,sáb 27/04/2024,11:30,Leixões,Vilaverdense,4-2-3-1,Sérgio Machado,1649,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109760
+32,dom 05/05/2024,11:30,Vilaverdense,Torreense,4-2-3-1,Sérgio Machado,143,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109747
+33,sáb 11/05/2024,11:30,Vilaverdense,Penafiel,4-2-3-1,Sérgio Machado,84,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109753
+34,sáb 18/05/2024,07:00,Feirense,Vilaverdense,4-2-3-1,Sérgio Machado,1310,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109732

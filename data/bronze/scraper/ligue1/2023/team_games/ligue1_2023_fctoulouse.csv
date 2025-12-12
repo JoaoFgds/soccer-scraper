@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 13/08/2023,10:00,Nantes,Toulouse,4-3-3 ofensivo,Carles Martínez,30578,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094584
+2,sáb 19/08/2023,16:00,Toulouse,PSG,5-4-1 plano,Carles Martínez,27332,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094587
+3,dom 27/08/2023,10:00,Strasbourg,Toulouse,4-3-3 ofensivo,Carles Martínez,25090,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094597
+4,dom 03/09/2023,08:00,Toulouse,Clermont Foot,3-4-1-2,Carles Martínez,28285,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094605
+5,dom 17/09/2023,12:05,Marselha,Toulouse,4-4-2,Carles Martínez,63477,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094617
+6,dom 24/09/2023,10:00,Lens,Toulouse,4-2-3-1,Carles Martínez,37506,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094626
+7,dom 01/10/2023,10:00,Toulouse,FC Metz,4-2-3-1,Carles Martínez,24770,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094634
+8,dom 08/10/2023,10:00,Brest,Toulouse,4-4-1-1,Carles Martínez,14509,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094649
+9,dom 22/10/2023,10:00,Toulouse,Reims,4-3-3 ofensivo,Carles Martínez,23895,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094651
+10,dom 29/10/2023,11:00,Montpellier,Toulouse,4-3-3 ofensivo,Carles Martínez,13209,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094666
+11,dom 05/11/2023,11:00,Toulouse,Le Havre,4-3-3 ofensivo,Carles Martínez,23060,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094670
+12,dom 12/11/2023,11:00,Lille,Toulouse,4-2-3-1,Carles Martínez,34959,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094678
+13,dom 26/11/2023,09:00,Nice,Toulouse,4-2-3-1,Carles Martínez,21849,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094691
+14,dom 03/12/2023,11:00,Toulouse,FC Lorient,4-2-3-1,Carles Martínez,22799,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094695
+15,dom 10/12/2023,13:05,Lyon,Toulouse,4-3-3 ofensivo,Carles Martínez,36777,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094708
+16,dom 17/12/2023,11:00,Toulouse,Rennes,4-4-2,Carles Martínez,23311,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094713
+17,qua 20/12/2023,17:00,Toulouse,Monaco,4-3-3 ofensivo,Carles Martínez,23881,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094724
+18,dom 14/01/2024,11:00,FC Metz,Toulouse,4-3-3 ofensivo,Carles Martínez,21065,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094738
+19,dom 28/01/2024,13:05,Toulouse,Lens,4-2-3-1,Carles Martínez,27310,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094741
+20,dom 04/02/2024,11:00,Reims,Toulouse,4-3-3 ofensivo,Carles Martínez,12817,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094754
+21,dom 11/02/2024,11:00,Toulouse,Nantes,4-2-3-1,Carles Martínez,28933,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094759
+22,dom 18/02/2024,11:00,Monaco,Toulouse,3-4-2-1,Carles Martínez,4702,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094769
+23,dom 25/02/2024,11:00,Toulouse,Lille,3-4-1-2,Carles Martínez,24110,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094778
+24,dom 03/03/2024,09:00,Toulouse,Nice,3-4-3 plano,Carles Martínez,25507,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094786
+25,dom 10/03/2024,11:00,Le Havre,Toulouse,3-4-3 plano,Carles Martínez,21462,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094801
+26,sex 15/03/2024,17:00,Toulouse,Lyon,3-4-3 plano,Carles Martínez,28436,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094804
+27,dom 31/03/2024,10:00,Clermont Foot,Toulouse,3-4-3 plano,Carles Martínez,10499,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094818
+28,dom 07/04/2024,10:00,Toulouse,Strasbourg,3-4-3 plano,Carles Martínez,23672,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094822
+29,sáb 13/04/2024,16:00,Rennes,Toulouse,3-4-3 plano,Carles Martínez,28055,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094831
+30,dom 21/04/2024,14:00,Toulouse,Marselha,3-4-3 plano,Carles Martínez,29809,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094840
+31,dom 28/04/2024,10:00,FC Lorient,Toulouse,3-4-3 plano,Carles Martínez,16125,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094852
+32,sex 03/05/2024,14:00,Toulouse,Montpellier,4-3-3 ofensivo,Carles Martínez,24740,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094857
+33,dom 12/05/2024,16:00,PSG,Toulouse,3-4-3 plano,Carles Martínez,47855,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094866
+34,dom 19/05/2024,16:00,Toulouse,Brest,3-4-3 plano,Carles Martínez,28885,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094875

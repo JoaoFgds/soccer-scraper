@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 19/08/2000,19:00,Leiria,CF Estrela,3-3-3-1,Quinito,1000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854555
+2,qui 24/08/2000,19:00,CF Estrela,Braga,4-3-3 ofensivo,Quinito,1000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854556
+3,sáb 09/09/2000,19:00,CF Estrela,Boavista,4-3-3 ofensivo,Quinito,1000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854570
+4,seg 18/09/2000,17:00,Benfica,CF Estrela,4-3-3 ofensivo,Quinito,30000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854580
+5,sáb 23/09/2000,19:00,CF Estrela,Belenenses,4-3-3 ofensivo,Quinito,2000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854589
+6,sáb 30/09/2000,19:00,Paços Ferreira,CF Estrela,4-3-2-1,Quinito,4000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854596
+7,sáb 14/10/2000,20:00,CF Estrela,Campomaiorense,3-1-4-2,Quinito,600,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854607
+8,sáb 21/10/2000,20:00,Marítimo,CF Estrela,3-1-4-2,Quinito,3500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854617
+9,dom 29/10/2000,14:00,CF Estrela,Farense,4-4-2 losango,Quinito,2000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854624
+10,dom 05/11/2000,21:00,Vit. Guimarães,CF Estrela,4-4-2 duplo 6,Quinito,4500,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854636
+11,sex 10/11/2000,21:00,CF Estrela,Sporting,4-1-4-1,Quinito,4000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854638
+12,sáb 18/11/2000,21:00,Alverca,CF Estrela,4-1-4-1,Quinito,2000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854648
+13,sáb 02/12/2000,21:00,CF Estrela,Gil Vicente,4-4-1-1,Quinito,1000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854661
+14,sáb 09/12/2000,21:00,Salgueiros,CF Estrela,4-4-2 losango,Quinito,1500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854671
+15,sáb 16/12/2000,21:00,CF Estrela,CD Aves,4-2-3-1,Quinito,1000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854679
+16,sex 05/01/2001,21:00,FC Porto,CF Estrela,4-5-1,Quinito,11500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854683
+17,sex 12/01/2001,21:00,CF Estrela,Beira-Mar,?,Quinito,1000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854696
+18,qui 18/01/2001,21:00,CF Estrela,Leiria,?,Quinito,2000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854700
+19,qui 25/01/2001,21:00,Braga,CF Estrela,?,Quinito,2000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854710
+20,qui 01/02/2001,21:00,Boavista,CF Estrela,?,Carlos Brito,2000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854719
+21,qui 15/02/2001,21:00,CF Estrela,Benfica,4-2-3-1,Carlos Brito,7000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854728
+22,qui 22/02/2001,20:00,Belenenses,CF Estrela,?,Carlos Brito,1500,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854737
+23,sáb 03/03/2001,20:00,CF Estrela,Paços Ferreira,?,Carlos Brito,1500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854751
+24,sáb 10/03/2001,20:00,Campomaiorense,CF Estrela,4-4-2,Carlos Brito,2000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854758
+25,sex 16/03/2001,20:00,CF Estrela,Marítimo,?,Carlos Brito,2000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854766
+26,sáb 31/03/2001,19:00,Farense,CF Estrela,?,Carlos Brito,3000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854777
+27,sáb 07/04/2001,19:00,CF Estrela,Vit. Guimarães,?,Carlos Brito,1000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854789
+28,sex 13/04/2001,19:00,Sporting,CF Estrela,?,Carlos Brito,10000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854805
+29,sáb 21/04/2001,19:00,CF Estrela,Alverca,?,Carlos Brito,1000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854811
+30,sáb 28/04/2001,19:00,Gil Vicente,CF Estrela,4-3-3 ofensivo,Carlos Brito,2500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854820
+31,sáb 05/05/2001,19:00,CF Estrela,Salgueiros,?,Carlos Brito,500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854830
+32,sáb 12/05/2001,19:00,CD Aves,CF Estrela,?,Carlos Brito,1500,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854841
+33,dom 20/05/2001,19:00,CF Estrela,FC Porto,?,Carlos Brito,500,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854851
+34,dom 27/05/2001,12:00,Beira-Mar,CF Estrela,?,Carlos Brito,2000,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854858

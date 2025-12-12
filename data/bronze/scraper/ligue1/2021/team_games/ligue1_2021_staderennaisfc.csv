@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 08/08/2021,08:00,Rennes,Lens,4-3-3 ofensivo,Bruno Génésio,22567,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588770
+2,dom 15/08/2021,10:00,Brest,Rennes,4-3-3 ofensivo,Bruno Génésio,14271,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588782
+3,dom 22/08/2021,12:00,Rennes,Nantes,4-4-2 duplo 6,Bruno Génésio,27569,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588821
+4,dom 29/08/2021,10:00,Angers,Rennes,4-2-3-1,Bruno Génésio,6473,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588830
+5,dom 12/09/2021,10:00,Rennes,Reims,4-3-3 ofensivo,Bruno Génésio,24486,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588849
+6,dom 19/09/2021,12:00,Marselha,Rennes,4-4-2 duplo 6,Bruno Génésio,54188,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588915
+7,qua 22/09/2021,14:00,Rennes,Clermont Foot,4-3-3 ofensivo,Bruno Génésio,24109,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588937
+8,dom 26/09/2021,08:00,Bordeaux,Rennes,4-4-2,Bruno Génésio,16675,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589097
+9,dom 03/10/2021,08:00,Rennes,PSG,4-4-2,Bruno Génésio,28092,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589115
+10,dom 17/10/2021,10:00,FC Metz,Rennes,4-4-2,Bruno Génésio,15679,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589122
+11,dom 24/10/2021,10:00,Rennes,Strasbourg,4-4-2,Bruno Génésio,27185,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589135
+12,dom 31/10/2021,11:00,Troyes,Rennes,4-4-2,Bruno Génésio,8550,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589146
+13,dom 07/11/2021,16:45,Rennes,Lyon,4-1-4-1,Bruno Génésio,28222,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589174
+14,sáb 20/11/2021,17:00,Rennes,Montpellier,4-3-3 ofensivo,Bruno Génésio,27003,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589207
+15,dom 28/11/2021,11:00,FC Lorient,Rennes,4-4-2,Bruno Génésio,16321,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589225
+16,qua 01/12/2021,17:00,Rennes,Lille,4-4-2,Bruno Génésio,25392,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589263
+17,dom 05/12/2021,09:00,Saint-Étienne,Rennes,4-3-3 ofensivo,Bruno Génésio,11257,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589281
+18,dom 12/12/2021,11:00,Rennes,Nice,4-3-3 ofensivo,Bruno Génésio,27892,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589294
+19,qua 22/12/2021,17:00,Monaco,Rennes,4-1-4-1,Bruno Génésio,5954,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589307
+20,sáb 08/01/2022,17:00,Lens,Rennes,4-3-3 ofensivo,Bruno Génésio,5000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589325
+21,dom 16/01/2022,09:00,Rennes,Bordeaux,4-4-2,Bruno Génésio,4951,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589337
+22,dom 23/01/2022,11:00,Clermont Foot,Rennes,4-4-2,Bruno Génésio,4535,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589353
+23,dom 06/02/2022,13:00,Rennes,Brest,4-3-3 ofensivo,Bruno Génésio,25409,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589366
+24,sex 11/02/2022,17:00,PSG,Rennes,4-3-3 ofensivo,Bruno Génésio,47000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589388
+25,dom 20/02/2022,11:00,Rennes,Troyes,4-4-2,Bruno Génésio,22967,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589406
+26,sex 25/02/2022,17:00,Montpellier,Rennes,4-4-2,Bruno Génésio,11000,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589424
+27,dom 06/03/2022,11:00,Rennes,Angers,4-4-2,Bruno Génésio,27693,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589436
+28,dom 13/03/2022,13:05,Lyon,Rennes,4-1-4-1,Bruno Génésio,46597,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589443
+29,dom 20/03/2022,11:00,Rennes,FC Metz,4-3-3 ofensivo,Bruno Génésio,27966,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589464
+30,sáb 02/04/2022,12:00,Nice,Rennes,4-3-3 ofensivo,Bruno Génésio,24086,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589476
+31,sáb 09/04/2022,12:00,Reims,Rennes,4-3-3 ofensivo,Bruno Génésio,10243,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589505
+32,sex 15/04/2022,16:00,Rennes,Monaco,4-2-3-1,Bruno Génésio,28500,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589531
+33,qua 20/04/2022,16:00,Strasbourg,Rennes,4-2-3-1,Bruno Génésio,25148,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589542
+34,dom 24/04/2022,08:00,Rennes,FC Lorient,4-1-4-1,Bruno Génésio,28324,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589559
+35,sáb 30/04/2022,16:00,Rennes,Saint-Étienne,4-3-3 ofensivo,Bruno Génésio,27390,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589568
+36,qua 11/05/2022,16:00,Nantes,Rennes,4-3-3 ofensivo,Bruno Génésio,26359,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589577
+37,sáb 14/05/2022,16:00,Rennes,Marselha,4-1-4-1,Bruno Génésio,28811,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589587
+38,sáb 21/05/2022,16:00,Lille,Rennes,4-3-3 ofensivo,Bruno Génésio,40116,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589602

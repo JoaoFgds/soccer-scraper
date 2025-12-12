@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 13/08/2023,10:00,Montpellier,Le Havre,5-3-2,Luka Elsner,15852,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094585
+2,dom 20/08/2023,10:00,Le Havre,Brest,5-3-2,Luka Elsner,19574,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094594
+3,dom 27/08/2023,08:00,Rennes,Le Havre,4-3-3 ofensivo,Luka Elsner,28311,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094598
+4,dom 03/09/2023,10:00,Le Havre,FC Lorient,4-2-3-1,Luka Elsner,18707,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094611
+5,dom 17/09/2023,15:45,Lyon,Le Havre,4-3-3 ofensivo,Luka Elsner,35507,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094619
+6,dom 24/09/2023,10:00,Le Havre,Clermont Foot,4-3-3 ofensivo,Luka Elsner,18071,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094628
+7,dom 01/10/2023,10:00,Le Havre,Lille,4-1-4-1,Luka Elsner,21919,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094640
+8,dom 08/10/2023,08:00,Marselha,Le Havre,4-1-4-1,Luka Elsner,63576,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094643
+9,sex 20/10/2023,16:00,Le Havre,Lens,3-4-2-1,Luka Elsner,23590,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094658
+10,dom 29/10/2023,11:00,FC Metz,Le Havre,3-4-3 plano,Luka Elsner,20718,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094665
+11,dom 05/11/2023,11:00,Toulouse,Le Havre,3-4-2-1,Luka Elsner,23060,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094670
+12,sáb 11/11/2023,17:00,Le Havre,Monaco,3-4-3 plano,Luka Elsner,23008,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094682
+13,dom 26/11/2023,11:00,Nantes,Le Havre,4-2-3-1,Luka Elsner,29346,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094693
+14,dom 03/12/2023,09:00,Le Havre,PSG,5-4-1 plano,Luka Elsner,24569,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094702
+15,dom 10/12/2023,11:00,Strasbourg,Le Havre,4-1-4-1,Luka Elsner,25173,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094705
+16,sáb 16/12/2023,13:00,Le Havre,Nice,4-4-2,Luka Elsner,21971,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094720
+17,qua 20/12/2023,17:00,Reims,Le Havre,3-5-2 plano,Luka Elsner,14835,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094728
+18,dom 14/01/2024,13:05,Le Havre,Lyon,4-3-3 ofensivo,Luka Elsner,23146,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094737
+19,dom 28/01/2024,11:00,FC Lorient,Le Havre,4-4-2,Luka Elsner,15207,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094743
+20,dom 04/02/2024,09:00,Monaco,Le Havre,4-3-3 ofensivo,Luka Elsner,5962,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094751
+21,dom 11/02/2024,09:00,Le Havre,Rennes,4-4-2,Luka Elsner,22702,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094765
+22,sáb 17/02/2024,13:00,Lille,Le Havre,4-2-3-1,Luka Elsner,40317,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094770
+23,dom 25/02/2024,11:00,Le Havre,Reims,4-4-2,Luka Elsner,22046,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094783
+24,dom 03/03/2024,11:00,Brest,Le Havre,3-4-3 plano,Luka Elsner,14718,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094793
+25,dom 10/03/2024,11:00,Le Havre,Toulouse,4-2-3-1,Luka Elsner,21462,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094801
+26,dom 17/03/2024,11:00,Clermont Foot,Le Havre,4-2-3-1,Luka Elsner,9638,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094806
+27,dom 31/03/2024,10:00,Le Havre,Montpellier,4-2-3-1,Luka Elsner,20556,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094819
+28,sáb 06/04/2024,12:00,Lens,Le Havre,3-4-3 plano,Luka Elsner,38223,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094826
+29,dom 14/04/2024,08:00,Le Havre,Nantes,5-3-2,Luka Elsner,23021,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094837
+30,dom 21/04/2024,10:00,Le Havre,FC Metz,4-2-3-1,Luka Elsner,21250,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094846
+31,sáb 27/04/2024,16:00,PSG,Le Havre,3-4-3 plano,Luka Elsner,47922,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094848
+32,sáb 04/05/2024,10:00,Le Havre,Strasbourg,4-2-3-1,Luka Elsner,22293,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094863
+33,sex 10/05/2024,16:00,Nice,Le Havre,4-4-2,Luka Elsner,24529,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094870
+34,dom 19/05/2024,16:00,Le Havre,Marselha,4-2-3-1,Luka Elsner,24050,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094882

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 17/08/2024,11:00,Everton,Brighton,4-2-3-1,Sean Dyche,39571,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361264
+2,sáb 24/08/2024,11:00,Tottenham,Everton,4-2-3-1,Sean Dyche,61357,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361279
+3,sáb 31/08/2024,11:00,Everton,Bournemouth,4-2-3-1,Sean Dyche,38805,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361293
+4,sáb 14/09/2024,13:30,Aston Villa,Everton,4-2-3-1,Sean Dyche,41573,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361351
+5,sáb 21/09/2024,11:00,Leicester,Everton,4-2-3-1,Sean Dyche,31765,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361364
+6,sáb 28/09/2024,11:00,Everton,Crystal Palace,4-2-3-1,Sean Dyche,38954,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361374
+7,sáb 05/10/2024,13:30,Everton,Newcastle,4-2-3-1,Sean Dyche,39265,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361386
+8,sáb 19/10/2024,11:15,Ipswich,Everton,4-2-3-1,Sean Dyche,29862,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361392
+9,sáb 26/10/2024,13:30,Everton,Fulham,4-2-3-1,Sean Dyche,38742,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361405
+10,sáb 02/11/2024,12:00,Southampton,Everton,4-2-3-1,Sean Dyche,31143,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361417
+11,sáb 09/11/2024,12:00,West Ham,Everton,4-2-3-1,Sean Dyche,62463,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361428
+12,sáb 23/11/2024,12:00,Everton,Brentford,4-2-3-1,Sean Dyche,38915,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361433
+13,dom 01/12/2024,10:30,Man Utd,Everton,4-2-3-1,Sean Dyche,73817,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361445
+14,qua 04/12/2024,16:30,Everton,Wolves,4-2-3-1,Sean Dyche,38820,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361453
+15,qua 12/02/2025,16:30,Everton,Liverpool,4-2-3-1,David Moyes,39280,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361463
+16,sáb 14/12/2024,12:00,Arsenal,Everton,4-3-3 ofensivo,Sean Dyche,60176,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361471
+17,dom 22/12/2024,11:00,Everton,Chelsea,4-3-3 ofensivo,Sean Dyche,39358,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361483
+18,qui 26/12/2024,09:30,Man City,Everton,4-3-3 ofensivo,Sean Dyche,55097,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361495
+19,dom 29/12/2024,12:00,Everton,Nott'm Forest,4-3-3 ofensivo,Sean Dyche,39352,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361503
+20,sáb 04/01/2025,12:00,Bournemouth,Everton,4-2-3-1,Sean Dyche,11223,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361510
+21,qua 15/01/2025,16:30,Everton,Aston Villa,4-2-3-1,David Moyes,39085,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361522
+22,dom 19/01/2025,11:00,Everton,Tottenham,4-2-3-1,David Moyes,39326,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362731
+23,sáb 25/01/2025,12:00,Brighton,Everton,4-2-3-1,David Moyes,31567,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362740
+24,sáb 01/02/2025,12:00,Everton,Leicester,4-2-3-1,David Moyes,39376,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362752
+25,sáb 15/02/2025,14:30,Crystal Palace,Everton,4-2-3-1,David Moyes,25108,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362760
+26,sáb 22/02/2025,09:30,Everton,Man Utd,4-2-3-1,David Moyes,39290,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362771
+27,qua 26/02/2025,16:30,Brentford,Everton,4-2-3-1,David Moyes,17082,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362778
+28,sáb 08/03/2025,17:00,Wolves,Everton,4-2-3-1,David Moyes,30738,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362797
+29,sáb 15/03/2025,12:00,Everton,West Ham,4-2-3-1,David Moyes,39343,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362801
+30,qua 02/04/2025,16:00,Liverpool,Everton,4-2-3-1,David Moyes,60331,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362817
+31,sáb 05/04/2025,08:30,Everton,Arsenal,4-2-3-1,David Moyes,39316,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362821
+32,sáb 12/04/2025,11:00,Nott'm Forest,Everton,4-2-3-1,David Moyes,30199,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362835
+33,sáb 19/04/2025,11:00,Everton,Man City,4-2-3-1,David Moyes,39332,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362841
+34,sáb 26/04/2025,08:30,Chelsea,Everton,4-2-3-1,David Moyes,39894,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362851
+35,sáb 03/05/2025,11:00,Everton,Ipswich,4-2-3-1,David Moyes,39305,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362864
+36,sáb 10/05/2025,11:00,Fulham,Everton,4-2-3-1,David Moyes,27653,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362869
+37,dom 18/05/2025,08:00,Everton,Southampton,4-2-3-1,David Moyes,39201,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362884
+38,dom 25/05/2025,12:00,Newcastle,Everton,4-2-3-1,David Moyes,52221,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361535

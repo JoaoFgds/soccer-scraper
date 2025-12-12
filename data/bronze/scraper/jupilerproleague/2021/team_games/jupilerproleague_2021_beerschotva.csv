@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,ter 27/07/2021,15:00,Beerschot VA,Cercle Brügge,3-4-2-1,Peter Maes,3800,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598099
+2,dom 01/08/2021,13:30,KAA Gent,Beerschot VA,4-2-3-1,Peter Maes,5250,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598138
+3,sáb 07/08/2021,11:15,Beerschot VA,Union SG,4-2-3-1,Peter Maes,3800,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598117
+4,dom 15/08/2021,08:30,Beerschot VA,Standard Liège,3-4-2-1,Peter Maes,4000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598107
+5,dom 22/08/2021,13:30,Club Brugge,Beerschot VA,5-4-1 plano,Peter Maes,24000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598146
+6,sáb 28/08/2021,11:15,R Charleroi SC,Beerschot VA,4-4-2,Peter Maes,5022,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598134
+7,seg 13/09/2021,15:00,Beerschot VA,St.Truiden,5-3-2,Peter Maes,8500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598126
+8,sáb 18/09/2021,11:15,KV Oostende,Beerschot VA,3-4-1-2,Marc Noë,3010,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598199
+9,sáb 25/09/2021,11:15,Beerschot VA,KAS Eupen,4-3-3 ofensivo,Javier Torrente,7500,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598188
+10,sáb 02/10/2021,15:45,OH Leuven,Beerschot VA,3-5-2,Javier Torrente,5200,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598202
+11,dom 17/10/2021,11:00,Beerschot VA,KV Mechelen,5-3-2,Javier Torrente,7500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598170
+12,dom 24/10/2021,11:00,Anderlecht,Beerschot VA,4-3-3 ofensivo,Javier Torrente,20000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598209
+13,sáb 30/10/2021,13:30,Beerschot VA,RFC Seraing,4-1-4-1,Javier Torrente,6500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598224
+14,sáb 06/11/2021,14:30,KV Kortrijk,Beerschot VA,4-1-4-1,Javier Torrente,5803,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598159
+15,dom 21/11/2021,17:00,Beerschot VA,KRC Genk,4-1-4-1,Javier Torrente,7000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598234
+16,dom 28/11/2021,12:00,Zulte Waregem,Beerschot VA,4-3-2-1,Greg Vanderidt,4949,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598242
+17,dom 05/12/2021,09:30,Beerschot VA,Antuérpia,4-1-4-1,Javier Torrente,10000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598405
+18,sáb 11/12/2021,14:30,KAS Eupen,Beerschot VA,5-3-2,Javier Torrente,1311,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598394
+19,qua 02/03/2022,14:45,Standard Liège,Beerschot VA,5-3-2,Greg Vanderidt,9423,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598264
+20,sáb 18/12/2021,12:15,Beerschot VA,KV Oostende,4-3-3 ofensivo,Javier Torrente,6000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598378
+21,seg 27/12/2021,17:00,Beerschot VA,Anderlecht,4-3-1-2,Javier Torrente,x,0:7,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598251
+22,dom 16/01/2022,17:00,KRC Genk,Beerschot VA,5-3-2,Javier Torrente,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598292
+23,sáb 22/01/2022,14:30,Beerschot VA,OH Leuven,5-3-2,Javier Torrente,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598371
+24,qua 26/01/2022,17:00,RFC Seraing,Beerschot VA,5-3-2,Javier Torrente,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598370
+25,sáb 29/01/2022,12:15,Beerschot VA,Zulte Waregem,5-3-2,Javier Torrente,2500,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598376
+26,dom 06/02/2022,12:00,KV Mechelen,Beerschot VA,5-4-1,Javier Torrente,8137,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598381
+27,dom 13/02/2022,17:00,Beerschot VA,KV Kortrijk,4-4-2,Greg Vanderidt,3500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598261
+28,sáb 19/02/2022,12:15,Cercle Brügge,Beerschot VA,4-5-1,Greg Vanderidt,3872,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598285
+29,sex 25/02/2022,16:45,Beerschot VA,R Charleroi SC,4-3-3 ofensivo,Greg Vanderidt,3500,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598382
+30,dom 06/03/2022,09:30,Antuérpia,Beerschot VA,5-4-1 plano,Greg Vanderidt,10000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598274
+31,dom 13/03/2022,14:30,Beerschot VA,KAA Gent,5-4-1 plano,Greg Vanderidt,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598306
+32,dom 20/03/2022,17:00,St.Truiden,Beerschot VA,4-4-1-1,Greg Vanderidt,3000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598375
+33,sex 01/04/2022,15:45,Beerschot VA,Club Brugge,5-3-2,Greg Vanderidt,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598384
+34,dom 10/04/2022,13:30,Union SG,Beerschot VA,5-4-1 plano,Greg Vanderidt,6763,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598351

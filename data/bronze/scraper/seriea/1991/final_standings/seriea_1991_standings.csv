@@ -1,0 +1,19 @@
+position,team,played,won,drawn,lost,goal_ratio,goal_difference,points,team_url
+1,AC Milan,34,22,12,0,74:21,53,56:12,https://www.transfermarkt.com.br/ac-mailand/spielplan/verein/5/saison_id/1991
+2,Juventus FC,34,18,12,4,45:22,23,48:20,https://www.transfermarkt.com.br/juventus-turin/spielplan/verein/506/saison_id/1991
+3,Torino Calcio,34,14,15,5,42:20,22,43:25,https://www.transfermarkt.com.br/fc-turin/spielplan/verein/416/saison_id/1991
+4,SSC Napoli,34,15,12,7,56:40,16,42:26,https://www.transfermarkt.com.br/ssc-neapel/spielplan/verein/6195/saison_id/1991
+5,AS Roma,34,13,14,7,37:31,6,40:28,https://www.transfermarkt.com.br/as-rom/spielplan/verein/12/saison_id/1991
+6,UC Sampdoria,34,11,16,7,38:31,7,38:30,https://www.transfermarkt.com.br/sampdoria-genua/spielplan/verein/1038/saison_id/1991
+7,AC Parma,34,11,16,7,32:28,4,38:30,https://www.transfermarkt.com.br/parma-calcio-1913/spielplan/verein/130/saison_id/1991
+8,Inter de Milão,34,10,17,7,28:28,0,37:31,https://www.transfermarkt.com.br/inter-mailand/spielplan/verein/46/saison_id/1991
+9,Foggia Calcio,34,12,11,11,58:58,0,35:33,https://www.transfermarkt.com.br/calcio-foggia-1920/spielplan/verein/704/saison_id/1991
+10,Atalanta BC,34,10,14,10,31:33,-2,34:34,https://www.transfermarkt.com.br/atalanta-bergamo/spielplan/verein/800/saison_id/1991
+11,SS Lazio,34,11,12,11,43:40,3,34:34,https://www.transfermarkt.com.br/lazio-rom/spielplan/verein/398/saison_id/1991
+12,AC Florenz,34,10,12,12,44:41,3,32:36,https://www.transfermarkt.com.br/ac-florenz/spielplan/verein/430/saison_id/1991
+13,Cagliari Calcio,34,7,15,12,30:34,-4,29:39,https://www.transfermarkt.com.br/cagliari-calcio/spielplan/verein/1390/saison_id/1991
+14,Genoa 1893,34,9,11,14,35:47,-12,29:39,https://www.transfermarkt.com.br/genua-cfc/spielplan/verein/252/saison_id/1991
+15,AS Bari,34,6,10,18,26:47,-21,22:46,https://www.transfermarkt.com.br/ssc-bari/spielplan/verein/332/saison_id/1991
+16,Verona FC,34,7,7,20,24:57,-33,21:47,https://www.transfermarkt.com.br/hellas-verona/spielplan/verein/276/saison_id/1991
+17,US Cremonese,34,5,10,19,27:49,-22,20:48,https://www.transfermarkt.com.br/us-cremonese/spielplan/verein/2239/saison_id/1991
+18,Ascoli Calcio 1898,34,4,6,24,25:68,-43,14:54,https://www.transfermarkt.com.br/ascoli-calcio/spielplan/verein/408/saison_id/1991

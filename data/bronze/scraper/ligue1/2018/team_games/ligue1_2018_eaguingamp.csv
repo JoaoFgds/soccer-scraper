@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 11/08/2018,15:00,Saint-Étienne,Guingamp,4-2-3-1,Antoine Kombouaré,26006,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047440
+2,sáb 18/08/2018,12:00,Guingamp,PSG,4-2-3-1,Antoine Kombouaré,19003,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047444
+3,dom 26/08/2018,10:00,Lille,Guingamp,4-2-3-1,Antoine Kombouaré,27230,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047453
+4,sáb 01/09/2018,15:00,Guingamp,Toulouse,4-2-3-1,Antoine Kombouaré,12327,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047463
+5,dom 16/09/2018,16:00,Marselha,Guingamp,4-3-3 ofensivo,Antoine Kombouaré,50450,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047475
+6,dom 23/09/2018,12:00,Guingamp,Bordeaux,4-3-3 ofensivo,Antoine Kombouaré,14772,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047512
+7,qua 26/09/2018,14:00,Nîmes Olympique,Guingamp,5-3-2,Antoine Kombouaré,12867,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047528
+8,sáb 29/09/2018,15:00,Angers,Guingamp,3-4-2-1,Antoine Kombouaré,9483,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047531
+9,sáb 06/10/2018,15:00,Guingamp,Montpellier,5-4-1 plano,Antoine Kombouaré,13643,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047544
+10,sáb 20/10/2018,15:00,SM Caen,Guingamp,5-4-1 plano,Antoine Kombouaré,16009,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047551
+11,sáb 27/10/2018,15:00,Guingamp,Strasbourg,5-3-2,Antoine Kombouaré,13643,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047564
+12,dom 04/11/2018,12:00,Nantes,Guingamp,5-4-1 plano,Antoine Kombouaré,25753,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047575
+13,sáb 10/11/2018,14:00,Guingamp,Lyon,4-3-1-2,Sylvain Didot,14171,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047583
+14,sáb 24/11/2018,17:00,Reims,Guingamp,4-4-2,Jocelyn Gourvennec,10028,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047599
+15,sáb 01/12/2018,17:00,Guingamp,Nice,4-2-3-1,Jocelyn Gourvennec,12671,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047603
+16,qua 05/12/2018,16:00,Dijon,Guingamp,4-2-3-1,Jocelyn Gourvennec,11711,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047614
+17,sáb 08/12/2018,17:00,Guingamp,Amiens SC,4-2-3-1,Jocelyn Gourvennec,14089,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047652
+18,qua 16/01/2019,16:00,Guingamp,Rennes,4-3-3 ofensivo,Jocelyn Gourvennec,14179,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047692
+19,sáb 22/12/2018,18:00,Monaco,Guingamp,4-2-3-1,Jocelyn Gourvennec,6424,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047703
+20,sáb 12/01/2019,17:00,Guingamp,Saint-Étienne,4-2-3-1,Jocelyn Gourvennec,15342,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047714
+21,sáb 19/01/2019,14:00,PSG,Guingamp,4-1-4-1,Jocelyn Gourvennec,47268,9:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047727
+22,sáb 26/01/2019,17:00,Guingamp,Reims,4-1-4-1,Jocelyn Gourvennec,13853,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047733
+23,qua 20/02/2019,15:00,Bordeaux,Guingamp,4-3-3 ofensivo,Jocelyn Gourvennec,14527,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047742
+24,dom 10/02/2019,14:00,Guingamp,Lille,4-3-3 ofensivo,Jocelyn Gourvennec,13886,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047753
+25,sex 15/02/2019,17:45,Lyon,Guingamp,4-3-3 ofensivo,Jocelyn Gourvennec,40305,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047765
+26,sáb 23/02/2019,16:00,Guingamp,Angers,4-3-3 ofensivo,Jocelyn Gourvennec,16306,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047773
+27,dom 03/03/2019,11:00,Guingamp,Nantes,4-3-3 ofensivo,Jocelyn Gourvennec,15025,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047784
+28,dom 10/03/2019,11:00,Toulouse,Guingamp,4-3-3 ofensivo,Jocelyn Gourvennec,19802,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047800
+29,sáb 16/03/2019,16:00,Guingamp,Dijon,4-4-1-1,Jocelyn Gourvennec,15834,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047804
+30,qua 03/04/2019,14:00,Montpellier,Guingamp,4-2-3-1,Jocelyn Gourvennec,11187,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3093276
+31,sáb 06/04/2019,15:00,Guingamp,Monaco,4-2-3-1,Jocelyn Gourvennec,13997,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047823
+32,sáb 13/04/2019,15:00,Strasbourg,Guingamp,4-3-3 ofensivo,Jocelyn Gourvennec,25190,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047839
+33,sáb 20/04/2019,12:00,Guingamp,Marselha,4-3-3 ofensivo,Jocelyn Gourvennec,18164,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047841
+34,dom 28/04/2019,10:00,Nice,Guingamp,4-2-3-1,Jocelyn Gourvennec,16374,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047857
+35,sáb 04/05/2019,15:00,Guingamp,SM Caen,4-3-3 ofensivo,Jocelyn Gourvennec,16879,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047861
+36,dom 12/05/2019,10:00,Rennes,Guingamp,4-1-4-1,Jocelyn Gourvennec,26119,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047878
+37,sáb 18/05/2019,16:00,Guingamp,Nîmes Olympique,4-2-3-1,Jocelyn Gourvennec,12096,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047881
+38,sex 24/05/2019,16:05,Amiens SC,Guingamp,4-2-3-1,Jocelyn Gourvennec,11932,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047890

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 15/08/2021,10:30,Mainz,Leipzig,4-2-3-1,Jesse Marsch,10500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588144
+2,sex 20/08/2021,15:30,Leipzig,Stuttgart,4-2-3-1,Jesse Marsch,23100,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588149
+3,dom 29/08/2021,12:30,Wolfsburg,Leipzig,4-2-3-1,Jesse Marsch,12058,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588168
+4,sáb 11/09/2021,13:30,Leipzig,Bayern,4-2-3-1,Jesse Marsch,34000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588175
+5,sáb 18/09/2021,13:30,Colônia,Leipzig,4-2-3-1,Jesse Marsch,25000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588201
+6,sáb 25/09/2021,10:30,Leipzig,Hertha Berlim,3-4-2-1,Jesse Marsch,23500,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588211
+7,sáb 02/10/2021,13:30,Leipzig,Bochum,3-4-1-2,Jesse Marsch,25598,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588221
+8,sáb 16/10/2021,10:30,Freiburg,Leipzig,4-2-3-1,Jesse Marsch,20000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588243
+9,sáb 23/10/2021,10:30,Leipzig,Greuther Fürth,3-4-2-1,Jesse Marsch,24758,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588257
+10,sáb 30/10/2021,13:30,Frankfurt,Leipzig,5-4-1 plano,Jesse Marsch,31000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588275
+11,sáb 06/11/2021,14:30,Leipzig,Dortmund,3-4-2-1,Jesse Marsch,43429,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588284
+12,sáb 20/11/2021,11:30,Hoffenheim,Leipzig,3-4-1-2,Jesse Marsch,13233,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588306
+13,dom 28/11/2021,13:30,Leipzig,Leverkusen,4-4-2 duplo 6,Jesse Marsch,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588320
+14,sex 03/12/2021,16:30,Union Berlim,Leipzig,3-4-2-1,Jesse Marsch,13500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588339
+15,sáb 11/12/2021,11:30,Leipzig,M'gladbach,3-4-1-2,Domenico Tedesco,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588347
+16,qua 15/12/2021,16:30,Augsburg,Leipzig,3-4-1-2,Domenico Tedesco,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588380
+17,sáb 18/12/2021,11:30,Leipzig,Arm. Bielefeld,3-1-4-2,Domenico Tedesco,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588383
+18,sáb 08/01/2022,11:30,Leipzig,Mainz,3-4-1-2,Domenico Tedesco,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588401
+19,sáb 15/01/2022,11:30,Stuttgart,Leipzig,3-4-1-2,Domenico Tedesco,500,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588422
+20,dom 23/01/2022,11:30,Leipzig,Wolfsburg,3-4-2-1,Domenico Tedesco,1000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588436
+21,sáb 05/02/2022,14:30,Bayern,Leipzig,3-4-1-2,Domenico Tedesco,10000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588454
+22,sex 11/02/2022,16:30,Leipzig,Colônia,3-4-1-2,Domenico Tedesco,15000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588463
+23,dom 20/02/2022,15:30,Hertha Berlim,Leipzig,3-1-4-2,Domenico Tedesco,10000,1:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588487
+24,dom 27/02/2022,11:30,Bochum,Leipzig,3-5-2,Domenico Tedesco,10000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588497
+25,sáb 05/03/2022,11:30,Leipzig,Freiburg,3-4-3 plano,Domenico Tedesco,24758,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588509
+26,dom 13/03/2022,15:30,Greuther Fürth,Leipzig,3-4-1-2,Domenico Tedesco,9418,1:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588534
+27,dom 20/03/2022,11:30,Leipzig,Frankfurt,3-4-1-2,Domenico Tedesco,43058,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588545
+28,sáb 02/04/2022,13:30,Dortmund,Leipzig,3-4-1-2,Domenico Tedesco,81365,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588562
+29,dom 10/04/2022,14:30,Leipzig,Hoffenheim,3-4-2-1,Domenico Tedesco,35112,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588581
+30,dom 17/04/2022,14:30,Leverkusen,Leipzig,3-1-4-2,Domenico Tedesco,26119,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588590
+31,sáb 23/04/2022,10:30,Leipzig,Union Berlim,3-4-3 plano,Domenico Tedesco,45770,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588608
+32,seg 02/05/2022,15:30,M'gladbach,Leipzig,3-4-1-2,Domenico Tedesco,35324,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588628
+33,dom 08/05/2022,14:30,Leipzig,Augsburg,3-4-1-2,Domenico Tedesco,37029,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588650
+34,sáb 14/05/2022,10:30,Arm. Bielefeld,Leipzig,3-4-1-2,Domenico Tedesco,22719,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588675

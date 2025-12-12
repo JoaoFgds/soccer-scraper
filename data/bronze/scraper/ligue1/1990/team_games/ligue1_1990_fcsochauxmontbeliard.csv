@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 20/07/1990,19:00,FC Sochaux,Brest Armorique,?,Silvester Takac,4000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014200
+2,sex 27/07/1990,19:00,Montpellier,FC Sochaux,?,Silvester Takac,12826,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014211
+3,sex 03/08/1990,19:00,FC Sochaux,AS Nancy,?,Silvester Takac,4833,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014223
+4,sex 10/08/1990,19:00,SM Caen,FC Sochaux,?,Silvester Takac,10916,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014233
+5,sex 17/08/1990,19:00,FC Sochaux,Rennes,?,Silvester Takac,5326,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014242
+6,sex 24/08/1990,19:00,Lyon,FC Sochaux,?,Silvester Takac,22851,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014250
+7,ter 28/08/1990,19:00,FC Sochaux,SC Toulon Var,?,Silvester Takac,5000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014265
+8,sex 07/09/1990,19:00,Nice,FC Sochaux,?,Silvester Takac,8000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014274
+9,sex 14/09/1990,19:00,FC Sochaux,Auxerre,?,Silvester Takac,5000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014278
+10,sex 21/09/1990,19:00,Bordeaux,FC Sochaux,?,Silvester Takac,12956,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014376
+11,sex 28/09/1990,19:00,FC Sochaux,Lille,?,Silvester Takac,3083,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014385
+12,sex 05/10/1990,20:00,Toulouse,FC Sochaux,?,Silvester Takac,6750,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014399
+13,sex 19/10/1990,20:00,FC Sochaux,Marselha,?,Silvester Takac,10015,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014402
+14,sex 26/10/1990,21:00,Cannes,FC Sochaux,?,Silvester Takac,4819,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014416
+15,sáb 03/11/1990,17:30,FC Sochaux,Nantes,?,Silvester Takac,3624,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014427
+16,sáb 10/11/1990,17:30,Monaco,FC Sochaux,?,Silvester Takac,2500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014430
+17,sex 23/11/1990,21:00,FC Sochaux,FC Metz,?,Silvester Takac,3500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014442
+18,dom 02/12/1990,12:00,PSG,FC Sochaux,?,Silvester Takac,9523,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014457
+19,sex 07/12/1990,21:00,FC Sochaux,Saint-Étienne,?,Silvester Takac,3500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014486
+20,ter 22/01/1991,21:00,FC Sochaux,Montpellier,?,Silvester Takac,4000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014498
+21,ter 29/01/1991,21:00,AS Nancy,FC Sochaux,?,Silvester Takac,3933,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014509
+22,sáb 12/01/1991,21:00,FC Sochaux,SM Caen,?,Silvester Takac,3365,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014514
+23,sáb 19/01/1991,21:00,Rennes,FC Sochaux,?,Silvester Takac,8130,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014527
+24,sáb 26/01/1991,21:00,FC Sochaux,Lyon,?,Silvester Takac,2824,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014537
+25,sáb 02/02/1991,21:00,SC Toulon Var,FC Sochaux,?,Silvester Takac,483,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014549
+26,seg 04/03/1991,20:00,FC Sochaux,Nice,?,Silvester Takac,3000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014558
+27,seg 11/03/1991,20:00,Auxerre,FC Sochaux,?,Silvester Takac,7000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014567
+28,sáb 23/02/1991,20:00,FC Sochaux,Bordeaux,?,Silvester Takac,5172,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014604
+29,sex 01/03/1991,20:00,Lille,FC Sochaux,?,Silvester Takac,5329,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014611
+30,sex 15/03/1991,20:00,FC Sochaux,Toulouse,?,Silvester Takac,2710,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014625
+31,sex 22/03/1991,20:00,Marselha,FC Sochaux,?,Silvester Takac,30939,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014628
+32,sex 05/04/1991,19:00,FC Sochaux,Cannes,?,Silvester Takac,3903,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014640
+33,sáb 13/04/1991,15:30,Nantes,FC Sochaux,?,Silvester Takac,12000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014692
+34,sex 19/04/1991,15:30,FC Sochaux,Monaco,?,Silvester Takac,3000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014695
+35,sex 03/05/1991,19:00,FC Metz,FC Sochaux,?,Silvester Takac,7651,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014710
+36,sex 10/05/1991,15:30,FC Sochaux,PSG,?,Silvester Takac,4486,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014722
+37,qui 16/05/1991,19:00,Saint-Étienne,FC Sochaux,?,Silvester Takac,19764,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014733
+38,qui 23/05/1991,19:00,Brest Armorique,FC Sochaux,?,Silvester Takac,8000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014741

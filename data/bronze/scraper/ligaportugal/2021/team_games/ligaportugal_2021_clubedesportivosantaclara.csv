@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 08/08/2021,11:30,CD Tondela,Santa Clara,4-3-3 defensivo,Daniel Ramos,764,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621353
+2,dom 15/08/2021,16:30,Santa Clara,Moreirense,4-2-3-1,Daniel Ramos,876,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621358
+3,seg 23/08/2021,17:15,Boavista,Santa Clara,4-2-3-1,Daniel Ramos,2799,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621371
+4,dom 29/08/2021,16:30,Santa Clara,Gil Vicente,4-3-3 defensivo,Daniel Ramos,588,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621377
+5,sáb 11/09/2021,14:00,Santa Clara,Benfica,3-5-2,Daniel Ramos,3326,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621385
+6,sex 17/09/2021,16:15,Portimonense,Santa Clara,4-3-3 defensivo,Daniel Ramos,942,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621406
+7,dom 26/09/2021,14:00,Santa Clara,Braga,4-2-3-1,Daniel Ramos,1033,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621394
+8,sáb 02/10/2021,11:30,Vizela,Santa Clara,4-3-3 defensivo,Daniel Ramos,2855,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621426
+9,sáb 23/10/2021,11:30,Santa Clara,Famalicão,4-2-3-1,Nuno Campos,830,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621430
+10,dom 31/10/2021,15:00,B SAD,Santa Clara,4-2-3-1,Nuno Campos,932,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621415
+11,dom 07/11/2021,14:00,Santa Clara,FC Porto,4-2-3-1,Nuno Campos,3745,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621475
+12,seg 29/11/2021,17:15,Estoril,Santa Clara,4-3-3 ofensivo,Nuno Campos,658,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621444
+13,dom 05/12/2021,12:30,Santa Clara,Arouca,4-2-3-1,Nuno Campos,687,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621485
+14,sáb 11/12/2021,12:30,Marítimo,Santa Clara,4-2-3-1,Nuno Campos,1784,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621462
+15,sex 17/12/2021,16:00,Santa Clara,Vit. Guimarães,4-2-3-1,Tiago Sousa,636,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621493
+16,qui 30/12/2021,14:00,Paços Ferreira,Santa Clara,4-2-3-1,Tiago Sousa,618,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621466
+17,sex 07/01/2022,15:30,Santa Clara,Sporting,4-2-3-1,Tiago Sousa,1761,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621448
+18,dom 16/01/2022,12:30,Santa Clara,CD Tondela,4-2-3-1,Mário Silva,263,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621506
+19,sáb 22/01/2022,12:30,Moreirense,Santa Clara,4-2-3-1,Mário Silva,1020,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621582
+20,ter 01/02/2022,17:15,Santa Clara,Boavista,4-2-3-1,Mário Silva,252,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621515
+21,dom 06/02/2022,12:30,Gil Vicente,Santa Clara,4-2-3-1,Mário Silva,2955,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621530
+22,sáb 12/02/2022,15:00,Benfica,Santa Clara,4-2-3-1,Mário Silva,30905,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621520
+23,seg 21/02/2022,17:15,Santa Clara,Portimonense,4-2-3-1,Mário Silva,1203,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621550
+24,seg 28/02/2022,17:15,Braga,Santa Clara,4-2-3-1,Mário Silva,7695,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621583
+25,dom 06/03/2022,17:30,Santa Clara,Vizela,4-2-3-1,Mário Silva,1006,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621641
+26,sáb 12/03/2022,12:30,Famalicão,Santa Clara,4-2-3-1,Mário Silva,2790,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621569
+27,sáb 19/03/2022,15:00,Santa Clara,B SAD,4-2-3-1,Mário Silva,1164,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621541
+28,seg 04/04/2022,16:15,FC Porto,Santa Clara,4-4-1-1,Mário Silva,30250,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621581
+29,dom 10/04/2022,11:30,Santa Clara,Estoril,4-2-3-1,Mário Silva,829,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621630
+30,sex 15/04/2022,11:30,Arouca,Santa Clara,4-2-3-1,Mário Silva,1453,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621614
+31,sáb 23/04/2022,14:00,Santa Clara,Marítimo,4-2-3-1,Mário Silva,1316,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621642
+32,dom 01/05/2022,11:30,Vit. Guimarães,Santa Clara,4-2-3-1,Mário Silva,13368,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621585
+33,dom 08/05/2022,16:30,Santa Clara,Paços Ferreira,4-2-3-1,Mário Silva,1777,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621575
+34,sáb 14/05/2022,16:30,Sporting,Santa Clara,4-2-3-1,Mário Silva,28942,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621568

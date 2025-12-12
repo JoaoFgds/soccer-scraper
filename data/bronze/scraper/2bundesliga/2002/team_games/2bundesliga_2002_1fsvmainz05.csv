@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 10/08/2002,10:00,Union Berlim,Mainz,4-3-3 defensivo,Jürgen Klopp,8461,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19706
+2,qua 18/09/2002,13:30,Mainz,Eintracht Trier,4-3-3 defensivo,Jürgen Klopp,10000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19764
+3,dom 25/08/2002,10:00,Mainz,W. Mannheim,4-3-3 ofensivo,Jürgen Klopp,13200,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19802
+4,qua 11/09/2002,14:00,RW Oberhausen,Mainz,4-4-2,Jürgen Klopp,3617,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19840
+5,dom 15/09/2002,10:00,Mainz,SSV Reutlingen,4-4-2,Jürgen Klopp,9800,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19878
+6,dom 22/09/2002,10:00,St. Pauli,Mainz,4-3-3 ofensivo,Jürgen Klopp,16859,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19914
+7,seg 30/09/2002,15:15,Mainz,Freiburg,4-3-3 ofensivo,Jürgen Klopp,16012,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19955
+8,dom 06/10/2002,10:00,Greuther Fürth,Mainz,4-3-3 defensivo,Jürgen Klopp,5884,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19988
+9,seg 21/10/2002,15:15,Mainz,Colônia,4-3-3 ofensivo,Jürgen Klopp,17500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20031
+10,sex 25/10/2002,14:00,W. Burghausen,Mainz,?,Jürgen Klopp,5700,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20061
+11,seg 04/11/2002,12:30,Mainz,Karlsruher,4-3-3 ofensivo,Jürgen Klopp,10700,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20107
+12,dom 10/11/2002,12:00,MSV Duisburg,Mainz,?,Jürgen Klopp,6309,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20142
+13,sex 15/11/2002,16:00,Mainz,Alem. Aachen,4-3-3 ofensivo,Jürgen Klopp,10300,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20177
+14,sex 22/11/2002,16:00,Frankfurt,Mainz,4-3-3 ofensivo,Jürgen Klopp,24000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20214
+15,dom 01/12/2002,12:00,Mainz,LR Ahlen,4-4-2 losango,Jürgen Klopp,9000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20256
+16,sex 06/12/2002,16:00,VfB Lübeck,Mainz,4-3-3 ofensivo,Jürgen Klopp,6500,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20287
+17,sex 13/12/2002,16:00,Mainz,E. Braunschweig,4-3-3 ofensivo,Jürgen Klopp,9600,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20329
+18,dom 26/01/2003,12:00,Mainz,Union Berlim,4-3-3 ofensivo,Jürgen Klopp,12500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20368
+19,seg 03/02/2003,17:15,Eintracht Trier,Mainz,4-3-3 ofensivo,Jürgen Klopp,6860,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20408
+20,sex 07/02/2003,16:00,W. Mannheim,Mainz,4-3-3 defensivo,Jürgen Klopp,5700,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20442
+21,dom 16/02/2003,11:00,Mainz,RW Oberhausen,4-3-3 ofensivo,Jürgen Klopp,10700,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20475
+22,dom 23/02/2003,11:00,SSV Reutlingen,Mainz,4-3-3 ofensivo,Jürgen Klopp,5461,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20513
+23,sex 28/02/2003,15:00,Mainz,St. Pauli,4-3-3 ofensivo,Jürgen Klopp,15500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20527
+24,sex 07/03/2003,15:00,Freiburg,Mainz,4-3-3 ofensivo,Jürgen Klopp,24000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20566
+25,sex 14/03/2003,15:00,Mainz,Greuther Fürth,4-3-3 ofensivo,Jürgen Klopp,11500,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20602
+26,seg 24/03/2003,16:15,Colônia,Mainz,4-3-3 ofensivo,Jürgen Klopp,27000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20668
+27,sex 04/04/2003,14:00,Mainz,W. Burghausen,4-3-3 ofensivo,Jürgen Klopp,13500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20687
+28,sex 11/04/2003,14:00,Karlsruher,Mainz,4-3-3 ofensivo,Jürgen Klopp,10500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20731
+29,seg 21/04/2003,15:15,Mainz,MSV Duisburg,4-3-3 ofensivo,Jürgen Klopp,12700,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20779
+30,dom 27/04/2003,10:00,Alem. Aachen,Mainz,4-3-3 ofensivo,Jürgen Klopp,10658,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20814
+31,seg 05/05/2003,15:15,Mainz,Frankfurt,4-3-3 ofensivo,Jürgen Klopp,18700,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20858
+32,seg 12/05/2003,15:15,LR Ahlen,Mainz,4-3-3 ofensivo,Jürgen Klopp,6142,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20896
+33,dom 18/05/2003,10:00,Mainz,VfB Lübeck,4-3-3 ofensivo,Jürgen Klopp,18700,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20924
+34,dom 25/05/2003,10:00,E. Braunschweig,Mainz,4-3-3 ofensivo,Jürgen Klopp,23500,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20971

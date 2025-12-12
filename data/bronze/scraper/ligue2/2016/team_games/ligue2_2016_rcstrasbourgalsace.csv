@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 29/07/2016,15:00,Bourg-en-Bresse,Strasbourg,4-3-1-2,Thierry Laurey,2520,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2701714
+2,sáb 06/08/2016,10:00,Strasbourg,Amiens SC,4-3-1-2,Thierry Laurey,16009,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726294
+3,sex 12/08/2016,15:00,Tours FC,Strasbourg,4-3-1-2,Thierry Laurey,4003,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726302
+4,sex 19/08/2016,15:00,Strasbourg,Nîmes Olympique,4-3-1-2,Thierry Laurey,16522,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726314
+5,sex 26/08/2016,15:00,G. Ajaccio,Strasbourg,4-3-1-2,Thierry Laurey,3493,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726317
+6,seg 12/09/2016,15:30,Strasbourg,Troyes,4-3-1-2,Thierry Laurey,14534,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2746845
+7,sex 16/09/2016,15:00,US Orléans,Strasbourg,4-2-3-1,Thierry Laurey,3891,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2747207
+8,seg 19/09/2016,15:30,Strasbourg,Red Star FC,4-3-1-2,Thierry Laurey,13015,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2747231
+9,sex 23/09/2016,15:00,Clermont Foot,Strasbourg,4-3-1-2,Thierry Laurey,2853,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2747236
+10,sáb 01/10/2016,10:00,Strasbourg,Valenciennes,4-3-1-2,Thierry Laurey,14579,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2747251
+11,sáb 15/10/2016,10:00,Brest,Strasbourg,4-3-1-2,Thierry Laurey,7311,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2747256
+12,sex 21/10/2016,16:00,Strasbourg,Auxerre,4-3-1-2,Thierry Laurey,16133,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2747270
+13,sáb 29/10/2016,11:00,FC Sochaux,Strasbourg,4-3-1-2,Thierry Laurey,16037,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2761182
+14,sáb 05/11/2016,12:00,Strasbourg,Reims,4-3-3 ofensivo,Thierry Laurey,15578,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2761191
+15,sex 18/11/2016,17:00,AC Ajaccio,Strasbourg,4-1-4-1,Thierry Laurey,2583,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2761194
+16,sex 25/11/2016,17:00,Strasbourg,Stade Lavallois,4-3-1-2,Thierry Laurey,12017,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2761211
+17,ter 29/11/2016,18:00,Le Havre,Strasbourg,4-3-3 ofensivo,Thierry Laurey,7038,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2761219
+18,sáb 10/12/2016,12:00,Strasbourg,Lens,4-3-1-2,Thierry Laurey,22062,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2761231
+19,sex 16/12/2016,17:00,Strasbourg,Chamois Niort,4-3-3 ofensivo,Thierry Laurey,13630,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2761243
+20,sáb 14/01/2017,12:00,Amiens SC,Strasbourg,4-1-4-1,Thierry Laurey,6844,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2761254
+22,sex 27/01/2017,17:00,Nîmes Olympique,Strasbourg,4-3-1-2,Thierry Laurey,4827,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2761278
+23,sex 03/02/2017,17:00,Strasbourg,G. Ajaccio,4-3-3 ofensivo,Thierry Laurey,12531,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2761293
+24,ter 07/02/2017,18:00,Troyes,Strasbourg,4-1-4-1,Thierry Laurey,156,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2761302
+25,seg 13/02/2017,16:00,Strasbourg,US Orléans,4-3-1-2,Thierry Laurey,12055,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2761313
+26,sex 17/02/2017,17:00,Red Star FC,Strasbourg,4-3-3 ofensivo,Thierry Laurey,6538,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2761320
+26,ter 21/02/2017,14:30,Strasbourg,Tours FC,4-3-1-2,Thierry Laurey,13335,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2761273
+27,sex 24/02/2017,16:00,Strasbourg,Clermont Foot,4-3-1-2,Thierry Laurey,13714,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2761374
+28,seg 06/03/2017,16:45,Valenciennes,Strasbourg,4-3-3 ofensivo,Thierry Laurey,8156,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2761399
+29,sáb 11/03/2017,11:00,Strasbourg,Brest,4-3-1-2,Thierry Laurey,17514,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2761415
+30,seg 20/03/2017,16:45,Auxerre,Strasbourg,4-3-1-2,Thierry Laurey,5935,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2761432
+31,seg 03/04/2017,15:45,Strasbourg,FC Sochaux,4-3-1-2,Thierry Laurey,22631,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2761462
+32,sáb 08/04/2017,10:00,Reims,Strasbourg,4-4-1-1,Thierry Laurey,11732,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2761479
+33,seg 17/04/2017,15:45,Strasbourg,AC Ajaccio,4-3-1-2,Thierry Laurey,24238,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2761517
+34,sex 21/04/2017,15:00,Stade Lavallois,Strasbourg,4-3-1-2,Thierry Laurey,6063,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2761552
+35,sex 28/04/2017,15:00,Strasbourg,Le Havre,4-3-1-2,Thierry Laurey,25647,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2761593
+36,seg 08/05/2017,15:45,Lens,Strasbourg,4-3-1-2,Thierry Laurey,38033,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2761602
+37,sex 12/05/2017,15:30,Chamois Niort,Strasbourg,4-4-1-1,Thierry Laurey,5620,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2761610
+38,sex 19/05/2017,15:30,Strasbourg,Bourg-en-Bresse,4-3-1-2,Thierry Laurey,27503,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2761625

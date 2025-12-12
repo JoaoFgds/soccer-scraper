@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 04/08/2024,08:30,Greuther Fürth,Pr. Münster,5-3-2,Alexander Zorniger,12664,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373306
+2,sex 09/08/2024,13:30,K'lautern,Greuther Fürth,5-3-2,Alexander Zorniger,41623,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373334
+3,sáb 24/08/2024,08:00,Greuther Fürth,Paderborn,5-3-2,Alexander Zorniger,10261,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373351
+4,sex 30/08/2024,13:30,J. Regensburg,Greuther Fürth,5-3-2,Alexander Zorniger,13105,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373364
+5,dom 15/09/2024,08:30,Greuther Fürth,SV Elversberg,5-3-2,Alexander Zorniger,10877,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373379
+6,sáb 21/09/2024,08:00,E. Braunschweig,Greuther Fürth,5-3-2,Alexander Zorniger,19018,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373399
+7,sex 27/09/2024,13:30,Greuther Fürth,Düsseldorf,5-3-2,Alexander Zorniger,12405,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373414
+8,dom 06/10/2024,08:30,Magdeburgo,Greuther Fürth,5-3-2,Alexander Zorniger,22615,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373435
+9,dom 20/10/2024,08:30,Greuther Fürth,Nuremberg,5-3-2,Alexander Zorniger,16126,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373449
+10,sáb 26/10/2024,08:00,Schalke,Greuther Fürth,4-4-2 duplo 6,Leonhard Haas,60344,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373468
+11,sáb 02/11/2024,09:00,Greuther Fürth,Darmstadt 98,4-4-2 duplo 6,Leonhard Haas,11161,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373485
+12,sáb 09/11/2024,09:00,Colônia,Greuther Fürth,5-3-2,Leonhard Haas,49600,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373500
+13,sáb 23/11/2024,09:00,Greuther Fürth,Karlsruher,5-3-2,Jan Siewert,12143,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373522
+14,dom 01/12/2024,09:30,SSV Ulm 1846,Greuther Fürth,5-3-2,Jan Siewert,15599,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373544
+15,sáb 07/12/2024,09:00,Greuther Fürth,Hertha Berlim,5-3-2,Jan Siewert,12125,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373558
+16,dom 15/12/2024,09:30,Greuther Fürth,Hannover,5-3-2,Jan Siewert,12334,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373575
+17,sáb 21/12/2024,09:00,Hamburgo,Greuther Fürth,5-3-2,Jan Siewert,54786,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373600
+18,sáb 18/01/2025,09:00,Pr. Münster,Greuther Fürth,5-3-2,Jan Siewert,11791,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373624
+19,sex 24/01/2025,14:30,Greuther Fürth,K'lautern,5-3-2,Jan Siewert,13590,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373639
+20,dom 02/02/2025,09:30,Paderborn,Greuther Fürth,5-3-2,Jan Siewert,12310,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373655
+21,sex 07/02/2025,14:30,Greuther Fürth,J. Regensburg,5-3-2,Jan Siewert,12586,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373675
+22,sáb 15/02/2025,09:00,SV Elversberg,Greuther Fürth,5-3-2,Jan Siewert,8623,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373683
+23,dom 23/02/2025,09:30,Greuther Fürth,E. Braunschweig,5-3-2,Jan Siewert,11032,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373703
+24,sex 28/02/2025,14:30,Düsseldorf,Greuther Fürth,5-3-2,Jan Siewert,32598,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373716
+25,sáb 08/03/2025,09:00,Greuther Fürth,Magdeburgo,5-3-2,Jan Siewert,12930,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373737
+26,dom 16/03/2025,09:30,Nuremberg,Greuther Fürth,5-3-2,Jan Siewert,47300,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373758
+27,dom 30/03/2025,08:30,Greuther Fürth,Schalke,5-3-2,Jan Siewert,16126,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373773
+28,sáb 05/04/2025,08:00,Darmstadt 98,Greuther Fürth,5-3-2,Jan Siewert,16820,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373789
+29,sex 11/04/2025,13:30,Greuther Fürth,Colônia,5-3-2,Jan Siewert,15294,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373809
+30,dom 20/04/2025,08:30,Karlsruher,Greuther Fürth,5-3-2,Jan Siewert,26155,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373826
+31,sex 25/04/2025,13:30,Greuther Fürth,SSV Ulm 1846,5-3-2,Jan Siewert,14425,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373846
+32,dom 04/05/2025,08:30,Hertha Berlim,Greuther Fürth,5-3-2,Jan Siewert,48047,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373863
+33,dom 11/05/2025,08:30,Hannover,Greuther Fürth,5-3-2,Thomas Kleine,36500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373880
+34,dom 18/05/2025,10:30,Greuther Fürth,Hamburgo,5-3-2,Thomas Kleine,16126,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373899

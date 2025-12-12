@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 05/08/2023,14:00,USL Dunkerque,Troyes,4-3-3 ofensivo,Patrick Kisnorbo,4014,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095507
+2,sáb 12/08/2023,14:00,Troyes,Stade Lavallois,4-3-3 ofensivo,Patrick Kisnorbo,4997,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095515
+3,sáb 19/08/2023,14:00,Grenoble,Troyes,4-3-3 ofensivo,Patrick Kisnorbo,4425,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095528
+4,sáb 26/08/2023,14:00,SC Bastia,Troyes,4-3-3 ofensivo,Patrick Kisnorbo,12848,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095531
+5,sáb 02/09/2023,14:00,Troyes,QRM,4-3-3 ofensivo,Patrick Kisnorbo,4817,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095546
+6,sáb 16/09/2023,14:00,FC Annecy,Troyes,4-3-3 ofensivo,Patrick Kisnorbo,6349,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4148515
+7,sáb 23/09/2023,10:00,Troyes,Auxerre,4-3-3 ofensivo,Patrick Kisnorbo,9055,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095565
+8,ter 26/09/2023,15:45,Rodez AF,Troyes,4-3-3 ofensivo,Patrick Kisnorbo,2613,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095578
+9,sáb 30/09/2023,10:00,Troyes,Saint-Étienne,4-2-3-1,Patrick Kisnorbo,7378,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095586
+10,sáb 07/10/2023,14:00,Valenciennes,Troyes,4-2-3-1,Patrick Kisnorbo,5990,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095593
+11,sáb 21/10/2023,14:00,Troyes,Concarneau,4-2-3-1,Patrick Kisnorbo,5326,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095605
+12,sáb 28/10/2023,14:00,Paris FC,Troyes,4-2-3-1,Patrick Kisnorbo,3596,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095616
+13,sáb 04/11/2023,15:00,Troyes,SM Caen,4-2-3-1,Patrick Kisnorbo,4401,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095624
+14,sáb 11/11/2023,15:00,AC Ajaccio,Troyes,4-2-3-1,Patrick Kisnorbo,2702,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095630
+15,sáb 25/11/2023,15:00,Troyes,Guingamp,4-2-3-1,Patrick Kisnorbo,4817,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095644
+16,sáb 02/12/2023,11:00,Bordeaux,Troyes,4-2-3-1,Alou Diarra,19161,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095652
+17,ter 05/12/2023,16:45,Troyes,Amiens SC,4-2-3-1,Alou Diarra,4163,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095665
+18,sáb 16/12/2023,15:00,Troyes,Angers,4-2-3-1,David Guion,5039,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095676
+19,ter 19/12/2023,16:45,Pau FC,Troyes,4-4-2,David Guion,3153,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095682
+20,sáb 13/01/2024,15:00,Troyes,AC Ajaccio,4-1-4-1,David Guion,4220,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095695
+21,ter 23/01/2024,16:45,Concarneau,Troyes,4-1-4-1,David Guion,1184,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095707
+22,sáb 27/01/2024,15:00,SM Caen,Troyes,4-1-4-1,David Guion,13198,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095714
+23,sáb 03/02/2024,15:00,Troyes,Bordeaux,4-1-4-1,David Guion,6093,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095725
+24,seg 12/02/2024,16:45,Saint-Étienne,Troyes,4-1-4-1,David Guion,17075,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095732
+25,sáb 17/02/2024,15:00,Troyes,Grenoble,4-2-3-1,David Guion,4848,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095746
+26,sáb 24/02/2024,15:00,Troyes,USL Dunkerque,4-2-3-1,David Guion,4926,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095755
+27,sáb 02/03/2024,15:00,Guingamp,Troyes,4-2-3-1,David Guion,8942,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095765
+28,sáb 09/03/2024,15:00,Troyes,SC Bastia,4-2-3-1,David Guion,5128,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095775
+29,sáb 16/03/2024,15:00,QRM,Troyes,4-2-3-1,David Guion,3898,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095787
+30,sáb 30/03/2024,15:00,Troyes,Rodez AF,4-2-3-1,David Guion,4752,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095794
+31,seg 08/04/2024,15:45,Auxerre,Troyes,4-2-3-1,David Guion,15776,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095804
+32,sáb 13/04/2024,14:00,Troyes,Paris FC,4-3-3 ofensivo,David Guion,6157,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095815
+33,sáb 20/04/2024,14:00,Angers,Troyes,4-1-4-1,David Guion,9468,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095823
+34,ter 23/04/2024,15:45,Troyes,Pau FC,4-2-3-1,David Guion,5767,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095835
+35,sáb 27/04/2024,14:00,Amiens SC,Troyes,4-2-3-1,David Guion,5967,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095839
+36,sex 03/05/2024,15:00,Troyes,Valenciennes,4-2-3-1,David Guion,7067,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095855
+37,sex 10/05/2024,15:45,Stade Lavallois,Troyes,4-2-3-1,David Guion,8005,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095865
+38,sex 17/05/2024,15:45,Troyes,FC Annecy,4-2-3-1,David Guion,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4148547

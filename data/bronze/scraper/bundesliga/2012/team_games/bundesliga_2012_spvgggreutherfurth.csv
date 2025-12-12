@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 25/08/2012,10:30,Greuther Fürth,Bayern,4-2-3-1,Michael Büskens,18000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2222543
+2,sex 31/08/2012,15:30,Mainz,Greuther Fürth,4-4-2 duplo 6,Michael Büskens,28237,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231388
+3,sáb 15/09/2012,13:30,Greuther Fürth,Schalke,4-4-2 duplo 6,Michael Büskens,18000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231422
+4,sáb 22/09/2012,10:30,Wolfsburg,Greuther Fürth,4-4-2 duplo 6,Michael Büskens,25552,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231409
+5,ter 25/09/2012,15:00,Greuther Fürth,Düsseldorf,4-4-2 duplo 6,Michael Büskens,16573,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231404
+6,sáb 29/09/2012,10:30,Leverkusen,Greuther Fürth,4-3-1-2,Michael Büskens,25798,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231407
+7,sáb 06/10/2012,10:30,Greuther Fürth,Hamburgo,4-4-2 duplo 6,Michael Büskens,18000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231431
+8,sex 19/10/2012,15:30,Hoffenheim,Greuther Fürth,4-4-2 duplo 6,Michael Büskens,22150,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231506
+9,sáb 27/10/2012,11:30,Greuther Fürth,Werder Bremen,4-4-2 duplo 6,Michael Büskens,18000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231484
+10,sex 02/11/2012,17:30,Frankfurt,Greuther Fürth,4-2-3-1,Michael Büskens,47400,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231476
+11,dom 11/11/2012,14:30,Greuther Fürth,M'gladbach,4-2-3-1,Michael Büskens,18000,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231482
+12,sáb 17/11/2012,12:30,Dortmund,Greuther Fürth,4-3-3 defensivo,Michael Büskens,80645,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231485
+13,sáb 24/11/2012,12:30,Greuther Fürth,Nuremberg,4-2-3-1,Michael Büskens,18000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231469
+14,ter 27/11/2012,17:00,Hannover,Greuther Fürth,4-2-3-1,Michael Büskens,32300,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231464
+15,sáb 01/12/2012,12:30,Greuther Fürth,Stuttgart,4-4-2 duplo 6,Michael Büskens,17443,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231455
+16,sáb 08/12/2012,12:30,Freiburg,Greuther Fürth,4-4-2 duplo 6,Michael Büskens,22600,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231510
+17,sáb 15/12/2012,12:30,Greuther Fürth,Augsburg,4-4-2 losango,Michael Büskens,16340,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231524
+18,sáb 19/01/2013,12:30,Bayern,Greuther Fürth,4-3-3 ofensivo,Michael Büskens,71000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231556
+19,sáb 26/01/2013,12:30,Greuther Fürth,Mainz,4-2-3-1,Michael Büskens,14425,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231532
+20,sáb 02/02/2013,12:30,Schalke,Greuther Fürth,4-4-2 duplo 6,Michael Büskens,60693,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231572
+21,sáb 09/02/2013,12:30,Greuther Fürth,Wolfsburg,4-4-2 duplo 6,Michael Büskens,15045,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231540
+22,sáb 16/02/2013,12:30,Düsseldorf,Greuther Fürth,4-4-2 duplo 6,Michael Büskens,37378,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231534
+23,dom 24/02/2013,13:30,Greuther Fürth,Leverkusen,4-1-4-1,Ludwig Preis,14635,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231608
+24,sáb 02/03/2013,11:30,Hamburgo,Greuther Fürth,4-1-4-1,Ludwig Preis,47206,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231591
+25,sáb 09/03/2013,11:30,Greuther Fürth,Hoffenheim,4-1-4-1,Ludwig Preis,15760,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231632
+26,sáb 16/03/2013,11:30,Werder Bremen,Greuther Fürth,4-1-4-1,Frank Kramer,39786,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231615
+27,dom 31/03/2013,12:30,Greuther Fürth,Frankfurt,4-4-2 losango,Frank Kramer,18000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231651
+28,sáb 06/04/2013,10:30,M'gladbach,Greuther Fürth,4-4-2 duplo 6,Frank Kramer,50206,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231652
+29,sáb 13/04/2013,10:30,Greuther Fürth,Dortmund,4-4-2 duplo 6,Frank Kramer,18000,1:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231587
+30,dom 21/04/2013,12:30,Nuremberg,Greuther Fürth,4-2-3-1,Frank Kramer,50000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231574
+31,sex 26/04/2013,15:30,Greuther Fürth,Hannover,4-2-3-1,Frank Kramer,15370,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231630
+32,sáb 04/05/2013,10:30,Stuttgart,Greuther Fürth,4-2-3-1,Frank Kramer,48300,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231678
+33,sáb 11/05/2013,10:30,Greuther Fürth,Freiburg,4-4-2 duplo 6,Frank Kramer,16735,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231666
+34,sáb 18/05/2013,10:30,Augsburg,Greuther Fürth,4-1-4-1,Frank Kramer,30112,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231654

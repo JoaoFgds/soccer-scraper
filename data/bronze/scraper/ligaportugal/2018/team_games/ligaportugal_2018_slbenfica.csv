@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 10/08/2018,16:30,Benfica,Vit. Guimarães,4-1-4-1,Rui Vitória,55219,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069374
+2,sáb 18/08/2018,15:00,Boavista,Benfica,4-1-4-1,Rui Vitória,15189,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069389
+3,sáb 25/08/2018,15:00,Benfica,Sporting,4-1-4-1,Rui Vitória,60486,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069397
+4,dom 02/09/2018,14:30,Nacional,Benfica,4-1-4-1,Rui Vitória,4793,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069404
+5,dom 23/09/2018,14:30,Benfica,CD Aves,4-1-4-1,Rui Vitória,53606,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069415
+6,qui 27/09/2018,17:15,Chaves,Benfica,4-1-4-1,Rui Vitória,7783,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069431
+7,dom 07/10/2018,13:30,Benfica,FC Porto,4-2-3-1,Rui Vitória,61567,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069444
+8,sáb 27/10/2018,16:30,B SAD,Benfica,4-1-4-1,Rui Vitória,10635,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069461
+9,sex 02/11/2018,17:30,Benfica,Moreirense,4-1-4-1,Rui Vitória,47216,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069472
+10,dom 11/11/2018,15:30,CD Tondela,Benfica,4-1-4-1,Rui Vitória,4755,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069487
+11,sáb 01/12/2018,16:00,Benfica,Feirense,4-1-4-1,Rui Vitória,44547,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069497
+12,sáb 08/12/2018,18:30,Vitória FC,Benfica,4-1-4-1,Rui Vitória,9300,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069500
+13,dom 16/12/2018,15:30,Marítimo,Benfica,4-1-4-1,Rui Vitória,9830,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069513
+14,dom 23/12/2018,15:30,Benfica,Braga,4-1-4-1,Rui Vitória,57842,6:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069526
+15,qua 02/01/2019,18:15,Portimonense,Benfica,4-1-4-1,Rui Vitória,5884,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069530
+16,dom 06/01/2019,15:30,Benfica,Rio Ave,4-4-1-1,Bruno Lage,49281,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069543
+17,sex 11/01/2019,17:00,Santa Clara,Benfica,4-4-1-1,Bruno Lage,10000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069546
+18,sex 18/01/2019,19:15,Vit. Guimarães,Benfica,4-4-1-1,Bruno Lage,22841,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069560
+19,ter 29/01/2019,17:00,Benfica,Boavista,4-4-1-1,Bruno Lage,41352,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069572
+20,dom 03/02/2019,15:30,Sporting,Benfica,4-4-1-1,Bruno Lage,45503,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069578
+21,dom 10/02/2019,15:30,Benfica,Nacional,4-4-1-1,Bruno Lage,54810,10:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069587
+22,seg 18/02/2019,17:15,CD Aves,Benfica,4-4-1-1,Bruno Lage,5159,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069595
+23,seg 25/02/2019,18:15,Benfica,Chaves,4-4-1-1,Bruno Lage,46897,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069603
+24,sáb 02/03/2019,17:30,FC Porto,Benfica,4-4-2 duplo 6,Bruno Lage,49220,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069616
+25,seg 11/03/2019,17:15,Benfica,B SAD,4-4-2 duplo 6,Bruno Lage,52158,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069625
+26,dom 17/03/2019,14:30,Moreirense,Benfica,4-4-1-1,Bruno Lage,5510,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069634
+27,sáb 30/03/2019,17:30,Benfica,CD Tondela,4-4-1-1,Bruno Lage,56594,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069644
+28,dom 07/04/2019,13:30,Feirense,Benfica,4-4-1-1,Bruno Lage,5449,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069652
+29,dom 14/04/2019,16:00,Benfica,Vitória FC,4-4-1-1,Bruno Lage,56463,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069657
+30,seg 22/04/2019,16:15,Benfica,Marítimo,4-4-1-1,Bruno Lage,52224,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069664
+31,dom 28/04/2019,13:30,Braga,Benfica,4-4-1-1,Bruno Lage,24046,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069677
+32,sáb 04/05/2019,14:00,Benfica,Portimonense,4-4-1-1,Bruno Lage,60677,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069685
+33,dom 12/05/2019,16:00,Rio Ave,Benfica,4-4-1-1,Bruno Lage,8836,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069696
+34,sáb 18/05/2019,14:30,Benfica,Santa Clara,4-4-1-1,Bruno Lage,64064,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069699

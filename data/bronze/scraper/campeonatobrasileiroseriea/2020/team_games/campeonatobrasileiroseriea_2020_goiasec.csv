@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qui 03/12/2020,19:00,Goiás,São Paulo,3-4-3 plano,Glauber Ramos,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3392046
+2,ter 11/08/2020,19:15,Athletico-PR,Goiás,4-2-3-1,Ney Franco,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3411141
+3,sáb 15/08/2020,21:30,Palmeiras,Goiás,4-2-3-1,Ney Franco,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416080
+4,qua 19/08/2020,20:30,Goiás,Fortaleza,4-3-3 ofensivo,Ney Franco,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416221
+5,sáb 22/08/2020,21:00,Goiás,Atlético-GO,4-3-3 defensivo,Glauber Ramos,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416102
+6,seg 30/11/2020,18:00,Grêmio,Goiás,4-2-3-1,Glauber Ramos,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417544
+7,qua 02/09/2020,19:15,Goiás,Corinthians,4-3-3 ofensivo,Thiago Larghi,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416120
+8,dom 06/09/2020,20:30,Sport,Goiás,4-3-3 ofensivo,Thiago Larghi,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416137
+9,qua 09/09/2020,18:00,Goiás,Coritiba,4-3-3 ofensivo,Thiago Larghi,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416163
+10,dom 13/09/2020,18:00,Goiás,Internacional,4-1-4-1,Thiago Larghi,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416241
+11,ter 13/10/2020,18:00,Flamengo,Goiás,4-3-3 ofensivo,Enderson Moreira,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417531
+12,dom 27/09/2020,18:15,Ceará,Goiás,4-1-4-1,Thiago Larghi,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417553
+13,dom 04/10/2020,18:15,Goiás,Santos,4-1-4-1,Enderson Moreira,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417564
+14,qua 07/10/2020,20:30,Goiás,Fluminense,4-3-3 defensivo,Enderson Moreira,x,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417574
+15,sáb 10/10/2020,21:00,Atlético-MG,Goiás,4-2-3-1,Enderson Moreira,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417579
+16,sex 16/10/2020,20:00,Goiás,Bahia,4-2-3-1,Enderson Moreira,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417594
+17,seg 19/10/2020,20:00,Botafogo,Goiás,4-2-3-1,Enderson Moreira,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417596
+18,sáb 24/10/2020,17:00,Bragantino,Goiás,4-2-3-1,Enderson Moreira,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417608
+19,dom 01/11/2020,20:30,Goiás,Vasco da Gama,4-2-3-1,Enderson Moreira,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417624
+20,sáb 07/11/2020,17:00,São Paulo,Goiás,4-2-3-1,Enderson Moreira,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417634
+21,sáb 14/11/2020,17:00,Goiás,Athletico-PR,4-2-3-1,Enderson Moreira,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417642
+22,sáb 21/11/2020,20:00,Goiás,Palmeiras,4-2-3-1,Glauber Ramos,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417658
+23,qui 26/11/2020,19:00,Fortaleza,Goiás,4-2-3-1,Glauber Ramos,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417674
+24,seg 07/12/2020,19:00,Atlético-GO,Goiás,4-2-3-1,Glauber Ramos,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417654
+25,sáb 12/12/2020,21:00,Goiás,Grêmio,3-5-2,Glauber Ramos,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417680
+26,seg 21/12/2020,19:00,Corinthians,Goiás,5-3-2,Glauber Ramos,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417704
+27,sáb 26/12/2020,19:00,Goiás,Sport,5-3-2,Glauber Ramos,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417692
+28,qua 06/01/2021,19:30,Coritiba,Goiás,5-3-2,Glauber Ramos,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417508
+29,dom 10/01/2021,17:15,Internacional,Goiás,5-3-2,Glauber Ramos,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417516
+30,seg 18/01/2021,20:00,Goiás,Flamengo,3-5-2,Glauber Ramos,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417530
+31,qui 21/01/2021,19:00,Goiás,Ceará,3-1-4-2,Glauber Ramos,x,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417714
+32,dom 24/01/2021,18:15,Santos,Goiás,5-3-2,Glauber Ramos,x,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417814
+33,dom 31/01/2021,20:30,Fluminense,Goiás,4-3-3 defensivo,Glauber Ramos,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418066
+34,qua 03/02/2021,21:30,Goiás,Atlético-MG,5-3-2,Glauber Ramos,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418085
+35,sáb 06/02/2021,18:00,Bahia,Goiás,3-5-2,Glauber Ramos,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418092
+36,sáb 13/02/2021,17:00,Goiás,Botafogo,4-4-2,Glauber Ramos,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418105
+37,dom 21/02/2021,20:30,Goiás,Bragantino,3-5-2,Glauber Ramos,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418115
+38,qui 25/02/2021,21:30,Vasco da Gama,Goiás,4-4-2 duplo 6,Glauber Ramos,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418117

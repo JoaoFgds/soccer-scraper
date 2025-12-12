@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 10/08/2002,10:30,Stuttgart,K'lautern,3-5-2,Felix Magath,28000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19073
+2,sáb 17/08/2002,10:30,Hertha Berlim,Stuttgart,4-1-4-1,Felix Magath,49202,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19077
+3,sáb 24/08/2002,10:30,Dortmund,Stuttgart,4-3-3 ofensivo,Felix Magath,66000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19092
+4,qua 11/09/2002,15:00,Stuttgart,Schalke,4-5-1,Felix Magath,26500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19103
+5,sáb 14/09/2002,10:30,M'gladbach,Stuttgart,4-2-3-1,Felix Magath,27700,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19109
+6,dom 22/09/2002,12:30,Stuttgart,Arm. Bielefeld,3-4-2-1,Felix Magath,17500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19121
+7,sáb 28/09/2002,10:30,Hamburgo,Stuttgart,4-3-3 defensivo,Felix Magath,36740,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19126
+8,dom 06/10/2002,12:30,Stuttgart,1860 Munique,?,Felix Magath,23000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19138
+9,dom 20/10/2002,12:30,Nuremberg,Stuttgart,4-4-2 duplo 6,Felix Magath,29500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19147
+10,sáb 26/10/2002,10:30,Stuttgart,Energ. Cottbus,4-4-2 duplo 6,Felix Magath,23000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19149
+11,sáb 02/11/2002,11:30,Leverkusen,Stuttgart,4-5-1,Felix Magath,22500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19159
+12,sáb 09/11/2002,12:30,Stuttgart,Bochum,?,Felix Magath,21000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19169
+13,sáb 16/11/2002,12:30,Hansa Rostock,Stuttgart,?,Felix Magath,13800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19180
+14,sáb 23/11/2002,12:30,Stuttgart,Hannover,?,Felix Magath,46000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19188
+15,dom 01/12/2002,14:30,Werder Bremen,Stuttgart,4-4-2 losango,Felix Magath,28000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19202
+16,sáb 07/12/2002,12:30,Stuttgart,Bayern,?,Felix Magath,53400,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19207
+17,dom 15/12/2002,14:30,Wolfsburg,Stuttgart,4-5-1,Felix Magath,24147,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19219
+18,sáb 25/01/2003,12:30,K'lautern,Stuttgart,4-4-2 losango,Felix Magath,36692,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19226
+19,sáb 01/02/2003,12:30,Stuttgart,Hertha Berlim,?,Felix Magath,23000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19235
+20,dom 09/02/2003,14:30,Stuttgart,Dortmund,?,Felix Magath,43000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19247
+21,sáb 15/02/2003,12:30,Schalke,Stuttgart,4-4-2 losango,Felix Magath,60678,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19254
+22,dom 23/02/2003,13:30,Stuttgart,M'gladbach,4-4-2 losango,Felix Magath,25500,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19265
+23,dom 02/03/2003,13:30,Arm. Bielefeld,Stuttgart,4-4-2 losango,Felix Magath,22150,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19274
+24,sáb 08/03/2003,11:30,Stuttgart,Hamburgo,?,Felix Magath,37000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19279
+25,dom 16/03/2003,13:30,1860 Munique,Stuttgart,4-4-2 losango,Felix Magath,28000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19292
+26,dom 23/03/2003,13:30,Stuttgart,Nuremberg,4-4-2 losango,Felix Magath,35000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19301
+27,sáb 05/04/2003,10:30,Energ. Cottbus,Stuttgart,4-4-2 losango,Felix Magath,12597,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19302
+28,sáb 12/04/2003,10:30,Stuttgart,Leverkusen,4-4-2 losango,Felix Magath,44500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19311
+29,dom 20/04/2003,12:30,Bochum,Stuttgart,?,Felix Magath,25177,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19328
+30,sáb 26/04/2003,10:30,Stuttgart,Hansa Rostock,4-4-2 losango,Felix Magath,38000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19333
+31,sáb 03/05/2003,10:30,Hannover,Stuttgart,4-4-2 losango,Felix Magath,30724,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19341
+32,sáb 10/05/2003,10:30,Stuttgart,Werder Bremen,4-4-2 losango,Felix Magath,54300,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19351
+33,sáb 17/05/2003,10:30,Bayern,Stuttgart,4-2-3-1,Felix Magath,63000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19362
+34,sáb 24/05/2003,10:30,Stuttgart,Wolfsburg,4-2-3-1,Felix Magath,49000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19372

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 28/07/2023,15:30,Hamburgo,Schalke,4-3-3 ofensivo,Tim Walter,57000,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096273
+2,dom 06/08/2023,08:30,Karlsruher,Hamburgo,4-3-3 ofensivo,Tim Walter,33000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096286
+3,sáb 19/08/2023,15:30,Hamburgo,Hertha Berlim,4-3-3 ofensivo,Tim Walter,57000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096291
+4,sáb 26/08/2023,15:30,Hannover,Hamburgo,4-3-3 ofensivo,Tim Walter,49000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096305
+5,dom 03/09/2023,08:30,Hamburgo,Hansa Rostock,4-3-3 ofensivo,Tim Walter,57000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096309
+6,sáb 16/09/2023,08:00,SV Elversberg,Hamburgo,4-3-3 ofensivo,Tim Walter,10150,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096326
+7,sex 22/09/2023,13:30,VfL Osnabrück,Hamburgo,4-3-3 ofensivo,Tim Walter,15741,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096334
+8,sex 29/09/2023,13:30,Hamburgo,Düsseldorf,4-3-3 ofensivo,Tim Walter,56100,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096337
+9,sáb 07/10/2023,08:00,Wehen Wiesbaden,Hamburgo,4-3-3 ofensivo,Tim Walter,12100,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096353
+10,sáb 21/10/2023,08:00,Hamburgo,Greuther Fürth,4-3-3 ofensivo,Tim Walter,55800,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096354
+11,sáb 28/10/2023,15:30,K'lautern,Hamburgo,4-3-3 ofensivo,Tim Walter,49327,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096367
+12,sáb 04/11/2023,16:30,Hamburgo,Magdeburgo,4-3-3 ofensivo,Tim Walter,56800,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096372
+13,sáb 11/11/2023,09:00,Holstein Kiel,Hamburgo,4-3-3 ofensivo,Tim Walter,15034,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096385
+14,sex 24/11/2023,14:30,Hamburgo,E. Braunschweig,4-3-3 ofensivo,Tim Walter,55879,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096390
+15,sex 01/12/2023,14:30,St. Pauli,Hamburgo,4-3-3 ofensivo,Tim Walter,29153,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096401
+16,sáb 09/12/2023,09:00,Hamburgo,Paderborn,4-3-3 ofensivo,Tim Walter,52244,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096408
+17,sáb 16/12/2023,09:00,Nuremberg,Hamburgo,4-3-3 ofensivo,Tim Walter,41276,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096424
+18,sáb 20/01/2024,16:30,Schalke,Hamburgo,4-3-3 ofensivo,Tim Walter,61992,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096426
+19,dom 28/01/2024,09:30,Hamburgo,Karlsruher,4-3-3 ofensivo,Tim Walter,51776,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096439
+20,sáb 03/02/2024,16:30,Hertha Berlim,Hamburgo,4-3-3 ofensivo,Tim Walter,58013,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096444
+21,sex 09/02/2024,14:30,Hamburgo,Hannover,4-3-3 ofensivo,Tim Walter,57000,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096458
+22,sáb 17/02/2024,09:00,Hansa Rostock,Hamburgo,4-3-3 ofensivo,Merlin Polzin,27500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096462
+23,dom 25/02/2024,09:30,Hamburgo,SV Elversberg,4-3-3 ofensivo,Steffen Baumgart,54190,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096479
+24,dom 03/03/2024,09:30,Hamburgo,VfL Osnabrück,4-3-3 ofensivo,Steffen Baumgart,57000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096487
+25,sex 08/03/2024,14:30,Düsseldorf,Hamburgo,4-3-3 ofensivo,Steffen Baumgart,52000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096490
+26,dom 17/03/2024,09:30,Hamburgo,Wehen Wiesbaden,4-3-3 ofensivo,Steffen Baumgart,55523,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096506
+27,dom 31/03/2024,08:30,Greuther Fürth,Hamburgo,4-3-3 ofensivo,Steffen Baumgart,16126,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096507
+28,sáb 06/04/2024,08:00,Hamburgo,K'lautern,4-3-3 ofensivo,Steffen Baumgart,57000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096520
+29,dom 14/04/2024,08:30,Magdeburgo,Hamburgo,4-3-3 ofensivo,Steffen Baumgart,27090,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096525
+30,sáb 20/04/2024,15:30,Hamburgo,Holstein Kiel,4-3-3 ofensivo,Steffen Baumgart,57000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096538
+31,sáb 27/04/2024,08:00,E. Braunschweig,Hamburgo,4-3-3 ofensivo,Steffen Baumgart,22167,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096543
+32,sex 03/05/2024,13:30,Hamburgo,St. Pauli,4-3-3 ofensivo,Steffen Baumgart,57000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096554
+33,sex 10/05/2024,13:30,Paderborn,Hamburgo,4-3-3 ofensivo,Steffen Baumgart,15000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096561
+34,dom 19/05/2024,10:30,Hamburgo,Nuremberg,4-3-3 ofensivo,Steffen Baumgart,57000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096577

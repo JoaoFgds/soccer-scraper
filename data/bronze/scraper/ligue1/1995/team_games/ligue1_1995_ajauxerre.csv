@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qua 19/07/1995,15:00,Nantes,Auxerre,4-3-3 defensivo,Guy Roux,30000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011252
+2,qua 26/07/1995,15:00,Auxerre,FC Gueugnon,?,Guy Roux,8500,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011263
+3,sáb 05/08/1995,15:00,Monaco,Auxerre,4-3-3 defensivo,Guy Roux,8000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011268
+4,qua 09/08/1995,15:00,Auxerre,Lens,?,Guy Roux,13000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011279
+5,sáb 19/08/1995,15:00,Montpellier,Auxerre,?,Guy Roux,13735,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011288
+6,sáb 26/08/1995,15:00,Auxerre,Cannes,?,Guy Roux,9000,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011305
+7,ter 29/08/1995,15:00,Le Havre,Auxerre,?,Guy Roux,10155,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011311
+8,sáb 09/09/1995,15:00,Auxerre,Strasbourg,?,Guy Roux,10000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011320
+9,sáb 16/09/1995,15:00,Lyon,Auxerre,?,Guy Roux,23211,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011327
+10,sex 22/09/1995,15:00,Auxerre,Rennes,?,Guy Roux,16882,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011339
+11,sáb 30/09/1995,16:00,FC Metz,Auxerre,?,Guy Roux,23509,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011346
+12,qua 04/10/1995,16:00,FC Martigues,Auxerre,?,Guy Roux,3500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011360
+13,sáb 14/10/1995,16:00,Auxerre,Nice,?,Guy Roux,7000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011368
+14,dom 22/10/1995,17:00,PSG,Auxerre,?,Guy Roux,36167,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011385
+15,sex 27/10/1995,17:00,Auxerre,Lille,?,Guy Roux,6000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011388
+16,sáb 04/11/1995,17:00,Bordeaux,Auxerre,?,Guy Roux,16028,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011398
+17,qua 08/11/1995,17:00,Auxerre,SC Bastia,?,Guy Roux,5000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011409
+18,dom 19/11/1995,17:00,Saint-Étienne,Auxerre,?,Guy Roux,10003,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011425
+19,sáb 25/11/1995,17:00,Auxerre,Guingamp,?,Guy Roux,10000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011446
+20,qui 30/11/1995,17:00,FC Gueugnon,Auxerre,?,Guy Roux,8091,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011463
+21,sáb 09/12/1995,17:00,Auxerre,Monaco,?,Guy Roux,9000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011474
+22,sáb 16/12/1995,17:00,Lens,Auxerre,?,Guy Roux,23050,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011484
+23,qua 10/01/1996,17:00,Auxerre,Montpellier,?,Guy Roux,4800,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011497
+24,sáb 20/01/1996,17:00,Cannes,Auxerre,?,Guy Roux,5000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011505
+25,sáb 27/01/1996,17:00,Auxerre,Le Havre,?,Guy Roux,6000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011514
+26,ter 05/03/1996,16:00,Strasbourg,Auxerre,?,Guy Roux,15862,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011530
+27,sáb 10/02/1996,17:00,Auxerre,Lyon,?,Guy Roux,9000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011533
+28,sáb 17/02/1996,16:00,Rennes,Auxerre,?,Guy Roux,16882,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011545
+29,ter 27/02/1996,16:00,Auxerre,FC Metz,?,Guy Roux,12000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011555
+30,sáb 02/03/1996,16:00,Auxerre,FC Martigues,?,Guy Roux,6000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011566
+31,sáb 09/03/1996,16:00,Nice,Auxerre,?,Guy Roux,4756,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011573
+32,dom 24/03/1996,16:00,Auxerre,PSG,4-3-3 defensivo,Guy Roux,20000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011592
+33,sáb 30/03/1996,16:00,Lille,Auxerre,?,Guy Roux,10000,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011593
+34,ter 09/04/1996,15:00,Auxerre,Bordeaux,?,Guy Roux,18000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011604
+35,sáb 20/04/1996,15:00,SC Bastia,Auxerre,?,Guy Roux,6000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011613
+36,sex 26/04/1996,15:00,Auxerre,Saint-Étienne,?,Guy Roux,13000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011623
+37,sáb 11/05/1996,15:00,Guingamp,Auxerre,?,Guy Roux,15789,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011633
+38,sáb 18/05/1996,15:00,Auxerre,Nantes,?,Guy Roux,20306,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011643

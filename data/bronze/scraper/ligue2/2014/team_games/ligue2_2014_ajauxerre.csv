@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 01/08/2014,15:00,Auxerre,Le Havre,4-3-3 ofensivo,Jean-Luc Vannuchi,5986,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2477748
+2,sex 08/08/2014,15:00,Clermont Foot,Auxerre,4-3-3 ofensivo,Jean-Luc Vannuchi,3737,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2481150
+3,sex 15/08/2014,15:00,Auxerre,US Orléans,4-3-3 ofensivo,Jean-Luc Vannuchi,6900,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2484015
+4,sáb 23/08/2014,09:00,Dijon,Auxerre,4-4-2,Jean-Luc Vannuchi,10069,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2486945
+5,sex 29/08/2014,15:00,Auxerre,Valenciennes,4-3-3 ofensivo,Jean-Luc Vannuchi,5438,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2486946
+6,seg 15/09/2014,15:30,Troyes,Auxerre,4-1-4-1,Jean-Luc Vannuchi,8810,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2490412
+7,sex 19/09/2014,15:00,Auxerre,AC Ajaccio,4-2-3-1,Jean-Luc Vannuchi,4968,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2490422
+8,ter 23/09/2014,15:55,Angers,Auxerre,4-2-3-1,Jean-Luc Vannuchi,6358,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2490433
+9,sex 26/09/2014,15:00,Auxerre,AC Arles-Avignon,4-2-3-1,Jean-Luc Vannuchi,4522,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2495647
+10,sex 03/10/2014,15:00,FC Sochaux,Auxerre,4-2-3-1,Jean-Luc Vannuchi,11269,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2495666
+11,sex 17/10/2014,15:00,Auxerre,AS Nancy,4-2-3-1,Jean-Luc Vannuchi,5667,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2501073
+12,sex 24/10/2014,16:00,Nîmes Olympique,Auxerre,4-2-3-1,Jean-Luc Vannuchi,5557,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2501086
+13,sex 31/10/2014,17:00,Auxerre,Brest,4-2-3-1,Jean-Luc Vannuchi,6180,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2502486
+14,sex 07/11/2014,17:00,Tours FC,Auxerre,4-2-3-1,Jean-Luc Vannuchi,4469,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2507089
+15,sex 21/11/2014,17:00,Auxerre,LB Châteauroux,4-2-3-1,Jean-Luc Vannuchi,6770,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2507093
+16,sex 28/11/2014,17:00,Stade Lavallois,Auxerre,4-2-3-1,Jean-Luc Vannuchi,4918,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2507105
+17,sex 12/12/2014,17:00,G. Ajaccio,Auxerre,4-2-3-1,Jean-Luc Vannuchi,2143,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2511722
+18,sex 19/12/2014,17:00,Auxerre,Chamois Niort,4-2-3-1,Jean-Luc Vannuchi,7870,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2511727
+19,sex 09/01/2015,17:00,US Créteil-L,Auxerre,4-2-3-1,Jean-Luc Vannuchi,2765,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2520763
+20,sex 16/01/2015,17:00,Auxerre,Clermont Foot,4-2-3-1,Jean-Luc Vannuchi,4243,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2520777
+21,sex 23/01/2015,17:00,US Orléans,Auxerre,4-3-1-2,Jean-Luc Vannuchi,4198,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2520782
+22,sáb 31/01/2015,11:00,Auxerre,Dijon,4-3-1-2,Jean-Luc Vannuchi,7062,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2520800
+23,sex 06/02/2015,17:00,Valenciennes,Auxerre,4-3-1-2,Jean-Luc Vannuchi,6409,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2520801
+24,sex 13/02/2015,17:00,Auxerre,Troyes,4-3-1-2,Jean-Luc Vannuchi,7427,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2535715
+25,sex 20/02/2015,17:00,AC Ajaccio,Auxerre,4-3-1-2,Jean-Luc Vannuchi,4076,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2536868
+26,seg 02/03/2015,16:30,Auxerre,Angers,4-3-1-2,Jean-Luc Vannuchi,5412,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2535734
+27,seg 09/03/2015,16:00,AC Arles-Avignon,Auxerre,4-2-3-1,Jean-Luc Vannuchi,1407,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2538826
+28,sáb 14/03/2015,10:00,Auxerre,FC Sochaux,4-2-3-1,Jean-Luc Vannuchi,6756,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2538836
+29,seg 23/03/2015,16:30,AS Nancy,Auxerre,4-2-3-1,Jean-Luc Vannuchi,13573,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2538847
+30,sex 03/04/2015,15:00,Auxerre,Nîmes Olympique,4-2-3-1,Jean-Luc Vannuchi,4768,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547621
+31,sáb 11/04/2015,09:00,Brest,Auxerre,4-3-3 ofensivo,Jean-Luc Vannuchi,7346,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547632
+32,sex 17/04/2015,15:00,Auxerre,Tours FC,4-2-3-1,Jean-Luc Vannuchi,5936,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547643
+33,sex 24/04/2015,15:00,LB Châteauroux,Auxerre,4-2-3-1,Jean-Luc Vannuchi,6175,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547655
+34,ter 28/04/2015,15:30,Auxerre,Stade Lavallois,4-2-3-1,Jean-Luc Vannuchi,6079,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547662
+35,sex 01/05/2015,15:00,Auxerre,G. Ajaccio,4-4-2 duplo 6,Jean-Luc Vannuchi,5953,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547673
+36,sex 08/05/2015,15:00,Chamois Niort,Auxerre,4-2-3-1,Jean-Luc Vannuchi,7442,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547687
+37,sex 15/05/2015,15:30,Auxerre,US Créteil-L,4-4-1-1,Jean-Luc Vannuchi,7527,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547692
+38,sex 22/05/2015,15:30,Le Havre,Auxerre,4-2-3-1,Jean-Luc Vannuchi,9346,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547707

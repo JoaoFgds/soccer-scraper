@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 17/08/2013,14:00,Las Palmas,Deportivo,4-2-3-1,Fernando Vázquez,10132,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2348112
+2,sáb 24/08/2013,14:00,Deportivo,Córdoba,4-2-3-1,Fernando Vázquez,21000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2348122
+3,dom 01/09/2013,12:00,CE Sabadell,Deportivo,4-2-3-1,Fernando Vázquez,4612,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2348156
+4,dom 08/09/2013,07:00,Deportivo,Real Murcia,4-2-3-1,Fernando Vázquez,26000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2356750
+5,dom 15/09/2013,12:00,Real Sporting,Deportivo,4-4-2 duplo 6,Fernando Vázquez,16030,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2348181
+6,dom 22/09/2013,13:15,Deportivo,AD Alcorcón,4-4-2 duplo 6,Fernando Vázquez,23000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2348195
+7,dom 29/09/2013,07:00,Hércules CF,Deportivo,4-4-2 duplo 6,Fernando Vázquez,7000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2348468
+8,sáb 05/10/2013,13:15,Deportivo,Mirandés,4-2-3-1,Fernando Vázquez,23000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2348481
+9,dom 13/10/2013,07:00,Barcelona B,Deportivo,4-1-4-1,Fernando Vázquez,5580,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2348490
+10,dom 20/10/2013,08:00,Deportivo,Zaragoza,4-1-4-1,Fernando Vázquez,21000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2348499
+11,sáb 26/10/2013,16:00,Tenerife,Deportivo,4-1-4-1,Fernando Vázquez,7929,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350387
+12,dom 03/11/2013,15:15,Deportivo,RM Castilla,4-2-3-1,Fernando Vázquez,22000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350397
+13,dom 10/11/2013,09:00,Recr. Huelva,Deportivo,4-2-3-1,Fernando Vázquez,10732,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350413
+14,dom 17/11/2013,09:00,Deportivo,Mallorca,4-1-4-1,Fernando Vázquez,21000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350419
+15,dom 24/11/2013,15:15,Ponferradina,Deportivo,4-1-4-1,Fernando Vázquez,7000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350433
+16,sáb 30/11/2013,15:15,Deportivo,Lugo,4-1-4-1,Fernando Vázquez,30000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350436
+17,sáb 07/12/2013,15:15,Deportivo,Alavés,4-4-2 duplo 6,Fernando Vázquez,21000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350450
+18,dom 15/12/2013,09:00,Eibar,Deportivo,4-1-4-1,Fernando Vázquez,2100,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350465
+19,sáb 21/12/2013,15:00,Deportivo,Numância,4-1-4-1,Fernando Vázquez,22000,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350470
+20,dom 05/01/2014,15:15,Real Jaén,Deportivo,4-1-4-1,Fernando Vázquez,5000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350477
+21,sáb 11/01/2014,15:00,Deportivo,Girona,4-1-4-1,Fernando Vázquez,19000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350494
+22,dom 19/01/2014,09:00,Deportivo,Las Palmas,4-2-3-1,Fernando Vázquez,22000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350502
+23,sáb 25/01/2014,15:15,Córdoba,Deportivo,4-1-4-1,Fernando Vázquez,16536,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350512
+24,sáb 01/02/2014,17:00,Deportivo,CE Sabadell,4-2-3-1,Fernando Vázquez,16000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350531
+25,dom 09/02/2014,15:15,Real Murcia,Deportivo,4-4-2 duplo 6,Fernando Vázquez,7004,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2356771
+26,dom 16/02/2014,08:00,Deportivo,Real Sporting,4-2-3-1,Fernando Vázquez,32000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350569
+27,dom 23/02/2014,08:00,AD Alcorcón,Deportivo,4-2-3-1,Fernando Vázquez,4900,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350729
+28,dom 02/03/2014,14:15,Deportivo,Hércules CF,4-2-3-1,Fernando Vázquez,14000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350736
+29,sáb 08/03/2014,14:15,Mirandés,Deportivo,4-2-3-1,Fernando Vázquez,5412,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350749
+30,sáb 15/03/2014,16:00,Deportivo,Barcelona B,5-4-1 plano,Fernando Vázquez,19355,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350758
+31,dom 23/03/2014,08:00,Zaragoza,Deportivo,4-2-3-1,Fernando Vázquez,11000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350767
+32,sáb 29/03/2014,17:00,Deportivo,Tenerife,4-2-3-1,Fernando Vázquez,16813,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350777
+33,sáb 05/04/2014,13:15,RM Castilla,Deportivo,4-2-3-1,Fernando Vázquez,3670,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350787
+34,dom 13/04/2014,07:00,Deportivo,Recr. Huelva,4-1-4-1,Fernando Vázquez,18817,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350803
+35,dom 20/04/2014,07:00,Mallorca,Deportivo,4-1-4-1,Fernando Vázquez,7560,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350808
+36,sáb 26/04/2014,13:15,Deportivo,Ponferradina,4-1-4-1,Fernando Vázquez,20667,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350822
+37,sáb 03/05/2014,13:15,Lugo,Deportivo,4-2-3-1,Fernando Vázquez,7564,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350825
+38,dom 11/05/2014,13:15,Alavés,Deportivo,4-2-3-1,Fernando Vázquez,12114,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350839
+39,dom 18/05/2014,07:00,Deportivo,Eibar,4-2-3-1,Fernando Vázquez,26651,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350854
+40,dom 25/05/2014,15:00,Numância,Deportivo,4-1-4-1,Fernando Vázquez,5297,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350859
+41,sáb 31/05/2014,14:00,Deportivo,Real Jaén,4-1-4-1,Fernando Vázquez,33639,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350871
+42,sáb 07/06/2014,13:30,Girona,Deportivo,4-4-2 duplo 6,Fernando Vázquez,8846,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350883

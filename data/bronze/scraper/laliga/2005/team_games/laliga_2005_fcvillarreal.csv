@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 28/08/2005,14:00,Osasuna,Villarreal,4-4-2,Manuel Pellegrini,21000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37214
+2,dom 11/09/2005,14:00,Villarreal,Sevilla,4-4-2 duplo 6,Manuel Pellegrini,18000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37220
+3,dom 18/09/2005,12:00,Cádiz CF,Villarreal,4-4-2 duplo 6,Manuel Pellegrini,20000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/35971
+4,qua 21/09/2005,16:00,Villarreal,Celta de Vigo,4-4-2 duplo 6,Manuel Pellegrini,17000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37226
+5,sáb 24/09/2005,15:00,Espanyol,Villarreal,4-4-2 duplo 6,Manuel Pellegrini,16550,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37229
+6,dom 02/10/2005,12:00,Villarreal,Athletic Club,4-4-2 duplo 6,Manuel Pellegrini,17500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37236
+7,sáb 15/10/2005,13:00,Alavés,Villarreal,4-4-2 duplo 6,Manuel Pellegrini,13231,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/35866
+8,dom 23/10/2005,13:00,Villarreal,Mallorca,4-4-2 duplo 6,Manuel Pellegrini,17000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37248
+9,dom 30/10/2005,19:00,Atlético,Villarreal,?,Manuel Pellegrini,35000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/49107
+10,sáb 05/11/2005,20:00,Villarreal,Valencia,4-4-2 duplo 6,Manuel Pellegrini,18000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/49109
+11,qua 26/10/2005,16:00,Betis,Villarreal,4-4-2 duplo 6,Manuel Pellegrini,40000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/49090
+12,sáb 19/11/2005,16:00,Villarreal,Zaragoza,?,Manuel Pellegrini,19000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37261
+13,dom 27/11/2005,15:00,Deportivo,Villarreal,,Manuel Pellegrini,15000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37263
+14,dom 04/12/2005,17:00,Villarreal,Barcelona,4-2-3-1,Manuel Pellegrini,23000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37265
+15,sáb 10/12/2005,20:00,Real Sociedad,Villarreal,?,Manuel Pellegrini,20500,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37272
+16,dom 18/12/2005,15:00,Villarreal,Getafe,,Manuel Pellegrini,16000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37276
+17,qua 21/12/2005,18:00,Málaga CF,Villarreal,,Manuel Pellegrini,20000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37279
+18,dom 08/01/2006,17:00,Villarreal,Real Madrid,4-4-2 losango,Manuel Pellegrini,23000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37286
+19,dom 15/01/2006,15:00,Rac. Santander,Villarreal,?,Manuel Pellegrini,14117,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37288
+20,dom 22/01/2006,14:00,Villarreal,Osasuna,,Manuel Pellegrini,20000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37294
+21,dom 29/01/2006,14:00,Sevilla,Villarreal,,Manuel Pellegrini,36000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37296
+22,dom 05/02/2006,15:00,Villarreal,Cádiz CF,,Manuel Pellegrini,18000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37300
+23,dom 12/02/2006,15:00,Celta de Vigo,Villarreal,?,Manuel Pellegrini,16000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37303
+24,sáb 18/02/2006,16:00,Villarreal,Espanyol,4-3-1-2,Manuel Pellegrini,18000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37310
+25,dom 26/02/2006,14:00,Athletic Club,Villarreal,4-4-2 duplo 6,Manuel Pellegrini,38000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/35916
+26,dom 05/03/2006,15:00,Villarreal,Alavés,4-3-1-2,Manuel Pellegrini,18000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37318
+27,dom 12/03/2006,15:00,Mallorca,Villarreal,4-4-2 duplo 6,Manuel Pellegrini,17000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37325
+28,dom 19/03/2006,15:00,Villarreal,Atlético,4-4-2 duplo 6,Manuel Pellegrini,19000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37331
+29,qua 22/03/2006,15:00,Valencia,Villarreal,,Manuel Pellegrini,51000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37338
+30,dom 26/03/2006,13:00,Villarreal,Betis,,Manuel Pellegrini,18000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37341
+31,dom 02/04/2006,13:00,Zaragoza,Villarreal,4-4-2 duplo 6,Manuel Pellegrini,29000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37348
+32,dom 09/04/2006,13:00,Villarreal,Deportivo,4-4-2 duplo 6,Manuel Pellegrini,20000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37350
+33,dom 16/04/2006,13:00,Barcelona,Villarreal,4-4-2 duplo 6,Manuel Pellegrini,76200,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/36058
+34,dom 23/04/2006,13:00,Villarreal,Real Sociedad,?,Manuel Pellegrini,18000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37358
+35,dom 30/04/2006,13:00,Getafe,Villarreal,,Manuel Pellegrini,9200,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/36063
+36,qua 03/05/2006,15:00,Villarreal,Málaga CF,4-4-2 duplo 6,Manuel Pellegrini,22500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37363
+37,dom 07/05/2006,13:00,Real Madrid,Villarreal,4-4-2 duplo 6,Manuel Pellegrini,78000,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37365
+38,sáb 13/05/2006,17:00,Villarreal,Rac. Santander,4-4-2 duplo 6,Manuel Pellegrini,15000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37371

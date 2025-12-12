@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 15/04/2023,18:30,Athletico-PR,Goiás,4-2-3-1,Émerson Ávila,15329,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4055818
+2,dom 23/04/2023,19:00,Goiás,Corinthians,4-2-3-1,Émerson Ávila,10162,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4059111
+3,dom 30/04/2023,18:30,Internacional,Goiás,4-2-3-1,Émerson Ávila,29193,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060069
+4,dom 07/05/2023,18:30,Goiás,Palmeiras,4-2-3-1,Émerson Ávila,13789,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061497
+5,qua 10/05/2023,20:00,Flamengo,Goiás,4-2-3-1,Émerson Ávila,44948,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061433
+6,dom 14/05/2023,18:30,Goiás,Botafogo,4-3-3 ofensivo,Émerson Ávila,9092,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061517
+7,sáb 20/05/2023,16:00,Bahia,Goiás,4-4-2,Émerson Ávila,32519,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061411
+8,sáb 27/05/2023,21:00,São Paulo,Goiás,4-4-2 duplo 6,Émerson Ávila,45429,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061445
+9,dom 04/06/2023,18:30,Goiás,Cuiabá,4-2-3-1,Émerson Ávila,6987,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061417
+10,dom 11/06/2023,18:30,Goiás,Fluminense,4-5-1 plano,Émerson Ávila,10260,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061527
+11,qui 22/06/2023,20:00,Vasco da Gama,Goiás,4-5-1 plano,Armando Evangelista,17647,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061464
+12,dom 25/06/2023,18:30,Bragantino,Goiás,4-5-1 plano,Armando Evangelista,3798,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061507
+13,seg 03/07/2023,20:00,Goiás,Coritiba,4-2-3-1,Armando Evangelista,10394,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061557
+14,dom 09/07/2023,11:00,Santos,Goiás,4-2-3-1,Armando Evangelista,x,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061296
+15,seg 17/07/2023,20:00,Goiás,Atlético-MG,4-5-1 plano,Armando Evangelista,12303,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061427
+16,dom 23/07/2023,16:00,Cruzeiro,Goiás,4-2-3-1,Armando Evangelista,21688,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061545
+17,dom 30/07/2023,18:30,Goiás,Grêmio,4-3-3 ofensivo,Armando Evangelista,12311,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061542
+18,sáb 05/08/2023,18:30,Goiás,Fortaleza,4-3-3 ofensivo,Armando Evangelista,8384,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061277
+19,dom 13/08/2023,16:00,América-MG,Goiás,4-3-3 ofensivo,Armando Evangelista,2888,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061402
+20,seg 21/08/2023,20:00,Goiás,Athletico-PR,4-3-3 ofensivo,Armando Evangelista,8325,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061247
+21,sáb 26/08/2023,21:00,Corinthians,Goiás,4-3-3 ofensivo,Armando Evangelista,37316,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061386
+22,sáb 02/09/2023,16:00,Goiás,Internacional,4-3-3 ofensivo,Armando Evangelista,11038,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061287
+23,sex 15/09/2023,21:30,Palmeiras,Goiás,4-3-3 ofensivo,Armando Evangelista,38146,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061215
+24,qua 20/09/2023,19:00,Goiás,Flamengo,4-3-3 defensivo,Armando Evangelista,13799,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061257
+25,seg 02/10/2023,20:00,Botafogo,Goiás,4-3-3 ofensivo,Armando Evangelista,34294,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061374
+26,sáb 07/10/2023,16:00,Goiás,Bahia,3-4-3,Armando Evangelista,9001,4:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061267
+27,qua 18/10/2023,21:30,Goiás,São Paulo,4-3-3 ofensivo,Armando Evangelista,12685,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061347
+28,sáb 21/10/2023,18:30,Cuiabá,Goiás,4-3-3 ofensivo,Armando Evangelista,14956,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061332
+29,qua 25/10/2023,19:00,Fluminense,Goiás,4-3-3 ofensivo,Armando Evangelista,4793,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061453
+30,dom 29/10/2023,17:00,Goiás,Vasco da Gama,4-4-2,Armando Evangelista,12904,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061317
+31,qui 02/11/2023,18:00,Goiás,Bragantino,4-3-3 defensivo,Armando Evangelista,10182,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061237
+32,dom 05/11/2023,18:30,Coritiba,Goiás,4-3-3 defensivo,Armando Evangelista,12942,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061230
+33,qui 09/11/2023,19:00,Goiás,Santos,4-2-3-1,Armando Evangelista,11836,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061337
+34,dom 12/11/2023,18:30,Atlético-MG,Goiás,4-2-3-1,Armando Evangelista,29173,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061308
+35,seg 27/11/2023,20:00,Goiás,Cruzeiro,4-2-3-1,Mário Henrique,9143,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061357
+36,qui 30/11/2023,19:00,Grêmio,Goiás,4-3-3 ofensivo,Mário Henrique,38683,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061369
+37,dom 03/12/2023,18:30,Fortaleza,Goiás,4-1-4-1,Mário Henrique,50317,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061481
+38,qua 06/12/2023,19:00,Goiás,América-MG,4-1-4-1,Mário Henrique,1966,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061487

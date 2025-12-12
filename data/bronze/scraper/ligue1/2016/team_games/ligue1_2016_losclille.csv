@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 13/08/2016,15:00,FC Metz,Lille,4-3-3 ofensivo,Frédéric Antonetti,17174,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698558
+2,sáb 20/08/2016,15:00,Lille,Dijon,4-3-3 ofensivo,Frédéric Antonetti,25548,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2701602
+3,sáb 27/08/2016,15:00,Nice,Lille,4-2-3-1,Frédéric Antonetti,16355,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2701614
+4,sáb 10/09/2016,15:00,Lille,Monaco,4-2-3-1,Frédéric Antonetti,29373,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2701621
+5,sáb 17/09/2016,15:00,FC Lorient,Lille,4-3-3 ofensivo,Frédéric Antonetti,8926,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2701632
+6,ter 20/09/2016,14:00,Lille,Toulouse,4-3-3 ofensivo,Frédéric Antonetti,23323,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2701640
+7,dom 25/09/2016,10:00,Saint-Étienne,Lille,4-3-3 defensivo,Frédéric Antonetti,24700,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2701651
+8,sáb 01/10/2016,15:00,Lille,AS Nancy,4-2-3-1,Frédéric Antonetti,25719,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2701660
+9,sáb 15/10/2016,15:00,Guingamp,Lille,4-1-4-1,Frédéric Antonetti,12636,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2701679
+10,sáb 22/10/2016,16:00,Lille,SC Bastia,4-1-4-1,Frédéric Antonetti,25932,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702718
+11,sex 28/10/2016,16:45,Lille,PSG,4-5-1 plano,Frédéric Antonetti,37213,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702734
+12,sáb 05/11/2016,17:00,Angers,Lille,4-3-3 ofensivo,Frédéric Antonetti,9750,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702753
+13,sex 18/11/2016,17:45,Lille,Lyon,4-1-4-1,Frédéric Antonetti,28660,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702761
+14,sáb 26/11/2016,17:00,Nantes,Lille,4-2-3-1,Patrick Collot,18125,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702778
+15,ter 29/11/2016,16:00,Lille,SM Caen,4-3-3 defensivo,Patrick Collot,23216,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702784
+16,sáb 03/12/2016,17:00,Bordeaux,Lille,4-2-3-1,Patrick Collot,19250,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702791
+17,sáb 10/12/2016,17:00,Lille,Montpellier,4-3-3 defensivo,Patrick Collot,27391,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702804
+18,dom 18/12/2016,14:00,Marselha,Lille,4-3-3 defensivo,Patrick Collot,34697,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702814
+19,qua 21/12/2016,17:50,Lille,Rennes,4-3-3 defensivo,Patrick Collot,26181,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702823
+20,sex 13/01/2017,17:45,Lille,Saint-Étienne,4-3-3 defensivo,Patrick Collot,36879,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716696
+21,sáb 21/01/2017,17:00,Dijon,Lille,3-5-2,Patrick Collot,7828,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716708
+22,sáb 28/01/2017,14:00,Lyon,Lille,3-4-2-1,Patrick Collot,35479,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2717377
+23,sáb 04/02/2017,17:00,Lille,FC Lorient,4-3-3 defensivo,Patrick Collot,38153,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2735503
+24,ter 07/02/2017,18:00,PSG,Lille,3-4-3 plano,Patrick Collot,42885,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2735516
+25,sáb 11/02/2017,17:00,Lille,Angers,4-3-3 defensivo,Patrick Collot,25731,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2735524
+26,sáb 18/02/2017,17:00,SM Caen,Lille,4-2-3-1,Patrick Collot,15897,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2735539
+27,sáb 25/02/2017,16:00,Lille,Bordeaux,4-4-2 duplo 6,Patrick Collot,28772,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2735543
+28,dom 05/03/2017,13:00,Toulouse,Lille,4-3-3 ofensivo,Franck Passi,12621,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2735557
+29,sáb 11/03/2017,16:00,AS Nancy,Lille,4-3-3 defensivo,Franck Passi,17500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2735561
+30,sex 17/03/2017,16:45,Lille,Marselha,4-3-3 defensivo,Franck Passi,40485,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2735573
+31,sáb 01/04/2017,14:00,SC Bastia,Lille,4-2-3-1,Franck Passi,9908,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2735585
+32,sex 07/04/2017,15:45,Lille,Nice,4-3-3 defensivo,Franck Passi,32107,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2735594
+33,sáb 15/04/2017,15:00,Rennes,Lille,4-3-3 defensivo,Franck Passi,24056,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2735606
+34,sáb 22/04/2017,15:00,Lille,Guingamp,4-3-3 defensivo,Franck Passi,28848,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2735615
+35,sáb 29/04/2017,15:00,Montpellier,Lille,4-2-3-1,Franck Passi,10139,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2735621
+36,sáb 06/05/2017,15:00,Lille,FC Metz,4-3-3 defensivo,Franck Passi,28336,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2735634
+37,dom 14/05/2017,16:00,Monaco,Lille,4-2-3-1,Franck Passi,13152,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2735647
+38,sáb 20/05/2017,16:00,Lille,Nantes,4-3-3 defensivo,Franck Passi,28390,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2735653

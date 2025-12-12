@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 19/08/1994,15:00,Schalke,M'gladbach,3-5-2,Jörg Berger,68000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16621
+2,qua 24/08/1994,13:00,MSV Duisburg,Schalke,3-1-4-2,Jörg Berger,28000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16636
+3,sáb 27/08/1994,10:30,Schalke,Hamburgo,?,Jörg Berger,28200,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16644
+4,sáb 03/09/1994,10:30,1860 Munique,Schalke,3-5-2,Jörg Berger,35000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16655
+5,sáb 17/09/1994,10:30,Schalke,Colônia,3-4-2-1,Jörg Berger,39570,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16662
+6,sáb 24/09/1994,10:30,K'lautern,Schalke,3-5-2,Jörg Berger,38000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16670
+7,sáb 01/10/1994,11:30,Schalke,Frankfurt,3-5-2,Jörg Berger,33160,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16680
+8,sáb 08/10/1994,11:30,Dortmund,Schalke,3-5-2,Jörg Berger,42800,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16686
+9,sáb 15/10/1994,11:30,Schalke,Stuttgart,3-1-4-2,Jörg Berger,31590,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16700
+10,sáb 22/10/1994,12:30,Bayer 05,Schalke,3-1-4-2,Jörg Berger,21534,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16708
+11,sáb 29/10/1994,12:30,Leverkusen,Schalke,3-4-2-1,Jörg Berger,25800,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16717
+12,sex 04/11/1994,17:00,Schalke,Karlsruher,3-5-2,Jörg Berger,35610,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16719
+13,sáb 12/11/1994,12:30,Bayern,Schalke,3-4-2-1,Jörg Berger,50000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16732
+14,sex 18/11/1994,17:00,Schalke,Dynamo Dresden,3-1-4-2,Jörg Berger,23900,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16738
+15,sex 25/11/1994,17:00,Werder Bremen,Schalke,3-5-2 ofensivo,Jörg Berger,31940,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16746
+16,dom 04/12/1994,15:00,Schalke,Bochum,?,Jörg Berger,45000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16763
+17,sex 09/12/1994,16:30,Freiburg,Schalke,3-5-2,Jörg Berger,18000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16767
+18,sáb 18/02/1995,12:30,M'gladbach,Schalke,?,Jörg Berger,33400,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16779
+19,sáb 25/02/1995,11:30,Schalke,MSV Duisburg,?,Jörg Berger,40290,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16788
+20,sáb 04/03/1995,11:30,Hamburgo,Schalke,3-5-2 plano,Jörg Berger,21825,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16797
+21,dom 12/03/1995,14:00,Schalke,1860 Munique,3-5-2,Jörg Berger,36830,6:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16808
+22,sáb 18/03/1995,11:30,Colônia,Schalke,?,Jörg Berger,38000,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16816
+23,sáb 25/03/1995,11:30,Schalke,K'lautern,3-5-2 ofensivo,Jörg Berger,27900,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16822
+24,sex 31/03/1995,15:00,Frankfurt,Schalke,?,Jörg Berger,19000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16827
+25,sáb 08/04/1995,10:30,Schalke,Dortmund,3-5-2,Jörg Berger,70925,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16838
+26,sáb 15/04/1995,10:30,Stuttgart,Schalke,?,Jörg Berger,26000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16852
+27,sáb 22/04/1995,10:30,Schalke,Bayer 05,3-5-2,Jörg Berger,26730,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16862
+28,sáb 29/04/1995,10:30,Schalke,Leverkusen,3-5-2,Jörg Berger,29410,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16869
+29,sáb 06/05/1995,10:30,Karlsruher,Schalke,3-4-2-1,Jörg Berger,27000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16877
+30,dom 14/05/1995,13:00,Schalke,Bayern,3-5-2,Jörg Berger,68000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16889
+31,sáb 20/05/1995,10:30,Dynamo Dresden,Schalke,3-5-2,Jörg Berger,10500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16896
+32,sáb 27/05/1995,10:30,Schalke,Werder Bremen,4-4-2 líbero plano,Jörg Berger,40870,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16901
+33,sáb 10/06/1995,10:30,Bochum,Schalke,?,Jörg Berger,25000,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16916
+34,sáb 17/06/1995,10:30,Schalke,Freiburg,3-5-2,Jörg Berger,32030,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16919

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 26/08/2007,14:00,Mallorca,Levante,4-4-2 losango,Gregorio Manzano,18000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/78787
+2,dom 02/09/2007,15:00,Atlético,Mallorca,4-4-2 losango,Gregorio Manzano,40000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/78795
+3,dom 16/09/2007,12:00,Mallorca,Villarreal,4-4-2 losango,Gregorio Manzano,22000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/78807
+4,dom 23/09/2007,12:00,UD Almería,Mallorca,4-4-2 losango,Gregorio Manzano,13000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/78814
+5,qua 26/09/2007,15:00,Mallorca,Valladolid,4-4-2 losango,Gregorio Manzano,16000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/78827
+6,dom 30/09/2007,12:00,Betis,Mallorca,4-4-2 losango,Gregorio Manzano,34000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/78836
+7,dom 07/10/2007,12:00,Mallorca,Getafe,4-4-2 losango,Gregorio Manzano,20000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/78846
+8,dom 21/10/2007,13:00,Recr. Huelva,Mallorca,4-5-1,Gregorio Manzano,18000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/78861
+9,sáb 27/10/2007,15:00,Mallorca,Espanyol,4-5-1,Gregorio Manzano,18000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/78867
+10,qua 31/10/2007,17:00,Deportivo,Mallorca,4-4-2 losango,Gregorio Manzano,10000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/78877
+11,sáb 03/11/2007,17:00,Mallorca,Valencia,4-5-1,Gregorio Manzano,18000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/78888
+12,dom 11/11/2007,16:00,Real Madrid,Mallorca,4-5-1,Gregorio Manzano,78000,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/78899
+13,sáb 24/11/2007,17:00,Sevilla,Mallorca,4-5-1,Gregorio Manzano,40000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/78911
+14,dom 02/12/2007,14:00,Mallorca,Real Murcia,4-4-2 losango,Gregorio Manzano,21000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/78919
+15,dom 09/12/2007,14:00,Rac. Santander,Mallorca,4-4-2 losango,Gregorio Manzano,16160,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/78930
+16,dom 16/12/2007,14:00,Mallorca,Athletic Club,4-4-2 losango,Gregorio Manzano,21000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/78938
+17,dom 23/12/2007,14:00,Osasuna,Mallorca,4-5-1,Gregorio Manzano,15551,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/78949
+18,sáb 05/01/2008,17:00,Mallorca,Barcelona,4-5-1,Gregorio Manzano,19000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/78957
+19,dom 13/01/2008,14:00,Zaragoza,Mallorca,4-5-1,Gregorio Manzano,28000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/78973
+20,dom 20/01/2008,14:00,Levante,Mallorca,4-4-2 losango,Gregorio Manzano,10880,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/78979
+21,dom 27/01/2008,14:00,Mallorca,Atlético,4-4-2 losango,Gregorio Manzano,18000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/78987
+22,dom 03/02/2008,14:00,Villarreal,Mallorca,4-4-2 duplo 6,Gregorio Manzano,18000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79002
+23,dom 10/02/2008,14:00,Mallorca,UD Almería,4-4-2 losango,Gregorio Manzano,22000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79007
+24,dom 17/02/2008,13:00,Valladolid,Mallorca,4-4-2 losango,Gregorio Manzano,16400,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79021
+25,dom 24/02/2008,13:00,Mallorca,Betis,4-5-1,Gregorio Manzano,16000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79027
+26,dom 02/03/2008,13:00,Getafe,Mallorca,4-4-2 losango,Gregorio Manzano,13000,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79039
+27,dom 09/03/2008,13:00,Mallorca,Recr. Huelva,4-4-2 losango,Gregorio Manzano,14000,7:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79046
+28,dom 16/03/2008,13:00,Espanyol,Mallorca,4-4-2 duplo 6,Gregorio Manzano,20600,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79058
+29,sáb 22/03/2008,16:00,Mallorca,Deportivo,4-4-2 duplo 6,Gregorio Manzano,17000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79067
+30,dom 30/03/2008,12:00,Valencia,Mallorca,4-4-2 losango,Gregorio Manzano,40000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79081
+31,sáb 05/04/2008,17:00,Mallorca,Real Madrid,4-5-1,Gregorio Manzano,21000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79088
+32,dom 13/04/2008,12:00,Mallorca,Sevilla,4-4-2 losango,Gregorio Manzano,16000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79099
+33,dom 20/04/2008,12:00,Real Murcia,Mallorca,4-4-2 duplo 6,Gregorio Manzano,21012,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79108
+34,dom 27/04/2008,12:00,Mallorca,Rac. Santander,4-4-2 duplo 6,Gregorio Manzano,15000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79118
+35,dom 04/05/2008,12:00,Athletic Club,Mallorca,4-4-2 duplo 6,Gregorio Manzano,40000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79131
+36,qua 07/05/2008,15:00,Mallorca,Osasuna,4-4-2 duplo 6,Gregorio Manzano,11600,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79138
+37,dom 11/05/2008,16:00,Barcelona,Mallorca,4-4-2 duplo 6,Gregorio Manzano,39298,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79147
+38,dom 18/05/2008,14:00,Mallorca,Zaragoza,4-4-2 losango,Gregorio Manzano,17000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79157

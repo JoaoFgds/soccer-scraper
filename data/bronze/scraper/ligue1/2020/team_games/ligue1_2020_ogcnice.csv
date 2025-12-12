@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 23/08/2020,12:00,Nice,Lens,4-3-3 ofensivo,Patrick Vieira,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3393963
+2,sáb 29/08/2020,16:00,Strasbourg,Nice,4-3-3 ofensivo,Patrick Vieira,4374,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394574
+3,sáb 12/09/2020,12:00,Montpellier,Nice,4-3-3 ofensivo,Patrick Vieira,3252,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394586
+4,dom 20/09/2020,08:00,Nice,PSG,4-1-4-1,Patrick Vieira,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394593
+5,dom 27/09/2020,08:00,Bordeaux,Nice,4-2-3-1,Patrick Vieira,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394607
+6,sáb 03/10/2020,16:00,Nice,Nantes,4-2-3-1,Patrick Vieira,1000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394621
+7,dom 18/10/2020,12:00,Saint-Étienne,Nice,3-4-2-1,Patrick Vieira,1000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394629
+8,dom 25/10/2020,13:00,Nice,Lille,5-3-2,Patrick Vieira,1000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394636
+9,dom 01/11/2020,11:00,Angers,Nice,5-4-1 plano,Patrick Vieira,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394646
+10,dom 08/11/2020,13:00,Nice,Monaco,3-4-3 plano,Patrick Vieira,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394658
+11,qua 17/02/2021,17:00,Marselha,Nice,4-1-4-1,Adrian Ursea,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394669
+12,dom 29/11/2020,13:00,Nice,Dijon,4-1-4-1,Patrick Vieira,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394682
+13,dom 06/12/2020,13:00,Reims,Nice,3-4-3 plano,Adrian Ursea,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394689
+14,dom 13/12/2020,09:00,Nice,Rennes,3-4-2-1,Adrian Ursea,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394700
+15,qua 16/12/2020,15:00,Nîmes Olympique,Nice,3-4-3 plano,Adrian Ursea,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394704
+16,sáb 19/12/2020,17:00,Nice,Lyon,3-4-3 plano,Adrian Ursea,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394723
+17,qua 23/12/2020,15:00,Nice,FC Lorient,3-4-2-1,Adrian Ursea,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394726
+18,qua 06/01/2021,15:00,Brest,Nice,3-1-4-2,Adrian Ursea,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394739
+19,sáb 09/01/2021,17:00,FC Metz,Nice,3-1-4-2,Adrian Ursea,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394746
+20,dom 17/01/2021,11:00,Nice,Bordeaux,3-1-4-2,Adrian Ursea,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394755
+21,sáb 23/01/2021,13:00,Lens,Nice,3-1-4-2,Adrian Ursea,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394770
+22,dom 31/01/2021,09:00,Nice,Saint-Étienne,3-1-4-2,Adrian Ursea,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394781
+23,qua 03/02/2021,17:00,Monaco,Nice,4-1-4-1,Adrian Ursea,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394793
+24,dom 07/02/2021,11:00,Nice,Angers,4-3-3 ofensivo,Adrian Ursea,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394799
+25,sáb 13/02/2021,13:00,PSG,Nice,4-1-4-1,Adrian Ursea,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394806
+26,dom 21/02/2021,11:00,Nice,FC Metz,4-3-3 ofensivo,Adrian Ursea,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394819
+27,sex 26/02/2021,17:00,Rennes,Nice,4-4-2,Adrian Ursea,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394838
+28,qua 03/03/2021,15:00,Nice,Nîmes Olympique,4-1-4-1,Adrian Ursea,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394863
+29,dom 14/03/2021,11:00,FC Lorient,Nice,4-2-3-1,Adrian Ursea,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394887
+30,sáb 20/03/2021,13:00,Nice,Marselha,4-3-3 ofensivo,Adrian Ursea,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394902
+31,dom 04/04/2021,10:00,Nantes,Nice,4-3-3 ofensivo,Adrian Ursea,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394914
+32,dom 11/04/2021,10:00,Nice,Reims,4-3-3 ofensivo,Adrian Ursea,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394930
+33,dom 18/04/2021,10:00,Dijon,Nice,4-3-3 ofensivo,Adrian Ursea,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394936
+34,dom 25/04/2021,08:00,Nice,Montpellier,4-1-4-1,Adrian Ursea,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394951
+35,sáb 01/05/2021,16:00,Lille,Nice,4-1-4-1,Adrian Ursea,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394964
+36,dom 09/05/2021,10:00,Nice,Brest,4-1-4-1,Adrian Ursea,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394976
+37,dom 16/05/2021,16:00,Nice,Strasbourg,4-1-4-1,Adrian Ursea,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394988
+38,dom 23/05/2021,16:00,Lyon,Nice,4-1-4-1,Adrian Ursea,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394994

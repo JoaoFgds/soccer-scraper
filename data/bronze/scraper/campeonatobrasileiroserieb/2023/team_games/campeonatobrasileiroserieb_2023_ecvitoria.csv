@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 16/04/2023,18:00,Vitória,Ponte Preta,4-2-3-1,Léo Condé,20751,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4056139
+2,dom 23/04/2023,18:00,ABC,Vitória,4-2-3-1,Léo Condé,6570,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4059121
+3,sex 28/04/2023,19:00,Vitória,Londrina,4-2-3-1,Léo Condé,25235,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060053
+4,qua 10/05/2023,19:00,Ceará,Vitória,4-2-3-1,Léo Condé,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060969
+5,sex 05/05/2023,21:30,Botafogo-SP,Vitória,4-2-3-1,Léo Condé,3426,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060876
+6,dom 14/05/2023,18:00,Vitória,Atlético-GO,4-2-3-1,Léo Condé,29107,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060888
+7,sex 19/05/2023,19:00,Mirassol,Vitória,4-2-3-1,Léo Condé,1971,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060957
+8,qua 24/05/2023,19:00,Vitória,CRB,4-2-3-1,Léo Condé,13754,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060898
+9,sáb 27/05/2023,17:30,Avaí,Vitória,3-4-3 plano,Léo Condé,14875,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060925
+10,sex 02/06/2023,21:30,Vitória,Ituano,4-2-3-1,Léo Condé,22540,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060938
+11,ter 06/06/2023,19:00,Tombense,Vitória,3-4-3 plano,Léo Condé,698,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060921
+12,dom 11/06/2023,18:00,Vitória,Criciúma,4-2-3-1,Léo Condé,29024,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060948
+13,dom 25/06/2023,18:00,Guarani,Vitória,4-2-3-1,Léo Condé,4137,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060973
+14,qua 28/06/2023,21:30,Vitória,Sampaio Corrêa,4-2-3-1,Léo Condé,11573,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060998
+15,dom 02/07/2023,15:30,Juventude,Vitória,3-4-3,Léo Condé,5195,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061040
+16,seg 10/07/2023,20:00,Vila Nova,Vitória,4-2-3-1,Léo Condé,10000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061014
+17,dom 16/07/2023,18:00,Vitória,Novorizontino,3-4-2-1,Léo Condé,19407,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060988
+18,qua 19/07/2023,21:30,Sport,Vitória,3-4-2-1,Léo Condé,16847,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061028
+19,seg 24/07/2023,19:00,Vitória,Chapecoense,3-4-2-1,Léo Condé,24189,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061048
+20,dom 30/07/2023,18:00,Ponte Preta,Vitória,3-4-2-1,Léo Condé,4287,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061053
+21,qua 02/08/2023,21:30,Vitória,ABC,3-4-3 plano,Léo Condé,12278,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061088
+22,seg 07/08/2023,20:00,Londrina,Vitória,3-4-3 plano,Léo Condé,1349,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061081
+23,dom 13/08/2023,18:00,Vitória,Ceará,4-4-2,Léo Condé,23840,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061108
+24,sex 18/08/2023,19:00,Vitória,Botafogo-SP,3-4-3 plano,Léo Condé,21621,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061118
+25,dom 27/08/2023,18:00,Atlético-GO,Vitória,3-4-2-1,Léo Condé,10256,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061094
+26,sex 01/09/2023,19:15,Vitória,Mirassol,4-2-3-1,Léo Condé,27861,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061148
+27,dom 10/09/2023,18:00,CRB,Vitória,4-3-3 ofensivo,Léo Condé,14896,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061142
+28,dom 17/09/2023,18:00,Vitória,Avaí,4-2-3-1,Léo Condé,24082,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061128
+29,sex 22/09/2023,21:30,Ituano,Vitória,4-2-3-1,Léo Condé,1804,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061176
+30,sex 29/09/2023,21:30,Vitória,Tombense,4-2-3-1,Léo Condé,28506,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061168
+31,dom 08/10/2023,18:00,Criciúma,Vitória,4-2-3-1,Léo Condé,8424,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061155
+32,dom 15/10/2023,18:00,Vitória,Guarani,4-2-3-1,Léo Condé,29093,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061198
+33,sex 20/10/2023,19:00,Sampaio Corrêa,Vitória,4-2-3-1,Léo Condé,6611,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061189
+34,dom 29/10/2023,20:00,Vitória,Juventude,4-2-3-1,Léo Condé,29146,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060908
+35,dom 05/11/2023,18:00,Vitória,Vila Nova,4-2-3-1,Léo Condé,29168,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060867
+36,dom 12/11/2023,18:00,Novorizontino,Vitória,4-3-3 ofensivo,Léo Condé,4161,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061007
+37,sáb 18/11/2023,17:00,Vitória,Sport,4-3-3 ofensivo,Léo Condé,29168,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061068
+38,sáb 25/11/2023,17:00,Chapecoense,Vitória,4-3-3 defensivo,Léo Condé,11171,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061210

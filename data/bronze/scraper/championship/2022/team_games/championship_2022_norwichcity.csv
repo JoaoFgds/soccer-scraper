@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 30/07/2022,11:00,Cardiff,Norwich,4-1-4-1,Dean Smith,19969,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856443
+2,sáb 06/08/2022,08:30,Norwich,Wigan,4-1-4-1,Dean Smith,25595,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856504
+3,sáb 13/08/2022,11:00,Hull City,Norwich,4-2-3-1,Dean Smith,17028,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856532
+4,ter 16/08/2022,15:45,Norwich,Huddersfield,4-3-3 ofensivo,Dean Smith,25369,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856552
+5,sex 19/08/2022,16:00,Norwich,Millwall,4-3-3 ofensivo,Dean Smith,26214,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856572
+6,sáb 27/08/2022,08:30,AFC Sunderland,Norwich,4-3-3 ofensivo,Dean Smith,36440,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856597
+7,ter 30/08/2022,15:45,Birmingham,Norwich,4-4-1-1,Dean Smith,16156,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856770
+8,sáb 03/09/2022,11:00,Norwich,Coventry City,4-2-3-1,Dean Smith,26487,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856614
+9,ter 25/10/2022,16:00,FC Burnley,Norwich,4-1-4-1,Dean Smith,14858,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856631
+10,qua 14/09/2022,15:45,Norwich,Bristol City,4-2-3-1,Dean Smith,35287,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856696
+11,sáb 17/09/2022,11:00,Norwich,West Brom,4-3-3 ofensivo,Dean Smith,26303,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856714
+12,sáb 01/10/2022,11:00,Blackpool,Norwich,4-2-3-1,Dean Smith,11594,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856877
+13,ter 04/10/2022,16:00,Reading,Norwich,4-3-3 ofensivo,Dean Smith,11978,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856671
+14,sáb 08/10/2022,11:00,Norwich,Preston NE,4-4-2 losango,Dean Smith,26062,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856760
+15,sáb 15/10/2022,15:45,Watford,Norwich,4-3-1-2,Dean Smith,19400,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856659
+16,ter 18/10/2022,15:45,Norwich,Luton,4-3-3 ofensivo,Dean Smith,25846,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856798
+17,sáb 22/10/2022,11:00,Sheff Utd,Norwich,4-2-3-1,Dean Smith,30035,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856823
+18,sáb 29/10/2022,11:00,Norwich,Stoke,4-2-3-1,Dean Smith,26159,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856904
+19,qua 02/11/2022,16:45,Norwich,QPR,4-2-3-1,Dean Smith,25458,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856866
+20,sáb 05/11/2022,12:00,Rotherham,Norwich,4-4-2 losango,Dean Smith,10913,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856734
+21,sáb 12/11/2022,12:00,Norwich,Middlesbrough,4-4-2 losango,Dean Smith,26673,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856844
+22,sáb 10/12/2022,12:00,Swansea,Norwich,4-3-2-1,Dean Smith,16362,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857122
+23,sáb 17/12/2022,14:30,Norwich,Blackburn,4-2-3-1,Dean Smith,25866,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856916
+24,seg 26/12/2022,16:45,Luton,Norwich,3-5-2 plano,Dean Smith,9831,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857032
+25,sex 30/12/2022,16:45,Norwich,Reading,4-3-3 ofensivo,Allan Russell,26218,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856926
+26,seg 02/01/2023,12:00,Norwich,Watford,4-3-3 ofensivo,Allan Russell,26587,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856986
+27,sáb 14/01/2023,12:00,Preston NE,Norwich,4-3-3 ofensivo,David Wagner,11650,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856938
+28,sáb 21/01/2023,09:30,Coventry City,Norwich,4-2-3-1,David Wagner,19877,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857009
+29,ter 21/02/2023,16:45,Norwich,Birmingham,4-2-3-1,David Wagner,25657,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856962
+30,sáb 04/02/2023,09:30,Norwich,FC Burnley,4-4-2 duplo 6,David Wagner,26536,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857094
+31,sáb 11/02/2023,12:00,Bristol City,Norwich,4-4-2 duplo 6,David Wagner,23757,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856970
+32,ter 14/02/2023,16:45,Norwich,Hull City,4-4-2 duplo 6,David Wagner,25767,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857103
+33,sáb 18/02/2023,12:00,Wigan,Norwich,4-4-1-1,David Wagner,11603,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856955
+34,sáb 25/02/2023,12:00,Norwich,Cardiff,4-2-3-1,David Wagner,25417,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857044
+35,sáb 04/03/2023,12:00,Millwall,Norwich,4-1-4-1,David Wagner,18785,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856999
+36,dom 12/03/2023,09:00,Norwich,AFC Sunderland,4-1-4-1,David Wagner,26728,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857178
+37,qua 15/03/2023,16:45,Huddersfield,Norwich,4-1-4-1,David Wagner,18116,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857132
+38,sáb 18/03/2023,12:00,Stoke,Norwich,4-4-1-1,David Wagner,22102,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857144
+39,sáb 01/04/2023,11:00,Norwich,Sheff Utd,4-2-3-1,David Wagner,26801,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857060
+40,sex 07/04/2023,11:00,Blackburn,Norwich,4-2-3-1,David Wagner,18544,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857016
+41,seg 10/04/2023,11:00,Norwich,Rotherham,4-2-3-1,David Wagner,26269,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857156
+42,sex 14/04/2023,16:00,Middlesbrough,Norwich,4-2-3-1,David Wagner,26429,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857078
+43,qua 19/04/2023,15:45,QPR,Norwich,4-2-3-1,David Wagner,14132,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857072
+44,sáb 22/04/2023,11:00,Norwich,Swansea,4-4-2,David Wagner,26135,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857203
+45,sáb 29/04/2023,13:30,West Brom,Norwich,4-2-3-1,David Wagner,24638,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857171
+46,seg 08/05/2023,11:00,Norwich,Blackpool,4-3-3 ofensivo,David Wagner,26147,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857192

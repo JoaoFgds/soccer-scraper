@@ -1,0 +1,31 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 18/08/2013,12:00,Gil Vicente,Académica,4-2-3-1,Sérgio Conceição,3016,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340205
+2,sáb 24/08/2013,16:15,Académica,Sporting,4-2-3-1,Sérgio Conceição,14194,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340213
+3,seg 02/09/2013,16:00,Estoril,Académica,4-2-3-1,Sérgio Conceição,2658,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340215
+4,dom 15/09/2013,11:45,Académica,Belenenses,4-2-3-1,Sérgio Conceição,5495,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340236
+5,dom 22/09/2013,12:00,Nacional,Académica,4-3-3 defensivo,Sérgio Conceição,1794,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340267
+6,sáb 28/09/2013,12:00,Académica,Arouca,4-2-3-1,Sérgio Conceição,2352,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340254
+7,sex 04/10/2013,16:15,Académica,Rio Ave,4-2-3-1,Sérgio Conceição,2345,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340258
+8,sex 25/10/2013,17:15,Braga,Académica,4-2-3-1,Sérgio Conceição,8131,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340232
+9,sex 01/11/2013,18:30,Académica,Benfica,4-2-3-1,Sérgio Conceição,8551,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340264
+10,seg 25/11/2013,18:15,Olhanense,Académica,?,Sérgio Conceição,607,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340292
+11,sáb 30/11/2013,18:15,Académica,FC Porto,4-2-3-1,Sérgio Conceição,4562,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340290
+12,seg 09/12/2013,18:15,Vitória FC,Académica,?,Sérgio Conceição,1415,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340303
+13,sex 13/12/2013,18:15,Académica,Marítimo,?,Sérgio Conceição,2224,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340439
+14,sáb 21/12/2013,16:15,Vit. Guimarães,Académica,?,Sérgio Conceição,9515,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340423
+15,dom 12/01/2014,14:00,Académica,Paços Ferreira,?,Sérgio Conceição,1617,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340277
+16,dom 19/01/2014,14:00,Académica,Gil Vicente,?,Sérgio Conceição,2736,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340402
+17,dom 02/02/2014,16:15,Sporting,Académica,4-2-3-1,Sérgio Conceição,36168,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340407
+18,seg 10/02/2014,18:00,Académica,Estoril,?,Sérgio Conceição,1944,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340360
+19,sáb 15/02/2014,16:00,Belenenses,Académica,?,Sérgio Conceição,2066,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340343
+20,sex 21/02/2014,17:00,Académica,Nacional,?,Sérgio Conceição,2102,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340375
+21,seg 03/03/2014,17:00,Arouca,Académica,?,Sérgio Conceição,1032,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340357
+22,sex 07/03/2014,17:00,Rio Ave,Académica,?,Sérgio Conceição,1615,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340369
+23,sex 14/03/2014,17:00,Académica,Braga,?,Sérgio Conceição,3697,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340312
+24,dom 23/03/2014,15:00,Benfica,Académica,4-2-3-1,Sérgio Conceição,49320,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340321
+25,dom 30/03/2014,12:00,Académica,Olhanense,?,Sérgio Conceição,2196,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340330
+26,dom 06/04/2014,15:15,FC Porto,Académica,4-2-3-1,Sérgio Conceição,29309,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340348
+27,sex 11/04/2014,16:00,Académica,Vitória FC,4-2-3-1,Sérgio Conceição,3489,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340352
+28,sáb 19/04/2014,12:00,Marítimo,Académica,4-2-3-1,Sérgio Conceição,1957,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340396
+29,dom 04/05/2014,14:00,Académica,Vit. Guimarães,4-2-3-1,Vítor Bruno,10614,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340355
+30,sáb 10/05/2014,12:00,Paços Ferreira,Académica,4-2-3-1,Vítor Bruno,3780,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340422

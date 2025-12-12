@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 31/07/2005,13:00,Le Mans UC 72,Lyon,4-3-3 ofensivo,Frédéric Hantz,13134,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39211
+2,sáb 06/08/2005,15:00,FC Metz,Le Mans UC 72,4-3-3 ofensivo,Daniel Jeandupeux,18130,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39214
+3,sáb 13/08/2005,15:00,Le Mans UC 72,Rennes,4-4-2 duplo 6,Daniel Jeandupeux,10732,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39225
+4,sáb 20/08/2005,15:00,AC Ajaccio,Le Mans UC 72,,Daniel Jeandupeux,4122,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39233
+5,sáb 27/08/2005,15:00,Le Mans UC 72,Troyes,4-3-3 ofensivo,Frédéric Hantz,10204,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39249
+6,sáb 10/09/2005,15:00,Toulouse,Le Mans UC 72,4-2-3-1,Daniel Jeandupeux,14814,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39258
+7,sáb 17/09/2005,15:00,Le Mans UC 72,FC Sochaux,4-3-3 ofensivo,Daniel Jeandupeux,10867,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39268
+8,qua 21/09/2005,15:30,Nice,Le Mans UC 72,4-3-3 ofensivo,Daniel Jeandupeux,9405,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39273
+9,sáb 24/09/2005,15:00,Le Mans UC 72,PSG,4-4-2 duplo 6,Daniel Jeandupeux,14728,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39289
+10,sáb 01/10/2005,15:00,Saint-Étienne,Le Mans UC 72,4-4-2 duplo 6,Daniel Jeandupeux,27614,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39296
+11,sáb 15/10/2005,15:00,Le Mans UC 72,Lille,4-2-3-1,Frédéric Hantz,10061,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39302
+12,dom 23/10/2005,14:00,Le Mans UC 72,Strasbourg,?,Frédéric Hantz,8337,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39313
+13,sáb 29/10/2005,16:00,Nantes,Le Mans UC 72,4-3-3 ofensivo,Frédéric Hantz,31548,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39329
+14,sáb 05/11/2005,18:00,Le Mans UC 72,Marselha,4-2-3-1,Frédéric Hantz,16531,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39332
+15,sáb 19/11/2005,18:00,AS Nancy,Le Mans UC 72,4-3-3 ofensivo,Frédéric Hantz,15010,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39349
+16,sex 25/11/2005,18:00,Le Mans UC 72,Auxerre,4-4-2,Frédéric Hantz,10347,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39352
+17,sáb 03/12/2005,18:00,Monaco,Le Mans UC 72,,Frédéric Hantz,7385,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39368
+18,sáb 10/12/2005,18:00,Le Mans UC 72,Bordeaux,4-2-3-1,Frédéric Hantz,12530,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39372
+19,dom 18/12/2005,16:00,Lens,Le Mans UC 72,5-3-2,Frédéric Hantz,39175,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39385
+20,qua 04/01/2006,18:30,Le Mans UC 72,FC Metz,,Frédéric Hantz,8405,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39393
+21,qua 11/01/2006,18:30,Rennes,Le Mans UC 72,4-2-3-1,Frédéric Hantz,20684,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39408
+22,sáb 14/01/2006,18:00,Le Mans UC 72,AC Ajaccio,?,Frédéric Hantz,8611,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39413
+23,sáb 21/01/2006,18:00,Troyes,Le Mans UC 72,4-3-3 ofensivo,Frédéric Hantz,9979,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39431
+24,sáb 28/01/2006,18:15,Le Mans UC 72,Toulouse,4-4-2 duplo 6,Frédéric Hantz,8496,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39434
+25,sáb 04/02/2006,18:00,FC Sochaux,Le Mans UC 72,?,Frédéric Hantz,9884,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39449
+26,sáb 11/02/2006,18:00,Le Mans UC 72,Nice,?,Frédéric Hantz,9216,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39454
+27,sáb 18/02/2006,18:00,PSG,Le Mans UC 72,?,Frédéric Hantz,39655,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39466
+28,sáb 25/02/2006,17:00,Le Mans UC 72,Saint-Étienne,4-4-2 duplo 6,Frédéric Hantz,13704,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39474
+29,sáb 04/03/2006,17:00,Lille,Le Mans UC 72,4-3-3 ofensivo,Frédéric Hantz,15824,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39483
+30,dom 12/03/2006,14:00,Strasbourg,Le Mans UC 72,?,Frédéric Hantz,17581,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39501
+31,sáb 18/03/2006,13:15,Le Mans UC 72,Nantes,4-4-2 duplo 6,Frédéric Hantz,12941,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39504
+32,sáb 25/03/2006,16:00,Marselha,Le Mans UC 72,4-3-3 ofensivo,Frédéric Hantz,49395,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39517
+33,sáb 01/04/2006,15:00,Le Mans UC 72,AS Nancy,?,Frédéric Hantz,10401,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39522
+34,sáb 08/04/2006,15:00,Auxerre,Le Mans UC 72,4-3-3 ofensivo,Frédéric Hantz,10052,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39533
+35,sáb 15/04/2006,15:00,Le Mans UC 72,Monaco,4-3-3 ofensivo,Frédéric Hantz,13212,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39542
+36,dom 30/04/2006,11:30,Bordeaux,Le Mans UC 72,4-3-3 ofensivo,Frédéric Hantz,27400,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39554
+37,sáb 06/05/2006,15:00,Le Mans UC 72,Lens,?,Frédéric Hantz,12800,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39587
+38,sáb 13/05/2006,15:00,Lyon,Le Mans UC 72,4-3-3 ofensivo,Frédéric Hantz,44400,8:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39603

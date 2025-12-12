@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 23/08/2015,15:30,UD Almería,Leganés,4-2-3-1,Sergi Barjuan,8770,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594851
+2,sáb 29/08/2015,17:30,Zaragoza,UD Almería,4-2-3-1,Sergi Barjuan,13000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594863
+3,dom 06/09/2015,14:15,UD Almería,Osasuna,4-2-3-1,Sergi Barjuan,9299,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594874
+4,dom 13/09/2015,12:00,Lugo,UD Almería,4-2-3-1,Sergi Barjuan,3658,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594886
+5,dom 20/09/2015,12:00,UD Almería,Alavés,4-2-3-1,Sergi Barjuan,8532,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594897
+6,dom 27/09/2015,14:15,Albacete,UD Almería,4-2-3-1,Sergi Barjuan,7620,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594909
+7,sáb 03/10/2015,13:00,UD Almería,Tenerife,5-3-2,Sergi Barjuan,7369,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594920
+8,dom 11/10/2015,14:15,Girona,UD Almería,4-2-3-1,Miguel Rivera,4290,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594932
+9,dom 18/10/2015,08:00,UD Almería,Elche,4-2-3-1,Miguel Rivera,8736,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594943
+10,dom 25/10/2015,09:00,Mallorca,UD Almería,4-3-3 ofensivo,Joan Carrillo,7400,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594955
+11,dom 01/11/2015,16:15,UD Almería,Valladolid,4-2-3-1,Joan Carrillo,6628,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594966
+12,dom 08/11/2015,16:15,AD Alcorcón,UD Almería,4-2-3-1,Joan Carrillo,2395,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594978
+13,dom 15/11/2015,14:00,UD Almería,Ponferradina,4-2-3-1,Joan Carrillo,7744,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594989
+14,sáb 21/11/2015,13:00,Bilbao Athletic,UD Almería,4-2-3-1,Joan Carrillo,4638,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595001
+15,sáb 28/11/2015,15:00,UD Almería,Numância,4-1-4-1,Joan Carrillo,6485,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595012
+16,sáb 05/12/2015,17:15,Gimnàstic,UD Almería,4-4-2 duplo 6,Joan Carrillo,5897,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595024
+17,dom 13/12/2015,14:00,UD Almería,SD Huesca,4-4-2 duplo 6,Joan Carrillo,6897,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595035
+18,dom 20/12/2015,16:15,Real Oviedo,UD Almería,4-2-3-1,Joan Carrillo,14682,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595047
+19,dom 03/01/2016,14:00,UD Almería,UE Llagostera,4-2-3-1,Néstor Gorosito,6497,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595058
+20,sáb 09/01/2016,15:00,Mirandés,UD Almería,4-2-3-1,Néstor Gorosito,3113,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595070
+21,dom 17/01/2016,16:15,UD Almería,Córdoba,4-2-3-1,Néstor Gorosito,8364,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595081
+22,sáb 23/01/2016,17:15,Leganés,UD Almería,4-2-3-1,Néstor Gorosito,4364,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595082
+23,dom 31/01/2016,09:00,UD Almería,Zaragoza,4-4-2 duplo 6,Néstor Gorosito,7794,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595094
+24,dom 07/02/2016,16:15,Osasuna,UD Almería,5-4-1 plano,Néstor Gorosito,13239,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595105
+25,sáb 13/02/2016,15:00,UD Almería,Lugo,5-4-1 plano,Néstor Gorosito,6588,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595117
+26,dom 21/02/2016,08:00,Alavés,UD Almería,5-3-2,Néstor Gorosito,10461,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595128
+27,dom 28/02/2016,13:00,UD Almería,Albacete,5-4-1 plano,Néstor Gorosito,6362,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595140
+28,dom 06/03/2016,13:00,Tenerife,UD Almería,5-3-2,Néstor Gorosito,9398,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595151
+29,sáb 12/03/2016,14:00,UD Almería,Girona,5-3-2,Néstor Gorosito,7251,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595163
+30,sáb 19/03/2016,16:15,Elche,UD Almería,5-4-1 plano,Néstor Gorosito,7900,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595174
+31,dom 27/03/2016,12:00,UD Almería,Mallorca,5-4-1 plano,Néstor Gorosito,8930,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595186
+32,dom 03/04/2016,12:00,Valladolid,UD Almería,5-4-1 plano,Néstor Gorosito,8771,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595197
+33,sáb 09/04/2016,13:00,UD Almería,AD Alcorcón,5-4-1 plano,Néstor Gorosito,7380,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595209
+34,dom 17/04/2016,12:00,Ponferradina,UD Almería,5-4-1 plano,Néstor Gorosito,6033,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595220
+35,dom 24/04/2016,12:00,UD Almería,Bilbao Athletic,5-4-1 plano,Néstor Gorosito,9549,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595232
+36,sáb 30/04/2016,13:00,Numância,UD Almería,5-4-1 plano,Néstor Gorosito,2694,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595243
+37,sáb 07/05/2016,13:00,UD Almería,Gimnàstic,5-4-1 plano,Néstor Gorosito,7538,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595255
+38,dom 15/05/2016,14:00,SD Huesca,UD Almería,4-3-3 ofensivo,Néstor Gorosito,3197,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595266
+39,dom 22/05/2016,14:15,UD Almería,Real Oviedo,4-2-3-1,Fernando Soriano,9120,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595278
+40,qua 25/05/2016,15:30,UE Llagostera,UD Almería,4-5-1 plano,Fernando Soriano,3512,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595289
+41,dom 29/05/2016,15:00,UD Almería,Mirandés,4-2-3-1,Fernando Soriano,8640,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595301
+42,sáb 04/06/2016,15:30,Córdoba,UD Almería,4-5-1 plano,Fernando Soriano,18508,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595312

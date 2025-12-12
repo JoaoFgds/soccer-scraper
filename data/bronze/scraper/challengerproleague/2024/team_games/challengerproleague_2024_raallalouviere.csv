@@ -1,0 +1,30 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 18/08/2024,08:30,Francs Borains,La Louvière,3-4-1-2,Frédéric Taquin,1535,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4359121
+2,sáb 24/08/2024,15:00,La Louvière,Club NXT,3-1-4-2,Frédéric Taquin,1888,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4359128
+3,sáb 31/08/2024,11:00,RSCA Futures,La Louvière,3-1-4-2,Frédéric Taquin,559,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4359134
+4,dom 15/09/2024,14:15,KMSK Deinze,La Louvière,3-4-1-2,Frédéric Taquin,1001,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4359147
+5,dom 22/09/2024,14:15,La Louvière,Lokeren-Temse,3-4-1-2,Frédéric Taquin,2751,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4370003
+6,dom 29/09/2024,14:15,La Louvière,Patro Eisden,3-4-1-2,Frédéric Taquin,2240,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4369857
+7,sáb 05/10/2024,15:00,RWDM,La Louvière,3-4-1-2,Frédéric Taquin,3783,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4370055
+8,sex 18/10/2024,15:00,La Louvière,SK Beveren,3-5-2,Frédéric Taquin,2755,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4369913
+9,dom 27/10/2024,09:30,Lierse SK,La Louvière,3-4-1-2,Frédéric Taquin,2820,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4369968
+10,sáb 02/11/2024,16:00,La Louvière,RFC Lüttich,3-4-1-2,Frédéric Taquin,2257,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4369873
+11,dom 10/11/2024,09:30,Zulte Waregem,La Louvière,3-4-1-2,Frédéric Taquin,5668,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4369862
+12,dom 24/11/2024,12:00,La Louvière,Lommel SK,3-4-1-2,Frédéric Taquin,3341,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4369938
+13,dom 01/12/2024,12:00,KAS Eupen,La Louvière,3-4-1-2,Frédéric Taquin,1446,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4369888
+14,sáb 07/12/2024,12:00,La Louvière,Jong Genk,3-4-1-2,Frédéric Taquin,3125,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4370017
+15,sex 13/12/2024,16:00,RFC Seraing,La Louvière,3-4-1-2,Frédéric Taquin,809,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4369907
+16,sáb 21/12/2024,16:00,La Louvière,RWDM,3-4-1-2,Frédéric Taquin,4756,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4369945
+17,dom 12/01/2025,15:15,SK Beveren,La Louvière,3-4-3 plano,Frédéric Taquin,2559,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4370037
+18,sáb 18/01/2025,16:00,La Louvière,RSCA Futures,3-5-2,Frédéric Taquin,2325,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4370049
+19,dom 26/01/2025,12:00,Club NXT,La Louvière,3-4-1-2,Frédéric Taquin,392,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4369919
+20,dom 02/02/2025,12:00,La Louvière,Zulte Waregem,3-4-1-2,Frédéric Taquin,3053,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4369962
+21,dom 09/02/2025,15:15,Lokeren-Temse,La Louvière,3-4-1-2,Frédéric Taquin,2570,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4369897
+22,sáb 15/02/2025,12:00,La Louvière,RFC Seraing,3-4-1-2,Frédéric Taquin,1747,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4370011
+23,dom 23/02/2025,12:00,Patro Eisden,La Louvière,3-4-1-2,Frédéric Taquin,1191,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4369979
+24,sex 28/02/2025,16:00,La Louvière,KAS Eupen,3-4-1-2,Frédéric Taquin,2245,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4369987
+25,dom 09/03/2025,09:30,RFC Lüttich,La Louvière,3-4-1-2,Frédéric Taquin,3015,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4370036
+26,sex 14/03/2025,16:00,La Louvière,Lierse SK,3-4-1-2,Frédéric Taquin,2292,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4370026
+27,sáb 29/03/2025,12:00,Jong Genk,La Louvière,3-1-4-2,Frédéric Taquin,256,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4369929
+28,dom 06/04/2025,11:00,La Louvière,Francs Borains,3-4-3 plano,Frédéric Taquin,3648,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4369954
+30,sex 18/04/2025,15:00,Lommel SK,La Louvière,3-4-3 plano,Frédéric Taquin,2697,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4369880

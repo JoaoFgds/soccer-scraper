@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 10/08/2024,10:00,Mafra,Paços Ferreira,4-2-3-1,Carlos Vaz Pinto,371,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397017
+2,sáb 17/08/2024,10:00,UD Oliveirense,Mafra,4-2-3-1,Carlos Vaz Pinto,528,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396973
+3,dom 25/08/2024,14:00,Mafra,Portimonense,4-2-3-1,Carlos Vaz Pinto,446,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397007
+4,dom 01/09/2024,12:00,Chaves,Mafra,4-2-3-1,Carlos Vaz Pinto,1397,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397001
+5,dom 15/09/2024,07:00,Mafra,CD Tondela,4-2-3-1,Carlos Vaz Pinto,397,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396991
+6,seg 30/09/2024,14:00,Vizela,Mafra,4-2-3-1,Carlos Vaz Pinto,1540,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396976
+7,dom 06/10/2024,11:30,Mafra,Alverca,4-2-3-1,Carlos Vaz Pinto,446,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396959
+8,qua 23/10/2024,11:30,FC Porto B,Mafra,4-2-3-1,Carlos Vaz Pinto,302,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397025
+9,seg 28/10/2024,15:00,Mafra,Leiria,4-2-3-1,Paulo Alves,353,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397041
+10,dom 03/11/2024,11:00,Felgueiras,Mafra,4-2-3-1,Tiago Ferreira,1450,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397038
+11,sáb 09/11/2024,12:30,Mafra,Académico FC,4-2-3-1,Tiago Ferreira,411,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397061
+12,dom 01/12/2024,08:00,Penafiel,Mafra,4-2-3-1,Tiago Ferreira,980,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397088
+13,dom 08/12/2024,12:30,Mafra,Marítimo,4-2-3-1,Tiago Ferreira,549,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397108
+14,sáb 14/12/2024,12:30,Mafra,Benfica B,4-2-3-1,Tiago Ferreira,430,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397069
+15,sex 20/12/2024,15:00,Leixões,Mafra,4-2-3-1,Tiago Ferreira,987,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397056
+16,dom 29/12/2024,11:00,Mafra,Feirense,4-2-3-1,Tiago Ferreira,509,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397121
+17,dom 05/01/2025,11:00,Torreense,Mafra,4-2-3-1,Tiago Ferreira,826,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397075
+18,dom 19/01/2025,11:00,Paços Ferreira,Mafra,4-2-3-1,Tiago Ferreira,1315,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397100
+19,dom 26/01/2025,11:00,Mafra,UD Oliveirense,4-2-3-1,Tiago Ferreira,529,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397115
+20,sáb 01/02/2025,15:00,Portimonense,Mafra,4-2-3-1,Tiago Ferreira,1073,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397172
+21,dom 09/02/2025,08:00,Mafra,Chaves,4-2-3-1,Paulo Alves,779,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397136
+22,sáb 15/02/2025,12:30,CD Tondela,Mafra,4-3-3 ofensivo,Paulo Alves,1674,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397153
+23,sáb 22/02/2025,11:00,Mafra,Vizela,4-1-4-1,Paulo Alves,653,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397192
+24,sáb 01/03/2025,11:00,Alverca,Mafra,4-3-3 ofensivo,Paulo Alves,1107,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397139
+25,dom 09/03/2025,08:00,Mafra,FC Porto B,4-4-2 duplo 6,Paulo Alves,458,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397178
+26,dom 16/03/2025,11:00,Leiria,Mafra,4-4-2 duplo 6,Paulo Alves,2526,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397186
+27,seg 31/03/2025,16:15,Mafra,Felgueiras,4-4-2 duplo 6,Paulo Alves,324,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397207
+28,dom 06/04/2025,10:00,Académico FC,Mafra,3-5-2 plano,Paulo Alves,1008,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397223
+29,seg 14/04/2025,16:15,Mafra,Penafiel,4-3-3 ofensivo,Paulo Alves,434,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397250
+30,dom 20/04/2025,11:30,Marítimo,Mafra,4-4-2 duplo 6,Paulo Alves,3318,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397243
+31,qua 30/04/2025,14:00,Benfica B,Mafra,4-3-3 ofensivo,Paulo Alves,418,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397230
+32,dom 04/05/2025,10:00,Mafra,Leixões,4-3-3 ofensivo,Paulo Alves,272,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397161
+33,sex 09/05/2025,16:15,Feirense,Mafra,4-3-3 ofensivo,Paulo Alves,1557,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397259
+34,qui 15/05/2025,16:45,Mafra,Torreense,4-3-3 ofensivo,Paulo Alves,535,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397210

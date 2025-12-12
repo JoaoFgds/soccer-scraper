@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 05/08/2023,14:00,Concarneau,SC Bastia,4-2-3-1,Stéphane Le Mignan,1875,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095508
+2,seg 14/08/2023,15:45,Bordeaux,Concarneau,4-2-3-1,Stéphane Le Mignan,24574,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095510
+3,sáb 19/08/2023,14:00,Concarneau,SM Caen,4-2-3-1,Stéphane Le Mignan,3001,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095527
+4,sáb 26/08/2023,14:00,Paris FC,Concarneau,4-2-3-1,Stéphane Le Mignan,537,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095535
+5,sáb 02/09/2023,14:00,Concarneau,FC Annecy,4-2-3-1,Stéphane Le Mignan,922,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4148514
+6,sáb 16/09/2023,14:00,QRM,Concarneau,4-4-2 duplo 6,Stéphane Le Mignan,2635,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095557
+7,sáb 23/09/2023,14:00,Concarneau,Saint-Étienne,4-4-2 duplo 6,Stéphane Le Mignan,6010,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095567
+8,ter 26/09/2023,15:45,Valenciennes,Concarneau,3-4-3 plano,Stéphane Le Mignan,5591,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095574
+9,sáb 30/09/2023,14:00,Angers,Concarneau,3-4-2-1,Stéphane Le Mignan,5487,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095582
+10,sáb 07/10/2023,14:00,Concarneau,USL Dunkerque,3-4-2-1,Stéphane Le Mignan,1921,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095596
+11,sáb 21/10/2023,14:00,Troyes,Concarneau,4-4-2 duplo 6,Stéphane Le Mignan,5326,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095605
+12,sáb 28/10/2023,14:00,Concarneau,AC Ajaccio,4-4-2 duplo 6,Stéphane Le Mignan,1937,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095617
+13,ter 28/11/2023,15:00,Concarneau,Pau FC,4-4-2 duplo 6,Stéphane Le Mignan,690,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095626
+14,sáb 11/11/2023,15:00,Stade Lavallois,Concarneau,4-4-2 duplo 6,Stéphane Le Mignan,8275,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095636
+15,sáb 25/11/2023,15:00,Amiens SC,Concarneau,4-4-2 duplo 6,Stéphane Le Mignan,5575,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095809
+16,sáb 02/12/2023,15:00,Rodez AF,Concarneau,4-4-2 duplo 6,Stéphane Le Mignan,2823,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095658
+17,ter 05/12/2023,16:45,Concarneau,Auxerre,4-4-2 duplo 6,Stéphane Le Mignan,1570,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095667
+18,sáb 16/12/2023,15:00,Guingamp,Concarneau,4-4-2 duplo 6,Stéphane Le Mignan,12476,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095675
+19,ter 19/12/2023,16:45,Concarneau,Grenoble,4-4-2 duplo 6,Stéphane Le Mignan,2013,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095688
+20,sáb 13/01/2024,15:00,SM Caen,Concarneau,4-4-2 duplo 6,Stéphane Le Mignan,13487,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095692
+21,ter 23/01/2024,16:45,Concarneau,Troyes,4-4-2 duplo 6,Stéphane Le Mignan,1184,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095707
+22,sáb 27/01/2024,15:00,AC Ajaccio,Concarneau,4-4-2 duplo 6,Stéphane Le Mignan,3916,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095709
+23,sáb 03/02/2024,15:00,Concarneau,Valenciennes,4-4-2 duplo 6,Stéphane Le Mignan,1789,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095727
+24,sáb 10/02/2024,15:00,FC Annecy,Concarneau,4-4-2 duplo 6,Stéphane Le Mignan,4008,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4148533
+25,sáb 17/02/2024,15:00,Concarneau,Paris FC,4-4-2 duplo 6,Stéphane Le Mignan,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095748
+26,sáb 24/02/2024,15:00,Concarneau,Stade Lavallois,4-4-2 duplo 6,Stéphane Le Mignan,1403,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095756
+27,sáb 02/03/2024,15:00,USL Dunkerque,Concarneau,4-2-3-1,Stéphane Le Mignan,3927,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095767
+28,sáb 09/03/2024,15:00,Concarneau,Guingamp,4-2-3-1,Stéphane Le Mignan,3860,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095777
+29,sáb 16/03/2024,15:00,Pau FC,Concarneau,4-2-3-1,Stéphane Le Mignan,3036,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095780
+30,sáb 30/03/2024,15:00,Concarneau,Angers,4-2-3-1,Stéphane Le Mignan,1442,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095796
+31,sáb 06/04/2024,10:00,Saint-Étienne,Concarneau,4-2-3-1,Stéphane Le Mignan,37337,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095803
+32,sáb 13/04/2024,14:00,Concarneau,Amiens SC,4-2-3-1,Stéphane Le Mignan,1260,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095646
+33,sáb 20/04/2024,14:00,Concarneau,QRM,4-2-3-1,Stéphane Le Mignan,1856,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095827
+34,ter 23/04/2024,15:45,SC Bastia,Concarneau,4-2-3-1,Stéphane Le Mignan,10371,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095830
+35,sáb 27/04/2024,14:00,Concarneau,Rodez AF,4-3-1-2,Stéphane Le Mignan,1141,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095848
+36,sex 03/05/2024,15:00,Grenoble,Concarneau,4-4-2 duplo 6,Stéphane Le Mignan,4354,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095856
+37,sex 10/05/2024,15:45,Concarneau,Bordeaux,4-4-2 duplo 6,Stéphane Le Mignan,2334,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095868
+38,sex 17/05/2024,15:45,Auxerre,Concarneau,4-4-2 duplo 6,Stéphane Le Mignan,17101,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095872

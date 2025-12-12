@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 16/07/2022,08:00,Sandhausen,Arm. Bielefeld,4-2-3-1,Alois Schwartz,4709,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839021
+2,sex 22/07/2022,13:30,Darmstadt 98,Sandhausen,4-2-3-1,Alois Schwartz,13620,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839036
+3,sex 05/08/2022,13:30,Sandhausen,Düsseldorf,4-2-3-1,Alois Schwartz,4671,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839047
+4,sáb 13/08/2022,08:00,Karlsruher,Sandhausen,4-2-3-1,Alois Schwartz,14778,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839068
+5,sáb 20/08/2022,08:00,Sandhausen,Nuremberg,4-2-3-1,Alois Schwartz,5701,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839075
+6,dom 28/08/2022,08:30,Holstein Kiel,Sandhausen,4-3-1-2,Alois Schwartz,10006,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839091
+7,dom 04/09/2022,08:30,Sandhausen,K'lautern,4-2-3-1,Alois Schwartz,11378,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839129
+8,dom 11/09/2022,08:30,St. Pauli,Sandhausen,4-4-2 losango,Alois Schwartz,29546,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839141
+9,sex 16/09/2022,13:30,Sandhausen,Hannover,4-4-2 losango,Alois Schwartz,4137,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839174
+10,sáb 01/10/2022,08:00,Greuther Fürth,Sandhausen,4-2-3-1,Alois Schwartz,8637,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839186
+11,dom 09/10/2022,08:30,Sandhausen,Magdeburgo,4-4-2 duplo 6,Alois Schwartz,5211,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839210
+12,dom 16/10/2022,08:30,Paderborn,Sandhausen,4-2-3-1,Alois Schwartz,9663,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839224
+13,sáb 22/10/2022,08:00,J. Regensburg,Sandhausen,4-4-2 duplo 6,Alois Schwartz,8123,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839247
+14,dom 30/10/2022,09:30,Sandhausen,E. Braunschweig,4-4-2 duplo 6,Alois Schwartz,4729,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839272
+15,sex 04/11/2022,14:30,Hansa Rostock,Sandhausen,3-4-1-2,Alois Schwartz,24400,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839292
+16,qua 09/11/2022,14:30,Sandhausen,Heidenheim,3-4-1-2,Alois Schwartz,3471,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839308
+17,sáb 12/11/2022,09:00,Hamburgo,Sandhausen,3-1-4-2,Alois Schwartz,55246,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839322
+18,dom 29/01/2023,09:30,Arm. Bielefeld,Sandhausen,4-2-3-1,Alois Schwartz,18300,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839339
+19,sex 03/02/2023,14:30,Sandhausen,Darmstadt 98,4-2-3-1,Alois Schwartz,7254,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839361
+20,dom 12/02/2023,09:30,Düsseldorf,Sandhausen,4-2-3-1,Alois Schwartz,22125,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839381
+21,dom 19/02/2023,09:30,Sandhausen,Karlsruher,4-2-3-1,Alois Schwartz,7866,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839407
+22,sáb 25/02/2023,09:00,Nuremberg,Sandhausen,4-2-3-1,Tomas Oral,26260,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839423
+23,sáb 04/03/2023,09:00,Sandhausen,Holstein Kiel,4-2-3-1,Tomas Oral,3603,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839443
+24,sex 10/03/2023,14:30,K'lautern,Sandhausen,4-4-2 duplo 6,Tomas Oral,39770,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839464
+25,dom 19/03/2023,09:30,Sandhausen,St. Pauli,4-4-2 duplo 6,Tomas Oral,7642,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839480
+26,sáb 01/04/2023,08:00,Hannover,Sandhausen,4-2-3-1,Tomas Oral,22400,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839497
+27,dom 09/04/2023,08:30,Sandhausen,Greuther Fürth,4-2-3-1,Tomas Oral,4951,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839525
+28,sáb 15/04/2023,08:00,Magdeburgo,Sandhausen,5-3-2,Gerhard Kleppinger,23156,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839544
+29,dom 23/04/2023,08:30,Sandhausen,Paderborn,3-4-1-2,Gerhard Kleppinger,3806,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839561
+30,dom 30/04/2023,08:30,Sandhausen,J. Regensburg,3-4-1-2,Gerhard Kleppinger,5243,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839579
+31,dom 07/05/2023,08:30,E. Braunschweig,Sandhausen,3-4-1-2,Gerhard Kleppinger,20000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839599
+32,sex 12/05/2023,13:30,Sandhausen,Hansa Rostock,3-4-1-2,Gerhard Kleppinger,7013,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839605
+33,sáb 20/05/2023,08:00,Heidenheim,Sandhausen,3-4-1-2,Gerhard Kleppinger,14500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839612
+34,dom 28/05/2023,10:30,Sandhausen,Hamburgo,3-4-1-2,Gerhard Kleppinger,12320,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839623

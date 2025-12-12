@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 07/08/2015,16:30,Olhanense,Benfica B,4-3-3 defensivo,Hélder Cristóvão,932,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2586592
+2,sáb 15/08/2015,13:00,Benfica B,Penafiel,4-3-3 defensivo,Hélder Cristóvão,791,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2607194
+3,sáb 22/08/2015,11:30,Atlético CP,Benfica B,4-3-3 defensivo,Hélder Cristóvão,429,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609244
+4,qua 26/08/2015,13:00,Benfica B,UD Oliveirense,4-3-3 defensivo,Hélder Cristóvão,548,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611422
+5,dom 30/08/2015,11:00,Varzim,Benfica B,4-3-3 defensivo,Hélder Cristóvão,2042,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611439
+6,sáb 12/09/2015,13:00,Benfica B,Académico FC,4-3-3 ofensivo,Hélder Cristóvão,614,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613777
+7,qua 16/09/2015,12:00,CD Aves,Benfica B,4-3-3 defensivo,Hélder Cristóvão,338,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613788
+8,dom 20/09/2015,12:00,Benfica B,Gil Vicente,4-3-3 ofensivo,Hélder Cristóvão,565,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2628041
+9,qua 30/09/2015,12:00,Chaves,Benfica B,4-3-3 defensivo,Hélder Cristóvão,1485,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613817
+10,sáb 03/10/2015,12:00,Benfica B,Mafra,4-3-3 ofensivo,Nikola Popovic,770,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614264
+11,ter 20/10/2015,13:00,Covilhã,Benfica B,4-3-1-2,Hélder Cristóvão,567,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614283
+12,seg 26/10/2015,16:00,Benfica B,Feirense,4-2-3-1,Hélder Cristóvão,208,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614288
+13,sáb 31/10/2015,16:00,Farense,Benfica B,4-3-3 defensivo,Hélder Cristóvão,1147,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614308
+14,qua 04/11/2015,15:00,Benfica B,Portimonense,4-3-3 ofensivo,Hélder Cristóvão,344,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614348
+15,dom 08/11/2015,10:00,Santa Clara,Benfica B,4-3-3 ofensivo,Hélder Cristóvão,1062,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614392
+16,ter 24/11/2015,15:00,Benfica B,Oriental,4-3-3 defensivo,Hélder Cristóvão,359,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614397
+17,dom 29/11/2015,14:00,Benfica B,Famalicão,4-4-2,Nikola Popovic,713,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614409
+18,qua 02/12/2015,13:00,Leixões,Benfica B,4-1-4-1,Hélder Cristóvão,742,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614426
+19,dom 06/12/2015,14:00,Benfica B,Sporting B,?,Hélder Cristóvão,1620,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614433
+20,qua 09/12/2015,13:00,Vitória SC B,Benfica B,4-3-3 ofensivo,Hélder Cristóvão,958,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614571
+21,dom 13/12/2015,13:00,Benfica B,Braga B,4-3-3 ofensivo,Hélder Cristóvão,333,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614594
+22,sáb 19/12/2015,14:00,Benfica B,FC Porto B,4-3-3 ofensivo,Hélder Cristóvão,1262,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614606
+23,dom 03/01/2016,17:15,Freamunde,Benfica B,4-3-3 defensivo,Hélder Cristóvão,660,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614627
+24,sáb 09/01/2016,14:00,Benfica B,Olhanense,4-3-3 ofensivo,Hélder Cristóvão,585,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614636
+25,dom 17/01/2016,09:15,Penafiel,Benfica B,4-3-3 defensivo,Hélder Cristóvão,601,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614650
+26,sex 22/01/2016,17:00,Benfica B,Atlético CP,4-3-3 ofensivo,Hélder Cristóvão,434,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614678
+27,sáb 30/01/2016,09:15,UD Oliveirense,Benfica B,4-3-3 ofensivo,Hélder Cristóvão,501,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614697
+28,dom 07/02/2016,14:00,Benfica B,Varzim,4-3-3 ofensivo,Hélder Cristóvão,842,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614714
+29,sáb 13/02/2016,13:00,Académico FC,Benfica B,5-3-2,Hélder Cristóvão,432,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614722
+30,qua 17/02/2016,14:00,Benfica B,CD Aves,5-3-2,Hélder Cristóvão,452,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614737
+31,dom 21/02/2016,08:15,Gil Vicente,Benfica B,4-3-3 ofensivo,Hélder Cristóvão,655,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614750
+32,sáb 27/02/2016,13:00,Benfica B,Chaves,4-2-3-1,Hélder Cristóvão,716,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614767
+33,sáb 05/03/2016,12:00,Mafra,Benfica B,?,Hélder Cristóvão,600,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614774
+34,qua 09/03/2016,11:30,Benfica B,Covilhã,4-4-2 duplo 6,Hélder Cristóvão,261,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615129
+35,sáb 12/03/2016,13:00,Feirense,Benfica B,4-2-3-1,Hélder Cristóvão,1426,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615135
+36,qua 16/03/2016,13:00,Benfica B,Farense,4-4-2 duplo 6,Hélder Cristóvão,539,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615155
+37,dom 20/03/2016,08:15,Portimonense,Benfica B,4-2-3-1,Hélder Cristóvão,897,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615183
+38,sáb 02/04/2016,12:00,Benfica B,Santa Clara,4-4-2 duplo 6,Hélder Cristóvão,663,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615222
+39,qua 06/04/2016,12:00,Oriental,Benfica B,4-3-3 ofensivo,Hélder Cristóvão,511,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615227
+40,dom 10/04/2016,07:15,Famalicão,Benfica B,?,Hélder Cristóvão,3605,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615259
+41,qua 13/04/2016,11:00,Benfica B,Leixões,?,Hélder Cristóvão,492,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615275
+42,dom 17/04/2016,12:00,Sporting B,Benfica B,?,Hélder Cristóvão,904,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615290
+43,dom 24/04/2016,12:00,Benfica B,Vitória SC B,4-4-2 duplo 6,Hélder Cristóvão,1214,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615307
+44,sáb 30/04/2016,12:00,Braga B,Benfica B,4-3-3 defensivo,Hélder Cristóvão,1020,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615322
+45,dom 08/05/2016,12:30,FC Porto B,Benfica B,4-3-3 defensivo,Hélder Cristóvão,5373,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615342
+46,sáb 14/05/2016,11:00,Benfica B,Freamunde,4-1-4-1,Hélder Cristóvão,1685,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615371

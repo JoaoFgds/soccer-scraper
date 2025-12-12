@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 21/08/1999,16:00,Boavista,FC Porto,4-3-3 ofensivo,Fernando Santos,10000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854862
+2,sáb 28/08/1999,14:00,FC Porto,Alverca,4-3-3 ofensivo,Fernando Santos,19000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854871
+3,sáb 11/09/1999,15:00,Braga,FC Porto,4-3-3 ofensivo,Fernando Santos,10000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854880
+4,sex 17/09/1999,19:00,FC Porto,Rio Ave,4-3-3 ofensivo,Fernando Santos,7562,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854888
+5,sex 24/09/1999,17:00,FC Porto,Campomaiorense,4-3-3 ofensivo,Fernando Santos,10000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854897
+6,seg 04/10/1999,20:00,Belenenses,FC Porto,4-3-3 ofensivo,Fernando Santos,4000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854911
+7,qui 14/10/1999,20:00,FC Porto,Leiria,4-3-3 ofensivo,Fernando Santos,17000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854916
+8,sáb 23/10/1999,16:00,Vit. Guimarães,FC Porto,4-2-3-1,Fernando Santos,8000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854926
+9,sáb 30/10/1999,16:00,FC Porto,Sporting,4-3-3 ofensivo,Fernando Santos,25000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854935
+10,seg 08/11/1999,17:30,Marítimo,FC Porto,4-3-3 ofensivo,Fernando Santos,10500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854949
+11,sáb 20/11/1999,19:00,FC Porto,Benfica,4-3-3 ofensivo,Fernando Santos,48000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854952
+12,dom 28/11/1999,18:00,Salgueiros,FC Porto,4-3-3 ofensivo,Fernando Santos,3000,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854963
+13,qui 02/12/1999,21:00,FC Porto,Santa Clara,4-3-3 ofensivo,Fernando Santos,23553,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854969
+14,seg 13/12/1999,19:00,Vitória FC,FC Porto,4-3-3 ofensivo,Fernando Santos,2500,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854986
+15,seg 20/12/1999,19:00,FC Porto,Farense,4-3-3 ofensivo,Fernando Santos,15000,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854995
+16,sáb 08/01/2000,17:00,CF Estrela,FC Porto,4-3-3 ofensivo,Fernando Santos,5000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854997
+17,seg 17/01/2000,19:30,FC Porto,Gil Vicente,4-2-3-1,Fernando Santos,18000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855013
+18,dom 23/01/2000,19:00,FC Porto,Boavista,4-2-3-1,Fernando Santos,33524,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855021
+19,dom 30/01/2000,17:00,Alverca,FC Porto,4-2-3-1,Fernando Santos,5000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855025
+20,sáb 05/02/2000,17:00,FC Porto,Braga,4-2-3-1,Fernando Santos,19620,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855035
+21,dom 13/02/2000,19:00,Rio Ave,FC Porto,4-2-3-1,Fernando Santos,7000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855047
+22,sáb 19/02/2000,17:00,Campomaiorense,FC Porto,4-2-3-1,Fernando Santos,4000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855052
+23,sáb 26/02/2000,16:00,FC Porto,Belenenses,4-2-3-1,Fernando Santos,21200,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855060
+24,sáb 04/03/2000,13:00,Leiria,FC Porto,4-2-3-1,Fernando Santos,7500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855073
+25,sáb 11/03/2000,16:00,FC Porto,Vit. Guimarães,4-2-3-1,Fernando Santos,20269,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855078
+26,sáb 18/03/2000,18:00,Sporting,FC Porto,4-2-3-1,Fernando Santos,50000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855088
+27,sáb 25/03/2000,15:00,FC Porto,Marítimo,4-3-3 ofensivo,Fernando Santos,18000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855097
+28,sáb 01/04/2000,15:00,Benfica,FC Porto,4-3-3 ofensivo,Fernando Santos,35000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855106
+29,dom 09/04/2000,14:30,FC Porto,Salgueiros,4-3-3 ofensivo,Fernando Santos,25750,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855117
+30,sáb 15/04/2000,11:00,Santa Clara,FC Porto,4-3-3 ofensivo,Fernando Santos,10000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855123
+31,sáb 22/04/2000,15:00,FC Porto,Vitória FC,4-2-3-1,Fernando Santos,12750,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855136
+32,sáb 29/04/2000,15:00,Farense,FC Porto,4-2-3-1,Fernando Santos,3000,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855141
+33,dom 07/05/2000,14:00,FC Porto,CF Estrela,4-2-3-1,Fernando Santos,20000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855153
+34,dom 14/05/2000,15:00,Gil Vicente,FC Porto,4-2-3-1,Fernando Santos,3000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855162

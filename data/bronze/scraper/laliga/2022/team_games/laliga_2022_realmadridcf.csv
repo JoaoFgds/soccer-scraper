@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 14/08/2022,17:00,UD Almería,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,14386,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844094
+2,sáb 20/08/2022,17:00,Celta de Vigo,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,15681,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844595
+3,dom 28/08/2022,17:00,Espanyol,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,25778,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3885849
+4,sáb 03/09/2022,11:15,Real Madrid,Betis,4-3-3 ofensivo,Carlo Ancelotti,58579,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3885855
+5,dom 11/09/2022,09:00,Real Madrid,Mallorca,4-3-3 ofensivo,Carlo Ancelotti,54816,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886298
+6,dom 18/09/2022,16:00,Atlético,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,66881,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3858320
+7,dom 02/10/2022,16:00,Real Madrid,Osasuna,4-3-3 ofensivo,Carlo Ancelotti,55410,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886292
+8,sáb 08/10/2022,16:00,Getafe,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,14502,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886307
+9,dom 16/10/2022,11:15,Real Madrid,Barcelona,4-3-3 ofensivo,Carlo Ancelotti,62876,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886323
+10,qua 19/10/2022,16:00,Elche,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,30236,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886331
+11,sáb 22/10/2022,16:00,Real Madrid,Sevilla,4-3-3 ofensivo,Carlo Ancelotti,59625,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886361
+12,dom 30/10/2022,12:15,Real Madrid,Girona,4-3-3 ofensivo,Carlo Ancelotti,58367,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886393
+13,seg 07/11/2022,17:00,Rayo Vallecano,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,14216,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886412
+14,qui 10/11/2022,17:30,Real Madrid,Cádiz CF,4-3-3 ofensivo,Carlo Ancelotti,53190,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886454
+15,sex 30/12/2022,17:30,Valladolid,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,25950,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886470
+16,sáb 07/01/2023,12:15,Villarreal,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,21088,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886489
+17,qui 02/02/2023,17:00,Real Madrid,Valencia,4-3-3 ofensivo,Carlo Ancelotti,51926,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886492
+18,dom 22/01/2023,17:00,Athletic Club,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,49316,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886500
+19,dom 29/01/2023,17:00,Real Madrid,Real Sociedad,4-3-3 ofensivo,Carlo Ancelotti,58129,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886511
+20,dom 05/02/2023,10:00,Mallorca,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,18258,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886525
+21,qua 15/02/2023,17:00,Real Madrid,Elche,4-3-3 ofensivo,Carlo Ancelotti,44319,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886537
+22,sáb 18/02/2023,17:00,Osasuna,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,21668,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886554
+23,sáb 25/02/2023,14:30,Real Madrid,Atlético,4-3-3 ofensivo,Carlo Ancelotti,64721,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886564
+24,dom 05/03/2023,17:00,Betis,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,52212,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886571
+25,sáb 11/03/2023,10:00,Real Madrid,Espanyol,4-3-3 ofensivo,Carlo Ancelotti,59782,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886587
+26,dom 19/03/2023,17:00,Barcelona,Real Madrid,4-2-3-1,Carlo Ancelotti,95745,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886591
+27,dom 02/04/2023,11:15,Real Madrid,Valladolid,4-2-3-1,Carlo Ancelotti,59400,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886604
+28,sáb 08/04/2023,16:00,Real Madrid,Villarreal,4-3-3 ofensivo,Carlo Ancelotti,57887,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886612
+29,sáb 15/04/2023,16:00,Cádiz CF,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,19833,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886623
+30,sáb 22/04/2023,16:00,Real Madrid,Celta de Vigo,4-3-3 ofensivo,Carlo Ancelotti,60386,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886635
+31,ter 25/04/2023,14:30,Girona,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,13306,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886646
+32,sáb 29/04/2023,13:30,Real Madrid,UD Almería,4-3-3 ofensivo,Carlo Ancelotti,58036,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886658
+33,ter 02/05/2023,17:00,Real Sociedad,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,35314,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886669
+34,sáb 13/05/2023,16:00,Real Madrid,Getafe,4-3-3 ofensivo,Carlo Ancelotti,52201,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886675
+35,dom 21/05/2023,13:30,Valencia,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,46002,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886689
+36,qua 24/05/2023,14:30,Real Madrid,Rayo Vallecano,4-3-3 ofensivo,Carlo Ancelotti,45811,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886698
+37,sáb 27/05/2023,14:00,Sevilla,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,29856,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886709
+38,dom 04/06/2023,13:30,Real Madrid,Athletic Club,4-3-3 ofensivo,Carlo Ancelotti,60781,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844552

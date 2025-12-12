@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 28/07/2001,15:00,Saint-Étienne,FC Istres,?,Alain Michel,20442,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006775
+2,dom 05/08/2001,15:45,US Créteil,Saint-Étienne,?,Alain Michel,6325,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006788
+3,sáb 11/08/2001,15:00,Saint-Étienne,Le Mans UC 72,?,Alain Michel,19007,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006796
+4,sex 17/08/2001,15:45,Grenoble,Saint-Étienne,?,Alain Michel,10131,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006799
+5,sáb 25/08/2001,15:00,Wasquehal,Saint-Étienne,?,Alain Michel,3413,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006818
+6,ter 28/08/2001,15:00,Saint-Étienne,AC Ajaccio,?,Alain Michel,17007,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006819
+7,sáb 08/09/2001,15:00,Amiens SC,Saint-Étienne,?,Alain Michel,10858,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006831
+8,sáb 15/09/2001,15:00,Saint-Étienne,FC Gueugnon,?,Alain Michel,17093,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006846
+9,sáb 22/09/2001,15:00,Nice,Saint-Étienne,?,Alain Michel,8666,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006854
+10,dom 30/09/2001,12:45,Saint-Étienne,Strasbourg,?,Alain Michel,18256,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006868
+11,sex 05/10/2001,15:00,AS Beauvais,Saint-Étienne,?,Alain Michel,7979,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006870
+12,sáb 13/10/2001,15:00,Saint-Étienne,Le Havre,?,Frédéric Antonetti,16176,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006888
+13,sáb 20/10/2001,16:00,Stade Lavallois,Saint-Étienne,?,Frédéric Antonetti,7772,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006892
+14,sáb 27/10/2001,16:00,Saint-Étienne,FC Martigues,?,Frédéric Antonetti,15402,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006906
+15,sex 09/11/2001,17:00,Chamois Niort,Saint-Étienne,?,Frédéric Antonetti,6114,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006917
+16,ter 13/11/2001,17:00,Saint-Étienne,Nîmes Olympique,?,Frédéric Antonetti,16044,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006925
+17,sáb 17/11/2001,17:00,SM Caen,Saint-Étienne,?,Frédéric Antonetti,17576,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006931
+18,qua 28/11/2001,17:30,Saint-Étienne,AS Nancy,?,Frédéric Antonetti,16871,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006946
+19,sáb 08/12/2001,17:00,LB Châteauroux,Saint-Étienne,?,Frédéric Antonetti,10225,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006951
+20,sáb 26/01/2002,15:00,Saint-Étienne,US Créteil,?,Frédéric Antonetti,13011,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006968
+21,sáb 22/12/2001,12:15,Le Mans UC 72,Saint-Étienne,?,Frédéric Antonetti,5795,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006969
+22,dom 20/01/2002,12:00,Saint-Étienne,Grenoble,?,Frédéric Antonetti,18120,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006984
+23,sáb 02/03/2002,15:00,Saint-Étienne,Wasquehal,?,Frédéric Antonetti,12902,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006997
+24,qua 23/01/2002,17:30,AC Ajaccio,Saint-Étienne,?,Frédéric Antonetti,3542,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007000
+25,qua 30/01/2002,17:30,Saint-Étienne,Amiens SC,?,Frédéric Antonetti,12310,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007016
+26,sáb 02/02/2002,17:00,FC Gueugnon,Saint-Étienne,?,Frédéric Antonetti,6194,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007021
+27,qua 06/02/2002,17:30,Saint-Étienne,Nice,?,Frédéric Antonetti,13433,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007037
+28,ter 12/02/2002,17:00,Strasbourg,Saint-Étienne,?,Frédéric Antonetti,12272,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010071
+29,dom 17/02/2002,13:15,Saint-Étienne,AS Beauvais,?,Frédéric Antonetti,14062,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010083
+30,sáb 23/02/2002,16:00,Le Havre,Saint-Étienne,?,Frédéric Antonetti,12739,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010087
+31,qua 06/03/2002,16:30,Saint-Étienne,Stade Lavallois,?,Frédéric Antonetti,11742,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010101
+32,sáb 16/03/2002,16:00,FC Martigues,Saint-Étienne,?,Frédéric Antonetti,2918,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010113
+33,sáb 23/03/2002,16:00,Saint-Étienne,Chamois Niort,?,Frédéric Antonetti,15204,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010122
+34,ter 26/03/2002,16:00,Nîmes Olympique,Saint-Étienne,?,Frédéric Antonetti,6425,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010130
+35,sáb 06/04/2002,15:00,Saint-Étienne,SM Caen,?,Frédéric Antonetti,17416,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010141
+36,sáb 13/04/2002,15:00,AS Nancy,Saint-Étienne,?,Frédéric Antonetti,4465,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010149
+37,sex 26/04/2002,15:00,Saint-Étienne,LB Châteauroux,?,Frédéric Antonetti,17081,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010161
+38,sex 03/05/2002,15:00,FC Istres,Saint-Étienne,?,Frédéric Antonetti,1474,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010168

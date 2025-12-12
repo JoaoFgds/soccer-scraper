@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/08/2023,14:30,Las Palmas,Mallorca,4-3-3 ofensivo,Xavier García Pimienta,24100,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112810
+2,sex 18/08/2023,16:30,Valencia,Las Palmas,4-3-3 ofensivo,Xavier García Pimienta,41053,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113164
+3,sex 25/08/2023,14:30,Las Palmas,Real Sociedad,4-3-3 ofensivo,Xavier García Pimienta,25335,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113084
+4,dom 03/09/2023,09:00,Girona,Las Palmas,4-3-3 ofensivo,Xavier García Pimienta,11619,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113049
+5,dom 17/09/2023,13:30,Sevilla,Las Palmas,4-3-3 ofensivo,Xavier García Pimienta,40578,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113173
+6,dom 24/09/2023,13:30,Las Palmas,Granada CF,4-3-3 ofensivo,Xavier García Pimienta,24848,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113167
+7,qua 27/09/2023,14:00,Real Madrid,Las Palmas,4-3-3 ofensivo,Xavier García Pimienta,65017,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113073
+8,seg 02/10/2023,16:00,Las Palmas,Celta de Vigo,4-3-3 ofensivo,Xavier García Pimienta,22472,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112965
+9,dom 08/10/2023,09:00,Villarreal,Las Palmas,4-3-3 ofensivo,Xavier García Pimienta,16249,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113064
+10,dom 22/10/2023,09:00,Las Palmas,Rayo Vallecano,4-3-3 ofensivo,Xavier García Pimienta,24548,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113109
+11,sáb 28/10/2023,09:00,UD Almería,Las Palmas,4-3-3 ofensivo,Xavier García Pimienta,12132,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113114
+12,sex 03/11/2023,17:00,Las Palmas,Atlético,4-3-3 ofensivo,Xavier García Pimienta,30080,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113115
+13,sáb 11/11/2023,14:30,Osasuna,Las Palmas,4-3-3 ofensivo,Xavier García Pimienta,20125,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113110
+14,dom 26/11/2023,17:00,Betis,Las Palmas,4-3-3 ofensivo,Xavier García Pimienta,48132,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113076
+15,sex 01/12/2023,17:00,Las Palmas,Getafe,4-3-3 ofensivo,Xavier García Pimienta,21912,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113166
+16,sáb 09/12/2023,10:00,Alavés,Las Palmas,4-3-3 ofensivo,Xavier García Pimienta,15971,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112880
+17,dom 17/12/2023,14:30,Las Palmas,Cádiz CF,4-3-3 ofensivo,Xavier García Pimienta,25275,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112852
+18,qua 20/12/2023,17:30,Athletic Club,Las Palmas,4-3-3 ofensivo,Xavier García Pimienta,39471,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112865
+19,qui 04/01/2024,17:30,Las Palmas,Barcelona,4-3-3 ofensivo,Xavier García Pimienta,31712,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112860
+20,sáb 13/01/2024,10:00,Las Palmas,Villarreal,4-3-3 ofensivo,Xavier García Pimienta,24485,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112822
+21,sáb 20/01/2024,10:00,Rayo Vallecano,Las Palmas,4-3-3 ofensivo,Xavier García Pimienta,12477,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112834
+22,sáb 27/01/2024,12:15,Las Palmas,Real Madrid,4-3-3 ofensivo,Xavier García Pimienta,32037,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112836
+23,sáb 03/02/2024,12:15,Granada CF,Las Palmas,4-3-3 ofensivo,Xavier García Pimienta,17941,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113039
+24,sáb 10/02/2024,17:00,Las Palmas,Valencia,4-3-3 ofensivo,Xavier García Pimienta,25633,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112888
+25,sáb 17/02/2024,10:00,Atlético,Las Palmas,4-3-3 ofensivo,Xavier García Pimienta,61196,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113176
+26,dom 25/02/2024,14:30,Las Palmas,Osasuna,4-3-3 ofensivo,Xavier García Pimienta,25075,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113032
+27,sáb 02/03/2024,14:30,Getafe,Las Palmas,4-3-3 ofensivo,Xavier García Pimienta,7623,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113007
+28,dom 10/03/2024,12:15,Las Palmas,Athletic Club,4-3-3 ofensivo,Xavier García Pimienta,27316,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113001
+29,dom 17/03/2024,12:15,Las Palmas,UD Almería,4-3-3 ofensivo,Xavier García Pimienta,22865,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112988
+30,sáb 30/03/2024,17:00,Barcelona,Las Palmas,4-1-4-1,Xavier García Pimienta,46788,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112976
+31,dom 14/04/2024,09:00,Las Palmas,Sevilla,4-3-3 ofensivo,Xavier García Pimienta,23698,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113020
+32,sáb 20/04/2024,09:00,Celta de Vigo,Las Palmas,4-3-3 ofensivo,Xavier García Pimienta,21256,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112927
+33,sáb 27/04/2024,09:00,Las Palmas,Girona,4-5-1 plano,Xavier García Pimienta,18734,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112942
+34,sáb 04/05/2024,09:00,Real Sociedad,Las Palmas,4-2-3-1,Xavier García Pimienta,29330,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112953
+35,sáb 11/05/2024,09:00,Mallorca,Las Palmas,4-3-3 ofensivo,Xavier García Pimienta,16050,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112964
+36,qui 16/05/2024,14:30,Las Palmas,Betis,4-2-3-1,Xavier García Pimienta,22606,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112920
+37,dom 19/05/2024,14:00,Cádiz CF,Las Palmas,4-3-3 ofensivo,Xavier García Pimienta,18950,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112909
+38,dom 26/05/2024,11:15,Las Palmas,Alavés,4-2-3-1,Xavier García Pimienta,23043,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112904

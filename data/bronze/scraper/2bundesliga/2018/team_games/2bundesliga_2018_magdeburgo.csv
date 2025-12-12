@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 05/08/2018,08:30,Magdeburgo,St. Pauli,4-2-3-1,Jens Härtel,24156,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058423
+2,dom 12/08/2018,10:30,Erzgebirge Aue,Magdeburgo,5-4-1 plano,Jens Härtel,13300,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058628
+3,sáb 25/08/2018,08:00,Magdeburgo,Ingolstadt,5-4-1 plano,Jens Härtel,18913,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058737
+4,seg 03/09/2018,15:30,Holstein Kiel,Magdeburgo,5-4-1 plano,Jens Härtel,9314,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058756
+5,seg 17/09/2018,15:30,Magdeburgo,Arm. Bielefeld,5-4-1 plano,Jens Härtel,19794,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058773
+6,dom 23/09/2018,08:30,Paderborn,Magdeburgo,5-4-1 plano,Jens Härtel,11525,4:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058781
+7,qua 26/09/2018,13:30,Magdeburgo,MSV Duisburg,3-4-3 plano,Jens Härtel,18696,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058789
+8,dom 30/09/2018,08:30,Sandhausen,Magdeburgo,3-4-2-1,Jens Härtel,7352,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058810
+9,sáb 06/10/2018,08:00,Magdeburgo,Dynamo Dresden,5-4-1 plano,Jens Härtel,23042,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058837
+10,sáb 20/10/2018,08:00,Heidenheim,Magdeburgo,5-4-1 plano,Jens Härtel,10450,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058844
+11,sex 26/10/2018,13:30,Magdeburgo,Hamburgo,4-2-3-1,Jens Härtel,23132,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058853
+12,sáb 03/11/2018,09:00,Darmstadt 98,Magdeburgo,4-2-3-1,Jens Härtel,15410,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058860
+13,dom 11/11/2018,10:30,Magdeburgo,J. Regensburg,3-4-3 plano,Jens Härtel,20336,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058871
+14,sex 23/11/2018,15:30,Greuther Fürth,Magdeburgo,3-5-2,Michael Oenning,9390,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058919
+15,dom 02/12/2018,10:30,Magdeburgo,Bochum,3-5-2,Michael Oenning,22252,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058907
+16,dom 09/12/2018,10:30,Magdeburgo,Union Berlim,3-4-1-2,Michael Oenning,23149,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058928
+17,seg 17/12/2018,17:30,Colônia,Magdeburgo,3-4-1-2,Michael Oenning,49500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058929
+18,sáb 22/12/2018,10:00,St. Pauli,Magdeburgo,3-4-1-2,Michael Oenning,29546,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058944
+19,ter 29/01/2019,17:30,Magdeburgo,Erzgebirge Aue,4-3-3 ofensivo,Michael Oenning,18757,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058955
+20,sex 01/02/2019,15:30,Ingolstadt,Magdeburgo,4-3-3 ofensivo,Michael Oenning,8216,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058959
+21,dom 10/02/2019,10:30,Magdeburgo,Holstein Kiel,4-3-1-2,Michael Oenning,19704,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058973
+22,dom 17/02/2019,09:30,Arm. Bielefeld,Magdeburgo,4-3-1-2,Michael Oenning,19568,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058975
+23,dom 24/02/2019,09:30,Magdeburgo,Paderborn,4-3-1-2,Michael Oenning,20201,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058991
+24,sex 01/03/2019,14:30,MSV Duisburg,Magdeburgo,4-3-1-2,Michael Oenning,13416,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058995
+25,dom 10/03/2019,09:30,Magdeburgo,Sandhausen,4-3-1-2,Michael Oenning,19615,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059009
+26,sáb 16/03/2019,09:00,Dynamo Dresden,Magdeburgo,4-3-1-2,Michael Oenning,30500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059017
+27,sex 29/03/2019,14:30,Magdeburgo,Heidenheim,4-3-1-2,Michael Oenning,17517,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059027
+28,seg 08/04/2019,15:30,Hamburgo,Magdeburgo,4-3-1-2,Michael Oenning,49823,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059028
+29,sáb 13/04/2019,08:00,Magdeburgo,Darmstadt 98,4-3-3 ofensivo,Michael Oenning,17413,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059044
+30,dom 21/04/2019,08:30,J. Regensburg,Magdeburgo,4-3-3 ofensivo,Michael Oenning,10543,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059049
+31,sáb 27/04/2019,08:00,Magdeburgo,Greuther Fürth,3-1-4-2,Michael Oenning,18243,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059062
+32,sáb 04/05/2019,08:00,Bochum,Magdeburgo,3-4-1-2,Michael Oenning,17339,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059068
+33,dom 12/05/2019,10:30,Union Berlim,Magdeburgo,4-3-1-2,Michael Oenning,22012,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058750
+34,dom 19/05/2019,10:30,Magdeburgo,Colônia,4-3-3 ofensivo,Michael Oenning,18902,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058746

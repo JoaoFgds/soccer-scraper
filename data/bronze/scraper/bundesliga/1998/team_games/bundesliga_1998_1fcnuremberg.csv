@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 15/08/1998,10:30,Nuremberg,Hamburgo,3-5-2,Willi Reimann,40000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17846
+2,sex 21/08/1998,15:00,Werder Bremen,Nuremberg,3-4-1-2,Willi Reimann,26153,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17854
+3,qua 09/09/1998,14:30,Nuremberg,Dortmund,3-5-2,Willi Reimann,44000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17867
+4,sáb 12/09/1998,10:30,Schalke,Nuremberg,3-5-2,Willi Reimann,48900,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17874
+5,sáb 19/09/1998,10:30,Nuremberg,K'lautern,3-5-2,Willi Reimann,44500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17882
+6,dom 27/09/1998,13:00,Frankfurt,Nuremberg,3-5-2 ofensivo,Willi Reimann,24000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17897
+7,sáb 03/10/1998,10:30,Nuremberg,1860 Munique,?,Willi Reimann,42800,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17900
+8,sáb 17/10/1998,11:30,M'gladbach,Nuremberg,?,Willi Reimann,28100,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17909
+9,sáb 24/10/1998,11:30,Nuremberg,Stuttgart,3-5-2,Willi Reimann,44000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17918
+10,dom 01/11/1998,15:00,Hertha Berlim,Nuremberg,?,Willi Reimann,31493,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17931
+11,sex 06/11/1998,16:30,MSV Duisburg,Nuremberg,3-1-4-2,Willi Reimann,11876,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17934
+12,qua 11/11/1998,16:30,Nuremberg,Bochum,?,Willi Reimann,23800,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17945
+13,sáb 14/11/1998,12:30,Leverkusen,Nuremberg,3-5-2 plano,Willi Reimann,22500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17954
+14,sáb 21/11/1998,12:30,Nuremberg,Wolfsburg,3-5-2 plano,Willi Reimann,22200,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17964
+15,sáb 28/11/1998,12:30,Bayern,Nuremberg,?,Willi Reimann,63000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17973
+16,sex 04/12/1998,16:30,Nuremberg,Hansa Rostock,?,Thomas Brunner,23600,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17979
+17,sáb 12/12/1998,12:30,Freiburg,Nuremberg,3-5-2,Thomas Brunner,22000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17993
+18,sáb 19/12/1998,12:30,Hamburgo,Nuremberg,3-5-2,Thomas Brunner,19200,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18003
+19,sáb 20/02/1999,12:30,Nuremberg,Werder Bremen,3-5-2 plano,Friedel Rausch,32000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18007
+20,sáb 27/02/1999,11:30,Dortmund,Nuremberg,3-5-2,Friedel Rausch,64000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18017
+21,sex 05/03/1999,16:00,Nuremberg,Schalke,?,Friedel Rausch,40100,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18024
+22,sáb 13/03/1999,11:30,K'lautern,Nuremberg,5-3-2,Friedel Rausch,41500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18035
+23,sáb 20/03/1999,11:30,Nuremberg,Frankfurt,3-5-2,Friedel Rausch,34500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18044
+24,sáb 03/04/1999,10:30,1860 Munique,Nuremberg,?,Friedel Rausch,50400,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18056
+25,sáb 10/04/1999,10:30,Nuremberg,M'gladbach,?,Friedel Rausch,43500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18062
+26,ter 13/04/1999,14:30,Stuttgart,Nuremberg,3-1-4-2,Friedel Rausch,21000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18073
+27,sáb 17/04/1999,10:30,Nuremberg,Hertha Berlim,3-5-2,Friedel Rausch,33000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18080
+28,sáb 24/04/1999,10:30,Nuremberg,MSV Duisburg,?,Friedel Rausch,26000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18090
+29,sex 30/04/1999,15:00,Bochum,Nuremberg,3-1-4-2,Friedel Rausch,20000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18097
+30,qua 05/05/1999,15:00,Nuremberg,Leverkusen,4-4-2 líbero plano,Friedel Rausch,31300,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18109
+31,sáb 08/05/1999,10:30,Wolfsburg,Nuremberg,3-5-2,Friedel Rausch,14849,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18121
+32,sáb 15/05/1999,10:30,Nuremberg,Bayern,?,Friedel Rausch,44400,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18125
+33,sáb 22/05/1999,10:30,Hansa Rostock,Nuremberg,?,Friedel Rausch,23500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18137
+34,sáb 29/05/1999,10:30,Nuremberg,Freiburg,3-5-2,Friedel Rausch,42800,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18141

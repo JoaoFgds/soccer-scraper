@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 11/08/1990,10:30,Wattenscheid 09,Werder Bremen,4-4-2 líbero plano,Hannes Bongartz,12000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15327
+2,sáb 18/08/1990,10:30,Bayer 05,Wattenscheid 09,4-4-2 duplo 6,Hannes Bongartz,9100,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15339
+3,sáb 25/08/1990,10:30,Wattenscheid 09,M'gladbach,4-4-2 duplo 6,Hannes Bongartz,10000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15346
+4,ter 04/09/1990,15:00,Leverkusen,Wattenscheid 09,4-4-2 duplo 6,Hannes Bongartz,9500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15357
+5,sáb 08/09/1990,10:30,Wattenscheid 09,Colônia,4-4-2 duplo 6,Hannes Bongartz,13000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15363
+6,sex 14/09/1990,15:00,St. Pauli,Wattenscheid 09,3-5-2 plano,Hannes Bongartz,17800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15368
+7,sex 21/09/1990,15:00,Wattenscheid 09,Hamburgo,4-4-2 líbero losango,Hannes Bongartz,7500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15376
+8,sáb 29/09/1990,10:30,Stuttgart,Wattenscheid 09,4-4-2 líbero plano,Hannes Bongartz,19500,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15389
+9,sáb 06/10/1990,11:30,Wattenscheid 09,Frankfurt,4-3-3 com líbero,Hannes Bongartz,10226,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15398
+10,sex 12/10/1990,16:00,Karlsruher,Wattenscheid 09,4-4-2 líbero plano,Hannes Bongartz,20000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15403
+11,sex 19/10/1990,16:00,Wattenscheid 09,Dortmund,4-4-2 líbero losango,Hannes Bongartz,43200,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15413
+12,sáb 27/10/1990,12:30,K'lautern,Wattenscheid 09,3-5-2 plano,Hannes Bongartz,28599,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15423
+13,sex 09/11/1990,17:00,Wattenscheid 09,Hertha Berlim,4-4-2 líbero losango,Hannes Bongartz,6827,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15430
+14,sex 16/11/1990,17:00,Düsseldorf,Wattenscheid 09,4-4-2 duplo 6,Hannes Bongartz,10000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15441
+15,sáb 24/11/1990,12:30,Bayern,Wattenscheid 09,3-5-2,Hannes Bongartz,19000,7:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15449
+16,sáb 08/12/1990,12:30,Wattenscheid 09,Bochum,3-5-2,Hannes Bongartz,33300,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15464
+17,sáb 16/02/1991,12:30,Nuremberg,Wattenscheid 09,3-5-2,Hannes Bongartz,19772,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15471
+18,ter 26/02/1991,16:00,Werder Bremen,Wattenscheid 09,5-3-2,Hannes Bongartz,18000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15480
+19,sex 01/03/1991,16:00,Wattenscheid 09,Bayer 05,3-5-2,Hannes Bongartz,5226,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15484
+20,sáb 09/03/1991,11:30,M'gladbach,Wattenscheid 09,3-5-2 ofensivo,Hannes Bongartz,15293,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15500
+21,sex 15/03/1991,16:00,Wattenscheid 09,Leverkusen,4-4-2 losango,Hannes Bongartz,7324,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15504
+22,sáb 23/03/1991,11:30,Colônia,Wattenscheid 09,5-4-1,Hannes Bongartz,10000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15515
+23,qua 03/04/1991,15:00,Wattenscheid 09,St. Pauli,4-4-2 duplo 6,Hannes Bongartz,5000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15528
+24,sáb 06/04/1991,10:30,Hamburgo,Wattenscheid 09,5-4-1 plano,Hannes Bongartz,16000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15535
+25,sex 12/04/1991,15:00,Wattenscheid 09,Stuttgart,4-4-2 duplo 6,Hannes Bongartz,5945,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15538
+26,ter 16/04/1991,15:00,Frankfurt,Wattenscheid 09,3-5-2 plano,Hannes Bongartz,11200,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15550
+27,sex 19/04/1991,15:00,Wattenscheid 09,Karlsruher,4-4-2 duplo 6,Hannes Bongartz,4000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15556
+28,sáb 04/05/1991,10:30,Dortmund,Wattenscheid 09,4-4-2 duplo 6,Hannes Bongartz,28383,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15572
+29,sáb 11/05/1991,10:30,Wattenscheid 09,K'lautern,3-5-2,Hannes Bongartz,15000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15577
+30,sáb 18/05/1991,10:30,Hertha Berlim,Wattenscheid 09,5-4-1,Hannes Bongartz,6541,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15590
+31,sáb 25/05/1991,10:30,Wattenscheid 09,Düsseldorf,4-4-2 duplo 6,Hannes Bongartz,8357,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15600
+32,sáb 01/06/1991,10:30,Wattenscheid 09,Bayern,3-5-2,Hannes Bongartz,35000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15605
+33,sáb 08/06/1991,10:30,Bochum,Wattenscheid 09,4-5-1 plano,Hannes Bongartz,25000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15617
+34,sáb 15/06/1991,10:30,Wattenscheid 09,Nuremberg,4-4-2 duplo 6,Hannes Bongartz,9500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15627

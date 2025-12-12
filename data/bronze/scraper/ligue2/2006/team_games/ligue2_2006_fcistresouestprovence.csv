@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 28/07/2006,15:00,FC Istres,SC Bastia,?,Jean-Louis Gasset,3326,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58048
+2,sex 04/08/2006,15:00,FC Metz,FC Istres,?,Jean-Louis Gasset,10683,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58040
+3,ter 08/08/2006,15:00,FC Istres,Dijon,?,Jean-Louis Gasset,3269,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58059
+4,sex 11/08/2006,16:00,Montpellier,FC Istres,?,Jean-Louis Gasset,4333,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58074
+5,sex 18/08/2006,15:00,FC Istres,Chamois Niort,?,Jean-Louis Gasset,3139,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58081
+6,dom 27/08/2006,11:30,LB Châteauroux,FC Istres,?,Jean-Louis Gasset,5246,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58087
+7,sex 08/09/2006,15:00,FC Istres,Guingamp,?,Jean-Louis Gasset,3248,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58102
+8,sex 15/09/2006,15:00,Tours FC,FC Istres,?,Jean-Louis Gasset,3552,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58115
+9,sex 22/09/2006,15:00,FC Istres,Amiens SC,?,René Le Lamer,3659,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58121
+10,sex 29/09/2006,15:00,US Créteil-L,FC Istres,?,René Le Lamer,2424,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58129
+11,sex 13/10/2006,15:00,FC Istres,Le Havre,?,René Le Lamer,4220,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58141
+12,sex 20/10/2006,15:00,AC Ajaccio,FC Istres,?,Bernard Rodriguez,2064,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58146
+13,seg 30/10/2006,17:30,FC Istres,Grenoble,?,Bernard Rodriguez,3949,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58161
+14,sex 03/11/2006,17:00,Strasbourg,FC Istres,?,Bernard Rodriguez,14305,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58174
+15,ter 07/11/2006,18:00,FC Istres,FC Gueugnon,?,Bernard Rodriguez,3674,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58180
+16,sex 10/11/2006,18:00,FC Istres,Brest,?,Bernard Rodriguez,3594,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58192
+17,sex 17/11/2006,18:00,Reims,FC Istres,?,Bernard Rodriguez,6184,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58205
+18,sex 01/12/2006,18:00,FC Istres,Lib.-St.-Seurin,?,Bernard Rodriguez,4632,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58211
+19,sex 08/12/2006,18:00,SM Caen,FC Istres,?,René Le Lamer,13233,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58219
+20,sex 22/12/2006,18:00,FC Istres,FC Metz,?,René Le Lamer,3981,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58231
+21,sex 12/01/2007,18:00,Dijon,FC Istres,?,René Le Lamer,4958,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58240
+22,sex 26/01/2007,18:00,FC Istres,Montpellier,?,René Le Lamer,3864,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58251
+23,sex 02/02/2007,18:00,Chamois Niort,FC Istres,?,René Le Lamer,3333,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58264
+24,sex 09/02/2007,18:00,FC Istres,LB Châteauroux,?,René Le Lamer,3625,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58272
+25,sex 16/02/2007,18:00,Guingamp,FC Istres,?,René Le Lamer,8705,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58280
+26,sex 23/02/2007,18:00,FC Istres,Tours FC,?,René Le Lamer,3970,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58291
+27,sex 02/03/2007,17:00,Amiens SC,FC Istres,?,René Le Lamer,6912,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58297
+28,sex 09/03/2007,17:00,FC Istres,US Créteil-L,?,René Le Lamer,3719,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58311
+29,sex 16/03/2007,17:00,Le Havre,FC Istres,?,René Le Lamer,8878,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58322
+30,sex 30/03/2007,15:00,FC Istres,AC Ajaccio,?,René Le Lamer,5961,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58331
+31,sex 06/04/2007,15:00,Grenoble,FC Istres,?,René Le Lamer,6060,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58340
+32,sex 13/04/2007,15:30,FC Istres,Strasbourg,?,René Le Lamer,4983,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58350
+33,sex 20/04/2007,15:00,FC Gueugnon,FC Istres,?,René Le Lamer,3256,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58361
+34,sex 27/04/2007,15:00,Brest,FC Istres,?,René Le Lamer,6644,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58368
+35,sex 04/05/2007,15:00,FC Istres,Reims,?,René Le Lamer,4584,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58382
+36,sex 11/05/2007,15:00,Lib.-St.-Seurin,FC Istres,?,René Le Lamer,2720,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58392
+37,sex 18/05/2007,15:00,FC Istres,SM Caen,?,René Le Lamer,4680,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58401
+38,sex 25/05/2007,15:00,SC Bastia,FC Istres,?,René Le Lamer,2485,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58407

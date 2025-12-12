@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 30/05/2021,20:30,Internacional,Sport,4-3-1-2,Umberto Louzer,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546465
+2,dom 06/06/2021,20:30,Sport,Atlético-MG,4-2-3-1,Umberto Louzer,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546477
+3,dom 13/06/2021,20:30,Fortaleza,Sport,4-2-3-1,Umberto Louzer,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3571599
+4,qui 17/06/2021,19:00,Sport,Grêmio,3-5-2,Umberto Louzer,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3572014
+5,dom 20/06/2021,20:30,Juventude,Sport,3-5-2,Umberto Louzer,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3572027
+6,qui 24/06/2021,19:00,Corinthians,Sport,3-5-2,Umberto Louzer,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580701
+7,dom 27/06/2021,20:30,Sport,Cuiabá,4-4-2,Umberto Louzer,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580712
+8,qua 30/06/2021,20:30,Santos,Sport,4-2-3-1,Umberto Louzer,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580719
+9,dom 04/07/2021,16:00,Sport,Palmeiras,4-2-3-1,Umberto Louzer,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583805
+10,qua 07/07/2021,19:15,Atlético-GO,Sport,4-2-3-1,Umberto Louzer,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583818
+11,sáb 10/07/2021,19:00,Sport,Fluminense,4-1-4-1,Umberto Louzer,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583825
+12,seg 19/07/2021,20:00,América-MG,Sport,4-2-3-1,Umberto Louzer,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583832
+13,dom 25/07/2021,20:30,Sport,Ceará,4-2-3-1,Umberto Louzer,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583845
+14,dom 01/08/2021,18:15,Bahia,Sport,4-2-3-1,Umberto Louzer,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583875
+15,sex 06/08/2021,19:00,Sport,Bragantino,4-2-3-1,Umberto Louzer,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583865
+16,dom 15/08/2021,16:00,Flamengo,Sport,4-2-3-1,Umberto Louzer,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583849
+17,dom 22/08/2021,20:30,Sport,São Paulo,4-2-3-1,Umberto Louzer,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583885
+18,sáb 28/08/2021,17:00,Sport,Chapecoense,4-2-3-1,Ricardo Severo,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583895
+19,dom 05/09/2021,18:15,Athletico-PR,Sport,4-2-3-1,Gustavo Florentín,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583906
+20,seg 13/09/2021,20:00,Sport,Internacional,5-3-2,Gustavo Florentín,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583935
+21,sáb 18/09/2021,19:00,Atlético-MG,Sport,4-2-3-1,Gustavo Florentín,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583922
+22,dom 26/09/2021,18:15,Sport,Fortaleza,4-2-3-1,Gustavo Florentín,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583915
+23,dom 03/10/2021,20:30,Grêmio,Sport,4-2-3-1,Gustavo Florentín,7147,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583943
+24,qua 06/10/2021,19:00,Sport,Juventude,4-2-3-1,Gustavo Florentín,1219,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583955
+25,sáb 09/10/2021,16:30,Sport,Corinthians,4-1-4-1,Gustavo Florentín,2489,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583965
+26,qui 14/10/2021,19:00,Cuiabá,Sport,4-2-3-1,Gustavo Florentín,3054,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583998
+27,dom 17/10/2021,20:30,Sport,Santos,4-2-3-1,Gustavo Florentín,5272,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583985
+28,seg 25/10/2021,21:30,Palmeiras,Sport,4-2-3-1,Gustavo Florentín,13367,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583970
+29,dom 31/10/2021,20:30,Sport,Atlético-GO,4-1-4-1,Gustavo Florentín,3685,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584005
+30,sáb 06/11/2021,21:00,Fluminense,Sport,4-1-4-1,Gustavo Florentín,3870,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584009
+31,qua 10/11/2021,21:30,Sport,América-MG,4-1-4-1,Gustavo Florentín,5441,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584025
+32,dom 14/11/2021,19:00,Ceará,Sport,4-1-4-1,Gustavo Florentín,20362,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584054
+33,qui 18/11/2021,21:00,Sport,Bahia,4-3-3 ofensivo,Gustavo Florentín,8096,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584045
+34,qui 28/10/2021,19:00,Bragantino,Sport,4-2-3-1,Gustavo Florentín,931,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584036
+35,sex 03/12/2021,20:00,Sport,Flamengo,4-2-3-1,Gustavo Florentín,10523,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584065
+36,sáb 27/11/2021,21:30,São Paulo,Sport,4-3-3 ofensivo,Gustavo Florentín,35679,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584071
+37,seg 06/12/2021,21:00,Chapecoense,Sport,4-2-3-1,Gustavo Florentín,1658,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584087
+38,qui 09/12/2021,21:30,Sport,Athletico-PR,4-2-3-1,Gustavo Florentín,4215,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584095

@@ -1,0 +1,31 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qui 25/08/2022,13:05,Al-Fayha,Damac FC,4-3-3 ofensivo,Kresimir Rezic,6291,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3900987
+2,sex 02/09/2022,15:00,Damac FC,Al-Khaleej,4-3-3 ofensivo,Kresimir Rezic,746,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3900984
+3,sáb 10/09/2022,15:00,Al-Nassr,Damac FC,5-4-1,Kresimir Rezic,14972,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901098
+4,sex 16/09/2022,12:50,Al-Taawoun,Damac FC,4-4-2,Kresimir Rezic,4532,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901048
+5,sáb 01/10/2022,12:30,Damac FC,Al-Tai,4-3-3 ofensivo,Kresimir Rezic,1608,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901036
+6,qui 06/10/2022,15:00,Al-Batin,Damac FC,4-3-3 ofensivo,Kresimir Rezic,3182,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901069
+7,ter 11/10/2022,11:50,Damac FC,Al-Ittihad,3-4-3 plano,Kresimir Rezic,13266,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3900999
+8,dom 16/10/2022,14:30,Al-Adalah,Damac FC,4-3-3 ofensivo,Kresimir Rezic,12978,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901009
+9,qui 15/12/2022,09:30,Damac FC,Al-Ettifaq,4-4-2 duplo 6,Kresimir Rezic,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901032
+10,dom 25/12/2022,09:30,Damac FC,Al-Wehda,4-2-3-1,Kresimir Rezic,356,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901079
+11,sáb 31/12/2022,14:30,Al-Hilal,Damac FC,5-4-1 plano,Kresimir Rezic,4889,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901058
+12,qui 05/01/2023,09:30,Damac FC,Al-Raed,4-2-3-1,Kresimir Rezic,388,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901087
+13,sex 13/01/2023,09:30,Abha,Damac FC,4-2-3-1,Kresimir Rezic,1747,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901013
+14,sex 20/01/2023,12:00,Damac FC,Al-Fateh,4-4-2,Kresimir Rezic,2787,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901063
+15,qui 02/02/2023,12:00,Al-Shabab,Damac FC,4-4-2,Kresimir Rezic,2551,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901025
+16,sex 10/02/2023,10:00,Damac FC,Al-Fayha,4-4-2,Kresimir Rezic,3600,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4002725
+17,sáb 18/02/2023,12:00,Al-Khaleej,Damac FC,5-4-1,Kresimir Rezic,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4002735
+18,sáb 25/02/2023,12:30,Damac FC,Al-Nassr,5-4-1 plano,Kresimir Rezic,13434,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4002742
+19,sáb 04/03/2023,10:00,Damac FC,Al-Taawoun,4-1-4-1,Kresimir Rezic,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4002750
+20,sáb 11/03/2023,10:00,Al-Tai,Damac FC,4-3-3 ofensivo,Cosmin Contra,5890,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4002758
+21,sex 17/03/2023,10:00,Damac FC,Al-Batin,4-3-3 ofensivo,Cosmin Contra,3316,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4002762
+22,ter 04/04/2023,16:00,Al-Ittihad,Damac FC,4-2-3-1,Cosmin Contra,38414,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4002768
+23,seg 10/04/2023,16:00,Damac FC,Al-Adalah,4-2-3-1,Cosmin Contra,3302,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4002780
+24,sex 28/04/2023,13:00,Al-Ettifaq,Damac FC,4-2-3-1,Cosmin Contra,2208,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4057497
+25,qua 03/05/2023,15:30,Al-Wehda,Damac FC,4-2-3-1,Cosmin Contra,468,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4057510
+26,sex 19/05/2023,15:00,Damac FC,Al-Hilal,5-4-1,Cosmin Contra,13413,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4066477
+27,seg 15/05/2023,13:00,Al-Raed,Damac FC,4-2-3-1,Cosmin Contra,2901,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4066482
+28,seg 22/05/2023,13:00,Damac FC,Abha,4-4-2,Cosmin Contra,2105,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4066492
+29,sáb 27/05/2023,15:00,Al-Fateh,Damac FC,4-1-4-1,Cosmin Contra,7324,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4066499
+30,qua 31/05/2023,15:00,Damac FC,Al-Shabab,4-1-4-1,Cosmin Contra,609,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4066508

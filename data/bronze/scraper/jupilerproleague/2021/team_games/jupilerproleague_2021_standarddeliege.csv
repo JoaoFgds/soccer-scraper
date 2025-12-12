@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 23/07/2021,15:45,Standard Liège,KRC Genk,5-3-2,Mbaye Leye,9000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598094
+2,dom 01/08/2021,11:00,Zulte Waregem,Standard Liège,5-3-2,Mbaye Leye,4124,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598143
+3,dom 08/08/2021,08:30,Standard Liège,Antuérpia,5-3-2,Mbaye Leye,8038,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598112
+4,dom 15/08/2021,08:30,Beerschot VA,Standard Liège,4-3-3 ofensivo,Mbaye Leye,4000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598107
+5,sex 20/08/2021,15:45,Standard Liège,KV Oostende,4-3-3 ofensivo,Mbaye Leye,16261,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598148
+6,sáb 28/08/2021,15:45,Union SG,Standard Liège,4-4-2 losango,Mbaye Leye,6255,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598133
+7,dom 12/09/2021,13:30,RFC Seraing,Standard Liège,3-4-1-2,Mbaye Leye,7000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598124
+8,dom 19/09/2021,13:30,Standard Liège,Anderlecht,4-3-1-2,Mbaye Leye,24000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598191
+9,sáb 25/09/2021,15:45,Standard Liège,St.Truiden,4-4-2 duplo 6,Mbaye Leye,20456,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598183
+10,sex 01/10/2021,15:45,KV Mechelen,Standard Liège,5-4-1 plano,Mbaye Leye,15067,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598206
+11,sáb 16/10/2021,15:45,Standard Liège,OH Leuven,4-4-2 duplo 6,Luka Elsner,18645,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598165
+12,sáb 23/10/2021,11:15,Cercle Brügge,Standard Liège,4-4-2 duplo 6,Luka Elsner,3552,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598215
+13,sáb 30/10/2021,13:30,Standard Liège,KV Kortrijk,4-5-1,Luka Elsner,16852,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598219
+14,dom 07/11/2021,09:30,Club Brugge,Standard Liège,4-2-3-1,Luka Elsner,26305,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598155
+15,sáb 20/11/2021,16:45,Standard Liège,KAS Eupen,4-3-3 ofensivo,Luka Elsner,16341,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598228
+16,dom 28/11/2021,14:30,KAA Gent,Standard Liège,4-3-3 ofensivo,Luka Elsner,18120,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598237
+17,dom 05/12/2021,14:30,Standard Liège,R Charleroi SC,4-3-3 ofensivo,Luka Elsner,22512,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598399
+18,dom 12/12/2021,09:30,Antuérpia,Standard Liège,4-3-3 ofensivo,Luka Elsner,10980,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598330
+19,qua 02/03/2022,14:45,Standard Liège,Beerschot VA,3-4-1-2,Luka Elsner,9423,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598264
+20,dom 19/12/2021,17:00,OH Leuven,Standard Liège,4-2-3-1,Luka Elsner,4280,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598339
+21,dom 26/12/2021,12:00,Standard Liège,Zulte Waregem,4-3-3 defensivo,Luka Elsner,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598245
+22,dom 16/01/2022,14:30,Anderlecht,Standard Liège,4-4-2,Luka Elsner,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598291
+23,dom 23/01/2022,09:30,Standard Liège,Club Brugge,4-4-2 duplo 6,Luka Elsner,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598310
+24,qua 26/01/2022,14:45,KAS Eupen,Standard Liège,4-4-2,Luka Elsner,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598395
+25,dom 30/01/2022,14:30,Standard Liège,KV Mechelen,4-4-2,Luka Elsner,10286,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598386
+26,sáb 05/02/2022,14:30,Standard Liège,Cercle Brügge,4-5-1,Luka Elsner,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598336
+27,dom 13/02/2022,09:30,KRC Genk,Standard Liège,4-3-3 ofensivo,Luka Elsner,13581,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598255
+28,sáb 19/02/2022,14:30,KV Oostende,Standard Liège,4-5-1,Luka Elsner,3267,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598289
+29,dom 27/02/2022,14:30,Standard Liège,KAA Gent,3-4-1-2,Luka Elsner,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598321
+30,dom 06/03/2022,14:30,R Charleroi SC,Standard Liège,5-3-2,Luka Elsner,11503,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598279
+31,dom 13/03/2022,17:00,Standard Liège,RFC Seraing,5-3-2,Luka Elsner,16311,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598300
+32,dom 20/03/2022,12:00,KV Kortrijk,Standard Liège,3-4-1-2,Luka Elsner,6576,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598344
+33,dom 03/04/2022,08:30,Standard Liège,Union SG,3-4-2-1,Luka Elsner,20000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598325
+34,dom 10/04/2022,13:30,St.Truiden,Standard Liège,5-4-1 plano,Luka Elsner,10076,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598360

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 09/08/2020,16:00,Flamengo,Atlético-MG,4-2-3-1,Domènec Torrent,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3392037
+2,ter 11/08/2020,20:30,Atlético-GO,Flamengo,4-2-3-1,Domènec Torrent,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3411144
+3,sáb 15/08/2020,19:30,Coritiba,Flamengo,4-2-3-1,Domènec Torrent,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416079
+4,qua 19/08/2020,19:15,Flamengo,Grêmio,4-2-3-1,Domènec Torrent,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416217
+5,dom 23/08/2020,11:00,Flamengo,Botafogo,4-4-2,Domènec Torrent,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416103
+6,dom 30/08/2020,16:00,Santos,Flamengo,4-2-3-1,Domènec Torrent,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416114
+7,qua 02/09/2020,20:30,Bahia,Flamengo,4-2-3-1,Domènec Torrent,x,3:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416127
+8,sáb 05/09/2020,17:00,Flamengo,Fortaleza,4-2-3-1,Domènec Torrent,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416135
+9,qua 09/09/2020,21:30,Fluminense,Flamengo,4-2-3-1,Domènec Torrent,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416167
+10,dom 13/09/2020,18:00,Ceará,Flamengo,4-2-3-1,Domènec Torrent,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416236
+11,ter 13/10/2020,18:00,Flamengo,Goiás,4-2-3-1,Domènec Torrent,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417531
+12,dom 27/09/2020,16:00,Palmeiras,Flamengo,4-2-3-1,Domènec Torrent,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417547
+13,dom 04/10/2020,16:00,Flamengo,Athletico-PR,4-2-3-1,Domènec Torrent,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417555
+14,qua 07/10/2020,19:15,Flamengo,Sport,4-2-3-1,Domènec Torrent,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417565
+15,sáb 10/10/2020,17:00,Vasco da Gama,Flamengo,4-2-3-1,Domènec Torrent,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417576
+16,qui 15/10/2020,20:00,Flamengo,Bragantino,4-2-3-1,Domènec Torrent,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417585
+17,dom 18/10/2020,16:00,Corinthians,Flamengo,4-2-3-1,Domènec Torrent,x,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417599
+18,dom 25/10/2020,18:15,Internacional,Flamengo,4-2-3-1,Domènec Torrent,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417610
+19,dom 01/11/2020,16:00,Flamengo,São Paulo,4-2-3-1,Domènec Torrent,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417615
+20,dom 08/11/2020,18:15,Atlético-MG,Flamengo,4-1-4-1,Domènec Torrent,,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417625
+21,sáb 14/11/2020,21:30,Flamengo,Atlético-GO,4-4-2,Rogério Ceni,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417644
+22,sáb 21/11/2020,18:00,Flamengo,Coritiba,4-4-2,Rogério Ceni,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417665
+23,qui 28/01/2021,20:00,Grêmio,Flamengo,4-2-3-1,Rogério Ceni,x,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417655
+24,sáb 05/12/2020,16:00,Botafogo,Flamengo,4-4-2,Rogério Ceni,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417645
+25,dom 13/12/2020,15:00,Flamengo,Santos,4-4-2,Rogério Ceni,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417678
+26,dom 20/12/2020,18:15,Flamengo,Bahia,4-4-2,Rogério Ceni,x,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417701
+27,sáb 26/12/2020,19:00,Fortaleza,Flamengo,4-4-2,Rogério Ceni,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417686
+28,qua 06/01/2021,20:30,Flamengo,Fluminense,4-4-2,Rogério Ceni,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417501
+29,dom 10/01/2021,15:00,Flamengo,Ceará,4-4-2,Rogério Ceni,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417511
+30,seg 18/01/2021,20:00,Goiás,Flamengo,4-4-2,Rogério Ceni,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417530
+31,qui 21/01/2021,19:00,Flamengo,Palmeiras,4-4-2,Rogério Ceni,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417705
+32,dom 24/01/2021,16:00,Athletico-PR,Flamengo,4-4-2,Rogério Ceni,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417811
+33,seg 01/02/2021,20:00,Sport,Flamengo,4-4-2,Rogério Ceni,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418072
+34,qui 04/02/2021,20:00,Flamengo,Vasco da Gama,4-4-2,Rogério Ceni,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418076
+35,dom 07/02/2021,19:30,Bragantino,Flamengo,4-4-2,Rogério Ceni,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418089
+36,dom 14/02/2021,16:00,Flamengo,Corinthians,4-4-2,Rogério Ceni,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418096
+37,dom 21/02/2021,16:00,Flamengo,Internacional,4-4-2,Rogério Ceni,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418106
+38,qui 25/02/2021,19:30,São Paulo,Flamengo,4-4-2,Rogério Ceni,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418118

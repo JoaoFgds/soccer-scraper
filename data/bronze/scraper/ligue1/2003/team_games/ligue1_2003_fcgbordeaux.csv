@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 02/08/2003,12:15,Monaco,Bordeaux,4-2-3-1,Élie Baup,13448,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/355
+2,sáb 09/08/2003,15:00,Bordeaux,Montpellier,4-2-3-1,Élie Baup,24876,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/599
+3,sáb 16/08/2003,15:00,Guingamp,Bordeaux,5-3-2,Élie Baup,15902,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/796
+4,sáb 23/08/2003,12:15,Bordeaux,Auxerre,4-2-3-1,Élie Baup,26873,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/987
+5,sáb 30/08/2003,15:00,Nantes,Bordeaux,4-2-3-1,Élie Baup,33346,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1189
+6,sáb 13/09/2003,15:00,Bordeaux,FC Sochaux,4-2-3-1,Élie Baup,22208,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1404
+7,sex 19/09/2003,19:00,Lens,Bordeaux,4-2-3-1,Élie Baup,35435,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1604
+8,sáb 27/09/2003,19:00,Bordeaux,AC Ajaccio,4-2-3-1,Élie Baup,19545,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1804
+9,sex 03/10/2003,19:00,Le Mans UC 72,Bordeaux,4-2-3-1,Élie Baup,13627,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2004
+10,sex 17/10/2003,19:00,Bordeaux,Toulouse,5-3-2,Élie Baup,22097,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214
+11,sex 24/10/2003,20:00,Nice,Bordeaux,5-3-2,Michel Pavon,12658,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2418
+12,sex 31/10/2003,21:00,Bordeaux,Marselha,5-3-2,Michel Pavon,32507,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2612
+13,sáb 08/11/2003,21:00,Strasbourg,Bordeaux,5-3-2,Michel Pavon,15857,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2835
+14,sex 21/11/2003,21:00,Bordeaux,Rennes,4-3-1-2,Michel Pavon,20805,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3033
+15,sáb 29/11/2003,21:00,Bordeaux,SC Bastia,5-3-2,Michel Pavon,20378,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3230
+16,ter 27/01/2004,21:00,Lyon,Bordeaux,4-5-1 plano,Michel Pavon,32363,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3507
+17,sex 05/12/2003,21:00,Bordeaux,Lille,5-3-2,Michel Pavon,20688,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3610
+18,sex 12/12/2003,21:00,PSG,Bordeaux,5-3-2,Michel Pavon,41512,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3803
+19,sex 19/12/2003,21:00,Bordeaux,FC Metz,5-4-1,Michel Pavon,19607,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3989
+20,sex 09/01/2004,21:00,Montpellier,Bordeaux,5-4-1 plano,Michel Pavon,10439,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4170
+21,sex 16/01/2004,21:00,Bordeaux,Guingamp,5-4-1 plano,Michel Pavon,18132,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361
+22,sex 30/01/2004,21:00,Auxerre,Bordeaux,4-2-3-1,Michel Pavon,11000,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4515
+23,qui 05/02/2004,21:00,Bordeaux,Nantes,4-2-3-1,Michel Pavon,22847,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4722
+24,sex 13/02/2004,21:00,FC Sochaux,Bordeaux,4-3-3 ofensivo,Michel Pavon,15276,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4920
+25,sex 20/02/2004,20:00,Bordeaux,Lens,4-2-3-1,Michel Pavon,23106,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5131
+26,sáb 28/02/2004,20:00,AC Ajaccio,Bordeaux,5-4-1 plano,Michel Pavon,3000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5343
+27,sex 05/03/2004,20:00,Bordeaux,Le Mans UC 72,4-3-3 ofensivo,Michel Pavon,21026,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5538
+28,sáb 13/03/2004,20:00,Toulouse,Bordeaux,4-3-3 ofensivo,Michel Pavon,26687,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5752
+29,sex 19/03/2004,20:00,Bordeaux,Nice,4-3-3 ofensivo,Michel Pavon,22435,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5952
+30,sáb 27/03/2004,20:00,Marselha,Bordeaux,5-4-1 plano,Michel Pavon,51573,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6167
+31,sex 02/04/2004,19:00,Bordeaux,Strasbourg,4-3-3 ofensivo,Michel Pavon,22643,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6358
+32,sáb 17/04/2004,19:00,Rennes,Bordeaux,5-3-2,Michel Pavon,17537,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6588
+33,sex 23/04/2004,19:00,SC Bastia,Bordeaux,4-2-3-1,Michel Pavon,5595,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6786
+34,sáb 01/05/2004,19:00,Bordeaux,Lyon,4-2-3-1,Michel Pavon,23637,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7006
+35,sex 07/05/2004,19:00,Lille,Bordeaux,4-2-3-1,Michel Pavon,14611,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7204
+36,seg 10/05/2004,19:00,Bordeaux,PSG,4-2-3-1,Michel Pavon,30527,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7243
+37,sex 14/05/2004,19:00,FC Metz,Bordeaux,4-2-3-1,Michel Pavon,22059,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7285
+38,qui 20/05/2004,19:00,Bordeaux,Monaco,4-2-3-1,Michel Pavon,32397,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7327

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 03/08/2024,08:00,Hertha Berlim,Paderborn,4-3-3 ofensivo,Cristian Fiél,48591,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373307
+2,sáb 10/08/2024,15:30,Hamburgo,Hertha Berlim,4-3-3 ofensivo,Cristian Fiél,57000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373330
+3,sáb 24/08/2024,08:00,Hertha Berlim,J. Regensburg,4-3-3 ofensivo,Cristian Fiél,42355,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373352
+4,sáb 31/08/2024,15:30,K'lautern,Hertha Berlim,4-3-3 ofensivo,Cristian Fiél,48608,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373362
+5,dom 15/09/2024,08:30,Hertha Berlim,Düsseldorf,4-3-3 ofensivo,Cristian Fiél,50135,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373380
+6,sáb 21/09/2024,08:00,Nuremberg,Hertha Berlim,4-3-3 ofensivo,Cristian Fiél,36553,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373396
+7,dom 29/09/2024,08:30,Hertha Berlim,SV Elversberg,4-3-3 ofensivo,Cristian Fiél,43123,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373415
+8,sáb 05/10/2024,15:30,Schalke,Hertha Berlim,4-3-3 ofensivo,Cristian Fiél,61939,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373432
+9,sex 18/10/2024,13:30,Hertha Berlim,E. Braunschweig,3-4-2-1,Cristian Fiél,45457,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373450
+10,sáb 26/10/2024,08:00,Karlsruher,Hertha Berlim,4-3-3 ofensivo,Cristian Fiél,31845,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373467
+11,sáb 02/11/2024,16:30,Hertha Berlim,Colônia,4-3-3 ofensivo,Cristian Fiél,68763,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373486
+12,sáb 09/11/2024,09:00,Darmstadt 98,Hertha Berlim,3-4-3 plano,Cristian Fiél,17810,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373501
+13,sáb 23/11/2024,09:00,Hertha Berlim,SSV Ulm 1846,4-3-3 ofensivo,Cristian Fiél,41758,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373523
+14,sex 29/11/2024,14:30,Magdeburgo,Hertha Berlim,4-2-3-1,Cristian Fiél,27300,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373542
+15,sáb 07/12/2024,09:00,Greuther Fürth,Hertha Berlim,4-2-3-1,Cristian Fiél,12125,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373558
+16,sex 13/12/2024,14:30,Hertha Berlim,Pr. Münster,4-2-3-1,Cristian Fiél,45767,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373576
+17,dom 22/12/2024,09:30,Hannover,Hertha Berlim,4-2-3-1,Cristian Fiél,49000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373601
+18,dom 19/01/2025,09:30,Paderborn,Hertha Berlim,4-2-3-1,Cristian Fiél,14280,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373619
+19,sáb 25/01/2025,16:30,Hertha Berlim,Hamburgo,4-2-3-1,Cristian Fiél,71500,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373640
+20,sáb 01/02/2025,09:00,J. Regensburg,Hertha Berlim,4-3-3 ofensivo,Cristian Fiél,12025,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373661
+21,sáb 08/02/2025,16:30,Hertha Berlim,K'lautern,4-2-3-1,Cristian Fiél,47443,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373676
+22,sáb 15/02/2025,16:30,Düsseldorf,Hertha Berlim,4-2-3-1,Cristian Fiél,38912,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373680
+23,sex 21/02/2025,14:30,Hertha Berlim,Nuremberg,4-3-3 ofensivo,Stefan Leitl,41752,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373704
+24,dom 02/03/2025,09:30,SV Elversberg,Hertha Berlim,4-2-3-1,Stefan Leitl,10607,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373720
+25,sáb 08/03/2025,09:00,Hertha Berlim,Schalke,3-5-2 plano,Stefan Leitl,70159,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373738
+26,dom 16/03/2025,09:30,E. Braunschweig,Hertha Berlim,3-5-2 plano,Stefan Leitl,22613,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373760
+27,sáb 29/03/2025,09:00,Hertha Berlim,Karlsruher,3-5-2 plano,Stefan Leitl,63612,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373774
+28,sáb 05/04/2025,15:30,Colônia,Hertha Berlim,3-5-2 plano,Stefan Leitl,50000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373788
+29,sáb 12/04/2025,08:00,Hertha Berlim,Darmstadt 98,3-5-2 plano,Stefan Leitl,46763,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373810
+30,dom 20/04/2025,08:30,SSV Ulm 1846,Hertha Berlim,3-5-2 plano,Stefan Leitl,17600,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373832
+31,sex 25/04/2025,13:30,Hertha Berlim,Magdeburgo,3-5-2 plano,Stefan Leitl,62057,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373847
+32,dom 04/05/2025,08:30,Hertha Berlim,Greuther Fürth,3-5-2 plano,Stefan Leitl,48047,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373863
+33,sex 09/05/2025,13:30,Pr. Münster,Hertha Berlim,3-5-2 plano,Stefan Leitl,12422,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373885
+34,dom 18/05/2025,10:30,Hertha Berlim,Hannover,3-5-2 plano,Stefan Leitl,66957,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373900

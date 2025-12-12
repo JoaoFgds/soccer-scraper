@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 24/08/2014,16:00,Barcelona,Elche,4-1-4-1,Fran Escribá,68105,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475184
+2,dom 31/08/2014,18:00,Elche,Granada CF,4-2-3-1,Fran Escribá,20025,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475197
+3,dom 14/09/2014,07:00,Rayo Vallecano,Elche,4-2-3-1,Fran Escribá,9521,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475206
+4,sex 19/09/2014,16:00,Elche,Eibar,4-2-3-1,Fran Escribá,22474,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475216
+5,ter 23/09/2014,15:00,Real Madrid,Elche,4-2-3-1,Fran Escribá,63634,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475225
+6,sex 26/09/2014,16:00,Elche,Celta de Vigo,4-2-3-1,Fran Escribá,20852,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475235
+7,sáb 04/10/2014,17:00,UD Almería,Elche,4-2-3-1,Fran Escribá,9000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475244
+8,dom 19/10/2014,15:00,Elche,Sevilla,4-2-3-1,Fran Escribá,26059,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475254
+9,sáb 25/10/2014,16:00,Valencia,Elche,4-2-3-1,Fran Escribá,37500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475263
+10,dom 02/11/2014,18:00,Elche,Espanyol,4-4-2,Fran Escribá,21472,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475273
+11,sáb 08/11/2014,15:00,Getafe,Elche,4-4-2,Fran Escribá,6000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475282
+12,dom 23/11/2014,16:00,Elche,Córdoba,4-4-2 duplo 6,Fran Escribá,18500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475292
+13,sex 28/11/2014,17:45,Real Sociedad,Elche,4-4-2 duplo 6,Fran Escribá,17000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475301
+14,sáb 06/12/2014,13:00,Elche,Atlético,4-4-2 duplo 6,Fran Escribá,18290,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475311
+15,seg 15/12/2014,17:45,Deportivo,Elche,4-2-3-1,Fran Escribá,14167,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475320
+16,dom 21/12/2014,16:00,Elche,Málaga CF,4-2-3-1,Fran Escribá,24134,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475330
+17,sáb 03/01/2015,17:00,Elche,Villarreal,4-2-3-1,Fran Escribá,18283,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475340
+18,dom 11/01/2015,14:00,Athletic Club,Elche,4-2-3-1,Fran Escribá,40000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475351
+19,dom 18/01/2015,18:00,Elche,Levante,4-4-1-1,Fran Escribá,14726,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475361
+20,sáb 24/01/2015,15:00,Elche,Barcelona,4-2-3-1,Fran Escribá,28235,0:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475374
+21,sáb 31/01/2015,17:00,Granada CF,Elche,4-2-3-1,Fran Escribá,15230,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475387
+22,seg 09/02/2015,17:45,Elche,Rayo Vallecano,4-2-3-1,Fran Escribá,14162,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475396
+23,seg 16/02/2015,17:45,Eibar,Elche,4-2-3-1,Fran Escribá,4109,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475406
+24,dom 22/02/2015,17:00,Elche,Real Madrid,4-4-1-1,Fran Escribá,31512,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475415
+25,seg 02/03/2015,16:45,Celta de Vigo,Elche,4-2-3-1,Fran Escribá,14386,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475425
+26,sáb 07/03/2015,16:00,Elche,UD Almería,4-4-1-1,Fran Escribá,23127,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475434
+27,dom 15/03/2015,15:00,Sevilla,Elche,4-2-3-1,Fran Escribá,31324,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475444
+28,sex 20/03/2015,16:45,Elche,Valencia,4-2-3-1,Fran Escribá,26510,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475453
+29,seg 06/04/2015,15:00,Espanyol,Elche,4-2-3-1,Fran Escribá,13892,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475463
+30,qui 09/04/2015,17:00,Elche,Getafe,4-4-2 duplo 6,Fran Escribá,18088,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475472
+31,dom 12/04/2015,16:00,Córdoba,Elche,4-2-3-1,Fran Escribá,14164,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475482
+32,seg 20/04/2015,15:45,Elche,Real Sociedad,4-2-3-1,Fran Escribá,19159,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475491
+33,sáb 25/04/2015,13:00,Atlético,Elche,4-2-3-1,Fran Escribá,47531,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475501
+34,qua 29/04/2015,17:00,Elche,Deportivo,4-2-3-1,Fran Escribá,19251,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475510
+35,dom 03/05/2015,16:00,Málaga CF,Elche,4-2-3-1,Fran Escribá,18714,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475520
+36,dom 10/05/2015,12:00,Villarreal,Elche,4-2-3-1,Fran Escribá,13629,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475530
+37,dom 17/05/2015,14:00,Elche,Athletic Club,4-2-3-1,Fran Escribá,22693,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475541
+38,sáb 23/05/2015,11:30,Levante,Elche,4-2-3-1,Fran Escribá,11847,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475551

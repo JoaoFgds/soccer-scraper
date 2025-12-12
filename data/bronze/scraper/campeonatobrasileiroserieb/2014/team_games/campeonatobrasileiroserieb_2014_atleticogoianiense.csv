@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 19/04/2014,16:20,Boa Esporte,Atlético-GO,4-3-1-2,Marcelo Martelotte,1121,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454699
+2,sáb 26/04/2014,16:20,Atlético-GO,Ponte Preta,4-3-1-2,Marcelo Martelotte,2204,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454709
+3,sáb 03/05/2014,16:20,Vasco da Gama,Atlético-GO,4-3-1-2,Marcelo Martelotte,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454714
+4,sáb 10/05/2014,16:20,América-RN,Atlético-GO,4-4-2 duplo 6,Marcelo Martelotte,4492,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454730
+5,sáb 17/05/2014,21:00,Atlético-GO,Joinville,4-1-3-2,Marcelo Martelotte,598,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454739
+6,ter 20/05/2014,19:30,Atlético-GO,ABC,?,Marcelo Martelotte,664,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454749
+7,sáb 24/05/2014,16:20,Portuguesa,Atlético-GO,?,Marcelo Martelotte,538,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454753
+8,ter 27/05/2014,21:50,Atlético-GO,América-MG,?,Marcelo Martelotte,529,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454769
+9,sáb 31/05/2014,21:00,Icasa,Atlético-GO,?,Marcelo Martelotte,894,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454777
+10,ter 22/07/2014,19:30,Atlético-GO,Oeste,4-1-3-2,Hélio dos Anjos,1113,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454789
+11,ter 15/07/2014,19:30,Avaí,Atlético-GO,4-1-3-2,Hélio dos Anjos,3341,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454798
+12,sáb 19/07/2014,16:20,Luverdense,Atlético-GO,4-4-2 duplo 6,Hélio dos Anjos,1788,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454806
+13,sáb 26/07/2014,16:20,Atlético-GO,Náutico,4-3-1-2,Hélio dos Anjos,1743,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454819
+14,sex 01/08/2014,21:00,Vila Nova,Atlético-GO,4-3-1-2,Hélio dos Anjos,6209,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454829
+15,sex 08/08/2014,19:30,Atlético-GO,Ceará,4-3-1-2,Hélio dos Anjos,4732,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454839
+16,sex 15/08/2014,19:30,Atlético-GO,Paraná,4-4-2 duplo 6,Hélio dos Anjos,1919,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454849
+17,ter 19/08/2014,21:50,Bragantino,Atlético-GO,4-4-2 duplo 6,Hélio dos Anjos,364,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454852
+18,sáb 23/08/2014,16:10,Atlético-GO,Sampaio Corrêa,4-4-2 duplo 6,Hélio dos Anjos,2190,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454869
+19,sex 29/08/2014,20:30,Santa Cruz,Atlético-GO,4-1-3-2,Hélio dos Anjos,12523,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454875
+20,ter 02/09/2014,19:30,Atlético-GO,Boa Esporte,4-4-2 duplo 6,Hélio dos Anjos,781,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454889
+21,ter 09/09/2014,17:00,Ponte Preta,Atlético-GO,4-4-2 duplo 6,Wagner Lopes,4579,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454893
+22,sáb 13/09/2014,16:10,Atlético-GO,Vasco da Gama,4-4-2 duplo 6,Wagner Lopes,8957,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454909
+23,ter 16/09/2014,19:30,Atlético-GO,América-RN,4-4-2 duplo 6,Wagner Lopes,956,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454919
+24,sáb 20/09/2014,16:10,Joinville,Atlético-GO,4-4-2 duplo 6,Wagner Lopes,11093,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454928
+25,ter 23/09/2014,19:30,ABC,Atlético-GO,4-4-2 duplo 6,Wagner Lopes,2344,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454940
+26,sáb 27/09/2014,21:00,Atlético-GO,Portuguesa,4-4-2 duplo 6,Wagner Lopes,633,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454949
+27,sex 03/10/2014,19:30,América-MG,Atlético-GO,4-4-2 duplo 6,Wagner Lopes,2113,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454961
+28,ter 07/10/2014,19:30,Atlético-GO,Icasa,4-4-2 duplo 6,Wagner Lopes,957,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454969
+29,sex 10/10/2014,19:30,Oeste,Atlético-GO,4-4-2 duplo 6,Wagner Lopes,377,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454972
+30,ter 14/10/2014,21:00,Atlético-GO,Avaí,4-1-3-2,Wagner Lopes,849,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454989
+31,ter 21/10/2014,21:50,Atlético-GO,Luverdense,4-1-3-2,Wagner Lopes,960,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454999
+32,sáb 25/10/2014,17:20,Náutico,Atlético-GO,4-4-2 duplo 6,Wagner Lopes,4878,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2455005
+33,sex 31/10/2014,19:30,Atlético-GO,Vila Nova,4-4-2 duplo 6,Wagner Lopes,3163,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2455019
+34,sex 07/11/2014,21:00,Ceará,Atlético-GO,4-4-2 duplo 6,Wagner Lopes,7484,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2455027
+35,ter 11/11/2014,21:00,Paraná,Atlético-GO,4-4-2 duplo 6,Wagner Lopes,2520,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2455034
+36,ter 18/11/2014,19:30,Atlético-GO,Bragantino,4-4-2 duplo 6,Wagner Lopes,2303,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2455049
+37,sáb 22/11/2014,21:00,Sampaio Corrêa,Atlético-GO,4-4-2 duplo 6,Wagner Lopes,12850,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2455056
+38,sáb 29/11/2014,16:20,Atlético-GO,Santa Cruz,4-4-2 duplo 6,Wagner Lopes,5323,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2455069

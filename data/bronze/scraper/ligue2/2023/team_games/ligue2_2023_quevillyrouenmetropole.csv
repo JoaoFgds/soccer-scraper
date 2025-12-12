@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 05/08/2023,14:00,Amiens SC,QRM,4-3-3 ofensivo,Olivier Echouafni,5662,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095499
+2,sáb 12/08/2023,14:00,QRM,AC Ajaccio,4-3-3 ofensivo,Olivier Echouafni,2705,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095517
+3,sáb 19/08/2023,14:00,Saint-Étienne,QRM,4-4-2,Olivier Echouafni,24103,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095524
+4,sáb 26/08/2023,14:00,QRM,Stade Lavallois,4-3-3 ofensivo,Olivier Echouafni,2536,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095537
+5,sáb 02/09/2023,14:00,Troyes,QRM,4-3-3 ofensivo,Olivier Echouafni,4817,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095546
+6,sáb 16/09/2023,14:00,QRM,Concarneau,4-3-3 ofensivo,Olivier Echouafni,2635,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095557
+7,sáb 23/09/2023,14:00,Grenoble,QRM,5-4-1 plano,Olivier Echouafni,4471,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095568
+8,ter 26/09/2023,15:45,QRM,Angers,4-1-4-1,Olivier Echouafni,5194,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095577
+9,sáb 30/09/2023,14:00,USL Dunkerque,QRM,4-4-2,Olivier Echouafni,3080,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095587
+10,sáb 07/10/2023,14:00,QRM,Pau FC,4-4-2,Olivier Echouafni,2828,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095597
+11,sáb 21/10/2023,14:00,Guingamp,QRM,4-4-2,Olivier Echouafni,7594,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095604
+12,sáb 28/10/2023,14:00,QRM,FC Annecy,4-4-2,Olivier Echouafni,2660,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4148521
+13,sáb 04/11/2023,15:00,QRM,Rodez AF,4-4-2,Olivier Echouafni,2463,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095628
+14,sáb 11/11/2023,15:00,SM Caen,QRM,4-4-2,Olivier Echouafni,14485,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095634
+15,sáb 25/11/2023,15:00,QRM,Valenciennes,4-4-2,Olivier Echouafni,6003,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095648
+16,sáb 02/12/2023,15:00,Auxerre,QRM,4-4-2,Olivier Echouafni,13430,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095653
+17,ter 05/12/2023,16:45,QRM,Bordeaux,4-4-2,Olivier Echouafni,4743,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095668
+18,sáb 16/12/2023,15:00,SC Bastia,QRM,4-4-2,Olivier Echouafni,9783,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095670
+19,ter 19/12/2023,16:45,Paris FC,QRM,4-4-2,Olivier Echouafni,3162,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095686
+20,sáb 13/01/2024,15:00,QRM,Guingamp,4-4-2,Olivier Echouafni,3003,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095697
+21,ter 23/01/2024,16:45,Angers,QRM,4-4-2,Jean-Louis Garcia,7803,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095701
+22,sáb 27/01/2024,15:00,QRM,Grenoble,4-4-2,Jean-Louis Garcia,4242,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095717
+23,sáb 03/02/2024,15:00,Stade Lavallois,QRM,4-3-3 ofensivo,Jean-Louis Garcia,6794,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095723
+24,sáb 10/02/2024,15:00,QRM,SC Bastia,4-3-3 ofensivo,Jean-Louis Garcia,3872,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095737
+25,sáb 17/02/2024,15:00,Pau FC,QRM,5-3-2,Jean-Louis Garcia,3087,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095741
+26,sáb 24/02/2024,15:00,QRM,Paris FC,4-4-2,Jean-Louis Garcia,3827,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095758
+27,sáb 02/03/2024,15:00,FC Annecy,QRM,5-3-2,Jean-Louis Garcia,3739,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4148536
+28,sáb 09/03/2024,15:00,Bordeaux,QRM,5-3-2,Jean-Louis Garcia,19662,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095771
+29,sáb 16/03/2024,15:00,QRM,Troyes,4-4-2,Jean-Louis Garcia,3898,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095787
+30,sáb 30/03/2024,15:00,QRM,SM Caen,4-1-4-1,Jean-Louis Garcia,4476,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095798
+31,sáb 06/04/2024,14:00,Rodez AF,QRM,5-3-2,Jean-Louis Garcia,3106,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095808
+32,sáb 13/04/2024,14:00,QRM,Auxerre,3-4-3 plano,Jean-Louis Garcia,4734,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095818
+33,sáb 20/04/2024,14:00,Concarneau,QRM,4-4-2 duplo 6,Jean-Louis Garcia,1856,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095827
+34,ter 23/04/2024,15:45,QRM,Amiens SC,4-2-3-1,Jean-Louis Garcia,4139,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095837
+35,sáb 27/04/2024,14:00,AC Ajaccio,QRM,5-4-1 plano,Jean-Louis Garcia,4482,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095840
+36,sex 03/05/2024,15:00,QRM,USL Dunkerque,4-3-3 ofensivo,Jean-Louis Garcia,3717,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095857
+37,sex 10/05/2024,15:45,Valenciennes,QRM,4-2-3-1,Jean-Louis Garcia,6259,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095864
+38,sex 17/05/2024,15:45,QRM,Saint-Étienne,4-2-3-1,Jean-Louis Garcia,8084,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095877

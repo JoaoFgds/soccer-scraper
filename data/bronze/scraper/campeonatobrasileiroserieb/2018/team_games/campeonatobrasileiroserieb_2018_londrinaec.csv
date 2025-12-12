@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 14/04/2018,16:30,Londrina,Boa Esporte,4-2-3-1,Marquinhos Santos,1467,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036442
+2,sex 20/04/2018,21:30,Paysandu,Londrina,4-2-3-1,Marquinhos Santos,4209,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036449
+3,sáb 28/04/2018,19:00,Ponte Preta,Londrina,4-2-3-1,Marquinhos Santos,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036463
+4,ter 01/05/2018,16:30,Londrina,Fortaleza,4-2-3-1,Marquinhos Santos,4511,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036469
+5,sex 11/05/2018,21:30,Atlético-GO,Londrina,5-3-2,Marquinhos Santos,1615,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036481
+6,sáb 19/05/2018,16:30,Londrina,CSA,4-2-3-1,Marquinhos Santos,1656,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036492
+7,sáb 26/05/2018,16:30,Brasil Pelotas,Londrina,4-2-3-1,Marquinhos Santos,1608,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036501
+8,ter 29/05/2018,21:30,Londrina,Coritiba,4-2-3-1,Marquinhos Santos,902,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036514
+9,ter 05/06/2018,19:15,Figueirense,Londrina,4-2-3-1,Marquinhos Santos,2317,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036516
+10,sex 08/06/2018,19:15,Londrina,Juventude,4-2-3-1,Marquinhos Santos,1263,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036525
+11,ter 12/06/2018,18:00,Londrina,Goiás,4-3-1-2,Marquinhos Santos,525,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036537
+12,sáb 23/06/2018,19:00,São Bento,Londrina,4-2-3-1,Marquinhos Santos,2530,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036550
+13,dom 01/07/2018,18:00,Londrina,Sampaio Corrêa,4-2-3-1,Sérgio Soares,1267,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036563
+14,qui 05/07/2018,20:30,Vila Nova,Londrina,4-2-3-1,Sérgio Soares,5716,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036570
+15,qui 12/07/2018,18:00,Londrina,Avaí,4-2-3-1,Sérgio Soares,468,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036583
+16,sex 20/07/2018,19:15,Criciúma,Londrina,4-2-3-1,Sérgio Soares,2182,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036589
+17,ter 24/07/2018,19:15,Londrina,Oeste,4-2-3-1,Sérgio Soares,1511,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036603
+18,sáb 28/07/2018,16:30,CRB,Londrina,4-2-3-1,Sérgio Soares,4132,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036612
+19,sex 03/08/2018,19:15,Londrina,Guarani,4-2-3-1,Sérgio Soares,445,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036623
+20,sex 10/08/2018,20:30,Boa Esporte,Londrina,4-2-3-1,Sérgio Soares,529,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036631
+21,sex 17/08/2018,19:15,Londrina,Paysandu,4-2-3-1,Roberto Fonseca,1106,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036643
+22,ter 21/08/2018,19:15,Londrina,Ponte Preta,4-4-2 duplo 6,Roberto Fonseca,1932,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036653
+23,sáb 25/08/2018,19:00,Fortaleza,Londrina,4-2-3-1,Roberto Fonseca,19527,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036659
+24,sex 31/08/2018,19:15,Londrina,Atlético-GO,4-2-3-1,Roberto Fonseca,1919,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036673
+25,ter 04/09/2018,20:30,CSA,Londrina,4-2-3-1,Roberto Fonseca,8297,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036682
+26,sáb 08/09/2018,16:30,Londrina,Brasil Pelotas,4-2-3-1,Roberto Fonseca,2230,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036693
+27,sex 14/09/2018,19:15,Coritiba,Londrina,4-2-3-1,Roberto Fonseca,3956,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036703
+28,ter 18/09/2018,21:30,Londrina,Figueirense,4-2-3-1,Roberto Fonseca,2503,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036713
+29,qui 27/09/2018,19:00,Juventude,Londrina,4-2-3-1,Roberto Fonseca,4369,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036717
+30,ter 02/10/2018,20:30,Goiás,Londrina,4-2-3-1,Roberto Fonseca,9940,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036730
+31,sáb 13/10/2018,21:00,Londrina,São Bento,4-2-3-1,Roberto Fonseca,1295,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036743
+32,sáb 20/10/2018,21:00,Sampaio Corrêa,Londrina,4-3-3 defensivo,Roberto Fonseca,6003,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036754
+33,sex 26/10/2018,19:15,Londrina,Vila Nova,4-3-3 defensivo,Roberto Fonseca,5869,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036763
+34,sáb 03/11/2018,16:30,Avaí,Londrina,4-3-3 defensivo,Roberto Fonseca,9052,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036768
+35,ter 06/11/2018,19:15,Londrina,Criciúma,4-3-3 defensivo,Roberto Fonseca,9360,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036783
+36,sáb 10/11/2018,17:00,Oeste,Londrina,4-3-3 defensivo,Roberto Fonseca,1032,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036786
+37,sex 16/11/2018,21:30,Londrina,CRB,4-3-3 defensivo,Roberto Fonseca,24225,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036803
+38,sáb 24/11/2018,17:00,Guarani,Londrina,4-2-3-1,Roberto Fonseca,1346,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036805

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 29/05/2021,20:00,Bahia,Santos,4-3-3 ofensivo,Dado Cavalcanti,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546467
+2,sáb 05/06/2021,21:00,Bragantino,Bahia,4-3-3 ofensivo,Dado Cavalcanti,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546478
+3,dom 13/06/2021,20:30,Bahia,Internacional,4-3-3 ofensivo,Dado Cavalcanti,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3571598
+4,qui 17/06/2021,16:00,Ceará,Bahia,4-3-3 ofensivo,Dado Cavalcanti,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3572017
+5,dom 20/06/2021,16:00,Bahia,Corinthians,4-3-3 ofensivo,Dado Cavalcanti,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3572023
+6,qui 24/06/2021,21:30,Bahia,Athletico-PR,4-3-3 ofensivo,Dado Cavalcanti,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580699
+7,dom 27/06/2021,20:00,Palmeiras,Bahia,4-2-3-1,Dado Cavalcanti,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580706
+8,qua 30/06/2021,19:00,Bahia,América-MG,4-1-4-1,Dado Cavalcanti,x,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580717
+9,dom 04/07/2021,11:00,Chapecoense,Bahia,4-2-3-1,Dado Cavalcanti,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583807
+10,qua 07/07/2021,18:00,Bahia,Juventude,4-3-3 ofensivo,Dado Cavalcanti,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583815
+11,sáb 10/07/2021,19:00,São Paulo,Bahia,4-3-3 ofensivo,Dado Cavalcanti,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583821
+12,dom 18/07/2021,18:15,Bahia,Flamengo,4-2-3-1,Dado Cavalcanti,x,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583835
+13,dom 25/07/2021,11:00,Atlético-MG,Bahia,4-3-3 ofensivo,Dado Cavalcanti,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583842
+14,dom 01/08/2021,18:15,Bahia,Sport,4-2-3-1,Dado Cavalcanti,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583875
+15,sáb 07/08/2021,21:00,Cuiabá,Bahia,4-3-3 ofensivo,Dado Cavalcanti,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583868
+16,dom 15/08/2021,18:15,Bahia,Atlético-GO,4-4-2,Dado Cavalcanti,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583855
+17,sáb 21/08/2021,19:00,Grêmio,Bahia,4-1-4-1,Bruno Lopes,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583883
+18,seg 30/08/2021,19:00,Fluminense,Bahia,4-2-3-1,Diego Dabove,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583889
+19,sáb 04/09/2021,21:00,Bahia,Fortaleza,4-2-3-1,Diego Dabove,x,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583905
+20,sáb 11/09/2021,21:00,Santos,Bahia,4-4-2,Diego Dabove,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583931
+21,sáb 18/09/2021,21:00,Bahia,Bragantino,4-3-3 ofensivo,Diego Dabove,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583925
+22,dom 26/09/2021,16:00,Internacional,Bahia,4-4-2,Diego Dabove,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583913
+23,qua 27/10/2021,19:00,Bahia,Ceará,4-1-4-1,Guto Ferreira,11507,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583945
+24,ter 05/10/2021,21:30,Corinthians,Bahia,4-4-2,Diego Dabove,10470,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583950
+25,sáb 09/10/2021,19:00,Athletico-PR,Bahia,4-2-3-1,Guto Ferreira,3340,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583966
+26,ter 12/10/2021,21:30,Bahia,Palmeiras,4-2-3-1,Guto Ferreira,4509,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583995
+27,sáb 16/10/2021,21:00,América-MG,Bahia,4-1-4-1,Guto Ferreira,746,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583982
+28,dom 24/10/2021,20:30,Bahia,Chapecoense,4-4-2,Guto Ferreira,8058,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583975
+29,sáb 30/10/2021,19:15,Juventude,Bahia,4-3-3 ofensivo,Guto Ferreira,3738,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584007
+30,dom 07/11/2021,18:15,Bahia,São Paulo,4-1-4-1,Guto Ferreira,18178,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584015
+31,qui 11/11/2021,19:00,Flamengo,Bahia,4-2-3-1,Guto Ferreira,9488,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584019
+32,qui 02/12/2021,18:00,Bahia,Atlético-MG,4-2-3-1,Guto Ferreira,29228,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584055
+33,qui 18/11/2021,21:00,Sport,Bahia,4-2-3-1,Guto Ferreira,8096,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584045
+34,dom 21/11/2021,19:00,Bahia,Cuiabá,4-2-3-1,Guto Ferreira,19790,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584035
+35,seg 29/11/2021,19:00,Atlético-GO,Bahia,4-2-3-1,Guto Ferreira,10004,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584068
+36,sex 26/11/2021,19:00,Bahia,Grêmio,4-2-3-1,Guto Ferreira,30671,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584075
+37,dom 05/12/2021,16:00,Bahia,Fluminense,4-2-3-1,Guto Ferreira,26048,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584085
+38,qui 09/12/2021,21:30,Fortaleza,Bahia,4-2-3-1,Guto Ferreira,51125,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584094

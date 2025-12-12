@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 12/08/2018,12:00,Marítimo,Santa Clara,4-3-3 ofensivo,Cláudio Braga,5893,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069373
+2,dom 19/08/2018,12:00,Rio Ave,Marítimo,4-4-2 losango,Cláudio Braga,2529,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069382
+3,sex 24/08/2018,16:30,Marítimo,Chaves,4-4-2 duplo 6,Cláudio Braga,5398,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069395
+4,dom 02/09/2018,12:00,CD Aves,Marítimo,4-3-3 defensivo,Cláudio Braga,1272,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069406
+5,sáb 22/09/2018,15:00,Marítimo,B SAD,4-2-3-1,Cláudio Braga,6137,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069413
+6,sáb 29/09/2018,17:00,Sporting,Marítimo,4-1-4-1,Cláudio Braga,35238,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069430
+7,sáb 06/10/2018,14:00,Marítimo,Vit. Guimarães,4-4-2 duplo 6,Cláudio Braga,5674,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069438
+8,dom 28/10/2018,12:00,Moreirense,Marítimo,4-2-3-1,Cláudio Braga,1627,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069457
+9,sáb 03/11/2018,15:00,Marítimo,FC Porto,5-3-2,Cláudio Braga,9620,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069468
+10,sáb 10/11/2018,16:00,Nacional,Marítimo,4-3-3 defensivo,Cláudio Braga,2981,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069485
+11,sáb 01/12/2018,13:30,Marítimo,Vitória FC,4-2-3-1,Petit,4256,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069492
+12,seg 10/12/2018,18:15,Feirense,Marítimo,4-3-3 ofensivo,Petit,2110,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069506
+13,dom 16/12/2018,15:30,Marítimo,Benfica,4-3-2-1,Petit,9830,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069513
+14,sáb 22/12/2018,13:30,CD Tondela,Marítimo,4-2-3-1,Petit,1344,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069522
+15,qua 02/01/2019,16:00,Braga,Marítimo,4-4-2 duplo 6,Petit,8714,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069536
+16,sáb 05/01/2019,18:30,Marítimo,Portimonense,4-4-2 duplo 6,Petit,6443,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069545
+17,sáb 12/01/2019,18:30,Boavista,Marítimo,4-4-2 duplo 6,Petit,3907,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069552
+18,sáb 19/01/2019,18:30,Santa Clara,Marítimo,?,Petit,3139,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069555
+19,seg 28/01/2019,15:00,Marítimo,Rio Ave,4-4-2 duplo 6,Petit,5420,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069564
+20,sáb 02/02/2019,13:30,Chaves,Marítimo,4-4-2 duplo 6,Petit,2477,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069577
+21,sáb 09/02/2019,13:30,Marítimo,CD Aves,4-2-3-1,Petit,6307,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069589
+22,dom 17/02/2019,12:00,B SAD,Marítimo,5-4-1 plano,Petit,648,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069594
+23,seg 25/02/2019,16:00,Marítimo,Sporting,5-4-1 plano,Petit,9174,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069604
+24,seg 04/03/2019,17:15,Vit. Guimarães,Marítimo,?,Petit,15301,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069610
+25,sáb 09/03/2019,12:30,Marítimo,Moreirense,4-3-3 ofensivo,Petit,5700,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069621
+26,sáb 16/03/2019,17:30,FC Porto,Marítimo,5-4-1 plano,Petit,46413,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069628
+27,dom 31/03/2019,11:00,Marítimo,Nacional,4-4-2 duplo 6,Petit,8972,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069638
+28,dom 07/04/2019,11:00,Vitória FC,Marítimo,4-4-2 duplo 6,Petit,2702,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069648
+29,dom 14/04/2019,11:00,Marítimo,Feirense,4-4-2 duplo 6,Petit,7331,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069661
+30,seg 22/04/2019,16:15,Benfica,Marítimo,5-4-1 plano,Petit,52224,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069664
+31,dom 28/04/2019,11:00,Marítimo,CD Tondela,5-4-1 plano,Petit,5873,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069674
+32,sáb 04/05/2019,11:30,Marítimo,Braga,3-4-3 plano,Petit,5753,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069689
+33,sáb 11/05/2019,11:30,Portimonense,Marítimo,4-1-4-1,Petit,2921,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069698
+34,sáb 18/05/2019,11:30,Marítimo,Boavista,4-3-3 ofensivo,Petit,4795,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069705

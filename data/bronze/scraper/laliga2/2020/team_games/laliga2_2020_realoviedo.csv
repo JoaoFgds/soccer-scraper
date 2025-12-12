@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 13/09/2020,07:00,Real Oviedo,FC Cartagena,4-4-2 duplo 6,Cuco Ziganda,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3441550
+2,sáb 19/09/2020,11:00,Mirandés,Real Oviedo,4-4-2 duplo 6,Cuco Ziganda,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3441556
+3,dom 27/09/2020,13:15,Real Oviedo,Espanyol,4-4-2 duplo 6,Cuco Ziganda,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3441573
+4,sáb 03/10/2020,13:15,Albacete,Real Oviedo,4-4-2 duplo 6,Cuco Ziganda,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3441577
+5,dom 11/10/2020,16:00,Real Oviedo,Real Sporting,4-4-2 duplo 6,Cuco Ziganda,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3456987
+6,dom 18/10/2020,15:30,Girona,Real Oviedo,4-2-3-1,Cuco Ziganda,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3456995
+7,qui 22/10/2020,14:00,Real Oviedo,Rayo Vallecano,4-2-3-1,Cuco Ziganda,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457011
+8,dom 25/10/2020,14:15,Leganés,Real Oviedo,3-4-3 plano,Cuco Ziganda,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457018
+9,qua 28/10/2020,17:30,Real Oviedo,UD Logrones,4-4-2,Cuco Ziganda,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457032
+10,sáb 31/10/2020,14:15,Las Palmas,Real Oviedo,4-4-2 duplo 6,Cuco Ziganda,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457038
+11,dom 08/11/2020,14:15,Real Oviedo,Castellón,4-4-2 duplo 6,Cuco Ziganda,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457054
+12,sex 13/11/2020,17:00,Zaragoza,Real Oviedo,4-2-3-1,Cuco Ziganda,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457066
+13,sáb 21/11/2020,16:30,Real Oviedo,Fuenlabrada CF,4-4-2 duplo 6,Cuco Ziganda,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457076
+14,ter 24/11/2020,17:30,Lugo,Real Oviedo,4-4-2 duplo 6,Cuco Ziganda,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457087
+15,seg 30/11/2020,17:00,Real Oviedo,UD Almería,4-4-2 duplo 6,Cuco Ziganda,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457099
+16,qui 03/12/2020,15:00,Real Oviedo,AD Alcorcón,4-4-2 duplo 6,Cuco Ziganda,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457109
+17,dom 06/12/2020,16:30,CE Sabadell,Real Oviedo,4-4-2,Cuco Ziganda,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457121
+18,sex 11/12/2020,17:00,Real Oviedo,Tenerife,4-4-2 duplo 6,Cuco Ziganda,x,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457132
+19,sex 18/12/2020,15:00,Ponferradina,Real Oviedo,4-4-2 duplo 6,Cuco Ziganda,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457139
+20,dom 03/01/2021,17:00,Real Oviedo,Mallorca,4-4-2 duplo 6,Cuco Ziganda,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457155
+21,sáb 09/01/2021,14:15,Málaga CF,Real Oviedo,4-4-2,Cuco Ziganda,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457159
+22,dom 24/01/2021,12:00,UD Logrones,Real Oviedo,4-4-2,Cuco Ziganda,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457174
+23,sáb 30/01/2021,12:00,Real Oviedo,Albacete,4-4-2,Cuco Ziganda,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457184
+24,sáb 06/02/2021,12:00,FC Cartagena,Real Oviedo,4-4-2 duplo 6,Cuco Ziganda,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457190
+25,seg 15/02/2021,17:00,Real Oviedo,Lugo,4-4-2 duplo 6,Cuco Ziganda,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457207
+26,seg 22/02/2021,15:00,Fuenlabrada CF,Real Oviedo,4-4-2 duplo 6,Cuco Ziganda,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457214
+27,dom 28/02/2021,17:00,Real Oviedo,Zaragoza,4-4-2 duplo 6,Cuco Ziganda,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457229
+28,sex 05/03/2021,17:00,Espanyol,Real Oviedo,4-4-2 duplo 6,Cuco Ziganda,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457236
+29,dom 14/03/2021,16:30,Real Oviedo,Leganés,4-4-2 duplo 6,Cuco Ziganda,,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457252
+30,sáb 20/03/2021,14:15,Mallorca,Real Oviedo,4-4-2 duplo 6,Cuco Ziganda,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457262
+31,sáb 27/03/2021,12:00,Real Oviedo,Ponferradina,4-4-2 duplo 6,Cuco Ziganda,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457274
+32,ter 30/03/2021,14:00,AD Alcorcón,Real Oviedo,3-5-2 plano,Cuco Ziganda,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457278
+33,sáb 03/04/2021,13:15,Castellón,Real Oviedo,4-4-2 duplo 6,Cuco Ziganda,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457291
+34,sáb 10/04/2021,11:00,Real Oviedo,Las Palmas,4-4-2 duplo 6,Cuco Ziganda,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457306
+35,sáb 17/04/2021,13:15,Real Sporting,Real Oviedo,4-4-2 duplo 6,Cuco Ziganda,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457320
+36,dom 25/04/2021,09:00,Real Oviedo,Girona,4-4-2 duplo 6,Cuco Ziganda,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457328
+37,sáb 01/05/2021,13:15,UD Almería,Real Oviedo,4-4-2 duplo 6,Cuco Ziganda,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457333
+38,dom 09/05/2021,11:00,Real Oviedo,CE Sabadell,4-4-2 duplo 6,Cuco Ziganda,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457350
+39,seg 17/05/2021,14:00,Real Oviedo,Málaga CF,4-2-3-1,Cuco Ziganda,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457363
+40,qui 20/05/2021,16:30,Rayo Vallecano,Real Oviedo,4-4-2 duplo 6,Cuco Ziganda,,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457372
+41,seg 24/05/2021,13:30,Real Oviedo,Mirandés,4-4-2 duplo 6,Cuco Ziganda,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457385
+42,sáb 29/05/2021,13:30,Tenerife,Real Oviedo,4-4-2 duplo 6,Cuco Ziganda,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457397

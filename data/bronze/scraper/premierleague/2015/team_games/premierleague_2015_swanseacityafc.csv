@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 08/08/2015,13:30,Chelsea,Swansea,4-3-3 defensivo,Garry Monk,41232,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2577858
+2,sáb 15/08/2015,11:00,Swansea,Newcastle,4-3-3 defensivo,Garry Monk,20678,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2577883
+3,sáb 22/08/2015,11:00,AFC Sunderland,Swansea,4-3-3 defensivo,Garry Monk,39198,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2577900
+4,dom 30/08/2015,12:00,Swansea,Man Utd,4-2-3-1,Garry Monk,20828,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2577944
+5,sáb 12/09/2015,11:00,Watford,Swansea,4-2-3-1,Garry Monk,20057,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2577953
+6,sáb 19/09/2015,11:00,Swansea,Everton,4-2-3-1,Garry Monk,20805,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2577973
+7,sáb 26/09/2015,11:00,Southampton,Swansea,4-3-2-1,Garry Monk,30704,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2577976
+8,dom 04/10/2015,12:00,Swansea,Tottenham,4-2-3-1,Garry Monk,20845,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578001
+9,seg 19/10/2015,17:00,Swansea,Stoke,4-2-3-1,Garry Monk,20044,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578007
+10,sáb 24/10/2015,12:00,Aston Villa,Swansea,4-2-3-1,Garry Monk,33324,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578004
+11,sáb 31/10/2015,13:00,Swansea,Arsenal,4-2-3-1,Garry Monk,20937,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578013
+12,sáb 07/11/2015,13:00,Norwich,Swansea,4-2-3-1,Garry Monk,27029,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578034
+13,sáb 21/11/2015,13:00,Swansea,Bournemouth,4-3-3 ofensivo,Garry Monk,20878,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578028
+14,dom 29/11/2015,14:15,Liverpool,Swansea,4-3-3 defensivo,Garry Monk,43905,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578055
+15,sáb 05/12/2015,13:00,Swansea,Leicester,4-2-3-1,Garry Monk,20836,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578054
+16,sáb 12/12/2015,13:00,Man City,Swansea,4-3-3 ofensivo,Alan Curtis,53052,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578059
+17,dom 20/12/2015,14:00,Swansea,West Ham,4-3-1-2,Alan Curtis,20661,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578071
+18,sáb 26/12/2015,13:00,Swansea,West Brom,4-2-3-1,Alan Curtis,20789,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578088
+19,seg 28/12/2015,13:00,Crystal Palace,Swansea,4-3-3 ofensivo,Alan Curtis,23714,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578221
+20,sáb 02/01/2016,13:00,Man Utd,Swansea,4-3-3 ofensivo,Alan Curtis,75415,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578233
+21,qua 13/01/2016,17:45,Swansea,AFC Sunderland,4-2-3-1,Alan Curtis,20140,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578085
+22,seg 18/01/2016,18:00,Swansea,Watford,4-3-1-2,Alan Curtis,20430,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578105
+23,dom 24/01/2016,11:30,Everton,Swansea,4-3-1-2,Francesco Guidolin,36908,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578108
+24,ter 02/02/2016,18:00,West Brom,Swansea,4-3-3 ofensivo,Francesco Guidolin,22062,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578121
+25,sáb 06/02/2016,13:00,Swansea,Crystal Palace,4-4-2 losango,Francesco Guidolin,20492,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578139
+26,sáb 13/02/2016,13:00,Swansea,Southampton,4-2-3-1,Francesco Guidolin,20890,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578137
+27,dom 28/02/2016,11:05,Tottenham,Swansea,4-1-4-1,Francesco Guidolin,35922,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578153
+28,qua 02/03/2016,16:45,Arsenal,Swansea,4-2-3-1,Alan Curtis,59905,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578155
+29,sáb 05/03/2016,12:00,Swansea,Norwich,4-2-3-1,Alan Curtis,20929,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578186
+30,sáb 12/03/2016,12:00,Bournemouth,Swansea,4-2-3-1,Alan Curtis,11179,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578177
+31,sáb 19/03/2016,14:30,Swansea,Aston Villa,4-2-3-1,Francesco Guidolin,20454,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578191
+32,sáb 02/04/2016,11:00,Stoke,Swansea,4-1-4-1,Francesco Guidolin,27649,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578209
+33,sáb 09/04/2016,11:00,Swansea,Chelsea,4-2-3-1,Francesco Guidolin,20966,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578212
+34,sáb 16/04/2016,11:00,Newcastle,Swansea,4-2-3-1,Francesco Guidolin,48949,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578244
+35,dom 24/04/2016,12:15,Leicester,Swansea,4-1-4-1,Francesco Guidolin,31962,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578280
+36,dom 01/05/2016,08:00,Swansea,Liverpool,4-2-3-1,Francesco Guidolin,20972,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578243
+37,sáb 07/05/2016,11:00,West Ham,Swansea,4-1-4-1,Francesco Guidolin,34907,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578251
+38,dom 15/05/2016,11:00,Swansea,Man City,4-1-4-1,Francesco Guidolin,20934,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578282

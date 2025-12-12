@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 09/08/2014,11:00,Watford,Bolton,4-2-3-1,Dougie Freedman,15546,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2464945
+2,sáb 16/08/2014,11:00,Bolton,Nott'm Forest,4-2-3-1,Dougie Freedman,15753,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2484436
+3,ter 19/08/2014,16:00,Bolton,Middlesbrough,4-4-2,Dougie Freedman,13847,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2485909
+4,sáb 23/08/2014,11:00,Brighton,Bolton,4-4-2 duplo 6,Dougie Freedman,24435,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2485915
+5,sáb 30/08/2014,11:00,Leeds,Bolton,4-4-2 duplo 6,Dougie Freedman,21901,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2485928
+6,sáb 13/09/2014,11:00,Bolton,Sheff Wed,4-2-3-1,Dougie Freedman,15799,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2485939
+7,ter 16/09/2014,16:00,Bolton,Rotherham,4-2-3-1,Dougie Freedman,13630,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2485957
+8,sáb 20/09/2014,11:00,Wolves,Bolton,4-2-3-1,Dougie Freedman,22695,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498461
+9,sáb 27/09/2014,11:00,Bolton,Derby,4-2-3-1,Dougie Freedman,15006,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498490
+10,qua 01/10/2014,16:00,Fulham,Bolton,4-2-3-1,Dougie Freedman,14496,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498510
+11,sáb 04/10/2014,11:00,Bolton,Bournemouth,4-4-2 duplo 6,Andrew Hughes,13033,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498513
+12,sáb 18/10/2014,11:00,Birmingham,Bolton,4-2-3-1,Neil Lennon,15149,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498524
+13,ter 21/10/2014,16:45,Charlton,Bolton,4-2-3-1,Neil Lennon,13433,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498541
+14,sáb 25/10/2014,12:00,Bolton,Brentford,4-4-2,Neil Lennon,14811,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498558
+15,sex 31/10/2014,17:45,Norwich,Bolton,4-2-3-1,Neil Lennon,26070,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498648
+16,ter 04/11/2014,18:00,Bolton,Cardiff,4-5-1 plano,Neil Lennon,12961,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498676
+17,sex 07/11/2014,18:00,Bolton,Wigan,4-2-3-1,Neil Lennon,17282,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2509867
+18,sáb 22/11/2014,13:00,Blackpool,Bolton,4-2-3-1,Neil Lennon,12181,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2509884
+19,sáb 29/11/2014,13:00,Bolton,Huddersfield,4-2-3-1,Neil Lennon,15924,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2509894
+20,sáb 06/12/2014,13:00,Reading,Bolton,4-2-3-1,Neil Lennon,15421,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2509913
+21,sáb 13/12/2014,13:00,Bolton,Ipswich,4-2-3-1,Neil Lennon,15186,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2509967
+22,sex 19/12/2014,17:45,Millwall,Bolton,4-2-3-1,Neil Lennon,8635,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2509976
+23,sex 26/12/2014,13:00,Bolton,Blackburn,4-2-3-1,Neil Lennon,23203,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2509989
+24,dom 28/12/2014,13:00,Huddersfield,Bolton,4-2-3-1,Neil Lennon,15773,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2510005
+25,sáb 10/01/2015,13:00,Bolton,Leeds,4-4-1-1,Neil Lennon,18844,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2520383
+26,sáb 17/01/2015,13:00,Sheff Wed,Bolton,4-4-2 duplo 6,Neil Lennon,22617,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2520400
+27,ter 27/01/2015,17:45,Rotherham,Bolton,3-5-2 plano,Neil Lennon,8760,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525519
+28,sáb 31/01/2015,13:00,Bolton,Wolves,4-4-2,Neil Lennon,15869,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525530
+29,sáb 07/02/2015,13:00,Derby,Bolton,3-5-2,Neil Lennon,30310,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525537
+30,ter 10/02/2015,18:00,Bolton,Fulham,4-4-2 duplo 6,Neil Lennon,12790,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525557
+31,sáb 14/02/2015,13:00,Bolton,Watford,4-4-2,Neil Lennon,14230,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525562
+32,sáb 21/02/2015,13:00,Nott'm Forest,Bolton,4-4-2,Neil Lennon,22441,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525580
+33,ter 24/02/2015,16:45,Middlesbrough,Bolton,4-4-2,Neil Lennon,16569,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525590
+34,sáb 28/02/2015,12:00,Bolton,Brighton,4-4-2 duplo 6,Neil Lennon,14115,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525598
+35,ter 03/03/2015,17:00,Bolton,Reading,4-4-2,Neil Lennon,12795,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525619
+36,qua 11/03/2015,16:45,Blackburn,Bolton,4-4-2,Neil Lennon,15362,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525620
+37,sáb 14/03/2015,12:00,Bolton,Millwall,4-4-2,Neil Lennon,14719,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525633
+38,ter 17/03/2015,16:45,Ipswich,Bolton,3-5-2 plano,Neil Lennon,16923,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525649
+39,sáb 21/03/2015,12:00,Wigan,Bolton,3-5-2 plano,Neil Lennon,15861,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525666
+40,sáb 04/04/2015,11:00,Bolton,Blackpool,4-1-4-1,Neil Lennon,17076,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525677
+41,seg 06/04/2015,11:00,Cardiff,Bolton,3-5-2,Neil Lennon,20219,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525692
+42,sáb 11/04/2015,11:00,Bolton,Norwich,4-4-2,Neil Lennon,16027,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525701
+43,ter 14/04/2015,16:00,Bolton,Charlton,4-1-4-1,Neil Lennon,12994,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525720
+44,sáb 18/04/2015,11:00,Brentford,Bolton,4-4-2 duplo 6,Neil Lennon,11874,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525727
+45,seg 27/04/2015,15:45,Bournemouth,Bolton,3-5-2,Neil Lennon,10070,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525737
+46,sáb 02/05/2015,08:15,Bolton,Birmingham,4-4-2,Neil Lennon,18614,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525758

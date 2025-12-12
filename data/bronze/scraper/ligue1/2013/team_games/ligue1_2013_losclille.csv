@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 10/08/2013,16:00,Lille,FC Lorient,4-3-1-2,René Girard,36362,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2353757
+2,sáb 17/08/2013,15:00,Reims,Lille,4-3-1-2,René Girard,14199,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2353768
+3,dom 25/08/2013,09:00,Lille,Saint-Étienne,4-3-1-2,René Girard,35866,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330828
+4,sáb 31/08/2013,15:00,Rennes,Lille,4-3-3 ofensivo,René Girard,20307,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330842
+5,dom 15/09/2013,12:00,Lille,Nice,4-3-3 ofensivo,René Girard,34002,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330853
+6,sáb 21/09/2013,15:00,FC Sochaux,Lille,4-3-1-2,René Girard,10511,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330864
+7,ter 24/09/2013,14:00,Lille,Évian,4-3-1-2,René Girard,31252,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330867
+8,sáb 28/09/2013,15:00,Lyon,Lille,4-3-1-2,René Girard,39717,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330901
+9,sáb 05/10/2013,15:00,Lille,AC Ajaccio,4-3-1-2,René Girard,34384,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330908
+10,sáb 19/10/2013,15:00,Montpellier,Lille,4-3-1-2,René Girard,13990,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330902
+11,sex 25/10/2013,16:30,Nantes,Lille,4-3-1-2,René Girard,32289,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330887
+12,dom 03/11/2013,18:00,Lille,Monaco,4-3-1-2,René Girard,43880,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330905
+13,sáb 09/11/2013,17:00,Guingamp,Lille,4-4-2,René Girard,13261,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331040
+14,dom 24/11/2013,11:00,Lille,Toulouse,4-3-1-2,René Girard,38433,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330941
+15,sáb 30/11/2013,17:00,Valenciennes,Lille,4-3-1-2,René Girard,14874,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330916
+16,ter 03/12/2013,16:00,Lille,Marselha,4-3-1-2,René Girard,46089,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330966
+17,dom 08/12/2013,11:00,Bordeaux,Lille,4-3-1-2,René Girard,18740,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330969
+18,dom 15/12/2013,14:00,Lille,SC Bastia,4-3-1-2,René Girard,37682,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330957
+19,dom 22/12/2013,18:00,PSG,Lille,4-3-1-2,René Girard,45844,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330977
+20,dom 12/01/2014,18:00,Lille,Reims,4-3-1-2,René Girard,36287,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330981
+21,sex 17/01/2014,17:30,Saint-Étienne,Lille,4-3-1-2,René Girard,26887,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331022
+22,sex 24/01/2014,17:30,Lille,Rennes,4-2-3-1,René Girard,35706,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330998
+23,dom 02/02/2014,11:00,Nice,Lille,4-3-1-2,René Girard,21953,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331014
+24,sáb 08/02/2014,17:00,Lille,FC Sochaux,4-5-1 plano,René Girard,34841,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331038
+25,dom 16/02/2014,13:00,Évian,Lille,4-3-3 ofensivo,René Girard,10366,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331085
+26,dom 23/02/2014,17:00,Lille,Lyon,4-3-3 ofensivo,René Girard,43518,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331098
+27,dom 02/03/2014,10:00,AC Ajaccio,Lille,4-3-3 ofensivo,René Girard,5663,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331081
+28,dom 09/03/2014,10:00,Lille,Montpellier,4-3-3 ofensivo,René Girard,40264,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331102
+29,sáb 15/03/2014,12:30,Lille,Nantes,4-3-3 ofensivo,René Girard,39328,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331051
+30,dom 23/03/2014,17:00,Monaco,Lille,4-3-3 ofensivo,René Girard,7157,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331057
+31,dom 30/03/2014,12:00,Lille,Guingamp,4-3-3 defensivo,René Girard,39319,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331108
+32,sáb 05/04/2014,15:00,Toulouse,Lille,4-3-1-2,René Girard,14108,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331128
+33,sáb 12/04/2014,12:00,Lille,Valenciennes,4-3-1-2,René Girard,37757,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331116
+34,dom 20/04/2014,16:00,Marselha,Lille,4-3-1-2,René Girard,39545,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331122
+35,dom 27/04/2014,16:00,Lille,Bordeaux,4-3-3 ofensivo,René Girard,40644,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331163
+36,sex 02/05/2014,15:30,SC Bastia,Lille,4-3-1-2,René Girard,12702,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331166
+37,sáb 10/05/2014,16:00,Lille,PSG,4-3-1-2,René Girard,48960,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331146
+38,sáb 17/05/2014,16:00,FC Lorient,Lille,4-3-1-2,René Girard,16593,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331179

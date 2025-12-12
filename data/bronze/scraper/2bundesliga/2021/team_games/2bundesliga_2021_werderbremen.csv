@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 24/07/2021,15:30,Werder Bremen,Hannover,4-1-4-1,Markus Anfang,14000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588158
+2,sáb 31/07/2021,15:30,Düsseldorf,Werder Bremen,4-3-3 ofensivo,Markus Anfang,12850,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588186
+3,dom 15/08/2021,08:30,Werder Bremen,Paderborn,4-1-4-1,Markus Anfang,21000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588202
+4,sáb 21/08/2021,08:30,Karlsruher,Werder Bremen,4-3-3 ofensivo,Markus Anfang,10000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588231
+5,dom 29/08/2021,08:30,Werder Bremen,Hansa Rostock,4-3-3 ofensivo,Markus Anfang,21050,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588247
+6,sáb 11/09/2021,08:30,Ingolstadt,Werder Bremen,4-3-3 ofensivo,Markus Anfang,5825,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588273
+7,sáb 18/09/2021,15:30,Werder Bremen,Hamburgo,4-3-3 ofensivo,Markus Anfang,21050,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588292
+8,dom 26/09/2021,08:30,Dynamo Dresden,Werder Bremen,4-1-4-1,Markus Anfang,16000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588316
+9,sex 01/10/2021,13:30,Werder Bremen,Heidenheim,4-1-4-1,Markus Anfang,30000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588328
+10,dom 17/10/2021,08:30,Darmstadt 98,Werder Bremen,4-1-4-1,Markus Anfang,13000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588357
+11,dom 24/10/2021,08:30,Sandhausen,Werder Bremen,4-3-2-1,Markus Anfang,7252,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588372
+12,sáb 30/10/2021,08:30,Werder Bremen,St. Pauli,3-5-2 plano,Markus Anfang,42100,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588391
+13,sex 05/11/2021,14:30,Nuremberg,Werder Bremen,3-5-2 plano,Markus Anfang,25000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588415
+14,sáb 20/11/2021,16:30,Werder Bremen,Schalke,3-4-1-2,Danijel Zenkovic,42100,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588427
+15,sáb 27/11/2021,16:30,Holstein Kiel,Werder Bremen,4-4-2 duplo 6,Christian Brand,10000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588446
+16,sex 03/12/2021,14:30,Werder Bremen,Erzgebirge Aue,3-1-4-2,Ole Werner,15024,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588472
+17,sex 10/12/2021,14:30,J. Regensburg,Werder Bremen,3-1-4-2,Ole Werner,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588506
+18,dom 19/12/2021,09:30,Hannover,Werder Bremen,3-1-4-2,Ole Werner,5000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588523
+19,sáb 15/01/2022,09:30,Werder Bremen,Düsseldorf,3-1-4-2,Ole Werner,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588535
+20,sáb 22/01/2022,09:30,Paderborn,Werder Bremen,3-1-4-2,Ole Werner,750,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588556
+21,sáb 05/02/2022,09:30,Werder Bremen,Karlsruher,3-1-4-2,Ole Werner,10000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588571
+22,sex 11/02/2022,14:30,Hansa Rostock,Werder Bremen,3-1-4-2,Ole Werner,10000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588605
+23,sáb 19/02/2022,09:30,Werder Bremen,Ingolstadt,3-5-2 plano,Ole Werner,15000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588616
+24,dom 27/02/2022,09:30,Hamburgo,Werder Bremen,3-1-4-2,Ole Werner,25000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588634
+25,dom 06/03/2022,09:30,Werder Bremen,Dynamo Dresden,3-1-4-2,Ole Werner,25000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588658
+26,sáb 12/03/2022,16:30,Heidenheim,Werder Bremen,3-1-4-2,Ole Werner,11250,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588688
+27,sáb 19/03/2022,16:30,Werder Bremen,Darmstadt 98,3-5-2 plano,Ole Werner,41000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588676
+28,dom 03/04/2022,08:30,Werder Bremen,Sandhausen,3-5-2 plano,Ole Werner,36000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588701
+29,sáb 09/04/2022,08:30,St. Pauli,Werder Bremen,3-1-4-2,Ole Werner,29546,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588714
+30,dom 17/04/2022,08:30,Werder Bremen,Nuremberg,3-1-4-2,Ole Werner,42100,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588719
+31,sáb 23/04/2022,08:30,Schalke,Werder Bremen,3-1-4-2,Ole Werner,62271,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588728
+32,sex 29/04/2022,13:30,Werder Bremen,Holstein Kiel,3-1-4-2,Ole Werner,42100,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588737
+33,dom 08/05/2022,08:30,Erzgebirge Aue,Werder Bremen,3-1-4-2,Ole Werner,12360,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588752
+34,dom 15/05/2022,10:30,Werder Bremen,J. Regensburg,3-1-4-2,Ole Werner,41000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588755

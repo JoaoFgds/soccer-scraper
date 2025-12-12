@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 14/05/2016,21:00,Bahia,Avaí,4-4-2 duplo 6,Doriva,10070,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2684576
+2,sáb 21/05/2016,16:30,Paraná,Bahia,4-4-2 duplo 6,Doriva,2716,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2684593
+3,qua 25/05/2016,19:30,Bahia,Joinville,4-2-3-1,Doriva,7298,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2694634
+4,sáb 28/05/2016,16:30,Vasco da Gama,Bahia,4-2-3-1,Doriva,9014,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2694642
+5,ter 31/05/2016,19:15,Bahia,Náutico,4-2-3-1,Doriva,8662,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2695802
+6,sex 03/06/2016,19:15,Bahia,Paysandu,4-2-3-1,Doriva,9669,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2695806
+7,ter 07/06/2016,21:30,Goiás,Bahia,4-2-3-1,Doriva,2686,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2696860
+8,sex 10/06/2016,19:15,Bahia,CRB,4-2-3-1,Doriva,11947,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2696861
+9,ter 14/06/2016,19:15,Criciúma,Bahia,4-2-3-1,Doriva,3461,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698605
+10,sáb 18/06/2016,16:00,Bahia,Londrina,4-2-3-1,Doriva,9635,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698626
+11,ter 21/06/2016,19:15,Tupi,Bahia,4-2-3-1,Aroldo Moreira,1133,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698645
+12,sex 24/06/2016,21:30,Brasil Pelotas,Bahia,4-2-3-1,Aroldo Moreira,326,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702153
+13,ter 28/06/2016,19:15,Bahia,Oeste,4-2-3-1,Guto Ferreira,6496,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702173
+14,sáb 02/07/2016,19:30,Ceará,Bahia,4-2-3-1,Guto Ferreira,17428,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2708432
+15,ter 05/07/2016,21:30,Bahia,Vila Nova,4-2-3-1,Guto Ferreira,9125,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2708435
+16,sex 15/07/2016,21:30,Sampaio Corrêa,Bahia,4-2-3-1,Guto Ferreira,3067,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720250
+17,sáb 23/07/2016,18:30,Bahia,Luverdense,4-2-3-1,Guto Ferreira,9475,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720263
+18,sáb 30/07/2016,16:30,Bragantino,Bahia,4-2-3-1,Guto Ferreira,1254,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2756312
+19,ter 16/08/2016,19:30,Bahia,Atlético-GO,4-2-3-1,Guto Ferreira,8115,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2758356
+20,sáb 20/08/2016,19:30,Avaí,Bahia,4-2-3-1,Guto Ferreira,1942,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2759446
+21,sáb 27/08/2016,17:30,Bahia,Paraná,4-2-3-1,Guto Ferreira,20925,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2760291
+22,qua 31/08/2016,17:15,Joinville,Bahia,4-2-3-1,Guto Ferreira,2860,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2762810
+23,sáb 03/09/2016,14:30,Bahia,Vasco da Gama,4-2-3-1,Guto Ferreira,35023,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2762823
+24,sáb 10/09/2016,13:30,Náutico,Bahia,4-2-3-1,Guto Ferreira,4859,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2764272
+25,ter 13/09/2016,16:15,Paysandu,Bahia,4-2-3-1,Guto Ferreira,7198,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2766720
+26,sáb 17/09/2016,15:30,Bahia,Goiás,4-2-3-1,Guto Ferreira,19638,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2809792
+27,sáb 24/09/2016,13:20,CRB,Bahia,4-3-3 defensivo,Guto Ferreira,10098,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2809798
+28,sex 30/09/2016,16:15,Bahia,Criciúma,4-3-3 defensivo,Guto Ferreira,16647,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2809807
+29,ter 04/10/2016,16:15,Londrina,Bahia,4-3-3 defensivo,Diego Cerri,6368,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2809822
+30,dom 09/10/2016,16:30,Bahia,Tupi,4-3-3 defensivo,Guto Ferreira,16749,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2809839
+31,sex 14/10/2016,18:30,Bahia,Brasil Pelotas,4-3-3 defensivo,Guto Ferreira,20521,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2809843
+32,sáb 22/10/2016,14:20,Oeste,Bahia,4-3-3 defensivo,Guto Ferreira,3477,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2811199
+33,sáb 29/10/2016,15:00,Bahia,Ceará,4-3-3 defensivo,Guto Ferreira,27177,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2811212
+34,sex 04/11/2016,20:30,Vila Nova,Bahia,4-3-3 defensivo,Guto Ferreira,2106,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2811217
+35,ter 08/11/2016,20:30,Bahia,Sampaio Corrêa,4-2-3-1,Guto Ferreira,35658,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2811230
+36,sáb 12/11/2016,18:30,Luverdense,Bahia,4-3-1-2,Guto Ferreira,821,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2811256
+37,sáb 19/11/2016,16:30,Bahia,Bragantino,4-2-3-1,Guto Ferreira,44042,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2811267
+38,sáb 26/11/2016,16:30,Atlético-GO,Bahia,4-3-3 defensivo,Guto Ferreira,11750,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2811279

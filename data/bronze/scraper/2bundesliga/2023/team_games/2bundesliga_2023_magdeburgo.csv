@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 29/07/2023,08:00,Wehen Wiesbaden,Magdeburgo,4-3-3 ofensivo,Christian Titz,7219,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096281
+2,dom 06/08/2023,08:30,Magdeburgo,E. Braunschweig,4-3-3 ofensivo,Christian Titz,28350,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096288
+3,dom 20/08/2023,08:30,Holstein Kiel,Magdeburgo,4-3-3 ofensivo,Christian Titz,12900,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096293
+4,dom 27/08/2023,08:30,St. Pauli,Magdeburgo,4-3-3 ofensivo,Christian Titz,29546,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096302
+5,sáb 02/09/2023,08:00,Magdeburgo,Hertha Berlim,4-3-3 ofensivo,Christian Titz,26872,6:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096313
+6,sáb 16/09/2023,15:30,Schalke,Magdeburgo,4-3-3 ofensivo,Christian Titz,61755,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096318
+7,sex 22/09/2023,13:30,Magdeburgo,Paderborn,4-3-3 ofensivo,Christian Titz,24123,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096331
+8,dom 01/10/2023,08:30,Nuremberg,Magdeburgo,4-3-1-2,Christian Titz,33106,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096342
+9,sáb 07/10/2023,08:00,Magdeburgo,Karlsruher,4-3-3 ofensivo,Christian Titz,24366,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096350
+10,sex 20/10/2023,13:30,Hannover,Magdeburgo,4-3-3 ofensivo,Christian Titz,38200,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096358
+11,dom 29/10/2023,09:30,Magdeburgo,SV Elversberg,4-3-3 ofensivo,Christian Titz,22166,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096368
+12,sáb 04/11/2023,16:30,Hamburgo,Magdeburgo,4-3-3 ofensivo,Christian Titz,56800,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096372
+13,dom 12/11/2023,09:30,Magdeburgo,Hansa Rostock,4-3-3 ofensivo,Christian Titz,26660,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096386
+14,sáb 25/11/2023,09:00,VfL Osnabrück,Magdeburgo,4-3-3 ofensivo,Christian Titz,15741,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096398
+15,sáb 02/12/2023,16:30,Magdeburgo,K'lautern,4-3-3 ofensivo,Christian Titz,25214,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096404
+16,sáb 09/12/2023,09:00,Greuther Fürth,Magdeburgo,4-3-3 ofensivo,Christian Titz,10796,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096412
+17,sáb 16/12/2023,09:00,Magdeburgo,Düsseldorf,4-3-3 ofensivo,Christian Titz,20647,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096423
+18,dom 21/01/2024,09:30,Magdeburgo,Wehen Wiesbaden,4-3-3 ofensivo,Christian Titz,22582,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096434
+19,dom 28/01/2024,09:30,E. Braunschweig,Magdeburgo,3-4-3 plano,Christian Titz,22582,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096441
+20,sex 02/02/2024,14:30,Magdeburgo,Holstein Kiel,3-4-3 plano,Christian Titz,20097,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096446
+21,sáb 10/02/2024,09:00,Magdeburgo,St. Pauli,4-3-3 ofensivo,Christian Titz,25187,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096455
+22,sex 16/02/2024,14:30,Hertha Berlim,Magdeburgo,3-4-3 plano,Christian Titz,52652,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096466
+23,sáb 24/02/2024,16:30,Magdeburgo,Schalke,4-3-3 ofensivo,Christian Titz,27038,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096471
+24,dom 03/03/2024,09:30,Paderborn,Magdeburgo,4-3-3 ofensivo,Christian Titz,13566,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096484
+25,sáb 09/03/2024,16:30,Magdeburgo,Nuremberg,4-3-3 ofensivo,Christian Titz,26680,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096495
+26,dom 17/03/2024,09:30,Karlsruher,Magdeburgo,3-4-3 plano,Christian Titz,27028,7:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096503
+27,dom 31/03/2024,08:30,Magdeburgo,Hannover,3-4-3 plano,Christian Titz,26440,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096511
+28,sáb 06/04/2024,08:00,SV Elversberg,Magdeburgo,3-4-3 plano,Christian Titz,8864,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096521
+29,dom 14/04/2024,08:30,Magdeburgo,Hamburgo,3-4-3 plano,Christian Titz,27090,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096525
+30,dom 21/04/2024,08:30,Hansa Rostock,Magdeburgo,3-4-3 plano,Christian Titz,27500,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096539
+31,dom 28/04/2024,08:30,Magdeburgo,VfL Osnabrück,3-4-3 plano,Christian Titz,25882,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096551
+32,sáb 04/05/2024,15:30,K'lautern,Magdeburgo,3-4-3 plano,Christian Titz,46556,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096557
+33,sex 10/05/2024,13:30,Magdeburgo,Greuther Fürth,3-4-3 plano,Christian Titz,26620,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096565
+34,dom 19/05/2024,10:30,Düsseldorf,Magdeburgo,3-4-3 plano,Christian Titz,50028,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096576

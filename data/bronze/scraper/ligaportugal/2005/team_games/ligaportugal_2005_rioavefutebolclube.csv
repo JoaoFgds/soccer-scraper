@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 21/08/2005,12:00,Penafiel,Rio Ave,,António Sousa,1500,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/35313
+2,dom 28/08/2005,12:00,Rio Ave,Vit. Guimarães,4-3-3 ofensivo,António Sousa,2500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/35322
+3,sáb 10/09/2005,15:30,FC Porto,Rio Ave,4-4-2 duplo 6,António Sousa,38421,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/35340
+4,dom 18/09/2005,12:00,Rio Ave,CF Estrela,,António Sousa,2000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/36657
+5,dom 25/09/2005,12:00,Naval 1º de Maio,Rio Ave,,António Sousa,600,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/36664
+6,sáb 01/10/2005,14:45,Rio Ave,Boavista,,António Sousa,3000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/36675
+7,sex 14/10/2005,17:30,Rio Ave,Braga,,António Sousa,1500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/36684
+8,sex 21/10/2005,18:30,Belenenses,Rio Ave,,António Sousa,1000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/36687
+9,dom 30/10/2005,15:00,Rio Ave,Marítimo,,António Sousa,1500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/36703
+10,dom 06/11/2005,18:15,Benfica,Rio Ave,4-3-3 ofensivo,João Eusébio,35239,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/36706
+11,dom 20/11/2005,15:00,Rio Ave,Nacional,,António Sousa,2500,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/36721
+12,dom 27/11/2005,14:00,Vitória FC,Rio Ave,,António Sousa,3000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/36729
+13,dom 04/12/2005,15:00,Rio Ave,Paços Ferreira,,António Sousa,2000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/36739
+14,dom 11/12/2005,15:00,Académica,Rio Ave,,António Sousa,5905,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/36740
+15,sáb 17/12/2005,15:00,Rio Ave,Gil Vicente,,António Sousa,1500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/36757
+16,ter 20/12/2005,20:30,Sporting,Rio Ave,,António Sousa,23146,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/36766
+17,seg 09/01/2006,19:30,Rio Ave,Leiria,,António Sousa,1000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/36775
+18,dom 15/01/2006,15:00,Rio Ave,Penafiel,,António Sousa,1500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/36783
+19,sáb 21/01/2006,15:00,Vit. Guimarães,Rio Ave,,António Sousa,14750,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/36789
+20,dom 29/01/2006,14:00,Rio Ave,FC Porto,,António Sousa,5000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/36801
+21,dom 05/02/2006,15:00,CF Estrela,Rio Ave,,António Sousa,1200,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/36804
+22,dom 12/02/2006,14:00,Rio Ave,Naval 1º de Maio,,António Sousa,2000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/36819
+23,sex 17/02/2006,20:30,Boavista,Rio Ave,,António Sousa,2000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/36822
+24,seg 27/02/2006,18:30,Braga,Rio Ave,,António Sousa,8088,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/36833
+25,seg 06/03/2006,17:30,Rio Ave,Belenenses,,João Eusébio,2000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/36846
+26,dom 12/03/2006,13:00,Marítimo,Rio Ave,,João Eusébio,1500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/36853
+27,dom 19/03/2006,13:00,Rio Ave,Benfica,,João Eusébio,4000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/36865
+28,dom 26/03/2006,11:00,Nacional,Rio Ave,,João Eusébio,1000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/36872
+29,seg 03/04/2006,16:30,Rio Ave,Vitória FC,,João Eusébio,3000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/36883
+30,dom 09/04/2006,11:00,Paços Ferreira,Rio Ave,,João Eusébio,3000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/36886
+31,sáb 15/04/2006,12:00,Rio Ave,Académica,,João Eusébio,4000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/36901
+32,dom 23/04/2006,12:00,Gil Vicente,Rio Ave,,João Eusébio,10522,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/36904
+33,dom 30/04/2006,14:30,Rio Ave,Sporting,,João Eusébio,4000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/36919
+34,dom 07/05/2006,14:30,Leiria,Rio Ave,,João Eusébio,1500,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/36925

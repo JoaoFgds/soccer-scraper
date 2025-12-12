@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 17/07/2022,08:30,E. Braunschweig,Hamburgo,4-3-3 ofensivo,Tim Walter,21900,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839024
+2,dom 24/07/2022,08:30,Hamburgo,Hansa Rostock,4-3-3 ofensivo,Tim Walter,54500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839035
+3,sáb 06/08/2022,08:00,Hamburgo,Heidenheim,4-3-3 ofensivo,Tim Walter,43094,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839044
+4,sáb 13/08/2022,08:00,Arm. Bielefeld,Hamburgo,4-3-3 ofensivo,Tim Walter,26875,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839061
+5,sex 19/08/2022,13:30,Hamburgo,Darmstadt 98,4-3-3 ofensivo,Tim Walter,43943,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839071
+6,sáb 27/08/2022,15:30,Nuremberg,Hamburgo,4-3-3 ofensivo,Tim Walter,35713,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839090
+7,sáb 03/09/2022,15:30,Hamburgo,Karlsruher,4-3-3 ofensivo,Tim Walter,45623,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839124
+8,sex 09/09/2022,13:30,Holstein Kiel,Hamburgo,4-3-3 ofensivo,Tim Walter,15034,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839144
+9,sáb 17/09/2022,15:30,Hamburgo,Düsseldorf,4-3-3 ofensivo,Tim Walter,49616,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839170
+10,sex 30/09/2022,13:30,Hannover,Hamburgo,4-3-3 ofensivo,Tim Walter,49000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839191
+11,sáb 08/10/2022,15:30,Hamburgo,K'lautern,4-3-3 ofensivo,Tim Walter,57000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839205
+12,sex 14/10/2022,13:30,St. Pauli,Hamburgo,4-3-3 ofensivo,Tim Walter,29205,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839223
+13,dom 23/10/2022,08:30,Hamburgo,Magdeburgo,4-3-3 ofensivo,Tim Walter,55304,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839241
+14,dom 30/10/2022,09:30,Paderborn,Hamburgo,4-3-3 ofensivo,Tim Walter,15000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839269
+15,dom 06/11/2022,09:30,Hamburgo,J. Regensburg,4-3-3 ofensivo,Tim Walter,51314,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839286
+16,qua 09/11/2022,14:30,Greuther Fürth,Hamburgo,4-3-3 ofensivo,Tim Walter,13266,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839303
+17,sáb 12/11/2022,09:00,Hamburgo,Sandhausen,4-3-3 ofensivo,Tim Walter,55246,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839322
+18,dom 29/01/2023,09:30,Hamburgo,E. Braunschweig,4-3-3 ofensivo,Tim Walter,55500,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839340
+19,dom 05/02/2023,09:30,Hansa Rostock,Hamburgo,4-3-3 ofensivo,Tim Walter,26500,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839360
+20,sáb 11/02/2023,16:30,Heidenheim,Hamburgo,4-3-3 ofensivo,Tim Walter,15000,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839378
+21,dom 19/02/2023,09:30,Hamburgo,Arm. Bielefeld,4-3-3 ofensivo,Tim Walter,56905,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839403
+22,sáb 25/02/2023,16:30,Darmstadt 98,Hamburgo,4-3-3 ofensivo,Tim Walter,16800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839421
+23,sáb 04/03/2023,09:00,Hamburgo,Nuremberg,4-3-3 ofensivo,Tim Walter,57000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839439
+24,dom 12/03/2023,09:30,Karlsruher,Hamburgo,4-3-3 ofensivo,Tim Walter,23532,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839462
+25,sáb 18/03/2023,09:00,Hamburgo,Holstein Kiel,4-3-3 ofensivo,Tim Walter,57000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839476
+26,sex 31/03/2023,13:30,Düsseldorf,Hamburgo,3-1-4-2,Tim Walter,52200,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839496
+27,sáb 08/04/2023,08:00,Hamburgo,Hannover,4-3-3 ofensivo,Tim Walter,57000,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839520
+28,sáb 15/04/2023,15:30,K'lautern,Hamburgo,4-3-3 ofensivo,Tim Walter,49327,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839545
+29,sex 21/04/2023,13:30,Hamburgo,St. Pauli,4-3-3 ofensivo,Tim Walter,56400,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839556
+30,sáb 29/04/2023,08:00,Magdeburgo,Hamburgo,4-3-3 ofensivo,Tim Walter,27050,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839580
+31,sex 05/05/2023,13:30,Hamburgo,Paderborn,4-3-3 ofensivo,Tim Walter,57000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839592
+32,dom 14/05/2023,08:30,J. Regensburg,Hamburgo,4-3-3 ofensivo,Tim Walter,15210,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839606
+33,sáb 20/05/2023,15:30,Hamburgo,Greuther Fürth,4-3-3 ofensivo,Tim Walter,56537,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839610
+34,dom 28/05/2023,10:30,Sandhausen,Hamburgo,4-3-3 ofensivo,Tim Walter,12320,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839623

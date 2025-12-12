@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 15/04/2023,21:00,Atlético-MG,Vasco da Gama,4-3-3 ofensivo,Maurício Barbieri,34980,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4055820
+2,dom 23/04/2023,16:00,Vasco da Gama,Palmeiras,4-3-3 ofensivo,Claudio Maldonado,59867,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4059108
+3,seg 01/05/2023,20:00,Vasco da Gama,Bahia,4-3-3 ofensivo,Maurício Barbieri,19223,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060071
+4,sáb 06/05/2023,21:00,Fluminense,Vasco da Gama,4-3-3 ofensivo,Maurício Barbieri,39850,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061493
+5,qui 11/05/2023,19:00,Coritiba,Vasco da Gama,4-3-3 ofensivo,Maurício Barbieri,20880,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061440
+6,dom 14/05/2023,16:00,Vasco da Gama,Santos,4-3-3 ofensivo,Maurício Barbieri,19108,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061514
+7,sáb 20/05/2023,18:30,São Paulo,Vasco da Gama,4-3-3 ofensivo,Maurício Barbieri,57399,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061405
+8,sáb 27/05/2023,16:00,Fortaleza,Vasco da Gama,4-3-3 ofensivo,Maurício Barbieri,37625,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061451
+9,seg 05/06/2023,20:00,Vasco da Gama,Flamengo,3-4-3 plano,Maurício Barbieri,46423,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061414
+10,dom 11/06/2023,16:00,Internacional,Vasco da Gama,4-3-1-2,Maurício Barbieri,18044,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061529
+11,qui 22/06/2023,20:00,Vasco da Gama,Goiás,4-3-1-2,Maurício Barbieri,17647,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061464
+12,seg 26/06/2023,21:00,Vasco da Gama,Cuiabá,4-3-3 ofensivo,William Batista,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061504
+13,dom 02/07/2023,16:00,Botafogo,Vasco da Gama,4-2-3-1,William Batista,38798,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061550
+14,sáb 08/07/2023,16:00,Vasco da Gama,Cruzeiro,4-2-3-1,William Batista,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061294
+15,seg 25/09/2023,20:00,América-MG,Vasco da Gama,4-3-3 ofensivo,Ramón Díaz,8498,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061432
+16,dom 23/07/2023,18:30,Vasco da Gama,Athletico-PR,4-3-3 ofensivo,Ramón Díaz,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061536
+17,sáb 29/07/2023,18:30,Corinthians,Vasco da Gama,3-5-2,Ramón Díaz,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061540
+18,dom 06/08/2023,16:00,Vasco da Gama,Grêmio,4-1-4-1,Ramón Díaz,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061274
+19,seg 14/08/2023,21:00,Bragantino,Vasco da Gama,4-1-4-1,Ramón Díaz,5553,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061397
+20,dom 20/08/2023,11:00,Vasco da Gama,Atlético-MG,4-1-4-1,Ramón Díaz,53540,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061244
+21,dom 27/08/2023,18:30,Palmeiras,Vasco da Gama,4-1-4-1,Ramón Díaz,40292,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061385
+22,dom 03/09/2023,18:30,Bahia,Vasco da Gama,4-1-4-1,Ramón Díaz,46705,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061291
+23,sáb 16/09/2023,16:00,Vasco da Gama,Fluminense,4-5-1 plano,Ramón Díaz,35850,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061214
+24,qui 21/09/2023,19:00,Vasco da Gama,Coritiba,4-3-3 ofensivo,Ramón Díaz,20321,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061254
+25,dom 01/10/2023,16:00,Santos,Vasco da Gama,4-3-3 ofensivo,Ramón Díaz,8342,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061376
+26,sáb 07/10/2023,18:30,Vasco da Gama,São Paulo,4-3-3 ofensivo,Ramón Díaz,20690,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061264
+27,qua 18/10/2023,21:30,Vasco da Gama,Fortaleza,4-3-3 ofensivo,Ramón Díaz,20255,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061344
+28,dom 22/10/2023,16:00,Flamengo,Vasco da Gama,4-1-4-1,Ramón Díaz,69473,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061323
+29,qui 26/10/2023,19:00,Vasco da Gama,Internacional,4-1-4-1,Ramón Díaz,20098,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061454
+30,dom 29/10/2023,17:00,Goiás,Vasco da Gama,4-1-4-1,Ramón Díaz,12904,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061317
+31,qui 02/11/2023,17:00,Cuiabá,Vasco da Gama,4-1-4-1,Ramón Díaz,27604,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061242
+32,seg 06/11/2023,19:00,Vasco da Gama,Botafogo,4-1-4-1,Ramón Díaz,21043,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061224
+33,qua 22/11/2023,19:00,Cruzeiro,Vasco da Gama,4-1-4-1,Ramón Díaz,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061338
+34,dom 12/11/2023,18:30,Vasco da Gama,América-MG,4-1-4-1,Ramón Díaz,19478,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061304
+35,sáb 25/11/2023,19:30,Athletico-PR,Vasco da Gama,3-5-2,Ramón Díaz,22056,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061360
+36,ter 28/11/2023,21:30,Vasco da Gama,Corinthians,4-1-4-1,Ramón Díaz,20577,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061364
+37,dom 03/12/2023,18:30,Grêmio,Vasco da Gama,3-4-1-2,Ramón Díaz,50481,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061479
+38,qua 06/12/2023,21:30,Vasco da Gama,Bragantino,4-4-2,Ramón Díaz,20037,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061484

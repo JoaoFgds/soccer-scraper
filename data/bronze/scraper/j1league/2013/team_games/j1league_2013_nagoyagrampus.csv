@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 02/03/2013,02:00,Nagoya Grampus,Júbilo Iwata,3-4-2-1,Dragan Stojkovic,21748,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2286656
+2,sáb 09/03/2013,04:00,Urawa Reds,Nagoya Grampus,4-4-1-1,Dragan Stojkovic,52293,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2287815
+3,sáb 16/03/2013,07:00,Ventforet Kofu,Nagoya Grampus,4-2-3-1,Dragan Stojkovic,11230,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296341
+4,sáb 30/03/2013,03:00,Nagoya Grampus,Shonan Bellmare,4-2-3-1,Dragan Stojkovic,10706,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296342
+5,sáb 06/04/2013,05:00,Kashiwa Reysol,Nagoya Grampus,4-4-1-1,Dragan Stojkovic,8180,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296333
+6,sáb 13/04/2013,02:00,Nagoya Grampus,Albirex Niigata,4-4-1-1,Dragan Stojkovic,13159,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296366
+7,sáb 20/04/2013,02:00,FC Tokyo,Nagoya Grampus,4-4-1-1,Dragan Stojkovic,16804,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296373
+8,sáb 27/04/2013,02:00,Nagoya Grampus,Sanf. Hiroshima,4-4-1-1,Dragan Stojkovic,13004,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296357
+9,sex 03/05/2013,07:00,Kawasaki Front.,Nagoya Grampus,4-4-1-1,Dragan Stojkovic,16292,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296422
+10,seg 06/05/2013,07:00,Nagoya Grampus,Vegalta Sendai,4-4-1-1,Dragan Stojkovic,12075,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296400
+11,sáb 11/05/2013,03:00,Nagoya Grampus,Yokohama F. M.,4-4-1-1,Dragan Stojkovic,18512,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296393
+12,sáb 18/05/2013,02:00,Kashima Antlers,Nagoya Grampus,4-4-1-1,Dragan Stojkovic,17161,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296389
+13,sáb 25/05/2013,07:00,Cerezo Osaka,Nagoya Grampus,4-4-1-1,Dragan Stojkovic,16362,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296433
+14,sáb 06/07/2013,07:00,Nagoya Grampus,Shimizu S-Pulse,4-4-1-1,Dragan Stojkovic,17950,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296457
+15,qua 10/07/2013,07:00,Omiya Ardija,Nagoya Grampus,4-4-1-1,Dragan Stojkovic,9644,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296417
+16,sáb 13/07/2013,07:00,Nagoya Grampus,Sagan Tosu,4-4-1-1,Dragan Stojkovic,9237,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296445
+17,qua 17/07/2013,07:00,Oita Trinita,Nagoya Grampus,4-4-1-1,Dragan Stojkovic,7104,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296446
+18,qua 31/07/2013,07:30,Nagoya Grampus,Kashima Antlers,4-4-1-1,Dragan Stojkovic,15881,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296527
+19,sáb 03/08/2013,07:00,Júbilo Iwata,Nagoya Grampus,4-4-1-1,Dragan Stojkovic,14272,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296535
+20,sáb 10/08/2013,07:00,Nagoya Grampus,Urawa Reds,4-4-2 duplo 6,Dragan Stojkovic,30478,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296570
+21,sáb 17/08/2013,07:00,Sanf. Hiroshima,Nagoya Grampus,4-4-2 duplo 6,Dragan Stojkovic,20879,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296523
+22,sáb 24/08/2013,07:00,Nagoya Grampus,Cerezo Osaka,4-4-2 duplo 6,Dragan Stojkovic,18560,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296558
+23,qua 28/08/2013,07:00,Nagoya Grampus,Oita Trinita,4-4-2 duplo 6,Dragan Stojkovic,9777,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296595
+24,sáb 31/08/2013,07:00,Sagan Tosu,Nagoya Grampus,4-4-2 duplo 6,Dragan Stojkovic,15569,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296586
+25,sáb 14/09/2013,03:00,Shimizu S-Pulse,Nagoya Grampus,4-4-2 duplo 6,Dragan Stojkovic,13189,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296560
+26,sáb 21/09/2013,07:00,Nagoya Grampus,FC Tokyo,4-4-2 duplo 6,Dragan Stojkovic,13329,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296576
+27,sáb 28/09/2013,07:30,Nagoya Grampus,Kawasaki Front.,4-4-2 duplo 6,Dragan Stojkovic,12013,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296495
+28,sáb 05/10/2013,04:00,Shonan Bellmare,Nagoya Grampus,4-4-2 duplo 6,Dragan Stojkovic,8650,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296490
+29,sáb 19/10/2013,02:00,Vegalta Sendai,Nagoya Grampus,4-4-2 duplo 6,Dragan Stojkovic,15178,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296509
+30,dom 27/10/2013,05:00,Nagoya Grampus,Omiya Ardija,4-4-2 duplo 6,Dragan Stojkovic,14016,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296480
+31,dom 10/11/2013,02:00,Yokohama F. M.,Nagoya Grampus,4-4-2 duplo 6,Dragan Stojkovic,28484,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296463
+32,sáb 23/11/2013,06:00,Nagoya Grampus,Kashiwa Reysol,4-4-2 duplo 6,Dragan Stojkovic,17438,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296471
+33,sáb 30/11/2013,06:00,Nagoya Grampus,Ventforet Kofu,4-4-2 duplo 6,Dragan Stojkovic,26369,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296609
+34,sáb 07/12/2013,04:30,Albirex Niigata,Nagoya Grampus,4-4-2 duplo 6,Dragan Stojkovic,30504,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296577

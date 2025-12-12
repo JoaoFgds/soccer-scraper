@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 09/05/2010,11:00,Internacional,Cruzeiro,4-4-2,Adilson Batista,11631,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003476
+2,dom 16/05/2010,13:30,Cruzeiro,Avaí,4-4-2,Adilson Batista,8115,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003489
+3,dom 23/05/2010,13:30,Guarani,Cruzeiro,4-4-2,Adilson Batista,8689,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004156
+4,qua 26/05/2010,16:50,Cruzeiro,Botafogo,4-4-2,Adilson Batista,8561,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004786
+5,dom 30/05/2010,13:30,Ceará,Cruzeiro,4-4-2,Adilson Batista,19694,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004798
+6,qua 02/06/2010,16:50,Cruzeiro,Santos,4-4-2,Adilson Batista,15708,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005864
+7,dom 06/06/2010,13:30,Atlético-GO,Cruzeiro,4-4-2,Émerson Ávila,3419,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005877
+8,qua 14/07/2010,14:30,Atlético-PR,Cruzeiro,4-4-2,Cuca,13952,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005879
+9,dom 18/07/2010,13:30,Cruzeiro,Goiás,4-4-2,Cuca,3579,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005890
+10,qui 22/07/2010,16:00,Fluminense,Cruzeiro,4-4-2,Cuca,34008,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005915
+11,dom 25/07/2010,11:00,Cruzeiro,Grêmio,4-4-2,Cuca,9672,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006305
+12,dom 01/08/2010,13:30,Atlético-MG,Cruzeiro,4-4-2,Cuca,12340,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006318
+13,dom 08/08/2010,13:30,Cruzeiro,Barueri,3-5-2,Cuca,10209,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006340
+14,dom 15/08/2010,11:00,São Paulo,Cruzeiro,4-4-2,Cuca,12338,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006344
+15,dom 22/08/2010,13:30,Cruzeiro,Vitória,4-4-2,Cuca,10195,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006351
+16,qua 25/08/2010,17:00,Cruzeiro,Corinthians,3-5-2,Cuca,37377,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006366
+17,sáb 28/08/2010,13:30,Vasco da Gama,Cruzeiro,3-5-2,Cuca,16518,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007609
+18,qua 01/09/2010,17:00,Cruzeiro,Flamengo,4-4-2,Cuca,29474,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007623
+19,dom 05/09/2010,11:00,Palmeiras,Cruzeiro,3-5-2,Cuca,21550,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007632
+20,qua 08/09/2010,14:30,Cruzeiro,Internacional,4-4-2,Cuca,13677,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007643
+21,dom 12/09/2010,11:00,Avaí,Cruzeiro,4-4-2,Cuca,5767,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007657
+22,qua 15/09/2010,14:30,Cruzeiro,Guarani,4-4-2,Cuca,14428,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009304
+23,sáb 18/09/2010,13:30,Botafogo,Cruzeiro,4-4-2,Cuca,16259,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009312
+24,qua 22/09/2010,14:30,Cruzeiro,Ceará,4-4-2,Cuca,16914,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009324
+25,sáb 25/09/2010,13:30,Santos,Cruzeiro,4-4-2,Cuca,9542,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009330
+26,qua 29/09/2010,14:30,Cruzeiro,Atlético-GO,4-4-2,Cuca,10869,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009344
+27,sáb 02/10/2010,13:30,Cruzeiro,Atlético-PR,4-4-2,Cuca,17254,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009354
+28,qui 07/10/2010,16:00,Goiás,Cruzeiro,4-4-2,Cuca,6170,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009366
+29,dom 10/10/2010,11:00,Cruzeiro,Fluminense,4-4-2,Cuca,22812,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009374
+30,dom 17/10/2010,12:00,Grêmio,Cruzeiro,4-4-2,Cuca,37194,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009385
+31,dom 24/10/2010,14:30,Cruzeiro,Atlético-MG,4-4-2,Cuca,18732,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009394
+32,sáb 30/10/2010,14:30,Barueri,Cruzeiro,4-4-2,Cuca,1872,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009404
+33,qua 03/11/2010,18:50,Cruzeiro,São Paulo,4-4-2,Cuca,25694,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009415
+34,dom 07/11/2010,14:00,Vitória,Cruzeiro,3-5-2,Cuca,34540,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009428
+35,sáb 13/11/2010,16:30,Corinthians,Cruzeiro,4-4-2,Cuca,35935,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009430
+36,dom 21/11/2010,16:30,Cruzeiro,Vasco da Gama,4-4-2,Cuca,16228,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009445
+37,dom 28/11/2010,14:00,Flamengo,Cruzeiro,4-4-2,Cuca,16985,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009452
+38,dom 05/12/2010,14:00,Cruzeiro,Palmeiras,4-4-2,Cuca,16191,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009465

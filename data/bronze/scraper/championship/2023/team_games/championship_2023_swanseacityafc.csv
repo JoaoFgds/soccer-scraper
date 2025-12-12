@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 05/08/2023,11:00,Swansea,Birmingham,5-4-1 plano,Michael Duff,18051,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4101214
+2,sáb 12/08/2023,11:00,West Brom,Swansea,3-5-2 plano,Michael Duff,24051,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108324
+3,sáb 19/08/2023,11:00,Swansea,Coventry City,3-5-2 plano,Michael Duff,16736,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108336
+4,sáb 26/08/2023,11:00,Preston NE,Swansea,3-5-2 plano,Michael Duff,14464,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108404
+5,sáb 02/09/2023,08:30,Swansea,Bristol City,3-4-2-1,Michael Duff,16676,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108286
+6,sáb 16/09/2023,15:45,Cardiff,Swansea,3-1-4-2,Michael Duff,28648,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108363
+7,ter 19/09/2023,15:45,QPR,Swansea,3-1-4-2,Michael Duff,13367,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108195
+8,sáb 23/09/2023,11:00,Swansea,Sheff Wed,4-2-3-1,Michael Duff,16865,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108347
+9,sáb 30/09/2023,11:00,Millwall,Swansea,3-1-4-2,Michael Duff,14803,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108438
+10,qua 04/10/2023,15:45,Swansea,Norwich,3-1-4-2,Michael Duff,14512,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108251
+11,sáb 07/10/2023,11:00,Plymouth Argyle,Swansea,4-2-3-1,Michael Duff,16463,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108223
+12,sáb 21/10/2023,11:00,Swansea,Leicester,4-2-3-1,Michael Duff,18509,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108394
+13,ter 24/10/2023,15:45,Swansea,Watford,4-2-3-1,Michael Duff,14698,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108413
+14,sáb 28/10/2023,11:00,Blackburn,Swansea,4-2-3-1,Michael Duff,13102,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108421
+15,sáb 04/11/2023,12:00,Swansea,AFC Sunderland,4-2-3-1,Michael Duff,16974,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108455
+16,sáb 11/11/2023,12:00,Ipswich,Swansea,4-2-3-1,Michael Duff,28925,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108725
+17,sáb 25/11/2023,12:00,Swansea,Hull City,4-2-3-1,Michael Duff,14864,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108555
+18,qua 29/11/2023,16:45,Leeds,Swansea,4-2-3-1,Michael Duff,34905,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108529
+19,sáb 02/12/2023,12:00,Swansea,Huddersfield,4-3-2-1,Michael Duff,14725,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108543
+20,sáb 09/12/2023,12:00,Rotherham,Swansea,4-2-3-1,Alan Sheehan,9414,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108465
+21,ter 12/12/2023,16:45,Stoke,Swansea,4-2-3-1,Alan Sheehan,18555,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108472
+22,sáb 16/12/2023,12:00,Swansea,Middlesbrough,3-4-2-1,Alan Sheehan,15084,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108519
+23,sex 22/12/2023,16:45,Swansea,Preston NE,4-2-3-1,Alan Sheehan,15098,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108496
+24,ter 26/12/2023,12:00,Southampton,Swansea,4-2-3-1,Alan Sheehan,30279,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108506
+25,sex 29/12/2023,16:45,Coventry City,Swansea,4-2-3-1,Alan Sheehan,25807,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108571
+26,seg 01/01/2024,12:00,Swansea,West Brom,4-2-3-1,Alan Sheehan,16797,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108300
+27,sáb 13/01/2024,12:00,Birmingham,Swansea,4-2-3-1,Luke Williams,21116,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108594
+28,sáb 20/01/2024,09:30,Swansea,Southampton,4-3-2-1,Luke Williams,17356,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108215
+29,ter 30/01/2024,16:45,Leicester,Swansea,3-5-2,Luke Williams,28025,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108354
+30,sáb 03/02/2024,12:00,Swansea,Plymouth Argyle,4-2-3-1,Luke Williams,16965,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108310
+31,sáb 10/02/2024,12:00,Hull City,Swansea,4-2-3-1,Luke Williams,21017,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108632
+32,ter 13/02/2024,16:45,Swansea,Leeds,4-2-3-1,Luke Williams,17897,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108622
+33,sáb 17/02/2024,12:00,Swansea,Ipswich,4-2-3-1,Luke Williams,16647,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108262
+34,sáb 24/02/2024,12:00,AFC Sunderland,Swansea,4-2-3-1,Luke Williams,32341,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108567
+35,sáb 02/03/2024,12:00,Swansea,Blackburn,4-2-3-1,Luke Williams,15369,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108591
+36,qua 06/03/2024,16:45,Watford,Swansea,4-2-3-1,Luke Williams,16440,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108705
+37,dom 10/03/2024,09:30,Bristol City,Swansea,4-2-3-1,Luke Williams,20995,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108606
+38,sáb 16/03/2024,09:30,Swansea,Cardiff,4-2-3-1,Luke Williams,20005,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108274
+39,sex 29/03/2024,12:00,Sheff Wed,Swansea,4-2-3-1,Luke Williams,28301,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108713
+40,seg 01/04/2024,11:00,Swansea,QPR,4-2-3-1,Luke Williams,19704,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108383
+41,sáb 06/04/2024,11:00,Middlesbrough,Swansea,4-4-2 duplo 6,Luke Williams,24780,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108702
+42,qua 10/04/2024,16:00,Swansea,Stoke,4-2-3-1,Luke Williams,14962,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108715
+43,sáb 13/04/2024,11:00,Swansea,Rotherham,4-2-3-1,Luke Williams,15327,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108238
+44,sáb 20/04/2024,11:00,Huddersfield,Swansea,4-2-3-1,Luke Williams,18935,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108656
+45,sáb 27/04/2024,11:00,Norwich,Swansea,4-2-3-1,Luke Williams,26429,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108682
+46,sáb 04/05/2024,08:30,Swansea,Millwall,4-2-3-1,Luke Williams,17661,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108723

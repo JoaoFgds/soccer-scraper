@@ -1,0 +1,31 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 14/08/2011,12:00,Marítimo,Beira-Mar,4-3-3 ofensivo,Rui Bento,3631,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1134413
+2,dom 21/08/2011,14:15,Beira-Mar,Sporting,4-3-3 ofensivo,Rui Bento,15548,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137682
+3,dom 28/08/2011,14:00,Vit. Guimarães,Beira-Mar,4-4-2 losango,Rui Bento,9627,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1139112
+4,dom 11/09/2011,12:00,Beira-Mar,Leiria,4-4-2 losango,Rui Bento,2587,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1144296
+5,dom 18/09/2011,14:00,Vitória FC,Beira-Mar,4-3-3 defensivo,Rui Bento,3142,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1148785
+6,dom 25/09/2011,12:00,Beira-Mar,Rio Ave,4-4-2 losango,Rui Bento,2148,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1150035
+7,seg 03/10/2011,16:15,Gil Vicente,Beira-Mar,4-4-2 losango,Rui Bento,4162,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1151280
+8,sáb 22/10/2011,17:15,Beira-Mar,Benfica,4-4-2 losango,Rui Bento,17845,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1151728
+9,dom 30/10/2011,14:00,Nacional,Beira-Mar,4-1-3-2,Rui Bento,1972,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1154311
+10,dom 06/11/2011,14:00,Beira-Mar,Feirense,4-4-2 losango,Rui Bento,2090,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1154319
+11,sex 25/11/2011,18:15,Académica,Beira-Mar,4-4-2 losango,Rui Bento,3001,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1158617
+12,sáb 10/12/2011,16:30,Beira-Mar,FC Porto,4-4-2 losango,Rui Bento,4628,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1158742
+13,dom 18/12/2011,14:00,Paços Ferreira,Beira-Mar,4-2-3-1,Rui Bento,1439,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1158754
+14,seg 09/01/2012,18:15,Beira-Mar,Braga,4-4-2 losango,Rui Bento,2632,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1177314
+15,dom 15/01/2012,14:00,Olhanense,Beira-Mar,4-4-2 losango,Rui Bento,1612,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1177320
+16,sáb 21/01/2012,18:30,Beira-Mar,Marítimo,4-4-2 losango,Rui Bento,1428,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1177805
+17,dom 29/01/2012,15:00,Sporting,Beira-Mar,4-4-2 losango,Rui Bento,38405,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1179028
+18,dom 12/02/2012,16:00,Beira-Mar,Vit. Guimarães,4-4-2 losango,Rui Bento,2099,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1182999
+19,dom 19/02/2012,14:00,Leiria,Beira-Mar,4-3-3 ofensivo,Rui Bento,1087,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1183004
+20,dom 26/02/2012,13:00,Beira-Mar,Vitória FC,4-4-2 losango,Rui Bento,2821,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1183013
+21,dom 04/03/2012,13:00,Rio Ave,Beira-Mar,4-3-3 ofensivo,Ulisses Morais,3050,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1188825
+22,dom 11/03/2012,13:00,Beira-Mar,Gil Vicente,4-3-3 defensivo,Ulisses Morais,2299,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1189140
+23,sex 16/03/2012,18:15,Benfica,Beira-Mar,4-3-3 ofensivo,Ulisses Morais,33986,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1192787
+24,dom 25/03/2012,12:00,Beira-Mar,Nacional,4-3-3 defensivo,Ulisses Morais,2199,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1192901
+25,dom 01/04/2012,12:00,Feirense,Beira-Mar,4-3-3 defensivo,Ulisses Morais,3120,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2194022
+26,sex 06/04/2012,14:00,Beira-Mar,Académica,4-3-3 defensivo,Ulisses Morais,2716,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2194028
+27,sáb 21/04/2012,17:15,FC Porto,Beira-Mar,4-3-3 defensivo,Ulisses Morais,33412,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2194566
+28,dom 29/04/2012,12:00,Beira-Mar,Paços Ferreira,4-3-3 defensivo,Ulisses Morais,2107,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2208093
+29,sáb 05/05/2012,16:30,Braga,Beira-Mar,4-3-3 defensivo,Ulisses Morais,14761,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2209893
+30,sáb 12/05/2012,14:30,Beira-Mar,Olhanense,4-2-3-1,Ulisses Morais,1604,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2210797

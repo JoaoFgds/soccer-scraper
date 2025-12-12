@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,ter 26/01/2021,20:00,Palmeiras,Vasco da Gama,4-1-4-1,Abel Ferreira,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417541
+2,qua 12/08/2020,21:30,Fluminense,Palmeiras,4-2-3-1,Vanderlei Luxemburgo,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3411145
+3,sáb 15/08/2020,21:30,Palmeiras,Goiás,4-2-3-1,Vanderlei Luxemburgo,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416080
+4,qua 19/08/2020,19:30,Athletico-PR,Palmeiras,4-2-3-1,Vanderlei Luxemburgo,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416219
+5,dom 23/08/2020,16:00,Palmeiras,Santos,4-2-3-1,Vanderlei Luxemburgo,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416105
+6,sáb 29/08/2020,19:00,Bahia,Palmeiras,4-2-3-1,Vanderlei Luxemburgo,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416111
+7,qua 02/09/2020,21:30,Palmeiras,Internacional,4-3-2-1,Vanderlei Luxemburgo,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416124
+8,dom 06/09/2020,11:00,Bragantino,Palmeiras,4-1-4-1,Vanderlei Luxemburgo,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416132
+9,qui 10/09/2020,19:15,Corinthians,Palmeiras,4-1-4-1,Vanderlei Luxemburgo,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416169
+10,dom 13/09/2020,19:45,Palmeiras,Sport,4-2-3-1,Vanderlei Luxemburgo,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416243
+11,dom 20/09/2020,16:00,Grêmio,Palmeiras,4-3-1-2,Vanderlei Luxemburgo,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417536
+12,dom 27/09/2020,16:00,Palmeiras,Flamengo,4-2-3-1,Vanderlei Luxemburgo,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417547
+13,sáb 03/10/2020,19:00,Palmeiras,Ceará,4-2-3-1,Vanderlei Luxemburgo,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417557
+14,qua 07/10/2020,21:30,Botafogo,Palmeiras,4-2-3-1,Vanderlei Luxemburgo,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417566
+15,sáb 10/10/2020,19:00,Palmeiras,São Paulo,4-2-3-1,Vanderlei Luxemburgo,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417577
+16,qua 14/10/2020,18:00,Palmeiras,Coritiba,4-1-4-1,Vanderlei Luxemburgo,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417587
+17,dom 18/10/2020,20:30,Fortaleza,Palmeiras,4-2-3-1,Andrey Lopes,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417603
+18,dom 25/10/2020,16:00,Atlético-GO,Palmeiras,4-2-3-1,Andrey Lopes,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417614
+19,seg 02/11/2020,17:00,Palmeiras,Atlético-MG,4-2-3-1,Andrey Lopes,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417617
+20,dom 08/11/2020,16:00,Vasco da Gama,Palmeiras,4-2-3-1,Abel Ferreira,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417627
+21,sáb 14/11/2020,21:30,Palmeiras,Fluminense,4-3-3 ofensivo,Abel Ferreira,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417635
+22,sáb 21/11/2020,20:00,Goiás,Palmeiras,3-4-1-2,Abel Ferreira,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417658
+23,sáb 28/11/2020,16:00,Palmeiras,Athletico-PR,4-2-3-1,Abel Ferreira,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417672
+24,sáb 05/12/2020,17:00,Santos,Palmeiras,4-2-3-1,João Martins,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417647
+25,sáb 12/12/2020,18:00,Palmeiras,Bahia,4-2-3-1,João Martins,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417681
+26,sáb 19/12/2020,21:00,Internacional,Palmeiras,4-2-3-1,Abel Ferreira,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417697
+27,dom 27/12/2020,18:15,Palmeiras,Bragantino,4-2-3-1,Abel Ferreira,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417689
+28,seg 18/01/2021,18:00,Palmeiras,Corinthians,4-1-4-1,Abel Ferreira,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417503
+29,sáb 09/01/2021,18:00,Sport,Palmeiras,3-4-2-1,Abel Ferreira,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417517
+30,sex 15/01/2021,21:30,Palmeiras,Grêmio,4-2-3-1,Abel Ferreira,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417523
+31,qui 21/01/2021,19:00,Flamengo,Palmeiras,4-1-4-1,Abel Ferreira,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417705
+32,dom 24/01/2021,16:00,Ceará,Palmeiras,4-2-3-1,Abel Ferreira,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417812
+33,ter 02/02/2021,15:00,Palmeiras,Botafogo,4-2-3-1,Abel Ferreira,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418068
+34,sex 19/02/2021,21:30,São Paulo,Palmeiras,4-2-3-1,Abel Ferreira,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418078
+35,qua 17/02/2021,19:30,Coritiba,Palmeiras,4-2-3-1,Abel Ferreira,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418093
+36,dom 14/02/2021,18:15,Palmeiras,Fortaleza,3-4-2-1,Abel Ferreira,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418098
+37,seg 22/02/2021,18:00,Palmeiras,Atlético-GO,4-2-3-1,João Martins,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418108
+38,qui 25/02/2021,21:30,Atlético-MG,Palmeiras,4-1-3-2,Abel Ferreira,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418120

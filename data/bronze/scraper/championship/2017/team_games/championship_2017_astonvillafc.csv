@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 05/08/2017,13:30,Aston Villa,Hull City,4-2-3-1,Steve Bruce,31241,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2867253
+2,sáb 12/08/2017,11:00,Cardiff,Aston Villa,4-4-1-1,Steve Bruce,23899,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893416
+3,ter 15/08/2017,16:00,Reading,Aston Villa,4-2-3-1,Steve Bruce,20144,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893437
+4,sáb 19/08/2017,11:00,Aston Villa,Norwich,4-2-3-1,Steve Bruce,29157,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893438
+5,sex 25/08/2017,15:45,Bristol City,Aston Villa,3-4-2-1,Steve Bruce,21542,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893451
+6,sáb 09/09/2017,11:00,Aston Villa,Brentford,4-1-4-1,Steve Bruce,29799,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893460
+7,ter 12/09/2017,15:45,Aston Villa,Middlesbrough,4-2-3-1,Steve Bruce,29799,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893473
+8,sáb 16/09/2017,13:30,Barnsley FC,Aston Villa,4-2-3-1,Steve Bruce,14633,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893484
+9,sáb 23/09/2017,13:30,Aston Villa,Nott'm Forest,4-2-3-1,Steve Bruce,28554,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893497
+10,ter 26/09/2017,15:45,Burton Albion,Aston Villa,4-2-3-1,Steve Bruce,5786,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893513
+11,sáb 30/09/2017,11:00,Aston Villa,Bolton,4-2-3-1,Steve Bruce,31451,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893521
+12,sáb 14/10/2017,13:30,Wolves,Aston Villa,4-2-3-1,Steve Bruce,30239,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893544
+13,sáb 21/10/2017,12:00,Aston Villa,Fulham,4-2-3-1,Steve Bruce,30724,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893545
+14,dom 29/10/2017,10:00,Birmingham,Aston Villa,4-2-3-1,Steve Bruce,24408,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893557
+15,qua 01/11/2017,17:45,Preston NE,Aston Villa,4-2-3-1,Steve Bruce,14212,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893576
+16,sáb 04/11/2017,13:00,Aston Villa,Sheff Wed,4-2-3-1,Steve Bruce,33154,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893581
+17,sáb 18/11/2017,13:00,QPR,Aston Villa,4-2-3-1,Steve Bruce,16934,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893601
+18,ter 21/11/2017,17:45,Aston Villa,AFC Sunderland,4-2-3-1,Steve Bruce,27662,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893608
+19,sáb 25/11/2017,13:00,Aston Villa,Ipswich,4-2-3-1,Steve Bruce,30427,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893623
+20,sex 01/12/2017,17:45,Leeds,Aston Villa,4-2-3-1,Steve Bruce,30547,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893683
+21,sáb 09/12/2017,13:00,Aston Villa,Millwall,4-2-3-1,Steve Bruce,29628,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893698
+22,sáb 16/12/2017,13:00,Derby,Aston Villa,4-2-3-1,Steve Bruce,28118,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893725
+23,sáb 23/12/2017,15:30,Aston Villa,Sheff Utd,4-2-3-1,Steve Bruce,35210,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893732
+24,ter 26/12/2017,17:30,Brentford,Aston Villa,4-2-3-1,Steve Bruce,11341,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893756
+25,sáb 30/12/2017,13:00,Middlesbrough,Aston Villa,4-2-3-1,Steve Bruce,29422,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893795
+26,seg 01/01/2018,15:30,Aston Villa,Bristol City,4-2-3-1,Steve Bruce,32604,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893799
+27,sáb 13/01/2018,15:30,Nott'm Forest,Aston Villa,4-2-3-1,Steve Bruce,25433,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893821
+28,sáb 20/01/2018,13:00,Aston Villa,Barnsley FC,4-2-3-1,Steve Bruce,31869,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893823
+29,ter 30/01/2018,17:45,Sheff Utd,Aston Villa,4-2-3-1,Steve Bruce,26477,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893846
+30,sáb 03/02/2018,13:00,Aston Villa,Burton Albion,4-2-3-1,Steve Bruce,33022,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893848
+31,dom 11/02/2018,10:00,Aston Villa,Birmingham,4-2-3-1,Steve Bruce,41233,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893860
+32,sáb 17/02/2018,13:00,Fulham,Aston Villa,4-1-4-1,Steve Bruce,24547,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893876
+33,ter 20/02/2018,16:45,Aston Villa,Preston NE,4-2-3-1,Steve Bruce,30894,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893885
+34,sáb 24/02/2018,12:00,Sheff Wed,Aston Villa,4-4-2,Steve Bruce,28604,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893907
+35,ter 13/03/2018,16:45,Aston Villa,QPR,4-2-3-1,Steve Bruce,30228,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893909
+36,ter 06/03/2018,16:45,AFC Sunderland,Aston Villa,4-2-3-1,Steve Bruce,26081,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893931
+37,sáb 10/03/2018,14:30,Aston Villa,Wolves,4-2-3-1,Steve Bruce,37836,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893933
+38,sáb 17/03/2018,14:30,Bolton,Aston Villa,4-2-3-1,Steve Bruce,19304,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893947
+39,sáb 31/03/2018,13:30,Hull City,Aston Villa,4-2-3-1,Steve Bruce,16133,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893962
+40,ter 03/04/2018,15:45,Aston Villa,Reading,4-2-3-1,Steve Bruce,29223,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893969
+41,sáb 07/04/2018,08:30,Norwich,Aston Villa,4-2-3-1,Steve Bruce,26278,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893990
+42,ter 10/04/2018,15:45,Aston Villa,Cardiff,4-2-3-1,Steve Bruce,32560,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893993
+43,sex 13/04/2018,15:45,Aston Villa,Leeds,4-2-3-1,Steve Bruce,33374,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2894005
+44,sáb 21/04/2018,11:00,Ipswich,Aston Villa,4-2-3-1,Steve Bruce,20034,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2894023
+45,sáb 28/04/2018,11:00,Aston Villa,Derby,4-2-3-1,Steve Bruce,41745,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2894039
+46,dom 06/05/2018,08:30,Millwall,Aston Villa,4-2-3-1,Steve Bruce,17195,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2894077

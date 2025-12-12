@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 19/07/1991,19:00,Marselha,Lille,?,Jacques Santini,30000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012961
+2,sex 26/07/1991,19:00,Lille,Le Havre,?,Jacques Santini,6000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012973
+3,ter 30/07/1991,19:00,Nantes,Lille,?,Jacques Santini,10771,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012983
+4,sex 02/08/1991,19:00,Lille,AS Nancy,?,Jacques Santini,6000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012991
+5,sex 09/08/1991,19:00,Cannes,Lille,?,Jacques Santini,5000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013004
+6,sex 16/08/1991,19:00,Lille,Montpellier,?,Jacques Santini,10458,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013010
+7,sáb 24/08/1991,15:30,Monaco,Lille,?,Jacques Santini,8000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013018
+8,ter 27/08/1991,19:00,Lille,Lyon,?,Jacques Santini,10349,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013030
+9,sex 06/09/1991,19:00,Lille,FC Sochaux,?,Jacques Santini,9200,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013041
+10,sex 13/09/1991,15:30,PSG,Lille,?,Jacques Santini,18000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013773
+11,sex 20/09/1991,19:00,Lille,Rennes,?,Jacques Santini,8500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013785
+12,sáb 28/09/1991,15:30,SC Toulon Var,Lille,?,Jacques Santini,4000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013800
+13,sex 04/10/1991,20:00,Lille,FC Metz,?,Jacques Santini,7000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013803
+14,sex 18/10/1991,20:00,Nîmes Olympique,Lille,?,Jacques Santini,13695,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013818
+15,sex 25/10/1991,21:00,Lille,SM Caen,?,Jacques Santini,6000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013825
+16,sex 01/11/1991,21:00,Toulouse,Lille,?,Jacques Santini,8431,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013838
+17,sex 08/11/1991,21:00,Lille,Saint-Étienne,?,Jacques Santini,5000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013847
+18,sex 15/11/1991,21:00,Lens,Lille,?,Jacques Santini,27812,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013858
+19,sex 22/11/1991,21:00,Lille,Auxerre,?,Jacques Santini,6000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013894
+20,sex 29/11/1991,21:00,Le Havre,Lille,?,Jacques Santini,8435,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013902
+21,sex 06/12/1991,21:00,Lille,Nantes,?,Jacques Santini,3000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013913
+22,sex 13/12/1991,21:00,AS Nancy,Lille,?,Jacques Santini,5500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013924
+23,ter 17/12/1991,21:00,Lille,Cannes,?,Jacques Santini,6000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013933
+24,sex 20/12/1991,21:00,Montpellier,Lille,?,Jacques Santini,7000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013941
+25,sáb 18/01/1992,17:30,Lille,Monaco,?,Jacques Santini,7000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013948
+26,sex 24/01/1992,21:00,Lyon,Lille,?,Jacques Santini,11638,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013965
+27,sáb 01/02/1992,21:00,FC Sochaux,Lille,?,Jacques Santini,2520,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013976
+28,sáb 08/02/1992,17:30,Lille,PSG,?,Jacques Santini,8000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014007
+29,sex 14/02/1992,20:00,Rennes,Lille,?,Jacques Santini,4749,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014019
+30,sáb 29/02/1992,16:30,Lille,SC Toulon Var,?,Jacques Santini,4000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014034
+31,sex 06/03/1992,20:00,FC Metz,Lille,?,Jacques Santini,5533,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014042
+32,sex 20/03/1992,20:00,Lille,Nîmes Olympique,?,Jacques Santini,3500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014051
+33,sex 27/03/1992,20:00,SM Caen,Lille,?,Jacques Santini,6388,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014059
+34,sex 03/04/1992,19:00,Lille,Toulouse,?,Jacques Santini,7456,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014070
+35,sex 10/04/1992,19:00,Saint-Étienne,Lille,?,Jacques Santini,17630,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014082
+36,sex 17/04/1992,19:00,Lille,Lens,?,Jacques Santini,15509,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014090
+37,sex 24/04/1992,19:00,Auxerre,Lille,?,Jacques Santini,8000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014107
+38,qui 30/04/1992,19:00,Lille,Marselha,?,Jacques Santini,17235,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014114

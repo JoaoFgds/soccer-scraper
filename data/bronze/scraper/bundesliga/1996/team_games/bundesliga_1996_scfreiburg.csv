@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 17/08/1996,10:30,Freiburg,Werder Bremen,3-5-2 ofensivo,Volker Finke,22500,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17236
+2,ter 20/08/1996,14:30,Hamburgo,Freiburg,3-5-2,Volker Finke,23061,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17243
+3,sáb 24/08/1996,10:30,Freiburg,Colônia,3-5-2,Volker Finke,22500,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17254
+4,ter 27/08/1996,14:30,Dortmund,Freiburg,3-5-2,Volker Finke,48800,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17259
+5,sex 06/09/1996,14:30,Freiburg,Düsseldorf,4-1-3-2,Volker Finke,22500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17269
+6,sáb 14/09/1996,10:30,1860 Munique,Freiburg,4-1-3-2,Volker Finke,28200,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17284
+7,dom 22/09/1996,13:00,Leverkusen,Freiburg,3-5-2,Volker Finke,18000,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17294
+8,sáb 28/09/1996,10:30,Freiburg,Hansa Rostock,3-5-2,Volker Finke,22500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17300
+9,sex 04/10/1996,15:00,Stuttgart,Freiburg,3-5-2,Volker Finke,53000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17305
+10,sex 11/10/1996,16:00,Freiburg,M'gladbach,3-5-2,Volker Finke,22500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17313
+11,sáb 19/10/1996,11:30,St. Pauli,Freiburg,3-5-2,Volker Finke,19901,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17327
+12,dom 27/10/1996,15:00,Freiburg,Bochum,3-5-2,Volker Finke,22500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17339
+13,sáb 02/11/1996,12:30,MSV Duisburg,Freiburg,3-5-2,Volker Finke,11000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17346
+14,sáb 16/11/1996,12:30,Freiburg,Bayern,3-5-2,Volker Finke,22500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17354
+15,sáb 23/11/1996,12:30,Arm. Bielefeld,Freiburg,3-5-2,Volker Finke,19300,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17361
+16,sáb 30/11/1996,12:30,Freiburg,Schalke,3-5-2,Volker Finke,22500,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17372
+17,sex 06/12/1996,17:00,Karlsruher,Freiburg,3-5-2,Volker Finke,32100,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17377
+18,sáb 15/02/1997,12:30,Werder Bremen,Freiburg,3-5-2,Volker Finke,27500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17392
+19,sex 21/02/1997,15:30,Freiburg,Hamburgo,4-4-2 losango,Volker Finke,22200,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17396
+20,sáb 01/03/1997,11:30,Colônia,Freiburg,3-5-2 plano,Volker Finke,21000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17405
+21,sáb 08/03/1997,11:30,Freiburg,Dortmund,3-5-2,Volker Finke,22500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17417
+22,qua 12/03/1997,15:30,Düsseldorf,Freiburg,3-5-2,Volker Finke,12500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17428
+23,sáb 15/03/1997,11:30,Freiburg,1860 Munique,3-5-2,Volker Finke,22500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17436
+24,sáb 22/03/1997,11:30,Freiburg,Leverkusen,3-5-2,Volker Finke,22500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17445
+25,sáb 29/03/1997,11:30,Hansa Rostock,Freiburg,3-5-2 ofensivo,Volker Finke,16400,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17456
+26,dom 06/04/1997,13:00,Freiburg,Stuttgart,3-5-2,Volker Finke,22500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17465
+27,sáb 12/04/1997,10:30,M'gladbach,Freiburg,3-5-2 ofensivo,Volker Finke,26800,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17468
+28,sáb 19/04/1997,10:30,Freiburg,St. Pauli,3-5-2,Volker Finke,22200,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17480
+29,sáb 26/04/1997,10:30,Bochum,Freiburg,3-5-2,Volker Finke,23209,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17492
+30,sáb 03/05/1997,10:30,Freiburg,MSV Duisburg,3-5-2,Volker Finke,21000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17499
+31,sáb 10/05/1997,10:30,Bayern,Freiburg,3-5-2,Volker Finke,63000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17505
+32,dom 18/05/1997,13:00,Freiburg,Arm. Bielefeld,3-5-2,Volker Finke,22500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17519
+33,sáb 24/05/1997,10:30,Schalke,Freiburg,3-5-2,Volker Finke,46850,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17523
+34,sáb 31/05/1997,10:30,Freiburg,Karlsruher,3-5-2,Volker Finke,22500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17535

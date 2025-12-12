@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 12/08/2012,12:00,Vitória SC B,Covilhã,?,Filipe Moreira,1668,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2252808
+2,sáb 18/08/2012,13:00,Covilhã,UD Oliveirense,?,Filipe Moreira,750,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2256400
+3,qua 22/08/2012,16:00,Sporting B,Covilhã,3-5-2,Filipe Moreira,189,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2257244
+4,dom 26/08/2012,13:00,Covilhã,Penafiel,?,Filipe Moreira,630,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2258388
+5,dom 02/09/2012,12:00,Covilhã,Atlético CP,?,Filipe Moreira,445,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2262688
+6,qua 19/09/2012,12:00,Marítimo B,Covilhã,?,Filipe Moreira,361,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2265318
+7,dom 23/09/2012,14:00,Covilhã,Arouca,?,Filipe Moreira,450,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2265718
+8,dom 30/09/2012,12:00,Trofense,Covilhã,?,Filipe Moreira,748,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2266960
+9,dom 07/10/2012,12:00,Covilhã,Freamunde,?,Filipe Moreira,515,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2268061
+10,qua 24/10/2012,12:00,FC Porto B,Covilhã,3-5-2 plano,Filipe Moreira,289,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2269841
+11,dom 28/10/2012,14:00,Covilhã,Santa Clara,?,Filipe Moreira,490,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2270683
+12,dom 04/11/2012,13:00,Feirense,Covilhã,?,Filipe Moreira,653,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2271055
+13,sáb 10/11/2012,18:30,Covilhã,Braga B,3-1-4-2,Filipe Moreira,370,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2274603
+14,qui 22/11/2012,18:00,Benfica B,Covilhã,?,Fanã,683,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2281352
+15,qua 28/11/2012,13:00,Covilhã,CF União,?,Fanã,243,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2283173
+16,qua 05/12/2012,14:00,Belenenses,Covilhã,?,Fanã,1308,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2283186
+17,dom 09/12/2012,14:00,Covilhã,CD Tondela,?,Fanã,575,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2283649
+18,dom 16/12/2012,14:00,Portimonense,Covilhã,?,Fanã,971,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2283660
+19,dom 23/12/2012,16:00,Covilhã,CD Aves,?,Fanã,495,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2284961
+20,sáb 29/12/2012,14:00,Naval 1º de Maio,Covilhã,?,Fanã,271,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2285299
+21,dom 06/01/2013,09:15,Covilhã,Leixões,?,Fanã,470,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2286197
+22,dom 13/01/2013,13:00,Covilhã,Vitória SC B,?,Fanã,375,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2286669
+23,sáb 19/01/2013,13:00,UD Oliveirense,Covilhã,4-2-3-1,Fanã,353,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2287507
+24,qua 23/01/2013,16:00,Covilhã,Sporting B,?,Fanã,595,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2287616
+25,dom 27/01/2013,13:30,Penafiel,Covilhã,?,Fanã,575,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2287628
+26,dom 03/02/2013,13:00,Atlético CP,Covilhã,?,Fanã,630,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2288789
+27,dom 10/02/2013,13:00,Covilhã,Marítimo B,?,Fanã,300,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2290350
+28,dom 17/02/2013,12:00,Arouca,Covilhã,?,Fanã,512,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2291656
+29,dom 24/02/2013,13:00,Covilhã,Trofense,?,Fanã,500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2291670
+30,dom 03/03/2013,13:00,Freamunde,Covilhã,?,Francisco Chaló,803,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2291679
+31,dom 10/03/2013,08:15,Covilhã,FC Porto B,?,Francisco Chaló,450,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2301330
+32,dom 17/03/2013,14:00,Santa Clara,Covilhã,?,Fanã,1226,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2301349
+33,sáb 30/03/2013,13:00,Covilhã,Feirense,4-3-3 ofensivo,Francisco Chaló,410,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2301350
+34,dom 07/04/2013,12:00,Braga B,Covilhã,?,Francisco Chaló,685,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2305262
+35,sáb 13/04/2013,11:00,Covilhã,Benfica B,?,Fanã,795,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2312240
+36,qua 17/04/2013,11:00,CF União,Covilhã,?,Francisco Chaló,158,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2312834
+37,dom 21/04/2013,12:00,Covilhã,Belenenses,?,Francisco Chaló,590,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2312847
+38,dom 28/04/2013,12:00,CD Tondela,Covilhã,?,Francisco Chaló,640,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2312854
+39,sáb 04/05/2013,12:00,Covilhã,Portimonense,4-3-3 ofensivo,Francisco Chaló,320,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2314417
+40,qua 08/05/2013,12:00,CD Aves,Covilhã,?,Francisco Chaló,225,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2315217
+41,dom 12/05/2013,12:00,Covilhã,Naval 1º de Maio,?,Francisco Chaló,110,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2315642
+42,sáb 18/05/2013,13:00,Leixões,Covilhã,?,Francisco Chaló,1786,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2315653

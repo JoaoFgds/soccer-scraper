@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 24/08/2014,14:00,CE Sabadell,Betis,4-2-3-1,Miquel Olmo,8074,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2477969
+2,sáb 30/08/2014,14:00,Barcelona B,CE Sabadell,4-2-3-1,Miquel Olmo,3900,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2477970
+3,sáb 06/09/2014,14:00,CE Sabadell,Numância,4-2-3-1,Miquel Olmo,3348,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2477991
+4,dom 14/09/2014,12:00,Zaragoza,CE Sabadell,4-2-3-1,Miquel Olmo,20000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2477992
+5,sáb 20/09/2014,15:00,CE Sabadell,Ponferradina,4-2-3-1,Miquel Olmo,3498,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478013
+6,sáb 27/09/2014,13:00,Alavés,CE Sabadell,5-3-2,Miquel Olmo,9000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478014
+7,dom 05/10/2014,12:00,CE Sabadell,Albacete,4-2-3-1,Miquel Olmo,3098,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478035
+8,dom 12/10/2014,13:45,UE Llagostera,CE Sabadell,4-2-3-1,Miquel Olmo,2753,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478036
+9,sáb 18/10/2014,15:00,CE Sabadell,Girona,4-2-3-1,Miquel Olmo,4412,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478057
+10,sáb 25/10/2014,12:00,Mallorca,CE Sabadell,4-2-3-1,Miquel Olmo,5824,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478058
+11,sáb 01/11/2014,17:00,CE Sabadell,Mirandés,4-2-3-1,Miquel Olmo,2723,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2484043
+12,dom 09/11/2014,14:00,Lugo,CE Sabadell,5-4-1 plano,Miquel Olmo,2904,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478080
+13,sáb 15/11/2014,15:00,CE Sabadell,Valladolid,4-3-3 ofensivo,Miquel Olmo,3572,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478101
+14,sáb 22/11/2014,13:00,Rac. Santander,CE Sabadell,4-3-3 ofensivo,Miquel Olmo,7605,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478102
+15,qua 10/12/2014,17:00,CE Sabadell,Las Palmas,4-4-2 losango,Álex García,1986,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478123
+16,dom 07/12/2014,14:00,AD Alcorcón,CE Sabadell,4-3-3 ofensivo,Álex García,2547,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478124
+17,dom 14/12/2014,18:00,CE Sabadell,Leganés,4-4-2 losango,Álex García,2128,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478145
+18,sáb 20/12/2014,17:00,Tenerife,CE Sabadell,4-4-2 losango,Álex García,7057,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478146
+19,dom 04/01/2015,14:00,CE Sabadell,Recr. Huelva,4-3-3 ofensivo,Álex García,3329,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478167
+20,dom 11/01/2015,14:00,CE Sabadell,Real Sporting,4-3-3 ofensivo,Álex García,4349,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478168
+21,sáb 17/01/2015,13:00,Osasuna,CE Sabadell,4-3-3 ofensivo,Álex García,13092,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478189
+22,sáb 24/01/2015,15:00,Betis,CE Sabadell,4-3-3 ofensivo,Álex García,31621,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478200
+23,sáb 31/01/2015,15:00,CE Sabadell,Barcelona B,4-3-3 ofensivo,Álex García,4765,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478201
+24,dom 08/02/2015,14:00,Numância,CE Sabadell,4-2-3-1,Jesús Serrano,2085,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478222
+25,dom 15/02/2015,14:00,CE Sabadell,Zaragoza,4-2-3-1,Juan Carlos Mandiá,4273,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478223
+26,dom 22/02/2015,12:00,Ponferradina,CE Sabadell,4-2-3-1,Juan Carlos Mandiá,4800,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478244
+27,sáb 28/02/2015,14:00,CE Sabadell,Alavés,4-3-3 ofensivo,Juan Carlos Mandiá,3113,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478245
+28,sáb 07/03/2015,16:00,Albacete,CE Sabadell,4-3-3 ofensivo,Juan Carlos Mandiá,7450,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478266
+29,sáb 14/03/2015,14:00,CE Sabadell,UE Llagostera,4-3-3 ofensivo,Juan Carlos Mandiá,2799,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478267
+30,dom 22/03/2015,13:00,Girona,CE Sabadell,4-2-3-1,Juan Carlos Mandiá,5183,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478288
+31,dom 29/03/2015,16:00,CE Sabadell,Mallorca,4-3-3 ofensivo,Juan Carlos Mandiá,3619,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478289
+32,sáb 04/04/2015,11:00,Mirandés,CE Sabadell,4-3-3 ofensivo,Juan Carlos Mandiá,2766,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2484064
+33,sáb 11/04/2015,13:00,CE Sabadell,Lugo,4-3-3 ofensivo,Juan Carlos Mandiá,3439,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478311
+34,dom 19/04/2015,13:15,Valladolid,CE Sabadell,4-3-3 ofensivo,Juan Carlos Mandiá,9743,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478332
+35,dom 26/04/2015,11:00,CE Sabadell,Rac. Santander,4-3-3 ofensivo,Juan Carlos Mandiá,7189,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478333
+36,sáb 02/05/2015,15:00,Las Palmas,CE Sabadell,4-3-3 ofensivo,Juan Carlos Mandiá,11410,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478354
+37,sáb 09/05/2015,13:00,CE Sabadell,AD Alcorcón,4-3-3 ofensivo,Juan Carlos Mandiá,5258,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478355
+38,sáb 16/05/2015,11:00,Leganés,CE Sabadell,4-3-3 ofensivo,Juan Carlos Mandiá,4135,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478376
+39,qua 20/05/2015,17:00,CE Sabadell,Tenerife,4-3-3 ofensivo,Juan Carlos Mandiá,3208,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478377
+40,sáb 23/05/2015,11:00,Recr. Huelva,CE Sabadell,4-3-3 ofensivo,Juan Carlos Mandiá,4644,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478398
+41,dom 31/05/2015,13:00,Real Sporting,CE Sabadell,4-2-3-1,Juan Carlos Mandiá,26873,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478399
+42,dom 07/06/2015,13:00,CE Sabadell,Osasuna,4-2-3-1,Juan Carlos Mandiá,4490,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478420

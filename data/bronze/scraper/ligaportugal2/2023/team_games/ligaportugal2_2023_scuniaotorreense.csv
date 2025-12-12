@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qua 16/08/2023,14:00,Santa Clara,Torreense,3-4-3 plano,Rui Ferreira,1074,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109791
+2,seg 21/08/2023,14:45,Torreense,Nacional,3-4-3 plano,Rui Ferreira,979,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109607
+3,dom 27/08/2023,14:00,AVS,Torreense,3-4-3 plano,Rui Ferreira,1116,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109783
+4,dom 03/09/2023,07:00,Torreense,UD Oliveirense,3-4-3 plano,Rui Ferreira,974,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109795
+5,dom 17/09/2023,14:00,Benfica B,Torreense,3-4-3 plano,Rui Ferreira,518,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109719
+6,seg 02/10/2023,16:15,Torreense,Belenenses,3-4-3 plano,Rui Ferreira,1763,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109771
+7,dom 08/10/2023,07:00,FC Porto B,Torreense,3-4-3 plano,Rui Ferreira,455,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109812
+8,sáb 28/10/2023,07:00,Torreense,Paços Ferreira,3-4-3 plano,Rui Ferreira,931,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109821
+9,dom 05/11/2023,15:00,CD Tondela,Torreense,3-4-3 plano,Rui Ferreira,967,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109828
+10,dom 12/11/2023,08:00,Torreense,Mafra,3-5-2,Rui Ferreira,1357,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109835
+11,dom 19/11/2023,12:30,Marítimo,Torreense,3-4-3 plano,Rui Ferreira,8163,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109856
+12,dom 03/12/2023,08:00,Torreense,Leixões,3-4-3 plano,Rui Ferreira,673,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109868
+13,sex 08/12/2023,17:30,Leiria,Torreense,3-4-3 plano,Rui Ferreira,7415,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109880
+14,sáb 16/12/2023,08:00,Académico FC,Torreense,3-4-3 plano,Tulipa,1678,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109616
+15,qui 21/12/2023,15:00,Torreense,Vilaverdense,3-4-3 plano,Tulipa,527,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109891
+16,dom 07/01/2024,12:30,Feirense,Torreense,3-4-3 plano,Tulipa,3314,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109629
+17,seg 15/01/2024,17:45,Torreense,Penafiel,3-4-3 plano,Tulipa,477,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109842
+18,dom 21/01/2024,12:30,Torreense,Santa Clara,3-4-3 plano,Tulipa,1482,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109865
+19,dom 28/01/2024,12:30,Nacional,Torreense,3-4-3 plano,Tulipa,1421,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109634
+20,sáb 03/02/2024,11:00,Torreense,AVS,4-3-3 ofensivo,Tulipa,722,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109909
+21,sex 09/02/2024,15:00,UD Oliveirense,Torreense,4-3-3 ofensivo,Tulipa,221,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109660
+22,sáb 17/02/2024,11:00,Torreense,Benfica B,4-3-3 ofensivo,Tulipa,1281,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109682
+23,dom 25/02/2024,11:00,Belenenses,Torreense,4-3-3 ofensivo,Tulipa,1486,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109655
+24,dom 03/03/2024,09:45,Torreense,FC Porto B,4-3-3 ofensivo,Tulipa,2046,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109677
+25,sáb 09/03/2024,12:30,Paços Ferreira,Torreense,4-2-3-1,Tulipa,1315,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109650
+26,sex 15/03/2024,15:00,Torreense,CD Tondela,4-2-3-1,Tulipa,376,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109700
+27,seg 01/04/2024,14:00,Mafra,Torreense,4-2-3-1,Tulipa,1004,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109898
+28,dom 07/04/2024,11:30,Torreense,Marítimo,4-2-3-1,Tulipa,992,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109710
+29,dom 14/04/2024,11:30,Leixões,Torreense,4-2-3-1,Tulipa,1894,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109687
+30,sáb 20/04/2024,10:00,Torreense,Leiria,4-2-3-1,Tulipa,672,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109726
+31,dom 28/04/2024,07:00,Torreense,Académico FC,3-4-3 plano,Tulipa,335,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109759
+32,dom 05/05/2024,11:30,Vilaverdense,Torreense,3-4-3 plano,Tulipa,143,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109747
+33,sáb 11/05/2024,10:00,Torreense,Feirense,3-4-3 plano,Tulipa,432,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109755
+34,qui 16/05/2024,16:15,Penafiel,Torreense,3-4-3 plano,Tulipa,714,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109733

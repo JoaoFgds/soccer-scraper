@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qua 23/08/2006,15:00,RE Virton,VW Hamme,?,Rudi Verkempinck,1000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60405
+2,qua 30/08/2006,13:30,VW Hamme,KSK Ronse,?,Rudi Verkempinck,900,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60409
+3,dom 03/09/2006,10:00,KRC Waregem,VW Hamme,?,Rudi Verkempinck,650,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60423
+4,dom 10/09/2006,10:00,VW Hamme,Overpelt-Lommel,?,Rudi Verkempinck,1200,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60432
+5,dom 17/09/2006,10:00,VW Hamme,OH Leuven,?,Rudi Verkempinck,1000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60441
+6,sáb 23/09/2006,15:00,AFC Tubize,VW Hamme,?,Rudi Verkempinck,350,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60447
+7,dom 01/10/2006,10:00,VW Hamme,Union SG,?,Rudi Verkempinck,900,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60459
+8,sáb 07/10/2006,15:00,KMSK Deinze,VW Hamme,?,Rudi Verkempinck,1113,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60465
+9,dom 15/10/2006,10:00,FCV Dender EH,VW Hamme,?,Rudi Verkempinck,2200,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60475
+10,dom 29/10/2006,12:00,VW Hamme,RS Waasland,?,Rudi Verkempinck,1500,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60485
+11,sáb 04/11/2006,17:00,KAS Eupen,VW Hamme,?,Rudi Verkempinck,550,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60489
+12,dom 12/11/2006,13:00,VW Hamme,Dessel Sport,?,Rudi Verkempinck,900,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60504
+13,sáb 18/11/2006,18:00,Antuérpia,VW Hamme,?,Rudi Verkempinck,5000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60506
+14,dom 26/11/2006,12:30,VW Hamme,KVK Tienen,?,Rudi Verkempinck,1000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60521
+15,sáb 02/12/2006,17:00,KV Oostende,VW Hamme,?,Rudi Verkempinck,1800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60527
+16,sáb 09/12/2006,11:30,VW Hamme,KV Kortrijk,?,Rudi Verkempinck,900,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60539
+17,sáb 16/12/2006,17:00,KV Mechelen,VW Hamme,?,Rudi Verkempinck,6200,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60544
+18,dom 21/01/2007,12:00,KSK Ronse,VW Hamme,?,Rudi Verkempinck,950,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60554
+19,dom 28/01/2007,12:00,VW Hamme,RE Virton,?,Rudi Verkempinck,700,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60567
+20,sáb 03/02/2007,17:00,Overpelt-Lommel,VW Hamme,?,Walter Mertens,2500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60574
+21,dom 11/02/2007,12:00,VW Hamme,KRC Waregem,?,Walter Mertens,1000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60585
+22,dom 18/02/2007,12:00,VW Hamme,AFC Tubize,?,Fuat Çapa,800,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60593
+23,dom 25/02/2007,12:00,OH Leuven,VW Hamme,?,Fuat Çapa,2000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60602
+24,dom 04/03/2007,11:00,VW Hamme,KMSK Deinze,?,Fuat Çapa,1000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60612
+25,dom 11/03/2007,11:00,Union SG,VW Hamme,?,Fuat Çapa,1500,2:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60620
+26,dom 25/03/2007,10:00,VW Hamme,FCV Dender EH,?,Fuat Çapa,1600,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60630
+27,sáb 31/03/2007,15:00,RS Waasland,VW Hamme,?,Fuat Çapa,1600,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60635
+28,dom 08/04/2007,10:00,VW Hamme,KAS Eupen,?,Fuat Çapa,900,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60648
+29,sáb 14/04/2007,14:30,Dessel Sport,VW Hamme,?,Fuat Çapa,600,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60649
+30,dom 22/04/2007,10:00,VW Hamme,Antuérpia,?,Fuat Çapa,1800,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60666
+31,dom 29/04/2007,10:00,KVK Tienen,VW Hamme,?,Fuat Çapa,700,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60675
+32,dom 06/05/2007,10:00,VW Hamme,KV Oostende,?,Fuat Çapa,1200,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60684
+33,dom 13/05/2007,10:00,KV Kortrijk,VW Hamme,?,Fuat Çapa,1300,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60688
+34,dom 20/05/2007,10:00,VW Hamme,KV Mechelen,?,Fuat Çapa,2800,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60702

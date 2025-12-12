@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 03/08/2013,11:00,Middlesbrough,Leicester,5-3-2,Nigel Pearson,17223,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2345052
+2,dom 11/08/2013,12:30,Leicester,Leeds,5-3-2,Nigel Pearson,22725,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2332870
+3,sáb 17/08/2013,11:00,Derby,Leicester,4-3-3 ofensivo,Nigel Pearson,23437,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2332966
+4,sáb 24/08/2013,11:00,Leicester,Birmingham,4-3-3 ofensivo,Nigel Pearson,21229,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2332960
+5,sáb 31/08/2013,11:00,Charlton,Leicester,5-3-2,Nigel Pearson,15542,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2332971
+6,sáb 14/09/2013,11:00,Leicester,Wigan,4-4-2,Nigel Pearson,21810,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2332951
+7,ter 17/09/2013,15:45,Leicester,Blackburn,4-4-2,Nigel Pearson,19153,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2332927
+8,sáb 21/09/2013,11:00,Blackpool,Leicester,4-4-2,Nigel Pearson,15317,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2332937
+9,sáb 28/09/2013,11:00,Leicester,Barnsley FC,4-4-2,Nigel Pearson,21591,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2332886
+10,ter 01/10/2013,15:45,Yeovil Town,Leicester,4-4-2,Nigel Pearson,6476,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2332910
+11,sáb 05/10/2013,11:00,Doncaster Rov.,Leicester,4-4-2,Nigel Pearson,10003,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2332882
+12,sáb 19/10/2013,11:00,Leicester,Huddersfield,4-4-2,Nigel Pearson,22297,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333000
+13,sáb 26/10/2013,12:00,Leicester,Bournemouth,4-4-2,Nigel Pearson,23357,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2332992
+14,sáb 02/11/2013,10:15,Watford,Leicester,4-4-2,Nigel Pearson,16011,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333249
+15,sáb 09/11/2013,13:00,Leicester,Nott'm Forest,4-4-2,Nigel Pearson,30416,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333280
+16,sáb 23/11/2013,13:00,Ipswich,Leicester,4-3-3 ofensivo,Nigel Pearson,18227,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333239
+17,sáb 30/11/2013,13:00,Leicester,Millwall,4-4-2,Nigel Pearson,21633,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333046
+18,ter 03/12/2013,17:45,Sheff Wed,Leicester,4-4-2,Nigel Pearson,20016,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333060
+19,sáb 07/12/2013,13:00,Brighton,Leicester,4-3-3 ofensivo,Nigel Pearson,27497,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333073
+20,sáb 14/12/2013,10:15,Leicester,FC Burnley,4-4-2,Nigel Pearson,23143,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333009
+21,sáb 21/12/2013,10:15,QPR,Leicester,4-4-2,Nigel Pearson,17713,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333026
+22,qui 26/12/2013,13:00,Leicester,Reading,4-4-2,Nigel Pearson,26722,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333036
+23,dom 29/12/2013,13:00,Leicester,Bolton,4-4-2,Nigel Pearson,26614,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333147
+24,qua 01/01/2014,13:00,Millwall,Leicester,4-4-2,Nigel Pearson,10014,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333127
+25,sex 10/01/2014,17:45,Leicester,Derby,4-4-2 duplo 6,Nigel Pearson,23140,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333161
+26,sáb 18/01/2014,10:15,Leeds,Leicester,4-4-2,Nigel Pearson,22768,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333092
+27,sáb 25/01/2014,13:00,Leicester,Middlesbrough,4-4-2,Nigel Pearson,26047,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333132
+28,ter 28/01/2014,17:45,Birmingham,Leicester,4-4-2,Nigel Pearson,14763,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333166
+29,sáb 01/02/2014,13:00,Bournemouth,Leicester,4-4-2,Nigel Pearson,10719,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333176
+30,sáb 08/02/2014,13:00,Leicester,Watford,4-4-2,Nigel Pearson,23635,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333170
+31,qua 19/02/2014,16:45,Nott'm Forest,Leicester,4-4-2,Nigel Pearson,24808,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333171
+32,sáb 22/02/2014,12:00,Leicester,Ipswich,4-4-2,Nigel Pearson,28078,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333191
+33,sáb 01/03/2014,12:00,Leicester,Charlton,4-4-2,Nigel Pearson,24742,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333317
+34,ter 01/04/2014,15:45,Wigan,Leicester,4-4-2,Nigel Pearson,15025,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333260
+35,ter 11/03/2014,16:45,Barnsley FC,Leicester,4-4-2,Nigel Pearson,12539,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333333
+36,sáb 15/03/2014,12:00,Leicester,Blackpool,4-4-2 duplo 6,Nigel Pearson,27669,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333253
+37,sáb 22/03/2014,12:00,Blackburn,Leicester,4-4-2,Nigel Pearson,16528,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333273
+38,ter 25/03/2014,16:45,Leicester,Yeovil Town,4-4-2,Nigel Pearson,26240,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333236
+39,sáb 29/03/2014,09:15,FC Burnley,Leicester,4-4-2,Nigel Pearson,16794,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333045
+40,sex 04/04/2014,15:45,Leicester,Sheff Wed,4-4-2,Nigel Pearson,26103,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333309
+41,ter 08/04/2014,15:45,Leicester,Brighton,4-4-2,Nigel Pearson,29722,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333334
+42,seg 14/04/2014,16:05,Reading,Leicester,4-4-2,Nigel Pearson,20072,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333397
+43,sáb 19/04/2014,08:15,Leicester,QPR,4-3-3 defensivo,Nigel Pearson,27386,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333403
+44,ter 22/04/2014,16:00,Bolton,Leicester,4-3-3 defensivo,Nigel Pearson,16569,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333343
+45,sáb 26/04/2014,11:00,Huddersfield,Leicester,4-2-3-1,Nigel Pearson,16481,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333337
+46,sáb 03/05/2014,08:15,Leicester,Doncaster Rov.,4-4-2 duplo 6,Nigel Pearson,31424,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333339

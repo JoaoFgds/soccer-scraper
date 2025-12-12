@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 16/04/2018,20:00,Botafogo,Palmeiras,4-1-4-1,Alberto Valentim,8033,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3011399
+2,seg 23/04/2018,20:00,Sport,Botafogo,4-1-4-1,Alberto Valentim,7083,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3034141
+3,sáb 28/04/2018,16:00,Botafogo,Grêmio,4-2-3-1,Alberto Valentim,10748,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3034142
+4,dom 06/05/2018,16:00,Cruzeiro,Botafogo,4-2-3-1,Alberto Valentim,20908,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036819
+5,seg 14/05/2018,20:00,Botafogo,Fluminense,4-2-3-1,Alberto Valentim,10382,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036832
+6,dom 20/05/2018,16:00,América-MG,Botafogo,4-1-4-1,Alberto Valentim,4689,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036840
+7,dom 27/05/2018,16:00,Botafogo,Vitória,4-1-4-1,Alberto Valentim,5857,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036845
+8,qua 30/05/2018,21:00,São Paulo,Botafogo,4-2-3-1,Alberto Valentim,25427,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036856
+9,sáb 02/06/2018,19:00,Vasco da Gama,Botafogo,4-4-2 duplo 6,Alberto Valentim,9454,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036867
+10,qua 06/06/2018,19:30,Botafogo,Ceará,4-4-2 duplo 6,Alberto Valentim,8825,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036877
+11,dom 10/06/2018,16:00,Bahia,Botafogo,4-4-2 duplo 6,Alberto Valentim,12806,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036888
+12,qua 13/06/2018,21:00,Botafogo,Atlético-PR,4-2-3-1,Alberto Valentim,10965,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036900
+13,qua 18/07/2018,21:45,Corinthians,Botafogo,4-2-3-1,Marcos Paquetá,19830,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036913
+14,sáb 21/07/2018,19:00,Flamengo,Botafogo,4-3-1-2,Marcos Paquetá,42182,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036920
+15,qui 26/07/2018,19:30,Botafogo,Chapecoense,4-2-3-1,Marcos Paquetá,7602,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036930
+16,dom 29/07/2018,16:00,Internacional,Botafogo,4-2-3-1,Marcos Paquetá,29351,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036944
+17,sáb 04/08/2018,16:00,Botafogo,Santos,4-2-3-1,Bruno Lazaroni,6940,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036950
+18,dom 12/08/2018,11:00,Paraná,Botafogo,4-2-3-1,Zé Ricardo,5443,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036956
+19,dom 19/08/2018,16:00,Botafogo,Atlético-MG,4-2-3-1,Marcos Paquetá,8470,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036970
+20,qua 22/08/2018,21:00,Palmeiras,Botafogo,4-2-3-1,Zé Ricardo,24882,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036983
+21,sáb 25/08/2018,21:00,Botafogo,Sport,4-2-3-1,Zé Ricardo,6031,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036990
+22,sáb 01/09/2018,16:00,Grêmio,Botafogo,4-2-3-1,Zé Ricardo,16589,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037004
+23,qua 05/09/2018,19:30,Botafogo,Cruzeiro,4-3-1-2,Zé Ricardo,5749,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037010
+24,dom 09/09/2018,16:00,Fluminense,Botafogo,4-3-3 ofensivo,Zé Ricardo,10969,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037019
+25,dom 16/09/2018,11:00,Botafogo,América-MG,4-2-3-1,Zé Ricardo,25382,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037030
+26,dom 23/09/2018,18:00,Vitória,Botafogo,4-3-1-2,Zé Ricardo,9994,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037038
+27,dom 30/09/2018,16:00,Botafogo,São Paulo,4-3-1-2,Zé Ricardo,19976,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037050
+28,ter 09/10/2018,21:00,Botafogo,Vasco da Gama,4-3-1-2,Zé Ricardo,10059,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037060
+29,seg 15/10/2018,20:00,Ceará,Botafogo,4-2-3-1,Zé Ricardo,29946,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037071
+30,sáb 20/10/2018,16:00,Botafogo,Bahia,4-2-3-1,Zé Ricardo,8180,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037080
+31,sáb 27/10/2018,23:00,Atlético-PR,Botafogo,4-2-3-1,Zé Ricardo,8186,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037086
+32,dom 04/11/2018,17:00,Botafogo,Corinthians,4-2-3-1,Zé Ricardo,21463,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037100
+33,sáb 10/11/2018,19:00,Botafogo,Flamengo,4-2-3-1,Zé Ricardo,19267,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037110
+34,qui 15/11/2018,17:00,Chapecoense,Botafogo,4-2-3-1,Zé Ricardo,17261,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037117
+35,dom 18/11/2018,17:00,Botafogo,Internacional,4-2-3-1,Zé Ricardo,19006,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037130
+36,qua 21/11/2018,21:00,Santos,Botafogo,4-2-3-1,Zé Ricardo,3620,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037142
+37,seg 26/11/2018,20:00,Botafogo,Paraná,4-2-3-1,Zé Ricardo,28972,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037150
+38,sáb 01/12/2018,19:00,Atlético-MG,Botafogo,4-2-3-1,Zé Ricardo,22365,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037155

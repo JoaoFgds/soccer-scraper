@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 03/08/2019,11:00,Barnsley FC,Fulham,4-3-3 defensivo,Scott Parker,14823,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3196759
+2,sáb 10/08/2019,11:00,Fulham,Blackburn,4-3-3 defensivo,Scott Parker,17987,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219942
+3,sex 16/08/2019,15:45,Huddersfield,Fulham,4-3-3 ofensivo,Scott Parker,20775,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219965
+4,qua 21/08/2019,15:45,Fulham,Millwall,4-3-3 defensivo,Scott Parker,17066,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219945
+5,sáb 24/08/2019,11:00,Fulham,Nott'm Forest,4-2-3-1,Scott Parker,18186,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219933
+6,sex 30/08/2019,15:45,Cardiff,Fulham,4-3-3 defensivo,Scott Parker,22631,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219923
+7,sáb 14/09/2019,08:30,Fulham,West Brom,4-3-3 defensivo,Scott Parker,17770,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219880
+8,sáb 21/09/2019,11:00,Sheff Wed,Fulham,4-3-3 ofensivo,Scott Parker,23342,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219889
+9,sex 27/09/2019,15:45,Fulham,Wigan,4-3-3 defensivo,Scott Parker,18253,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219883
+10,ter 01/10/2019,16:00,Reading,Fulham,4-1-4-1,Scott Parker,13809,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219876
+11,sáb 05/10/2019,08:30,Fulham,Charlton,4-1-4-1,Scott Parker,18654,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219869
+12,sáb 19/10/2019,11:00,Stoke,Fulham,3-5-2,Scott Parker,23189,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219815
+13,qua 23/10/2019,15:45,Fulham,Luton,4-3-3 ofensivo,Scott Parker,18082,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219805
+14,sáb 26/10/2019,11:00,Middlesbrough,Fulham,4-3-3 ofensivo,Scott Parker,19101,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219817
+15,sáb 02/11/2019,12:00,Fulham,Hull City,4-3-3 ofensivo,Scott Parker,18168,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219740
+16,sáb 09/11/2019,12:00,Birmingham,Fulham,4-3-3 ofensivo,Scott Parker,21334,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219786
+17,sex 22/11/2019,16:45,Fulham,QPR,4-3-3 ofensivo,Scott Parker,18320,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219738
+18,ter 26/11/2019,16:45,Fulham,Derby,4-2-3-1,Scott Parker,16856,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219798
+19,sex 29/11/2019,16:45,Swansea,Fulham,4-2-3-1,Scott Parker,16024,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219775
+20,sáb 07/12/2019,12:00,Fulham,Bristol City,4-2-3-1,Scott Parker,18779,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219750
+21,ter 10/12/2019,16:45,Preston NE,Fulham,4-4-2 duplo 6,Scott Parker,24577,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219752
+22,sáb 14/12/2019,12:00,Brentford,Fulham,4-3-3 ofensivo,Scott Parker,12305,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219716
+23,sáb 21/12/2019,12:00,Fulham,Leeds,4-1-4-1,Scott Parker,18878,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219735
+24,qui 26/12/2019,12:00,Luton,Fulham,4-3-3 ofensivo,Scott Parker,10068,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219723
+25,dom 29/12/2019,12:00,Fulham,Stoke,4-3-3 ofensivo,Scott Parker,18747,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219595
+26,qua 01/01/2020,12:00,Fulham,Reading,4-3-3 ofensivo,Scott Parker,20858,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219714
+27,sáb 11/01/2020,12:00,Hull City,Fulham,4-3-3 ofensivo,Scott Parker,11347,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219657
+28,sex 17/01/2020,16:45,Fulham,Middlesbrough,4-3-3 ofensivo,Scott Parker,18375,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219672
+29,qua 22/01/2020,16:45,Charlton,Fulham,4-3-3 ofensivo,Scott Parker,16424,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219625
+30,sáb 01/02/2020,12:00,Fulham,Huddersfield,4-3-3 ofensivo,Scott Parker,18013,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219688
+31,sáb 08/02/2020,12:00,Blackburn,Fulham,4-1-4-1,Scott Parker,13087,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219629
+32,qua 12/02/2020,16:45,Millwall,Fulham,4-2-3-1,Scott Parker,12870,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219645
+33,sáb 15/02/2020,12:00,Fulham,Barnsley FC,4-3-3 ofensivo,Scott Parker,18516,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219683
+34,sex 21/02/2020,16:45,Derby,Fulham,4-3-3 ofensivo,Scott Parker,25442,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219681
+35,qua 26/02/2020,16:45,Fulham,Swansea,4-2-3-1,Scott Parker,17626,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219608
+36,sáb 29/02/2020,12:00,Fulham,Preston NE,4-3-3 ofensivo,Scott Parker,19020,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219528
+37,sáb 07/03/2020,09:30,Bristol City,Fulham,4-3-3 ofensivo,Scott Parker,23796,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219524
+38,sáb 20/06/2020,08:30,Fulham,Brentford,4-2-3-1,Scott Parker,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219537
+39,sáb 27/06/2020,11:00,Leeds,Fulham,4-2-3-1,Scott Parker,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219539
+40,ter 30/06/2020,14:30,QPR,Fulham,4-3-3 ofensivo,Scott Parker,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219484
+41,sáb 04/07/2020,11:00,Fulham,Birmingham,4-3-3 ofensivo,Scott Parker,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219445
+42,ter 07/07/2020,13:00,Nott'm Forest,Fulham,4-2-3-1,Scott Parker,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219478
+43,sex 10/07/2020,16:15,Fulham,Cardiff,4-2-3-1,Scott Parker,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219496
+44,ter 14/07/2020,13:00,West Brom,Fulham,4-2-3-1,Scott Parker,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219520
+45,sáb 18/07/2020,11:00,Fulham,Sheff Wed,4-2-3-1,Scott Parker,x,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219468
+46,qua 22/07/2020,15:30,Wigan,Fulham,4-2-3-1,Scott Parker,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219479

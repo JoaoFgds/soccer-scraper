@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 10/04/2022,18:00,Fortaleza,Cuiabá,4-4-2,Pintado,18279,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767778
+2,sáb 16/04/2022,21:00,Cuiabá,Fluminense,4-4-2,Pintado,10791,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767790
+3,dom 24/04/2022,18:00,Juventude,Cuiabá,4-4-2,Pintado,3920,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767797
+4,sáb 30/04/2022,19:00,Cuiabá,Atlético-GO,4-2-3-1,Pintado,4517,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767830
+5,dom 08/05/2022,18:00,Santos,Cuiabá,4-2-3-1,Pintado,7256,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767816
+6,dom 15/05/2022,16:00,São Paulo,Cuiabá,4-2-3-1,Pintado,27511,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767804
+7,sáb 21/05/2022,21:00,Cuiabá,Internacional,4-2-3-1,Luiz Fernando Iubel,7968,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767840
+8,dom 29/05/2022,18:00,Cuiabá,Athletico-PR,4-2-3-1,Luiz Fernando Iubel,4539,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767850
+9,sáb 04/06/2022,16:30,América-MG,Cuiabá,4-2-3-1,António Oliveira,2720,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767852
+10,ter 07/06/2022,21:30,Cuiabá,Corinthians,4-2-3-1,António Oliveira,22129,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767890
+11,sáb 11/06/2022,19:00,Cuiabá,Bragantino,4-3-3 ofensivo,António Oliveira,4476,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767880
+12,qua 15/06/2022,20:30,Flamengo,Cuiabá,4-4-2,António Oliveira,43930,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767863
+13,sáb 18/06/2022,19:00,Cuiabá,Ceará,4-4-2,António Oliveira,7512,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767900
+14,dom 26/06/2022,18:00,Goiás,Cuiabá,4-3-3 ofensivo,António Oliveira,8871,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767909
+15,sáb 02/07/2022,19:00,Avaí,Cuiabá,4-1-4-1,António Oliveira,13103,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767920
+16,dom 10/07/2022,19:00,Cuiabá,Botafogo,4-1-4-1,António Oliveira,14719,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768150
+17,seg 18/07/2022,20:00,Palmeiras,Cuiabá,3-4-3 plano,António Oliveira,39033,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768135
+18,qui 21/07/2022,19:00,Cuiabá,Atlético-MG,4-1-4-1,António Oliveira,18584,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768130
+19,seg 25/07/2022,20:00,Coritiba,Cuiabá,4-1-4-1,António Oliveira,19181,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768121
+20,dom 31/07/2022,18:00,Cuiabá,Fortaleza,4-4-2,António Oliveira,9567,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768110
+21,dom 07/08/2022,16:00,Fluminense,Cuiabá,3-4-3 plano,António Oliveira,46323,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768093
+22,sáb 13/08/2022,20:30,Cuiabá,Juventude,3-4-2-1,António Oliveira,6909,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768090
+23,dom 21/08/2022,18:00,Atlético-GO,Cuiabá,4-1-4-1,António Oliveira,4578,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768079
+24,dom 28/08/2022,18:00,Cuiabá,Santos,3-4-3 plano,António Oliveira,19136,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768070
+25,dom 04/09/2022,19:00,Cuiabá,São Paulo,3-4-3 plano,António Oliveira,33050,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768060
+26,sáb 10/09/2022,16:30,Internacional,Cuiabá,3-4-2-1,António Oliveira,30719,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768047
+27,dom 18/09/2022,19:00,Athletico-PR,Cuiabá,5-4-1,António Oliveira,16524,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768041
+28,qua 28/09/2022,21:00,Cuiabá,América-MG,3-5-2,António Oliveira,3364,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768010
+29,sáb 01/10/2022,21:00,Corinthians,Cuiabá,5-4-1 plano,António Oliveira,37445,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768015
+30,qua 05/10/2022,19:00,Bragantino,Cuiabá,4-4-2,António Oliveira,2703,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768024
+31,sáb 08/10/2022,19:00,Cuiabá,Flamengo,5-3-2,António Oliveira,40059,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768000
+32,dom 16/10/2022,16:00,Ceará,Cuiabá,5-4-1,António Oliveira,41242,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767988
+33,dom 23/10/2022,18:00,Cuiabá,Goiás,5-4-1,António Oliveira,8871,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767980
+34,qui 27/10/2022,20:00,Cuiabá,Avaí,4-1-4-1,António Oliveira,4680,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767950
+35,ter 01/11/2022,19:00,Botafogo,Cuiabá,3-4-1-2,António Oliveira,16365,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767956
+36,dom 06/11/2022,18:30,Cuiabá,Palmeiras,3-4-1-2,António Oliveira,22448,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767970
+37,qui 10/11/2022,20:00,Atlético-MG,Cuiabá,4-2-3-1,António Oliveira,28824,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767932
+38,dom 13/11/2022,16:00,Cuiabá,Coritiba,4-1-4-1,António Oliveira,17392,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767930

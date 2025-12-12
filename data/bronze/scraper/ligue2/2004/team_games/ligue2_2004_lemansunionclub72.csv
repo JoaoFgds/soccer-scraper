@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 06/08/2004,15:00,Le Mans UC 72,Clermont FA,?,Daniel Jeandupeux,6316,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005360
+2,sex 13/08/2004,15:00,US Créteil-L,Le Mans UC 72,?,Daniel Jeandupeux,1614,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005369
+3,ter 17/08/2004,15:00,Le Mans UC 72,Reims,?,Daniel Jeandupeux,5890,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005384
+4,sex 20/08/2004,15:00,Le Mans UC 72,Stade Lavallois,?,Daniel Jeandupeux,6942,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005400
+5,sex 27/08/2004,15:00,FC Gueugnon,Le Mans UC 72,?,Daniel Jeandupeux,4008,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005405
+6,sex 03/09/2004,15:00,Le Mans UC 72,Le Havre,?,Daniel Jeandupeux,6546,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005415
+7,sex 10/09/2004,15:00,Grenoble,Le Mans UC 72,?,Daniel Jeandupeux,4976,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005423
+8,sex 17/09/2004,15:00,Le Mans UC 72,Brest,?,Daniel Jeandupeux,6990,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005436
+9,ter 21/09/2004,15:30,CS Sedan,Le Mans UC 72,?,Daniel Jeandupeux,9375,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005446
+10,sáb 25/09/2004,15:00,Le Mans UC 72,LB Châteauroux,?,Daniel Jeandupeux,6783,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005456
+11,sex 01/10/2004,15:00,Montpellier,Le Mans UC 72,?,Daniel Jeandupeux,5400,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005468
+12,sex 15/10/2004,15:00,Le Mans UC 72,Dijon,?,Daniel Jeandupeux,7759,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005476
+13,sex 22/10/2004,15:00,Troyes,Le Mans UC 72,?,Daniel Jeandupeux,5946,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005487
+14,dom 31/10/2004,13:00,Le Mans UC 72,Angers,?,Daniel Jeandupeux,7265,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005498
+15,sex 05/11/2004,17:00,FC Lorient,Le Mans UC 72,?,Daniel Jeandupeux,14255,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005505
+16,sex 12/11/2004,17:45,Le Mans UC 72,AS Nancy,?,Daniel Jeandupeux,7484,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005517
+17,sex 26/11/2004,17:00,Guingamp,Le Mans UC 72,?,Daniel Jeandupeux,9320,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005524
+18,sex 03/12/2004,17:00,Le Mans UC 72,Chamois Niort,?,Daniel Jeandupeux,5863,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005536
+19,sex 17/12/2004,17:00,Amiens SC,Le Mans UC 72,?,Daniel Jeandupeux,11152,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005542
+20,ter 11/01/2005,17:00,Le Mans UC 72,US Créteil-L,?,Frédéric Hantz,5626,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005559
+21,sex 14/01/2005,17:00,Reims,Le Mans UC 72,?,Frédéric Hantz,5042,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005567
+22,sex 21/01/2005,17:00,Stade Lavallois,Le Mans UC 72,?,Frédéric Hantz,6973,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005574
+23,ter 25/01/2005,17:00,Le Mans UC 72,FC Gueugnon,?,Frédéric Hantz,6198,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005586
+24,sex 28/01/2005,17:00,Le Havre,Le Mans UC 72,?,Frédéric Hantz,6771,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005594
+25,sex 04/02/2005,17:00,Le Mans UC 72,Grenoble,?,Frédéric Hantz,7679,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005605
+26,seg 21/02/2005,16:15,Brest,Le Mans UC 72,?,Frédéric Hantz,7615,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005620
+27,sex 25/02/2005,16:00,Le Mans UC 72,CS Sedan,?,Frédéric Hantz,7080,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005628
+28,seg 07/03/2005,16:15,LB Châteauroux,Le Mans UC 72,?,Frédéric Hantz,6879,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005639
+29,sex 11/03/2005,16:30,Le Mans UC 72,Montpellier,?,Frédéric Hantz,8212,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005649
+30,sex 18/03/2005,16:00,Dijon,Le Mans UC 72,?,Frédéric Hantz,5170,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005653
+31,seg 04/04/2005,15:15,Le Mans UC 72,Troyes,?,Frédéric Hantz,9264,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005670
+32,sex 08/04/2005,15:00,Angers,Le Mans UC 72,?,Frédéric Hantz,6820,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005671
+33,sex 15/04/2005,15:45,Le Mans UC 72,FC Lorient,?,Frédéric Hantz,8570,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005689
+34,sex 22/04/2005,15:30,AS Nancy,Le Mans UC 72,?,Frédéric Hantz,18065,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005699
+35,sex 06/05/2005,15:30,Le Mans UC 72,Guingamp,?,Frédéric Hantz,10562,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005709
+36,sex 13/05/2005,15:30,Chamois Niort,Le Mans UC 72,?,Frédéric Hantz,7152,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005717
+37,sex 20/05/2005,15:30,Le Mans UC 72,Amiens SC,?,Frédéric Hantz,11274,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005727
+38,sex 27/05/2005,15:45,Clermont FA,Le Mans UC 72,?,Frédéric Hantz,5084,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005733

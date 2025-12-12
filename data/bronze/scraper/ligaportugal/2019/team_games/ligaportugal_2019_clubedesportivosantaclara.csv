@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 10/08/2019,12:30,Santa Clara,Famalicão,4-2-3-1,João Henriques,1659,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211328
+2,dom 18/08/2019,12:00,Paços Ferreira,Santa Clara,4-2-3-1,João Henriques,3153,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211338
+3,dom 25/08/2019,12:00,Santa Clara,B SAD,4-2-3-1,João Henriques,3525,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211373
+4,dom 01/09/2019,12:00,CD Tondela,Santa Clara,4-2-3-1,João Henriques,2122,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211388
+5,dom 15/09/2019,12:00,Santa Clara,Moreirense,3-4-1-2,João Henriques,2248,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211391
+6,dom 22/09/2019,16:30,FC Porto,Santa Clara,5-4-1 plano,João Henriques,36120,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211427
+7,dom 29/09/2019,12:00,Santa Clara,Gil Vicente,3-4-1-2,João Henriques,1973,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211430
+8,seg 28/10/2019,17:15,Braga,Santa Clara,4-2-3-1,João Henriques,6785,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211447
+9,qui 31/10/2019,17:15,Santa Clara,Vitória FC,4-2-3-1,João Henriques,1632,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211454
+10,seg 04/11/2019,18:00,Portimonense,Santa Clara,4-4-2 losango,João Henriques,2266,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211469
+11,sáb 09/11/2019,15:00,Santa Clara,Benfica,4-1-4-1,João Henriques,8309,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211472
+12,sex 29/11/2019,16:30,Santa Clara,Boavista,4-1-4-1,João Henriques,2022,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211481
+13,sáb 07/12/2019,12:00,Marítimo,Santa Clara,4-2-3-1,João Henriques,3757,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211497
+14,seg 16/12/2019,16:00,Santa Clara,Sporting,4-2-3-1,João Henriques,5282,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211499
+15,sáb 04/01/2020,12:30,CD Aves,Santa Clara,4-2-3-1,João Henriques,1257,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211578
+16,sex 10/01/2020,16:00,Santa Clara,Rio Ave,4-2-3-1,João Henriques,1663,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211776
+17,sáb 18/01/2020,12:30,Vit. Guimarães,Santa Clara,4-4-2 losango,João Henriques,12813,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211792
+18,dom 26/01/2020,12:00,Famalicão,Santa Clara,4-4-2 losango,João Henriques,4213,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211798
+19,dom 02/02/2020,14:30,Santa Clara,Paços Ferreira,4-4-2 losango,João Henriques,1001,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211811
+20,sáb 08/02/2020,12:30,B SAD,Santa Clara,4-4-2 losango,João Henriques,2308,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211827
+21,sáb 15/02/2020,12:30,Santa Clara,CD Tondela,4-4-2 losango,João Henriques,2215,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211829
+22,dom 23/02/2020,12:00,Moreirense,Santa Clara,4-4-2 losango,João Henriques,2148,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211840
+23,seg 02/03/2020,16:30,Santa Clara,FC Porto,4-4-2 losango,João Henriques,6271,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211847
+24,dom 08/03/2020,14:00,Gil Vicente,Santa Clara,4-4-2 losango,João Henriques,4118,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212604
+25,sex 05/06/2020,15:00,Santa Clara,Braga,4-4-2 losango,João Henriques,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212608
+26,qua 10/06/2020,13:00,Vitória FC,Santa Clara,3-5-2,João Henriques,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212622
+27,ter 16/06/2020,15:00,Santa Clara,Portimonense,4-2-3-1,João Henriques,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212626
+28,ter 23/06/2020,15:15,Benfica,Santa Clara,4-4-2 losango,João Henriques,x,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212642
+29,dom 28/06/2020,17:00,Boavista,Santa Clara,4-2-3-1,João Henriques,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212651
+30,sex 03/07/2020,15:15,Santa Clara,Marítimo,4-4-2,João Henriques,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212653
+31,sex 10/07/2020,15:15,Sporting,Santa Clara,4-2-3-1,João Henriques,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212663
+32,ter 14/07/2020,13:00,Santa Clara,CD Aves,4-2-3-1,João Henriques,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212671
+33,sáb 18/07/2020,15:00,Rio Ave,Santa Clara,4-2-3-1,João Henriques,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212682
+34,sex 24/07/2020,15:00,Santa Clara,Vit. Guimarães,4-2-3-1,João Henriques,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212689

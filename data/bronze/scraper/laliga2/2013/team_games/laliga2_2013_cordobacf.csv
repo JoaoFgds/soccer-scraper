@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 17/08/2013,16:00,Córdoba,Ponferradina,4-2-3-1,Pablo Villanueva,7850,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2348111
+2,sáb 24/08/2013,14:00,Deportivo,Córdoba,4-2-3-1,Pablo Villanueva,21000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2348122
+3,dom 01/09/2013,13:00,Córdoba,Alavés,4-2-3-1,Pablo Villanueva,9521,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2348157
+4,dom 08/09/2013,13:00,Eibar,Córdoba,4-2-3-1,Pablo Villanueva,2000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2348169
+5,sáb 14/09/2013,13:00,Córdoba,Numância,4-2-3-1,Pablo Villanueva,7842,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2348183
+6,dom 22/09/2013,16:00,Real Jaén,Córdoba,4-2-3-1,Pablo Villanueva,8500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2348199
+7,dom 29/09/2013,12:00,Córdoba,Girona,4-2-3-1,Pablo Villanueva,9220,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2348471
+8,sáb 05/10/2013,13:00,Las Palmas,Córdoba,4-2-3-1,Pablo Villanueva,9210,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2348486
+9,sáb 12/10/2013,13:00,Lugo,Córdoba,4-2-3-1,Pablo Villanueva,3500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2348496
+10,sáb 19/10/2013,13:00,Córdoba,CE Sabadell,4-1-4-1,Pablo Villanueva,8404,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2348505
+11,dom 27/10/2013,14:00,Real Murcia,Córdoba,4-2-3-1,Pablo Villanueva,8928,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2356757
+12,dom 03/11/2013,09:00,Córdoba,Real Sporting,4-2-3-1,Pablo Villanueva,14641,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350404
+13,sáb 09/11/2013,16:00,AD Alcorcón,Córdoba,4-2-3-1,Pablo Villanueva,2800,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350410
+14,dom 17/11/2013,18:00,Córdoba,Hércules CF,4-2-3-1,Pablo Villanueva,9679,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350424
+15,dom 24/11/2013,14:00,Mirandés,Córdoba,4-2-3-1,Pablo Villanueva,3522,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350430
+16,sáb 30/11/2013,15:00,Córdoba,Barcelona B,4-2-3-1,Pablo Villanueva,10589,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350443
+17,dom 08/12/2013,15:15,Zaragoza,Córdoba,4-2-3-1,Pablo Villanueva,8000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350455
+18,dom 15/12/2013,15:00,Córdoba,Tenerife,4-2-3-1,Pablo Villanueva,9000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350458
+19,sáb 21/12/2013,15:15,RM Castilla,Córdoba,4-2-3-1,Pablo Villanueva,2419,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350472
+20,sáb 04/01/2014,15:15,Córdoba,Recr. Huelva,4-2-3-1,Pablo Villanueva,9058,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350485
+21,dom 12/01/2014,09:00,Mallorca,Córdoba,4-2-3-1,Pablo Villanueva,9000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350488
+22,dom 19/01/2014,18:00,Ponferradina,Córdoba,4-2-3-1,Pablo Villanueva,3000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350501
+23,sáb 25/01/2014,15:15,Córdoba,Deportivo,4-2-3-1,Pablo Villanueva,16536,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350512
+24,dom 02/02/2014,14:00,Alavés,Córdoba,4-2-3-1,Pablo Villanueva,9516,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350532
+25,dom 09/02/2014,14:00,Córdoba,Eibar,4-4-2 duplo 6,Pablo Villanueva,8546,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350566
+26,dom 16/02/2014,17:00,Numância,Córdoba,4-2-3-1,Luis Carrión,1818,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350571
+27,dom 23/02/2014,13:00,Córdoba,Real Jaén,4-2-3-1,Albert Ferrer,12818,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350733
+28,dom 02/03/2014,13:00,Girona,Córdoba,4-2-3-1,Albert Ferrer,6185,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350739
+29,sáb 08/03/2014,16:00,Córdoba,Las Palmas,4-2-3-1,Albert Ferrer,9241,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350754
+30,dom 16/03/2014,13:00,Córdoba,Lugo,4-2-3-1,Albert Ferrer,8864,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350764
+31,sáb 22/03/2014,16:00,CE Sabadell,Córdoba,4-2-3-1,Albert Ferrer,3604,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350773
+32,sáb 29/03/2014,14:00,Córdoba,Real Murcia,4-2-3-1,Albert Ferrer,2500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2356778
+33,dom 06/04/2014,12:00,Real Sporting,Córdoba,4-2-3-1,Albert Ferrer,19185,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350794
+34,dom 13/04/2014,12:00,Córdoba,AD Alcorcón,4-2-3-1,Albert Ferrer,13957,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350800
+35,sáb 19/04/2014,13:00,Hércules CF,Córdoba,4-2-3-1,Albert Ferrer,6424,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350814
+36,sáb 26/04/2014,15:00,Córdoba,Mirandés,4-2-3-1,Albert Ferrer,9003,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350819
+37,sáb 03/05/2014,15:00,Barcelona B,Córdoba,4-2-3-1,Albert Ferrer,3785,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350832
+38,dom 11/05/2014,07:00,Córdoba,Zaragoza,4-2-3-1,Albert Ferrer,11098,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350844
+39,sáb 17/05/2014,16:00,Tenerife,Córdoba,4-2-3-1,Albert Ferrer,13702,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350847
+40,dom 25/05/2014,11:00,Córdoba,RM Castilla,4-2-3-1,Albert Ferrer,12901,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350861
+41,sáb 31/05/2014,14:00,Recr. Huelva,Córdoba,4-2-3-1,Albert Ferrer,12418,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350869
+42,sáb 07/06/2014,13:30,Córdoba,Mallorca,4-2-3-1,Albert Ferrer,21822,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350877

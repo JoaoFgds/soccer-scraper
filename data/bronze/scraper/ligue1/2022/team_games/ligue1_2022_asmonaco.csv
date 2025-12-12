@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 06/08/2022,12:00,Strasbourg,Monaco,4-2-3-1,Philippe Clement,25359,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839735
+2,sáb 13/08/2022,12:00,Monaco,Rennes,4-4-2,Philippe Clement,8000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839776
+3,sáb 20/08/2022,12:00,Monaco,Lens,4-4-2 duplo 6,Philippe Clement,8700,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839816
+4,dom 28/08/2022,15:45,PSG,Monaco,5-3-2,Philippe Clement,46000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839845
+5,qua 31/08/2022,14:00,Monaco,Troyes,3-4-1-2,Philippe Clement,4045,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839863
+6,dom 04/09/2022,15:45,Nice,Monaco,3-4-3 plano,Philippe Clement,24125,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840012
+7,dom 11/09/2022,15:45,Monaco,Lyon,5-4-1 plano,Philippe Clement,7000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840018
+8,dom 18/09/2022,08:00,Reims,Monaco,4-4-2,Philippe Clement,10000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840036
+9,dom 02/10/2022,12:05,Monaco,Nantes,4-4-2 duplo 6,Philippe Clement,5202,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840041
+10,dom 09/10/2022,08:00,Montpellier,Monaco,4-4-2,Philippe Clement,13048,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840052
+11,dom 16/10/2022,12:05,Monaco,Clermont Foot,4-4-2,Philippe Clement,4731,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840060
+12,dom 23/10/2022,15:45,Lille,Monaco,4-4-2,Philippe Clement,35362,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840072
+13,dom 30/10/2022,11:00,Monaco,Angers,3-4-1-2,Philippe Clement,7069,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840080
+14,dom 06/11/2022,11:00,Toulouse,Monaco,4-2-3-1,Philippe Clement,23005,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840097
+15,dom 13/11/2022,16:45,Monaco,Marselha,4-4-2 duplo 6,Philippe Clement,10631,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840099
+16,qua 28/12/2022,13:00,Auxerre,Monaco,4-4-2,Philippe Clement,16503,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840110
+17,dom 01/01/2023,11:00,Monaco,Brest,4-4-2,Philippe Clement,6150,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840119
+18,qua 11/01/2023,17:00,FC Lorient,Monaco,4-4-2 duplo 6,Philippe Clement,14521,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840132
+19,dom 15/01/2023,13:05,Monaco,AC Ajaccio,4-4-2 duplo 6,Philippe Clement,8000,7:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840139
+20,sáb 28/01/2023,17:00,Marselha,Monaco,4-4-2 duplo 6,Philippe Clement,64502,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840154
+21,qua 01/02/2023,17:00,Monaco,Auxerre,4-4-2 duplo 6,Philippe Clement,3561,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840159
+22,dom 05/02/2023,09:00,Clermont Foot,Monaco,4-4-2 duplo 6,Philippe Clement,11598,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840171
+23,sáb 11/02/2023,13:00,Monaco,PSG,4-4-2 duplo 6,Philippe Clement,16500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840179
+24,dom 19/02/2023,11:00,Brest,Monaco,4-4-2,Philippe Clement,13203,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840195
+25,dom 26/02/2023,13:05,Monaco,Nice,3-1-4-2,Philippe Clement,9000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840200
+26,dom 05/03/2023,09:00,Troyes,Monaco,4-4-2,Philippe Clement,9160,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840218
+27,dom 12/03/2023,13:05,Monaco,Reims,4-4-2,Philippe Clement,5383,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840221
+28,dom 19/03/2023,09:00,AC Ajaccio,Monaco,4-4-2,Philippe Clement,7198,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840229
+29,dom 02/04/2023,12:05,Monaco,Strasbourg,4-4-1-1,Philippe Clement,5356,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840247
+30,dom 09/04/2023,12:05,Nantes,Monaco,4-2-3-1,Philippe Clement,30050,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840259
+31,dom 16/04/2023,12:05,Monaco,FC Lorient,4-4-2,Philippe Clement,6930,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840267
+32,sáb 22/04/2023,16:00,Lens,Monaco,4-4-2 duplo 6,Philippe Clement,38223,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840284
+33,dom 30/04/2023,08:00,Monaco,Montpellier,4-4-2 duplo 6,Philippe Clement,6069,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840286
+34,dom 07/05/2023,08:00,Angers,Monaco,3-4-3 plano,Philippe Clement,9223,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840407
+35,dom 14/05/2023,12:05,Monaco,Lille,3-4-2-1,Philippe Clement,6805,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840415
+36,sex 19/05/2023,16:00,Lyon,Monaco,3-4-2-1,Philippe Clement,53980,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840431
+37,sáb 27/05/2023,16:00,Rennes,Monaco,4-4-1-1,Philippe Clement,28344,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840443
+38,sáb 03/06/2023,16:00,Monaco,Toulouse,4-2-3-1,Philippe Clement,5670,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840447

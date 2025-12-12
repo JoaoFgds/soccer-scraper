@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/09/2020,11:00,Barnsley FC,Luton,4-2-3-1,Nathan Jones,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427304
+2,sáb 19/09/2020,11:00,Luton,Derby,4-2-3-1,Nathan Jones,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427477
+3,sáb 26/09/2020,08:30,Watford,Luton,4-2-3-1,Nathan Jones,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427670
+4,sáb 03/10/2020,11:00,Luton,Wycombe Wand.,4-2-3-1,Nathan Jones,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427660
+5,sáb 17/10/2020,11:00,Luton,Stoke,4-2-3-1,Nathan Jones,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427576
+6,ter 20/10/2020,15:45,Millwall,Luton,4-1-4-1,Nathan Jones,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427292
+7,sáb 24/10/2020,11:00,Sheff Wed,Luton,3-5-2,Nathan Jones,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427710
+8,qua 28/10/2020,16:45,Luton,Nott'm Forest,5-3-2,Nathan Jones,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427708
+9,sáb 31/10/2020,12:00,Luton,Brentford,5-3-2,Nathan Jones,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427475
+10,qua 04/11/2020,16:45,Rotherham,Luton,4-3-1-2,Nathan Jones,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427711
+11,sáb 07/11/2020,12:00,Huddersfield,Luton,4-2-3-1,Nathan Jones,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427549
+12,sáb 21/11/2020,12:00,Luton,Blackburn,4-2-3-1,Nathan Jones,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427530
+13,ter 24/11/2020,16:00,Luton,Birmingham,4-3-3 ofensivo,Nathan Jones,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427307
+14,sáb 28/11/2020,12:00,Cardiff,Luton,4-3-1-2,Nathan Jones,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427328
+15,qua 02/12/2020,16:45,Luton,Norwich,4-2-3-1,Nathan Jones,1000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427702
+16,sáb 05/12/2020,12:00,Swansea,Luton,4-1-4-1,Nathan Jones,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427760
+17,ter 08/12/2020,16:45,Coventry City,Luton,3-5-2 plano,Nathan Jones,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427334
+18,sáb 12/12/2020,12:00,Luton,Preston NE,4-1-4-1,Nathan Jones,2000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427615
+19,qua 16/12/2020,16:00,Middlesbrough,Luton,4-2-3-1,Nathan Jones,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427737
+20,sáb 19/12/2020,12:00,Luton,Bournemouth,5-3-2,Nathan Jones,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427327
+21,sáb 26/12/2020,12:00,Reading,Luton,4-2-3-1,Nathan Jones,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427744
+22,ter 29/12/2020,16:45,Luton,Bristol City,4-3-1-2,Nathan Jones,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427523
+23,ter 12/01/2021,16:00,Luton,QPR,4-3-3 ofensivo,Nathan Jones,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427518
+24,sáb 16/01/2021,12:00,Bournemouth,Luton,5-3-2,Nathan Jones,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427345
+25,qua 20/01/2021,16:00,Brentford,Luton,4-3-1-2,Nathan Jones,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427688
+26,ter 04/05/2021,15:15,Luton,Rotherham,3-5-2 plano,Nathan Jones,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427542
+27,sáb 30/01/2021,12:00,Blackburn,Luton,4-1-4-1,Nathan Jones,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427434
+28,sáb 06/02/2021,12:00,Luton,Huddersfield,4-2-3-1,Nathan Jones,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427546
+29,sáb 13/02/2021,12:00,Birmingham,Luton,4-1-4-1,Nathan Jones,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427395
+30,ter 16/02/2021,17:15,Luton,Cardiff,4-3-3 ofensivo,Nathan Jones,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427352
+31,sáb 20/02/2021,12:00,Stoke,Luton,4-3-1-2,Nathan Jones,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427799
+32,ter 23/02/2021,16:45,Luton,Millwall,3-5-2 plano,Nathan Jones,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427342
+33,sáb 27/02/2021,12:00,Luton,Sheff Wed,3-5-2 plano,Nathan Jones,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427597
+34,ter 02/03/2021,16:45,Nott'm Forest,Luton,4-3-1-2,Nathan Jones,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427571
+35,sáb 06/03/2021,12:00,Norwich,Luton,4-4-1-1,Nathan Jones,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427672
+36,sáb 13/03/2021,09:15,Luton,Swansea,3-5-2 plano,Nathan Jones,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427631
+37,ter 16/03/2021,16:00,Luton,Coventry City,3-5-2 plano,Nathan Jones,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427354
+38,sáb 20/03/2021,12:00,Preston NE,Luton,4-3-1-2,Nathan Jones,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427701
+39,sex 02/04/2021,11:00,Derby,Luton,4-3-1-2,Nathan Jones,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427623
+40,seg 05/04/2021,11:00,Luton,Barnsley FC,4-3-1-2,Nathan Jones,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427538
+41,sáb 10/04/2021,11:00,Wycombe Wand.,Luton,4-3-1-2,Nathan Jones,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427832
+42,sáb 17/04/2021,08:30,Luton,Watford,4-3-1-2,Nathan Jones,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427550
+43,qua 21/04/2021,15:45,Luton,Reading,4-2-3-1,Nathan Jones,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427450
+44,dom 25/04/2021,09:00,Bristol City,Luton,4-2-3-1,Nathan Jones,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427567
+45,sáb 01/05/2021,11:00,Luton,Middlesbrough,4-3-1-2,Nathan Jones,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427534
+46,sáb 08/05/2021,08:30,QPR,Luton,4-3-1-2,Nathan Jones,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427754

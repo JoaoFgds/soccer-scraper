@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 08/08/2020,19:00,Avaí,Náutico,4-3-3 defensivo,Gilmar Pozzo,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3392048
+2,ter 11/08/2020,21:30,Náutico,Operário-PR,4-2-3-1,Gilmar Pozzo,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3414463
+3,sáb 15/08/2020,19:00,Náutico,CRB,4-3-3 ofensivo,Dudu Capixaba,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416271
+4,qua 19/08/2020,21:30,Vitória,Náutico,4-2-3-1,Dudu Capixaba,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416284
+5,sáb 22/08/2020,16:30,Náutico,Juventude,4-3-3 ofensivo,Gilson Kleina,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416791
+6,sex 28/08/2020,21:30,Guarani,Náutico,4-2-3-1,Gilson Kleina,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416800
+7,ter 01/09/2020,21:30,Náutico,Figueirense,4-2-3-1,Gilson Kleina,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416814
+8,sáb 05/09/2020,21:00,Brasil Pelotas,Náutico,4-2-3-1,Gilson Kleina,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416825
+9,sáb 12/09/2020,19:00,Náutico,Botafogo-SP,4-2-3-1,Gilson Kleina,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416833
+10,sex 18/09/2020,21:30,Náutico,Chapecoense,4-2-3-1,Gilson Kleina,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418163
+11,ter 17/11/2020,18:00,Sampaio Corrêa,Náutico,4-2-3-1,Gilson Kleina,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418174
+12,ter 29/09/2020,22:30,Cuiabá,Náutico,4-2-3-1,Gilson Kleina,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418185
+13,sáb 03/10/2020,16:00,Náutico,Confiança,4-2-3-1,Gilson Kleina,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418193
+14,ter 06/10/2020,19:15,Paraná,Náutico,4-3-3 ofensivo,Gilson Kleina,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418201
+15,sex 09/10/2020,19:15,América-MG,Náutico,4-2-3-1,Gilson Kleina,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418206
+16,seg 12/10/2020,20:00,Náutico,Ponte Preta,4-2-3-1,Gilson Kleina,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418223
+17,ter 20/10/2020,19:15,Oeste,Náutico,4-2-3-1,Gilson Kleina,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418230
+18,dom 25/10/2020,16:00,Náutico,Cruzeiro,4-2-3-1,Gilson Kleina,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418243
+19,sáb 31/10/2020,21:00,CSA,Náutico,4-2-3-1,Gilson Kleina,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418248
+20,sex 06/11/2020,19:15,Náutico,Avaí,4-2-3-1,Gilson Kleina,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418263
+21,sex 13/11/2020,16:30,Operário-PR,Náutico,4-4-2,Gilson Kleina,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418271
+22,sáb 21/11/2020,19:00,CRB,Náutico,4-2-3-1,Hélio dos Anjos,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418278
+23,qua 25/11/2020,19:00,Náutico,Vitória,4-2-3-1,Hélio dos Anjos,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418293
+24,sáb 28/11/2020,21:00,Juventude,Náutico,4-2-3-1,Hélio dos Anjos,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418302
+25,ter 01/12/2020,19:15,Náutico,Guarani,4-2-3-1,Hélio dos Anjos,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418313
+26,dom 06/12/2020,18:15,Figueirense,Náutico,4-2-3-1,Hélio dos Anjos,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418317
+27,qui 10/12/2020,21:30,Náutico,Brasil Pelotas,4-2-3-1,Hélio dos Anjos,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418353
+28,dom 13/12/2020,18:15,Botafogo-SP,Náutico,4-2-3-1,Hélio dos Anjos,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418340
+29,qua 16/12/2020,19:15,Chapecoense,Náutico,4-2-3-1,Hélio dos Anjos,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418335
+30,sáb 19/12/2020,16:30,Náutico,Sampaio Corrêa,4-2-3-1,Hélio dos Anjos,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418363
+31,ter 22/12/2020,21:30,Náutico,Cuiabá,4-2-3-1,Hélio dos Anjos,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418373
+32,seg 04/01/2021,20:00,Confiança,Náutico,4-2-3-1,Hélio dos Anjos,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419423
+33,sex 08/01/2021,19:15,Náutico,Paraná,4-2-3-1,Gilmar Pozzo,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419432
+34,ter 12/01/2021,19:15,Náutico,América-MG,4-2-3-1,Hélio dos Anjos,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419450
+35,dom 17/01/2021,16:00,Ponte Preta,Náutico,4-2-3-1,Hélio dos Anjos,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419456
+36,qua 20/01/2021,19:15,Náutico,Oeste,4-2-3-1,Hélio dos Anjos,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419486
+37,dom 24/01/2021,16:00,Cruzeiro,Náutico,4-2-3-1,Hélio dos Anjos,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3494475
+38,sex 29/01/2021,21:30,Náutico,CSA,4-2-3-1,Hélio dos Anjos,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419513

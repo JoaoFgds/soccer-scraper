@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 14/08/2021,11:00,Chelsea,Crystal Palace,4-4-2 duplo 6,Patrick Vieira,38965,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583478
+2,sáb 21/08/2021,11:00,Crystal Palace,Brentford,4-3-3 ofensivo,Patrick Vieira,23091,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583522
+3,sáb 28/08/2021,11:00,West Ham,Crystal Palace,4-3-3 ofensivo,Patrick Vieira,59571,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591999
+4,sáb 11/09/2021,08:30,Crystal Palace,Tottenham,4-1-4-1,Patrick Vieira,22740,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592024
+5,sáb 18/09/2021,11:00,Liverpool,Crystal Palace,4-3-3 ofensivo,Patrick Vieira,52985,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591964
+6,seg 27/09/2021,16:00,Crystal Palace,Brighton,4-3-3 ofensivo,Patrick Vieira,22975,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591984
+7,dom 03/10/2021,10:00,Crystal Palace,Leicester,4-1-4-1,Patrick Vieira,22445,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592004
+8,seg 18/10/2021,16:00,Arsenal,Crystal Palace,4-2-3-1,Patrick Vieira,59475,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592011
+9,sáb 23/10/2021,11:00,Crystal Palace,Newcastle,4-3-3 ofensivo,Patrick Vieira,24609,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592045
+10,sáb 30/10/2021,11:00,Man City,Crystal Palace,4-3-3 ofensivo,Patrick Vieira,53014,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591975
+11,sáb 06/11/2021,12:00,Crystal Palace,Wolves,4-4-2 duplo 6,Patrick Vieira,24390,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591955
+12,sáb 20/11/2021,12:00,FC Burnley,Crystal Palace,3-4-2-1,Patrick Vieira,18028,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592032
+13,sáb 27/11/2021,12:00,Crystal Palace,Aston Villa,4-1-4-1,Patrick Vieira,25203,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592096
+14,ter 30/11/2021,17:15,Leeds,Crystal Palace,4-3-3 ofensivo,Patrick Vieira,35558,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592133
+15,dom 05/12/2021,11:00,Man Utd,Crystal Palace,4-1-4-1,Patrick Vieira,73172,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592064
+16,dom 12/12/2021,13:30,Crystal Palace,Everton,4-1-4-1,Patrick Vieira,24066,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592076
+17,qua 15/12/2021,16:30,Crystal Palace,Southampton,4-3-3 ofensivo,Patrick Vieira,22861,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592055
+18,qua 23/02/2022,16:30,Watford,Crystal Palace,4-3-3 ofensivo,Patrick Vieira,20012,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592088
+19,dom 26/12/2021,12:00,Tottenham,Crystal Palace,4-3-3 ofensivo,Patrick Vieira,40539,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592253
+20,ter 28/12/2021,12:00,Crystal Palace,Norwich,4-2-3-1,Patrick Vieira,24433,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592294
+21,sáb 01/01/2022,14:30,Crystal Palace,West Ham,4-3-3 ofensivo,Patrick Vieira,24351,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592304
+22,sex 14/01/2022,17:00,Brighton,Crystal Palace,4-1-4-1,Patrick Vieira,30675,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592112
+23,dom 23/01/2022,11:00,Crystal Palace,Liverpool,4-1-4-1,Patrick Vieira,25002,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592124
+24,qua 09/02/2022,16:45,Norwich,Crystal Palace,4-1-4-1,Patrick Vieira,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592196
+25,sáb 12/02/2022,12:00,Brentford,Crystal Palace,4-3-3 ofensivo,Patrick Vieira,16958,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592153
+26,sáb 19/02/2022,12:00,Crystal Palace,Chelsea,4-2-3-1,Patrick Vieira,25109,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592104
+27,sáb 26/02/2022,12:00,Crystal Palace,FC Burnley,4-1-4-1,Patrick Vieira,24203,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592288
+28,sáb 05/03/2022,12:00,Wolves,Crystal Palace,4-2-3-1,Patrick Vieira,31395,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592150
+29,seg 14/03/2022,17:00,Crystal Palace,Man City,4-3-3 ofensivo,Patrick Vieira,25309,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592201
+30,qua 20/04/2022,15:45,Newcastle,Crystal Palace,4-3-3 ofensivo,Patrick Vieira,51938,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592230
+31,seg 04/04/2022,16:00,Crystal Palace,Arsenal,4-3-3 ofensivo,Patrick Vieira,25149,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592194
+32,dom 10/04/2022,10:00,Leicester,Crystal Palace,4-2-3-1,Patrick Vieira,31896,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592199
+33,qui 19/05/2022,15:45,Everton,Crystal Palace,4-3-3 ofensivo,Patrick Vieira,38448,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592193
+34,seg 25/04/2022,16:00,Crystal Palace,Leeds,4-1-4-1,Patrick Vieira,25357,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592234
+35,sáb 30/04/2022,11:00,Southampton,Crystal Palace,4-1-4-1,Patrick Vieira,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592245
+36,sáb 07/05/2022,11:00,Crystal Palace,Watford,4-1-4-1,Patrick Vieira,24622,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592227
+37,dom 15/05/2022,10:00,Aston Villa,Crystal Palace,3-4-2-1,Patrick Vieira,41136,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592159
+38,dom 22/05/2022,12:00,Crystal Palace,Man Utd,4-2-3-1,Patrick Vieira,25434,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592214

@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 14/08/1993,11:00,Man City,Leeds,?,Peter Reid,32366,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111725
+2,ter 17/08/1993,15:30,Everton,Man City,?,Peter Reid,26036,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111734
+3,sáb 21/08/1993,11:00,Tottenham,Man City,?,Peter Reid,24535,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111744
+4,ter 24/08/1993,15:45,Man City,Blackburn,?,Peter Reid,25185,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111755
+5,sex 27/08/1993,15:45,Man City,Coventry City,?,Tony Book,21537,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111764
+6,qua 01/09/1993,15:45,Swindon Town,Man City,?,Brian Horton,14300,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111780
+7,sáb 11/09/1993,11:00,Man City,QPR,?,Brian Horton,24445,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111790
+8,seg 20/09/1993,16:00,Wimbledon FC,Man City,?,Brian Horton,8481,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111807
+9,sáb 25/09/1993,11:00,Sheff Utd,Man City,?,Brian Horton,20067,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111809
+10,seg 04/10/1993,16:00,Man City,Oldham Athletic,?,Brian Horton,21401,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111829
+11,sáb 16/10/1993,11:00,Arsenal,Man City,?,Brian Horton,29567,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111837
+12,sáb 23/10/1993,12:00,Man City,Liverpool,?,Brian Horton,30403,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111845
+13,seg 01/11/1993,18:00,West Ham,Man City,?,Brian Horton,16605,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111862
+14,dom 07/11/1993,14:00,Man City,Man Utd,5-3-2,Brian Horton,35155,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111872
+15,sáb 20/11/1993,13:00,Norwich,Man City,?,Brian Horton,16626,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111883
+16,dom 21/11/1993,21:00,Chelsea,Man City,?,Brian Horton,10128,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111885
+17,sáb 27/11/1993,13:00,Man City,Sheff Wed,?,Brian Horton,23416,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111899
+18,sáb 04/12/1993,13:00,Leeds,Man City,?,Brian Horton,33821,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111912
+19,qua 08/12/1993,17:45,Man City,Everton,?,Brian Horton,20513,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111922
+20,sáb 11/12/1993,13:00,Man City,Tottenham,?,Brian Horton,21566,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111931
+20,sáb 18/12/1993,13:00,Blackburn,Man City,?,Brian Horton,18741,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111938
+22,ter 28/12/1993,13:00,Man City,Southampton,?,Brian Horton,24712,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111959
+24,sáb 01/01/1994,13:00,Newcastle,Man City,?,Brian Horton,35658,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111973
+25,sáb 15/01/1994,13:00,Man City,Arsenal,?,Brian Horton,25642,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111990
+26,sáb 22/01/1994,13:00,Liverpool,Man City,?,Brian Horton,41872,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111995
+27,sáb 05/02/1994,13:00,Man City,Ipswich,?,Brian Horton,20306,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1112011
+28,sáb 12/02/1994,13:00,Man City,West Ham,?,Brian Horton,29118,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1112020
+28,sáb 19/02/1994,13:00,Coventry City,Man City,?,Brian Horton,11735,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1112027
+29,ter 22/02/1994,16:45,Aston Villa,Man City,?,Brian Horton,19254,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1112031
+29,sáb 26/02/1994,12:00,Man City,Swindon Town,?,Brian Horton,26360,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1112037
+30,sáb 05/03/1994,12:00,QPR,Man City,?,Brian Horton,13474,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1112047
+31,sáb 12/03/1994,12:00,Man City,Wimbledon FC,?,Brian Horton,23981,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1112054
+32,sáb 19/03/1994,12:00,Man City,Sheff Utd,?,Brian Horton,25448,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1112066
+33,sáb 26/03/1994,12:00,Oldham Athletic,Man City,?,Brian Horton,16464,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1112079
+34,ter 29/03/1994,15:45,Ipswich,Man City,?,Brian Horton,13099,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1112089
+36,sáb 02/04/1994,11:00,Man City,Aston Villa,?,Brian Horton,26075,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1112105
+36,seg 04/04/1994,11:00,Southampton,Man City,?,Brian Horton,16377,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1112110
+37,sáb 09/04/1994,11:00,Man City,Newcastle,?,Brian Horton,33774,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1112120
+38,sáb 16/04/1994,11:00,Man City,Norwich,?,Brian Horton,28020,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1112132
+39,sáb 23/04/1994,13:00,Man Utd,Man City,?,Brian Horton,44333,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1112139
+41,sáb 30/04/1994,11:00,Man City,Chelsea,?,Brian Horton,33594,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1112162
+42,sáb 07/05/1994,11:00,Sheff Wed,Man City,?,Brian Horton,33773,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1112171

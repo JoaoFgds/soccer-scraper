@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 23/07/1993,19:00,Lille,FC Martigues,?,Christian Sarramagna,7706,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012066
+2,sex 30/07/1993,19:00,FC Martigues,FC Sochaux,?,Christian Sarramagna,3470,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012071
+3,sáb 07/08/1993,15:00,Montpellier,FC Martigues,?,Christian Sarramagna,8512,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012087
+4,ter 10/08/1993,19:00,FC Martigues,SM Caen,?,Christian Sarramagna,5000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012094
+5,sáb 14/08/1993,15:00,Angers,FC Martigues,?,Christian Sarramagna,5944,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012103
+6,sáb 28/08/1993,15:00,FC Martigues,FC Metz,?,Christian Sarramagna,5000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012115
+7,qua 01/09/1993,15:00,Lyon,FC Martigues,?,Christian Sarramagna,23367,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012125
+8,sáb 11/09/1993,15:00,FC Martigues,Auxerre,?,Christian Sarramagna,8000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012137
+9,sáb 18/09/1993,15:00,Strasbourg,FC Martigues,?,Christian Sarramagna,16072,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012145
+10,qui 23/09/1993,19:00,Lens,FC Martigues,?,Christian Sarramagna,18291,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012157
+11,sex 01/10/1993,20:00,FC Martigues,PSG,?,Christian Sarramagna,9345,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012160
+12,qua 06/10/1993,16:00,Cannes,FC Martigues,?,Christian Sarramagna,4500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012171
+13,sáb 16/10/1993,16:00,FC Martigues,Toulouse,?,Christian Sarramagna,3500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012186
+14,sáb 23/10/1993,17:00,Monaco,FC Martigues,?,Christian Sarramagna,3000,7:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012250
+15,sex 29/10/1993,17:00,FC Martigues,Le Havre,?,Christian Sarramagna,3000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012266
+16,sex 05/11/1993,21:00,Nantes,FC Martigues,?,Christian Sarramagna,11726,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012271
+17,qua 10/11/1993,17:00,FC Martigues,Saint-Étienne,?,Christian Sarramagna,7000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012284
+18,qui 18/11/1993,21:00,Bordeaux,FC Martigues,?,Christian Sarramagna,8000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012287
+19,sáb 27/11/1993,21:00,FC Martigues,Marselha,?,Christian Sarramagna,10000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012306
+20,sex 03/12/1993,17:00,FC Sochaux,FC Martigues,?,Christian Sarramagna,3000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012314
+21,sáb 11/12/1993,17:00,FC Martigues,Montpellier,?,Christian Sarramagna,3500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012324
+22,sex 17/12/1993,21:00,SM Caen,FC Martigues,?,Christian Sarramagna,13493,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012334
+23,sáb 15/01/1994,16:30,FC Martigues,Angers,?,Christian Sarramagna,2500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012346
+24,sáb 29/01/1994,16:30,FC Metz,FC Martigues,?,Christian Sarramagna,5909,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012355
+25,sáb 05/02/1994,16:30,FC Martigues,Lyon,?,Christian Sarramagna,2800,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012362
+26,ter 08/02/1994,21:00,Auxerre,FC Martigues,?,Christian Sarramagna,5000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012370
+27,sáb 19/02/1994,17:00,FC Martigues,Strasbourg,?,Christian Sarramagna,1500,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012392
+28,qui 24/02/1994,20:00,FC Martigues,Lens,?,Christian Sarramagna,3000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012403
+29,dom 06/03/1994,14:30,PSG,FC Martigues,?,Christian Sarramagna,23156,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012415
+30,qui 10/03/1994,20:00,FC Martigues,Cannes,?,Christian Sarramagna,4000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012420
+31,sáb 26/03/1994,16:00,Toulouse,FC Martigues,?,Christian Sarramagna,5300,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012435
+32,sáb 02/04/1994,15:00,FC Martigues,Monaco,?,Christian Sarramagna,4500,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012442
+33,seg 04/04/1994,19:00,Le Havre,FC Martigues,?,Christian Sarramagna,6343,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012463
+34,sex 08/04/1994,19:00,FC Martigues,Nantes,?,Christian Sarramagna,4000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012468
+35,ter 26/04/1994,15:00,Saint-Étienne,FC Martigues,?,Christian Sarramagna,11739,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012481
+36,sex 29/04/1994,19:00,FC Martigues,Bordeaux,?,Christian Sarramagna,4000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012488
+37,sex 06/05/1994,19:00,Marselha,FC Martigues,?,Christian Sarramagna,15000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012496
+38,sáb 21/05/1994,15:00,FC Martigues,Lille,?,Christian Sarramagna,3000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012513

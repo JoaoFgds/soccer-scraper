@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/08/2017,11:00,West Brom,Bournemouth,4-1-4-1,Tony Pulis,25011,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872124
+2,sáb 19/08/2017,11:00,FC Burnley,West Brom,4-1-4-1,Tony Pulis,19619,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872126
+3,dom 27/08/2017,09:30,West Brom,Stoke,4-1-4-1,Tony Pulis,22704,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872144
+4,sáb 09/09/2017,11:00,Brighton,West Brom,4-1-4-1,Tony Pulis,30381,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872146
+5,sáb 16/09/2017,11:00,West Brom,West Ham,4-2-3-1,Tony Pulis,24942,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872164
+6,seg 25/09/2017,16:00,Arsenal,West Brom,3-5-2 plano,Tony Pulis,59134,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872165
+7,sáb 30/09/2017,11:00,West Brom,Watford,4-4-1-1,Tony Pulis,24606,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872183
+8,seg 16/10/2017,17:00,Leicester,West Brom,4-3-3 ofensivo,Tony Pulis,30203,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872188
+9,sáb 21/10/2017,14:30,Southampton,West Brom,4-1-4-1,Tony Pulis,29947,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872200
+10,sáb 28/10/2017,12:00,West Brom,Man City,3-5-2 plano,Tony Pulis,24003,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872214
+11,sáb 04/11/2017,13:00,Huddersfield,West Brom,3-5-2 plano,Tony Pulis,24169,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872217
+12,sáb 18/11/2017,13:00,West Brom,Chelsea,3-5-2 plano,Tony Pulis,23592,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872234
+13,sáb 25/11/2017,13:00,Tottenham,West Brom,4-4-2 duplo 6,Gary Megson,65905,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872243
+14,ter 28/11/2017,18:00,West Brom,Newcastle,3-5-2 plano,Gary Megson,25534,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872250
+15,sáb 02/12/2017,13:00,West Brom,Crystal Palace,4-4-2,Alan Pardew,23531,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872264
+16,sáb 09/12/2017,13:00,Swansea,West Brom,4-4-2 duplo 6,Alan Pardew,19580,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872272
+17,qua 13/12/2017,18:00,Liverpool,West Brom,4-3-3 ofensivo,Alan Pardew,53243,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872281
+18,dom 17/12/2017,12:15,West Brom,Man Utd,4-1-4-1,Alan Pardew,24782,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872294
+19,sáb 23/12/2017,13:00,Stoke,West Brom,4-4-2,Alan Pardew,29057,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872301
+20,ter 26/12/2017,13:00,West Brom,Everton,4-4-2 duplo 6,Alan Pardew,25364,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872314
+21,dom 31/12/2017,14:30,West Brom,Arsenal,3-5-2 plano,Alan Pardew,26233,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872324
+22,ter 02/01/2018,17:45,West Ham,West Brom,4-3-3 ofensivo,Alan Pardew,56888,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872334
+23,sáb 13/01/2018,13:00,West Brom,Brighton,4-4-2 duplo 6,Alan Pardew,25240,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872344
+24,sáb 20/01/2018,13:00,Everton,West Brom,4-4-2 duplo 6,Alan Pardew,39061,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872348
+25,qua 31/01/2018,18:00,Man City,West Brom,4-4-2 duplo 6,Alan Pardew,53241,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872360
+26,sáb 03/02/2018,13:00,West Brom,Southampton,4-4-2 duplo 6,Alan Pardew,25911,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872374
+27,seg 12/02/2018,18:00,Chelsea,West Brom,3-5-2 plano,Alan Pardew,41071,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872375
+28,sáb 24/02/2018,12:00,West Brom,Huddersfield,4-4-2 duplo 6,Alan Pardew,25920,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872394
+29,sáb 03/03/2018,12:00,Watford,West Brom,4-3-3 ofensivo,Alan Pardew,20022,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872404
+30,sáb 10/03/2018,12:00,West Brom,Leicester,4-1-4-1,Alan Pardew,23558,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872413
+31,sáb 17/03/2018,12:00,Bournemouth,West Brom,3-5-2 plano,Alan Pardew,10242,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872415
+32,sáb 31/03/2018,11:00,West Brom,FC Burnley,3-5-2 plano,Alan Pardew,23455,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872434
+33,sáb 07/04/2018,11:00,West Brom,Swansea,4-4-2 duplo 6,Darren Moore,23297,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872444
+34,dom 15/04/2018,12:00,Man Utd,West Brom,4-2-3-1,Darren Moore,75095,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872449
+35,sáb 21/04/2018,08:30,West Brom,Liverpool,4-4-1-1,Darren Moore,24520,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872464
+36,sáb 28/04/2018,11:00,Newcastle,West Brom,4-4-1-1,Darren Moore,52283,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872470
+37,sáb 05/05/2018,11:00,West Brom,Tottenham,4-4-2 duplo 6,Darren Moore,23685,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872484
+38,dom 13/05/2018,11:00,Crystal Palace,West Brom,4-2-3-1,Darren Moore,25357,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872486

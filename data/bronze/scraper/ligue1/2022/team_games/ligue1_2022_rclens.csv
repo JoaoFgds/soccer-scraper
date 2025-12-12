@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 07/08/2022,10:00,Lens,Brest,3-4-2-1,Franck Haise,37015,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839734
+2,dom 14/08/2022,10:00,AC Ajaccio,Lens,3-4-2-1,Franck Haise,9070,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839774
+3,sáb 20/08/2022,12:00,Monaco,Lens,3-4-2-1,Franck Haise,8700,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839816
+4,sáb 27/08/2022,16:00,Lens,Rennes,3-4-2-1,Franck Haise,37848,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839846
+5,qua 31/08/2022,16:00,Lens,FC Lorient,3-4-2-1,Franck Haise,37161,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839869
+6,dom 04/09/2022,10:00,Reims,Lens,3-4-2-1,Franck Haise,15761,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840015
+7,sex 09/09/2022,16:00,Lens,Troyes,3-4-2-1,Franck Haise,37344,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840023
+8,dom 18/09/2022,12:05,Nantes,Lens,3-4-2-1,Franck Haise,28854,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840029
+9,dom 02/10/2022,15:45,Lens,Lyon,3-4-2-1,Franck Haise,36674,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840045
+10,dom 09/10/2022,15:45,Lille,Lens,3-4-2-1,Franck Haise,48527,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840051
+11,sáb 15/10/2022,16:00,Lens,Montpellier,3-4-1-2,Franck Haise,37320,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840064
+12,sáb 22/10/2022,16:00,Marselha,Lens,3-5-2,Franck Haise,56414,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840075
+13,sex 28/10/2022,16:00,Lens,Toulouse,3-5-2,Franck Haise,37488,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840085
+14,sáb 05/11/2022,17:00,Angers,Lens,3-4-2-1,Franck Haise,11585,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840090
+15,sáb 12/11/2022,13:00,Lens,Clermont Foot,3-4-2-1,Franck Haise,37519,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840105
+16,qui 29/12/2022,17:00,Nice,Lens,3-5-2,Franck Haise,24672,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840113
+17,dom 01/01/2023,16:45,Lens,PSG,3-4-2-1,Franck Haise,38047,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840125
+18,qua 11/01/2023,17:00,Strasbourg,Lens,3-4-2-1,Franck Haise,25624,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840136
+19,sáb 14/01/2023,13:00,Lens,Auxerre,3-4-2-1,Franck Haise,38208,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840145
+20,sáb 28/01/2023,13:00,Troyes,Lens,3-4-2-1,Franck Haise,13500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840158
+21,qua 01/02/2023,17:00,Lens,Nice,3-4-2-1,Franck Haise,37437,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840165
+22,dom 05/02/2023,13:05,Brest,Lens,3-4-2-1,Franck Haise,11639,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840176
+23,dom 12/02/2023,16:45,Lyon,Lens,3-4-2-1,Franck Haise,53426,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840186
+24,dom 19/02/2023,13:05,Lens,Nantes,3-5-2 plano,Franck Haise,37984,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840193
+25,sáb 25/02/2023,17:00,Montpellier,Lens,3-4-2-1,Franck Haise,17074,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840206
+26,sáb 04/03/2023,13:00,Lens,Lille,4-2-3-1,Franck Haise,37974,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840213
+27,dom 12/03/2023,09:00,Clermont Foot,Lens,4-2-3-1,Franck Haise,12311,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840223
+28,sáb 18/03/2023,17:00,Lens,Angers,4-3-3 ofensivo,Franck Haise,37410,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840234
+29,sáb 01/04/2023,16:00,Rennes,Lens,3-4-2-1,Franck Haise,28556,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840255
+30,sex 07/04/2023,16:00,Lens,Strasbourg,3-4-2-1,Franck Haise,38223,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840263
+31,sáb 15/04/2023,16:00,PSG,Lens,3-4-2-1,Franck Haise,47000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840271
+32,sáb 22/04/2023,16:00,Lens,Monaco,3-4-2-1,Franck Haise,38223,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840284
+33,ter 02/05/2023,16:00,Toulouse,Lens,3-4-2-1,Franck Haise,30866,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840294
+34,sáb 06/05/2023,16:00,Lens,Marselha,3-4-2-1,Franck Haise,38220,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840412
+35,sex 12/05/2023,16:00,Lens,Reims,3-4-2-1,Franck Haise,37701,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840420
+36,dom 21/05/2023,12:05,FC Lorient,Lens,3-4-2-1,Franck Haise,16724,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840427
+37,sáb 27/05/2023,16:00,Lens,AC Ajaccio,3-4-2-1,Franck Haise,37601,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840441
+38,sáb 03/06/2023,16:00,Auxerre,Lens,3-4-2-1,Franck Haise,17246,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840446

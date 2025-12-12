@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 09/08/2015,09:30,Arsenal,West Ham,4-2-3-1,Arsène Wenger,60006,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2577862
+2,dom 16/08/2015,09:30,Crystal Palace,Arsenal,4-2-3-1,Arsène Wenger,24732,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2577889
+3,seg 24/08/2015,16:00,Arsenal,Liverpool,4-2-3-1,Arsène Wenger,60080,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2577893
+4,sáb 29/08/2015,08:45,Newcastle,Arsenal,4-2-3-1,Arsène Wenger,50388,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2577946
+5,sáb 12/09/2015,11:00,Arsenal,Stoke,4-2-3-1,Arsène Wenger,59963,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2577945
+6,sáb 19/09/2015,08:45,Chelsea,Arsenal,4-2-3-1,Arsène Wenger,41584,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2577960
+7,sáb 26/09/2015,11:00,Leicester,Arsenal,4-2-3-1,Arsène Wenger,32047,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2577971
+8,dom 04/10/2015,12:00,Arsenal,Man Utd,4-2-3-1,Arsène Wenger,60084,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2577974
+9,sáb 17/10/2015,13:30,Watford,Arsenal,4-2-3-1,Arsène Wenger,20721,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2577990
+10,sáb 24/10/2015,14:30,Arsenal,Everton,4-2-3-1,Arsène Wenger,59985,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578002
+11,sáb 31/10/2015,13:00,Swansea,Arsenal,4-2-3-1,Arsène Wenger,20937,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578013
+12,dom 08/11/2015,14:00,Arsenal,Tottenham,4-2-3-1,Arsène Wenger,60060,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578018
+13,sáb 21/11/2015,13:00,West Brom,Arsenal,4-2-3-1,Arsène Wenger,24343,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578040
+14,dom 29/11/2015,14:15,Norwich,Arsenal,4-2-3-1,Arsène Wenger,27091,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578039
+15,sáb 05/12/2015,13:00,Arsenal,AFC Sunderland,4-2-3-1,Arsène Wenger,59937,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578051
+16,dom 13/12/2015,11:30,Aston Villa,Arsenal,4-2-3-1,Arsène Wenger,33285,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578062
+17,seg 21/12/2015,18:00,Arsenal,Man City,4-2-3-1,Arsène Wenger,60053,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578064
+18,sáb 26/12/2015,17:45,Southampton,Arsenal,4-2-3-1,Arsène Wenger,31669,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578083
+19,seg 28/12/2015,15:30,Arsenal,Bournemouth,4-2-3-1,Arsène Wenger,59983,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578225
+20,sáb 02/01/2016,13:00,Arsenal,Newcastle,4-2-3-1,Arsène Wenger,59257,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578266
+21,qua 13/01/2016,18:00,Liverpool,Arsenal,4-2-3-1,Arsène Wenger,44109,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578104
+22,dom 17/01/2016,14:15,Stoke,Arsenal,4-2-3-1,Arsène Wenger,27683,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578103
+23,dom 24/01/2016,14:00,Arsenal,Chelsea,4-2-3-1,Arsène Wenger,60072,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578111
+24,ter 02/02/2016,17:45,Arsenal,Southampton,4-2-3-1,Arsène Wenger,60044,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578116
+25,dom 07/02/2016,11:30,Bournemouth,Arsenal,4-2-3-1,Arsène Wenger,11357,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578124
+26,dom 14/02/2016,10:00,Arsenal,Leicester,4-2-3-1,Arsène Wenger,60009,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578144
+27,dom 28/02/2016,11:05,Man Utd,Arsenal,4-2-3-1,Arsène Wenger,75329,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578164
+28,qua 02/03/2016,16:45,Arsenal,Swansea,4-2-3-1,Arsène Wenger,59905,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578155
+29,sáb 05/03/2016,09:45,Tottenham,Arsenal,4-2-3-1,Arsène Wenger,35762,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578174
+30,qui 21/04/2016,15:45,Arsenal,West Brom,4-2-3-1,Arsène Wenger,59568,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578182
+31,sáb 19/03/2016,09:45,Everton,Arsenal,4-2-3-1,Arsène Wenger,39270,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578185
+32,sáb 02/04/2016,11:00,Arsenal,Watford,4-2-3-1,Arsène Wenger,59981,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578197
+33,sáb 09/04/2016,08:45,West Ham,Arsenal,4-2-3-1,Arsène Wenger,34977,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578216
+34,dom 17/04/2016,12:00,Arsenal,Crystal Palace,4-2-3-1,Arsène Wenger,59961,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578279
+35,dom 24/04/2016,10:05,AFC Sunderland,Arsenal,4-2-3-1,Arsène Wenger,45420,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578242
+36,sáb 30/04/2016,13:30,Arsenal,Norwich,4-2-3-1,Arsène Wenger,59989,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578256
+37,dom 08/05/2016,12:00,Man City,Arsenal,4-2-3-1,Arsène Wenger,54425,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578287
+38,dom 15/05/2016,11:00,Arsenal,Aston Villa,4-2-3-1,Arsène Wenger,60007,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578255

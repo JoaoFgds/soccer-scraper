@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 01/08/2008,15:00,Angers,Reims,?,Didier Tholot,7059,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913120
+2,sex 08/08/2008,15:00,Reims,AC Ajaccio,?,Didier Tholot,7567,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913133
+3,sex 15/08/2008,15:00,Guingamp,Reims,?,Didier Tholot,6873,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913137
+4,sex 22/08/2008,15:30,Reims,Montpellier,?,Didier Tholot,7483,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913148
+5,sex 29/08/2008,15:00,Amiens SC,Reims,?,Didier Tholot,8434,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913150
+6,sex 12/09/2008,15:00,Reims,US Boulogne,?,Didier Tholot,6118,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913164
+7,sex 19/09/2008,15:30,FC Metz,Reims,?,Didier Tholot,8121,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913170
+8,sex 26/09/2008,15:00,SC Bastia,Reims,?,Didier Tholot,2877,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913174
+9,sex 03/10/2008,15:00,Reims,Dijon,?,Didier Tholot,7212,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913188
+10,sex 10/10/2008,15:00,CS Sedan,Reims,?,Didier Tholot,11436,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913196
+11,sex 17/10/2008,15:00,Reims,Brest,?,Didier Tholot,15293,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913198
+12,sex 24/10/2008,16:00,Vannes,Reims,?,Didier Tholot,2684,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913481
+13,sex 31/10/2008,18:00,Reims,LB Châteauroux,?,Didier Tholot,7189,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913219
+14,sex 07/11/2008,18:00,Nîmes Olympique,Reims,?,Didier Tholot,8049,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913486
+15,sex 14/11/2008,17:00,Reims,Clermont Foot,?,Didier Tholot,8850,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913228
+16,sex 28/11/2008,17:00,Troyes,Reims,?,Didier Tholot,7852,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913245
+17,sex 05/12/2008,17:30,Reims,Lens,?,Didier Tholot,19995,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913252
+18,sex 19/12/2008,17:00,Tours FC,Reims,?,Didier Tholot,3945,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913260
+19,qui 22/01/2009,17:30,Reims,Strasbourg,?,Luis Fernandez,9692,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913269
+20,sex 16/01/2009,17:00,AC Ajaccio,Reims,?,Luis Fernandez,2109,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913271
+21,sex 30/01/2009,17:30,Reims,Guingamp,?,Luis Fernandez,11570,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913285
+22,seg 09/02/2009,17:30,Montpellier,Reims,?,Luis Fernandez,8534,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913292
+23,sex 13/02/2009,17:00,Reims,Amiens SC,?,Luis Fernandez,13136,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913301
+24,sex 20/02/2009,16:30,US Boulogne,Reims,?,Luis Fernandez,5326,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913305
+25,sex 27/02/2009,16:30,Reims,FC Metz,?,Luis Fernandez,12774,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913317
+26,sex 06/03/2009,16:00,Reims,SC Bastia,?,Luis Fernandez,10787,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913324
+27,sex 13/03/2009,16:00,Dijon,Reims,?,Luis Fernandez,3078,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913331
+28,sex 20/03/2009,16:30,Reims,CS Sedan,?,Luis Fernandez,18480,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913340
+29,sex 27/03/2009,16:00,Brest,Reims,?,Luis Fernandez,8414,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913345
+30,sex 03/04/2009,15:30,Reims,Vannes,?,Luis Fernandez,10329,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913516
+31,sex 10/04/2009,15:00,LB Châteauroux,Reims,?,Luis Fernandez,8278,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913362
+32,sex 17/04/2009,15:30,Reims,Nîmes Olympique,?,Luis Fernandez,12302,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913520
+33,sex 24/04/2009,15:00,Clermont Foot,Reims,?,Luis Fernandez,8034,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913378
+34,sex 01/05/2009,15:00,Reims,Troyes,?,Luis Fernandez,16874,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913389
+35,seg 11/05/2009,15:30,Lens,Reims,?,Luis Fernandez,35312,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913395
+36,sex 15/05/2009,15:30,Reims,Tours FC,?,Luis Fernandez,13418,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913406
+37,sex 22/05/2009,15:30,Strasbourg,Reims,?,Luis Fernandez,20593,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913413
+38,sex 29/05/2009,15:45,Reims,Angers,?,Luis Fernandez,10025,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913422

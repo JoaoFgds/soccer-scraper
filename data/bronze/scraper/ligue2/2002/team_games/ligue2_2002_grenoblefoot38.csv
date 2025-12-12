@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 03/08/2002,15:00,Grenoble,Saint-Étienne,?,Alain Michel,10017,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005773
+2,sáb 10/08/2002,15:00,Wasquehal,Grenoble,?,Alain Michel,1264,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005786
+3,sáb 17/08/2002,15:00,Grenoble,Chamois Niort,?,Alain Michel,4649,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005793
+4,sáb 24/08/2002,15:00,US Créteil-L,Grenoble,?,Alain Michel,1358,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005800
+5,sex 30/08/2002,15:00,Grenoble,AS Beauvais,?,Alain Michel,5171,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005809
+6,qua 04/09/2002,15:00,ASOA Valence,Grenoble,?,Alain Michel,6264,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005825
+7,qua 11/09/2002,15:30,Grenoble,SM Caen,?,Alain Michel,4107,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005832
+8,sáb 14/09/2002,15:00,AS Nancy,Grenoble,?,Alain Michel,4114,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005841
+9,sáb 21/09/2002,15:00,Grenoble,LB Châteauroux,?,Alain Michel,4130,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005852
+10,sáb 28/09/2002,15:00,Stade Lavallois,Grenoble,?,Alain Michel,3434,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005902
+11,sáb 05/10/2002,15:00,Grenoble,Clermont FA,?,Alain Michel,4377,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005920
+12,sáb 19/10/2002,15:00,Grenoble,Amiens SC,?,Alain Michel,4186,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005934
+13,sáb 26/10/2002,15:00,FC Gueugnon,Grenoble,?,Alain Michel,2792,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005939
+14,sáb 02/11/2002,16:00,Grenoble,FC Istres,?,Alain Michel,3846,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005954
+15,sáb 09/11/2002,17:00,Reims,Grenoble,?,Alain Michel,5573,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005964
+16,sáb 16/11/2002,17:00,Grenoble,Toulouse,?,Alain Michel,5247,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005973
+17,sáb 30/11/2002,17:00,FC Lorient,Grenoble,?,Alain Michel,6481,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005981
+18,qua 04/12/2002,17:30,Grenoble,FC Metz,?,Alain Michel,6749,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005991
+19,qua 18/12/2002,17:00,Le Mans UC 72,Grenoble,?,Alain Michel,4455,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005998
+20,sáb 11/01/2003,17:00,Grenoble,Wasquehal,?,Alain Michel,3651,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006008
+21,qua 15/01/2003,17:30,Chamois Niort,Grenoble,?,Alain Michel,2786,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006020
+22,qua 22/01/2003,17:30,Grenoble,US Créteil-L,?,Alain Michel,3900,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006032
+23,qua 29/01/2003,17:30,AS Beauvais,Grenoble,?,Alain Michel,2645,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006041
+24,sáb 01/02/2003,17:00,Grenoble,ASOA Valence,?,Alain Michel,5237,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006049
+25,qua 05/02/2003,17:30,SM Caen,Grenoble,?,Alain Michel,8356,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006061
+26,sáb 08/02/2003,17:00,Grenoble,AS Nancy,?,Alain Michel,4481,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006071
+27,sáb 22/02/2003,16:00,LB Châteauroux,Grenoble,?,Alain Michel,6120,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006080
+28,sex 28/02/2003,16:00,Grenoble,Stade Lavallois,?,Alain Michel,9390,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006088
+29,sáb 08/03/2003,16:00,Clermont FA,Grenoble,?,Alain Michel,6217,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006102
+30,sáb 22/03/2003,16:00,Amiens SC,Grenoble,?,Alain Michel,6861,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006109
+31,sex 28/03/2003,16:00,Grenoble,FC Gueugnon,?,Alain Michel,4058,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006123
+32,sáb 05/04/2003,15:00,FC Istres,Grenoble,?,Alain Michel,1842,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006132
+33,sáb 12/04/2003,15:00,Grenoble,Reims,?,Alain Michel,4974,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006145
+34,sex 18/04/2003,15:00,Toulouse,Grenoble,?,Alain Michel,10003,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006148
+35,sex 02/05/2003,15:00,Grenoble,FC Lorient,?,Alain Michel,4494,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006158
+36,sex 09/05/2003,15:00,FC Metz,Grenoble,?,Alain Michel,18371,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006168
+37,sex 16/05/2003,15:00,Grenoble,Le Mans UC 72,?,Alain Michel,4867,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006182
+38,sex 23/05/2003,15:30,Saint-Étienne,Grenoble,?,Alain Michel,17218,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006327

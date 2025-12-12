@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 12/08/2001,17:00,Vit. Guimarães,Gil Vicente,4-3-3 ofensivo,Augusto Inácio,8017,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854037
+2,seg 20/08/2001,16:30,Farense,Vit. Guimarães,3-5-2,Augusto Inácio,6000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854236
+3,seg 27/08/2001,17:00,Salgueiros,Vit. Guimarães,4-3-1-2,Augusto Inácio,1500,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854254
+4,dom 09/09/2001,19:00,Vit. Guimarães,Braga,?,Augusto Inácio,9612,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854263
+5,sáb 15/09/2001,19:00,Santa Clara,Vit. Guimarães,4-4-2 losango,Augusto Inácio,11000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854269
+6,sáb 22/09/2001,19:00,Vit. Guimarães,Paços Ferreira,?,Augusto Inácio,8800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854281
+7,dom 30/09/2001,19:00,Sporting,Vit. Guimarães,3-4-3 plano,Augusto Inácio,14465,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854289
+8,qui 11/10/2001,19:00,Vit. Guimarães,Boavista,?,Augusto Inácio,9161,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854291
+9,qui 18/10/2001,20:00,Marítimo,Vit. Guimarães,?,Augusto Inácio,3500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854300
+10,sex 26/10/2001,20:00,Vit. Guimarães,Varzim,?,Augusto Inácio,8485,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854313
+11,sáb 03/11/2001,17:30,Benfica,Vit. Guimarães,4-2-3-1,Augusto Inácio,45000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854319
+12,qui 22/11/2001,21:00,Vit. Guimarães,Vitória FC,?,Augusto Inácio,7620,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854327
+13,sáb 01/12/2001,21:00,Beira-Mar,Vit. Guimarães,4-2-3-1,Augusto Inácio,5000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854340
+14,sáb 08/12/2001,16:30,Vit. Guimarães,FC Porto,4-3-3 ofensivo,Augusto Inácio,11324,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854348
+15,sex 14/12/2001,21:00,Belenenses,Vit. Guimarães,?,Augusto Inácio,3000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854356
+16,sex 21/12/2001,21:00,Vit. Guimarães,Alverca,?,Augusto Inácio,4000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854370
+17,sáb 05/01/2002,17:00,Leiria,Vit. Guimarães,4-2-3-1,Augusto Inácio,2000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854378
+18,qui 10/01/2002,21:00,Gil Vicente,Vit. Guimarães,?,Augusto Inácio,1500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854381
+19,sex 18/01/2002,19:00,Vit. Guimarães,Farense,4-2-3-1,Augusto Inácio,6330,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854390
+20,sex 25/01/2002,21:00,Vit. Guimarães,Salgueiros,?,Augusto Inácio,7914,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854414
+21,sex 01/02/2002,21:00,Braga,Vit. Guimarães,?,Augusto Inácio,7500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854422
+22,qui 07/02/2002,21:00,Vit. Guimarães,Santa Clara,?,Augusto Inácio,6800,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854430
+23,sáb 16/02/2002,20:00,Paços Ferreira,Vit. Guimarães,?,Augusto Inácio,5500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854442
+24,sex 22/02/2002,18:00,Vit. Guimarães,Sporting,4-3-3 ofensivo,Augusto Inácio,11346,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854448
+25,sáb 02/03/2002,20:00,Boavista,Vit. Guimarães,?,Augusto Inácio,4500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854459
+26,seg 11/03/2002,17:30,Vit. Guimarães,Marítimo,4-2-3-1,Augusto Inácio,6500,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854474
+27,sex 15/03/2002,20:00,Varzim,Vit. Guimarães,?,Augusto Inácio,4000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854481
+28,sex 22/03/2002,20:00,Vit. Guimarães,Benfica,?,Augusto Inácio,13680,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854486
+29,sex 29/03/2002,20:00,Vitória FC,Vit. Guimarães,?,Augusto Inácio,3500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854500
+30,sáb 06/04/2002,19:00,Vit. Guimarães,Beira-Mar,?,Augusto Inácio,7069,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854509
+31,sex 12/04/2002,19:00,FC Porto,Vit. Guimarães,?,Augusto Inácio,18864,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854512
+32,qui 18/04/2002,19:00,Vit. Guimarães,Belenenses,?,Augusto Inácio,6300,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854520
+33,seg 29/04/2002,16:30,Alverca,Vit. Guimarães,3-4-3 plano,Augusto Inácio,500,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854537
+34,dom 05/05/2002,12:00,Vit. Guimarães,Leiria,4-2-3-1,Augusto Inácio,5000,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854542

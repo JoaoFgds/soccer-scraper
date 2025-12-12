@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 11/08/2024,11:30,Estoril,Santa Clara,3-4-3 plano,Vasco Matos,1968,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396643
+2,sex 16/08/2024,13:00,Santa Clara,FC Porto,3-4-3 plano,Vasco Matos,7022,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396783
+3,sáb 24/08/2024,11:30,Casa Pia,Santa Clara,3-4-3 plano,Vasco Matos,1188,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396762
+4,sáb 31/08/2024,11:30,Santa Clara,AVS,3-4-3 plano,Vasco Matos,1935,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396708
+5,sáb 14/09/2024,16:30,Benfica,Santa Clara,3-4-3 plano,Vasco Matos,60145,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396658
+6,sáb 21/09/2024,11:30,Santa Clara,Estrela Amadora,3-4-3 plano,Vasco Matos,2123,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396774
+7,dom 29/09/2024,16:30,Santa Clara,Boavista,3-4-3 plano,Vasco Matos,1320,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396753
+8,sáb 05/10/2024,11:30,Moreirense,Santa Clara,3-4-3 plano,Vasco Matos,1798,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396672
+9,sex 25/10/2024,16:45,Santa Clara,Gil Vicente,3-4-3 plano,Vasco Matos,1676,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396661
+10,seg 04/11/2024,17:15,Nacional,Santa Clara,3-4-3 plano,Vasco Matos,1425,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396736
+11,dom 10/11/2024,13:30,Santa Clara,Vit. Guimarães,3-4-3 plano,Vasco Matos,2512,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396687
+12,sáb 30/11/2024,17:30,Sporting,Santa Clara,3-5-2 plano,Vasco Matos,41681,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396681
+13,sáb 07/12/2024,15:00,Santa Clara,Rio Ave,3-4-3 plano,Leandro Pires,1564,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396724
+14,dom 15/12/2024,12:30,Arouca,Santa Clara,3-4-3 plano,Vasco Matos,1307,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396819
+15,dom 22/12/2024,14:00,Santa Clara,Braga,3-4-3 plano,Vasco Matos,4041,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396832
+16,seg 30/12/2024,17:15,Famalicão,Santa Clara,3-4-3 plano,Vasco Matos,3818,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396807
+17,dom 05/01/2025,12:30,Santa Clara,Farense,3-4-3 plano,Vasco Matos,2291,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396886
+18,sáb 18/01/2025,12:30,Santa Clara,Estoril,3-4-3 plano,Vasco Matos,1724,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396824
+19,dom 26/01/2025,15:00,FC Porto,Santa Clara,3-4-2-1,Vasco Matos,27793,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396790
+20,sáb 01/02/2025,12:30,Santa Clara,Casa Pia,3-4-2-1,Vasco Matos,2019,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396698
+21,sáb 08/02/2025,12:30,AVS,Santa Clara,3-4-3 plano,Vasco Matos,1135,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396862
+22,sáb 15/02/2025,15:00,Santa Clara,Benfica,5-4-1 plano,Vasco Matos,9933,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396719
+23,dom 23/02/2025,12:30,Estrela Amadora,Santa Clara,3-4-3 plano,Vasco Matos,3481,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396909
+24,dom 02/03/2025,12:30,Boavista,Santa Clara,3-4-3 plano,Vasco Matos,5864,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396898
+25,dom 09/03/2025,12:30,Santa Clara,Moreirense,3-4-3 plano,Vasco Matos,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396744
+26,sáb 15/03/2025,12:30,Gil Vicente,Santa Clara,3-4-3 plano,Vasco Matos,4248,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396842
+27,dom 30/03/2025,11:30,Santa Clara,Nacional,3-4-3 plano,Vasco Matos,2038,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396797
+28,sáb 05/04/2025,16:30,Vit. Guimarães,Santa Clara,3-4-3 plano,Vasco Matos,15143,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396852
+29,sáb 12/04/2025,14:00,Santa Clara,Sporting,3-4-3 plano,Vasco Matos,8914,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396923
+30,sex 18/04/2025,11:30,Rio Ave,Santa Clara,3-4-3 plano,Vasco Matos,921,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396916
+31,sáb 26/04/2025,11:30,Santa Clara,Arouca,3-4-3 plano,Vasco Matos,1534,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396883
+32,sáb 03/05/2025,14:00,Braga,Santa Clara,3-4-3 plano,Vasco Matos,14901,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396871
+33,sáb 10/05/2025,11:30,Santa Clara,Famalicão,3-4-3 plano,Vasco Matos,1618,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396941
+34,sáb 17/05/2025,14:00,Farense,Santa Clara,4-3-3 ofensivo,Vasco Matos,5954,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396930

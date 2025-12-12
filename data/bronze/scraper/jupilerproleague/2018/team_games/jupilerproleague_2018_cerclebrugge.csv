@@ -1,0 +1,31 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 28/07/2018,15:00,St.Truiden,Cercle Brügge,4-3-1-2,Laurent Guyot,5346,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059300
+2,sáb 04/08/2018,15:00,Cercle Brügge,KSC Lokeren,4-3-1-2,Laurent Guyot,5600,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059307
+3,sáb 11/08/2018,13:00,Standard Liège,Cercle Brügge,4-5-1 plano,Laurent Guyot,23426,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3084088
+4,sáb 18/08/2018,15:00,Cercle Brügge,Zulte Waregem,4-3-1-2,Laurent Guyot,7030,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3084098
+5,sáb 25/08/2018,15:00,Antuérpia,Cercle Brügge,4-3-1-2,Laurent Guyot,10489,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3084107
+6,dom 02/09/2018,13:00,Cercle Brügge,KAA Gent,4-3-1-2,Laurent Guyot,6978,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3084118
+7,sáb 15/09/2018,15:00,KV Oostende,Cercle Brügge,4-3-3 ofensivo,Laurent Guyot,5445,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3099215
+8,dom 23/09/2018,15:00,Cercle Brügge,KRC Genk,4-5-1 plano,Laurent Guyot,5000,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3099228
+9,sáb 29/09/2018,15:30,Club Brugge,Cercle Brügge,4-3-3 ofensivo,Laurent Guyot,24679,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3099233
+10,sex 05/10/2018,15:30,Cercle Brügge,R Charleroi SC,4-3-3 ofensivo,Laurent Guyot,4796,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3099237
+11,dom 21/10/2018,09:30,Anderlecht,Cercle Brügge,4-3-3 ofensivo,Laurent Guyot,19000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3099250
+12,sáb 27/10/2018,15:00,Cercle Brügge,KV Kortrijk,4-2-3-1,Laurent Guyot,5800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3099255
+13,qua 31/10/2018,16:30,KAS Eupen,Cercle Brügge,4-3-3 ofensivo,Laurent Guyot,2329,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3099265
+14,sáb 03/11/2018,16:00,Cercle Brügge,Mouscron,4-3-3 ofensivo,Laurent Guyot,5500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3099271
+15,sáb 10/11/2018,17:30,Cercle Brügge,Waasland-Beveren,4-2-3-1,Laurent Guyot,5983,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3117061
+16,sáb 24/11/2018,17:30,KRC Genk,Cercle Brügge,5-4-1 plano,Laurent Guyot,18232,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3117069
+17,sáb 01/12/2018,15:00,R Charleroi SC,Cercle Brügge,4-4-2 duplo 6,Laurent Guyot,11625,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3117074
+18,dom 09/12/2018,11:30,Cercle Brügge,Antuérpia,4-3-3 defensivo,Laurent Guyot,6671,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3117086
+19,dom 16/12/2018,11:30,Cercle Brügge,Anderlecht,5-4-1 plano,Laurent Guyot,8645,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3117174
+20,sex 21/12/2018,17:30,KAA Gent,Cercle Brügge,5-4-1 plano,Laurent Guyot,18500,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3117177
+21,qua 26/12/2018,11:30,Cercle Brügge,KAS Eupen,4-3-3 defensivo,Laurent Guyot,6251,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3136364
+22,sáb 19/01/2019,17:00,Waasland-Beveren,Cercle Brügge,5-4-1 plano,Laurent Guyot,4005,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3136373
+23,sáb 26/01/2019,17:00,Cercle Brügge,St.Truiden,5-4-1 plano,Laurent Guyot,4991,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3139962
+24,sáb 02/02/2019,17:00,Zulte Waregem,Cercle Brügge,5-4-1 plano,Laurent Guyot,8912,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3139974
+25,dom 10/02/2019,11:30,Cercle Brügge,Club Brugge,5-4-1 plano,Laurent Guyot,13222,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3139984
+26,dom 17/02/2019,16:00,Mouscron,Cercle Brügge,3-5-2 plano,Laurent Guyot,5122,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3139997
+27,sáb 23/02/2019,16:00,Cercle Brügge,KV Oostende,3-4-3 plano,Laurent Guyot,6493,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3140009
+28,sáb 02/03/2019,16:00,KV Kortrijk,Cercle Brügge,4-3-3 ofensivo,Laurent Guyot,6542,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3140017
+29,dom 10/03/2019,14:00,Cercle Brügge,Standard Liège,4-3-3 ofensivo,Laurent Guyot,5845,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3140028
+30,dom 17/03/2019,14:00,KSC Lokeren,Cercle Brügge,3-5-2,Laurent Guyot,6422,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3140036

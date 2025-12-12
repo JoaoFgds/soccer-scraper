@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 03/08/2003,12:30,M'gladbach,Colônia,4-3-3 ofensivo,Ewald Lienen,34500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/392
+2,sáb 09/08/2003,10:30,Werder Bremen,M'gladbach,3-5-2 ofensivo,Ewald Lienen,30100,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/561
+3,sáb 16/08/2003,10:30,M'gladbach,Stuttgart,4-3-3 defensivo,Ewald Lienen,30700,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/774
+4,sáb 23/08/2003,10:30,Freiburg,M'gladbach,4-3-3 ofensivo,Ewald Lienen,24000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/970
+5,dom 14/09/2003,12:30,M'gladbach,Frankfurt,4-3-3 defensivo,Ewald Lienen,33900,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1261
+6,sáb 20/09/2003,10:30,Hannover,M'gladbach,3-4-3,Ewald Lienen,22417,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1429
+7,sáb 27/09/2003,10:30,M'gladbach,Bochum,3-5-2,Holger Fach,29000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1634
+8,sáb 04/10/2003,10:30,Hamburgo,M'gladbach,4-4-2 losango,Holger Fach,51325,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1832
+9,sáb 18/10/2003,10:30,M'gladbach,Bayern,4-4-2 losango,Holger Fach,34500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2045
+10,dom 26/10/2003,14:30,Leverkusen,M'gladbach,4-4-2 losango,Holger Fach,22500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2272
+11,sáb 01/11/2003,12:30,M'gladbach,Hansa Rostock,4-4-2 losango,Holger Fach,30100,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2444
+12,sáb 08/11/2003,12:30,Hertha Berlim,M'gladbach,4-4-2 losango,Holger Fach,32983,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2646
+13,sáb 22/11/2003,12:30,Wolfsburg,M'gladbach,4-4-2 duplo 6,Holger Fach,22137,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2843
+14,sáb 29/11/2003,12:30,M'gladbach,K'lautern,4-4-2 losango,Holger Fach,30850,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3042
+15,dom 07/12/2003,14:30,Schalke,M'gladbach,4-4-2 losango,Holger Fach,61266,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3274
+16,dom 14/12/2003,14:30,M'gladbach,Dortmund,4-4-2 losango,Holger Fach,34500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3467
+17,qua 17/12/2003,17:00,1860 Munique,M'gladbach,4-4-2 losango,Holger Fach,15100,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3644
+18,sáb 31/01/2004,12:30,Colônia,M'gladbach,4-1-3-2,Holger Fach,50997,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3868
+19,sáb 07/02/2004,12:30,M'gladbach,Werder Bremen,4-4-2 losango,Holger Fach,28650,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4046
+20,sáb 14/02/2004,12:30,Stuttgart,M'gladbach,5-3-2,Holger Fach,33500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4238
+21,sáb 21/02/2004,11:30,M'gladbach,Freiburg,4-4-2 losango,Holger Fach,28400,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4440
+22,sáb 28/02/2004,11:30,Frankfurt,M'gladbach,4-4-2 losango,Holger Fach,32200,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4603
+23,sáb 06/03/2004,11:30,M'gladbach,Hannover,3-5-2 ofensivo,Holger Fach,29300,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4808
+24,dom 14/03/2004,13:30,Bochum,M'gladbach,4-4-2 losango,Holger Fach,32645,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5039
+25,sáb 20/03/2004,11:30,M'gladbach,Hamburgo,3-5-2 ofensivo,Holger Fach,33000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5226
+26,sáb 27/03/2004,11:30,Bayern,M'gladbach,3-5-2 ofensivo,Holger Fach,56000,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5416
+27,sáb 03/04/2004,10:30,M'gladbach,Leverkusen,4-4-2 losango,Holger Fach,34200,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5633
+28,sáb 10/04/2004,10:30,Hansa Rostock,M'gladbach,4-4-2 losango,Holger Fach,25800,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5858
+29,sáb 17/04/2004,10:30,M'gladbach,Hertha Berlim,4-4-2 duplo 6,Holger Fach,34500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6034
+30,sáb 24/04/2004,10:30,M'gladbach,Wolfsburg,4-4-2 losango,Holger Fach,33600,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6240
+31,sáb 01/05/2004,10:30,K'lautern,M'gladbach,3-5-2 ofensivo,Holger Fach,47018,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6451
+32,sáb 08/05/2004,10:30,M'gladbach,Schalke,3-5-2 ofensivo,Holger Fach,34500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6666
+33,sáb 15/05/2004,10:30,Dortmund,M'gladbach,3-5-2 ofensivo,Holger Fach,82500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6857
+34,sáb 22/05/2004,10:30,M'gladbach,1860 Munique,4-4-2 losango,Holger Fach,34500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7078

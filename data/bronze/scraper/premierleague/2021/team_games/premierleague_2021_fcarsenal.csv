@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 13/08/2021,16:00,Brentford,Arsenal,4-2-3-1,Mikel Arteta,16479,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583476
+2,dom 22/08/2021,12:30,Arsenal,Chelsea,4-2-3-1,Mikel Arteta,58729,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583519
+3,sáb 28/08/2021,08:30,Man City,Arsenal,5-4-1 plano,Mikel Arteta,52276,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591995
+4,sáb 11/09/2021,11:00,Arsenal,Norwich,4-2-3-1,Mikel Arteta,60000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592021
+5,sáb 18/09/2021,11:00,FC Burnley,Arsenal,4-1-4-1,Mikel Arteta,21944,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591963
+6,dom 26/09/2021,12:30,Arsenal,Tottenham,4-2-3-1,Mikel Arteta,59919,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591981
+7,sáb 02/10/2021,13:30,Brighton,Arsenal,4-2-3-1,Mikel Arteta,31266,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592001
+8,seg 18/10/2021,16:00,Arsenal,Crystal Palace,4-1-4-1,Mikel Arteta,59475,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592011
+9,sex 22/10/2021,16:00,Arsenal,Aston Villa,4-4-2 duplo 6,Mikel Arteta,59496,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592041
+10,sáb 30/10/2021,08:30,Leicester,Arsenal,4-4-2 duplo 6,Mikel Arteta,32209,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591973
+11,dom 07/11/2021,11:00,Arsenal,Watford,4-4-2 duplo 6,Mikel Arteta,59833,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591951
+12,sáb 20/11/2021,14:30,Liverpool,Arsenal,4-4-2 duplo 6,Mikel Arteta,53092,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592034
+13,sáb 27/11/2021,09:30,Arsenal,Newcastle,4-2-3-1,Mikel Arteta,59886,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592091
+14,qui 02/12/2021,17:15,Man Utd,Arsenal,4-2-3-1,Mikel Arteta,73123,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592134
+15,seg 06/12/2021,17:00,Everton,Arsenal,4-2-3-1,Mikel Arteta,38906,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592062
+16,sáb 11/12/2021,12:00,Arsenal,Southampton,4-2-3-1,Mikel Arteta,59653,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592071
+17,qua 15/12/2021,17:00,Arsenal,West Ham,4-2-3-1,Mikel Arteta,59777,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592051
+18,sáb 18/12/2021,14:30,Leeds,Arsenal,4-2-3-1,Mikel Arteta,36166,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592083
+19,dom 26/12/2021,12:00,Norwich,Arsenal,4-2-3-1,Mikel Arteta,26940,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592233
+20,qui 24/02/2022,16:45,Arsenal,Wolves,4-3-3 ofensivo,Mikel Arteta,59888,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592158
+21,sáb 01/01/2022,09:30,Arsenal,Man City,4-2-3-1,Albert Stuivenberg,59757,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592301
+22,qui 12/05/2022,15:45,Tottenham,Arsenal,4-3-3 ofensivo,Mikel Arteta,62027,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592118
+23,dom 23/01/2022,11:00,Arsenal,FC Burnley,4-1-4-1,Mikel Arteta,59255,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592121
+24,qui 10/02/2022,16:45,Wolves,Arsenal,4-2-3-1,Mikel Arteta,31523,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592228
+25,qua 20/04/2022,15:45,Chelsea,Arsenal,4-2-3-1,Mikel Arteta,32249,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592175
+26,sáb 19/02/2022,12:00,Arsenal,Brentford,4-1-4-1,Mikel Arteta,60015,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592101
+27,qua 16/03/2022,17:15,Arsenal,Liverpool,4-2-3-1,Mikel Arteta,59968,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592284
+28,dom 06/03/2022,11:00,Watford,Arsenal,4-2-3-1,Mikel Arteta,21142,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592149
+29,dom 13/03/2022,13:30,Arsenal,Leicester,4-2-3-1,Mikel Arteta,60111,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592155
+30,sáb 19/03/2022,09:30,Aston Villa,Arsenal,4-3-3 ofensivo,Mikel Arteta,41956,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592157
+31,seg 04/04/2022,16:00,Crystal Palace,Arsenal,4-2-3-1,Mikel Arteta,25149,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592194
+32,sáb 09/04/2022,11:00,Arsenal,Brighton,4-3-3 ofensivo,Mikel Arteta,60112,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592154
+33,sáb 16/04/2022,11:00,Southampton,Arsenal,4-3-3 ofensivo,Mikel Arteta,31465,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592242
+34,sáb 23/04/2022,08:30,Arsenal,Man Utd,4-2-3-1,Mikel Arteta,60223,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592170
+35,dom 01/05/2022,12:30,West Ham,Arsenal,4-2-3-1,Mikel Arteta,59959,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592276
+36,dom 08/05/2022,10:00,Arsenal,Leeds,4-2-3-1,Mikel Arteta,60108,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592160
+37,seg 16/05/2022,16:00,Newcastle,Arsenal,4-2-3-1,Mikel Arteta,52274,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592216
+38,dom 22/05/2022,12:00,Arsenal,Everton,4-3-3 ofensivo,Mikel Arteta,60201,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592161

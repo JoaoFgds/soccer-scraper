@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 10/08/2014,12:00,Wolves,Norwich,4-2-3-1,Kenny Jackett,22053,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2464948
+2,sáb 16/08/2014,11:00,Rotherham,Wolves,4-2-3-1,Kenny Jackett,10752,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2484443
+3,qua 20/08/2014,16:00,Fulham,Wolves,4-2-3-1,Kenny Jackett,18627,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2485911
+4,sáb 23/08/2014,11:00,Wolves,Cardiff,4-2-3-1,Kenny Jackett,21221,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2485923
+5,sáb 30/08/2014,11:00,Wolves,Blackburn,4-2-3-1,Kenny Jackett,21260,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2485935
+6,sáb 13/09/2014,11:00,Blackpool,Wolves,4-2-3-1,Kenny Jackett,12233,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2485938
+7,ter 16/09/2014,15:45,Charlton,Wolves,4-5-1 plano,Kenny Jackett,15973,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2485954
+8,sáb 20/09/2014,11:00,Wolves,Bolton,4-2-3-1,Kenny Jackett,22695,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498461
+9,dom 28/09/2014,09:15,Reading,Wolves,4-2-3-1,Kenny Jackett,17454,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498498
+10,qua 01/10/2014,15:45,Wolves,Huddersfield,4-4-1-1,Kenny Jackett,19059,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498509
+11,sáb 04/10/2014,11:00,Wolves,Wigan,4-2-3-1,Kenny Jackett,21288,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498522
+12,sáb 18/10/2014,11:00,Millwall,Wolves,4-2-3-1,Kenny Jackett,13428,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498531
+13,ter 21/10/2014,16:45,Wolves,Middlesbrough,4-2-3-1,Kenny Jackett,18391,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498547
+14,sáb 25/10/2014,12:00,Leeds,Wolves,4-2-3-1,Kenny Jackett,27883,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498563
+15,sáb 01/11/2014,10:15,Wolves,Birmingham,4-2-3-1,Kenny Jackett,25135,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498652
+16,ter 04/11/2014,17:45,Ipswich,Wolves,4-2-3-1,Kenny Jackett,17267,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498671
+17,sáb 08/11/2014,10:15,Derby,Wolves,4-2-3-1,Kenny Jackett,30398,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2509868
+18,sáb 22/11/2014,13:00,Wolves,Nott'm Forest,4-2-3-1,Kenny Jackett,25513,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2509891
+19,sáb 29/11/2014,13:00,Brentford,Wolves,4-2-3-1,Kenny Jackett,10923,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2509896
+20,sáb 06/12/2014,13:00,Wolves,Bournemouth,4-2-3-1,Kenny Jackett,20196,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2509915
+21,sáb 13/12/2014,13:00,Sheff Wed,Wolves,4-2-3-1,Kenny Jackett,20598,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2509974
+22,sáb 20/12/2014,13:00,Wolves,Brighton,4-2-3-1,Kenny Jackett,22882,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2509986
+23,sex 26/12/2014,15:30,Watford,Wolves,4-2-3-1,Kenny Jackett,17443,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2509999
+24,dom 28/12/2014,13:00,Wolves,Brentford,4-2-3-1,Kenny Jackett,23598,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2510011
+25,dom 11/01/2015,12:00,Blackburn,Wolves,4-2-3-1,Kenny Jackett,15335,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2520391
+26,sáb 17/01/2015,13:00,Wolves,Blackpool,4-2-3-1,Kenny Jackett,28132,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2520403
+27,sáb 24/01/2015,13:00,Wolves,Charlton,4-2-3-1,Kenny Jackett,23487,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525523
+28,sáb 31/01/2015,13:00,Bolton,Wolves,4-2-3-1,Kenny Jackett,15869,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525530
+29,sáb 07/02/2015,13:00,Wolves,Reading,4-2-3-1,Kenny Jackett,20274,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525547
+30,ter 10/02/2015,17:45,Huddersfield,Wolves,4-4-2 duplo 6,Kenny Jackett,11843,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525555
+31,sáb 14/02/2015,13:00,Norwich,Wolves,4-2-3-1,Kenny Jackett,26322,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525568
+32,sáb 21/02/2015,13:00,Wolves,Rotherham,4-2-3-1,Kenny Jackett,20336,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525583
+33,ter 24/02/2015,16:45,Wolves,Fulham,4-2-3-1,Kenny Jackett,17744,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525594
+34,sáb 28/02/2015,12:00,Cardiff,Wolves,4-2-3-1,Kenny Jackett,21165,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525600
+35,ter 03/03/2015,16:45,Bournemouth,Wolves,4-4-2,Kenny Jackett,9851,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525609
+36,sáb 07/03/2015,12:00,Wolves,Watford,4-2-3-1,Kenny Jackett,23146,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525631
+37,sáb 14/03/2015,12:00,Brighton,Wolves,4-2-3-1,Kenny Jackett,27019,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525636
+38,ter 17/03/2015,16:45,Wolves,Sheff Wed,4-4-2,Kenny Jackett,18687,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525652
+39,sex 20/03/2015,16:45,Wolves,Derby,4-2-3-1,Kenny Jackett,27480,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525667
+40,sex 03/04/2015,11:00,Nott'm Forest,Wolves,4-4-2,Kenny Jackett,27185,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525685
+41,seg 06/04/2015,13:15,Wolves,Leeds,4-4-2,Kenny Jackett,25169,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525699
+42,sáb 11/04/2015,11:00,Birmingham,Wolves,4-4-2,Kenny Jackett,19330,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525700
+43,ter 14/04/2015,15:45,Middlesbrough,Wolves,4-2-3-1,Kenny Jackett,20520,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525717
+44,sáb 18/04/2015,08:15,Wolves,Ipswich,4-4-2 duplo 6,Kenny Jackett,23409,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525735
+45,sáb 25/04/2015,11:00,Wigan,Wolves,4-4-2,Kenny Jackett,16810,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525747
+46,sáb 02/05/2015,08:15,Wolves,Millwall,4-4-2,Kenny Jackett,24480,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525767

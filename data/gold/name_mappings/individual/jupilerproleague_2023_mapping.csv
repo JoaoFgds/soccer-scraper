@@ -1,0 +1,17 @@
+league_name,season_year,canonical_name,other_name,precision_score,is_confident_match
+jupilerproleague,2023,cerclebrugge,cerclebrugge,100,True
+jupilerproleague,2023,clubbrugge,clubbrugge,100,True
+jupilerproleague,2023,kaagent,kaagent,100,True
+jupilerproleague,2023,kaseupen,kaseupen,100,True
+jupilerproleague,2023,krcgenk,krcgenk,100,True
+jupilerproleague,2023,kvcwesterlo,kvcwesterlo,100,True
+jupilerproleague,2023,kvkortrijk,kvkortrijk,100,True
+jupilerproleague,2023,kvmechelen,kvmechelen,100,True
+jupilerproleague,2023,oudheverleeleuven,ohleuven,64,False
+jupilerproleague,2023,rcharleroisc,rcharleroisc,100,True
+jupilerproleague,2023,royalantuerpiafc,antuerpia,72,True
+jupilerproleague,2023,rscanderlecht,anderlecht,87,True
+jupilerproleague,2023,rwdmolenbeek,rwdm,50,False
+jupilerproleague,2023,standarddeliege,standardliege,93,True
+jupilerproleague,2023,unionsaintgilloise,unionsg,56,False
+jupilerproleague,2023,vvsttruiden,sttruiden,90,True

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 29/05/2021,21:00,São Paulo,Fluminense,4-2-3-1,Roger Machado,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546466
+2,dom 06/06/2021,11:00,Fluminense,Cuiabá,4-2-3-1,Roger Machado,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546481
+3,dom 13/06/2021,20:30,Bragantino,Fluminense,4-2-3-1,Roger Machado,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3571597
+4,qui 17/06/2021,19:00,Fluminense,Santos,4-3-3 ofensivo,Roger Machado,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3572015
+5,dom 20/06/2021,18:15,Fortaleza,Fluminense,4-2-3-1,Roger Machado,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3572025
+6,qua 23/06/2021,19:00,Atlético-GO,Fluminense,4-2-3-1,Roger Machado,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580695
+7,dom 27/06/2021,16:00,Fluminense,Corinthians,4-2-3-1,Roger Machado,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580708
+8,qua 30/06/2021,16:00,Fluminense,Athletico-PR,4-2-3-1,Roger Machado,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580718
+9,dom 04/07/2021,16:00,Flamengo,Fluminense,4-2-3-1,Roger Machado,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583799
+10,qua 07/07/2021,21:30,Fluminense,Ceará,4-2-3-1,Roger Machado,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583809
+11,sáb 10/07/2021,19:00,Sport,Fluminense,4-2-3-1,Roger Machado,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583825
+12,sáb 17/07/2021,21:00,Fluminense,Grêmio,4-2-3-1,Roger Machado,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583829
+13,sáb 24/07/2021,19:00,Palmeiras,Fluminense,4-2-3-1,Roger Machado,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583840
+14,qui 02/09/2021,19:00,Fluminense,Juventude,4-3-3 ofensivo,Marcão,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583869
+15,dom 08/08/2021,16:00,América-MG,Fluminense,4-2-3-1,Roger Machado,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583862
+16,dom 15/08/2021,20:30,Internacional,Fluminense,4-3-2-1,Roger Machado,x,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583853
+17,seg 23/08/2021,20:00,Fluminense,Atlético-MG,4-2-3-1,Marcão,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583879
+18,seg 30/08/2021,19:00,Fluminense,Bahia,4-3-3 ofensivo,Marcão,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583889
+19,ter 07/09/2021,21:30,Chapecoense,Fluminense,4-3-3 ofensivo,Marcão,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583907
+20,dom 12/09/2021,20:30,Fluminense,São Paulo,4-3-3 ofensivo,Marcão,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583929
+21,seg 20/09/2021,20:00,Cuiabá,Fluminense,4-3-3 ofensivo,Marcão,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583928
+22,dom 26/09/2021,16:00,Fluminense,Bragantino,4-3-3 ofensivo,Marcão,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583909
+23,qua 27/10/2021,19:00,Santos,Fluminense,4-2-3-1,Marcão,6685,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583941
+24,qua 06/10/2021,21:30,Fluminense,Fortaleza,4-3-3 ofensivo,Marcão,3231,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583949
+25,sáb 09/10/2021,16:30,Fluminense,Atlético-GO,4-3-3 ofensivo,Marcão,2200,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583959
+26,qua 13/10/2021,21:00,Corinthians,Fluminense,4-3-3 ofensivo,Marcão,12045,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583990
+27,dom 17/10/2021,16:00,Athletico-PR,Fluminense,4-2-3-1,Marcão,1486,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583986
+28,sáb 23/10/2021,19:00,Fluminense,Flamengo,4-2-3-1,Marcão,10029,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583969
+29,dom 31/10/2021,16:00,Ceará,Fluminense,4-2-3-1,Marcão,8095,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584004
+30,sáb 06/11/2021,21:00,Fluminense,Sport,4-4-2 duplo 6,Marcão,3870,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584009
+31,ter 09/11/2021,21:30,Grêmio,Fluminense,4-4-2 duplo 6,Marcão,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584023
+32,dom 14/11/2021,18:15,Fluminense,Palmeiras,4-2-3-1,Marcão,7969,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584049
+33,qua 17/11/2021,20:30,Juventude,Fluminense,4-3-3 ofensivo,Marcão,5247,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584047
+34,dom 21/11/2021,17:00,Fluminense,América-MG,4-3-3 ofensivo,Marcão,14168,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584029
+35,qua 24/11/2021,21:30,Fluminense,Internacional,4-2-3-1,Marcão,17916,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584059
+36,dom 28/11/2021,16:00,Atlético-MG,Fluminense,4-3-3 ofensivo,Marcão,59896,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584072
+37,dom 05/12/2021,16:00,Bahia,Fluminense,4-3-3 ofensivo,Marcão,26048,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584085
+38,qui 09/12/2021,21:30,Fluminense,Chapecoense,4-2-3-1,Marcão,48198,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584089

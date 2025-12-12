@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 11/08/2023,17:00,Sevilla,Valencia,4-2-3-1,José Luis Mendilibar,43858,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112809
+2,seg 21/08/2023,14:00,Alavés,Sevilla,4-2-3-1,José Luis Mendilibar,15308,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113150
+3,sáb 26/08/2023,16:30,Sevilla,Girona,4-2-3-1,José Luis Mendilibar,29304,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113093
+4,sáb 23/12/2023,12:15,Atlético,Sevilla,3-5-2 plano,Quique Sánchez Flores,64308,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113046
+5,dom 17/09/2023,13:30,Sevilla,Las Palmas,4-2-3-1,José Luis Mendilibar,40578,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113173
+6,sáb 23/09/2023,11:15,Osasuna,Sevilla,4-2-3-1,José Luis Mendilibar,19670,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113138
+7,ter 26/09/2023,14:00,Sevilla,UD Almería,4-2-3-1,José Luis Mendilibar,35729,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113067
+8,sex 29/09/2023,16:00,Barcelona,Sevilla,4-2-3-1,José Luis Mendilibar,41116,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112970
+9,sáb 07/10/2023,16:00,Sevilla,Rayo Vallecano,4-2-3-1,José Luis Mendilibar,35817,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113063
+10,sáb 21/10/2023,13:30,Sevilla,Real Madrid,4-3-3 ofensivo,Diego Alonso,41212,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113143
+11,sáb 28/10/2023,16:00,Cádiz CF,Sevilla,4-2-3-1,Diego Alonso,18886,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113132
+12,sáb 04/11/2023,14:30,Celta de Vigo,Sevilla,4-3-3 ofensivo,Diego Alonso,19023,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113104
+13,dom 12/11/2023,14:30,Sevilla,Betis,4-1-4-1,Diego Alonso,42222,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113098
+14,dom 26/11/2023,12:15,Real Sociedad,Sevilla,4-2-3-1,Diego Alonso,33879,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113078
+15,dom 03/12/2023,14:30,Sevilla,Villarreal,4-3-3 ofensivo,Diego Alonso,33898,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113144
+16,sáb 09/12/2023,17:00,Mallorca,Sevilla,4-3-3 ofensivo,Diego Alonso,16041,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112879
+17,sáb 16/12/2023,14:30,Sevilla,Getafe,5-3-2,Diego Alonso,30005,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112853
+18,ter 19/12/2023,17:30,Granada CF,Sevilla,3-4-3 plano,Quique Sánchez Flores,16534,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112871
+19,qui 04/01/2024,15:15,Sevilla,Athletic Club,5-4-1 plano,Quique Sánchez Flores,28366,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112858
+20,sex 12/01/2024,17:00,Sevilla,Alavés,4-4-2 duplo 6,Quique Sánchez Flores,34225,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112824
+21,dom 21/01/2024,17:00,Girona,Sevilla,5-3-2,Quique Sánchez Flores,13092,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112826
+22,dom 28/01/2024,14:30,Sevilla,Osasuna,3-5-2 plano,Quique Sánchez Flores,36640,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112839
+23,seg 05/02/2024,17:00,Rayo Vallecano,Sevilla,4-4-2,Quique Sánchez Flores,12546,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113038
+24,dom 11/02/2024,14:30,Sevilla,Atlético,4-4-2 duplo 6,Quique Sánchez Flores,31528,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112890
+25,sáb 17/02/2024,17:00,Valencia,Sevilla,3-5-2 plano,Quique Sánchez Flores,44506,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113183
+26,dom 25/02/2024,17:00,Real Madrid,Sevilla,3-5-2 ofensivo,Quique Sánchez Flores,74969,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113029
+27,sáb 02/03/2024,10:00,Sevilla,Real Sociedad,3-5-2 plano,Quique Sánchez Flores,35884,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113012
+28,seg 11/03/2024,17:00,UD Almería,Sevilla,5-3-2,Quique Sánchez Flores,13095,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112995
+29,dom 17/03/2024,10:00,Sevilla,Celta de Vigo,5-3-2,Quique Sánchez Flores,36544,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112991
+30,sáb 30/03/2024,10:00,Getafe,Sevilla,5-3-2,Quique Sánchez Flores,10139,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112979
+31,dom 14/04/2024,09:00,Las Palmas,Sevilla,3-5-2 plano,Quique Sánchez Flores,23698,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113020
+32,seg 22/04/2024,16:00,Sevilla,Mallorca,5-3-2,Quique Sánchez Flores,35203,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112933
+33,dom 28/04/2024,16:00,Betis,Sevilla,4-4-2 duplo 6,Quique Sánchez Flores,55770,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112937
+34,dom 05/05/2024,16:00,Sevilla,Granada CF,3-4-3 plano,Quique Sánchez Flores,32658,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112952
+35,sáb 11/05/2024,11:15,Villarreal,Sevilla,5-4-1 plano,Quique Sánchez Flores,16862,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112963
+36,qua 15/05/2024,14:30,Sevilla,Cádiz CF,5-3-2,Quique Sánchez Flores,35805,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112921
+37,dom 19/05/2024,14:00,Athletic Club,Sevilla,3-4-2-1,Quique Sánchez Flores,44717,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112905
+38,dom 26/05/2024,16:00,Sevilla,Barcelona,3-4-2-1,Quique Sánchez Flores,34888,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112902

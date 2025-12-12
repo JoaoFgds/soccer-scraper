@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/08/1995,10:30,Colônia,Schalke,3-5-2 ofensivo,Morten Olsen,42000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16929
+2,dom 20/08/1995,13:00,Düsseldorf,Colônia,3-1-4-2,Morten Olsen,45000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16943
+3,ter 29/08/1995,15:00,Colônia,Hamburgo,3-5-2,Stephan Engels,21000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16944
+4,sex 01/09/1995,15:00,Karlsruher,Colônia,3-5-2 ofensivo,Stephan Engels,22000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16954
+5,sex 08/09/1995,15:00,Colônia,KFC Uerdingen,3-5-2,Stephan Engels,16000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16962
+6,sáb 16/09/1995,10:30,1860 Munique,Colônia,?,Stephan Engels,35000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16977
+7,sáb 23/09/1995,10:30,Colônia,Freiburg,3-5-2,Stephan Engels,21000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16982
+8,sáb 30/09/1995,11:30,K'lautern,Colônia,3-5-2,Stephan Engels,36646,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16991
+9,dom 15/10/1995,15:00,Colônia,Leverkusen,3-5-2,Stephan Engels,36000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17006
+10,sáb 21/10/1995,12:30,Dortmund,Colônia,3-5-2,Stephan Engels,42800,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17010
+11,sex 27/10/1995,17:00,Colônia,M'gladbach,?,Stephan Engels,51000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17016
+12,sex 03/11/1995,17:00,St. Pauli,Colônia,?,Stephan Engels,20565,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17026
+13,sáb 11/11/1995,12:30,Colônia,Stuttgart,3-5-2,Stephan Engels,25000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17037
+14,sáb 18/11/1995,12:30,Frankfurt,Colônia,3-5-2,Stephan Engels,27000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17048
+15,dom 26/11/1995,15:00,Colônia,Bayern,3-5-2,Stephan Engels,54000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17060
+16,sex 01/12/1995,17:00,Werder Bremen,Colônia,3-4-2-1,Stephan Engels,26373,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17063
+17,dom 10/12/1995,12:30,Colônia,Hansa Rostock,3-5-2,Stephan Engels,28000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17078
+18,ter 05/03/1996,16:00,Schalke,Colônia,3-5-2,Stephan Engels,33800,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17084
+19,qua 14/02/1996,16:00,Colônia,Düsseldorf,3-5-2,Stephan Engels,22000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17088
+20,ter 19/03/1996,15:30,Hamburgo,Colônia,?,Stephan Engels,20644,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17105
+21,sáb 02/03/1996,11:30,Colônia,Karlsruher,?,Stephan Engels,18000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17107
+22,sáb 09/03/1996,11:30,KFC Uerdingen,Colônia,3-4-2-1,Stephan Engels,15500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17119
+23,sex 15/03/1996,16:00,Colônia,1860 Munique,3-4-2-1,Stephan Engels,21000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17124
+24,sáb 23/03/1996,11:30,Freiburg,Colônia,3-5-2 plano,Stephan Engels,22500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17139
+25,sex 29/03/1996,16:00,Colônia,K'lautern,3-5-2 plano,Stephan Engels,27000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17142
+26,sáb 06/04/1996,10:30,Leverkusen,Colônia,3-5-2,Peter Neururer,26500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17154
+27,ter 09/04/1996,15:00,Colônia,Dortmund,3-5-2,Peter Neururer,53000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17160
+28,sáb 13/04/1996,10:30,M'gladbach,Colônia,?,Peter Neururer,34500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17173
+29,sáb 20/04/1996,10:30,Colônia,St. Pauli,3-5-2,Peter Neururer,32000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17180
+30,sáb 27/04/1996,10:30,Stuttgart,Colônia,3-5-2,Peter Neururer,33000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17194
+31,qua 01/05/1996,10:30,Colônia,Frankfurt,3-5-2,Peter Neururer,52000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17200
+32,sáb 04/05/1996,10:30,Bayern,Colônia,3-5-2,Peter Neururer,63000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17210
+33,sáb 11/05/1996,10:30,Colônia,Werder Bremen,3-5-2,Peter Neururer,40000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17215
+34,sáb 18/05/1996,10:30,Hansa Rostock,Colônia,3-5-2,Peter Neururer,25800,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17228

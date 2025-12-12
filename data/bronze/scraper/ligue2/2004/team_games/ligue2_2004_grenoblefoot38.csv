@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 06/08/2004,15:00,Grenoble,Guingamp,?,Thierry Goudet,4353,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005357
+2,sex 13/08/2004,15:00,Chamois Niort,Grenoble,?,Thierry Goudet,4198,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005372
+3,ter 17/08/2004,15:00,Grenoble,Amiens SC,?,Thierry Goudet,5373,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005379
+4,sex 20/08/2004,15:00,Clermont FA,Grenoble,?,Thierry Goudet,4836,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005394
+5,sex 27/08/2004,15:00,Grenoble,US Créteil-L,?,Thierry Goudet,4432,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005404
+6,sex 03/09/2004,15:00,Reims,Grenoble,?,Thierry Goudet,6913,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005418
+7,sex 10/09/2004,15:00,Grenoble,Le Mans UC 72,?,Thierry Goudet,4976,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005423
+8,sex 17/09/2004,15:00,FC Gueugnon,Grenoble,?,Thierry Goudet,3676,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005433
+9,ter 21/09/2004,14:00,Grenoble,Le Havre,?,Thierry Goudet,4432,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005442
+10,sex 24/09/2004,15:00,Grenoble,Stade Lavallois,?,Thierry Goudet,4815,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005451
+11,sex 01/10/2004,15:00,Brest,Grenoble,?,Thierry Goudet,9059,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005462
+12,seg 18/10/2004,15:15,Grenoble,CS Sedan,?,Thierry Goudet,5173,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005480
+13,sex 22/10/2004,15:00,LB Châteauroux,Grenoble,?,Thierry Goudet,5139,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005482
+14,sex 29/10/2004,15:00,Grenoble,Montpellier,?,Thierry Goudet,5891,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005494
+15,sex 05/11/2004,17:00,Dijon,Grenoble,?,Thierry Goudet,3587,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005502
+16,sex 12/11/2004,17:00,Grenoble,Troyes,?,Thierry Goudet,4639,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005513
+17,sex 26/11/2004,17:00,Angers,Grenoble,?,Thierry Goudet,4083,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005522
+18,sex 03/12/2004,17:00,Grenoble,FC Lorient,?,Thierry Goudet,4750,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005533
+19,sex 17/12/2004,17:00,AS Nancy,Grenoble,?,Thierry Goudet,11766,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005548
+20,ter 11/01/2005,17:00,Grenoble,Chamois Niort,?,Thierry Goudet,4185,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005555
+21,seg 17/01/2005,17:15,Amiens SC,Grenoble,?,Thierry Goudet,5792,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005570
+22,ter 08/02/2005,17:00,Grenoble,Clermont FA,?,Thierry Goudet,4196,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005580
+23,ter 25/01/2005,17:00,US Créteil-L,Grenoble,?,Thierry Goudet,1263,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005585
+24,ter 22/02/2005,16:00,Grenoble,Reims,?,Thierry Goudet,6231,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005600
+25,sex 04/02/2005,17:00,Le Mans UC 72,Grenoble,?,Thierry Goudet,7679,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005605
+26,sex 18/02/2005,17:00,Grenoble,FC Gueugnon,?,Thierry Goudet,3882,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005614
+27,sex 25/02/2005,16:00,Le Havre,Grenoble,?,Thierry Goudet,5974,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005624
+28,sáb 05/03/2005,16:00,Stade Lavallois,Grenoble,?,Thierry Goudet,3798,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005638
+29,sex 11/03/2005,16:00,Grenoble,Brest,?,Thierry Goudet,6468,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005643
+30,sex 18/03/2005,17:00,CS Sedan,Grenoble,?,Thierry Goudet,9703,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005658
+31,sex 01/04/2005,15:00,Grenoble,LB Châteauroux,?,Thierry Goudet,7093,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005664
+32,sex 08/04/2005,15:00,Montpellier,Grenoble,?,Thierry Goudet,5503,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005676
+33,sex 15/04/2005,15:00,Grenoble,Dijon,?,Thierry Goudet,5466,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005685
+34,sex 22/04/2005,15:00,Troyes,Grenoble,?,Thierry Goudet,8142,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005698
+35,sex 06/05/2005,15:00,Grenoble,Angers,?,Thierry Goudet,4061,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005704
+36,sex 13/05/2005,15:00,FC Lorient,Grenoble,?,Thierry Goudet,5776,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005716
+37,sex 20/05/2005,15:30,Grenoble,AS Nancy,?,Thierry Goudet,5784,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005724
+38,sex 27/05/2005,15:45,Guingamp,Grenoble,?,Thierry Goudet,15597,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005736

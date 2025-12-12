@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 11/08/2019,17:00,Braga,Moreirense,4-1-4-1,Ricardo Sá Pinto,13223,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211330
+2,dom 18/08/2019,17:00,Sporting,Braga,4-1-4-1,Ricardo Sá Pinto,35692,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211344
+3,dom 25/08/2019,16:30,Gil Vicente,Braga,4-4-2 duplo 6,Ricardo Sá Pinto,6769,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211374
+4,dom 01/09/2019,17:00,Braga,Benfica,4-3-3 ofensivo,Ricardo Sá Pinto,15499,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211387
+5,sex 13/09/2019,16:30,Vitória FC,Braga,4-1-4-1,Ricardo Sá Pinto,3527,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211398
+6,seg 23/09/2019,15:00,Braga,Marítimo,4-3-3 ofensivo,Ricardo Sá Pinto,8184,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211424
+7,dom 29/09/2019,14:00,Portimonense,Braga,4-3-3 ofensivo,Ricardo Sá Pinto,3430,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211437
+8,seg 28/10/2019,17:15,Braga,Santa Clara,4-4-2 duplo 6,Ricardo Sá Pinto,6785,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211447
+9,qui 31/10/2019,17:15,Boavista,Braga,4-2-3-1,Ricardo Sá Pinto,8452,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211459
+10,dom 03/11/2019,17:15,Braga,Famalicão,4-2-3-1,Ricardo Sá Pinto,9285,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211465
+11,dom 10/11/2019,17:00,Vit. Guimarães,Braga,4-2-3-1,Ricardo Sá Pinto,24429,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211480
+12,seg 02/12/2019,15:45,Braga,Rio Ave,4-3-3 ofensivo,Ricardo Sá Pinto,7274,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211484
+13,sáb 07/12/2019,17:30,CD Aves,Braga,4-3-3 ofensivo,Ricardo Sá Pinto,1632,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211492
+14,dom 15/12/2019,17:00,Braga,Paços Ferreira,4-3-3 ofensivo,Ricardo Sá Pinto,5909,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211504
+15,sáb 04/01/2020,15:00,B SAD,Braga,3-4-3 plano,Rúben Amorim,3190,1:7,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211579
+16,dom 12/01/2020,17:00,Braga,CD Tondela,3-4-3 plano,Rúben Amorim,9002,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211778
+17,sex 17/01/2020,16:00,FC Porto,Braga,3-4-3 plano,Rúben Amorim,35611,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211791
+18,qua 29/01/2020,17:15,Moreirense,Braga,3-4-3 plano,Rúben Amorim,1711,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211795
+19,dom 02/02/2020,14:30,Braga,Sporting,3-4-3 plano,Rúben Amorim,18379,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211818
+20,sáb 08/02/2020,15:00,Braga,Gil Vicente,3-4-3 plano,Rúben Amorim,13633,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211820
+21,sáb 15/02/2020,15:00,Benfica,Braga,3-4-3 plano,Rúben Amorim,59371,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211835
+22,dom 23/02/2020,17:00,Braga,Vitória FC,3-4-3 plano,Rúben Amorim,11185,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211845
+23,dom 01/03/2020,14:30,Marítimo,Braga,3-4-3 plano,Rúben Amorim,6530,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211851
+24,sex 06/03/2020,17:30,Braga,Portimonense,3-4-3 plano,Custódio,8684,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212606
+25,sex 05/06/2020,15:00,Santa Clara,Braga,3-4-3 plano,Custódio,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212608
+26,sáb 13/06/2020,17:00,Braga,Boavista,3-4-3 plano,Custódio,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212621
+27,sex 19/06/2020,17:15,Famalicão,Braga,4-4-2,Custódio,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212629
+28,qui 25/06/2020,17:00,Braga,Vit. Guimarães,4-2-3-1,Custódio,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212643
+29,ter 30/06/2020,17:30,Rio Ave,Braga,4-4-2 duplo 6,Custódio,x,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212646
+30,sáb 04/07/2020,17:30,Braga,CD Aves,4-4-2 duplo 6,Artur Jorge,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212656
+31,sex 10/07/2020,17:30,Paços Ferreira,Braga,4-3-3 ofensivo,Artur Jorge,x,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212667
+32,qua 15/07/2020,15:15,Braga,B SAD,4-3-3 defensivo,Artur Jorge,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212674
+33,seg 20/07/2020,15:15,CD Tondela,Braga,4-4-2 duplo 6,Artur Jorge,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212681
+34,sáb 25/07/2020,17:15,Braga,FC Porto,4-4-1-1,Artur Jorge,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212696

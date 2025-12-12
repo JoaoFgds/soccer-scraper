@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 06/08/2010,15:00,US Boulogne,Clermont Foot,?,Laurent Guyot,7963,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036787
+2,sex 13/08/2010,15:00,Angers,US Boulogne,?,Laurent Guyot,6842,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1040753
+3,ter 17/08/2010,15:00,US Boulogne,Nîmes Olympique,?,Laurent Guyot,7590,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1040765
+4,sex 20/08/2010,15:00,CS Sedan,US Boulogne,?,Laurent Guyot,7882,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1040780
+5,sex 27/08/2010,15:00,US Boulogne,FC Istres,?,Laurent Guyot,8653,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1040785
+6,sex 10/09/2010,15:00,Le Mans FC,US Boulogne,?,Laurent Guyot,5190,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043944
+7,sex 17/09/2010,15:00,US Boulogne,Stade Lavallois,?,Laurent Guyot,8358,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1048155
+8,seg 27/09/2010,15:30,Évian,US Boulogne,?,Laurent Guyot,4385,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1048163
+9,sex 01/10/2010,15:00,US Boulogne,Le Havre,?,Laurent Guyot,9214,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1052110
+10,sex 15/10/2010,15:00,Troyes,US Boulogne,?,Laurent Guyot,7012,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1052126
+11,seg 18/10/2010,16:30,US Boulogne,Nantes,?,Laurent Guyot,8915,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1052129
+12,sex 22/10/2010,16:00,Vannes,US Boulogne,?,Laurent Guyot,3560,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1052146
+13,sex 29/10/2010,16:00,US Boulogne,Reims,?,Laurent Guyot,8079,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1059778
+14,seg 08/11/2010,17:30,Tours FC,US Boulogne,?,Laurent Guyot,5018,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1061515
+15,ter 07/12/2010,16:00,US Boulogne,FC Metz,?,Laurent Guyot,9080,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1061986
+16,sex 26/11/2010,17:00,AC Ajaccio,US Boulogne,?,Laurent Guyot,2956,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1063791
+17,sex 03/12/2010,17:00,US Boulogne,Grenoble,?,Laurent Guyot,7670,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1066420
+18,sex 17/12/2010,17:00,LB Châteauroux,US Boulogne,?,Laurent Guyot,5617,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1068735
+19,ter 21/12/2010,17:00,US Boulogne,Dijon,?,Laurent Guyot,6885,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1069551
+20,sáb 15/01/2011,12:00,US Boulogne,Angers,?,Michel Estevan,6818,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1072314
+21,sáb 29/01/2011,12:00,Nîmes Olympique,US Boulogne,?,Michel Estevan,5495,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1073922
+22,sáb 05/02/2011,12:00,US Boulogne,CS Sedan,?,Michel Estevan,7350,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1076292
+23,sáb 12/02/2011,12:00,FC Istres,US Boulogne,?,Michel Estevan,1767,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1077327
+24,seg 21/02/2011,16:30,US Boulogne,Le Mans FC,?,Michel Estevan,12726,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1079061
+25,sex 25/02/2011,16:00,Stade Lavallois,US Boulogne,?,Michel Estevan,4997,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1079771
+26,seg 07/03/2011,16:30,US Boulogne,Évian,?,Michel Estevan,8867,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1081594
+27,sex 11/03/2011,16:00,Le Havre,US Boulogne,?,Michel Estevan,8715,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1083790
+28,sex 18/03/2011,16:00,US Boulogne,Troyes,?,Michel Estevan,8084,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1086836
+29,seg 04/04/2011,15:30,Nantes,US Boulogne,?,Michel Estevan,10969,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089437
+30,sex 08/04/2011,15:00,US Boulogne,Vannes,?,Michel Estevan,9413,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091772
+31,sex 15/04/2011,15:00,Reims,US Boulogne,?,Michel Estevan,8450,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1092591
+32,sex 22/04/2011,15:00,US Boulogne,Tours FC,?,Michel Estevan,9755,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1093567
+33,sex 29/04/2011,15:00,FC Metz,US Boulogne,?,Michel Estevan,12481,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1097500
+34,sex 06/05/2011,15:30,US Boulogne,AC Ajaccio,?,Michel Estevan,11022,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1098128
+35,ter 10/05/2011,15:00,Grenoble,US Boulogne,?,Michel Estevan,4937,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1098204
+36,sex 13/05/2011,15:00,US Boulogne,LB Châteauroux,?,Michel Estevan,10945,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1101236
+37,sex 20/05/2011,15:30,Dijon,US Boulogne,?,Michel Estevan,14405,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1103048
+38,sex 27/05/2011,15:30,Clermont Foot,US Boulogne,?,Michel Estevan,4225,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1103057

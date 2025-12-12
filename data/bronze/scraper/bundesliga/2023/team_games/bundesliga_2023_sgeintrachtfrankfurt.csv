@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 20/08/2023,12:30,Frankfurt,Darmstadt 98,3-4-2-1,Dino Toppmöller,55000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095971
+2,dom 27/08/2023,10:30,Mainz,Frankfurt,3-4-2-1,Dino Toppmöller,33305,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095979
+3,dom 03/09/2023,10:30,Frankfurt,Colônia,3-4-2-1,Dino Toppmöller,54000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095988
+4,sáb 16/09/2023,13:30,Bochum,Frankfurt,3-4-2-1,Dino Toppmöller,26000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096000
+5,dom 24/09/2023,12:30,Frankfurt,Freiburg,3-4-2-1,Dino Toppmöller,55800,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096007
+6,sáb 30/09/2023,10:30,Wolfsburg,Frankfurt,3-4-2-1,Dino Toppmöller,28323,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096014
+7,dom 08/10/2023,14:30,Frankfurt,Heidenheim,3-4-3 plano,Dino Toppmöller,55800,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096025
+8,sáb 21/10/2023,10:30,Hoffenheim,Frankfurt,4-4-2 duplo 6,Dino Toppmöller,30150,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096036
+9,dom 29/10/2023,11:30,Frankfurt,Dortmund,3-4-2-1,Dino Toppmöller,56500,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096042
+10,sáb 04/11/2023,11:30,Union Berlim,Frankfurt,3-4-2-1,Dino Toppmöller,22012,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096049
+11,dom 12/11/2023,13:30,Werder Bremen,Frankfurt,3-4-2-1,Dino Toppmöller,42100,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096061
+12,sáb 25/11/2023,14:30,Frankfurt,Stuttgart,4-4-1-1,Dino Toppmöller,58000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096069
+13,dom 03/12/2023,15:30,Augsburg,Frankfurt,3-4-2-1,Dino Toppmöller,26107,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096081
+14,sáb 09/12/2023,11:30,Frankfurt,Bayern,3-4-2-1,Dino Toppmöller,58000,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096086
+15,dom 17/12/2023,13:30,Leverkusen,Frankfurt,3-4-3 plano,Dino Toppmöller,30210,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096096
+16,qua 20/12/2023,16:30,Frankfurt,M'gladbach,4-4-2,Dino Toppmöller,58000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096105
+17,sáb 13/01/2024,11:30,Leipzig,Frankfurt,3-4-2-1,Dino Toppmöller,45867,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096112
+18,sáb 20/01/2024,11:30,Darmstadt 98,Frankfurt,3-4-2-1,Dino Toppmöller,17550,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096124
+19,sex 26/01/2024,16:30,Frankfurt,Mainz,3-4-2-1,Dino Toppmöller,58000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096132
+20,sáb 03/02/2024,14:30,Colônia,Frankfurt,3-4-2-1,Dino Toppmöller,50000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096141
+21,sáb 10/02/2024,11:30,Frankfurt,Bochum,4-4-2 duplo 6,Dino Toppmöller,57500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096153
+22,dom 18/02/2024,11:30,Freiburg,Frankfurt,3-4-2-1,Dino Toppmöller,34700,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096160
+23,dom 25/02/2024,11:30,Frankfurt,Wolfsburg,4-4-2 duplo 6,Dino Toppmöller,56500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096167
+24,sáb 02/03/2024,11:30,Heidenheim,Frankfurt,4-2-3-1,Dino Toppmöller,15000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096178
+25,dom 10/03/2024,13:30,Frankfurt,Hoffenheim,3-4-2-1,Dino Toppmöller,57000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096189
+26,dom 17/03/2024,13:30,Dortmund,Frankfurt,3-4-2-1,Dino Toppmöller,81365,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096195
+27,sáb 30/03/2024,11:30,Frankfurt,Union Berlim,3-4-2-1,Dino Toppmöller,57100,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096202
+28,sex 05/04/2024,15:30,Frankfurt,Werder Bremen,4-4-2 duplo 6,Dino Toppmöller,58000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096214
+29,sáb 13/04/2024,13:30,Stuttgart,Frankfurt,4-3-3 ofensivo,Dino Toppmöller,60000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096222
+30,sex 19/04/2024,15:30,Frankfurt,Augsburg,4-3-3 ofensivo,Dino Toppmöller,57600,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096234
+31,sáb 27/04/2024,10:30,Bayern,Frankfurt,4-4-2,Dino Toppmöller,75000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096239
+32,dom 05/05/2024,12:30,Frankfurt,Leverkusen,4-4-2 duplo 6,Dino Toppmöller,58000,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096249
+33,sáb 11/05/2024,10:30,M'gladbach,Frankfurt,3-4-2-1,Dino Toppmöller,54042,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096258
+34,sáb 18/05/2024,10:30,Frankfurt,Leipzig,3-4-2-1,Dino Toppmöller,57500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096265

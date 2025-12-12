@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 01/08/2003,15:30,Bayern,Frankfurt,4-2-3-1,Willi Reimann,63000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/331
+2,dom 10/08/2003,12:30,Frankfurt,Leverkusen,4-4-2 losango,Willi Reimann,22500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/595
+3,sáb 16/08/2003,10:30,Hansa Rostock,Frankfurt,4-4-2 losango,Willi Reimann,19600,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/776
+4,sáb 23/08/2003,10:30,Frankfurt,Hertha Berlim,3-5-2,Willi Reimann,22500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/969
+5,dom 14/09/2003,12:30,M'gladbach,Frankfurt,4-2-3-1,Willi Reimann,33900,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1261
+6,dom 21/09/2003,12:30,Frankfurt,K'lautern,4-2-3-1,Willi Reimann,25283,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1460
+7,dom 28/09/2003,12:30,Schalke,Frankfurt,5-4-1,Willi Reimann,61266,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1664
+8,sáb 04/10/2003,10:30,Frankfurt,Dortmund,4-4-2 losango,Willi Reimann,25000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1828
+9,sáb 18/10/2003,10:30,1860 Munique,Frankfurt,4-2-3-1,Willi Reimann,20000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2049
+10,sáb 25/10/2003,11:30,Frankfurt,Colônia,4-4-2 losango,Willi Reimann,27500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2244
+11,sáb 01/11/2003,12:30,Werder Bremen,Frankfurt,3-3-3-1,Willi Reimann,34600,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2446
+12,sáb 08/11/2003,12:30,Frankfurt,Stuttgart,4-3-2-1,Willi Reimann,27000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2644
+13,dom 23/11/2003,14:30,Freiburg,Frankfurt,4-1-4-1,Willi Reimann,24000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872
+14,sáb 29/11/2003,12:30,Frankfurt,Wolfsburg,4-1-4-1,Willi Reimann,15000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3041
+15,sáb 06/12/2003,12:30,Frankfurt,Hannover,4-1-3-2,Willi Reimann,19000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3237
+16,sáb 13/12/2003,12:30,Bochum,Frankfurt,4-2-3-1,Willi Reimann,23129,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442
+17,ter 16/12/2003,17:00,Frankfurt,Hamburgo,3-5-2,Willi Reimann,21000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3638
+18,sáb 31/01/2004,12:30,Frankfurt,Bayern,5-4-1,Willi Reimann,37500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3871
+19,sáb 07/02/2004,12:30,Leverkusen,Frankfurt,5-4-1,Willi Reimann,22500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4044
+20,sáb 14/02/2004,12:30,Frankfurt,Hansa Rostock,3-5-2 ofensivo,Willi Reimann,24000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4240
+21,dom 22/02/2004,13:30,Hertha Berlim,Frankfurt,3-3-3-1,Willi Reimann,37389,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4455
+22,sáb 28/02/2004,11:30,Frankfurt,M'gladbach,3-3-3-1,Willi Reimann,32200,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4603
+23,sáb 06/03/2004,11:30,K'lautern,Frankfurt,5-4-1,Willi Reimann,40592,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4809
+24,sáb 13/03/2004,11:30,Frankfurt,Schalke,4-2-3-1,Willi Reimann,35255,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5017
+25,sáb 20/03/2004,11:30,Dortmund,Frankfurt,4-3-2-1,Willi Reimann,80500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5222
+26,sáb 27/03/2004,11:30,Frankfurt,1860 Munique,4-2-3-1,Willi Reimann,28300,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5419
+27,sáb 03/04/2004,10:30,Colônia,Frankfurt,4-3-2-1,Jan Kocian,45500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5630
+28,sáb 10/04/2004,10:30,Frankfurt,Werder Bremen,3-4-2-1,Willi Reimann,33000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5859
+29,sáb 17/04/2004,10:30,Stuttgart,Frankfurt,5-4-1,Willi Reimann,48000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6032
+30,sáb 24/04/2004,10:30,Frankfurt,Freiburg,4-4-2 losango,Willi Reimann,25300,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6242
+31,sáb 01/05/2004,10:30,Wolfsburg,Frankfurt,4-5-1,Willi Reimann,24573,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6450
+32,sáb 08/05/2004,10:30,Hannover,Frankfurt,4-1-3-2,Willi Reimann,28000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6661
+33,sáb 15/05/2004,10:30,Frankfurt,Bochum,?,Willi Reimann,31300,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6863
+34,sáb 22/05/2004,10:30,Hamburgo,Frankfurt,4-2-3-1,Willi Reimann,52854,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7073

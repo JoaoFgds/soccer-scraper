@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 11/08/2012,16:00,Nice,AC Ajaccio,4-2-3-1,Alex Dupont,9342,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2229842
+2,dom 19/08/2012,16:00,AC Ajaccio,PSG,4-2-3-1,Alex Dupont,9402,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2229846
+3,sáb 25/08/2012,15:00,Valenciennes,AC Ajaccio,4-2-3-1,Alex Dupont,11876,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2229856
+4,sáb 01/09/2012,15:00,AC Ajaccio,Évian,4-3-3 defensivo,Alex Dupont,5874,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223887
+5,dom 16/09/2012,12:00,Lyon,AC Ajaccio,4-3-3 ofensivo,Alex Dupont,25666,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223854
+6,dom 23/09/2012,09:00,Bordeaux,AC Ajaccio,4-1-4-1,Alex Dupont,16295,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223851
+7,sáb 29/09/2012,15:00,AC Ajaccio,Brest,4-4-2 duplo 6,Alex Dupont,6029,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223842
+8,sáb 06/10/2012,15:00,Lille,AC Ajaccio,4-2-3-1,Alex Dupont,39375,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223859
+9,dom 21/10/2012,10:00,AC Ajaccio,SC Bastia,4-2-3-1,Alex Dupont,10344,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223909
+10,dom 28/10/2012,11:00,FC Lorient,AC Ajaccio,4-4-2 duplo 6,Alex Dupont,15191,4:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223898
+11,dom 04/11/2012,11:00,AC Ajaccio,Marselha,4-4-2 duplo 6,Alex Dupont,6920,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223919
+12,sáb 10/11/2012,17:00,Toulouse,AC Ajaccio,4-4-2 duplo 6,Alex Dupont,10431,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223936
+13,sáb 17/11/2012,17:00,AC Ajaccio,FC Sochaux,4-4-2 duplo 6,Alex Dupont,6163,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223938
+14,sáb 24/11/2012,17:00,AS Nancy,AC Ajaccio,4-4-2 duplo 6,Alex Dupont,13659,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223947
+15,sex 30/11/2012,17:45,AC Ajaccio,Saint-Étienne,4-2-3-1,Alex Dupont,5939,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223957
+16,sáb 08/12/2012,17:00,Montpellier,AC Ajaccio,4-2-3-1,Alex Dupont,11258,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223968
+17,qua 12/12/2012,16:00,AC Ajaccio,Reims,4-2-3-1,Alex Dupont,5843,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223972
+18,sáb 15/12/2012,17:00,Troyes,AC Ajaccio,4-2-3-1,Alex Dupont,17474,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223989
+19,sáb 22/12/2012,17:00,AC Ajaccio,Rennes,4-2-3-1,Albert Emon,6312,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223991
+20,sex 11/01/2013,18:00,PSG,AC Ajaccio,5-3-2,Albert Emon,42008,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224013
+21,sáb 19/01/2013,17:00,AC Ajaccio,Valenciennes,4-2-3-1,Albert Emon,6052,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224014
+22,sáb 26/01/2013,17:00,Évian,AC Ajaccio,4-2-3-1,Albert Emon,7601,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224029
+23,dom 03/02/2013,11:00,AC Ajaccio,Lyon,4-2-3-1,Albert Emon,6987,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224025
+24,sáb 09/02/2013,17:00,AC Ajaccio,Bordeaux,4-3-3 defensivo,Albert Emon,6513,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224045
+25,sáb 16/02/2013,17:00,Brest,AC Ajaccio,4-2-3-1,Albert Emon,12067,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224054
+26,sáb 23/02/2013,16:00,AC Ajaccio,Lille,4-3-3 defensivo,Albert Emon,5873,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224110
+27,sáb 02/03/2013,16:00,SC Bastia,AC Ajaccio,4-2-3-1,Albert Emon,15205,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224091
+28,sáb 09/03/2013,16:00,AC Ajaccio,FC Lorient,4-2-3-1,Albert Emon,6344,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224087
+29,sex 15/03/2013,16:30,Marselha,AC Ajaccio,4-2-3-1,Albert Emon,30986,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224071
+30,sáb 30/03/2013,16:00,AC Ajaccio,Toulouse,4-2-3-1,Albert Emon,6524,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224068
+31,sáb 06/04/2013,15:00,FC Sochaux,AC Ajaccio,4-3-3 ofensivo,Albert Emon,16818,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224167
+32,sáb 13/04/2013,15:00,AC Ajaccio,AS Nancy,4-2-3-1,Albert Emon,6500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224157
+33,qua 24/04/2013,13:30,Saint-Étienne,AC Ajaccio,4-2-3-1,Albert Emon,25084,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224161
+34,sáb 27/04/2013,15:00,AC Ajaccio,Montpellier,4-2-3-1,Albert Emon,5991,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224147
+35,sáb 04/05/2013,15:00,Reims,AC Ajaccio,4-3-3 ofensivo,Albert Emon,16842,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224132
+36,sáb 11/05/2013,15:00,AC Ajaccio,Troyes,4-2-3-1,Albert Emon,7300,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224120
+37,sáb 18/05/2013,16:00,Rennes,AC Ajaccio,4-2-3-1,Albert Emon,15805,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224179
+38,dom 26/05/2013,16:00,AC Ajaccio,Nice,4-2-3-1,Albert Emon,7599,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224178

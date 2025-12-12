@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 09/08/2009,08:30,FSV Frankfurt,MSV Duisburg,4-4-2 duplo 6,Tomas Oral,4775,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/953883
+2,sex 14/08/2009,13:00,Greuther Fürth,FSV Frankfurt,4-4-2 duplo 6,Tomas Oral,6230,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958706
+3,sex 21/08/2009,13:00,FSV Frankfurt,Paderborn,4-1-3-2,Tomas Oral,3784,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958715
+4,dom 30/08/2009,08:30,Alem. Aachen,FSV Frankfurt,4-4-2 duplo 6,Tomas Oral,23078,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958729
+5,dom 13/09/2009,08:30,FSV Frankfurt,St. Pauli,4-2-3-1,Tomas Oral,8577,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958739
+6,sex 18/09/2009,13:00,Karlsruher,FSV Frankfurt,4-2-3-1,Tomas Oral,16977,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958742
+7,sex 25/09/2009,13:00,Energ. Cottbus,FSV Frankfurt,4-2-3-1,Tomas Oral,8790,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958751
+8,dom 04/10/2009,08:30,FSV Frankfurt,K'lautern,4-4-2 duplo 6,Tomas Oral,9664,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958767
+9,dom 18/10/2009,09:30,Düsseldorf,FSV Frankfurt,4-2-3-1,Hans-Jürgen Boysen,19100,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958777
+10,sáb 24/10/2009,09:00,FSV Frankfurt,1860 Munique,4-1-4-1,Hans-Jürgen Boysen,5027,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958785
+11,sex 30/10/2009,15:00,Union Berlim,FSV Frankfurt,4-1-4-1,Hans-Jürgen Boysen,13519,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958794
+12,sáb 07/11/2009,10:00,FSV Frankfurt,Arm. Bielefeld,4-2-3-1,Hans-Jürgen Boysen,4134,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958803
+13,sáb 21/11/2009,10:00,RW Oberhausen,FSV Frankfurt,4-2-3-1,Hans-Jürgen Boysen,7183,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958807
+14,sex 27/11/2009,15:00,FSV Frankfurt,Hansa Rostock,4-1-4-1,Hans-Jürgen Boysen,4086,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958821
+15,sex 04/12/2009,15:00,Augsburg,FSV Frankfurt,4-2-3-1,Hans-Jürgen Boysen,10097,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958826
+16,sáb 12/12/2009,10:00,FSV Frankfurt,RW Ahlen,4-2-3-1,Hans-Jürgen Boysen,4134,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958839
+17,sex 18/12/2009,15:00,TuS Koblenz,FSV Frankfurt,4-2-3-1,Hans-Jürgen Boysen,5833,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958847
+18,dom 17/01/2010,10:30,MSV Duisburg,FSV Frankfurt,4-2-3-1,Hans-Jürgen Boysen,10107,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958851
+19,sex 22/01/2010,15:00,FSV Frankfurt,Greuther Fürth,4-2-3-1,Hans-Jürgen Boysen,3045,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958860
+20,dom 31/01/2010,10:30,Paderborn,FSV Frankfurt,4-4-2 duplo 6,Hans-Jürgen Boysen,5321,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958874
+21,dom 07/02/2010,10:30,FSV Frankfurt,Alem. Aachen,4-4-2 duplo 6,Hans-Jürgen Boysen,3168,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958878
+22,sex 12/02/2010,15:00,St. Pauli,FSV Frankfurt,4-2-3-1,Hans-Jürgen Boysen,19901,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958892
+23,dom 21/02/2010,09:30,FSV Frankfurt,Karlsruher,4-1-3-2,Hans-Jürgen Boysen,4598,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958895
+24,sex 26/02/2010,14:00,FSV Frankfurt,Energ. Cottbus,4-1-3-2,Hans-Jürgen Boysen,3124,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958904
+25,sáb 06/03/2010,09:00,K'lautern,FSV Frankfurt,4-2-3-1,Hans-Jürgen Boysen,28224,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958920
+26,sáb 13/03/2010,09:00,FSV Frankfurt,Düsseldorf,4-1-3-2,Hans-Jürgen Boysen,7034,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958930
+27,dom 21/03/2010,09:30,1860 Munique,FSV Frankfurt,4-2-3-1,Hans-Jürgen Boysen,13150,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958938
+28,sex 26/03/2010,14:00,FSV Frankfurt,Union Berlim,4-4-2 duplo 6,Hans-Jürgen Boysen,3542,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958947
+29,dom 04/04/2010,08:30,Arm. Bielefeld,FSV Frankfurt,4-2-3-1,Hans-Jürgen Boysen,9500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958956
+30,dom 11/04/2010,08:30,FSV Frankfurt,RW Oberhausen,4-1-3-2,Hans-Jürgen Boysen,4235,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958960
+31,sáb 17/04/2010,08:00,Hansa Rostock,FSV Frankfurt,4-2-3-1,Hans-Jürgen Boysen,18000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958974
+32,dom 25/04/2010,08:30,FSV Frankfurt,Augsburg,4-2-3-1,Hans-Jürgen Boysen,6382,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958979
+33,dom 02/05/2010,12:30,RW Ahlen,FSV Frankfurt,4-2-3-1,Hans-Jürgen Boysen,2920,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958992
+34,dom 09/05/2010,10:00,FSV Frankfurt,TuS Koblenz,4-4-2 losango,Hans-Jürgen Boysen,7012,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/959000

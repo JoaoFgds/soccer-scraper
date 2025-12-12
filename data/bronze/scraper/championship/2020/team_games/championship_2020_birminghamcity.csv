@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/09/2020,08:30,Birmingham,Brentford,4-2-3-1,Aitor Karanka,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427346
+2,sáb 19/09/2020,11:00,Swansea,Birmingham,4-2-3-1,Aitor Karanka,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427757
+3,sáb 26/09/2020,11:00,Birmingham,Rotherham,4-4-2 duplo 6,Aitor Karanka,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427323
+4,dom 04/10/2020,11:00,Stoke,Birmingham,4-2-3-1,Aitor Karanka,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427837
+5,sáb 17/10/2020,11:00,Birmingham,Sheff Wed,4-2-3-1,Aitor Karanka,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427363
+6,ter 20/10/2020,15:45,Norwich,Birmingham,3-5-2 plano,Aitor Karanka,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427297
+7,sáb 24/10/2020,11:00,QPR,Birmingham,5-3-2,Aitor Karanka,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427648
+8,qua 28/10/2020,16:45,Birmingham,Huddersfield,4-2-3-1,Aitor Karanka,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427633
+9,sáb 31/10/2020,12:00,Preston NE,Birmingham,5-3-2,Aitor Karanka,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427605
+10,qua 04/11/2020,16:45,Birmingham,Wycombe Wand.,4-2-3-1,Aitor Karanka,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427596
+11,sáb 07/11/2020,12:00,Birmingham,Bournemouth,3-5-2,Aitor Karanka,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427312
+12,sex 20/11/2020,16:45,Coventry City,Birmingham,4-2-3-1,Aitor Karanka,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427466
+13,ter 24/11/2020,16:00,Luton,Birmingham,5-3-2,Aitor Karanka,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427307
+14,sáb 28/11/2020,12:00,Birmingham,Millwall,3-4-3 plano,Aitor Karanka,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427293
+15,ter 01/12/2020,16:45,Birmingham,Barnsley FC,3-5-2,Aitor Karanka,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427407
+16,sáb 05/12/2020,12:00,Bristol City,Birmingham,4-2-3-1,Aitor Karanka,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427426
+17,qua 09/12/2020,16:45,Reading,Birmingham,4-2-3-1,Aitor Karanka,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427811
+18,sáb 12/12/2020,12:00,Birmingham,Watford,5-3-2,Aitor Karanka,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427394
+19,qua 16/12/2020,16:00,Cardiff,Birmingham,4-2-3-1,Aitor Karanka,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427635
+20,sáb 19/12/2020,12:00,Birmingham,Middlesbrough,4-2-3-1,Aitor Karanka,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427294
+21,sáb 26/12/2020,12:00,Nott'm Forest,Birmingham,4-2-3-1,Aitor Karanka,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427685
+22,ter 29/12/2020,14:30,Birmingham,Derby,4-2-3-1,Aitor Karanka,x,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427360
+23,sáb 02/01/2021,12:00,Birmingham,Blackburn,4-2-3-1,Aitor Karanka,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427347
+24,sáb 16/01/2021,09:30,Middlesbrough,Birmingham,4-2-3-1,Aitor Karanka,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427700
+25,qua 20/01/2021,16:45,Birmingham,Preston NE,4-2-3-1,Aitor Karanka,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427644
+26,ter 02/02/2021,16:00,Wycombe Wand.,Birmingham,4-3-3 ofensivo,Aitor Karanka,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427812
+27,sáb 30/01/2021,12:00,Birmingham,Coventry City,4-2-3-1,Aitor Karanka,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427380
+28,sáb 06/02/2021,12:00,Bournemouth,Birmingham,4-2-3-1,Aitor Karanka,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427359
+29,sáb 13/02/2021,12:00,Birmingham,Luton,4-1-4-1,Aitor Karanka,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427395
+30,qua 17/02/2021,16:00,Millwall,Birmingham,3-5-2,Aitor Karanka,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427493
+31,sáb 20/02/2021,12:00,Sheff Wed,Birmingham,4-1-4-1,Aitor Karanka,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427769
+32,ter 23/02/2021,16:00,Birmingham,Norwich,4-1-4-1,Aitor Karanka,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427318
+33,sáb 27/02/2021,12:00,Birmingham,QPR,4-2-3-1,Aitor Karanka,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427473
+34,ter 02/03/2021,16:00,Huddersfield,Birmingham,4-2-3-1,Aitor Karanka,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427469
+35,sáb 06/03/2021,12:00,Barnsley FC,Birmingham,4-2-3-1,Aitor Karanka,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427422
+36,sáb 13/03/2021,12:00,Birmingham,Bristol City,4-2-3-1,Aitor Karanka,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427462
+37,qua 17/03/2021,16:45,Birmingham,Reading,4-4-2,Lee Bowyer,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427429
+38,sáb 20/03/2021,12:00,Watford,Birmingham,4-4-2,Lee Bowyer,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427833
+39,sex 02/04/2021,16:00,Birmingham,Swansea,3-5-2,Lee Bowyer,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427513
+40,ter 06/04/2021,15:00,Brentford,Birmingham,3-5-2,Lee Bowyer,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427439
+41,sáb 10/04/2021,11:00,Birmingham,Stoke,5-3-2,Lee Bowyer,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427531
+42,dom 18/04/2021,08:00,Rotherham,Birmingham,5-3-2,Lee Bowyer,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427723
+43,qua 21/04/2021,15:45,Birmingham,Nott'm Forest,4-3-3 ofensivo,Lee Bowyer,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427317
+44,sáb 24/04/2021,11:00,Derby,Birmingham,5-3-2,Lee Bowyer,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427662
+45,sáb 01/05/2021,11:00,Birmingham,Cardiff,4-4-2,Lee Bowyer,x,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427383
+46,sáb 08/05/2021,08:30,Blackburn,Birmingham,4-1-4-1,Lee Bowyer,x,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427487

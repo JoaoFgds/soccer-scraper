@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 11/05/2008,13:10,Flamengo,Santos,4-4-2,Emerson Leão,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/90319
+2,dom 18/05/2008,13:10,Santos,Ipatinga,4-4-2,Emerson Leão,2396,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/90324
+3,dom 25/05/2008,11:00,Cruzeiro,Santos,4-4-2,Emerson Leão,19291,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909274
+4,dom 01/06/2008,11:00,Santos,São Paulo,4-4-2,Márcio Fernandes,7298,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909286
+5,dom 08/06/2008,13:10,Vitória,Santos,4-4-2,Cuca,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909298
+6,qui 12/06/2008,15:30,Fluminense,Santos,3-5-2,Cuca,6539,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909300
+7,dom 22/06/2008,13:10,Santos,Goiás,4-4-2,Cuca,3848,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909317
+8,sáb 28/06/2008,13:20,Portuguesa,Santos,4-4-2,Cuca,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909321
+9,sáb 05/07/2008,13:10,Atlético-PR,Santos,3-5-2,Cuca,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909330
+10,qua 09/07/2008,16:45,Santos,Grêmio,4-3-3 ofensivo,Cuca,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909344
+11,dom 13/07/2008,11:00,Santos,Botafogo,3-5-2,Cuca,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909352
+12,qua 16/07/2008,15:30,Figueirense,Santos,4-4-2,Cuca,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909363
+13,dom 20/07/2008,11:00,Santos,Sport,3-5-2,Cuca,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909374
+14,qui 24/07/2008,15:30,Palmeiras,Santos,4-4-2,Cuca,,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909389
+15,dom 27/07/2008,11:00,Santos,Vasco da Gama,4-4-2,Cuca,,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909395
+16,qua 30/07/2008,16:45,Internacional,Santos,3-5-2,Cuca,22228,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909404
+17,dom 03/08/2008,13:10,Santos,Coritiba,4-4-2,Cuca,10261,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909417
+18,qua 06/08/2008,16:50,Santos,Atlético-MG,4-4-2,Cuca,,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909426
+19,dom 10/08/2008,13:10,Náutico,Santos,4-4-2,Cuca,13711,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909438
+20,dom 17/08/2008,11:00,Santos,Flamengo,4-4-2,Márcio Fernandes,15359,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/921853
+21,qua 20/08/2008,17:00,Ipatinga,Santos,4-4-2,Márcio Fernandes,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/923051
+22,dom 24/08/2008,11:00,Santos,Cruzeiro,4-4-2,Márcio Fernandes,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/923192
+23,dom 31/08/2008,11:00,São Paulo,Santos,4-4-2,Márcio Fernandes,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/923343
+24,qua 03/09/2008,17:00,Santos,Vitória,4-4-2,Márcio Fernandes,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/924004
+25,dom 14/09/2008,13:10,Santos,Fluminense,4-4-2,Márcio Fernandes,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/924302
+26,sáb 20/09/2008,13:20,Goiás,Santos,3-5-2,Márcio Fernandes,,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/924719
+27,dom 28/09/2008,13:10,Santos,Portuguesa,4-4-2,Márcio Fernandes,73680,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/925508
+28,sáb 04/10/2008,13:20,Santos,Atlético-PR,4-4-2,Márcio Fernandes,10053,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/926222
+29,qua 08/10/2008,17:00,Grêmio,Santos,4-4-2,Márcio Fernandes,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/926503
+30,sáb 18/10/2008,13:20,Botafogo,Santos,4-4-2,Márcio Fernandes,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/926886
+31,sáb 25/10/2008,14:20,Santos,Figueirense,4-4-2,Márcio Fernandes,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/927618
+32,qui 30/10/2008,17:30,Sport,Santos,4-4-2,Márcio Fernandes,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/927982
+33,dom 02/11/2008,14:00,Santos,Palmeiras,4-4-2,Márcio Fernandes,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/928492
+34,sáb 08/11/2008,15:30,Vasco da Gama,Santos,4-4-2,Márcio Fernandes,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/928679
+35,dom 16/11/2008,16:10,Santos,Internacional,4-4-2,Márcio Fernandes,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/929540
+36,sáb 22/11/2008,15:30,Coritiba,Santos,4-4-2,Márcio Fernandes,,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/929590
+37,dom 30/11/2008,14:00,Atlético-MG,Santos,4-4-2,Márcio Fernandes,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/930206
+38,dom 07/12/2008,14:00,Santos,Náutico,4-4-2,Márcio Fernandes,14121,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/930212

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 30/08/2008,17:00,Valencia,Mallorca,4-2-3-1,Unai Emery,40000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920345
+2,dom 14/09/2008,16:00,UD Almería,Valencia,4-5-1,Unai Emery,12570,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920347
+3,dom 21/09/2008,12:00,Valencia,Osasuna,4-5-1,Unai Emery,48000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920366
+4,qui 25/09/2008,15:00,Málaga CF,Valencia,4-4-2 duplo 6,Unai Emery,28000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920367
+5,dom 28/09/2008,14:00,Valencia,Deportivo,4-4-2 duplo 6,Unai Emery,45000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920386
+6,dom 05/10/2008,14:00,Valladolid,Valencia,4-4-2 duplo 6,Unai Emery,17400,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920387
+7,dom 19/10/2008,13:00,Valencia,Numância,4-4-2 duplo 6,Unai Emery,43000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920406
+8,dom 26/10/2008,15:00,Recr. Huelva,Valencia,4-4-2 duplo 6,Unai Emery,17115,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920407
+9,sáb 01/11/2008,20:00,Valencia,Rac. Santander,4-4-2 duplo 6,Unai Emery,15000,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920426
+10,dom 09/11/2008,19:00,Getafe,Valencia,4-5-1,Unai Emery,10000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920427
+11,sáb 15/11/2008,19:00,Valencia,Real Sporting,4-5-1,Unai Emery,30000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920446
+12,sáb 22/11/2008,19:00,Sevilla,Valencia,4-5-1,Unai Emery,40000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920447
+13,dom 30/11/2008,16:00,Valencia,Betis,4-5-1,Unai Emery,40000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920466
+14,sáb 06/12/2008,19:00,Barcelona,Valencia,4-3-3 ofensivo,Unai Emery,82889,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920467
+15,sáb 13/12/2008,17:00,Valencia,Espanyol,4-5-1,Unai Emery,30000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920486
+16,sáb 20/12/2008,17:00,Real Madrid,Valencia,4-2-3-1,Unai Emery,70000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920487
+17,sáb 03/01/2009,19:00,Valencia,Atlético,4-5-1,Unai Emery,20000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920499
+18,sáb 10/01/2009,19:00,Valencia,Villarreal,4-5-1,Unai Emery,40000,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920507
+19,dom 18/01/2009,16:00,Athletic Club,Valencia,4-4-2 duplo 6,Unai Emery,36000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920526
+20,dom 25/01/2009,14:00,Mallorca,Valencia,4-5-1,Unai Emery,17000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920536
+21,dom 01/02/2009,16:00,Valencia,UD Almería,4-5-1,Unai Emery,15000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920537
+22,dom 08/02/2009,18:00,Osasuna,Valencia,4-5-1,Unai Emery,18128,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920556
+23,sáb 14/02/2009,19:00,Valencia,Málaga CF,4-5-1,Unai Emery,30000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920557
+24,dom 22/02/2009,17:00,Deportivo,Valencia,4-5-1,Unai Emery,18000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920576
+25,dom 01/03/2009,15:00,Valencia,Valladolid,4-5-1,Unai Emery,30000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920577
+26,dom 08/03/2009,13:00,Numância,Valencia,4-5-1,Unai Emery,7500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920596
+27,sáb 14/03/2009,16:00,Valencia,Recr. Huelva,4-5-1,Unai Emery,35000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920597
+28,dom 22/03/2009,13:00,Rac. Santander,Valencia,4-3-3 ofensivo,Unai Emery,19070,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920616
+29,dom 05/04/2009,14:00,Valencia,Getafe,4-5-1,Unai Emery,35000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920617
+30,dom 12/04/2009,12:00,Real Sporting,Valencia,4-5-1,Unai Emery,23000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920636
+31,dom 19/04/2009,14:00,Valencia,Sevilla,4-5-1,Unai Emery,40000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920637
+32,qua 22/04/2009,15:00,Betis,Valencia,4-5-1,Unai Emery,35000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920656
+33,sáb 25/04/2009,17:00,Valencia,Barcelona,4-2-3-1,Unai Emery,50000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920657
+34,dom 03/05/2009,14:00,Espanyol,Valencia,4-4-2 duplo 6,Unai Emery,34130,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920676
+35,sáb 09/05/2009,17:00,Valencia,Real Madrid,4-2-3-1,Unai Emery,50000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920677
+36,dom 17/05/2009,16:00,Atlético,Valencia,4-3-3 ofensivo,Unai Emery,53000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920696
+37,sáb 23/05/2009,16:00,Villarreal,Valencia,4-5-1,Unai Emery,20000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920697
+38,sáb 30/05/2009,16:00,Valencia,Athletic Club,4-5-1,Unai Emery,25000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/920716

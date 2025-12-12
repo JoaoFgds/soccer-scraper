@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 13/08/2021,16:00,Valencia,Getafe,5-3-2,Míchel,9868,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605045
+2,seg 23/08/2021,15:00,Getafe,Sevilla,4-4-2,Míchel,4810,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605052
+3,dom 29/08/2021,12:00,Barcelona,Getafe,4-4-2 duplo 6,Míchel,26543,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605059
+4,seg 13/09/2021,15:00,Getafe,Elche,4-4-2,Míchel,6853,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605195
+5,sáb 18/09/2021,09:00,Rayo Vallecano,Getafe,4-2-3-1,Míchel,3280,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605212
+6,ter 21/09/2021,14:30,Getafe,Atlético,5-3-2,Míchel,8950,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605215
+7,dom 26/09/2021,16:00,Betis,Getafe,3-5-2 plano,Míchel,29825,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605278
+8,dom 03/10/2021,13:30,Getafe,Real Sociedad,4-3-3 ofensivo,Míchel,8463,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605297
+9,sáb 16/10/2021,13:30,Levante,Getafe,4-4-1-1,Quique Sánchez Flores,14551,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605309
+10,seg 25/10/2021,16:00,Getafe,Celta de Vigo,4-2-3-1,Quique Sánchez Flores,7630,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605326
+11,qui 28/10/2021,15:00,Granada CF,Getafe,4-4-2 duplo 6,Quique Sánchez Flores,13651,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607525
+12,dom 31/10/2021,14:30,Getafe,Espanyol,5-3-2,Quique Sánchez Flores,4721,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607533
+13,dom 07/11/2021,10:00,Villarreal,Getafe,5-3-2,Quique Sánchez Flores,13504,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607550
+14,dom 21/11/2021,10:00,Getafe,Cádiz CF,5-3-2,Quique Sánchez Flores,8825,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607554
+15,sáb 27/11/2021,14:30,Mallorca,Getafe,5-3-2,Quique Sánchez Flores,8635,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607564
+16,seg 06/12/2021,17:00,Getafe,Athletic Club,3-5-2 plano,Quique Sánchez Flores,9176,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607574
+17,sáb 11/12/2021,12:15,Alavés,Getafe,5-3-2,Quique Sánchez Flores,10065,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607589
+18,dom 19/12/2021,14:30,Getafe,Osasuna,5-3-2,Quique Sánchez Flores,8126,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607602
+19,dom 02/01/2022,10:00,Getafe,Real Madrid,5-3-2,Quique Sánchez Flores,11890,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607613
+20,dom 09/01/2022,12:15,Sevilla,Getafe,5-3-2,Quique Sánchez Flores,30801,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607626
+21,qui 20/01/2022,15:00,Getafe,Granada CF,5-3-2,Quique Sánchez Flores,7634,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3610276
+22,dom 23/01/2022,14:30,Real Sociedad,Getafe,5-3-2,Quique Sánchez Flores,27368,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3610296
+23,sex 04/02/2022,17:00,Getafe,Levante,5-3-2,Quique Sánchez Flores,8475,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3610325
+24,sáb 12/02/2022,17:00,Atlético,Getafe,5-3-2,Quique Sánchez Flores,49375,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3610341
+25,sáb 19/02/2022,14:30,Cádiz CF,Getafe,5-3-2,Quique Sánchez Flores,15948,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3610363
+26,sáb 26/02/2022,12:15,Getafe,Alavés,5-3-2,Quique Sánchez Flores,7720,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3610373
+27,sáb 05/03/2022,12:15,Espanyol,Getafe,3-5-2 plano,Quique Sánchez Flores,18519,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3610405
+28,sáb 12/03/2022,17:00,Getafe,Valencia,5-3-2,Quique Sánchez Flores,10349,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3610434
+29,sex 18/03/2022,17:00,Athletic Club,Getafe,5-3-2,Quique Sánchez Flores,37367,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3610559
+30,sáb 02/04/2022,09:00,Getafe,Mallorca,3-5-2 plano,Quique Sánchez Flores,8946,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3610573
+31,sáb 09/04/2022,16:00,Real Madrid,Getafe,5-3-2,Quique Sánchez Flores,50740,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611444
+32,sáb 16/04/2022,16:00,Getafe,Villarreal,5-3-2,Quique Sánchez Flores,9657,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611453
+33,qua 20/04/2022,15:00,Celta de Vigo,Getafe,5-3-2,Quique Sánchez Flores,9934,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611461
+34,seg 02/05/2022,16:00,Getafe,Betis,3-5-2,Quique Sánchez Flores,9916,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611472
+35,dom 08/05/2022,09:00,Getafe,Rayo Vallecano,3-5-2,Quique Sánchez Flores,10125,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611484
+36,qua 11/05/2022,14:00,Osasuna,Getafe,5-3-2,Quique Sánchez Flores,17850,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611492
+37,dom 15/05/2022,14:30,Getafe,Barcelona,5-3-2,Quique Sánchez Flores,13072,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611504
+38,dom 22/05/2022,12:30,Elche,Getafe,5-3-2,Quique Sánchez Flores,17336,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611518

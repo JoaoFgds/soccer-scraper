@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 09/08/2021,14:00,Benfica B,Nacional,4-3-3 ofensivo,Nélson Veríssimo,214,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621655
+2,dom 15/08/2021,10:00,Penafiel,Benfica B,4-3-3 ofensivo,Nélson Veríssimo,304,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621666
+3,dom 22/08/2021,14:00,Benfica B,Trofense,4-3-3 ofensivo,Nélson Veríssimo,292,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621691
+4,sáb 28/08/2021,07:00,Casa Pia,Benfica B,4-3-3 ofensivo,Nélson Veríssimo,250,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621685
+5,sáb 11/09/2021,07:00,Benfica B,Covilhã,4-3-3 ofensivo,Nélson Veríssimo,229,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621673
+6,dom 19/09/2021,07:00,Farense,Benfica B,4-2-3-1,Nélson Veríssimo,1659,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621699
+7,dom 03/10/2021,10:00,Benfica B,Chaves,4-3-3 ofensivo,Nélson Veríssimo,337,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621718
+8,qua 27/10/2021,12:45,Varzim,Benfica B,4-3-3 ofensivo,Nélson Veríssimo,1192,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621732
+9,sáb 23/10/2021,14:00,Benfica B,Académica,4-3-3 ofensivo,Nélson Veríssimo,398,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621710
+10,sáb 30/10/2021,07:00,Leixões,Benfica B,4-1-4-1,Nélson Veríssimo,3479,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621784
+11,dom 07/11/2021,11:00,Benfica B,Mafra,?,Nélson Veríssimo,516,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621736
+12,seg 29/11/2021,15:00,Estrela Amadora,Benfica B,4-3-3 ofensivo,Nélson Veríssimo,3617,3:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621796
+13,sáb 04/12/2021,15:00,Benfica B,Rio Ave,?,Nélson Veríssimo,362,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621754
+14,ter 14/12/2021,15:00,Académico FC,Benfica B,4-3-3 ofensivo,Nélson Veríssimo,192,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621775
+15,seg 20/12/2021,13:00,Benfica B,Vilafranquense,4-3-3 ofensivo,Nélson Veríssimo,308,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621764
+16,ter 28/12/2021,15:00,Feirense,Benfica B,4-3-3 ofensivo,Paulo Mateus,850,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621745
+17,seg 10/01/2022,13:00,Benfica B,FC Porto B,4-3-3 ofensivo,António Oliveira,568,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621819
+18,dom 16/01/2022,08:00,Nacional,Benfica B,4-3-3 ofensivo,António Oliveira,1218,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621799
+19,dom 23/01/2022,15:00,Benfica B,Penafiel,?,António Oliveira,454,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621810
+20,sex 28/01/2022,17:15,Trofense,Benfica B,?,António Oliveira,736,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621897
+21,sex 04/02/2022,15:00,Benfica B,Casa Pia,?,António Oliveira,465,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621838
+22,dom 13/02/2022,11:00,Covilhã,Benfica B,4-3-3 ofensivo,António Oliveira,248,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621926
+23,seg 21/02/2022,15:00,Benfica B,Farense,?,António Oliveira,481,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621825
+24,sex 25/02/2022,15:00,Chaves,Benfica B,?,António Oliveira,1648,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621890
+25,dom 06/03/2022,15:00,Benfica B,Varzim,?,António Oliveira,487,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621915
+26,sex 11/03/2022,15:00,Académica,Benfica B,4-3-3 ofensivo,António Oliveira,1824,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621854
+27,dom 20/03/2022,11:00,Benfica B,Leixões,4-3-3 ofensivo,António Oliveira,294,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621847
+28,sáb 02/04/2022,07:00,Mafra,Benfica B,4-3-3 ofensivo,António Oliveira,764,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621885
+29,sáb 09/04/2022,10:00,Benfica B,Estrela Amadora,3-4-3 plano,António Oliveira,370,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621942
+30,dom 17/04/2022,11:30,Rio Ave,Benfica B,3-4-3 plano,António Oliveira,1906,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621882
+31,dom 24/04/2022,11:30,Benfica B,Académico FC,?,António Oliveira,531,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621910
+32,dom 01/05/2022,07:00,Vilafranquense,Benfica B,?,António Oliveira,356,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621932
+33,sáb 07/05/2022,10:00,Benfica B,Feirense,4-3-3 ofensivo,António Oliveira,283,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621878
+34,sex 13/05/2022,11:30,FC Porto B,Benfica B,4-2-3-1,António Oliveira,542,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621895

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 16/04/2023,16:00,Flamengo,Coritiba,4-2-3-1,Mário Jorge,42848,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4055821
+2,dom 23/04/2023,11:00,Internacional,Flamengo,4-4-2 losango,Jorge Sampaoli,45751,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4059107
+3,dom 30/04/2023,16:00,Flamengo,Botafogo,3-4-2-1,Jorge Sampaoli,53138,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060068
+4,dom 07/05/2023,16:00,Athletico-PR,Flamengo,4-4-2 duplo 6,Jorge Sampaoli,32949,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061500
+5,qua 10/05/2023,20:00,Flamengo,Goiás,4-2-3-1,Jorge Sampaoli,44948,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061433
+6,sáb 13/05/2023,16:00,Bahia,Flamengo,3-4-2-1,Jorge Sampaoli,48502,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061521
+7,dom 21/05/2023,16:00,Flamengo,Corinthians,4-4-2 duplo 6,Jorge Sampaoli,64871,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061403
+8,sáb 27/05/2023,18:30,Flamengo,Cruzeiro,4-3-1-2,Jorge Sampaoli,65270,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061443
+9,seg 05/06/2023,20:00,Vasco da Gama,Flamengo,4-4-2 duplo 6,Jorge Sampaoli,46423,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061414
+10,dom 11/06/2023,18:30,Flamengo,Grêmio,4-4-2 duplo 6,Jorge Sampaoli,62967,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061523
+11,qui 22/06/2023,21:30,Bragantino,Flamengo,4-2-3-1,Jorge Sampaoli,10103,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061467
+12,dom 25/06/2023,18:30,Santos,Flamengo,4-3-3 ofensivo,Jorge Sampaoli,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061506
+13,sáb 01/07/2023,18:30,Flamengo,Fortaleza,4-4-2 duplo 6,Jorge Sampaoli,64853,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061541
+14,sáb 08/07/2023,21:00,Palmeiras,Flamengo,4-3-3 ofensivo,Jorge Sampaoli,40229,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061295
+15,dom 16/07/2023,16:00,Fluminense,Flamengo,4-2-3-1,Jorge Sampaoli,62354,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061423
+16,sáb 22/07/2023,16:00,Flamengo,América-MG,4-2-3-1,Jorge Sampaoli,60402,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061534
+17,sáb 29/07/2023,21:00,Atlético-MG,Flamengo,4-2-3-1,Jorge Sampaoli,22441,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061544
+18,dom 06/08/2023,20:00,Cuiabá,Flamengo,4-2-3-1,Jorge Sampaoli,33091,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061282
+19,dom 13/08/2023,18:30,Flamengo,São Paulo,4-2-3-1,Jorge Sampaoli,62018,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061393
+20,dom 20/08/2023,16:00,Coritiba,Flamengo,4-4-2 duplo 6,Jorge Sampaoli,31851,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061250
+21,sáb 26/08/2023,18:30,Flamengo,Internacional,4-2-3-1,Jorge Sampaoli,58892,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061383
+22,sáb 02/09/2023,21:00,Botafogo,Flamengo,4-2-3-1,Jorge Sampaoli,40769,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061284
+23,qua 13/09/2023,21:30,Flamengo,Athletico-PR,3-4-3 plano,Jorge Sampaoli,20670,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061213
+24,qua 20/09/2023,19:00,Goiás,Flamengo,4-3-3 ofensivo,Jorge Sampaoli,13799,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061257
+25,sáb 30/09/2023,16:00,Flamengo,Bahia,4-2-3-1,Mário Jorge,46472,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061373
+26,sáb 07/10/2023,21:00,Corinthians,Flamengo,4-2-3-1,Mário Jorge,40800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061266
+27,qui 19/10/2023,19:00,Cruzeiro,Flamengo,4-3-3 ofensivo,Tite,37073,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061348
+28,dom 22/10/2023,16:00,Flamengo,Vasco da Gama,4-2-3-1,Tite,69473,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061323
+29,qua 25/10/2023,21:30,Grêmio,Flamengo,4-2-3-1,Tite,22325,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061459
+30,qui 23/11/2023,21:30,Flamengo,Bragantino,4-2-3-1,Tite,57699,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061313
+31,qua 01/11/2023,20:00,Flamengo,Santos,4-2-3-1,Tite,64708,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061233
+32,dom 05/11/2023,16:00,Fortaleza,Flamengo,4-2-3-1,Tite,49324,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061231
+33,qua 08/11/2023,21:30,Flamengo,Palmeiras,4-2-3-1,Tite,64590,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061333
+34,sáb 11/11/2023,18:30,Flamengo,Fluminense,4-2-3-1,Tite,64399,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061303
+35,dom 26/11/2023,18:30,América-MG,Flamengo,4-2-3-1,Tite,39900,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061362
+36,qua 29/11/2023,19:30,Flamengo,Atlético-MG,4-2-3-1,Tite,65305,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061363
+37,dom 03/12/2023,16:00,Flamengo,Cuiabá,4-2-3-1,Tite,63148,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061473
+38,qua 06/12/2023,21:30,São Paulo,Flamengo,4-2-3-1,Tite,36618,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061485

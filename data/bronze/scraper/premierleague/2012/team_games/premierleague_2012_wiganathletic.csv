@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 19/08/2012,09:30,Wigan,Chelsea,5-4-1 plano,Roberto Martínez,19738,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2230148
+2,sáb 25/08/2012,11:00,Southampton,Wigan,5-4-1 plano,Roberto Martínez,29604,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225446
+3,sáb 01/09/2012,11:00,Wigan,Stoke,5-4-1 plano,Roberto Martínez,16247,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225474
+4,sáb 15/09/2012,11:00,Man Utd,Wigan,5-4-1 plano,Roberto Martínez,75142,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225467
+5,sáb 22/09/2012,11:00,Wigan,Fulham,5-4-1 plano,Roberto Martínez,19284,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225480
+6,sáb 29/09/2012,11:00,AFC Sunderland,Wigan,5-4-1 plano,Roberto Martínez,37742,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225490
+7,sáb 06/10/2012,11:00,Wigan,Everton,5-4-1 plano,Roberto Martínez,18759,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225501
+8,sáb 20/10/2012,11:00,Swansea,Wigan,5-4-1 plano,Roberto Martínez,19696,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225505
+9,sáb 27/10/2012,12:00,Wigan,West Ham,5-4-1 plano,Roberto Martínez,19090,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225518
+10,sáb 03/11/2012,13:00,Tottenham,Wigan,5-4-1 plano,Roberto Martínez,35534,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225539
+11,sáb 10/11/2012,13:00,Wigan,West Brom,5-4-1 plano,Roberto Martínez,17812,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225542
+12,sáb 17/11/2012,13:00,Liverpool,Wigan,5-4-1 plano,Roberto Martínez,44913,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225548
+13,sáb 24/11/2012,13:00,Wigan,Reading,5-4-1 plano,Roberto Martínez,15436,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225557
+14,qua 28/11/2012,18:00,Wigan,Man City,5-3-2,Roberto Martínez,19623,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225571
+15,seg 03/12/2012,18:00,Newcastle,Wigan,5-4-1 plano,Roberto Martínez,43858,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250048
+16,sáb 08/12/2012,13:00,Wigan,QPR,4-1-4-1,Roberto Martínez,17163,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2258924
+17,sáb 15/12/2012,13:00,Norwich,Wigan,5-4-1 plano,Roberto Martínez,26677,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2258930
+18,sáb 22/12/2012,10:45,Wigan,Arsenal,4-3-3 ofensivo,Roberto Martínez,21754,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2258945
+19,qua 26/12/2012,13:00,Everton,Wigan,3-4-2-1,Roberto Martínez,38749,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2258948
+20,sáb 29/12/2012,13:00,Aston Villa,Wigan,5-4-1 plano,Roberto Martínez,33374,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2258957
+21,ter 01/01/2013,13:00,Wigan,Man Utd,5-4-1 plano,Roberto Martínez,20342,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2258975
+22,sáb 12/01/2013,13:00,Fulham,Wigan,3-5-2 plano,Roberto Martínez,25442,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2258979
+23,sáb 19/01/2013,13:00,Wigan,AFC Sunderland,5-4-1 plano,Roberto Martínez,19219,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2258995
+24,ter 29/01/2013,17:45,Stoke,Wigan,3-4-2-1,Roberto Martínez,24421,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2258999
+25,sáb 02/02/2013,13:00,Wigan,Southampton,3-4-2-1,Roberto Martínez,18598,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250151
+26,sáb 09/02/2013,13:00,Chelsea,Wigan,3-4-2-1,Roberto Martínez,41562,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250153
+27,sáb 23/02/2013,12:00,Reading,Wigan,5-4-1 plano,Roberto Martínez,22321,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225696
+28,sáb 02/03/2013,14:30,Wigan,Liverpool,5-4-1 plano,Roberto Martínez,20804,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225718
+29,qua 17/04/2013,15:45,Man City,Wigan,5-4-1 plano,Roberto Martínez,47106,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225735
+30,dom 17/03/2013,13:00,Wigan,Newcastle,5-4-1 plano,Roberto Martínez,22297,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225723
+31,sáb 30/03/2013,12:00,Wigan,Norwich,5-4-1 plano,Roberto Martínez,17784,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225738
+32,dom 07/04/2013,12:10,QPR,Wigan,5-4-1 plano,Roberto Martínez,16658,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225802
+33,ter 07/05/2013,15:45,Wigan,Swansea,4-3-3 defensivo,Roberto Martínez,18550,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225770
+34,sáb 20/04/2013,11:00,West Ham,Wigan,5-4-1 plano,Roberto Martínez,34544,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225782
+35,sáb 27/04/2013,11:00,Wigan,Tottenham,4-1-4-1,Roberto Martínez,22326,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225789
+36,sáb 04/05/2013,11:00,West Brom,Wigan,4-3-3 defensivo,Roberto Martínez,25756,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225794
+37,ter 14/05/2013,15:45,Arsenal,Wigan,3-4-2-1,Roberto Martínez,60068,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225799
+38,dom 19/05/2013,12:00,Wigan,Aston Villa,3-4-2-1,Roberto Martínez,23001,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225776

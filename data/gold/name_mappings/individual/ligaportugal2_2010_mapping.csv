@@ -1,0 +1,17 @@
+league_name,season_year,canonical_name,other_name,precision_score,is_confident_match
+ligaportugal2,2010,cdfatima,cdfatima,100,True
+ligaportugal2,2010,cdfeirense,feirense,89,True
+ligaportugal2,2010,cfosbelenenses,belenenses,83,True
+ligaportugal2,2010,clubedesportivodasaves2020,cdaves,38,False
+ligaportugal2,2010,clubedesportivosantaclara,santaclara,57,False
+ligaportugal2,2010,clubedesportivotrofense,trofense,52,False
+ligaportugal2,2010,fcarouca,arouca,86,True
+ligaportugal2,2010,futebolclubepenafiel,penafiel,57,False
+ligaportugal2,2010,gdestorilpraia,estoril,67,False
+ligaportugal2,2010,gilvicentefutebolclube,gilvicente,62,False
+ligaportugal2,2010,leixoessc,leixoes,88,True
+ligaportugal2,2010,moreirensefutebolclube,moreirense,62,False
+ligaportugal2,2010,sccovilha,covilha,88,True
+ligaportugal2,2010,scfreamunde,freamunde,90,True
+ligaportugal2,2010,udoliveirense,udoliveirense,100,True
+ligaportugal2,2010,varzimsc,varzim,86,True

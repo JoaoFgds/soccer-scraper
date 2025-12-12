@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 16/08/2024,16:00,Man Utd,Fulham,4-2-3-1,Erik ten Hag,73297,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361261
+2,sáb 24/08/2024,08:30,Brighton,Man Utd,4-2-3-1,Erik ten Hag,31530,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361273
+3,dom 01/09/2024,12:00,Man Utd,Liverpool,4-2-3-1,Erik ten Hag,73738,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361296
+4,sáb 14/09/2024,08:30,Southampton,Man Utd,4-2-3-1,Erik ten Hag,31144,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361357
+5,sáb 21/09/2024,13:30,Crystal Palace,Man Utd,4-2-3-1,Erik ten Hag,25172,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361362
+6,dom 29/09/2024,12:30,Man Utd,Tottenham,4-2-3-1,Erik ten Hag,74879,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361376
+7,dom 06/10/2024,10:00,Aston Villa,Man Utd,4-2-3-1,Erik ten Hag,42682,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361381
+8,sáb 19/10/2024,11:00,Man Utd,Brentford,4-2-3-1,Erik ten Hag,73738,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361394
+9,dom 27/10/2024,11:00,West Ham,Man Utd,4-2-3-1,Erik ten Hag,62474,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361408
+10,dom 03/11/2024,13:30,Man Utd,Chelsea,4-2-3-1,Ruud van Nistelrooy,73813,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361414
+11,dom 10/11/2024,11:00,Man Utd,Leicester,4-2-3-1,Ruud van Nistelrooy,73829,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361425
+12,dom 24/11/2024,13:30,Ipswich,Man Utd,3-4-2-1,Rúben Amorim,30017,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361435
+13,dom 01/12/2024,10:30,Man Utd,Everton,3-4-2-1,Rúben Amorim,73817,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361445
+14,qua 04/12/2024,17:15,Arsenal,Man Utd,3-4-2-1,Rúben Amorim,60256,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361451
+15,sáb 07/12/2024,14:30,Man Utd,Nott'm Forest,3-4-2-1,Rúben Amorim,73778,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361466
+16,dom 15/12/2024,13:30,Man City,Man Utd,3-4-3 plano,Rúben Amorim,55097,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361475
+17,dom 22/12/2024,11:00,Man Utd,Bournemouth,3-4-2-1,Rúben Amorim,73720,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361487
+18,qui 26/12/2024,14:30,Wolves,Man Utd,3-4-2-1,Rúben Amorim,31407,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361499
+19,seg 30/12/2024,17:00,Man Utd,Newcastle,3-4-2-1,Rúben Amorim,73809,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361507
+20,dom 05/01/2025,13:30,Liverpool,Man Utd,3-4-2-1,Rúben Amorim,60275,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361514
+21,qui 16/01/2025,17:00,Man Utd,Southampton,3-4-2-1,Rúben Amorim,73722,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361529
+22,dom 19/01/2025,11:00,Man Utd,Brighton,3-4-2-1,Rúben Amorim,73758,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362734
+23,dom 26/01/2025,16:00,Fulham,Man Utd,3-4-2-1,Rúben Amorim,27288,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362742
+24,dom 02/02/2025,11:00,Man Utd,Crystal Palace,3-4-3 plano,Rúben Amorim,73751,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362754
+25,dom 16/02/2025,13:30,Tottenham,Man Utd,3-4-2-1,Rúben Amorim,61383,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362766
+26,sáb 22/02/2025,09:30,Everton,Man Utd,3-4-2-1,Rúben Amorim,39290,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362771
+27,qua 26/02/2025,16:30,Man Utd,Ipswich,3-4-2-1,Rúben Amorim,73827,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362787
+28,dom 09/03/2025,13:30,Man Utd,Arsenal,3-4-2-1,Rúben Amorim,73812,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362793
+29,dom 16/03/2025,16:00,Leicester,Man Utd,3-4-2-1,Rúben Amorim,31773,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362804
+30,ter 01/04/2025,16:00,Nott'm Forest,Man Utd,3-4-2-1,Rúben Amorim,30249,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362811
+31,dom 06/04/2025,12:30,Man Utd,Man City,3-4-2-1,Rúben Amorim,73738,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362825
+32,dom 13/04/2025,12:30,Newcastle,Man Utd,3-4-2-1,Rúben Amorim,52252,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362834
+33,dom 20/04/2025,10:00,Man Utd,Wolves,3-4-2-1,Rúben Amorim,73819,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362845
+34,dom 27/04/2025,10:00,Bournemouth,Man Utd,3-4-2-1,Rúben Amorim,11241,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362848
+35,dom 04/05/2025,10:00,Brentford,Man Utd,3-4-2-1,Rúben Amorim,18915,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362860
+36,dom 11/05/2025,10:15,Man Utd,West Ham,3-4-2-1,Rúben Amorim,73804,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362872
+37,sex 16/05/2025,16:00,Chelsea,Man Utd,3-4-2-1,Rúben Amorim,39849,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362882
+38,dom 25/05/2025,12:00,Man Utd,Aston Villa,3-4-2-1,Rúben Amorim,73839,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361534

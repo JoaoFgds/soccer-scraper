@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 30/05/2021,18:15,Athletico-PR,América-MG,4-2-3-1,António Oliveira,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546472
+2,dom 06/06/2021,18:15,Juventude,Athletico-PR,4-4-2,António Oliveira,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546475
+3,dom 13/06/2021,16:00,Grêmio,Athletico-PR,5-4-1 plano,António Oliveira,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3571596
+4,ter 02/11/2021,16:00,Athletico-PR,Flamengo,3-4-3 plano,Alberto Valentim,15193,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3572013
+5,dom 20/06/2021,18:15,Athletico-PR,Atlético-GO,3-5-2,António Oliveira,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3572024
+6,qui 24/06/2021,21:30,Bahia,Athletico-PR,3-5-2,António Oliveira,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580699
+7,dom 27/06/2021,20:00,Athletico-PR,Chapecoense,3-5-2,António Oliveira,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580710
+8,qua 30/06/2021,16:00,Fluminense,Athletico-PR,4-2-3-1,António Oliveira,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580718
+9,sáb 03/07/2021,19:00,Athletico-PR,Fortaleza,4-2-3-1,António Oliveira,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583806
+10,ter 06/07/2021,19:30,Santos,Athletico-PR,3-4-2-1,António Oliveira,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583811
+11,sáb 10/07/2021,17:00,Athletico-PR,Bragantino,4-2-3-1,António Oliveira,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583826
+12,sáb 17/07/2021,17:00,Ceará,Athletico-PR,4-2-3-1,António Oliveira,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583834
+13,dom 25/07/2021,18:15,Athletico-PR,Internacional,4-2-3-1,António Oliveira,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583846
+14,dom 01/08/2021,16:00,Atlético-MG,Athletico-PR,4-2-3-1,António Oliveira,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583872
+15,sáb 07/08/2021,18:00,Athletico-PR,São Paulo,4-2-3-1,António Oliveira,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583866
+16,dom 15/08/2021,18:15,Cuiabá,Athletico-PR,4-2-3-1,António Oliveira,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583858
+17,dom 22/08/2021,16:00,Athletico-PR,Corinthians,4-2-3-1,António Oliveira,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583886
+18,sáb 28/08/2021,21:00,Palmeiras,Athletico-PR,4-2-3-1,António Oliveira,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583890
+19,dom 05/09/2021,18:15,Athletico-PR,Sport,4-2-3-1,António Oliveira,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583906
+20,sáb 11/09/2021,16:00,América-MG,Athletico-PR,4-4-2 duplo 6,António Oliveira,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583932
+21,sáb 18/09/2021,18:45,Athletico-PR,Juventude,3-4-2-1,António Oliveira,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583926
+22,dom 26/09/2021,18:15,Athletico-PR,Grêmio,3-4-2-1,Bruno Lazaroni,x,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583916
+23,dom 03/10/2021,16:00,Flamengo,Athletico-PR,3-4-2-1,António Oliveira,8843,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583939
+24,qua 06/10/2021,19:00,Atlético-GO,Athletico-PR,3-4-2-1,Alberto Valentim,1500,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583958
+25,sáb 09/10/2021,19:00,Athletico-PR,Bahia,3-4-2-1,Alberto Valentim,3340,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583966
+26,qua 13/10/2021,19:00,Chapecoense,Athletico-PR,3-4-3 plano,Alberto Valentim,935,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583997
+27,dom 17/10/2021,16:00,Athletico-PR,Fluminense,3-4-2-1,Alberto Valentim,1486,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583986
+28,sáb 23/10/2021,19:15,Fortaleza,Athletico-PR,4-2-3-1,Alberto Valentim,7011,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583974
+29,sáb 30/10/2021,17:00,Athletico-PR,Santos,3-4-2-1,Alberto Valentim,7196,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584006
+30,dom 07/11/2021,16:00,Bragantino,Athletico-PR,3-4-2-1,Alberto Valentim,1701,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584016
+31,qua 10/11/2021,18:30,Athletico-PR,Ceará,3-4-3 plano,Alberto Valentim,10792,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584026
+32,sáb 13/11/2021,19:00,Internacional,Athletico-PR,3-4-3 plano,Alberto Valentim,10046,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584053
+33,ter 16/11/2021,16:00,Athletico-PR,Atlético-MG,3-5-2,Alberto Valentim,6233,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584046
+34,qua 24/11/2021,21:30,São Paulo,Athletico-PR,3-4-3 plano,Alberto Valentim,43491,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584031
+35,sex 03/12/2021,19:00,Athletico-PR,Cuiabá,3-4-2-1,Alberto Valentim,18795,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584066
+36,dom 28/11/2021,16:00,Corinthians,Athletico-PR,3-4-3 plano,Alberto Valentim,37309,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584070
+37,seg 06/12/2021,19:00,Athletico-PR,Palmeiras,4-2-3-1,Alberto Valentim,19308,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584086
+38,qui 09/12/2021,21:30,Sport,Athletico-PR,3-4-3,Alberto Valentim,4215,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584095

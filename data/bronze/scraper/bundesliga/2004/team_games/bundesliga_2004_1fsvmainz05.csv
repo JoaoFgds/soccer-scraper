@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 08/08/2004,12:30,Stuttgart,Mainz,4-3-3 ofensivo,Jürgen Klopp,45000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21349
+2,sáb 14/08/2004,10:30,Mainz,Hamburgo,4-3-3 ofensivo,Jürgen Klopp,18700,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21351
+3,sáb 28/08/2004,10:30,Hertha Berlim,Mainz,4-4-2,Jürgen Klopp,39302,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21365
+4,sáb 11/09/2004,10:30,Mainz,Leverkusen,4-4-2,Jürgen Klopp,19500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21369
+5,sáb 18/09/2004,10:30,Arm. Bielefeld,Mainz,4-4-2 duplo 6,Jürgen Klopp,15364,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21381
+6,dom 26/09/2004,12:30,Mainz,Dortmund,4-4-2,Jürgen Klopp,20300,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21387
+7,sáb 02/10/2004,10:30,Freiburg,Mainz,4-4-2,Jürgen Klopp,24000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21397
+8,sáb 16/10/2004,10:30,Mainz,Werder Bremen,4-4-2 losango,Jürgen Klopp,20300,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21405
+9,dom 24/10/2004,12:30,Schalke,Mainz,4-4-2,Jürgen Klopp,61673,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21421
+10,qua 27/10/2004,15:00,Mainz,Hansa Rostock,4-4-2 losango,Jürgen Klopp,20300,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21423
+11,sáb 30/10/2004,10:30,Wolfsburg,Mainz,4-4-2,Jürgen Klopp,24951,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21437
+12,sáb 06/11/2004,12:30,Mainz,M'gladbach,4-4-2 duplo 6,Jürgen Klopp,20300,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21441
+13,sáb 13/11/2004,12:30,Hannover,Mainz,4-4-2,Jürgen Klopp,31078,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21453
+14,sáb 20/11/2004,12:30,Mainz,Bochum,4-4-2,Jürgen Klopp,20300,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21459
+15,sáb 27/11/2004,12:30,Bayern,Mainz,4-4-2 losango,Jürgen Klopp,49000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21469
+16,dom 05/12/2004,14:30,K'lautern,Mainz,4-4-2,Jürgen Klopp,46615,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21477
+17,sáb 11/12/2004,12:30,Mainz,Nuremberg,4-4-2 duplo 6,Jürgen Klopp,20300,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21486
+18,sáb 22/01/2005,12:30,Mainz,Stuttgart,4-4-2 duplo 6,Jürgen Klopp,20300,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21502
+19,sáb 29/01/2005,12:30,Hamburgo,Mainz,4-4-2 duplo 6,Jürgen Klopp,44700,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21504
+20,sáb 05/02/2005,12:30,Mainz,Hertha Berlim,4-4-2 duplo 6,Jürgen Klopp,20300,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21518
+21,dom 13/02/2005,14:30,Leverkusen,Mainz,4-5-1 plano,Jürgen Klopp,22500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21522
+22,sáb 19/02/2005,12:30,Mainz,Arm. Bielefeld,4-4-2 duplo 6,Jürgen Klopp,20300,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21534
+23,sáb 26/02/2005,11:30,Dortmund,Mainz,4-4-2 duplo 6,Jürgen Klopp,73500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21540
+24,sáb 05/03/2005,11:30,Mainz,Freiburg,4-4-2,Jürgen Klopp,20300,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21550
+25,sáb 12/03/2005,11:30,Werder Bremen,Mainz,4-3-3 ofensivo,Jürgen Klopp,39300,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21558
+26,dom 20/03/2005,13:30,Mainz,Schalke,4-3-3 ofensivo,Jürgen Klopp,20300,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21574
+27,sáb 02/04/2005,10:30,Hansa Rostock,Mainz,4-3-3 ofensivo,Jürgen Klopp,20500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21576
+28,sáb 09/04/2005,10:30,Mainz,Wolfsburg,4-3-3 ofensivo,Jürgen Klopp,20300,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21590
+29,sáb 16/04/2005,10:30,M'gladbach,Mainz,4-3-3 ofensivo,Jürgen Klopp,53466,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21594
+30,sáb 23/04/2005,10:30,Mainz,Hannover,4-3-3 ofensivo,Jürgen Klopp,20300,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21606
+31,sáb 30/04/2005,10:30,Bochum,Mainz,4-3-3 ofensivo,Jürgen Klopp,31056,2:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21612
+32,sáb 07/05/2005,10:30,Mainz,Bayern,4-3-3 ofensivo,Jürgen Klopp,20300,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21622
+33,sáb 14/05/2005,10:30,Mainz,K'lautern,4-5-1 plano,Jürgen Klopp,20300,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21630
+34,sáb 21/05/2005,10:30,Nuremberg,Mainz,4-3-3 ofensivo,Jürgen Klopp,41886,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21639

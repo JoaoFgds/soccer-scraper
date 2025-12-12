@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 02/08/1998,10:00,FC Gütersloh,Colônia,?,Hannes Linßen,12500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942697
+2,dom 09/08/1998,10:00,Düsseldorf,FC Gütersloh,?,Hannes Linßen,11000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942705
+3,qui 13/08/1998,13:30,FC Gütersloh,Unterhaching,?,Hannes Linßen,5000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942709
+4,dom 16/08/1998,10:00,KFC Uerdingen,FC Gütersloh,?,Hannes Linßen,2500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942721
+5,dom 23/08/1998,10:00,FC Gütersloh,Hannover,?,Hannes Linßen,8000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942731
+6,dom 13/09/1998,10:00,Stuttg. Kickers,FC Gütersloh,?,Volker Graul,3000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942739
+7,dom 20/09/1998,10:00,FC Gütersloh,SSV Ulm 1846,?,Dieter Brei,7000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942749
+8,sex 25/09/1998,14:00,TeBe Berlin,FC Gütersloh,?,Dieter Brei,2888,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942753
+9,dom 04/10/1998,10:00,FC Gütersloh,Mainz,?,Dieter Brei,5000,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942768
+10,dom 18/10/1998,11:00,Greuther Fürth,FC Gütersloh,?,Dieter Brei,5300,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942773
+11,dom 25/10/1998,12:00,FC Gütersloh,St. Pauli,?,Dieter Brei,6000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942923
+12,sex 30/10/1998,16:00,Wattenscheid 09,FC Gütersloh,?,Dieter Brei,2053,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942926
+13,dom 08/11/1998,12:00,FC Gütersloh,Energ. Cottbus,?,Dieter Brei,5000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942940
+14,seg 16/11/1998,16:30,Karlsruher,FC Gütersloh,?,Dieter Brei,10300,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942951
+15,sex 20/11/1998,16:00,RW Oberhausen,FC Gütersloh,?,Dieter Brei,3200,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942953
+16,dom 29/11/1998,12:00,FC Gütersloh,Arm. Bielefeld,4-4-2,Dieter Brei,12500,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942966
+17,sex 04/12/1998,16:00,Fortuna Köln,FC Gütersloh,?,Dieter Brei,1000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942970
+18,dom 13/12/1998,12:00,Colônia,FC Gütersloh,?,Jürgen Gelsdorf,17000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/950619
+19,dom 20/12/1998,12:00,FC Gütersloh,Düsseldorf,?,Jürgen Gelsdorf,7000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/952161
+20,dom 28/02/1999,11:00,Unterhaching,FC Gütersloh,?,Jürgen Gelsdorf,2500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/952170
+21,dom 07/03/1999,11:00,FC Gütersloh,KFC Uerdingen,?,Jürgen Gelsdorf,6000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/952470
+22,dom 14/03/1999,11:00,Hannover,FC Gütersloh,?,Jürgen Gelsdorf,11768,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/952479
+23,dom 21/03/1999,11:00,FC Gütersloh,Stuttg. Kickers,?,Jürgen Gelsdorf,5500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/952487
+24,dom 04/04/1999,10:00,SSV Ulm 1846,FC Gütersloh,?,Jürgen Gelsdorf,12000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/952497
+25,dom 11/04/1999,10:00,FC Gütersloh,TeBe Berlin,?,Jürgen Gelsdorf,7500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/952502
+26,dom 18/04/1999,10:00,Mainz,FC Gütersloh,?,Jürgen Gelsdorf,6003,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/952515
+27,seg 26/04/1999,15:15,FC Gütersloh,Greuther Fürth,?,Jürgen Gelsdorf,9000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/952707
+28,sex 30/04/1999,14:00,St. Pauli,FC Gütersloh,?,Jürgen Gelsdorf,13656,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/952710
+29,dom 09/05/1999,10:00,FC Gütersloh,Wattenscheid 09,?,Jürgen Gelsdorf,7500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/952721
+30,dom 16/05/1999,10:00,Energ. Cottbus,FC Gütersloh,?,Jürgen Gelsdorf,10127,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/952733
+31,sex 21/05/1999,14:00,FC Gütersloh,Karlsruher,?,Jürgen Gelsdorf,8000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/952735
+32,dom 30/05/1999,10:00,FC Gütersloh,RW Oberhausen,?,Jürgen Gelsdorf,8000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/952750
+33,dom 13/06/1999,10:00,Arm. Bielefeld,FC Gütersloh,3-5-2,Jürgen Gelsdorf,22512,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/952761
+34,qui 17/06/1999,14:00,FC Gütersloh,Fortuna Köln,?,Jürgen Gelsdorf,3500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/952762

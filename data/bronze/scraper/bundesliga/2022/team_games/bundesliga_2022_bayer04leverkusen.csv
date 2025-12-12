@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 06/08/2022,13:30,Dortmund,Leverkusen,4-2-3-1,Gerardo Seoane,81365,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839026
+2,sáb 13/08/2022,10:30,Leverkusen,Augsburg,4-2-3-1,Gerardo Seoane,22903,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839053
+3,sáb 20/08/2022,10:30,Leverkusen,Hoffenheim,4-2-3-1,Gerardo Seoane,26339,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839080
+4,sáb 27/08/2022,10:30,Mainz,Leverkusen,3-5-2 plano,Gerardo Seoane,28500,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839100
+5,sáb 03/09/2022,10:30,Leverkusen,Freiburg,3-5-2 plano,Gerardo Seoane,26853,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839106
+6,sáb 10/09/2022,10:30,Hertha Berlim,Leverkusen,4-2-3-1,Gerardo Seoane,40643,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839120
+7,sáb 17/09/2022,10:30,Leverkusen,Werder Bremen,4-2-3-1,Gerardo Seoane,30210,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839133
+8,sex 30/09/2022,15:30,Bayern,Leverkusen,4-2-3-1,Gerardo Seoane,75000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839150
+9,sáb 08/10/2022,10:30,Leverkusen,Schalke,3-4-3 plano,Xabi Alonso,30210,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839160
+10,sáb 15/10/2022,10:30,Frankfurt,Leverkusen,3-4-3 plano,Xabi Alonso,49700,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839181
+11,sáb 22/10/2022,10:30,Leverkusen,Wolfsburg,3-4-3 plano,Xabi Alonso,26294,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839196
+12,sáb 29/10/2022,10:30,Leipzig,Leverkusen,5-4-1 plano,Xabi Alonso,45598,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839214
+13,dom 06/11/2022,11:30,Leverkusen,Union Berlim,5-4-1 plano,Xabi Alonso,30210,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839232
+14,qua 09/11/2022,14:30,Colônia,Leverkusen,3-4-3,Xabi Alonso,50000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839252
+15,sáb 12/11/2022,11:30,Leverkusen,Stuttgart,3-4-3 plano,Xabi Alonso,30210,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839258
+16,dom 22/01/2023,13:30,M'gladbach,Leverkusen,3-4-3 plano,Xabi Alonso,53336,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839280
+17,qua 25/01/2023,16:30,Leverkusen,Bochum,4-2-3-1,Xabi Alonso,25820,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839295
+18,dom 29/01/2023,13:30,Leverkusen,Dortmund,4-3-3 ofensivo,Xabi Alonso,30210,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839313
+19,sex 03/02/2023,16:30,Augsburg,Leverkusen,3-4-3 plano,Xabi Alonso,27318,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839337
+20,sáb 11/02/2023,11:30,Hoffenheim,Leverkusen,3-4-3 plano,Xabi Alonso,20619,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839353
+21,dom 19/02/2023,15:30,Leverkusen,Mainz,4-3-3 ofensivo,Xabi Alonso,27002,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839367
+22,dom 26/02/2023,11:30,Freiburg,Leverkusen,3-4-3 plano,Xabi Alonso,34000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839386
+23,dom 05/03/2023,11:30,Leverkusen,Hertha Berlim,3-4-2-1,Xabi Alonso,30210,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839394
+24,dom 12/03/2023,13:30,Werder Bremen,Leverkusen,3-4-3 plano,Xabi Alonso,41000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839419
+25,dom 19/03/2023,13:30,Leverkusen,Bayern,3-4-3 plano,Xabi Alonso,30210,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839430
+26,sáb 01/04/2023,10:30,Schalke,Leverkusen,3-4-3 plano,Xabi Alonso,62271,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839454
+27,sáb 08/04/2023,10:30,Leverkusen,Frankfurt,3-4-1-2,Xabi Alonso,30210,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839466
+28,dom 16/04/2023,14:30,Wolfsburg,Leverkusen,4-3-3 ofensivo,Xabi Alonso,20137,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839488
+29,dom 23/04/2023,12:30,Leverkusen,Leipzig,3-4-3 plano,Xabi Alonso,29085,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839502
+30,sáb 29/04/2023,10:30,Union Berlim,Leverkusen,3-4-3 plano,Xabi Alonso,22012,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839512
+31,sex 05/05/2023,15:30,Leverkusen,Colônia,3-1-4-2,Xabi Alonso,30210,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839529
+32,dom 14/05/2023,10:30,Stuttgart,Leverkusen,3-4-3 plano,Xabi Alonso,45000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839554
+33,dom 21/05/2023,14:30,Leverkusen,M'gladbach,3-4-2-1,Xabi Alonso,30210,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839565
+34,sáb 27/05/2023,10:30,Bochum,Leverkusen,4-3-3 ofensivo,Xabi Alonso,26000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839589

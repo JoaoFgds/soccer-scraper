@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 22/08/2020,14:00,Clermont Foot,SM Caen,4-3-3 ofensivo,Pascal Dupraz,2634,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3393973
+2,sáb 29/08/2020,10:00,SM Caen,AC Ajaccio,4-3-3 ofensivo,Pascal Dupraz,4671,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3393979
+3,sáb 12/09/2020,14:00,Rodez AF,SM Caen,4-3-3 ofensivo,Pascal Dupraz,2346,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3393995
+4,sáb 19/09/2020,14:00,SM Caen,FC Chambly Oise,4-3-3 ofensivo,Pascal Dupraz,5593,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394000
+5,sáb 26/09/2020,14:00,Valenciennes,SM Caen,4-3-3 ofensivo,Pascal Dupraz,4180,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394018
+6,sáb 03/10/2020,10:30,SM Caen,Amiens SC,4-4-2,Pascal Dupraz,5843,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394020
+7,sáb 17/10/2020,14:00,Chamois Niort,SM Caen,4-4-2,Pascal Dupraz,2256,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394035
+8,sáb 24/10/2020,10:00,SM Caen,Guingamp,4-3-3 ofensivo,Pascal Dupraz,1000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394040
+9,sáb 31/10/2020,11:00,Paris FC,SM Caen,4-2-3-1,Pascal Dupraz,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394056
+10,sáb 07/11/2020,15:00,SM Caen,AS Nancy,4-2-3-1,Pascal Dupraz,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394060
+11,sáb 21/11/2020,11:00,Le Havre,SM Caen,4-2-3-1,Pascal Dupraz,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394073
+12,sáb 28/11/2020,15:00,SM Caen,LB Châteauroux,4-2-3-1,Pascal Dupraz,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394081
+13,ter 01/12/2020,15:00,Pau FC,SM Caen,4-1-4-1,Pascal Dupraz,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394097
+14,sáb 05/12/2020,15:00,SM Caen,Grenoble,4-2-3-1,Pascal Dupraz,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394101
+15,sáb 12/12/2020,11:00,SM Caen,Troyes,4-2-3-1,Pascal Dupraz,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394110
+16,sex 18/12/2020,16:00,USL Dunkerque,SM Caen,4-3-3 ofensivo,Pascal Dupraz,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394123
+17,ter 22/12/2020,16:00,SM Caen,FC Sochaux,4-3-3 ofensivo,Pascal Dupraz,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394130
+18,ter 05/01/2021,16:00,Auxerre,SM Caen,4-1-4-1,Pascal Dupraz,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394140
+19,seg 11/01/2021,16:45,SM Caen,Toulouse,4-1-4-1,Pascal Dupraz,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394149
+20,sáb 16/01/2021,15:00,AC Ajaccio,SM Caen,4-3-3 ofensivo,Pascal Dupraz,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394159
+21,sáb 23/01/2021,15:00,SM Caen,Rodez AF,4-1-4-1,Pascal Dupraz,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394169
+22,sáb 30/01/2021,15:00,FC Chambly Oise,SM Caen,4-4-2,Pascal Dupraz,x,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394181
+23,ter 02/02/2021,16:00,SM Caen,Valenciennes,3-4-2-1,Pascal Dupraz,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394190
+24,sex 05/02/2021,16:00,Amiens SC,SM Caen,3-4-2-1,Pascal Dupraz,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394200
+25,sáb 13/02/2021,15:00,SM Caen,Chamois Niort,3-4-2-1,Pascal Dupraz,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394210
+26,seg 22/02/2021,16:45,Guingamp,SM Caen,3-4-2-1,Pascal Dupraz,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394222
+27,sáb 27/02/2021,15:00,SM Caen,Paris FC,3-5-2,Pascal Dupraz,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394230
+28,ter 02/03/2021,16:00,AS Nancy,SM Caen,3-4-2-1,Pascal Dupraz,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394251
+29,seg 15/03/2021,16:45,SM Caen,Le Havre,3-4-1-2,Pascal Dupraz,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394265
+30,sáb 20/03/2021,16:00,LB Châteauroux,SM Caen,4-1-4-1,Pascal Dupraz,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394282
+31,sáb 03/04/2021,15:00,SM Caen,Pau FC,4-2-3-1,Fabrice Vandeputte,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394306
+32,sáb 10/04/2021,15:00,Grenoble,SM Caen,4-2-3-1,Fabrice Vandeputte,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394323
+33,sáb 17/04/2021,10:00,Troyes,SM Caen,4-3-3 ofensivo,Fabrice Vandeputte,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394346
+34,ter 20/04/2021,15:00,SM Caen,USL Dunkerque,4-3-3 ofensivo,Fabrice Vandeputte,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394363
+35,sáb 24/04/2021,15:00,FC Sochaux,SM Caen,4-3-3 ofensivo,Fabrice Vandeputte,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394500
+36,sáb 01/05/2021,15:00,SM Caen,Auxerre,4-3-3 ofensivo,Fabrice Vandeputte,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394507
+37,sáb 08/05/2021,15:00,Toulouse,SM Caen,4-3-3 ofensivo,Fabrice Vandeputte,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394531
+38,sáb 15/05/2021,15:00,SM Caen,Clermont Foot,4-1-4-1,Fabrice Vandeputte,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394538

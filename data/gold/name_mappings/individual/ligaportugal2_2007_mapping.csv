@@ -1,0 +1,17 @@
+league_name,season_year,canonical_name,other_name,precision_score,is_confident_match
+ligaportugal2,2007,cdfatima,cdfatima,100,True
+ligaportugal2,2007,cdfeirense,feirense,89,True
+ligaportugal2,2007,clubedesportivodasaves2020,cdaves,38,False
+ligaportugal2,2007,clubedesportivosantaclara,santaclara,57,False
+ligaportugal2,2007,clubedesportivotrofense,trofense,52,False
+ligaportugal2,2007,futebolclubedevizela,vizela,46,False
+ligaportugal2,2007,futebolclubepenafiel,penafiel,57,False
+ligaportugal2,2007,gdestorilpraia,estoril,67,False
+ligaportugal2,2007,gilvicentefutebolclube,gilvicente,62,False
+ligaportugal2,2007,gondomarsc,gondomar,89,True
+ligaportugal2,2007,portimonensesad,portimonense,89,True
+ligaportugal2,2007,rioavefutebolclube,rioave,50,False
+ligaportugal2,2007,scbeiramar,beiramar,89,True
+ligaportugal2,2007,scfreamunde,freamunde,90,True
+ligaportugal2,2007,sportingclubeolhanense,olhanense,58,False
+ligaportugal2,2007,varzimsc,varzim,86,True

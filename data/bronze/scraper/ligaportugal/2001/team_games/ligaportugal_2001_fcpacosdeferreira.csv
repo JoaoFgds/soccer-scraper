@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 12/08/2001,13:00,Paços Ferreira,Belenenses,4-2-3-1,José Mota,3000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854034
+2,sáb 18/08/2001,19:00,Alverca,Paços Ferreira,?,José Mota,2500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854230
+3,sáb 25/08/2001,19:00,Paços Ferreira,Leiria,?,José Mota,3000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854251
+4,sáb 08/09/2001,19:00,Gil Vicente,Paços Ferreira,?,José Mota,2500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854260
+5,sáb 15/09/2001,19:00,Paços Ferreira,Farense,4-2-3-1,José Mota,2500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854267
+6,sáb 22/09/2001,19:00,Vit. Guimarães,Paços Ferreira,?,José Mota,8800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854281
+7,sex 28/09/2001,19:00,Paços Ferreira,Braga,?,José Mota,2500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854284
+8,sáb 13/10/2001,desconhecido,Santa Clara,Paços Ferreira,?,José Mota,2100,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3519927
+9,sáb 20/10/2001,20:00,Salgueiros,Paços Ferreira,?,José Mota,1500,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854305
+10,sex 26/10/2001,20:00,Paços Ferreira,Sporting,4-3-3 ofensivo,José Mota,7000,0:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854312
+11,seg 05/11/2001,21:00,Boavista,Paços Ferreira,4-3-3 ofensivo,José Mota,5000,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854326
+12,dom 25/11/2001,13:00,Paços Ferreira,Marítimo,4-2-3-1,José Mota,3000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854332
+13,sáb 01/12/2001,21:00,Varzim,Paços Ferreira,?,José Mota,2000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854343
+14,sex 07/12/2001,21:00,Paços Ferreira,Benfica,?,José Mota,7000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854347
+15,sex 14/12/2001,21:00,Vitória FC,Paços Ferreira,?,José Mota,3000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854362
+16,sex 21/12/2001,21:00,Paços Ferreira,Beira-Mar,?,José Mota,3000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854366
+17,sex 04/01/2002,21:00,FC Porto,Paços Ferreira,?,José Mota,20112,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854377
+18,sáb 12/01/2002,21:00,Belenenses,Paços Ferreira,?,José Mota,1000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854386
+19,sáb 19/01/2002,21:00,Paços Ferreira,Alverca,?,José Mota,2500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854394
+20,dom 27/01/2002,13:00,Leiria,Paços Ferreira,4-3-3 ofensivo,José Mota,1000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854419
+21,dom 03/02/2002,14:00,Paços Ferreira,Gil Vicente,4-3-3 ofensivo,José Mota,3000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854426
+22,dom 10/02/2002,14:00,Farense,Paços Ferreira,4-3-3 ofensivo,José Mota,2500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854436
+23,sáb 16/02/2002,20:00,Paços Ferreira,Vit. Guimarães,?,José Mota,5500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854442
+24,dom 24/02/2002,20:00,Braga,Paços Ferreira,?,José Mota,2500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854456
+25,sáb 02/03/2002,20:00,Paços Ferreira,Santa Clara,?,José Mota,2000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854461
+26,dom 10/03/2002,13:00,Paços Ferreira,Salgueiros,4-3-3 ofensivo,José Mota,4000,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854471
+27,sex 15/03/2002,20:00,Sporting,Paços Ferreira,4-3-3 ofensivo,José Mota,23000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854480
+28,sáb 23/03/2002,20:00,Paços Ferreira,Boavista,?,José Mota,4000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854489
+29,sex 29/03/2002,20:00,Marítimo,Paços Ferreira,?,José Mota,2500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854496
+30,sáb 06/04/2002,19:00,Paços Ferreira,Varzim,?,José Mota,2500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854506
+31,dom 14/04/2002,14:30,Benfica,Paços Ferreira,4-3-3 ofensivo,José Mota,12850,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854516
+32,sáb 20/04/2002,19:00,Paços Ferreira,Vitória FC,4-3-3 ofensivo,José Mota,3000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854525
+33,sáb 27/04/2002,19:00,Beira-Mar,Paços Ferreira,?,José Mota,5000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854536
+34,sáb 04/05/2002,19:00,Paços Ferreira,FC Porto,?,José Mota,7500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854543

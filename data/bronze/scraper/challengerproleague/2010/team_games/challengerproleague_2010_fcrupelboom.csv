@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qua 18/08/2010,14:00,Rupel Boom,KVK Tienen,?,Peter Van Wambeke,1350,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1046107
+2,qua 25/08/2010,15:00,Antuérpia,Rupel Boom,?,Peter Van Wambeke,5750,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1050010
+3,dom 29/08/2010,10:00,Rupel Boom,Lommel United,?,Peter Van Wambeke,1500,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1050357
+4,dom 05/09/2010,10:00,FCV Dender EH,Rupel Boom,?,Peter Van Wambeke,1524,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1052815
+5,dom 12/09/2010,10:00,Rupel Boom,KSK Heist,?,Peter Van Wambeke,1800,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1053597
+6,sex 17/09/2010,15:00,Boussu Dour,Rupel Boom,?,Peter Van Wambeke,950,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1054719
+7,dom 26/09/2010,10:00,Rupel Boom,FC Brüssel,?,Peter Van Wambeke,1600,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1054831
+8,dom 03/10/2010,10:00,Wetteren,Rupel Boom,?,Peter Van Wambeke,800,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1056136
+9,dom 10/10/2010,15:00,Rupel Boom,KV Oostende,?,Peter Van Wambeke,2000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1057753
+10,dom 17/10/2010,11:00,OH Leuven,Rupel Boom,?,Peter Van Wambeke,2300,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1058861
+11,dom 24/10/2010,11:00,Rupel Boom,CS Visé,?,Peter Van Wambeke,2000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1059721
+12,sáb 30/10/2010,16:00,AFC Tubize,Rupel Boom,?,Peter Van Wambeke,1500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1061077
+13,sáb 06/11/2010,17:00,RAEC Mons,Rupel Boom,?,Peter Van Wambeke,2044,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1061822
+14,dom 14/11/2010,12:00,Rupel Boom,KV Turnhout,?,Urbain Spaenhoven,1200,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1063367
+15,dom 21/11/2010,12:00,Rupel Boom,RFC Tournai,?,Urbain Spaenhoven,1100,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1064374
+16,qua 12/01/2011,17:30,KSV Roeselare,Rupel Boom,?,Yves Cloots,1010,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1066267
+17,qua 19/01/2011,17:30,Waasland-Beveren,Rupel Boom,?,Yves Cloots,2500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1068143
+18,sex 10/12/2010,17:30,KVK Tienen,Rupel Boom,?,Yves Cloots,960,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1068151
+19,sáb 08/01/2011,17:00,Lommel United,Rupel Boom,?,Yves Cloots,2800,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1072214
+20,dom 16/01/2011,12:00,Rupel Boom,FCV Dender EH,?,Yves Cloots,1500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1073509
+21,dom 23/01/2011,11:30,Rupel Boom,Boussu Dour,?,Yves Cloots,800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1074890
+22,dom 30/01/2011,13:00,KSK Heist,Rupel Boom,?,Yves Cloots,1400,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1076004
+23,sex 04/02/2011,17:30,FC Brüssel,Rupel Boom,?,Yves Cloots,800,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1077419
+24,dom 13/02/2011,12:00,Rupel Boom,Antuérpia,?,Yves Cloots,4500,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1079050
+25,dom 20/02/2011,11:00,Rupel Boom,Wetteren,?,Yves Cloots,1000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1080913
+26,sex 25/02/2011,16:30,KV Oostende,Rupel Boom,?,Yves Cloots,950,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1081723
+27,dom 06/03/2011,11:00,Rupel Boom,OH Leuven,?,Yves Cloots,1700,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1083683
+28,dom 20/03/2011,11:00,CS Visé,Rupel Boom,?,Yves Cloots,1200,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1083844
+29,dom 27/03/2011,10:00,Rupel Boom,AFC Tubize,?,Yves Cloots,1500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1090698
+30,dom 03/04/2011,10:00,Rupel Boom,RAEC Mons,?,Yves Cloots,1344,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091960
+31,sáb 09/04/2011,15:00,KV Turnhout,Rupel Boom,?,Yves Cloots,1500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1093066
+32,dom 17/04/2011,10:00,Rupel Boom,KSV Roeselare,?,Yves Cloots,1000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1093540
+33,dom 24/04/2011,10:00,RFC Tournai,Rupel Boom,?,Yves Cloots,400,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1097749
+34,dom 01/05/2011,10:00,Rupel Boom,Waasland-Beveren,?,Yves Cloots,1100,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1098304

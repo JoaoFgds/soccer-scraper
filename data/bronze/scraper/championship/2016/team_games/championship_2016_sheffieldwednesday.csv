@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 07/08/2016,12:30,Sheff Wed,Aston Villa,4-4-1-1,Carlos Carvalhal,30060,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2701253
+2,sáb 13/08/2016,13:30,Norwich,Sheff Wed,4-4-2,Carlos Carvalhal,26236,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716139
+3,ter 16/08/2016,15:45,Burton Albion,Sheff Wed,4-4-2,Carlos Carvalhal,4997,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716144
+4,sáb 20/08/2016,08:30,Sheff Wed,Leeds,4-4-1-1,Carlos Carvalhal,29075,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716153
+5,sáb 27/08/2016,11:00,Brentford,Sheff Wed,4-4-2 duplo 6,Carlos Carvalhal,9677,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716169
+6,sáb 10/09/2016,11:00,Sheff Wed,Wigan,4-4-1-1,Carlos Carvalhal,24860,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716185
+7,ter 13/09/2016,16:00,Sheff Wed,Bristol City,4-4-2,Carlos Carvalhal,24151,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716196
+8,sáb 17/09/2016,13:30,Birmingham,Sheff Wed,4-4-1-1,Carlos Carvalhal,16786,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716212
+9,sáb 24/09/2016,11:00,Sheff Wed,Nott'm Forest,4-4-2 duplo 6,Carlos Carvalhal,27350,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716222
+10,ter 27/09/2016,15:45,Blackburn,Sheff Wed,4-4-2 duplo 6,Carlos Carvalhal,12844,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716227
+11,sáb 01/10/2016,11:00,Sheff Wed,Brighton,4-4-1-1,Carlos Carvalhal,25605,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716247
+12,dom 16/10/2016,09:00,Huddersfield,Sheff Wed,4-4-1-1,Carlos Carvalhal,22368,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716256
+13,qua 19/10/2016,16:45,Cardiff,Sheff Wed,4-4-2,Carlos Carvalhal,15887,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716265
+14,sáb 22/10/2016,12:00,Sheff Wed,QPR,4-4-1-1,Carlos Carvalhal,25903,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716282
+15,sáb 29/10/2016,12:00,Derby,Sheff Wed,4-4-1-1,Carlos Carvalhal,30064,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716289
+16,sáb 05/11/2016,13:00,Sheff Wed,Ipswich,4-4-2,Carlos Carvalhal,25851,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716306
+17,sáb 19/11/2016,13:00,Fulham,Sheff Wed,4-2-3-1,Carlos Carvalhal,20255,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716315
+18,sáb 26/11/2016,13:00,Wolves,Sheff Wed,4-4-1-1,Carlos Carvalhal,27293,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716332
+19,sáb 03/12/2016,13:00,Sheff Wed,Preston NE,4-4-1-1,Carlos Carvalhal,24843,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716343
+20,sáb 10/12/2016,13:00,Reading,Sheff Wed,4-4-2 duplo 6,Carlos Carvalhal,18153,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716354
+21,ter 13/12/2016,17:45,Sheff Wed,Barnsley FC,4-2-3-1,Carlos Carvalhal,27248,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716367
+22,sáb 17/12/2016,13:00,Sheff Wed,Rotherham,4-2-3-1,Carlos Carvalhal,27242,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716379
+23,seg 26/12/2016,17:45,Newcastle,Sheff Wed,4-4-1-1,Carlos Carvalhal,52179,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716388
+24,sáb 31/12/2016,13:00,Preston NE,Sheff Wed,4-4-2 duplo 6,Carlos Carvalhal,14802,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716402
+25,seg 02/01/2017,13:00,Sheff Wed,Wolves,4-2-3-1,Carlos Carvalhal,30549,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716415
+26,sáb 14/01/2017,13:00,Sheff Wed,Huddersfield,4-4-1-1,Carlos Carvalhal,28173,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716427
+27,sex 20/01/2017,17:45,Brighton,Sheff Wed,4-4-1-1,Carlos Carvalhal,27162,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716432
+28,ter 21/02/2017,16:45,Sheff Wed,Brentford,4-2-3-1,Carlos Carvalhal,25014,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716451
+29,ter 31/01/2017,17:45,Bristol City,Sheff Wed,4-2-3-1,Carlos Carvalhal,17438,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716456
+30,sex 03/02/2017,17:45,Wigan,Sheff Wed,4-2-3-1,Carlos Carvalhal,13037,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716476
+31,sex 10/02/2017,17:45,Sheff Wed,Birmingham,4-4-2 duplo 6,Carlos Carvalhal,24805,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716487
+32,ter 14/02/2017,17:45,Sheff Wed,Blackburn,4-4-2 duplo 6,Carlos Carvalhal,24603,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716498
+33,sáb 18/02/2017,13:00,Nott'm Forest,Sheff Wed,4-2-3-1,Carlos Carvalhal,20164,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716511
+34,sáb 25/02/2017,09:30,Leeds,Sheff Wed,4-2-3-1,Carlos Carvalhal,35093,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716518
+35,sáb 04/03/2017,12:00,Sheff Wed,Norwich,4-4-2 duplo 6,Carlos Carvalhal,28178,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716535
+36,ter 07/03/2017,16:45,Sheff Wed,Burton Albion,4-4-2 duplo 6,Carlos Carvalhal,24929,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716546
+37,sáb 11/03/2017,12:00,Aston Villa,Sheff Wed,4-4-2 duplo 6,Carlos Carvalhal,31143,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716548
+38,sex 17/03/2017,16:45,Sheff Wed,Reading,4-4-2 duplo 6,Carlos Carvalhal,26072,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716560
+39,sáb 01/04/2017,08:30,Barnsley FC,Sheff Wed,4-4-2 duplo 6,Carlos Carvalhal,18003,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716573
+40,ter 04/04/2017,15:45,Rotherham,Sheff Wed,4-4-2 losango,Carlos Carvalhal,10669,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716592
+41,sáb 08/04/2017,13:30,Sheff Wed,Newcastle,4-4-2 duplo 6,Carlos Carvalhal,28883,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716606
+42,sex 14/04/2017,11:00,Sheff Wed,Cardiff,4-4-2 duplo 6,Carlos Carvalhal,28007,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716614
+43,seg 17/04/2017,11:00,QPR,Sheff Wed,4-4-2,Carlos Carvalhal,15708,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716630
+44,sáb 22/04/2017,11:00,Sheff Wed,Derby,4-4-2,Carlos Carvalhal,28889,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716640
+45,sáb 29/04/2017,11:00,Ipswich,Sheff Wed,4-4-2,Carlos Carvalhal,19000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716651
+46,dom 07/05/2017,08:00,Sheff Wed,Fulham,4-4-2 duplo 6,Carlos Carvalhal,33681,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716671

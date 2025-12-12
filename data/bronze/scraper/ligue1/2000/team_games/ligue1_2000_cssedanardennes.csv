@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 29/07/2000,15:00,Auxerre,CS Sedan,?,Alex Dupont,8249,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002775
+2,qui 03/08/2000,15:00,CS Sedan,Lyon,?,Alex Dupont,12087,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002782
+3,dom 13/08/2000,13:45,PSG,CS Sedan,?,Alex Dupont,43419,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002798
+4,sáb 19/08/2000,15:00,CS Sedan,Lille,?,Alex Dupont,12127,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002806
+5,sáb 26/08/2000,15:00,Strasbourg,CS Sedan,?,Alex Dupont,12605,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002814
+6,ter 10/10/2000,16:45,CS Sedan,Rennes,?,Alex Dupont,13306,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002826
+7,sáb 09/09/2000,10:00,CS Sedan,Monaco,?,Alex Dupont,12005,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002827
+8,sáb 16/09/2000,15:00,FC Metz,CS Sedan,?,Alex Dupont,16131,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002840
+9,sáb 23/09/2000,15:00,CS Sedan,SC Bastia,?,Alex Dupont,11524,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002851
+10,sáb 30/09/2000,15:00,Troyes,CS Sedan,?,Alex Dupont,16562,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002860
+11,sáb 14/10/2000,16:00,CS Sedan,Saint-Étienne,?,Alex Dupont,12691,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002869
+12,sáb 21/10/2000,16:00,Lens,CS Sedan,?,Alex Dupont,40318,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002875
+13,dom 29/10/2000,16:00,CS Sedan,Nantes,?,Alex Dupont,15401,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002889
+14,sáb 04/11/2000,17:00,Guingamp,CS Sedan,?,Alex Dupont,12936,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002893
+15,sáb 11/11/2000,17:00,CS Sedan,Marselha,4-4-2 duplo 6,Alex Dupont,16713,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002904
+16,sáb 18/11/2000,17:00,Toulouse,CS Sedan,?,Alex Dupont,12726,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002914
+17,dom 26/11/2000,17:45,CS Sedan,Bordeaux,?,Alex Dupont,16697,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002924
+18,qua 29/11/2000,17:00,Lyon,CS Sedan,?,Alex Dupont,28284,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002936
+19,sáb 02/12/2000,17:00,CS Sedan,PSG,?,Alex Dupont,16237,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002945
+20,sáb 09/12/2000,17:00,Lille,CS Sedan,4-4-2 duplo 6,Alex Dupont,15305,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002952
+21,sáb 16/12/2000,17:00,CS Sedan,Strasbourg,?,Alex Dupont,14465,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002962
+22,qui 21/12/2000,17:30,Rennes,CS Sedan,?,Alex Dupont,20374,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002973
+23,sáb 13/01/2001,17:00,Monaco,CS Sedan,?,Alex Dupont,7417,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002982
+24,sáb 27/01/2001,17:00,CS Sedan,FC Metz,?,Alex Dupont,14614,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002991
+25,sáb 03/02/2001,17:00,SC Bastia,CS Sedan,?,Alex Dupont,9894,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002995
+26,qua 07/02/2001,17:00,CS Sedan,Troyes,?,Alex Dupont,13865,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003010
+27,sáb 17/02/2001,17:00,Saint-Étienne,CS Sedan,?,Alex Dupont,27331,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003016
+28,sáb 03/03/2001,16:00,CS Sedan,Lens,?,Alex Dupont,16949,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003027
+29,sáb 17/03/2001,16:00,Nantes,CS Sedan,?,Alex Dupont,35169,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003036
+30,sáb 07/04/2001,15:00,CS Sedan,Guingamp,?,Alex Dupont,15231,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003045
+31,sáb 14/04/2001,15:00,Marselha,CS Sedan,4-4-2 duplo 6,Alex Dupont,54976,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003052
+32,sáb 28/04/2001,15:00,CS Sedan,Toulouse,?,Alex Dupont,14645,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003062
+33,sáb 12/05/2001,15:00,Bordeaux,CS Sedan,?,Alex Dupont,32140,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003067
+34,sáb 19/05/2001,15:00,CS Sedan,Auxerre,?,Alex Dupont,16951,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003080

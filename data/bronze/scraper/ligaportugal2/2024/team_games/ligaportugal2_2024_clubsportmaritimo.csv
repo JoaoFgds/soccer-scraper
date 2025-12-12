@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 10/08/2024,07:00,Marítimo,CD Tondela,4-2-3-1,Fábio Pereira,5223,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397020
+2,dom 18/08/2024,07:00,Paços Ferreira,Marítimo,4-4-2 duplo 6,Miguel Romão,1747,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396968
+3,dom 25/08/2024,11:30,Marítimo,Chaves,4-2-3-1,Fábio Pereira,8125,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397004
+4,dom 01/09/2024,07:00,Portimonense,Marítimo,4-4-2 duplo 6,Fábio Pereira,1186,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396994
+5,dom 15/09/2024,07:00,Marítimo,Alverca,4-3-3 ofensivo,Silas,6125,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396985
+6,dom 29/09/2024,11:30,Leiria,Marítimo,3-4-3 plano,Silas,1263,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396984
+7,sáb 05/10/2024,10:00,Marítimo,FC Porto B,3-4-3 plano,Silas,5231,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396966
+8,dom 13/10/2024,11:30,Académico FC,Marítimo,3-4-3 plano,Silas,1678,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397028
+9,dom 27/10/2024,11:00,Felgueiras,Marítimo,4-2-3-1,Rui Duarte,1778,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397043
+10,sáb 02/11/2024,11:00,Marítimo,Penafiel,4-2-3-1,Rui Duarte,7211,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397030
+11,dom 10/11/2024,11:00,Leixões,Marítimo,4-2-3-1,Rui Duarte,1636,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397065
+12,dom 01/12/2024,12:30,Marítimo,Benfica B,4-2-3-1,Rui Duarte,6309,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397086
+13,dom 08/12/2024,12:30,Mafra,Marítimo,3-4-3 plano,Rui Duarte,549,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397108
+14,dom 15/12/2024,12:30,Marítimo,Torreense,4-2-3-1,Rui Duarte,4895,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397071
+15,sáb 23/11/2024,12:30,Feirense,Marítimo,4-2-3-1,Rui Duarte,1702,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397055
+16,dom 29/12/2024,12:30,Marítimo,UD Oliveirense,4-2-3-1,Rui Duarte,7344,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397120
+17,dom 05/01/2025,12:30,Vizela,Marítimo,3-4-2-1,Rui Duarte,1102,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397077
+18,dom 19/01/2025,12:30,CD Tondela,Marítimo,4-2-3-1,Ivo Vieira,1629,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397101
+19,sáb 25/01/2025,12:30,Marítimo,Paços Ferreira,4-2-3-1,Ivo Vieira,5062,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397112
+20,dom 02/02/2025,11:00,Chaves,Marítimo,4-3-3 ofensivo,Ivo Vieira,1118,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397166
+21,sáb 08/02/2025,12:30,Marítimo,Portimonense,4-2-3-1,Ivo Vieira,5740,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397129
+22,dom 16/02/2025,14:00,Alverca,Marítimo,4-2-3-1,Ivo Vieira,1514,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397147
+23,sáb 22/02/2025,12:30,Marítimo,Leiria,4-2-3-1,Ivo Vieira,5986,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397200
+24,dom 02/03/2025,11:00,FC Porto B,Marítimo,4-2-3-1,Ivo Vieira,494,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397146
+25,dom 09/03/2025,11:00,Marítimo,Académico FC,4-2-3-1,Ivo Vieira,4976,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397181
+26,sáb 15/03/2025,11:00,Marítimo,Felgueiras,4-3-3 ofensivo,Ivo Vieira,4902,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397189
+27,sáb 29/03/2025,11:00,Penafiel,Marítimo,4-2-3-1,Ivo Vieira,1302,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397204
+28,sáb 05/04/2025,11:30,Marítimo,Leixões,4-2-3-1,Ivo Vieira,5031,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397225
+29,dom 13/04/2025,10:00,Benfica B,Marítimo,4-2-3-1,Ivo Vieira,530,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397247
+30,dom 20/04/2025,11:30,Marítimo,Mafra,4-2-3-1,Ivo Vieira,3318,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397243
+31,sáb 26/04/2025,07:00,Torreense,Marítimo,4-2-3-1,Ivo Vieira,938,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397236
+32,dom 04/05/2025,11:30,Marítimo,Feirense,4-2-3-1,Ivo Vieira,3265,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397160
+33,sáb 10/05/2025,10:00,UD Oliveirense,Marítimo,4-2-3-1,Ivo Vieira,754,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397255
+34,sex 16/05/2025,16:30,Marítimo,Vizela,4-2-3-1,Ivo Vieira,6102,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397212

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 07/08/2022,14:00,FC Porto B,Covilhã,4-3-3 ofensivo,António Folha,467,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869827
+2,seg 15/08/2022,11:30,B SAD,FC Porto B,4-3-3 ofensivo,António Folha,315,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869806
+3,dom 21/08/2022,11:30,FC Porto B,UD Oliveirense,4-3-3 ofensivo,António Folha,498,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869809
+4,dom 28/08/2022,11:30,Estrela Amadora,FC Porto B,4-2-3-1,António Folha,388,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869822
+5,sáb 03/09/2022,11:30,FC Porto B,Vilafranquense,4-2-3-1,António Folha,387,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869838
+6,sáb 10/09/2022,11:30,Mafra,FC Porto B,4-3-3 ofensivo,António Folha,559,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869884
+7,sáb 17/09/2022,11:30,FC Porto B,Torreense,4-3-3 ofensivo,António Folha,385,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869850
+8,sáb 08/10/2022,07:00,Leixões,FC Porto B,4-3-3 ofensivo,António Folha,2237,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869894
+9,qua 19/10/2022,11:30,FC Porto B,Penafiel,4-2-3-1,António Folha,278,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869855
+10,dom 23/10/2022,07:00,Trofense,FC Porto B,4-2-3-1,António Folha,513,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869870
+11,sáb 29/10/2022,19:00,FC Porto B,Feirense,4-2-3-1,António Folha,367,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869862
+12,sáb 05/11/2022,08:00,Moreirense,FC Porto B,4-2-3-1,António Folha,1223,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869905
+13,sáb 12/11/2022,15:00,Nacional,FC Porto B,4-2-3-1,António Folha,872,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869920
+14,qua 28/12/2022,14:00,FC Porto B,Farense,4-2-3-1,António Folha,298,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869909
+15,sáb 07/01/2023,08:00,Académico FC,FC Porto B,4-2-3-1,António Folha,822,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869952
+16,dom 15/01/2023,12:30,FC Porto B,CD Tondela,4-2-3-1,António Folha,450,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869966
+17,dom 22/01/2023,11:00,Benfica B,FC Porto B,4-2-3-1,António Folha,836,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869947
+18,dom 29/01/2023,09:45,Covilhã,FC Porto B,4-2-3-1,António Folha,326,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869971
+19,sáb 04/02/2023,12:30,FC Porto B,B SAD,4-2-3-1,António Folha,328,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869941
+20,dom 12/02/2023,11:00,UD Oliveirense,FC Porto B,4-3-3 ofensivo,António Folha,1509,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869931
+21,sáb 18/02/2023,12:30,FC Porto B,Estrela Amadora,4-2-3-1,António Folha,443,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870083
+22,dom 26/02/2023,08:00,Vilafranquense,FC Porto B,4-2-3-1,António Folha,116,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870000
+23,dom 05/03/2023,12:30,FC Porto B,Mafra,3-4-3 plano,António Folha,355,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870091
+24,sáb 11/03/2023,11:00,Torreense,FC Porto B,3-4-3 plano,António Folha,815,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870039
+25,dom 19/03/2023,12:30,FC Porto B,Leixões,4-2-3-1,António Folha,528,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870011
+26,seg 03/04/2023,14:00,Penafiel,FC Porto B,4-2-3-1,António Folha,1211,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870017
+27,sáb 08/04/2023,11:30,FC Porto B,Trofense,4-2-3-1,António Folha,428,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869987
+28,dom 16/04/2023,10:00,Feirense,FC Porto B,4-4-2 duplo 6,António Folha,1393,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870042
+29,dom 23/04/2023,11:30,FC Porto B,Moreirense,4-2-3-1,António Folha,917,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870031
+30,dom 30/04/2023,08:45,FC Porto B,Nacional,4-2-3-1,António Folha,250,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870100
+31,dom 07/05/2023,11:30,Farense,FC Porto B,4-2-3-1,António Folha,5525,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870062
+32,dom 14/05/2023,11:30,FC Porto B,Académico FC,4-2-3-1,António Folha,450,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869979
+33,seg 22/05/2023,14:00,CD Tondela,FC Porto B,4-2-3-1,António Folha,1074,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870056
+34,sáb 27/05/2023,08:45,FC Porto B,Benfica B,4-2-3-1,António Folha,387,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870073

@@ -1,0 +1,17 @@
+league_name,season_year,canonical_name,other_name,precision_score,is_confident_match
+jupilerproleague,2010,cerclebrugge,cerclebrugge,100,True
+jupilerproleague,2010,clubbrugge,clubbrugge,100,True
+jupilerproleague,2010,germinalbeerschotantwerpen,germbeerschot,67,False
+jupilerproleague,2010,kaagent,kaagent,100,True
+jupilerproleague,2010,kaseupen,kaseupen,100,True
+jupilerproleague,2010,krcgenk,krcgenk,100,True
+jupilerproleague,2010,ksclokeren2020,ksclokeren,83,True
+jupilerproleague,2010,kvcwesterlo,kvcwesterlo,100,True
+jupilerproleague,2010,kvkortrijk,kvkortrijk,100,True
+jupilerproleague,2010,kvmechelen,kvmechelen,100,True
+jupilerproleague,2010,liersesk2018,liersesk,80,True
+jupilerproleague,2010,rcharleroisc,rcharleroisc,100,True
+jupilerproleague,2010,rscanderlecht,anderlecht,87,True
+jupilerproleague,2010,standarddeliege,standardliege,93,True
+jupilerproleague,2010,vvsttruiden,sttruiden,90,True
+jupilerproleague,2010,zultewaregem,zultewaregem,100,True

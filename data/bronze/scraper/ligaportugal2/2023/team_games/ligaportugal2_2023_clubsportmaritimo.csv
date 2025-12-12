@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/08/2023,10:00,Nacional,Marítimo,4-2-3-1,Tulipa,4293,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109789
+2,sex 18/08/2023,14:00,Marítimo,AVS,4-2-3-1,Tulipa,7638,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109609
+3,dom 27/08/2023,11:30,Benfica B,Marítimo,4-2-3-1,Tulipa,803,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109782
+4,sáb 02/09/2023,14:00,Marítimo,Paços Ferreira,4-2-3-1,Tulipa,7161,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109803
+5,sáb 16/09/2023,07:00,FC Porto B,Marítimo,4-2-3-1,Tulipa,450,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109717
+6,sáb 30/09/2023,10:00,Marítimo,Mafra,4-2-3-1,Tulipa,6635,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109772
+7,dom 08/10/2023,10:00,Belenenses,Marítimo,4-2-3-1,Tulipa,2142,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109805
+8,sáb 28/10/2023,11:30,Marítimo,CD Tondela,4-2-3-1,Tulipa,7038,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109820
+9,dom 05/11/2023,11:00,Leiria,Marítimo,4-4-2 duplo 6,Tulipa,7642,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109827
+10,dom 12/11/2023,12:30,Leixões,Marítimo,4-2-3-1,Tulipa,2173,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109839
+11,dom 19/11/2023,12:30,Marítimo,Torreense,4-2-3-1,Tulipa,8163,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109856
+12,dom 03/12/2023,12:30,Santa Clara,Marítimo,4-2-3-1,Tulipa,3197,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109874
+13,dom 10/12/2023,12:30,Marítimo,Vilaverdense,4-4-2 duplo 6,Fábio Pereira,6877,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109883
+14,dom 17/12/2023,11:00,Feirense,Marítimo,4-4-2 duplo 6,Fábio Pereira,1718,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109623
+15,sáb 23/12/2023,09:45,Marítimo,Penafiel,4-4-2 duplo 6,Fábio Pereira,8374,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109892
+16,sáb 06/01/2024,08:00,UD Oliveirense,Marítimo,4-4-2 duplo 6,Fábio Pereira,419,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109626
+17,dom 14/01/2024,12:30,Marítimo,Académico FC,4-4-2 duplo 6,Fábio Pereira,5988,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109847
+18,dom 21/01/2024,15:00,Marítimo,Nacional,4-4-2 duplo 6,Fábio Pereira,10385,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109861
+19,dom 28/01/2024,08:00,AVS,Marítimo,4-4-2 duplo 6,Fábio Pereira,889,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109636
+20,dom 04/02/2024,11:00,Marítimo,Benfica B,4-4-2 duplo 6,Fábio Pereira,8321,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109907
+21,dom 11/02/2024,11:00,Paços Ferreira,Marítimo,4-4-2 duplo 6,Fábio Pereira,1925,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109668
+22,sáb 17/02/2024,12:30,Marítimo,FC Porto B,4-2-3-1,Fábio Pereira,7938,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109681
+23,dom 25/02/2024,08:00,Mafra,Marítimo,4-4-2 duplo 6,Fábio Pereira,1065,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109654
+24,ter 05/03/2024,15:00,Marítimo,Belenenses,4-2-3-1,Fábio Pereira,5841,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109670
+25,dom 10/03/2024,08:00,CD Tondela,Marítimo,4-2-3-1,Fábio Pereira,732,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109649
+26,sáb 16/03/2024,12:30,Marítimo,Leiria,4-2-3-1,Fábio Pereira,6791,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109701
+27,sáb 30/03/2024,11:00,Marítimo,Leixões,4-2-3-1,Fábio Pereira,5651,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109900
+28,dom 07/04/2024,11:30,Torreense,Marítimo,4-2-3-1,Fábio Pereira,992,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109710
+29,dom 14/04/2024,16:30,Marítimo,Santa Clara,4-2-3-1,Fábio Pereira,8356,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109692
+30,dom 21/04/2024,11:30,Vilaverdense,Marítimo,4-4-2 duplo 6,Fábio Pereira,205,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109730
+31,sáb 27/04/2024,10:00,Marítimo,Feirense,4-2-3-1,Fábio Pereira,5456,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109765
+32,dom 05/05/2024,07:00,Penafiel,Marítimo,4-2-3-1,Fábio Pereira,542,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109748
+33,dom 12/05/2024,11:30,Marítimo,UD Oliveirense,4-2-3-1,Fábio Pereira,7832,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109751
+34,dom 19/05/2024,07:00,Académico FC,Marítimo,4-2-3-1,Fábio Pereira,1427,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109737

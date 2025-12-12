@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 13/08/2000,10:00,Greuther Fürth,Chemnitzer FC,3-5-2 ofensivo,Christoph Franke,7020,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941738
+2,sex 18/08/2000,14:00,Chemnitzer FC,Hannover,?,Christoph Franke,7020,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941743
+3,ter 05/09/2000,14:00,Chemnitzer FC,Saarbrücken,3-5-2,Christoph Franke,5325,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941756
+4,dom 10/09/2000,10:00,VfL Osnabrück,Chemnitzer FC,3-5-2,Josip Kuze,8326,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941767
+5,dom 17/09/2000,10:00,Chemnitzer FC,SSV Ulm 1846,?,Josip Kuze,5600,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941777
+6,dom 24/09/2000,10:00,RW Oberhausen,Chemnitzer FC,?,Josip Kuze,3000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941784
+7,dom 01/10/2000,10:00,Chemnitzer FC,Mainz,4-3-3 defensivo,Josip Kuze,5680,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941794
+8,sex 13/10/2000,15:00,Alem. Aachen,Chemnitzer FC,4-4-2,Josip Kuze,15200,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941797
+9,sex 20/10/2000,15:00,Chemnitzer FC,St. Pauli,4-4-2,Josip Kuze,5800,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941807
+10,sex 27/10/2000,15:00,Nuremberg,Chemnitzer FC,5-4-1,Josip Kuze,15500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941815
+11,sex 03/11/2000,16:00,Chemnitzer FC,LR Ahlen,?,Josip Kuze,4250,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941825
+12,sex 10/11/2000,16:00,W. Mannheim,Chemnitzer FC,3-1-4-2,Josip Kuze,5000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941842
+13,dom 19/11/2000,12:00,Chemnitzer FC,SSV Reutlingen,3-5-2,Josip Kuze,6224,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941856
+14,dom 26/11/2000,12:00,Stuttg. Kickers,Chemnitzer FC,?,Josip Kuze,4246,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941864
+15,sex 01/12/2000,16:00,Chemnitzer FC,MSV Duisburg,3-5-2,Dirk Karkuth,4365,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941869
+16,sáb 09/12/2000,12:00,Arm. Bielefeld,Chemnitzer FC,3-5-2,Manfred Lienemann,8081,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941879
+17,qua 13/12/2000,16:00,Chemnitzer FC,M'gladbach,?,Dirk Karkuth,6500,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941892
+18,dom 17/12/2000,12:00,Chemnitzer FC,Greuther Fürth,?,Dirk Karkuth,3850,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941899
+19,sex 26/01/2001,16:00,Hannover,Chemnitzer FC,3-5-2,Dirk Karkuth,9262,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941904
+20,qua 14/02/2001,16:00,Saarbrücken,Chemnitzer FC,3-5-2,Dirk Karkuth,7000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941918
+21,sáb 10/02/2001,12:00,Chemnitzer FC,VfL Osnabrück,3-5-2,Dirk Karkuth,4690,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941925
+22,dom 18/02/2001,11:00,SSV Ulm 1846,Chemnitzer FC,?,Dirk Karkuth,5000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941938
+23,qua 21/03/2001,15:00,Chemnitzer FC,RW Oberhausen,3-5-2,Dirk Karkuth,2360,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941947
+24,sáb 03/03/2001,11:00,Mainz,Chemnitzer FC,?,Dirk Karkuth,4872,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941951
+25,dom 11/03/2001,11:00,Chemnitzer FC,Alem. Aachen,3-5-2,Dirk Karkuth,3200,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941962
+26,dom 18/03/2001,11:00,St. Pauli,Chemnitzer FC,3-1-4-2,Dirk Karkuth,16398,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941974
+27,sex 30/03/2001,14:00,Chemnitzer FC,Nuremberg,3-5-2,Dirk Karkuth,4700,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941976
+28,sáb 07/04/2001,10:00,LR Ahlen,Chemnitzer FC,?,Dirk Karkuth,7630,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941988
+29,qui 12/04/2001,14:00,Chemnitzer FC,W. Mannheim,?,Dirk Karkuth,2920,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941995
+30,qua 25/04/2001,14:00,SSV Reutlingen,Chemnitzer FC,3-4-2-1,Dirk Karkuth,4836,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942011
+31,sáb 28/04/2001,10:00,Chemnitzer FC,Stuttg. Kickers,4-4-2 líbero plano,Dirk Karkuth,2777,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942014
+32,sex 04/05/2001,14:00,MSV Duisburg,Chemnitzer FC,?,Dirk Karkuth,5030,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942022
+33,dom 13/05/2001,10:00,Chemnitzer FC,Arm. Bielefeld,3-5-2,Dirk Karkuth,3380,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942032
+34,dom 20/05/2001,10:00,M'gladbach,Chemnitzer FC,?,Dirk Karkuth,34500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942046

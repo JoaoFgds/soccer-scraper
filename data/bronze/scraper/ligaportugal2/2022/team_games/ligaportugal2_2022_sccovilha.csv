@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 07/08/2022,14:00,FC Porto B,Covilhã,4-3-3 ofensivo,Leonel Pontes,467,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869827
+2,sáb 13/08/2022,07:00,Covilhã,Feirense,4-3-3 ofensivo,Leonel Pontes,661,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869802
+3,sex 19/08/2022,14:00,CD Tondela,Covilhã,4-3-3 ofensivo,Leonel Pontes,514,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869808
+4,sáb 27/08/2022,11:30,Covilhã,Penafiel,4-1-4-1,Leonel Pontes,590,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869823
+5,dom 04/09/2022,11:30,Farense,Covilhã,4-1-4-1,Leonel Pontes,2896,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869835
+6,dom 11/09/2022,07:00,Covilhã,Nacional,4-3-3 ofensivo,Leonel Pontes,466,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869886
+7,dom 18/09/2022,07:00,Benfica B,Covilhã,3-4-3 plano,Leonel Pontes,402,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869848
+8,dom 09/10/2022,07:00,Covilhã,Académico FC,4-3-3 ofensivo,Alex,491,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869892
+9,ter 18/10/2022,19:00,Estrela Amadora,Covilhã,4-3-3 ofensivo,Alex,714,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869853
+10,sáb 22/10/2022,10:00,Covilhã,Torreense,4-2-3-1,Alex,331,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869876
+11,dom 30/10/2022,12:30,Covilhã,Leixões,4-2-3-1,Alex,707,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869864
+12,sex 04/11/2022,15:00,Mafra,Covilhã,4-2-3-1,Alex,752,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869899
+13,dom 13/11/2022,11:00,Covilhã,B SAD,4-2-3-1,Alex,395,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869915
+14,sex 30/12/2022,14:00,UD Oliveirense,Covilhã,4-2-3-1,Alex,497,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869907
+15,dom 08/01/2023,08:00,Covilhã,Vilafranquense,4-2-3-1,Alex,147,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869955
+16,sáb 14/01/2023,11:00,Trofense,Covilhã,4-2-3-1,Alex,574,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869962
+17,dom 22/01/2023,08:00,Covilhã,Moreirense,3-4-1-2,Alex,479,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869945
+18,dom 29/01/2023,09:45,Covilhã,FC Porto B,3-4-1-2,Alex,326,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869971
+19,seg 06/02/2023,15:00,Feirense,Covilhã,3-4-1-2,Alex,1705,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869937
+20,sáb 11/02/2023,12:30,Covilhã,CD Tondela,3-4-1-2,Alex,942,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869925
+21,sáb 18/02/2023,08:00,Penafiel,Covilhã,3-4-1-2,Alex,417,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870084
+22,dom 26/02/2023,11:00,Covilhã,Farense,3-4-1-2,Alex,856,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869997
+23,dom 05/03/2023,11:00,Nacional,Covilhã,3-4-1-2,Alex,2011,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870093
+24,dom 12/03/2023,08:00,Covilhã,Benfica B,3-4-3 plano,Alex,1020,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870037
+25,dom 19/03/2023,09:45,Académico FC,Covilhã,3-4-3 plano,Alex,1761,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870009
+26,sáb 01/04/2023,19:00,Covilhã,Estrela Amadora,3-4-1-2,Alex,944,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870015
+27,sáb 08/04/2023,11:30,Torreense,Covilhã,3-5-2 plano,Alex,1218,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869993
+28,sáb 15/04/2023,11:30,Leixões,Covilhã,3-5-2 plano,Alex,1171,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870044
+29,seg 24/04/2023,15:00,Covilhã,Mafra,3-5-2 plano,Alex,1178,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870025
+30,dom 30/04/2023,07:00,B SAD,Covilhã,3-4-3 plano,Alex,432,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870095
+31,sáb 06/05/2023,10:00,Covilhã,UD Oliveirense,3-4-3 plano,Alex,858,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870060
+32,dom 14/05/2023,14:00,Vilafranquense,Covilhã,3-4-3 plano,Alex,237,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869982
+33,sáb 20/05/2023,07:00,Covilhã,Trofense,3-4-3 plano,Alex,1181,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870052
+34,qui 25/05/2023,16:15,Moreirense,Covilhã,3-4-3 plano,Alex,1474,6:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870071

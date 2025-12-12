@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/08/2017,11:00,Chelsea,FC Burnley,3-4-2-1,Antonio Conte,41616,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872117
+2,dom 20/08/2017,12:00,Tottenham,Chelsea,3-5-2 plano,Antonio Conte,73587,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872133
+3,dom 27/08/2017,09:30,Chelsea,Everton,3-4-2-1,Antonio Conte,41382,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872136
+4,sáb 09/09/2017,11:00,Leicester,Chelsea,3-4-2-1,Antonio Conte,30923,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872149
+5,dom 17/09/2017,09:30,Chelsea,Arsenal,3-4-3 plano,Antonio Conte,41478,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872156
+6,sáb 23/09/2017,11:00,Stoke,Chelsea,3-4-3 plano,Antonio Conte,29661,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872172
+7,sáb 30/09/2017,13:30,Chelsea,Man City,5-3-2,Antonio Conte,41530,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872177
+8,sáb 14/10/2017,11:00,Crystal Palace,Chelsea,3-4-2-1,Antonio Conte,25480,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872187
+9,sáb 21/10/2017,09:30,Chelsea,Watford,5-4-1 plano,Antonio Conte,41467,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872195
+10,sáb 28/10/2017,14:30,Bournemouth,Chelsea,3-4-2-1,Antonio Conte,10998,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872205
+11,dom 05/11/2017,14:30,Chelsea,Man Utd,3-4-2-1,Antonio Conte,41615,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872215
+12,sáb 18/11/2017,13:00,West Brom,Chelsea,3-5-2 plano,Antonio Conte,23592,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872234
+13,sáb 25/11/2017,15:30,Liverpool,Chelsea,3-5-2 plano,Antonio Conte,53225,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872238
+14,qua 29/11/2017,17:45,Chelsea,Swansea,3-4-2-1,Antonio Conte,41365,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872251
+15,sáb 02/12/2017,10:30,Chelsea,Newcastle,3-5-2 plano,Antonio Conte,41538,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872258
+16,sáb 09/12/2017,10:30,West Ham,Chelsea,3-5-2 plano,Antonio Conte,56953,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872274
+17,ter 12/12/2017,18:00,Huddersfield,Chelsea,3-4-2-1,Antonio Conte,24169,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872277
+18,sáb 16/12/2017,13:00,Chelsea,Southampton,3-4-2-1,Antonio Conte,41562,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872288
+19,sáb 23/12/2017,10:30,Everton,Chelsea,3-4-2-1,Antonio Conte,39191,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872304
+20,ter 26/12/2017,13:00,Chelsea,Brighton,3-5-2 plano,Antonio Conte,41568,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872306
+21,sáb 30/12/2017,13:00,Chelsea,Stoke,3-4-2-1,Antonio Conte,41433,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872316
+22,qua 03/01/2018,17:45,Arsenal,Chelsea,3-5-2 plano,Antonio Conte,59379,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872325
+23,sáb 13/01/2018,13:00,Chelsea,Leicester,3-5-2 plano,Antonio Conte,41552,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872336
+24,sáb 20/01/2018,10:30,Brighton,Chelsea,3-4-2-1,Antonio Conte,30600,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872346
+25,qua 31/01/2018,17:45,Chelsea,Bournemouth,3-4-2-1,Antonio Conte,41464,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872358
+26,seg 05/02/2018,18:00,Watford,Chelsea,3-4-3 plano,Antonio Conte,20157,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872373
+27,seg 12/02/2018,18:00,Chelsea,West Brom,3-4-2-1,Antonio Conte,41071,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872375
+28,dom 25/02/2018,11:05,Man Utd,Chelsea,3-4-2-1,Antonio Conte,75060,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872392
+29,dom 04/03/2018,13:00,Man City,Chelsea,3-4-2-1,Antonio Conte,54328,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872400
+30,sáb 10/03/2018,14:30,Chelsea,Crystal Palace,3-4-2-1,Antonio Conte,40800,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872407
+31,qui 19/04/2018,15:45,FC Burnley,Chelsea,3-4-1-2,Antonio Conte,21264,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872416
+32,dom 01/04/2018,12:00,Chelsea,Tottenham,3-4-2-1,Antonio Conte,41364,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872427
+33,dom 08/04/2018,12:30,Chelsea,West Ham,3-4-2-1,Antonio Conte,41324,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872438
+34,sáb 14/04/2018,08:30,Southampton,Chelsea,3-4-2-1,Antonio Conte,31764,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872451
+35,qua 09/05/2018,15:45,Chelsea,Huddersfield,3-4-2-1,Antonio Conte,38910,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872458
+36,sáb 28/04/2018,13:30,Swansea,Chelsea,3-5-2 plano,Antonio Conte,20900,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872472
+37,dom 06/05/2018,12:30,Chelsea,Liverpool,3-5-2 plano,Antonio Conte,41314,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872478
+38,dom 13/05/2018,11:00,Newcastle,Chelsea,3-4-2-1,Antonio Conte,52294,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872490

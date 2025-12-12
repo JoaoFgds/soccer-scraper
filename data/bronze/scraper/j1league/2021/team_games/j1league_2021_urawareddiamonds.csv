@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 27/02/2021,02:00,Urawa Reds,FC Tokyo,4-2-3-1,Ricardo Rodríguez,4943,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3505154
+2,sáb 06/03/2021,03:00,Sagan Tosu,Urawa Reds,4-2-3-1,Ricardo Rodríguez,7452,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3508846
+3,qua 10/03/2021,06:00,Urawa Reds,Yokohama FC,4-4-2 duplo 6,Ricardo Rodríguez,4524,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3508881
+4,dom 14/03/2021,01:00,Yokohama F. M.,Urawa Reds,4-2-3-1,Ricardo Rodríguez,4864,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3508999
+5,qua 17/03/2021,06:00,Urawa Reds,H. C. Sapporo,4-4-2 duplo 6,Ricardo Rodríguez,4571,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3508920
+6,dom 21/03/2021,03:00,Urawa Reds,Kawasaki Front.,4-2-3-1,Ricardo Rodríguez,4679,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3508938
+7,sáb 03/04/2021,03:00,Urawa Reds,Kashima Antlers,4-2-3-1,Ricardo Rodríguez,9975,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3508948
+8,qua 07/04/2021,07:00,Shimizu S-Pulse,Urawa Reds,4-1-4-1,Ricardo Rodríguez,5548,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3508928
+9,dom 11/04/2021,04:00,Urawa Reds,Tokushima Vort.,4-1-4-1,Ricardo Rodríguez,9972,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509562
+10,dom 18/04/2021,03:00,Cerezo Osaka,Urawa Reds,4-1-4-1,Ricardo Rodríguez,4672,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3508961
+11,dom 25/04/2021,04:00,Urawa Reds,Oita Trinita,4-4-2 duplo 6,Ricardo Rodríguez,9270,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3508901
+12,sáb 01/05/2021,02:00,Avispa Fukuoka,Urawa Reds,4-4-2 duplo 6,Ricardo Rodríguez,6906,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3508974
+13,dom 09/05/2021,04:00,Urawa Reds,Vegalta Sendai,4-4-2 duplo 6,Ricardo Rodríguez,4750,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3508888
+14,dom 16/05/2021,05:00,Gamba Osaka,Urawa Reds,4-2-3-1,Ricardo Rodríguez,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3508971
+15,sáb 22/05/2021,04:00,Urawa Reds,Vissel Kobe,4-4-2 duplo 6,Ricardo Rodríguez,4917,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3508906
+16,qua 26/05/2021,07:00,Sanf. Hiroshima,Urawa Reds,4-2-3-1,Ricardo Rodríguez,3681,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3508988
+17,dom 30/05/2021,06:00,Urawa Reds,Nagoya Grampus,4-1-4-1,Ricardo Rodríguez,4685,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509574
+18,dom 20/06/2021,07:00,Urawa Reds,Shonan Bellmare,4-2-3-1,Ricardo Rodríguez,4810,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509585
+19,qua 23/06/2021,07:00,Kashiwa Reysol,Urawa Reds,4-4-2,Ricardo Rodríguez,3263,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509035
+20,dom 27/06/2021,07:00,Urawa Reds,Avispa Fukuoka,4-2-3-1,Ricardo Rodríguez,4724,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509079
+21,sáb 03/07/2021,07:00,Vegalta Sendai,Urawa Reds,4-2-3-1,Ricardo Rodríguez,8243,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509083
+22,sáb 10/07/2021,07:00,Oita Trinita,Urawa Reds,4-2-3-1,Ricardo Rodríguez,9384,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509588
+23,seg 09/08/2021,03:00,H. C. Sapporo,Urawa Reds,4-2-3-1,Ricardo Rodríguez,8330,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509002
+24,sáb 14/08/2021,07:00,Urawa Reds,Sagan Tosu,4-2-3-1,Ricardo Rodríguez,4704,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509602
+25,sáb 21/08/2021,07:00,Tokushima Vort.,Urawa Reds,4-2-3-1,Ricardo Rodríguez,7046,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509028
+26,qua 25/08/2021,07:00,Urawa Reds,Sanf. Hiroshima,4-2-3-1,Ricardo Rodríguez,4425,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509094
+27,dom 29/08/2021,07:00,Shonan Bellmare,Urawa Reds,4-2-3-1,Ricardo Rodríguez,4635,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509070
+28,sáb 11/09/2021,06:00,Yokohama FC,Urawa Reds,4-2-3-1,Ricardo Rodríguez,4992,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509042
+29,sáb 18/09/2021,07:00,Urawa Reds,Cerezo Osaka,4-2-3-1,Ricardo Rodríguez,4887,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509104
+30,sáb 25/09/2021,03:00,FC Tokyo,Urawa Reds,4-2-3-1,Ricardo Rodríguez,4875,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509610
+31,sáb 02/10/2021,03:00,Vissel Kobe,Urawa Reds,4-2-3-1,Ricardo Rodríguez,7923,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509622
+32,sáb 16/10/2021,03:00,Urawa Reds,Gamba Osaka,4-2-3-1,Ricardo Rodríguez,10233,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509628
+33,sex 22/10/2021,07:00,Urawa Reds,Kashiwa Reysol,4-2-3-1,Ricardo Rodríguez,11172,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509637
+34,qua 03/11/2021,01:05,Kawasaki Front.,Urawa Reds,4-2-3-1,Ricardo Rodríguez,11603,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509659
+35,dom 07/11/2021,02:00,Kashima Antlers,Urawa Reds,4-2-3-1,Ricardo Rodríguez,16518,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509648
+36,sáb 20/11/2021,02:00,Urawa Reds,Yokohama F. M.,4-2-3-1,Ricardo Rodríguez,21257,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509014
+37,sáb 27/11/2021,02:00,Urawa Reds,Shimizu S-Pulse,4-3-3 ofensivo,Ricardo Rodríguez,28138,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509669
+38,sáb 04/12/2021,02:00,Nagoya Grampus,Urawa Reds,4-2-3-1,Ricardo Rodríguez,27079,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509058

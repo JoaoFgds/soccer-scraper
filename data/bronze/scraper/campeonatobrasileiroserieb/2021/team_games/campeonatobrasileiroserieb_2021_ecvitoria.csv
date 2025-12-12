@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 28/05/2021,19:00,Guarani,Vitória,4-2-3-1,Rodrigo Chagas,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546384
+2,seg 07/06/2021,20:00,Vitória,Náutico,4-2-3-1,Rodrigo Chagas,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546400
+3,dom 13/06/2021,20:30,Vitória,Operário-PR,4-2-3-1,Ramon Menezes,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3573967
+4,qua 16/06/2021,16:00,Remo,Vitória,3-4-3 plano,Ramon Menezes,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3573973
+5,sáb 19/06/2021,19:00,Vitória,Brusque,4-3-3 ofensivo,Ramon Menezes,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3573983
+6,ter 22/06/2021,21:30,Coritiba,Vitória,4-3-3 ofensivo,Ramon Menezes,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3573994
+7,sáb 26/06/2021,18:30,Vitória,Londrina,4-2-3-1,Ramon Menezes,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580675
+8,qua 30/06/2021,21:30,Botafogo,Vitória,3-5-2,Ramon Menezes,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580688
+9,sáb 03/07/2021,21:30,Vitória,Goiás,4-2-3-1,Ramon Menezes,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584107
+10,sáb 10/07/2021,19:00,Confiança,Vitória,4-2-3-1,Ramon Menezes,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584137
+11,ter 13/07/2021,21:30,Vitória,Sampaio Corrêa,4-3-3 ofensivo,Ramon Menezes,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584127
+12,sáb 17/07/2021,11:00,Brasil Pelotas,Vitória,4-1-4-1,Ramon Menezes,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584113
+13,ter 20/07/2021,21:30,Vitória,Ponte Preta,4-3-3 ofensivo,Ramon Menezes,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584147
+14,sáb 24/07/2021,21:00,CSA,Vitória,4-2-3-1,Ramon Menezes,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584154
+15,sáb 31/07/2021,16:30,Vitória,Avaí,4-2-3-1,Ramon Menezes,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584167
+16,sáb 07/08/2021,19:30,Vitória,Vasco da Gama,4-2-3-1,Carlos Amadeu,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584197
+17,qua 11/08/2021,19:00,Cruzeiro,Vitória,4-2-3-1,Carlos Amadeu,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584182
+18,dom 15/08/2021,16:00,Vitória,CRB,4-2-3-1,Wagner Lopes,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584177
+19,qua 18/08/2021,19:00,Vila Nova,Vitória,4-2-3-1,Wagner Lopes,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584200
+20,sáb 21/08/2021,16:30,Vitória,Guarani,4-2-3-1,Wagner Lopes,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584217
+21,dom 29/08/2021,16:00,Náutico,Vitória,4-2-3-1,Wagner Lopes,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584222
+22,sáb 04/09/2021,11:00,Operário-PR,Vitória,4-2-3-1,Wagner Lopes,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584255
+23,sex 10/09/2021,19:00,Vitória,Remo,4-2-3-1,Wagner Lopes,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584247
+24,sex 17/09/2021,16:00,Brusque,Vitória,4-2-3-1,Wagner Lopes,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584236
+25,qua 22/09/2021,19:00,Vitória,Coritiba,4-3-3 ofensivo,Wagner Lopes,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584267
+26,sáb 25/09/2021,16:00,Londrina,Vitória,4-3-3 ofensivo,Wagner Lopes,358,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584273
+27,qua 29/09/2021,21:30,Vitória,Botafogo,4-1-4-1,Wagner Lopes,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584287
+28,sáb 02/10/2021,16:00,Goiás,Vitória,4-1-4-1,Wagner Lopes,1080,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584310
+29,sáb 09/10/2021,19:00,Vitória,Confiança,4-1-4-1,Wagner Lopes,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584307
+30,ter 12/10/2021,19:00,Sampaio Corrêa,Vitória,4-1-4-1,Wagner Lopes,3720,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584298
+31,sáb 23/10/2021,16:30,Vitória,Brasil Pelotas,4-2-3-1,Wagner Lopes,2054,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584327
+32,sáb 30/10/2021,16:00,Ponte Preta,Vitória,4-2-3-1,Wagner Lopes,3396,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584331
+33,ter 02/11/2021,16:00,Vitória,CSA,4-2-3-1,Wagner Lopes,8291,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584347
+34,sex 05/11/2021,19:00,Avaí,Vitória,4-2-3-1,Wagner Lopes,4745,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584376
+35,qua 10/11/2021,21:30,Vasco da Gama,Vitória,4-2-3-1,Wagner Lopes,689,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584359
+36,dom 14/11/2021,19:00,Vitória,Cruzeiro,4-2-3-1,Wagner Lopes,16991,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584357
+37,seg 22/11/2021,18:00,CRB,Vitória,4-2-3-1,Wagner Lopes,5283,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584384
+38,dom 28/11/2021,16:00,Vitória,Vila Nova,4-4-2,Wagner Lopes,5956,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584397

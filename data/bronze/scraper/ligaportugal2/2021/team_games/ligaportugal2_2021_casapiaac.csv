@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 07/08/2021,06:45,Académico FC,Casa Pia,4-2-3-1,Filipe Martins,132,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621657
+2,sáb 14/08/2021,10:00,Casa Pia,FC Porto B,4-2-3-1,Filipe Martins,166,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621667
+3,sáb 21/08/2021,10:00,Penafiel,Casa Pia,4-3-3 ofensivo,Filipe Martins,278,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621690
+4,sáb 28/08/2021,07:00,Casa Pia,Benfica B,4-2-3-1,Filipe Martins,250,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621685
+5,dom 12/09/2021,11:30,Trofense,Casa Pia,3-4-3 plano,Filipe Martins,525,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621678
+6,dom 19/09/2021,07:00,Nacional,Casa Pia,3-4-3 plano,Filipe Martins,496,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621700
+7,dom 03/10/2021,11:00,Casa Pia,Covilhã,3-4-3 plano,Filipe Martins,165,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621719
+8,dom 10/10/2021,11:30,Mafra,Casa Pia,3-4-3 plano,Filipe Martins,424,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621730
+9,sáb 23/10/2021,10:00,Casa Pia,Chaves,3-4-3 plano,Filipe Martins,393,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621711
+10,dom 31/10/2021,13:00,Feirense,Casa Pia,3-4-3 plano,Filipe Martins,945,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621782
+11,sáb 06/11/2021,11:00,Casa Pia,Académica,3-4-3 plano,Filipe Martins,571,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621737
+12,sex 26/11/2021,15:00,Farense,Casa Pia,3-4-3 plano,Filipe Martins,1878,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621789
+13,qui 02/12/2021,17:15,Casa Pia,Varzim,3-4-3 plano,Filipe Martins,346,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621755
+14,seg 13/12/2021,15:00,Estrela Amadora,Casa Pia,3-4-3 plano,Filipe Martins,2034,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621778
+15,dom 19/12/2021,11:00,Casa Pia,Rio Ave,?,Filipe Martins,355,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621765
+16,seg 03/01/2022,15:00,Vilafranquense,Casa Pia,?,Filipe Martins,74,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621750
+17,dom 09/01/2022,08:00,Casa Pia,Leixões,3-4-3 plano,Filipe Martins,175,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621820
+18,sáb 15/01/2022,08:00,Casa Pia,Académico FC,3-4-3 plano,Filipe Martins,194,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621801
+19,dom 23/01/2022,11:00,FC Porto B,Casa Pia,3-4-3 plano,Filipe Martins,242,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621811
+20,seg 31/01/2022,14:00,Casa Pia,Penafiel,?,Filipe Martins,237,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621884
+21,sex 04/02/2022,15:00,Benfica B,Casa Pia,?,Filipe Martins,465,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621838
+22,sex 11/02/2022,15:00,Casa Pia,Trofense,3-4-3 plano,Filipe Martins,239,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621955
+23,sáb 19/02/2022,11:00,Casa Pia,Nacional,?,Filipe Martins,389,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621826
+24,sáb 26/02/2022,08:00,Covilhã,Casa Pia,?,Filipe Martins,281,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621900
+25,ter 08/03/2022,17:15,Casa Pia,Mafra,?,Filipe Martins,402,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621894
+26,dom 13/03/2022,11:00,Chaves,Casa Pia,3-4-3 plano,Filipe Martins,1277,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621855
+27,dom 20/03/2022,11:00,Casa Pia,Feirense,3-4-3 plano,Filipe Martins,513,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621845
+28,dom 03/04/2022,07:00,Académica,Casa Pia,3-4-3 plano,Filipe Martins,1038,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621896
+29,sáb 09/04/2022,07:00,Casa Pia,Farense,3-4-3 plano,Filipe Martins,272,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621874
+30,sex 15/04/2022,10:00,Varzim,Casa Pia,3-4-3 plano,Filipe Martins,2957,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621892
+31,sáb 23/04/2022,07:00,Casa Pia,Estrela Amadora,?,Filipe Martins,714,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621939
+32,dom 01/05/2022,10:00,Rio Ave,Casa Pia,?,Filipe Martins,3047,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621941
+33,sáb 07/05/2022,11:30,Casa Pia,Vilafranquense,?,Filipe Martins,978,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621924
+34,dom 15/05/2022,07:00,Leixões,Casa Pia,3-4-3 plano,Filipe Martins,2354,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621905

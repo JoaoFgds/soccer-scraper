@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qua 28/10/2020,18:45,Sporting,Gil Vicente,3-4-3 plano,Rúben Amorim,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432016
+2,dom 27/09/2020,14:30,Paços Ferreira,Sporting,3-4-3 plano,Rúben Amorim,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431963
+3,dom 04/10/2020,17:00,Portimonense,Sporting,3-4-3 plano,Rúben Amorim,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432180
+4,sáb 17/10/2020,16:30,Sporting,FC Porto,5-4-1 plano,Rúben Amorim,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432048
+5,sáb 24/10/2020,14:00,Santa Clara,Sporting,3-4-3 plano,Rúben Amorim,932,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431993
+6,dom 01/11/2020,17:00,Sporting,CD Tondela,3-4-3 plano,Rúben Amorim,,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432089
+7,sáb 07/11/2020,17:30,Vit. Guimarães,Sporting,3-4-3 plano,Rúben Amorim,,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431999
+8,sáb 28/11/2020,17:30,Sporting,Moreirense,3-4-3 plano,Rúben Amorim,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432169
+9,sáb 05/12/2020,15:00,Famalicão,Sporting,3-4-3 plano,Rúben Amorim,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431989
+10,sáb 19/12/2020,17:30,Sporting,Farense,3-4-3 plano,Rúben Amorim,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432228
+11,dom 27/12/2020,17:00,B SAD,Sporting,3-4-3 plano,Rúben Amorim,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432034
+12,sáb 02/01/2021,15:00,Sporting,Braga,3-4-3 plano,Rúben Amorim,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432203
+13,sex 08/01/2021,15:00,Nacional,Sporting,3-4-3 plano,Rúben Amorim,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432031
+14,sex 15/01/2021,15:30,Sporting,Rio Ave,3-4-3 plano,Rúben Amorim,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432202
+15,ter 26/01/2021,18:15,Boavista,Sporting,3-4-3 plano,Rúben Amorim,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432142
+16,seg 01/02/2021,18:30,Sporting,Benfica,5-4-1 plano,Rúben Amorim,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432244
+17,sex 05/02/2021,16:00,Marítimo,Sporting,3-4-3 plano,Rúben Amorim,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432097
+18,ter 09/02/2021,18:00,Gil Vicente,Sporting,3-4-3 plano,Rúben Amorim,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432235
+19,seg 15/02/2021,17:15,Sporting,Paços Ferreira,3-4-3 plano,Rúben Amorim,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432028
+20,sáb 20/02/2021,17:30,Sporting,Portimonense,3-4-3 plano,Rúben Amorim,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432230
+21,sáb 27/02/2021,17:30,FC Porto,Sporting,5-4-1 plano,Rúben Amorim,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432163
+22,sex 05/03/2021,17:45,Sporting,Santa Clara,3-4-3 plano,Rúben Amorim,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432164
+23,sáb 13/03/2021,17:30,CD Tondela,Sporting,3-4-3 plano,Rúben Amorim,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432132
+24,sáb 20/03/2021,17:30,Sporting,Vit. Guimarães,3-5-2 plano,Rúben Amorim,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432167
+25,seg 05/04/2021,17:00,Moreirense,Sporting,3-5-2,Rúben Amorim,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432243
+26,dom 11/04/2021,16:00,Sporting,Famalicão,3-4-3 plano,Rúben Amorim,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432057
+27,sex 16/04/2021,17:00,Farense,Sporting,3-5-2,Rúben Amorim,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432232
+28,qua 21/04/2021,17:15,Sporting,B SAD,3-4-3 plano,Rúben Amorim,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432121
+29,dom 25/04/2021,16:00,Braga,Sporting,3-4-3 plano,Rúben Amorim,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432255
+30,sáb 01/05/2021,16:30,Sporting,Nacional,3-4-3 plano,Rúben Amorim,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432120
+31,qua 05/05/2021,17:15,Rio Ave,Sporting,3-4-3 plano,Rúben Amorim,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432247
+32,ter 11/05/2021,16:30,Sporting,Boavista,3-4-3 plano,Rúben Amorim,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432176
+33,sáb 15/05/2021,14:00,Benfica,Sporting,5-4-1 plano,Rúben Amorim,,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432162
+34,qua 19/05/2021,17:45,Sporting,Marítimo,3-4-3 plano,Rúben Amorim,,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432216

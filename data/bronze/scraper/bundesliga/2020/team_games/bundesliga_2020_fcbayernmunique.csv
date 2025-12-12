@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 18/09/2020,15:30,Bayern,Schalke,4-2-3-1,Hansi Flick,x,8:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412883
+2,dom 27/09/2020,10:30,Hoffenheim,Bayern,4-2-3-1,Hansi Flick,6300,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412903
+3,dom 04/10/2020,13:00,Bayern,Hertha Berlim,4-2-3-1,Hansi Flick,x,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412919
+4,sáb 17/10/2020,13:30,Arm. Bielefeld,Bayern,4-2-3-1,Hansi Flick,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412945
+5,sáb 24/10/2020,10:30,Bayern,Frankfurt,4-2-3-1,Hansi Flick,x,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412955
+6,sáb 31/10/2020,11:30,Colônia,Bayern,4-2-3-1,Hansi Flick,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412979
+7,sáb 07/11/2020,14:30,Dortmund,Bayern,4-2-3-1,Hansi Flick,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412991
+8,sáb 21/11/2020,11:30,Bayern,Werder Bremen,4-3-3 ofensivo,Hansi Flick,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413009
+9,sáb 28/11/2020,11:30,Stuttgart,Bayern,4-2-3-1,Hansi Flick,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413026
+10,sáb 05/12/2020,14:30,Bayern,Leipzig,4-2-3-1,Hansi Flick,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413036
+11,sáb 12/12/2020,14:30,Union Berlim,Bayern,4-2-3-1,Hansi Flick,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413060
+12,qua 16/12/2020,16:30,Bayern,Wolfsburg,4-1-4-1,Hansi Flick,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413072
+13,sáb 19/12/2020,14:30,Leverkusen,Bayern,4-2-3-1,Hansi Flick,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413083
+14,dom 03/01/2021,14:00,Bayern,Mainz,4-2-3-1,Hansi Flick,x,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413099
+15,sex 08/01/2021,16:30,M'gladbach,Bayern,4-2-3-1,Hansi Flick,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413118
+16,dom 17/01/2021,11:30,Bayern,Freiburg,4-2-3-1,Hansi Flick,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413135
+17,qua 20/01/2021,16:30,Augsburg,Bayern,4-2-3-1,Hansi Flick,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413160
+18,dom 24/01/2021,11:30,Schalke,Bayern,4-2-3-1,Hansi Flick,x,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413176
+19,sáb 30/01/2021,11:30,Bayern,Hoffenheim,4-2-3-1,Hansi Flick,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413162
+20,sex 05/02/2021,16:00,Hertha Berlim,Bayern,4-1-4-1,Hansi Flick,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413148
+21,seg 15/02/2021,16:30,Bayern,Arm. Bielefeld,4-2-3-1,Hansi Flick,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413126
+22,sáb 20/02/2021,11:30,Frankfurt,Bayern,4-2-3-1,Hansi Flick,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413111
+23,sáb 27/02/2021,11:30,Bayern,Colônia,4-2-3-1,Hansi Flick,x,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413090
+24,sáb 06/03/2021,14:30,Bayern,Dortmund,4-2-3-1,Hansi Flick,x,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413063
+25,sáb 13/03/2021,11:30,Werder Bremen,Bayern,4-2-3-1,Hansi Flick,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413051
+26,sáb 20/03/2021,11:30,Bayern,Stuttgart,4-2-3-1,Hansi Flick,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413027
+27,sáb 03/04/2021,13:30,Leipzig,Bayern,4-2-3-1,Hansi Flick,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413001
+28,sáb 10/04/2021,10:30,Bayern,Union Berlim,4-1-4-1,Hansi Flick,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412982
+29,sáb 17/04/2021,10:30,Wolfsburg,Bayern,4-2-3-1,Hansi Flick,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412968
+30,ter 20/04/2021,15:30,Bayern,Leverkusen,4-2-3-1,Hansi Flick,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412946
+31,sáb 24/04/2021,10:30,Mainz,Bayern,4-2-3-1,Hansi Flick,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412935
+32,sáb 08/05/2021,13:30,Bayern,M'gladbach,4-2-3-1,Hansi Flick,x,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412910
+33,sáb 15/05/2021,10:30,Freiburg,Bayern,4-2-3-1,Hansi Flick,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412895
+34,sáb 22/05/2021,10:30,Bayern,Augsburg,4-2-3-1,Hansi Flick,250,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412874

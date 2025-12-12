@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 11/08/2024,10:00,Torreense,Feirense,4-3-3 ofensivo,Vítor Martins,638,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397016
+2,dom 18/08/2024,10:00,Feirense,Académico FC,4-3-3 ofensivo,Vítor Martins,1802,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396975
+3,sáb 24/08/2024,07:00,Felgueiras,Feirense,4-3-3 ofensivo,Vítor Martins,1790,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397003
+4,dom 01/09/2024,10:00,Feirense,Benfica B,4-1-4-1,Vítor Martins,2675,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396996
+5,seg 16/09/2024,14:00,Feirense,Paços Ferreira,4-3-3 ofensivo,Vítor Martins,1519,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396989
+6,dom 29/09/2024,07:00,UD Oliveirense,Feirense,4-3-3 ofensivo,Vítor Martins,813,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396980
+7,dom 06/10/2024,07:00,Feirense,Vizela,4-3-3 ofensivo,Vítor Martins,1415,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396965
+8,dom 13/10/2024,16:30,Chaves,Feirense,4-3-3 ofensivo,Vítor Martins,932,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397026
+9,sáb 26/10/2024,11:30,Feirense,Portimonense,4-3-3 ofensivo,Vítor Martins,1506,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397046
+10,sex 01/11/2024,15:00,Alverca,Feirense,4-3-3 ofensivo,Vítor Martins,433,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397036
+11,sáb 09/11/2024,15:00,Feirense,CD Tondela,4-3-3 ofensivo,Vítor Martins,2031,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397064
+12,sáb 30/11/2024,11:00,Leiria,Feirense,4-2-3-1,Vítor Martins,2010,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397089
+13,sáb 07/12/2024,08:00,Feirense,Penafiel,4-3-3 ofensivo,Vítor Martins,1540,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397109
+14,dom 15/12/2024,12:30,FC Porto B,Feirense,4-3-3 ofensivo,Vítor Martins,488,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397066
+15,sáb 23/11/2024,12:30,Feirense,Marítimo,4-3-3 ofensivo,Vítor Martins,1702,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397055
+16,dom 29/12/2024,11:00,Mafra,Feirense,4-3-3 ofensivo,Vítor Martins,509,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397121
+17,sáb 04/01/2025,12:30,Feirense,Leixões,4-3-3 ofensivo,Vítor Martins,1727,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397082
+18,sáb 18/01/2025,12:30,Feirense,Torreense,4-3-3 ofensivo,Vítor Martins,1830,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397093
+19,sex 24/01/2025,15:00,Académico FC,Feirense,3-4-2-1,Vítor Martins,1482,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397119
+20,sáb 01/02/2025,08:00,Feirense,Felgueiras,4-3-3 ofensivo,Vítor Martins,1314,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397165
+21,sex 07/02/2025,15:00,Benfica B,Feirense,3-5-2 plano,Diogo Santos,252,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397131
+22,sáb 15/02/2025,11:00,Paços Ferreira,Feirense,4-3-3 ofensivo,Vítor Martins,3114,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397154
+23,sáb 22/02/2025,15:00,Feirense,UD Oliveirense,3-4-2-1,Diogo Santos,3350,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397195
+24,dom 02/03/2025,15:00,Vizela,Feirense,3-4-2-1,Vítor Martins,2789,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397145
+25,sex 07/03/2025,15:00,Feirense,Chaves,4-3-3 ofensivo,Diogo Santos,1601,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397179
+26,sex 14/03/2025,15:45,Portimonense,Feirense,4-3-3 ofensivo,Vítor Martins,789,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397190
+27,dom 30/03/2025,14:00,Feirense,Alverca,4-3-3 ofensivo,Diogo Santos,2504,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397208
+28,sáb 05/04/2025,07:00,CD Tondela,Feirense,3-4-3 plano,Diogo Santos,2075,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397224
+29,sex 11/04/2025,14:00,Feirense,Leiria,3-4-3 plano,Diogo Santos,1389,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397254
+30,sáb 19/04/2025,07:00,Penafiel,Feirense,4-3-3 ofensivo,Diogo Santos,728,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397244
+31,dom 27/04/2025,07:00,Feirense,FC Porto B,3-4-3 plano,Diogo Santos,2760,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397231
+32,dom 04/05/2025,11:30,Marítimo,Feirense,3-4-3 plano,Vítor Martins,3265,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397160
+33,sex 09/05/2025,16:15,Feirense,Mafra,4-3-3 ofensivo,Vítor Martins,1557,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397259
+34,qua 14/05/2025,16:15,Leixões,Feirense,4-1-4-1,Diogo Santos,1543,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397217

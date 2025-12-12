@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 09/08/2013,15:40,Bayern,M'gladbach,4-4-2 duplo 6,Lucien Favre,71137,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321025
+2,sáb 17/08/2013,13:30,M'gladbach,Hannover,4-4-2 duplo 6,Lucien Favre,46089,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321045
+3,sáb 24/08/2013,10:30,Leverkusen,M'gladbach,4-4-2 duplo 6,Lucien Favre,29243,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321055
+4,sáb 31/08/2013,10:30,M'gladbach,Werder Bremen,4-4-2 duplo 6,Lucien Favre,53392,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321064
+5,dom 15/09/2013,10:30,Hoffenheim,M'gladbach,4-4-2 duplo 6,Lucien Favre,29447,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321076
+6,sex 20/09/2013,15:30,M'gladbach,E. Braunschweig,4-4-2 duplo 6,Lucien Favre,50064,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321082
+7,sex 27/09/2013,15:30,Augsburg,M'gladbach,4-2-3-1,Lucien Favre,30352,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321113
+8,sáb 05/10/2013,10:30,M'gladbach,Dortmund,4-4-2 duplo 6,Lucien Favre,54010,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321118
+9,sáb 19/10/2013,13:30,Hertha Berlim,M'gladbach,4-4-2 duplo 6,Lucien Favre,61539,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321134
+10,dom 27/10/2013,14:30,M'gladbach,Frankfurt,4-4-2 duplo 6,Lucien Favre,53418,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321137
+11,sáb 02/11/2013,12:30,Hamburgo,M'gladbach,4-4-2 duplo 6,Lucien Favre,57000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321149
+12,sáb 09/11/2013,15:30,M'gladbach,Nuremberg,4-4-2 duplo 6,Lucien Favre,53235,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321155
+13,sex 22/11/2013,17:30,Stuttgart,M'gladbach,4-4-2 duplo 6,Lucien Favre,49560,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321163
+14,dom 01/12/2013,14:30,M'gladbach,Freiburg,4-4-2 duplo 6,Lucien Favre,50084,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321173
+15,sáb 07/12/2013,12:30,M'gladbach,Schalke,4-4-2 duplo 6,Lucien Favre,54010,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321182
+16,sáb 14/12/2013,12:30,Mainz,M'gladbach,4-4-2 duplo 6,Lucien Favre,34000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321196
+17,dom 22/12/2013,12:30,M'gladbach,Wolfsburg,4-4-2 duplo 6,Lucien Favre,54010,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321200
+18,sex 24/01/2014,17:30,M'gladbach,Bayern,4-4-2 duplo 6,Lucien Favre,54010,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321209
+19,sáb 01/02/2014,15:30,Hannover,M'gladbach,4-4-2 duplo 6,Lucien Favre,45000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321220
+20,sex 07/02/2014,17:30,M'gladbach,Leverkusen,4-4-2 duplo 6,Lucien Favre,54010,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321227
+21,sáb 15/02/2014,12:30,Werder Bremen,M'gladbach,4-4-2 duplo 6,Lucien Favre,42100,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321238
+22,sáb 22/02/2014,11:30,M'gladbach,Hoffenheim,4-4-2 duplo 6,Lucien Favre,49088,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321245
+23,sáb 01/03/2014,11:30,E. Braunschweig,M'gladbach,4-4-2 duplo 6,Lucien Favre,23200,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321259
+24,sáb 08/03/2014,11:30,M'gladbach,Augsburg,4-4-2 duplo 6,Lucien Favre,49622,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321263
+25,sáb 15/03/2014,11:30,Dortmund,M'gladbach,4-4-2 duplo 6,Lucien Favre,80645,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321271
+26,sáb 22/03/2014,14:30,M'gladbach,Hertha Berlim,4-4-2 duplo 6,Lucien Favre,53050,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321281
+27,qua 26/03/2014,16:00,Frankfurt,M'gladbach,4-4-2 duplo 6,Lucien Favre,48000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321295
+28,dom 30/03/2014,10:30,M'gladbach,Hamburgo,4-4-2 duplo 6,Lucien Favre,54010,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321300
+29,sáb 05/04/2014,10:30,Nuremberg,M'gladbach,4-4-2 duplo 6,Lucien Favre,50000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321310
+30,sáb 12/04/2014,10:30,M'gladbach,Stuttgart,4-4-2 duplo 6,Lucien Favre,53560,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321318
+31,sáb 19/04/2014,10:30,Freiburg,M'gladbach,4-4-2 duplo 6,Lucien Favre,24000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321329
+32,dom 27/04/2014,12:30,Schalke,M'gladbach,4-4-2 duplo 6,Lucien Favre,61973,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321335
+33,sáb 03/05/2014,10:30,M'gladbach,Mainz,4-4-2 duplo 6,Lucien Favre,54010,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321344
+34,sáb 10/05/2014,10:30,Wolfsburg,M'gladbach,4-4-2 duplo 6,Lucien Favre,30000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321356

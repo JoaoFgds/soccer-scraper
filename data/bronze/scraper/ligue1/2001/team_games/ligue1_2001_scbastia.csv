@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 28/07/2001,15:00,SC Bastia,CS Sedan,?,Robert Nouzaret,6553,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002373
+2,sáb 04/08/2001,15:00,Guingamp,SC Bastia,?,Robert Nouzaret,10268,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002470
+3,dom 12/08/2001,15:45,SC Bastia,Lyon,?,Robert Nouzaret,8512,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002484
+4,sáb 18/08/2001,15:00,Nantes,SC Bastia,?,Robert Nouzaret,33507,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002490
+5,sáb 25/08/2001,15:00,SC Bastia,Marselha,?,Robert Nouzaret,11333,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002495
+6,sáb 08/09/2001,15:00,FC Metz,SC Bastia,?,Robert Nouzaret,15251,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002506
+7,sáb 15/09/2001,15:00,SC Bastia,Auxerre,?,Robert Nouzaret,7739,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002513
+8,sáb 22/09/2001,15:00,Lille,SC Bastia,5-3-2,Robert Nouzaret,16565,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002524
+9,sáb 29/09/2001,15:00,SC Bastia,Monaco,?,Robert Nouzaret,6766,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002531
+10,sáb 13/10/2001,15:00,FC Sochaux,SC Bastia,?,Robert Nouzaret,16090,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002546
+11,sáb 20/10/2001,16:00,SC Bastia,Rennes,?,Robert Nouzaret,5796,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002548
+12,sáb 27/10/2001,16:00,PSG,SC Bastia,?,Robert Nouzaret,40879,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002564
+13,sáb 03/11/2001,17:00,SC Bastia,FC Lorient,?,Robert Nouzaret,5766,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002567
+14,sáb 17/11/2001,17:00,Montpellier,SC Bastia,?,Robert Nouzaret,11300,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002581
+15,sáb 24/11/2001,17:00,SC Bastia,Bordeaux,?,Robert Nouzaret,6068,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002584
+16,qua 28/11/2001,17:30,Lens,SC Bastia,4-4-2 duplo 6,Robert Nouzaret,34280,7:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002595
+17,sáb 08/12/2001,17:00,SC Bastia,Troyes,?,Robert Nouzaret,6710,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002603
+18,qua 19/12/2001,17:30,SC Bastia,Guingamp,?,Robert Nouzaret,6649,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002613
+19,qua 16/01/2002,17:30,Lyon,SC Bastia,?,Robert Nouzaret,29506,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002626
+20,sáb 05/01/2002,17:00,SC Bastia,Nantes,?,Robert Nouzaret,5508,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002629
+21,sáb 12/01/2002,17:00,Marselha,SC Bastia,?,Robert Nouzaret,47121,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002640
+22,qua 23/01/2002,17:30,SC Bastia,FC Metz,?,Robert Nouzaret,5554,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002647
+23,qua 30/01/2002,17:30,Auxerre,SC Bastia,?,Robert Nouzaret,7165,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002658
+24,sáb 02/02/2002,17:00,SC Bastia,Lille,?,Robert Nouzaret,5971,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002666
+25,qua 06/02/2002,17:30,Monaco,SC Bastia,?,Robert Nouzaret,6016,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002680
+26,sáb 16/02/2002,17:00,SC Bastia,FC Sochaux,?,Robert Nouzaret,5786,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002690
+27,sáb 23/02/2002,16:00,Rennes,SC Bastia,?,Robert Nouzaret,27305,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002698
+28,qua 06/03/2002,14:00,SC Bastia,PSG,?,Robert Nouzaret,9283,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002711
+29,sáb 16/03/2002,16:00,FC Lorient,SC Bastia,?,Robert Nouzaret,10977,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002722
+30,sáb 23/03/2002,16:00,SC Bastia,Montpellier,?,Robert Nouzaret,7704,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002729
+31,sáb 06/04/2002,15:00,Bordeaux,SC Bastia,?,Robert Nouzaret,29345,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002738
+32,sáb 13/04/2002,15:00,SC Bastia,Lens,4-3-3 ofensivo,Robert Nouzaret,10925,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002747
+33,sáb 27/04/2002,15:00,Troyes,SC Bastia,?,Robert Nouzaret,15795,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002762
+34,sáb 04/05/2002,15:00,CS Sedan,SC Bastia,?,Robert Nouzaret,21228,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002771

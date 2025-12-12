@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 29/07/2005,15:30,Brest,FC Gueugnon,?,Albert Rust,7141,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46916
+2,sex 05/08/2005,15:30,Montpellier,Brest,?,Albert Rust,7201,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46926
+3,sex 12/08/2005,15:30,Brest,Le Havre,?,Albert Rust,6781,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46935
+4,ter 16/08/2005,15:30,SC Bastia,Brest,?,Albert Rust,5498,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46951
+5,sex 19/08/2005,15:30,Brest,LB Châteauroux,?,Albert Rust,5916,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46958
+6,sex 26/08/2005,15:30,Brest,Clermont FA,?,Albert Rust,6668,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46964
+7,sex 09/09/2005,15:30,US Créteil-L,Brest,?,Albert Rust,4251,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46976
+8,sex 16/09/2005,15:30,Brest,Amiens SC,?,Albert Rust,6041,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46992
+9,dom 25/09/2005,14:00,Valenciennes,Brest,?,Albert Rust,8153,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47002
+10,sex 30/09/2005,15:30,Brest,Reims,?,Albert Rust,4629,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47004
+11,sex 07/10/2005,15:30,Stade Lavallois,Brest,?,Albert Rust,4060,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47016
+12,seg 17/10/2005,16:30,Brest,Guingamp,?,Albert Rust,8228,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47033
+13,sex 21/10/2005,16:30,FC Sète 34,Brest,?,Albert Rust,2263,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47040
+14,seg 31/10/2005,18:30,Brest,CS Sedan,?,Albert Rust,7059,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47054
+15,sex 04/11/2005,18:30,FC Istres,Brest,?,Albert Rust,3353,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47058
+16,seg 14/11/2005,18:30,Brest,FC Lorient,?,Albert Rust,7257,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47068
+17,sex 25/11/2005,18:30,Dijon,Brest,?,Albert Rust,3291,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47076
+18,sex 02/12/2005,18:30,Brest,Grenoble,?,Albert Rust,5237,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47087
+19,sex 16/12/2005,18:30,SM Caen,Brest,?,Albert Rust,13416,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47096
+20,ter 03/01/2006,18:30,Brest,Montpellier,?,Albert Rust,4378,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47107
+21,qua 11/01/2006,18:30,Le Havre,Brest,?,Albert Rust,7418,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47121
+22,seg 16/01/2006,18:30,Brest,SC Bastia,?,Albert Rust,3851,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47127
+23,sex 20/01/2006,18:30,LB Châteauroux,Brest,?,Albert Rust,6596,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47137
+24,sex 03/02/2006,18:30,Clermont FA,Brest,?,Albert Rust,3718,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47145
+25,sex 10/02/2006,18:30,Brest,US Créteil-L,?,Albert Rust,7339,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47156
+26,sex 17/02/2006,18:30,Amiens SC,Brest,?,Albert Rust,6249,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47166
+27,sex 24/02/2006,17:30,Brest,Valenciennes,?,Albert Rust,5609,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47176
+28,sex 03/03/2006,17:30,Reims,Brest,?,Albert Rust,4175,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47191
+29,sex 10/03/2006,17:30,Brest,Stade Lavallois,?,Albert Rust,5501,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47197
+30,sex 17/03/2006,17:30,Guingamp,Brest,?,Albert Rust,15592,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47208
+31,sex 24/03/2006,17:30,Brest,FC Sète 34,?,Thierry Goudet,5159,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47217
+32,sex 31/03/2006,15:30,CS Sedan,Brest,?,Thierry Goudet,11419,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47233
+33,sex 07/04/2006,15:30,Brest,FC Istres,?,Thierry Goudet,6086,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47237
+34,sex 14/04/2006,15:30,FC Lorient,Brest,?,Thierry Goudet,10613,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47252
+35,sex 21/04/2006,15:30,Brest,Dijon,?,Thierry Goudet,6005,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47257
+36,sex 28/04/2006,15:30,Grenoble,Brest,?,Thierry Goudet,6350,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47269
+37,sex 05/05/2006,15:30,Brest,SM Caen,?,Thierry Goudet,8290,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47276
+38,sex 12/05/2006,15:30,FC Gueugnon,Brest,?,Thierry Goudet,4134,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47290

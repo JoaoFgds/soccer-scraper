@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 06/08/2016,14:00,Gil Vicente,Varzim,4-3-3 ofensivo,Álvaro Magalhães,1227,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733473
+2,sáb 13/08/2016,12:00,Vizela,Gil Vicente,4-3-3 ofensivo,Álvaro Magalhães,1890,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733546
+3,sex 19/08/2016,14:00,Benfica B,Gil Vicente,4-3-3 defensivo,Álvaro Magalhães,828,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733493
+4,qua 24/08/2016,13:00,Gil Vicente,Académico FC,?,Álvaro Magalhães,917,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733485
+5,dom 28/08/2016,15:00,Santa Clara,Gil Vicente,4-3-3 ofensivo,Álvaro Magalhães,614,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733582
+6,dom 11/09/2016,12:00,Gil Vicente,CD Aves,4-3-3 ofensivo,Álvaro Magalhães,1157,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733747
+7,sáb 17/09/2016,12:00,Sporting B,Gil Vicente,?,Álvaro Magalhães,189,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733556
+8,qua 21/09/2016,12:00,Gil Vicente,Freamunde,4-3-3 ofensivo,Álvaro Magalhães,1527,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733568
+9,qua 28/09/2016,12:00,Leixões,Gil Vicente,?,Álvaro Magalhães,595,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733569
+10,dom 02/10/2016,12:00,Gil Vicente,Braga B,?,Álvaro Magalhães,730,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733557
+11,qua 19/10/2016,13:00,Penafiel,Gil Vicente,?,Álvaro Magalhães,393,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733554
+12,sáb 08/10/2016,07:15,Gil Vicente,Olhanense,?,Álvaro Magalhães,523,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733735
+13,dom 30/10/2016,13:00,Académica,Gil Vicente,?,Álvaro Magalhães,2708,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2765727
+14,dom 06/11/2016,09:15,Gil Vicente,Portimonense,?,Álvaro Magalhães,783,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733595
+15,qua 23/11/2016,13:00,Vitória SC B,Gil Vicente,4-3-3 ofensivo,Álvaro Magalhães,1058,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733622
+16,dom 27/11/2016,13:00,Gil Vicente,FC Porto B,?,Álvaro Magalhães,789,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733631
+17,dom 04/12/2016,13:00,Cova da Piedade,Gil Vicente,?,Álvaro Magalhães,559,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2765833
+18,sáb 10/12/2016,13:00,Gil Vicente,Covilhã,?,Álvaro Magalhães,498,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733593
+19,dom 18/12/2016,13:00,Fafe,Gil Vicente,?,Álvaro Magalhães,613,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2765837
+20,qua 21/12/2016,13:00,Gil Vicente,CF União,?,Álvaro Magalhães,442,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733610
+21,dom 08/01/2017,14:00,Famalicão,Gil Vicente,4-3-1-2,Álvaro Magalhães,2132,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733645
+22,dom 15/01/2017,13:00,Varzim,Gil Vicente,?,Álvaro Magalhães,1333,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733508
+23,dom 22/01/2017,13:00,Gil Vicente,Vizela,?,Álvaro Magalhães,848,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733648
+24,sáb 28/01/2017,13:00,Gil Vicente,Benfica B,4-3-3 ofensivo,Álvaro Magalhães,1148,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733667
+25,dom 05/02/2017,13:00,Académico FC,Gil Vicente,?,Álvaro Magalhães,465,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733810
+26,dom 12/02/2017,09:15,Gil Vicente,Santa Clara,?,Álvaro Magalhães,563,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733678
+27,qua 15/02/2017,13:00,CD Aves,Gil Vicente,4-4-2 duplo 6,Álvaro Magalhães,980,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733801
+28,dom 19/02/2017,12:00,Gil Vicente,Sporting B,?,Álvaro Magalhães,1259,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733774
+29,dom 26/02/2017,12:00,Freamunde,Gil Vicente,?,Álvaro Magalhães,454,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733794
+30,dom 05/03/2017,12:00,Gil Vicente,Leixões,?,Álvaro Magalhães,1389,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733793
+31,sáb 11/03/2017,08:15,Braga B,Gil Vicente,4-3-3 defensivo,Álvaro Magalhães,286,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733802
+32,qua 15/03/2017,12:00,Gil Vicente,Penafiel,4-3-3 defensivo,Álvaro Magalhães,489,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733650
+33,dom 19/03/2017,12:00,Olhanense,Gil Vicente,?,Álvaro Magalhães,232,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733675
+34,dom 02/04/2017,07:15,Gil Vicente,Académica,4-3-3 defensivo,Álvaro Magalhães,662,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2774112
+35,dom 09/04/2017,07:15,Portimonense,Gil Vicente,?,Álvaro Magalhães,1719,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733685
+36,sáb 15/04/2017,12:00,Gil Vicente,Vitória SC B,?,Álvaro Magalhães,961,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733786
+37,qua 19/04/2017,11:00,FC Porto B,Gil Vicente,?,Álvaro Magalhães,337,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733517
+38,dom 23/04/2017,12:00,Gil Vicente,Cova da Piedade,?,Álvaro Magalhães,718,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2774125
+39,dom 30/04/2017,12:00,Covilhã,Gil Vicente,?,Álvaro Magalhães,245,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733719
+40,dom 07/05/2017,12:00,Gil Vicente,Fafe,?,Álvaro Magalhães,874,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2774130
+41,dom 14/05/2017,12:00,CF União,Gil Vicente,?,Álvaro Magalhães,969,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733717
+42,dom 21/05/2017,12:00,Gil Vicente,Famalicão,4-3-3 ofensivo,Álvaro Magalhães,2762,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733734

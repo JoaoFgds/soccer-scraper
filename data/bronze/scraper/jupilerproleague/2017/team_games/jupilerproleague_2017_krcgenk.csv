@@ -1,0 +1,31 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 29/07/2017,15:00,KRC Genk,Waasland-Beveren,4-2-3-1,Albert Stuivenberg,13545,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2864878
+2,sex 04/08/2017,15:30,Standard Liège,KRC Genk,4-3-3 ofensivo,Albert Stuivenberg,24211,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2864884
+3,dom 13/08/2017,09:30,Antuérpia,KRC Genk,4-2-3-1,Albert Stuivenberg,11400,3:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2864897
+4,sáb 19/08/2017,13:00,KRC Genk,R Charleroi SC,4-3-3 defensivo,Albert Stuivenberg,14650,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2906842
+5,sáb 26/08/2017,15:30,KRC Genk,KV Mechelen,4-3-3 defensivo,Albert Stuivenberg,14165,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2906852
+6,dom 10/09/2017,09:30,KAA Gent,KRC Genk,4-3-3 defensivo,Albert Stuivenberg,19999,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2906871
+7,sáb 16/09/2017,15:30,St.Truiden,KRC Genk,4-3-3 defensivo,Albert Stuivenberg,10649,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2918776
+8,sáb 23/09/2017,13:00,KRC Genk,KV Oostende,4-3-3 defensivo,Albert Stuivenberg,15130,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2924592
+9,sáb 30/09/2017,13:00,KAS Eupen,KRC Genk,3-5-2,Albert Stuivenberg,2415,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2924600
+10,sáb 14/10/2017,15:00,KRC Genk,Mouscron,4-3-1-2,Albert Stuivenberg,12781,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2924609
+11,dom 22/10/2017,14:00,Anderlecht,KRC Genk,4-3-1-2,Albert Stuivenberg,20000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2933481
+12,qua 25/10/2017,16:30,KRC Genk,Club Brugge,4-3-1-2,Albert Stuivenberg,19130,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2933503
+13,sáb 28/10/2017,16:30,KV Kortrijk,KRC Genk,4-3-1-2,Albert Stuivenberg,6817,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2933511
+14,sáb 04/11/2017,15:00,KRC Genk,KSC Lokeren,4-3-1-2,Albert Stuivenberg,14650,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2933526
+15,dom 19/11/2017,11:30,Zulte Waregem,KRC Genk,4-4-1-1,Albert Stuivenberg,9591,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2933538
+16,dom 26/11/2017,11:30,KRC Genk,Standard Liège,4-2-3-1,Albert Stuivenberg,18300,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2958573
+17,sáb 02/12/2017,17:30,KV Mechelen,KRC Genk,4-3-3 defensivo,Albert Stuivenberg,12110,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2958580
+18,sáb 09/12/2017,17:00,KRC Genk,KAS Eupen,4-2-3-1,Albert Stuivenberg,11920,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2958586
+19,dom 17/12/2017,15:00,R Charleroi SC,KRC Genk,4-2-3-1,Jos Daerden,10056,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2958607
+20,sáb 23/12/2017,17:00,KRC Genk,KV Kortrijk,4-2-3-1,Philippe Clement,14385,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2958618
+21,ter 16/01/2018,17:30,KV Oostende,KRC Genk,4-2-3-1,Philippe Clement,5031,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2958625
+22,dom 21/01/2018,15:00,KRC Genk,Anderlecht,4-2-3-1,Philippe Clement,19755,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2958634
+23,qua 24/01/2018,17:30,KSC Lokeren,KRC Genk,4-3-3 defensivo,Philippe Clement,4338,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2958642
+24,sáb 27/01/2018,17:30,KRC Genk,St.Truiden,4-2-3-1,Philippe Clement,17625,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2958648
+25,sáb 03/02/2018,17:30,Mouscron,KRC Genk,4-2-3-1,Philippe Clement,8789,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2987584
+26,sex 09/02/2018,17:30,KRC Genk,Zulte Waregem,4-3-3 defensivo,Philippe Clement,12350,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2987588
+27,sáb 17/02/2018,17:30,Club Brugge,KRC Genk,4-3-1-2,Philippe Clement,27539,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2987600
+28,sex 23/02/2018,16:30,KRC Genk,Antuérpia,4-3-3 defensivo,Philippe Clement,15250,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2987604
+29,sáb 03/03/2018,16:00,Waasland-Beveren,KRC Genk,4-3-1-2,Philippe Clement,6431,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2987619
+30,dom 11/03/2018,10:30,KRC Genk,KAA Gent,4-3-3 ofensivo,Philippe Clement,17250,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2987631

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 16/08/2015,12:00,Vitória FC,Boavista,4-3-3 ofensivo,Petit,3481,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2586585
+2,dom 23/08/2015,13:00,Boavista,CD Tondela,4-3-3 defensivo,Petit,4334,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2596942
+3,dom 30/08/2015,13:00,Braga,Boavista,4-3-3 defensivo,Petit,11082,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609331
+4,seg 14/09/2015,16:00,Boavista,Paços Ferreira,4-3-3 defensivo,Petit,3763,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609346
+5,dom 20/09/2015,12:00,Académica,Boavista,4-3-3 ofensivo,Petit,3507,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609354
+6,sáb 26/09/2015,16:45,Boavista,Sporting,4-3-3 ofensivo,Petit,9373,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609365
+7,sáb 03/10/2015,16:45,Rio Ave,Boavista,4-4-1-1,Petit,2912,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609377
+8,sex 23/10/2015,17:30,Nacional,Boavista,4-4-1-1,Nuno Pereira,1318,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609387
+9,dom 01/11/2015,17:15,Boavista,Marítimo,4-4-1-1,Petit,3956,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609391
+10,dom 08/11/2015,14:00,Benfica,Boavista,4-3-3 ofensivo,Petit,46362,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609401
+11,sáb 28/11/2015,16:30,Boavista,Vit. Guimarães,4-3-3 ofensivo,Petit,4691,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609409
+12,dom 06/12/2015,14:00,Arouca,Boavista,4-3-3 defensivo,Erwin Sánchez,1942,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609417
+13,sex 11/12/2015,18:30,Boavista,Estoril,4-3-1-2,Erwin Sánchez,3852,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609427
+14,seg 21/12/2015,17:00,Belenenses,Boavista,4-3-1-2,Erwin Sánchez,4020,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609436
+15,sáb 02/01/2016,14:00,Boavista,Moreirense,4-1-3-2,Erwin Sánchez,4337,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609445
+16,qua 06/01/2016,13:00,CF União,Boavista,4-4-2 losango,Erwin Sánchez,1216,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609459
+17,dom 10/01/2016,16:15,Boavista,FC Porto,4-3-1-2,Erwin Sánchez,7483,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609463
+18,seg 18/01/2016,18:00,Boavista,Vitória FC,4-3-3 defensivo,Erwin Sánchez,4653,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613535
+19,seg 25/01/2016,18:00,CD Tondela,Boavista,4-2-3-1,Erwin Sánchez,1666,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613541
+20,dom 31/01/2016,15:00,Boavista,Braga,4-3-3 defensivo,Erwin Sánchez,5641,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613552
+21,dom 07/02/2016,14:00,Paços Ferreira,Boavista,4-2-3-1,Erwin Sánchez,2750,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613558
+22,dom 14/02/2016,15:00,Boavista,Académica,4-2-3-1,Erwin Sánchez,4627,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613566
+23,seg 22/02/2016,17:00,Sporting,Boavista,4-2-3-1,Erwin Sánchez,37083,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613577
+24,sáb 27/02/2016,13:15,Boavista,Rio Ave,4-3-3 ofensivo,Erwin Sánchez,4318,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613589
+25,dom 06/03/2016,13:00,Boavista,Nacional,4-2-3-1,Erwin Sánchez,4482,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613599
+26,sex 11/03/2016,17:30,Marítimo,Boavista,4-2-3-1,Erwin Sánchez,6328,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613614
+27,dom 20/03/2016,15:15,Boavista,Benfica,4-2-3-1,Erwin Sánchez,17193,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613625
+28,sáb 02/04/2016,16:45,Vit. Guimarães,Boavista,4-2-3-1,Erwin Sánchez,9887,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613641
+29,sex 08/04/2016,16:30,Boavista,Arouca,4-2-3-1,Erwin Sánchez,4688,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613649
+30,sáb 16/04/2016,14:30,Estoril,Boavista,4-3-3 ofensivo,Erwin Sánchez,5567,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613659
+31,sex 22/04/2016,16:30,Boavista,Belenenses,4-2-3-1,Erwin Sánchez,5433,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613668
+32,dom 01/05/2016,12:00,Moreirense,Boavista,4-2-3-1,Erwin Sánchez,3151,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613677
+33,dom 08/05/2016,12:00,Boavista,CF União,4-2-3-1,Erwin Sánchez,5798,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613691
+34,sáb 14/05/2016,07:45,FC Porto,Boavista,4-2-3-1,Erwin Sánchez,26122,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613695

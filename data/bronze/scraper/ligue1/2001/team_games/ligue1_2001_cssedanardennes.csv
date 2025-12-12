@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 28/07/2001,15:00,SC Bastia,CS Sedan,?,Alex Dupont,6553,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002373
+2,sáb 04/08/2001,15:00,Lyon,CS Sedan,?,Alex Dupont,34926,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002472
+3,sáb 11/08/2001,15:00,CS Sedan,Guingamp,?,Alex Dupont,13899,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002480
+4,dom 19/08/2001,15:45,Auxerre,CS Sedan,?,Alex Dupont,10512,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002493
+5,sáb 25/08/2001,15:00,CS Sedan,FC Metz,?,Alex Dupont,14421,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002499
+6,sáb 08/09/2001,15:00,Nantes,CS Sedan,?,Alex Dupont,32326,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002508
+7,dom 16/09/2001,15:45,CS Sedan,Marselha,?,Alex Dupont,20150,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002520
+8,dom 23/09/2001,15:00,FC Sochaux,CS Sedan,?,Henri Stambouli,13385,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002529
+9,dom 30/09/2001,13:00,CS Sedan,Lille,?,Henri Stambouli,14886,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002536
+10,sáb 13/10/2001,15:00,Monaco,CS Sedan,?,Henri Stambouli,6412,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002543
+11,dom 21/10/2001,16:45,CS Sedan,PSG,?,Henri Stambouli,19174,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002556
+12,sáb 27/10/2001,16:00,Bordeaux,CS Sedan,?,Henri Stambouli,27481,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002559
+13,sáb 03/11/2001,17:00,CS Sedan,Montpellier,?,Henri Stambouli,16803,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002569
+14,sáb 17/11/2001,17:00,Lens,CS Sedan,?,Henri Stambouli,37968,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002579
+15,sáb 24/11/2001,17:00,CS Sedan,FC Lorient,4-2-3-1,Henri Stambouli,14757,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002587
+16,qua 28/11/2001,17:30,Troyes,CS Sedan,?,Henri Stambouli,14249,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002599
+17,sáb 08/12/2001,17:00,CS Sedan,Rennes,?,Henri Stambouli,15364,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002607
+18,qua 19/12/2001,17:30,CS Sedan,Lyon,?,Henri Stambouli,15468,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002616
+19,sáb 22/12/2001,17:00,Guingamp,CS Sedan,?,Henri Stambouli,9006,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002621
+20,dom 21/04/2002,13:30,CS Sedan,Auxerre,?,Henri Stambouli,18084,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002637
+21,ter 09/04/2002,13:30,FC Metz,CS Sedan,?,Henri Stambouli,19153,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002646
+22,qua 23/01/2002,17:30,CS Sedan,Nantes,?,Henri Stambouli,13159,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002652
+23,qua 30/01/2002,17:30,Marselha,CS Sedan,?,Henri Stambouli,46285,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002659
+24,sáb 02/02/2002,17:00,CS Sedan,FC Sochaux,?,Henri Stambouli,13641,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002672
+25,qua 06/02/2002,17:30,Lille,CS Sedan,?,Henri Stambouli,16140,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002676
+26,sáb 16/02/2002,17:00,CS Sedan,Monaco,?,Henri Stambouli,16168,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002688
+27,sáb 23/02/2002,16:00,PSG,CS Sedan,?,Henri Stambouli,40095,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002697
+28,qua 06/03/2002,16:30,CS Sedan,Bordeaux,?,Henri Stambouli,14679,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002716
+29,sáb 16/03/2002,16:00,Montpellier,CS Sedan,?,Henri Stambouli,9442,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002724
+30,sáb 23/03/2002,16:00,CS Sedan,Lens,?,Henri Stambouli,21998,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002733
+31,sáb 06/04/2002,15:00,FC Lorient,CS Sedan,?,Henri Stambouli,12830,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002739
+32,sáb 13/04/2002,15:00,CS Sedan,Troyes,?,Henri Stambouli,18184,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002753
+33,sáb 27/04/2002,15:00,Rennes,CS Sedan,?,Henri Stambouli,20702,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002761
+34,sáb 04/05/2002,15:00,CS Sedan,SC Bastia,?,Henri Stambouli,21228,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002771

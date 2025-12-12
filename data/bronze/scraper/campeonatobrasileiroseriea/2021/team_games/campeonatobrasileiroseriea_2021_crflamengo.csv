@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 30/05/2021,16:00,Flamengo,Palmeiras,4-2-3-1,Rogério Ceni,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546464
+2,ter 23/11/2021,21:00,Grêmio,Flamengo,4-2-3-1,Renato Gaúcho,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546482
+3,dom 13/06/2021,16:00,Flamengo,América-MG,4-2-3-1,Rogério Ceni,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3571600
+4,ter 02/11/2021,16:00,Athletico-PR,Flamengo,4-4-2,Renato Gaúcho,15193,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3572013
+5,sáb 19/06/2021,21:00,Flamengo,Bragantino,4-2-3-1,Rogério Ceni,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3572020
+6,qua 23/06/2021,19:00,Flamengo,Fortaleza,4-4-2,Rogério Ceni,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580694
+7,dom 27/06/2021,11:00,Juventude,Flamengo,4-4-2,Rogério Ceni,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580707
+8,qui 01/07/2021,20:00,Cuiabá,Flamengo,4-4-2,Rogério Ceni,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580724
+9,dom 04/07/2021,16:00,Flamengo,Fluminense,4-4-2,Rogério Ceni,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583799
+10,qua 07/07/2021,19:00,Atlético-MG,Flamengo,4-4-2 losango,Rogério Ceni,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583812
+11,dom 11/07/2021,18:15,Flamengo,Chapecoense,4-4-2 duplo 6,Maurício Souza,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583819
+12,dom 18/07/2021,18:15,Bahia,Flamengo,4-2-3-1,Renato Gaúcho,x,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583835
+13,dom 25/07/2021,16:00,Flamengo,São Paulo,4-2-3-1,Renato Gaúcho,x,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583839
+14,dom 01/08/2021,16:00,Corinthians,Flamengo,4-2-3-1,Renato Gaúcho,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583870
+15,dom 08/08/2021,18:15,Flamengo,Internacional,4-2-3-1,Renato Gaúcho,x,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583859
+16,dom 15/08/2021,16:00,Flamengo,Sport,4-4-2 duplo 6,Renato Gaúcho,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583849
+17,dom 22/08/2021,16:00,Ceará,Flamengo,4-2-3-1,Renato Gaúcho,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583884
+18,sáb 28/08/2021,19:00,Santos,Flamengo,4-2-3-1,Renato Gaúcho,x,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583891
+19,sex 05/11/2021,21:30,Flamengo,Atlético-GO,4-4-2,Renato Gaúcho,17717,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583899
+20,dom 12/09/2021,16:00,Palmeiras,Flamengo,4-2-3-1,Renato Gaúcho,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583930
+21,dom 19/09/2021,20:30,Flamengo,Grêmio,4-2-3-1,Renato Gaúcho,6446,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583919
+22,dom 26/09/2021,11:00,América-MG,Flamengo,4-3-3 ofensivo,Renato Gaúcho,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583912
+23,dom 03/10/2021,16:00,Flamengo,Athletico-PR,4-4-2,Renato Gaúcho,8843,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583939
+24,qua 06/10/2021,20:30,Bragantino,Flamengo,4-2-3-1,Renato Gaúcho,2708,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583956
+25,sáb 09/10/2021,19:00,Fortaleza,Flamengo,4-2-3-1,Renato Gaúcho,4052,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583964
+26,qua 13/10/2021,19:00,Flamengo,Juventude,4-2-3-1,Renato Gaúcho,7282,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583989
+27,dom 17/10/2021,20:30,Flamengo,Cuiabá,4-2-3-1,Renato Gaúcho,7711,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583979
+28,sáb 23/10/2021,19:00,Fluminense,Flamengo,4-2-3-1,Renato Gaúcho,10029,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583969
+29,sáb 30/10/2021,19:00,Flamengo,Atlético-MG,4-2-3-1,Renato Gaúcho,24696,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583999
+30,seg 08/11/2021,20:00,Chapecoense,Flamengo,4-4-2,Renato Gaúcho,3834,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584017
+31,qui 11/11/2021,19:00,Flamengo,Bahia,4-2-3-1,Renato Gaúcho,9488,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584019
+32,dom 14/11/2021,16:00,São Paulo,Flamengo,4-4-2,Renato Gaúcho,47855,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584051
+33,qua 17/11/2021,21:30,Flamengo,Corinthians,4-3-3 ofensivo,Renato Gaúcho,48981,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584039
+34,sáb 20/11/2021,21:30,Internacional,Flamengo,4-2-3-1,Renato Gaúcho,19004,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584033
+35,sex 03/12/2021,20:00,Sport,Flamengo,4-2-3-1,Maurício Souza,10523,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584065
+36,ter 30/11/2021,20:00,Flamengo,Ceará,4-2-3-1,Maurício Souza,46481,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584069
+37,seg 06/12/2021,20:00,Flamengo,Santos,4-4-2,Maurício Souza,41390,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584079
+38,qui 09/12/2021,21:30,Atlético-GO,Flamengo,3-4-3 plano,Maurício Souza,11728,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584098

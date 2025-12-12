@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 14/08/2023,14:45,Moreirense,FC Porto,4-2-3-1,Vítor Bruno,5674,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109297
+2,dom 20/08/2023,14:00,FC Porto,Farense,4-4-2,Vítor Bruno,48129,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109287
+3,seg 28/08/2023,16:15,Rio Ave,FC Porto,4-4-2 duplo 6,Vítor Bruno,4811,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109314
+4,dom 03/09/2023,14:00,FC Porto,Arouca,4-4-2 duplo 6,Vítor Bruno,46516,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109303
+5,sex 15/09/2023,15:15,Estrela Amadora,FC Porto,3-5-2,Sérgio Conceição,5976,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109356
+6,sáb 23/09/2023,16:30,FC Porto,Gil Vicente,4-2-3-1,Sérgio Conceição,37617,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109323
+7,sex 29/09/2023,16:15,Benfica,FC Porto,4-4-2,Sérgio Conceição,62247,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109337
+8,dom 08/10/2023,14:00,FC Porto,Portimonense,4-4-2,Sérgio Conceição,43230,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109364
+9,dom 29/10/2023,17:30,Vizela,FC Porto,4-4-2 duplo 6,Sérgio Conceição,4435,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109434
+10,sex 03/11/2023,17:15,FC Porto,Estoril,4-4-2 duplo 6,Sérgio Conceição,30306,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109341
+11,sáb 11/11/2023,17:30,Vit. Guimarães,FC Porto,4-3-3 ofensivo,Sérgio Conceição,21353,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109392
+12,sáb 02/12/2023,15:00,Famalicão,FC Porto,4-4-2 duplo 6,Sérgio Conceição,4858,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109383
+13,sáb 09/12/2023,17:30,FC Porto,Casa Pia,4-4-2,Sérgio Conceição,29130,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109369
+14,seg 18/12/2023,17:15,Sporting,FC Porto,4-4-2,Sérgio Conceição,44385,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109493
+15,sex 29/12/2023,17:45,FC Porto,Chaves,4-4-2,Sérgio Conceição,41529,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109412
+16,sex 05/01/2024,17:45,Boavista,FC Porto,4-4-2,Sérgio Conceição,13945,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109482
+17,dom 14/01/2024,17:30,FC Porto,Braga,4-2-3-1,Sérgio Conceição,41402,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109423
+18,sáb 20/01/2024,17:30,FC Porto,Moreirense,4-2-3-1,Sérgio Conceição,34218,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109405
+19,dom 28/01/2024,15:00,Farense,FC Porto,4-2-3-1,Sérgio Conceição,6356,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109521
+20,sáb 03/02/2024,17:30,FC Porto,Rio Ave,4-2-3-1,Sérgio Conceição,39330,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109396
+21,seg 12/02/2024,17:15,Arouca,FC Porto,4-2-3-1,Sérgio Conceição,3157,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109447
+22,sáb 17/02/2024,17:30,FC Porto,Estrela Amadora,4-2-3-1,Sérgio Conceição,30613,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109518
+23,dom 25/02/2024,15:00,Gil Vicente,FC Porto,4-2-3-1,Sérgio Conceição,7121,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109485
+24,dom 03/03/2024,17:30,FC Porto,Benfica,4-2-3-1,Sérgio Conceição,49013,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109508
+25,sex 08/03/2024,15:45,Portimonense,FC Porto,4-2-3-1,Sérgio Conceição,2811,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109472
+26,sáb 16/03/2024,17:30,FC Porto,Vizela,4-2-3-1,Sérgio Conceição,30117,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109443
+27,sáb 30/03/2024,17:30,Estoril,FC Porto,4-2-3-1,Sérgio Conceição,4578,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109457
+28,dom 07/04/2024,16:30,FC Porto,Vit. Guimarães,4-2-3-1,Sérgio Conceição,34582,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109561
+29,sáb 13/04/2024,14:00,FC Porto,Famalicão,4-2-3-1,Sérgio Conceição,30510,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109543
+30,dom 21/04/2024,14:00,Casa Pia,FC Porto,4-2-3-1,Sérgio Conceição,3387,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109548
+31,dom 28/04/2024,16:30,FC Porto,Sporting,4-2-3-1,Sérgio Conceição,45230,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109528
+32,sáb 04/05/2024,16:30,Chaves,FC Porto,4-2-3-1,Sérgio Conceição,3439,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109577
+33,dom 12/05/2024,16:30,FC Porto,Boavista,4-2-3-1,Sérgio Conceição,33031,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109572
+34,sáb 18/05/2024,16:30,Braga,FC Porto,4-2-3-1,Sérgio Conceição,23284,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109590

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 22/08/1999,16:00,Rio Ave,Benfica,4-4-2,Jupp Heynckes,20000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854864
+2,dom 29/08/1999,13:00,Benfica,Salgueiros,4-4-2,Jupp Heynckes,40000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854877
+3,dom 12/09/1999,14:00,Santa Clara,Benfica,4-2-3-1,Jupp Heynckes,15000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854882
+4,seg 20/09/1999,16:00,Benfica,Vitória FC,4-4-2,Jupp Heynckes,6000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854896
+5,sex 24/09/1999,19:00,Farense,Benfica,4-4-2,Jupp Heynckes,8000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854899
+6,seg 04/10/1999,20:00,Benfica,CF Estrela,4-4-2,Jupp Heynckes,30000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854912
+7,sex 15/10/1999,20:00,Gil Vicente,Benfica,4-4-2,Jupp Heynckes,12000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854918
+8,sáb 23/10/1999,20:00,Benfica,Boavista,4-4-2,Jupp Heynckes,40000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854928
+9,sáb 30/10/1999,20:00,Alverca,Benfica,4-2-3-1,Jupp Heynckes,7000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854936
+10,dom 07/11/1999,21:00,Benfica,Braga,4-4-2,Jupp Heynckes,18000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854948
+11,sáb 20/11/1999,19:00,FC Porto,Benfica,4-3-3 ofensivo,Jupp Heynckes,48000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854952
+12,seg 29/11/1999,18:00,Benfica,Campomaiorense,4-2-3-1,Jupp Heynckes,18000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854967
+13,sáb 04/12/1999,17:00,Belenenses,Benfica,4-2-3-1,Jupp Heynckes,15000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854972
+14,seg 13/12/1999,18:00,Benfica,Leiria,4-4-2,Jupp Heynckes,7500,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854985
+15,sáb 18/12/1999,21:00,Vit. Guimarães,Benfica,4-2-3-1,Jupp Heynckes,10000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854994
+16,dom 09/01/2000,17:00,Benfica,Sporting,4-2-3-1,Jupp Heynckes,75000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855002
+17,sáb 15/01/2000,17:00,Marítimo,Benfica,4-2-3-1,Jupp Heynckes,9000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855005
+18,sex 21/01/2000,21:00,Benfica,Rio Ave,?,Jupp Heynckes,20000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855015
+19,dom 30/01/2000,19:00,Salgueiros,Benfica,4-2-3-1,Jupp Heynckes,4000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855029
+20,sáb 05/02/2000,21:00,Benfica,Santa Clara,4-4-2,Jupp Heynckes,35000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855037
+21,seg 14/02/2000,18:30,Vitória FC,Benfica,4-3-3 ofensivo,Jupp Heynckes,12000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855049
+22,dom 20/02/2000,14:00,Benfica,Farense,4-2-3-1,Jupp Heynckes,60000,6:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855051
+23,sáb 26/02/2000,20:00,CF Estrela,Benfica,?,Jupp Heynckes,10000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855063
+24,sex 03/03/2000,20:00,Benfica,Gil Vicente,?,Jupp Heynckes,20000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855069
+25,sáb 11/03/2000,20:00,Boavista,Benfica,?,Jupp Heynckes,7500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855080
+26,sáb 18/03/2000,20:00,Benfica,Alverca,?,Jupp Heynckes,25000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855089
+27,sáb 25/03/2000,17:00,Braga,Benfica,4-2-3-1,Jupp Heynckes,15000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855100
+28,sáb 01/04/2000,15:00,Benfica,FC Porto,4-2-3-1,Jupp Heynckes,35000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855106
+29,dom 09/04/2000,15:00,Campomaiorense,Benfica,4-2-3-1,Jupp Heynckes,7500,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855115
+30,dom 16/04/2000,12:00,Benfica,Belenenses,4-2-3-1,Jupp Heynckes,20000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855125
+31,sex 21/04/2000,19:00,Leiria,Benfica,?,Jupp Heynckes,5000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855138
+32,sáb 29/04/2000,19:00,Benfica,Vit. Guimarães,?,Jupp Heynckes,5000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855148
+33,sex 05/05/2000,19:00,Sporting,Benfica,4-3-3 ofensivo,Jupp Heynckes,50000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855150
+34,dom 14/05/2000,12:00,Benfica,Marítimo,4-2-3-1,Jupp Heynckes,15000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855166

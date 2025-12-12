@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/09/2020,13:15,Leganés,Las Palmas,4-1-4-1,Pepe Mel,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3441544
+2,dom 20/09/2020,15:30,Las Palmas,Fuenlabrada CF,4-1-4-1,Pepe Mel,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3441564
+3,sáb 26/09/2020,11:00,Zaragoza,Las Palmas,4-2-3-1,Pepe Mel,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3441574
+4,sáb 03/10/2020,15:30,Las Palmas,UD Logrones,4-2-3-1,Pepe Mel,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3441583
+5,dom 11/10/2020,11:00,Málaga CF,Las Palmas,4-2-3-1,Pepe Mel,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3456985
+6,sáb 17/10/2020,13:15,Las Palmas,UD Almería,4-2-3-1,Pepe Mel,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3456996
+7,qua 21/10/2020,14:00,Las Palmas,Castellón,4-1-4-1,Pepe Mel,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457005
+8,sáb 24/10/2020,13:15,FC Cartagena,Las Palmas,4-2-3-1,Pepe Mel,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457016
+9,qua 28/10/2020,15:00,Albacete,Las Palmas,4-2-3-1,Pepe Mel,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457024
+10,sáb 31/10/2020,14:15,Las Palmas,Real Oviedo,4-2-3-1,Pepe Mel,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457038
+11,seg 09/11/2020,17:00,Girona,Las Palmas,4-1-4-1,Pepe Mel,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457049
+12,dom 15/11/2020,18:00,Las Palmas,Tenerife,4-1-4-1,Pepe Mel,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457061
+13,dom 22/11/2020,10:00,CE Sabadell,Las Palmas,4-1-4-1,Pepe Mel,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457077
+14,qua 25/11/2020,15:00,Las Palmas,Mirandés,4-1-4-1,Pepe Mel,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457084
+15,dom 29/11/2020,17:00,Las Palmas,Real Sporting,4-2-3-1,Pepe Mel,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457093
+16,qua 02/12/2020,17:30,Lugo,Las Palmas,4-4-1-1,Pepe Mel,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457108
+17,sáb 05/12/2020,12:00,Ponferradina,Las Palmas,4-2-3-1,Pepe Mel,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457118
+18,dom 13/12/2020,14:15,Las Palmas,AD Alcorcón,4-2-3-1,Pepe Mel,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457128
+19,dom 20/12/2020,14:15,Rayo Vallecano,Las Palmas,4-2-3-1,Pepe Mel,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457140
+20,dom 03/01/2021,12:00,Las Palmas,Espanyol,4-2-3-1,Pepe Mel,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457151
+21,dom 10/01/2021,12:00,Mallorca,Las Palmas,4-2-3-1,Pepe Mel,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457160
+22,dom 24/01/2021,16:30,Las Palmas,Leganés,4-4-2,Pepe Mel,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457173
+23,dom 31/01/2021,14:15,Mirandés,Las Palmas,4-4-2 duplo 6,Pepe Mel,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457183
+24,dom 07/02/2021,16:30,Las Palmas,CE Sabadell,4-4-2,Pepe Mel,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457194
+25,dom 14/02/2021,12:00,UD Almería,Las Palmas,4-1-4-1,Pepe Mel,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457201
+26,sáb 20/02/2021,16:30,Las Palmas,FC Cartagena,4-4-2 duplo 6,Pepe Mel,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457215
+27,sáb 27/02/2021,16:30,Castellón,Las Palmas,4-2-3-1,Pepe Mel,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457224
+28,sáb 06/03/2021,14:15,Las Palmas,Rayo Vallecano,4-4-2 duplo 6,Pepe Mel,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457237
+29,sáb 13/03/2021,12:00,Fuenlabrada CF,Las Palmas,4-4-2 duplo 6,Pepe Mel,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457248
+30,sex 19/03/2021,17:00,Las Palmas,Girona,4-4-2,Pepe Mel,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457258
+31,dom 28/03/2021,16:30,Tenerife,Las Palmas,4-4-2,Pepe Mel,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457276
+32,qui 01/04/2021,16:00,Las Palmas,Lugo,4-2-3-1,Pepe Mel,x,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457280
+33,dom 04/04/2021,15:30,Las Palmas,Mallorca,4-2-3-1,Pepe Mel,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457294
+34,sáb 10/04/2021,11:00,Real Oviedo,Las Palmas,4-2-3-1,Pepe Mel,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457306
+35,sáb 17/04/2021,13:15,Las Palmas,Málaga CF,4-2-3-1,Pepe Mel,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457316
+36,sáb 24/04/2021,13:15,Espanyol,Las Palmas,4-2-3-1,Pepe Mel,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457322
+37,dom 02/05/2021,15:30,Las Palmas,Ponferradina,4-4-2,Pepe Mel,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457338
+38,sáb 08/05/2021,15:30,AD Alcorcón,Las Palmas,4-4-2,Pepe Mel,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457343
+39,sáb 15/05/2021,16:00,Las Palmas,Zaragoza,4-4-2,Pepe Mel,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457359
+40,qui 20/05/2021,14:00,Real Sporting,Las Palmas,4-4-2,Pepe Mel,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457374
+41,seg 24/05/2021,16:00,Las Palmas,Albacete,4-1-4-1,Pepe Mel,,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457381
+42,dom 30/05/2021,16:00,UD Logrones,Las Palmas,4-4-2 duplo 6,Pepe Mel,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457390

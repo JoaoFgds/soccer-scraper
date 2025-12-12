@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 30/07/2022,10:00,Dijon,Saint-Étienne,4-2-3-1,Omar Daf,11465,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3863134
+2,sáb 06/08/2022,14:00,Pau FC,Dijon,4-2-3-1,Omar Daf,3203,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3863149
+3,sáb 13/08/2022,14:00,Dijon,SM Caen,4-2-3-1,Omar Daf,7342,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864773
+4,sáb 20/08/2022,14:00,Dijon,Nîmes Olympique,4-2-3-1,Omar Daf,7500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864782
+5,sáb 27/08/2022,10:00,FC Metz,Dijon,4-3-3 ofensivo,Omar Daf,14257,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864792
+6,ter 30/08/2022,15:45,Dijon,FC Annecy,4-2-3-1,Omar Daf,7662,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864800
+7,sex 02/09/2022,15:45,SC Bastia,Dijon,4-3-3 ofensivo,Omar Daf,10000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864826
+8,sáb 10/09/2022,14:00,Dijon,FC Sochaux,4-2-3-1,Omar Daf,10004,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864836
+9,sáb 17/09/2022,10:00,Bordeaux,Dijon,4-2-3-1,Omar Daf,17323,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3888715
+10,sáb 01/10/2022,14:00,Dijon,Le Havre,4-2-3-1,Omar Daf,6533,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864872
+11,sáb 08/10/2022,14:00,Amiens SC,Dijon,4-2-3-1,Omar Daf,8517,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864879
+12,sáb 15/10/2022,14:00,Dijon,Quevilly Rouen,4-2-3-1,Omar Daf,6000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864907
+13,sáb 22/10/2022,14:00,Chamois Niort,Dijon,4-2-3-1,Omar Daf,3869,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864929
+14,sáb 05/11/2022,15:00,Dijon,Guingamp,4-3-1-2,Omar Daf,6837,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864944
+15,sáb 12/11/2022,15:00,Grenoble,Dijon,4-2-3-1,Omar Daf,6573,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864953
+16,seg 26/12/2022,17:00,Dijon,Stade Lavallois,4-2-3-1,Omar Daf,3500,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864963
+17,sex 30/12/2022,17:00,Rodez AF,Dijon,4-2-3-1,Omar Daf,3009,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864976
+18,ter 10/01/2023,16:45,Paris FC,Dijon,4-2-3-1,Omar Daf,2807,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864981
+19,sex 13/01/2023,16:45,Dijon,Valenciennes,4-2-3-1,Omar Daf,5883,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864997
+20,sáb 28/01/2023,15:00,Dijon,Bordeaux,4-2-3-1,Omar Daf,7428,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3888726
+21,ter 31/01/2023,16:45,Stade Lavallois,Dijon,4-2-3-1,Omar Daf,5585,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865029
+22,sex 03/02/2023,16:45,Dijon,Chamois Niort,4-2-3-1,Omar Daf,5600,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865036
+23,sáb 11/02/2023,11:00,Saint-Étienne,Dijon,5-4-1 plano,Omar Daf,21215,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865050
+24,sáb 18/02/2023,15:00,Dijon,FC Metz,4-2-3-1,Omar Daf,6657,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865062
+25,sáb 25/02/2023,15:00,Valenciennes,Dijon,4-2-3-1,Omar Daf,5124,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865079
+26,sáb 04/03/2023,15:00,Dijon,Grenoble,4-2-3-1,Omar Daf,4500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865090
+27,sáb 11/03/2023,15:00,Guingamp,Dijon,4-2-3-1,Omar Daf,8126,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865135
+28,sáb 18/03/2023,15:00,Dijon,Pau FC,4-2-3-1,Omar Daf,8725,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865154
+29,sáb 01/04/2023,14:00,SM Caen,Dijon,4-2-3-1,Omar Daf,13341,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865177
+30,sáb 08/04/2023,14:00,Dijon,Rodez AF,4-2-3-1,Pascal Dupraz,6859,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865197
+31,sáb 15/04/2023,14:00,Quevilly Rouen,Dijon,4-2-3-1,Pascal Dupraz,2600,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865225
+32,sáb 22/04/2023,14:00,Dijon,SC Bastia,4-2-3-1,Pascal Dupraz,7038,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865275
+33,seg 01/05/2023,15:45,FC Sochaux,Dijon,4-2-3-1,Pascal Dupraz,10577,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865290
+34,sáb 06/05/2023,14:00,FC Annecy,Dijon,4-2-3-1,Pascal Dupraz,6362,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865292
+35,sáb 13/05/2023,14:00,Dijon,Amiens SC,4-2-3-1,Pascal Dupraz,9511,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865303
+36,sáb 20/05/2023,14:00,Nîmes Olympique,Dijon,4-2-3-1,Pascal Dupraz,1567,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865313
+37,sex 26/05/2023,15:45,Dijon,Paris FC,4-2-3-1,Pascal Dupraz,14210,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865320
+38,sex 02/06/2023,15:45,Le Havre,Dijon,4-2-3-1,Pascal Dupraz,23561,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865329

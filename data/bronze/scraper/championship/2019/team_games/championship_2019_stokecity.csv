@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 03/08/2019,11:00,Stoke,QPR,4-3-1-2,Nathan Jones,24004,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3196764
+2,sáb 10/08/2019,11:00,Charlton,Stoke,4-3-1-2,Nathan Jones,17848,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219967
+3,sáb 17/08/2019,11:00,Stoke,Derby,4-3-1-2,Nathan Jones,23863,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219948
+4,qua 21/08/2019,15:45,Preston NE,Stoke,4-3-1-2,Nathan Jones,11973,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219941
+5,sáb 24/08/2019,11:00,Stoke,Leeds,3-5-2,Nathan Jones,24090,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219929
+6,sáb 31/08/2019,11:00,Birmingham,Stoke,4-2-3-1,Nathan Jones,20652,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219925
+7,sáb 14/09/2019,11:00,Stoke,Bristol City,3-5-2,Nathan Jones,22357,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219903
+8,sáb 21/09/2019,11:00,Brentford,Stoke,3-5-2,Nathan Jones,11870,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219902
+9,sex 27/09/2019,16:00,Stoke,Nott'm Forest,4-4-2,Nathan Jones,23800,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219878
+10,ter 01/10/2019,16:00,Stoke,Huddersfield,4-3-1-2,Nathan Jones,20372,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219855
+11,sáb 05/10/2019,11:00,Swansea,Stoke,4-3-1-2,Nathan Jones,16612,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219848
+12,sáb 19/10/2019,11:00,Stoke,Fulham,4-3-1-2,Nathan Jones,23189,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219815
+13,ter 22/10/2019,15:45,Sheff Wed,Stoke,4-3-1-2,Nathan Jones,22460,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219846
+14,sáb 26/10/2019,11:00,Millwall,Stoke,4-3-1-2,Nathan Jones,14008,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219792
+15,seg 04/11/2019,17:00,Stoke,West Brom,5-3-2,Rory Delap,22360,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219821
+16,sáb 09/11/2019,12:00,Barnsley FC,Stoke,4-3-3 ofensivo,Michael O'Neill,14891,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219784
+17,sáb 23/11/2019,12:00,Stoke,Wigan,4-1-4-1,Michael O'Neill,22530,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219768
+18,ter 26/11/2019,16:45,Cardiff,Stoke,4-1-4-1,Michael O'Neill,20884,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219726
+19,sáb 30/11/2019,12:00,Stoke,Blackburn,4-1-4-1,Michael O'Neill,22292,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219769
+20,sáb 07/12/2019,12:00,Hull City,Stoke,4-1-4-1,Michael O'Neill,11019,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219732
+21,ter 10/12/2019,17:00,Stoke,Luton,4-1-4-1,Michael O'Neill,20216,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219710
+22,sáb 14/12/2019,12:00,Stoke,Reading,4-1-4-1,Michael O'Neill,21701,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219640
+23,sex 20/12/2019,16:45,Middlesbrough,Stoke,4-3-3 ofensivo,Michael O'Neill,18270,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219701
+24,qui 26/12/2019,12:00,Stoke,Sheff Wed,4-1-4-1,Michael O'Neill,25359,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219709
+25,dom 29/12/2019,12:00,Fulham,Stoke,4-3-3 ofensivo,Michael O'Neill,18747,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219595
+26,qua 01/01/2020,12:00,Huddersfield,Stoke,4-1-4-1,Michael O'Neill,21933,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219671
+27,sáb 11/01/2020,12:00,Stoke,Millwall,4-3-3 ofensivo,Michael O'Neill,22515,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219605
+28,seg 20/01/2020,17:00,West Brom,Stoke,4-1-4-1,Michael O'Neill,23199,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219652
+29,sáb 25/01/2020,12:00,Stoke,Swansea,4-1-4-1,Michael O'Neill,22593,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219679
+30,sex 31/01/2020,16:45,Derby,Stoke,4-2-3-1,Michael O'Neill,27984,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219609
+31,sáb 08/02/2020,12:00,Stoke,Charlton,4-2-3-1,Michael O'Neill,23508,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219587
+32,qua 12/02/2020,17:00,Stoke,Preston NE,4-2-3-1,Michael O'Neill,20418,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219670
+33,sáb 15/02/2020,12:00,QPR,Stoke,4-2-3-1,Michael O'Neill,13125,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219489
+34,sáb 22/02/2020,12:00,Stoke,Cardiff,4-1-4-1,Michael O'Neill,25436,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219571
+35,qua 26/02/2020,16:45,Blackburn,Stoke,4-1-4-1,Michael O'Neill,12343,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219559
+36,sáb 29/02/2020,12:00,Luton,Stoke,4-1-4-1,Michael O'Neill,10070,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219505
+37,sáb 07/03/2020,12:00,Stoke,Hull City,4-1-4-1,Michael O'Neill,23126,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219575
+38,sáb 20/06/2020,11:00,Reading,Stoke,4-1-4-1,Michael O'Neill,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219515
+39,sáb 27/06/2020,11:00,Stoke,Middlesbrough,4-2-3-1,Michael O'Neill,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219518
+40,ter 30/06/2020,15:45,Wigan,Stoke,4-2-3-1,Michael O'Neill,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219554
+41,sáb 04/07/2020,11:00,Stoke,Barnsley FC,4-2-3-1,Michael O'Neill,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219578
+42,qui 09/07/2020,13:00,Leeds,Stoke,4-2-3-1,Michael O'Neill,x,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219527
+43,dom 12/07/2020,09:30,Stoke,Birmingham,4-2-3-1,Michael O'Neill,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219973
+44,qua 15/07/2020,13:00,Bristol City,Stoke,4-2-3-1,Michael O'Neill,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219462
+45,sáb 18/07/2020,08:30,Stoke,Brentford,5-3-2,Michael O'Neill,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219454
+46,qua 22/07/2020,15:30,Nott'm Forest,Stoke,3-4-1-2,Michael O'Neill,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219460

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 20/08/2012,16:00,Everton,Man Utd,4-2-3-1,David Moyes,38415,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2230144
+2,sáb 25/08/2012,11:00,Aston Villa,Everton,4-2-3-1,David Moyes,36565,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225445
+3,sáb 01/09/2012,11:00,West Brom,Everton,4-2-3-1,David Moyes,25383,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225472
+4,seg 17/09/2012,16:00,Everton,Newcastle,4-2-3-1,David Moyes,32510,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225469
+5,sáb 22/09/2012,08:45,Swansea,Everton,4-2-3-1,David Moyes,20464,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225481
+6,sáb 29/09/2012,11:00,Everton,Southampton,4-2-3-1,David Moyes,37922,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225477
+7,sáb 06/10/2012,11:00,Wigan,Everton,4-2-3-1,David Moyes,18759,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225501
+8,dom 21/10/2012,13:00,QPR,Everton,4-4-2 duplo 6,David Moyes,17959,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225504
+9,dom 28/10/2012,11:30,Everton,Liverpool,4-2-3-1,David Moyes,39613,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225520
+10,sáb 03/11/2012,13:00,Fulham,Everton,4-2-3-1,David Moyes,25699,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225515
+11,sáb 10/11/2012,13:00,Everton,AFC Sunderland,4-2-3-1,David Moyes,35999,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225527
+12,sáb 17/11/2012,13:00,Reading,Everton,4-2-3-1,David Moyes,24184,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225553
+13,sáb 24/11/2012,13:00,Everton,Norwich,4-2-3-1,David Moyes,34502,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225549
+14,qua 28/11/2012,17:45,Everton,Arsenal,4-2-3-1,David Moyes,37141,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250043
+15,sáb 01/12/2012,13:00,Man City,Everton,4-2-3-1,David Moyes,47386,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250047
+16,dom 09/12/2012,13:00,Everton,Tottenham,4-2-3-1,David Moyes,36494,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2258925
+17,sáb 15/12/2012,13:00,Stoke,Everton,4-2-3-1,David Moyes,27008,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2258933
+18,sáb 22/12/2012,13:00,West Ham,Everton,4-4-2 duplo 6,David Moyes,35005,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2258944
+19,qua 26/12/2012,13:00,Everton,Wigan,4-4-2,David Moyes,38749,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2258948
+20,dom 30/12/2012,11:30,Everton,Chelsea,4-4-2,David Moyes,39485,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2258958
+21,qua 02/01/2013,18:00,Newcastle,Everton,4-2-3-1,David Moyes,49391,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2258969
+22,sáb 12/01/2013,13:00,Everton,Swansea,4-2-3-1,David Moyes,35782,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2258978
+23,seg 21/01/2013,18:00,Southampton,Everton,4-2-3-1,David Moyes,28359,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2258990
+24,qua 30/01/2013,17:45,Everton,West Brom,4-2-3-1,David Moyes,31376,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2259003
+25,sáb 02/02/2013,13:00,Everton,Aston Villa,4-2-3-1,David Moyes,38121,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250143
+26,dom 10/02/2013,14:00,Man Utd,Everton,4-2-3-1,David Moyes,75525,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250155
+27,sáb 23/02/2013,12:00,Norwich,Everton,4-2-3-1,David Moyes,26828,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250167
+28,sáb 02/03/2013,12:00,Everton,Reading,4-2-3-1,David Moyes,35244,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225710
+29,ter 16/04/2013,15:45,Arsenal,Everton,4-2-3-1,David Moyes,60071,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225720
+30,sáb 16/03/2013,09:45,Everton,Man City,4-2-3-1,David Moyes,36519,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225704
+31,sáb 30/03/2013,14:30,Everton,Stoke,3-5-2,David Moyes,33977,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225722
+32,dom 07/04/2013,10:05,Tottenham,Everton,3-5-2,David Moyes,36192,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225746
+33,sáb 13/04/2013,11:00,Everton,QPR,4-2-3-1,David Moyes,34876,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225750
+34,sáb 20/04/2013,11:00,AFC Sunderland,Everton,4-2-3-1,David Moyes,44614,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225771
+35,sáb 27/04/2013,11:00,Everton,Fulham,4-4-2,David Moyes,34563,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225785
+36,dom 05/05/2013,09:30,Liverpool,Everton,4-2-3-1,David Moyes,44991,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225790
+37,dom 12/05/2013,11:00,Everton,West Ham,4-2-3-1,David Moyes,39475,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225804
+38,dom 19/05/2013,12:00,Chelsea,Everton,4-2-3-1,David Moyes,41794,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225762

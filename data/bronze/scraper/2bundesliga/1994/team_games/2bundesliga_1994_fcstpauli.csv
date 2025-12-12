@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 20/08/1994,10:30,St. Pauli,Wolfsburg,?,Ulrich Maslo,15400,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951331
+2,ter 23/08/1994,14:30,Hansa Rostock,St. Pauli,3-5-2 plano,Ulrich Maslo,9200,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951338
+3,seg 29/08/1994,15:15,St. Pauli,W. Mannheim,3-5-2,Ulrich Maslo,11100,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951353
+4,dom 04/09/1994,10:00,SV Meppen,St. Pauli,?,Ulrich Maslo,6500,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951361
+5,sex 16/09/1994,15:00,St. Pauli,VfB Leipzig,?,Ulrich Maslo,11200,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951364
+6,dom 25/09/1994,11:00,Düsseldorf,St. Pauli,?,Ulrich Maslo,12000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951381
+7,sex 30/09/1994,16:00,St. Pauli,Chemnitzer FC,?,Ulrich Maslo,14168,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951383
+8,dom 09/10/1994,11:00,Saarbrücken,St. Pauli,?,Ulrich Maslo,4800,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951400
+9,sex 14/10/1994,16:00,St. Pauli,Wattenscheid 09,?,Ulrich Maslo,16347,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951404
+10,sex 21/10/1994,17:00,Hannover,St. Pauli,?,Ulrich Maslo,12584,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951414
+11,sex 28/10/1994,17:00,St. Pauli,Nuremberg,?,Ulrich Maslo,20551,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951421
+12,dom 06/11/1994,12:00,Hertha Berlim,St. Pauli,3-1-4-2,Ulrich Maslo,21411,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951435
+13,dom 13/11/1994,12:00,Fortuna Köln,St. Pauli,3-1-4-2,Ulrich Maslo,4500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951446
+14,dom 20/11/1994,12:00,St. Pauli,Mainz,?,Ulrich Maslo,17900,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951455
+15,sáb 26/11/1994,11:00,FSV Zwickau,St. Pauli,?,Ulrich Maslo,6979,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951458
+16,dom 04/12/1994,12:00,St. Pauli,FSV Frankfurt,4-2-3-1,Ulrich Maslo,18398,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951472
+17,sex 09/12/1994,16:30,FC 08 Homburg,St. Pauli,?,Ulrich Maslo,3000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951475
+18,sáb 18/02/1995,12:00,Wolfsburg,St. Pauli,?,Ulrich Maslo,13264,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951485
+19,sex 24/02/1995,16:00,St. Pauli,Hansa Rostock,3-5-2,Ulrich Maslo,20725,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974664
+20,sáb 04/03/1995,11:30,W. Mannheim,St. Pauli,3-1-4-2,Ulrich Maslo,15000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974675
+21,dom 12/03/1995,11:00,St. Pauli,SV Meppen,?,Ulrich Maslo,19624,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974687
+22,sex 17/03/1995,16:00,VfB Leipzig,St. Pauli,?,Ulrich Maslo,3800,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974689
+23,seg 27/03/1995,15:15,St. Pauli,Düsseldorf,?,Ulrich Maslo,17640,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974706
+24,dom 02/04/1995,10:00,Chemnitzer FC,St. Pauli,?,Ulrich Maslo,4300,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974712
+25,dom 09/04/1995,10:00,St. Pauli,Saarbrücken,?,Ulrich Maslo,18702,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974724
+26,dom 16/04/1995,10:00,Wattenscheid 09,St. Pauli,?,Ulrich Maslo,3372,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974731
+27,sáb 22/04/1995,10:30,St. Pauli,Hannover,?,Ulrich Maslo,20131,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974737
+28,seg 01/05/1995,15:15,Nuremberg,St. Pauli,?,Ulrich Maslo,15500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974751
+29,seg 08/05/1995,15:30,St. Pauli,Hertha Berlim,?,Ulrich Maslo,15081,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974759
+30,dom 14/05/1995,10:00,St. Pauli,Fortuna Köln,3-5-2 ofensivo,Ulrich Maslo,13985,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974767
+31,sáb 20/05/1995,10:30,Mainz,St. Pauli,?,Ulrich Maslo,5400,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974774
+32,sex 26/05/1995,15:00,St. Pauli,FSV Zwickau,?,Ulrich Maslo,20500,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974779
+33,dom 11/06/1995,10:00,FSV Frankfurt,St. Pauli,?,Ulrich Maslo,9000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974794
+34,dom 18/06/1995,10:00,St. Pauli,FC 08 Homburg,?,Ulrich Maslo,21000,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974798

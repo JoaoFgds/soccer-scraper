@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 11/08/2007,11:00,Southampton,Crystal Palace,,George Burley,25054,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70429
+2,sáb 18/08/2007,11:00,Norwich,Southampton,,George Burley,24004,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70435
+3,sáb 25/08/2007,11:00,Southampton,Stoke,,George Burley,20300,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70452
+4,sáb 01/09/2007,11:00,QPR,Southampton,,George Burley,15560,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70461
+5,dom 16/09/2007,09:15,Watford,Southampton,,George Burley,15915,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70469
+6,qua 19/09/2007,15:45,Southampton,Colchester Utd.,,George Burley,18773,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70488
+7,sáb 22/09/2007,11:00,Southampton,Barnsley FC,,George Burley,19151,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70499
+8,sáb 29/09/2007,11:00,Sheff Utd,Southampton,,George Burley,24561,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70511
+9,ter 02/10/2007,15:45,Preston NE,Southampton,4-4-2,George Burley,10279,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70523
+10,sáb 06/10/2007,11:00,Southampton,West Brom,4-4-2,George Burley,21967,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70534
+11,dom 21/10/2007,10:15,Southampton,Cardiff,4-4-2,George Burley,20796,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70546
+12,qua 24/10/2007,16:45,Bristol City,Southampton,4-4-2,George Burley,18326,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70552
+13,sáb 27/10/2007,14:20,FC Burnley,Southampton,4-4-2,George Burley,10944,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70574
+14,sáb 03/11/2007,13:00,Southampton,Charlton,4-4-2,George Burley,23363,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70582
+15,ter 06/11/2007,17:45,Southampton,Wolves,4-4-2,George Burley,19856,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70597
+16,sáb 10/11/2007,13:00,Sheff Wed,Southampton,4-4-2,George Burley,19442,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70606
+17,sáb 24/11/2007,13:00,Southampton,Blackpool,4-4-2,George Burley,21075,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70619
+18,ter 27/11/2007,17:45,Ipswich,Southampton,4-4-2,George Burley,19791,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70628
+19,sáb 01/12/2007,13:00,Leicester,Southampton,4-4-2,George Burley,20070,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70641
+20,ter 04/12/2007,17:45,Southampton,Sheff Wed,4-4-2,George Burley,17981,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70657
+21,sáb 08/12/2007,13:00,Southampton,Hull City,4-4-2,George Burley,18125,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70668
+22,sáb 15/12/2007,13:00,Coventry City,Southampton,4-4-2,George Burley,19143,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70675
+23,sáb 22/12/2007,13:00,Southampton,Preston NE,4-4-2,George Burley,23267,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70692
+24,qua 26/12/2007,13:00,Colchester Utd.,Southampton,4-4-2,George Burley,6157,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70697
+25,sáb 29/12/2007,13:00,Barnsley FC,Southampton,4-4-2,George Burley,10425,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70707
+26,ter 01/01/2008,13:00,Southampton,Watford,4-4-2,George Burley,23008,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70728
+27,sáb 12/01/2008,13:00,Southampton,Scunthorpe Utd.,4-4-2,George Burley,18146,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70741
+28,sáb 19/01/2008,13:00,Plymouth Argyle,Southampton,4-4-2,George Burley,14676,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70748
+29,ter 29/01/2008,17:45,Southampton,Norwich,4-4-2,John Gorman,18004,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70765
+30,sáb 02/02/2008,13:00,Crystal Palace,Southampton,4-4-2,John Gorman,17967,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70770
+31,sáb 09/02/2008,13:00,Southampton,QPR,4-4-2,John Gorman,22505,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70789
+32,ter 12/02/2008,17:45,Stoke,Southampton,4-4-2,John Gorman,19481,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70800
+33,ter 19/02/2008,16:45,Southampton,Plymouth Argyle,4-4-2,Nigel Pearson,17806,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70813
+34,sáb 23/02/2008,12:00,Scunthorpe Utd.,Southampton,4-4-2,Nigel Pearson,6035,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70822
+35,sáb 01/03/2008,12:00,Southampton,Ipswich,4-4-2,Nigel Pearson,23299,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70837
+36,ter 04/03/2008,16:45,Wolves,Southampton,4-4-2,Nigel Pearson,21795,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70850
+37,sáb 08/03/2008,12:00,Blackpool,Southampton,4-4-2,Nigel Pearson,9050,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70851
+38,ter 11/03/2008,16:45,Southampton,Leicester,4-4-2,Nigel Pearson,17741,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70869
+39,sáb 15/03/2008,12:00,Hull City,Southampton,4-4-2,Nigel Pearson,16829,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70881
+40,sáb 22/03/2008,12:00,Southampton,Coventry City,4-4-2,Nigel Pearson,22014,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70896
+41,sáb 29/03/2008,12:00,Cardiff,Southampton,4-4-2,Nigel Pearson,12955,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70901
+42,sáb 05/04/2008,11:00,Southampton,Bristol City,4-4-2,Nigel Pearson,22890,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70919
+43,sáb 12/04/2008,11:00,Charlton,Southampton,4-4-2,Nigel Pearson,26206,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70926
+44,sáb 19/04/2008,11:00,Southampton,FC Burnley,4-4-2,Nigel Pearson,21762,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70943
+45,seg 28/04/2008,15:45,West Brom,Southampton,4-4-2,Nigel Pearson,26167,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70958
+46,dom 04/05/2008,10:00,Southampton,Sheff Utd,4-4-2,Nigel Pearson,31957,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/70968

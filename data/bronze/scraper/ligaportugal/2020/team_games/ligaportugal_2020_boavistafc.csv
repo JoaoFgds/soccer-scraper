@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 19/09/2020,12:00,Nacional,Boavista,4-3-3 defensivo,Vasco Seabra,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431962
+2,sáb 26/09/2020,17:00,Boavista,FC Porto,4-2-3-1,Vasco Seabra,x,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431983
+3,sex 02/10/2020,15:00,Moreirense,Boavista,4-2-3-1,Vasco Seabra,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432037
+4,seg 19/10/2020,16:15,Boavista,Vit. Guimarães,4-2-3-1,Vasco Seabra,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431977
+5,dom 25/10/2020,14:30,Famalicão,Boavista,4-2-3-1,Vasco Seabra,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431964
+6,seg 02/11/2020,18:00,Boavista,Benfica,3-4-2-1,Vasco Seabra,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431990
+7,dom 08/11/2020,12:00,Farense,Boavista,4-1-4-1,Vasco Seabra,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432078
+8,dom 29/11/2020,14:30,Boavista,B SAD,4-2-3-1,Vasco Seabra,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432019
+9,dom 06/12/2020,14:30,Rio Ave,Boavista,4-3-3 defensivo,Vasco Seabra,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432183
+10,dom 20/12/2020,12:00,Paços Ferreira,Boavista,4-3-3 ofensivo,Jesualdo Ferreira,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431996
+11,seg 28/12/2020,18:00,Boavista,Braga,4-4-2 losango,Jesualdo Ferreira,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432107
+12,dom 03/01/2021,12:00,Marítimo,Boavista,4-4-2 losango,Jesualdo Ferreira,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432137
+13,sáb 09/01/2021,17:30,Boavista,Santa Clara,4-4-2 losango,Jesualdo Ferreira,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432157
+14,sáb 16/01/2021,17:30,CD Tondela,Boavista,4-4-2 losango,Jesualdo Ferreira,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432219
+15,ter 26/01/2021,18:15,Boavista,Sporting,3-4-1-2,Jesualdo Ferreira,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432142
+16,sáb 30/01/2021,17:30,Portimonense,Boavista,4-4-1-1,Jesualdo Ferreira,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432221
+17,sex 05/02/2021,18:00,Boavista,Gil Vicente,4-2-3-1,Jesualdo Ferreira,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432061
+18,ter 09/02/2021,16:00,Boavista,Nacional,4-1-4-1,Jesualdo Ferreira,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432085
+19,sáb 13/02/2021,17:30,FC Porto,Boavista,3-5-2 plano,Jesualdo Ferreira,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432067
+20,sex 19/02/2021,17:30,Boavista,Moreirense,4-3-3 ofensivo,Jesualdo Ferreira,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432190
+21,sex 26/02/2021,17:30,Vit. Guimarães,Boavista,4-2-3-1,Jesualdo Ferreira,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432053
+22,sáb 06/03/2021,17:30,Boavista,Famalicão,4-3-3 ofensivo,Jesualdo Ferreira,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432072
+23,sáb 13/03/2021,15:00,Benfica,Boavista,5-3-2,Jesualdo Ferreira,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432058
+24,dom 21/03/2021,14:30,Boavista,Farense,4-4-2 losango,Jesualdo Ferreira,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432240
+25,dom 04/04/2021,11:00,B SAD,Boavista,3-5-2 plano,Jesualdo Ferreira,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432118
+26,sáb 10/04/2021,11:30,Boavista,Rio Ave,3-5-2,Jesualdo Ferreira,,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432264
+27,sex 16/04/2021,14:45,Boavista,Paços Ferreira,3-5-2,Jesualdo Ferreira,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432095
+28,qua 21/04/2021,15:00,Braga,Boavista,3-4-1-2,Jesualdo Ferreira,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432178
+29,dom 25/04/2021,11:00,Boavista,Marítimo,3-4-3 plano,Jesualdo Ferreira,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432194
+30,sáb 01/05/2021,14:00,Santa Clara,Boavista,3-1-4-2,Jesualdo Ferreira,,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432207
+31,sex 07/05/2021,17:15,Boavista,CD Tondela,3-4-3 plano,Jesualdo Ferreira,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432252
+32,ter 11/05/2021,16:30,Sporting,Boavista,3-5-2,Jesualdo Ferreira,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432176
+33,sáb 15/05/2021,11:30,Boavista,Portimonense,3-4-2-1,Jesualdo Ferreira,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432136
+34,qua 19/05/2021,16:00,Gil Vicente,Boavista,3-5-2,Jesualdo Ferreira,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432184

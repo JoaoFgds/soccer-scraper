@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 05/08/2022,15:30,Frankfurt,Bayern,4-4-2 duplo 6,Julian Nagelsmann,51500,1:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839025
+2,dom 14/08/2022,12:30,Bayern,Wolfsburg,4-4-2 duplo 6,Julian Nagelsmann,75000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839052
+3,dom 21/08/2022,12:30,Bochum,Bayern,4-4-2 duplo 6,Julian Nagelsmann,26000,0:7,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839085
+4,sáb 27/08/2022,13:30,Bayern,M'gladbach,4-4-2 duplo 6,Julian Nagelsmann,75000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839096
+5,sáb 03/09/2022,10:30,Union Berlim,Bayern,4-2-3-1,Julian Nagelsmann,22012,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839107
+6,sáb 10/09/2022,10:30,Bayern,Stuttgart,4-2-3-1,Julian Nagelsmann,75000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839114
+7,sáb 17/09/2022,10:30,Augsburg,Bayern,4-2-3-1,Julian Nagelsmann,30660,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839139
+8,sex 30/09/2022,15:30,Bayern,Leverkusen,4-2-3-1,Julian Nagelsmann,75000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839150
+9,sáb 08/10/2022,13:30,Dortmund,Bayern,4-2-3-1,Julian Nagelsmann,81365,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839159
+10,dom 16/10/2022,14:30,Bayern,Freiburg,4-2-3-1,Julian Nagelsmann,75024,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839177
+11,sáb 22/10/2022,10:30,Hoffenheim,Bayern,4-2-3-1,Julian Nagelsmann,30150,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839199
+12,sáb 29/10/2022,10:30,Bayern,Mainz,4-2-3-1,Julian Nagelsmann,75000,6:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839213
+13,sáb 05/11/2022,11:30,Hertha Berlim,Bayern,4-2-3-1,Julian Nagelsmann,74667,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839238
+14,ter 08/11/2022,16:30,Bayern,Werder Bremen,4-2-3-1,Julian Nagelsmann,75000,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839249
+15,sáb 12/11/2022,14:30,Schalke,Bayern,4-2-3-1,Julian Nagelsmann,62271,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839265
+16,sex 20/01/2023,16:30,Leipzig,Bayern,4-2-3-1,Julian Nagelsmann,47069,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839277
+17,ter 24/01/2023,16:30,Bayern,Colônia,4-2-3-1,Julian Nagelsmann,75000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839294
+18,sáb 28/01/2023,14:30,Bayern,Frankfurt,4-1-4-1,Julian Nagelsmann,75000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839312
+19,dom 05/02/2023,13:30,Wolfsburg,Bayern,4-2-3-1,Julian Nagelsmann,30000,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839335
+20,sáb 11/02/2023,11:30,Bayern,Bochum,3-1-4-2,Julian Nagelsmann,75000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839348
+21,sáb 18/02/2023,11:30,M'gladbach,Bayern,3-1-4-2,Julian Nagelsmann,54042,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839369
+22,dom 26/02/2023,13:30,Bayern,Union Berlim,4-2-3-1,Julian Nagelsmann,75000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839384
+23,sáb 04/03/2023,14:30,Stuttgart,Bayern,3-4-2-1,Julian Nagelsmann,47800,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839401
+24,sáb 11/03/2023,11:30,Bayern,Augsburg,3-1-4-2,Julian Nagelsmann,75000,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839411
+25,dom 19/03/2023,13:30,Leverkusen,Bayern,3-1-4-2,Julian Nagelsmann,30210,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839430
+26,sáb 01/04/2023,13:30,Bayern,Dortmund,4-2-3-1,Thomas Tuchel,75024,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839447
+27,sáb 08/04/2023,10:30,Freiburg,Bayern,4-1-4-1,Thomas Tuchel,34700,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839467
+28,sáb 15/04/2023,10:30,Bayern,Hoffenheim,4-2-3-1,Thomas Tuchel,75000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839483
+29,sáb 22/04/2023,10:30,Mainz,Bayern,3-4-1-2,Thomas Tuchel,33305,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839504
+30,dom 30/04/2023,10:30,Bayern,Hertha Berlim,4-2-3-1,Thomas Tuchel,75000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839510
+31,sáb 06/05/2023,13:30,Werder Bremen,Bayern,4-2-3-1,Thomas Tuchel,42100,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839536
+32,sáb 13/05/2023,10:30,Bayern,Schalke,4-1-4-1,Thomas Tuchel,75000,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839546
+33,sáb 20/05/2023,13:30,Bayern,Leipzig,4-2-3-1,Thomas Tuchel,75000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839564
+34,sáb 27/05/2023,10:30,Colônia,Bayern,4-2-3-1,Thomas Tuchel,50000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839585

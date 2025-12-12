@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/08/1995,10:30,Bayern,Hamburgo,3-5-2 ofensivo,Otto Rehhagel,63000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16931
+2,sáb 19/08/1995,10:30,Karlsruher,Bayern,3-5-2,Otto Rehhagel,33800,2:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16941
+3,qua 30/08/1995,15:00,Bayern,KFC Uerdingen,3-4-3,Otto Rehhagel,45000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16950
+4,sáb 02/09/1995,10:30,1860 Munique,Bayern,3-5-2,Otto Rehhagel,70800,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16961
+5,sáb 09/09/1995,10:30,Bayern,Freiburg,3-5-2 ofensivo,Otto Rehhagel,63000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16965
+6,sex 15/09/1995,15:00,K'lautern,Bayern,3-5-2,Otto Rehhagel,38000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16971
+7,sáb 23/09/1995,10:30,Bayern,Leverkusen,3-5-2,Otto Rehhagel,63000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16983
+8,dom 01/10/1995,16:15,Dortmund,Bayern,3-5-2,Otto Rehhagel,42800,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16996
+9,sáb 14/10/1995,11:30,Bayern,M'gladbach,3-4-2-1,Otto Rehhagel,63000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17001
+10,sáb 21/10/1995,12:30,St. Pauli,Bayern,3-5-2,Otto Rehhagel,20594,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17011
+11,sáb 28/10/1995,12:30,Bayern,Stuttgart,3-5-2,Otto Rehhagel,63000,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17018
+12,sáb 04/11/1995,12:30,Frankfurt,Bayern,3-5-2,Otto Rehhagel,57300,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17029
+13,sex 10/11/1995,16:30,Hansa Rostock,Bayern,3-5-2,Otto Rehhagel,25700,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17034
+14,sáb 18/11/1995,12:30,Bayern,Werder Bremen,3-5-2,Otto Rehhagel,63000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17049
+15,dom 26/11/1995,15:00,Colônia,Bayern,3-5-2,Otto Rehhagel,54000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17060
+16,sáb 02/12/1995,12:30,Bayern,Schalke,3-5-2,Otto Rehhagel,61000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17066
+17,sáb 09/12/1995,12:30,Düsseldorf,Bayern,3-5-2,Otto Rehhagel,55850,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17074
+18,dom 11/02/1996,16:00,Hamburgo,Bayern,3-5-2,Otto Rehhagel,57000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17083
+19,sáb 17/02/1996,11:30,Bayern,Karlsruher,3-5-2,Otto Rehhagel,35000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17090
+20,dom 25/02/1996,14:00,KFC Uerdingen,Bayern,3-5-2,Otto Rehhagel,30000,1:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17104
+21,sáb 02/03/1996,11:30,Bayern,1860 Munique,3-5-2,Otto Rehhagel,69000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17110
+22,sáb 09/03/1996,11:30,Freiburg,Bayern,3-5-2,Otto Rehhagel,22500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17121
+23,sáb 16/03/1996,11:30,Bayern,K'lautern,3-4-2-1,Otto Rehhagel,61000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17127
+24,sáb 23/03/1996,11:30,Leverkusen,Bayern,3-5-2,Otto Rehhagel,26500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17136
+25,sáb 30/03/1996,11:30,Bayern,Dortmund,3-5-2,Otto Rehhagel,63000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17145
+26,dom 07/04/1996,15:00,M'gladbach,Bayern,?,Otto Rehhagel,34500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17159
+27,qua 10/04/1996,15:00,Bayern,St. Pauli,3-5-2,Otto Rehhagel,46000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17165
+28,sáb 13/04/1996,10:30,Stuttgart,Bayern,3-5-2,Otto Rehhagel,53218,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17176
+29,sáb 20/04/1996,10:30,Bayern,Frankfurt,3-5-2,Otto Rehhagel,63000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17181
+30,sáb 27/04/1996,10:30,Bayern,Hansa Rostock,?,Otto Rehhagel,62000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17192
+31,ter 07/05/1996,15:00,Werder Bremen,Bayern,3-5-2,Franz Beckenbauer,29600,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17203
+32,sáb 04/05/1996,10:30,Bayern,Colônia,3-5-2,Franz Beckenbauer,63000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17210
+33,sáb 11/05/1996,10:30,Schalke,Bayern,3-5-2,Franz Beckenbauer,70960,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17216
+34,sáb 18/05/1996,10:30,Bayern,Düsseldorf,3-5-2,Klaus Augenthaler,63000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17227

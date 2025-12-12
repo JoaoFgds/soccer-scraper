@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 10/08/2014,12:00,Wolves,Norwich,4-4-2 losango,Neil Adams,22053,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2464948
+2,sáb 16/08/2014,11:00,Norwich,Watford,4-2-3-1,Neil Adams,26375,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2484440
+3,ter 19/08/2014,15:45,Norwich,Blackburn,4-2-3-1,Neil Adams,25835,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2485906
+4,sáb 23/08/2014,08:15,Ipswich,Norwich,4-2-3-1,Neil Adams,25245,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2485912
+5,sáb 30/08/2014,11:00,Norwich,Bournemouth,4-2-3-1,Neil Adams,25814,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2485931
+6,sáb 13/09/2014,11:00,Cardiff,Norwich,4-2-3-1,Neil Adams,21746,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2485942
+7,ter 16/09/2014,15:45,Brentford,Norwich,4-4-2 duplo 6,Neil Adams,10074,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2485952
+8,sáb 20/09/2014,11:00,Norwich,Birmingham,4-4-2 duplo 6,Neil Adams,26351,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498458
+9,sáb 27/09/2014,11:00,Blackpool,Norwich,4-4-2 duplo 6,Neil Adams,11232,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498489
+10,ter 30/09/2014,15:45,Norwich,Charlton,4-4-2 duplo 6,Neil Adams,25983,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498503
+11,sáb 04/10/2014,11:00,Norwich,Rotherham,4-4-2 duplo 6,Neil Adams,26114,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498519
+12,sáb 18/10/2014,11:00,Fulham,Norwich,4-2-3-1,Neil Adams,20766,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498528
+13,ter 21/10/2014,16:45,Norwich,Leeds,4-2-3-1,Neil Adams,26565,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498543
+14,sáb 25/10/2014,12:00,Sheff Wed,Norwich,4-3-1-2,Neil Adams,20898,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498568
+15,sex 31/10/2014,17:45,Norwich,Bolton,4-2-3-1,Neil Adams,26070,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498648
+16,ter 04/11/2014,17:45,Middlesbrough,Norwich,4-2-3-1,Neil Adams,16468,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498673
+17,sáb 08/11/2014,13:00,Nott'm Forest,Norwich,4-3-1-2,Neil Adams,24783,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2509876
+18,sáb 22/11/2014,13:00,Norwich,Brighton,4-3-1-2,Neil Adams,26379,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2509887
+19,sáb 29/11/2014,13:00,Norwich,Reading,4-4-2,Neil Adams,26002,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2509900
+20,sáb 06/12/2014,13:00,Wigan,Norwich,4-3-1-2,Neil Adams,11475,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2509914
+21,sáb 13/12/2014,13:00,Norwich,Huddersfield,4-3-1-2,Neil Adams,25595,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2509972
+22,sáb 20/12/2014,10:15,Derby,Norwich,4-3-1-2,Neil Adams,27974,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2509977
+23,sex 26/12/2014,13:00,Norwich,Millwall,4-3-1-2,Neil Adams,26714,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2509996
+24,dom 28/12/2014,13:00,Reading,Norwich,4-3-1-2,Neil Adams,19430,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2510009
+25,sáb 10/01/2015,13:00,Bournemouth,Norwich,4-3-1-2,Alex Neil,11318,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2520384
+26,sáb 17/01/2015,13:00,Norwich,Cardiff,4-1-3-2,Alex Neil,25995,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2520398
+27,sáb 24/01/2015,13:00,Norwich,Brentford,4-2-3-1,Alex Neil,26148,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525518
+28,sáb 31/01/2015,13:00,Birmingham,Norwich,4-2-3-1,Alex Neil,17835,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525527
+29,sáb 07/02/2015,13:00,Norwich,Blackpool,4-2-3-1,Alex Neil,26017,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525542
+30,ter 10/02/2015,17:45,Charlton,Norwich,4-3-1-2,Alex Neil,15094,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525554
+31,sáb 14/02/2015,13:00,Norwich,Wolves,4-3-1-2,Alex Neil,26322,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525568
+32,sáb 21/02/2015,13:00,Watford,Norwich,4-3-1-2,Alex Neil,18602,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525581
+33,ter 24/02/2015,16:45,Blackburn,Norwich,4-2-3-1,Alex Neil,13530,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525584
+34,dom 01/03/2015,11:05,Norwich,Ipswich,4-2-3-1,Alex Neil,27005,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525604
+35,qua 04/03/2015,16:45,Norwich,Wigan,4-4-2,Alex Neil,26208,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525615
+36,sáb 07/03/2015,12:00,Millwall,Norwich,4-4-2,Alex Neil,11116,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525627
+37,sáb 14/03/2015,12:00,Norwich,Derby,4-2-3-1,Alex Neil,26766,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525640
+38,ter 17/03/2015,16:45,Huddersfield,Norwich,4-4-2,Alex Neil,11879,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525648
+39,sáb 21/03/2015,12:00,Norwich,Nott'm Forest,4-2-3-1,Alex Neil,26976,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525663
+40,sex 03/04/2015,11:00,Brighton,Norwich,4-2-3-1,Alex Neil,28890,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525678
+41,seg 06/04/2015,11:00,Norwich,Sheff Wed,4-2-3-1,Alex Neil,22993,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525695
+42,sáb 11/04/2015,11:00,Bolton,Norwich,4-2-3-1,Alex Neil,16027,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525701
+43,ter 14/04/2015,15:45,Leeds,Norwich,4-2-3-1,Alex Neil,21471,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525716
+44,sex 17/04/2015,15:45,Norwich,Middlesbrough,4-2-3-1,Alex Neil,26993,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525731
+45,sáb 25/04/2015,11:00,Rotherham,Norwich,4-2-3-1,Alex Neil,11498,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525745
+46,sáb 02/05/2015,08:15,Norwich,Fulham,4-2-3-1,Alex Neil,26662,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525764

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 28/07/2001,15:00,Montpellier,Marselha,4-4-2 duplo 6,Michel Mézy,29507,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002376
+2,sáb 04/08/2001,15:00,Monaco,Montpellier,?,Michel Mézy,11618,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002474
+3,sáb 11/08/2001,15:00,Montpellier,FC Metz,?,Michel Mézy,14028,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002479
+4,sáb 18/08/2001,15:00,Lille,Montpellier,?,Michel Mézy,16505,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002486
+5,sáb 25/08/2001,15:00,Montpellier,FC Sochaux,?,Michel Mézy,12560,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002501
+6,sáb 08/09/2001,15:00,Auxerre,Montpellier,?,Michel Mézy,9351,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002504
+7,sáb 15/09/2001,15:00,Montpellier,Rennes,?,Michel Mézy,10143,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002516
+8,sex 21/09/2001,15:45,PSG,Montpellier,?,Michel Mézy,38611,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002521
+9,sáb 29/09/2001,15:00,Montpellier,FC Lorient,?,Michel Mézy,8324,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002534
+10,sáb 13/10/2001,15:00,Montpellier,Bordeaux,?,Michel Mézy,13780,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002544
+11,sáb 20/10/2001,16:00,Lens,Montpellier,4-2-3-1,Michel Mézy,35830,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002550
+12,sáb 27/10/2001,16:00,Montpellier,Troyes,?,Michel Mézy,9270,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002563
+13,sáb 03/11/2001,17:00,CS Sedan,Montpellier,?,Michel Mézy,16803,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002569
+14,sáb 17/11/2001,17:00,Montpellier,SC Bastia,?,Michel Mézy,11300,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002581
+15,sáb 24/11/2001,17:00,Guingamp,Montpellier,?,Michel Mézy,10681,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002585
+16,qua 28/11/2001,15:00,Montpellier,Lyon,?,Michel Mézy,15147,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002593
+17,sáb 08/12/2001,17:00,Nantes,Montpellier,?,Michel Mézy,30435,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002606
+18,qua 16/01/2002,17:30,Montpellier,Monaco,?,Michel Mézy,17703,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002618
+19,sáb 09/02/2002,15:00,FC Metz,Montpellier,?,Michel Mézy,15149,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002628
+20,sáb 05/01/2002,17:00,Montpellier,Lille,?,Michel Mézy,9920,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002632
+21,sáb 12/01/2002,17:00,FC Sochaux,Montpellier,?,Michel Mézy,11684,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002643
+22,qua 23/01/2002,17:30,Montpellier,Auxerre,?,Michel Mézy,9861,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002651
+23,qua 30/01/2002,17:30,Rennes,Montpellier,?,Michel Mézy,16071,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002662
+24,sáb 02/02/2002,14:15,Montpellier,PSG,?,Michel Mézy,17731,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002665
+25,qua 06/02/2002,17:30,FC Lorient,Montpellier,?,Michel Mézy,9098,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002677
+26,sáb 16/02/2002,17:00,Bordeaux,Montpellier,?,Michel Mézy,26419,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002684
+27,sáb 23/02/2002,13:15,Montpellier,Lens,?,Michel Mézy,14767,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002692
+28,qua 06/03/2002,16:30,Troyes,Montpellier,?,Michel Mézy,12322,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002717
+29,sáb 16/03/2002,16:00,Montpellier,CS Sedan,?,Michel Mézy,9442,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002724
+30,sáb 23/03/2002,16:00,SC Bastia,Montpellier,?,Michel Mézy,7704,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002729
+31,sáb 06/04/2002,15:00,Montpellier,Guingamp,?,Michel Mézy,12500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002741
+32,sáb 13/04/2002,15:00,Lyon,Montpellier,?,Michel Mézy,39125,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002750
+33,sáb 27/04/2002,15:00,Montpellier,Nantes,?,Michel Mézy,19658,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002759
+34,sáb 04/05/2002,15:00,Marselha,Montpellier,4-2-3-1,Michel Mézy,47813,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002768

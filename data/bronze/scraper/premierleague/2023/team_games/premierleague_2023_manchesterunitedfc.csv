@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 14/08/2023,16:00,Man Utd,Wolves,4-1-4-1,Erik ten Hag,73358,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4087933
+2,sáb 19/08/2023,13:30,Tottenham,Man Utd,4-2-3-1,Erik ten Hag,61910,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4087941
+3,sáb 26/08/2023,11:00,Man Utd,Nott'm Forest,4-2-3-1,Erik ten Hag,73595,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4087951
+4,dom 03/09/2023,12:30,Arsenal,Man Utd,4-2-3-1,Erik ten Hag,60192,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4087954
+5,sáb 16/09/2023,11:00,Man Utd,Brighton,4-3-1-2,Erik ten Hag,73592,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4087967
+6,sáb 23/09/2023,16:00,FC Burnley,Man Utd,4-2-3-1,Erik ten Hag,21593,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095065
+7,sáb 30/09/2023,11:00,Man Utd,Crystal Palace,4-2-3-1,Erik ten Hag,73428,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095140
+8,sáb 07/10/2023,11:00,Man Utd,Brentford,4-2-3-1,Erik ten Hag,73453,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095153
+9,sáb 21/10/2023,16:00,Sheff Utd,Man Utd,4-2-3-1,Erik ten Hag,31543,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095164
+10,dom 29/10/2023,12:30,Man Utd,Man City,4-2-3-1,Erik ten Hag,73502,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095173
+11,sáb 04/11/2023,09:30,Fulham,Man Utd,4-2-3-1,Erik ten Hag,24415,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095179
+12,sáb 11/11/2023,12:00,Man Utd,Luton,4-2-3-1,Erik ten Hag,73599,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095193
+13,dom 26/11/2023,13:30,Everton,Man Utd,4-2-3-1,Erik ten Hag,39257,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095198
+14,sáb 02/12/2023,17:00,Newcastle,Man Utd,4-2-3-1,Erik ten Hag,52214,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095213
+15,qua 06/12/2023,17:15,Man Utd,Chelsea,4-2-3-1,Erik ten Hag,73607,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095225
+16,sáb 09/12/2023,12:00,Man Utd,Bournemouth,4-2-3-1,Erik ten Hag,73427,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095232
+17,dom 17/12/2023,13:30,Liverpool,Man Utd,4-2-3-1,Erik ten Hag,57158,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095241
+18,sáb 23/12/2023,09:30,West Ham,Man Utd,4-2-3-1,Erik ten Hag,62472,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095254
+19,ter 26/12/2023,17:00,Man Utd,Aston Villa,4-2-3-1,Erik ten Hag,73574,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095263
+20,sáb 30/12/2023,14:30,Nott'm Forest,Man Utd,4-2-3-1,Erik ten Hag,29529,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095272
+21,dom 14/01/2024,13:30,Man Utd,Tottenham,4-2-3-1,Erik ten Hag,73489,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095283
+22,qui 01/02/2024,17:15,Wolves,Man Utd,4-2-3-1,Erik ten Hag,31641,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095292
+23,dom 04/02/2024,11:00,Man Utd,West Ham,4-2-3-1,Erik ten Hag,73612,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095303
+24,dom 11/02/2024,13:30,Aston Villa,Man Utd,4-2-3-1,Erik ten Hag,42185,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095310
+25,dom 18/02/2024,13:30,Luton,Man Utd,4-2-3-1,Erik ten Hag,11483,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095324
+26,sáb 24/02/2024,12:00,Man Utd,Fulham,4-2-3-1,Erik ten Hag,73487,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095337
+27,dom 03/03/2024,12:30,Man City,Man Utd,4-4-2 duplo 6,Erik ten Hag,55097,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095345
+28,sáb 09/03/2024,09:30,Man Utd,Everton,4-3-1-2,Erik ten Hag,73601,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095357
+29,qua 24/04/2024,16:00,Man Utd,Sheff Utd,4-2-3-1,Erik ten Hag,73549,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095367
+30,sáb 30/03/2024,17:00,Brentford,Man Utd,4-2-3-1,Erik ten Hag,17138,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095372
+31,qui 04/04/2024,16:15,Chelsea,Man Utd,4-2-3-1,Erik ten Hag,39694,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095386
+32,dom 07/04/2024,11:30,Man Utd,Liverpool,4-2-3-1,Erik ten Hag,73522,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095396
+33,sáb 13/04/2024,13:30,Bournemouth,Man Utd,4-2-3-1,Erik ten Hag,11229,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095400
+34,qua 15/05/2024,16:00,Man Utd,Newcastle,4-4-2 duplo 6,Erik ten Hag,73582,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095416
+35,sáb 27/04/2024,11:00,Man Utd,FC Burnley,4-2-3-1,Erik ten Hag,73571,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095424
+36,seg 06/05/2024,16:00,Crystal Palace,Man Utd,4-2-3-1,Erik ten Hag,25190,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095435
+37,dom 12/05/2024,12:30,Man Utd,Arsenal,4-2-3-1,Erik ten Hag,73600,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095445
+38,dom 19/05/2024,12:00,Brighton,Man Utd,4-4-2 duplo 6,Erik ten Hag,31662,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095454

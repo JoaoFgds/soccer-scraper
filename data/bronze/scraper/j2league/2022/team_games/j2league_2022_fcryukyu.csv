@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 20/02/2022,02:00,Machida Zelvia,FC Ryukyu,4-4-2 duplo 6,Tetsuhiro Kina,2456,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3724344
+2,sáb 26/02/2022,03:00,FC Ryukyu,JEF Utd. Chiba,4-4-2 duplo 6,Tetsuhiro Kina,2234,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746335
+3,sáb 05/03/2022,04:00,FC Ryukyu,Iwate Grulla M.,4-4-2 duplo 6,Tetsuhiro Kina,1249,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746327
+4,sáb 12/03/2022,02:00,Reno. Yamaguchi,FC Ryukyu,4-4-2 duplo 6,Tetsuhiro Kina,2694,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746446
+5,sáb 19/03/2022,04:00,FC Ryukyu,Mito HollyHock,4-4-2 duplo 6,Tetsuhiro Kina,1543,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746393
+6,qua 23/03/2022,07:00,Oita Trinita,FC Ryukyu,4-4-2 duplo 6,Tetsuhiro Kina,3420,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746368
+7,qua 30/03/2022,07:00,FC Ryukyu,Tokyo Verdy,4-4-2 duplo 6,Tetsuhiro Kina,1254,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746355
+8,dom 03/04/2022,02:00,Yokohama FC,FC Ryukyu,4-4-2 duplo 6,Tetsuhiro Kina,2508,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746406
+9,sáb 09/04/2022,05:00,FC Ryukyu,Fagiano Okayama,4-4-2 duplo 6,Tetsuhiro Kina,1151,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746382
+10,sáb 16/04/2022,05:00,FC Ryukyu,Thespaku. Gunma,3-4-2-1,Tetsuhiro Kina,1521,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746425
+11,sáb 23/04/2022,02:00,Vegalta Sendai,FC Ryukyu,3-1-4-2,Tetsuhiro Kina,6657,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746359
+12,qua 27/04/2022,07:00,FC Ryukyu,Zweig. Kanazawa,3-4-2-1,Tetsuhiro Kina,926,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746442
+13,sáb 30/04/2022,06:00,FC Ryukyu,Albirex Niigata,4-4-2 duplo 6,Tetsuhiro Kina,1793,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746458
+14,qua 04/05/2022,01:00,Blaublitz Akita,FC Ryukyu,4-4-2 duplo 6,Tetsuhiro Kina,2019,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746467
+15,dom 08/05/2022,01:00,Roasso Kumamoto,FC Ryukyu,4-4-2 duplo 6,Tetsuhiro Kina,3140,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746413
+16,sáb 14/05/2022,07:00,FC Ryukyu,Tochigi SC,4-4-2 duplo 6,Kazuki Kuranuki,1798,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746482
+17,sáb 21/05/2022,07:00,FC Ryukyu,Ventforet Kofu,4-4-2 duplo 6,Kazuki Kuranuki,1963,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746661
+18,qua 25/05/2022,07:00,Omiya Ardija,FC Ryukyu,4-4-2 duplo 6,Kazuki Kuranuki,3526,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746527
+19,dom 29/05/2022,06:30,FC Ryukyu,Tokushima Vort.,4-2-3-1,Tetsuhiro Kina,2033,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746728
+20,dom 05/06/2022,02:00,Monte. Yamagata,FC Ryukyu,4-4-2 duplo 6,Tetsuhiro Kina,5849,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746622
+21,sáb 11/06/2022,06:30,FC Ryukyu,V-V. Nagasaki,4-4-2 duplo 6,Kazuki Kuranuki,1423,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746545
+22,sáb 18/06/2022,07:00,Fagiano Okayama,FC Ryukyu,4-4-2 duplo 6,Kazuki Kuranuki,6251,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746616
+23,dom 26/06/2022,06:30,FC Ryukyu,Machida Zelvia,4-4-2 duplo 6,Nacho Fernández,1907,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746749
+24,dom 03/07/2022,06:00,Tokyo Verdy,FC Ryukyu,4-4-2 duplo 6,Nacho Fernández,2520,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746509
+25,qua 06/07/2022,06:00,Iwate Grulla M.,FC Ryukyu,4-4-2 duplo 6,Nacho Fernández,1044,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746488
+26,dom 10/07/2022,07:00,FC Ryukyu,Vegalta Sendai,4-4-2 duplo 6,Nacho Fernández,2012,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746718
+27,dom 17/07/2022,06:30,FC Ryukyu,Omiya Ardija,4-4-2 duplo 6,Nacho Fernández,2285,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746541
+28,sáb 23/07/2022,06:00,Tokushima Vort.,FC Ryukyu,4-4-2 duplo 6,Nacho Fernández,3575,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746569
+29,sáb 30/07/2022,06:30,FC Ryukyu,Roasso Kumamoto,4-4-2 duplo 6,Nacho Fernández,4537,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746733
+30,sáb 06/08/2022,06:00,Ventforet Kofu,FC Ryukyu,4-4-2 duplo 6,Nacho Fernández,5796,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746600
+31,sáb 13/08/2022,07:00,V-V. Nagasaki,FC Ryukyu,4-4-2 duplo 6,Nacho Fernández,6227,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746693
+32,sáb 20/08/2022,06:30,FC Ryukyu,Monte. Yamagata,4-4-2 duplo 6,Nacho Fernández,3392,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746579
+33,sáb 27/08/2022,06:00,Mito HollyHock,FC Ryukyu,4-4-2 duplo 6,Nacho Fernández,3126,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746643
+34,sáb 03/09/2022,01:00,FC Ryukyu,Blaublitz Akita,4-4-2 duplo 6,Nacho Fernández,608,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746561
+35,sáb 10/09/2022,06:00,Albirex Niigata,FC Ryukyu,4-4-2 duplo 6,Nacho Fernández,16336,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746704
+36,qua 14/09/2022,07:00,Thespaku. Gunma,FC Ryukyu,4-4-2 duplo 6,Nacho Fernández,1882,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746635
+37,dom 18/09/2022,06:30,FC Ryukyu,Reno. Yamaguchi,4-4-2 duplo 6,Nacho Fernández,1810,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746684
+38,dom 25/09/2022,06:00,Tochigi SC,FC Ryukyu,4-4-2 duplo 6,Nacho Fernández,3530,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3753669
+39,sáb 01/10/2022,06:30,FC Ryukyu,Yokohama FC,4-4-2 duplo 6,Nacho Fernández,2728,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3753680
+40,dom 09/10/2022,02:00,Zweig. Kanazawa,FC Ryukyu,4-4-2 duplo 6,Nacho Fernández,3216,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746520
+41,dom 16/10/2022,02:00,JEF Utd. Chiba,FC Ryukyu,4-4-2 duplo 6,Nacho Fernández,7499,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746592
+42,dom 23/10/2022,02:00,FC Ryukyu,Oita Trinita,4-4-2 duplo 6,Nacho Fernández,3349,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3746674

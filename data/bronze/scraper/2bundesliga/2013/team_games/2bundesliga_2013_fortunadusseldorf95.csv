@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 22/07/2013,15:15,Düsseldorf,Energ. Cottbus,4-4-2 duplo 6,Michael Büskens,33942,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321035
+2,dom 28/07/2013,10:30,Colônia,Düsseldorf,4-4-2 duplo 6,Michael Büskens,49959,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321091
+3,sex 09/08/2013,13:30,Düsseldorf,1860 Munique,4-2-3-1,Michael Büskens,34626,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321099
+4,seg 19/08/2013,15:15,Union Berlim,Düsseldorf,4-2-3-1,Michael Büskens,20846,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321434
+5,dom 25/08/2013,08:30,Düsseldorf,Bochum,4-2-3-1,Michael Büskens,37233,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321489
+6,sex 30/08/2013,13:30,Arm. Bielefeld,Düsseldorf,4-2-3-1,Michael Büskens,21065,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321557
+7,dom 15/09/2013,08:30,Düsseldorf,Dynamo Dresden,4-4-2 duplo 6,Michael Büskens,35947,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321558
+8,seg 23/09/2013,15:15,St. Pauli,Düsseldorf,4-2-3-1,Michael Büskens,29063,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321571
+9,sáb 28/09/2013,08:00,Düsseldorf,FSV Frankfurt,4-2-3-1,Michael Büskens,30254,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321576
+10,seg 07/10/2013,15:15,Düsseldorf,Greuther Fürth,4-2-3-1,Michael Büskens,30412,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321585
+11,dom 20/10/2013,09:30,Ingolstadt,Düsseldorf,4-4-2 duplo 6,Michael Büskens,6380,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321601
+12,sáb 26/10/2013,09:00,Düsseldorf,Paderborn,4-4-2 duplo 6,Michael Büskens,31827,1:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321603
+13,sex 01/11/2013,15:30,VfR Aalen,Düsseldorf,4-4-2 duplo 6,Michael Büskens,9278,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321616
+14,dom 10/11/2013,10:30,Düsseldorf,Sandhausen,4-4-2 duplo 6,Michael Büskens,28489,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321621
+15,dom 24/11/2013,10:30,Erzgebirge Aue,Düsseldorf,4-4-2 duplo 6,Michael Büskens,8300,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321636
+16,sex 29/11/2013,15:30,Düsseldorf,Karlsruher,4-4-2,Michael Büskens,27453,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321639
+17,seg 09/12/2013,17:15,K'lautern,Düsseldorf,4-4-2 duplo 6,Oliver Reck,29570,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321648
+18,sáb 14/12/2013,10:00,Energ. Cottbus,Düsseldorf,4-4-2 duplo 6,Oliver Reck,7056,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321669
+19,dom 22/12/2013,10:30,Düsseldorf,Colônia,4-4-2 duplo 6,Oliver Reck,52500,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321682
+20,seg 10/02/2014,17:15,1860 Munique,Düsseldorf,4-2-3-1,Lorenz-Günther Köstner,20100,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321693
+21,sex 14/02/2014,15:30,Düsseldorf,Union Berlim,4-2-3-1,Lorenz-Günther Köstner,30678,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321701
+22,dom 23/02/2014,09:30,Bochum,Düsseldorf,4-2-3-1,Lorenz-Günther Köstner,23145,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321715
+23,sex 28/02/2014,14:30,Düsseldorf,Arm. Bielefeld,4-4-2 losango,Lorenz-Günther Köstner,33478,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321719
+24,dom 09/03/2014,09:30,Dynamo Dresden,Düsseldorf,4-4-2 duplo 6,Lorenz-Günther Köstner,27530,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321734
+25,dom 16/03/2014,09:30,Düsseldorf,St. Pauli,4-4-2 losango,Lorenz-Günther Köstner,41357,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321737
+26,sáb 22/03/2014,09:00,FSV Frankfurt,Düsseldorf,4-2-3-1,Lorenz-Günther Köstner,7712,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321746
+27,ter 25/03/2014,13:30,Greuther Fürth,Düsseldorf,4-2-3-1,Lorenz-Günther Köstner,10875,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321755
+28,sex 28/03/2014,14:30,Düsseldorf,Ingolstadt,4-4-2 losango,Lorenz-Günther Köstner,27351,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321764
+29,sex 04/04/2014,13:30,Paderborn,Düsseldorf,4-4-2 duplo 6,Oliver Reck,14788,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321779
+30,dom 13/04/2014,08:30,Düsseldorf,VfR Aalen,4-4-2 duplo 6,Oliver Reck,28377,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321782
+31,qui 17/04/2014,13:30,Sandhausen,Düsseldorf,4-4-2 duplo 6,Oliver Reck,5750,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321796
+32,sáb 26/04/2014,08:00,Düsseldorf,Erzgebirge Aue,4-2-3-1,Oliver Reck,28731,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321800
+33,dom 04/05/2014,10:30,Karlsruher,Düsseldorf,4-2-3-1,Oliver Reck,21907,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321816
+34,dom 11/05/2014,10:30,Düsseldorf,K'lautern,4-2-3-1,Oliver Reck,45077,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321818

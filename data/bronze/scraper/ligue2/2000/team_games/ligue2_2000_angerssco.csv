@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 29/07/2000,15:00,Chamois Niort,Angers,?,Denis Goavec,4350,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007181
+2,sáb 05/08/2000,15:00,Angers,AC Ajaccio,?,Denis Goavec,5297,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007184
+3,dom 13/08/2000,12:00,FC Martigues,Angers,?,Denis Goavec,779,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007202
+4,sáb 19/08/2000,15:00,Angers,Le Mans UC 72,?,Denis Goavec,6346,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007204
+5,sáb 26/08/2000,15:00,LB Châteauroux,Angers,?,Denis Goavec,5364,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007216
+6,ter 29/08/2000,15:00,Cannes,Angers,?,Denis Goavec,2212,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007223
+7,sex 01/09/2000,15:00,Angers,Le Havre,?,Denis Goavec,4659,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007234
+8,qua 06/09/2000,15:00,Montpellier,Angers,?,Denis Goavec,7576,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007249
+9,sáb 09/09/2000,15:00,Angers,FC Sochaux,?,Denis Goavec,4816,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007262
+10,sáb 16/09/2000,15:00,FC Lorient,Angers,?,Denis Goavec,5443,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007268
+11,sáb 23/09/2000,15:00,Angers,Wasquehal,?,Denis Goavec,4093,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007274
+12,sáb 30/09/2000,15:00,AS Nancy,Angers,?,Denis Goavec,5405,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007287
+13,sáb 07/10/2000,15:00,Angers,FC Gueugnon,?,Denis Goavec,4986,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007295
+14,qua 11/10/2000,16:00,Stade Lavallois,Angers,?,Denis Goavec,8064,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007308
+15,sáb 14/10/2000,16:00,Angers,US Créteil,?,Denis Goavec,3306,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007314
+16,sáb 21/10/2000,16:00,Nice,Angers,?,Denis Goavec,2551,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007329
+17,sáb 28/10/2000,16:00,Angers,AS Beauvais,?,Denis Goavec,3332,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007336
+18,sáb 04/11/2000,17:00,Nîmes Olympique,Angers,?,Denis Goavec,4928,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007348
+19,sáb 11/11/2000,17:00,Angers,SM Caen,?,Denis Goavec,3384,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007358
+20,sáb 18/11/2000,17:00,AC Ajaccio,Angers,?,Denis Goavec,1027,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007368
+21,qua 29/11/2000,17:00,Angers,FC Martigues,?,Denis Goavec,3280,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007377
+22,sáb 02/12/2000,17:00,Le Mans UC 72,Angers,?,Denis Goavec,4221,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007389
+23,sáb 09/12/2000,17:00,Angers,LB Châteauroux,?,Denis Goavec,2727,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007398
+24,qui 21/12/2000,17:30,Angers,Cannes,?,Denis Goavec,3116,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007409
+25,sáb 13/01/2001,17:00,Le Havre,Angers,?,Denis Goavec,7481,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007421
+26,dom 28/01/2001,14:00,Angers,Montpellier,?,Denis Goavec,3664,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007435
+27,sáb 03/02/2001,17:00,FC Sochaux,Angers,?,Denis Goavec,9085,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007445
+28,qua 07/02/2001,17:00,Angers,FC Lorient,?,Denis Goavec,2869,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007449
+29,sáb 17/02/2001,17:00,Wasquehal,Angers,?,Denis Goavec,1058,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007467
+30,sáb 03/03/2001,16:00,Angers,AS Nancy,?,Denis Goavec,2239,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007470
+31,sáb 17/03/2001,16:00,FC Gueugnon,Angers,?,Denis Goavec,2462,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007483
+32,sex 23/03/2001,16:00,Angers,Stade Lavallois,?,Denis Goavec,3400,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007490
+33,ter 27/03/2001,15:00,US Créteil,Angers,?,Denis Goavec,1558,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007498
+34,sáb 07/04/2001,15:00,Angers,Nice,?,Denis Goavec,2488,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007509
+35,sex 20/04/2001,13:30,AS Beauvais,Angers,?,Denis Goavec,2726,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007526
+36,sáb 28/04/2001,15:00,Angers,Nîmes Olympique,?,Denis Goavec,2751,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007529
+37,sex 11/05/2001,15:00,SM Caen,Angers,?,Denis Goavec,15694,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007539
+38,sex 18/05/2001,15:00,Angers,Chamois Niort,?,Denis Goavec,2815,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007548

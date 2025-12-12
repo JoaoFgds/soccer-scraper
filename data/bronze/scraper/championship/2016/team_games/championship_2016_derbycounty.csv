@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 06/08/2016,11:00,Derby,Brighton,4-3-3 ofensivo,Nigel Pearson,28749,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2701245
+2,sáb 13/08/2016,11:00,Barnsley FC,Derby,4-3-3 ofensivo,Nigel Pearson,15049,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716131
+3,ter 16/08/2016,15:45,Preston NE,Derby,4-3-3 ofensivo,Nigel Pearson,10628,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716147
+4,sáb 20/08/2016,13:30,Derby,Aston Villa,4-3-3 ofensivo,Nigel Pearson,31205,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716163
+5,sex 26/08/2016,15:45,Burton Albion,Derby,4-2-3-1,Nigel Pearson,6746,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716165
+6,sáb 10/09/2016,13:30,Derby,Newcastle,4-4-2,Nigel Pearson,30405,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716187
+7,ter 13/09/2016,15:45,Derby,Ipswich,4-4-2,Nigel Pearson,26425,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716190
+8,sáb 17/09/2016,11:00,Bristol City,Derby,4-4-2,Nigel Pearson,19451,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716205
+9,sáb 24/09/2016,11:00,Derby,Blackburn,4-4-2,Nigel Pearson,26602,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716215
+10,ter 27/09/2016,15:45,Cardiff,Derby,4-1-4-1,Chris Powell,14131,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716231
+11,sáb 01/10/2016,11:00,Reading,Derby,4-1-4-1,Chris Powell,17002,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716245
+12,sáb 15/10/2016,11:00,Derby,Leeds,4-1-4-1,Steve McClaren,31170,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716255
+13,ter 18/10/2016,16:45,Derby,Brentford,4-1-4-1,Steve McClaren,26707,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716266
+14,sáb 22/10/2016,12:00,Huddersfield,Derby,4-3-3 ofensivo,Steve McClaren,19749,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716277
+15,sáb 29/10/2016,12:00,Derby,Sheff Wed,4-3-3 ofensivo,Steve McClaren,30064,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716289
+16,sáb 05/11/2016,10:30,Wolves,Derby,4-3-3 ofensivo,Steve McClaren,19858,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716308
+17,sáb 19/11/2016,13:00,Derby,Rotherham,4-3-3 ofensivo,Steve McClaren,28191,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716314
+18,sáb 26/11/2016,13:00,Derby,Norwich,4-3-3 ofensivo,Steve McClaren,29311,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716325
+19,sáb 03/12/2016,13:00,Wigan,Derby,4-3-3 ofensivo,Steve McClaren,12526,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716344
+20,dom 11/12/2016,10:00,Derby,Nott'm Forest,4-3-3 ofensivo,Steve McClaren,32600,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716345
+21,qua 14/12/2016,17:45,QPR,Derby,4-3-3 ofensivo,Steve McClaren,12371,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716366
+22,sáb 17/12/2016,13:00,Fulham,Derby,4-3-3 ofensivo,Steve McClaren,18748,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716374
+23,ter 27/12/2016,13:00,Derby,Birmingham,4-3-3 ofensivo,Steve McClaren,32616,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716382
+24,sáb 31/12/2016,13:00,Derby,Wigan,4-3-3 ofensivo,Steve McClaren,28289,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716400
+25,seg 02/01/2017,13:00,Norwich,Derby,4-3-3 ofensivo,Steve McClaren,26422,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716412
+26,sex 13/01/2017,17:45,Leeds,Derby,4-3-3 ofensivo,Steve McClaren,25546,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716423
+27,sáb 21/01/2017,13:00,Derby,Reading,4-3-3 ofensivo,Steve McClaren,28393,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716434
+28,ter 21/02/2017,16:45,Derby,Burton Albion,4-1-4-1,Steve McClaren,31081,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716443
+29,ter 31/01/2017,17:45,Ipswich,Derby,4-3-3 ofensivo,Steve McClaren,14719,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716460
+30,sáb 04/02/2017,13:00,Newcastle,Derby,4-1-4-1,Steve McClaren,52231,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716474
+31,sáb 11/02/2017,13:00,Derby,Bristol City,4-3-3 ofensivo,Steve McClaren,28043,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716479
+32,ter 14/02/2017,17:45,Derby,Cardiff,4-1-4-1,Steve McClaren,26541,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716491
+33,ter 28/02/2017,16:45,Blackburn,Derby,4-3-3 ofensivo,Steve McClaren,10536,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716503
+34,sáb 25/02/2017,12:00,Aston Villa,Derby,4-3-3 ofensivo,Steve McClaren,30935,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716514
+35,sáb 04/03/2017,12:00,Derby,Barnsley FC,4-4-1-1,Steve McClaren,30280,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716527
+36,ter 07/03/2017,16:45,Derby,Preston NE,4-4-1-1,Steve McClaren,26301,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716539
+37,sex 10/03/2017,16:45,Brighton,Derby,4-4-2 duplo 6,Steve McClaren,27552,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716551
+38,sáb 18/03/2017,10:00,Nott'm Forest,Derby,4-2-3-1,Gary Rowett,26665,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716562
+39,sex 31/03/2017,15:45,Derby,QPR,4-2-3-1,Gary Rowett,27690,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716576
+40,ter 04/04/2017,15:45,Derby,Fulham,4-2-3-1,Gary Rowett,27221,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716588
+41,sáb 08/04/2017,11:00,Birmingham,Derby,4-3-3 ofensivo,Gary Rowett,19381,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716596
+42,sex 14/04/2017,11:00,Brentford,Derby,4-3-3 ofensivo,Gary Rowett,11133,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716608
+43,seg 17/04/2017,13:00,Derby,Huddersfield,4-4-2,Gary Rowett,29031,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716625
+44,sáb 22/04/2017,11:00,Sheff Wed,Derby,4-4-2,Gary Rowett,28889,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716640
+45,sáb 29/04/2017,11:00,Derby,Wolves,4-3-3 ofensivo,Gary Rowett,31051,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716649
+46,dom 07/05/2017,08:00,Rotherham,Derby,4-3-3 ofensivo,Gary Rowett,10763,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716670

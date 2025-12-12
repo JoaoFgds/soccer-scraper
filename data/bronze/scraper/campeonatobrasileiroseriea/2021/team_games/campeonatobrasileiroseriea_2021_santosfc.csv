@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 29/05/2021,20:00,Bahia,Santos,4-3-3 ofensivo,Fernando Diniz,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546467
+2,sáb 05/06/2021,21:00,Santos,Ceará,4-2-3-1,Fernando Diniz,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546479
+3,sáb 12/06/2021,19:00,Santos,Juventude,4-3-3 ofensivo,Fernando Diniz,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3571594
+4,qui 17/06/2021,19:00,Fluminense,Santos,4-2-3-1,Fernando Diniz,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3572015
+5,dom 20/06/2021,18:15,Santos,São Paulo,4-2-3-1,Fernando Diniz,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3572019
+6,qui 24/06/2021,21:30,Grêmio,Santos,4-2-3-1,Fernando Diniz,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580697
+7,dom 27/06/2021,20:30,Santos,Atlético-MG,4-3-3 ofensivo,Fernando Diniz,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580709
+8,qua 30/06/2021,20:30,Santos,Sport,4-3-3 ofensivo,Fernando Diniz,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580719
+9,sáb 03/07/2021,19:00,América-MG,Santos,4-2-3-1,Fernando Diniz,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583802
+10,ter 06/07/2021,19:30,Santos,Athletico-PR,4-1-4-1,Fernando Diniz,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583811
+11,sáb 10/07/2021,16:30,Palmeiras,Santos,4-2-3-1,Fernando Diniz,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583820
+12,dom 18/07/2021,20:30,Bragantino,Santos,4-3-3 ofensivo,Fernando Diniz,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583836
+13,dom 25/07/2021,18:15,Santos,Atlético-GO,4-2-3-1,Fernando Diniz,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583841
+14,dom 01/08/2021,18:15,Chapecoense,Santos,4-2-3-1,Fernando Diniz,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583877
+15,dom 08/08/2021,16:00,Santos,Corinthians,4-3-3 ofensivo,Fernando Diniz,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583861
+16,dom 15/08/2021,18:15,Fortaleza,Santos,4-2-3-1,Fernando Diniz,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583854
+17,dom 22/08/2021,18:15,Santos,Internacional,4-2-3-1,Fernando Diniz,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583881
+18,sáb 28/08/2021,19:00,Santos,Flamengo,4-2-3-1,Fernando Diniz,x,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583891
+19,sáb 04/09/2021,21:00,Cuiabá,Santos,4-3-3 ofensivo,Fernando Diniz,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583908
+20,sáb 11/09/2021,21:00,Santos,Bahia,4-1-4-1,Fábio Carille,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583931
+21,sáb 18/09/2021,21:00,Ceará,Santos,3-4-3 plano,Fábio Carille,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583924
+22,dom 26/09/2021,16:00,Juventude,Santos,3-4-1-2,Fábio Carille,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583917
+23,qua 27/10/2021,19:00,Santos,Fluminense,3-4-3 plano,Fábio Carille,6685,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583941
+24,qui 07/10/2021,18:30,São Paulo,Santos,3-5-2,Fábio Carille,5529,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583951
+25,dom 10/10/2021,16:00,Santos,Grêmio,3-4-1-2,Fábio Carille,4165,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583961
+26,qua 13/10/2021,19:00,Atlético-MG,Santos,3-4-1-2,Fábio Carille,16514,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583992
+27,dom 17/10/2021,20:30,Sport,Santos,3-4-1-2,Fábio Carille,5272,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583985
+28,sáb 23/10/2021,17:00,Santos,América-MG,4-2-3-1,Fábio Carille,6921,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583971
+29,sáb 30/10/2021,17:00,Athletico-PR,Santos,3-4-3 plano,Fábio Carille,7196,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584006
+30,dom 07/11/2021,16:00,Santos,Palmeiras,3-4-2-1,Fábio Carille,13165,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584011
+31,qua 10/11/2021,19:00,Santos,Bragantino,3-4-1-2,Fábio Carille,9443,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584021
+32,sáb 13/11/2021,17:00,Atlético-GO,Santos,3-4-1-2,Fábio Carille,5015,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584058
+33,qua 17/11/2021,19:00,Santos,Chapecoense,3-4-1-2,Fábio Carille,11574,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584041
+34,dom 21/11/2021,16:00,Corinthians,Santos,3-4-2-1,Fábio Carille,43583,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584030
+35,qui 25/11/2021,19:00,Santos,Fortaleza,3-4-3 plano,Fábio Carille,11313,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584061
+36,dom 28/11/2021,19:00,Internacional,Santos,3-4-3 plano,Fábio Carille,13495,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584073
+37,seg 06/12/2021,20:00,Flamengo,Santos,3-4-2-1,Fábio Carille,41390,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584079
+38,qui 09/12/2021,21:30,Santos,Cuiabá,3-4-2-1,Fábio Carille,12444,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584091

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 14/08/2023,15:00,Al-Shabab,Al-Okhdood,4-3-3 ofensivo,Marcel Keizer,1974,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138467
+2,sex 18/08/2023,15:00,Al-Wehda,Al-Shabab,4-3-3 ofensivo,Marcel Keizer,3000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138390
+3,sex 25/08/2023,15:00,Al-Shabab,Damac FC,4-5-1 plano,Marcel Keizer,1588,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138382
+4,ter 29/08/2023,15:00,Al-Nassr,Al-Shabab,4-3-3 ofensivo,Marcel Keizer,21383,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138411
+5,sáb 02/09/2023,15:00,Al-Shabab,Al-Khaleej,4-3-3 ofensivo,Marcel Keizer,987,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138483
+6,sex 15/09/2023,12:00,Al-Fayha,Al-Shabab,4-1-4-1,Juan Ignacio Brown,1104,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138207
+7,qui 21/09/2023,15:00,Al-Shabab,Al-Hazem,4-1-4-1,Juan Ignacio Brown,2450,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138488
+8,sex 29/09/2023,15:00,Al-Hilal,Al-Shabab,4-3-3 ofensivo,Juan Ignacio Brown,14769,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138435
+9,qui 05/10/2023,12:00,Al-Riyadh,Al-Shabab,4-3-3 ofensivo,Juan Ignacio Brown,1684,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138396
+10,sáb 21/10/2023,15:00,Al-Shabab,Al-Tai,4-3-3 ofensivo,Igor Biscan,11974,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138357
+11,sáb 28/10/2023,12:00,Abha,Al-Shabab,4-3-3 ofensivo,Igor Biscan,1378,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138427
+12,sex 03/11/2023,15:00,Al-Shabab,Al-Ittihad,4-3-3 ofensivo,Igor Biscan,11476,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138447
+13,qui 09/11/2023,12:00,Al-Raed,Al-Shabab,4-3-3 ofensivo,Igor Biscan,4275,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138418
+14,sáb 25/11/2023,15:00,Al-Ahli,Al-Shabab,4-2-3-1,Igor Biscan,17456,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138464
+15,sáb 02/12/2023,15:00,Al-Shabab,Al-Taawoun,4-2-3-1,Igor Biscan,8134,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138475
+16,qui 07/12/2023,15:00,Al-Shabab,Al-Ettifaq,4-3-3 ofensivo,Igor Biscan,8037,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138455
+17,sex 15/12/2023,12:00,Al-Fateh,Al-Shabab,4-2-3-1,Igor Biscan,6402,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138497
+18,sex 22/12/2023,12:00,Al-Okhdood,Al-Shabab,4-2-3-1,Igor Biscan,1449,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138242
+19,sáb 30/12/2023,15:00,Al-Shabab,Al-Wehda,4-2-3-1,Saad Al-Subaie,3451,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138235
+20,sex 16/02/2024,11:00,Damac FC,Al-Shabab,3-4-3 plano,Vítor Pereira,3845,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138214
+21,dom 25/02/2024,14:00,Al-Shabab,Al-Nassr,3-4-3 plano,Vítor Pereira,11974,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138231
+22,sáb 02/03/2024,11:00,Al-Khaleej,Al-Shabab,3-5-2 plano,Vítor Pereira,3457,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138362
+23,qui 07/03/2024,11:00,Al-Shabab,Al-Fayha,3-5-2 plano,Vítor Pereira,2012,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138285
+24,qui 14/03/2024,16:00,Al-Hazem,Al-Shabab,3-4-3 plano,Vítor Pereira,825,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138346
+25,sex 29/03/2024,20:00,Al-Shabab,Al-Hilal,3-5-2 plano,Vítor Pereira,12087,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138338
+26,qua 03/04/2024,16:00,Al-Shabab,Al-Riyadh,3-4-3 plano,Vítor Pereira,4317,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138321
+27,sáb 06/04/2024,16:00,Al-Tai,Al-Shabab,3-4-3 plano,Vítor Pereira,7879,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138325
+28,qui 18/04/2024,15:00,Al-Shabab,Abha,3-4-2-1,Vítor Pereira,4563,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138275
+29,sex 26/04/2024,15:00,Al-Ittihad,Al-Shabab,3-4-3 plano,Vítor Pereira,18323,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138301
+30,sáb 04/05/2024,12:00,Al-Shabab,Al-Raed,3-4-3 plano,Vítor Pereira,6548,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138266
+31,sáb 11/05/2024,15:00,Al-Shabab,Al-Ahli,3-4-2-1,Vítor Pereira,13475,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138258
+32,sáb 18/05/2024,13:20,Al-Taawoun,Al-Shabab,3-4-3 plano,Vítor Pereira,4607,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138292
+33,qui 23/05/2024,15:00,Al-Ettifaq,Al-Shabab,3-4-3 plano,Vítor Pereira,6049,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138304
+34,seg 27/05/2024,15:00,Al-Shabab,Al-Fateh,3-4-3 plano,Vítor Pereira,6546,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138370

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 15/05/2016,16:00,Corinthians,Grêmio,4-2-3-1,Roger Machado,31533,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2684557
+2,dom 22/05/2016,16:00,Grêmio,Flamengo,4-2-3-1,Roger Machado,17866,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2684570
+3,qui 26/05/2016,21:00,Atlético-MG,Grêmio,4-2-3-1,Roger Machado,17426,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2694654
+4,dom 29/05/2016,18:30,Grêmio,Coritiba,4-2-3-1,Roger Machado,12415,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2694664
+5,qui 02/06/2016,21:00,Palmeiras,Grêmio,4-2-3-1,Roger Machado,19196,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2695574
+6,dom 05/06/2016,16:00,Grêmio,Ponte Preta,4-2-3-1,Roger Machado,16957,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2695588
+7,sáb 11/06/2016,18:30,Fluminense,Grêmio,4-2-3-1,Roger Machado,2467,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2696873
+8,qua 15/06/2016,19:30,Chapecoense,Grêmio,4-2-3-1,Roger Machado,13154,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698560
+9,dom 19/06/2016,19:00,Grêmio,Cruzeiro,?,Roger Machado,16566,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698579
+10,qui 23/06/2016,19:15,Grêmio,Vitória,?,Roger Machado,14382,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698587
+11,dom 26/06/2016,16:00,Atlético-PR,Grêmio,?,Roger Machado,16838,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702134
+12,qua 29/06/2016,19:30,Grêmio,Santos,?,Roger Machado,14865,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702143
+13,dom 03/07/2016,11:00,Internacional,Grêmio,?,Roger Machado,40686,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2708407
+14,dom 10/07/2016,11:00,Grêmio,Figueirense,4-2-3-1,Roger Machado,34013,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2708418
+15,dom 17/07/2016,18:30,Sport,Grêmio,4-2-3-1,Roger Machado,10891,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713340
+16,dom 24/07/2016,16:00,Grêmio,São Paulo,?,Roger Machado,37069,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713358
+17,dom 31/07/2016,18:30,América-MG,Grêmio,?,Roger Machado,1534,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713369
+18,qui 04/08/2016,19:30,Grêmio,Santa Cruz,?,Roger Machado,16068,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713388
+19,dom 04/09/2016,16:00,Botafogo,Grêmio,?,Roger Machado,5199,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713398
+20,dom 14/08/2016,11:00,Grêmio,Corinthians,4-2-3-1,Roger Machado,46163,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713411
+21,dom 21/08/2016,12:00,Flamengo,Grêmio,4-3-3 defensivo,Roger Machado,22552,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2767845
+22,dom 28/08/2016,17:00,Grêmio,Atlético-MG,4-3-2-1,Roger Machado,30631,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2767859
+23,qua 07/09/2016,22:45,Coritiba,Grêmio,4-3-3 ofensivo,Roger Machado,8507,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770075
+24,dom 11/09/2016,19:30,Grêmio,Palmeiras,4-2-3-1,Roger Machado,19514,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770087
+25,qua 14/09/2016,22:00,Ponte Preta,Grêmio,4-3-3 defensivo,Roger Machado,3713,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770092
+26,dom 18/09/2016,17:00,Grêmio,Fluminense,4-2-3-1,James Freitas,12136,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770103
+27,dom 25/09/2016,16:00,Grêmio,Chapecoense,4-2-3-1,Renato Gaúcho,11152,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770158
+28,sáb 01/10/2016,19:30,Cruzeiro,Grêmio,4-3-1-2,Renato Gaúcho,16618,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770166
+29,qua 05/10/2016,20:30,Vitória,Grêmio,4-2-3-1,Renato Gaúcho,19652,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770170
+30,qua 12/10/2016,22:00,Grêmio,Atlético-PR,4-2-3-1,Renato Gaúcho,16123,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770189
+31,dom 16/10/2016,21:30,Santos,Grêmio,4-3-1-2,Renato Gaúcho,7969,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770197
+32,dom 23/10/2016,19:00,Grêmio,Internacional,4-3-1-2,Renato Gaúcho,53287,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770205
+33,sáb 29/10/2016,19:30,Figueirense,Grêmio,?,Renato Gaúcho,8431,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770218
+34,seg 07/11/2016,20:00,Grêmio,Sport,4-3-3 defensivo,Renato Gaúcho,10845,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770226
+35,qui 17/11/2016,19:30,São Paulo,Grêmio,4-2-3-1,Renato Gaúcho,21933,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2778082
+36,dom 20/11/2016,17:00,Grêmio,América-MG,4-2-3-1,Renato Gaúcho,10765,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2778091
+37,dom 27/11/2016,19:30,Santa Cruz,Grêmio,4-2-3-1,James Freitas,2227,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2798389
+38,dom 11/12/2016,17:00,Grêmio,Botafogo,4-2-3-1,James Freitas,14101,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2798937

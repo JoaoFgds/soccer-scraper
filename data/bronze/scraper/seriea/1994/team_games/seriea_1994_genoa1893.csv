@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 04/09/1994,15:30,Milan,Genoa,5-3-2,Francesco Scoglio,53602,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215440
+2,dom 11/09/1994,11:00,Genoa,Florenz,?,Francesco Scoglio,10000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215448
+3,dom 18/09/1994,11:00,Roma,Genoa,?,Francesco Scoglio,54000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215457
+4,dom 25/09/1994,11:00,Genoa,Napoli,?,Francesco Scoglio,28000,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215466
+5,dom 02/10/1994,11:00,Genoa,Reggiana,?,Francesco Scoglio,21666,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215479
+6,dom 16/10/1994,12:00,Brescia,Genoa,?,Francesco Scoglio,11750,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215490
+7,dom 23/10/1994,11:30,Genoa,Lazio,?,Francesco Scoglio,23956,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215497
+8,dom 30/10/1994,11:30,Bari,Genoa,?,Francesco Scoglio,20756,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215503
+9,dom 06/11/1994,11:30,Genoa,Inter,?,Francesco Scoglio,21486,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215511
+10,dom 20/11/1994,11:30,Cagliari,Genoa,?,Giuseppe Marchioro,12235,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215526
+11,dom 27/11/1994,11:30,Genoa,Cremonese,?,Giuseppe Marchioro,20509,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215533
+12,dom 04/12/1994,17:30,Sampdoria,Genoa,?,Giuseppe Marchioro,38527,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215539
+13,dom 11/12/1994,11:30,Genoa,AC Parma,3-5-2 plano,Giuseppe Marchioro,20653,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215548
+14,dom 18/12/1994,12:15,Juventus,Genoa,4-4-2 líbero losango,Giuseppe Marchioro,40750,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215557
+15,dom 08/01/1995,11:30,Foggia,Genoa,?,Giuseppe Marchioro,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215573
+16,dom 15/01/1995,11:30,Genoa,Padova,?,Giuseppe Marchioro,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215578
+17,dom 22/01/1995,11:30,Torino,Genoa,?,Giuseppe Marchioro,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215583
+18,qua 15/02/1995,17:30,Genoa,Milan,4-4-2 líbero plano,Giuseppe Marchioro,15000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215600
+19,dom 12/02/1995,12:00,Florenz,Genoa,?,Giuseppe Marchioro,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215606
+20,dom 19/02/1995,11:00,Genoa,Roma,?,Giuseppe Marchioro,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215610
+21,dom 26/02/1995,11:00,Napoli,Genoa,?,Giuseppe Marchioro,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215619
+22,dom 05/03/1995,16:30,Reggiana,Genoa,?,Giuseppe Marchioro,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215631
+23,dom 12/03/1995,11:00,Genoa,Brescia,?,Giuseppe Marchioro,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215644
+24,dom 19/03/1995,11:00,Lazio,Genoa,?,Giuseppe Marchioro,,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215646
+25,dom 02/04/1995,11:00,Genoa,Bari,?,Claudio Maselli,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215662
+26,dom 09/04/1995,11:00,Inter,Genoa,?,Claudio Maselli,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215668
+27,sáb 15/04/1995,11:00,Genoa,Cagliari,?,Claudio Maselli,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215678
+28,dom 23/04/1995,11:00,Cremonese,Genoa,?,Claudio Maselli,,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215683
+29,dom 30/04/1995,11:00,Genoa,Sampdoria,?,Claudio Maselli,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215692
+30,dom 07/05/1995,11:00,AC Parma,Genoa,4-4-2 duplo 6,Claudio Maselli,22574,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215707
+31,sáb 13/05/1995,11:00,Genoa,Juventus,4-4-2,Claudio Maselli,29193,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215710
+32,dom 21/05/1995,11:00,Genoa,Foggia,?,Claudio Maselli,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215722
+33,dom 28/05/1995,11:30,Padova,Genoa,?,Claudio Maselli,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215731
+34,dom 04/06/1995,11:30,Genoa,Torino,?,Claudio Maselli,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215744

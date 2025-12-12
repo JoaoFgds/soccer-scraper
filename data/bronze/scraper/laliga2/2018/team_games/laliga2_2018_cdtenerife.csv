@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 20/08/2018,15:00,Gimnàstic,Tenerife,4-2-3-1,Joseba Etxeberria,4499,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080464
+2,dom 26/08/2018,17:00,UD Almería,Tenerife,4-2-3-1,Joseba Etxeberria,6667,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080468
+3,sáb 01/09/2018,15:30,Tenerife,Deportivo,4-2-3-1,Joseba Etxeberria,12139,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080486
+4,sáb 08/09/2018,13:00,Málaga CF,Tenerife,4-2-3-1,Joseba Etxeberria,15408,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080493
+5,sáb 15/09/2018,13:00,Tenerife,Reus Deportiu,4-2-3-1,Joseba Etxeberria,9532,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089562
+6,sáb 22/09/2018,15:30,Córdoba,Tenerife,5-3-2,José Luis Oltra,11085,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089563
+7,sáb 29/09/2018,15:30,Tenerife,Cádiz CF,4-2-3-1,José Luis Oltra,10013,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089578
+8,sáb 06/10/2018,11:00,Mallorca,Tenerife,3-4-3 plano,José Luis Oltra,7404,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089589
+9,dom 14/10/2018,08:00,Tenerife,Lugo,5-4-1 plano,José Luis Oltra,10044,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089616
+10,dom 21/10/2018,15:00,Zaragoza,Tenerife,5-4-1 plano,José Luis Oltra,21887,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089606
+11,sáb 27/10/2018,15:30,Tenerife,AD Alcorcón,4-2-3-1,José Luis Oltra,8964,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089623
+12,sáb 03/11/2018,14:00,Numância,Tenerife,5-3-2,José Luis Oltra,3191,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089634
+13,dom 11/11/2018,17:00,Tenerife,Albacete,4-2-3-1,José Luis Oltra,10528,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089646
+14,sáb 17/11/2018,15:00,Osasuna,Tenerife,4-4-2 duplo 6,José Luis Oltra,14182,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089655
+15,dom 25/11/2018,17:00,Tenerife,R. Majadahonda,4-4-2 duplo 6,José Luis Oltra,11683,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089672
+16,sáb 01/12/2018,17:30,Real Sporting,Tenerife,4-3-1-2,José Luis Oltra,19035,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089678
+17,sex 07/12/2018,18:00,Tenerife,Extremadura,4-4-2 duplo 6,José Luis Oltra,9265,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089691
+18,dom 16/12/2018,15:00,Las Palmas,Tenerife,4-1-4-1,José Luis Oltra,19190,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089699
+19,sex 21/12/2018,16:00,Tenerife,Granada CF,4-4-2 duplo 6,José Luis Oltra,8806,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089814
+20,sex 04/01/2019,18:00,Tenerife,Elche,4-2-3-1,José Luis Oltra,9818,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089826
+21,sáb 12/01/2019,17:30,Real Oviedo,Tenerife,4-4-2 duplo 6,José Luis Oltra,11554,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089834
+22,dom 20/01/2019,15:00,Tenerife,Gimnàstic,4-3-3 defensivo,José Luis Oltra,11358,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089849
+23,sáb 26/01/2019,17:30,Tenerife,Málaga CF,4-2-3-1,José Luis Oltra,14366,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089859
+24,sáb 02/02/2019,17:30,Deportivo,Tenerife,4-2-3-1,José Luis Oltra,18071,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089861
+25,sáb 09/02/2019,17:00,Tenerife,Córdoba,4-2-3-1,José Luis Oltra,12532,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3093040
+26,sáb 16/02/2019,17:30,Cádiz CF,Tenerife,4-2-3-1,José Luis Oltra,12939,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3093045
+27,sex 22/02/2019,17:00,Tenerife,Mallorca,4-2-3-1,José Luis Oltra,9666,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3093066
+28,dom 03/03/2019,12:00,Reus Deportiu,Tenerife,?,José Luis Oltra,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3093070
+29,dom 10/03/2019,14:00,Tenerife,Numância,4-2-3-1,José Luis Oltra,9337,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3093088
+30,sáb 16/03/2019,16:30,AD Alcorcón,Tenerife,4-2-3-1,José Luis Oltra,2742,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3093090
+31,sex 22/03/2019,17:00,Tenerife,Osasuna,4-2-3-1,José Luis Oltra,9628,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3093109
+32,sáb 30/03/2019,16:30,Albacete,Tenerife,3-4-3 plano,José Luis Oltra,10565,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3093111
+33,sex 05/04/2019,16:00,Tenerife,Real Sporting,4-2-3-1,José Luis Oltra,10083,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094028
+34,sáb 13/04/2019,15:30,R. Majadahonda,Tenerife,4-2-3-1,José Luis Oltra,2716,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094032
+35,dom 21/04/2019,15:00,Tenerife,UD Almería,4-2-3-1,José Luis Oltra,10385,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094045
+36,sáb 27/04/2019,15:30,Extremadura,Tenerife,4-1-4-1,José Luis Oltra,11546,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094060
+37,sáb 04/05/2019,15:30,Tenerife,Las Palmas,4-5-1 plano,José Luis Oltra,18717,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094083
+38,sex 10/05/2019,16:00,Granada CF,Tenerife,4-1-4-1,José Luis Oltra,14302,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094090
+39,sáb 18/05/2019,15:30,Elche,Tenerife,4-4-1-1,Luis César Sampedro,7348,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094103
+40,dom 26/05/2019,13:00,Tenerife,Real Oviedo,4-2-3-1,Luis César Sampedro,16389,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094120
+41,dom 02/06/2019,15:00,Lugo,Tenerife,4-4-2 duplo 6,Luis César Sampedro,5482,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094125
+42,dom 09/06/2019,15:30,Tenerife,Zaragoza,4-4-2,Luis César Sampedro,11652,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094135

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 30/07/2022,14:00,Quevilly Rouen,Rodez AF,4-1-4-1,Olivier Echouafni,2571,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3863141
+2,sáb 06/08/2022,14:00,Paris FC,Quevilly Rouen,4-1-4-1,Olivier Echouafni,2752,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3863148
+3,seg 15/08/2022,15:45,Quevilly Rouen,Saint-Étienne,4-2-3-1,Olivier Echouafni,7500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864778
+4,sáb 20/08/2022,14:00,Valenciennes,Quevilly Rouen,4-2-3-1,Olivier Echouafni,4443,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864788
+5,sáb 27/08/2022,14:00,Quevilly Rouen,Pau FC,4-2-3-1,Olivier Echouafni,2500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864795
+6,ter 30/08/2022,15:45,Bordeaux,Quevilly Rouen,4-2-3-1,Olivier Echouafni,15383,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3888712
+7,sex 02/09/2022,15:45,Quevilly Rouen,Chamois Niort,4-2-3-1,Olivier Echouafni,200,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864831
+8,sáb 10/09/2022,14:00,FC Annecy,Quevilly Rouen,4-2-3-1,Olivier Echouafni,4114,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864834
+9,sáb 17/09/2022,14:00,Quevilly Rouen,Stade Lavallois,4-2-3-1,Olivier Echouafni,3000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864850
+10,sáb 01/10/2022,14:00,SM Caen,Quevilly Rouen,5-4-1 plano,Olivier Echouafni,13031,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864871
+11,sáb 08/10/2022,14:00,Quevilly Rouen,Nîmes Olympique,4-1-4-1,Olivier Echouafni,2900,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864886
+12,sáb 15/10/2022,14:00,Dijon,Quevilly Rouen,4-1-4-1,Olivier Echouafni,6000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864907
+13,sáb 22/10/2022,14:00,FC Sochaux,Quevilly Rouen,4-1-4-1,Olivier Echouafni,11037,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864932
+14,sáb 05/11/2022,15:00,Quevilly Rouen,Le Havre,4-3-3 ofensivo,Olivier Echouafni,7963,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864948
+15,sáb 12/11/2022,15:00,Amiens SC,Quevilly Rouen,4-1-4-1,Olivier Echouafni,9684,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864951
+16,seg 26/12/2022,17:00,Quevilly Rouen,Grenoble,4-3-3 ofensivo,Olivier Echouafni,3000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864965
+17,sex 30/12/2022,17:00,Guingamp,Quevilly Rouen,4-3-3 ofensivo,Olivier Echouafni,9894,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864972
+18,ter 10/01/2023,16:45,Quevilly Rouen,SC Bastia,4-1-4-1,Olivier Echouafni,3446,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864983
+19,sex 13/01/2023,16:45,FC Metz,Quevilly Rouen,4-2-3-1,Olivier Echouafni,12542,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865001
+20,sáb 28/01/2023,15:00,Quevilly Rouen,Paris FC,4-3-3 ofensivo,Olivier Echouafni,3075,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865015
+21,ter 31/01/2023,16:45,Grenoble,Quevilly Rouen,4-1-4-1,Olivier Echouafni,3783,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865027
+22,sex 03/02/2023,16:45,Quevilly Rouen,Guingamp,4-1-4-1,Olivier Echouafni,3143,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865039
+23,sáb 11/02/2023,15:00,SC Bastia,Quevilly Rouen,5-4-1 plano,Olivier Echouafni,8826,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865043
+24,sáb 18/02/2023,15:00,Quevilly Rouen,FC Sochaux,4-1-4-1,Olivier Echouafni,4083,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865066
+25,sáb 25/02/2023,15:00,Stade Lavallois,Quevilly Rouen,4-3-3 ofensivo,Olivier Echouafni,5628,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865073
+26,sáb 04/03/2023,15:00,Quevilly Rouen,Valenciennes,4-3-3 ofensivo,Olivier Echouafni,3217,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865094
+27,sáb 11/03/2023,15:00,Nîmes Olympique,Quevilly Rouen,4-3-3 ofensivo,Olivier Echouafni,1363,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865138
+28,sáb 18/03/2023,15:00,Quevilly Rouen,FC Metz,4-3-3 ofensivo,Olivier Echouafni,3600,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865158
+29,sáb 01/04/2023,14:00,Rodez AF,Quevilly Rouen,4-3-3 ofensivo,Olivier Echouafni,2577,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865182
+30,sáb 08/04/2023,14:00,Quevilly Rouen,SM Caen,4-2-3-1,Olivier Echouafni,4591,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865203
+31,sáb 15/04/2023,14:00,Quevilly Rouen,Dijon,4-2-3-1,Olivier Echouafni,2600,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865225
+32,sáb 22/04/2023,14:00,Le Havre,Quevilly Rouen,4-2-3-1,Olivier Echouafni,16594,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865277
+33,sáb 29/04/2023,14:00,Quevilly Rouen,FC Annecy,3-4-1-2,Olivier Echouafni,3015,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865288
+34,sáb 06/05/2023,14:00,Pau FC,Quevilly Rouen,4-1-4-1,Olivier Echouafni,2719,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865298
+35,sáb 13/05/2023,10:00,Quevilly Rouen,Bordeaux,4-1-4-1,Olivier Echouafni,7813,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3888741
+36,sáb 20/05/2023,14:00,Saint-Étienne,Quevilly Rouen,4-3-3 ofensivo,Olivier Echouafni,18528,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865317
+37,sex 26/05/2023,15:45,Quevilly Rouen,Amiens SC,4-1-4-1,Olivier Echouafni,4441,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865323
+38,sex 02/06/2023,15:45,Chamois Niort,Quevilly Rouen,4-3-3 ofensivo,Olivier Echouafni,1759,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865332

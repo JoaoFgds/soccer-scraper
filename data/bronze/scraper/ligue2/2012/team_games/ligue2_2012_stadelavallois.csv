@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 27/07/2012,15:30,LB Châteauroux,Stade Lavallois,?,Philippe Hinschberger,4500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2229807
+2,sex 03/08/2012,15:30,Stade Lavallois,Monaco,?,Philippe Hinschberger,7112,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2229821
+3,sex 10/08/2012,13:45,Nantes,Stade Lavallois,?,Philippe Hinschberger,9839,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2229817
+4,sex 17/08/2012,13:45,Stade Lavallois,Chamois Niort,?,Philippe Hinschberger,3973,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223524
+5,sex 24/08/2012,13:45,Auxerre,Stade Lavallois,?,Philippe Hinschberger,4684,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223537
+6,sex 31/08/2012,13:45,Stade Lavallois,Nîmes Olympique,?,Philippe Hinschberger,3985,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223516
+7,sex 14/09/2012,13:45,CS Sedan,Stade Lavallois,?,Philippe Hinschberger,5101,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223499
+8,sex 21/09/2012,13:45,Stade Lavallois,SM Caen,?,Philippe Hinschberger,4685,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223507
+9,sex 28/09/2012,13:45,Clermont Foot,Stade Lavallois,?,Philippe Hinschberger,4812,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223549
+10,sex 05/10/2012,13:45,Guingamp,Stade Lavallois,?,Philippe Hinschberger,5209,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223561
+11,sex 19/10/2012,13:45,Stade Lavallois,Tours FC,?,Philippe Hinschberger,3598,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223633
+12,sex 26/10/2012,14:45,Le Mans FC,Stade Lavallois,?,Philippe Hinschberger,7002,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223609
+13,sex 02/11/2012,15:45,Stade Lavallois,FC Istres,?,Philippe Hinschberger,4015,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223631
+14,sex 09/11/2012,15:45,AC Arles-Avignon,Stade Lavallois,?,Philippe Hinschberger,1650,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223622
+15,sex 23/11/2012,15:45,Stade Lavallois,Dijon,?,Philippe Hinschberger,4355,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223586
+16,sex 30/11/2012,15:45,Lens,Stade Lavallois,?,Philippe Hinschberger,14523,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223577
+17,ter 11/12/2012,17:55,Stade Lavallois,Angers,?,Philippe Hinschberger,4608,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223587
+18,sex 14/12/2012,15:45,G. Ajaccio,Stade Lavallois,?,Philippe Hinschberger,1383,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223567
+19,sex 21/12/2012,15:45,Stade Lavallois,Le Havre,?,Philippe Hinschberger,3487,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223650
+20,seg 14/01/2013,17:30,Monaco,Stade Lavallois,?,Philippe Hinschberger,4089,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223652
+21,sáb 19/01/2013,11:00,Stade Lavallois,Nantes,?,Philippe Hinschberger,4915,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223685
+22,sex 25/01/2013,17:00,Chamois Niort,Stade Lavallois,?,Philippe Hinschberger,3960,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223692
+23,sex 01/02/2013,17:00,Stade Lavallois,Auxerre,?,Philippe Hinschberger,3769,4:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223704
+24,sex 08/02/2013,17:00,Nîmes Olympique,Stade Lavallois,?,Philippe Hinschberger,5025,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223669
+25,sex 15/02/2013,17:00,Stade Lavallois,CS Sedan,?,Philippe Hinschberger,3619,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223682
+26,sex 22/02/2013,16:00,SM Caen,Stade Lavallois,?,Philippe Hinschberger,8188,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223747
+27,sex 01/03/2013,16:00,Stade Lavallois,Clermont Foot,?,Philippe Hinschberger,3684,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223717
+28,sex 08/03/2013,16:00,Stade Lavallois,Guingamp,?,Philippe Hinschberger,4667,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223726
+29,sex 15/03/2013,16:00,Tours FC,Stade Lavallois,?,Philippe Hinschberger,3502,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223741
+30,sex 29/03/2013,16:00,Stade Lavallois,Le Mans FC,4-4-2 duplo 6,Philippe Hinschberger,5197,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223746
+31,sex 05/04/2013,15:00,FC Istres,Stade Lavallois,?,Philippe Hinschberger,2217,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2249879
+32,sex 12/04/2013,15:00,Stade Lavallois,AC Arles-Avignon,?,Philippe Hinschberger,4228,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223789
+33,sex 19/04/2013,15:00,Dijon,Stade Lavallois,?,Philippe Hinschberger,9126,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223810
+34,sex 26/04/2013,15:00,Stade Lavallois,Lens,?,Philippe Hinschberger,5937,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223794
+35,sex 03/05/2013,15:00,Angers,Stade Lavallois,?,Philippe Hinschberger,12247,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223817
+36,sex 10/05/2013,15:00,Stade Lavallois,G. Ajaccio,,Philippe Hinschberger,6455,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223766
+37,sex 17/05/2013,15:30,Le Havre,Stade Lavallois,?,Philippe Hinschberger,9135,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223827
+38,sex 24/05/2013,15:30,Stade Lavallois,LB Châteauroux,?,Philippe Hinschberger,7698,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223837

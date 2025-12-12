@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 28/02/2021,03:00,Tokyo Verdy,Ehime FC,4-4-2 losango,Hideki Nagai,3411,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3505167
+2,dom 07/03/2021,03:00,Tokyo Verdy,Monte. Yamagata,3-4-2-1,Hideki Nagai,2709,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509144
+3,dom 14/03/2021,02:00,Machida Zelvia,Tokyo Verdy,4-4-2 duplo 6,Hideki Nagai,2598,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509165
+4,sáb 20/03/2021,04:00,Tokyo Verdy,Zweig. Kanazawa,4-3-3 ofensivo,Hideki Nagai,2245,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509124
+5,sáb 27/03/2021,02:00,Albirex Niigata,Tokyo Verdy,4-3-3 ofensivo,Hideki Nagai,10968,7:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509170
+6,dom 04/04/2021,03:00,Tokyo Verdy,Mito HollyHock,4-3-3 ofensivo,Hideki Nagai,2197,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509155
+7,sáb 10/04/2021,04:00,Tokyo Verdy,Reno. Yamaguchi,4-3-3 defensivo,Hideki Nagai,2377,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509116
+8,sáb 17/04/2021,05:00,FC Ryukyu,Tokyo Verdy,4-3-3 ofensivo,Hideki Nagai,2308,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509286
+9,qua 21/04/2021,06:00,Tokyo Verdy,Kyoto Sanga,4-3-3 ofensivo,Hideki Nagai,1789,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509233
+10,dom 25/04/2021,02:00,V-V. Nagasaki,Tokyo Verdy,4-3-3 ofensivo,Hideki Nagai,4468,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509363
+11,dom 02/05/2021,03:00,Tokyo Verdy,Omiya Ardija,4-3-3 ofensivo,Hideki Nagai,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509231
+12,qua 05/05/2021,03:00,Tokyo Verdy,Thespaku. Gunma,4-3-3 ofensivo,Hideki Nagai,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509207
+13,dom 09/05/2021,02:00,Ventforet Kofu,Tokyo Verdy,4-3-3 ofensivo,Hideki Nagai,4053,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509304
+14,dom 16/05/2021,03:00,Tokyo Verdy,Gir. Kitakyushu,4-3-3 ofensivo,Hideki Nagai,1743,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509275
+15,dom 23/05/2021,03:00,Tokyo Verdy,Júbilo Iwata,4-3-3 ofensivo,Hideki Nagai,3527,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509220
+16,sáb 29/05/2021,04:00,Tokyo Verdy,Blaublitz Akita,4-3-3 ofensivo,Hideki Nagai,2242,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509681
+17,sáb 05/06/2021,07:00,Fagiano Okayama,Tokyo Verdy,4-3-3 ofensivo,Hideki Nagai,2735,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509328
+18,dom 13/06/2021,02:00,JEF Utd. Chiba,Tokyo Verdy,4-3-3 ofensivo,Hideki Nagai,4100,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509334
+19,dom 20/06/2021,03:00,SC Sagamihara,Tokyo Verdy,4-3-3 ofensivo,Hideki Nagai,1749,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509261
+20,sáb 26/06/2021,06:00,Tokyo Verdy,Tochigi SC,4-3-3 ofensivo,Hideki Nagai,4740,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509191
+21,sáb 03/07/2021,06:00,Matsumoto Yama.,Tokyo Verdy,4-3-3 ofensivo,Hideki Nagai,6890,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509248
+22,dom 11/07/2021,07:00,Thespaku. Gunma,Tokyo Verdy,4-3-3 ofensivo,Hideki Nagai,1630,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509184
+23,dom 18/07/2021,07:00,Ehime FC,Tokyo Verdy,4-3-3 ofensivo,Hideki Nagai,2467,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509353
+24,seg 09/08/2021,07:00,Mito HollyHock,Tokyo Verdy,4-3-3 ofensivo,Hideki Nagai,2758,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509316
+25,sáb 14/08/2021,07:00,Júbilo Iwata,Tokyo Verdy,4-3-3 ofensivo,Hideki Nagai,4564,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509372
+26,sáb 21/08/2021,06:00,Tochigi SC,Tokyo Verdy,4-4-2 duplo 6,Hideki Nagai,1977,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509288
+27,sáb 28/08/2021,06:30,Kyoto Sanga,Tokyo Verdy,4-3-3 ofensivo,Hideki Nagai,4111,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509690
+28,dom 05/09/2021,07:00,Omiya Ardija,Tokyo Verdy,4-3-3 ofensivo,Takafumi Hori,4160,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509710
+29,sáb 11/09/2021,06:00,Tokyo Verdy,Matsumoto Yama.,4-3-3 ofensivo,Takafumi Hori,3505,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509714
+30,dom 19/09/2021,06:00,Tokyo Verdy,Albirex Niigata,4-3-3 ofensivo,Takafumi Hori,4752,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509731
+31,dom 26/09/2021,03:00,Tokyo Verdy,Machida Zelvia,4-3-3 ofensivo,Takafumi Hori,4724,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509742
+32,dom 03/10/2021,02:00,Reno. Yamaguchi,Tokyo Verdy,4-3-3 ofensivo,Takafumi Hori,2998,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509754
+33,sáb 09/10/2021,03:00,Tokyo Verdy,Fagiano Okayama,4-3-3 ofensivo,Takafumi Hori,3204,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509757
+34,sáb 16/10/2021,02:00,Gir. Kitakyushu,Tokyo Verdy,4-3-3 ofensivo,Takafumi Hori,2790,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509769
+35,dom 24/10/2021,02:00,Tokyo Verdy,JEF Utd. Chiba,4-3-3 ofensivo,Takafumi Hori,3508,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509784
+36,sáb 30/10/2021,03:00,Tokyo Verdy,Ventforet Kofu,4-4-2 duplo 6,Takafumi Hori,3611,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509793
+37,qua 03/11/2021,02:00,Monte. Yamagata,Tokyo Verdy,4-3-3 ofensivo,Takafumi Hori,5704,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509800
+38,dom 07/11/2021,02:00,Tokyo Verdy,V-V. Nagasaki,4-3-3 ofensivo,Takafumi Hori,6021,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509816
+39,dom 14/11/2021,02:00,Zweig. Kanazawa,Tokyo Verdy,4-3-3 ofensivo,Takafumi Hori,3108,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509832
+40,dom 21/11/2021,02:00,Tokyo Verdy,FC Ryukyu,4-3-3 ofensivo,Takafumi Hori,4361,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509842
+41,dom 28/11/2021,01:00,Blaublitz Akita,Tokyo Verdy,4-3-3 ofensivo,Takafumi Hori,2685,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509845
+42,dom 05/12/2021,01:00,Tokyo Verdy,SC Sagamihara,4-3-3 ofensivo,Takafumi Hori,7505,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3509859

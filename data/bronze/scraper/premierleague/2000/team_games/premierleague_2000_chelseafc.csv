@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 19/08/2000,11:00,Chelsea,West Ham,?,Gianluca Vialli,34914,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1041973
+2,ter 22/08/2000,15:45,Bradford,Chelsea,?,Gianluca Vialli,17872,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1041983
+3,dom 27/08/2000,12:00,Aston Villa,Chelsea,4-4-2,Gianluca Vialli,27057,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042001
+4,qua 06/09/2000,16:00,Chelsea,Arsenal,4-4-2 duplo 6,Gianluca Vialli,34923,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042010
+5,sáb 09/09/2000,11:00,Newcastle,Chelsea,?,Gianluca Vialli,51687,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042017
+6,dom 17/09/2000,11:00,Chelsea,Leicester,?,Graham Rix,33697,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042031
+7,sáb 23/09/2000,07:30,Man Utd,Chelsea,4-2-3-1,Claudio Ranieri,67568,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042059
+8,dom 01/10/2000,12:00,Chelsea,Liverpool,?,Claudio Ranieri,34966,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042078
+9,sáb 14/10/2000,12:00,AFC Sunderland,Chelsea,?,Claudio Ranieri,45078,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042086
+10,sáb 21/10/2000,12:00,Chelsea,Coventry City,?,Claudio Ranieri,34646,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042096
+11,sáb 28/10/2000,12:00,Chelsea,Tottenham,?,Claudio Ranieri,34966,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042100
+12,sáb 04/11/2000,13:00,Southampton,Chelsea,?,Claudio Ranieri,15236,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042114
+13,dom 12/11/2000,14:00,Chelsea,Leeds,?,Claudio Ranieri,35121,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042129
+14,sáb 18/11/2000,13:00,Charlton,Chelsea,?,Claudio Ranieri,20043,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042134
+15,sáb 25/11/2000,13:00,Everton,Chelsea,?,Claudio Ranieri,33515,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042175
+16,dom 03/12/2000,14:00,Chelsea,Man City,?,Claudio Ranieri,34971,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042190
+17,sáb 09/12/2000,13:00,Chelsea,Derby,?,Claudio Ranieri,34317,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042195
+18,sáb 16/12/2000,13:00,Middlesbrough,Chelsea,?,Claudio Ranieri,29422,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042208
+19,sáb 23/12/2000,13:00,Chelsea,Bradford,?,Claudio Ranieri,33377,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042221
+20,ter 26/12/2000,13:00,Ipswich,Chelsea,?,Claudio Ranieri,22237,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042227
+21,qua 07/03/2001,16:45,West Ham,Chelsea,?,Claudio Ranieri,26016,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042238
+22,seg 01/01/2001,13:00,Chelsea,Aston Villa,?,Claudio Ranieri,33159,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042242
+23,sáb 13/01/2001,13:00,Arsenal,Chelsea,4-4-2 duplo 6,Claudio Ranieri,38071,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042251
+24,sáb 20/01/2001,13:00,Chelsea,Ipswich,4-4-2,Claudio Ranieri,34948,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042261
+25,qua 31/01/2001,17:45,Chelsea,Newcastle,?,Claudio Ranieri,35108,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042275
+26,sáb 03/02/2001,13:00,Leicester,Chelsea,?,Claudio Ranieri,21502,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042285
+27,sáb 10/02/2001,13:00,Chelsea,Man Utd,3-4-3 plano,Claudio Ranieri,34960,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043197
+28,ter 08/05/2001,16:00,Liverpool,Chelsea,?,Claudio Ranieri,43588,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043214
+29,sáb 03/03/2001,12:00,Coventry City,Chelsea,?,Claudio Ranieri,21609,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043219
+30,sáb 17/03/2001,12:00,Chelsea,AFC Sunderland,?,Claudio Ranieri,34981,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043225
+31,sáb 31/03/2001,11:00,Chelsea,Middlesbrough,?,Claudio Ranieri,34933,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043239
+32,sáb 07/04/2001,11:00,Derby,Chelsea,?,Claudio Ranieri,29320,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043244
+33,sáb 14/04/2001,11:00,Chelsea,Southampton,?,Claudio Ranieri,35136,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043258
+34,ter 17/04/2001,15:45,Tottenham,Chelsea,?,Claudio Ranieri,36074,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043269
+35,sáb 21/04/2001,11:00,Chelsea,Charlton,?,Claudio Ranieri,34983,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043278
+36,sáb 28/04/2001,08:00,Leeds,Chelsea,4-4-2,Claudio Ranieri,39253,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043283
+37,sáb 05/05/2001,11:00,Chelsea,Everton,?,Claudio Ranieri,35196,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043296
+38,sáb 19/05/2001,11:00,Man City,Chelsea,4-4-2,Claudio Ranieri,34479,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043308

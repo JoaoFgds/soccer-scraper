@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 07/08/2022,12:30,Colônia,Schalke,4-1-4-1,Frank Kramer,50000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839028
+2,sáb 13/08/2022,13:30,Schalke,M'gladbach,4-4-2 duplo 6,Frank Kramer,62271,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839059
+3,sáb 20/08/2022,10:30,Wolfsburg,Schalke,4-2-3-1,Frank Kramer,26959,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839084
+4,sáb 27/08/2022,10:30,Schalke,Union Berlim,4-2-3-1,Frank Kramer,62271,1:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839103
+5,sáb 03/09/2022,10:30,Stuttgart,Schalke,4-2-3-1,Frank Kramer,47500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839113
+6,sáb 10/09/2022,13:30,Schalke,Bochum,4-2-3-1,Frank Kramer,62041,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839121
+7,sáb 17/09/2022,10:30,Dortmund,Schalke,4-2-3-1,Frank Kramer,81100,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839132
+8,dom 02/10/2022,12:30,Schalke,Augsburg,4-4-2 duplo 6,Frank Kramer,60328,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839157
+9,sáb 08/10/2022,10:30,Leverkusen,Schalke,4-4-2 duplo 6,Frank Kramer,30210,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839160
+10,sex 14/10/2022,15:30,Schalke,Hoffenheim,4-2-3-1,Frank Kramer,59811,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839184
+11,dom 23/10/2022,12:30,Hertha Berlim,Schalke,3-5-2,Matthias Kreutzer,60165,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839203
+12,dom 30/10/2022,13:30,Schalke,Freiburg,4-2-3-1,Thomas Reis,61115,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839220
+13,sáb 05/11/2022,14:30,Werder Bremen,Schalke,4-2-3-1,Thomas Reis,42100,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839239
+14,qua 09/11/2022,16:30,Schalke,Mainz,4-2-3-1,Thomas Reis,58256,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839257
+15,sáb 12/11/2022,14:30,Schalke,Bayern,4-2-3-1,Thomas Reis,62271,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839265
+16,sáb 21/01/2023,11:30,Frankfurt,Schalke,4-2-3-1,Thomas Reis,50000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839281
+17,ter 24/01/2023,14:30,Schalke,Leipzig,4-2-3-1,Thomas Reis,56841,1:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839301
+18,dom 29/01/2023,11:30,Schalke,Colônia,4-2-3-1,Thomas Reis,61571,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839319
+19,sáb 04/02/2023,14:30,M'gladbach,Schalke,4-3-3 ofensivo,Thomas Reis,54042,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839333
+20,sex 10/02/2023,16:30,Schalke,Wolfsburg,4-2-3-1,Thomas Reis,60836,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839355
+21,dom 19/02/2023,11:30,Union Berlim,Schalke,4-2-3-1,Thomas Reis,22012,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839368
+22,sáb 25/02/2023,14:30,Schalke,Stuttgart,4-2-3-1,Thomas Reis,62271,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839391
+23,sáb 04/03/2023,11:30,Bochum,Schalke,4-3-3 ofensivo,Thomas Reis,26000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839399
+24,sáb 11/03/2023,14:30,Schalke,Dortmund,4-2-3-1,Thomas Reis,61571,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839418
+25,sáb 18/03/2023,11:30,Augsburg,Schalke,4-3-3 ofensivo,Thomas Reis,30660,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839436
+26,sáb 01/04/2023,10:30,Schalke,Leverkusen,4-2-3-1,Thomas Reis,62271,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839454
+27,dom 09/04/2023,14:30,Hoffenheim,Schalke,4-2-3-1,Thomas Reis,30150,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839469
+28,sex 14/04/2023,15:30,Schalke,Hertha Berlim,4-3-3 defensivo,Thomas Reis,61981,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839490
+29,dom 23/04/2023,10:30,Freiburg,Schalke,4-2-3-1,Thomas Reis,34700,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839503
+30,sáb 29/04/2023,13:30,Schalke,Werder Bremen,4-2-3-1,Thomas Reis,61981,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839518
+31,sex 05/05/2023,15:30,Mainz,Schalke,4-2-3-1,Thomas Reis,33305,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839531
+32,sáb 13/05/2023,10:30,Bayern,Schalke,4-2-3-1,Thomas Reis,75000,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839546
+33,sáb 20/05/2023,10:30,Schalke,Frankfurt,4-2-3-1,Thomas Reis,61575,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839571
+34,sáb 27/05/2023,10:30,Leipzig,Schalke,4-2-3-1,Thomas Reis,47069,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839583

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 07/08/2004,15:00,Rennes,PSG,4-4-2 duplo 6,Vahid Halilhodzic,25150,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24066
+2,sáb 14/08/2004,12:15,PSG,SM Caen,4-4-2 duplo 6,Vahid Halilhodzic,32814,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24009
+3,sáb 21/08/2004,15:00,Toulouse,PSG,4-3-3 ofensivo,Vahid Halilhodzic,35074,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24123
+4,dom 29/08/2004,13:00,PSG,Saint-Étienne,4-4-2 duplo 6,Vahid Halilhodzic,41763,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24332
+5,sáb 11/09/2004,15:00,FC Istres,PSG,4-2-3-1,Vahid Halilhodzic,15000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24370
+6,sáb 18/09/2004,15:00,PSG,Monaco,4-4-2 duplo 6,Vahid Halilhodzic,40039,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24162
+7,qua 22/09/2004,15:30,Lens,PSG,4-4-2 duplo 6,Vahid Halilhodzic,36649,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24257
+8,sáb 25/09/2004,15:00,PSG,Strasbourg,4-4-2 duplo 6,Vahid Halilhodzic,32925,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24163
+9,sáb 02/10/2004,15:00,SC Bastia,PSG,4-2-3-1,Vahid Halilhodzic,7167,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24183
+10,sáb 16/10/2004,15:00,Nantes,PSG,4-2-3-1,Vahid Halilhodzic,35232,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24278
+11,sáb 23/10/2004,15:00,PSG,AC Ajaccio,4-4-2 duplo 6,Vahid Halilhodzic,35487,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24164
+12,sáb 30/10/2004,15:00,Auxerre,PSG,4-3-3 ofensivo,Vahid Halilhodzic,20000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24090
+13,dom 07/11/2004,18:00,PSG,Marselha,4-4-2 duplo 6,Vahid Halilhodzic,43131,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24374
+14,sáb 13/11/2004,17:00,Bordeaux,PSG,4-4-2 duplo 6,Vahid Halilhodzic,31988,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24299
+15,sex 19/11/2004,18:00,PSG,Lyon,4-4-2 duplo 6,Vahid Halilhodzic,42458,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24129
+16,dom 28/11/2004,18:00,Nice,PSG,?,Vahid Halilhodzic,11760,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24320
+17,sáb 04/12/2004,14:15,PSG,Lille,4-4-2 duplo 6,Vahid Halilhodzic,38000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24167
+18,dom 12/12/2004,18:00,FC Sochaux,PSG,4-4-2 duplo 6,Vahid Halilhodzic,17211,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24321
+19,sáb 18/12/2004,17:00,PSG,FC Metz,4-4-2 duplo 6,Vahid Halilhodzic,36881,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24168
+20,qua 12/01/2005,15:00,SM Caen,PSG,4-4-2 duplo 6,Vahid Halilhodzic,20930,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24360
+21,sáb 15/01/2005,17:00,PSG,Toulouse,4-4-2 duplo 6,Vahid Halilhodzic,37547,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24169
+22,sáb 22/01/2005,17:00,Saint-Étienne,PSG,4-4-2 duplo 6,Vahid Halilhodzic,31672,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24209
+23,qua 26/01/2005,17:30,PSG,FC Istres,?,Vahid Halilhodzic,29445,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24170
+24,dom 30/01/2005,18:00,Monaco,PSG,5-3-2,Vahid Halilhodzic,12147,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24039
+25,dom 06/02/2005,18:00,PSG,Lens,4-4-2 duplo 6,Vahid Halilhodzic,34111,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24171
+26,sáb 19/02/2005,14:15,Strasbourg,PSG,4-4-2 duplo 6,Laurent Fournier,17007,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24229
+27,sáb 26/02/2005,16:00,PSG,SC Bastia,?,Laurent Fournier,21258,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24172
+28,sáb 05/03/2005,16:00,PSG,Nantes,4-4-2 duplo 6,Laurent Fournier,33737,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24173
+29,sáb 12/03/2005,16:00,AC Ajaccio,PSG,?,Laurent Fournier,4924,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24344
+30,dom 20/03/2005,14:00,PSG,Auxerre,4-3-2-1,Laurent Fournier,35000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24174
+31,dom 03/04/2005,16:00,Marselha,PSG,4-4-2 duplo 6,Laurent Fournier,56087,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24062
+32,sáb 09/04/2005,15:00,PSG,Bordeaux,4-4-2 duplo 6,Laurent Fournier,39433,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24175
+33,dom 17/04/2005,16:00,Lyon,PSG,4-4-2 duplo 6,Laurent Fournier,37864,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24308
+34,sex 22/04/2005,15:00,PSG,Nice,4-4-2 duplo 6,Laurent Fournier,36098,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24176
+35,sáb 07/05/2005,15:00,Lille,PSG,4-4-2 duplo 6,Laurent Fournier,16823,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24329
+36,sáb 14/05/2005,15:00,PSG,FC Sochaux,4-4-2 duplo 6,Laurent Fournier,35000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24177
+37,sáb 21/05/2005,15:45,FC Metz,PSG,4-4-2 duplo 6,Laurent Fournier,23874,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24121
+38,sáb 28/05/2005,15:00,PSG,Rennes,4-3-3 ofensivo,Laurent Fournier,43911,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/24178

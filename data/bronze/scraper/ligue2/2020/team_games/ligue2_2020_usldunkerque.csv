@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 22/08/2020,10:00,Toulouse,USL Dunkerque,4-2-3-1,Fabien Mercadal,4399,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3393976
+2,sáb 29/08/2020,14:00,USL Dunkerque,Clermont Foot,4-2-3-1,Fabien Mercadal,1368,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3393981
+3,qua 30/09/2020,14:00,AC Ajaccio,USL Dunkerque,3-4-3 plano,Fabien Mercadal,2163,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3393989
+4,sáb 19/09/2020,14:00,USL Dunkerque,Valenciennes,3-4-3 plano,Fabien Mercadal,1394,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394003
+5,sáb 26/09/2020,14:00,Rodez AF,USL Dunkerque,3-4-3 plano,Fabien Mercadal,1696,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394015
+6,sáb 03/10/2020,14:00,USL Dunkerque,Guingamp,5-3-2,Fabien Mercadal,1031,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394023
+7,sáb 17/10/2020,14:00,AS Nancy,USL Dunkerque,5-3-2,Fabien Mercadal,5500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394034
+8,sáb 24/10/2020,14:00,USL Dunkerque,Le Havre,4-3-3 ofensivo,Fabien Mercadal,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394043
+9,sáb 31/10/2020,15:00,FC Chambly Oise,USL Dunkerque,5-4-1 plano,Fabien Mercadal,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394051
+10,sáb 07/11/2020,15:00,USL Dunkerque,Paris FC,4-4-2 duplo 6,Fabien Mercadal,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394063
+11,sáb 21/11/2020,15:00,Chamois Niort,USL Dunkerque,4-4-2,Fabien Mercadal,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394075
+12,sáb 28/11/2020,15:00,USL Dunkerque,Pau FC,4-4-2,Fabien Mercadal,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394083
+13,ter 01/12/2020,15:00,Amiens SC,USL Dunkerque,4-2-3-1,Fabien Mercadal,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394089
+14,sáb 05/12/2020,15:00,USL Dunkerque,LB Châteauroux,3-4-1-2,Fabien Mercadal,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394104
+15,sáb 12/12/2020,15:00,Grenoble,USL Dunkerque,4-2-3-1,Fabien Mercadal,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394112
+16,sex 18/12/2020,16:00,USL Dunkerque,SM Caen,3-5-2 ofensivo,Fabien Mercadal,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394123
+17,ter 22/12/2020,16:00,USL Dunkerque,Auxerre,5-3-2,Fabien Mercadal,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394132
+18,ter 05/01/2021,16:00,FC Sochaux,USL Dunkerque,5-3-2,Fabien Mercadal,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394145
+19,sex 08/01/2021,16:00,USL Dunkerque,Troyes,5-3-2,Fabien Mercadal,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394151
+20,sáb 16/01/2021,15:00,Clermont Foot,USL Dunkerque,4-4-2 duplo 6,Fabien Mercadal,x,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394163
+21,sáb 23/01/2021,15:00,USL Dunkerque,AC Ajaccio,4-4-2,Fabien Mercadal,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394172
+22,sáb 30/01/2021,15:00,Valenciennes,USL Dunkerque,4-4-2 duplo 6,Fabien Mercadal,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394188
+23,ter 02/02/2021,16:00,USL Dunkerque,Rodez AF,4-4-2,Fabien Mercadal,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394193
+24,sex 05/02/2021,16:00,Guingamp,USL Dunkerque,4-4-2,Fabien Mercadal,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394202
+25,sáb 13/02/2021,15:00,USL Dunkerque,AS Nancy,4-4-2,Fabien Mercadal,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394213
+26,sáb 20/02/2021,15:00,Le Havre,USL Dunkerque,4-4-2,Fabien Mercadal,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394223
+27,sáb 27/02/2021,15:00,USL Dunkerque,FC Chambly Oise,4-4-2,Fabien Mercadal,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394233
+28,ter 02/03/2021,16:00,Paris FC,USL Dunkerque,4-4-2,Fabien Mercadal,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394253
+29,sáb 13/03/2021,16:00,USL Dunkerque,Chamois Niort,4-4-2 duplo 6,Fabien Mercadal,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394267
+30,sáb 20/03/2021,16:00,Pau FC,USL Dunkerque,4-4-2,Fabien Mercadal,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394288
+31,qua 28/04/2021,14:00,USL Dunkerque,Amiens SC,4-1-4-1,Fabien Mercadal,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394308
+32,sáb 10/04/2021,15:00,LB Châteauroux,USL Dunkerque,4-1-4-1,Fabien Mercadal,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394322
+33,sáb 17/04/2021,15:00,USL Dunkerque,Grenoble,4-1-4-1,Fabien Mercadal,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394342
+34,ter 20/04/2021,15:00,SM Caen,USL Dunkerque,4-1-4-1,Fabien Mercadal,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394363
+35,sáb 24/04/2021,15:00,Auxerre,USL Dunkerque,5-4-1 plano,Fabien Mercadal,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394495
+36,sáb 01/05/2021,15:00,USL Dunkerque,FC Sochaux,4-4-2,Fabien Mercadal,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394509
+37,sáb 08/05/2021,15:00,Troyes,USL Dunkerque,5-4-1 plano,Fabien Mercadal,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394532
+38,sáb 15/05/2021,15:00,USL Dunkerque,Toulouse,4-4-2,Fabien Mercadal,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394540

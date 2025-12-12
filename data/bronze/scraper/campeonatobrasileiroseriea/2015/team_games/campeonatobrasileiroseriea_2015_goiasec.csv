@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 10/05/2015,18:30,Vasco da Gama,Goiás,4-3-1-2,Hélio dos Anjos,6628,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547063
+2,sáb 16/05/2015,18:30,Goiás,Atlético-PR,4-3-1-2,Hélio dos Anjos,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547067
+3,dom 24/05/2015,11:00,Palmeiras,Goiás,4-4-2 duplo 6,Hélio dos Anjos,37337,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547083
+4,dom 31/05/2015,16:00,Goiás,Grêmio,4-4-2 duplo 6,Hélio dos Anjos,3859,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2569251
+5,qui 04/06/2015,21:00,Sport,Goiás,4-4-2 duplo 6,Hélio dos Anjos,12285,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2569262
+6,dom 07/06/2015,19:30,Goiás,Avaí,4-3-3 defensivo,Hélio dos Anjos,1105,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2569273
+7,dom 14/06/2015,11:00,Ponte Preta,Goiás,4-4-2 duplo 6,Hélio dos Anjos,9840,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2569406
+8,dom 21/06/2015,16:00,Joinville,Goiás,4-4-2 duplo 6,Hélio dos Anjos,9049,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2569418
+9,dom 28/06/2015,16:00,Goiás,Fluminense,4-4-2 duplo 6,Luiz Felipe Scolari,2419,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2569427
+10,qui 02/07/2015,19:30,Figueirense,Goiás,4-4-2 duplo 6,Augusto César,5425,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2569438
+11,dom 05/07/2015,16:00,Goiás,Corinthians,4-4-2 duplo 6,Augusto César,9573,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2569448
+12,qua 08/07/2015,19:30,Goiás,Santos,4-4-2 duplo 6,Julinho Camargo,1829,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2569458
+13,dom 12/07/2015,16:00,Cruzeiro,Goiás,4-4-2 duplo 6,Julinho Camargo,10675,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2569465
+14,sáb 18/07/2015,18:30,Internacional,Goiás,4-4-2 losango,Julinho Camargo,16768,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2569474
+15,dom 26/07/2015,16:00,Goiás,Flamengo,4-2-3-1,Julinho Camargo,12248,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2569488
+16,dom 02/08/2015,11:00,Coritiba,Goiás,4-2-3-1,Julinho Camargo,24595,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2602937
+17,dom 09/08/2015,15:00,Goiás,Atlético-MG,4-4-2 duplo 6,Julinho Camargo,7762,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611076
+18,qua 12/08/2015,21:00,Goiás,Chapecoense,4-2-3-1,Julinho Camargo,1619,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611083
+19,sáb 15/08/2015,21:00,São Paulo,Goiás,4-2-3-1,Julinho Camargo,25452,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611092
+20,sáb 22/08/2015,18:30,Goiás,Vasco da Gama,4-3-3 defensivo,Julinho Camargo,12154,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611101
+21,dom 30/08/2015,18:30,Atlético-PR,Goiás,4-3-3 defensivo,Julinho Camargo,14348,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615457
+22,qua 02/09/2015,22:00,Goiás,Palmeiras,4-2-3-1,Julinho Camargo,16024,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616554
+23,dom 06/09/2015,16:00,Grêmio,Goiás,4-3-3 defensivo,Julinho Camargo,29184,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2619242
+24,qui 10/09/2015,19:30,Goiás,Sport,4-2-3-1,Julinho Camargo,2650,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2619255
+25,dom 13/09/2015,18:30,Avaí,Goiás,4-2-3-1,Julinho Camargo,4767,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2621588
+26,qua 16/09/2015,19:30,Goiás,Ponte Preta,4-2-3-1,Julinho Camargo,2885,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2621591
+27,dom 20/09/2015,11:00,Goiás,Joinville,4-2-3-1,Wanderley Filho,3961,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2626591
+28,sáb 26/09/2015,18:30,Fluminense,Goiás,4-2-3-1,Arthur Neto,9238,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2626597
+29,dom 04/10/2015,16:00,Goiás,Figueirense,4-3-3 defensivo,Arthur Neto,3695,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2626615
+30,qui 15/10/2015,19:30,Corinthians,Goiás,4-2-3-1,Arthur Neto,41179,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2626624
+31,dom 18/10/2015,17:00,Santos,Goiás,4-2-3-1,Arthur Neto,6198,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2626634
+32,dom 25/10/2015,18:00,Goiás,Cruzeiro,4-3-3 defensivo,Danny Sérgio,13101,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2626645
+33,dom 01/11/2015,19:30,Goiás,Internacional,4-3-3 defensivo,Danny Sérgio,6420,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2626655
+34,dom 08/11/2015,17:00,Flamengo,Goiás,4-3-3 defensivo,Danny Sérgio,12634,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2626660
+35,qua 18/11/2015,19:30,Goiás,Coritiba,4-2-3-1,Danny Sérgio,16896,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2626675
+36,dom 22/11/2015,17:00,Atlético-MG,Goiás,4-2-3-1,Danny Sérgio,9373,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2626682
+37,dom 29/11/2015,18:00,Chapecoense,Goiás,4-3-3 defensivo,Danny Sérgio,9831,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2626696
+38,dom 06/12/2015,17:00,Goiás,São Paulo,4-2-3-1,Danny Sérgio,34284,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2626705

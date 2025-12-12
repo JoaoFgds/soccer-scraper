@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 08/08/2021,16:30,Paços Ferreira,Famalicão,4-2-3-1,Jorge Simão,1743,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621349
+2,seg 16/08/2021,15:00,Boavista,Paços Ferreira,4-2-3-1,Jorge Simão,2842,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621361
+3,seg 23/08/2021,15:00,Paços Ferreira,Estoril,4-2-3-1,Jorge Simão,1569,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621366
+4,dom 29/08/2021,16:30,Portimonense,Paços Ferreira,4-2-3-1,Jorge Simão,1098,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621380
+5,sáb 11/09/2021,11:30,Paços Ferreira,Braga,4-2-3-1,Jorge Simão,1569,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621384
+6,dom 19/09/2021,11:30,Vizela,Paços Ferreira,4-2-3-1,Jorge Simão,2957,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621408
+7,seg 27/09/2021,15:00,Paços Ferreira,B SAD,4-2-3-1,Jorge Simão,1307,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621393
+8,sáb 02/10/2021,14:00,FC Porto,Paços Ferreira,4-2-3-1,Jorge Simão,22507,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621419
+9,dom 24/10/2021,11:30,Paços Ferreira,Arouca,4-2-3-1,Jorge Simão,1786,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621429
+10,seg 01/11/2021,18:15,Moreirense,Paços Ferreira,4-2-3-1,Jorge Simão,911,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621413
+11,dom 07/11/2021,16:00,Paços Ferreira,Sporting,4-2-3-1,Jorge Simão,5903,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621474
+12,dom 28/11/2021,12:30,Marítimo,Paços Ferreira,4-2-3-1,Jorge Simão,2017,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621443
+13,sáb 04/12/2021,17:30,Paços Ferreira,Vit. Guimarães,4-2-3-1,Jorge Simão,1989,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621484
+14,sex 10/12/2021,17:15,Paços Ferreira,Gil Vicente,4-3-3 ofensivo,Jorge Simão,1542,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621457
+15,sáb 18/12/2021,12:30,CD Tondela,Paços Ferreira,4-2-3-1,César Peixoto,672,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621495
+16,qui 30/12/2021,14:00,Paços Ferreira,Santa Clara,3-4-3 plano,César Peixoto,618,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621466
+17,dom 09/01/2022,15:00,Benfica,Paços Ferreira,4-4-2 duplo 6,César Peixoto,26268,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621446
+18,dom 16/01/2022,15:30,Famalicão,Paços Ferreira,4-2-3-1,César Peixoto,4559,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621502
+19,sex 21/01/2022,18:15,Paços Ferreira,Boavista,4-2-3-1,César Peixoto,1215,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621617
+20,seg 31/01/2022,16:00,Estoril,Paços Ferreira,4-3-3 ofensivo,César Peixoto,587,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621510
+21,sáb 05/02/2022,15:00,Paços Ferreira,Portimonense,4-3-3 ofensivo,César Peixoto,2243,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621533
+22,sáb 12/02/2022,12:30,Braga,Paços Ferreira,4-3-3 ofensivo,César Peixoto,7604,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621519
+23,sáb 19/02/2022,15:00,Paços Ferreira,Vizela,4-3-3 ofensivo,César Peixoto,3605,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621552
+24,sex 25/02/2022,17:15,B SAD,Paços Ferreira,4-3-3 ofensivo,César Peixoto,1287,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621572
+25,dom 06/03/2022,15:00,Paços Ferreira,FC Porto,4-3-3 ofensivo,César Peixoto,6869,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621562
+26,sáb 12/03/2022,15:00,Arouca,Paços Ferreira,4-1-4-1,César Peixoto,1108,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621566
+27,dom 20/03/2022,12:30,Paços Ferreira,Moreirense,4-3-3 ofensivo,César Peixoto,2740,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621539
+28,dom 03/04/2022,16:30,Sporting,Paços Ferreira,4-3-3 ofensivo,César Peixoto,28788,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621576
+29,sáb 09/04/2022,11:30,Paços Ferreira,Marítimo,4-3-3 ofensivo,César Peixoto,2825,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621621
+30,sex 15/04/2022,16:30,Vit. Guimarães,Paços Ferreira,4-3-3 ofensivo,César Peixoto,14258,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621600
+31,sáb 23/04/2022,16:30,Gil Vicente,Paços Ferreira,4-2-3-1,César Peixoto,3355,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621587
+32,seg 02/05/2022,16:15,Paços Ferreira,CD Tondela,4-2-3-1,César Peixoto,2394,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621610
+33,dom 08/05/2022,16:30,Santa Clara,Paços Ferreira,4-3-3 ofensivo,César Peixoto,1777,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621575
+34,sex 13/05/2022,16:15,Paços Ferreira,Benfica,4-2-3-1,César Peixoto,5635,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621554

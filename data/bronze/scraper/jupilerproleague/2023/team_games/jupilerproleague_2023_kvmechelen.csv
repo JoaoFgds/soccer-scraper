@@ -1,0 +1,31 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 30/07/2023,13:30,Club Brugge,KV Mechelen,4-2-3-1,Steven Defour,19593,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4093111
+2,dom 06/08/2023,11:00,KV Mechelen,KAA Gent,4-2-3-1,Steven Defour,11234,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098768
+3,sáb 12/08/2023,11:00,RWDM,KV Mechelen,4-2-3-1,Steven Defour,3900,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098796
+4,sáb 19/08/2023,15:45,KV Mechelen,Union SG,4-2-3-1,Steven Defour,11651,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098774
+5,sáb 26/08/2023,11:00,KVC Westerlo,KV Mechelen,4-2-3-1,Steven Defour,7000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098792
+6,sáb 02/09/2023,13:15,KV Mechelen,KAS Eupen,4-2-3-1,Steven Defour,11651,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098781
+7,dom 17/09/2023,14:15,St.Truiden,KV Mechelen,4-3-3 defensivo,Steven Defour,5238,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098962
+8,sáb 23/09/2023,13:15,KV Mechelen,OH Leuven,4-2-3-1,Steven Defour,13474,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098977
+9,sáb 30/09/2023,15:45,KV Mechelen,Antuérpia,4-2-3-1,Steven Defour,14963,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098889
+10,sáb 07/10/2023,15:45,Anderlecht,KV Mechelen,4-3-3 defensivo,Steven Defour,21500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098915
+11,dom 22/10/2023,08:30,KRC Genk,KV Mechelen,4-2-3-1,Steven Defour,17923,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098892
+12,sáb 28/10/2023,11:00,KV Mechelen,Cercle Brügge,4-2-3-1,Steven Defour,11234,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098943
+13,dom 05/11/2023,12:00,Standard Liège,KV Mechelen,4-2-3-1,Frédéric Vanderbiest,19617,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098867
+14,sáb 11/11/2023,16:45,KV Mechelen,R Charleroi SC,4-2-3-1,Frédéric Vanderbiest,12836,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098824
+15,dom 26/11/2023,15:15,KV Kortrijk,KV Mechelen,4-2-3-1,Besnik Hasi,5543,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098879
+16,dom 03/12/2023,12:00,KV Mechelen,St.Truiden,4-2-3-1,Besnik Hasi,12153,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098936
+17,dom 10/12/2023,09:30,KV Mechelen,Club Brugge,4-2-3-1,Besnik Hasi,14725,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098951
+18,dom 17/12/2023,12:00,Union SG,KV Mechelen,3-4-2-1,Besnik Hasi,6521,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098913
+19,qua 20/12/2023,16:45,KV Mechelen,Standard Liège,3-4-2-1,Besnik Hasi,13466,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098816
+20,qua 27/12/2023,16:45,R Charleroi SC,KV Mechelen,3-4-2-1,Besnik Hasi,5800,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098906
+21,sex 19/01/2024,16:45,KAA Gent,KV Mechelen,3-4-2-1,Besnik Hasi,12758,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098966
+22,dom 28/01/2024,15:15,KV Mechelen,RWDM,4-2-3-1,Besnik Hasi,11825,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098831
+23,qui 01/02/2024,16:30,KV Mechelen,Anderlecht,3-4-3 plano,Besnik Hasi,14166,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098855
+24,dom 04/02/2024,12:00,KAS Eupen,KV Mechelen,4-2-3-1,Besnik Hasi,2278,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098930
+25,dom 11/02/2024,12:00,KV Mechelen,KRC Genk,3-4-3 plano,Besnik Hasi,13567,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098992
+26,sáb 17/02/2024,16:45,Antuérpia,KV Mechelen,3-4-3 plano,Besnik Hasi,16000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098861
+27,sáb 24/02/2024,16:45,KV Mechelen,KV Kortrijk,3-4-3 plano,Besnik Hasi,14168,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098983
+28,sáb 02/03/2024,12:00,Cercle Brügge,KV Mechelen,3-4-3 plano,Besnik Hasi,6538,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098809
+29,sex 08/03/2024,16:45,KV Mechelen,KVC Westerlo,3-4-3 plano,Besnik Hasi,16225,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098840
+30,dom 17/03/2024,14:30,OH Leuven,KV Mechelen,3-4-2-1,Besnik Hasi,8963,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098847

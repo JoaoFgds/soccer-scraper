@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 04/08/2023,16:00,Sheff Wed,Southampton,4-2-3-1,Xisco Muñoz,28558,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4101206
+2,sáb 12/08/2023,11:00,Hull City,Sheff Wed,4-2-3-1,Xisco Muñoz,20410,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108317
+3,sáb 19/08/2023,11:00,Sheff Wed,Preston NE,4-2-3-1,Xisco Muñoz,25138,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108333
+4,sáb 26/08/2023,11:00,Cardiff,Sheff Wed,5-4-1 plano,Xisco Muñoz,21058,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108398
+5,sáb 02/09/2023,11:00,Leeds,Sheff Wed,5-4-1 plano,Xisco Muñoz,36484,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108279
+6,sáb 16/09/2023,11:00,Sheff Wed,Ipswich,5-4-1 plano,Xisco Muñoz,25938,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108370
+7,ter 19/09/2023,16:00,Sheff Wed,Middlesbrough,3-4-2-1,Xisco Muñoz,22975,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108196
+8,sáb 23/09/2023,11:00,Swansea,Sheff Wed,3-4-3 plano,Xisco Muñoz,16865,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108347
+9,sex 29/09/2023,16:00,Sheff Wed,AFC Sunderland,3-4-3 plano,Xisco Muñoz,25987,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108442
+10,ter 03/10/2023,16:00,West Brom,Sheff Wed,4-4-2,Xisco Muñoz,22558,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108245
+11,sáb 07/10/2023,11:00,Sheff Wed,Huddersfield,3-4-1-2,Neil Thompson,26025,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108225
+12,sáb 21/10/2023,11:00,Watford,Sheff Wed,4-4-2,Danny Röhl,19102,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108395
+13,qua 25/10/2023,15:45,Plymouth Argyle,Sheff Wed,4-4-2,Danny Röhl,16225,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108417
+14,dom 29/10/2023,10:00,Sheff Wed,Rotherham,3-4-2-1,Danny Röhl,29038,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108429
+15,sáb 04/11/2023,12:00,Bristol City,Sheff Wed,3-4-3 plano,Danny Röhl,22322,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108446
+16,sáb 11/11/2023,12:00,Sheff Wed,Millwall,3-4-2-1,Danny Röhl,25678,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108729
+17,sáb 25/11/2023,12:00,Birmingham,Sheff Wed,4-2-3-1,Danny Röhl,20941,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108545
+18,qua 29/11/2023,16:45,Sheff Wed,Leicester,4-1-4-1,Danny Röhl,26036,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108530
+19,sáb 02/12/2023,12:00,Sheff Wed,Blackburn,4-1-4-1,Danny Röhl,24507,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108541
+20,sáb 09/12/2023,12:00,Stoke,Sheff Wed,4-3-3 ofensivo,Danny Röhl,22347,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108466
+21,qua 13/12/2023,16:45,Norwich,Sheff Wed,4-3-3 ofensivo,Danny Röhl,25521,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108479
+22,sáb 16/12/2023,12:00,Sheff Wed,QPR,4-4-2,Danny Röhl,24739,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108517
+23,sáb 23/12/2023,12:00,Sheff Wed,Cardiff,4-3-3 ofensivo,Danny Röhl,26009,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108493
+24,ter 26/12/2023,12:00,Coventry City,Sheff Wed,4-3-3 ofensivo,Danny Röhl,29208,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108499
+25,sex 29/12/2023,16:45,Preston NE,Sheff Wed,4-3-3 ofensivo,Danny Röhl,19763,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108576
+26,seg 01/01/2024,14:15,Sheff Wed,Hull City,4-2-3-1,Danny Röhl,27489,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108297
+27,sáb 13/01/2024,12:00,Southampton,Sheff Wed,4-2-3-1,Danny Röhl,30189,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108603
+28,sáb 20/01/2024,12:00,Sheff Wed,Coventry City,4-2-3-1,Danny Röhl,28129,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108212
+29,qua 31/01/2024,16:45,Sheff Wed,Watford,4-2-3-1,Danny Röhl,22303,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108358
+30,sáb 03/02/2024,12:00,Huddersfield,Sheff Wed,4-2-3-1,Danny Röhl,21067,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108303
+31,sex 09/02/2024,17:00,Sheff Wed,Birmingham,4-1-4-1,Danny Röhl,25431,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108637
+32,ter 13/02/2024,16:45,Leicester,Sheff Wed,4-1-4-1,Danny Röhl,31550,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108619
+33,sáb 17/02/2024,12:00,Millwall,Sheff Wed,5-4-1 plano,Danny Röhl,17041,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108256
+34,sáb 24/02/2024,12:00,Sheff Wed,Bristol City,5-4-1 plano,Danny Röhl,26328,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108565
+35,sáb 02/03/2024,12:00,Rotherham,Sheff Wed,5-4-1 plano,Danny Röhl,11541,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108589
+36,ter 05/03/2024,16:45,Sheff Wed,Plymouth Argyle,5-4-1 plano,Danny Röhl,23037,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108699
+37,sex 08/03/2024,17:00,Sheff Wed,Leeds,5-4-1 plano,Danny Röhl,30032,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108614
+38,sáb 16/03/2024,12:00,Ipswich,Sheff Wed,4-3-3 ofensivo,Danny Röhl,29325,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108266
+39,sex 29/03/2024,12:00,Sheff Wed,Swansea,3-4-3 plano,Danny Röhl,28301,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108713
+40,seg 01/04/2024,11:00,Middlesbrough,Sheff Wed,3-4-3 plano,Danny Röhl,27893,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108378
+41,sáb 06/04/2024,11:00,QPR,Sheff Wed,4-3-3 ofensivo,Danny Röhl,17502,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108706
+42,ter 09/04/2024,15:45,Sheff Wed,Norwich,4-2-3-1,Danny Röhl,28516,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108664
+43,sáb 13/04/2024,11:00,Sheff Wed,Stoke,3-4-1-2,Danny Röhl,32041,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108236
+44,dom 21/04/2024,08:30,Blackburn,Sheff Wed,3-4-1-2,Danny Röhl,21718,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108641
+45,sáb 27/04/2024,11:00,Sheff Wed,West Brom,3-4-2-1,Danny Röhl,33295,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108695
+46,sáb 04/05/2024,08:30,AFC Sunderland,Sheff Wed,3-4-2-1,Danny Röhl,41222,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108722

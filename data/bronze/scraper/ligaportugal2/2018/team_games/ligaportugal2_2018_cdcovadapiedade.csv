@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 12/08/2018,14:00,Vitória SC B,Cova da Piedade,4-4-2 duplo 6,Eurico Gomes,1617,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070435
+2,sáb 18/08/2018,13:00,Cova da Piedade,Covilhã,4-4-2 duplo 6,Eurico Gomes,741,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070439
+3,dom 26/08/2018,13:00,UD Oliveirense,Cova da Piedade,4-4-2 duplo 6,Eurico Gomes,464,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070451
+4,sáb 01/09/2018,13:00,Cova da Piedade,Estoril,4-4-2 duplo 6,Eurico Gomes,749,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070475
+5,sáb 22/09/2018,13:00,Penafiel,Cova da Piedade,4-3-3 ofensivo,Hugo Falcão,571,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070494
+6,sáb 06/10/2018,07:00,Cova da Piedade,Benfica B,4-3-3 ofensivo,Hugo Falcão,748,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070500
+7,sáb 27/10/2018,11:00,Farense,Cova da Piedade,4-1-4-1,Hugo Falcão,1352,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070513
+8,sáb 03/11/2018,12:00,Cova da Piedade,Arouca,4-1-4-1,Hugo Falcão,668,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070518
+9,dom 11/11/2018,13:00,FC Porto B,Cova da Piedade,4-4-2 duplo 6,Hugo Falcão,154,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070529
+10,sáb 01/12/2018,13:00,Cova da Piedade,Famalicão,4-3-3 defensivo,Hugo Falcão,679,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070539
+11,sáb 08/12/2018,13:00,Académico FC,Cova da Piedade,4-1-3-2,Hugo Falcão,315,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070548
+12,dom 16/12/2018,13:00,Cova da Piedade,Braga B,4-3-3 ofensivo,Hugo Falcão,223,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070555
+13,dom 23/12/2018,13:00,Leixões,Cova da Piedade,?,Hugo Falcão,737,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070579
+14,sáb 29/12/2018,09:00,Cova da Piedade,Mafra,?,Hugo Falcão,780,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070582
+15,sex 04/01/2019,18:30,Académica,Cova da Piedade,?,Hugo Falcão,2788,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070595
+16,qua 09/01/2019,15:00,Varzim,Cova da Piedade,?,Hugo Falcão,640,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070601
+17,dom 13/01/2019,09:15,Cova da Piedade,Paços Ferreira,3-1-4-2,Marcelo Chagas,704,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070611
+18,sáb 19/01/2019,13:00,Cova da Piedade,Vitória SC B,?,Miguel Leal,416,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070709
+19,qua 06/02/2019,15:00,Covilhã,Cova da Piedade,4-3-3 defensivo,Miguel Leal,351,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070767
+20,dom 03/02/2019,13:00,Cova da Piedade,UD Oliveirense,4-3-3 defensivo,Miguel Leal,632,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070779
+21,dom 10/02/2019,09:15,Estoril,Cova da Piedade,4-3-3 defensivo,Miguel Leal,814,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070783
+22,sáb 16/02/2019,13:00,Cova da Piedade,Penafiel,4-3-3 defensivo,Miguel Leal,1050,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070794
+23,dom 24/02/2019,08:15,Benfica B,Cova da Piedade,4-2-3-1,Miguel Leal,788,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070800
+24,dom 03/03/2019,12:00,Cova da Piedade,Farense,4-3-3 defensivo,Miguel Leal,1675,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070812
+25,dom 10/03/2019,14:00,Arouca,Cova da Piedade,4-3-3 defensivo,Miguel Leal,900,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070818
+26,dom 17/03/2019,12:00,Cova da Piedade,FC Porto B,4-3-3 ofensivo,Miguel Leal,1943,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070830
+27,dom 31/03/2019,14:00,Famalicão,Cova da Piedade,4-3-3 defensivo,Miguel Leal,4011,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070838
+28,sáb 06/04/2019,12:00,Cova da Piedade,Académico FC,4-3-3 defensivo,Miguel Leal,1174,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070847
+29,sex 12/04/2019,12:00,Braga B,Cova da Piedade,4-3-3 defensivo,Miguel Leal,453,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070854
+30,sex 19/04/2019,12:00,Cova da Piedade,Leixões,4-3-3 defensivo,Miguel Leal,1198,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070871
+31,sáb 27/04/2019,12:00,Mafra,Cova da Piedade,4-3-3 defensivo,Miguel Leal,701,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070873
+32,sáb 04/05/2019,12:00,Cova da Piedade,Académica,4-3-3 defensivo,Miguel Leal,1290,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070887
+33,dom 12/05/2019,12:00,Cova da Piedade,Varzim,4-3-3 defensivo,Miguel Leal,1310,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070892
+34,dom 19/05/2019,11:00,Paços Ferreira,Cova da Piedade,4-3-3 defensivo,Miguel Leal,7873,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070901

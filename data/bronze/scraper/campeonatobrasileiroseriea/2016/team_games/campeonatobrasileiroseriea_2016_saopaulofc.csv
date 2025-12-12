@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 15/05/2016,11:00,Botafogo,São Paulo,4-2-3-1,Edgardo Bauza,5465,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2684555
+2,dom 22/05/2016,16:00,São Paulo,Internacional,4-2-3-1,Edgardo Bauza,19509,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2684567
+3,qua 25/05/2016,21:45,Coritiba,São Paulo,4-2-3-1,Edgardo Bauza,10830,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2694651
+4,dom 29/05/2016,16:00,São Paulo,Palmeiras,4-2-3-1,Edgardo Bauza,21016,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2694660
+5,qua 01/06/2016,21:45,Figueirense,São Paulo,4-2-3-1,Edgardo Bauza,5834,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2695572
+6,dom 05/06/2016,18:30,Cruzeiro,São Paulo,4-2-3-1,Edgardo Bauza,18905,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2695592
+7,sáb 11/06/2016,21:00,São Paulo,Atlético-PR,4-4-2 duplo 6,Edgardo Bauza,12389,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2696874
+8,qua 15/06/2016,19:30,São Paulo,Vitória,4-4-2 duplo 6,Edgardo Bauza,9213,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698561
+9,dom 19/06/2016,16:00,Flamengo,São Paulo,4-3-1-2,Edgardo Bauza,27233,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698577
+10,qui 23/06/2016,21:00,São Paulo,Sport,4-2-3-1,Edgardo Bauza,11145,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698588
+11,dom 26/06/2016,16:00,Santos,São Paulo,4-4-2 duplo 6,Edgardo Bauza,19748,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702135
+12,qua 29/06/2016,21:45,São Paulo,Fluminense,4-2-3-1,Edgardo Bauza,10323,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702147
+13,dom 03/07/2016,16:00,Ponte Preta,São Paulo,?,Edgardo Bauza,5551,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2708409
+14,dom 10/07/2016,16:00,São Paulo,América-MG,4-2-3-1,Edgardo Bauza,8198,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2708420
+15,dom 17/07/2016,16:00,Corinthians,São Paulo,?,Edgardo Bauza,42099,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713337
+16,dom 24/07/2016,16:00,Grêmio,São Paulo,?,Edgardo Bauza,37069,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713358
+17,dom 31/07/2016,11:00,São Paulo,Chapecoense,4-2-3-1,Edgardo Bauza,54996,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713364
+18,qua 03/08/2016,19:30,São Paulo,Atlético-MG,?,Edgardo Bauza,15717,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713381
+19,dom 07/08/2016,16:15,Santa Cruz,São Paulo,?,André Jardine,12705,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713396
+20,dom 14/08/2016,16:15,São Paulo,Botafogo,?,André Jardine,14399,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713415
+21,dom 21/08/2016,19:00,Internacional,São Paulo,?,Ricardo Gomes,23079,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2767850
+22,dom 28/08/2016,19:30,São Paulo,Coritiba,4-2-3-1,Ricardo Gomes,7836,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2767860
+23,qua 07/09/2016,22:45,Palmeiras,São Paulo,4-3-3 defensivo,Ricardo Gomes,39944,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770074
+24,dom 11/09/2016,12:00,São Paulo,Figueirense,?,Ricardo Gomes,27365,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770081
+25,qui 15/09/2016,22:00,São Paulo,Cruzeiro,?,Ricardo Gomes,15566,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770098
+26,dom 18/09/2016,17:00,Atlético-PR,São Paulo,4-2-3-1,Ricardo Gomes,15216,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770104
+27,dom 25/09/2016,17:00,Vitória,São Paulo,4-2-3-1,Ricardo Gomes,5651,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770157
+28,sáb 01/10/2016,17:00,São Paulo,Flamengo,4-2-3-1,Ricardo Gomes,29813,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770161
+29,qua 05/10/2016,22:45,Sport,São Paulo,4-2-3-1,Ricardo Gomes,10301,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770174
+30,qua 12/10/2016,22:00,São Paulo,Santos,4-2-3-1,Ricardo Gomes,29314,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770187
+31,seg 17/10/2016,22:00,Fluminense,São Paulo,4-2-3-1,Ricardo Gomes,6664,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770199
+32,sáb 22/10/2016,19:00,São Paulo,Ponte Preta,4-2-3-1,Ricardo Gomes,49673,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770201
+33,seg 31/10/2016,20:00,América-MG,São Paulo,4-2-3-1,Ricardo Gomes,5014,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770219
+34,sáb 05/11/2016,19:30,São Paulo,Corinthians,4-2-3-1,Ricardo Gomes,53781,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770229
+35,qui 17/11/2016,19:30,São Paulo,Grêmio,4-2-3-1,Ricardo Gomes,21933,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2778082
+36,dom 20/11/2016,19:30,Chapecoense,São Paulo,4-2-3-1,Ricardo Gomes,8163,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2778093
+37,dom 27/11/2016,17:00,Atlético-MG,São Paulo,4-2-3-1,Pintado,8901,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2798384
+38,dom 11/12/2016,17:00,São Paulo,Santa Cruz,4-2-3-1,Pintado,17659,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2798934

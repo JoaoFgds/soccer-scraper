@@ -1,0 +1,31 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 23/08/2019,14:50,Al-Ittihad,Al-Raed,4-3-3 ofensivo,José Luis Sierra,31781,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3224611
+2,ter 01/10/2019,14:10,Al-Ittihad,Al-Taawoun,4-2-3-1,José Luis Sierra,10350,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3224630
+3,sex 13/09/2019,12:50,Damac FC,Al-Ittihad,4-2-3-1,José Luis Sierra,14680,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3224656
+4,sáb 21/09/2019,14:20,Al-Ittihad,Al-Hilal,4-3-1-2,José Luis Sierra,,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3224670
+5,sex 27/09/2019,12:25,Al-Shabab,Al-Ittihad,4-3-1-2,José Luis Sierra,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3252140
+6,sex 04/10/2019,14:10,Al-Ittihad,Al-Hazem,4-3-1-2,José Luis Sierra,20244,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3252182
+7,sáb 19/10/2019,14:00,Al-Wehda,Al-Ittihad,4-2-3-1,José Luis Sierra,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3254898
+8,dom 27/10/2019,14:25,Al-Ittihad,Abha,4-3-1-2,Mohammed Al-Abdali,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3254909
+9,qui 31/10/2019,13:50,Al-Ahli,Al-Ittihad,4-3-1-2,Mohammed Al-Abdali,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3256126
+10,dom 24/11/2019,13:30,Al-Ettifaq,Al-Ittihad,4-2-3-1,,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3256145
+11,sáb 14/12/2019,15:45,Al-Ittihad,Al-Faisaly,4-1-4-1,Henk ten Cate,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3256154
+12,qui 19/12/2019,11:15,Al-Fayha,Al-Ittihad,4-3-1-2,Henk ten Cate,,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3256731
+13,sáb 28/12/2019,15:50,Al-Ittihad,Al-Fateh,4-3-3 defensivo,Henk ten Cate,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3256738
+14,sex 10/01/2020,16:05,Al-Nassr,Al-Ittihad,4-3-3 ofensivo,Henk ten Cate,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3256752
+15,sáb 25/01/2020,14:10,Al-Ittihad,Al-Adalah,4-1-4-1,Henk ten Cate,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3256755
+16,sex 31/01/2020,14:15,Al-Raed,Al-Ittihad,4-1-4-1,Henk ten Cate,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3304522
+17,qua 05/02/2020,12:25,Al-Taawoun,Al-Ittihad,4-1-4-1,Henk ten Cate,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3304684
+18,seg 10/02/2020,16:20,Al-Ittihad,Damac FC,4-4-1-1,Henk ten Cate,7404,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3305028
+19,sáb 22/02/2020,14:30,Al-Hilal,Al-Ittihad,4-3-3 ofensivo,Fábio Carille,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3305043
+20,sáb 29/02/2020,14:40,Al-Ittihad,Al-Shabab,4-3-3 ofensivo,Fábio Carille,,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3305051
+21,qui 05/03/2020,12:45,Al-Hazem,Al-Ittihad,4-3-3 ofensivo,Fábio Carille,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3307732
+22,qua 11/03/2020,14:45,Al-Ittihad,Al-Wehda,4-2-3-1,Fábio Carille,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3314288
+23,ter 04/08/2020,13:15,Abha,Al-Ittihad,4-3-3 ofensivo,Fábio Carille,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3314305
+24,dom 09/08/2020,15:00,Al-Ittihad,Al-Ahli,4-3-3 ofensivo,Fábio Carille,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3314324
+25,sex 14/08/2020,14:50,Al-Ittihad,Al-Ettifaq,4-3-3 ofensivo,Fábio Carille,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3316154
+26,qua 19/08/2020,13:05,Al-Faisaly,Al-Ittihad,4-3-3 ofensivo,Fábio Carille,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3316158
+27,seg 24/08/2020,14:50,Al-Ittihad,Al-Fayha,4-3-3 ofensivo,Fábio Carille,,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3328095
+28,dom 30/08/2020,12:40,Al-Fateh,Al-Ittihad,4-3-3 ofensivo,Fábio Carille,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3328100
+29,sex 04/09/2020,14:35,Al-Ittihad,Al-Nassr,4-4-1-1,Fábio Carille,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3328110
+30,qua 09/09/2020,15:35,Al-Adalah,Al-Ittihad,4-3-3 ofensivo,Fábio Carille,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3328115

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 16/04/2006,14:00,Santa Cruz,Figueirense,?,Giba,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530300
+2,dom 23/04/2006,14:00,Internacional,Santa Cruz,?,Giba,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530310
+3,sáb 29/04/2006,16:10,São Paulo,Santa Cruz,4-4-2 duplo 6,Giba,,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530315
+4,sáb 06/05/2006,14:00,Santa Cruz,Ponte Preta,?,Giba,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530324
+5,dom 14/05/2006,14:00,Santa Cruz,Atlético-PR,4-1-3-2,Valdir Espinosa,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530337
+6,dom 21/05/2006,14:00,Palmeiras,Santa Cruz,?,Valdir Espinosa,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530350
+7,qua 24/05/2006,17:30,Juventude,Santa Cruz,?,Renê Simões,,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530364
+8,dom 28/05/2006,14:00,Santa Cruz,Botafogo,?,Renê Simões,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530377
+9,qui 01/06/2006,18:30,Paraná,Santa Cruz,?,Renê Simões,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530392
+10,dom 04/06/2006,14:00,Vasco da Gama,Santa Cruz,?,Renê Simões,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530487
+11,qui 13/07/2006,18:30,Santa Cruz,Goiás,?,Renê Simões,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530518
+12,dom 16/07/2006,16:10,Fortaleza,Santa Cruz,?,Renê Simões,,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530516
+13,dom 23/07/2006,14:00,Santa Cruz,Flamengo,?,Renê Simões,30412,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530525
+14,dom 30/07/2006,14:00,Santa Cruz,Corinthians,?,Mauricio Simões,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530588
+15,dom 06/08/2006,16:10,Cruzeiro,Santa Cruz,?,Mauricio Simões,,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530602
+16,sáb 12/08/2006,14:00,São Caetano,Santa Cruz,?,Renê Simões,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530894
+17,qua 16/08/2006,17:30,Santa Cruz,Grêmio,?,Renê Simões,13261,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530906
+18,dom 20/08/2006,14:00,Fluminense,Santa Cruz,?,Renê Simões,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530916
+19,ter 22/08/2006,20:00,Santa Cruz,Santos,?,Renê Simões,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530928
+20,dom 27/08/2006,16:10,Figueirense,Santa Cruz,?,Renê Simões,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530943
+21,qua 30/08/2006,17:30,Santa Cruz,Internacional,?,Renê Simões,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530947
+22,dom 03/09/2006,16:10,Santa Cruz,São Paulo,?,Renê Simões,,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530966
+23,sáb 09/09/2006,14:00,Ponte Preta,Santa Cruz,?,Dado Cavalcanti,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530968
+24,sáb 16/09/2006,14:00,Atlético-PR,Santa Cruz,?,Dado Cavalcanti,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2531410
+25,qui 21/09/2006,18:30,Santa Cruz,Palmeiras,?,Fito Neves,,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2531429
+26,dom 24/09/2006,14:00,Santa Cruz,Juventude,?,Dado Cavalcanti,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2532148
+27,qui 05/10/2006,18:30,Botafogo,Santa Cruz,?,Dado Cavalcanti,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2532159
+28,dom 08/10/2006,14:00,Santa Cruz,Paraná,?,Dado Cavalcanti,,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2532357
+29,dom 15/10/2006,16:10,Santa Cruz,Vasco da Gama,?,Dado Cavalcanti,,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2532445
+30,sáb 21/10/2006,14:00,Goiás,Santa Cruz,?,Dado Cavalcanti,,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2532941
+31,qui 26/10/2006,18:30,Santa Cruz,Fortaleza,?,Dado Cavalcanti,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2533305
+32,qua 01/11/2006,18:30,Flamengo,Santa Cruz,?,Dado Cavalcanti,9464,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2533312
+33,sáb 04/11/2006,17:10,Corinthians,Santa Cruz,?,Fito Neves,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2533329
+34,qui 09/11/2006,20:30,Santa Cruz,Cruzeiro,?,Fito Neves,,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2533560
+35,dom 12/11/2006,18:10,Santa Cruz,São Caetano,?,Dado Cavalcanti,,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2533974
+36,sáb 18/11/2006,18:10,Grêmio,Santa Cruz,?,Fito Neves,28476,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2533975
+37,dom 26/11/2006,16:00,Santa Cruz,Fluminense,?,Dado Cavalcanti,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2533993
+38,dom 03/12/2006,16:00,Santos,Santa Cruz,?,Dado Cavalcanti,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2534003

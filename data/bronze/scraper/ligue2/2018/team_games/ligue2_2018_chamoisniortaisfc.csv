@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 27/07/2018,15:00,Red Star FC,Chamois Niort,4-2-3-1,Patrice Lair,2955,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047908
+2,sex 03/08/2018,15:00,Chamois Niort,Clermont Foot,4-2-3-1,Patrice Lair,3619,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047916
+3,sex 10/08/2018,15:00,Grenoble,Chamois Niort,4-2-3-1,Patrice Lair,6265,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047924
+4,sex 17/08/2018,15:00,Chamois Niort,US Orléans,4-2-3-1,Patrice Lair,3516,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047937
+5,sex 24/08/2018,15:00,AS Nancy,Chamois Niort,4-3-3 ofensivo,Patrice Lair,9096,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047945
+6,sex 31/08/2018,15:00,Chamois Niort,AC Ajaccio,4-2-3-1,Patrice Lair,3565,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047956
+7,sex 14/09/2018,15:00,Troyes,Chamois Niort,4-3-1-2,Patrice Lair,5690,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047969
+8,seg 24/09/2018,15:45,Chamois Niort,Lens,4-2-3-1,Patrice Lair,4683,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047976
+9,sex 28/09/2018,15:00,AS Béziers,Chamois Niort,4-2-3-1,Patrice Lair,2439,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047981
+10,sex 05/10/2018,15:00,Chamois Niort,Paris FC,4-2-3-1,Patrice Lair,3397,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047996
+11,sex 19/10/2018,15:00,FC Metz,Chamois Niort,4-2-3-1,Patrice Lair,10280,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048005
+12,sex 26/10/2018,15:00,FC Sochaux,Chamois Niort,4-2-3-1,Patrice Lair,7151,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048077
+13,sáb 03/11/2018,11:00,Chamois Niort,Le Havre,4-2-3-1,Patrice Lair,4265,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048085
+14,sex 09/11/2018,17:00,Auxerre,Chamois Niort,4-2-3-1,Patrice Lair,4162,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048090
+15,sex 23/11/2018,17:00,Chamois Niort,LB Châteauroux,4-2-3-1,Patrice Lair,2957,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048104
+16,sex 30/11/2018,17:00,G. Ajaccio,Chamois Niort,4-2-3-1,Patrice Lair,2360,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048115
+17,ter 04/12/2018,18:00,Chamois Niort,Valenciennes,4-4-1-1,Patrice Lair,2969,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048137
+18,sex 14/12/2018,17:00,FC Lorient,Chamois Niort,4-2-3-1,Jean-Philippe Faure,5996,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048152
+19,sex 21/12/2018,17:30,Chamois Niort,Brest,4-2-3-1,Jean-Philippe Faure,3446,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048175
+20,sex 11/01/2019,17:00,Clermont Foot,Chamois Niort,4-2-3-1,Jean-Philippe Faure,1893,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048210
+21,sáb 19/01/2019,12:00,Chamois Niort,Grenoble,4-2-3-1,Pascal Plancque,3353,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048232
+22,sáb 26/01/2019,12:00,US Orléans,Chamois Niort,4-5-1 plano,Pascal Plancque,3169,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048241
+23,sex 01/02/2019,17:00,Chamois Niort,AS Nancy,4-2-3-1,Pascal Plancque,2859,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048266
+24,sex 08/02/2019,17:00,AC Ajaccio,Chamois Niort,4-4-1-1,Pascal Plancque,2326,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048269
+25,sex 15/02/2019,17:00,Chamois Niort,Troyes,4-2-3-1,Pascal Plancque,2984,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048285
+26,seg 25/02/2019,16:45,Lens,Chamois Niort,4-2-3-1,Pascal Plancque,22604,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048293
+27,sex 01/03/2019,16:00,Chamois Niort,AS Béziers,4-2-3-1,Pascal Plancque,2890,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048809
+28,sex 08/03/2019,16:00,Paris FC,Chamois Niort,4-2-3-1,Pascal Plancque,2771,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048821
+29,sex 15/03/2019,16:00,Chamois Niort,FC Metz,4-4-1-1,Pascal Plancque,3307,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048895
+30,sex 29/03/2019,16:00,Chamois Niort,FC Sochaux,4-3-3 ofensivo,Pascal Plancque,3104,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048905
+31,sex 05/04/2019,15:00,Le Havre,Chamois Niort,4-2-3-1,Pascal Plancque,6435,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048914
+32,sex 12/04/2019,15:00,Chamois Niort,Auxerre,4-2-3-1,Pascal Plancque,3918,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048924
+33,sex 19/04/2019,15:00,LB Châteauroux,Chamois Niort,4-4-1-1,Pascal Plancque,3202,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048932
+34,ter 23/04/2019,15:00,Chamois Niort,G. Ajaccio,4-4-1-1,Pascal Plancque,3106,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048945
+35,sex 26/04/2019,15:00,Valenciennes,Chamois Niort,4-4-1-1,Pascal Plancque,11743,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048958
+36,seg 06/05/2019,15:45,Chamois Niort,FC Lorient,4-2-3-1,Pascal Plancque,4442,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048965
+37,sex 10/05/2019,15:45,Brest,Chamois Niort,4-4-2 duplo 6,Pascal Plancque,14927,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048971
+38,sex 17/05/2019,15:45,Chamois Niort,Red Star FC,4-4-1-1,Pascal Plancque,3613,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048985

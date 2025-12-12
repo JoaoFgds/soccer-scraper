@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 08/08/2015,13:00,CD Aves,Covilhã,4-2-3-1,Francisco Chaló,639,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2586597
+2,dom 16/08/2015,07:15,Covilhã,Chaves,4-3-3 ofensivo,Francisco Chaló,688,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2607192
+3,dom 23/08/2015,07:15,Gil Vicente,Covilhã,4-3-3 ofensivo,Francisco Chaló,652,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609255
+4,qua 26/08/2015,12:00,Covilhã,Sporting B,4-3-3 defensivo,Francisco Chaló,671,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611423
+5,dom 30/08/2015,12:00,Feirense,Covilhã,4-2-3-1,Francisco Chaló,731,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611441
+6,sáb 12/09/2015,12:00,Covilhã,Farense,4-3-3 ofensivo,Francisco Chaló,405,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613779
+7,dom 11/10/2015,11:00,Mafra,Covilhã,4-1-4-1,Francisco Chaló,453,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613793
+8,dom 20/09/2015,12:00,Portimonense,Covilhã,4-3-3 defensivo,Francisco Chaló,653,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613808
+9,qua 30/09/2015,12:00,Covilhã,Braga B,4-3-3 ofensivo,Francisco Chaló,259,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613818
+10,sáb 03/10/2015,12:00,Santa Clara,Covilhã,4-2-3-1,Francisco Chaló,542,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614271
+11,ter 20/10/2015,13:00,Covilhã,Benfica B,4-3-3 ofensivo,Francisco Chaló,567,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614283
+12,dom 25/10/2015,14:00,Penafiel,Covilhã,4-3-1-2,Francisco Chaló,537,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614295
+13,sáb 31/10/2015,13:00,Covilhã,Freamunde,4-3-3 ofensivo,Francisco Chaló,225,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614302
+14,dom 15/11/2015,14:00,Famalicão,Covilhã,4-2-3-1,Francisco Chaló,2850,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614353
+15,dom 08/11/2015,13:00,Covilhã,Oriental,4-1-3-2,Francisco Chaló,222,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614387
+16,dom 22/11/2015,13:00,Leixões,Covilhã,4-2-3-1,Francisco Chaló,1007,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614404
+17,dom 29/11/2015,09:15,Covilhã,FC Porto B,4-2-3-1,Francisco Chaló,235,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614410
+18,qua 02/12/2015,13:00,Atlético CP,Covilhã,4-2-3-1,Francisco Chaló,201,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614421
+19,dom 06/12/2015,13:00,Covilhã,Varzim,4-2-3-1,Francisco Chaló,300,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614436
+20,qua 09/12/2015,13:00,Olhanense,Covilhã,4-2-3-1,Francisco Chaló,279,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614573
+21,dom 13/12/2015,13:00,Covilhã,Vitória SC B,4-1-4-1,Francisco Chaló,129,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614596
+22,dom 20/12/2015,13:00,UD Oliveirense,Covilhã,4-2-3-1,Francisco Chaló,466,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614612
+23,dom 03/01/2016,13:00,Covilhã,Académico FC,4-2-3-1,Francisco Chaló,180,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614618
+24,dom 10/01/2016,13:00,Covilhã,CD Aves,4-2-3-1,Francisco Chaló,115,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614631
+25,dom 17/01/2016,14:00,Chaves,Covilhã,4-2-3-1,Francisco Chaló,2769,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614659
+26,sáb 23/01/2016,13:00,Covilhã,Gil Vicente,4-3-3 ofensivo,Francisco Chaló,202,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614685
+27,dom 31/01/2016,13:00,Sporting B,Covilhã,4-2-3-1,Francisco Chaló,268,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614698
+28,dom 07/02/2016,13:00,Covilhã,Feirense,?,Francisco Chaló,365,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614715
+29,sáb 13/02/2016,13:00,Farense,Covilhã,?,Francisco Chaló,804,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614724
+30,qua 17/02/2016,13:00,Covilhã,Mafra,?,Francisco Chaló,214,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614742
+31,dom 21/02/2016,12:00,Covilhã,Portimonense,?,Francisco Chaló,423,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614758
+32,sáb 27/02/2016,12:00,Braga B,Covilhã,4-2-3-1,Francisco Chaló,200,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614768
+33,sáb 05/03/2016,12:00,Covilhã,Santa Clara,?,Francisco Chaló,236,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614781
+34,qua 09/03/2016,11:30,Benfica B,Covilhã,?,Francisco Chaló,261,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615129
+35,dom 13/03/2016,12:00,Covilhã,Penafiel,4-4-2 duplo 6,Francisco Chaló,536,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615142
+36,sáb 26/03/2016,12:00,Freamunde,Covilhã,4-2-3-1,Francisco Chaló,932,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615149
+37,dom 20/03/2016,12:00,Covilhã,Famalicão,?,Francisco Chaló,522,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615192
+38,sáb 02/04/2016,12:00,Oriental,Covilhã,?,Francisco Chaló,494,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615209
+39,qua 06/04/2016,12:00,Covilhã,Leixões,4-3-3 ofensivo,Francisco Chaló,250,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615234
+40,dom 10/04/2016,11:00,FC Porto B,Covilhã,?,Francisco Chaló,459,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615260
+41,qua 13/04/2016,12:00,Covilhã,Atlético CP,?,Francisco Chaló,144,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615270
+42,dom 17/04/2016,12:00,Varzim,Covilhã,?,Francisco Chaló,1095,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615293
+43,dom 24/04/2016,12:00,Covilhã,Olhanense,4-3-3 defensivo,Francisco Chaló,270,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615309
+44,sáb 30/04/2016,12:00,Vitória SC B,Covilhã,?,Francisco Chaló,1085,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615324
+45,dom 08/05/2016,12:00,Covilhã,UD Oliveirense,4-3-3 ofensivo,Francisco Chaló,160,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615353
+46,sáb 14/05/2016,11:00,Académico FC,Covilhã,?,Francisco Chaló,2142,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615362

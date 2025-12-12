@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qua 30/09/2020,21:30,Corinthians,Atlético-GO,4-4-2,Dyego Coelho,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417542
+2,ter 11/08/2020,19:15,Atlético-MG,Corinthians,4-2-3-1,Tiago Nunes,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3411140
+3,sáb 15/08/2020,19:00,Grêmio,Corinthians,4-2-3-1,Tiago Nunes,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416078
+4,qua 19/08/2020,21:30,Corinthians,Coritiba,4-2-3-1,Tiago Nunes,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416223
+5,qua 26/08/2020,21:30,Corinthians,Fortaleza,4-2-3-1,Tiago Nunes,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416100
+6,dom 30/08/2020,11:00,São Paulo,Corinthians,4-2-3-1,Tiago Nunes,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416113
+7,qua 02/09/2020,19:15,Goiás,Corinthians,4-2-3-1,Tiago Nunes,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416120
+8,sáb 05/09/2020,19:00,Corinthians,Botafogo,4-2-3-1,Tiago Nunes,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416130
+9,qui 10/09/2020,19:15,Corinthians,Palmeiras,4-2-3-1,Tiago Nunes,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416169
+10,dom 13/09/2020,16:00,Fluminense,Corinthians,4-3-1-2,Dyego Coelho,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416239
+11,qua 16/09/2020,21:30,Corinthians,Bahia,4-2-3-1,Dyego Coelho,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417535
+12,qua 23/09/2020,21:30,Sport,Corinthians,4-2-3-1,Dyego Coelho,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417551
+13,sáb 03/10/2020,21:00,Bragantino,Corinthians,4-2-3-1,Dyego Coelho,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417558
+14,qua 07/10/2020,19:00,Corinthians,Santos,4-4-2,Dyego Coelho,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417569
+15,dom 11/10/2020,20:30,Ceará,Corinthians,4-4-2,Dyego Coelho,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417583
+16,qua 14/10/2020,21:30,Athletico-PR,Corinthians,4-3-3 ofensivo,Vagner Mancini,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417592
+17,dom 18/10/2020,16:00,Corinthians,Flamengo,4-2-3-1,Vagner Mancini,x,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417599
+18,qua 21/10/2020,21:30,Vasco da Gama,Corinthians,4-4-2 duplo 6,Vagner Mancini,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417606
+19,sáb 31/10/2020,19:00,Corinthians,Internacional,4-2-3-1,Vagner Mancini,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417619
+20,sáb 07/11/2020,21:00,Atlético-GO,Corinthians,4-2-3-1,Vagner Mancini,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417629
+21,sáb 14/11/2020,19:00,Corinthians,Atlético-MG,4-4-2,Vagner Mancini,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417639
+22,dom 22/11/2020,19:30,Corinthians,Grêmio,4-2-3-1,Vagner Mancini,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417661
+23,qua 25/11/2020,20:30,Coritiba,Corinthians,4-3-2-1,Vagner Mancini,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417668
+24,qua 02/12/2020,20:30,Fortaleza,Corinthians,4-2-3-1,Vagner Mancini,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417649
+25,dom 13/12/2020,17:15,Corinthians,São Paulo,4-2-3-1,Vagner Mancini,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417677
+26,seg 21/12/2020,19:00,Corinthians,Goiás,4-2-3-1,Vagner Mancini,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417704
+27,dom 27/12/2020,16:00,Botafogo,Corinthians,4-2-3-1,Vagner Mancini,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417690
+28,seg 18/01/2021,18:00,Palmeiras,Corinthians,4-2-3-1,Vagner Mancini,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417503
+29,qua 13/01/2021,20:30,Corinthians,Fluminense,4-2-3-1,Vagner Mancini,x,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417515
+30,qui 28/01/2021,19:00,Bahia,Corinthians,4-2-3-1,Vagner Mancini,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417527
+31,qui 21/01/2021,21:00,Corinthians,Sport,4-2-3-1,Vagner Mancini,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417709
+32,seg 25/01/2021,20:00,Corinthians,Bragantino,4-2-3-1,Vagner Mancini,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417808
+33,qua 17/02/2021,18:00,Santos,Corinthians,4-2-3-1,Vagner Mancini,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418069
+34,qua 03/02/2021,20:30,Corinthians,Ceará,4-2-3-1,Vagner Mancini,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418080
+35,qua 10/02/2021,20:30,Corinthians,Athletico-PR,4-2-3-1,Vagner Mancini,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418090
+36,dom 14/02/2021,16:00,Flamengo,Corinthians,4-2-3-1,Vagner Mancini,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418096
+37,dom 21/02/2021,16:00,Corinthians,Vasco da Gama,4-2-3-1,Vagner Mancini,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418110
+38,qui 25/02/2021,21:30,Internacional,Corinthians,4-2-3-1,Vagner Mancini,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418121

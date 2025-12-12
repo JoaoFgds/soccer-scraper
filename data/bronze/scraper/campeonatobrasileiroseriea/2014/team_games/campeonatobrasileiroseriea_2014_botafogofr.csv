@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 20/04/2014,16:00,São Paulo,Botafogo,4-4-2 duplo 6,Vagner Mancini,31564,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454181
+2,dom 27/04/2014,16:00,Botafogo,Internacional,4-4-2 duplo 6,Vagner Mancini,9995,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454190
+3,dom 04/05/2014,16:00,Bahia,Botafogo,?,Vagner Mancini,16040,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454336
+4,sáb 10/05/2014,21:00,Botafogo,Criciúma,?,Vagner Mancini,4992,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454342
+5,qua 14/05/2014,22:00,Goiás,Botafogo,?,Vagner Mancini,9737,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454361
+6,qua 21/05/2014,22:00,Grêmio,Botafogo,4-3-3 ofensivo,Vagner Mancini,7010,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454369
+7,dom 25/05/2014,18:30,Botafogo,Vitória,?,Vagner Mancini,2759,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454372
+8,ter 27/05/2014,19:30,Palmeiras,Botafogo,4-4-1-1,Vagner Mancini,5681,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454385
+9,sáb 11/10/2014,18:30,Botafogo,Corinthians,4-3-1-2,Vagner Mancini,21969,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454392
+10,qua 16/07/2014,19:30,Sport,Botafogo,?,Vagner Mancini,18532,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454403
+11,sáb 19/07/2014,21:00,Botafogo,Coritiba,4-3-3 defensivo,Vagner Mancini,1594,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454412
+12,dom 27/07/2014,18:30,Flamengo,Botafogo,4-3-1-2,Vagner Mancini,52378,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454422
+13,sáb 02/08/2014,18:30,Botafogo,Cruzeiro,4-3-1-2,Vagner Mancini,13535,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454432
+14,dom 10/08/2014,16:00,Atlético-PR,Botafogo,4-3-1-2,Vagner Mancini,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454446
+15,dom 17/08/2014,18:30,Botafogo,Fluminense,4-4-2 duplo 6,Vagner Mancini,29185,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454452
+16,qua 20/08/2014,19:30,Figueirense,Botafogo,?,Vagner Mancini,6823,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454470
+17,sáb 23/08/2014,18:30,Botafogo,Chapecoense,4-4-2 duplo 6,Vagner Mancini,18450,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454472
+18,dom 31/08/2014,16:00,Botafogo,Santos,?,Vagner Mancini,14285,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454482
+19,dom 07/09/2014,16:00,Atlético-MG,Botafogo,4-3-3 defensivo,Vagner Mancini,18588,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454497
+20,qua 10/09/2014,22:00,Botafogo,São Paulo,4-2-3-1,Vagner Mancini,24857,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454502
+21,dom 14/09/2014,16:00,Internacional,Botafogo,4-3-3 defensivo,Vagner Mancini,16456,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454519
+22,qua 17/09/2014,22:00,Botafogo,Bahia,?,Vagner Mancini,5216,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454522
+23,sáb 20/09/2014,21:00,Criciúma,Botafogo,?,Vagner Mancini,8548,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454540
+24,qui 25/09/2014,19:30,Botafogo,Goiás,?,Vagner Mancini,7056,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454542
+25,dom 28/09/2014,16:00,Botafogo,Grêmio,?,Vagner Mancini,12498,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454552
+26,sáb 04/10/2014,16:20,Vitória,Botafogo,?,Vagner Mancini,9505,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454568
+27,qua 08/10/2014,19:30,Botafogo,Palmeiras,4-3-1-2,Vagner Mancini,10200,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454572
+28,dom 01/06/2014,14:00,Corinthians,Botafogo,4-4-2 duplo 6,Vagner Mancini,37119,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2523331
+29,dom 19/10/2014,18:30,Botafogo,Sport,4-2-3-1,Vagner Mancini,3059,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454592
+30,qua 22/10/2014,21:00,Coritiba,Botafogo,?,Vagner Mancini,8106,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454606
+31,sáb 25/10/2014,21:00,Botafogo,Flamengo,4-3-1-2,Vagner Mancini,42391,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454612
+32,dom 02/11/2014,17:00,Cruzeiro,Botafogo,4-3-1-2,Vagner Mancini,36004,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454627
+33,sáb 08/11/2014,21:00,Botafogo,Atlético-PR,4-4-2 duplo 6,Vagner Mancini,3187,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454632
+34,sáb 15/11/2014,19:30,Fluminense,Botafogo,4-3-1-2,Vagner Mancini,22608,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454643
+35,qua 19/11/2014,19:30,Botafogo,Figueirense,?,Vagner Mancini,8250,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454652
+36,dom 23/11/2014,19:30,Chapecoense,Botafogo,?,Vagner Mancini,14343,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454671
+37,dom 30/11/2014,17:00,Santos,Botafogo,?,Vagner Mancini,4269,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454675
+38,dom 07/12/2014,17:00,Botafogo,Atlético-MG,4-3-3 ofensivo,Vagner Mancini,3694,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454682

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 10/04/2022,19:00,Avaí,América-MG,4-3-3 ofensivo,Eduardo Barroca,5081,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767780
+2,sáb 16/04/2022,19:00,Corinthians,Avaí,4-1-4-1,Eduardo Barroca,30335,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767785
+3,seg 25/04/2022,20:00,Avaí,Goiás,4-3-3 ofensivo,Eduardo Barroca,5883,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767800
+4,dom 01/05/2022,19:00,Internacional,Avaí,4-3-3 ofensivo,Eduardo Barroca,23823,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767827
+5,seg 09/05/2022,20:00,Avaí,Coritiba,4-3-3 ofensivo,Eduardo Barroca,8548,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767820
+6,dom 15/05/2022,18:00,Avaí,Juventude,4-2-3-1,Eduardo Barroca,9355,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767810
+7,dom 22/05/2022,19:00,Athletico-PR,Avaí,4-3-3 ofensivo,Eduardo Barroca,15949,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767841
+8,dom 29/05/2022,19:00,Atlético-MG,Avaí,4-1-4-1,Eduardo Barroca,31551,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767842
+9,sáb 04/06/2022,19:00,Avaí,São Paulo,4-3-3 ofensivo,Eduardo Barroca,11962,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767860
+10,qua 08/06/2022,20:30,Atlético-GO,Avaí,4-3-3 ofensivo,Eduardo Barroca,5251,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767889
+11,seg 13/06/2022,19:00,Botafogo,Avaí,4-1-4-1,Eduardo Barroca,12627,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767876
+12,qui 16/06/2022,19:00,Avaí,Fortaleza,4-1-4-1,Eduardo Barroca,8937,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767870
+13,sáb 18/06/2022,19:00,Fluminense,Avaí,4-1-4-1,Eduardo Barroca,15530,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767893
+14,sáb 25/06/2022,19:00,Avaí,Palmeiras,4-1-4-1,Eduardo Barroca,15233,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767910
+15,sáb 02/07/2022,19:00,Avaí,Cuiabá,4-3-3 ofensivo,Eduardo Barroca,13103,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767920
+16,sáb 09/07/2022,16:30,Bragantino,Avaí,4-3-3 ofensivo,Eduardo Barroca,3162,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768144
+17,sáb 16/07/2022,19:00,Avaí,Santos,4-1-4-1,Eduardo Barroca,8674,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768140
+18,ter 19/07/2022,21:30,Ceará,Avaí,4-2-3-1,Eduardo Barroca,37567,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768128
+19,dom 24/07/2022,11:00,Avaí,Flamengo,4-3-3 ofensivo,Eduardo Barroca,17557,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768120
+20,dom 31/07/2022,18:00,América-MG,Avaí,4-3-3 ofensivo,Eduardo Barroca,2215,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768102
+21,sáb 06/08/2022,19:00,Avaí,Corinthians,4-2-3-1,Eduardo Barroca,12648,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768100
+22,sáb 13/08/2022,16:30,Goiás,Avaí,4-3-3 ofensivo,Eduardo Barroca,10831,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768089
+23,seg 22/08/2022,20:00,Avaí,Internacional,4-3-3 ofensivo,Eduardo Barroca,13911,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768080
+24,sáb 27/08/2022,16:30,Coritiba,Avaí,4-3-3 ofensivo,Eduardo Barroca,17597,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768071
+25,sáb 03/09/2022,16:30,Juventude,Avaí,4-2-3-1,Eduardo Barroca,2708,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768057
+26,dom 11/09/2022,11:00,Avaí,Athletico-PR,4-2-3-1,Eduardo Barroca,9487,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768050
+27,sáb 17/09/2022,16:30,Avaí,Atlético-MG,4-2-3-1,Lisca,5081,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768040
+28,dom 25/09/2022,20:00,São Paulo,Avaí,4-2-3-1,Lisca,36510,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768004
+29,sáb 01/10/2022,19:00,Avaí,Atlético-GO,4-4-2 losango,Lisca,8062,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768020
+30,qui 06/10/2022,19:00,Avaí,Botafogo,4-1-4-1,Lisca,6097,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768030
+31,dom 09/10/2022,16:00,Fortaleza,Avaí,4-2-3-1,Lisca,40968,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767998
+32,dom 16/10/2022,19:00,Avaí,Fluminense,4-4-2,Lisca,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767990
+33,sáb 22/10/2022,21:00,Palmeiras,Avaí,4-2-3-1,Lisca,40044,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767975
+34,qui 27/10/2022,20:00,Cuiabá,Avaí,4-2-3-1,,4680,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767950
+35,qua 02/11/2022,19:00,Avaí,Bragantino,4-2-3-1,Fabrício Bento,3022,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767960
+36,sáb 05/11/2022,16:30,Santos,Avaí,4-5-1,Fabrício Bento,18686,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767966
+37,qua 09/11/2022,19:00,Avaí,Ceará,4-5-1,Fabrício Bento,2025,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767940
+38,dom 13/11/2022,16:00,Flamengo,Avaí,4-5-1,Fabrício Bento,63077,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767923

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 28/04/2019,16:00,Athletico-PR,Vasco da Gama,4-2-3-1,Tiago Nunes,12839,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3173973
+2,qua 01/05/2019,21:30,Fortaleza,Athletico-PR,4-2-3-1,Tiago Nunes,20578,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3180860
+3,dom 05/05/2019,11:00,Chapecoense,Athletico-PR,4-2-3-1,Tiago Nunes,6433,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3180866
+4,dom 12/05/2019,19:00,Athletico-PR,Bahia,4-2-3-1,Tiago Nunes,11087,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3180939
+5,dom 19/05/2019,16:00,Athletico-PR,Corinthians,4-1-4-1,Tiago Nunes,19409,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3180948
+6,dom 26/05/2019,16:00,Flamengo,Athletico-PR,4-2-3-1,Tiago Nunes,52667,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3180956
+7,dom 02/06/2019,16:00,Athletico-PR,Fluminense,4-2-3-1,Tiago Nunes,12548,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3181108
+8,sáb 08/06/2019,16:30,Palmeiras,Athletico-PR,4-2-3-1,Tiago Nunes,37086,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3181113
+9,qui 13/06/2019,20:00,Goiás,Athletico-PR,4-3-3 defensivo,Tiago Nunes,10468,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3181148
+10,dom 14/07/2019,16:00,Athletico-PR,Internacional,4-3-3 defensivo,Tiago Nunes,14063,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3193497
+11,sáb 20/07/2019,19:00,CSA,Athletico-PR,4-3-3 defensivo,Tiago Nunes,7845,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3193507
+12,sáb 27/07/2019,19:00,Cruzeiro,Athletico-PR,4-3-3 defensivo,Tiago Nunes,20869,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3193517
+13,qua 21/08/2019,19:15,Athletico-PR,São Paulo,4-3-3 defensivo,Tiago Nunes,21526,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195273
+14,dom 11/08/2019,16:00,Botafogo,Athletico-PR,4-2-3-1,Tiago Nunes,7992,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195280
+15,sáb 17/08/2019,19:00,Athletico-PR,Atlético-MG,4-3-3 defensivo,Tiago Nunes,15644,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195359
+16,sáb 24/08/2019,17:00,Grêmio,Athletico-PR,4-2-3-1,Tiago Nunes,12748,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195426
+17,sáb 31/08/2019,19:00,Athletico-PR,Ceará,4-3-3 defensivo,Tiago Nunes,10075,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3197459
+18,dom 08/09/2019,16:00,Santos,Athletico-PR,4-3-3 defensivo,Tiago Nunes,12569,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3197466
+19,dom 15/09/2019,11:00,Athletico-PR,Avaí,4-3-3 defensivo,Tiago Nunes,13784,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3197493
+20,dom 22/09/2019,16:00,Vasco da Gama,Athletico-PR,4-3-3 defensivo,Tiago Nunes,17427,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3255767
+21,qui 26/09/2019,21:30,Athletico-PR,Fortaleza,4-1-4-1,Tiago Nunes,12970,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3255771
+22,dom 29/09/2019,19:00,Athletico-PR,Chapecoense,4-2-3-1,Tiago Nunes,13669,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3260656
+23,sáb 05/10/2019,19:00,Bahia,Athletico-PR,4-2-3-1,Tiago Nunes,38571,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3260663
+24,qui 10/10/2019,19:15,Corinthians,Athletico-PR,4-2-3-1,Tiago Nunes,22964,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3265345
+25,dom 13/10/2019,16:00,Athletico-PR,Flamengo,4-3-3 defensivo,Tiago Nunes,25473,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3265353
+26,qui 17/10/2019,21:00,Fluminense,Athletico-PR,4-3-3 defensivo,Tiago Nunes,16109,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3265513
+27,dom 20/10/2019,19:00,Athletico-PR,Palmeiras,4-3-3 defensivo,Tiago Nunes,18732,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3265522
+28,dom 27/10/2019,16:00,Athletico-PR,Goiás,4-2-3-1,Tiago Nunes,11819,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3268458
+29,qui 31/10/2019,21:30,Internacional,Athletico-PR,4-2-3-1,Tiago Nunes,20900,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3268470
+30,dom 03/11/2019,18:30,Athletico-PR,CSA,4-2-3-1,Tiago Nunes,12933,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3272416
+31,ter 05/11/2019,20:00,Athletico-PR,Cruzeiro,4-2-3-1,Eduardo Barros,13047,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3272424
+32,sáb 09/11/2019,20:00,São Paulo,Athletico-PR,4-2-3-1,Eduardo Barros,13795,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3273306
+33,sáb 16/11/2019,20:00,Athletico-PR,Botafogo,4-3-3 defensivo,Eduardo Barros,18091,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3277732
+34,dom 24/11/2019,16:00,Atlético-MG,Athletico-PR,4-2-3-1,Eduardo Barros,34432,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3277742
+35,ter 26/11/2019,20:00,Athletico-PR,Grêmio,4-2-3-1,Eduardo Barros,21709,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3277781
+36,sex 29/11/2019,20:00,Ceará,Athletico-PR,4-2-3-1,Eduardo Barros,24262,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3277807
+37,ter 03/12/2019,20:00,Athletico-PR,Santos,4-2-3-1,Eduardo Barros,31988,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3285717
+38,dom 08/12/2019,16:00,Avaí,Athletico-PR,4-2-3-1,Eduardo Barros,2445,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3285734

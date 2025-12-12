@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 15/04/2023,18:30,Bragantino,Bahia,3-4-3 plano,Renato Paiva,3368,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4055817
+2,seg 24/04/2023,20:00,Bahia,Botafogo,5-4-1 plano,Renato Paiva,27427,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4059112
+3,seg 01/05/2023,20:00,Vasco da Gama,Bahia,5-4-1 plano,Renato Paiva,19223,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060071
+4,dom 07/05/2023,16:00,Bahia,Coritiba,3-4-3 plano,Renato Paiva,37936,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061501
+5,qua 10/05/2023,19:00,Santos,Bahia,3-4-2-1,Renato Paiva,7262,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061436
+6,sáb 13/05/2023,16:00,Bahia,Flamengo,3-4-1-2,Renato Paiva,48502,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061521
+7,sáb 20/05/2023,16:00,Bahia,Goiás,3-4-3 plano,Renato Paiva,32519,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061411
+8,dom 28/05/2023,16:00,Internacional,Bahia,3-4-3 plano,Renato Paiva,19037,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061449
+9,sáb 03/06/2023,16:00,Fortaleza,Bahia,3-5-2,Renato Paiva,38338,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061421
+10,sáb 10/06/2023,18:30,Bahia,Cruzeiro,3-4-2-1,Renato Paiva,34019,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061531
+11,qua 21/06/2023,21:30,Bahia,Palmeiras,4-2-3-1,Renato Paiva,31013,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061471
+12,sáb 24/06/2023,18:30,Fluminense,Bahia,4-4-2,Renato Paiva,24507,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061503
+13,sáb 01/07/2023,18:30,Bahia,Grêmio,4-4-2,Renato Paiva,34090,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061561
+14,sáb 08/07/2023,16:00,Cuiabá,Bahia,5-4-1 plano,Renato Paiva,10149,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061302
+15,dom 16/07/2023,18:30,Athletico-PR,Bahia,4-2-3-1,Renato Paiva,17091,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061430
+16,sáb 22/07/2023,18:30,Bahia,Corinthians,4-3-1-2,Renato Paiva,43716,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061551
+17,dom 30/07/2023,11:00,São Paulo,Bahia,4-2-3-1,Renato Paiva,56078,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061537
+18,dom 06/08/2023,18:30,Bahia,América-MG,4-2-3-1,Renato Paiva,34313,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061281
+19,dom 13/08/2023,11:00,Atlético-MG,Bahia,4-2-3-1,Renato Paiva,29847,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061398
+20,dom 20/08/2023,16:00,Bahia,Bragantino,4-2-3-1,Renato Paiva,38452,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061251
+21,dom 27/08/2023,16:00,Botafogo,Bahia,4-1-4-1,Renato Paiva,39610,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061384
+22,dom 03/09/2023,18:30,Bahia,Vasco da Gama,4-1-4-1,Renato Paiva,46705,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061291
+23,qui 14/09/2023,20:00,Coritiba,Bahia,4-2-3-1,Rogério Ceni,22961,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061220
+24,seg 18/09/2023,20:00,Bahia,Santos,4-2-3-1,Rogério Ceni,41431,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061261
+25,sáb 30/09/2023,16:00,Flamengo,Bahia,4-2-3-1,Rogério Ceni,46472,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061373
+26,sáb 07/10/2023,16:00,Goiás,Bahia,4-4-2 duplo 6,Rogério Ceni,9001,4:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061267
+27,qua 18/10/2023,21:30,Bahia,Internacional,4-2-3-1,Rogério Ceni,31385,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061351
+28,sáb 21/10/2023,18:30,Bahia,Fortaleza,4-4-2,Rogério Ceni,44761,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061331
+29,qua 25/10/2023,20:00,Cruzeiro,Bahia,4-4-2 duplo 6,Rogério Ceni,36104,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061458
+30,sáb 28/10/2023,19:00,Palmeiras,Bahia,3-4-2-1,Rogério Ceni,33747,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061315
+31,ter 31/10/2023,19:00,Bahia,Fluminense,4-4-2 duplo 6,Rogério Ceni,34319,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061241
+32,sáb 04/11/2023,19:30,Grêmio,Bahia,3-5-2,Rogério Ceni,40154,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061229
+33,qui 09/11/2023,20:00,Bahia,Cuiabá,4-2-3-1,Rogério Ceni,33931,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061341
+34,dom 12/11/2023,18:30,Bahia,Athletico-PR,5-4-1,Rogério Ceni,33978,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061311
+35,sex 24/11/2023,21:00,Corinthians,Bahia,4-2-3-1,Rogério Ceni,39403,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061356
+36,qua 29/11/2023,20:00,Bahia,São Paulo,4-2-3-1,Rogério Ceni,46288,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061371
+37,dom 03/12/2023,18:30,América-MG,Bahia,3-5-2,Rogério Ceni,2471,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061482
+38,qua 06/12/2023,21:30,Bahia,Atlético-MG,5-4-1 plano,Rogério Ceni,28019,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061491

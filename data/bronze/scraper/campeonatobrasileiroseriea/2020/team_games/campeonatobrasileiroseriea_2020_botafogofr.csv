@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qua 30/09/2020,21:30,Botafogo,Bahia,3-4-1-2,Paulo Autuori,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3392038
+2,ter 11/08/2020,19:15,Bragantino,Botafogo,4-3-3 ofensivo,Paulo Autuori,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3411142
+3,dom 16/08/2020,19:30,Fortaleza,Botafogo,4-2-3-1,Paulo Autuori,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416086
+4,qua 19/08/2020,21:30,Botafogo,Atlético-MG,4-4-2 duplo 6,Paulo Autuori,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416222
+5,dom 23/08/2020,11:00,Flamengo,Botafogo,5-4-1,Paulo Autuori,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416103
+6,sáb 29/08/2020,17:00,Botafogo,Internacional,4-3-3 ofensivo,Paulo Autuori,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416109
+7,qua 02/09/2020,20:30,Botafogo,Coritiba,4-2-3-1,Paulo Autuori,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416122
+8,sáb 05/09/2020,19:00,Corinthians,Botafogo,4-3-3 defensivo,Paulo Autuori,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416130
+9,qua 09/09/2020,17:30,Athletico-PR,Botafogo,3-4-3 plano,Paulo Autuori,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416166
+10,dom 13/09/2020,20:30,Botafogo,Vasco da Gama,3-4-3 plano,Paulo Autuori,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416242
+11,dom 20/09/2020,18:15,Botafogo,Santos,4-4-2,Paulo Autuori,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417532
+12,dom 27/09/2020,18:15,Atlético-GO,Botafogo,3-4-2-1,Paulo Autuori,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417554
+13,dom 04/10/2020,11:00,Botafogo,Fluminense,4-3-3 ofensivo,Bruno Lazaroni,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417556
+14,qua 07/10/2020,21:30,Botafogo,Palmeiras,4-3-3 ofensivo,Bruno Lazaroni,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417566
+15,dom 11/10/2020,18:15,Sport,Botafogo,4-3-3 ofensivo,Bruno Lazaroni,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417581
+16,qua 14/10/2020,19:15,Grêmio,Botafogo,4-3-3 ofensivo,Bruno Lazaroni,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417590
+17,seg 19/10/2020,20:00,Botafogo,Goiás,4-3-3 defensivo,Bruno Lazaroni,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417596
+18,qua 09/12/2020,21:30,São Paulo,Botafogo,4-2-3-1,Felipe Lucena,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417607
+19,sáb 31/10/2020,17:00,Botafogo,Ceará,4-3-3 ofensivo,Flávio Tenius,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417616
+20,dom 08/11/2020,18:15,Bahia,Botafogo,4-3-3 ofensivo,Flávio Tenius,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417626
+21,seg 16/11/2020,20:00,Botafogo,Bragantino,4-3-3 ofensivo,Emiliano Díaz,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417638
+22,dom 22/11/2020,17:15,Botafogo,Fortaleza,4-3-3 ofensivo,Emiliano Díaz,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417667
+23,qua 25/11/2020,20:30,Atlético-MG,Botafogo,4-2-3-1,Emiliano Díaz,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417662
+24,sáb 05/12/2020,16:00,Botafogo,Flamengo,4-3-3 ofensivo,Felipe Lucena,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417645
+25,sáb 12/12/2020,18:00,Internacional,Botafogo,4-2-3-1,Eduardo Barroca,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417676
+26,sáb 19/12/2020,21:00,Coritiba,Botafogo,4-1-4-1,Eduardo Barroca,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417696
+27,dom 27/12/2020,16:00,Botafogo,Corinthians,4-2-3-1,Eduardo Barroca,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417690
+28,qua 06/01/2021,18:15,Botafogo,Athletico-PR,4-3-3 ofensivo,Eduardo Barroca,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417502
+29,dom 10/01/2021,19:30,Vasco da Gama,Botafogo,4-2-3-1,Eduardo Barroca,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417512
+30,dom 17/01/2021,16:00,Santos,Botafogo,4-2-3-1,Eduardo Barroca,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417524
+31,qua 20/01/2021,17:00,Botafogo,Atlético-GO,4-2-3-1,Eduardo Barroca,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417706
+32,dom 24/01/2021,20:30,Fluminense,Botafogo,5-3-2,Eduardo Barroca,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417805
+33,ter 02/02/2021,15:00,Palmeiras,Botafogo,4-3-1-2,Eduardo Barroca,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418068
+34,sex 05/02/2021,19:00,Botafogo,Sport,4-4-2,Eduardo Barroca,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418077
+35,seg 08/02/2021,19:00,Botafogo,Grêmio,4-4-2,Lúcio Flávio,x,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418087
+36,sáb 13/02/2021,17:00,Goiás,Botafogo,3-5-2,Lúcio Flávio,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418105
+37,seg 22/02/2021,20:00,Botafogo,São Paulo,4-4-2 duplo 6,Lúcio Flávio,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418107
+38,qui 25/02/2021,21:30,Ceará,Botafogo,4-2-3-1,Lúcio Flávio,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418124

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 15/04/2023,18:30,Athletico-PR,Goiás,4-2-3-1,Paulo Turra,15329,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4055818
+2,sáb 22/04/2023,16:00,Fluminense,Athletico-PR,4-2-3-1,Paulo Turra,38598,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4059103
+3,sáb 29/04/2023,21:00,Atlético-MG,Athletico-PR,4-1-4-1,Paulo Turra,15037,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060067
+4,dom 07/05/2023,16:00,Athletico-PR,Flamengo,4-4-2 duplo 6,Paulo Turra,32949,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061500
+5,qua 10/05/2023,19:00,Internacional,Athletico-PR,4-3-3 ofensivo,Paulo Turra,13537,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061439
+6,dom 14/05/2023,18:30,Athletico-PR,Coritiba,4-2-3-1,Paulo Turra,31252,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061520
+7,sáb 20/05/2023,18:30,Bragantino,Athletico-PR,4-2-3-1,Paulo Turra,3769,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061407
+8,sáb 27/05/2023,16:00,Athletico-PR,Grêmio,4-2-3-1,Paulo Turra,25966,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061450
+9,sáb 03/06/2023,18:30,Athletico-PR,Botafogo,4-2-3-1,Paulo Turra,18684,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061420
+10,dom 11/06/2023,11:00,América-MG,Athletico-PR,4-2-3-1,Paulo Turra,5902,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061532
+11,qua 21/06/2023,19:00,São Paulo,Athletico-PR,4-2-3-1,,22882,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061465
+12,sáb 24/06/2023,16:00,Athletico-PR,Corinthians,3-4-3 plano,Wesley Carvalho,30144,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061510
+13,dom 02/07/2023,16:00,Athletico-PR,Palmeiras,3-4-3 plano,Wesley Carvalho,33118,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061560
+14,dom 09/07/2023,18:30,Fortaleza,Athletico-PR,3-4-2-1,Wesley Carvalho,36399,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061301
+15,dom 16/07/2023,18:30,Athletico-PR,Bahia,4-2-3-1,,17091,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061430
+16,dom 23/07/2023,18:30,Vasco da Gama,Athletico-PR,3-4-2-1,Wesley Carvalho,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061536
+17,sáb 29/07/2023,16:00,Athletico-PR,Cruzeiro,4-3-3 defensivo,Wesley Carvalho,22730,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061548
+18,sáb 05/08/2023,16:00,Santos,Athletico-PR,4-2-3-1,Wesley Carvalho,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061276
+19,ter 15/08/2023,20:00,Athletico-PR,Cuiabá,4-2-3-1,Wesley Carvalho,18444,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061400
+20,seg 21/08/2023,20:00,Goiás,Athletico-PR,3-4-2-1,Wesley Carvalho,8325,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061247
+21,dom 27/08/2023,18:30,Athletico-PR,Fluminense,4-2-3-1,Wesley Carvalho,23630,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061390
+22,sáb 02/09/2023,16:00,Athletico-PR,Atlético-MG,4-3-3 ofensivo,Wesley Carvalho,18009,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061290
+23,qua 13/09/2023,21:30,Flamengo,Athletico-PR,4-2-3-1,Wesley Carvalho,20670,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061213
+24,qui 21/09/2023,19:30,Athletico-PR,Internacional,4-2-3-1,Wesley Carvalho,25967,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061260
+25,dom 01/10/2023,16:00,Coritiba,Athletico-PR,4-2-3-1,Wesley Carvalho,20992,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061380
+26,dom 08/10/2023,18:30,Athletico-PR,Bragantino,3-4-2-1,Wesley Carvalho,15388,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061270
+27,qua 18/10/2023,19:00,Grêmio,Athletico-PR,3-4-3 plano,Wesley Carvalho,24679,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061349
+28,sáb 21/10/2023,21:00,Botafogo,Athletico-PR,3-4-2-1,Wesley Carvalho,36908,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061324
+29,qua 25/10/2023,19:00,Athletico-PR,América-MG,3-4-3 plano,Wesley Carvalho,20672,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061460
+30,dom 29/10/2023,17:00,Athletico-PR,São Paulo,3-4-2-1,Wesley Carvalho,27604,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061320
+31,qua 01/11/2023,19:00,Corinthians,Athletico-PR,3-4-2-1,Wesley Carvalho,29870,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061236
+32,sáb 04/11/2023,21:30,Palmeiras,Athletico-PR,3-4-2-1,Wesley Carvalho,17301,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061225
+33,qua 08/11/2023,20:00,Athletico-PR,Fortaleza,3-4-3 plano,Wesley Carvalho,19831,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061340
+34,dom 12/11/2023,18:30,Bahia,Athletico-PR,3-4-3 plano,Wesley Carvalho,33978,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061311
+35,sáb 25/11/2023,19:30,Athletico-PR,Vasco da Gama,3-4-2-1,Wesley Carvalho,22056,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061360
+36,qui 30/11/2023,20:00,Cruzeiro,Athletico-PR,3-4-2-1,Wesley Carvalho,36696,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061368
+37,dom 03/12/2023,18:30,Athletico-PR,Santos,3-4-3 plano,Wesley Carvalho,21056,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061480
+38,qua 06/12/2023,21:30,Cuiabá,Athletico-PR,3-4-3 plano,Wesley Carvalho,9689,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061492

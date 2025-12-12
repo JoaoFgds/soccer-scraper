@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 06/08/2016,13:00,Penafiel,Covilhã,4-3-3 ofensivo,Paulo Alves,561,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733476
+2,dom 14/08/2016,13:00,Portimonense,Penafiel,4-2-3-1,Paulo Alves,1472,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733567
+3,dom 21/08/2016,07:15,Penafiel,Académica,4-2-3-1,Paulo Alves,627,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733815
+4,qua 24/08/2016,11:30,CF União,Penafiel,4-2-3-1,Paulo Alves,637,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733736
+5,dom 28/08/2016,13:00,Penafiel,Cova da Piedade,4-3-3 ofensivo,Paulo Alves,439,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2753296
+6,dom 11/09/2016,13:00,FC Porto B,Penafiel,4-3-3 ofensivo,Paulo Alves,677,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733743
+7,sáb 17/09/2016,12:00,Penafiel,Fafe,4-2-3-1,Paulo Alves,766,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2758195
+8,qua 21/09/2016,16:30,Famalicão,Penafiel,4-3-3 defensivo,Paulo Alves,2305,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733579
+9,qua 28/09/2016,13:00,Penafiel,Vitória SC B,4-3-3 ofensivo,Paulo Alves,481,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733576
+10,dom 02/10/2016,12:00,Vizela,Penafiel,4-4-2 duplo 6,Paulo Alves,1035,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733551
+11,qua 19/10/2016,13:00,Penafiel,Gil Vicente,?,Paulo Alves,393,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733554
+12,dom 23/10/2016,13:00,Benfica B,Penafiel,?,Paulo Alves,685,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733590
+13,dom 30/10/2016,14:00,Penafiel,Varzim,4-3-3 ofensivo,Paulo Alves,687,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733624
+14,sáb 05/11/2016,13:00,Braga B,Penafiel,?,Paulo Alves,410,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733499
+15,qua 23/11/2016,14:00,Penafiel,Académico FC,?,Paulo Alves,409,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733771
+16,dom 27/11/2016,13:00,Sporting B,Penafiel,4-2-3-1,Paulo Alves,94,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733503
+17,dom 04/12/2016,13:00,Penafiel,Freamunde,?,Paulo Alves,721,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733600
+18,sáb 10/12/2016,17:00,Santa Clara,Penafiel,?,Paulo Alves,1088,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733625
+19,dom 18/12/2016,13:00,Penafiel,CD Aves,?,Paulo Alves,855,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733602
+20,qua 21/12/2016,13:00,Leixões,Penafiel,?,Paulo Alves,728,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733766
+21,sáb 07/01/2017,13:00,Penafiel,Olhanense,4-2-3-1,Paulo Alves,458,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733668
+22,sáb 14/01/2017,09:15,Covilhã,Penafiel,4-3-3 ofensivo,Paulo Alves,204,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733686
+23,sáb 21/01/2017,09:15,Penafiel,Portimonense,4-2-3-1,Paulo Alves,450,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733809
+24,sáb 28/01/2017,13:00,Académica,Penafiel,4-2-3-1,Paulo Alves,2512,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771688
+25,dom 05/02/2017,13:00,Penafiel,CF União,?,Paulo Alves,445,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733696
+26,sáb 11/02/2017,13:00,Cova da Piedade,Penafiel,?,Paulo Alves,343,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771694
+27,qua 15/02/2017,13:00,Penafiel,FC Porto B,4-2-3-1,Paulo Alves,538,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733639
+28,dom 19/02/2017,12:00,Fafe,Penafiel,?,Paulo Alves,2037,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2773855
+29,dom 26/02/2017,12:00,Penafiel,Famalicão,4-3-3 defensivo,Paulo Alves,795,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733688
+30,dom 05/03/2017,12:00,Vitória SC B,Penafiel,4-2-3-1,Paulo Alves,1272,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733808
+31,sáb 11/03/2017,12:00,Penafiel,Vizela,4-3-3 ofensivo,Paulo Alves,578,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733764
+32,qua 15/03/2017,12:00,Gil Vicente,Penafiel,4-3-3 ofensivo,Paulo Alves,489,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733650
+33,dom 19/03/2017,08:15,Penafiel,Benfica B,4-3-3 ofensivo,Paulo Alves,527,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733776
+34,dom 02/04/2017,12:00,Varzim,Penafiel,4-3-3 ofensivo,Paulo Alves,1456,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733665
+35,dom 09/04/2017,12:00,Penafiel,Braga B,4-3-3 ofensivo,Paulo Alves,543,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733677
+36,sáb 15/04/2017,12:00,Académico FC,Penafiel,?,Paulo Alves,834,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733812
+37,qua 19/04/2017,12:00,Penafiel,Sporting B,?,Paulo Alves,441,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733710
+38,dom 23/04/2017,12:00,Freamunde,Penafiel,4-3-3 ofensivo,Paulo Alves,515,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733707
+39,dom 30/04/2017,12:00,Penafiel,Santa Clara,?,Paulo Alves,493,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733521
+40,dom 07/05/2017,12:00,CD Aves,Penafiel,4-3-3 ofensivo,Paulo Alves,1400,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733532
+41,dom 14/05/2017,12:00,Penafiel,Leixões,?,Paulo Alves,1526,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733709
+42,dom 21/05/2017,12:00,Olhanense,Penafiel,4-3-3 ofensivo,Paulo Alves,173,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733730

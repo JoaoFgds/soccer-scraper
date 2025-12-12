@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 13/08/2023,14:00,Estrela Amadora,Vit. Guimarães,3-5-2 plano,Moreno,4300,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109300
+2,sáb 19/08/2023,11:30,Vit. Guimarães,Gil Vicente,3-5-2 plano,João Aroso,15127,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109289
+3,dom 27/08/2023,14:00,Vit. Guimarães,Vizela,3-4-1-2,Paulo Turra,18016,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109316
+4,sáb 02/09/2023,16:30,Benfica,Vit. Guimarães,3-5-2,Paulo Turra,60410,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109310
+5,dom 17/09/2023,14:00,Vit. Guimarães,Portimonense,3-4-3 plano,Paulo Turra,12593,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109352
+6,sáb 23/09/2023,14:00,Casa Pia,Vit. Guimarães,3-4-3 plano,Paulo Turra,3830,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109327
+7,dom 01/10/2023,14:00,Vit. Guimarães,Estoril,3-5-2 plano,Paulo Turra,15101,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109331
+8,dom 08/10/2023,11:30,Famalicão,Vit. Guimarães,3-4-3 plano,Álvaro Pacheco,4278,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109362
+9,sáb 28/10/2023,14:00,Vit. Guimarães,Chaves,3-4-3 plano,Álvaro Pacheco,12984,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109429
+10,dom 05/11/2023,12:30,Moreirense,Vit. Guimarães,3-4-2-1,Álvaro Pacheco,4351,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109339
+11,sáb 11/11/2023,17:30,Vit. Guimarães,FC Porto,3-4-2-1,Álvaro Pacheco,21353,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109392
+12,sáb 02/12/2023,12:30,Farense,Vit. Guimarães,3-4-3 plano,Álvaro Pacheco,4955,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109379
+13,sáb 09/12/2023,15:00,Vit. Guimarães,Sporting,3-4-3 plano,Álvaro Pacheco,20357,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109374
+14,sáb 16/12/2023,17:30,Boavista,Vit. Guimarães,3-4-3 plano,Álvaro Pacheco,8970,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109500
+15,sáb 23/12/2023,12:30,Vit. Guimarães,Rio Ave,3-4-3 plano,Álvaro Pacheco,21021,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109417
+16,sáb 06/01/2024,17:30,Braga,Vit. Guimarães,3-4-3 plano,Álvaro Pacheco,22385,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109481
+17,seg 15/01/2024,17:15,Vit. Guimarães,Arouca,3-4-3 plano,Álvaro Pacheco,11206,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109420
+18,dom 21/01/2024,17:30,Vit. Guimarães,Estrela Amadora,3-4-3 plano,Álvaro Pacheco,19033,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109406
+19,dom 28/01/2024,12:30,Gil Vicente,Vit. Guimarães,3-4-3 plano,Álvaro Pacheco,7617,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109526
+20,dom 04/02/2024,12:30,Vizela,Vit. Guimarães,3-4-3 plano,Álvaro Pacheco,5155,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109400
+21,dom 11/02/2024,17:30,Vit. Guimarães,Benfica,3-4-3 plano,Álvaro Pacheco,25015,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109454
+22,sáb 17/02/2024,15:00,Portimonense,Vit. Guimarães,3-4-3 plano,Álvaro Pacheco,2144,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109517
+23,sáb 24/02/2024,17:30,Vit. Guimarães,Casa Pia,3-4-3 plano,Álvaro Pacheco,13689,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109489
+24,sáb 02/03/2024,15:00,Estoril,Vit. Guimarães,3-4-3 plano,Álvaro Pacheco,2086,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109502
+25,sáb 09/03/2024,17:30,Vit. Guimarães,Famalicão,3-4-3 plano,Álvaro Pacheco,12909,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109470
+26,dom 17/03/2024,12:30,Chaves,Vit. Guimarães,3-4-3 plano,Álvaro Pacheco,4005,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109438
+27,sáb 30/03/2024,12:30,Vit. Guimarães,Moreirense,3-4-3 plano,Álvaro Pacheco,15143,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109459
+28,dom 07/04/2024,16:30,FC Porto,Vit. Guimarães,3-5-2,Álvaro Pacheco,34582,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109561
+29,sáb 13/04/2024,11:30,Vit. Guimarães,Farense,3-4-3 plano,Álvaro Pacheco,19982,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109541
+30,dom 21/04/2024,16:30,Sporting,Vit. Guimarães,3-5-2,Álvaro Pacheco,46101,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109554
+31,sáb 27/04/2024,16:30,Vit. Guimarães,Boavista,3-5-2 plano,Álvaro Pacheco,16839,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109534
+32,sáb 04/05/2024,11:30,Rio Ave,Vit. Guimarães,3-5-2,Álvaro Pacheco,3624,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109579
+33,sáb 11/05/2024,16:30,Vit. Guimarães,Braga,3-5-2,Álvaro Pacheco,25224,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109571
+34,sáb 18/05/2024,11:30,Arouca,Vit. Guimarães,3-5-2,Rui Cunha,2208,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109585

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 13/09/2020,09:00,Alavés,Betis,3-1-4-2,Pablo Machín,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431904
+2,dom 20/09/2020,13:30,Granada CF,Alavés,3-5-2,Pablo Machín,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431918
+3,sáb 26/09/2020,08:00,Alavés,Getafe,4-4-2,Pablo Machín,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431924
+4,qua 30/09/2020,14:00,Villarreal,Alavés,4-4-2,Pablo Machín,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431943
+5,dom 04/10/2020,09:00,Alavés,Athletic Club,3-5-2,Pablo Machín,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3441588
+6,dom 18/10/2020,13:30,Alavés,Elche,3-4-1-2,Pablo Machín,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3450960
+7,dom 25/10/2020,10:00,Valladolid,Alavés,4-4-2 duplo 6,Pablo Machín,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3450978
+8,sáb 31/10/2020,17:00,Alavés,Barcelona,4-1-4-1,Pablo Machín,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3450980
+9,dom 08/11/2020,14:30,Levante,Alavés,4-4-2 duplo 6,Pablo Machín,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3450995
+10,dom 22/11/2020,17:00,Alavés,Valencia,4-4-2 duplo 6,Pablo Machín,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451000
+11,sáb 28/11/2020,17:00,Real Madrid,Alavés,4-4-2,Pablo Machín,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451016
+12,dom 06/12/2020,17:00,Alavés,Real Sociedad,4-4-2 duplo 6,Pablo Machín,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451020
+13,sáb 12/12/2020,14:30,SD Huesca,Alavés,4-4-2,Pablo Machín,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451034
+14,dom 20/12/2020,10:00,Celta de Vigo,Alavés,4-4-2 duplo 6,Pablo Machín,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451043
+15,qua 23/12/2020,18:00,Alavés,Eibar,4-4-2,Pablo Machín,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451050
+16,qui 31/12/2020,12:15,Osasuna,Alavés,4-4-2 duplo 6,Pablo Machín,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451068
+17,dom 03/01/2021,12:15,Alavés,Atlético,4-3-3 ofensivo,Pablo Machín,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451070
+18,dom 10/01/2021,12:15,Cádiz CF,Alavés,4-4-2,Pablo Machín,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451082
+19,ter 19/01/2021,17:30,Alavés,Sevilla,4-4-2,Abelardo,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451090
+20,sáb 23/01/2021,17:00,Alavés,Real Madrid,4-4-2,Abelardo,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451100
+21,dom 31/01/2021,10:00,Getafe,Alavés,4-4-2 duplo 6,Abelardo,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451113
+22,sex 05/02/2021,17:00,Alavés,Valladolid,4-4-2 duplo 6,Abelardo,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451128
+23,sáb 13/02/2021,17:00,Barcelona,Alavés,4-4-2 duplo 6,Abelardo,x,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451146
+24,dom 21/02/2021,12:15,Real Sociedad,Alavés,4-4-2 duplo 6,Abelardo,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451163
+25,sáb 27/02/2021,14:30,Alavés,Osasuna,4-4-2 duplo 6,Abelardo,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451174
+26,seg 08/03/2021,17:00,Betis,Alavés,4-4-2 duplo 6,Abelardo,,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451198
+27,sáb 13/03/2021,10:00,Alavés,Cádiz CF,4-4-2 duplo 6,Abelardo,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451204
+28,dom 21/03/2021,14:30,Atlético,Alavés,4-1-4-1,Abelardo,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451374
+29,dom 04/04/2021,09:00,Alavés,Celta de Vigo,4-4-2 duplo 6,Abelardo,,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451383
+30,sáb 10/04/2021,11:15,Athletic Club,Alavés,4-4-2 duplo 6,Javier Calleja,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451393
+31,qua 21/04/2021,16:00,Alavés,Villarreal,4-4-2,Javier Calleja,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451403
+32,sáb 24/04/2021,13:30,Valencia,Alavés,4-4-2 duplo 6,Javier Calleja,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451421
+33,dom 18/04/2021,11:15,Alavés,SD Huesca,4-4-2,Javier Calleja,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451423
+34,sáb 01/05/2021,09:00,Eibar,Alavés,4-4-2,Javier Calleja,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451434
+35,sáb 08/05/2021,09:00,Alavés,Levante,4-3-3 ofensivo,Javier Calleja,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451443
+36,ter 11/05/2021,15:00,Elche,Alavés,4-3-3 ofensivo,Javier Calleja,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451456
+37,dom 16/05/2021,13:30,Alavés,Granada CF,4-4-2,Javier Calleja,,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451463
+38,dom 23/05/2021,16:00,Sevilla,Alavés,4-3-3 ofensivo,Javier Calleja,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451482

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 29/05/2021,21:00,São Paulo,Fluminense,3-5-2,Hernán Crespo,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546466
+2,sáb 05/06/2021,19:00,Atlético-GO,São Paulo,3-5-2,Hernán Crespo,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546476
+3,dom 13/06/2021,16:00,Atlético-MG,São Paulo,3-5-2,Hernán Crespo,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3571595
+4,qua 16/06/2021,19:00,São Paulo,Chapecoense,4-2-3-1,Hernán Crespo,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3572009
+5,dom 20/06/2021,18:15,Santos,São Paulo,3-5-2,Hernán Crespo,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3572019
+6,qua 23/06/2021,19:00,São Paulo,Cuiabá,3-5-2,Hernán Crespo,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580698
+7,dom 27/06/2021,20:30,Ceará,São Paulo,3-1-4-2,Hernán Crespo,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580711
+8,qua 30/06/2021,21:30,Corinthians,São Paulo,3-5-2 plano,Hernán Crespo,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580721
+9,dom 04/07/2021,18:15,São Paulo,Bragantino,3-4-1-2,Hernán Crespo,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583801
+10,qua 07/07/2021,21:30,Internacional,São Paulo,3-1-4-2,Hernán Crespo,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583813
+11,sáb 10/07/2021,19:00,São Paulo,Bahia,3-5-2 plano,Hernán Crespo,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583821
+12,sáb 17/07/2021,17:00,São Paulo,Fortaleza,3-1-4-2,Hernán Crespo,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583831
+13,dom 25/07/2021,16:00,Flamengo,São Paulo,3-5-2 plano,Hernán Crespo,x,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583839
+14,sáb 31/07/2021,19:00,São Paulo,Palmeiras,4-4-2,Hernán Crespo,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583871
+15,sáb 07/08/2021,18:00,Athletico-PR,São Paulo,4-2-3-1,Hernán Crespo,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583866
+16,sáb 14/08/2021,21:00,São Paulo,Grêmio,3-4-1-2,Hernán Crespo,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583851
+17,dom 22/08/2021,20:30,Sport,São Paulo,4-2-3-1,Hernán Crespo,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583885
+18,dom 29/08/2021,16:00,Juventude,São Paulo,3-4-1-2,Hernán Crespo,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583897
+19,qua 22/09/2021,20:30,São Paulo,América-MG,4-2-3-1,Hernán Crespo,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583901
+20,dom 12/09/2021,20:30,Fluminense,São Paulo,3-4-1-2,Hernán Crespo,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583929
+21,dom 19/09/2021,16:00,São Paulo,Atlético-GO,4-3-3 ofensivo,Hernán Crespo,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583921
+22,sáb 25/09/2021,21:00,São Paulo,Atlético-MG,3-4-1-2,Hernán Crespo,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583911
+23,dom 03/10/2021,16:00,Chapecoense,São Paulo,3-4-3 plano,Hernán Crespo,973,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583947
+24,qui 07/10/2021,18:30,São Paulo,Santos,4-2-3-1,Hernán Crespo,5529,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583951
+25,seg 11/10/2021,20:00,Cuiabá,São Paulo,4-2-3-1,Hernán Crespo,13007,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583968
+26,qui 14/10/2021,19:00,São Paulo,Ceará,4-2-3-1,Rogério Ceni,9371,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583991
+27,seg 18/10/2021,20:00,São Paulo,Corinthians,4-3-1-2,Rogério Ceni,23874,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583981
+28,dom 24/10/2021,18:15,Bragantino,São Paulo,4-4-2 losango,Rogério Ceni,4345,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583976
+29,dom 31/10/2021,18:15,São Paulo,Internacional,3-5-2,Rogério Ceni,19867,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584001
+30,dom 07/11/2021,18:15,Bahia,São Paulo,3-5-2 plano,Rogério Ceni,18178,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584015
+31,qua 10/11/2021,21:30,Fortaleza,São Paulo,3-5-2 plano,Rogério Ceni,16261,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584024
+32,dom 14/11/2021,16:00,São Paulo,Flamengo,4-2-3-1,Rogério Ceni,47855,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584051
+33,qua 17/11/2021,20:30,Palmeiras,São Paulo,4-3-3 ofensivo,Rogério Ceni,35570,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584040
+34,qua 24/11/2021,21:30,São Paulo,Athletico-PR,4-4-2,Rogério Ceni,43491,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584031
+35,qui 02/12/2021,20:00,Grêmio,São Paulo,4-5-1,Rogério Ceni,9312,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584063
+36,sáb 27/11/2021,21:30,São Paulo,Sport,4-4-2,Rogério Ceni,35679,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584071
+37,seg 06/12/2021,19:00,São Paulo,Juventude,4-3-3 ofensivo,Rogério Ceni,40442,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584081
+38,qui 09/12/2021,21:30,América-MG,São Paulo,3-4-1-2,Rogério Ceni,9484,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584092

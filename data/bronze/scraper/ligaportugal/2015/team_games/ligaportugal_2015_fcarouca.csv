@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 16/08/2015,13:00,Moreirense,Arouca,4-3-3 ofensivo,Lito Vidigal,1337,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2586584
+2,dom 23/08/2015,15:15,Arouca,Benfica,4-3-3 ofensivo,Lito Vidigal,23450,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2596946
+3,dom 30/08/2015,13:00,Paços Ferreira,Arouca,4-3-3 ofensivo,Lito Vidigal,2857,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609330
+4,sáb 12/09/2015,16:45,Arouca,FC Porto,4-3-3 ofensivo,Lito Vidigal,3355,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609345
+5,dom 20/09/2015,12:00,CF União,Arouca,4-3-3 ofensivo,Lito Vidigal,1664,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609358
+6,dom 27/09/2015,13:00,Arouca,Belenenses,4-3-3 ofensivo,Lito Vidigal,1480,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609363
+7,dom 04/10/2015,14:00,Braga,Arouca,4-3-3 ofensivo,Lito Vidigal,7810,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609374
+8,dom 25/10/2015,14:00,Arouca,CD Tondela,4-3-3 ofensivo,Lito Vidigal,942,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609381
+9,dom 01/11/2015,14:00,Vitória FC,Arouca,4-3-3 ofensivo,Lito Vidigal,3069,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609393
+10,dom 08/11/2015,18:30,Arouca,Sporting,4-3-3 ofensivo,Lito Vidigal,3156,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609399
+11,dom 29/11/2015,14:00,Académica,Arouca,4-1-4-1,Lito Vidigal,2752,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609408
+12,dom 06/12/2015,14:00,Arouca,Boavista,4-3-3 ofensivo,Lito Vidigal,1942,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609417
+13,sáb 12/12/2015,14:15,Rio Ave,Arouca,4-3-3 ofensivo,Lito Vidigal,3017,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609431
+14,sáb 19/12/2015,16:30,Arouca,Marítimo,4-3-3 ofensivo,Lito Vidigal,1071,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609435
+15,sáb 02/01/2016,14:00,Nacional,Arouca,4-3-3 ofensivo,Lito Vidigal,1374,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609447
+16,qua 06/01/2016,14:00,Arouca,Estoril,4-3-3 ofensivo,Lito Vidigal,705,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609453
+17,sáb 09/01/2016,16:30,Vit. Guimarães,Arouca,4-3-3 ofensivo,Lito Vidigal,10051,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609467
+18,dom 17/01/2016,14:00,Arouca,Moreirense,4-3-3 ofensivo,Lito Vidigal,920,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613534
+19,sáb 23/01/2016,16:30,Benfica,Arouca,4-3-3 ofensivo,Lito Vidigal,51511,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613540
+20,dom 31/01/2016,14:00,Arouca,Paços Ferreira,4-3-3 ofensivo,Lito Vidigal,1073,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613551
+21,dom 07/02/2016,17:15,FC Porto,Arouca,4-3-3 defensivo,Lito Vidigal,30509,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613557
+22,dom 14/02/2016,14:00,Arouca,CF União,4-3-3 ofensivo,Lito Vidigal,868,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613570
+23,dom 21/02/2016,13:00,Belenenses,Arouca,4-3-3 defensivo,Lito Vidigal,3215,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613575
+24,sáb 27/02/2016,15:30,Arouca,Braga,4-3-3 ofensivo,Lito Vidigal,740,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613586
+25,dom 06/03/2016,13:00,CD Tondela,Arouca,4-3-3 defensivo,Lito Vidigal,1604,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613593
+26,dom 13/03/2016,13:00,Arouca,Vitória FC,4-3-3 ofensivo,Lito Vidigal,1085,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613616
+27,sáb 19/03/2016,15:30,Sporting,Arouca,4-3-3 ofensivo,Lito Vidigal,46014,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613623
+28,sáb 02/04/2016,12:15,Arouca,Académica,4-3-3 defensivo,Lito Vidigal,1537,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613640
+29,sex 08/04/2016,16:30,Boavista,Arouca,4-3-3 ofensivo,Lito Vidigal,4688,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613649
+30,sáb 16/04/2016,12:15,Arouca,Rio Ave,4-3-3 ofensivo,Lito Vidigal,2304,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613663
+31,dom 24/04/2016,12:00,Marítimo,Arouca,4-3-3 defensivo,Lito Vidigal,5330,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613667
+32,dom 01/05/2016,14:15,Arouca,Nacional,4-3-3 defensivo,Lito Vidigal,2510,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613679
+33,seg 09/05/2016,16:00,Estoril,Arouca,4-3-3 ofensivo,Lito Vidigal,3258,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613685
+34,sáb 14/05/2016,14:00,Arouca,Vit. Guimarães,4-3-3 defensivo,Lito Vidigal,1778,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613699

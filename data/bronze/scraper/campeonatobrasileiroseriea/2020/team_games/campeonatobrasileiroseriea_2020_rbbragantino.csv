@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 09/08/2020,16:00,Santos,Bragantino,4-2-3-1,Felipe Conceição,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3392040
+2,ter 11/08/2020,19:15,Bragantino,Botafogo,4-3-3 defensivo,Felipe Conceição,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3411142
+3,dom 16/08/2020,16:00,Bahia,Bragantino,4-3-3 defensivo,Felipe Conceição,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416083
+4,qua 19/08/2020,19:15,Bragantino,Fluminense,4-3-3 ofensivo,Felipe Conceição,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416218
+5,dom 23/08/2020,16:00,Bragantino,Coritiba,4-3-3 ofensivo,Felipe Conceição,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416106
+6,sáb 29/08/2020,21:00,Fortaleza,Bragantino,4-1-4-1,Felipe Conceição,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416116
+7,qua 02/09/2020,20:30,Athletico-PR,Bragantino,4-2-3-1,Marcinho,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416123
+8,dom 06/09/2020,11:00,Bragantino,Palmeiras,4-2-3-1,Maurício Barbieri,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416132
+9,qua 09/09/2020,19:15,São Paulo,Bragantino,4-4-2 duplo 6,Maurício Barbieri,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416164
+10,dom 13/09/2020,18:00,Atlético-MG,Bragantino,4-3-1-2,Maurício Barbieri,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416238
+11,sáb 19/09/2020,19:00,Bragantino,Ceará,4-3-3 ofensivo,Maurício Barbieri,x,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417534
+12,dom 27/09/2020,11:00,Vasco da Gama,Bragantino,4-3-3 ofensivo,Maurício Barbieri,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417546
+13,sáb 03/10/2020,21:00,Bragantino,Corinthians,4-2-3-1,Maurício Barbieri,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417558
+14,qui 08/10/2020,21:00,Bragantino,Internacional,4-2-3-1,Maurício Barbieri,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417568
+15,dom 11/10/2020,18:15,Atlético-GO,Bragantino,4-2-3-1,Maurício Barbieri,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417584
+16,qui 15/10/2020,20:00,Flamengo,Bragantino,4-2-3-1,Maurício Barbieri,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417585
+17,dom 18/10/2020,20:30,Bragantino,Sport,4-2-3-1,Maurício Barbieri,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417598
+18,sáb 24/10/2020,17:00,Bragantino,Goiás,4-3-3 ofensivo,Maurício Barbieri,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417608
+19,seg 02/11/2020,20:00,Grêmio,Bragantino,4-3-3 ofensivo,Maurício Barbieri,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417620
+20,dom 08/11/2020,18:15,Bragantino,Santos,4-2-3-1,Maurício Barbieri,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417628
+21,seg 16/11/2020,20:00,Botafogo,Bragantino,4-4-2 duplo 6,Maurício Barbieri,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417638
+22,sex 20/11/2020,19:00,Bragantino,Bahia,4-4-2 duplo 6,Maurício Barbieri,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417663
+23,seg 30/11/2020,19:00,Fluminense,Bragantino,4-3-3 defensivo,Maurício Barbieri,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417666
+24,sáb 05/12/2020,20:00,Coritiba,Bragantino,4-2-3-1,Maurício Barbieri,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417648
+25,sáb 12/12/2020,16:00,Bragantino,Fortaleza,4-2-3-1,Maurício Barbieri,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417683
+26,dom 20/12/2020,16:00,Bragantino,Athletico-PR,4-4-2 duplo 6,Maurício Barbieri,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417702
+27,dom 27/12/2020,18:15,Palmeiras,Bragantino,4-2-3-1,Maurício Barbieri,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417689
+28,qua 06/01/2021,20:30,Bragantino,São Paulo,4-1-4-1,Maurício Barbieri,x,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417504
+29,seg 11/01/2021,19:00,Bragantino,Atlético-MG,4-2-3-1,Maurício Barbieri,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417514
+30,dom 17/01/2021,20:30,Ceará,Bragantino,4-3-3 ofensivo,Maurício Barbieri,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417529
+31,qua 20/01/2021,21:30,Bragantino,Vasco da Gama,4-3-3 ofensivo,Maurício Barbieri,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417708
+32,seg 25/01/2021,20:00,Corinthians,Bragantino,4-4-2 duplo 6,Maurício Barbieri,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417808
+33,dom 31/01/2021,18:15,Internacional,Bragantino,4-3-3 ofensivo,Maurício Barbieri,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418071
+34,qua 03/02/2021,18:15,Bragantino,Atlético-GO,4-4-2 duplo 6,Maurício Barbieri,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418079
+35,dom 07/02/2021,19:30,Bragantino,Flamengo,4-3-3 ofensivo,Maurício Barbieri,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418089
+36,seg 15/02/2021,20:00,Sport,Bragantino,4-2-3-1,Maurício Barbieri,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418102
+37,dom 21/02/2021,20:30,Goiás,Bragantino,4-3-3 ofensivo,Maurício Barbieri,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418115
+38,qui 25/02/2021,21:30,Bragantino,Grêmio,4-3-3 ofensivo,Maurício Barbieri,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418119

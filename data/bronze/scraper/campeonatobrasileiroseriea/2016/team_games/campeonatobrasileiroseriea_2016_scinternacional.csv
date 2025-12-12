@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 15/05/2016,18:30,Internacional,Chapecoense,4-2-3-1,Argel Fuchs,12092,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2684559
+2,dom 22/05/2016,16:00,São Paulo,Internacional,4-2-3-1,Argel Fuchs,19509,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2684567
+3,qui 26/05/2016,16:00,Internacional,Sport,4-3-2-1,Argel Fuchs,28751,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2694653
+4,dom 29/05/2016,18:30,Santos,Internacional,4-2-3-1,Argel Fuchs,4468,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2694663
+5,qua 01/06/2016,19:30,Internacional,Atlético-PR,4-2-3-1,Argel Fuchs,20300,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2695566
+6,dom 05/06/2016,16:00,Vitória,Internacional,4-2-3-1,Argel Fuchs,8924,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2695590
+7,sáb 11/06/2016,16:00,Internacional,América-MG,4-2-3-1,Argel Fuchs,18028,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2696872
+8,qui 16/06/2016,19:30,Internacional,Atlético-MG,?,Argel Fuchs,21881,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698568
+9,dom 19/06/2016,16:00,Figueirense,Internacional,?,Argel Fuchs,16361,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698575
+10,qui 23/06/2016,21:30,Coritiba,Internacional,?,Argel Fuchs,8798,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698589
+11,dom 26/06/2016,16:00,Internacional,Botafogo,?,Argel Fuchs,25037,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702137
+12,qua 29/06/2016,19:30,Flamengo,Internacional,?,Argel Fuchs,21000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702141
+13,dom 03/07/2016,11:00,Internacional,Grêmio,?,Argel Fuchs,40686,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2708407
+14,dom 10/07/2016,16:00,Santa Cruz,Internacional,4-2-3-1,Argel Fuchs,8749,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2708419
+15,dom 17/07/2016,16:00,Internacional,Palmeiras,4-2-3-1,Falcão,27293,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713335
+16,dom 24/07/2016,11:00,Ponte Preta,Internacional,?,Falcão,5940,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713353
+17,dom 31/07/2016,16:00,Internacional,Corinthians,?,Falcão,30098,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713368
+18,qui 04/08/2016,21:00,Cruzeiro,Internacional,4-2-3-1,Falcão,12454,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713380
+19,dom 07/08/2016,16:15,Internacional,Fluminense,?,Falcão,19552,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713397
+20,seg 15/08/2016,20:00,Chapecoense,Internacional,4-2-3-1,Celso Roth,11360,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713417
+21,dom 21/08/2016,19:00,Internacional,São Paulo,?,Celso Roth,23079,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2767850
+22,dom 28/08/2016,17:00,Sport,Internacional,4-2-3-1,Celso Roth,7491,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2767857
+23,qui 08/09/2016,22:00,Internacional,Santos,4-2-3-1,Celso Roth,34075,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770078
+24,dom 11/09/2016,17:00,Atlético-PR,Internacional,4-3-3 defensivo,Celso Roth,12756,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770086
+25,qui 15/09/2016,22:00,Internacional,Vitória,4-3-3 defensivo,Celso Roth,20942,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770099
+26,seg 19/09/2016,20:00,América-MG,Internacional,4-1-4-1,Celso Roth,1737,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770109
+27,dom 25/09/2016,19:30,Atlético-MG,Internacional,4-3-3 defensivo,Celso Roth,20311,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770159
+28,sáb 01/10/2016,22:00,Internacional,Figueirense,4-2-3-1,Celso Roth,34036,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770167
+29,qui 06/10/2016,20:30,Internacional,Coritiba,4-2-3-1,Celso Roth,31431,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770175
+30,qua 12/10/2016,22:45,Botafogo,Internacional,4-3-3 defensivo,Celso Roth,10176,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770182
+31,dom 16/10/2016,19:00,Internacional,Flamengo,?,Celso Roth,31981,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770191
+32,dom 23/10/2016,19:00,Grêmio,Internacional,4-2-3-1,Celso Roth,53287,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770205
+33,sáb 29/10/2016,18:30,Internacional,Santa Cruz,4-3-1-2,Celso Roth,35376,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770216
+34,dom 06/11/2016,17:00,Palmeiras,Internacional,4-3-1-2,Celso Roth,31967,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770214
+35,qui 17/11/2016,21:00,Internacional,Ponte Preta,?,Lisca,28774,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2778085
+36,seg 21/11/2016,20:00,Corinthians,Internacional,4-2-3-1,Lisca,19493,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2778095
+37,dom 27/11/2016,17:00,Internacional,Cruzeiro,4-2-3-1,Lisca,25352,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2798386
+38,dom 11/12/2016,17:00,Fluminense,Internacional,4-2-3-1,Lisca,3847,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2798933

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 26/05/2013,18:30,Fluminense,Atlético-PR,3-5-2,Abel Braga,3355,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2317509
+2,qua 12/06/2013,22:00,Portuguesa,Fluminense,4-3-3 defensivo,Abel Braga,1182,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2318599
+3,dom 02/06/2013,18:30,Fluminense,Criciúma,4-3-3 defensivo,Abel Braga,2227,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2318606
+4,qui 06/06/2013,21:00,Coritiba,Fluminense,4-3-3 defensivo,Abel Braga,15554,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2318733
+5,dom 09/06/2013,18:30,Fluminense,Goiás,4-3-3 defensivo,Abel Braga,2570,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2319215
+6,dom 07/07/2013,18:30,Botafogo,Fluminense,4-3-3 defensivo,Abel Braga,9669,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2319691
+7,sáb 13/07/2013,18:30,Fluminense,Internacional,4-3-3 defensivo,Abel Braga,5375,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2327536
+8,dom 21/07/2013,18:30,Fluminense,Vasco da Gama,4-4-2 duplo 6,Abel Braga,46860,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343409
+9,dom 28/07/2013,16:00,Grêmio,Fluminense,4-4-2 duplo 6,Abel Braga,28793,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343416
+10,qua 31/07/2013,19:30,Fluminense,Cruzeiro,4-4-2 duplo 6,Vanderlei Luxemburgo,18042,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343422
+11,dom 04/08/2013,16:00,Ponte Preta,Fluminense,4-4-2 duplo 6,Vanderlei Luxemburgo,5942,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343438
+12,qua 07/08/2013,19:30,Vitória,Fluminense,4-4-2 duplo 6,Vanderlei Luxemburgo,8283,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344053
+13,dom 11/08/2013,16:00,Fluminense,Flamengo,4-4-2 duplo 6,Vanderlei Luxemburgo,38715,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344100
+14,qua 14/08/2013,21:50,Fluminense,Corinthians,5-4-1 plano,Vanderlei Luxemburgo,13237,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344133
+15,sáb 17/08/2013,18:30,Náutico,Fluminense,4-2-3-1,Vanderlei Luxemburgo,16583,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344118
+16,dom 25/08/2013,16:00,São Paulo,Fluminense,4-3-3 ofensivo,Vanderlei Luxemburgo,55256,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344062
+17,sáb 31/08/2013,21:00,Fluminense,Santos,4-3-3 defensivo,Vanderlei Luxemburgo,10481,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344087
+18,qua 04/09/2013,21:50,Atlético-MG,Fluminense,4-3-1-2,Vanderlei Luxemburgo,6529,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344080
+19,sáb 07/09/2013,18:30,Fluminense,Bahia,4-3-1-2,Vanderlei Luxemburgo,28658,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344054
+20,qua 11/09/2013,19:30,Atlético-PR,Fluminense,4-3-1-2,Vanderlei Luxemburgo,11728,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344170
+21,sáb 14/09/2013,21:00,Fluminense,Portuguesa,4-3-1-2,Vanderlei Luxemburgo,19355,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344206
+22,qua 18/09/2013,21:00,Criciúma,Fluminense,4-3-1-2,Vanderlei Luxemburgo,10234,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344141
+23,sáb 21/09/2013,18:30,Fluminense,Coritiba,4-3-1-2,Vanderlei Luxemburgo,34397,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344212
+24,sáb 28/09/2013,18:30,Goiás,Fluminense,4-3-3 ofensivo,Vanderlei Luxemburgo,8610,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344156
+25,qua 02/10/2013,21:00,Fluminense,Botafogo,4-4-2 losango,Vanderlei Luxemburgo,19562,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344316
+26,dom 06/10/2013,16:00,Internacional,Fluminense,4-3-1-2,Vanderlei Luxemburgo,7637,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344246
+27,qua 09/10/2013,21:50,Vasco da Gama,Fluminense,4-3-3 defensivo,Vanderlei Luxemburgo,8245,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344317
+28,sáb 12/10/2013,18:30,Fluminense,Grêmio,3-5-2,Vanderlei Luxemburgo,19556,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344188
+29,qua 16/10/2013,19:30,Cruzeiro,Fluminense,4-4-2 duplo 6,Vanderlei Luxemburgo,31564,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344204
+30,sáb 19/10/2013,16:00,Fluminense,Ponte Preta,4-3-1-2,Vanderlei Luxemburgo,20791,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344221
+31,dom 27/10/2013,18:30,Fluminense,Vitória,?,Vanderlei Luxemburgo,29350,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344174
+32,dom 03/11/2013,19:30,Flamengo,Fluminense,?,Vanderlei Luxemburgo,32063,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344269
+33,dom 10/11/2013,19:30,Corinthians,Fluminense,4-4-2 duplo 6,Vanderlei Luxemburgo,14438,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344299
+34,qui 14/11/2013,21:00,Fluminense,Náutico,?,Dorival Júnior,30844,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344300
+35,dom 17/11/2013,17:00,Fluminense,São Paulo,?,Dorival Júnior,37310,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344307
+36,dom 24/11/2013,17:00,Santos,Fluminense,4-2-3-1,Dorival Júnior,4369,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344297
+37,sáb 30/11/2013,19:30,Fluminense,Atlético-MG,4-2-3-1,Dorival Júnior,44699,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344279
+38,dom 08/12/2013,17:00,Bahia,Fluminense,4-2-3-1,Dorival Júnior,40249,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344265

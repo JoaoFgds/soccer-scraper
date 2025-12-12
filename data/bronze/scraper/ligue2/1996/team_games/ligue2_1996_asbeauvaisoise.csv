@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 10/08/1996,19:00,ASOA Valence,AS Beauvais,?,Patrick Rémy,1000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026308
+2,sex 16/08/1996,19:00,AS Beauvais,Troyes,?,Patrick Rémy,1800,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026322
+3,seg 19/08/1996,19:00,Stade Lavallois,AS Beauvais,?,Patrick Rémy,4429,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026333
+4,sex 23/08/1996,19:00,AS Beauvais,Saint-Étienne,?,Patrick Rémy,5395,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026340
+5,qui 29/08/1996,19:00,FC Sochaux,AS Beauvais,?,Patrick Rémy,5000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026349
+6,ter 03/09/1996,19:00,FC Lorient,AS Beauvais,?,Patrick Rémy,1776,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026366
+7,sex 06/09/1996,19:00,AS Beauvais,Chamois Niort,?,Patrick Rémy,2038,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026368
+8,sex 13/09/1996,19:00,FC Martigues,AS Beauvais,?,Patrick Rémy,1000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026384
+9,ter 17/09/1996,19:00,AS Beauvais,FC Gueugnon,?,Patrick Rémy,1516,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026399
+10,sex 20/09/1996,19:00,SC Toulon 83,AS Beauvais,?,Patrick Rémy,2386,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026406
+11,sex 27/09/1996,19:00,AS Beauvais,Perpignan,?,Patrick Rémy,1926,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026417
+12,ter 01/10/1996,19:00,SAS Epinal,AS Beauvais,?,Patrick Rémy,1709,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026433
+13,sex 04/10/1996,19:00,AS Beauvais,LB Châteauroux,?,Patrick Rémy,1692,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026464
+14,sex 11/10/1996,20:00,Louh.-Cuiseaux,AS Beauvais,?,Daniel Zorzetto,1543,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026482
+15,sex 18/10/1996,20:00,AS Beauvais,Le Mans UC 72,?,Daniel Zorzetto,1500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026489
+16,sex 25/10/1996,20:00,Toulouse,AS Beauvais,?,Daniel Zorzetto,6134,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026498
+17,sex 01/11/1996,21:00,AS Beauvais,Amiens SC,?,Daniel Zorzetto,4000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026515
+18,qua 06/11/1996,21:00,Stade Briochin,AS Beauvais,?,Daniel Zorzetto,2607,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026524
+19,ter 12/11/1996,21:00,AS Beauvais,Mulhouse S-A,?,Daniel Zorzetto,1418,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026538
+20,sex 15/11/1996,21:00,AS Red Star 93,AS Beauvais,?,Daniel Zorzetto,1441,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026548
+21,sex 22/11/1996,21:00,AS Beauvais,O Charleville,?,Daniel Zorzetto,1518,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026559
+22,sex 06/12/1996,21:00,Troyes,AS Beauvais,?,Daniel Zorzetto,2807,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026589
+23,sex 13/12/1996,21:00,AS Beauvais,Stade Lavallois,?,Daniel Zorzetto,1455,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026602
+24,sex 24/01/1997,21:00,Saint-Étienne,AS Beauvais,?,Daniel Zorzetto,7000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026608
+25,sex 31/01/1997,21:00,AS Beauvais,FC Sochaux,?,Daniel Zorzetto,1800,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026621
+26,sex 14/02/1997,21:00,AS Beauvais,FC Lorient,?,Daniel Zorzetto,1800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026631
+27,sex 21/02/1997,20:00,Chamois Niort,AS Beauvais,?,Daniel Zorzetto,3333,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026640
+28,sex 07/03/1997,20:00,AS Beauvais,FC Martigues,?,Daniel Zorzetto,2427,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026649
+29,ter 11/03/1997,20:00,FC Gueugnon,AS Beauvais,?,Daniel Zorzetto,2256,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026663
+30,sex 14/03/1997,20:00,AS Beauvais,SC Toulon 83,?,Daniel Zorzetto,2000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026675
+31,sex 21/03/1997,20:00,Perpignan,AS Beauvais,?,Daniel Zorzetto,3013,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026691
+32,ter 25/03/1997,20:00,AS Beauvais,SAS Epinal,?,Daniel Zorzetto,2005,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026701
+33,seg 31/03/1997,19:00,LB Châteauroux,AS Beauvais,?,Daniel Zorzetto,4000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026704
+34,sex 04/04/1997,19:00,AS Beauvais,Louh.-Cuiseaux,?,Daniel Zorzetto,2352,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026719
+35,qui 10/04/1997,19:00,Le Mans UC 72,AS Beauvais,?,Daniel Zorzetto,2500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026731
+36,ter 15/04/1997,19:00,AS Beauvais,Toulouse,?,Daniel Zorzetto,4500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026742
+37,qui 24/04/1997,19:00,Amiens SC,AS Beauvais,?,Daniel Zorzetto,5404,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026752
+38,ter 29/04/1997,19:00,AS Beauvais,Stade Briochin,?,Daniel Zorzetto,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026767
+39,sex 02/05/1997,19:00,Mulhouse S-A,AS Beauvais,?,Daniel Zorzetto,3102,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026774
+40,qui 08/05/1997,19:00,AS Beauvais,AS Red Star 93,?,Daniel Zorzetto,3500,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026786
+41,qua 07/05/1997,19:00,O Charleville,AS Beauvais,?,Daniel Zorzetto,2047,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026796
+42,sex 23/05/1997,19:00,AS Beauvais,ASOA Valence,?,Daniel Zorzetto,2717,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026809

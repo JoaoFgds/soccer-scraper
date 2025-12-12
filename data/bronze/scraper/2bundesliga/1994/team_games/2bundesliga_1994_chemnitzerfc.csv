@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 20/08/1994,10:30,Fortuna Köln,Chemnitzer FC,3-5-2,Reinhard Häfner,2500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951332
+2,qua 24/08/1994,14:30,Chemnitzer FC,Saarbrücken,?,Reinhard Häfner,2800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951340
+3,dom 28/08/1994,10:00,Wattenscheid 09,Chemnitzer FC,?,Reinhard Häfner,3500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951352
+4,dom 04/09/1994,10:00,Chemnitzer FC,Hannover,?,Reinhard Häfner,3900,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951360
+5,sex 16/09/1994,15:00,Nuremberg,Chemnitzer FC,?,Reinhard Häfner,23500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951365
+6,sáb 24/09/1994,10:30,Chemnitzer FC,Hertha Berlim,?,Reinhard Häfner,3500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951375
+7,sex 30/09/1994,16:00,St. Pauli,Chemnitzer FC,?,Reinhard Häfner,14168,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951383
+8,sáb 08/10/1994,11:30,Chemnitzer FC,Mainz,?,Reinhard Häfner,2670,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951395
+9,sáb 15/10/1994,11:00,FSV Zwickau,Chemnitzer FC,?,Reinhard Häfner,8800,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951405
+10,sáb 22/10/1994,12:30,Chemnitzer FC,FSV Frankfurt,?,Reinhard Häfner,2500,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951415
+11,dom 30/10/1994,12:00,FC 08 Homburg,Chemnitzer FC,?,Reinhard Häfner,1000,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951429
+12,seg 07/11/1994,17:15,Chemnitzer FC,Wolfsburg,?,Reinhard Häfner,2000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951438
+13,seg 14/11/1994,17:15,Hansa Rostock,Chemnitzer FC,3-5-2,Reinhard Häfner,3500,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951447
+14,sáb 19/11/1994,12:30,Chemnitzer FC,W. Mannheim,?,Reinhard Häfner,2250,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951450
+15,sáb 26/11/1994,11:00,SV Meppen,Chemnitzer FC,?,Reinhard Häfner,5500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951459
+16,dom 04/12/1994,12:00,Chemnitzer FC,VfB Leipzig,?,Reinhard Häfner,2800,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951471
+17,sex 09/12/1994,17:00,Düsseldorf,Chemnitzer FC,?,Reinhard Häfner,8000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951477
+18,sáb 18/02/1995,12:30,Chemnitzer FC,Fortuna Köln,?,Reinhard Häfner,4520,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951488
+19,dom 26/02/1995,11:00,Saarbrücken,Chemnitzer FC,?,Reinhard Häfner,3600,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974667
+20,dom 05/03/1995,11:00,Chemnitzer FC,Wattenscheid 09,?,Reinhard Häfner,3500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974677
+21,sáb 11/03/1995,11:30,Hannover,Chemnitzer FC,?,Reinhard Häfner,7574,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974685
+22,sáb 18/03/1995,11:30,Chemnitzer FC,Nuremberg,?,Reinhard Häfner,5100,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974691
+23,sáb 25/03/1995,11:30,Hertha Berlim,Chemnitzer FC,?,Reinhard Häfner,4166,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974701
+24,dom 02/04/1995,10:00,Chemnitzer FC,St. Pauli,?,Reinhard Häfner,4300,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974712
+25,dom 09/04/1995,10:00,Mainz,Chemnitzer FC,?,Reinhard Häfner,3040,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974722
+26,sáb 15/04/1995,10:30,Chemnitzer FC,FSV Zwickau,?,Reinhard Häfner,7500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974728
+27,sáb 22/04/1995,10:30,FSV Frankfurt,Chemnitzer FC,?,Reinhard Häfner,1000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974738
+28,dom 30/04/1995,10:00,Chemnitzer FC,FC 08 Homburg,?,Reinhard Häfner,3780,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974750
+29,dom 07/05/1995,10:00,Wolfsburg,Chemnitzer FC,?,Reinhard Häfner,3000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974758
+30,sáb 13/05/1995,10:30,Chemnitzer FC,Hansa Rostock,3-4-3,Reinhard Häfner,2100,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974765
+31,sex 19/05/1995,13:00,W. Mannheim,Chemnitzer FC,?,Reinhard Häfner,12000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974770
+32,seg 29/05/1995,15:15,Chemnitzer FC,SV Meppen,?,Reinhard Häfner,2100,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974787
+33,dom 11/06/1995,10:00,VfB Leipzig,Chemnitzer FC,?,Reinhard Häfner,3700,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974793
+34,dom 18/06/1995,10:00,Chemnitzer FC,Düsseldorf,?,Reinhard Häfner,10200,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974799

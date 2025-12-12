@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 06/08/2022,10:30,Wolfsburg,Werder Bremen,3-1-4-2,Ole Werner,28015,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839030
+2,sáb 13/08/2022,10:30,Werder Bremen,Stuttgart,3-1-4-2,Ole Werner,41000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839060
+3,sáb 20/08/2022,10:30,Dortmund,Werder Bremen,3-1-4-2,Ole Werner,81365,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839079
+4,dom 28/08/2022,12:30,Werder Bremen,Frankfurt,3-1-4-2,Ole Werner,41000,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839104
+5,sáb 03/09/2022,10:30,Bochum,Werder Bremen,3-5-2 plano,Ole Werner,25800,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839111
+6,sex 09/09/2022,15:30,Werder Bremen,Augsburg,3-5-2 plano,Ole Werner,41000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839122
+7,sáb 17/09/2022,10:30,Leverkusen,Werder Bremen,3-5-2 plano,Ole Werner,30210,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839133
+8,sáb 01/10/2022,13:30,Werder Bremen,M'gladbach,3-5-2 plano,Ole Werner,42100,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839158
+9,sex 07/10/2022,15:30,Hoffenheim,Werder Bremen,3-5-2 plano,Ole Werner,25410,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839162
+10,sáb 15/10/2022,10:30,Werder Bremen,Mainz,3-5-2 plano,Ole Werner,41000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839185
+11,sáb 22/10/2022,10:30,Freiburg,Werder Bremen,3-5-2 plano,Ole Werner,34700,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839197
+12,sex 28/10/2022,15:30,Werder Bremen,Hertha Berlim,3-1-4-2,Ole Werner,42100,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839221
+13,sáb 05/11/2022,14:30,Werder Bremen,Schalke,3-1-4-2,Ole Werner,42100,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839239
+14,ter 08/11/2022,16:30,Bayern,Werder Bremen,3-5-2,Ole Werner,75000,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839249
+15,sáb 12/11/2022,11:30,Werder Bremen,Leipzig,3-1-4-2,Ole Werner,41500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839266
+16,sáb 21/01/2023,14:30,Colônia,Werder Bremen,3-5-2,Ole Werner,50000,7:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839279
+17,qua 25/01/2023,16:30,Werder Bremen,Union Berlim,3-5-2,Ole Werner,41500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839302
+18,sáb 28/01/2023,11:30,Werder Bremen,Wolfsburg,3-5-2,Ole Werner,41000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839320
+19,dom 05/02/2023,11:30,Stuttgart,Werder Bremen,3-5-2,Ole Werner,47700,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839338
+20,sáb 11/02/2023,11:30,Werder Bremen,Dortmund,3-5-2 ofensivo,Ole Werner,42100,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839356
+21,sáb 18/02/2023,14:30,Frankfurt,Werder Bremen,3-5-2 ofensivo,Ole Werner,50000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839370
+22,sáb 25/02/2023,11:30,Werder Bremen,Bochum,3-5-2,Ole Werner,42100,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839392
+23,sáb 04/03/2023,11:30,Augsburg,Werder Bremen,3-5-2 plano,Ole Werner,30660,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839400
+24,dom 12/03/2023,13:30,Werder Bremen,Leverkusen,3-1-4-2,Ole Werner,41000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839419
+25,sex 17/03/2023,16:30,M'gladbach,Werder Bremen,3-5-2 ofensivo,Ole Werner,54042,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839434
+26,dom 02/04/2023,12:30,Werder Bremen,Hoffenheim,3-1-4-2,Ole Werner,41000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839455
+27,sáb 08/04/2023,10:30,Mainz,Werder Bremen,3-5-2 plano,Ole Werner,33305,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839468
+28,dom 16/04/2023,10:30,Werder Bremen,Freiburg,3-5-2,Ole Werner,41500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839491
+29,sáb 22/04/2023,10:30,Hertha Berlim,Werder Bremen,3-5-2 ofensivo,Ole Werner,74667,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839509
+30,sáb 29/04/2023,13:30,Schalke,Werder Bremen,3-5-2,Ole Werner,61981,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839518
+31,sáb 06/05/2023,13:30,Werder Bremen,Bayern,5-3-2,Ole Werner,42100,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839536
+32,dom 14/05/2023,12:30,Leipzig,Werder Bremen,3-5-2 ofensivo,Ole Werner,47069,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839548
+33,sáb 20/05/2023,10:30,Werder Bremen,Colônia,3-1-4-2,Ole Werner,41846,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839572
+34,sáb 27/05/2023,10:30,Union Berlim,Werder Bremen,3-1-4-2,Ole Werner,22012,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839584

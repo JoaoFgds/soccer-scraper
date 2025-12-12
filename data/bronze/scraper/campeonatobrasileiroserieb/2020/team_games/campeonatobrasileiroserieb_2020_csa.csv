@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 08/08/2020,21:00,CSA,Guarani,4-2-3-1,Eduardo Baptista,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3392049
+2,ter 27/10/2020,19:00,Chapecoense,CSA,4-2-3-1,Mozart,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3414465
+3,qua 16/09/2020,19:15,CSA,Cuiabá,4-2-3-1,Argel Fuchs,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416272
+4,ter 18/08/2020,19:15,Operário-PR,CSA,4-3-2-1,Eduardo Baptista,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416278
+5,sex 21/08/2020,21:30,Ponte Preta,CSA,4-3-1-2,Eduardo Baptista,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416788
+6,dom 30/08/2020,19:00,CSA,CRB,4-1-4-1,Eduardo Baptista,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416805
+7,qua 02/09/2020,16:30,América-MG,CSA,4-1-4-1,Argel Fuchs,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416816
+8,sáb 05/09/2020,16:30,CSA,Confiança,4-1-4-1,Argel Fuchs,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416821
+9,dom 13/09/2020,11:00,Oeste,CSA,4-2-3-1,Argel Fuchs,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416836
+10,sáb 19/09/2020,21:00,CSA,Cruzeiro,4-2-3-1,Adriano Rodrigues,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418158
+11,sáb 26/09/2020,16:00,CSA,Juventude,4-2-3-1,Mozart,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418168
+12,ter 29/09/2020,19:15,Vitória,CSA,4-2-3-1,Mozart,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418183
+13,sáb 03/10/2020,16:30,Sampaio Corrêa,CSA,4-2-3-1,Mozart,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418194
+14,ter 06/10/2020,19:15,CSA,Figueirense,4-2-3-1,Mozart,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418198
+15,sáb 10/10/2020,18:30,CSA,Paraná,4-2-3-1,Mozart,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418208
+16,ter 13/10/2020,19:15,Avaí,CSA,4-2-3-1,Mozart,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418217
+17,ter 20/10/2020,19:15,CSA,Botafogo-SP,4-2-3-1,Mozart,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418228
+18,sex 23/10/2020,19:15,Brasil Pelotas,CSA,4-2-3-1,Mozart,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418242
+19,sáb 31/10/2020,21:00,CSA,Náutico,4-2-3-1,Mozart,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418248
+20,sex 06/11/2020,19:15,Guarani,CSA,4-2-3-1,Mozart,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418259
+21,ter 10/11/2020,21:30,CSA,Chapecoense,4-2-3-1,Mozart,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418268
+22,sáb 21/11/2020,19:00,Cuiabá,CSA,4-2-3-1,Mozart,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418285
+23,ter 24/11/2020,19:15,CSA,Operário-PR,4-2-3-1,Mozart,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418288
+24,sáb 28/11/2020,16:00,CSA,Ponte Preta,4-2-3-1,Mozart,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418298
+25,ter 01/12/2020,19:15,CRB,CSA,4-2-3-1,Mozart,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418308
+26,sáb 05/12/2020,18:30,CSA,América-MG,4-2-3-1,Mozart,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418318
+27,ter 08/12/2020,21:30,Confiança,CSA,4-2-3-1,Mozart,x,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418354
+28,sex 11/12/2020,19:15,CSA,Oeste,4-2-3-1,Mozart,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418338
+29,ter 15/12/2020,21:30,Cruzeiro,CSA,4-2-3-1,Mozart,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418326
+30,sex 18/12/2020,18:00,Juventude,CSA,4-2-3-1,Mozart,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418362
+31,ter 22/12/2020,19:15,CSA,Vitória,4-2-3-1,Mozart,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418368
+32,sáb 02/01/2021,16:30,CSA,Sampaio Corrêa,4-2-3-1,Mozart,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419417
+33,sex 08/01/2021,21:30,Figueirense,CSA,4-4-2,Maurício Barbieri,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419426
+34,ter 12/01/2021,19:15,Paraná,CSA,4-4-2,Mozart,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419448
+35,sáb 16/01/2021,16:30,CSA,Avaí,4-2-3-1,Mozart,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419455
+36,ter 19/01/2021,19:15,Botafogo-SP,CSA,4-3-3 ofensivo,Mozart,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419483
+37,sex 22/01/2021,19:15,CSA,Brasil Pelotas,4-3-3 ofensivo,Mozart,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419498
+38,sex 29/01/2021,21:30,Náutico,CSA,4-3-3 ofensivo,Mozart,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419513

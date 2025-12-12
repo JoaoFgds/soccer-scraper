@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/08/2023,10:00,Nacional,Marítimo,4-3-3 ofensivo,Tiago Margarido,4293,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109789
+2,seg 21/08/2023,14:45,Torreense,Nacional,4-3-3 ofensivo,Tiago Margarido,979,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109607
+3,seg 28/08/2023,14:00,Nacional,Leixões,4-2-3-1,Tiago Margarido,1671,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109778
+4,dom 03/09/2023,11:30,Vilaverdense,Nacional,4-2-3-1,Tiago Margarido,686,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109796
+5,sáb 16/09/2023,10:00,Nacional,Feirense,4-3-3 ofensivo,Tiago Margarido,1184,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109715
+6,seg 02/10/2023,14:00,Penafiel,Nacional,4-3-3 ofensivo,Tiago Margarido,711,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109769
+7,sáb 07/10/2023,07:00,Nacional,UD Oliveirense,4-2-3-1,Tiago Margarido,1262,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109808
+8,dom 29/10/2023,08:00,Académico FC,Nacional,4-2-3-1,Tiago Margarido,586,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109814
+9,sáb 04/11/2023,15:00,Nacional,Santa Clara,4-2-3-1,Tiago Margarido,1858,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109822
+10,sáb 11/11/2023,08:00,Nacional,Leiria,4-2-3-1,Tiago Margarido,1562,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109834
+11,dom 19/11/2023,08:00,AVS,Nacional,4-2-3-1,Tiago Margarido,618,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109854
+12,sáb 02/12/2023,11:00,Nacional,Paços Ferreira,4-2-3-1,Tiago Margarido,1416,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109867
+13,sáb 09/12/2023,15:00,Benfica B,Nacional,4-2-3-1,Tiago Margarido,324,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109881
+14,sáb 16/12/2023,12:30,Nacional,Belenenses,4-2-3-1,Tiago Margarido,1583,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109620
+15,sáb 30/12/2023,08:00,FC Porto B,Nacional,4-2-3-1,Tiago Margarido,378,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109887
+16,sáb 06/01/2024,15:00,Nacional,CD Tondela,4-2-3-1,Tiago Margarido,1021,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109624
+17,seg 15/01/2024,15:45,Mafra,Nacional,4-2-3-1,Tiago Margarido,509,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109846
+18,dom 21/01/2024,15:00,Marítimo,Nacional,4-2-3-1,Tiago Margarido,10385,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109861
+19,dom 28/01/2024,12:30,Nacional,Torreense,4-2-3-1,Tiago Margarido,1421,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109634
+20,qua 28/02/2024,17:15,Leixões,Nacional,4-2-3-1,Tiago Margarido,2214,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109904
+21,sáb 10/02/2024,11:00,Nacional,Vilaverdense,4-2-3-1,Tiago Margarido,1443,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109661
+22,dom 18/02/2024,12:30,Feirense,Nacional,4-2-3-1,Tiago Margarido,2325,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109679
+23,sáb 24/02/2024,12:30,Nacional,Penafiel,4-2-3-1,Tiago Margarido,1550,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109652
+24,dom 03/03/2024,08:00,UD Oliveirense,Nacional,4-2-3-1,Tiago Margarido,368,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109672
+25,sáb 09/03/2024,11:00,Nacional,Académico FC,4-2-3-1,Tiago Margarido,1625,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109643
+26,dom 17/03/2024,11:00,Santa Clara,Nacional,4-2-3-1,Tiago Margarido,3018,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109696
+27,sáb 30/03/2024,08:00,Leiria,Nacional,4-2-3-1,Tiago Margarido,5097,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109896
+28,sáb 06/04/2024,11:30,Nacional,AVS,4-2-3-1,Tiago Margarido,2758,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109713
+29,dom 14/04/2024,07:00,Paços Ferreira,Nacional,4-2-3-1,Tiago Margarido,2268,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109690
+30,seg 22/04/2024,14:00,Nacional,Benfica B,4-2-3-1,Tiago Margarido,2142,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109728
+31,dom 28/04/2024,11:30,Belenenses,Nacional,4-2-3-1,Tiago Margarido,2598,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109767
+32,dom 05/05/2024,10:00,Nacional,FC Porto B,4-2-3-1,Tiago Margarido,3586,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109742
+33,dom 12/05/2024,07:00,CD Tondela,Nacional,4-2-3-1,Tiago Margarido,962,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109750
+34,dom 19/05/2024,12:30,Nacional,Mafra,4-2-3-1,Tiago Margarido,5083,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109738

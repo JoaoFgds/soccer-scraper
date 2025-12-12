@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 16/04/2018,20:00,São Paulo,Paraná,4-2-3-1,Rogério Micale,11327,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3011404
+2,dom 22/04/2018,11:00,Paraná,Corinthians,4-3-3 defensivo,Rogério Micale,16772,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3034134
+3,dom 29/04/2018,16:00,Paraná,Sport,4-3-3 defensivo,Rogério Micale,8490,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3034145
+4,seg 07/05/2018,20:00,Chapecoense,Paraná,4-3-3 defensivo,Rogério Micale,7838,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036824
+5,dom 13/05/2018,19:00,Santos,Paraná,4-3-3 defensivo,Rogério Micale,3971,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036834
+6,dom 20/05/2018,16:00,Paraná,Grêmio,4-3-1-2,Rogério Micale,8639,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036839
+7,dom 27/05/2018,11:00,Paraná,Atlético-PR,4-3-1-2,Rogério Micale,7450,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036848
+8,qua 30/05/2018,19:30,Vasco da Gama,Paraná,4-3-1-2,Rogério Micale,4584,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036855
+9,seg 04/06/2018,20:00,Paraná,Fluminense,4-3-3 defensivo,Rogério Micale,4353,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036874
+10,qui 07/06/2018,20:00,Paraná,Bahia,4-3-1-2,Rogério Micale,4927,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036882
+11,dom 10/06/2018,19:00,Flamengo,Paraná,4-3-3 defensivo,Rogério Micale,59488,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036890
+12,qua 13/06/2018,19:30,Paraná,Cruzeiro,4-2-3-1,Rogério Micale,5131,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036896
+13,qua 18/07/2018,21:00,Vitória,Paraná,4-2-3-1,Rogério Micale,6598,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036908
+14,dom 22/07/2018,16:00,Paraná,América-MG,4-2-3-1,Rogério Micale,4044,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036916
+15,qua 25/07/2018,21:00,Atlético-MG,Paraná,4-2-3-1,Rogério Micale,17244,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036925
+16,dom 29/07/2018,11:00,Palmeiras,Paraná,4-2-3-1,Rogério Micale,35776,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036943
+17,dom 05/08/2018,16:00,Paraná,Ceará,4-2-3-1,Rogério Micale,8639,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036946
+18,dom 12/08/2018,11:00,Paraná,Botafogo,4-2-3-1,Rogério Micale,5443,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036956
+19,dom 19/08/2018,11:00,Internacional,Paraná,4-2-3-1,Claudinei Oliveira,44959,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036974
+20,qua 22/08/2018,19:30,Paraná,São Paulo,4-1-4-1,Claudinei Oliveira,8561,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036976
+21,sáb 25/08/2018,19:00,Corinthians,Paraná,4-1-4-1,Claudinei Oliveira,28375,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036993
+22,dom 02/09/2018,16:00,Sport,Paraná,4-1-4-1,Claudinei Oliveira,13966,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037002
+23,qua 05/09/2018,21:00,Paraná,Chapecoense,4-2-3-1,Claudinei Oliveira,2829,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037006
+24,dom 09/09/2018,19:00,Paraná,Santos,4-2-3-1,Claudinei Oliveira,4504,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037016
+25,sáb 15/09/2018,16:00,Grêmio,Paraná,4-1-4-1,Claudinei Oliveira,20198,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037034
+26,dom 23/09/2018,16:00,Atlético-PR,Paraná,4-1-4-1,Claudinei Oliveira,15831,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037036
+27,seg 01/10/2018,20:00,Paraná,Vasco da Gama,4-1-4-1,Claudinei Oliveira,3894,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037046
+28,seg 08/10/2018,20:00,Fluminense,Paraná,4-1-4-1,Claudinei Oliveira,6715,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037059
+29,sáb 13/10/2018,21:00,Bahia,Paraná,4-1-4-1,Claudinei Oliveira,29328,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037068
+30,dom 21/10/2018,19:00,Paraná,Flamengo,4-2-3-1,Dado Cavalcanti,4271,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037076
+31,sáb 27/10/2018,23:00,Cruzeiro,Paraná,4-3-3 ofensivo,Dado Cavalcanti,18783,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037085
+32,dom 04/11/2018,17:00,Paraná,Vitória,4-1-4-1,Dado Cavalcanti,1328,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037096
+33,sáb 10/11/2018,17:00,América-MG,Paraná,4-2-3-1,Dado Cavalcanti,5074,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037107
+34,qua 14/11/2018,21:00,Paraná,Atlético-MG,4-2-3-1,Dado Cavalcanti,1610,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037116
+35,dom 18/11/2018,17:00,Paraná,Palmeiras,4-2-3-1,Dado Cavalcanti,25076,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037126
+36,qui 22/11/2018,21:00,Ceará,Paraná,4-1-4-1,Dado Cavalcanti,48824,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037141
+37,seg 26/11/2018,20:00,Botafogo,Paraná,4-1-4-1,Dado Cavalcanti,28972,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037150
+38,dom 02/12/2018,17:00,Paraná,Internacional,4-2-3-1,Dado Cavalcanti,2975,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037156

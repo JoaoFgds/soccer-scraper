@@ -1,0 +1,17 @@
+league_name,season_year,canonical_name,other_name,precision_score,is_confident_match
+ligaportugal,2008,academicadecoimbra,academica,67,False
+ligaportugal,2008,cdnacional,nacional,89,True
+ligaportugal,2008,cfosbelenenses,belenenses,83,True
+ligaportugal,2008,clubedesportivotrofense,trofense,52,False
+ligaportugal,2008,clubefutebolestreladaamadora,cfestrela,49,False
+ligaportugal,2008,clubsportmaritimo,maritimo,64,False
+ligaportugal,2008,fcpacosdeferreira,pacosferreira,87,True
+ligaportugal,2008,fcporto,fcporto,100,True
+ligaportugal,2008,leixoessc,leixoes,88,True
+ligaportugal,2008,naval1odemaio,naval1odemaio,100,True
+ligaportugal,2008,rioavefutebolclube,rioave,50,False
+ligaportugal,2008,scbraga,braga,83,True
+ligaportugal,2008,slbenfica,benfica,88,True
+ligaportugal,2008,sportingcp,sporting,89,True
+ligaportugal,2008,vitoriafutebolclube,vitoriafc,64,False
+ligaportugal,2008,vitoriasportclube,vitguimaraes,48,False

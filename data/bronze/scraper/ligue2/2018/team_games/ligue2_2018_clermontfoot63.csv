@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 27/07/2018,15:00,Clermont Foot,LB Châteauroux,4-2-3-1,Pascal Gastien,2873,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047903
+2,sex 03/08/2018,15:00,Chamois Niort,Clermont Foot,4-2-3-1,Pascal Gastien,3619,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047916
+3,sáb 11/08/2018,10:00,Clermont Foot,FC Metz,4-2-3-1,Pascal Gastien,3148,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047923
+4,sex 17/08/2018,15:00,Le Havre,Clermont Foot,4-2-3-1,Pascal Gastien,6641,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047933
+5,sex 24/08/2018,15:00,Clermont Foot,FC Sochaux,4-2-3-1,Pascal Gastien,2544,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047943
+6,sex 31/08/2018,15:00,Valenciennes,Clermont Foot,4-2-3-1,Pascal Gastien,6384,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047959
+7,sex 14/09/2018,15:00,Clermont Foot,Auxerre,4-2-3-1,Pascal Gastien,2616,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047963
+8,sex 21/09/2018,15:00,FC Lorient,Clermont Foot,4-2-3-1,Pascal Gastien,6834,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047975
+9,sex 28/09/2018,15:00,Clermont Foot,G. Ajaccio,4-2-3-1,Pascal Gastien,2493,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047983
+10,sex 05/10/2018,15:00,Grenoble,Clermont Foot,4-2-3-1,Pascal Gastien,6389,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047993
+11,sex 19/10/2018,15:00,Clermont Foot,Red Star FC,4-2-3-1,Pascal Gastien,2856,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048003
+12,seg 29/10/2018,16:45,Clermont Foot,Brest,4-2-3-1,Pascal Gastien,2971,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048072
+13,sex 02/11/2018,16:00,AS Nancy,Clermont Foot,4-2-3-1,Pascal Gastien,10439,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048084
+14,sex 09/11/2018,17:00,Clermont Foot,US Orléans,4-2-3-1,Pascal Gastien,2234,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048093
+15,sex 23/11/2018,17:00,AC Ajaccio,Clermont Foot,4-2-3-1,Pascal Gastien,2537,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048099
+16,sex 30/11/2018,17:00,Clermont Foot,AS Béziers,4-2-3-1,Pascal Gastien,2215,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048118
+17,ter 04/12/2018,18:00,Paris FC,Clermont Foot,4-2-3-1,Pascal Gastien,2023,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048138
+18,sáb 15/12/2018,12:00,Clermont Foot,Lens,4-2-3-1,Pascal Gastien,3351,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048150
+19,sex 21/12/2018,17:30,Troyes,Clermont Foot,4-2-3-1,Pascal Gastien,8784,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048178
+20,sex 11/01/2019,17:00,Clermont Foot,Chamois Niort,4-2-3-1,Pascal Gastien,1893,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048210
+21,sex 18/01/2019,17:00,FC Metz,Clermont Foot,4-2-3-1,Pascal Gastien,8715,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048231
+22,seg 28/01/2019,16:00,Clermont Foot,Le Havre,4-2-3-1,Pascal Gastien,2759,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048238
+23,sex 01/02/2019,17:00,FC Sochaux,Clermont Foot,4-2-3-1,Pascal Gastien,5114,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048268
+24,sex 08/02/2019,17:00,Clermont Foot,Valenciennes,4-2-3-1,Pascal Gastien,2277,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048272
+25,sex 15/02/2019,17:00,Auxerre,Clermont Foot,4-2-3-1,Pascal Gastien,3883,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048280
+26,sex 22/02/2019,16:00,Clermont Foot,FC Lorient,4-2-3-1,Pascal Gastien,3437,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048292
+27,sex 01/03/2019,16:00,G. Ajaccio,Clermont Foot,4-2-3-1,Pascal Gastien,2387,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048803
+28,sex 08/03/2019,16:00,Clermont Foot,Grenoble,4-2-3-1,Pascal Gastien,2933,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048816
+29,sex 15/03/2019,16:00,Red Star FC,Clermont Foot,4-2-3-1,Pascal Gastien,2380,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048896
+30,sex 29/03/2019,16:00,Brest,Clermont Foot,4-2-3-1,Pascal Gastien,9172,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048901
+31,sex 05/04/2019,15:00,Clermont Foot,AS Nancy,4-2-3-1,Pascal Gastien,3038,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048912
+32,sex 12/04/2019,15:00,US Orléans,Clermont Foot,4-2-3-1,Pascal Gastien,5503,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048925
+33,sex 19/04/2019,15:00,Clermont Foot,AC Ajaccio,4-2-3-1,Pascal Gastien,2895,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048933
+34,ter 23/04/2019,15:00,AS Béziers,Clermont Foot,4-2-3-1,Pascal Gastien,2801,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048941
+35,sex 26/04/2019,15:00,Clermont Foot,Paris FC,4-2-3-1,Pascal Gastien,2610,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048952
+36,sáb 04/05/2019,10:00,Lens,Clermont Foot,4-2-3-1,Pascal Gastien,20343,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048963
+37,sex 10/05/2019,15:45,Clermont Foot,Troyes,4-2-3-1,Pascal Gastien,4381,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048972
+38,sex 17/05/2019,15:45,LB Châteauroux,Clermont Foot,4-2-3-1,Pascal Gastien,7414,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048981

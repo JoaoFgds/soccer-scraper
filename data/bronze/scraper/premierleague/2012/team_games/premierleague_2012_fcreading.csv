@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 18/08/2012,11:00,Reading,Stoke,4-4-2,Brian McDermott,23973,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2230143
+2,ter 11/12/2012,17:45,AFC Sunderland,Reading,4-4-2 duplo 6,Brian McDermott,37723,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225443
+3,qua 22/08/2012,15:45,Chelsea,Reading,4-1-4-1,Brian McDermott,41733,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225459
+4,dom 16/09/2012,12:00,Reading,Tottenham,4-4-2,Brian McDermott,24160,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225466
+5,sáb 22/09/2012,11:00,West Brom,Reading,4-4-2 duplo 6,Brian McDermott,23854,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225478
+6,sáb 29/09/2012,11:00,Reading,Newcastle,4-4-2 duplo 6,Brian McDermott,24097,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225493
+7,sáb 06/10/2012,11:00,Swansea,Reading,4-4-2 duplo 6,Brian McDermott,20336,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225488
+8,sáb 20/10/2012,11:00,Liverpool,Reading,4-4-1-1,Brian McDermott,44874,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225508
+9,sáb 27/10/2012,12:00,Reading,Fulham,4-4-2,Brian McDermott,24093,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225516
+10,dom 04/11/2012,11:30,QPR,Reading,4-4-2 duplo 6,Brian McDermott,16797,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225533
+11,sáb 10/11/2012,13:00,Reading,Norwich,4-4-2 duplo 6,Brian McDermott,24080,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225530
+12,sáb 17/11/2012,13:00,Reading,Everton,4-4-2 duplo 6,Brian McDermott,24184,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225553
+13,sáb 24/11/2012,13:00,Wigan,Reading,4-4-2 duplo 6,Brian McDermott,15436,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225557
+14,ter 27/11/2012,18:00,Aston Villa,Reading,4-4-2,Brian McDermott,28692,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225555
+15,sáb 01/12/2012,15:30,Reading,Man Utd,4-4-2 duplo 6,Brian McDermott,24095,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250051
+16,sáb 08/12/2012,13:00,Southampton,Reading,4-4-2 duplo 6,Brian McDermott,29331,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2258920
+17,seg 17/12/2012,18:00,Reading,Arsenal,4-4-2 duplo 6,Brian McDermott,24125,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2258932
+18,sáb 22/12/2012,13:00,Man City,Reading,4-5-1 plano,Brian McDermott,47007,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2258938
+19,qua 26/12/2012,13:00,Reading,Swansea,4-1-4-1,Brian McDermott,24050,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2258953
+20,sáb 29/12/2012,13:00,Reading,West Ham,4-2-3-1,Brian McDermott,24183,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2258963
+21,ter 01/01/2013,13:00,Tottenham,Reading,4-2-3-1,Brian McDermott,36180,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2258972
+22,sáb 12/01/2013,13:00,Reading,West Brom,4-2-3-1,Brian McDermott,23495,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2258983
+23,sáb 19/01/2013,13:00,Newcastle,Reading,4-5-1 plano,Brian McDermott,49411,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2258989
+24,qua 30/01/2013,18:00,Reading,Chelsea,4-1-4-1,Brian McDermott,24097,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2258998
+25,sáb 02/02/2013,13:00,Reading,AFC Sunderland,4-3-3 defensivo,Brian McDermott,23829,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250148
+26,sáb 09/02/2013,13:00,Stoke,Reading,4-4-2 duplo 6,Brian McDermott,26737,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250158
+27,sáb 23/02/2013,12:00,Reading,Wigan,4-1-4-1,Brian McDermott,22321,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225696
+28,sáb 02/03/2013,12:00,Everton,Reading,4-2-3-1,Brian McDermott,35244,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225710
+29,sáb 09/03/2013,12:00,Reading,Aston Villa,4-4-2 duplo 6,Brian McDermott,24102,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225734
+30,sáb 16/03/2013,14:30,Man Utd,Reading,4-5-1 plano,Eamonn Dolan †,75605,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225706
+31,sáb 30/03/2013,12:00,Arsenal,Reading,4-1-4-1,Nigel Adkins,60082,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225721
+32,sáb 06/04/2013,08:45,Reading,Southampton,4-1-4-1,Nigel Adkins,24108,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225801
+33,sáb 13/04/2013,11:00,Reading,Liverpool,4-2-3-1,Nigel Adkins,24139,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225754
+34,sáb 20/04/2013,11:00,Norwich,Reading,4-2-3-1,Nigel Adkins,26460,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225778
+35,dom 28/04/2013,09:30,Reading,QPR,4-2-3-1,Nigel Adkins,23388,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225786
+36,sáb 04/05/2013,11:00,Fulham,Reading,4-2-3-1,Nigel Adkins,24087,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225758
+37,ter 14/05/2013,16:00,Reading,Man City,4-2-3-1,Nigel Adkins,22859,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225751
+38,dom 19/05/2013,12:00,West Ham,Reading,4-2-3-1,Nigel Adkins,34973,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2225774

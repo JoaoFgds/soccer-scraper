@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 17/08/2024,11:00,Arsenal,Wolves,4-2-3-1,Gary O'Neil,60261,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361263
+2,dom 25/08/2024,10:00,Wolves,Chelsea,4-2-3-1,Gary O'Neil,31235,2:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361280
+3,sáb 31/08/2024,11:00,Nott'm Forest,Wolves,4-4-1-1,Gary O'Neil,29918,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361298
+4,dom 15/09/2024,12:30,Wolves,Newcastle,4-4-1-1,Gary O'Neil,32050,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361359
+5,sáb 21/09/2024,11:00,Aston Villa,Wolves,4-1-4-1,Gary O'Neil,39978,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361360
+6,sáb 28/09/2024,13:30,Wolves,Liverpool,4-1-4-1,Gary O'Neil,31413,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361379
+7,sáb 05/10/2024,11:00,Brentford,Wolves,4-1-4-1,Gary O'Neil,16960,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361382
+8,dom 20/10/2024,10:00,Wolves,Man City,3-5-2 plano,Gary O'Neil,31319,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361399
+9,sáb 26/10/2024,11:00,Brighton,Wolves,3-4-2-1,Gary O'Neil,31840,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361403
+10,sáb 02/11/2024,14:30,Wolves,Crystal Palace,3-4-2-1,Gary O'Neil,29505,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361419
+11,sáb 09/11/2024,12:00,Wolves,Southampton,3-4-2-1,Gary O'Neil,31403,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361429
+12,sáb 23/11/2024,12:00,Fulham,Wolves,3-4-2-1,Gary O'Neil,26685,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361434
+13,sáb 30/11/2024,12:00,Wolves,Bournemouth,4-2-3-1,Gary O'Neil,26685,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361449
+14,qua 04/12/2024,16:30,Everton,Wolves,3-4-2-1,Gary O'Neil,38820,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361453
+15,seg 09/12/2024,17:00,West Ham,Wolves,3-4-2-1,Gary O'Neil,62435,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361468
+16,sáb 14/12/2024,12:00,Wolves,Ipswich,3-4-2-1,Gary O'Neil,30866,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361479
+17,dom 22/12/2024,11:00,Leicester,Wolves,3-4-2-1,Vítor Pereira,31818,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361486
+18,qui 26/12/2024,14:30,Wolves,Man Utd,3-4-2-1,Vítor Pereira,31407,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361499
+19,dom 29/12/2024,12:00,Tottenham,Wolves,3-4-2-1,Vítor Pereira,61284,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361508
+20,seg 06/01/2025,17:00,Wolves,Nott'm Forest,3-4-3 plano,Vítor Pereira,29940,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361519
+21,qua 15/01/2025,16:30,Newcastle,Wolves,3-4-2-1,Vítor Pereira,51975,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361528
+22,seg 20/01/2025,17:00,Chelsea,Wolves,3-4-2-1,Vítor Pereira,39221,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362730
+23,sáb 25/01/2025,12:00,Wolves,Arsenal,3-4-2-1,Vítor Pereira,31503,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362747
+24,sáb 01/02/2025,14:30,Wolves,Aston Villa,3-4-2-1,Vítor Pereira,31385,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362757
+25,dom 16/02/2025,11:00,Liverpool,Wolves,3-4-2-1,Vítor Pereira,60401,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362763
+26,sáb 22/02/2025,12:00,Bournemouth,Wolves,3-4-2-1,Vítor Pereira,11206,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362768
+27,ter 25/02/2025,16:30,Wolves,Fulham,3-4-2-1,Vítor Pereira,28708,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362783
+28,sáb 08/03/2025,17:00,Wolves,Everton,3-4-2-1,Vítor Pereira,30738,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362797
+29,sáb 15/03/2025,12:00,Southampton,Wolves,3-4-2-1,Vítor Pereira,30950,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362807
+30,ter 01/04/2025,15:45,Wolves,West Ham,3-4-2-1,Vítor Pereira,30537,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362812
+31,sáb 05/04/2025,11:00,Ipswich,Wolves,3-4-2-1,Vítor Pereira,29549,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362823
+32,dom 13/04/2025,10:00,Wolves,Tottenham,3-4-2-1,Vítor Pereira,31463,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362837
+33,dom 20/04/2025,10:00,Man Utd,Wolves,3-4-2-1,Vítor Pereira,73819,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362845
+34,sáb 26/04/2025,11:00,Wolves,Leicester,3-4-2-1,Vítor Pereira,31518,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362857
+35,sex 02/05/2025,16:00,Man City,Wolves,3-4-2-1,Vítor Pereira,53282,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362866
+36,sáb 10/05/2025,11:00,Wolves,Brighton,3-4-2-1,Vítor Pereira,31279,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362877
+37,ter 20/05/2025,16:00,Crystal Palace,Wolves,3-4-2-1,Vítor Pereira,24766,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362883
+38,dom 25/05/2025,12:00,Wolves,Brentford,3-4-2-1,Vítor Pereira,31382,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361539

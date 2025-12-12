@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 08/08/2021,14:00,FC Porto,B SAD,3-5-2 plano,Petit,15429,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621348
+2,seg 16/08/2021,17:15,B SAD,Marítimo,3-1-4-2,Petit,653,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621360
+3,sáb 21/08/2021,16:30,Sporting,B SAD,3-1-4-2,Petit,13145,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621365
+4,sex 27/08/2021,15:00,B SAD,Moreirense,3-4-3 plano,Petit,573,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621379
+5,dom 12/09/2021,16:30,Vit. Guimarães,B SAD,3-4-3 plano,Nuno Pereira,10462,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621386
+6,sáb 18/09/2021,14:00,B SAD,Gil Vicente,3-4-3 plano,Petit,673,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621405
+7,seg 27/09/2021,15:00,Paços Ferreira,B SAD,3-1-4-2,Petit,1307,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621393
+8,dom 03/10/2021,11:30,B SAD,CD Tondela,4-4-2 duplo 6,Petit,686,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621423
+9,seg 25/10/2021,17:15,Boavista,B SAD,3-1-4-2,Filipe Cândido,2043,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621434
+10,dom 31/10/2021,15:00,B SAD,Santa Clara,3-1-4-2,Filipe Cândido,932,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621415
+11,sáb 06/11/2021,15:00,Portimonense,B SAD,3-4-3 plano,Filipe Cândido,1185,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621480
+12,sáb 27/11/2021,17:30,B SAD,Benfica,5-3-2,Filipe Cândido,6096,0:7,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621442
+13,dom 02/01/2022,15:30,Vizela,B SAD,3-4-3 plano,Filipe Cândido,1310,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621490
+14,dom 12/12/2021,12:30,B SAD,Estoril,3-4-2-1,Filipe Cândido,724,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621461
+15,dom 19/12/2021,18:00,Braga,B SAD,3-5-2 plano,Filipe Cândido,3477,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621492
+16,qui 13/01/2022,15:00,Famalicão,B SAD,4-3-3 ofensivo,Franclim Carvalho,2633,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621469
+17,dom 09/01/2022,17:30,B SAD,Arouca,3-5-2,Filipe Cândido,323,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621449
+18,dom 16/01/2022,17:30,B SAD,FC Porto,3-4-3 plano,Franclim Carvalho,6992,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621501
+19,dom 23/01/2022,12:30,Marítimo,B SAD,4-4-2 duplo 6,Franclim Carvalho,3624,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621605
+20,qua 02/02/2022,17:45,B SAD,Sporting,5-4-1 plano,Franclim Carvalho,4463,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621509
+21,seg 07/02/2022,18:15,Moreirense,B SAD,4-2-3-1,Franclim Carvalho,1231,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621532
+22,dom 13/02/2022,15:00,B SAD,Vit. Guimarães,4-4-2,Franclim Carvalho,1089,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621521
+23,sáb 19/02/2022,12:30,Gil Vicente,B SAD,3-5-2 plano,Franclim Carvalho,2862,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621549
+24,sex 25/02/2022,17:15,B SAD,Paços Ferreira,4-4-2 duplo 6,Franclim Carvalho,1287,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621572
+25,seg 07/03/2022,17:15,CD Tondela,B SAD,3-4-1-2,Franclim Carvalho,752,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621609
+26,sáb 12/03/2022,17:30,B SAD,Boavista,3-4-3 plano,Franclim Carvalho,683,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621612
+27,sáb 19/03/2022,15:00,Santa Clara,B SAD,4-2-3-1,Franclim Carvalho,1164,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621541
+28,sáb 02/04/2022,11:30,B SAD,Portimonense,4-3-3 ofensivo,Franclim Carvalho,1409,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621637
+29,sáb 09/04/2022,14:00,Benfica,B SAD,4-2-3-1,Franclim Carvalho,34183,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621611
+30,sáb 16/04/2022,14:00,B SAD,Vizela,4-2-3-1,Franclim Carvalho,1384,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621652
+31,dom 24/04/2022,14:00,Estoril,B SAD,4-2-3-1,Franclim Carvalho,1425,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621634
+32,sáb 30/04/2022,17:00,B SAD,Braga,4-2-3-1,Franclim Carvalho,1834,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621574
+33,seg 09/05/2022,16:15,B SAD,Famalicão,4-3-3 ofensivo,Franclim Carvalho,1173,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621598
+34,sáb 14/05/2022,11:30,Arouca,B SAD,4-2-3-1,Franclim Carvalho,2190,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621578

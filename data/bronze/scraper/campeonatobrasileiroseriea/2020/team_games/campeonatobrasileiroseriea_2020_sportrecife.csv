@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 08/08/2020,21:00,Sport,Ceará,4-2-3-1,Daniel Paulista,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3392043
+2,qui 13/08/2020,20:00,Vasco da Gama,Sport,4-2-3-1,Daniel Paulista,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3411149
+3,dom 16/08/2020,19:00,Atlético-GO,Sport,4-2-3-1,Daniel Paulista,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416085
+4,qui 20/08/2020,19:15,Sport,Santos,4-2-3-1,Daniel Paulista,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416224
+5,dom 23/08/2020,19:00,Sport,São Paulo,4-2-3-1,Daniel Paulista,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416108
+6,dom 30/08/2020,16:00,Coritiba,Sport,4-4-2 duplo 6,Jair Ventura,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416115
+7,qui 03/09/2020,19:00,Grêmio,Sport,4-3-2-1,Jair Ventura,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416126
+8,dom 06/09/2020,20:30,Sport,Goiás,4-2-3-1,Jair Ventura,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416137
+9,qua 09/09/2020,18:00,Fortaleza,Sport,4-2-3-1,Jair Ventura,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416171
+10,dom 13/09/2020,19:45,Palmeiras,Sport,4-2-3-1,Jair Ventura,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416243
+11,dom 20/09/2020,20:30,Sport,Fluminense,4-3-1-2,Jair Ventura,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417537
+12,qua 23/09/2020,21:30,Sport,Corinthians,4-2-3-1,Jair Ventura,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417551
+13,dom 04/10/2020,18:15,Bahia,Sport,4-2-3-1,Jair Ventura,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417561
+14,qua 07/10/2020,19:15,Flamengo,Sport,4-2-3-1,Jair Ventura,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417565
+15,dom 11/10/2020,18:15,Sport,Botafogo,4-2-3-1,Jair Ventura,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417581
+16,qua 14/10/2020,21:30,Sport,Internacional,4-2-3-1,Jair Ventura,x,3:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417591
+17,dom 18/10/2020,20:30,Bragantino,Sport,4-2-3-1,Jair Ventura,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417598
+18,sáb 24/10/2020,23:00,Atlético-MG,Sport,5-4-1,Jair Ventura,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417609
+19,dom 01/11/2020,16:00,Sport,Athletico-PR,4-4-2,Jair Ventura,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417621
+20,sáb 07/11/2020,17:00,Ceará,Sport,3-4-2-1,Jair Ventura,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417631
+21,sáb 14/11/2020,16:30,Sport,Vasco da Gama,4-2-3-1,Jair Ventura,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417636
+22,seg 23/11/2020,19:00,Sport,Atlético-GO,4-4-2 duplo 6,Jair Ventura,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417669
+23,sáb 28/11/2020,16:00,Santos,Sport,3-4-2-1,Jair Ventura,x,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417671
+24,dom 06/12/2020,16:00,São Paulo,Sport,5-4-1,Jair Ventura,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417651
+25,dom 13/12/2020,17:15,Sport,Coritiba,4-2-3-1,Jair Ventura,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417682
+26,sáb 19/12/2020,19:00,Sport,Grêmio,4-2-3-1,Jair Ventura,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417700
+27,sáb 26/12/2020,19:00,Goiás,Sport,4-2-3-1,Jair Ventura,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417692
+28,qua 06/01/2021,19:30,Sport,Fortaleza,4-2-3-1,Jair Ventura,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417507
+29,sáb 09/01/2021,18:00,Sport,Palmeiras,4-2-3-1,Jair Ventura,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417517
+30,sáb 16/01/2021,19:00,Fluminense,Sport,4-2-3-1,Jair Ventura,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417521
+31,qui 21/01/2021,21:00,Corinthians,Sport,4-2-3-1,Jair Ventura,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417709
+32,dom 24/01/2021,18:15,Sport,Bahia,4-2-3-1,Jair Ventura,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417810
+33,seg 01/02/2021,20:00,Sport,Flamengo,4-2-3-1,Jair Ventura,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418072
+34,sex 05/02/2021,19:00,Botafogo,Sport,4-4-2,Jair Ventura,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418077
+35,qua 10/02/2021,18:00,Internacional,Sport,3-4-2-1,Jair Ventura,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418091
+36,seg 15/02/2021,20:00,Sport,Bragantino,3-4-2-1,Jair Ventura,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418102
+37,dom 21/02/2021,16:00,Sport,Atlético-MG,5-4-1,Jair Ventura,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418112
+38,qui 25/02/2021,21:30,Athletico-PR,Sport,5-3-2,Jair Ventura,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418123

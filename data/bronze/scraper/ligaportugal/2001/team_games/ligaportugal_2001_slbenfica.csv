@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 11/08/2001,17:00,Varzim,Benfica,4-2-3-1,Toni,7500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854033
+2,dom 19/08/2001,15:00,Benfica,Salgueiros,4-1-3-2,Toni,50000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854232
+3,sex 24/08/2001,19:00,Benfica,Vitória FC,?,Toni,40000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854246
+4,sáb 08/09/2001,19:00,Beira-Mar,Benfica,4-2-3-1,Toni,11000,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854258
+5,sex 14/09/2001,19:00,Benfica,FC Porto,4-4-2 duplo 6,Toni,80000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854265
+6,sáb 22/09/2001,19:00,Belenenses,Benfica,?,Toni,6000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854278
+7,sáb 29/09/2001,19:00,Benfica,Alverca,?,Toni,30000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854285
+8,sex 12/10/2001,19:00,Leiria,Benfica,?,Jesualdo Ferreira,5000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854295
+9,sex 19/10/2001,20:00,Benfica,Gil Vicente,?,Toni,17800,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854301
+10,qui 25/10/2001,20:00,Farense,Benfica,?,Toni,8000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854310
+11,sáb 03/11/2001,17:30,Benfica,Vit. Guimarães,4-2-3-1,Toni,45000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854319
+12,sex 23/11/2001,21:00,Braga,Benfica,?,Toni,20000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854329
+13,sáb 01/12/2001,21:00,Benfica,Santa Clara,?,Toni,30000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854342
+14,sex 07/12/2001,21:00,Paços Ferreira,Benfica,?,Toni,7000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854347
+15,sex 14/12/2001,21:00,Benfica,Sporting,4-2-3-1,Toni,75000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854357
+16,sáb 22/12/2001,21:00,Boavista,Benfica,?,Toni,10000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854371
+17,sex 04/01/2002,21:00,Benfica,Marítimo,?,Jesualdo Ferreira,6000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854375
+18,sex 11/01/2002,21:00,Benfica,Varzim,?,Jesualdo Ferreira,12000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854382
+19,sex 18/01/2002,21:00,Salgueiros,Benfica,?,Jesualdo Ferreira,3500,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854391
+20,dom 27/01/2002,18:00,Vitória FC,Benfica,4-2-3-1,Jesualdo Ferreira,14000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854420
+21,sáb 02/02/2002,21:00,Benfica,Beira-Mar,?,Jesualdo Ferreira,14200,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854424
+22,dom 10/02/2002,17:00,FC Porto,Benfica,4-2-3-1,Jesualdo Ferreira,46225,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854438
+23,sáb 16/02/2002,20:00,Benfica,Belenenses,?,Jesualdo Ferreira,26000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854441
+24,sáb 23/02/2002,20:00,Alverca,Benfica,?,Jesualdo Ferreira,4000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854451
+25,sex 01/03/2002,20:00,Benfica,Leiria,?,Jesualdo Ferreira,24500,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854457
+26,sex 08/03/2002,20:00,Gil Vicente,Benfica,?,Jesualdo Ferreira,6000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854468
+27,seg 18/03/2002,17:30,Benfica,Farense,4-2-3-1,Jesualdo Ferreira,5000,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854483
+28,sex 22/03/2002,20:00,Vit. Guimarães,Benfica,?,Jesualdo Ferreira,13680,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854486
+29,sex 29/03/2002,20:00,Benfica,Braga,?,Jesualdo Ferreira,16200,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854494
+30,sáb 06/04/2002,13:00,Santa Clara,Benfica,4-2-3-1,Jesualdo Ferreira,10000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3519920
+31,dom 14/04/2002,14:30,Benfica,Paços Ferreira,4-2-3-1,Jesualdo Ferreira,12850,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854516
+32,sáb 20/04/2002,19:00,Sporting,Benfica,4-2-3-1,Jesualdo Ferreira,42290,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854523
+33,sáb 27/04/2002,19:00,Benfica,Boavista,?,Jesualdo Ferreira,20000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854535
+34,sáb 04/05/2002,19:00,Marítimo,Benfica,?,Jesualdo Ferreira,10000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854540

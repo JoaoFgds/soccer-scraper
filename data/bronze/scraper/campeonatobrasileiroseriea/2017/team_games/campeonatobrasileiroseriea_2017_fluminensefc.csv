@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 14/05/2017,11:00,Fluminense,Santos,4-2-3-1,Abel Braga,11835,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2846990
+2,dom 21/05/2017,16:00,Atlético-MG,Fluminense,4-2-3-1,Abel Braga,16145,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856243
+3,sáb 27/05/2017,16:00,Vasco da Gama,Fluminense,4-3-3 ofensivo,Abel Braga,19082,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2859543
+4,sáb 03/06/2017,19:00,Fluminense,Vitória,4-3-3 ofensivo,Abel Braga,13801,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2864517
+5,ter 06/06/2017,21:00,Fluminense,Atlético-PR,4-2-3-1,Abel Braga,13029,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2864526
+6,sáb 10/06/2017,16:00,Palmeiras,Fluminense,4-2-3-1,Abel Braga,33066,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2864536
+7,qui 15/06/2017,21:00,Fluminense,Grêmio,4-2-3-1,Abel Braga,10273,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2864555
+8,dom 18/06/2017,16:00,Fluminense,Flamengo,4-2-3-1,Abel Braga,14632,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2865574
+9,qua 21/06/2017,21:45,Avaí,Fluminense,4-2-3-1,Abel Braga,5239,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2865589
+10,dom 25/06/2017,16:00,São Paulo,Fluminense,4-2-3-1,Abel Braga,17742,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2866361
+11,seg 03/07/2017,20:00,Fluminense,Chapecoense,4-2-3-1,Abel Braga,7536,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2868185
+12,dom 09/07/2017,16:00,Bahia,Fluminense,4-2-3-1,Abel Braga,18267,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2874739
+13,qua 12/07/2017,21:00,Fluminense,Botafogo,4-2-3-1,Abel Braga,14851,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883234
+14,dom 16/07/2017,19:00,Coritiba,Fluminense,4-3-3 ofensivo,Abel Braga,11686,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2888267
+15,qui 20/07/2017,19:30,Fluminense,Cruzeiro,4-3-3 ofensivo,Abel Braga,4757,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2888286
+16,dom 23/07/2017,16:00,Fluminense,Corinthians,4-3-1-2,Abel Braga,23863,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2890476
+17,qua 09/08/2017,20:00,Ponte Preta,Fluminense,4-3-1-2,Abel Braga,5977,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2895930
+18,qua 02/08/2017,19:30,Sport,Fluminense,4-3-1-2,Abel Braga,16918,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2900512
+19,sáb 05/08/2017,19:00,Fluminense,Atlético-GO,4-2-3-1,Abel Braga,27278,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2900531
+20,seg 14/08/2017,20:00,Santos,Fluminense,4-3-1-2,Abel Braga,22018,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2900536
+21,seg 21/08/2017,20:00,Fluminense,Atlético-MG,4-3-1-2,Abel Braga,10412,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2900542
+22,sáb 26/08/2017,16:00,Fluminense,Vasco da Gama,4-3-1-2,Abel Braga,23460,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2900552
+23,dom 10/09/2017,16:00,Vitória,Fluminense,4-3-1-2,Abel Braga,12444,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2917603
+24,dom 17/09/2017,16:00,Atlético-PR,Fluminense,4-3-1-2,Abel Braga,13404,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2922404
+25,dom 24/09/2017,16:00,Fluminense,Palmeiras,4-3-2-1,Abel Braga,13145,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2922412
+26,dom 01/10/2017,16:00,Grêmio,Fluminense,4-3-2-1,Abel Braga,15727,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2926079
+27,qui 12/10/2017,17:00,Flamengo,Fluminense,4-3-1-2,Abel Braga,38629,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2926089
+28,dom 15/10/2017,17:00,Fluminense,Avaí,4-3-1-2,Abel Braga,18006,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2926098
+29,ter 17/10/2017,20:00,Fluminense,São Paulo,4-2-3-1,Abel Braga,22999,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2937777
+30,dom 22/10/2017,19:00,Chapecoense,Fluminense,4-3-1-2,Abel Braga,10010,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2937792
+31,dom 29/10/2017,17:00,Fluminense,Bahia,4-2-3-1,Abel Braga,12841,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2943079
+32,sáb 04/11/2017,19:00,Botafogo,Fluminense,4-2-3-1,Abel Braga,11776,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2943400
+33,qui 09/11/2017,21:00,Fluminense,Coritiba,4-2-3-1,Abel Braga,10908,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2943418
+34,dom 12/11/2017,19:00,Cruzeiro,Fluminense,4-2-3-1,Abel Braga,8644,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2943426
+35,qua 15/11/2017,21:45,Corinthians,Fluminense,4-2-3-1,Abel Braga,46189,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2943431
+36,seg 20/11/2017,17:00,Fluminense,Ponte Preta,4-2-3-1,Abel Braga,17606,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2943439
+37,sáb 25/11/2017,17:00,Fluminense,Sport,4-1-4-1,Abel Braga,12819,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2969640
+38,dom 03/12/2017,17:00,Atlético-GO,Fluminense,4-2-3-1,Abel Braga,2996,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2969644

@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 08/08/2015,11:00,Charlton,QPR,4-4-2,Guy Luzon,19469,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578590
+2,sáb 15/08/2015,11:00,Derby,Charlton,4-4-2,Guy Luzon,29045,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578657
+3,ter 18/08/2015,15:45,Nott'm Forest,Charlton,4-4-2,Guy Luzon,17801,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578676
+4,sáb 22/08/2015,11:00,Charlton,Hull City,4-2-3-1,Guy Luzon,14844,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578691
+5,sáb 29/08/2015,11:00,Wolves,Charlton,4-4-2 duplo 6,Guy Luzon,19583,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578706
+6,sáb 12/09/2015,11:00,Charlton,Rotherham,4-4-2,Guy Luzon,15220,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578713
+7,ter 15/09/2015,15:45,Charlton,Huddersfield,4-4-2,Guy Luzon,13873,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578720
+8,sáb 19/09/2015,11:00,Blackburn,Charlton,4-4-2,Guy Luzon,12088,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578727
+9,sáb 26/09/2015,11:00,Cardiff,Charlton,4-4-2,Guy Luzon,13980,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578745
+10,dom 04/10/2015,08:00,Charlton,Fulham,4-4-2,Guy Luzon,14662,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578755
+11,sáb 17/10/2015,11:00,Reading,Charlton,4-4-2,Guy Luzon,17614,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578774
+12,ter 20/10/2015,16:45,Charlton,Preston NE,4-4-2,Guy Luzon,13586,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578783
+13,sáb 24/10/2015,12:00,Charlton,Brentford,4-4-2,Guy Luzon,14585,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578795
+14,sáb 31/10/2015,13:00,Middlesbrough,Charlton,4-1-4-1,Karel Fraeye,20943,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578810
+15,ter 03/11/2015,17:45,MK Dons,Charlton,4-4-2 duplo 6,Karel Fraeye,9575,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578814
+16,sáb 07/11/2015,13:00,Charlton,Sheff Wed,4-3-1-2,Karel Fraeye,16267,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578832
+17,sáb 21/11/2015,13:00,Birmingham,Charlton,4-3-1-2,Karel Fraeye,16514,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578824
+18,sáb 28/11/2015,10:30,Charlton,Ipswich,4-3-1-2,Karel Fraeye,15870,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578857
+19,sáb 05/12/2015,13:00,Brighton,Charlton,4-2-3-1,Karel Fraeye,24587,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578866
+20,sáb 12/12/2015,13:00,Charlton,Leeds,4-3-2-1,Karel Fraeye,15867,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578873
+21,ter 15/12/2015,17:45,Charlton,Bolton,4-2-3-1,Karel Fraeye,12294,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578885
+22,sáb 19/12/2015,13:00,FC Burnley,Charlton,4-3-1-2,Karel Fraeye,15697,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578906
+23,sáb 26/12/2015,13:00,Bristol City,Charlton,4-2-3-1,Karel Fraeye,15285,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578929
+24,seg 28/12/2015,13:00,Charlton,Wolves,4-2-3-1,Karel Fraeye,18059,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578922
+25,sáb 02/01/2016,13:00,Charlton,Nott'm Forest,4-2-3-1,Karel Fraeye,16090,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578936
+26,ter 12/01/2016,17:45,Huddersfield,Charlton,4-2-3-1,Karel Fraeye,9736,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578949
+27,sáb 16/01/2016,13:00,Hull City,Charlton,4-1-4-1,José Riga,16430,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578966
+28,sáb 23/01/2016,13:00,Charlton,Blackburn,4-4-2,José Riga,13512,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578969
+29,sáb 30/01/2016,13:00,Rotherham,Charlton,4-4-2,José Riga,9227,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578986
+30,sáb 06/02/2016,13:00,Charlton,Bristol City,4-4-2,José Riga,14342,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578994
+31,sáb 13/02/2016,13:00,Charlton,Cardiff,4-4-2,José Riga,16755,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2579001
+32,sáb 20/02/2016,13:00,Fulham,Charlton,4-4-2 duplo 6,José Riga,16565,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2579017
+33,ter 23/02/2016,16:45,Preston NE,Charlton,5-3-2,José Riga,10075,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2579033
+34,sáb 27/02/2016,12:00,Charlton,Reading,5-3-2,José Riga,21506,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2579047
+35,sáb 05/03/2016,12:00,Brentford,Charlton,4-2-3-1,José Riga,10108,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2579051
+36,ter 08/03/2016,16:45,Charlton,MK Dons,4-2-3-1,José Riga,13146,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2579058
+37,dom 13/03/2016,12:30,Charlton,Middlesbrough,4-4-2 duplo 6,José Riga,14636,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2579086
+38,sáb 19/03/2016,12:00,Sheff Wed,Charlton,4-4-2 duplo 6,José Riga,29668,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2579101
+39,sáb 02/04/2016,11:00,Charlton,Birmingham,4-4-2 duplo 6,José Riga,15742,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2579099
+40,ter 05/04/2016,15:45,Ipswich,Charlton,4-4-2 duplo 6,José Riga,17787,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2579111
+41,sáb 09/04/2016,11:00,QPR,Charlton,4-4-2 duplo 6,José Riga,15834,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2579130
+42,sáb 16/04/2016,11:00,Charlton,Derby,4-4-2 duplo 6,José Riga,15857,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2579142
+43,ter 19/04/2016,16:00,Bolton,Charlton,5-3-2,José Riga,12257,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2579152
+44,sáb 23/04/2016,11:00,Charlton,Brighton,4-4-2 duplo 6,José Riga,17160,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2579165
+45,sáb 30/04/2016,11:00,Leeds,Charlton,4-4-2,José Riga,25458,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2579189
+46,sáb 07/05/2016,08:30,Charlton,FC Burnley,4-4-2,José Riga,16199,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2579179

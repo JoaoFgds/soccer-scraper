@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 10/08/1996,19:00,Troyes,Saint-Étienne,?,Alain Perrin,7000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026309
+2,sex 16/08/1996,19:00,AS Beauvais,Troyes,?,Alain Perrin,1800,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026322
+3,seg 19/08/1996,19:00,Troyes,FC Lorient,?,Alain Perrin,2987,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026334
+4,sex 23/08/1996,19:00,Chamois Niort,Troyes,?,Alain Perrin,3521,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026337
+5,qui 29/08/1996,19:00,Troyes,Perpignan,?,Alain Perrin,4717,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026350
+6,ter 03/09/1996,19:00,FC Martigues,Troyes,?,Alain Perrin,1500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026364
+7,sex 06/09/1996,19:00,Troyes,Le Mans UC 72,?,Alain Perrin,4349,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026377
+8,sex 13/09/1996,19:00,FC Gueugnon,Troyes,?,Alain Perrin,2703,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026386
+9,ter 17/09/1996,19:00,Troyes,SC Toulon 83,?,Alain Perrin,5111,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026395
+10,sex 20/09/1996,19:00,LB Châteauroux,Troyes,?,Alain Perrin,3488,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026404
+11,sex 27/09/1996,19:00,Troyes,SAS Epinal,?,Alain Perrin,4726,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026416
+12,ter 01/10/1996,19:00,Toulouse,Troyes,?,Alain Perrin,11247,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026423
+13,sex 04/10/1996,19:00,Troyes,Amiens SC,?,Alain Perrin,5469,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026462
+14,sex 11/10/1996,20:00,Stade Briochin,Troyes,?,Alain Perrin,4625,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026477
+15,sex 18/10/1996,20:00,Troyes,Mulhouse S-A,?,Alain Perrin,4971,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026487
+16,sex 25/10/1996,20:00,AS Red Star 93,Troyes,?,Alain Perrin,2712,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026499
+17,sex 01/11/1996,21:00,Troyes,Louh.-Cuiseaux,?,Alain Perrin,3979,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026509
+18,qua 06/11/1996,21:00,O Charleville,Troyes,?,Alain Perrin,2932,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026520
+19,ter 12/11/1996,21:00,Troyes,ASOA Valence,?,Alain Perrin,3379,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026532
+20,sex 15/11/1996,21:00,Troyes,FC Sochaux,?,Alain Perrin,4869,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026545
+21,sex 22/11/1996,21:00,Stade Lavallois,Troyes,?,Alain Perrin,3877,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026558
+22,sex 06/12/1996,21:00,Troyes,AS Beauvais,?,Alain Perrin,2807,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026589
+23,sex 13/12/1996,21:00,FC Lorient,Troyes,?,Alain Perrin,2283,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026599
+24,sex 24/01/1997,21:00,Troyes,Chamois Niort,?,Alain Perrin,3447,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026606
+25,sex 31/01/1997,21:00,Perpignan,Troyes,?,Alain Perrin,1846,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026623
+26,sáb 15/02/1997,20:00,Troyes,FC Martigues,?,Alain Perrin,5768,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026627
+27,sáb 22/02/1997,20:00,Le Mans UC 72,Troyes,?,Alain Perrin,2998,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026641
+28,sex 07/03/1997,20:00,Troyes,FC Gueugnon,?,Alain Perrin,4153,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026653
+29,ter 11/03/1997,20:00,SC Toulon 83,Troyes,?,Alain Perrin,2529,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026664
+30,sex 14/03/1997,20:00,Troyes,LB Châteauroux,?,Alain Perrin,3267,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026671
+31,sex 21/03/1997,20:00,SAS Epinal,Troyes,?,Alain Perrin,1663,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026689
+32,ter 25/03/1997,20:00,Troyes,Toulouse,?,Alain Perrin,5227,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026692
+33,seg 31/03/1997,19:00,Amiens SC,Troyes,?,Alain Perrin,3222,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026710
+34,sex 04/04/1997,19:00,Troyes,Stade Briochin,?,Alain Perrin,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026724
+35,qui 10/04/1997,19:00,Mulhouse S-A,Troyes,?,Alain Perrin,2932,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026732
+36,ter 15/04/1997,19:00,Troyes,AS Red Star 93,?,Alain Perrin,4844,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026743
+37,qui 24/04/1997,19:00,Louh.-Cuiseaux,Troyes,?,Alain Perrin,1618,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026753
+38,ter 29/04/1997,19:00,Troyes,O Charleville,?,Alain Perrin,5625,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026765
+39,sex 02/05/1997,19:00,ASOA Valence,Troyes,?,Alain Perrin,1189,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026775
+40,qui 08/05/1997,19:00,FC Sochaux,Troyes,?,Alain Perrin,3265,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026788
+41,qua 07/05/1997,19:00,Troyes,Stade Lavallois,?,Alain Perrin,4247,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026798
+42,sex 23/05/1997,19:00,Saint-Étienne,Troyes,?,Alain Perrin,11910,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026810

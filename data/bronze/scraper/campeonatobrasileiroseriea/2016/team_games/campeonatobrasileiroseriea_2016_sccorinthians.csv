@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 15/05/2016,16:00,Corinthians,Grêmio,4-1-4-1,Tite,31533,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2684557
+2,dom 22/05/2016,16:00,Vitória,Corinthians,4-1-4-1,Tite,12693,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2684565
+3,qui 26/05/2016,11:00,Corinthians,Ponte Preta,4-2-3-1,Tite,35573,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2694652
+4,dom 29/05/2016,11:00,Sport,Corinthians,4-2-3-1,Tite,14645,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2694658
+5,qua 01/06/2016,21:00,Corinthians,Santos,4-2-3-1,Tite,30187,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2695568
+6,sáb 04/06/2016,20:30,Corinthians,Coritiba,4-2-3-1,Tite,26958,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2695584
+7,dom 12/06/2016,16:00,Palmeiras,Corinthians,4-2-3-1,Tite,39935,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2696879
+8,qui 16/06/2016,20:00,Fluminense,Corinthians,4-2-3-1,Tite,21148,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698569
+9,dom 19/06/2016,16:00,Corinthians,Botafogo,4-5-1,,34747,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698576
+10,qua 22/06/2016,21:45,Atlético-MG,Corinthians,4-3-3 ofensivo,Cristóvão Borges,34426,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698585
+11,sáb 25/06/2016,21:00,Corinthians,Santa Cruz,?,Cristóvão Borges,25501,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702132
+12,qua 29/06/2016,21:45,América-MG,Corinthians,?,Cristóvão Borges,3386,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702146
+13,dom 03/07/2016,16:00,Corinthians,Flamengo,?,Cristóvão Borges,32577,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2708410
+14,sáb 09/07/2016,16:30,Chapecoense,Corinthians,4-2-3-1,Cristóvão Borges,11615,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2708414
+15,dom 17/07/2016,16:00,Corinthians,São Paulo,?,Cristóvão Borges,42099,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713337
+16,sáb 23/07/2016,16:00,Corinthians,Figueirense,?,Cristóvão Borges,38507,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713351
+17,dom 31/07/2016,16:00,Internacional,Corinthians,?,Cristóvão Borges,30098,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713368
+18,qua 03/08/2016,21:45,Atlético-PR,Corinthians,?,Cristóvão Borges,25379,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713386
+19,seg 08/08/2016,21:00,Corinthians,Cruzeiro,?,Cristóvão Borges,34487,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713390
+20,dom 14/08/2016,11:00,Grêmio,Corinthians,4-2-3-1,Cristóvão Borges,46163,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713411
+21,seg 22/08/2016,21:00,Corinthians,Vitória,?,Cristóvão Borges,20207,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2767852
+22,sáb 27/08/2016,17:00,Ponte Preta,Corinthians,4-1-4-1,Cristóvão Borges,8529,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2767853
+23,qui 08/09/2016,20:30,Corinthians,Sport,4-1-4-1,Alessandro,24360,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770077
+24,dom 11/09/2016,17:00,Santos,Corinthians,4-1-4-1,Cristóvão Borges,8610,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770083
+25,qua 14/09/2016,22:45,Coritiba,Corinthians,4-2-3-1,Cristóvão Borges,11893,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770095
+26,sáb 17/09/2016,17:00,Corinthians,Palmeiras,4-3-3 defensivo,Cristóvão Borges,39879,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770100
+27,dom 25/09/2016,17:00,Corinthians,Fluminense,?,Alessandro,19183,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770156
+28,sáb 01/10/2016,17:30,Botafogo,Corinthians,4-2-3-1,Alessandro,9123,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770164
+29,qua 05/10/2016,22:00,Corinthians,Atlético-MG,4-1-4-1,Fábio Carille,17135,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770172
+30,qua 12/10/2016,22:45,Santa Cruz,Corinthians,4-1-4-1,Fábio Carille,7947,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770183
+31,dom 16/10/2016,20:30,Corinthians,América-MG,4-1-4-1,Oswaldo de Oliveira,25741,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770195
+32,dom 23/10/2016,19:00,Flamengo,Corinthians,?,Oswaldo de Oliveira,54250,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770202
+33,sáb 29/10/2016,16:30,Corinthians,Chapecoense,4-1-4-1,Oswaldo de Oliveira,25064,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770213
+34,sáb 05/11/2016,19:30,São Paulo,Corinthians,?,Oswaldo de Oliveira,53781,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770229
+35,qua 16/11/2016,21:45,Figueirense,Corinthians,?,Oswaldo de Oliveira,5694,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2778079
+36,seg 21/11/2016,20:00,Corinthians,Internacional,4-1-4-1,Oswaldo de Oliveira,19493,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2778095
+37,sáb 26/11/2016,21:00,Corinthians,Atlético-PR,4-1-4-1,Oswaldo de Oliveira,24701,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2798383
+38,dom 11/12/2016,17:00,Cruzeiro,Corinthians,4-1-4-1,Oswaldo de Oliveira,16074,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2798936

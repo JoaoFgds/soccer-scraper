@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 24/07/2021,14:00,Pau FC,AS Nancy,4-2-3-1,Didier Tholot,1803,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589629
+2,sáb 31/07/2021,14:00,Rodez AF,Pau FC,4-2-3-1,Didier Tholot,1346,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589640
+3,sáb 07/08/2021,14:00,Pau FC,Toulouse,4-4-1-1,Didier Tholot,3342,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589711
+4,sáb 14/08/2021,14:00,Nîmes Olympique,Pau FC,4-2-3-1,Didier Tholot,1849,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589716
+5,sáb 21/08/2021,14:00,Pau FC,SC Bastia,4-2-3-1,Didier Tholot,2450,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589731
+6,sáb 28/08/2021,14:00,Pau FC,Dijon,4-2-3-1,Didier Tholot,2263,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589906
+7,sáb 11/09/2021,14:00,SM Caen,Pau FC,4-2-3-1,Didier Tholot,8867,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589914
+8,sáb 18/09/2021,14:00,Pau FC,Valenciennes,4-2-3-1,Didier Tholot,2735,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589926
+9,ter 21/09/2021,15:00,Amiens SC,Pau FC,4-2-3-1,Didier Tholot,5715,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589933
+10,sex 24/09/2021,16:00,Pau FC,USL Dunkerque,4-2-3-1,Didier Tholot,2092,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589948
+11,sáb 02/10/2021,14:00,Grenoble,Pau FC,4-4-1-1,Didier Tholot,4427,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589964
+12,sáb 16/10/2021,14:00,Pau FC,Paris FC,4-2-3-1,Didier Tholot,2854,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589974
+13,sáb 23/10/2021,14:00,Le Havre,Pau FC,4-3-3 ofensivo,Didier Tholot,5439,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589987
+14,sáb 30/10/2021,14:00,Pau FC,AC Ajaccio,4-2-3-1,Didier Tholot,2691,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589997
+15,sáb 06/11/2021,11:00,Auxerre,Pau FC,4-2-3-1,Didier Tholot,10308,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590003
+16,sáb 20/11/2021,15:00,Pau FC,Guingamp,4-4-2,Didier Tholot,2443,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590018
+17,sex 03/12/2021,17:00,FC Sochaux,Pau FC,4-2-3-1,Didier Tholot,7049,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590030
+18,sáb 11/12/2021,15:00,Pau FC,Quevilly Rouen,4-2-3-1,Didier Tholot,2171,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590038
+19,ter 21/12/2021,16:45,Chamois Niort,Pau FC,4-2-3-1,Didier Tholot,2173,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590046
+20,sáb 08/01/2022,15:00,Pau FC,Rodez AF,3-4-1-2,Didier Tholot,2162,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590058
+21,sáb 15/01/2022,15:00,Toulouse,Pau FC,3-4-1-2,Didier Tholot,5281,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590126
+22,ter 01/02/2022,15:00,Pau FC,Nîmes Olympique,4-2-3-1,Didier Tholot,2224,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590142
+23,sáb 05/02/2022,15:00,SC Bastia,Pau FC,3-4-1-2,Didier Tholot,8500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590155
+24,sáb 12/02/2022,15:00,Dijon,Pau FC,3-4-2-1,Didier Tholot,6465,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590169
+25,sáb 19/02/2022,15:00,Pau FC,SM Caen,5-3-2,Didier Tholot,3106,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590180
+26,sáb 26/02/2022,15:00,Valenciennes,Pau FC,5-3-2,Didier Tholot,6445,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590194
+27,sáb 05/03/2022,15:00,Pau FC,Amiens SC,4-3-3 ofensivo,Didier Tholot,2356,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590200
+28,sáb 12/03/2022,15:00,USL Dunkerque,Pau FC,3-4-2-1,Didier Tholot,2200,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590209
+29,ter 15/03/2022,15:00,Pau FC,Grenoble,4-2-3-1,Didier Tholot,2581,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590220
+30,sáb 19/03/2022,15:00,Paris FC,Pau FC,4-2-3-1,Didier Tholot,3275,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590233
+31,sáb 02/04/2022,14:00,Pau FC,Le Havre,4-2-3-1,Didier Tholot,2713,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590240
+32,sáb 09/04/2022,14:00,AC Ajaccio,Pau FC,4-2-3-1,Didier Tholot,4200,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590245
+33,sáb 16/04/2022,10:00,Pau FC,Auxerre,4-2-3-1,Didier Tholot,3406,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590261
+34,ter 19/04/2022,15:00,Guingamp,Pau FC,4-2-3-1,Didier Tholot,8291,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590269
+35,sex 22/04/2022,16:00,Pau FC,FC Sochaux,4-4-2,Didier Tholot,3363,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590282
+36,sáb 30/04/2022,14:00,Quevilly Rouen,Pau FC,4-4-2,Didier Tholot,3708,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590292
+37,sáb 07/05/2022,14:00,Pau FC,Chamois Niort,4-4-2,Didier Tholot,3518,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590302
+38,sáb 14/05/2022,14:00,AS Nancy,Pau FC,4-4-2,Didier Tholot,1500,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590308

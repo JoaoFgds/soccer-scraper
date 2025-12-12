@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 26/07/2019,15:30,Stuttgart,Hannover,4-3-1-2,Tim Walter,52021,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203433
+2,dom 04/08/2019,08:30,Heidenheim,Stuttgart,4-3-2-1,Tim Walter,15000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203741
+3,sáb 17/08/2019,08:00,Stuttgart,St. Pauli,4-3-1-2,Tim Walter,53315,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203748
+4,sex 23/08/2019,13:30,Erzgebirge Aue,Stuttgart,4-3-1-2,Tim Walter,13950,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203771
+5,seg 02/09/2019,15:30,Stuttgart,Bochum,4-3-1-2,Tim Walter,48624,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203780
+6,sáb 14/09/2019,08:00,J. Regensburg,Stuttgart,4-3-1-2,Tim Walter,15210,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203798
+7,sáb 21/09/2019,08:00,Stuttgart,Greuther Fürth,4-3-1-2,Tim Walter,50543,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203819
+8,sex 27/09/2019,13:30,Arm. Bielefeld,Stuttgart,4-3-2-1,Tim Walter,26124,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203836
+9,sex 04/10/2019,13:30,Stuttgart,Wehen Wiesbaden,4-3-1-2,Tim Walter,49627,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203844
+10,dom 20/10/2019,08:30,Stuttgart,Holstein Kiel,4-3-3 ofensivo,Tim Walter,54176,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203853
+11,sáb 26/10/2019,08:00,Hamburgo,Stuttgart,4-3-1-2,Tim Walter,57000,6:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203863
+12,dom 03/11/2019,09:30,Stuttgart,Dynamo Dresden,4-3-2-1,Tim Walter,52129,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203874
+13,sáb 09/11/2019,09:00,VfL Osnabrück,Stuttgart,4-3-2-1,Tim Walter,15801,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203890
+14,dom 24/11/2019,09:30,Stuttgart,Karlsruher,4-1-4-1,Tim Walter,57483,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203892
+15,dom 01/12/2019,09:30,Sandhausen,Stuttgart,4-1-4-1,Tim Walter,13689,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203907
+16,seg 09/12/2019,16:30,Stuttgart,Nuremberg,4-3-2-1,Tim Walter,48971,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203917
+17,seg 16/12/2019,16:30,Darmstadt 98,Stuttgart,4-1-4-1,Tim Walter,14875,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203931
+18,sáb 21/12/2019,09:00,Hannover,Stuttgart,4-3-1-2,Tim Walter,35200,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203944
+19,qua 29/01/2020,14:30,Stuttgart,Heidenheim,4-2-3-1,Pellegrino Matarazzo,52585,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203974
+20,sáb 01/02/2020,09:00,St. Pauli,Stuttgart,3-4-2-1,Pellegrino Matarazzo,29546,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203994
+21,sáb 08/02/2020,09:00,Stuttgart,Erzgebirge Aue,3-4-1-2,Pellegrino Matarazzo,50846,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204006
+22,seg 17/02/2020,16:30,Bochum,Stuttgart,3-4-2-1,Pellegrino Matarazzo,18090,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204020
+23,sáb 22/02/2020,09:00,Stuttgart,J. Regensburg,3-4-2-1,Pellegrino Matarazzo,46924,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204038
+24,sáb 29/02/2020,09:00,Greuther Fürth,Stuttgart,3-4-2-1,Pellegrino Matarazzo,13490,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204060
+25,seg 09/03/2020,16:30,Stuttgart,Arm. Bielefeld,4-3-3 ofensivo,Pellegrino Matarazzo,54302,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204070
+26,dom 17/05/2020,08:30,Wehen Wiesbaden,Stuttgart,4-3-3 ofensivo,Pellegrino Matarazzo,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204094
+27,dom 24/05/2020,08:30,Holstein Kiel,Stuttgart,4-2-3-1,Pellegrino Matarazzo,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204104
+28,qui 28/05/2020,15:30,Stuttgart,Hamburgo,4-4-2 duplo 6,Pellegrino Matarazzo,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204111
+29,dom 31/05/2020,08:30,Dynamo Dresden,Stuttgart,4-1-4-1,Pellegrino Matarazzo,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204132
+30,dom 07/06/2020,08:30,Stuttgart,VfL Osnabrück,4-1-4-1,Pellegrino Matarazzo,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204143
+31,dom 14/06/2020,08:30,Karlsruher,Stuttgart,4-1-4-1,Pellegrino Matarazzo,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204167
+32,qua 17/06/2020,13:30,Stuttgart,Sandhausen,3-4-2-1,Pellegrino Matarazzo,x,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204168
+33,dom 21/06/2020,10:30,Nuremberg,Stuttgart,3-4-2-1,Pellegrino Matarazzo,x,0:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204177
+34,dom 28/06/2020,10:30,Stuttgart,Darmstadt 98,3-4-2-1,Pellegrino Matarazzo,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204186

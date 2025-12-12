@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qua 19/07/1995,15:00,Saint-Étienne,Nice,?,Albert Emon,15946,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011254
+2,ter 25/07/1995,15:00,Nice,Monaco,?,Albert Emon,9746,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011256
+3,sáb 05/08/1995,15:00,Guingamp,Nice,?,Albert Emon,9000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011271
+4,qua 09/08/1995,15:00,Nice,FC Gueugnon,?,Albert Emon,5775,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011283
+5,sáb 19/08/1995,15:00,Nantes,Nice,?,Albert Emon,20000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011289
+6,sáb 26/08/1995,15:00,Nice,Lens,?,Albert Emon,6734,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011303
+7,ter 29/08/1995,15:00,Montpellier,Nice,?,Albert Emon,11554,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011314
+8,sáb 09/09/1995,15:00,Nice,Le Havre,?,Albert Emon,6000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011322
+9,sáb 16/09/1995,15:00,Strasbourg,Nice,?,Albert Emon,13940,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011329
+10,sex 22/09/1995,15:00,Nice,Lyon,?,Albert Emon,5004,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011344
+11,sáb 30/09/1995,16:00,Cannes,Nice,?,Albert Emon,7000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011348
+12,qua 04/10/1995,16:00,Nice,FC Metz,?,Albert Emon,8511,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011357
+13,sáb 14/10/1995,16:00,Auxerre,Nice,?,Albert Emon,7000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011368
+14,sáb 21/10/1995,17:00,Nice,FC Martigues,?,Albert Emon,4184,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011382
+15,sex 27/10/1995,17:00,Rennes,Nice,?,Albert Emon,15592,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011394
+16,dom 05/11/1995,17:00,PSG,Nice,?,Albert Emon,32155,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011405
+17,qua 08/11/1995,17:00,Nice,Lille,?,Albert Emon,3667,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011414
+18,sáb 18/11/1995,17:00,Bordeaux,Nice,?,Albert Emon,12000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011423
+19,sáb 25/11/1995,17:00,Nice,SC Bastia,?,Albert Emon,6637,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011451
+20,sex 01/12/1995,17:00,Monaco,Nice,?,Albert Emon,6000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011470
+21,sáb 09/12/1995,17:00,Nice,Guingamp,?,Albert Emon,3835,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011477
+22,sáb 16/12/1995,17:00,FC Gueugnon,Nice,?,Albert Emon,2902,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011490
+23,qua 10/01/1996,17:00,Nice,Nantes,?,Albert Emon,5245,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011502
+24,sáb 20/01/1996,17:00,Lens,Nice,?,Albert Emon,18960,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011506
+25,sáb 27/01/1996,17:00,Nice,Montpellier,?,Albert Emon,4281,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011518
+26,qua 07/02/1996,17:00,Le Havre,Nice,?,Albert Emon,6390,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011526
+27,sáb 10/02/1996,17:00,Nice,Strasbourg,?,Albert Emon,5000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011537
+28,sáb 17/02/1996,16:00,Lyon,Nice,?,Albert Emon,8000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011551
+29,seg 26/02/1996,16:00,Nice,Cannes,?,Albert Emon,4251,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011553
+30,sáb 02/03/1996,16:00,FC Metz,Nice,?,Albert Emon,12771,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011567
+31,sáb 09/03/1996,16:00,Nice,Auxerre,?,Albert Emon,4756,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011573
+32,sáb 23/03/1996,16:00,FC Martigues,Nice,?,Albert Emon,10000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011591
+33,sáb 30/03/1996,16:00,Nice,Rennes,?,Albert Emon,6702,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011597
+34,ter 09/04/1996,15:00,Nice,PSG,?,Albert Emon,9375,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011605
+35,sáb 20/04/1996,15:00,Lille,Nice,?,Albert Emon,7316,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011622
+36,sex 26/04/1996,15:00,Nice,Bordeaux,?,Albert Emon,5500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011624
+37,sáb 11/05/1996,15:00,SC Bastia,Nice,?,Albert Emon,3000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011641
+38,sáb 18/05/1996,15:00,Nice,Saint-Étienne,?,Albert Emon,4146,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011651

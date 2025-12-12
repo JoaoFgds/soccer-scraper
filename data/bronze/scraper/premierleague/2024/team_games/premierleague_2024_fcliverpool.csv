@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 17/08/2024,08:30,Ipswich,Liverpool,4-3-3 ofensivo,Arne Slot,30014,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361262
+2,dom 25/08/2024,12:30,Liverpool,Brentford,4-3-3 ofensivo,Arne Slot,60725,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361276
+3,dom 01/09/2024,12:00,Man Utd,Liverpool,4-2-3-1,Arne Slot,73738,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361296
+4,sáb 14/09/2024,11:00,Liverpool,Nott'm Forest,4-2-3-1,Arne Slot,60725,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361355
+5,sáb 21/09/2024,11:00,Liverpool,Bournemouth,4-2-3-1,Arne Slot,60005,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361365
+6,sáb 28/09/2024,13:30,Wolves,Liverpool,4-2-3-1,Arne Slot,31413,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361379
+7,sáb 05/10/2024,08:30,Crystal Palace,Liverpool,4-2-3-1,Arne Slot,25185,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361385
+8,dom 20/10/2024,12:30,Liverpool,Chelsea,4-2-3-1,Arne Slot,60725,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361393
+9,dom 27/10/2024,13:30,Arsenal,Liverpool,4-2-3-1,Arne Slot,60383,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361400
+10,sáb 02/11/2024,12:00,Liverpool,Brighton,4-2-3-1,Arne Slot,60331,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361413
+11,sáb 09/11/2024,17:00,Liverpool,Aston Villa,4-2-3-1,Arne Slot,60292,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361424
+12,dom 24/11/2024,11:00,Southampton,Liverpool,4-2-3-1,Arne Slot,31278,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361439
+13,dom 01/12/2024,13:00,Liverpool,Man City,4-2-3-1,Arne Slot,60248,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361444
+14,qua 04/12/2024,16:30,Newcastle,Liverpool,4-2-3-1,Arne Slot,52237,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361458
+15,qua 12/02/2025,16:30,Everton,Liverpool,4-2-3-1,Arne Slot,39280,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361463
+16,sáb 14/12/2024,12:00,Liverpool,Fulham,4-3-3 ofensivo,Arne Slot,60333,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361474
+17,dom 22/12/2024,13:30,Tottenham,Liverpool,4-2-3-1,Arne Slot,61439,3:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361488
+18,qui 26/12/2024,17:00,Liverpool,Leicester,4-2-3-1,Arne Slot,61276,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361494
+19,dom 29/12/2024,14:15,West Ham,Liverpool,4-2-3-1,Arne Slot,62476,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361509
+20,dom 05/01/2025,13:30,Liverpool,Man Utd,4-2-3-1,Arne Slot,60275,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361514
+21,ter 14/01/2025,17:00,Nott'm Forest,Liverpool,4-2-3-1,Arne Slot,30249,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361525
+22,sáb 18/01/2025,12:00,Brentford,Liverpool,4-2-3-1,Arne Slot,17215,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362729
+23,sáb 25/01/2025,12:00,Liverpool,Ipswich,4-2-3-1,Arne Slot,60420,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362743
+24,sáb 01/02/2025,12:00,Bournemouth,Liverpool,4-2-3-1,Arne Slot,11239,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362748
+25,dom 16/02/2025,11:00,Liverpool,Wolves,4-2-3-1,Arne Slot,60401,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362763
+26,dom 23/02/2025,13:30,Man City,Liverpool,4-4-2 duplo 6,Arne Slot,52803,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362775
+27,qua 26/02/2025,17:15,Liverpool,Newcastle,4-2-3-1,Arne Slot,60374,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362786
+28,sáb 08/03/2025,12:00,Liverpool,Southampton,4-3-3 ofensivo,Arne Slot,61276,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362792
+29,qua 19/02/2025,16:30,Aston Villa,Liverpool,4-2-3-1,Arne Slot,41910,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362800
+30,qua 02/04/2025,16:00,Liverpool,Everton,4-2-3-1,Arne Slot,60331,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362817
+31,dom 06/04/2025,10:00,Fulham,Liverpool,4-2-3-1,Arne Slot,27770,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362822
+32,dom 13/04/2025,10:00,Liverpool,West Ham,4-2-3-1,Arne Slot,60376,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362832
+33,dom 20/04/2025,12:30,Leicester,Liverpool,4-2-3-1,Arne Slot,30402,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362844
+34,dom 27/04/2025,12:30,Liverpool,Tottenham,4-2-3-1,Arne Slot,60415,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362852
+35,dom 04/05/2025,12:30,Chelsea,Liverpool,4-2-3-1,Arne Slot,39829,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362862
+36,dom 11/05/2025,12:30,Liverpool,Arsenal,4-2-3-1,Arne Slot,60324,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362871
+37,seg 19/05/2025,16:00,Brighton,Liverpool,4-2-3-1,Arne Slot,31611,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362881
+38,dom 25/05/2025,12:00,Liverpool,Crystal Palace,4-2-3-1,Arne Slot,60382,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361533

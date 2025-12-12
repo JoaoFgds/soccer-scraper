@@ -1,0 +1,17 @@
+league_name,season_year,canonical_name,other_name,precision_score,is_confident_match
+ligaportugal,2010,academicadecoimbra,academica,67,False
+ligaportugal,2010,cdnacional,nacional,89,True
+ligaportugal,2010,clubsportmaritimo,maritimo,64,False
+ligaportugal,2010,fcpacosdeferreira,pacosferreira,87,True
+ligaportugal,2010,fcporto,fcporto,100,True
+ligaportugal,2010,naval1odemaio,naval1odemaio,100,True
+ligaportugal,2010,portimonensesad,portimonense,89,True
+ligaportugal,2010,rioavefutebolclube,rioave,50,False
+ligaportugal,2010,scbeiramar,beiramar,89,True
+ligaportugal,2010,scbraga,braga,83,True
+ligaportugal,2010,slbenfica,benfica,88,True
+ligaportugal,2010,sportingclubeolhanense,olhanense,58,False
+ligaportugal,2010,sportingcp,sporting,89,True
+ligaportugal,2010,udleiria,leiria,86,True
+ligaportugal,2010,vitoriafutebolclube,vitoriafc,64,False
+ligaportugal,2010,vitoriasportclube,vitguimaraes,48,False

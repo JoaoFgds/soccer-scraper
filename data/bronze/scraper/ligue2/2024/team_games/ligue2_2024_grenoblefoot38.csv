@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 16/08/2024,15:00,Grenoble,Stade Lavallois,4-2-3-1,Oswald Tanchot,4008,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4363712
+2,sáb 24/08/2024,09:30,FC Lorient,Grenoble,4-2-3-1,Oswald Tanchot,10798,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4363717
+3,sex 30/08/2024,15:00,Grenoble,Pau FC,4-2-3-1,Oswald Tanchot,4087,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4363725
+4,seg 16/09/2024,15:45,Grenoble,SM Caen,4-3-3 ofensivo,Oswald Tanchot,4079,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4363734
+5,sex 20/09/2024,15:00,FC Martigues,Grenoble,4-3-3 ofensivo,Oswald Tanchot,1359,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364049
+6,ter 24/09/2024,15:30,AC Ajaccio,Grenoble,4-2-3-1,Oswald Tanchot,3000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364074
+7,sex 27/09/2024,15:00,Grenoble,Clermont Foot,4-2-3-1,Oswald Tanchot,4176,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364078
+8,sex 04/10/2024,15:00,Rodez AF,Grenoble,4-3-3 ofensivo,Oswald Tanchot,4049,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364091
+9,sex 18/10/2024,15:00,Grenoble,FC Metz,4-4-2 duplo 6,Oswald Tanchot,5916,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364143
+10,sáb 26/10/2024,09:00,Paris FC,Grenoble,4-4-2,Oswald Tanchot,15412,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364173
+11,ter 29/10/2024,16:30,Grenoble,FC Annecy,4-1-4-1,Oswald Tanchot,7920,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364314
+12,sáb 02/11/2024,16:00,Guingamp,Grenoble,3-4-1-2,Oswald Tanchot,6733,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364324
+13,sex 08/11/2024,16:00,Grenoble,USL Dunkerque,4-3-3 ofensivo,Oswald Tanchot,4193,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364331
+14,sex 22/11/2024,16:00,Troyes,Grenoble,4-2-3-1,Oswald Tanchot,4108,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364338
+15,sáb 07/12/2024,10:00,Grenoble,Amiens SC,4-2-3-1,Oswald Tanchot,3776,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364349
+16,sáb 14/12/2024,10:00,Red Star FC,Grenoble,4-3-3 ofensivo,Oswald Tanchot,4454,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364363
+17,sex 03/01/2025,16:00,Grenoble,SC Bastia,5-3-2,Frédéric Gueguen,3649,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364367
+18,sáb 11/01/2025,10:00,SM Caen,Grenoble,5-3-2,Frédéric Gueguen,15248,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364374
+19,sex 17/01/2025,16:00,Grenoble,FC Martigues,3-5-2 plano,Frédéric Gueguen,3507,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364384
+20,sex 24/01/2025,16:00,FC Metz,Grenoble,5-4-1 plano,Franck Rizzetto,17231,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364393
+21,sex 31/01/2025,16:00,Grenoble,Rodez AF,5-4-1 plano,Franck Rizzetto,3656,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364529
+22,sex 07/02/2025,16:00,Grenoble,Red Star FC,5-3-2,Franck Rizzetto,5871,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364544
+23,sex 14/02/2025,16:00,Amiens SC,Grenoble,5-3-2,Franck Rizzetto,5143,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364547
+24,sex 21/02/2025,16:00,Grenoble,Guingamp,5-3-2,Franck Rizzetto,4408,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364559
+25,sex 28/02/2025,16:00,Pau FC,Grenoble,3-5-2 plano,Franck Rizzetto,3085,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364573
+26,sex 07/03/2025,16:00,Grenoble,AC Ajaccio,3-5-2 plano,Franck Rizzetto,4380,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364586
+27,sex 14/03/2025,16:00,Clermont Foot,Grenoble,5-3-2,Franck Rizzetto,4127,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364591
+28,sáb 29/03/2025,10:00,Grenoble,FC Lorient,5-3-2,Franck Rizzetto,5098,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364605
+29,sex 04/04/2025,15:00,Stade Lavallois,Grenoble,5-3-2,Franck Rizzetto,6460,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364639
+30,sáb 12/04/2025,15:00,Grenoble,Paris FC,5-3-2,Franck Rizzetto,8166,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364655
+31,sex 18/04/2025,15:00,USL Dunkerque,Grenoble,5-3-2,Franck Rizzetto,4238,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364667
+32,sex 25/04/2025,15:00,SC Bastia,Grenoble,5-4-1 plano,Franck Rizzetto,9053,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364676
+33,sex 02/05/2025,15:00,Grenoble,Troyes,5-4-1 plano,Franck Rizzetto,4964,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364687
+34,sáb 10/05/2025,12:00,FC Annecy,Grenoble,5-4-1 plano,Franck Rizzetto,10849,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364698

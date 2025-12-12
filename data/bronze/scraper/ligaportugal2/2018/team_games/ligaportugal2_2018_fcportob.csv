@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 11/08/2018,07:15,Estoril,FC Porto B,4-4-2 duplo 6,Rui Barros,1076,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070434
+2,sáb 18/08/2018,13:00,FC Porto B,Farense,4-4-2 duplo 6,Rui Barros,447,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070436
+3,sáb 25/08/2018,07:15,Penafiel,FC Porto B,4-4-2 duplo 6,Rui Barros,513,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070453
+4,sáb 01/09/2018,13:00,FC Porto B,Académico FC,4-4-2 duplo 6,Rui Barros,377,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070478
+5,sáb 22/09/2018,07:00,UD Oliveirense,FC Porto B,4-4-2 duplo 6,Rui Barros,248,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070496
+6,dom 07/10/2018,11:00,FC Porto B,Arouca,4-2-3-1,Rui Barros,346,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070504
+7,sáb 27/10/2018,07:00,Famalicão,FC Porto B,4-4-2 duplo 6,Rui Barros,2080,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070514
+8,dom 04/11/2018,09:15,Leixões,FC Porto B,4-4-2 duplo 6,Rui Barros,729,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070523
+9,dom 11/11/2018,13:00,FC Porto B,Cova da Piedade,4-3-3 ofensivo,Rui Barros,154,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070529
+10,sáb 01/12/2018,09:00,Mafra,FC Porto B,?,Rui Barros,499,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070540
+11,sáb 08/12/2018,13:00,FC Porto B,Académica,4-2-3-1,Rui Barros,582,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070549
+12,sáb 15/12/2018,09:00,Paços Ferreira,FC Porto B,4-2-3-1,Rui Barros,1496,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070558
+13,sáb 22/12/2018,09:00,FC Porto B,Covilhã,4-3-3 ofensivo,Rui Barros,258,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070571
+14,dom 21/10/2018,07:15,Varzim,FC Porto B,?,Rui Barros,952,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070583
+15,sáb 05/01/2019,13:00,FC Porto B,Benfica B,4-4-2 duplo 6,Rui Barros,1314,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070590
+16,qua 09/01/2019,13:00,Braga B,FC Porto B,4-3-3 ofensivo,Rui Barros,439,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070605
+17,dom 13/01/2019,13:00,FC Porto B,Vitória SC B,4-3-3 ofensivo,Rui Barros,454,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070610
+18,sáb 19/01/2019,15:00,FC Porto B,Estoril,4-3-3 ofensivo,Rui Barros,282,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070707
+19,ter 29/01/2019,13:00,Farense,FC Porto B,4-3-3 ofensivo,Rui Barros,1626,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070764
+20,dom 03/02/2019,13:00,FC Porto B,Penafiel,4-4-2 duplo 6,Rui Barros,367,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070781
+21,sáb 09/02/2019,09:00,Académico FC,FC Porto B,4-4-2 losango,Rui Barros,400,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070785
+22,dom 17/02/2019,12:00,FC Porto B,UD Oliveirense,4-3-1-2,Rui Barros,414,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070795
+23,dom 24/02/2019,12:00,Arouca,FC Porto B,4-3-3 ofensivo,Rui Barros,745,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070803
+24,dom 03/03/2019,12:00,FC Porto B,Famalicão,4-4-2 duplo 6,Rui Barros,1167,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070814
+25,sáb 09/03/2019,14:30,FC Porto B,Leixões,4-3-3 defensivo,Rui Barros,482,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070823
+26,dom 17/03/2019,12:00,Cova da Piedade,FC Porto B,4-3-3 defensivo,Rui Barros,1943,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070830
+27,sáb 30/03/2019,13:00,FC Porto B,Mafra,4-3-3 defensivo,Rui Barros,223,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070840
+28,sáb 06/04/2019,07:00,Académica,FC Porto B,4-2-3-1,Rui Barros,2283,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070849
+29,sáb 13/04/2019,11:00,FC Porto B,Paços Ferreira,4-3-3 ofensivo,Rui Barros,845,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070858
+30,sex 19/04/2019,07:15,Covilhã,FC Porto B,4-2-3-1,Rui Barros,393,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070863
+31,ter 23/04/2019,12:00,FC Porto B,Varzim,4-3-3 ofensivo,Rui Barros,323,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070874
+32,dom 05/05/2019,07:15,Benfica B,FC Porto B,4-2-3-1,Rui Barros,676,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070885
+33,dom 12/05/2019,07:15,FC Porto B,Braga B,4-3-3 defensivo,Rui Barros,267,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070897
+34,sáb 18/05/2019,07:00,Vitória SC B,FC Porto B,4-2-3-1,Rui Barros,318,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070903

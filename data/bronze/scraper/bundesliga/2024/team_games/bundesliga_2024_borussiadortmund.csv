@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 24/08/2024,13:30,Dortmund,Frankfurt,4-2-3-1,Nuri Şahin,81365,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373054
+2,sáb 31/08/2024,10:30,Werder Bremen,Dortmund,4-2-3-1,Nuri Şahin,42100,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373316
+3,sex 13/09/2024,15:30,Dortmund,Heidenheim,4-2-3-1,Nuri Şahin,81365,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373321
+4,dom 22/09/2024,12:30,Stuttgart,Dortmund,4-2-3-1,Nuri Şahin,60000,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373339
+5,sex 27/09/2024,15:30,Dortmund,Bochum,4-2-3-1,Nuri Şahin,81365,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373367
+6,sáb 05/10/2024,10:30,Union Berlim,Dortmund,4-2-3-1,Nuri Şahin,22012,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373389
+7,sex 18/10/2024,15:30,Dortmund,St. Pauli,4-2-3-1,Nuri Şahin,81365,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373403
+8,sáb 26/10/2024,10:30,Augsburg,Dortmund,4-2-3-1,Nuri Şahin,30660,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373423
+9,sáb 02/11/2024,14:30,Dortmund,Leipzig,4-3-3 ofensivo,Nuri Şahin,81365,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373439
+10,sáb 09/11/2024,11:30,Mainz,Dortmund,4-3-3 ofensivo,Nuri Şahin,33000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373460
+11,sáb 23/11/2024,11:30,Dortmund,Freiburg,4-3-3 ofensivo,Nuri Şahin,81365,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373476
+12,sáb 30/11/2024,14:30,Dortmund,Bayern,4-3-3 ofensivo,Nuri Şahin,81365,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373492
+13,sáb 07/12/2024,14:30,M'gladbach,Dortmund,4-3-3 ofensivo,Nuri Şahin,54042,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373515
+14,dom 15/12/2024,13:30,Dortmund,Hoffenheim,4-3-3 ofensivo,Nuri Şahin,81365,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373528
+15,dom 22/12/2024,13:30,Wolfsburg,Dortmund,4-3-3 ofensivo,Nuri Şahin,28917,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373551
+16,sex 10/01/2025,16:30,Dortmund,Leverkusen,4-3-3 ofensivo,Nuri Şahin,81365,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373564
+17,ter 14/01/2025,14:30,Holstein Kiel,Dortmund,4-1-4-1,Nuri Şahin,15034,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373589
+18,sex 17/01/2025,16:30,Frankfurt,Dortmund,3-4-2-1,Nuri Şahin,58000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373593
+19,sáb 25/01/2025,11:30,Dortmund,Werder Bremen,4-3-3 ofensivo,Mike Tullberg,81365,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373609
+20,sáb 01/02/2025,11:30,Heidenheim,Dortmund,4-2-3-1,Mike Tullberg,15000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373630
+21,sáb 08/02/2025,11:30,Dortmund,Stuttgart,4-2-3-1,Niko Kovac,81365,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373646
+22,sáb 15/02/2025,11:30,Bochum,Dortmund,4-2-3-1,Niko Kovac,26000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373669
+23,sáb 22/02/2025,14:30,Dortmund,Union Berlim,4-2-3-1,Niko Kovac,81365,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373691
+24,sáb 01/03/2025,11:30,St. Pauli,Dortmund,4-2-3-1,Niko Kovac,29546,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373715
+25,sáb 08/03/2025,11:30,Dortmund,Augsburg,4-2-3-1,Niko Kovac,81365,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373727
+26,sáb 15/03/2025,14:30,Leipzig,Dortmund,4-2-3-1,Niko Kovac,47800,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373744
+27,dom 30/03/2025,12:30,Dortmund,Mainz,3-4-1-2,Niko Kovac,81365,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373763
+28,sáb 05/04/2025,10:30,Freiburg,Dortmund,3-4-1-2,Niko Kovac,34700,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373782
+29,sáb 12/04/2025,13:30,Bayern,Dortmund,3-4-1-2,Niko Kovac,75000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373799
+30,dom 20/04/2025,12:30,Dortmund,M'gladbach,3-4-3 plano,Niko Kovac,81365,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373816
+31,sáb 26/04/2025,10:30,Hoffenheim,Dortmund,3-4-3 plano,Niko Kovac,30150,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373837
+32,sáb 03/05/2025,13:30,Dortmund,Wolfsburg,3-4-2-1,Niko Kovac,81365,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373852
+33,dom 11/05/2025,10:30,Leverkusen,Dortmund,3-4-2-1,Niko Kovac,30210,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373869
+34,sáb 17/05/2025,10:30,Dortmund,Holstein Kiel,3-4-2-1,Niko Kovac,81365,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373888

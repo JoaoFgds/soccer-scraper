@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 14/08/2021,10:30,Union Berlim,Leverkusen,3-1-4-2,Urs Fischer,11006,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588142
+2,dom 22/08/2021,10:30,Hoffenheim,Union Berlim,3-1-4-2,Urs Fischer,8014,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588153
+3,dom 29/08/2021,10:30,Union Berlim,M'gladbach,3-1-4-2,Urs Fischer,11006,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588169
+4,sáb 11/09/2021,10:30,Union Berlim,Augsburg,3-5-2 plano,Urs Fischer,10207,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588178
+5,dom 19/09/2021,12:30,Dortmund,Union Berlim,5-3-2,Urs Fischer,25000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588194
+6,sáb 25/09/2021,10:30,Union Berlim,Arm. Bielefeld,3-4-1-2,Urs Fischer,11000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588214
+7,dom 03/10/2021,10:30,Mainz,Union Berlim,3-4-1-2,Urs Fischer,16000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588225
+8,sáb 16/10/2021,10:30,Union Berlim,Wolfsburg,3-4-1-2,Urs Fischer,11000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588241
+9,dom 24/10/2021,12:30,Stuttgart,Union Berlim,3-4-1-2,Urs Fischer,32535,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588259
+10,sáb 30/10/2021,10:30,Union Berlim,Bayern,5-3-2,Urs Fischer,16509,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588277
+11,dom 07/11/2021,13:30,Colônia,Union Berlim,3-4-1-2,Urs Fischer,49000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588289
+12,sáb 20/11/2021,14:30,Union Berlim,Hertha Berlim,3-4-1-2,Urs Fischer,22012,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588303
+13,dom 28/11/2021,11:30,Frankfurt,Union Berlim,3-1-4-2,Urs Fischer,24000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588322
+14,sex 03/12/2021,16:30,Union Berlim,Leipzig,5-3-2,Urs Fischer,13500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588339
+15,dom 12/12/2021,11:30,Greuther Fürth,Union Berlim,3-4-1-2,Urs Fischer,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588354
+16,qua 15/12/2021,16:30,Union Berlim,Freiburg,3-1-4-2,Urs Fischer,5000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588376
+17,sáb 18/12/2021,11:30,Bochum,Union Berlim,3-4-1-2,Urs Fischer,13500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588389
+18,sáb 08/01/2022,11:30,Leverkusen,Union Berlim,3-1-4-2,Urs Fischer,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588403
+19,sáb 15/01/2022,11:30,Union Berlim,Hoffenheim,3-5-2 plano,Urs Fischer,3000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588420
+20,sáb 22/01/2022,11:30,M'gladbach,Union Berlim,3-1-4-2,Urs Fischer,750,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588439
+21,sáb 05/02/2022,11:30,Augsburg,Union Berlim,3-1-4-2,Urs Fischer,7600,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588459
+22,dom 13/02/2022,11:30,Union Berlim,Dortmund,3-1-4-2,Urs Fischer,10000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588466
+23,sáb 19/02/2022,11:30,Arm. Bielefeld,Union Berlim,3-1-4-2,Urs Fischer,10000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588488
+24,sáb 26/02/2022,11:30,Union Berlim,Mainz,3-1-4-2,Urs Fischer,10000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588492
+25,sáb 05/03/2022,11:30,Wolfsburg,Union Berlim,3-1-4-2,Urs Fischer,15703,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588510
+26,sáb 12/03/2022,11:30,Union Berlim,Stuttgart,3-5-2 plano,Urs Fischer,16509,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588529
+27,sáb 19/03/2022,14:30,Bayern,Union Berlim,3-1-4-2,Urs Fischer,35000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588544
+28,sex 01/04/2022,15:30,Union Berlim,Colônia,3-1-4-2,Urs Fischer,22012,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588565
+29,sáb 09/04/2022,13:30,Hertha Berlim,Union Berlim,3-1-4-2,Urs Fischer,74667,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588585
+30,dom 17/04/2022,12:30,Union Berlim,Frankfurt,3-1-4-2,Urs Fischer,22012,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588591
+31,sáb 23/04/2022,10:30,Leipzig,Union Berlim,3-5-2 plano,Urs Fischer,45770,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588608
+32,sex 29/04/2022,15:30,Union Berlim,Greuther Fürth,3-1-4-2,Urs Fischer,20612,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588627
+33,sáb 07/05/2022,10:30,Freiburg,Union Berlim,3-1-4-2,Urs Fischer,34700,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588652
+34,sáb 14/05/2022,10:30,Union Berlim,Bochum,3-5-2 ofensivo,Urs Fischer,22012,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588670

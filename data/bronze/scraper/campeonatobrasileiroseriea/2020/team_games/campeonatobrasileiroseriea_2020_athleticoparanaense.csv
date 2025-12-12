@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 09/08/2020,19:00,Fortaleza,Athletico-PR,4-3-3 ofensivo,Dorival Júnior,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3392045
+2,ter 11/08/2020,19:15,Athletico-PR,Goiás,4-1-4-1,Dorival Júnior,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3411141
+3,dom 16/08/2020,19:45,Santos,Athletico-PR,4-3-3 ofensivo,Lucas Silvestre,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416087
+4,qua 19/08/2020,19:30,Athletico-PR,Palmeiras,4-3-3 ofensivo,Dorival Júnior,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416219
+5,sáb 22/08/2020,16:00,Athletico-PR,Fluminense,4-3-3 ofensivo,Dorival Júnior,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416099
+6,qua 18/11/2020,19:00,Atlético-MG,Athletico-PR,4-2-3-1,Paulo Autuori,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417543
+7,qua 02/09/2020,20:30,Athletico-PR,Bragantino,4-2-3-1,Eduardo Barros,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416123
+8,dom 06/09/2020,18:00,Vasco da Gama,Athletico-PR,4-1-4-1,Eduardo Barros,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416129
+9,qua 09/09/2020,17:30,Athletico-PR,Botafogo,4-1-4-1,Eduardo Barros,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416166
+10,sáb 12/09/2020,16:30,Athletico-PR,Coritiba,4-4-2,Eduardo Barros,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416237
+11,qua 26/08/2020,19:00,São Paulo,Athletico-PR,4-3-3 ofensivo,Dorival Júnior,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417533
+12,sáb 26/09/2020,19:00,Athletico-PR,Bahia,4-3-3 ofensivo,Eduardo Barros,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417552
+13,dom 04/10/2020,16:00,Flamengo,Athletico-PR,4-2-3-1,Eduardo Barros,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417555
+14,qui 08/10/2020,19:00,Athletico-PR,Ceará,4-2-3-1,Eduardo Barros,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417572
+15,dom 11/10/2020,20:30,Internacional,Athletico-PR,4-2-3-1,Eduardo Barros,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417580
+16,qua 14/10/2020,21:30,Athletico-PR,Corinthians,4-2-3-1,Eduardo Barros,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417592
+17,sáb 17/10/2020,19:00,Atlético-GO,Athletico-PR,4-3-3 ofensivo,Eduardo Barros,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417604
+18,dom 25/10/2020,18:15,Athletico-PR,Grêmio,4-2-3-1,Paulo Autuori,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417612
+19,dom 01/11/2020,16:00,Sport,Athletico-PR,4-2-3-1,Paulo Autuori,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417621
+20,sáb 07/11/2020,17:00,Athletico-PR,Fortaleza,4-2-3-1,Paulo Autuori,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417633
+21,sáb 14/11/2020,17:00,Goiás,Athletico-PR,4-3-3 ofensivo,Paulo Autuori,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417642
+22,sáb 21/11/2020,18:00,Athletico-PR,Santos,4-4-2,Paulo Autuori,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417659
+23,sáb 28/11/2020,16:00,Palmeiras,Athletico-PR,4-3-3 ofensivo,Paulo Autuori,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417672
+24,sáb 05/12/2020,18:00,Fluminense,Athletico-PR,4-4-2,Paulo Autuori,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417652
+25,sáb 12/12/2020,16:00,Athletico-PR,Atlético-MG,4-3-3 ofensivo,Paulo Autuori,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417679
+26,dom 20/12/2020,16:00,Bragantino,Athletico-PR,4-4-2,Paulo Autuori,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417702
+27,dom 27/12/2020,18:15,Athletico-PR,Vasco da Gama,4-4-2,Paulo Autuori,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417687
+28,qua 06/01/2021,18:15,Botafogo,Athletico-PR,4-4-2,Paulo Autuori,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417502
+29,sáb 09/01/2021,18:00,Coritiba,Athletico-PR,4-2-3-1,Paulo Autuori,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417518
+30,dom 17/01/2021,16:00,Athletico-PR,São Paulo,4-2-3-1,Paulo Autuori,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417528
+31,qua 20/01/2021,18:00,Bahia,Athletico-PR,4-2-3-1,Paulo Autuori,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417711
+32,dom 24/01/2021,16:00,Athletico-PR,Flamengo,4-1-4-1,Paulo Autuori,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417811
+33,dom 31/01/2021,19:00,Ceará,Athletico-PR,4-4-2,Paulo Autuori,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418074
+34,qui 04/02/2021,20:00,Athletico-PR,Internacional,4-4-2 duplo 6,Paulo Autuori,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418083
+35,qua 10/02/2021,20:30,Corinthians,Athletico-PR,4-2-3-1,Paulo Autuori,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418090
+36,dom 14/02/2021,18:15,Athletico-PR,Atlético-GO,4-2-3-1,Paulo Autuori,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418103
+37,dom 21/02/2021,18:15,Grêmio,Athletico-PR,4-3-2-1,Paulo Autuori,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418111
+38,qui 25/02/2021,21:30,Athletico-PR,Sport,4-2-3-1,Paulo Autuori,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418123

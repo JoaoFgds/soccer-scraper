@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/08/2023,08:30,Arsenal,Nott'm Forest,3-4-2-1,Steve Cooper,59984,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4087925
+2,sex 18/08/2023,15:45,Nott'm Forest,Sheff Utd,3-4-2-1,Steve Cooper,29432,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4087940
+3,sáb 26/08/2023,11:00,Man Utd,Nott'm Forest,3-4-2-1,Steve Cooper,73595,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4087951
+4,sáb 02/09/2023,11:00,Chelsea,Nott'm Forest,3-4-2-1,Steve Cooper,39820,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4087958
+5,seg 18/09/2023,15:45,Nott'm Forest,FC Burnley,4-2-3-1,Steve Cooper,28958,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4087969
+6,sáb 23/09/2023,11:00,Man City,Nott'm Forest,5-4-1 plano,Steve Cooper,53413,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095070
+7,dom 01/10/2023,10:00,Nott'm Forest,Brentford,4-3-3 ofensivo,Steve Cooper,29004,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095141
+8,sáb 07/10/2023,13:30,Crystal Palace,Nott'm Forest,4-3-3 ofensivo,Steve Cooper,25017,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095149
+9,sáb 21/10/2023,11:00,Nott'm Forest,Luton,4-3-3 ofensivo,Steve Cooper,29361,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095163
+10,dom 29/10/2023,11:00,Liverpool,Nott'm Forest,5-4-1 plano,Steve Cooper,50143,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095172
+11,dom 05/11/2023,11:00,Nott'm Forest,Aston Villa,4-3-3 ofensivo,Steve Cooper,29313,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095183
+12,dom 12/11/2023,11:00,West Ham,Nott'm Forest,4-3-3 ofensivo,Steve Cooper,62470,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095194
+13,sáb 25/11/2023,12:00,Nott'm Forest,Brighton,4-1-4-1,Steve Cooper,29404,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095203
+14,sáb 02/12/2023,14:30,Nott'm Forest,Everton,4-3-3 ofensivo,Steve Cooper,29404,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095214
+15,qua 06/12/2023,16:30,Fulham,Nott'm Forest,4-2-3-1,Steve Cooper,24105,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095219
+16,sáb 09/12/2023,12:00,Wolves,Nott'm Forest,3-5-2 plano,Steve Cooper,31543,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095235
+17,sex 15/12/2023,17:00,Nott'm Forest,Tottenham,3-5-2 plano,Steve Cooper,29296,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095244
+18,sáb 23/12/2023,12:00,Nott'm Forest,Bournemouth,4-2-3-1,Nuno Espírito Santo,29188,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095252
+19,ter 26/12/2023,09:30,Newcastle,Nott'm Forest,4-2-3-1,Nuno Espírito Santo,52207,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095264
+20,sáb 30/12/2023,14:30,Nott'm Forest,Man Utd,4-2-3-1,Nuno Espírito Santo,29529,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095272
+21,sáb 20/01/2024,14:30,Brentford,Nott'm Forest,4-2-3-1,Nuno Espírito Santo,17077,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095278
+22,ter 30/01/2024,16:30,Nott'm Forest,Arsenal,4-2-3-1,Nuno Espírito Santo,29387,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095289
+23,dom 04/02/2024,11:00,Bournemouth,Nott'm Forest,4-2-3-1,Nuno Espírito Santo,11200,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095296
+24,sáb 10/02/2024,14:30,Nott'm Forest,Newcastle,4-2-3-1,Nuno Espírito Santo,29451,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095316
+25,sáb 17/02/2024,12:00,Nott'm Forest,West Ham,4-2-3-1,Nuno Espírito Santo,29490,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095327
+26,sáb 24/02/2024,12:00,Aston Villa,Nott'm Forest,4-2-3-1,Nuno Espírito Santo,42422,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095332
+27,sáb 02/03/2024,12:00,Nott'm Forest,Liverpool,4-2-3-1,Nuno Espírito Santo,29603,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095347
+28,dom 10/03/2024,11:00,Brighton,Nott'm Forest,4-3-3 ofensivo,Nuno Espírito Santo,31505,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095353
+29,sáb 16/03/2024,12:00,Luton,Nott'm Forest,4-2-3-1,Nuno Espírito Santo,11630,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095366
+30,sáb 30/03/2024,12:00,Nott'm Forest,Crystal Palace,4-2-3-1,Nuno Espírito Santo,29520,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095377
+31,ter 02/04/2024,15:30,Nott'm Forest,Fulham,4-2-3-1,Nuno Espírito Santo,28997,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095384
+32,dom 07/04/2024,14:00,Tottenham,Nott'm Forest,4-2-3-1,Nuno Espírito Santo,61098,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095398
+33,sáb 13/04/2024,11:00,Nott'm Forest,Wolves,4-2-3-1,Nuno Espírito Santo,29604,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095408
+34,dom 21/04/2024,09:30,Everton,Nott'm Forest,4-2-3-1,Nuno Espírito Santo,39239,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095413
+35,dom 28/04/2024,12:30,Nott'm Forest,Man City,5-4-1 plano,Nuno Espírito Santo,29677,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095426
+36,sáb 04/05/2024,11:00,Sheff Utd,Nott'm Forest,4-2-3-1,Nuno Espírito Santo,28516,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095439
+37,sáb 11/05/2024,13:30,Nott'm Forest,Chelsea,5-4-1 plano,Nuno Espírito Santo,29708,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095447
+38,dom 19/05/2024,12:00,FC Burnley,Nott'm Forest,4-2-3-1,Nuno Espírito Santo,21109,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095455

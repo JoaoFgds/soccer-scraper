@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 10/08/2018,16:00,Man Utd,Leicester,4-1-4-1,José Mourinho,74439,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050172
+2,dom 19/08/2018,12:00,Brighton,Man Utd,4-3-3 ofensivo,José Mourinho,30592,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050177
+3,seg 27/08/2018,16:00,Man Utd,Tottenham,3-5-2 plano,José Mourinho,74400,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050192
+4,dom 02/09/2018,12:00,FC Burnley,Man Utd,4-3-3 ofensivo,José Mourinho,21525,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050198
+5,sáb 15/09/2018,13:30,Watford,Man Utd,4-2-3-1,José Mourinho,20537,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050215
+6,sáb 22/09/2018,11:00,Man Utd,Wolves,4-3-3 ofensivo,José Mourinho,74489,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050225
+7,sáb 29/09/2018,08:30,West Ham,Man Utd,3-5-2 plano,José Mourinho,56938,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050235
+8,sáb 06/10/2018,13:30,Man Utd,Newcastle,4-3-3 defensivo,José Mourinho,74519,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050243
+9,sáb 20/10/2018,08:30,Chelsea,Man Utd,4-3-3 ofensivo,José Mourinho,40721,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050250
+10,dom 28/10/2018,13:00,Man Utd,Everton,4-2-3-1,José Mourinho,74525,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050263
+11,sáb 03/11/2018,09:30,Bournemouth,Man Utd,4-1-4-1,José Mourinho,10792,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050268
+12,dom 11/11/2018,14:30,Man City,Man Utd,4-3-3 ofensivo,José Mourinho,54316,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050284
+13,sáb 24/11/2018,13:00,Man Utd,Crystal Palace,4-1-4-1,José Mourinho,74516,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050292
+14,sáb 01/12/2018,15:30,Southampton,Man Utd,3-5-2 plano,José Mourinho,30187,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050306
+15,qua 05/12/2018,18:00,Man Utd,Arsenal,3-4-1-2,José Mourinho,74507,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3056407
+16,sáb 08/12/2018,13:00,Man Utd,Fulham,4-2-3-1,José Mourinho,74523,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050324
+17,dom 16/12/2018,14:00,Liverpool,Man Utd,4-2-3-1,José Mourinho,52908,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050331
+18,sáb 22/12/2018,15:30,Cardiff,Man Utd,4-3-3 ofensivo,Ole Gunnar Solskjær,33028,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050339
+19,qua 26/12/2018,13:00,Man Utd,Huddersfield,4-2-3-1,Ole Gunnar Solskjær,74523,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050423
+20,dom 30/12/2018,14:30,Man Utd,Bournemouth,4-3-1-2,Ole Gunnar Solskjær,74556,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050353
+21,qua 02/01/2019,18:00,Newcastle,Man Utd,4-2-3-1,Ole Gunnar Solskjær,52217,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050364
+22,dom 13/01/2019,14:30,Tottenham,Man Utd,4-4-2 losango,Ole Gunnar Solskjær,80062,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050375
+23,sáb 19/01/2019,13:00,Man Utd,Brighton,4-3-3 ofensivo,Ole Gunnar Solskjær,74532,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050382
+24,ter 29/01/2019,18:00,Man Utd,FC Burnley,4-3-3 ofensivo,Ole Gunnar Solskjær,74529,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050392
+25,dom 03/02/2019,12:05,Leicester,Man Utd,4-3-3 ofensivo,Ole Gunnar Solskjær,32148,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050403
+26,sáb 09/02/2019,10:30,Fulham,Man Utd,4-3-3 ofensivo,Ole Gunnar Solskjær,25001,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050409
+27,dom 24/02/2019,11:05,Man Utd,Liverpool,4-3-1-2,Ole Gunnar Solskjær,74519,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050434
+28,qua 27/02/2019,17:00,Crystal Palace,Man Utd,4-2-3-1,Ole Gunnar Solskjær,25754,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050441
+29,sáb 02/03/2019,12:00,Man Utd,Southampton,4-3-1-2,Ole Gunnar Solskjær,74459,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050452
+30,dom 10/03/2019,13:30,Arsenal,Man Utd,4-4-2 duplo 6,Ole Gunnar Solskjær,60000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050457
+31,qua 24/04/2019,16:00,Man Utd,Man City,5-3-2,Ole Gunnar Solskjær,74431,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050480
+32,sáb 30/03/2019,12:00,Man Utd,Watford,4-3-1-2,Ole Gunnar Solskjær,74543,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050493
+33,ter 02/04/2019,15:45,Wolves,Man Utd,3-5-2,Ole Gunnar Solskjær,31302,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050504
+34,sáb 13/04/2019,13:30,Man Utd,West Ham,4-2-3-1,Ole Gunnar Solskjær,74478,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050519
+35,dom 21/04/2019,09:30,Everton,Man Utd,4-3-3 defensivo,Ole Gunnar Solskjær,39395,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050527
+36,dom 28/04/2019,12:30,Man Utd,Chelsea,4-3-1-2,Ole Gunnar Solskjær,74526,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050539
+37,dom 05/05/2019,10:00,Huddersfield,Man Utd,4-3-1-2,Ole Gunnar Solskjær,24263,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050556
+38,dom 12/05/2019,11:00,Man Utd,Cardiff,4-3-1-2,Ole Gunnar Solskjær,74457,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050567

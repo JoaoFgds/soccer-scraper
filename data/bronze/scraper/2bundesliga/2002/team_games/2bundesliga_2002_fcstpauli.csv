@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 11/08/2002,10:00,Frankfurt,St. Pauli,3-5-2,Dietmar Demuth,20000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19709
+2,dom 18/08/2002,10:00,St. Pauli,LR Ahlen,3-5-2,Dietmar Demuth,18735,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19760
+3,sex 23/08/2002,14:00,VfB Lübeck,St. Pauli,4-5-1,Joachim Philipkowski,17869,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19795
+4,qua 11/09/2002,14:00,St. Pauli,E. Braunschweig,3-5-2,Joachim Philipkowski,20629,7:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19838
+5,dom 15/09/2002,10:00,Union Berlim,St. Pauli,4-4-2 losango,Joachim Philipkowski,15011,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19874
+6,dom 22/09/2002,10:00,St. Pauli,Mainz,4-4-2 losango,Joachim Philipkowski,16859,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19914
+7,sex 27/09/2002,14:00,W. Mannheim,St. Pauli,3-5-2,Joachim Philipkowski,5600,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19949
+8,sex 04/10/2002,14:00,St. Pauli,RW Oberhausen,3-5-2,Joachim Philipkowski,19322,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19987
+9,dom 20/10/2002,10:00,SSV Reutlingen,St. Pauli,4-4-2,Joachim Philipkowski,8171,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20028
+10,dom 27/10/2002,11:00,St. Pauli,Eintracht Trier,3-5-2,Joachim Philipkowski,17321,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20066
+11,sex 01/11/2002,15:00,St. Pauli,Freiburg,3-5-2,Joachim Philipkowski,19780,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20101
+12,dom 10/11/2002,12:00,Greuther Fürth,St. Pauli,3-5-2,Joachim Philipkowski,8204,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20140
+13,seg 18/11/2002,17:15,St. Pauli,Colônia,3-4-2-1,Joachim Philipkowski,19295,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20183
+14,dom 24/11/2002,12:00,W. Burghausen,St. Pauli,3-5-2 ofensivo,Joachim Philipkowski,8500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20217
+15,seg 02/12/2002,17:15,St. Pauli,Karlsruher,3-5-2 ofensivo,Joachim Philipkowski,18500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20258
+16,sex 06/12/2002,16:00,MSV Duisburg,St. Pauli,3-4-3,Joachim Philipkowski,11000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20288
+17,sex 13/12/2002,16:00,St. Pauli,Alem. Aachen,3-4-3,Joachim Philipkowski,15537,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20328
+18,sex 24/01/2003,16:00,St. Pauli,Frankfurt,3-5-2,Franz Gerber,19189,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20365
+19,dom 02/02/2003,12:00,LR Ahlen,St. Pauli,3-1-4-2,Franz Gerber,10019,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20405
+20,dom 09/02/2003,12:00,St. Pauli,VfB Lübeck,3-1-4-2,Franz Gerber,19987,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20444
+21,sex 14/02/2003,16:00,E. Braunschweig,St. Pauli,3-1-4-2,Franz Gerber,17366,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20471
+22,dom 23/02/2003,11:00,St. Pauli,Union Berlim,3-5-2,Franz Gerber,20629,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20510
+23,sex 28/02/2003,15:00,Mainz,St. Pauli,3-5-2,Franz Gerber,15500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20527
+24,sex 07/03/2003,15:00,St. Pauli,W. Mannheim,3-4-3,Franz Gerber,19000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20565
+25,dom 16/03/2003,11:00,RW Oberhausen,St. Pauli,3-5-2,Franz Gerber,7073,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20618
+26,sex 21/03/2003,15:00,St. Pauli,SSV Reutlingen,3-5-2,Franz Gerber,19436,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20642
+27,dom 06/04/2003,10:00,Eintracht Trier,St. Pauli,3-5-2,Franz Gerber,9400,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20696
+28,dom 13/04/2003,10:00,Freiburg,St. Pauli,4-4-2 duplo 6,Franz Gerber,24000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20728
+29,qui 17/04/2003,14:00,St. Pauli,Greuther Fürth,4-4-2,Franz Gerber,20600,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20769
+30,seg 28/04/2003,15:15,Colônia,St. Pauli,4-4-2 losango,Franz Gerber,30500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20820
+31,sex 02/05/2003,14:00,St. Pauli,W. Burghausen,3-5-2,Franz Gerber,20556,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20844
+32,dom 11/05/2003,10:00,Karlsruher,St. Pauli,3-4-2-1,Franz Gerber,19500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20894
+33,dom 18/05/2003,10:00,St. Pauli,MSV Duisburg,3-5-2,Dietmar Demuth,19358,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20928
+34,dom 25/05/2003,10:00,Alem. Aachen,St. Pauli,3-4-2-1,Franz Gerber,12753,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20967

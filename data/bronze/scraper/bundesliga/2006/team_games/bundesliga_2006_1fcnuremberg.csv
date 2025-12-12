@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/08/2006,10:30,Stuttgart,Nuremberg,4-3-3 ofensivo,Hans Meyer,39000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53496
+2,sex 18/08/2006,15:30,Nuremberg,M'gladbach,4-2-3-1,Hans Meyer,46780,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53501
+3,sáb 26/08/2006,10:30,Bayern,Nuremberg,4-3-1-2,Hans Meyer,69000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53511
+4,sáb 16/09/2006,10:30,Nuremberg,Bochum,4-2-3-1,Hans Meyer,40240,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53522
+5,dom 24/09/2006,12:00,Energ. Cottbus,Nuremberg,4-3-3 defensivo,Hans Meyer,16900,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53536
+6,sáb 30/09/2006,10:30,Nuremberg,Mainz,4-3-3 defensivo,Hans Meyer,38004,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53541
+7,dom 15/10/2006,12:00,Nuremberg,Arm. Bielefeld,4-3-3 ofensivo,Hans Meyer,39788,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53548
+8,dom 22/10/2006,12:00,Frankfurt,Nuremberg,4-3-3 ofensivo,Hans Meyer,50300,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53561
+9,sáb 28/10/2006,10:30,Nuremberg,Dortmund,4-3-3 ofensivo,Hans Meyer,46229,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53566
+10,sáb 04/11/2006,11:30,Hertha Berlim,Nuremberg,4-4-2 losango,Hans Meyer,41162,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53576
+11,ter 07/11/2006,17:00,Nuremberg,Werder Bremen,4-2-3-1,Hans Meyer,37174,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53584
+12,dom 12/11/2006,14:00,Alem. Aachen,Nuremberg,4-3-3 defensivo,Hans Meyer,20800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53599
+13,sáb 18/11/2006,12:30,Nuremberg,Leverkusen,4-3-3 defensivo,Hans Meyer,37143,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53602
+14,sáb 25/11/2006,12:30,Wolfsburg,Nuremberg,4-3-3 defensivo,Hans Meyer,16397,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53617
+15,dom 03/12/2006,14:00,Nuremberg,Schalke,4-3-3 defensivo,Hans Meyer,43242,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53621
+16,sáb 09/12/2006,12:30,Hamburgo,Nuremberg,4-3-3 defensivo,Hans Meyer,54628,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53628
+17,sáb 16/12/2006,12:30,Nuremberg,Hannover,4-3-3 defensivo,Hans Meyer,28683,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53639
+18,sáb 27/01/2007,12:30,Nuremberg,Stuttgart,4-3-3 defensivo,Hans Meyer,35082,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53649
+19,ter 30/01/2007,17:00,M'gladbach,Nuremberg,4-3-3 defensivo,Hans Meyer,33116,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53657
+20,sex 02/02/2007,17:30,Nuremberg,Bayern,4-3-3 defensivo,Hans Meyer,46500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53663
+21,dom 11/02/2007,14:00,Bochum,Nuremberg,4-3-3 defensivo,Hans Meyer,18110,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53675
+22,dom 18/02/2007,14:00,Nuremberg,Energ. Cottbus,4-3-3 ofensivo,Hans Meyer,40580,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53689
+23,sáb 24/02/2007,12:30,Mainz,Nuremberg,4-3-3 ofensivo,Hans Meyer,20300,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53694
+24,sáb 03/03/2007,11:30,Arm. Bielefeld,Nuremberg,4-3-3 ofensivo,Hans Meyer,18444,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53701
+25,sex 09/03/2007,16:30,Nuremberg,Frankfurt,4-3-3 ofensivo,Hans Meyer,44055,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53714
+26,sáb 17/03/2007,11:30,Dortmund,Nuremberg,4-3-3 ofensivo,Hans Meyer,80100,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53719
+27,sáb 31/03/2007,10:30,Nuremberg,Hertha Berlim,4-3-3 ofensivo,Hans Meyer,45649,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53729
+28,dom 08/04/2007,12:00,Werder Bremen,Nuremberg,5-4-1 plano,Hans Meyer,42100,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53737
+29,sáb 14/04/2007,10:30,Nuremberg,Alem. Aachen,4-3-3 ofensivo,Hans Meyer,45000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53752
+30,sáb 21/04/2007,10:30,Leverkusen,Nuremberg,4-3-3 ofensivo,Hans Meyer,22500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53755
+31,sáb 28/04/2007,10:30,Nuremberg,Wolfsburg,4-3-3 ofensivo,Hans Meyer,45000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53770
+32,sáb 05/05/2007,10:30,Schalke,Nuremberg,4-3-3 ofensivo,Hans Meyer,61482,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53774
+33,sáb 12/05/2007,10:30,Nuremberg,Hamburgo,4-4-2 losango,Hans Meyer,47000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53781
+34,sáb 19/05/2007,10:30,Hannover,Nuremberg,4-1-4-1,Hans Meyer,49000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53792

@@ -1,0 +1,31 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 23/08/2019,14:50,Al-Ittihad,Al-Raed,4-1-4-1,Besnik Hasi,31781,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3224611
+2,sáb 31/08/2019,13:05,Al-Raed,Al-Hilal,4-2-3-1,Besnik Hasi,11601,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3224629
+3,sáb 14/09/2019,12:50,Abha,Al-Raed,4-2-3-1,Besnik Hasi,1222,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3224659
+4,qua 06/11/2019,12:00,Al-Raed,Al-Taawoun,3-5-2 ofensivo,Besnik Hasi,,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3224664
+5,sáb 28/09/2019,14:15,Al-Raed,Al-Fayha,4-5-1 plano,Besnik Hasi,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3252145
+6,sex 04/10/2019,12:05,Al-Fateh,Al-Raed,4-5-1,Besnik Hasi,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3252181
+7,sáb 19/10/2019,12:10,Al-Raed,Al-Nassr,3-5-2 ofensivo,Besnik Hasi,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3254897
+8,sex 25/10/2019,13:20,Damac FC,Al-Raed,3-5-2,Besnik Hasi,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3254904
+9,sex 01/11/2019,12:00,Al-Raed,Al-Wehda,3-4-2-1,Besnik Hasi,,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3256125
+10,sex 22/11/2019,13:55,Al-Hazem,Al-Raed,4-3-2-1,Besnik Hasi,,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3256140
+11,qui 12/12/2019,13:45,Al-Shabab,Al-Raed,4-2-3-1,Besnik Hasi,,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3256153
+12,sáb 21/12/2019,13:20,Al-Raed,Al-Ettifaq,4-5-1 plano,Besnik Hasi,,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3256733
+13,qui 26/12/2019,13:55,Al-Raed,Al-Adalah,4-1-4-1,Besnik Hasi,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3262036
+14,sáb 11/01/2020,14:05,Al-Faisaly,Al-Raed,4-3-2-1,Besnik Hasi,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3256750
+15,qui 23/01/2020,14:10,Al-Raed,Al-Ahli,4-2-3-1,Besnik Hasi,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3256756
+16,sex 31/01/2020,14:15,Al-Raed,Al-Ittihad,4-5-1,Besnik Hasi,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3304522
+17,qua 05/02/2020,14:20,Al-Hilal,Al-Raed,5-4-1 plano,Besnik Hasi,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3304685
+18,sáb 15/02/2020,09:55,Al-Raed,Abha,4-2-3-1,Besnik Hasi,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3305034
+19,sáb 22/02/2020,10:00,Al-Taawoun,Al-Raed,4-5-1,Besnik Hasi,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3305041
+20,sex 28/02/2020,14:10,Al-Fayha,Al-Raed,4-1-4-1,Besnik Hasi,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3305048
+21,sex 06/03/2020,12:05,Al-Raed,Al-Fateh,4-2-3-1,Besnik Hasi,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3307734
+22,qua 11/03/2020,14:45,Al-Nassr,Al-Raed,3-4-2-1,Besnik Hasi,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3314286
+23,ter 04/08/2020,14:25,Al-Raed,Damac FC,4-5-1,Besnik Hasi,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3314309
+24,dom 09/08/2020,13:30,Al-Wehda,Al-Raed,4-5-1 plano,Besnik Hasi,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3314318
+25,sex 14/08/2020,13:15,Al-Raed,Al-Hazem,4-3-1-2,Besnik Hasi,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3316152
+26,qua 19/08/2020,14:55,Al-Raed,Al-Shabab,4-2-3-1,Besnik Hasi,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3316159
+27,seg 24/08/2020,12:45,Al-Ettifaq,Al-Raed,4-3-1-2,Besnik Hasi,,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3328094
+28,sáb 29/08/2020,12:40,Al-Adalah,Al-Raed,4-2-3-1,Besnik Hasi,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3328098
+29,sex 04/09/2020,14:35,Al-Raed,Al-Faisaly,4-5-1,Besnik Hasi,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3328106
+30,qua 09/09/2020,15:35,Al-Ahli,Al-Raed,4-5-1,Besnik Hasi,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3328119

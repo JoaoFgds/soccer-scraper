@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 08/08/2020,19:00,Cruzeiro,Botafogo-SP,4-4-1-1,Claudinei Oliveira,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3392047
+2,ter 11/08/2020,19:15,Botafogo-SP,Confiança,4-4-1-1,Claudinei Oliveira,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3414456
+3,sáb 15/08/2020,11:00,Botafogo-SP,Guarani,4-4-2,Claudinei Oliveira,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416269
+4,ter 18/08/2020,19:15,Avaí,Botafogo-SP,4-2-3-1,Claudinei Oliveira,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416277
+5,sáb 22/08/2020,16:30,Botafogo-SP,Figueirense,4-2-3-1,Claudinei Oliveira,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416790
+6,sáb 29/08/2020,11:00,Juventude,Botafogo-SP,4-2-3-1,Claudinei Oliveira,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416801
+7,ter 01/09/2020,17:00,Botafogo-SP,Cuiabá,4-2-3-1,Claudinei Oliveira,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416809
+8,sex 04/09/2020,21:30,Ponte Preta,Botafogo-SP,4-3-1-2,Claudinei Oliveira,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416819
+9,sáb 12/09/2020,19:00,Náutico,Botafogo-SP,4-2-3-1,Claudinei Oliveira,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416833
+10,seg 21/09/2020,20:00,Botafogo-SP,Brasil Pelotas,4-2-3-1,Claudinei Oliveira,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418160
+11,sex 25/09/2020,19:15,Botafogo-SP,CRB,4-2-3-1,Claudinei Oliveira,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418170
+12,ter 29/09/2020,20:30,Oeste,Botafogo-SP,4-2-3-1,Claudinei Oliveira,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418180
+13,sex 02/10/2020,21:30,Botafogo-SP,Paraná,4-2-3-1,Claudinei Oliveira,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418190
+14,ter 06/10/2020,17:00,Chapecoense,Botafogo-SP,4-2-3-1,Claudinei Oliveira,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418205
+15,dom 11/10/2020,20:30,Sampaio Corrêa,Botafogo-SP,4-2-3-1,Claudinei Oliveira,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418214
+16,sex 16/10/2020,19:15,Botafogo-SP,América-MG,4-2-3-1,Claudinei Oliveira,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418220
+17,ter 20/10/2020,19:15,CSA,Botafogo-SP,4-2-3-1,Claudinei Oliveira,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418228
+18,dom 25/10/2020,20:30,Botafogo-SP,Vitória,4-2-3-1,Claudinei Oliveira,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418240
+19,sáb 31/10/2020,19:00,Operário-PR,Botafogo-SP,4-2-3-1,Claudinei Oliveira,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418251
+20,sex 06/11/2020,19:15,Botafogo-SP,Cruzeiro,4-2-3-1,Claudinei Oliveira,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418260
+21,ter 10/11/2020,19:15,Confiança,Botafogo-SP,4-2-3-1,Claudinei Oliveira,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418274
+22,sex 20/11/2020,19:15,Guarani,Botafogo-SP,4-2-3-1,Claudinei Oliveira,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418279
+23,seg 23/11/2020,20:00,Botafogo-SP,Avaí,4-2-3-1,Moacir Júnior,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418290
+24,qui 26/11/2020,21:30,Figueirense,Botafogo-SP,4-2-3-1,Moacir Júnior,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418297
+25,qua 02/12/2020,19:00,Botafogo-SP,Juventude,4-2-3-1,Moacir Júnior,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418310
+26,sáb 05/12/2020,22:00,Cuiabá,Botafogo-SP,4-2-3-1,Moacir Júnior,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418325
+27,ter 08/12/2020,19:15,Botafogo-SP,Ponte Preta,4-2-3-1,Moacir Júnior,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418350
+28,dom 13/12/2020,18:15,Botafogo-SP,Náutico,4-2-3-1,Moacir Júnior,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418340
+29,qua 16/12/2020,16:30,Brasil Pelotas,Botafogo-SP,4-2-3-1,Moacir Júnior,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418332
+30,dom 20/12/2020,18:15,CRB,Botafogo-SP,4-2-3-1,Moacir Júnior,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418358
+31,qua 23/12/2020,19:15,Botafogo-SP,Oeste,4-2-3-1,Moacir Júnior,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418370
+32,seg 04/01/2021,17:00,Paraná,Botafogo-SP,4-2-3-1,Moacir Júnior,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419420
+33,sáb 09/01/2021,21:00,Botafogo-SP,Chapecoense,4-2-3-1,Moacir Júnior,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419429
+34,ter 12/01/2021,19:15,Botafogo-SP,Sampaio Corrêa,4-2-3-1,Moacir Júnior,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419447
+35,sex 15/01/2021,21:30,América-MG,Botafogo-SP,4-2-3-1,Moacir Júnior,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419453
+36,ter 19/01/2021,19:15,Botafogo-SP,CSA,4-2-3-1,Moacir Júnior,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419483
+37,ter 26/01/2021,21:30,Vitória,Botafogo-SP,4-2-3-1,Moacir Júnior,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419503
+38,sex 29/01/2021,19:15,Botafogo-SP,Operário-PR,4-2-3-1,Moacir Júnior,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419510

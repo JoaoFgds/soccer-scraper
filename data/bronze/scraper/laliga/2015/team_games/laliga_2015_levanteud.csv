@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 23/08/2015,17:00,Levante,Celta de Vigo,5-3-2,Lucas Alcaraz,10346,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594474
+2,dom 30/08/2015,17:30,Las Palmas,Levante,5-3-2,Lucas Alcaraz,18832,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594482
+3,sex 11/09/2015,15:30,Levante,Sevilla,3-5-2 plano,Lucas Alcaraz,14775,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594492
+4,dom 20/09/2015,15:30,Barcelona,Levante,5-3-2,Lucas Alcaraz,74383,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594503
+5,qua 23/09/2015,15:00,Levante,Eibar,3-5-2 plano,Lucas Alcaraz,10929,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594513
+6,dom 27/09/2015,13:15,Getafe,Levante,5-3-2,Lucas Alcaraz,5854,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594524
+7,dom 04/10/2015,13:15,Levante,Villarreal,5-3-2,Lucas Alcaraz,16058,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594534
+8,sáb 17/10/2015,11:00,Real Madrid,Levante,5-3-2,Lucas Alcaraz,63476,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594545
+9,dom 25/10/2015,09:00,Levante,Real Sociedad,3-5-2 plano,Lucas Alcaraz,14270,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594555
+10,sáb 31/10/2015,15:15,Valencia,Levante,4-3-3 ofensivo,Rubi,39053,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594566
+11,sáb 07/11/2015,15:15,Levante,Deportivo,4-3-3 ofensivo,Rubi,13771,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594576
+12,dom 22/11/2015,09:00,Real Sporting,Levante,4-1-4-1,Rubi,19536,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594587
+13,sex 27/11/2015,17:30,Levante,Betis,4-3-3 ofensivo,Rubi,13957,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594597
+14,seg 07/12/2015,17:30,Espanyol,Levante,4-3-3 ofensivo,Rubi,14875,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594608
+15,sáb 12/12/2015,15:15,Levante,Granada CF,4-3-3 ofensivo,Rubi,12466,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594618
+16,dom 20/12/2015,15:15,Athletic Club,Levante,4-1-4-1,Rubi,39380,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594629
+17,qua 30/12/2015,13:00,Levante,Málaga CF,4-3-3 ofensivo,Rubi,12094,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594639
+18,sáb 02/01/2016,17:30,Atlético,Levante,4-1-4-1,Rubi,37461,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594650
+19,sáb 09/01/2016,19:05,Levante,Rayo Vallecano,4-3-3 ofensivo,Rubi,10589,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594660
+20,sáb 16/01/2016,15:15,Celta de Vigo,Levante,4-1-4-1,Rubi,17080,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594664
+21,seg 25/01/2016,17:30,Levante,Las Palmas,4-3-3 ofensivo,Rubi,13155,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594672
+22,dom 31/01/2016,09:00,Sevilla,Levante,4-3-3 ofensivo,Rubi,33487,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594682
+23,dom 07/02/2016,09:00,Levante,Barcelona,4-3-3 ofensivo,Rubi,22638,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594693
+24,dom 14/02/2016,15:15,Eibar,Levante,4-4-2 duplo 6,Rubi,4766,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594703
+25,sex 19/02/2016,17:30,Levante,Getafe,4-4-2 duplo 6,Rubi,13665,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594714
+26,dom 28/02/2016,08:00,Villarreal,Levante,4-4-2 duplo 6,Rubi,16619,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594724
+27,qua 02/03/2016,17:00,Levante,Real Madrid,4-4-2 duplo 6,Rubi,19725,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594735
+28,dom 06/03/2016,14:15,Real Sociedad,Levante,4-4-2 duplo 6,Rubi,18620,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594745
+29,dom 13/03/2016,08:00,Levante,Valencia,4-4-2 duplo 6,Rubi,18191,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594756
+30,sáb 19/03/2016,16:30,Deportivo,Levante,4-4-2 duplo 6,Rubi,24920,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594766
+31,seg 04/04/2016,15:30,Levante,Real Sporting,4-4-2 duplo 6,Rubi,11302,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594777
+32,sáb 09/04/2016,17:05,Betis,Levante,4-4-2 duplo 6,Rubi,37091,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594787
+33,sex 15/04/2016,15:30,Levante,Espanyol,4-4-2 duplo 6,Rubi,16192,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594798
+34,qui 21/04/2016,16:00,Granada CF,Levante,4-4-2 duplo 6,Rubi,21131,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594808
+35,dom 24/04/2016,07:00,Levante,Athletic Club,4-4-2 duplo 6,Rubi,15263,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594819
+36,seg 02/05/2016,15:30,Málaga CF,Levante,4-4-2 duplo 6,Rubi,17562,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594829
+37,dom 08/05/2016,12:00,Levante,Atlético,4-2-3-1,Rubi,12054,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594840
+38,dom 15/05/2016,14:30,Rayo Vallecano,Levante,4-3-3 ofensivo,Rubi,13012,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594850

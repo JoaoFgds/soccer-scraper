@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 07/08/2021,14:00,Moreirense,Benfica,3-4-3 plano,João Henriques,1498,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621351
+2,dom 15/08/2021,16:30,Santa Clara,Moreirense,3-4-3 plano,João Henriques,876,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621358
+3,sex 20/08/2021,17:15,Moreirense,Braga,3-4-3 plano,João Henriques,861,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621368
+4,sex 27/08/2021,15:00,B SAD,Moreirense,3-4-3 plano,João Henriques,573,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621379
+5,dom 12/09/2021,11:30,Moreirense,Famalicão,4-3-3 ofensivo,João Henriques,1331,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621387
+6,dom 19/09/2021,14:00,FC Porto,Moreirense,4-2-3-1,João Henriques,14009,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621401
+7,sáb 25/09/2021,11:30,Moreirense,Arouca,4-2-3-1,João Henriques,863,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621396
+8,sex 01/10/2021,15:00,Marítimo,Moreirense,4-2-3-1,João Henriques,1872,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621424
+9,sáb 23/10/2021,16:30,Sporting,Moreirense,5-4-1 plano,João Henriques,35882,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621428
+10,seg 01/11/2021,18:15,Moreirense,Paços Ferreira,4-2-3-1,João Henriques,911,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621413
+11,sáb 06/11/2021,17:30,Vit. Guimarães,Moreirense,4-2-3-1,João Henriques,12396,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621476
+12,sex 26/11/2021,17:15,Moreirense,Gil Vicente,4-3-3 defensivo,João Henriques,1015,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621440
+13,seg 03/01/2022,17:15,CD Tondela,Moreirense,3-4-3 plano,Lito Vidigal,463,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621487
+14,dom 12/12/2021,12:30,Moreirense,Portimonense,4-2-3-1,Lito Vidigal,820,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621459
+15,dom 19/12/2021,14:00,Boavista,Moreirense,4-2-3-1,Lito Vidigal,3374,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621496
+16,ter 28/12/2021,18:00,Moreirense,Estoril,3-4-3 plano,Lito Vidigal,311,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621468
+17,sáb 08/01/2022,12:30,Vizela,Moreirense,3-4-3 plano,Lito Vidigal,2009,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621454
+18,sáb 15/01/2022,15:00,Benfica,Moreirense,3-4-3 plano,Lito Vidigal,29188,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621504
+19,sáb 22/01/2022,12:30,Moreirense,Santa Clara,3-4-3 plano,Ricardo Sá Pinto,1020,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621582
+20,dom 30/01/2022,15:00,Braga,Moreirense,3-4-3 plano,Ricardo Sá Pinto,5621,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621512
+21,seg 07/02/2022,18:15,Moreirense,B SAD,3-4-3 plano,Ricardo Sá Pinto,1231,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621532
+22,dom 13/02/2022,12:30,Famalicão,Moreirense,3-4-3 plano,Ricardo Sá Pinto,2641,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621522
+23,dom 20/02/2022,17:00,Moreirense,FC Porto,3-4-3 plano,Ricardo Sá Pinto,3688,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621545
+24,sáb 26/02/2022,17:30,Arouca,Moreirense,3-4-3 plano,Ricardo Sá Pinto,1154,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621607
+25,dom 06/03/2022,12:30,Moreirense,Marítimo,4-4-2 duplo 6,Ricardo Sá Pinto,1632,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621623
+26,seg 14/03/2022,17:15,Moreirense,Sporting,3-4-3 plano,Ricardo Sá Pinto,2821,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621557
+27,dom 20/03/2022,12:30,Paços Ferreira,Moreirense,4-3-3 ofensivo,Ricardo Sá Pinto,2740,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621539
+28,dom 03/04/2022,14:00,Moreirense,Vit. Guimarães,4-1-4-1,Ricardo Sá Pinto,3486,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621592
+29,sex 08/04/2022,16:15,Gil Vicente,Moreirense,4-3-3 ofensivo,Ricardo Sá Pinto,2839,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621591
+30,sáb 16/04/2022,11:30,Moreirense,CD Tondela,4-2-3-1,Ricardo Sá Pinto,2640,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621640
+31,sáb 23/04/2022,11:30,Portimonense,Moreirense,4-2-3-1,Ricardo Sá Pinto,990,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621613
+32,dom 01/05/2022,14:00,Moreirense,Boavista,4-1-4-1,Ricardo Sá Pinto,2681,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621618
+33,sáb 07/05/2022,11:30,Estoril,Moreirense,4-2-3-1,Ricardo Sá Pinto,1244,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621590
+34,sáb 14/05/2022,19:00,Moreirense,Vizela,4-1-4-1,Ricardo Sá Pinto,2957,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621628

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,ter 08/08/2017,12:00,Marítimo,Paços Ferreira,4-1-4-1,Daniel Ramos,9237,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883611
+2,sáb 12/08/2017,14:15,Belenenses,Marítimo,4-1-4-1,Daniel Ramos,2153,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883613
+3,dom 20/08/2017,16:15,Marítimo,Boavista,4-1-4-1,Daniel Ramos,6771,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883643
+4,seg 28/08/2017,16:00,Portimonense,Marítimo,4-1-4-1,Daniel Ramos,2582,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883665
+5,sáb 09/09/2017,14:15,Marítimo,Rio Ave,4-2-3-1,Daniel Ramos,5348,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883679
+6,sáb 16/09/2017,12:00,Marítimo,CD Aves,4-1-4-1,Daniel Ramos,6447,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883698
+7,dom 24/09/2017,12:00,Vit. Guimarães,Marítimo,?,Daniel Ramos,18019,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883704
+8,dom 01/10/2017,17:30,Marítimo,Benfica,4-3-3 defensivo,Daniel Ramos,9537,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883718
+9,sáb 21/10/2017,15:15,Vitória FC,Marítimo,4-1-4-1,Daniel Ramos,2253,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883728
+10,sáb 28/10/2017,13:00,Marítimo,CD Tondela,4-1-4-1,Daniel Ramos,6735,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883734
+11,dom 05/11/2017,14:00,Feirense,Marítimo,4-2-3-1,Daniel Ramos,2944,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883740
+12,dom 26/11/2017,14:00,Marítimo,Estoril,4-2-3-1,Daniel Ramos,6469,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883754
+13,sáb 02/12/2017,14:00,Moreirense,Marítimo,4-1-4-1,Daniel Ramos,1583,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883763
+14,seg 11/12/2017,19:00,Marítimo,Braga,4-1-4-1,Daniel Ramos,6327,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883769
+15,seg 18/12/2017,19:00,FC Porto,Marítimo,5-4-1 plano,Daniel Ramos,34123,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883781
+16,qua 03/01/2018,16:15,Marítimo,Chaves,4-1-4-1,Daniel Ramos,4533,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883798
+17,dom 07/01/2018,16:00,Sporting,Marítimo,4-1-4-1,Daniel Ramos,41754,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883808
+18,sáb 13/01/2018,16:15,Paços Ferreira,Marítimo,4-1-4-1,Daniel Ramos,1237,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884393
+19,sáb 20/01/2018,14:00,Marítimo,Belenenses,4-1-4-1,Daniel Ramos,5886,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884395
+20,qua 31/01/2018,17:00,Boavista,Marítimo,4-1-4-1,Daniel Ramos,4104,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884408
+21,seg 05/02/2018,17:00,Marítimo,Portimonense,4-1-4-1,Daniel Ramos,5264,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884421
+22,sáb 10/02/2018,14:00,Rio Ave,Marítimo,4-1-4-1,Daniel Ramos,2754,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884426
+23,sáb 17/02/2018,14:00,CD Aves,Marítimo,4-1-4-1,Daniel Ramos,1685,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884436
+24,sáb 24/02/2018,15:15,Marítimo,Vit. Guimarães,4-1-4-1,Daniel Ramos,6753,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884442
+25,sáb 03/03/2018,15:15,Benfica,Marítimo,4-2-3-1,Daniel Ramos,52460,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884456
+26,dom 11/03/2018,13:00,Marítimo,Vitória FC,4-4-2 duplo 6,Daniel Ramos,6157,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884466
+27,sáb 17/03/2018,13:00,CD Tondela,Marítimo,4-4-2 duplo 6,Daniel Ramos,1361,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884472
+28,sex 30/03/2018,12:00,Marítimo,Feirense,4-4-2 duplo 6,Daniel Ramos,7237,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884478
+29,sáb 07/04/2018,12:00,Estoril,Marítimo,4-4-2 duplo 6,Daniel Ramos,1163,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884492
+30,dom 15/04/2018,12:00,Marítimo,Moreirense,4-4-2 duplo 6,Daniel Ramos,6125,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884501
+31,sex 20/04/2018,16:30,Braga,Marítimo,4-3-1-2,Daniel Ramos,12564,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884507
+32,dom 29/04/2018,14:00,Marítimo,FC Porto,4-1-4-1,Daniel Ramos,10535,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884519
+33,dom 06/05/2018,14:00,Chaves,Marítimo,4-4-2 duplo 6,Daniel Ramos,4503,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884527
+34,dom 13/05/2018,14:00,Marítimo,Sporting,4-2-3-1,Daniel Ramos,9955,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884537

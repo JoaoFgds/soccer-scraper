@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 29/07/2000,15:00,Guingamp,Saint-Étienne,?,Robert Nouzaret,14644,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002777
+2,sex 04/08/2000,15:45,Saint-Étienne,Marselha,4-4-2,Robert Nouzaret,29275,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002784
+3,sáb 12/08/2000,15:00,Toulouse,Saint-Étienne,?,Robert Nouzaret,26452,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002797
+4,sáb 19/08/2000,12:30,Saint-Étienne,Bordeaux,?,Robert Nouzaret,31384,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002801
+5,dom 27/08/2000,13:45,Auxerre,Saint-Étienne,?,Robert Nouzaret,15166,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002816
+6,qua 06/09/2000,15:00,Saint-Étienne,Lyon,?,Robert Nouzaret,28446,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002824
+7,sáb 09/09/2000,12:15,PSG,Saint-Étienne,?,Robert Nouzaret,44757,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002828
+8,dom 17/09/2000,15:45,Saint-Étienne,Lille,?,Robert Nouzaret,21656,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002844
+9,sáb 23/09/2000,15:00,Strasbourg,Saint-Étienne,?,Robert Nouzaret,13728,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002852
+10,sáb 30/09/2000,15:00,Saint-Étienne,Rennes,?,Gérard Soler,25546,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002858
+11,sáb 14/10/2000,16:00,CS Sedan,Saint-Étienne,?,John Toshack,12691,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002869
+12,sáb 21/10/2000,16:00,Saint-Étienne,FC Metz,?,John Toshack,25014,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002878
+13,dom 29/10/2000,16:00,SC Bastia,Saint-Étienne,?,John Toshack,7637,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002883
+14,sáb 04/11/2000,17:00,Saint-Étienne,Troyes,?,John Toshack,24011,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002897
+15,sex 10/11/2000,17:45,Saint-Étienne,Monaco,?,John Toshack,28455,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002899
+16,sáb 18/11/2000,17:00,Lens,Saint-Étienne,?,John Toshack,40616,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002911
+17,dom 26/11/2000,14:00,Saint-Étienne,Nantes,?,John Toshack,29047,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002923
+18,qua 29/11/2000,17:00,Marselha,Saint-Étienne,5-3-2,John Toshack,48798,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002937
+19,sáb 02/12/2000,17:00,Saint-Étienne,Toulouse,?,John Toshack,21544,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002946
+20,dom 10/12/2000,17:45,Bordeaux,Saint-Étienne,?,John Toshack,30693,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002957
+21,sáb 16/12/2000,17:00,Saint-Étienne,Auxerre,?,John Toshack,22114,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002963
+22,qui 21/12/2000,17:30,Lyon,Saint-Étienne,?,John Toshack,38959,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002971
+23,sáb 13/01/2001,17:00,Saint-Étienne,PSG,?,Rudi Garcia,29019,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002983
+24,sáb 27/01/2001,17:00,Lille,Saint-Étienne,5-4-1 plano,Rudi Garcia,16361,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002988
+25,sáb 03/02/2001,17:00,Saint-Étienne,Strasbourg,?,Rudi Garcia,22080,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002999
+26,ter 06/02/2001,15:15,Rennes,Saint-Étienne,?,Rudi Garcia,18118,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003003
+27,sáb 17/02/2001,17:00,Saint-Étienne,CS Sedan,?,Rudi Garcia,27331,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003016
+28,sáb 03/03/2001,16:00,FC Metz,Saint-Étienne,?,Rudi Garcia,22262,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003025
+29,sáb 17/03/2001,16:00,Saint-Étienne,SC Bastia,?,Rudi Garcia,25435,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003037
+30,sáb 07/04/2001,15:00,Troyes,Saint-Étienne,?,Rudi Garcia,17268,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003047
+31,sáb 14/04/2001,15:00,Monaco,Saint-Étienne,?,Rudi Garcia,12478,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003053
+32,sáb 28/04/2001,15:00,Saint-Étienne,Lens,?,Rudi Garcia,33783,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003063
+33,sáb 12/05/2001,15:00,Nantes,Saint-Étienne,?,Rudi Garcia,35852,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003072
+34,sáb 19/05/2001,15:00,Saint-Étienne,Guingamp,?,Rudi Garcia,26137,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003081

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 19/08/2000,11:00,Derby,Southampton,?,Jim Smith,27223,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1041975
+2,qua 23/08/2000,15:45,Newcastle,Derby,?,Jim Smith,51327,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1041990
+3,sáb 26/08/2000,11:00,Everton,Derby,?,Jim Smith,34840,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1041993
+4,qua 06/09/2000,15:45,Derby,Middlesbrough,4-4-2,Jim Smith,24290,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042007
+5,dom 10/09/2000,12:00,Derby,Charlton,?,Jim Smith,22310,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042020
+6,sáb 16/09/2000,11:00,AFC Sunderland,Derby,?,Jim Smith,45343,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042033
+7,sáb 23/09/2000,11:00,Derby,Leeds,?,Jim Smith,26248,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042065
+8,sáb 30/09/2000,11:00,Aston Villa,Derby,?,Jim Smith,26534,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042073
+9,dom 15/10/2000,13:00,Derby,Liverpool,?,Jim Smith,30532,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042087
+10,sáb 21/10/2000,12:00,Tottenham,Derby,?,Jim Smith,34483,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042092
+11,sáb 28/10/2000,12:00,Leicester,Derby,?,Jim Smith,20525,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042102
+12,seg 06/11/2000,18:00,Derby,West Ham,?,Jim Smith,24621,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042119
+13,sáb 11/11/2000,13:00,Arsenal,Derby,5-4-1 plano,Jim Smith,37679,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042120
+14,sáb 18/11/2000,13:00,Derby,Bradford,?,Jim Smith,31614,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042135
+15,sáb 25/11/2000,13:00,Derby,Man Utd,?,Jim Smith,32910,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042174
+16,sáb 02/12/2000,13:00,Ipswich,Derby,?,Jim Smith,22003,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042185
+17,sáb 09/12/2000,13:00,Chelsea,Derby,?,Jim Smith,34317,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042195
+18,sáb 16/12/2000,13:00,Derby,Coventry City,?,Jim Smith,27869,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042203
+19,sáb 23/12/2000,13:00,Derby,Newcastle,?,Jim Smith,29978,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042217
+20,ter 26/12/2000,13:00,Man City,Derby,4-4-2,Jim Smith,34321,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042228
+21,sáb 30/12/2000,13:00,Southampton,Derby,?,Jim Smith,15075,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042029
+22,seg 01/01/2001,13:00,Derby,Everton,?,Jim Smith,27358,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042244
+23,sáb 13/01/2001,13:00,Middlesbrough,Derby,?,Jim Smith,29041,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042256
+24,sáb 20/01/2001,13:00,Derby,Man City,?,Jim Smith,31174,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042263
+25,ter 30/01/2001,18:00,Charlton,Derby,?,Jim Smith,20043,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042272
+26,sáb 03/02/2001,13:00,Derby,AFC Sunderland,?,Jim Smith,29129,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042283
+27,sáb 10/02/2001,13:00,Leeds,Derby,?,Jim Smith,38789,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043199
+28,sáb 24/02/2001,12:00,Derby,Aston Villa,?,Jim Smith,27289,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043207
+29,sáb 03/03/2001,12:00,Derby,Tottenham,?,Jim Smith,29410,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042085
+30,dom 18/03/2001,12:00,Liverpool,Derby,?,Jim Smith,43362,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043231
+31,sáb 31/03/2001,11:00,Coventry City,Derby,?,Jim Smith,19654,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043240
+32,sáb 07/04/2001,11:00,Derby,Chelsea,?,Jim Smith,29320,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043244
+33,sáb 14/04/2001,11:00,West Ham,Derby,?,Jim Smith,25319,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043257
+34,seg 16/04/2001,11:00,Derby,Leicester,?,Jim Smith,28387,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043267
+35,sáb 21/04/2001,11:00,Bradford,Derby,?,Jim Smith,18564,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043277
+36,sáb 28/04/2001,11:00,Derby,Arsenal,3-4-2-1,Jim Smith,29567,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043290
+37,sáb 05/05/2001,11:00,Man Utd,Derby,?,Jim Smith,67526,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043299
+38,sáb 19/05/2001,11:00,Derby,Ipswich,?,Jim Smith,33239,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043305

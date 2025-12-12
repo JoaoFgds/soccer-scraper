@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 11/08/2018,17:00,FC Porto,Chaves,4-4-2 duplo 6,Sérgio Conceição,46509,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069372
+2,dom 19/08/2018,14:30,B SAD,FC Porto,4-4-2 duplo 6,Sérgio Conceição,10901,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069386
+3,sáb 25/08/2018,17:00,FC Porto,Vit. Guimarães,4-4-2 duplo 6,Sérgio Conceição,47008,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069390
+4,dom 02/09/2018,16:30,FC Porto,Moreirense,4-4-2 duplo 6,Sérgio Conceição,43316,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069402
+5,sáb 22/09/2018,17:00,Vitória FC,FC Porto,4-4-2 duplo 6,Sérgio Conceição,10628,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069412
+6,sex 28/09/2018,16:30,FC Porto,CD Tondela,4-4-2 duplo 6,Sérgio Conceição,40011,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069432
+7,dom 07/10/2018,13:30,Benfica,FC Porto,4-3-3 ofensivo,Sérgio Conceição,61567,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069444
+8,dom 28/10/2018,14:30,FC Porto,Feirense,4-4-2 duplo 6,Sérgio Conceição,46028,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069456
+9,sáb 03/11/2018,15:00,Marítimo,FC Porto,4-4-2 duplo 6,Sérgio Conceição,9620,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069468
+10,sáb 10/11/2018,18:30,FC Porto,Braga,4-4-2 duplo 6,Sérgio Conceição,47929,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069486
+11,dom 02/12/2018,18:00,Boavista,FC Porto,4-3-3 ofensivo,Sérgio Conceição,13556,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069499
+12,sex 07/12/2018,18:30,FC Porto,Portimonense,4-4-2 duplo 6,Sérgio Conceição,33511,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069505
+13,sáb 15/12/2018,18:30,Santa Clara,FC Porto,4-3-3 ofensivo,Sérgio Conceição,8315,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069510
+14,dom 23/12/2018,13:00,FC Porto,Rio Ave,4-4-2 duplo 6,Sérgio Conceição,48208,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069524
+15,qui 03/01/2019,18:15,CD Aves,FC Porto,4-4-2 duplo 6,Sérgio Conceição,5338,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069535
+16,seg 07/01/2019,19:15,FC Porto,Nacional,4-4-2 duplo 6,Sérgio Conceição,33708,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069539
+17,sáb 12/01/2019,13:30,Sporting,FC Porto,4-4-2 duplo 6,Sérgio Conceição,45174,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069550
+18,sex 18/01/2019,17:00,Chaves,FC Porto,4-4-2 duplo 6,Sérgio Conceição,5950,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069557
+19,qua 30/01/2019,19:15,FC Porto,B SAD,4-4-2 duplo 6,Sérgio Conceição,21808,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069571
+20,dom 03/02/2019,18:00,Vit. Guimarães,FC Porto,4-4-2,Sérgio Conceição,25110,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069574
+21,sex 08/02/2019,18:30,Moreirense,FC Porto,4-3-3 ofensivo,Sérgio Conceição,3941,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069584
+22,sáb 16/02/2019,18:30,FC Porto,Vitória FC,4-3-3 ofensivo,Sérgio Conceição,41116,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069593
+23,sex 22/02/2019,18:15,CD Tondela,FC Porto,4-3-3 ofensivo,Sérgio Conceição,3963,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069605
+24,sáb 02/03/2019,17:30,FC Porto,Benfica,4-4-2 duplo 6,Sérgio Conceição,49220,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069616
+25,dom 10/03/2019,17:00,Feirense,FC Porto,4-4-2 duplo 6,Sérgio Conceição,5414,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069620
+26,sáb 16/03/2019,17:30,FC Porto,Marítimo,4-4-2 duplo 6,Sérgio Conceição,46413,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069628
+27,sáb 30/03/2019,12:30,Braga,FC Porto,4-4-2 duplo 6,Sérgio Conceição,20106,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069640
+28,sex 05/04/2019,16:30,FC Porto,Boavista,4-4-2 duplo 6,Sérgio Conceição,39129,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069651
+29,sáb 13/04/2019,14:00,Portimonense,FC Porto,4-4-2 duplo 6,Sérgio Conceição,5989,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069662
+30,sáb 20/04/2019,16:30,FC Porto,Santa Clara,4-4-2 duplo 6,Sérgio Conceição,43911,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069666
+31,sex 26/04/2019,16:30,Rio Ave,FC Porto,4-2-3-1,Sérgio Conceição,7532,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069680
+32,sáb 04/05/2019,16:30,FC Porto,CD Aves,4-4-2 duplo 6,Sérgio Conceição,40017,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069688
+33,dom 12/05/2019,13:30,Nacional,FC Porto,4-4-2 duplo 6,Sérgio Conceição,4098,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069692
+34,sáb 18/05/2019,14:30,FC Porto,Sporting,4-4-2 duplo 6,Sérgio Conceição,39808,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069701

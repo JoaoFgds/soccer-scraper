@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 06/08/1999,19:00,Sheff Wed,Liverpool,4-4-2,Danny Wilson,34853,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043694
+2,ter 10/08/1999,19:00,Man Utd,Sheff Wed,5-3-2,Danny Wilson,54941,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1055076
+3,sex 13/08/1999,19:00,Bradford,Sheff Wed,?,Danny Wilson,18276,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1055081
+4,sex 20/08/1999,19:00,Sheff Wed,Tottenham,?,Danny Wilson,24027,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1055097
+5,ter 24/08/1999,19:00,Sheff Wed,Derby,?,Danny Wilson,20943,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1055107
+6,sex 27/08/1999,19:00,Southampton,Sheff Wed,4-4-2,Danny Wilson,14815,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1055181
+7,sex 10/09/1999,19:00,Sheff Wed,Everton,?,Danny Wilson,23539,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1055191
+8,sáb 18/09/1999,19:00,Newcastle,Sheff Wed,?,Danny Wilson,36619,8:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1055204
+9,sex 24/09/1999,19:00,AFC Sunderland,Sheff Wed,?,Danny Wilson,41132,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113809
+10,sex 01/10/1999,19:00,Sheff Wed,Wimbledon FC,?,Danny Wilson,18077,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113815
+11,sex 15/10/1999,20:00,Leeds,Sheff Wed,4-4-2,Danny Wilson,39437,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113825
+12,sex 22/10/1999,20:00,Sheff Wed,Coventry City,?,Danny Wilson,23296,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113835
+13,sex 29/10/1999,20:00,Leicester,Sheff Wed,?,Danny Wilson,19046,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113844
+14,sex 05/11/1999,21:00,Sheff Wed,Watford,?,Danny Wilson,21658,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113857
+15,sáb 20/11/1999,21:00,West Ham,Sheff Wed,?,Danny Wilson,23015,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113870
+16,ter 01/02/2000,21:00,Sheff Wed,Man Utd,?,Danny Wilson,39640,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113881
+17,sáb 04/12/1999,21:00,Liverpool,Sheff Wed,?,Danny Wilson,42517,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113889
+18,sex 17/12/1999,21:00,Aston Villa,Sheff Wed,?,Danny Wilson,23885,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113899
+19,sáb 25/12/1999,21:00,Sheff Wed,Middlesbrough,?,Danny Wilson,28531,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113908
+20,ter 28/12/1999,21:00,Chelsea,Sheff Wed,?,Danny Wilson,32938,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113920
+21,dom 02/01/2000,21:00,Sheff Wed,Arsenal,4-4-2 duplo 6,Danny Wilson,26155,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113926
+22,sex 14/01/2000,21:00,Sheff Wed,Bradford,?,Danny Wilson,24682,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113937
+23,sex 21/01/2000,21:00,Tottenham,Sheff Wed,?,Danny Wilson,35897,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113948
+24,sex 04/02/2000,21:00,Derby,Sheff Wed,?,Danny Wilson,30100,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113954
+25,sex 11/02/2000,21:00,Sheff Wed,Southampton,?,Danny Wilson,23470,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113967
+26,sex 25/02/2000,21:00,Sheff Wed,Newcastle,?,Danny Wilson,29212,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113977
+27,sex 03/03/2000,20:00,Everton,Sheff Wed,?,Danny Wilson,32020,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113983
+28,sex 10/03/2000,20:00,Sheff Wed,West Ham,?,Danny Wilson,21147,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113997
+29,sáb 18/03/2000,12:00,Watford,Sheff Wed,?,Danny Wilson,15840,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1114007
+30,sáb 25/03/2000,12:00,Middlesbrough,Sheff Wed,?,Peter Shreeves,32748,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1114016
+31,qua 05/04/2000,15:45,Sheff Wed,Aston Villa,?,Peter Shreeves,18136,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1114031
+32,ter 09/05/2000,15:45,Arsenal,Sheff Wed,4-5-1 plano,Peter Shreeves,37271,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1114041
+33,sáb 15/04/2000,11:00,Sheff Wed,Chelsea,?,Peter Shreeves,21743,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1114047
+34,sáb 22/04/2000,11:00,Sheff Wed,AFC Sunderland,?,Peter Shreeves,28072,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1114055
+35,qua 12/04/2000,15:45,Wimbledon FC,Sheff Wed,?,Peter Shreeves,8248,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1114064
+36,dom 30/04/2000,12:00,Sheff Wed,Leeds,?,Peter Shreeves,23416,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1114081
+37,sáb 06/05/2000,11:00,Coventry City,Sheff Wed,?,Peter Shreeves,19921,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1114088
+38,dom 14/05/2000,12:00,Sheff Wed,Leicester,?,Peter Shreeves,21656,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1114097

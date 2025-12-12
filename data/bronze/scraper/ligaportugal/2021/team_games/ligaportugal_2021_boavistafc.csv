@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 09/08/2021,16:15,Gil Vicente,Boavista,4-4-2 duplo 6,João Pedro Sousa,2014,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621352
+2,seg 16/08/2021,15:00,Boavista,Paços Ferreira,3-4-3 plano,João Pedro Sousa,2842,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621361
+3,seg 23/08/2021,17:15,Boavista,Santa Clara,3-4-3 plano,João Pedro Sousa,2799,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621371
+4,sáb 28/08/2021,11:30,Vizela,Boavista,3-4-3 plano,João Pedro Sousa,1243,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621382
+5,dom 12/09/2021,14:00,Boavista,Portimonense,3-4-3 plano,João Pedro Sousa,2416,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621390
+6,seg 20/09/2021,15:00,Benfica,Boavista,3-4-3 plano,João Pedro Sousa,23000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621402
+7,seg 27/09/2021,17:15,Boavista,Estoril,3-4-3 plano,João Pedro Sousa,2094,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621399
+8,dom 03/10/2021,16:30,Braga,Boavista,3-4-3 plano,João Pedro Sousa,7058,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621421
+9,seg 25/10/2021,17:15,Boavista,B SAD,4-4-2 duplo 6,João Pedro Sousa,2043,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621434
+10,sáb 30/10/2021,13:00,FC Porto,Boavista,3-4-3 plano,João Pedro Sousa,31207,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621411
+11,sex 05/11/2021,18:15,Boavista,Famalicão,4-2-3-1,João Pedro Sousa,3479,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621479
+12,sáb 27/11/2021,15:00,Arouca,Boavista,4-4-2 duplo 6,João Pedro Sousa,988,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621445
+13,sáb 04/12/2021,15:00,Boavista,Marítimo,3-4-3 plano,Petit,3030,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621488
+14,sáb 11/12/2021,17:30,Sporting,Boavista,3-4-3 plano,Petit,18551,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621455
+15,dom 19/12/2021,14:00,Boavista,Moreirense,3-4-3 plano,Nuno Pereira,3374,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621496
+16,qua 29/12/2021,16:00,Vit. Guimarães,Boavista,3-4-2-1,Petit,6835,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621467
+17,sáb 08/01/2022,17:30,Boavista,CD Tondela,3-4-2-1,Petit,2869,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621451
+18,sáb 15/01/2022,12:30,Boavista,Gil Vicente,3-4-3 plano,Petit,3355,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621505
+19,sex 21/01/2022,18:15,Paços Ferreira,Boavista,3-4-3 plano,Petit,1215,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621617
+20,ter 01/02/2022,17:15,Santa Clara,Boavista,3-4-3 plano,Petit,252,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621515
+21,dom 06/02/2022,12:30,Boavista,Vizela,3-4-3 plano,Petit,4332,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621535
+22,sáb 12/02/2022,15:00,Portimonense,Boavista,3-4-3 plano,Petit,1167,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621525
+23,sex 18/02/2022,17:15,Boavista,Benfica,3-4-3 plano,Petit,7903,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621546
+24,dom 27/02/2022,15:00,Estoril,Boavista,3-4-3 plano,Petit,1948,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621636
+25,sáb 05/03/2022,12:30,Boavista,Braga,3-4-3 plano,Petit,5139,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621588
+26,sáb 12/03/2022,17:30,B SAD,Boavista,3-4-3 plano,Petit,683,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621612
+27,dom 20/03/2022,17:45,Boavista,FC Porto,3-4-3 plano,Petit,11251,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621537
+28,sáb 02/04/2022,16:30,Famalicão,Boavista,3-4-3 plano,Nuno Pereira,4246,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621625
+29,sáb 09/04/2022,14:00,Boavista,Arouca,5-4-1 plano,Petit,10128,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621639
+30,sáb 16/04/2022,14:00,Marítimo,Boavista,3-4-2-1,Petit,6875,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621650
+31,seg 25/04/2022,16:30,Boavista,Sporting,3-4-3 plano,Petit,7434,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621561
+32,dom 01/05/2022,14:00,Moreirense,Boavista,3-5-2,Nuno Pereira,2681,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621618
+33,sex 06/05/2022,16:15,Boavista,Vit. Guimarães,5-4-1 plano,Nuno Pereira,13512,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621579
+34,sáb 14/05/2022,11:30,CD Tondela,Boavista,3-4-3 plano,Nuno Pereira,4113,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621601

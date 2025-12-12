@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 11/08/2023,16:00,Nice,Lille,4-2-3-1,Paulo Fonseca,29436,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094582
+2,dom 20/08/2023,08:00,Lille,Nantes,4-2-3-1,Paulo Fonseca,34356,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094590
+3,dom 27/08/2023,12:05,FC Lorient,Lille,4-2-3-1,Paulo Fonseca,15101,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094600
+4,dom 03/09/2023,10:00,Lille,Montpellier,4-2-3-1,Paulo Fonseca,35298,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094607
+5,sáb 16/09/2023,12:00,Rennes,Lille,4-2-3-1,Paulo Fonseca,28178,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094616
+6,ter 26/09/2023,16:00,Lille,Reims,4-2-3-1,Paulo Fonseca,33075,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094625
+7,dom 01/10/2023,10:00,Le Havre,Lille,4-2-3-1,Paulo Fonseca,21919,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094640
+8,dom 08/10/2023,12:05,Lens,Lille,4-2-3-1,Paulo Fonseca,37223,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094646
+9,dom 22/10/2023,10:00,Lille,Brest,4-2-3-1,Paulo Fonseca,34358,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094654
+10,dom 29/10/2023,11:00,Lille,Monaco,4-3-3 ofensivo,Paulo Fonseca,40046,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094661
+11,sáb 04/11/2023,17:00,Marselha,Lille,4-2-3-1,Paulo Fonseca,63674,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094671
+12,dom 12/11/2023,11:00,Lille,Toulouse,4-2-3-1,Paulo Fonseca,34959,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094678
+13,dom 26/11/2023,16:45,Lyon,Lille,4-2-3-1,Paulo Fonseca,40029,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094690
+14,dom 03/12/2023,13:05,Lille,FC Metz,4-2-3-1,Paulo Fonseca,38065,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094698
+15,dom 10/12/2023,11:00,Clermont Foot,Lille,4-2-3-1,Paulo Fonseca,8789,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094710
+16,dom 17/12/2023,16:45,Lille,PSG,4-2-3-1,Paulo Fonseca,47993,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094717
+17,qua 20/12/2023,17:00,Strasbourg,Lille,4-2-3-1,Paulo Fonseca,25373,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094723
+18,dom 14/01/2024,09:00,Lille,FC Lorient,4-2-3-1,Paulo Fonseca,35204,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094734
+19,dom 28/01/2024,09:00,Montpellier,Lille,4-2-3-1,Paulo Fonseca,12575,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094748
+20,dom 04/02/2024,11:00,Lille,Clermont Foot,4-2-3-1,Paulo Fonseca,38597,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094752
+21,sáb 10/02/2024,17:00,PSG,Lille,4-2-3-1,Paulo Fonseca,47716,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094758
+22,sáb 17/02/2024,13:00,Lille,Le Havre,4-2-3-1,Paulo Fonseca,40317,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094770
+23,dom 25/02/2024,11:00,Toulouse,Lille,4-2-3-1,Paulo Fonseca,24110,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094778
+24,sáb 02/03/2024,13:00,Reims,Lille,4-3-3 ofensivo,Paulo Fonseca,16452,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094790
+25,dom 10/03/2024,13:05,Lille,Rennes,4-3-3 ofensivo,Paulo Fonseca,40383,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094798
+26,dom 17/03/2024,09:00,Brest,Lille,4-2-3-1,Paulo Fonseca,14774,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094811
+27,sex 29/03/2024,17:00,Lille,Lens,4-3-3 ofensivo,Paulo Fonseca,48233,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094815
+28,sex 05/04/2024,16:00,Lille,Marselha,4-3-3 ofensivo,Paulo Fonseca,46864,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094824
+29,qua 24/04/2024,16:00,Monaco,Lille,4-3-3 ofensivo,Paulo Fonseca,7069,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094834
+30,dom 21/04/2024,10:00,Lille,Strasbourg,4-2-3-1,Paulo Fonseca,40381,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094841
+31,dom 28/04/2024,08:00,FC Metz,Lille,4-2-3-1,Paulo Fonseca,24720,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094855
+32,seg 06/05/2024,16:00,Lille,Lyon,4-2-3-1,Paulo Fonseca,45227,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094859
+33,dom 12/05/2024,16:00,Nantes,Lille,4-2-3-1,Paulo Fonseca,26529,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094872
+34,dom 19/05/2024,16:00,Lille,Nice,4-2-3-1,Paulo Fonseca,45488,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094878

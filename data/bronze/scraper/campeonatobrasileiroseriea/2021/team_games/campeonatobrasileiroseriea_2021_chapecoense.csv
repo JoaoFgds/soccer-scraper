@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 30/05/2021,18:15,Chapecoense,Bragantino,4-3-2-1,Felipe Endres,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546468
+2,dom 06/06/2021,18:15,Palmeiras,Chapecoense,4-3-3 ofensivo,Jair Ventura,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546480
+3,dom 13/06/2021,20:30,Chapecoense,Ceará,4-2-3-1,Jair Ventura,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3571601
+4,qua 16/06/2021,19:00,São Paulo,Chapecoense,4-2-3-1,Jair Ventura,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3572009
+5,seg 21/06/2021,20:00,Atlético-MG,Chapecoense,4-4-2,Jair Ventura,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3572028
+6,qui 24/06/2021,19:00,Chapecoense,Internacional,4-2-3-1,Jair Ventura,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580703
+7,dom 27/06/2021,20:00,Athletico-PR,Chapecoense,3-4-3 plano,Jair Ventura,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580710
+8,qua 30/06/2021,16:00,Fortaleza,Chapecoense,3-5-2,Jair Ventura,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580715
+9,dom 04/07/2021,11:00,Chapecoense,Bahia,4-1-4-1,Jair Ventura,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583807
+10,qui 08/07/2021,21:00,Chapecoense,Corinthians,4-2-3-1,Jair Ventura,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583817
+11,dom 11/07/2021,18:15,Flamengo,Chapecoense,3-4-3 plano,Jair Ventura,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583819
+12,dom 18/07/2021,11:00,Chapecoense,Cuiabá,3-4-3 plano,Jair Ventura,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583837
+13,seg 26/07/2021,18:00,Juventude,Chapecoense,4-3-3 ofensivo,Jair Ventura,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583847
+14,dom 01/08/2021,18:15,Chapecoense,Santos,4-2-3-1,Jair Ventura,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583877
+15,seg 09/08/2021,20:00,Grêmio,Chapecoense,4-4-2,Pintado,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583863
+16,seg 16/08/2021,20:00,Chapecoense,América-MG,4-3-3 ofensivo,Pintado,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583857
+17,sáb 21/08/2021,17:00,Atlético-GO,Chapecoense,4-2-3-1,Pintado,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583888
+18,sáb 28/08/2021,17:00,Sport,Chapecoense,4-1-4-1,Pintado,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583895
+19,ter 07/09/2021,21:30,Chapecoense,Fluminense,4-4-2,Pintado,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583907
+20,sáb 11/09/2021,19:00,Bragantino,Chapecoense,4-1-4-1,Pintado,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583936
+21,sáb 18/09/2021,17:00,Chapecoense,Palmeiras,4-4-2,Pintado,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583927
+22,sáb 25/09/2021,17:00,Ceará,Chapecoense,4-1-4-1,Pintado,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583914
+23,dom 03/10/2021,16:00,Chapecoense,São Paulo,4-5-1,Pintado,973,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583947
+24,qua 06/10/2021,19:00,Chapecoense,Atlético-MG,4-4-2,Pintado,733,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583957
+25,dom 10/10/2021,11:00,Internacional,Chapecoense,4-4-2,Pintado,8506,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583963
+26,qua 13/10/2021,19:00,Chapecoense,Athletico-PR,3-5-2,Pintado,935,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583997
+27,sáb 16/10/2021,19:00,Chapecoense,Fortaleza,3-5-2,Pintado,1027,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583987
+28,dom 24/10/2021,20:30,Bahia,Chapecoense,3-5-2,Pintado,8058,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583975
+29,seg 01/11/2021,21:30,Corinthians,Chapecoense,4-5-1,Felipe Endres,39897,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584000
+30,seg 08/11/2021,20:00,Chapecoense,Flamengo,4-2-3-1,Felipe Endres,3834,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584017
+31,qui 04/11/2021,21:00,Cuiabá,Chapecoense,4-2-3-1,Felipe Endres,6336,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584028
+32,dom 14/11/2021,19:00,Chapecoense,Juventude,4-3-3 ofensivo,Felipe Endres,1616,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584057
+33,qua 17/11/2021,19:00,Santos,Chapecoense,4-2-3-1,Felipe Endres,11574,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584041
+34,sáb 20/11/2021,19:00,Chapecoense,Grêmio,4-2-3-1,Felipe Endres,2830,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584037
+35,ter 30/11/2021,21:00,América-MG,Chapecoense,4-2-3-1,Felipe Endres,2043,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584062
+36,sex 03/12/2021,20:00,Chapecoense,Atlético-GO,4-3-3 ofensivo,Felipe Endres,1134,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584077
+37,seg 06/12/2021,21:00,Chapecoense,Sport,4-4-2,Felipe Endres,1658,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584087
+38,qui 09/12/2021,21:30,Fluminense,Chapecoense,5-3-2,Felipe Endres,48198,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584089

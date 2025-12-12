@@ -1,0 +1,31 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qui 22/08/2019,14:00,Al-Nassr,Damac FC,4-2-3-1,Rui Vitória,11264,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3224607
+2,sex 30/08/2019,14:40,Al-Fateh,Al-Nassr,4-2-3-1,Rui Vitória,12663,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3224627
+3,sex 13/09/2019,14:35,Al-Nassr,Al-Shabab,4-2-3-1,Rui Vitória,12224,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3224657
+4,sex 20/09/2019,14:20,Al-Nassr,Al-Hazem,4-1-4-1,Rui Vitória,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3224667
+5,sex 27/09/2019,14:15,Al-Ahli,Al-Nassr,3-4-2-1,Rui Vitória,30198,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3252142
+6,qua 06/11/2019,13:55,Al-Nassr,Al-Faisaly,4-2-3-1,Rui Vitória,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3252185
+7,sáb 19/10/2019,12:10,Al-Raed,Al-Nassr,3-5-2,Rui Vitória,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3254897
+8,dom 27/10/2019,13:55,Al-Hilal,Al-Nassr,4-2-3-1,Rui Vitória,21792,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3254905
+9,sáb 02/11/2019,16:50,Al-Nassr,Abha,4-2-3-1,Rui Vitória,,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3256129
+10,dom 24/11/2019,14:20,Al-Wehda,Al-Nassr,4-2-3-1,Rui Vitória,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3256146
+11,sex 13/12/2019,15:45,Al-Nassr,Al-Taawoun,4-2-3-1,Rui Vitória,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3256148
+12,qui 19/12/2019,13:35,Al-Adalah,Al-Nassr,4-2-3-1,Rui Vitória,,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3256727
+13,sáb 28/12/2019,11:20,Al-Fayha,Al-Nassr,4-2-3-1,Rui Vitória,,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3256741
+14,sex 10/01/2020,16:05,Al-Nassr,Al-Ittihad,4-3-3 defensivo,Rui Vitória,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3256752
+15,sex 24/01/2020,11:55,Al-Ettifaq,Al-Nassr,4-2-3-1,Rui Vitória,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3256759
+16,qui 30/01/2020,12:00,Damac FC,Al-Nassr,4-2-3-1,Rui Vitória,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3304518
+17,qui 06/02/2020,12:20,Al-Nassr,Al-Fateh,4-2-3-1,Rui Vitória,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3304686
+18,sex 14/02/2020,12:25,Al-Shabab,Al-Nassr,4-2-3-1,Rui Vitória,,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3305032
+19,sáb 22/02/2020,12:40,Al-Hazem,Al-Nassr,4-3-3 defensivo,Rui Vitória,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3305042
+20,qui 27/02/2020,14:40,Al-Nassr,Al-Ahli,4-2-3-1,Rui Vitória,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3305045
+21,sáb 07/03/2020,14:40,Al-Faisaly,Al-Nassr,4-2-3-1,Rui Vitória,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3307738
+22,qua 11/03/2020,14:45,Al-Nassr,Al-Raed,4-3-3 ofensivo,Rui Vitória,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3314286
+23,qua 05/08/2020,15:00,Al-Nassr,Al-Hilal,4-2-3-1,Rui Vitória,,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3314308
+24,seg 10/08/2020,13:15,Abha,Al-Nassr,4-2-3-1,Rui Vitória,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3314321
+25,sáb 15/08/2020,14:50,Al-Nassr,Al-Wehda,4-2-3-1,Rui Vitória,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3316150
+26,qui 20/08/2020,13:10,Al-Taawoun,Al-Nassr,4-2-3-1,Rui Vitória,,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3316160
+27,ter 25/08/2020,14:50,Al-Nassr,Al-Adalah,4-2-3-1,Rui Vitória,,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3328090
+28,sáb 29/08/2020,14:40,Al-Nassr,Al-Fayha,4-2-3-1,Rui Vitória,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3328103
+29,sex 04/09/2020,14:35,Al-Ittihad,Al-Nassr,4-2-3-1,Rui Vitória,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3328110
+30,qua 09/09/2020,15:35,Al-Nassr,Al-Ettifaq,5-3-2,Rui Vitória,,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3328118

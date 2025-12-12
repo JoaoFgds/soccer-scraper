@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 13/05/2017,16:00,Flamengo,Atlético-MG,4-3-3 ofensivo,Roger Machado,50220,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2846987
+2,dom 21/05/2017,16:00,Atlético-MG,Fluminense,4-2-3-1,Roger Machado,16145,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856243
+3,dom 28/05/2017,11:00,Atlético-MG,Ponte Preta,4-4-1-1,Roger Machado,19553,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2859545
+4,dom 04/06/2017,17:00,Palmeiras,Atlético-MG,4-2-3-1,Roger Machado,34240,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2864521
+5,qua 07/06/2017,20:30,Atlético-MG,Avaí,4-2-3-1,Roger Machado,12648,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2864527
+6,dom 11/06/2017,16:00,Vitória,Atlético-MG,4-2-3-1,Roger Machado,6812,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2864540
+7,qua 14/06/2017,19:30,Atlético-MG,Atlético-PR,4-2-3-1,Roger Machado,10924,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2864546
+8,dom 18/06/2017,16:00,São Paulo,Atlético-MG,4-4-2 duplo 6,Roger Machado,22704,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2865575
+9,qua 21/06/2017,21:45,Atlético-MG,Sport,4-2-3-1,Roger Machado,12027,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2865583
+10,dom 25/06/2017,19:00,Chapecoense,Atlético-MG,4-2-3-1,Roger Machado,8502,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2866367
+11,dom 02/07/2017,16:00,Atlético-MG,Cruzeiro,4-2-3-1,Roger Machado,17251,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2868181
+12,dom 09/07/2017,19:00,Botafogo,Atlético-MG,4-2-3-1,Roger Machado,8443,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2874740
+13,qua 12/07/2017,19:30,Atlético-MG,Santos,4-2-3-1,Roger Machado,12949,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883232
+14,dom 16/07/2017,16:00,Atlético-GO,Atlético-MG,4-2-3-1,Roger Machado,5235,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2888266
+15,qua 19/07/2017,21:45,Atlético-MG,Bahia,4-2-3-1,Roger Machado,12177,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2888285
+16,dom 23/07/2017,19:00,Atlético-MG,Vasco da Gama,4-2-3-1,Rogério Micale,12497,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2890479
+17,dom 30/07/2017,16:00,Coritiba,Atlético-MG,4-3-1-2,Rogério Micale,12498,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2895932
+18,qua 02/08/2017,21:00,Atlético-MG,Corinthians,4-3-1-2,Rogério Micale,45259,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2900514
+19,dom 06/08/2017,16:00,Grêmio,Atlético-MG,4-1-4-1,Rogério Micale,24866,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2900527
+20,dom 13/08/2017,16:00,Atlético-MG,Flamengo,4-3-1-2,Rogério Micale,11031,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2900537
+21,seg 21/08/2017,20:00,Fluminense,Atlético-MG,4-3-1-2,Rogério Micale,10412,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2900542
+22,dom 27/08/2017,16:00,Ponte Preta,Atlético-MG,4-2-3-1,Rogério Micale,5779,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2900560
+23,sáb 09/09/2017,16:00,Atlético-MG,Palmeiras,4-1-4-1,Rogério Micale,15672,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2917597
+24,dom 17/09/2017,11:00,Avaí,Atlético-MG,4-1-4-1,Rogério Micale,9527,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2922401
+25,dom 24/09/2017,19:00,Atlético-MG,Vitória,4-2-3-1,Rogério Micale,10865,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2922416
+26,dom 01/10/2017,19:00,Atlético-PR,Atlético-MG,4-2-3-1,Oswaldo de Oliveira,13177,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2926081
+27,qua 11/10/2017,21:45,Atlético-MG,São Paulo,4-3-3 defensivo,Oswaldo de Oliveira,17606,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2926086
+28,dom 15/10/2017,17:00,Sport,Atlético-MG,4-1-4-1,Oswaldo de Oliveira,20273,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2926099
+29,ter 17/10/2017,20:00,Atlético-MG,Chapecoense,4-3-3 defensivo,Oswaldo de Oliveira,11927,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2937776
+30,dom 22/10/2017,17:00,Cruzeiro,Atlético-MG,4-3-3 defensivo,Oswaldo de Oliveira,35921,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2937787
+31,dom 29/10/2017,17:00,Atlético-MG,Botafogo,4-3-3 defensivo,Oswaldo de Oliveira,17086,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2943080
+32,sáb 04/11/2017,17:00,Santos,Atlético-MG,4-2-3-1,Oswaldo de Oliveira,11418,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2943399
+33,qui 09/11/2017,20:00,Atlético-MG,Atlético-GO,4-2-3-1,Oswaldo de Oliveira,8204,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2943416
+34,dom 12/11/2017,18:00,Bahia,Atlético-MG,4-3-3 defensivo,Oswaldo de Oliveira,29769,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2943425
+35,qua 15/11/2017,21:45,Vasco da Gama,Atlético-MG,4-2-3-1,Oswaldo de Oliveira,11486,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2943433
+36,dom 19/11/2017,19:00,Atlético-MG,Coritiba,4-2-3-1,Oswaldo de Oliveira,19719,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2943445
+37,dom 26/11/2017,17:00,Corinthians,Atlético-MG,4-3-3 defensivo,Oswaldo de Oliveira,46369,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2969636
+38,dom 03/12/2017,17:00,Atlético-MG,Grêmio,4-2-3-1,Oswaldo de Oliveira,19116,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2969645

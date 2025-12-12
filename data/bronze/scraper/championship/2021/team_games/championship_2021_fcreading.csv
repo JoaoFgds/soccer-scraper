@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 07/08/2021,11:00,Stoke,Reading,4-2-3-1,Veljko Paunovic,19068,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3587436
+2,sáb 14/08/2021,11:00,Reading,Preston NE,4-2-3-1,Veljko Paunovic,12156,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3587446
+3,ter 17/08/2021,16:00,Reading,Bristol City,4-2-3-1,Veljko Paunovic,14207,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3587459
+4,sáb 21/08/2021,11:00,Coventry City,Reading,4-2-3-1,Veljko Paunovic,16464,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3587482
+5,sáb 28/08/2021,11:00,Huddersfield,Reading,4-2-3-1,Veljko Paunovic,14613,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3587495
+6,sáb 11/09/2021,11:00,Reading,QPR,4-2-3-1,Veljko Paunovic,14928,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3587512
+7,ter 14/09/2021,16:00,Reading,Peterborough,4-2-3-1,Veljko Paunovic,11411,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589157
+8,sáb 18/09/2021,11:00,Fulham,Reading,4-2-3-1,Veljko Paunovic,18901,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589179
+9,sáb 25/09/2021,08:30,Reading,Middlesbrough,4-2-3-1,Veljko Paunovic,12469,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589195
+10,qua 29/09/2021,15:45,Derby,Reading,4-2-3-1,Veljko Paunovic,18769,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589217
+11,sáb 02/10/2021,11:00,Cardiff,Reading,4-2-3-1,Veljko Paunovic,18400,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589236
+12,sáb 16/10/2021,11:00,Reading,Barnsley FC,4-2-3-1,Veljko Paunovic,12199,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589252
+13,qua 20/10/2021,16:00,Reading,Blackpool,4-2-3-1,Veljko Paunovic,10587,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589876
+14,sáb 23/10/2021,11:00,Blackburn,Reading,4-1-4-1,Veljko Paunovic,10517,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589879
+15,sáb 30/10/2021,16:00,Reading,Bournemouth,4-2-3-1,Veljko Paunovic,13551,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589897
+16,ter 02/11/2021,16:45,Millwall,Reading,3-5-2 plano,Veljko Paunovic,11004,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592339
+17,sáb 06/11/2021,12:35,Birmingham,Reading,3-5-2 plano,Veljko Paunovic,17535,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592326
+18,sáb 20/11/2021,12:00,Reading,Nott'm Forest,4-2-3-1,Veljko Paunovic,14907,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592356
+19,ter 23/11/2021,17:00,Reading,Sheff Utd,4-2-3-1,Veljko Paunovic,10247,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592413
+20,sáb 27/11/2021,12:00,Swansea,Reading,4-1-4-1,Veljko Paunovic,16980,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592394
+21,sáb 04/12/2021,12:00,Reading,Hull City,4-2-3-1,Veljko Paunovic,11827,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592407
+22,sáb 11/12/2021,12:00,West Brom,Reading,3-5-2 plano,Veljko Paunovic,21306,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592383
+23,qua 19/01/2022,17:00,Reading,Luton,4-2-3-1,Veljko Paunovic,9611,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592371
+24,qua 16/02/2022,16:45,Peterborough,Reading,4-2-3-1,Veljko Paunovic,11520,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592573
+25,ter 11/01/2022,17:00,Reading,Fulham,4-2-3-1,Veljko Paunovic,11472,0:7,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592559
+26,seg 03/01/2022,12:00,Reading,Derby,4-2-3-1,Veljko Paunovic,12512,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592427
+27,sáb 15/01/2022,12:00,Middlesbrough,Reading,4-2-3-1,Veljko Paunovic,21634,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592637
+28,sáb 22/01/2022,12:00,Reading,Huddersfield,4-3-1-2,Veljko Paunovic,10796,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592511
+29,sáb 29/01/2022,12:00,QPR,Reading,4-2-3-1,Veljko Paunovic,16057,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592527
+30,ter 05/04/2022,16:00,Reading,Stoke,4-2-3-1,Paul Ince,9928,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592465
+31,qua 09/02/2022,16:45,Bristol City,Reading,4-2-3-1,Veljko Paunovic,17798,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592645
+32,sáb 12/02/2022,12:00,Reading,Coventry City,4-2-3-1,Veljko Paunovic,22692,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592441
+33,sáb 19/02/2022,12:00,Preston NE,Reading,4-2-3-1,Veljko Paunovic,12817,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592536
+34,ter 22/02/2022,17:00,Reading,Birmingham,4-2-3-1,Paul Ince,12073,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592472
+35,sáb 26/02/2022,12:00,Blackpool,Reading,4-2-3-1,Paul Ince,10954,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592496
+36,sáb 05/03/2022,12:00,Reading,Millwall,4-2-3-1,Paul Ince,14169,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592452
+37,sáb 12/03/2022,12:00,Nott'm Forest,Reading,4-2-3-1,Paul Ince,28128,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592489
+38,ter 15/03/2022,16:45,Bournemouth,Reading,4-2-3-1,Paul Ince,9085,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592540
+39,sáb 19/03/2022,12:00,Reading,Blackburn,4-2-3-1,Paul Ince,12805,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592647
+40,sáb 02/04/2022,11:00,Barnsley FC,Reading,4-2-3-1,Paul Ince,14149,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592584
+41,sáb 09/04/2022,11:00,Reading,Cardiff,4-2-3-1,Paul Ince,19039,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592657
+42,sex 15/04/2022,11:00,Sheff Utd,Reading,4-4-2 duplo 6,Paul Ince,29125,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592635
+43,seg 18/04/2022,11:00,Reading,Swansea,4-2-3-1,Paul Ince,14335,4:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592667
+44,sáb 23/04/2022,11:00,Hull City,Reading,4-4-2,Paul Ince,12211,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592676
+45,sáb 30/04/2022,11:00,Reading,West Brom,4-2-3-1,Paul Ince,15509,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592664
+46,sáb 07/05/2022,08:30,Luton,Reading,4-2-3-1,Paul Ince,10070,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592317

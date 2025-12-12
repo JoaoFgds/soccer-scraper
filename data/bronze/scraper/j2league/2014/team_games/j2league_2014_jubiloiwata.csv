@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 02/03/2014,02:00,Júbilo Iwata,C'dole Sapporo,4-4-2 duplo 6,Péricles Chamusca,11730,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2422145
+2,dom 09/03/2014,01:00,Kamatam. Sanuki,Júbilo Iwata,4-4-2 duplo 6,Péricles Chamusca,10421,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2422162
+3,dom 16/03/2014,04:00,Júbilo Iwata,Roasso Kumamoto,4-4-2 duplo 6,Péricles Chamusca,7998,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424938
+4,sáb 22/03/2014,07:00,Júbilo Iwata,Avispa Fukuoka,4-4-2 duplo 6,Péricles Chamusca,7912,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424981
+5,dom 30/03/2014,00:00,Tochigi SC,Júbilo Iwata,4-1-3-2,Péricles Chamusca,6194,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424931
+6,sáb 05/04/2014,03:00,Júbilo Iwata,Thespaku. Gunma,4-1-3-2,Péricles Chamusca,7014,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424974
+7,dom 13/04/2014,04:00,Gir. Kitakyushu,Júbilo Iwata,4-1-3-2,Péricles Chamusca,3970,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424886
+8,dom 20/04/2014,04:00,Júbilo Iwata,Yokohama FC,4-1-3-2,Péricles Chamusca,9346,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424949
+9,sáb 26/04/2014,01:00,Tokyo Verdy,Júbilo Iwata,4-1-3-2,Péricles Chamusca,8170,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424985
+10,ter 29/04/2014,04:00,Júbilo Iwata,JEF Utd. Chiba,4-2-3-1,Péricles Chamusca,6108,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424796
+11,sáb 03/05/2014,04:00,Júbilo Iwata,V-V. Nagasaki,4-1-3-2,Péricles Chamusca,9257,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424797
+12,ter 06/05/2014,06:00,Ehime FC,Júbilo Iwata,4-2-3-1,Péricles Chamusca,8295,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424783
+13,dom 11/05/2014,04:00,Júbilo Iwata,Oita Trinita,4-2-3-1,Péricles Chamusca,7739,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424765
+14,dom 18/05/2014,04:00,Kataller Toyama,Júbilo Iwata,4-2-3-1,Péricles Chamusca,8018,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424880
+15,sáb 24/05/2014,07:00,Matsumoto Yama.,Júbilo Iwata,3-4-2-1,Péricles Chamusca,15597,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424832
+16,sáb 31/05/2014,01:00,Júbilo Iwata,Fagiano Okayama,4-3-3 defensivo,Péricles Chamusca,8016,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424873
+17,sáb 07/06/2014,02:00,Júbilo Iwata,Mito HollyHock,4-3-3 defensivo,Péricles Chamusca,9172,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424823
+18,sáb 14/06/2014,01:00,FC Gifu,Júbilo Iwata,4-3-3 defensivo,Péricles Chamusca,15138,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424861
+19,sáb 21/06/2014,07:00,Júbilo Iwata,Shonan Bellmare,4-3-3 defensivo,Péricles Chamusca,12994,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424831
+20,sáb 28/06/2014,06:00,Monte. Yamagata,Júbilo Iwata,4-3-3 defensivo,Péricles Chamusca,12030,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424829
+21,sáb 05/07/2014,07:00,Kyoto Sanga,Júbilo Iwata,4-2-3-1,Péricles Chamusca,10573,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424944
+22,dom 20/07/2014,07:00,Júbilo Iwata,Tokyo Verdy,4-3-3 defensivo,Péricles Chamusca,9601,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424912
+23,sáb 26/07/2014,06:00,Yokohama FC,Júbilo Iwata,4-4-2 duplo 6,Péricles Chamusca,6420,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424920
+24,qua 30/07/2014,07:00,Júbilo Iwata,Kamatam. Sanuki,4-4-2 duplo 6,Péricles Chamusca,7842,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2500385
+25,dom 03/08/2014,06:00,Júbilo Iwata,Matsumoto Yama.,4-2-3-1,Péricles Chamusca,13177,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2425082
+26,dom 10/08/2014,06:00,Avispa Fukuoka,Júbilo Iwata,4-5-1,Péricles Chamusca,6210,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2425018
+27,dom 17/08/2014,07:00,Júbilo Iwata,Kataller Toyama,4-2-3-1,Péricles Chamusca,8388,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2425147
+28,dom 24/08/2014,07:00,Shonan Bellmare,Júbilo Iwata,4-3-1-2,Péricles Chamusca,14155,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2425109
+29,dom 31/08/2014,07:00,Júbilo Iwata,Tochigi SC,3-4-3 plano,Péricles Chamusca,6292,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2425126
+30,sáb 06/09/2014,06:30,Fagiano Okayama,Júbilo Iwata,3-4-2-1,Péricles Chamusca,12033,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2425085
+31,dom 14/09/2014,06:00,V-V. Nagasaki,Júbilo Iwata,3-4-2-1,Péricles Chamusca,12638,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2425130
+32,sáb 20/09/2014,04:00,Júbilo Iwata,Gir. Kitakyushu,4-2-3-1,Péricles Chamusca,7440,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424933
+33,ter 23/09/2014,04:00,Mito HollyHock,Júbilo Iwata,4-4-2 duplo 6,Péricles Chamusca,7033,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424977
+34,dom 28/09/2014,04:00,Júbilo Iwata,Ehime FC,4-1-4-1,Hiroshi Nanami,8671,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424955
+35,sáb 04/10/2014,02:00,Oita Trinita,Júbilo Iwata,4-4-2 duplo 6,Hiroshi Nanami,7236,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2425000
+36,sáb 11/10/2014,03:00,Júbilo Iwata,FC Gifu,4-2-3-1,Hiroshi Nanami,8630,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2425025
+37,dom 19/10/2014,05:00,Roasso Kumamoto,Júbilo Iwata,4-2-3-1,Hiroshi Nanami,12661,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424971
+38,dom 26/10/2014,04:00,Júbilo Iwata,Kyoto Sanga,4-2-3-1,Hiroshi Nanami,8218,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2425062
+39,sáb 01/11/2014,08:00,JEF Utd. Chiba,Júbilo Iwata,4-2-3-1,Hiroshi Nanami,14575,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2425027
+40,dom 09/11/2014,02:00,Thespaku. Gunma,Júbilo Iwata,4-2-3-1,Hiroshi Nanami,5635,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2425032
+41,sáb 15/11/2014,03:00,Júbilo Iwata,Monte. Yamagata,4-2-3-1,Hiroshi Nanami,8716,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2425023
+42,dom 23/11/2014,03:00,C'dole Sapporo,Júbilo Iwata,4-2-3-1,Hiroshi Nanami,19634,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2425044

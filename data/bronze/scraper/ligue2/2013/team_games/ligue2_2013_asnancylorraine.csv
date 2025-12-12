@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 03/08/2013,09:00,AS Nancy,Auxerre,4-3-3 defensivo,Patrick Gabriel,13290,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330824
+2,sáb 10/08/2013,09:00,CA Bastia,AS Nancy,4-3-3 defensivo,Patrick Gabriel,3386,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330463
+3,seg 19/08/2013,15:30,AS Nancy,Brest,4-3-3 ofensivo,Patrick Gabriel,13532,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330472
+4,sex 23/08/2013,15:00,Le Havre,AS Nancy,4-3-3 ofensivo,Patrick Gabriel,7159,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330482
+5,sex 30/08/2013,15:00,AS Nancy,Tours FC,4-1-4-1,Patrick Gabriel,12401,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330489
+6,sex 13/09/2013,15:00,US Créteil-L,AS Nancy,4-1-4-1,Patrick Gabriel,2782,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330494
+7,sex 20/09/2013,15:00,AS Nancy,Troyes,4-1-4-1,Patrick Gabriel,13227,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330513
+8,ter 24/09/2013,15:55,FC Metz,AS Nancy,4-1-4-1,Patrick Gabriel,23506,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330518
+9,sex 27/09/2013,15:00,AS Nancy,AC Arles-Avignon,4-2-3-1,Patrick Gabriel,12218,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330547
+10,sex 04/10/2013,15:00,Chamois Niort,AS Nancy,4-3-3 ofensivo,Patrick Gabriel,3982,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330521
+11,sex 18/10/2013,15:00,AS Nancy,Clermont Foot,4-2-3-1,Pablo Correa,14116,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330569
+12,sáb 26/10/2013,10:00,SM Caen,AS Nancy,4-2-3-1,Patrick Gabriel,9100,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330553
+13,sex 01/11/2013,17:00,AS Nancy,Nîmes Olympique,4-2-3-1,Pablo Correa,14427,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330593
+14,sex 08/11/2013,17:00,AS Nancy,LB Châteauroux,4-2-3-1,Pablo Correa,13745,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330583
+15,sex 22/11/2013,17:00,Dijon,AS Nancy,4-2-3-1,Pablo Correa,8201,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330565
+16,sáb 30/11/2013,11:00,AS Nancy,Lens,4-2-3-1,Pablo Correa,15223,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330587
+17,sex 13/12/2013,17:00,FC Istres,AS Nancy,4-2-3-1,Pablo Correa,2136,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330605
+18,sex 20/12/2013,17:00,AS Nancy,Stade Lavallois,4-2-3-1,Pablo Correa,14022,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330622
+19,sáb 11/01/2014,11:00,Angers,AS Nancy,4-2-3-1,Pablo Correa,7290,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330621
+20,sex 17/01/2014,17:00,AS Nancy,CA Bastia,4-3-3 ofensivo,Pablo Correa,14104,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330640
+21,sex 24/01/2014,17:00,Brest,AS Nancy,4-1-4-1,Pablo Correa,6013,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330632
+22,seg 03/02/2014,17:30,AS Nancy,Le Havre,4-2-3-1,Pablo Correa,13314,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330671
+23,seg 10/02/2014,17:30,Tours FC,AS Nancy,4-2-3-1,Pablo Correa,5616,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330660
+24,sex 14/02/2014,17:00,AS Nancy,US Créteil-L,4-2-3-1,Pablo Correa,14124,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330666
+25,sex 21/02/2014,16:00,Troyes,AS Nancy,4-2-3-1,Pablo Correa,8542,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330709
+26,sáb 01/03/2014,10:00,AS Nancy,FC Metz,4-2-3-1,Pablo Correa,19028,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330720
+27,sex 07/03/2014,16:00,AC Arles-Avignon,AS Nancy,4-3-3 ofensivo,Pablo Correa,2407,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330691
+28,sex 14/03/2014,16:00,AS Nancy,Chamois Niort,4-3-3 ofensivo,Pablo Correa,14918,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330693
+29,sex 21/03/2014,16:00,Clermont Foot,AS Nancy,4-3-3 ofensivo,Pablo Correa,3585,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330704
+30,sex 28/03/2014,16:00,AS Nancy,SM Caen,4-3-3 ofensivo,Pablo Correa,14714,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330741
+31,sex 04/04/2014,15:00,Nîmes Olympique,AS Nancy,4-3-3 ofensivo,Pablo Correa,5016,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330761
+32,sex 11/04/2014,15:00,LB Châteauroux,AS Nancy,4-2-3-1,Pablo Correa,5615,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330790
+33,sex 18/04/2014,15:00,AS Nancy,Dijon,4-2-3-1,Pablo Correa,17852,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330779
+34,sex 25/04/2014,15:00,Lens,AS Nancy,4-2-3-1,Pablo Correa,40035,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330757
+35,sex 02/05/2014,15:00,AS Nancy,FC Istres,4-2-3-1,Pablo Correa,17412,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330745
+36,ter 06/05/2014,15:45,Stade Lavallois,AS Nancy,4-4-2 duplo 6,Pablo Correa,6912,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330805
+37,sex 09/05/2014,15:30,AS Nancy,Angers,4-3-3 ofensivo,Pablo Correa,17215,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330816
+38,sex 16/05/2014,15:30,Auxerre,AS Nancy,4-3-3 ofensivo,Pablo Correa,12088,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330818

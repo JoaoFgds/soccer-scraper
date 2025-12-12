@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 09/04/2022,16:30,Ponte Preta,Grêmio,4-3-3 ofensivo,Roger Machado,5205,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768162
+2,qui 14/04/2022,19:00,Grêmio,Chapecoense,4-3-3 ofensivo,Roger Machado,23500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768178
+3,qui 21/04/2022,16:30,Grêmio,Guarani,4-3-3 ofensivo,Roger Machado,22649,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768158
+4,ter 26/04/2022,19:00,Operário-PR,Grêmio,4-3-3 ofensivo,Roger Machado,6292,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768187
+5,sáb 30/04/2022,16:30,Grêmio,CRB,4-3-3 ofensivo,Roger Machado,16394,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768198
+6,dom 08/05/2022,16:00,Cruzeiro,Grêmio,4-3-3 ofensivo,Roger Machado,21831,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768210
+7,seg 16/05/2022,20:00,Ituano,Grêmio,4-3-3 ofensivo,Roger Machado,5460,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768216
+8,qui 19/05/2022,19:00,Grêmio,Criciúma,4-4-2,Roger Machado,9798,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768228
+9,dom 29/05/2022,16:00,Vila Nova,Grêmio,3-4-2-1,Roger Machado,7250,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768241
+10,qui 02/06/2022,20:00,Vasco da Gama,Grêmio,3-4-2-1,Roger Machado,21848,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768248
+11,ter 07/06/2022,21:30,Grêmio,Novorizontino,3-4-2-1,Roger Machado,11098,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768258
+12,sex 10/06/2022,19:00,Sport,Grêmio,3-4-2-1,Roger Machado,16506,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768264
+13,sex 17/06/2022,19:00,Grêmio,Sampaio Corrêa,3-4-3 plano,Roger Machado,29226,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768278
+14,sex 24/06/2022,19:00,CSA,Grêmio,3-4-3 plano,Roger Machado,4193,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768293
+15,ter 28/06/2022,19:00,Grêmio,Londrina,4-2-3-1,Roger Machado,10621,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768288
+16,sex 01/07/2022,19:00,Bahia,Grêmio,4-2-3-1,Roger Machado,42466,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768309
+17,sex 08/07/2022,21:30,Grêmio,Náutico,4-2-3-1,Roger Machado,22309,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768328
+18,sáb 16/07/2022,16:30,Grêmio,Tombense,4-2-3-1,Roger Machado,22655,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768318
+19,ter 19/07/2022,19:00,Brusque,Grêmio,4-2-3-1,Roger Machado,5603,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768335
+20,sáb 23/07/2022,16:30,Grêmio,Ponte Preta,4-2-3-1,Roger Machado,43678,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768348
+21,ter 26/07/2022,18:30,Chapecoense,Grêmio,4-2-3-1,Roger Machado,11302,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768361
+22,sex 05/08/2022,21:30,Guarani,Grêmio,4-2-3-1,Roger Machado,5329,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768362
+23,ter 09/08/2022,19:00,Grêmio,Operário-PR,4-2-3-1,Roger Machado,10174,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768378
+24,sáb 13/08/2022,20:30,CRB,Grêmio,4-2-3-1,Roger Machado,7051,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768483
+25,dom 21/08/2022,16:00,Grêmio,Cruzeiro,4-1-4-1,Roger Machado,49659,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768428
+26,sex 26/08/2022,19:00,Grêmio,Ituano,4-2-3-1,Roger Machado,13734,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768388
+27,ter 30/08/2022,20:30,Criciúma,Grêmio,4-3-3 ofensivo,Roger Machado,17682,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768405
+28,sex 02/09/2022,21:30,Grêmio,Vila Nova,4-2-3-1,César Lopes,13775,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768398
+29,dom 11/09/2022,16:00,Grêmio,Vasco da Gama,4-2-3-1,Renato Gaúcho,48860,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768418
+30,sex 16/09/2022,21:30,Novorizontino,Grêmio,4-2-3-1,Renato Gaúcho,2889,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768476
+31,ter 20/09/2022,20:30,Grêmio,Sport,4-2-3-1,Renato Gaúcho,24668,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768498
+32,sex 30/09/2022,19:00,Sampaio Corrêa,Grêmio,4-2-3-1,Renato Gaúcho,15020,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768439
+33,ter 04/10/2022,19:00,Grêmio,CSA,4-2-3-1,Renato Gaúcho,12659,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768508
+34,sáb 08/10/2022,16:30,Londrina,Grêmio,4-2-3-1,Renato Gaúcho,6205,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768447
+35,dom 16/10/2022,16:00,Grêmio,Bahia,4-2-3-1,Renato Gaúcho,44684,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768458
+36,dom 23/10/2022,16:00,Náutico,Grêmio,4-2-3-1,Renato Gaúcho,6961,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768524
+37,sex 28/10/2022,19:00,Tombense,Grêmio,4-3-3 ofensivo,Renato Gaúcho,2106,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768520
+38,qui 03/11/2022,20:00,Grêmio,Brusque,4-2-3-1,Renato Gaúcho,16688,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768468

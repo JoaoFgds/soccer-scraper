@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 22/08/1999,14:00,Farense,Leiria,?,Manuel José,3000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854865
+2,dom 29/08/1999,13:00,Leiria,CF Estrela,?,Manuel José,2500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854874
+3,dom 12/09/1999,12:00,Gil Vicente,Leiria,?,Manuel José,3000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854884
+4,sáb 18/09/1999,19:00,Leiria,Boavista,?,Manuel José,1000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854889
+5,dom 26/09/1999,12:00,Alverca,Leiria,4-3-3 ofensivo,Manuel José,1500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854900
+6,sáb 02/10/1999,20:00,Leiria,Braga,?,Manuel José,1500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854910
+7,qui 14/10/1999,20:00,FC Porto,Leiria,4-3-3 ofensivo,Mário Reis,17000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854916
+8,dom 24/10/1999,13:00,Leiria,Campomaiorense,4-3-3 ofensivo,Manuel José,3000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854932
+9,sáb 30/10/1999,20:00,Belenenses,Leiria,?,Manuel José,1500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854937
+10,sáb 06/11/1999,21:00,Leiria,Rio Ave,?,Manuel José,3000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854946
+11,sáb 20/11/1999,21:00,Leiria,Vit. Guimarães,3-4-3 plano,Manuel José,1000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854959
+12,sex 26/11/1999,21:00,Sporting,Leiria,?,Manuel José,20000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854961
+13,sáb 04/12/1999,21:00,Leiria,Marítimo,?,Manuel José,2000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854977
+14,seg 13/12/1999,18:00,Benfica,Leiria,5-3-2,Manuel José,7500,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854985
+15,dom 19/12/1999,14:00,Leiria,Salgueiros,5-4-1 plano,Manuel José,500,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854993
+16,sex 07/01/2000,21:00,Santa Clara,Leiria,3-4-3 plano,Manuel José,3000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855000
+17,sáb 15/01/2000,21:00,Leiria,Vitória FC,4-3-3 ofensivo,Manuel José,3500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855011
+18,sáb 22/01/2000,21:00,Leiria,Farense,4-3-3 ofensivo,Manuel José,9000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855022
+19,sáb 29/01/2000,21:00,CF Estrela,Leiria,?,Manuel José,1000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855026
+20,sáb 05/02/2000,21:00,Leiria,Gil Vicente,4-3-3 ofensivo,Manuel José,7000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855039
+21,sáb 12/02/2000,21:00,Boavista,Leiria,?,Manuel José,3000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855042
+22,sáb 19/02/2000,21:00,Leiria,Alverca,?,Manuel José,8000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855057
+23,sáb 26/02/2000,20:00,Braga,Leiria,?,Manuel José,6000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855062
+24,sáb 04/03/2000,13:00,Leiria,FC Porto,4-3-3 ofensivo,Manuel José,7500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855073
+25,dom 12/03/2000,13:00,Campomaiorense,Leiria,4-3-3 ofensivo,Manuel José,2000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855081
+26,sáb 18/03/2000,20:00,Leiria,Belenenses,?,Manuel José,2000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855092
+27,sáb 25/03/2000,20:00,Rio Ave,Leiria,?,Manuel José,3000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855103
+28,sáb 01/04/2000,19:00,Vit. Guimarães,Leiria,?,Manuel José,5718,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855111
+29,qui 06/04/2000,19:00,Leiria,Sporting,?,Manuel José,15000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855114
+30,dom 16/04/2000,12:00,Marítimo,Leiria,4-2-3-1,Manuel José,4000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855127
+31,sex 21/04/2000,19:00,Leiria,Benfica,?,Manuel José,5000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855138
+32,sáb 29/04/2000,19:00,Salgueiros,Leiria,?,Manuel José,3000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855145
+33,sáb 06/05/2000,19:00,Leiria,Santa Clara,4-3-3 ofensivo,Manuel José,2000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855152
+34,sáb 13/05/2000,19:00,Vitória FC,Leiria,?,Manuel José,6000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3528538

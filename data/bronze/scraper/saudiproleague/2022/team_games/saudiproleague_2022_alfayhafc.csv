@@ -1,0 +1,31 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qui 25/08/2022,13:05,Al-Fayha,Damac FC,4-2-3-1,Vuk Rasovic,6291,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3900987
+2,qua 31/08/2022,15:00,Al-Hilal,Al-Fayha,4-2-3-1,Vuk Rasovic,11215,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3900980
+3,sáb 10/09/2022,12:45,Al-Fayha,Al-Taawoun,4-2-3-1,Vuk Rasovic,3184,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901097
+4,sex 16/09/2022,12:50,Abha,Al-Fayha,4-2-3-1,Vuk Rasovic,917,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901049
+5,dom 02/10/2022,12:20,Al-Fayha,Al-Shabab,4-3-3 ofensivo,Vuk Rasovic,4028,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901039
+6,sex 07/10/2022,15:00,Al-Adalah,Al-Fayha,4-2-3-1,Vuk Rasovic,7632,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901073
+7,ter 11/10/2022,14:30,Al-Fayha,Al-Ettifaq,4-2-3-1,Vuk Rasovic,2271,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901000
+8,dom 16/10/2022,11:45,Al-Nassr,Al-Fayha,4-4-2,Vuk Rasovic,12763,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901007
+9,qui 15/12/2022,09:30,Al-Khaleej,Al-Fayha,4-2-3-1,Vuk Rasovic,1000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901029
+10,seg 26/12/2022,12:00,Al-Fayha,Al-Tai,5-4-1 plano,Vuk Rasovic,2079,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901081
+11,sex 30/12/2022,09:30,Al-Fateh,Al-Fayha,4-2-3-1,Vuk Rasovic,12279,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901054
+12,sáb 07/01/2023,09:30,Al-Fayha,Al-Batin,5-4-1 plano,Vuk Rasovic,2176,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901089
+13,sáb 14/01/2023,12:00,Al-Raed,Al-Fayha,5-4-1 plano,Vuk Rasovic,,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901015
+14,qui 19/01/2023,12:00,Al-Ittihad,Al-Fayha,5-4-1,Vuk Rasovic,19694,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901064
+15,sáb 04/02/2023,12:00,Al-Fayha,Al-Wehda,3-4-3 plano,Vuk Rasovic,2068,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901026
+16,sex 10/02/2023,10:00,Damac FC,Al-Fayha,3-4-3 plano,Vuk Rasovic,3600,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4002725
+17,ter 04/04/2023,11:00,Al-Fayha,Al-Hilal,3-4-3 plano,Vuk Rasovic,6150,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4002729
+18,qui 23/02/2023,10:00,Al-Taawoun,Al-Fayha,5-4-1 plano,Vuk Rasovic,4706,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4002737
+19,qui 02/03/2023,10:00,Al-Fayha,Abha,3-4-3 plano,Vuk Rasovic,5086,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4002745
+20,qui 09/03/2023,14:30,Al-Shabab,Al-Fayha,5-4-1 plano,Vuk Rasovic,2298,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4002755
+21,sex 17/03/2023,10:00,Al-Fayha,Al-Adalah,3-4-3 plano,Vuk Rasovic,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4002763
+22,sex 14/04/2023,16:00,Al-Ettifaq,Al-Fayha,5-4-1 plano,Vuk Rasovic,3510,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4002770
+23,dom 09/04/2023,16:00,Al-Fayha,Al-Nassr,3-4-3 plano,Vuk Rasovic,6087,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4002778
+24,sex 28/04/2023,15:30,Al-Fayha,Al-Khaleej,3-4-3 plano,Vuk Rasovic,2665,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4057499
+25,ter 02/05/2023,15:30,Al-Tai,Al-Fayha,5-4-1 plano,Vuk Rasovic,7649,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4057507
+26,ter 09/05/2023,13:00,Al-Fayha,Al-Fateh,3-4-3 plano,Vuk Rasovic,2098,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4066473
+27,seg 15/05/2023,13:00,Al-Batin,Al-Fayha,5-4-1 plano,Vuk Rasovic,3517,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4066480
+28,seg 22/05/2023,13:00,Al-Fayha,Al-Raed,5-4-1 plano,Vuk Rasovic,3820,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4066494
+29,sáb 27/05/2023,15:00,Al-Fayha,Al-Ittihad,4-4-1-1,Vuk Rasovic,6231,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4066503
+30,qua 31/05/2023,15:00,Al-Wehda,Al-Fayha,5-4-1 plano,Vuk Rasovic,284,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4066505

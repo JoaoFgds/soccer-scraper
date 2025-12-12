@@ -1,0 +1,31 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 28/07/2018,13:00,KV Kortrijk,Anderlecht,3-4-1-2,Hein Vanhaezebrouck,8589,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059298
+2,dom 05/08/2018,09:30,Anderlecht,KV Oostende,3-4-1-2,Hein Vanhaezebrouck,19207,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059310
+3,dom 12/08/2018,13:00,R Charleroi SC,Anderlecht,3-4-2-1,Hein Vanhaezebrouck,12303,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3084093
+4,sex 17/08/2018,15:30,Anderlecht,Mouscron,3-4-1-2,Hein Vanhaezebrouck,20000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3084096
+5,dom 26/08/2018,09:30,Club Brugge,Anderlecht,3-4-1-2,Hein Vanhaezebrouck,25697,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3084109
+6,dom 02/09/2018,09:30,Anderlecht,Antuérpia,3-4-1-2,Hein Vanhaezebrouck,20364,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3084117
+7,sáb 15/09/2018,15:30,KRC Genk,Anderlecht,3-4-1-2,Hein Vanhaezebrouck,20850,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3099217
+8,dom 23/09/2018,13:00,Anderlecht,Standard Liège,3-4-2-1,Hein Vanhaezebrouck,21000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3099227
+9,dom 30/09/2018,09:30,Anderlecht,St.Truiden,4-3-3 defensivo,Hein Vanhaezebrouck,18722,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3099234
+10,dom 07/10/2018,09:30,Zulte Waregem,Anderlecht,3-4-2-1,Hein Vanhaezebrouck,7932,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3099242
+11,dom 21/10/2018,09:30,Anderlecht,Cercle Brügge,3-4-2-1,Hein Vanhaezebrouck,19000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3099250
+12,dom 28/10/2018,14:00,KAS Eupen,Anderlecht,4-2-3-1,Hein Vanhaezebrouck,5082,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3099259
+13,qui 01/11/2018,10:30,Anderlecht,KSC Lokeren,3-4-2-1,Hein Vanhaezebrouck,20000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3099267
+14,dom 04/11/2018,15:00,Waasland-Beveren,Anderlecht,4-3-2-1,Hein Vanhaezebrouck,6205,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3099274
+15,dom 11/11/2018,11:30,Anderlecht,KAA Gent,4-3-1-2,Hein Vanhaezebrouck,20000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3117062
+16,dom 25/11/2018,15:00,St.Truiden,Anderlecht,3-4-2-1,Hein Vanhaezebrouck,10223,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3117071
+17,dom 02/12/2018,15:00,Anderlecht,KRC Genk,3-4-1-2,Hein Vanhaezebrouck,20000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3117079
+18,dom 09/12/2018,15:00,Anderlecht,R Charleroi SC,3-4-1-2,Hein Vanhaezebrouck,20000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3117087
+19,dom 16/12/2018,11:30,Cercle Brügge,Anderlecht,3-4-2-1,Hein Vanhaezebrouck,8645,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3117174
+20,sáb 22/12/2018,15:00,Mouscron,Anderlecht,4-4-2 duplo 6,Karim Belhocine,6889,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3117178
+21,qui 27/12/2018,17:30,Anderlecht,Waasland-Beveren,4-3-3 defensivo,Karim Belhocine,18503,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3136370
+22,dom 20/01/2019,15:00,KAA Gent,Anderlecht,4-3-3 ofensivo,Fred Rutten,19999,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3136377
+23,dom 27/01/2019,15:00,Anderlecht,KAS Eupen,4-3-3 defensivo,Fred Rutten,19000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3139966
+24,dom 03/02/2019,15:00,Standard Liège,Anderlecht,4-3-3 ofensivo,Fred Rutten,27245,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3139977
+25,dom 10/02/2019,15:00,Anderlecht,Zulte Waregem,4-3-3 defensivo,Fred Rutten,18000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3139985
+26,dom 17/02/2019,14:00,Antuérpia,Anderlecht,4-3-3 ofensivo,Fred Rutten,14346,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3139996
+27,dom 24/02/2019,10:30,Anderlecht,Club Brugge,4-3-3 ofensivo,Fred Rutten,17664,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3140012
+28,dom 03/03/2019,14:00,KSC Lokeren,Anderlecht,4-3-3 defensivo,Fred Rutten,6231,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3140021
+29,dom 10/03/2019,14:00,Anderlecht,KV Kortrijk,4-3-3 ofensivo,Fred Rutten,19503,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3140023
+30,dom 17/03/2019,14:00,KV Oostende,Anderlecht,4-3-3 defensivo,Fred Rutten,7191,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3140034

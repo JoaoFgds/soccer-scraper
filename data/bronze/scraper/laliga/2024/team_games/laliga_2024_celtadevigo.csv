@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 16/08/2024,14:00,Celta de Vigo,Alavés,4-4-2,Claudio Giráldez,22477,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361552
+2,sex 23/08/2024,14:00,Celta de Vigo,Valencia,3-4-3 plano,Claudio Giráldez,23519,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361555
+3,seg 26/08/2024,16:30,Villarreal,Celta de Vigo,3-4-3 plano,Claudio Giráldez,19651,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361569
+4,dom 01/09/2024,12:00,Osasuna,Celta de Vigo,3-4-3 plano,Claudio Giráldez,19908,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364913
+5,dom 15/09/2024,09:00,Celta de Vigo,Valladolid,3-4-3 plano,Claudio Giráldez,21670,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4405321
+6,dom 22/09/2024,11:15,Athletic Club,Celta de Vigo,3-4-3 plano,Claudio Giráldez,48737,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4405329
+7,qui 26/09/2024,16:00,Celta de Vigo,Atlético,3-4-3 plano,Claudio Giráldez,21533,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4405345
+8,dom 29/09/2024,09:00,Celta de Vigo,Girona,5-4-1 plano,Claudio Giráldez,21347,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4405351
+9,sáb 05/10/2024,13:30,Las Palmas,Celta de Vigo,3-4-3 plano,Claudio Giráldez,21482,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4405367
+10,sáb 19/10/2024,16:00,Celta de Vigo,Real Madrid,3-4-3 plano,Claudio Giráldez,24445,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4405371
+11,dom 27/10/2024,10:00,Leganés,Celta de Vigo,3-4-3 plano,Claudio Giráldez,11358,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407519
+12,seg 04/11/2024,17:00,Celta de Vigo,Getafe,5-4-1 plano,Claudio Giráldez,19502,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407696
+13,dom 10/11/2024,10:00,Betis,Celta de Vigo,5-4-1 plano,Claudio Giráldez,54015,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407664
+14,sáb 23/11/2024,17:00,Celta de Vigo,Barcelona,4-4-2 duplo 6,Claudio Giráldez,24573,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407649
+15,sáb 30/11/2024,14:30,Espanyol,Celta de Vigo,3-4-3 plano,Claudio Giráldez,23792,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407657
+16,sex 06/12/2024,17:00,Celta de Vigo,Mallorca,3-4-3 plano,Claudio Giráldez,22861,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407686
+17,sáb 14/12/2024,14:30,Sevilla,Celta de Vigo,3-4-3 plano,Claudio Giráldez,37295,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407710
+18,sáb 21/12/2024,12:15,Celta de Vigo,Real Sociedad,5-4-1 plano,Claudio Giráldez,22956,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407675
+19,sex 10/01/2025,17:00,Rayo Vallecano,Celta de Vigo,4-2-3-1,Claudio Giráldez,12955,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407722
+20,dom 19/01/2025,10:00,Celta de Vigo,Athletic Club,5-4-1 plano,Claudio Giráldez,22279,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407727
+21,seg 27/01/2025,17:00,Alavés,Celta de Vigo,5-4-1 plano,Claudio Giráldez,13612,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407748
+22,dom 02/02/2025,12:15,Valencia,Celta de Vigo,5-4-1 plano,Claudio Giráldez,42273,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407782
+23,sáb 08/02/2025,10:00,Celta de Vigo,Betis,3-4-3 plano,Claudio Giráldez,22651,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407771
+24,sáb 15/02/2025,14:30,Atlético,Celta de Vigo,3-4-3 plano,Claudio Giráldez,64211,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407754
+25,sex 21/02/2025,17:00,Celta de Vigo,Osasuna,5-4-1 plano,Claudio Giráldez,22005,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407535
+26,sáb 01/03/2025,10:00,Girona,Celta de Vigo,5-4-1 plano,Claudio Giráldez,11449,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407739
+27,sáb 08/03/2025,10:00,Celta de Vigo,Leganés,5-4-1 plano,Claudio Giráldez,17326,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407787
+28,sáb 15/03/2025,10:00,Valladolid,Celta de Vigo,5-4-1 plano,Claudio Giráldez,17521,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407529
+29,seg 31/03/2025,16:00,Celta de Vigo,Las Palmas,5-4-1 plano,Claudio Giráldez,18549,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407557
+30,sáb 05/04/2025,13:30,Mallorca,Celta de Vigo,5-4-1 plano,Claudio Giráldez,18291,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407550
+31,sáb 12/04/2025,13:30,Celta de Vigo,Espanyol,5-4-1 plano,Claudio Giráldez,19801,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407633
+32,sáb 19/04/2025,11:15,Barcelona,Celta de Vigo,4-1-4-1,Claudio Giráldez,48569,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407634
+33,qua 23/04/2025,14:00,Celta de Vigo,Villarreal,5-4-1 plano,Claudio Giráldez,19324,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407618
+34,dom 04/05/2025,09:00,Real Madrid,Celta de Vigo,3-4-2-1,Claudio Giráldez,67661,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407610
+35,sáb 10/05/2025,11:15,Celta de Vigo,Sevilla,4-1-4-1,Claudio Giráldez,20281,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407597
+36,ter 13/05/2025,15:00,Real Sociedad,Celta de Vigo,5-4-1 plano,Claudio Giráldez,25124,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407579
+37,dom 18/05/2025,14:00,Celta de Vigo,Rayo Vallecano,3-4-2-1,Claudio Giráldez,21482,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407586
+38,sáb 24/05/2025,16:00,Getafe,Celta de Vigo,5-4-1 plano,Claudio Giráldez,12862,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407571

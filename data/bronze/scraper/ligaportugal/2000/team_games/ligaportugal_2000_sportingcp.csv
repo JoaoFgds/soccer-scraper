@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 19/08/2000,19:00,Sporting,Farense,4-2-3-1,Augusto Inácio,30000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854554
+2,sex 25/08/2000,19:00,Vit. Guimarães,Sporting,4-2-3-1,Augusto Inácio,10000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854557
+3,qui 07/09/2000,19:00,Braga,Sporting,4-2-3-1,Augusto Inácio,20000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854565
+4,sáb 16/09/2000,15:00,Sporting,Alverca,4-2-3-1,Augusto Inácio,20000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854575
+5,sex 22/09/2000,19:00,Gil Vicente,Sporting,4-2-3-1,Augusto Inácio,3000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854585
+6,sáb 30/09/2000,19:00,Sporting,Salgueiros,4-2-3-1,Augusto Inácio,15000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854597
+7,sex 13/10/2000,20:00,CD Aves,Sporting,4-2-3-1,Augusto Inácio,5000,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854602
+8,sex 20/10/2000,20:00,Sporting,FC Porto,4-2-3-1,Augusto Inácio,22500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854612
+9,sáb 28/10/2000,20:00,Beira-Mar,Sporting,4-2-3-1,Augusto Inácio,10000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854621
+10,qui 02/11/2000,21:00,Sporting,Leiria,4-2-3-1,Augusto Inácio,15000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854628
+11,sex 10/11/2000,21:00,CF Estrela,Sporting,4-2-3-1,Augusto Inácio,4000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854638
+12,sáb 18/11/2000,21:00,Sporting,Boavista,4-2-3-1,Augusto Inácio,12500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854654
+13,sáb 02/12/2000,21:00,Benfica,Sporting,4-2-3-1,Augusto Inácio,65000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854658
+14,sex 08/12/2000,21:00,Sporting,Belenenses,4-2-3-1,Fernando Mendes,14000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854665
+15,sáb 16/12/2000,21:00,Paços Ferreira,Sporting,4-2-3-1,Fernando Mendes,6000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854681
+16,sex 05/01/2001,21:00,Sporting,Campomaiorense,4-2-3-1,Fernando Mendes,10000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854684
+17,qui 11/01/2001,21:00,Marítimo,Sporting,?,Fernando Mendes,10000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854692
+18,sáb 20/01/2001,21:00,Farense,Sporting,?,Fernando Mendes,7000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854706
+19,sex 26/01/2001,21:00,Sporting,Vit. Guimarães,?,Manuel Fernandes,9000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854711
+20,sáb 03/02/2001,21:00,Sporting,Braga,?,Manuel Fernandes,20000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854726
+21,sex 16/02/2001,21:00,Alverca,Sporting,?,Manuel Fernandes,5000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854729
+22,sex 23/02/2001,20:00,Sporting,Gil Vicente,4-4-2 losango,Manuel Fernandes,15000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854738
+23,sex 02/03/2001,20:00,Salgueiros,Sporting,?,Manuel Fernandes,2500,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854747
+24,sáb 10/03/2001,20:00,Sporting,CD Aves,?,Manuel Fernandes,25000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854762
+25,dom 18/03/2001,20:00,FC Porto,Sporting,?,Manuel Fernandes,24800,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854772
+26,dom 01/04/2001,19:00,Sporting,Beira-Mar,?,Manuel Fernandes,20000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854781
+27,sex 06/04/2001,19:00,Leiria,Sporting,?,Manuel Fernandes,8000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854783
+28,sex 13/04/2001,19:00,Sporting,CF Estrela,?,Manuel Fernandes,10000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854805
+29,sex 20/04/2001,19:00,Boavista,Sporting,4-2-3-1,Manuel Fernandes,9000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854808
+30,sáb 28/04/2001,19:00,Sporting,Benfica,?,Manuel Fernandes,27000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854824
+31,sáb 05/05/2001,19:00,Belenenses,Sporting,?,Manuel Fernandes,15000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854832
+32,qui 10/05/2001,19:00,Sporting,Paços Ferreira,?,Manuel Fernandes,12000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854834
+33,dom 20/05/2001,15:00,Campomaiorense,Sporting,4-2-3-1,Manuel Fernandes,5000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854848
+34,dom 27/05/2001,12:00,Sporting,Marítimo,4-2-3-1,Manuel Fernandes,23500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854853

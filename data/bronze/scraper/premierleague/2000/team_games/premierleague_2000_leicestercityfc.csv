@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 19/08/2000,11:00,Leicester,Aston Villa,?,Peter Taylor,21455,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042022
+2,qua 23/08/2000,15:45,West Ham,Leicester,?,Peter Taylor,25195,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1041988
+3,sáb 26/08/2000,11:00,Bradford,Leicester,?,Peter Taylor,16766,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1041992
+4,qua 06/09/2000,15:45,Leicester,Ipswich,4-4-2,Peter Taylor,19598,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042008
+5,sáb 09/09/2000,11:00,Leicester,Southampton,?,Peter Taylor,18366,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042013
+6,dom 17/09/2000,11:00,Chelsea,Leicester,?,Peter Taylor,33697,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042031
+7,dom 24/09/2000,12:00,Leicester,Everton,?,Peter Taylor,18084,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042068
+8,dom 01/10/2000,11:00,AFC Sunderland,Leicester,?,Peter Taylor,45338,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042076
+9,sáb 14/10/2000,12:00,Leicester,Man Utd,?,Peter Taylor,22132,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042082
+10,sáb 21/10/2000,12:00,Liverpool,Leicester,?,Peter Taylor,44395,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042097
+11,sáb 28/10/2000,12:00,Leicester,Derby,?,Peter Taylor,20525,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042102
+12,sáb 04/11/2000,13:00,Man City,Leicester,?,Peter Taylor,34279,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042111
+13,sáb 11/11/2000,13:00,Leicester,Newcastle,?,Peter Taylor,21406,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042124
+14,sáb 18/11/2000,13:00,Middlesbrough,Leicester,?,Peter Taylor,27965,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042131
+15,sáb 25/11/2000,13:00,Tottenham,Leicester,?,Peter Taylor,35636,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042179
+16,sáb 02/12/2000,13:00,Leicester,Leeds,?,Peter Taylor,21486,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042186
+17,dom 10/12/2000,14:00,Coventry City,Leicester,?,Peter Taylor,17283,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042201
+18,sáb 16/12/2000,13:00,Leicester,Charlton,?,Peter Taylor,19371,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042207
+19,sáb 23/12/2000,13:00,Leicester,West Ham,?,Peter Taylor,21524,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042219
+20,ter 26/12/2000,10:00,Arsenal,Leicester,4-5-1 plano,Peter Taylor,38007,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042222
+21,qua 04/04/2001,15:45,Aston Villa,Leicester,?,Peter Taylor,29043,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042239
+22,seg 01/01/2001,13:00,Leicester,Bradford,?,Peter Taylor,19278,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042246
+23,dom 14/01/2001,14:00,Ipswich,Leicester,?,Peter Taylor,22002,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042260
+24,sáb 20/01/2001,13:00,Leicester,Arsenal,4-4-2,Peter Taylor,21872,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042265
+25,qua 31/01/2001,17:45,Southampton,Leicester,3-5-2,Peter Taylor,14909,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042277
+26,sáb 03/02/2001,13:00,Leicester,Chelsea,?,Peter Taylor,21502,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042285
+27,sáb 10/02/2001,13:00,Everton,Leicester,?,Peter Taylor,30409,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043198
+28,sáb 24/02/2001,12:00,Leicester,AFC Sunderland,?,Peter Taylor,21086,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043209
+29,sáb 03/03/2001,12:00,Leicester,Liverpool,?,Peter Taylor,21924,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1041977
+30,sáb 17/03/2001,12:00,Man Utd,Leicester,?,Peter Taylor,67516,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043226
+31,dom 01/04/2001,12:00,Charlton,Leicester,?,Peter Taylor,20043,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043241
+32,sáb 07/04/2001,11:00,Leicester,Coventry City,5-3-2,Peter Taylor,19545,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043246
+33,sáb 14/04/2001,11:00,Leicester,Man City,?,Peter Taylor,20224,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043260
+34,seg 16/04/2001,11:00,Derby,Leicester,?,Peter Taylor,28387,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043267
+35,sáb 21/04/2001,11:00,Leicester,Middlesbrough,?,Peter Taylor,18162,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043280
+36,sáb 28/04/2001,11:00,Newcastle,Leicester,?,Peter Taylor,50501,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043286
+37,sáb 05/05/2001,11:00,Leicester,Tottenham,?,Peter Taylor,21056,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043297
+38,sáb 19/05/2001,11:00,Leeds,Leicester,4-4-2,Peter Taylor,39105,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043307

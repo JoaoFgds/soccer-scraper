@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 06/08/2004,15:00,Le Mans UC 72,Clermont FA,?,Olivier Chavanon,6316,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005360
+2,sex 13/08/2004,15:00,Clermont FA,FC Gueugnon,?,Olivier Chavanon,5595,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005368
+3,ter 17/08/2004,15:00,Le Havre,Clermont FA,?,Olivier Chavanon,6310,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005382
+4,sex 20/08/2004,15:00,Clermont FA,Grenoble,?,Olivier Chavanon,4836,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005394
+5,sex 27/08/2004,15:00,Brest,Clermont FA,?,Olivier Chavanon,7876,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005401
+6,sex 03/09/2004,15:00,Clermont FA,CS Sedan,?,Olivier Chavanon,5691,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005411
+7,sex 10/09/2004,15:00,LB Châteauroux,Clermont FA,?,Olivier Chavanon,5006,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005422
+8,sex 17/09/2004,15:00,Clermont FA,Montpellier,?,Olivier Chavanon,5627,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005432
+9,ter 21/09/2004,15:30,Dijon,Clermont FA,?,Olivier Chavanon,5219,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005444
+10,sáb 25/09/2004,15:00,Clermont FA,Troyes,?,Olivier Chavanon,4748,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005455
+11,sex 01/10/2004,15:00,Angers,Clermont FA,?,Olivier Chavanon,8145,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005461
+12,sex 15/10/2004,15:00,Clermont FA,FC Lorient,?,Olivier Chavanon,4723,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005472
+13,sex 22/10/2004,15:00,AS Nancy,Clermont FA,?,Olivier Chavanon,12225,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005486
+14,seg 01/11/2004,16:15,Clermont FA,Guingamp,?,Olivier Chavanon,6397,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005499
+15,sex 05/11/2004,17:00,Chamois Niort,Clermont FA,?,Olivier Chavanon,3504,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005507
+16,sex 12/11/2004,17:00,Clermont FA,Amiens SC,?,Olivier Chavanon,4490,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005511
+17,sex 26/11/2004,17:00,Stade Lavallois,Clermont FA,?,Olivier Chavanon,4016,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005525
+18,sex 03/12/2004,17:00,US Créteil-L,Clermont FA,?,Olivier Chavanon,1483,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005532
+19,sex 17/12/2004,17:00,Clermont FA,Reims,?,Olivier Chavanon,5034,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005544
+20,ter 11/01/2005,17:00,FC Gueugnon,Clermont FA,?,Olivier Chavanon,3751,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005556
+21,sex 14/01/2005,17:00,Clermont FA,Le Havre,?,Olivier Chavanon,4140,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005562
+22,ter 08/02/2005,17:00,Grenoble,Clermont FA,?,Olivier Chavanon,4196,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005580
+23,ter 25/01/2005,17:00,Clermont FA,Brest,?,Olivier Chavanon,3896,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005584
+24,sex 28/01/2005,17:30,CS Sedan,Clermont FA,?,Olivier Chavanon,6898,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005595
+25,sex 04/02/2005,17:00,Clermont FA,LB Châteauroux,?,Olivier Chavanon,4526,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005601
+26,sex 18/02/2005,17:00,Montpellier,Clermont FA,?,Olivier Chavanon,7185,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005616
+27,sex 25/02/2005,16:00,Clermont FA,Dijon,?,Olivier Chavanon,4832,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005622
+28,seg 28/03/2005,13:00,Troyes,Clermont FA,?,Olivier Chavanon,7567,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005640
+29,sex 11/03/2005,16:00,Clermont FA,Angers,?,Olivier Chavanon,4415,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005642
+30,sex 18/03/2005,16:00,FC Lorient,Clermont FA,?,Olivier Chavanon,6277,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005656
+31,sex 01/04/2005,15:00,Clermont FA,AS Nancy,?,Olivier Chavanon,5197,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005662
+32,sex 08/04/2005,15:00,Guingamp,Clermont FA,?,Olivier Chavanon,11144,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005674
+33,sex 15/04/2005,15:00,Clermont FA,Chamois Niort,?,Olivier Chavanon,4921,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005683
+34,sex 22/04/2005,15:00,Amiens SC,Clermont FA,?,Olivier Chavanon,7629,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005691
+35,sex 06/05/2005,15:00,Clermont FA,Stade Lavallois,?,Olivier Chavanon,5102,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005702
+36,sáb 14/05/2005,15:00,Clermont FA,US Créteil-L,?,Olivier Chavanon,6600,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005718
+37,sex 20/05/2005,15:30,Reims,Clermont FA,?,Olivier Chavanon,6163,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005729
+38,sex 27/05/2005,15:45,Clermont FA,Le Mans UC 72,?,Olivier Chavanon,5084,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005733

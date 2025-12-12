@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 07/08/2021,11:00,Cardiff,Barnsley FC,5-4-1 plano,Mick McCarthy,17431,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3587428
+2,sáb 14/08/2021,11:00,Blackpool,Cardiff,5-4-1 plano,Mick McCarthy,11393,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3587439
+3,ter 17/08/2021,15:45,Peterborough,Cardiff,5-4-1 plano,Mick McCarthy,8534,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3587453
+4,sáb 21/08/2021,11:00,Cardiff,Millwall,5-4-1 plano,Mick McCarthy,18168,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3587481
+5,sáb 28/08/2021,08:30,Cardiff,Bristol City,5-4-1 plano,Mick McCarthy,20891,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3587492
+6,dom 12/09/2021,10:30,Nott'm Forest,Cardiff,4-4-2 duplo 6,Mick McCarthy,24153,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3587511
+7,qua 15/09/2021,15:45,Coventry City,Cardiff,5-4-1 plano,Mick McCarthy,16372,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589162
+8,sáb 18/09/2021,11:00,Cardiff,Bournemouth,5-4-1 plano,Mick McCarthy,19090,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589177
+9,sáb 25/09/2021,11:00,Blackburn,Cardiff,5-4-1 plano,Mick McCarthy,11670,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589190
+10,ter 28/09/2021,15:45,Cardiff,West Brom,5-4-1 plano,Mick McCarthy,17363,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589210
+11,sáb 02/10/2021,11:00,Cardiff,Reading,4-2-3-1,Mick McCarthy,18400,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589236
+12,dom 17/10/2021,08:00,Swansea,Cardiff,3-4-3 plano,Mick McCarthy,19288,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589254
+13,qua 20/10/2021,15:45,Fulham,Cardiff,4-2-3-1,Mick McCarthy,15789,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589867
+14,sáb 23/10/2021,08:30,Cardiff,Middlesbrough,4-2-3-1,Mick McCarthy,17513,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589882
+15,sáb 30/10/2021,11:00,Stoke,Cardiff,3-4-2-1,Steve Morison,21413,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589899
+16,qua 03/11/2021,16:45,Cardiff,QPR,3-4-2-1,Steve Morison,16882,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592346
+17,sáb 06/11/2021,12:00,Cardiff,Huddersfield,3-4-2-1,Steve Morison,17355,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592329
+18,sáb 20/11/2021,12:00,Preston NE,Cardiff,3-4-3 plano,Steve Morison,10749,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592354
+19,qua 24/11/2021,16:45,Cardiff,Hull City,3-4-3 plano,Steve Morison,17180,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592417
+20,sáb 27/11/2021,12:00,Luton,Cardiff,5-3-2,Steve Morison,9987,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592389
+21,sáb 04/12/2021,12:00,Cardiff,Sheff Utd,5-4-1 plano,Steve Morison,18310,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592400
+22,sáb 11/12/2021,12:00,Birmingham,Cardiff,3-4-1-2,Steve Morison,17840,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592373
+23,ter 01/03/2022,16:45,Cardiff,Derby,5-3-2,Steve Morison,18767,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592364
+24,ter 15/02/2022,16:45,Cardiff,Coventry City,3-5-2 plano,Steve Morison,18660,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592565
+25,qui 30/12/2021,16:45,Bournemouth,Cardiff,3-4-2-1,Steve Morison,8942,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592552
+26,dom 02/01/2022,11:00,West Brom,Cardiff,3-5-2 plano,Steve Morison,22925,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592431
+27,sáb 15/01/2022,09:30,Cardiff,Blackburn,5-3-2,Steve Morison,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592588
+28,sáb 22/01/2022,09:30,Bristol City,Cardiff,3-5-2 plano,Steve Morison,21435,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592508
+29,dom 30/01/2022,13:00,Cardiff,Nott'm Forest,3-5-2 plano,Steve Morison,18866,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592517
+30,qua 02/02/2022,16:45,Barnsley FC,Cardiff,3-5-2 plano,Steve Morison,11432,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592456
+31,qua 09/02/2022,16:45,Cardiff,Peterborough,5-3-2,Steve Morison,17297,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592577
+32,sáb 12/02/2022,12:00,Millwall,Cardiff,3-5-2 plano,Steve Morison,12710,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592438
+33,sáb 19/02/2022,12:00,Cardiff,Blackpool,5-3-2,Steve Morison,19025,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592531
+34,qua 23/02/2022,16:45,Huddersfield,Cardiff,5-3-2,Steve Morison,20167,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592476
+35,sáb 26/02/2022,12:00,Cardiff,Fulham,3-5-2 plano,Steve Morison,18928,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592497
+36,sáb 05/03/2022,12:00,QPR,Cardiff,3-5-2 plano,Steve Morison,16170,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592451
+37,sáb 12/03/2022,12:00,Cardiff,Preston NE,3-5-2 plano,Steve Morison,19743,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592485
+38,qua 16/03/2022,16:45,Cardiff,Stoke,3-5-2 plano,Steve Morison,17184,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592547
+39,qua 27/04/2022,15:45,Middlesbrough,Cardiff,4-3-1-2,Steve Morison,19727,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592623
+40,sáb 02/04/2022,11:00,Cardiff,Swansea,3-5-2 plano,Steve Morison,27280,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592603
+41,sáb 09/04/2022,11:00,Reading,Cardiff,4-2-3-1,Steve Morison,19039,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592657
+42,sex 15/04/2022,11:00,Hull City,Cardiff,5-4-1 plano,Steve Morison,15685,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592606
+43,seg 18/04/2022,11:00,Cardiff,Luton,4-2-3-1,Steve Morison,19381,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592614
+44,sáb 23/04/2022,11:00,Sheff Utd,Cardiff,3-5-2 plano,Steve Morison,26802,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592680
+45,sáb 30/04/2022,11:00,Cardiff,Birmingham,5-3-2,Steve Morison,21395,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592612
+46,sáb 07/05/2022,08:30,Derby,Cardiff,5-3-2,Steve Morison,29402,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592314

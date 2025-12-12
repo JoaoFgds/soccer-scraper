@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 12/08/2016,16:30,Rio Ave,FC Porto,4-2-3-1,Nuno Espírito Santo,8357,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720757
+2,sáb 20/08/2016,16:30,FC Porto,Estoril,4-3-3 ofensivo,Nuno Espírito Santo,36210,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720765
+3,dom 28/08/2016,14:00,Sporting,FC Porto,4-3-3 ofensivo,Nuno Espírito Santo,49399,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720775
+4,sáb 10/09/2016,16:30,FC Porto,Vit. Guimarães,4-4-2 losango,Nuno Espírito Santo,40105,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720783
+5,dom 18/09/2016,14:00,CD Tondela,FC Porto,4-4-2 duplo 6,Nuno Espírito Santo,3390,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720793
+6,sex 23/09/2016,15:00,FC Porto,Boavista,4-4-2 losango,Nuno Espírito Santo,31210,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720800
+7,sáb 01/10/2016,16:30,Nacional,FC Porto,4-4-2 losango,Nuno Espírito Santo,4169,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720807
+8,sáb 22/10/2016,17:30,FC Porto,Arouca,4-3-3 ofensivo,Nuno Espírito Santo,31310,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720819
+9,sáb 29/10/2016,15:15,Vitória FC,FC Porto,4-4-2 losango,Nuno Espírito Santo,7245,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720829
+10,dom 06/11/2016,16:00,FC Porto,Benfica,4-4-2 losango,Nuno Espírito Santo,50019,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720835
+11,sáb 26/11/2016,18:30,Belenenses,FC Porto,4-4-2 losango,Nuno Espírito Santo,6663,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720840
+12,sáb 03/12/2016,18:30,FC Porto,Braga,4-1-3-2,Nuno Espírito Santo,31219,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720854
+13,dom 11/12/2016,14:00,Feirense,FC Porto,4-4-2 losango,Nuno Espírito Santo,4635,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720863
+14,seg 19/12/2016,18:00,FC Porto,Chaves,4-1-3-2,Nuno Espírito Santo,35210,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720872
+15,qui 15/12/2016,18:30,FC Porto,Marítimo,4-2-3-1,Nuno Espírito Santo,22208,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720883
+16,sáb 07/01/2017,18:30,Paços Ferreira,FC Porto,4-4-2 losango,Nuno Espírito Santo,5144,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720886
+17,dom 15/01/2017,16:00,FC Porto,Moreirense,4-3-3 ofensivo,Nuno Espírito Santo,32230,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720900
+18,sáb 21/01/2017,14:00,FC Porto,Rio Ave,4-3-3 ofensivo,Nuno Espírito Santo,43328,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720910
+19,sáb 28/01/2017,16:15,Estoril,FC Porto,4-3-1-2,Nuno Espírito Santo,5497,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720918
+20,sáb 04/02/2017,18:30,FC Porto,Sporting,4-4-2 duplo 6,Nuno Espírito Santo,48329,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720928
+21,sáb 11/02/2017,18:30,Vit. Guimarães,FC Porto,4-4-2 duplo 6,Nuno Espírito Santo,27212,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720936
+22,sex 17/02/2017,18:30,FC Porto,CD Tondela,4-4-2 duplo 6,Nuno Espírito Santo,35210,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720946
+23,dom 26/02/2017,17:15,Boavista,FC Porto,4-3-3 ofensivo,Nuno Espírito Santo,13549,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720953
+24,sáb 04/03/2017,15:15,FC Porto,Nacional,4-4-2 duplo 6,Nuno Espírito Santo,39230,7:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720960
+25,sex 10/03/2017,17:30,Arouca,FC Porto,4-4-2 duplo 6,Nuno Espírito Santo,5000,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720972
+26,dom 19/03/2017,15:00,FC Porto,Vitória FC,4-4-2 losango,Nuno Espírito Santo,49417,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720982
+27,sáb 01/04/2017,16:30,Benfica,FC Porto,4-3-3 defensivo,Nuno Espírito Santo,63323,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720988
+28,sáb 08/04/2017,14:15,FC Porto,Belenenses,4-4-2 losango,Nuno Espírito Santo,41322,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720993
+29,sáb 15/04/2017,16:30,Braga,FC Porto,4-4-2 losango,Nuno Espírito Santo,21106,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2721007
+30,dom 23/04/2017,16:15,FC Porto,Feirense,4-4-2 duplo 6,Nuno Espírito Santo,39229,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2721016
+31,sáb 29/04/2017,16:30,Chaves,FC Porto,4-2-3-1,Nuno Espírito Santo,6550,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2721025
+32,sáb 06/05/2017,16:30,Marítimo,FC Porto,4-1-4-1,Nuno Espírito Santo,10454,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2721036
+33,dom 14/05/2017,14:00,FC Porto,Paços Ferreira,4-2-3-1,Nuno Espírito Santo,25416,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2721039
+34,dom 21/05/2017,14:00,Moreirense,FC Porto,4-3-3 ofensivo,Nuno Espírito Santo,4925,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2721053

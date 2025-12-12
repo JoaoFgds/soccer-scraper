@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 30/07/2022,14:00,Nîmes Olympique,SM Caen,5-3-2,Nicolas Usaï,2969,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3863140
+2,sáb 06/08/2022,10:00,Saint-Étienne,Nîmes Olympique,5-3-2,Nicolas Usaï,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3863150
+3,sáb 13/08/2022,14:00,Nîmes Olympique,Rodez AF,5-3-2,Nicolas Usaï,2615,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864777
+4,sáb 20/08/2022,14:00,Dijon,Nîmes Olympique,5-3-2,Nicolas Usaï,7500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864782
+5,sáb 27/08/2022,14:00,Nîmes Olympique,Stade Lavallois,5-3-2,Nicolas Usaï,2221,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864793
+6,ter 30/08/2022,15:45,Grenoble,Nîmes Olympique,5-3-2,Nicolas Usaï,4850,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864801
+7,sex 02/09/2022,15:45,Valenciennes,Nîmes Olympique,5-3-2,Nicolas Usaï,4740,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864833
+8,sáb 10/09/2022,14:00,Nîmes Olympique,SC Bastia,3-5-2,Nicolas Usaï,2870,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864840
+9,sáb 17/09/2022,14:00,FC Sochaux,Nîmes Olympique,3-5-2,Nicolas Usaï,11287,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864851
+10,sáb 01/10/2022,14:00,Nîmes Olympique,Paris FC,3-4-3 plano,Nicolas Usaï,2303,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864874
+11,sáb 08/10/2022,14:00,Quevilly Rouen,Nîmes Olympique,3-1-4-2,Nicolas Usaï,2900,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864886
+12,sáb 15/10/2022,14:00,Nîmes Olympique,Amiens SC,4-3-3 ofensivo,Nicolas Usaï,2293,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864910
+13,sáb 22/10/2022,14:00,Pau FC,Nîmes Olympique,4-3-3 ofensivo,Nicolas Usaï,3328,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864931
+14,sáb 05/11/2022,11:00,Nîmes Olympique,Bordeaux,4-3-3 ofensivo,Nicolas Usaï,9462,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3888720
+15,sáb 12/11/2022,15:00,Chamois Niort,Nîmes Olympique,4-3-1-2,Nicolas Usaï,3788,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864956
+16,seg 26/12/2022,17:00,Nîmes Olympique,Guingamp,4-3-3 ofensivo,Frédéric Bompard,5063,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864964
+17,sex 30/12/2022,17:00,FC Annecy,Nîmes Olympique,4-1-4-1,Frédéric Bompard,6513,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864969
+18,ter 10/01/2023,16:45,Nîmes Olympique,FC Metz,4-1-4-1,Frédéric Bompard,1809,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864980
+19,sex 13/01/2023,16:45,Le Havre,Nîmes Olympique,4-2-3-1,Frédéric Bompard,8562,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865000
+20,sáb 28/01/2023,15:00,Nîmes Olympique,Chamois Niort,4-2-3-1,Frédéric Bompard,1405,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865013
+21,ter 31/01/2023,16:45,Guingamp,Nîmes Olympique,4-4-2,Frédéric Bompard,7916,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865028
+22,sex 03/02/2023,16:45,Nîmes Olympique,Grenoble,4-2-3-1,Frédéric Bompard,2125,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865038
+23,sáb 11/02/2023,15:00,Rodez AF,Nîmes Olympique,4-2-3-1,Frédéric Bompard,2605,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865049
+24,seg 20/02/2023,16:45,Nîmes Olympique,Saint-Étienne,4-2-3-1,Frédéric Bompard,5527,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865064
+25,sáb 25/02/2023,15:00,FC Metz,Nîmes Olympique,4-5-1 plano,Frédéric Bompard,13388,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865074
+26,sáb 04/03/2023,15:00,SC Bastia,Nîmes Olympique,4-2-3-1,Frédéric Bompard,9793,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865088
+27,sáb 11/03/2023,15:00,Nîmes Olympique,Quevilly Rouen,4-2-3-1,Frédéric Bompard,1363,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865138
+28,sáb 18/03/2023,15:00,Bordeaux,Nîmes Olympique,4-2-3-1,Frédéric Bompard,15856,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3888734
+29,sáb 01/04/2023,14:00,Nîmes Olympique,FC Annecy,4-2-3-1,Frédéric Bompard,1700,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865180
+30,sáb 08/04/2023,14:00,Amiens SC,Nîmes Olympique,4-2-3-1,Frédéric Bompard,5920,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865195
+31,sáb 15/04/2023,14:00,Nîmes Olympique,Le Havre,4-4-2,Frédéric Bompard,1963,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865224
+32,sáb 22/04/2023,14:00,Paris FC,Nîmes Olympique,4-2-3-1,Frédéric Bompard,3252,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865279
+33,sáb 29/04/2023,14:00,Nîmes Olympique,Pau FC,4-2-3-1,Frédéric Bompard,1532,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865287
+34,sáb 06/05/2023,14:00,Nîmes Olympique,Valenciennes,4-2-3-1,Frédéric Bompard,2784,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865295
+35,sáb 13/05/2023,14:00,SM Caen,Nîmes Olympique,4-2-3-1,Frédéric Bompard,14611,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865302
+36,sáb 20/05/2023,14:00,Nîmes Olympique,Dijon,4-2-3-1,Frédéric Bompard,1567,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865313
+37,sex 26/05/2023,15:45,Stade Lavallois,Nîmes Olympique,4-4-2 losango,Frédéric Bompard,8673,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865322
+38,sex 02/06/2023,15:45,Nîmes Olympique,FC Sochaux,4-1-4-1,Frédéric Bompard,1143,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865331

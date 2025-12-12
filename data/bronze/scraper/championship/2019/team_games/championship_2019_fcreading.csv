@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 03/08/2019,11:00,Reading,Sheff Wed,4-2-3-1,José Gomes,16319,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3196763
+2,sáb 10/08/2019,11:00,Hull City,Reading,4-2-3-1,José Gomes,10673,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219968
+3,dom 18/08/2019,08:00,Reading,Cardiff,3-5-2 plano,José Gomes,14252,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219950
+4,qua 21/08/2019,16:00,West Brom,Reading,3-5-2,José Gomes,21803,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219938
+5,sáb 24/08/2019,11:00,Huddersfield,Reading,3-5-2,José Gomes,21847,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219930
+6,sáb 31/08/2019,11:00,Reading,Charlton,3-5-2,José Gomes,16096,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219927
+7,sáb 14/09/2019,11:00,Middlesbrough,Reading,3-5-2,José Gomes,19414,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219915
+8,sáb 21/09/2019,11:00,Reading,Blackburn,3-5-2 plano,José Gomes,16906,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219894
+9,sáb 28/09/2019,11:00,Swansea,Reading,3-5-2,José Gomes,16036,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219887
+10,ter 01/10/2019,16:00,Reading,Fulham,4-2-3-1,José Gomes,13809,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219876
+11,sáb 05/10/2019,11:00,Bristol City,Reading,3-5-2,José Gomes,21419,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219832
+12,sáb 19/10/2019,11:00,Reading,Preston NE,3-5-2,Mark Bowen,14135,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219814
+13,ter 22/10/2019,15:45,QPR,Reading,3-5-2,Mark Bowen,12330,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219852
+14,qua 22/01/2020,16:45,Nott'm Forest,Reading,4-2-3-1,Mark Bowen,26840,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219731
+15,sáb 02/11/2019,12:00,Reading,Millwall,3-5-2,Mark Bowen,14485,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219819
+16,sáb 09/11/2019,12:00,Reading,Luton,3-5-2,Mark Bowen,15251,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219807
+17,sáb 23/11/2019,12:00,Brentford,Reading,3-5-2,Mark Bowen,11892,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219808
+18,ter 26/11/2019,17:00,Reading,Leeds,5-3-2,Mark Bowen,16918,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219762
+19,sáb 30/11/2019,12:00,Wigan,Reading,3-5-2,Mark Bowen,8965,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219777
+20,sáb 07/12/2019,12:00,Reading,Birmingham,5-3-2,Mark Bowen,14103,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219757
+21,qua 11/12/2019,16:45,Barnsley FC,Reading,5-3-2,Mark Bowen,11510,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219785
+22,sáb 14/12/2019,12:00,Stoke,Reading,4-4-2,Mark Bowen,21701,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219640
+23,sáb 21/12/2019,12:00,Reading,Derby,4-4-2,Mark Bowen,14831,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219756
+24,qui 26/12/2019,16:30,Reading,QPR,4-2-3-1,Mark Bowen,12495,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219706
+25,dom 29/12/2019,12:00,Preston NE,Reading,4-2-3-1,Mark Bowen,13680,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219682
+26,qua 01/01/2020,12:00,Fulham,Reading,4-2-3-1,Mark Bowen,20858,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219714
+27,sáb 11/01/2020,12:00,Reading,Nott'm Forest,4-2-3-1,Mark Bowen,19706,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219644
+28,sáb 18/01/2020,12:00,Millwall,Reading,4-2-3-1,Mark Bowen,14011,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219616
+29,ter 28/01/2020,17:00,Reading,Bristol City,4-2-3-1,Mark Bowen,11633,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219666
+30,sex 31/01/2020,16:45,Cardiff,Reading,5-3-2,Mark Bowen,22518,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219650
+31,sáb 08/02/2020,12:00,Reading,Hull City,5-3-2,Mark Bowen,13393,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219590
+32,qua 12/02/2020,17:00,Reading,West Brom,4-2-3-1,Mark Bowen,13942,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219637
+33,sáb 15/02/2020,12:00,Sheff Wed,Reading,4-2-3-1,Mark Bowen,22199,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219519
+34,sáb 22/02/2020,12:00,Leeds,Reading,4-2-3-1,Mark Bowen,35483,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219677
+35,qua 26/02/2020,17:00,Reading,Wigan,4-4-2 duplo 6,Mark Bowen,10088,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219535
+36,sáb 29/02/2020,12:00,Reading,Barnsley FC,4-2-3-1,Mark Bowen,13263,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219566
+37,sáb 07/03/2020,12:00,Birmingham,Reading,4-2-3-1,Mark Bowen,19525,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219581
+38,sáb 20/06/2020,11:00,Reading,Stoke,4-2-3-1,Mark Bowen,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219515
+39,sáb 27/06/2020,09:00,Derby,Reading,4-2-3-1,Mark Bowen,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219555
+40,ter 30/06/2020,14:00,Reading,Brentford,4-2-3-1,Mark Bowen,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219540
+41,sáb 04/07/2020,11:00,Luton,Reading,4-2-3-1,Mark Bowen,x,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219556
+42,ter 07/07/2020,14:00,Reading,Huddersfield,4-2-3-1,Mark Bowen,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219522
+43,sáb 11/07/2020,08:30,Charlton,Reading,4-2-3-1,Mark Bowen,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219450
+44,ter 14/07/2020,14:00,Reading,Middlesbrough,4-2-3-1,Mark Bowen,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219442
+45,sáb 18/07/2020,11:00,Blackburn,Reading,4-4-2,Mark Bowen,x,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219440
+46,qua 22/07/2020,15:30,Reading,Swansea,3-5-2,Mark Bowen,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219463

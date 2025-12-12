@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 06/08/2010,15:00,AC Ajaccio,Nîmes Olympique,?,Jean-Michel Cavalli,2774,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036786
+2,sex 13/08/2010,15:00,Nîmes Olympique,LB Châteauroux,?,Jean-Michel Cavalli,6708,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1040760
+3,ter 17/08/2010,15:00,US Boulogne,Nîmes Olympique,?,Jean-Michel Cavalli,7590,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1040765
+4,sex 20/08/2010,15:00,Nîmes Olympique,Grenoble,?,Jean-Michel Cavalli,6610,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1040779
+5,sex 27/08/2010,15:00,Dijon,Nîmes Olympique,?,Jean-Michel Cavalli,6875,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1040787
+6,sex 10/09/2010,15:00,Nîmes Olympique,Angers,?,Jean-Michel Cavalli,6432,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043946
+7,sex 17/09/2010,15:00,Clermont Foot,Nîmes Olympique,?,Jean-Michel Cavalli,3823,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1048157
+8,sex 24/09/2010,15:00,Nîmes Olympique,CS Sedan,?,Jean-Michel Cavalli,5883,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1048170
+9,sex 01/10/2010,15:00,Nîmes Olympique,Le Mans FC,?,Jean-Michel Cavalli,6639,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1052115
+10,sex 15/10/2010,15:00,FC Istres,Nîmes Olympique,?,Jean-Michel Cavalli,2253,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1052119
+11,ter 19/10/2010,16:00,Nîmes Olympique,Évian,?,Jean-Michel Cavalli,5294,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1052135
+12,seg 25/10/2010,16:30,Le Havre,Nîmes Olympique,?,Jean-Michel Cavalli,7961,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1052140
+13,sex 29/10/2010,16:00,Nîmes Olympique,Stade Lavallois,?,Jean-Michel Cavalli,5559,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1059773
+14,sex 05/11/2010,17:00,Nantes,Nîmes Olympique,?,Jean-Michel Cavalli,8250,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1061509
+15,sex 12/11/2010,17:00,Nîmes Olympique,Troyes,?,Noël Tosi,7394,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1061980
+16,sex 26/11/2010,17:00,Reims,Nîmes Olympique,?,Noël Tosi,7035,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1063793
+17,sex 03/12/2010,17:00,Nîmes Olympique,Vannes,?,Noël Tosi,6237,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1066414
+18,sex 17/12/2010,17:00,Tours FC,Nîmes Olympique,?,Noël Tosi,4101,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1068729
+19,ter 21/12/2010,17:00,Nîmes Olympique,FC Metz,?,Noël Tosi,6684,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1069545
+20,sáb 15/01/2011,12:00,LB Châteauroux,Nîmes Olympique,?,Noël Tosi,5583,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1072315
+21,sáb 29/01/2011,12:00,Nîmes Olympique,US Boulogne,?,Noël Tosi,5495,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1073922
+22,sáb 05/02/2011,12:00,Grenoble,Nîmes Olympique,?,Noël Tosi,5135,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1076295
+23,sáb 12/02/2011,12:00,Nîmes Olympique,Dijon,?,Noël Tosi,5628,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1077331
+24,sex 18/02/2011,17:00,Angers,Nîmes Olympique,?,Noël Tosi,4930,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1079053
+25,sex 25/02/2011,16:00,Nîmes Olympique,Clermont Foot,?,Noël Tosi,6647,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1079775
+26,sex 04/03/2011,16:30,CS Sedan,Nîmes Olympique,?,Thierry Froger,7148,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1081590
+27,seg 14/03/2011,16:30,Le Mans FC,Nîmes Olympique,?,Thierry Froger,8245,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1083796
+28,sex 18/03/2011,16:00,Nîmes Olympique,FC Istres,?,Thierry Froger,6814,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1086841
+29,sex 01/04/2011,15:00,Évian,Nîmes Olympique,?,Thierry Froger,3864,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089429
+30,sex 08/04/2011,15:00,Nîmes Olympique,Le Havre,?,Thierry Froger,7013,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091778
+31,sex 15/04/2011,15:00,Stade Lavallois,Nîmes Olympique,?,Thierry Froger,5942,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1092588
+32,sex 22/04/2011,15:00,Nîmes Olympique,Nantes,?,Thierry Froger,7328,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1093573
+33,sex 29/04/2011,15:00,Troyes,Nîmes Olympique,?,Thierry Froger,17028,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1097504
+34,sex 06/05/2011,15:00,Nîmes Olympique,Reims,?,Thierry Froger,7567,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1098126
+35,ter 10/05/2011,15:00,Vannes,Nîmes Olympique,?,Thierry Froger,4048,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1098210
+36,sex 13/05/2011,15:00,Nîmes Olympique,Tours FC,?,Thierry Froger,7276,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1101241
+37,sex 20/05/2011,15:30,FC Metz,Nîmes Olympique,?,Thierry Froger,24482,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1103050
+38,sex 27/05/2011,15:30,Nîmes Olympique,AC Ajaccio,?,Thierry Froger,5799,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1103063

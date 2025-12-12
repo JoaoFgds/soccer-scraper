@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 17/08/2019,15:00,Mallorca,Eibar,4-4-2 duplo 6,José Luis Mendilibar,15127,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208620
+2,sáb 24/08/2019,12:00,Osasuna,Eibar,4-4-2 duplo 6,José Luis Mendilibar,13978,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208647
+3,dom 01/09/2019,14:00,Atlético,Eibar,4-2-3-1,José Luis Mendilibar,56664,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208650
+4,dom 15/09/2019,07:00,Eibar,Espanyol,4-4-2 duplo 6,José Luis Mendilibar,5410,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208663
+5,sáb 21/09/2019,11:00,Levante,Eibar,4-2-3-1,José Luis Mendilibar,18904,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208674
+6,qui 26/09/2019,14:00,Eibar,Sevilla,4-2-3-1,José Luis Mendilibar,5434,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208682
+7,dom 29/09/2019,09:00,Eibar,Celta de Vigo,4-3-3 ofensivo,José Luis Mendilibar,5453,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208695
+8,sex 04/10/2019,16:00,Betis,Eibar,4-3-3 ofensivo,José Luis Mendilibar,47056,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208704
+9,sáb 19/10/2019,08:00,Eibar,Barcelona,4-4-2 duplo 6,José Luis Mendilibar,7295,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208716
+10,sáb 26/10/2019,13:30,Valladolid,Eibar,4-3-3 ofensivo,José Luis Mendilibar,20036,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208732
+11,qui 31/10/2019,15:00,Eibar,Villarreal,4-4-2 duplo 6,José Luis Mendilibar,5583,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208746
+12,dom 03/11/2019,14:30,Leganés,Eibar,4-4-2 duplo 6,José Luis Mendilibar,9649,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208755
+13,sáb 09/11/2019,14:30,Eibar,Real Madrid,4-4-2 duplo 6,José Luis Mendilibar,6945,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208767
+14,dom 24/11/2019,12:00,Eibar,Alavés,4-4-2 duplo 6,José Luis Mendilibar,6315,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208773
+15,sáb 30/11/2019,12:00,Real Sociedad,Eibar,4-2-3-1,José Luis Mendilibar,28612,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208789
+16,dom 08/12/2019,08:00,Eibar,Getafe,4-4-2 duplo 6,José Luis Mendilibar,5969,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208794
+17,sáb 14/12/2019,14:30,Athletic Club,Eibar,4-4-2 duplo 6,José Luis Mendilibar,43203,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208803
+18,sex 20/12/2019,17:00,Eibar,Granada CF,4-4-2 duplo 6,José Luis Mendilibar,5341,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208814
+19,sáb 04/01/2020,09:00,Valencia,Eibar,4-4-2 duplo 6,José Luis Mendilibar,39702,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208830
+20,sáb 18/01/2020,17:00,Eibar,Atlético,4-2-3-1,José Luis Mendilibar,6429,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208835
+21,dom 26/01/2020,10:00,Celta de Vigo,Eibar,4-2-3-1,José Luis Mendilibar,15490,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208844
+22,dom 02/02/2020,10:00,Eibar,Betis,4-2-3-1,José Luis Mendilibar,6558,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3209794
+23,sex 07/02/2020,17:00,Alavés,Eibar,4-3-3 ofensivo,José Luis Mendilibar,17089,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3209802
+24,ter 10/03/2020,16:00,Eibar,Real Sociedad,4-2-3-1,José Luis Mendilibar,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3209960
+25,sáb 22/02/2020,12:00,Barcelona,Eibar,4-2-3-1,José Luis Mendilibar,66970,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3209970
+26,sáb 29/02/2020,09:00,Eibar,Levante,4-4-2 duplo 6,José Luis Mendilibar,5920,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3209979
+27,sáb 07/03/2020,09:00,Eibar,Mallorca,4-4-2 duplo 6,José Luis Mendilibar,6110,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210001
+28,dom 14/06/2020,14:30,Real Madrid,Eibar,4-3-3 ofensivo,José Luis Mendilibar,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210022
+29,qua 17/06/2020,14:30,Eibar,Athletic Club,4-4-2 duplo 6,José Luis Mendilibar,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210038
+30,sáb 20/06/2020,14:30,Getafe,Eibar,4-4-2 duplo 6,José Luis Mendilibar,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210058
+31,qui 25/06/2020,14:30,Eibar,Valencia,4-4-2,José Luis Mendilibar,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210076
+32,dom 28/06/2020,14:30,Granada CF,Eibar,4-2-3-1,José Luis Mendilibar,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210088
+33,qui 02/07/2020,14:30,Eibar,Osasuna,4-4-2 duplo 6,José Luis Mendilibar,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210096
+34,seg 06/07/2020,17:00,Sevilla,Eibar,4-1-4-1,José Luis Mendilibar,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210110
+35,qui 09/07/2020,14:30,Eibar,Leganés,4-4-2 duplo 6,José Luis Mendilibar,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210117
+36,dom 12/07/2020,09:00,Espanyol,Eibar,4-1-4-1,José Luis Mendilibar,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210125
+37,qui 16/07/2020,13:30,Eibar,Valladolid,4-2-3-1,José Luis Mendilibar,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210137
+38,dom 19/07/2020,13:30,Villarreal,Eibar,4-4-2 duplo 6,José Luis Mendilibar,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208634

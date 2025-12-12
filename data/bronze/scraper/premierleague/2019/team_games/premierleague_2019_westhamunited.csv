@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 10/08/2019,08:30,West Ham,Man City,4-2-3-1,Manuel Pellegrini,59870,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3194818
+2,sáb 17/08/2019,11:00,Brighton,West Ham,4-1-4-1,Manuel Pellegrini,30459,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219433
+3,sáb 24/08/2019,11:00,Watford,West Ham,4-1-4-1,Manuel Pellegrini,20035,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219426
+4,sáb 31/08/2019,11:00,West Ham,Norwich,4-1-4-1,Manuel Pellegrini,59950,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219420
+5,seg 16/09/2019,16:00,Aston Villa,West Ham,4-1-4-1,Manuel Pellegrini,42010,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219079
+6,dom 22/09/2019,10:00,West Ham,Man Utd,4-3-3 ofensivo,Manuel Pellegrini,59936,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219073
+7,sáb 28/09/2019,11:00,Bournemouth,West Ham,4-1-4-1,Manuel Pellegrini,10729,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219408
+8,sáb 05/10/2019,13:30,West Ham,Crystal Palace,4-1-4-1,Manuel Pellegrini,59912,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219394
+9,sáb 19/10/2019,08:30,Everton,West Ham,4-1-4-1,Manuel Pellegrini,39263,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219393
+10,sáb 26/10/2019,11:00,West Ham,Sheff Utd,4-1-4-1,Manuel Pellegrini,59878,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219374
+11,sáb 02/11/2019,12:00,West Ham,Newcastle,4-2-3-1,Manuel Pellegrini,59907,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219367
+12,sáb 09/11/2019,12:00,FC Burnley,West Ham,4-2-3-1,Manuel Pellegrini,20255,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219368
+13,sáb 23/11/2019,09:30,West Ham,Tottenham,4-1-4-1,Manuel Pellegrini,59930,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219340
+14,sáb 30/11/2019,12:00,Chelsea,West Ham,4-4-2 duplo 6,Manuel Pellegrini,40595,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219347
+15,qua 04/12/2019,16:30,Wolves,West Ham,4-2-3-1,Manuel Pellegrini,31217,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219337
+16,seg 09/12/2019,17:00,West Ham,Arsenal,4-2-3-1,Manuel Pellegrini,59936,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219311
+17,sáb 14/12/2019,14:30,Southampton,West Ham,4-4-2 duplo 6,Manuel Pellegrini,27701,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219305
+18,qua 29/01/2020,16:45,West Ham,Liverpool,5-4-1 plano,David Moyes,59959,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219288
+19,qui 26/12/2019,12:00,Crystal Palace,West Ham,4-4-2 duplo 6,Manuel Pellegrini,25462,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219296
+20,sáb 28/12/2019,14:30,West Ham,Leicester,4-2-3-1,Manuel Pellegrini,59919,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219267
+21,qua 01/01/2020,14:30,West Ham,Bournemouth,4-2-3-1,David Moyes,59917,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219268
+22,sex 10/01/2020,17:00,Sheff Utd,West Ham,3-4-2-1,David Moyes,30124,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219256
+23,sáb 18/01/2020,12:00,West Ham,Everton,4-4-1-1,David Moyes,59915,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219241
+24,qua 22/01/2020,16:30,Leicester,West Ham,5-3-2,David Moyes,31968,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219239
+25,sáb 01/02/2020,12:00,West Ham,Brighton,4-1-4-1,David Moyes,59952,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219227
+26,qua 19/02/2020,16:30,Man City,West Ham,5-3-2,David Moyes,52159,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219229
+27,seg 24/02/2020,17:00,Liverpool,West Ham,4-2-3-1,David Moyes,53313,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219192
+28,sáb 29/02/2020,12:00,West Ham,Southampton,4-2-3-1,David Moyes,59962,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219122
+29,sáb 07/03/2020,12:00,Arsenal,West Ham,4-4-2 duplo 6,David Moyes,60335,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219112
+30,sáb 20/06/2020,13:30,West Ham,Wolves,4-2-3-1,David Moyes,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219164
+31,ter 23/06/2020,16:15,Tottenham,West Ham,4-2-3-1,David Moyes,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219159
+32,qua 01/07/2020,16:15,West Ham,Chelsea,4-2-3-1,David Moyes,,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219195
+33,dom 05/07/2020,10:15,Newcastle,West Ham,4-2-3-1,David Moyes,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219201
+34,qua 08/07/2020,14:00,West Ham,FC Burnley,4-2-3-1,David Moyes,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219114
+35,sáb 11/07/2020,08:30,Norwich,West Ham,4-2-3-1,David Moyes,x,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219148
+36,sex 17/07/2020,16:00,West Ham,Watford,4-2-3-1,David Moyes,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219126
+37,qua 22/07/2020,14:00,Man Utd,West Ham,4-2-3-1,David Moyes,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219162
+38,dom 26/07/2020,12:00,West Ham,Aston Villa,4-2-3-1,David Moyes,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219108

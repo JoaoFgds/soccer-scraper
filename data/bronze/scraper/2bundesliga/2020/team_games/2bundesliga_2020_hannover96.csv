@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 19/09/2020,08:00,Hannover,Karlsruher,4-3-1-2,Kenan Kocak,500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413183
+2,sex 25/09/2020,13:30,VfL Osnabrück,Hannover,4-3-1-2,Kenan Kocak,3200,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413193
+3,sáb 03/10/2020,08:00,Hannover,E. Braunschweig,4-4-2 duplo 6,Kenan Kocak,7300,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413200
+4,dom 18/10/2020,08:30,Paderborn,Hannover,4-4-2 duplo 6,Kenan Kocak,2258,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413208
+5,sáb 24/10/2020,08:00,Hannover,Düsseldorf,4-3-1-2,Kenan Kocak,8900,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413219
+6,dom 01/11/2020,09:30,Greuther Fürth,Hannover,4-3-1-2,Kenan Kocak,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413234
+7,sáb 07/11/2020,09:00,Hannover,Erzgebirge Aue,4-3-1-2,Kenan Kocak,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413245
+8,dom 22/11/2020,09:30,Würzb. Kickers,Hannover,4-2-3-1,Kenan Kocak,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413260
+9,dom 29/11/2020,09:30,Hannover,Holstein Kiel,3-5-2,Kenan Kocak,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413263
+10,sáb 05/12/2020,09:00,Hamburgo,Hannover,4-2-3-1,Kenan Kocak,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413281
+11,sáb 12/12/2020,09:00,Heidenheim,Hannover,3-5-2,Kenan Kocak,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413288
+12,ter 15/12/2020,14:30,Hannover,Bochum,4-2-3-1,Kenan Kocak,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413310
+13,sex 18/12/2020,14:30,J. Regensburg,Hannover,4-4-2 duplo 6,Kenan Kocak,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413318
+14,dom 03/01/2021,09:30,Hannover,Sandhausen,4-3-3 ofensivo,Kenan Kocak,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413327
+15,dom 10/01/2021,09:30,Darmstadt 98,Hannover,4-3-3 ofensivo,Kenan Kocak,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413343
+16,sáb 16/01/2021,09:00,Hannover,St. Pauli,4-1-4-1,Kenan Kocak,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413353
+17,dom 24/01/2021,09:30,Nuremberg,Hannover,4-1-4-1,Kenan Kocak,x,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413376
+18,qua 27/01/2021,16:30,Karlsruher,Hannover,4-1-4-1,Kenan Kocak,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413384
+19,seg 01/02/2021,16:30,Hannover,VfL Osnabrück,4-1-4-1,Kenan Kocak,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413398
+20,sáb 06/02/2021,09:00,E. Braunschweig,Hannover,4-1-4-1,Kenan Kocak,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413413
+21,sex 12/02/2021,14:30,Hannover,Paderborn,4-4-2 losango,Kenan Kocak,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413426
+22,dom 21/02/2021,09:30,Düsseldorf,Hannover,4-2-3-1,Kenan Kocak,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413441
+23,sáb 27/02/2021,09:00,Hannover,Greuther Fürth,4-2-3-1,Kenan Kocak,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413461
+24,sáb 06/03/2021,09:00,Erzgebirge Aue,Hannover,4-4-2 duplo 6,Kenan Kocak,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413480
+25,qui 08/04/2021,13:30,Hannover,Würzb. Kickers,4-4-2 duplo 6,Kenan Kocak,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413470
+26,seg 10/05/2021,13:00,Holstein Kiel,Hannover,3-1-4-2,Kenan Kocak,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413455
+27,dom 04/04/2021,08:30,Hannover,Hamburgo,4-2-3-1,Kenan Kocak,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413434
+28,dom 11/04/2021,08:30,Hannover,Heidenheim,4-2-3-1,Kenan Kocak,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413417
+29,dom 18/04/2021,08:30,Bochum,Hannover,4-2-3-1,Kenan Kocak,x,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413388
+30,qua 21/04/2021,13:30,Hannover,J. Regensburg,4-3-1-2,Kenan Kocak,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413364
+31,dom 25/04/2021,08:30,Sandhausen,Hannover,4-3-1-2,Kenan Kocak,x,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413335
+32,sex 07/05/2021,13:30,Hannover,Darmstadt 98,4-3-1-2,Kenan Kocak,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413300
+33,dom 16/05/2021,10:30,St. Pauli,Hannover,4-4-2 losango,Kenan Kocak,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413275
+34,dom 23/05/2021,10:30,Hannover,Nuremberg,4-4-2 losango,Kenan Kocak,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413229

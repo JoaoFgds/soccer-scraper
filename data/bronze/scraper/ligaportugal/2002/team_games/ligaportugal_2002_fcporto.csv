@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 25/08/2002,14:30,FC Porto,Belenenses,4-2-3-1,José Mourinho,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853617
+2,seg 02/09/2002,17:00,Boavista,FC Porto,4-4-2 losango,José Mourinho,9000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853652
+3,dom 15/09/2002,15:00,FC Porto,Gil Vicente,4-3-3 ofensivo,José Mourinho,21124,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853660
+4,seg 23/09/2002,17:30,Vit. Guimarães,FC Porto,4-4-2 losango,José Mourinho,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853669
+5,sáb 28/09/2002,14:00,FC Porto,Marítimo,4-3-3 ofensivo,José Mourinho,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853671
+6,seg 07/10/2002,17:00,Beira-Mar,FC Porto,4-4-2 losango,José Mourinho,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853687
+7,dom 20/10/2002,15:00,FC Porto,Benfica,4-2-3-1,José Mourinho,47000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853697
+8,sáb 26/10/2002,14:15,Leiria,FC Porto,4-2-3-1,José Mourinho,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853703
+9,seg 04/11/2002,19:30,FC Porto,Nacional,4-2-3-1,José Mourinho,,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853718
+10,sáb 09/11/2002,19:00,Vitória FC,FC Porto,4-3-3 ofensivo,José Mourinho,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853746
+11,seg 18/11/2002,19:15,Moreirense,FC Porto,4-3-3 ofensivo,José Mourinho,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853760
+12,seg 02/12/2002,19:30,FC Porto,Académica,4-2-3-1,José Mourinho,,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853769
+13,dom 08/12/2002,17:00,Santa Clara,FC Porto,4-2-3-1,José Mourinho,2000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853777
+14,seg 16/12/2002,19:30,FC Porto,Paços Ferreira,4-2-3-1,José Mourinho,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853787
+15,dom 22/12/2002,17:00,Varzim,FC Porto,4-2-3-1,José Mourinho,4000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853795
+16,dom 05/01/2003,17:00,FC Porto,Braga,4-2-3-1,José Mourinho,16221,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853805
+17,sáb 11/01/2003,17:00,Sporting,FC Porto,4-3-3 ofensivo,José Mourinho,25000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853809
+18,dom 19/01/2003,18:15,Belenenses,FC Porto,4-3-3 ofensivo,José Mourinho,10000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853828
+19,sáb 25/01/2003,16:00,FC Porto,Boavista,4-2-3-1,José Mourinho,40000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853833
+20,dom 02/02/2003,17:00,Gil Vicente,FC Porto,4-2-3-1,José Mourinho,4000,3:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853846
+21,dom 09/02/2003,18:15,FC Porto,Vit. Guimarães,4-2-3-1,José Mourinho,31614,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853857
+22,sáb 15/02/2003,19:15,Marítimo,FC Porto,4-2-3-1,José Mourinho,9000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853859
+23,dom 23/02/2003,16:00,FC Porto,Beira-Mar,4-2-3-1,José Mourinho,21014,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853872
+24,ter 04/03/2003,18:15,Benfica,FC Porto,4-3-3 ofensivo,José Mourinho,54000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853884
+25,dom 16/03/2003,15:00,FC Porto,Leiria,4-3-3 ofensivo,José Mourinho,25000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853891
+26,seg 24/03/2003,16:15,Nacional,FC Porto,4-3-3 ofensivo,José Mourinho,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853901
+27,dom 06/04/2003,16:30,FC Porto,Vitória FC,4-2-3-1,José Mourinho,20000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853910
+28,sáb 19/04/2003,14:00,FC Porto,Moreirense,4-2-3-1,José Mourinho,22200,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853916
+29,seg 28/04/2003,17:15,Académica,FC Porto,4-4-2 losango,José Mourinho,7000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853929
+30,dom 04/05/2003,15:15,FC Porto,Santa Clara,4-2-3-1,José Mourinho,42318,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853946
+31,dom 11/05/2003,15:30,Paços Ferreira,FC Porto,4-3-3 ofensivo,José Mourinho,5000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853966
+32,sáb 17/05/2003,15:00,FC Porto,Varzim,4-3-3 ofensivo,José Mourinho,25000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853969
+33,dom 25/05/2003,12:00,Braga,FC Porto,4-4-2 losango,José Mourinho,6000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853979
+34,dom 01/06/2003,12:00,FC Porto,Sporting,4-3-3 ofensivo,José Mourinho,42141,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853991

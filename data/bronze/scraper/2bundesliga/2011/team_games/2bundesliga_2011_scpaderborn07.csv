@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 17/07/2011,10:30,Hansa Rostock,Paderborn,4-2-3-1,Roger Schmidt,19000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121027
+2,dom 24/07/2011,10:30,Paderborn,Düsseldorf,4-2-3-1,Roger Schmidt,11014,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121335
+3,sex 05/08/2011,13:00,Union Berlim,Paderborn,4-4-2 duplo 6,Roger Schmidt,13378,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121343
+4,sáb 13/08/2011,08:00,Paderborn,Greuther Fürth,4-2-3-1,Roger Schmidt,6174,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121352
+5,dom 21/08/2011,08:30,Dynamo Dresden,Paderborn,4-2-3-1,Roger Schmidt,25296,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121364
+6,dom 28/08/2011,08:30,Frankfurt,Paderborn,4-4-2 duplo 6,Roger Schmidt,34200,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121365
+7,sex 09/09/2011,13:00,Paderborn,Alem. Aachen,4-4-2 duplo 6,Roger Schmidt,7236,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121379
+8,dom 18/09/2011,08:30,Bochum,Paderborn,4-4-2 duplo 6,Roger Schmidt,10407,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121384
+9,sex 23/09/2011,13:00,Paderborn,Ingolstadt,4-4-2 duplo 6,Roger Schmidt,6951,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121397
+10,dom 02/10/2011,08:30,MSV Duisburg,Paderborn,4-4-2 duplo 6,Roger Schmidt,11327,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121404
+11,sex 14/10/2011,13:00,Paderborn,E. Braunschweig,4-2-3-1,Roger Schmidt,12298,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121415
+12,sex 21/10/2011,14:00,1860 Munique,Paderborn,4-4-2 duplo 6,Roger Schmidt,15100,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121424
+13,sáb 29/10/2011,09:00,Paderborn,Erzgebirge Aue,4-4-2 duplo 6,Roger Schmidt,7000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121432
+14,dom 06/11/2011,10:30,Energ. Cottbus,Paderborn,4-4-2 duplo 6,Roger Schmidt,8725,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121439
+15,sex 18/11/2011,15:00,Paderborn,Karlsruher,4-4-2 duplo 6,Roger Schmidt,8058,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121451
+16,sex 25/11/2011,15:00,FSV Frankfurt,Paderborn,4-4-2 duplo 6,Roger Schmidt,2826,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121460
+17,sex 02/12/2011,15:00,Paderborn,St. Pauli,4-2-3-1,Roger Schmidt,15001,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121470
+18,sex 09/12/2011,15:00,Paderborn,Hansa Rostock,4-2-3-1,Roger Schmidt,7658,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121477
+19,sex 16/12/2011,15:00,Düsseldorf,Paderborn,4-5-1,Roger Schmidt,28000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121488
+20,sex 03/02/2012,15:00,Paderborn,Union Berlim,4-4-2 duplo 6,Roger Schmidt,7549,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121496
+21,dom 12/02/2012,10:30,Greuther Fürth,Paderborn,4-4-2 duplo 6,Roger Schmidt,9230,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121505
+22,sex 17/02/2012,15:00,Paderborn,Dynamo Dresden,4-4-2 duplo 6,Roger Schmidt,8066,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121517
+23,dom 26/02/2012,09:30,Paderborn,Frankfurt,4-2-3-1,Roger Schmidt,15001,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121518
+24,sáb 03/03/2012,09:00,Alem. Aachen,Paderborn,4-2-3-1,Roger Schmidt,15079,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121532
+25,sex 09/03/2012,14:00,Paderborn,Bochum,4-2-3-1,Roger Schmidt,13202,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121537
+26,sáb 17/03/2012,09:00,Ingolstadt,Paderborn,4-2-3-1,Roger Schmidt,6500,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121550
+27,dom 25/03/2012,08:30,Paderborn,MSV Duisburg,4-2-3-1,Roger Schmidt,12178,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121557
+28,sex 30/03/2012,13:00,E. Braunschweig,Paderborn,4-4-2 duplo 6,Roger Schmidt,20350,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121568
+29,dom 08/04/2012,08:30,Paderborn,1860 Munique,4-4-2,Roger Schmidt,11000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121577
+30,qua 11/04/2012,12:30,Erzgebirge Aue,Paderborn,4-2-3-1,Roger Schmidt,7230,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121585
+31,dom 15/04/2012,08:30,Paderborn,Energ. Cottbus,4-2-3-1,Roger Schmidt,10363,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121592
+32,dom 22/04/2012,08:30,Karlsruher,Paderborn,4-2-3-1,Roger Schmidt,14112,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121604
+33,dom 29/04/2012,08:30,Paderborn,FSV Frankfurt,4-4-1-1,Roger Schmidt,14668,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121613
+34,dom 06/05/2012,08:30,St. Pauli,Paderborn,4-2-3-1,Roger Schmidt,24487,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121623

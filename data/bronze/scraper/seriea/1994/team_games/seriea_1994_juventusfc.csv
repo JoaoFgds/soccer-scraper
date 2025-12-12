@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 04/09/1994,11:00,Brescia,Juventus,3-4-1-2,Marcello Lippi,23588,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215445
+2,dom 11/09/1994,11:00,Juventus,Bari,3-4-1-2,Marcello Lippi,42067,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215452
+3,dom 18/09/1994,15:30,Napoli,Juventus,3-4-3 plano,Marcello Lippi,65060,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215465
+4,dom 25/09/1994,11:00,Juventus,Sampdoria,3-4-3 plano,Marcello Lippi,51299,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215474
+5,dom 02/10/1994,16:30,Juventus,Inter,3-4-1-2,Marcello Lippi,52001,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215483
+6,dom 16/10/1994,12:00,Foggia,Juventus,3-5-2 plano,Marcello Lippi,20142,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215488
+7,dom 23/10/1994,11:30,Cremonese,Juventus,3-4-1-2,Marcello Lippi,16853,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215500
+8,dom 30/10/1994,11:30,Juventus,Milan,3-4-1-2,Marcello Lippi,60429,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215510
+9,qua 25/01/1995,17:30,Torino,Juventus,4-3-3 ofensivo,Marcello Lippi,41201,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215519
+10,dom 20/11/1994,11:30,Juventus,Reggiana,3-4-1-2,Marcello Lippi,39208,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215525
+11,dom 27/11/1994,11:30,Padova,Juventus,3-4-3 plano,Marcello Lippi,21710,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215536
+12,dom 04/12/1994,11:30,Juventus,Florenz,3-4-3 plano,Marcello Lippi,54325,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215543
+13,dom 11/12/1994,17:30,Lazio,Juventus,4-3-3 ofensivo,Marcello Lippi,60696,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215555
+14,dom 18/12/1994,12:15,Juventus,Genoa,3-4-3 plano,Marcello Lippi,40750,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215557
+15,dom 08/01/1995,11:30,AC Parma,Juventus,4-3-3 ofensivo,Marcello Lippi,27102,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215570
+16,dom 15/01/1995,11:30,Juventus,Roma,4-3-3 ofensivo,Marcello Lippi,54130,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215574
+17,dom 22/01/1995,11:30,Cagliari,Juventus,4-3-3 ofensivo,Marcello Lippi,27963,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215589
+18,dom 29/01/1995,11:30,Juventus,Brescia,4-3-3 ofensivo,Marcello Lippi,39833,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215594
+19,dom 12/02/1995,12:00,Bari,Juventus,4-3-3 ofensivo,Marcello Lippi,55362,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215605
+20,dom 19/02/1995,11:00,Juventus,Napoli,4-3-3 ofensivo,Marcello Lippi,44509,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215618
+21,dom 26/02/1995,16:30,Sampdoria,Juventus,4-3-3 ofensivo,Marcello Lippi,32099,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215620
+22,dom 05/03/1995,11:00,Inter,Juventus,4-3-3 ofensivo,Marcello Lippi,76107,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215628
+23,dom 12/03/1995,11:00,Juventus,Foggia,4-3-1-2,Marcello Lippi,44031,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215642
+24,dom 19/03/1995,11:00,Juventus,Cremonese,4-3-3 ofensivo,Marcello Lippi,41362,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215652
+25,sáb 01/04/1995,15:30,Milan,Juventus,4-3-3 ofensivo,Marcello Lippi,81550,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215659
+26,dom 09/04/1995,11:00,Juventus,Torino,4-3-3 ofensivo,Marcello Lippi,43791,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215665
+27,sáb 15/04/1995,11:00,Reggiana,Juventus,4-3-3 ofensivo,Marcello Lippi,22662,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215673
+28,dom 23/04/1995,11:00,Juventus,Padova,4-3-3 ofensivo,Marcello Lippi,40308,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215682
+29,sáb 29/04/1995,11:00,Florenz,Juventus,4-3-3 ofensivo,Marcello Lippi,42512,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215691
+30,dom 07/05/1995,11:00,Juventus,Lazio,4-3-3 ofensivo,Marcello Lippi,45189,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215700
+31,sáb 13/05/1995,11:00,Genoa,Juventus,4-3-3 ofensivo,Marcello Lippi,29193,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215710
+32,dom 21/05/1995,11:00,Juventus,AC Parma,4-3-3 ofensivo,Marcello Lippi,58302,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215719
+33,dom 28/05/1995,11:30,Roma,Juventus,4-3-3 ofensivo,Marcello Lippi,67618,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215727
+34,dom 04/06/1995,11:30,Juventus,Cagliari,4-3-3 ofensivo,Marcello Lippi,50572,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215738

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 01/08/2014,15:00,AC Arles-Avignon,AC Ajaccio,4-3-3 defensivo,Christian Bracconi,1428,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2477747
+2,sáb 09/08/2014,13:00,AC Ajaccio,FC Sochaux,4-3-3 defensivo,Christian Bracconi,4077,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2481158
+3,seg 18/08/2014,15:00,G. Ajaccio,AC Ajaccio,4-3-3 defensivo,Christian Bracconi,3007,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2484023
+4,sex 22/08/2014,15:00,AC Ajaccio,Tours FC,4-3-3 defensivo,Christian Bracconi,3655,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2486937
+5,sex 29/08/2014,15:00,Stade Lavallois,AC Ajaccio,4-2-3-1,Christian Bracconi,5016,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2486948
+6,sex 12/09/2014,15:00,AC Ajaccio,LB Châteauroux,4-3-3 defensivo,Christian Bracconi,4321,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2490413
+7,sex 19/09/2014,15:00,Auxerre,AC Ajaccio,4-3-3 defensivo,Christian Bracconi,4968,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2490422
+8,ter 23/09/2014,15:55,AC Ajaccio,Le Havre,4-2-3-1,Christian Bracconi,4119,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2490432
+9,sex 26/09/2014,15:00,US Créteil-L,AC Ajaccio,4-3-3 defensivo,Christian Bracconi,2304,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2495648
+10,sex 03/10/2014,15:00,AC Ajaccio,Chamois Niort,4-2-3-1,Christian Bracconi,4107,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2495659
+11,sex 17/10/2014,15:00,Clermont Foot,AC Ajaccio,4-2-3-1,Christian Bracconi,3783,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2501074
+12,sex 24/10/2014,16:00,AC Ajaccio,Valenciennes,4-3-3 defensivo,Thierry Debès,4234,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2501081
+13,sex 31/10/2014,17:00,Dijon,AC Ajaccio,4-3-1-2,Thierry Debès,9160,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2502489
+14,sex 07/11/2014,17:00,AC Ajaccio,Troyes,4-3-3 defensivo,Olivier Pantaloni,4133,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2507082
+15,sex 21/11/2014,17:00,AC Ajaccio,Angers,4-4-2 losango,Olivier Pantaloni,4147,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2507092
+16,sex 28/11/2014,17:00,US Orléans,AC Ajaccio,4-4-2 duplo 6,Olivier Pantaloni,3892,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2507109
+17,sex 12/12/2014,17:00,AC Ajaccio,AS Nancy,4-3-3 defensivo,Olivier Pantaloni,4046,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2511725
+18,sáb 20/12/2014,11:00,Brest,AC Ajaccio,4-2-3-1,Olivier Pantaloni,7318,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2511728
+19,sex 09/01/2015,17:00,AC Ajaccio,Nîmes Olympique,4-4-2,Olivier Pantaloni,4060,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2520766
+20,sáb 17/01/2015,11:00,FC Sochaux,AC Ajaccio,4-2-3-1,Olivier Pantaloni,7896,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2520770
+21,sex 23/01/2015,17:00,AC Ajaccio,G. Ajaccio,4-2-3-1,Olivier Pantaloni,6525,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2520789
+22,sex 30/01/2015,17:00,Tours FC,AC Ajaccio,4-3-3 defensivo,Olivier Pantaloni,3776,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2520791
+23,sex 06/02/2015,17:00,AC Ajaccio,Stade Lavallois,4-2-3-1,Olivier Pantaloni,3980,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2520810
+24,sex 13/02/2015,17:00,LB Châteauroux,AC Ajaccio,4-2-3-1,Olivier Pantaloni,4797,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2535720
+25,sex 20/02/2015,17:00,AC Ajaccio,Auxerre,4-2-3-1,Olivier Pantaloni,4076,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2536868
+26,sex 27/02/2015,16:00,Le Havre,AC Ajaccio,4-2-3-1,Olivier Pantaloni,5676,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2535739
+27,sex 06/03/2015,16:00,AC Ajaccio,US Créteil-L,4-4-2 duplo 6,Olivier Pantaloni,3523,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2538818
+28,sex 13/03/2015,16:00,Chamois Niort,AC Ajaccio,4-4-2 duplo 6,Olivier Pantaloni,4188,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2538834
+29,sex 20/03/2015,16:00,AC Ajaccio,Clermont Foot,4-2-3-1,Olivier Pantaloni,4028,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2538838
+30,sex 03/04/2015,15:00,Valenciennes,AC Ajaccio,4-2-3-1,Olivier Pantaloni,7098,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547628
+31,sex 10/04/2015,15:00,AC Ajaccio,Dijon,4-2-3-1,Olivier Pantaloni,4062,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547633
+32,sex 17/04/2015,15:00,Troyes,AC Ajaccio,4-3-2-1,Olivier Pantaloni,8375,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547649
+33,sex 24/04/2015,15:00,Angers,AC Ajaccio,4-2-3-1,Olivier Pantaloni,10645,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547651
+34,ter 28/04/2015,15:30,AC Ajaccio,US Orléans,4-2-3-1,Olivier Pantaloni,4138,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547661
+35,sex 01/05/2015,15:00,AS Nancy,AC Ajaccio,4-2-3-1,Olivier Pantaloni,15552,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547677
+36,sex 08/05/2015,15:00,AC Ajaccio,Brest,4-3-2-1,Olivier Pantaloni,3744,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547681
+37,sex 15/05/2015,15:30,Nîmes Olympique,AC Ajaccio,4-3-2-1,Olivier Pantaloni,4327,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547698
+38,sex 22/05/2015,15:30,AC Ajaccio,AC Arles-Avignon,4-3-2-1,Olivier Pantaloni,4492,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547702

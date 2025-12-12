@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 11/08/1990,10:30,M'gladbach,Bochum,3-4-2-1,Reinhard Saftig,14500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15330
+2,sáb 18/08/1990,10:30,Bochum,Colônia,3-4-2-1,Reinhard Saftig,20000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15336
+3,sex 24/08/1990,15:00,Hamburgo,Bochum,3-4-2-1,Reinhard Saftig,16900,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15342
+4,sáb 01/09/1990,10:30,Bochum,Frankfurt,3-5-2,Reinhard Saftig,18500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15352
+5,sex 07/09/1990,15:00,Dortmund,Bochum,3-4-2-1,Reinhard Saftig,35789,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15360
+6,sáb 15/09/1990,10:30,Bochum,Hertha Berlim,3-4-2-1,Reinhard Saftig,14000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15375
+7,sáb 22/09/1990,10:30,Bayern,Bochum,3-5-2,Reinhard Saftig,29000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15378
+8,sáb 29/09/1990,10:30,Bochum,Nuremberg,3-4-3 plano,Reinhard Saftig,18000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15393
+9,sex 05/10/1990,16:00,Bayer 05,Bochum,3-4-2-1,Reinhard Saftig,11200,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15394
+10,sáb 13/10/1990,11:30,Bochum,Leverkusen,3-4-2-1,Reinhard Saftig,16541,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15408
+11,sex 19/10/1990,16:00,St. Pauli,Bochum,3-4-3 plano,Reinhard Saftig,20450,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15414
+12,sex 26/10/1990,17:00,Bochum,Stuttgart,5-4-1,Reinhard Saftig,17501,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15422
+13,sáb 10/11/1990,12:30,Karlsruher,Bochum,3-4-3 plano,Reinhard Saftig,12000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15438
+14,sáb 17/11/1990,12:30,Bochum,K'lautern,3-4-2-1,Reinhard Saftig,14000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15442
+15,sáb 01/12/1990,12:30,Bochum,Düsseldorf,3-4-3 plano,Reinhard Saftig,13500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15456
+16,sáb 08/12/1990,12:30,Wattenscheid 09,Bochum,3-4-2-1,Reinhard Saftig,33300,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15464
+17,sex 14/12/1990,17:00,Bochum,Werder Bremen,3-4-2-1,Reinhard Saftig,13500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15466
+18,sáb 23/02/1991,11:30,Bochum,M'gladbach,3-4-2-1,Reinhard Saftig,24103,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15478
+19,sáb 02/03/1991,11:30,Colônia,Bochum,3-4-2-1,Reinhard Saftig,15000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15489
+20,sáb 09/03/1991,11:30,Bochum,Hamburgo,3-4-2-1,Reinhard Saftig,17500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15498
+21,sáb 16/03/1991,11:30,Frankfurt,Bochum,3-4-1-2,Reinhard Saftig,21000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15506
+22,sáb 23/03/1991,11:30,Bochum,Dortmund,3-4-2-1,Reinhard Saftig,32000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15517
+23,ter 02/04/1991,15:00,Hertha Berlim,Bochum,3-4-2-1,Reinhard Saftig,7052,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15525
+24,sáb 06/04/1991,10:30,Bochum,Bayern,3-4-2-1,Reinhard Saftig,40051,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15533
+25,sáb 13/04/1991,10:30,Nuremberg,Bochum,5-4-1 plano,Reinhard Saftig,15800,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15546
+26,ter 16/04/1991,15:00,Bochum,Bayer 05,3-1-4-2,Reinhard Saftig,11000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15549
+27,sáb 20/04/1991,10:30,Leverkusen,Bochum,3-1-4-2,Reinhard Saftig,10800,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15561
+28,sex 03/05/1991,15:00,Bochum,St. Pauli,4-4-2 duplo 6,Rolf Schafstall,12500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15566
+29,sex 10/05/1991,15:00,Stuttgart,Bochum,3-4-2-1,Rolf Schafstall,15000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15574
+30,sáb 18/05/1991,10:30,Bochum,Karlsruher,3-4-1-2,Rolf Schafstall,11670,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15591
+31,sex 24/05/1991,15:00,K'lautern,Bochum,3-4-2-1,Rolf Schafstall,38000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15592
+32,sex 31/05/1991,15:00,Düsseldorf,Bochum,3-5-2,Rolf Schafstall,11000,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15603
+33,sáb 08/06/1991,10:30,Bochum,Wattenscheid 09,3-4-2-1,Rolf Schafstall,25000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15617
+34,sáb 15/06/1991,10:30,Werder Bremen,Bochum,3-5-2,Rolf Schafstall,14492,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15621

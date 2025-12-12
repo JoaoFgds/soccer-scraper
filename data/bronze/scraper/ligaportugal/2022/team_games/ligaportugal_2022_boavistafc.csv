@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 07/08/2022,16:30,Portimonense,Boavista,3-4-3 plano,Petit,2590,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869046
+2,dom 14/08/2022,11:30,Boavista,Santa Clara,3-4-3 plano,Petit,5520,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869058
+3,dom 21/08/2022,11:30,Casa Pia,Boavista,3-4-3 plano,Petit,1136,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869062
+4,sáb 27/08/2022,14:00,Boavista,Benfica,3-5-2,Petit,10939,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869113
+5,seg 05/09/2022,15:00,Boavista,Paços Ferreira,3-4-3 plano,Petit,4831,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869076
+6,dom 11/09/2022,14:00,Arouca,Boavista,3-4-3 plano,Petit,1395,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869088
+7,sáb 17/09/2022,16:30,Boavista,Sporting,3-4-3 plano,Petit,8480,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869095
+8,dom 02/10/2022,16:30,Famalicão,Boavista,3-4-3 plano,Petit,3783,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869123
+9,dom 09/10/2022,11:30,Boavista,Marítimo,3-4-3 plano,Petit,11295,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869104
+10,dom 23/10/2022,16:30,Vit. Guimarães,Boavista,3-4-3 plano,Petit,11359,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869129
+11,dom 30/10/2022,12:30,Boavista,Vizela,4-2-3-1,Petit,5764,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869348
+12,dom 06/11/2022,12:30,Rio Ave,Boavista,3-4-3 plano,Petit,2546,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869192
+13,sáb 12/11/2022,17:30,Boavista,FC Porto,3-4-3 plano,Petit,11335,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869141
+14,qui 09/02/2023,15:00,Estoril,Boavista,4-3-3 ofensivo,Petit,956,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869150
+15,dom 08/01/2023,17:30,Boavista,Gil Vicente,3-4-3 plano,Nuno Pereira,3845,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869159
+16,sáb 14/01/2023,17:30,Braga,Boavista,4-1-4-1,Petit,12357,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869249
+17,seg 23/01/2023,17:15,Boavista,Chaves,4-1-4-1,Petit,4011,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869185
+18,dom 29/01/2023,15:00,Boavista,Portimonense,4-1-4-1,Petit,4371,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869170
+19,sáb 04/02/2023,12:30,Santa Clara,Boavista,4-2-3-1,Petit,1680,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869176
+20,seg 13/02/2023,18:15,Boavista,Casa Pia,4-2-3-1,Petit,3575,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869207
+21,seg 20/02/2023,18:15,Benfica,Boavista,4-1-4-1,Petit,56413,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869222
+22,dom 26/02/2023,15:00,Paços Ferreira,Boavista,4-1-4-1,Petit,5406,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869266
+23,sex 03/03/2023,16:00,Boavista,Arouca,4-3-3 ofensivo,Petit,4689,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869278
+24,dom 12/03/2023,17:30,Sporting,Boavista,4-1-4-1,Petit,27535,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869339
+25,dom 19/03/2023,17:30,Boavista,Famalicão,4-2-3-1,Petit,5530,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869205
+26,dom 02/04/2023,11:30,Marítimo,Boavista,4-4-2,Petit,9679,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869285
+27,sex 07/04/2023,16:30,Boavista,Vit. Guimarães,4-2-3-1,Petit,5756,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869292
+28,seg 17/04/2023,16:15,Vizela,Boavista,4-3-3 ofensivo,Petit,3403,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869240
+29,sáb 22/04/2023,14:00,Boavista,Rio Ave,4-1-4-1,Petit,6260,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869228
+30,dom 30/04/2023,14:00,FC Porto,Boavista,4-2-3-1,Petit,47925,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869303
+31,sáb 06/05/2023,14:00,Boavista,Estoril,4-1-4-1,Petit,5379,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869313
+32,sex 12/05/2023,16:15,Gil Vicente,Boavista,4-1-4-1,Petit,3265,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869330
+33,sáb 20/05/2023,14:00,Boavista,Braga,4-2-3-1,Nuno Pereira,9265,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869321
+34,sáb 27/05/2023,11:30,Chaves,Boavista,4-1-4-1,Petit,3135,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869257

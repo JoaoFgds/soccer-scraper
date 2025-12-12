@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/09/2020,13:00,Vizela,UD Oliveirense,4-2-3-1,Álvaro Pacheco,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431527
+2,sáb 19/09/2020,13:00,FC Porto B,Vizela,4-2-3-1,Álvaro Pacheco,,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431487
+3,ter 22/09/2020,14:00,Vizela,Covilhã,4-1-4-1,Álvaro Pacheco,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431624
+4,dom 27/09/2020,11:30,Casa Pia,Vizela,4-1-4-1,Álvaro Pacheco,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431474
+5,seg 05/10/2020,15:45,Vizela,Chaves,4-1-4-1,Álvaro Pacheco,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431617
+6,sáb 17/10/2020,11:00,Mafra,Vizela,4-2-3-1,Álvaro Pacheco,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431482
+7,sáb 24/10/2020,07:00,Vizela,Académica,4-1-4-1,Álvaro Pacheco,,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431576
+8,dom 01/11/2020,12:00,Arouca,Vizela,4-2-3-1,Álvaro Pacheco,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431658
+9,sáb 07/11/2020,14:30,Vizela,Leixões,4-2-3-1,Álvaro Pacheco,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431644
+10,dom 29/11/2020,11:00,Estoril,Vizela,4-2-3-1,Álvaro Pacheco,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431511
+11,sáb 05/12/2020,14:00,Vizela,Académico FC,4-1-4-1,Álvaro Pacheco,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431682
+12,dom 20/12/2020,12:00,Benfica B,Vizela,4-2-3-1,Álvaro Pacheco,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431698
+13,ter 29/12/2020,14:00,Vizela,Varzim,4-1-4-1,Álvaro Pacheco,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431676
+14,dom 03/01/2021,12:00,Feirense,Vizela,4-1-4-1,Álvaro Pacheco,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431607
+15,dom 10/01/2021,14:00,Vizela,Cova da Piedade,?,Álvaro Pacheco,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431525
+16,sáb 16/01/2021,14:00,Vizela,Penafiel,4-1-4-1,Álvaro Pacheco,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431653
+17,ter 26/01/2021,12:00,Vilafranquense,Vizela,?,Álvaro Pacheco,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431764
+18,sáb 30/01/2021,14:00,UD Oliveirense,Vizela,?,Álvaro Pacheco,,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431666
+19,dom 07/02/2021,08:15,Vizela,FC Porto B,?,Álvaro Pacheco,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431665
+20,sáb 13/02/2021,14:00,Covilhã,Vizela,?,Álvaro Pacheco,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431643
+21,sáb 20/02/2021,14:00,Vizela,Casa Pia,?,Álvaro Pacheco,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431554
+22,sex 26/02/2021,15:30,Chaves,Vizela,?,Álvaro Pacheco,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431675
+23,sáb 06/03/2021,08:00,Vizela,Mafra,4-1-4-1,Álvaro Pacheco,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431651
+24,sáb 13/03/2021,08:00,Académica,Vizela,4-1-4-1,Álvaro Pacheco,,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431542
+25,dom 21/03/2021,11:00,Vizela,Arouca,4-1-4-1,Álvaro Pacheco,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431693
+26,seg 29/03/2021,15:00,Leixões,Vizela,4-1-4-1,Álvaro Pacheco,,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431691
+27,sáb 03/04/2021,07:00,Vizela,Estoril,4-1-4-1,Álvaro Pacheco,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431573
+28,seg 12/04/2021,14:00,Académico FC,Vizela,4-1-4-1,Álvaro Pacheco,,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431671
+29,seg 19/04/2021,16:00,Vizela,Benfica B,4-1-4-1,Álvaro Pacheco,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431630
+30,sáb 24/04/2021,13:30,Varzim,Vizela,4-1-4-1,Álvaro Pacheco,,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431704
+31,dom 02/05/2021,10:00,Vizela,Feirense,4-1-4-1,Álvaro Pacheco,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431600
+32,dom 09/05/2021,10:00,Cova da Piedade,Vizela,4-1-4-1,Álvaro Pacheco,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431673
+33,dom 16/05/2021,10:00,Penafiel,Vizela,4-1-4-1,Álvaro Pacheco,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431702
+34,sáb 22/05/2021,14:00,Vizela,Vilafranquense,4-1-4-1,Álvaro Pacheco,,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431618

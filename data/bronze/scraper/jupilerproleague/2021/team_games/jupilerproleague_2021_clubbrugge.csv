@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 25/07/2021,11:00,Club Brugge,KAS Eupen,4-3-3 ofensivo,Philippe Clement,9500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598092
+2,dom 01/08/2021,08:30,Union SG,Club Brugge,4-4-1-1,Philippe Clement,3000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598142
+3,sex 06/08/2021,15:45,Club Brugge,Cercle Brügge,5-3-2,Philippe Clement,10000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598110
+4,dom 15/08/2021,16:00,Zulte Waregem,Club Brugge,5-3-2,Philippe Clement,4580,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598106
+5,dom 22/08/2021,13:30,Club Brugge,Beerschot VA,5-3-2,Philippe Clement,24000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598146
+6,dom 29/08/2021,08:30,KAA Gent,Club Brugge,5-3-2,Philippe Clement,16000,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598129
+7,sex 10/09/2021,15:45,Club Brugge,KV Oostende,4-3-3 ofensivo,Philippe Clement,26000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598119
+8,sáb 18/09/2021,15:45,R Charleroi SC,Club Brugge,4-3-3 ofensivo,Philippe Clement,8554,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598198
+9,sex 24/09/2021,15:45,Club Brugge,OH Leuven,4-3-2-1,Philippe Clement,26000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598182
+10,dom 03/10/2021,08:30,Anderlecht,Club Brugge,4-3-3 ofensivo,Philippe Clement,19500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598200
+11,sex 15/10/2021,15:45,Club Brugge,KV Kortrijk,4-3-3 ofensivo,Philippe Clement,26352,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598164
+12,dom 24/10/2021,08:30,Antuérpia,Club Brugge,4-1-4-1,Philippe Clement,15734,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598211
+13,sáb 30/10/2021,15:45,St.Truiden,Club Brugge,4-2-3-1,Philippe Clement,6000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598223
+14,dom 07/11/2021,09:30,Club Brugge,Standard Liège,4-1-4-1,Philippe Clement,26305,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598155
+15,sex 19/11/2021,16:45,KV Mechelen,Club Brugge,4-3-3 ofensivo,Philippe Clement,16254,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598232
+16,dom 28/11/2021,09:30,KRC Genk,Club Brugge,4-1-4-1,Philippe Clement,18173,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598236
+17,sáb 04/12/2021,16:45,Club Brugge,RFC Seraing,4-3-3 ofensivo,Philippe Clement,23800,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598397
+18,dom 12/12/2021,17:00,Club Brugge,Zulte Waregem,4-3-3 ofensivo,Philippe Clement,16322,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598308
+19,qua 15/12/2021,17:00,OH Leuven,Club Brugge,4-3-3 ofensivo,Philippe Clement,8643,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598267
+20,dom 19/12/2021,09:30,Club Brugge,Anderlecht,4-3-3 ofensivo,Philippe Clement,28000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598313
+21,dom 26/12/2021,09:30,Cercle Brügge,Club Brugge,4-3-3 ofensivo,Philippe Clement,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598247
+22,sáb 15/01/2022,16:45,Club Brugge,St.Truiden,3-5-2,Alfred Schreuder,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598290
+23,dom 23/01/2022,09:30,Standard Liège,Club Brugge,3-5-2,Alfred Schreuder,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598310
+24,qui 27/01/2022,16:45,Club Brugge,Union SG,3-4-3 plano,Alfred Schreuder,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598316
+25,dom 30/01/2022,17:00,KV Kortrijk,Club Brugge,3-5-2,Alfred Schreuder,6214,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598326
+26,dom 06/02/2022,09:30,Club Brugge,KAA Gent,5-3-2,Alfred Schreuder,14647,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598315
+27,dom 13/02/2022,14:30,Club Brugge,R Charleroi SC,3-5-2,Alfred Schreuder,15358,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598254
+28,dom 20/02/2022,12:00,KAS Eupen,Club Brugge,3-5-2,Alfred Schreuder,3087,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598288
+29,dom 27/02/2022,09:30,Club Brugge,Antuérpia,3-5-2,Alfred Schreuder,23157,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598309
+30,sáb 05/03/2022,16:45,RFC Seraing,Club Brugge,3-5-2,Alfred Schreuder,4150,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598276
+31,sáb 12/03/2022,16:45,KV Oostende,Club Brugge,3-5-2,Alfred Schreuder,6402,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598307
+32,dom 20/03/2022,09:30,Club Brugge,KRC Genk,3-5-2,Alfred Schreuder,21496,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598317
+33,sex 01/04/2022,15:45,Beerschot VA,Club Brugge,3-5-2,Alfred Schreuder,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598384
+34,dom 10/04/2022,13:30,Club Brugge,KV Mechelen,3-5-2,Alfred Schreuder,21802,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598311

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 08/08/2021,11:30,Vit. Guimarães,Portimonense,4-1-4-1,Paulo Sérgio,8824,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621350
+2,dom 15/08/2021,11:30,Portimonense,Gil Vicente,4-1-4-1,Paulo Sérgio,717,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621362
+3,dom 22/08/2021,11:30,CD Tondela,Portimonense,4-1-4-1,Paulo Sérgio,906,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621370
+4,dom 29/08/2021,16:30,Portimonense,Paços Ferreira,4-1-4-1,Paulo Sérgio,1098,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621380
+5,dom 12/09/2021,14:00,Boavista,Portimonense,4-3-3 ofensivo,Paulo Sérgio,2416,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621390
+6,sex 17/09/2021,16:15,Portimonense,Santa Clara,4-1-4-1,Paulo Sérgio,942,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621406
+7,dom 26/09/2021,16:30,Portimonense,Vizela,4-3-3 ofensivo,Paulo Sérgio,1627,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621400
+8,dom 03/10/2021,14:00,Benfica,Portimonense,3-5-2,Paulo Sérgio,38845,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621420
+9,dom 24/10/2021,16:30,Portimonense,Estoril,4-3-3 ofensivo,Paulo Sérgio,1340,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621435
+10,seg 01/11/2021,16:00,Braga,Portimonense,4-2-3-1,Paulo Sérgio,6393,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621412
+11,sáb 06/11/2021,15:00,Portimonense,B SAD,4-2-3-1,Paulo Sérgio,1185,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621480
+12,sáb 27/11/2021,12:30,Famalicão,Portimonense,4-1-4-1,Paulo Sérgio,3111,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621441
+13,sex 03/12/2021,16:00,Portimonense,FC Porto,3-4-3 plano,Paulo Sérgio,1585,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621489
+14,dom 12/12/2021,12:30,Moreirense,Portimonense,3-4-3 plano,Paulo Sérgio,820,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621459
+15,sáb 18/12/2021,12:30,Portimonense,Arouca,4-3-3 ofensivo,Paulo Sérgio,764,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621497
+16,qua 29/12/2021,18:00,Sporting,Portimonense,4-2-3-1,Paulo Sérgio,21038,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621464
+17,dom 09/01/2022,12:30,Portimonense,Marítimo,4-2-3-1,Paulo Sérgio,486,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621452
+18,seg 17/01/2022,17:15,Portimonense,Vit. Guimarães,4-2-3-1,Paulo Sérgio,729,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621503
+19,dom 23/01/2022,15:00,Gil Vicente,Portimonense,4-2-3-1,Paulo Sérgio,2233,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621635
+20,dom 30/01/2022,12:30,Portimonense,CD Tondela,4-3-3 ofensivo,Paulo Sérgio,848,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621514
+21,sáb 05/02/2022,15:00,Paços Ferreira,Portimonense,3-4-3 plano,Paulo Sérgio,2243,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621533
+22,sáb 12/02/2022,15:00,Portimonense,Boavista,4-2-3-1,Paulo Sérgio,1167,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621525
+23,seg 21/02/2022,17:15,Santa Clara,Portimonense,4-2-3-1,Paulo Sérgio,1203,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621550
+24,dom 27/02/2022,12:30,Vizela,Portimonense,4-3-3 ofensivo,Paulo Sérgio,3895,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621643
+25,sáb 05/03/2022,15:00,Portimonense,Benfica,3-5-2 plano,Paulo Sérgio,3880,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621573
+26,sáb 12/03/2022,12:30,Estoril,Portimonense,4-2-3-1,Paulo Sérgio,1378,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621619
+27,dom 20/03/2022,17:00,Portimonense,Braga,4-3-3 ofensivo,Paulo Sérgio,894,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621538
+28,sáb 02/04/2022,11:30,B SAD,Portimonense,3-4-3 plano,Paulo Sérgio,1409,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621637
+29,dom 10/04/2022,11:30,Portimonense,Famalicão,3-4-3 plano,Paulo Sérgio,1244,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621602
+30,sáb 16/04/2022,16:30,FC Porto,Portimonense,3-4-3 plano,Paulo Sérgio,48109,7:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621651
+31,sáb 23/04/2022,11:30,Portimonense,Moreirense,4-2-3-1,Paulo Sérgio,990,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621613
+32,sáb 30/04/2022,11:00,Arouca,Portimonense,4-2-3-1,Paulo Sérgio,1791,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621629
+33,sáb 07/05/2022,16:30,Portimonense,Sporting,4-4-1-1,Paulo Sérgio,3903,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621555
+34,sáb 14/05/2022,14:00,Marítimo,Portimonense,4-2-3-1,Paulo Sérgio,4124,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621608

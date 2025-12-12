@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 09/08/2015,07:15,Varzim,Famalicão,4-3-3 ofensivo,Quim Berto,3785,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2586596
+2,sáb 15/08/2015,13:00,Freamunde,Varzim,4-2-3-1,Quim Berto,1021,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2607198
+3,sáb 22/08/2015,13:00,Varzim,Leixões,4-3-3 ofensivo,Quim Berto,1816,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609253
+4,qua 26/08/2015,13:00,Penafiel,Varzim,4-3-3 defensivo,Quim Berto,850,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611428
+5,dom 30/08/2015,11:00,Varzim,Benfica B,4-3-3 ofensivo,Quim Berto,2042,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611439
+6,sáb 12/09/2015,12:00,Atlético CP,Varzim,4-3-3 ofensivo,Quim Berto,302,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613776
+7,qua 16/09/2015,12:00,Varzim,Olhanense,4-3-3 ofensivo,Quim Berto,710,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613797
+8,dom 20/09/2015,13:00,Varzim,Vitória SC B,4-3-3 ofensivo,Quim Berto,864,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613810
+9,qua 30/09/2015,10:30,FC Porto B,Varzim,4-4-2 duplo 6,Quim Berto,347,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613815
+10,sáb 03/10/2015,12:00,Varzim,UD Oliveirense,4-3-3 ofensivo,Quim Berto,1068,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614274
+11,qua 21/10/2015,13:00,Académico FC,Varzim,4-3-3 ofensivo,Quim Berto,421,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614286
+12,dom 25/10/2015,14:00,Varzim,Chaves,4-3-1-2,Capucho,941,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614294
+13,sáb 31/10/2015,13:00,Sporting B,Varzim,4-3-1-2,Capucho,265,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614306
+14,qua 04/11/2015,16:00,Varzim,Braga B,4-3-1-2,Capucho,766,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614352
+15,sáb 07/11/2015,14:30,Gil Vicente,Varzim,4-4-2 losango,Capucho,821,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614390
+16,dom 15/11/2015,14:00,Varzim,CD Aves,4-4-2 losango,Capucho,1952,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614402
+17,dom 29/11/2015,14:00,Farense,Varzim,4-4-2 losango,Capucho,915,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614411
+18,qua 02/12/2015,16:00,Varzim,Feirense,4-4-2 losango,Capucho,831,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614429
+19,dom 06/12/2015,13:00,Covilhã,Varzim,4-4-2 losango,Capucho,300,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614436
+20,qua 09/12/2015,16:00,Varzim,Santa Clara,4-4-2 losango,Capucho,614,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614577
+21,dom 13/12/2015,13:00,Mafra,Varzim,4-4-2 losango,Capucho,326,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614600
+22,dom 20/12/2015,13:00,Varzim,Oriental,4-4-2 losango,Capucho,846,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614617
+23,dom 03/01/2016,13:00,Portimonense,Varzim,4-4-2 losango,Capucho,730,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614622
+24,dom 10/01/2016,13:00,Famalicão,Varzim,4-4-2 losango,Capucho,1917,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614638
+25,dom 17/01/2016,13:00,Varzim,Freamunde,4-4-2 losango,Capucho,1371,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614654
+26,sáb 23/01/2016,13:00,Leixões,Varzim,4-4-2 losango,Capucho,1002,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614688
+27,dom 31/01/2016,13:00,Varzim,Penafiel,4-4-2 losango,Capucho,1068,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614702
+28,dom 07/02/2016,14:00,Benfica B,Varzim,?,Capucho,842,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614714
+29,sáb 13/02/2016,13:00,Varzim,Atlético CP,4-4-2 losango,Capucho,937,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614721
+30,qua 17/02/2016,13:00,Olhanense,Varzim,4-4-2 losango,Capucho,433,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614746
+31,dom 21/02/2016,12:00,Vitória SC B,Varzim,?,Capucho,1523,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614760
+32,dom 28/02/2016,08:15,Varzim,FC Porto B,4-4-2 losango,Capucho,2764,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614765
+33,sáb 05/03/2016,12:00,UD Oliveirense,Varzim,?,Capucho,565,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614784
+34,qua 09/03/2016,12:00,Varzim,Académico FC,?,Capucho,620,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615133
+35,dom 13/03/2016,12:00,Chaves,Varzim,4-4-2 losango,Capucho,3141,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615141
+36,qua 16/03/2016,12:00,Varzim,Sporting B,4-4-2 losango,Capucho,1053,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615153
+37,dom 20/03/2016,12:00,Braga B,Varzim,4-4-2 losango,Capucho,540,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615191
+38,sáb 02/04/2016,12:00,Varzim,Gil Vicente,?,Capucho,926,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615220
+39,sáb 26/03/2016,13:00,CD Aves,Varzim,4-4-2 losango,Capucho,730,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615232
+40,dom 10/04/2016,12:00,Varzim,Farense,?,Capucho,1003,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615261
+41,qua 13/04/2016,14:00,Feirense,Varzim,4-4-2,Capucho,554,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615278
+42,dom 17/04/2016,12:00,Varzim,Covilhã,?,Capucho,1095,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615293
+43,dom 24/04/2016,12:00,Santa Clara,Varzim,4-4-2 losango,Capucho,756,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615313
+44,sáb 30/04/2016,12:00,Varzim,Mafra,?,Capucho,904,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615328
+45,dom 08/05/2016,12:00,Oriental,Varzim,4-4-2 losango,Capucho,234,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615352
+46,sáb 14/05/2016,11:00,Varzim,Portimonense,4-4-2 losango,Capucho,1130,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615366

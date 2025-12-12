@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 27/07/2015,15:15,Freiburg,Nuremberg,4-4-2 duplo 6,Christian Streich,23700,6:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2581157
+2,sáb 01/08/2015,10:30,1860 Munique,Freiburg,4-4-2 duplo 6,Christian Streich,23800,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2581419
+3,sáb 15/08/2015,08:00,Freiburg,Bochum,4-4-2 duplo 6,Christian Streich,23700,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2581436
+4,sáb 22/08/2015,08:00,Düsseldorf,Freiburg,4-4-2 duplo 6,Christian Streich,27233,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2583820
+5,sex 28/08/2015,13:30,Freiburg,Sandhausen,4-4-2 duplo 6,Christian Streich,21900,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2583826
+6,sex 11/09/2015,13:30,K'lautern,Freiburg,4-4-2 duplo 6,Christian Streich,32834,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2583836
+7,sex 18/09/2015,13:30,Freiburg,Arm. Bielefeld,4-4-2 duplo 6,Christian Streich,22500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2583844
+8,qui 24/09/2015,15:15,Leipzig,Freiburg,4-4-2 duplo 6,Christian Streich,25869,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2583855
+9,dom 27/09/2015,08:30,Freiburg,FSV Frankfurt,4-4-2 duplo 6,Christian Streich,23300,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2583862
+10,dom 04/10/2015,08:30,Karlsruher,Freiburg,4-4-2 duplo 6,Christian Streich,25297,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2583871
+11,dom 18/10/2015,09:30,Freiburg,Greuther Fürth,4-4-2 duplo 6,Christian Streich,22400,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2583880
+12,dom 25/10/2015,10:30,St. Pauli,Freiburg,4-4-2 duplo 6,Christian Streich,29546,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2583894
+13,dom 01/11/2015,10:30,Freiburg,E. Braunschweig,4-4-2 duplo 6,Christian Streich,23100,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2583898
+14,sáb 07/11/2015,10:00,MSV Duisburg,Freiburg,4-4-2 duplo 6,Christian Streich,15311,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2583915
+15,dom 22/11/2015,10:30,Freiburg,Paderborn,4-4-2 duplo 6,Christian Streich,22300,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2583916
+16,sex 27/11/2015,15:30,Heidenheim,Freiburg,4-4-2 duplo 6,Christian Streich,14500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2583931
+17,sáb 05/12/2015,10:00,Freiburg,Union Berlim,4-4-2 duplo 6,Christian Streich,24000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2583934
+18,dom 13/12/2015,10:30,Nuremberg,Freiburg,4-4-2 duplo 6,Christian Streich,28198,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2583944
+19,dom 20/12/2015,10:30,Freiburg,1860 Munique,4-4-2 duplo 6,Christian Streich,24000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2583958
+20,sex 05/02/2016,15:30,Bochum,Freiburg,4-4-2 duplo 6,Christian Streich,18245,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2583961
+21,dom 14/02/2016,10:30,Freiburg,Düsseldorf,4-4-2 duplo 6,Christian Streich,22500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2583973
+22,dom 21/02/2016,09:30,Sandhausen,Freiburg,4-4-2 duplo 6,Christian Streich,10096,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2583979
+23,sáb 27/02/2016,09:00,Freiburg,K'lautern,4-4-2 duplo 6,Christian Streich,24000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2583989
+24,qua 02/03/2016,13:30,Arm. Bielefeld,Freiburg,4-4-2 duplo 6,Christian Streich,13848,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2583997
+25,seg 07/03/2016,16:15,Freiburg,Leipzig,4-4-2 duplo 6,Christian Streich,23500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2584008
+26,dom 13/03/2016,09:30,FSV Frankfurt,Freiburg,4-4-2 duplo 6,Christian Streich,6484,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2584015
+27,seg 21/03/2016,16:15,Freiburg,Karlsruher,4-4-2 duplo 6,Christian Streich,24000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2584024
+28,seg 04/04/2016,15:15,Greuther Fürth,Freiburg,4-4-2 duplo 6,Christian Streich,10280,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2584033
+29,dom 10/04/2016,08:30,Freiburg,St. Pauli,4-4-2 duplo 6,Christian Streich,24000,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2584047
+30,seg 18/04/2016,15:15,E. Braunschweig,Freiburg,4-4-2 duplo 6,Christian Streich,19810,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2584051
+31,sex 22/04/2016,13:30,Freiburg,MSV Duisburg,4-4-2 duplo 6,Christian Streich,23500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2584068
+32,sex 29/04/2016,13:30,Paderborn,Freiburg,4-4-2 duplo 6,Christian Streich,10414,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2584069
+33,dom 08/05/2016,10:30,Freiburg,Heidenheim,4-4-2 duplo 6,Christian Streich,24000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2584084
+34,dom 15/05/2016,10:30,Union Berlim,Freiburg,4-4-2 duplo 6,Christian Streich,22012,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2584087

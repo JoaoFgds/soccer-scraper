@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/09/2020,13:00,Vizela,UD Oliveirense,4-1-4-1,Pedro Miguel,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431527
+2,sex 18/09/2020,12:00,UD Oliveirense,Penafiel,?,Raúl Oliveira,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431544
+3,qua 23/09/2020,12:00,UD Oliveirense,FC Porto B,4-1-4-1,Pedro Miguel,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431696
+4,dom 27/09/2020,14:00,Vilafranquense,UD Oliveirense,?,Pedro Miguel,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431727
+5,sáb 03/10/2020,11:30,UD Oliveirense,Casa Pia,?,Pedro Miguel,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431668
+6,ter 20/10/2020,14:30,Chaves,UD Oliveirense,?,Pedro Miguel,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431526
+7,dom 25/10/2020,12:00,UD Oliveirense,Covilhã,?,Pedro Miguel,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431648
+8,sáb 31/10/2020,12:00,Académica,UD Oliveirense,?,Pedro Miguel,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431476
+9,dom 08/11/2020,08:15,UD Oliveirense,Estoril,4-1-4-1,Pedro Miguel,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431664
+10,qua 06/01/2021,15:00,Leixões,UD Oliveirense,?,Raúl Oliveira,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431570
+11,sáb 05/12/2020,12:00,UD Oliveirense,Arouca,?,Raúl Oliveira,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431724
+12,dom 20/12/2020,08:15,Mafra,UD Oliveirense,?,Raúl Oliveira,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431594
+13,ter 29/12/2020,12:00,UD Oliveirense,Cova da Piedade,?,Raúl Oliveira,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431742
+14,dom 03/01/2021,08:00,Benfica B,UD Oliveirense,?,Raúl Oliveira,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431748
+15,dom 10/01/2021,12:00,UD Oliveirense,Feirense,?,Raúl Oliveira,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431597
+16,dom 17/01/2021,08:15,Académico FC,UD Oliveirense,4-3-3 ofensivo,Raúl Oliveira,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431489
+17,sex 22/01/2021,15:00,UD Oliveirense,Varzim,?,Raúl Oliveira,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431756
+18,sáb 30/01/2021,14:00,UD Oliveirense,Vizela,?,Raúl Oliveira,,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431666
+19,qua 03/03/2021,14:00,Penafiel,UD Oliveirense,?,Raúl Oliveira,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431725
+20,dom 14/02/2021,12:00,FC Porto B,UD Oliveirense,?,Raúl Oliveira,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431734
+21,ter 23/02/2021,15:00,UD Oliveirense,Vilafranquense,?,Raúl Oliveira,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431752
+22,dom 28/02/2021,12:00,Casa Pia,UD Oliveirense,?,Raúl Oliveira,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431719
+23,dom 07/03/2021,11:00,UD Oliveirense,Chaves,?,Raúl Oliveira,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431717
+24,ter 16/03/2021,14:00,Covilhã,UD Oliveirense,?,Raúl Oliveira,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431588
+25,dom 21/03/2021,08:15,UD Oliveirense,Académica,?,Raúl Oliveira,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431534
+26,sex 26/03/2021,17:00,Estoril,UD Oliveirense,4-2-3-1,Raúl Oliveira,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431709
+27,seg 05/04/2021,16:30,UD Oliveirense,Leixões,?,Raúl Oliveira,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431629
+28,dom 11/04/2021,16:30,Arouca,UD Oliveirense,?,Raúl Oliveira,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431711
+29,dom 18/04/2021,13:00,UD Oliveirense,Mafra,?,Raúl Oliveira,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431548
+30,dom 25/04/2021,11:00,Cova da Piedade,UD Oliveirense,?,Raúl Oliveira,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431753
+31,dom 02/05/2021,07:15,UD Oliveirense,Benfica B,?,Raúl Oliveira,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431715
+32,sáb 08/05/2021,11:30,Feirense,UD Oliveirense,?,Raúl Oliveira,,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431746
+33,sex 14/05/2021,12:30,UD Oliveirense,Académico FC,?,Raúl Oliveira,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431556
+34,sáb 22/05/2021,14:00,Varzim,UD Oliveirense,3-4-3 plano,Raúl Oliveira,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431608

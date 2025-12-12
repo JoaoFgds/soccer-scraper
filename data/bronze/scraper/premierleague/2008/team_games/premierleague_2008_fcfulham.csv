@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 16/08/2008,11:00,Hull City,Fulham,4-2-3-1,Roy Hodgson,24525,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/921441
+2,sáb 23/08/2008,13:30,Fulham,Arsenal,4-4-2,Roy Hodgson,25276,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/921449
+3,qua 18/02/2009,17:00,Man Utd,Fulham,4-1-4-1,Roy Hodgson,75437,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/923122
+4,sáb 13/09/2008,11:00,Fulham,Bolton,4-4-2,Roy Hodgson,23656,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/923129
+5,sáb 20/09/2008,11:00,Blackburn,Fulham,4-4-2,Roy Hodgson,19398,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/923945
+6,sáb 27/09/2008,11:00,Fulham,West Ham,4-4-2,Roy Hodgson,23946,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/923958
+7,sáb 04/10/2008,11:00,West Brom,Fulham,4-4-2,Roy Hodgson,25708,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/923969
+8,sáb 18/10/2008,11:00,Fulham,AFC Sunderland,4-4-2,Roy Hodgson,25116,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/926246
+9,dom 26/10/2008,15:00,FC Portsmouth,Fulham,4-4-2,Roy Hodgson,19233,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/926254
+10,qua 29/10/2008,17:45,Fulham,Wigan,4-4-2,Roy Hodgson,22500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/926269
+11,sáb 01/11/2008,10:45,Everton,Fulham,?,Roy Hodgson,31278,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/926281
+12,dom 09/11/2008,14:00,Fulham,Newcastle,4-4-2,Roy Hodgson,24740,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/928545
+13,sáb 15/11/2008,13:00,Fulham,Tottenham,4-4-2,Roy Hodgson,25139,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/928550
+14,sáb 22/11/2008,13:00,Liverpool,Fulham,4-4-2,Roy Hodgson,43589,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/928559
+15,sáb 29/11/2008,13:00,Aston Villa,Fulham,4-4-2,Roy Hodgson,36625,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/930679
+16,sáb 06/12/2008,10:45,Fulham,Man City,4-4-2,Roy Hodgson,24012,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/930692
+17,sáb 13/12/2008,13:00,Stoke,Fulham,4-2-3-1,Roy Hodgson,25287,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/930703
+18,sáb 20/12/2008,13:00,Fulham,Middlesbrough,4-4-2,Roy Hodgson,23722,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/930711
+19,sex 26/12/2008,11:00,Tottenham,Fulham,4-4-2,Roy Hodgson,35866,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/930727
+20,dom 28/12/2008,12:00,Fulham,Chelsea,4-4-2 duplo 6,Roy Hodgson,25462,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/930733
+21,qua 11/03/2009,17:00,Fulham,Blackburn,4-4-2 duplo 6,Roy Hodgson,22259,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/933605
+22,dom 18/01/2009,11:30,West Ham,Fulham,4-4-2 duplo 6,Roy Hodgson,31818,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/933619
+23,ter 27/01/2009,17:45,AFC Sunderland,Fulham,4-4-2 duplo 6,Roy Hodgson,36539,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/934242
+24,sáb 31/01/2009,13:00,Fulham,FC Portsmouth,4-4-2 duplo 6,Roy Hodgson,23722,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/934254
+25,sáb 07/02/2009,13:00,Wigan,Fulham,4-4-2 duplo 6,Roy Hodgson,16499,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/934268
+26,dom 22/02/2009,10:30,Fulham,West Brom,4-4-2 duplo 6,Roy Hodgson,22394,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/936006
+27,sáb 28/02/2009,12:00,Arsenal,Fulham,4-4-2 duplo 6,Roy Hodgson,60102,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/936010
+28,qua 04/03/2009,17:00,Fulham,Hull City,4-4-2 duplo 6,Roy Hodgson,23051,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/936024
+29,sáb 14/03/2009,12:00,Bolton,Fulham,4-4-2 duplo 6,Roy Hodgson,22117,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/936031
+30,sáb 21/03/2009,12:00,Fulham,Man Utd,4-4-2 duplo 6,Roy Hodgson,25652,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/936041
+31,sáb 04/04/2009,13:30,Fulham,Liverpool,4-4-2 duplo 6,Roy Hodgson,25661,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/940301
+32,dom 12/04/2009,12:10,Man City,Fulham,4-4-2 duplo 6,Roy Hodgson,39841,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/940352
+33,sáb 18/04/2009,11:00,Middlesbrough,Fulham,4-4-2 duplo 6,Roy Hodgson,30389,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/940356
+34,sáb 25/04/2009,11:00,Fulham,Stoke,4-4-2 duplo 6,Roy Hodgson,25069,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/940366
+35,sáb 02/05/2009,11:00,Chelsea,Fulham,4-4-2 duplo 6,Roy Hodgson,41801,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/943624
+36,sáb 09/05/2009,11:00,Fulham,Aston Villa,4-4-2 duplo 6,Roy Hodgson,25660,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/943636
+37,sáb 16/05/2009,11:00,Newcastle,Fulham,4-4-2 duplo 6,Roy Hodgson,52114,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/943647
+38,dom 24/05/2009,12:00,Fulham,Everton,4-4-2 duplo 6,Roy Hodgson,25497,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/943656

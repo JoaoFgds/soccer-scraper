@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 11/08/2012,16:00,Évian,Bordeaux,4-4-2 duplo 6,Pablo Correa,9048,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2229834
+2,sáb 18/08/2012,15:00,Brest,Évian,4-3-3 ofensivo,Pablo Correa,11588,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2229851
+3,sex 24/08/2012,15:45,Évian,Lyon,4-1-4-1,Pablo Correa,13581,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2229854
+4,sáb 01/09/2012,15:00,AC Ajaccio,Évian,4-3-3 ofensivo,Pablo Correa,5874,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223887
+5,sáb 15/09/2012,15:00,Évian,SC Bastia,4-4-2 duplo 6,Pascal Dupraz,8555,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223882
+6,dom 23/09/2012,12:00,Marselha,Évian,4-3-3 ofensivo,Pascal Dupraz,33774,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223849
+7,sáb 29/09/2012,15:00,Évian,FC Lorient,4-4-2 duplo 6,Pascal Dupraz,8057,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223872
+8,sáb 06/10/2012,12:00,Montpellier,Évian,4-4-2 duplo 6,Pascal Dupraz,16701,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223856
+9,sáb 20/10/2012,15:00,Évian,Toulouse,4-2-3-1,Pascal Dupraz,8831,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223906
+10,qua 07/11/2012,15:30,FC Sochaux,Évian,4-3-3 ofensivo,Pascal Dupraz,14189,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223928
+11,sáb 03/11/2012,17:00,Évian,Lille,4-3-3 defensivo,Pascal Dupraz,9171,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223918
+12,sáb 10/11/2012,17:00,Reims,Évian,4-3-3 ofensivo,Pascal Dupraz,13007,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223937
+13,sáb 17/11/2012,17:00,Évian,Saint-Étienne,4-4-2 duplo 6,Pascal Dupraz,12511,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223940
+14,sáb 24/11/2012,17:00,Rennes,Évian,4-4-2,Pascal Dupraz,15776,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223953
+15,sáb 01/12/2012,17:00,Évian,AS Nancy,4-4-2,Pascal Dupraz,8175,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223961
+16,sáb 08/12/2012,14:00,PSG,Évian,5-4-1 plano,Pascal Dupraz,39276,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223975
+17,qua 12/12/2012,16:00,Évian,Troyes,4-4-2 duplo 6,Pascal Dupraz,9342,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223980
+18,sáb 15/12/2012,17:00,Nice,Évian,4-4-2 duplo 6,Pascal Dupraz,8200,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223896
+19,dom 23/12/2012,11:00,Valenciennes,Évian,4-4-2 duplo 6,Pascal Dupraz,14308,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224005
+20,sáb 12/01/2013,17:00,Évian,Brest,4-3-3 ofensivo,Pascal Dupraz,7388,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224001
+21,sex 18/01/2013,17:30,Lyon,Évian,4-3-3 ofensivo,Pascal Dupraz,30813,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224022
+22,sáb 26/01/2013,17:00,Évian,AC Ajaccio,4-3-3 defensivo,Pascal Dupraz,7601,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224029
+23,sáb 02/02/2013,17:00,SC Bastia,Évian,4-2-3-1,Pascal Dupraz,723,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224033
+24,dom 10/02/2013,11:00,Évian,Marselha,4-4-2 duplo 6,Pascal Dupraz,14097,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224042
+25,sáb 16/02/2013,17:00,FC Lorient,Évian,4-3-3 defensivo,Pascal Dupraz,11934,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224058
+26,sáb 23/02/2013,16:00,Évian,Montpellier,4-3-3 defensivo,Pascal Dupraz,7897,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224109
+27,sáb 02/03/2013,16:00,Toulouse,Évian,4-4-2 losango,Pascal Dupraz,11011,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224089
+28,sáb 09/03/2013,16:00,Évian,FC Sochaux,4-4-2 duplo 6,Pascal Dupraz,8770,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224096
+29,sáb 16/03/2013,16:00,Lille,Évian,4-4-2 duplo 6,Pascal Dupraz,38683,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224079
+30,sáb 30/03/2013,16:00,Évian,Reims,4-4-2 duplo 6,Pascal Dupraz,10360,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224072
+31,dom 07/04/2013,09:00,Saint-Étienne,Évian,4-4-2 duplo 6,Pascal Dupraz,25626,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224171
+32,sáb 13/04/2013,15:00,Évian,Rennes,4-4-2 duplo 6,Pascal Dupraz,10643,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224159
+33,dom 21/04/2013,12:00,AS Nancy,Évian,4-4-2 duplo 6,Pascal Dupraz,18067,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224152
+34,dom 28/04/2013,16:00,Évian,PSG,4-4-2 duplo 6,Pascal Dupraz,14621,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224145
+35,sáb 04/05/2013,15:00,Troyes,Évian,4-4-2 duplo 6,Pascal Dupraz,17086,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224127
+36,dom 12/05/2013,12:00,Évian,Nice,4-4-2 duplo 6,Pascal Dupraz,11769,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224119
+37,sáb 18/05/2013,16:00,Évian,Valenciennes,4-4-2 duplo 6,Pascal Dupraz,13588,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224116
+38,dom 26/05/2013,16:00,Bordeaux,Évian,4-4-2 duplo 6,Pascal Dupraz,15179,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224177

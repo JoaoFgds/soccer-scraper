@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 11/08/2013,13:00,Penafiel,UD Oliveirense,?,Henrique Nunes,469,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340450
+2,dom 18/08/2013,13:00,UD Oliveirense,CD Aves,4-4-2 duplo 6,Henrique Nunes,422,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340493
+3,dom 08/09/2013,13:00,Santa Clara,UD Oliveirense,?,Henrique Nunes,584,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340473
+4,dom 25/08/2013,07:15,UD Oliveirense,Leixões,?,Henrique Nunes,409,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340466
+5,dom 01/09/2013,12:00,Moreirense,UD Oliveirense,4-2-3-1,Henrique Nunes,1003,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340469
+6,sáb 14/09/2013,12:00,UD Oliveirense,CD Tondela,?,Henrique Nunes,361,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340670
+7,qua 18/09/2013,14:00,Braga B,UD Oliveirense,?,João de Deus,636,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340676
+8,sáb 28/09/2013,11:00,UD Oliveirense,Marítimo B,?,Henrique Nunes,265,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340641
+9,dom 13/10/2013,11:00,Covilhã,UD Oliveirense,?,Henrique Nunes,302,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340644
+10,dom 06/10/2013,11:00,UD Oliveirense,Chaves,4-3-3 ofensivo,Henrique Nunes,480,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340636
+11,qua 23/10/2013,12:00,Académico FC,UD Oliveirense,?,Henrique Nunes,482,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343341
+12,dom 27/10/2013,13:00,UD Oliveirense,CF União,?,Henrique Nunes,552,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340545
+13,sáb 02/11/2013,13:00,Feirense,UD Oliveirense,?,Henrique Nunes,747,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340524
+14,sáb 16/11/2013,17:00,Farense,UD Oliveirense,?,Henrique Nunes,856,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340512
+15,dom 10/11/2013,13:00,UD Oliveirense,Sporting B,?,Henrique Nunes,556,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340508
+16,sáb 23/11/2013,12:30,Benfica B,UD Oliveirense,4-3-3 defensivo,Henrique Nunes,270,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340504
+17,qua 27/11/2013,13:00,UD Oliveirense,FC Porto B,?,Henrique Nunes,338,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340511
+18,dom 01/12/2013,13:00,Beira-Mar,UD Oliveirense,?,Henrique Nunes,745,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340613
+19,sáb 07/12/2013,13:00,UD Oliveirense,Trofense,4-3-3 defensivo,Henrique Nunes,391,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340599
+20,qua 11/12/2013,13:00,Atlético CP,UD Oliveirense,?,Artur Marques,236,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340573
+21,dom 15/12/2013,09:15,UD Oliveirense,Portimonense,?,Artur Marques,306,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340583
+22,dom 22/12/2013,13:00,UD Oliveirense,Penafiel,?,Artur Marques,505,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340572
+23,sáb 28/12/2013,13:00,CD Aves,UD Oliveirense,?,Artur Marques,347,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340621
+24,dom 12/01/2014,13:00,UD Oliveirense,Santa Clara,?,Artur Marques,86,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340618
+25,dom 19/01/2014,13:00,Leixões,UD Oliveirense,?,Artur Marques,925,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340752
+26,qua 22/01/2014,13:00,UD Oliveirense,Moreirense,4-4-2 duplo 6,Martinho Almeida,488,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340806
+27,dom 26/01/2014,13:00,CD Tondela,UD Oliveirense,?,Martinho Almeida,485,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340766
+28,dom 02/02/2014,13:00,UD Oliveirense,Braga B,?,Martinho Almeida,581,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340784
+29,dom 09/02/2014,09:00,Marítimo B,UD Oliveirense,?,Martinho Almeida,203,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340816
+30,dom 16/02/2014,12:00,UD Oliveirense,Covilhã,?,Martinho Almeida,555,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340819
+31,sáb 22/02/2014,12:00,Chaves,UD Oliveirense,?,Martinho Almeida,700,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340826
+32,dom 02/03/2014,12:00,UD Oliveirense,Académico FC,?,Martinho Almeida,412,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343361
+33,dom 09/03/2014,12:00,CF União,UD Oliveirense,?,Martinho Almeida,709,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340854
+34,dom 16/03/2014,13:00,UD Oliveirense,Feirense,?,Martinho Almeida,892,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340686
+35,dom 23/03/2014,13:00,UD Oliveirense,Farense,?,Martinho Almeida,834,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340696
+36,dom 30/03/2014,12:00,Sporting B,UD Oliveirense,?,Martinho Almeida,447,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340692
+37,sáb 05/04/2014,12:00,UD Oliveirense,Benfica B,4-3-3 defensivo,Martinho Almeida,857,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340717
+38,dom 13/04/2014,11:00,FC Porto B,UD Oliveirense,?,Martinho Almeida,370,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340718
+39,sáb 19/04/2014,12:00,UD Oliveirense,Beira-Mar,?,Martinho Almeida,740,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340753
+40,dom 27/04/2014,12:00,Trofense,UD Oliveirense,4-4-2 duplo 6,Martinho Almeida,1114,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340730
+41,dom 04/05/2014,12:00,UD Oliveirense,Atlético CP,?,Martinho Almeida,458,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340734
+42,dom 11/05/2014,12:00,Portimonense,UD Oliveirense,?,Martinho Almeida,600,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340732

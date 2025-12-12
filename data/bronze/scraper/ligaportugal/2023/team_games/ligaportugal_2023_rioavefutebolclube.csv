@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 13/08/2023,11:30,Rio Ave,Chaves,3-4-3 plano,Luís Freire,3044,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109294
+2,sáb 19/08/2023,19:00,Estoril,Rio Ave,3-4-3 plano,Luís Freire,2359,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109291
+3,seg 28/08/2023,16:15,Rio Ave,FC Porto,3-4-3 plano,Luís Freire,4811,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109314
+4,sáb 02/09/2023,11:30,Casa Pia,Rio Ave,3-4-3 plano,Luís Freire,3267,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109307
+5,sáb 16/09/2023,11:30,Rio Ave,Famalicão,3-4-3 plano,Luís Freire,3075,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109348
+6,seg 25/09/2023,16:15,Sporting,Rio Ave,3-1-4-2,Luís Freire,34355,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109322
+7,dom 01/10/2023,16:30,Rio Ave,Moreirense,3-4-3 plano,Luís Freire,2695,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109333
+8,sáb 07/10/2023,14:00,Braga,Rio Ave,3-4-3 plano,Luís Freire,16093,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109363
+9,dom 29/10/2023,12:30,Rio Ave,Farense,3-4-1-2,Luís Freire,1865,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109431
+10,dom 05/11/2023,15:00,Rio Ave,Boavista,3-4-3 plano,Luís Freire,2866,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109340
+11,dom 12/11/2023,12:30,Gil Vicente,Rio Ave,3-4-3 plano,Luís Freire,3338,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109388
+12,sáb 02/12/2023,12:30,Rio Ave,Estrela Amadora,3-5-2 plano,Luís Freire,2403,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109378
+13,dom 10/12/2023,15:00,Arouca,Rio Ave,3-4-3 plano,Luís Freire,1122,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109372
+14,sáb 16/12/2023,12:30,Rio Ave,Vizela,3-4-3 plano,Luís Freire,2538,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109497
+15,sáb 23/12/2023,12:30,Vit. Guimarães,Rio Ave,3-4-3 plano,Luís Freire,21021,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109417
+16,dom 07/01/2024,15:00,Rio Ave,Portimonense,3-4-3 plano,Luís Freire,2593,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109477
+17,dom 14/01/2024,15:00,Benfica,Rio Ave,3-5-2,Luís Freire,55238,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109427
+18,dom 21/01/2024,15:00,Chaves,Rio Ave,3-5-2 plano,Luís Freire,3236,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109403
+19,qua 31/01/2024,15:45,Rio Ave,Estoril,3-5-2,Luís Freire,3058,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109523
+20,sáb 03/02/2024,17:30,FC Porto,Rio Ave,3-4-3 plano,Luís Freire,39330,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109396
+21,dom 11/02/2024,12:30,Rio Ave,Casa Pia,3-4-3 plano,Luís Freire,2682,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109450
+22,sex 16/02/2024,17:15,Famalicão,Rio Ave,3-5-2 plano,Luís Freire,4173,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109510
+23,dom 25/02/2024,17:30,Rio Ave,Sporting,3-4-3 plano,Luís Freire,4406,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109484
+24,sáb 02/03/2024,12:30,Moreirense,Rio Ave,3-4-3 plano,Luís Freire,1542,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109505
+25,sáb 09/03/2024,15:00,Rio Ave,Braga,3-4-3 plano,Luís Freire,2753,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109471
+26,sáb 16/03/2024,15:00,Farense,Rio Ave,3-4-3 plano,Luís Freire,4713,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109441
+27,sáb 30/03/2024,15:00,Boavista,Rio Ave,3-4-3 plano,Luís Freire,7754,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109456
+28,sáb 06/04/2024,11:30,Rio Ave,Gil Vicente,3-4-3 plano,Luís Freire,3085,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109559
+29,dom 14/04/2024,11:30,Estrela Amadora,Rio Ave,3-4-3 plano,Luís Freire,5372,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109539
+30,sex 19/04/2024,16:15,Rio Ave,Arouca,3-4-3 plano,Luís Freire,3225,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109552
+31,sáb 27/04/2024,11:30,Vizela,Rio Ave,3-4-3 plano,Luís Freire,2423,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109536
+32,sáb 04/05/2024,11:30,Rio Ave,Vit. Guimarães,3-4-3 plano,Luís Freire,3624,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109579
+33,sáb 11/05/2024,11:30,Portimonense,Rio Ave,3-4-3 plano,Luís Freire,2528,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109566
+34,sex 17/05/2024,16:45,Rio Ave,Benfica,3-4-3 plano,Luís Freire,4809,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109587

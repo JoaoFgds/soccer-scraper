@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 15/04/2023,16:00,Palmeiras,Cuiabá,4-2-3-1,Abel Ferreira,35835,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4055814
+2,dom 23/04/2023,16:00,Vasco da Gama,Palmeiras,4-2-3-1,João Martins,59867,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4059108
+3,sáb 29/04/2023,18:30,Palmeiras,Corinthians,4-2-3-1,Abel Ferreira,41457,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060064
+4,dom 07/05/2023,18:30,Goiás,Palmeiras,4-2-3-1,Abel Ferreira,13789,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061497
+5,qua 10/05/2023,21:30,Palmeiras,Grêmio,4-2-3-1,Abel Ferreira,37532,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061435
+6,sáb 13/05/2023,18:30,Palmeiras,Bragantino,4-2-3-1,Abel Ferreira,39488,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061515
+7,sáb 20/05/2023,21:00,Santos,Palmeiras,4-2-3-1,João Martins,12641,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061406
+8,dom 28/05/2023,18:30,Atlético-MG,Palmeiras,4-2-3-1,Abel Ferreira,53236,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061448
+9,dom 04/06/2023,18:30,Palmeiras,Coritiba,4-2-3-1,Abel Ferreira,33570,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061415
+10,dom 11/06/2023,16:00,São Paulo,Palmeiras,4-2-3-1,Abel Ferreira,56871,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061525
+11,qua 21/06/2023,21:30,Bahia,Palmeiras,4-2-3-1,Abel Ferreira,31013,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061471
+12,dom 25/06/2023,16:00,Palmeiras,Botafogo,4-2-3-1,Abel Ferreira,38877,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061505
+13,dom 02/07/2023,16:00,Athletico-PR,Palmeiras,3-5-2,João Martins,33118,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061560
+14,sáb 08/07/2023,21:00,Palmeiras,Flamengo,4-2-3-1,Abel Ferreira,40229,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061295
+15,dom 16/07/2023,18:30,Internacional,Palmeiras,4-3-3 ofensivo,Abel Ferreira,41823,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061429
+16,sáb 22/07/2023,16:00,Palmeiras,Fortaleza,4-2-3-1,Abel Ferreira,39699,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061538
+17,dom 30/07/2023,16:00,América-MG,Palmeiras,4-2-3-1,Abel Ferreira,5928,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061554
+18,sáb 05/08/2023,21:00,Fluminense,Palmeiras,4-2-3-1,Abel Ferreira,31037,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061273
+19,seg 14/08/2023,19:00,Palmeiras,Cruzeiro,4-2-3-1,Abel Ferreira,38555,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061395
+20,sáb 19/08/2023,18:30,Cuiabá,Palmeiras,4-2-3-1,Abel Ferreira,19115,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061252
+21,dom 27/08/2023,18:30,Palmeiras,Vasco da Gama,4-2-3-1,Abel Ferreira,40292,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061385
+22,dom 03/09/2023,16:00,Corinthians,Palmeiras,4-2-3-1,Abel Ferreira,44371,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061286
+23,sex 15/09/2023,21:30,Palmeiras,Goiás,4-2-3-1,Abel Ferreira,38146,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061215
+24,qui 21/09/2023,21:30,Grêmio,Palmeiras,4-2-3-1,Abel Ferreira,29057,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061259
+25,dom 01/10/2023,18:30,Bragantino,Palmeiras,4-2-3-1,Abel Ferreira,9093,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061377
+26,dom 08/10/2023,16:00,Palmeiras,Santos,4-2-3-1,Abel Ferreira,17049,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061265
+27,qui 19/10/2023,19:00,Palmeiras,Atlético-MG,4-2-3-1,João Martins,27718,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061345
+28,dom 22/10/2023,18:30,Coritiba,Palmeiras,3-4-1-2,João Martins,19387,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061330
+29,qua 25/10/2023,20:00,Palmeiras,São Paulo,4-3-1-2,Abel Ferreira,32618,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061455
+30,sáb 28/10/2023,19:00,Palmeiras,Bahia,4-3-1-2,Abel Ferreira,33747,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061315
+31,qua 01/11/2023,21:30,Botafogo,Palmeiras,3-4-1-2,Abel Ferreira,34913,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061234
+32,sáb 04/11/2023,21:30,Palmeiras,Athletico-PR,3-4-1-2,Abel Ferreira,17301,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061225
+33,qua 08/11/2023,21:30,Flamengo,Palmeiras,3-4-1-2,Abel Ferreira,64590,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061333
+34,sáb 11/11/2023,21:00,Palmeiras,Internacional,3-4-1-2,Abel Ferreira,19358,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061305
+35,dom 26/11/2023,18:30,Fortaleza,Palmeiras,3-4-1-2,Abel Ferreira,40382,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061361
+36,qua 29/11/2023,21:30,Palmeiras,América-MG,4-2-3-1,Abel Ferreira,29717,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061365
+37,dom 03/12/2023,16:00,Palmeiras,Fluminense,3-4-1-2,Abel Ferreira,29986,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061475
+38,qua 06/12/2023,21:30,Cruzeiro,Palmeiras,3-4-1-2,Abel Ferreira,44190,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061488

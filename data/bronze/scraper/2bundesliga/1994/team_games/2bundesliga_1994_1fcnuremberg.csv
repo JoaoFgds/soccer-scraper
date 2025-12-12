@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 22/08/1994,15:15,Nuremberg,W. Mannheim,3-5-2,Rainer Zobel,19500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951336
+2,qui 25/08/1994,13:30,SV Meppen,Nuremberg,?,Rainer Zobel,10000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951344
+3,dom 28/08/1994,10:00,Nuremberg,VfB Leipzig,?,Rainer Zobel,20500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951351
+4,sáb 03/09/1994,10:30,Düsseldorf,Nuremberg,?,Rainer Zobel,17000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951359
+5,sex 16/09/1994,15:00,Nuremberg,Chemnitzer FC,?,Rainer Zobel,23500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951365
+6,sex 23/09/1994,14:30,Saarbrücken,Nuremberg,?,Rainer Zobel,8000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951374
+7,seg 03/10/1994,16:15,Nuremberg,Wattenscheid 09,?,Rainer Zobel,17400,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951390
+8,sáb 08/10/1994,11:30,Hannover,Nuremberg,3-1-4-2,Rainer Zobel,9400,6:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951397
+9,sáb 15/10/1994,11:30,Fortuna Köln,Nuremberg,?,Rainer Zobel,3500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951407
+10,dom 23/10/1994,12:00,Nuremberg,Hertha Berlim,?,Rainer Zobel,20500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951419
+11,sex 28/10/1994,17:00,St. Pauli,Nuremberg,?,Rainer Zobel,20551,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951421
+12,dom 06/11/1994,12:00,Nuremberg,Mainz,?,Rainer Zobel,16300,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951437
+13,sáb 12/11/1994,11:15,FSV Zwickau,Nuremberg,?,Rainer Zobel,11600,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951443
+14,dom 20/11/1994,12:00,Nuremberg,FSV Frankfurt,?,Rainer Zobel,11000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951456
+15,sáb 26/11/1994,12:30,FC 08 Homburg,Nuremberg,?,Rainer Zobel,2500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951461
+16,seg 05/12/1994,17:15,Nuremberg,Wolfsburg,?,Rainer Zobel,12200,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951474
+17,dom 11/12/1994,12:00,Hansa Rostock,Nuremberg,3-5-2,Rainer Zobel,2000,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951483
+18,sex 17/02/1995,15:00,W. Mannheim,Nuremberg,?,Günter Sebert,12000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951484
+19,sáb 25/02/1995,11:30,Nuremberg,SV Meppen,3-5-2,Günter Sebert,13200,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974666
+20,sáb 04/03/1995,11:30,VfB Leipzig,Nuremberg,?,Günter Sebert,4200,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974674
+21,sex 10/03/1995,16:00,Nuremberg,Düsseldorf,?,Günter Sebert,15500,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974681
+22,sáb 18/03/1995,11:30,Chemnitzer FC,Nuremberg,?,Günter Sebert,5100,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974691
+23,sáb 25/03/1995,11:30,Nuremberg,Saarbrücken,?,Günter Sebert,17900,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974700
+24,sáb 01/04/1995,10:30,Wattenscheid 09,Nuremberg,?,Günter Sebert,1800,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974711
+25,sex 07/04/1995,15:00,Nuremberg,Hannover,?,Günter Sebert,15500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974717
+26,sáb 15/04/1995,10:30,Nuremberg,Fortuna Köln,?,Günter Sebert,14900,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974729
+27,sex 21/04/1995,14:30,Hertha Berlim,Nuremberg,?,Günter Sebert,5656,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974735
+28,seg 01/05/1995,15:15,Nuremberg,St. Pauli,?,Günter Sebert,15500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974751
+29,sáb 06/05/1995,10:30,Mainz,Nuremberg,3-5-2,Günter Sebert,5817,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974755
+30,dom 14/05/1995,10:00,Nuremberg,FSV Zwickau,3-5-2,Günter Sebert,15800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974766
+31,sáb 20/05/1995,10:30,FSV Frankfurt,Nuremberg,?,Günter Sebert,2500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974775
+32,sex 26/05/1995,15:00,Nuremberg,FC 08 Homburg,?,Günter Sebert,14400,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974781
+33,dom 11/06/1995,10:00,Wolfsburg,Nuremberg,?,Günter Sebert,8500,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974796
+34,dom 18/06/1995,10:00,Nuremberg,Hansa Rostock,3-5-2 plano,Günter Sebert,27000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974804

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 12/08/2018,09:30,Southampton,FC Burnley,3-4-2-1,Mark Hughes,30784,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050174
+2,sáb 18/08/2018,11:00,Everton,Southampton,4-4-2 duplo 6,Mark Hughes,38601,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050182
+3,sáb 25/08/2018,11:00,Southampton,Leicester,4-4-2 duplo 6,Mark Hughes,29925,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050194
+4,sáb 01/09/2018,11:00,Crystal Palace,Southampton,4-4-2 duplo 6,Mark Hughes,25495,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050201
+5,seg 17/09/2018,16:00,Southampton,Brighton,4-4-2 duplo 6,Mark Hughes,28811,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050213
+6,sáb 22/09/2018,11:00,Liverpool,Southampton,4-1-4-1,Mark Hughes,50965,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050224
+7,sáb 29/09/2018,11:00,Wolves,Southampton,4-4-2 duplo 6,Mark Hughes,31147,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050236
+8,dom 07/10/2018,10:15,Southampton,Chelsea,5-4-1 plano,Mark Hughes,27077,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050244
+9,sáb 20/10/2018,11:00,Bournemouth,Southampton,4-4-2 duplo 6,Mark Hughes,10986,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050248
+10,sáb 27/10/2018,11:00,Southampton,Newcastle,4-4-2 duplo 6,Mark Hughes,30736,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050264
+11,dom 04/11/2018,13:00,Man City,Southampton,4-4-2 duplo 6,Mark Hughes,53916,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050273
+12,sáb 10/11/2018,13:00,Southampton,Watford,4-2-3-1,Mark Hughes,28153,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050286
+13,sáb 24/11/2018,13:00,Fulham,Southampton,4-2-3-1,Mark Hughes,24603,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050291
+14,sáb 01/12/2018,15:30,Southampton,Man Utd,3-4-2-1,Mark Hughes,30187,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050306
+15,qua 05/12/2018,18:00,Tottenham,Southampton,4-2-3-1,Kelvin Davis,33012,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050316
+16,sáb 08/12/2018,13:00,Cardiff,Southampton,4-3-1-2,Ralph Hasenhüttl,30067,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050320
+17,dom 16/12/2018,11:30,Southampton,Arsenal,5-4-1 plano,Ralph Hasenhüttl,29497,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050333
+18,sáb 22/12/2018,13:00,Huddersfield,Southampton,3-4-2-1,Ralph Hasenhüttl,22394,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050342
+19,qui 27/12/2018,17:45,Southampton,West Ham,3-4-2-1,Ralph Hasenhüttl,31654,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050424
+20,dom 30/12/2018,12:15,Southampton,Man City,4-3-2-1,Ralph Hasenhüttl,31381,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050354
+21,qua 02/01/2019,17:45,Chelsea,Southampton,5-4-1 plano,Ralph Hasenhüttl,40668,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050360
+22,sáb 12/01/2019,13:00,Leicester,Southampton,3-4-2-1,Ralph Hasenhüttl,31491,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050373
+23,sáb 19/01/2019,13:00,Southampton,Everton,3-5-2 plano,Ralph Hasenhüttl,29989,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050384
+24,qua 30/01/2019,17:45,Southampton,Crystal Palace,3-5-2 plano,Ralph Hasenhüttl,28339,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050394
+25,sáb 02/02/2019,13:00,FC Burnley,Southampton,3-5-2 plano,Ralph Hasenhüttl,19787,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050398
+26,sáb 09/02/2019,13:00,Southampton,Cardiff,3-5-2,Ralph Hasenhüttl,31438,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050413
+27,dom 24/02/2019,11:05,Arsenal,Southampton,3-5-2,Ralph Hasenhüttl,59877,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050427
+28,qua 27/02/2019,16:45,Southampton,Fulham,3-5-2,Ralph Hasenhüttl,27597,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050444
+29,sáb 02/03/2019,12:00,Man Utd,Southampton,3-5-2,Ralph Hasenhüttl,74459,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050452
+30,sáb 09/03/2019,12:00,Southampton,Tottenham,3-4-2-1,Ralph Hasenhüttl,31890,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050466
+31,ter 23/04/2019,15:45,Watford,Southampton,3-4-2-1,Ralph Hasenhüttl,19170,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050482
+32,sáb 30/03/2019,12:00,Brighton,Southampton,4-4-2 duplo 6,Ralph Hasenhüttl,30636,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050486
+33,sex 05/04/2019,16:00,Southampton,Liverpool,3-4-2-1,Ralph Hasenhüttl,31797,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050501
+34,sáb 13/04/2019,11:00,Southampton,Wolves,3-4-2-1,Ralph Hasenhüttl,31708,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050520
+35,sáb 20/04/2019,13:30,Newcastle,Southampton,3-4-2-1,Ralph Hasenhüttl,52191,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050530
+36,sáb 27/04/2019,11:00,Southampton,Bournemouth,4-3-3 ofensivo,Ralph Hasenhüttl,31310,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050540
+37,sáb 04/05/2019,11:00,West Ham,Southampton,4-4-2 duplo 6,Ralph Hasenhüttl,59961,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050559
+38,dom 12/05/2019,11:00,Southampton,Huddersfield,4-4-2 duplo 6,Ralph Hasenhüttl,30367,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050568

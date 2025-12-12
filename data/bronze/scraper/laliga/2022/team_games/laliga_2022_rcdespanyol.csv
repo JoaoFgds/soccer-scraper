@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 13/08/2022,12:00,Celta de Vigo,Espanyol,4-1-4-1,Diego Martínez,13859,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844091
+2,sex 19/08/2022,15:00,Espanyol,Rayo Vallecano,4-3-3 ofensivo,Diego Martínez,16071,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844596
+3,dom 28/08/2022,17:00,Espanyol,Real Madrid,4-2-3-1,Diego Martínez,25778,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3885849
+4,dom 04/09/2022,11:15,Athletic Club,Espanyol,4-2-3-1,Diego Martínez,41574,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3885859
+5,sáb 10/09/2022,11:15,Espanyol,Sevilla,4-3-3 ofensivo,Diego Martínez,20135,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886296
+6,dom 18/09/2022,13:30,Real Sociedad,Espanyol,5-3-2,Diego Martínez,31511,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3858325
+7,dom 02/10/2022,09:00,Espanyol,Valencia,4-2-3-1,Diego Martínez,19766,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886286
+8,dom 09/10/2022,11:15,Cádiz CF,Espanyol,4-2-3-1,Diego Martínez,16572,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886308
+9,dom 16/10/2022,13:30,Espanyol,Valladolid,4-2-3-1,Diego Martínez,17776,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886322
+10,qui 20/10/2022,15:00,Osasuna,Espanyol,4-2-3-1,Diego Martínez,17832,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886338
+11,dom 23/10/2022,09:00,Espanyol,Elche,4-3-3 ofensivo,Diego Martínez,17560,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886365
+12,sex 28/10/2022,16:00,Mallorca,Espanyol,4-3-3 ofensivo,Diego Martínez,13982,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886391
+13,dom 06/11/2022,10:00,Atlético,Espanyol,4-2-3-1,Diego Martínez,50007,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886408
+14,qua 09/11/2022,16:00,Espanyol,Villarreal,4-2-3-1,Diego Martínez,17400,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886448
+15,sáb 31/12/2022,10:00,Barcelona,Espanyol,4-2-3-1,Diego Martínez,88095,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886464
+16,sáb 07/01/2023,17:00,Espanyol,Girona,4-3-3 ofensivo,Diego Martínez,21429,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886483
+17,dom 15/01/2023,10:00,Getafe,Espanyol,3-4-3 plano,Diego Martínez,10286,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886498
+18,sáb 21/01/2023,12:15,Espanyol,Betis,4-4-2 duplo 6,Diego Martínez,20811,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886505
+19,sex 27/01/2023,17:00,UD Almería,Espanyol,4-1-3-2,Diego Martínez,11269,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886512
+20,sáb 04/02/2023,10:00,Espanyol,Osasuna,4-4-2 duplo 6,Diego Martínez,22438,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886526
+21,seg 13/02/2023,17:00,Espanyol,Real Sociedad,4-4-2 duplo 6,Diego Martínez,15867,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886532
+22,dom 19/02/2023,10:00,Elche,Espanyol,3-5-2,Diego Martínez,18963,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886551
+23,sáb 25/02/2023,10:00,Espanyol,Mallorca,4-3-3 ofensivo,Diego Martínez,21403,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886562
+24,dom 05/03/2023,10:00,Valladolid,Espanyol,4-2-3-1,Diego Martínez,19212,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886578
+25,sáb 11/03/2023,10:00,Real Madrid,Espanyol,4-4-2 duplo 6,Diego Martínez,59782,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886587
+26,sáb 18/03/2023,14:30,Espanyol,Celta de Vigo,4-2-3-1,Diego Martínez,26231,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886597
+27,sáb 01/04/2023,09:00,Girona,Espanyol,4-4-1-1,Diego Martínez,12841,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886606
+28,sáb 08/04/2023,11:15,Espanyol,Athletic Club,4-2-3-1,Luis García,24903,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886614
+29,sáb 15/04/2023,13:30,Betis,Espanyol,4-3-3 ofensivo,Luis García,45313,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886621
+30,sex 21/04/2023,16:00,Espanyol,Cádiz CF,5-3-2,Luis García,28512,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886637
+31,qui 27/04/2023,14:30,Villarreal,Espanyol,4-4-1-1,Luis García,16134,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886648
+32,dom 30/04/2023,13:30,Espanyol,Getafe,3-4-1-2,Luis García,26953,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886653
+33,qui 04/05/2023,14:30,Sevilla,Espanyol,5-3-2,Luis García,35391,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886668
+34,dom 14/05/2023,16:00,Espanyol,Barcelona,5-3-2,Luis García,27360,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886674
+35,dom 21/05/2023,09:00,Rayo Vallecano,Espanyol,4-2-3-1,Luis García,12142,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886688
+36,qua 24/05/2023,17:00,Espanyol,Atlético,5-3-2,Luis García,25822,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886695
+37,dom 28/05/2023,14:00,Valencia,Espanyol,5-3-2,Luis García,44141,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886708
+38,dom 04/06/2023,16:00,Espanyol,UD Almería,4-2-3-1,Luis García,14213,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844556

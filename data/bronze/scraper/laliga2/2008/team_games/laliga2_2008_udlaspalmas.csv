@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 30/08/2008,13:30,Real Sociedad,Las Palmas,4-4-2,Juan Rodríguez,15000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/919630
+2,dom 07/09/2008,13:30,Las Palmas,Elche,4-4-2,Juan Rodríguez,11732,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/919641
+3,sáb 13/09/2008,15:00,Las Palmas,Zaragoza,4-4-2,Juan Manuel Rodríguez,17332,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/919652
+4,sáb 20/09/2008,13:30,Real Murcia,Las Palmas,4-4-2,Juan Rodríguez,12680,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/919664
+5,sáb 27/09/2008,13:30,Las Palmas,Hércules CF,4-4-2,Javi Vidales,12113,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/919675
+6,dom 05/10/2008,12:00,Alavés,Las Palmas,4-3-3 ofensivo,Juan Rodríguez,7357,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/919687
+7,sáb 11/10/2008,13:30,Las Palmas,Sevilha Atl.,5-3-2,Juan Rodríguez,12186,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/919698
+8,sáb 18/10/2008,13:00,Xerez CD,Las Palmas,4-4-2,Juan Rodríguez,7000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/919714
+9,sáb 25/10/2008,16:00,Las Palmas,Girona,4-4-2,Juan Rodríguez,13232,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/919725
+10,sáb 01/11/2008,16:30,Castellón,Las Palmas,4-4-2,Juan Rodríguez,7000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/919739
+11,sáb 08/11/2008,16:30,Las Palmas,Gimnàstic,4-4-2,Juan Rodríguez,12832,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/919741
+12,sáb 15/11/2008,15:30,Eibar,Las Palmas,4-5-1,Juan Rodríguez,1729,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/919761
+13,sáb 22/11/2008,15:30,Las Palmas,Tenerife,4-4-2,Juan Rodríguez,26131,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/919764
+14,sáb 29/11/2008,15:30,SD Huesca,Las Palmas,4-5-1,Juan Rodríguez,2500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/919780
+15,sáb 06/12/2008,15:30,Las Palmas,Celta de Vigo,4-4-2,Javi Vidales,11140,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/919791
+16,sáb 13/12/2008,15:30,Alicante,Las Palmas,4-4-2,Javi Vidales,2000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/919796
+17,sáb 20/12/2008,15:30,Las Palmas,Albacete,4-4-2,Javi Vidales,11122,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/919809
+18,sáb 03/01/2009,15:30,UD Salamanca,Las Palmas,4-4-2,Javi Vidales,7862,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/933138
+19,sáb 10/01/2009,17:00,Las Palmas,Córdoba,4-4-2,Javi Vidales,14129,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/933711
+20,sáb 17/01/2009,15:30,Rayo Vallecano,Las Palmas,4-4-2,Javi Vidales,8000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/934020
+21,sáb 24/01/2009,16:00,Las Palmas,Levante,4-4-2,Javi Vidales,13129,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/934454
+22,sáb 31/01/2009,15:30,Las Palmas,Real Sociedad,4-4-2,Javi Vidales,12579,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/934800
+23,dom 08/02/2009,14:00,Elche,Las Palmas,4-4-2,Javi Vidales,8235,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/935678
+24,sáb 14/02/2009,15:30,Zaragoza,Las Palmas,4-5-1,Javi Vidales,17302,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/936100
+25,sáb 21/02/2009,14:30,Las Palmas,Real Murcia,4-4-2,Javi Vidales,9124,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/936528
+26,sáb 28/02/2009,14:30,Hércules CF,Las Palmas,4-4-2,Javi Vidales,10000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/937089
+27,sáb 07/03/2009,16:00,Las Palmas,Alavés,4-4-2,Javi Vidales,7645,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/937816
+28,sáb 14/03/2009,14:30,Sevilha Atl.,Las Palmas,4-4-2,Javi Vidales,400,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/938297
+29,sáb 21/03/2009,14:30,Las Palmas,Xerez CD,4-4-2,Javi Vidales,11205,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939729
+30,sáb 28/03/2009,14:30,Girona,Las Palmas,4-5-1,Javi Vidales,2500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/940248
+31,sáb 04/04/2009,13:30,Las Palmas,Castellón,4-4-2,Javi Vidales,10239,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942275
+32,sáb 11/04/2009,13:30,Gimnàstic,Las Palmas,4-4-2,Javi Vidales,3500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942374
+33,sáb 18/04/2009,13:30,Las Palmas,Eibar,4-4-2,Javi Vidales,11123,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/943417
+34,sáb 25/04/2009,13:30,Tenerife,Las Palmas,4-4-2,Javi Vidales,21647,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/944183
+35,sáb 02/05/2009,13:00,Las Palmas,SD Huesca,4-4-2,Javi Vidales,7340,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/945214
+36,sáb 09/05/2009,13:30,Celta de Vigo,Las Palmas,4-4-2,Javi Vidales,6380,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/945557
+37,sáb 16/05/2009,13:30,Las Palmas,Alicante,4-3-3 ofensivo,Javi Vidales,8420,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/946204
+38,sáb 23/05/2009,13:30,Albacete,Las Palmas,4-4-2,Javi Vidales,4643,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/946854
+39,dom 31/05/2009,15:00,Las Palmas,UD Salamanca,4-3-3 ofensivo,Paco Castellano,9140,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/947186
+40,sáb 06/06/2009,13:30,Córdoba,Las Palmas,4-3-3 ofensivo,Paco Castellano,12000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/948665
+41,sáb 13/06/2009,13:30,Las Palmas,Rayo Vallecano,4-3-3 ofensivo,Paco Castellano,20340,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/948676
+42,sáb 20/06/2009,13:00,Levante,Las Palmas,4-4-2,Paco Castellano,9000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/948689

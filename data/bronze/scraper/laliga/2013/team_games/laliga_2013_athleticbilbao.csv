@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 17/08/2013,16:00,Valladolid,Athletic Club,4-2-3-1,Ernesto Valverde,15015,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2346409
+2,sex 23/08/2013,17:00,Athletic Club,Osasuna,4-2-3-1,Ernesto Valverde,20000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341130
+3,dom 01/09/2013,07:00,Real Madrid,Athletic Club,4-2-3-1,Ernesto Valverde,72231,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341065
+4,seg 16/09/2013,17:00,Athletic Club,Celta de Vigo,4-2-3-1,Ernesto Valverde,35686,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341079
+5,seg 23/09/2013,17:00,Espanyol,Athletic Club,4-1-4-1,Ernesto Valverde,17910,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341080
+6,qui 26/09/2013,15:00,Athletic Club,Betis,4-2-3-1,Ernesto Valverde,36000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341188
+7,seg 30/09/2013,17:00,Granada CF,Athletic Club,4-2-3-1,Ernesto Valverde,12346,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341203
+8,dom 06/10/2013,16:00,Athletic Club,Valencia,4-2-3-1,Ernesto Valverde,36651,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341162
+9,seg 21/10/2013,18:00,Athletic Club,Villarreal,4-2-3-1,Ernesto Valverde,36000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341169
+10,seg 28/10/2013,19:00,Getafe,Athletic Club,4-2-3-1,Ernesto Valverde,6543,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341163
+11,qui 31/10/2013,19:00,Athletic Club,Elche,4-2-3-1,Ernesto Valverde,36000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341146
+12,dom 03/11/2013,14:00,Atlético,Athletic Club,4-1-4-1,Ernesto Valverde,52000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341241
+13,sáb 09/11/2013,17:00,Athletic Club,Levante,4-2-3-1,Ernesto Valverde,34000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341244
+14,seg 25/11/2013,19:00,Málaga CF,Athletic Club,4-3-3 ofensivo,Ernesto Valverde,22000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341228
+15,dom 01/12/2013,18:00,Athletic Club,Barcelona,4-2-3-1,Ernesto Valverde,35950,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341240
+16,dom 15/12/2013,16:00,Sevilla,Athletic Club,4-2-3-1,Ernesto Valverde,31456,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341214
+17,dom 22/12/2013,16:00,Athletic Club,Rayo Vallecano,4-3-3 ofensivo,Ernesto Valverde,36000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341223
+18,dom 05/01/2014,17:00,Real Sociedad,Athletic Club,4-2-3-1,Ernesto Valverde,32076,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341050
+19,sáb 11/01/2014,13:00,Athletic Club,UD Almería,4-2-3-1,Ernesto Valverde,22500,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341057
+20,seg 20/01/2014,19:00,Athletic Club,Valladolid,4-2-3-1,Ernesto Valverde,28500,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341041
+21,dom 26/01/2014,14:00,Osasuna,Athletic Club,4-3-3 defensivo,Ernesto Valverde,14318,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341039
+22,dom 02/02/2014,18:00,Athletic Club,Real Madrid,4-2-3-1,Ernesto Valverde,47000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341023
+23,seg 10/02/2014,19:00,Celta de Vigo,Athletic Club,4-2-3-1,Ernesto Valverde,27300,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341006
+24,dom 16/02/2014,15:00,Athletic Club,Espanyol,4-2-3-1,Ernesto Valverde,33500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341011
+25,dom 23/02/2014,13:00,Betis,Athletic Club,4-2-3-1,Ernesto Valverde,28061,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341118
+26,sex 28/02/2014,16:30,Athletic Club,Granada CF,4-2-3-1,Ernesto Valverde,33000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341132
+27,dom 09/03/2014,17:00,Valencia,Athletic Club,4-2-3-1,Ernesto Valverde,33600,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341104
+28,seg 17/03/2014,18:00,Villarreal,Athletic Club,4-3-3 ofensivo,Ernesto Valverde,15475,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341319
+29,sáb 22/03/2014,18:00,Athletic Club,Getafe,4-2-3-1,Ernesto Valverde,33200,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341308
+30,ter 25/03/2014,18:00,Elche,Athletic Club,4-2-3-1,Ernesto Valverde,24752,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341300
+31,sáb 29/03/2014,16:00,Athletic Club,Atlético,4-2-3-1,Ernesto Valverde,35650,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341286
+32,seg 07/04/2014,17:00,Levante,Athletic Club,4-2-3-1,Ernesto Valverde,10664,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341288
+33,seg 14/04/2014,17:00,Athletic Club,Málaga CF,4-2-3-1,Ernesto Valverde,31000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341335
+34,dom 20/04/2014,16:00,Barcelona,Athletic Club,4-2-3-1,Ernesto Valverde,57090,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341368
+35,dom 27/04/2014,14:00,Athletic Club,Sevilla,4-2-3-1,Ernesto Valverde,35630,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341333
+36,sex 02/05/2014,16:00,Rayo Vallecano,Athletic Club,4-1-4-1,Ernesto Valverde,13874,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341339
+37,dom 11/05/2014,12:00,Athletic Club,Real Sociedad,4-2-3-1,Ernesto Valverde,34000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341282
+38,dom 18/05/2014,13:00,UD Almería,Athletic Club,4-2-3-1,Ernesto Valverde,10000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2341254

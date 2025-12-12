@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 25/07/2021,08:30,Sandhausen,Düsseldorf,4-3-3 ofensivo,Christian Preußer,3454,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588163
+2,sáb 31/07/2021,15:30,Düsseldorf,Werder Bremen,4-4-2 duplo 6,Christian Preußer,12850,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588186
+3,sáb 14/08/2021,08:30,Nuremberg,Düsseldorf,4-4-2 duplo 6,Christian Preußer,12361,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588208
+4,sex 20/08/2021,13:30,Düsseldorf,Holstein Kiel,4-2-3-1,Christian Preußer,16349,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588230
+5,sáb 28/08/2021,15:30,Schalke,Düsseldorf,4-2-3-1,Christian Preußer,25000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588248
+6,dom 12/09/2021,08:30,Erzgebirge Aue,Düsseldorf,4-2-3-1,Christian Preußer,6064,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588269
+7,sáb 18/09/2021,08:30,Düsseldorf,J. Regensburg,4-4-2 duplo 6,Christian Preußer,19256,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588295
+8,sáb 25/09/2021,08:30,Ingolstadt,Düsseldorf,4-4-2 duplo 6,Christian Preußer,4579,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588318
+9,sáb 02/10/2021,08:30,Düsseldorf,Paderborn,4-2-3-1,Christian Preußer,19727,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588331
+10,sáb 16/10/2021,15:30,Hamburgo,Düsseldorf,4-3-3 ofensivo,Christian Preußer,38954,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588355
+11,sáb 23/10/2021,08:30,Düsseldorf,Karlsruher,4-1-4-1,Christian Preußer,22458,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588366
+12,dom 31/10/2021,09:30,Hansa Rostock,Düsseldorf,4-3-3 ofensivo,Christian Preußer,21000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588398
+13,sáb 06/11/2021,09:30,Düsseldorf,Hannover,4-3-3 ofensivo,Christian Preußer,22398,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588411
+14,dom 21/11/2021,09:30,Dynamo Dresden,Düsseldorf,4-4-2 duplo 6,Christian Preußer,8912,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588433
+15,sex 26/11/2021,14:30,Düsseldorf,Heidenheim,4-4-2 duplo 6,Christian Preußer,13873,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588448
+16,sex 03/12/2021,14:30,Darmstadt 98,Düsseldorf,3-4-1-2,Christian Preußer,12450,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588473
+17,sáb 11/12/2021,16:30,Düsseldorf,St. Pauli,3-4-1-2,Christian Preußer,15000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588502
+18,sex 17/12/2021,14:30,Düsseldorf,Sandhausen,3-4-1-2,Christian Preußer,10543,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588519
+19,sáb 15/01/2022,09:30,Werder Bremen,Düsseldorf,4-2-3-1,Christian Preußer,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588535
+20,sex 21/01/2022,14:30,Düsseldorf,Nuremberg,4-4-2 duplo 6,Christian Preußer,750,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588554
+21,dom 06/02/2022,09:30,Holstein Kiel,Düsseldorf,4-4-2 duplo 6,Christian Preußer,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588573
+22,dom 13/02/2022,09:30,Düsseldorf,Schalke,4-4-2 duplo 6,Daniel Thioune,10000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588599
+23,dom 20/02/2022,09:30,Düsseldorf,Erzgebirge Aue,4-3-3 ofensivo,Daniel Thioune,10000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588619
+24,dom 27/02/2022,09:30,J. Regensburg,Düsseldorf,4-1-4-1,Daniel Thioune,6319,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588639
+25,dom 06/03/2022,09:30,Düsseldorf,Ingolstadt,4-4-2 duplo 6,Daniel Thioune,15200,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588661
+26,sáb 12/03/2022,09:30,Paderborn,Düsseldorf,4-2-3-1,Daniel Thioune,5253,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588689
+27,sáb 19/03/2022,09:30,Düsseldorf,Hamburgo,4-2-3-1,Daniel Thioune,31353,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588679
+28,dom 03/04/2022,08:30,Karlsruher,Düsseldorf,4-4-2 duplo 6,Daniel Thioune,17907,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588703
+29,sex 08/04/2022,13:30,Düsseldorf,Hansa Rostock,4-2-3-1,Daniel Thioune,22346,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588712
+30,sáb 16/04/2022,08:30,Hannover,Düsseldorf,4-2-3-1,Daniel Thioune,17250,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588723
+31,sex 22/04/2022,13:30,Düsseldorf,Dynamo Dresden,4-2-3-1,Daniel Thioune,25264,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588730
+32,sex 29/04/2022,13:30,Heidenheim,Düsseldorf,4-2-3-1,Daniel Thioune,7778,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588739
+33,sex 06/05/2022,13:30,Düsseldorf,Darmstadt 98,4-2-3-1,Daniel Thioune,31622,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588749
+34,dom 15/05/2022,10:30,St. Pauli,Düsseldorf,5-4-1 plano,Daniel Thioune,29546,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588758

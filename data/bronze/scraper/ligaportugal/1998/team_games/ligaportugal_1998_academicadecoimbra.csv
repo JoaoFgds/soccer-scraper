@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 22/08/1998,19:00,Chaves,Académica,?,Raúl Águas,5000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855174
+2,sáb 29/08/1998,19:00,Académica,Campomaiorense,?,Raúl Águas,4000,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855180
+3,qui 10/09/1998,19:00,Académica,Sporting,?,Raúl Águas,7000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855185
+4,sáb 19/09/1998,19:00,CF Estrela,Académica,?,Raúl Águas,2000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855198
+5,sáb 26/09/1998,19:00,Académica,Rio Ave,?,Raúl Águas,4000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855207
+6,qui 01/10/1998,19:00,Beira-Mar,Académica,?,Raúl Águas,2000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855212
+7,sáb 17/10/1998,20:00,Académica,Farense,?,Raúl Águas,4000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855226
+8,sáb 24/10/1998,20:00,Marítimo,Académica,?,Raúl Águas,4000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855235
+9,sáb 31/10/1998,21:00,Académica,Vit. Guimarães,?,Raúl Águas,3000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855246
+10,sex 06/11/1998,21:00,Alverca,Académica,?,Raúl Águas,3000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855251
+11,qui 12/11/1998,21:00,Académica,Boavista,?,Raúl Águas,6000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855257
+12,sáb 21/11/1998,21:00,Leiria,Académica,?,Raúl Águas,6000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855272
+13,sex 09/10/1998,19:00,Académica,Salgueiros,?,Raúl Águas,3500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855275
+14,dom 06/12/1998,21:00,Braga,Académica,?,Vítor Manuel,6000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855292
+15,dom 13/12/1998,21:00,Académica,FC Porto,?,Vítor Manuel,7000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855301
+16,sáb 19/12/1998,21:00,Benfica,Académica,?,Vítor Manuel,45000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855304
+17,dom 03/01/1999,21:00,Académica,Vitória FC,?,Vítor Manuel,2000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855319
+18,sex 15/01/1999,21:00,Académica,Chaves,?,Vítor Manuel,2000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855322
+19,sáb 23/01/1999,21:00,Campomaiorense,Académica,?,Vítor Manuel,2000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855333
+20,dom 31/01/1999,16:00,Sporting,Académica,5-3-2,Vítor Manuel,25000,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855342
+21,sáb 06/02/1999,21:00,Académica,CF Estrela,?,Vítor Manuel,4000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855352
+22,sex 12/02/1999,21:00,Rio Ave,Académica,?,Gregório Freixo,1500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855361
+23,sáb 20/02/1999,20:00,Académica,Beira-Mar,?,Gregório Freixo,3000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855371
+24,sáb 27/02/1999,20:00,Farense,Académica,?,Gregório Freixo,3500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855379
+25,sáb 13/03/1999,20:00,Académica,Marítimo,?,Gregório Freixo,3000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855390
+26,sáb 20/03/1999,20:00,Vit. Guimarães,Académica,?,Gregório Freixo,6000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855399
+27,sex 02/04/1999,19:00,Académica,Alverca,?,Gregório Freixo,2000,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855406
+28,qui 15/04/1999,19:00,Boavista,Académica,?,Gregório Freixo,2000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855410
+29,sáb 24/04/1999,19:00,Académica,Leiria,?,Gregório Freixo,2000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855425
+30,sáb 01/05/1999,19:00,Salgueiros,Académica,?,Gregório Freixo,2500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855435
+31,sex 07/05/1999,19:00,Académica,Braga,?,Gregório Freixo,1500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855441
+32,dom 16/05/1999,17:00,FC Porto,Académica,4-1-4-1,Gregório Freixo,20000,7:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855455
+33,sáb 22/05/1999,19:00,Académica,Benfica,?,Gregório Freixo,4000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855464
+34,sáb 29/05/1999,19:00,Vitória FC,Académica,?,Gregório Freixo,10000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855468

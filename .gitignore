@@ -64,7 +64,6 @@ venv.bak/
 *.swo
 
 # Data files 
-data/
 logs/
 
 # OS-specific files

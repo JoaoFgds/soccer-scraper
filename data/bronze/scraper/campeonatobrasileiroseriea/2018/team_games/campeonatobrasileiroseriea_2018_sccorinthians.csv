@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 15/04/2018,16:00,Corinthians,Fluminense,4-2-3-1,Fábio Carille,28777,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3011400
+2,dom 22/04/2018,11:00,Paraná,Corinthians,4-2-3-1,Fábio Carille,16772,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3034134
+3,dom 29/04/2018,16:00,Atlético-MG,Corinthians,4-4-2 duplo 6,Fábio Carille,19825,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3034144
+4,dom 06/05/2018,11:00,Corinthians,Ceará,4-2-3-1,Fábio Carille,40350,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036818
+5,dom 13/05/2018,16:00,Corinthians,Palmeiras,4-4-2 duplo 6,Fábio Carille,35246,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036826
+6,dom 20/05/2018,16:00,Sport,Corinthians,4-2-3-1,Fábio Carille,28942,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036842
+7,dom 27/05/2018,16:00,Internacional,Corinthians,4-2-3-1,Osmar Loss,30791,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036852
+8,qui 31/05/2018,18:00,Corinthians,América-MG,4-4-2 duplo 6,Osmar Loss,34921,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036863
+9,dom 03/06/2018,16:00,Flamengo,Corinthians,4-4-2 duplo 6,Osmar Loss,49222,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036871
+10,qua 06/06/2018,21:00,Corinthians,Santos,4-2-3-1,Osmar Loss,27586,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036879
+11,sáb 09/06/2018,21:00,Corinthians,Vitória,4-2-3-1,Osmar Loss,27990,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036893
+12,qua 13/06/2018,21:45,Bahia,Corinthians,4-2-3-1,Osmar Loss,15041,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036898
+13,qua 18/07/2018,21:45,Corinthians,Botafogo,4-2-3-1,Osmar Loss,19830,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036913
+14,sáb 21/07/2018,21:00,São Paulo,Corinthians,4-2-3-1,Osmar Loss,58624,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036921
+15,qua 25/07/2018,21:45,Corinthians,Cruzeiro,4-2-3-1,Osmar Loss,21031,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036933
+16,dom 29/07/2018,11:00,Vasco da Gama,Corinthians,4-2-3-1,Osmar Loss,33516,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036939
+17,sáb 04/08/2018,21:00,Corinthians,Atlético-PR,4-2-3-1,Osmar Loss,28662,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036953
+18,dom 12/08/2018,16:00,Chapecoense,Corinthians,4-2-3-1,Osmar Loss,10070,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036957
+19,sáb 18/08/2018,19:00,Corinthians,Grêmio,4-2-3-1,Osmar Loss,32848,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036973
+20,qua 22/08/2018,21:45,Fluminense,Corinthians,4-2-3-1,Osmar Loss,7856,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036979
+21,sáb 25/08/2018,19:00,Corinthians,Paraná,4-2-3-1,Osmar Loss,28375,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036993
+22,sáb 01/09/2018,21:00,Corinthians,Atlético-MG,4-2-3-1,Osmar Loss,29609,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037003
+23,qua 05/09/2018,20:00,Ceará,Corinthians,4-2-3-1,Osmar Loss,39785,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037011
+24,dom 09/09/2018,16:00,Palmeiras,Corinthians,4-2-3-1,Jair Ventura,38568,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037023
+25,dom 16/09/2018,19:00,Corinthians,Sport,4-2-3-1,Jair Ventura,21112,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037033
+26,dom 23/09/2018,16:00,Corinthians,Internacional,4-2-3-1,Jair Ventura,27199,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037043
+27,sáb 29/09/2018,19:00,América-MG,Corinthians,4-1-4-1,Jair Ventura,8012,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037047
+28,sex 05/10/2018,21:00,Corinthians,Flamengo,4-2-3-1,Jair Ventura,41943,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037063
+29,sáb 13/10/2018,19:00,Santos,Corinthians,4-2-3-1,Jair Ventura,26428,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037072
+30,dom 21/10/2018,16:00,Vitória,Corinthians,4-2-3-1,Jair Ventura,18663,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037078
+31,sáb 27/10/2018,19:00,Corinthians,Bahia,4-2-3-1,Jair Ventura,35577,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037093
+32,dom 04/11/2018,17:00,Botafogo,Corinthians,4-2-3-1,Jair Ventura,21463,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037100
+33,sáb 10/11/2018,17:00,Corinthians,São Paulo,4-1-4-1,Jair Ventura,43122,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037113
+34,qua 14/11/2018,21:45,Cruzeiro,Corinthians,4-3-3 defensivo,Jair Ventura,15520,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037115
+35,sáb 17/11/2018,19:00,Corinthians,Vasco da Gama,4-2-3-1,Jair Ventura,38605,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037133
+36,qua 21/11/2018,21:45,Atlético-PR,Corinthians,4-2-3-1,Jair Ventura,16332,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037136
+37,dom 25/11/2018,19:00,Corinthians,Chapecoense,4-2-3-1,Jair Ventura,36110,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037153
+38,dom 02/12/2018,17:00,Grêmio,Corinthians,4-2-3-1,Jair Ventura,41330,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037164

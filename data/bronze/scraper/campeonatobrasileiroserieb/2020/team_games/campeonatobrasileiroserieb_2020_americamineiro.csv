@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 08/08/2020,21:00,Ponte Preta,América-MG,4-4-2,Lisca,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3392050
+2,ter 11/08/2020,21:30,América-MG,Cuiabá,4-2-3-1,Lisca,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3414461
+3,sex 14/08/2020,19:15,América-MG,Operário-PR,4-2-3-1,Lisca,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416266
+4,seg 17/08/2020,20:00,Juventude,América-MG,4-2-3-1,Lisca,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416276
+5,sex 21/08/2020,19:15,América-MG,Oeste,4-2-3-1,Lisca,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416787
+6,sáb 29/08/2020,19:00,Cruzeiro,América-MG,4-2-3-1,Lisca,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416807
+7,qua 02/09/2020,16:30,América-MG,CSA,4-2-3-1,Lisca,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416816
+8,sáb 05/09/2020,19:00,Sampaio Corrêa,América-MG,4-4-2,Lisca,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416824
+9,qua 09/09/2020,19:15,Paraná,América-MG,4-2-3-1,Lisca,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416830
+10,sáb 19/09/2020,16:30,América-MG,Figueirense,4-2-3-1,Lisca,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418156
+11,sex 25/09/2020,19:15,Chapecoense,América-MG,4-2-3-1,Lisca,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418175
+12,seg 28/09/2020,20:00,CRB,América-MG,4-2-3-1,Lisca,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418178
+13,sáb 03/10/2020,11:00,América-MG,Guarani,4-2-3-1,Lisca,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418186
+14,ter 06/10/2020,19:15,Vitória,América-MG,4-2-3-1,Lisca,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418202
+15,sex 09/10/2020,19:15,América-MG,Náutico,4-3-3 ofensivo,Lisca,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418206
+16,sex 16/10/2020,19:15,Botafogo-SP,América-MG,4-1-4-1,Lisca,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418220
+17,ter 20/10/2020,16:30,América-MG,Brasil Pelotas,4-1-4-1,Lisca,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418226
+18,sáb 24/10/2020,23:00,América-MG,Confiança,4-1-4-1,Lisca,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418236
+19,sáb 31/10/2020,19:00,Avaí,América-MG,4-4-2,Lisca,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418247
+20,sáb 07/11/2020,18:30,América-MG,Ponte Preta,4-3-3 ofensivo,Lisca,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418256
+21,sáb 14/11/2020,21:30,Cuiabá,América-MG,4-2-3-1,Lisca,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418275
+22,sáb 21/11/2020,16:30,Operário-PR,América-MG,4-3-3 ofensivo,Lisca,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418281
+23,ter 24/11/2020,21:30,América-MG,Juventude,4-1-4-1,Lisca,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418286
+24,sex 27/11/2020,19:15,Oeste,América-MG,4-1-4-1,Lisca,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418300
+25,qua 02/12/2020,21:30,América-MG,Cruzeiro,4-1-4-1,Lisca,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418306
+26,sáb 05/12/2020,18:30,CSA,América-MG,4-1-4-1,Lisca,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418318
+27,ter 08/12/2020,19:15,América-MG,Sampaio Corrêa,4-2-3-1,Lisca,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418346
+28,sáb 12/12/2020,18:30,América-MG,Paraná,4-2-3-1,Lisca,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418336
+29,qui 17/12/2020,19:15,Figueirense,América-MG,4-2-3-1,Lisca,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418327
+30,dom 20/12/2020,16:00,América-MG,Chapecoense,4-3-3 ofensivo,Lisca,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418356
+31,sáb 26/12/2020,18:30,América-MG,CRB,4-3-3 ofensivo,Lisca,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418366
+32,sáb 02/01/2021,21:00,Guarani,América-MG,4-3-3 ofensivo,Lisca,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419418
+33,sáb 09/01/2021,19:00,América-MG,Vitória,4-3-3 ofensivo,Felipe Conceição,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419425
+34,ter 12/01/2021,19:15,Náutico,América-MG,4-3-3 ofensivo,Lisca,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419450
+35,sex 15/01/2021,21:30,América-MG,Botafogo-SP,4-3-3 defensivo,Lisca,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419453
+36,ter 19/01/2021,16:00,Brasil Pelotas,América-MG,4-3-3 ofensivo,Lisca,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419485
+37,sáb 23/01/2021,16:15,Confiança,América-MG,4-2-3-1,Lisca,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419504
+38,sex 29/01/2021,21:30,América-MG,Avaí,4-3-3 ofensivo,Lisca,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419506

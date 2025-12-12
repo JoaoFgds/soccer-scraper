@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 10/07/1992,15:00,VfL Osnabrück,Wolfsburg,?,Uwe Erkenbrecher,7000,3:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/924508
+2,ter 14/07/1992,15:00,Wolfsburg,VfB Oldenburg,?,Uwe Erkenbrecher,5000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/924522
+3,sáb 18/07/1992,10:30,Stuttg. Kickers,Wolfsburg,?,Uwe Erkenbrecher,4700,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/924533
+4,qua 22/07/1992,15:00,Wolfsburg,Freiburg,3-5-2 plano,Uwe Erkenbrecher,8000,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/982374
+5,sáb 25/07/1992,10:30,Hannover,Wolfsburg,?,Uwe Erkenbrecher,17355,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977784
+6,sáb 01/08/1992,10:30,Chemnitzer FC,Wolfsburg,?,Uwe Erkenbrecher,2520,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977795
+7,dom 09/08/1992,10:00,Wolfsburg,FC Remscheid,?,Uwe Erkenbrecher,4000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977811
+8,qua 12/08/1992,15:00,Carl Zeiss Jena,Wolfsburg,?,Uwe Erkenbrecher,5323,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977821
+9,sáb 15/08/1992,10:30,Wolfsburg,W. Mannheim,?,Uwe Erkenbrecher,5500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977839
+10,sáb 22/08/1992,10:30,Mainz,Wolfsburg,?,Uwe Erkenbrecher,4300,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977852
+11,qua 26/08/1992,13:30,Wolfsburg,MSV Duisburg,?,Uwe Erkenbrecher,6500,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977864
+12,dom 30/08/1992,10:00,SV Meppen,Wolfsburg,?,Uwe Erkenbrecher,5000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977880
+13,qua 02/09/1992,13:00,Wolfsburg,FC 08 Homburg,?,Uwe Erkenbrecher,4000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977888
+14,dom 06/09/1992,10:00,St. Pauli,Wolfsburg,?,Uwe Erkenbrecher,11400,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977901
+15,sáb 19/09/1992,10:30,Wolfsburg,Hertha Berlim,?,Uwe Erkenbrecher,4500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977911
+16,sáb 26/09/1992,10:30,Darmstadt 98,Wolfsburg,?,Uwe Erkenbrecher,3800,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977925
+17,dom 04/10/1992,11:00,Wolfsburg,E. Braunschweig,?,Uwe Erkenbrecher,8900,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977939
+18,sex 16/10/1992,16:00,VfB Leipzig,Wolfsburg,?,Uwe Erkenbrecher,1100,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977946
+19,dom 25/10/1992,12:00,Wolfsburg,Wuppertaler SV,?,Uwe Erkenbrecher,4000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977968
+20,sex 30/10/1992,17:00,Fortuna Köln,Wolfsburg,?,Uwe Erkenbrecher,3000,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977970
+21,sáb 14/11/1992,11:30,Wolfsburg,Unterhaching,?,Uwe Erkenbrecher,2305,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977989
+22,sáb 21/11/1992,12:30,Hansa Rostock,Wolfsburg,?,Uwe Erkenbrecher,2500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978007
+23,sáb 28/11/1992,11:15,Wolfsburg,Düsseldorf,?,Uwe Erkenbrecher,3600,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978021
+24,sáb 05/12/1992,11:00,Wolfsburg,VfL Osnabrück,?,Uwe Erkenbrecher,3000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978031
+25,dom 13/12/1992,11:00,VfB Oldenburg,Wolfsburg,?,Uwe Erkenbrecher,5000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978049
+26,sáb 06/02/1993,10:30,Wolfsburg,Stuttg. Kickers,3-5-2,Uwe Erkenbrecher,3058,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978054
+27,sáb 13/02/1993,11:00,Freiburg,Wolfsburg,3-5-2,Uwe Erkenbrecher,8000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978191
+28,sáb 20/02/1993,11:00,Wolfsburg,Hannover,?,Eckhard Krautzun,6200,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978204
+29,dom 28/02/1993,11:00,Wolfsburg,Chemnitzer FC,3-5-2,Eckhard Krautzun,5800,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978223
+30,dom 07/03/1993,11:00,FC Remscheid,Wolfsburg,?,Eckhard Krautzun,2000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978334
+31,sáb 13/03/1993,11:30,Wolfsburg,Carl Zeiss Jena,?,Eckhard Krautzun,6000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978343
+32,sáb 20/03/1993,11:30,W. Mannheim,Wolfsburg,3-5-2,Eckhard Krautzun,9200,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978352
+33,dom 28/03/1993,10:00,Wolfsburg,Mainz,?,Eckhard Krautzun,4000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978370
+34,sex 02/04/1993,14:30,MSV Duisburg,Wolfsburg,?,Uwe Erkenbrecher,9000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978373
+35,sáb 10/04/1993,10:30,Wolfsburg,SV Meppen,?,Eckhard Krautzun,4000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978393
+36,sex 16/04/1993,15:00,FC 08 Homburg,Wolfsburg,?,Eckhard Krautzun,1850,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978398
+37,sáb 24/04/1993,10:30,Wolfsburg,St. Pauli,?,Eckhard Krautzun,5355,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978416
+38,ter 27/04/1993,15:00,Hertha Berlim,Wolfsburg,?,Eckhard Krautzun,3088,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978424
+39,sáb 01/05/1993,10:30,Wolfsburg,Darmstadt 98,?,Eckhard Krautzun,3600,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978437
+40,sáb 08/05/1993,10:30,E. Braunschweig,Wolfsburg,?,Eckhard Krautzun,14000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978454
+41,qua 12/05/1993,13:30,Wolfsburg,VfB Leipzig,?,Eckhard Krautzun,6100,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978463
+42,sáb 15/05/1993,10:30,Wuppertaler SV,Wolfsburg,?,Eckhard Krautzun,5500,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978475
+43,sáb 22/05/1993,10:30,Wolfsburg,Fortuna Köln,?,Eckhard Krautzun,5500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978493
+44,ter 25/05/1993,14:30,Unterhaching,Wolfsburg,?,Eckhard Krautzun,7000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978504
+45,ter 18/05/1993,13:30,Wolfsburg,Hansa Rostock,3-5-2,Eckhard Krautzun,6626,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/982340
+46,dom 06/06/1993,10:00,Düsseldorf,Wolfsburg,?,Eckhard Krautzun,1800,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/982356

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 06/08/2022,10:30,Augsburg,Freiburg,3-5-2 plano,Enrico Maaßen,26310,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839032
+2,sáb 13/08/2022,10:30,Leverkusen,Augsburg,3-5-2 plano,Enrico Maaßen,22903,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839053
+3,sáb 20/08/2022,10:30,Augsburg,Mainz,3-4-2-1,Enrico Maaßen,23755,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839086
+4,sáb 27/08/2022,10:30,Hoffenheim,Augsburg,3-4-1-2,Enrico Maaßen,17206,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839101
+5,dom 04/09/2022,10:30,Augsburg,Hertha Berlim,3-5-2 plano,Enrico Maaßen,25789,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839112
+6,sex 09/09/2022,15:30,Werder Bremen,Augsburg,4-4-2 duplo 6,Enrico Maaßen,41000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839122
+7,sáb 17/09/2022,10:30,Augsburg,Bayern,4-4-2 duplo 6,Enrico Maaßen,30660,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839139
+8,dom 02/10/2022,12:30,Schalke,Augsburg,4-4-2 duplo 6,Enrico Maaßen,60328,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839157
+9,sáb 08/10/2022,10:30,Augsburg,Wolfsburg,4-4-2 duplo 6,Enrico Maaßen,26220,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839165
+10,dom 16/10/2022,10:30,Colônia,Augsburg,4-4-2 duplo 6,Enrico Maaßen,49000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839180
+11,sáb 22/10/2022,10:30,Augsburg,Leipzig,4-4-2 duplo 6,Enrico Maaßen,25109,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839202
+12,sáb 29/10/2022,10:30,Stuttgart,Augsburg,4-4-2 duplo 6,Enrico Maaßen,46400,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839219
+13,sáb 05/11/2022,11:30,Augsburg,Frankfurt,4-4-2 duplo 6,Enrico Maaßen,30087,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839237
+14,qua 09/11/2022,16:30,Union Berlim,Augsburg,4-4-2 duplo 6,Enrico Maaßen,21614,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839251
+15,sáb 12/11/2022,11:30,Augsburg,Bochum,3-4-3 plano,Enrico Maaßen,28011,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839263
+16,dom 22/01/2023,11:30,Dortmund,Augsburg,4-4-2,Enrico Maaßen,81365,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839276
+17,qua 25/01/2023,16:30,Augsburg,M'gladbach,4-4-2 duplo 6,Enrico Maaßen,23158,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839299
+18,sáb 28/01/2023,11:30,Freiburg,Augsburg,4-4-2 duplo 6,Enrico Maaßen,33500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839315
+19,sex 03/02/2023,16:30,Augsburg,Leverkusen,4-4-2,Enrico Maaßen,27318,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839337
+20,sáb 11/02/2023,11:30,Mainz,Augsburg,4-4-2 duplo 6,Enrico Maaßen,22200,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839352
+21,sex 17/02/2023,16:30,Augsburg,Hoffenheim,4-4-2 duplo 6,Enrico Maaßen,25872,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839373
+22,sáb 25/02/2023,11:30,Hertha Berlim,Augsburg,4-4-2 duplo 6,Enrico Maaßen,40522,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839390
+23,sáb 04/03/2023,11:30,Augsburg,Werder Bremen,4-4-2 duplo 6,Enrico Maaßen,30660,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839400
+24,sáb 11/03/2023,11:30,Bayern,Augsburg,4-4-2 duplo 6,Enrico Maaßen,75000,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839411
+25,sáb 18/03/2023,11:30,Augsburg,Schalke,4-4-2,Enrico Maaßen,30660,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839436
+26,sáb 01/04/2023,10:30,Wolfsburg,Augsburg,4-4-2,Enrico Maaßen,22107,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839453
+27,sáb 08/04/2023,10:30,Augsburg,Colônia,4-4-2,Enrico Maaßen,30660,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839472
+28,sáb 15/04/2023,10:30,Leipzig,Augsburg,3-4-2-1,Enrico Maaßen,46058,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839484
+29,sex 21/04/2023,15:30,Augsburg,Stuttgart,4-4-2,Enrico Maaßen,30660,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839508
+30,sáb 29/04/2023,10:30,Frankfurt,Augsburg,4-4-2,Enrico Maaßen,50000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839514
+31,sáb 06/05/2023,10:30,Augsburg,Union Berlim,3-4-3 plano,Enrico Maaßen,30660,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839534
+32,sáb 13/05/2023,10:30,Bochum,Augsburg,3-4-3 plano,Enrico Maaßen,24453,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839553
+33,dom 21/05/2023,12:30,Augsburg,Dortmund,4-3-3 ofensivo,Enrico Maaßen,30660,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839569
+34,sáb 27/05/2023,10:30,M'gladbach,Augsburg,4-4-2 duplo 6,Enrico Maaßen,52186,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839586

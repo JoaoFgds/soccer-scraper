@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 16/04/2006,14:00,Goiás,Santos,?,Vanderlei Luxemburgo,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530303
+2,dom 23/04/2006,14:00,Santos,Atlético-PR,5-3-2,Vanderlei Luxemburgo,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530308
+3,dom 30/04/2006,14:00,Palmeiras,Santos,?,Vanderlei Luxemburgo,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530318
+4,sáb 06/05/2006,16:10,Santos,Fortaleza,?,Vanderlei Luxemburgo,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530325
+5,sáb 13/05/2006,16:10,Santos,Ponte Preta,4-4-2 duplo 6,Vanderlei Luxemburgo,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530336
+6,dom 21/05/2006,16:10,Fluminense,Santos,?,Vanderlei Luxemburgo,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530352
+7,ter 23/05/2006,19:45,Flamengo,Santos,?,Vanderlei Luxemburgo,3240,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530369
+8,dom 28/05/2006,16:00,Santos,Corinthians,?,Vanderlei Luxemburgo,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4413592
+9,ter 30/05/2006,19:45,Grêmio,Santos,?,Vanderlei Luxemburgo,16561,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530390
+10,dom 04/06/2006,16:10,Santos,Botafogo,?,Vanderlei Luxemburgo,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530492
+11,ter 11/07/2006,19:45,Figueirense,Santos,5-3-2,Vanderlei Luxemburgo,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530497
+12,dom 16/07/2006,14:00,São Caetano,Santos,?,Vanderlei Luxemburgo,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530511
+13,dom 23/07/2006,16:10,Santos,Juventude,?,Vanderlei Luxemburgo,,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530529
+14,dom 30/07/2006,14:00,São Paulo,Santos,?,Vanderlei Luxemburgo,,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530589
+15,dom 06/08/2006,14:00,Santos,Internacional,?,Vanderlei Luxemburgo,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530598
+16,dom 13/08/2006,16:10,Paraná,Santos,?,Vanderlei Luxemburgo,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530903
+17,qui 17/08/2006,18:30,Santos,Cruzeiro,?,Vanderlei Luxemburgo,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530910
+18,dom 20/08/2006,14:00,Santos,Vasco da Gama,?,Vanderlei Luxemburgo,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530919
+19,ter 22/08/2006,20:00,Santa Cruz,Santos,?,Vanderlei Luxemburgo,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530928
+20,sáb 26/08/2006,16:10,Santos,Goiás,?,Vanderlei Luxemburgo,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530935
+21,ter 29/08/2006,20:00,Atlético-PR,Santos,5-3-2,Vanderlei Luxemburgo,10603,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530951
+22,dom 03/09/2006,14:00,Santos,Palmeiras,?,Vanderlei Luxemburgo,,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530960
+23,dom 10/09/2006,16:10,Fortaleza,Santos,?,Vanderlei Luxemburgo,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2530976
+24,dom 17/09/2006,16:10,Ponte Preta,Santos,?,Vanderlei Luxemburgo,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2531418
+25,ter 19/09/2006,20:00,Santos,Fluminense,4-4-2 duplo 6,Vanderlei Luxemburgo,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2531427
+26,dom 24/09/2006,14:00,Santos,Flamengo,?,Vanderlei Luxemburgo,6032,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2532146
+27,qui 05/10/2006,18:30,Corinthians,Santos,?,Vanderlei Luxemburgo,,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2532161
+28,dom 08/10/2006,16:10,Santos,Grêmio,?,Vanderlei Luxemburgo,15539,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2532360
+29,sáb 14/10/2006,16:10,Botafogo,Santos,5-3-2,Vanderlei Luxemburgo,,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2532438
+30,sáb 21/10/2006,16:10,Santos,Figueirense,?,Vanderlei Luxemburgo,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2532943
+31,sáb 28/10/2006,16:10,Santos,São Caetano,?,Vanderlei Luxemburgo,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2533309
+32,ter 31/10/2006,20:45,Juventude,Santos,?,Vanderlei Luxemburgo,,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2533315
+33,sáb 04/11/2006,15:00,Santos,São Paulo,?,Vanderlei Luxemburgo,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2533322
+34,ter 07/11/2006,21:45,Internacional,Santos,?,Vanderlei Luxemburgo,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2533557
+35,sáb 11/11/2006,18:10,Santos,Paraná,?,Vanderlei Luxemburgo,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2533967
+36,dom 19/11/2006,18:10,Cruzeiro,Santos,4-4-2 duplo 6,Vanderlei Luxemburgo,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2533983
+37,dom 26/11/2006,16:00,Vasco da Gama,Santos,4-3-3 ofensivo,Vanderlei Luxemburgo,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2533991
+38,dom 03/12/2006,16:00,Santos,Santa Cruz,?,Vanderlei Luxemburgo,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2534003

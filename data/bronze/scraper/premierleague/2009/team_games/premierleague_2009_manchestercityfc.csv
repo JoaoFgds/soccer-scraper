@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 15/08/2009,11:00,Blackburn,Man City,4-4-2 duplo 6,Mark Hughes,29584,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/954253
+2,qua 24/03/2010,16:45,Man City,Everton,4-3-3 ofensivo,Roberto Mancini,45708,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/960953
+3,sáb 22/08/2009,11:00,Man City,Wolves,4-4-2 duplo 6,Mark Hughes,47287,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/954274
+4,dom 30/08/2009,09:30,FC Portsmouth,Man City,4-2-3-1,Mark Hughes,17826,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/954285
+5,sáb 12/09/2009,11:00,Man City,Arsenal,4-3-3 ofensivo,Mark Hughes,47339,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/954293
+6,dom 20/09/2009,09:30,Man Utd,Man City,4-3-3 ofensivo,Mark Hughes,75066,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/954521
+7,seg 28/09/2009,16:00,Man City,West Ham,4-4-2 duplo 6,Mark Hughes,42745,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/954528
+8,seg 05/10/2009,16:00,Aston Villa,Man City,4-4-2 duplo 6,Mark Hughes,37924,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/954535
+9,dom 18/10/2009,13:00,Wigan,Man City,4-2-3-1,Mark Hughes,20005,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/954553
+10,dom 25/10/2009,13:00,Man City,Fulham,4-4-2 duplo 6,Mark Hughes,44096,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/954560
+11,dom 01/11/2009,14:00,Birmingham,Man City,4-4-2 duplo 6,Mark Hughes,21462,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/960963
+12,sáb 07/11/2009,13:00,Man City,FC Burnley,4-4-2 duplo 6,Mark Hughes,47205,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/960966
+13,sáb 21/11/2009,10:45,Liverpool,Man City,4-3-3 ofensivo,Mark Hughes,44164,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/960974
+14,sáb 28/11/2009,13:00,Man City,Hull City,4-4-2 duplo 6,Mark Hughes,46382,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/960987
+15,sáb 05/12/2009,15:30,Man City,Chelsea,4-4-2 duplo 6,Mark Hughes,47348,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961000
+16,sáb 12/12/2009,13:00,Bolton,Man City,4-4-2 duplo 6,Mark Hughes,22735,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961006
+17,qua 16/12/2009,18:00,Tottenham,Man City,4-4-2 duplo 6,Mark Hughes,35891,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961021
+18,sáb 19/12/2009,13:00,Man City,AFC Sunderland,4-4-2 duplo 6,Mark Hughes,44735,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961030
+19,sáb 26/12/2009,13:00,Man City,Stoke,4-3-3 ofensivo,Roberto Mancini,47325,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961041
+20,seg 28/12/2009,17:45,Wolves,Man City,4-4-2 duplo 6,Roberto Mancini,28957,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961054
+21,seg 11/01/2010,18:00,Man City,Blackburn,4-4-2 duplo 6,Roberto Mancini,40292,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961061
+22,sáb 16/01/2010,15:30,Everton,Man City,4-4-2 duplo 6,Roberto Mancini,37378,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961069
+23,ter 16/02/2010,17:45,Stoke,Man City,4-4-2 duplo 6,Roberto Mancini,26778,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961077
+24,dom 31/01/2010,11:30,Man City,FC Portsmouth,4-4-2 duplo 6,Roberto Mancini,44015,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961091
+25,sáb 06/02/2010,13:00,Hull City,Man City,4-4-2 duplo 6,Roberto Mancini,24959,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961099
+26,ter 09/02/2010,17:45,Man City,Bolton,4-3-3 ofensivo,Roberto Mancini,42016,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961112
+27,dom 21/02/2010,12:00,Man City,Liverpool,4-5-1,Roberto Mancini,47203,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961120
+28,sáb 27/02/2010,09:45,Chelsea,Man City,4-3-3 ofensivo,Roberto Mancini,41814,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961128
+29,qua 05/05/2010,16:00,Man City,Tottenham,4-4-2 duplo 6,Roberto Mancini,47370,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961144
+30,dom 14/03/2010,13:00,AFC Sunderland,Man City,4-3-3 ofensivo,Roberto Mancini,41398,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961153
+31,dom 21/03/2010,12:00,Fulham,Man City,4-4-2 duplo 6,Roberto Mancini,25359,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961158
+32,seg 29/03/2010,16:00,Man City,Wigan,4-4-2 duplo 6,Roberto Mancini,43534,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961171
+33,sáb 03/04/2010,13:30,FC Burnley,Man City,4-2-3-1,Roberto Mancini,21330,1:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961178
+34,dom 11/04/2010,12:00,Man City,Birmingham,4-4-2 duplo 6,Roberto Mancini,45209,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961189
+35,sáb 17/04/2010,08:45,Man City,Man Utd,4-4-2 duplo 6,Roberto Mancini,47019,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961199
+36,sáb 24/04/2010,13:30,Arsenal,Man City,4-3-3 ofensivo,Roberto Mancini,60086,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961205
+37,sáb 01/05/2010,11:00,Man City,Aston Villa,4-2-3-1,Roberto Mancini,47102,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961219
+38,dom 09/05/2010,12:00,West Ham,Man City,4-4-2 duplo 6,Roberto Mancini,34989,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961233

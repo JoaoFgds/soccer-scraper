@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 08/08/2009,16:00,Saint-Étienne,Nice,4-4-2 duplo 6,Alain Perrin,29243,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958355
+2,sáb 15/08/2009,16:00,Toulouse,Saint-Étienne,4-5-1,Alain Perrin,21202,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958364
+3,sáb 22/08/2009,14:00,Saint-Étienne,US Boulogne,4-4-2 duplo 6,Alain Perrin,25032,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958375
+4,sáb 29/08/2009,14:00,Saint-Étienne,Grenoble,4-4-2 duplo 6,Alain Perrin,25321,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958386
+5,dom 13/09/2009,12:00,Rennes,Saint-Étienne,4-4-2 duplo 6,Alain Perrin,22009,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958396
+6,sáb 19/09/2009,14:00,Saint-Étienne,Auxerre,4-4-2 duplo 6,Alain Perrin,24309,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958405
+7,sáb 26/09/2009,14:00,Monaco,Saint-Étienne,4-4-2 duplo 6,Alain Perrin,8490,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958415
+8,sáb 03/10/2009,14:00,Saint-Étienne,Bordeaux,4-5-1,Alain Perrin,30049,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958427
+9,sáb 17/10/2009,14:00,Montpellier,Saint-Étienne,4-4-2 duplo 6,Alain Perrin,22953,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958435
+10,sáb 24/10/2009,15:00,Saint-Étienne,Valenciennes,4-2-3-1,Alain Perrin,27621,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958446
+11,qui 10/12/2009,16:00,Lille,Saint-Étienne,4-5-1,Alain Perrin,13592,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958451
+12,sáb 31/10/2009,18:00,Saint-Étienne,Lyon,4-5-1,Alain Perrin,34342,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958466
+13,sáb 07/11/2009,16:00,AS Nancy,Saint-Étienne,4-3-3 ofensivo,Alain Perrin,16076,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958476
+14,dom 22/11/2009,14:00,Saint-Étienne,FC Lorient,4-4-2 duplo 6,Alain Perrin,24851,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958486
+15,dom 29/11/2009,14:00,Le Mans UC 72,Saint-Étienne,4-4-2 duplo 6,Alain Perrin,9799,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958492
+16,sáb 05/12/2009,16:00,Saint-Étienne,FC Sochaux,4-4-2 duplo 6,Alain Perrin,21518,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958506
+17,dom 13/12/2009,14:00,PSG,Saint-Étienne,4-3-3 ofensivo,Alain Perrin,38462,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958515
+18,sáb 19/12/2009,18:00,Saint-Étienne,Marselha,4-1-4-1,Christophe Galtier,27614,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958524
+19,ter 22/12/2009,18:00,Lens,Saint-Étienne,4-5-1,Christophe Galtier,33971,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958532
+20,sáb 16/01/2010,18:00,Grenoble,Saint-Étienne,4-4-2 duplo 6,Christophe Galtier,13677,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958544
+21,ter 19/01/2010,18:00,Saint-Étienne,Rennes,4-4-2 duplo 6,Christophe Galtier,21579,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958555
+22,dom 31/01/2010,14:00,Auxerre,Saint-Étienne,4-4-2 duplo 6,Christophe Galtier,11670,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958560
+23,dom 07/02/2010,14:00,Saint-Étienne,Monaco,4-4-2 duplo 6,Christophe Galtier,23241,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958575
+24,dom 14/02/2010,18:00,Bordeaux,Saint-Étienne,4-4-2 duplo 6,Christophe Galtier,30084,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958579
+25,sáb 20/02/2010,16:00,Saint-Étienne,Montpellier,4-4-2 duplo 6,Christophe Galtier,24117,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958595
+26,sáb 27/02/2010,15:00,Valenciennes,Saint-Étienne,4-4-2 duplo 6,Christophe Galtier,12197,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958605
+27,sáb 06/03/2010,17:00,Saint-Étienne,Lille,4-4-2 duplo 6,Christophe Galtier,22463,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958615
+28,sáb 13/03/2010,17:00,Lyon,Saint-Étienne,4-4-2 duplo 6,Christophe Galtier,33019,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958619
+29,sáb 20/03/2010,15:00,Saint-Étienne,AS Nancy,4-4-2 duplo 6,Christophe Galtier,26177,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958635
+30,dom 28/03/2010,12:00,FC Lorient,Saint-Étienne,4-4-2 duplo 6,Christophe Galtier,12378,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958641
+31,sáb 03/04/2010,14:00,Saint-Étienne,Le Mans UC 72,4-4-2 duplo 6,Christophe Galtier,26540,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958656
+32,sáb 10/04/2010,14:00,FC Sochaux,Saint-Étienne,4-5-1 plano,Christophe Galtier,14711,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958666
+33,dom 18/04/2010,16:00,Saint-Étienne,PSG,4-3-3 ofensivo,Christophe Galtier,26493,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958674
+34,dom 25/04/2010,16:00,Marselha,Saint-Étienne,4-4-2 duplo 6,Christophe Galtier,56056,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958682
+35,dom 02/05/2010,12:00,Saint-Étienne,Lens,4-4-2 duplo 6,Christophe Galtier,32684,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958695
+36,qua 05/05/2010,14:00,US Boulogne,Saint-Étienne,4-3-3 ofensivo,Christophe Galtier,12408,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958702
+37,sáb 08/05/2010,16:00,Saint-Étienne,Toulouse,4-3-3 ofensivo,Christophe Galtier,27103,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1019251
+38,sáb 15/05/2010,16:00,Nice,Saint-Étienne,4-4-2,Christophe Galtier,10988,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1019259

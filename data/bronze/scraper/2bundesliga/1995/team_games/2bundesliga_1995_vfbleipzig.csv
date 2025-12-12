@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 04/08/1995,14:00,Chemnitzer FC,VfB Leipzig,3-5-2 ofensivo,August Starek,5850,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976602
+2,qua 09/08/1995,13:30,VfB Leipzig,Arm. Bielefeld,4-4-2,August Starek,9100,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976615
+3,dom 13/08/1995,10:00,Mainz,VfB Leipzig,?,August Starek,3225,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976635
+4,sex 18/08/1995,13:15,VfB Leipzig,MSV Duisburg,?,August Starek,10600,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976639
+5,ter 29/08/1995,15:00,Bochum,VfB Leipzig,?,August Starek,11121,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976652
+6,sáb 02/09/1995,10:30,VfB Leipzig,Hannover,?,August Starek,6200,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976699
+7,dom 10/09/1995,10:00,VfB Lübeck,VfB Leipzig,3-5-2,August Starek,11500,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976713
+8,sáb 16/09/1995,10:30,VfB Leipzig,W. Mannheim,?,August Starek,6300,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976721
+9,sáb 23/09/1995,10:30,VfB Leipzig,FSV Zwickau,?,August Starek,5800,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976726
+10,dom 01/10/1995,11:00,SV Meppen,VfB Leipzig,?,August Starek,5500,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976738
+11,dom 15/10/1995,12:00,VfB Leipzig,Hertha Berlim,?,August Starek,8500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976747
+12,seg 23/10/1995,17:15,Nuremberg,VfB Leipzig,?,August Starek,11000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976760
+13,sáb 28/10/1995,11:30,VfB Leipzig,Fortuna Köln,?,August Starek,6500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976790
+14,sáb 04/11/1995,12:30,Wattenscheid 09,VfB Leipzig,?,August Starek,2000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976800
+15,dom 12/11/1995,11:30,VfB Leipzig,Wolfsburg,?,August Starek,4500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976813
+16,sex 17/11/1995,17:00,Unterhaching,VfB Leipzig,3-5-2 ofensivo,August Starek,1400,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976816
+17,sáb 25/11/1995,11:15,VfB Leipzig,Carl Zeiss Jena,?,August Starek,6200,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976827
+18,sáb 02/12/1995,11:00,VfB Leipzig,Chemnitzer FC,?,August Starek,5300,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976847
+19,dom 10/12/1995,12:00,Arm. Bielefeld,VfB Leipzig,5-4-1,August Starek,11700,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976862
+20,sáb 09/03/1996,11:30,VfB Leipzig,Mainz,?,August Starek,6100,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976866
+21,seg 18/03/1996,15:30,MSV Duisburg,VfB Leipzig,?,August Starek,10000,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976880
+22,sáb 23/03/1996,11:30,VfB Leipzig,Bochum,4-5-1 plano,August Starek,6900,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976885
+23,dom 31/03/1996,10:00,Hannover,VfB Leipzig,?,August Starek,6286,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976896
+24,qui 04/04/1996,12:15,VfB Leipzig,VfB Lübeck,?,August Starek,2800,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976901
+25,dom 14/04/1996,10:00,W. Mannheim,VfB Leipzig,?,August Starek,6500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976915
+26,dom 21/04/1996,10:00,FSV Zwickau,VfB Leipzig,?,August Starek,7183,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976925
+27,sáb 27/04/1996,10:30,VfB Leipzig,SV Meppen,?,August Starek,2650,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976931
+28,sex 03/05/1996,15:00,Hertha Berlim,VfB Leipzig,?,Damian Halata,8417,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976939
+29,dom 12/05/1996,10:00,VfB Leipzig,Nuremberg,?,Damian Halata,2900,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976954
+30,qui 16/05/1996,15:00,Fortuna Köln,VfB Leipzig,?,Damian Halata,1800,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976963
+31,dom 19/05/1996,10:00,VfB Leipzig,Wattenscheid 09,?,Damian Halata,2800,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976968
+32,dom 26/05/1996,10:00,Wolfsburg,VfB Leipzig,?,Damian Halata,6113,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976979
+33,dom 02/06/1996,10:00,VfB Leipzig,Unterhaching,?,Damian Halata,2300,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976983
+34,sáb 08/06/1996,10:30,Carl Zeiss Jena,VfB Leipzig,?,Damian Halata,4100,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976994

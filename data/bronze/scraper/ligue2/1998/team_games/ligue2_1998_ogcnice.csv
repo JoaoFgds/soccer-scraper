@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 08/08/1998,15:00,Nice,LB Châteauroux,?,Victor Zvunka,4659,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008062
+2,sáb 15/08/1998,15:00,CS Sedan,Nice,?,Victor Zvunka,5792,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008068
+3,sáb 22/08/1998,15:00,Nice,Wasquehal,?,Victor Zvunka,3225,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008082
+4,sáb 29/08/1998,15:00,SM Caen,Nice,?,Victor Zvunka,10242,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008090
+5,sex 04/09/1998,15:00,Nice,Guingamp,?,Victor Zvunka,3762,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008102
+6,sáb 12/09/1998,15:00,Le Mans UC 72,Nice,?,Victor Zvunka,3194,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008106
+7,sáb 19/09/1998,15:00,Nice,Cannes,?,Victor Zvunka,4010,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008123
+8,qua 23/09/1998,15:00,AS Beauvais,Nice,?,Victor Zvunka,4420,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008134
+9,sáb 26/09/1998,15:00,Nice,Chamois Niort,?,Victor Zvunka,2675,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008142
+10,sáb 03/10/1998,15:00,Troyes,Nice,?,Victor Zvunka,5857,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008146
+11,sex 09/10/1998,15:00,Nice,Nîmes Olympique,?,Victor Zvunka,2617,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008162
+12,sáb 17/10/1998,16:00,AS Red Star 93,Nice,?,Victor Zvunka,3786,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008169
+13,sáb 24/10/1998,16:00,Nice,Lille,?,Victor Zvunka,3018,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008183
+14,sáb 31/10/1998,17:00,FC Gueugnon,Nice,?,Victor Zvunka,3271,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008189
+15,sáb 07/11/1998,17:00,Nice,Saint-Étienne,?,Victor Zvunka,5954,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008202
+16,qua 11/11/1998,17:00,Nice,Amiens SC,?,Victor Zvunka,2652,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008211
+17,sáb 14/11/1998,17:00,ASOA Valence,Nice,?,Victor Zvunka,2951,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008223
+18,qua 18/11/1998,17:00,Nice,AC Ajaccio,?,Victor Zvunka,2677,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008232
+19,sáb 21/11/1998,17:00,Stade Lavallois,Nice,?,Victor Zvunka,3063,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008243
+20,qua 02/12/1998,17:00,Nice,CS Sedan,?,Victor Zvunka,2376,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008252
+21,sáb 05/12/1998,17:00,Wasquehal,Nice,?,Victor Zvunka,1306,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008260
+22,sáb 12/12/1998,17:00,Nice,SM Caen,?,Victor Zvunka,2450,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008272
+23,qua 16/12/1998,17:00,Guingamp,Nice,?,Victor Zvunka,6928,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008279
+24,sáb 16/01/1999,17:00,Nice,Le Mans UC 72,?,Guy David,2995,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008291
+25,sáb 30/01/1999,17:00,Cannes,Nice,?,Guy David,4180,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008295
+26,sáb 06/02/1999,17:00,Nice,AS Beauvais,?,Guy David,3413,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008312
+27,sáb 13/02/1999,17:00,Chamois Niort,Nice,?,Guy David,3560,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008321
+28,sáb 27/02/1999,16:00,Nice,Troyes,?,Guy David,1500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008332
+29,qua 10/03/1999,16:00,Nîmes Olympique,Nice,?,Guy David,4134,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008338
+30,sáb 20/03/1999,11:00,Nice,AS Red Star 93,?,Guy David,885,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008345
+31,sex 26/03/1999,16:00,Lille,Nice,?,Guy David,8012,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008360
+32,sáb 03/04/1999,15:00,Nice,FC Gueugnon,?,Guy David,5081,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008372
+33,qua 14/04/1999,15:00,Saint-Étienne,Nice,?,Guy David,35187,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008381
+34,sáb 24/04/1999,15:00,Amiens SC,Nice,?,Guy David,4270,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008388
+35,sáb 01/05/1999,15:00,Nice,ASOA Valence,?,Guy David,7827,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008402
+36,sex 07/05/1999,15:00,AC Ajaccio,Nice,?,Guy David,1305,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008405
+37,sáb 22/05/1999,15:00,Nice,Stade Lavallois,?,Guy David,5486,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008422
+38,sáb 29/05/1999,15:00,LB Châteauroux,Nice,?,Guy David,9070,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008427

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 11/08/2013,16:00,Guingamp,Marselha,4-2-3-1,Élie Baup,18155,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2353771
+2,sáb 17/08/2013,12:00,Marselha,Évian,4-2-3-1,Élie Baup,42524,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2355375
+3,sáb 24/08/2013,12:00,Valenciennes,Marselha,4-2-3-1,Élie Baup,19007,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330826
+4,dom 01/09/2013,16:00,Marselha,Monaco,4-2-3-1,Élie Baup,44995,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330839
+5,sáb 14/09/2013,12:00,Toulouse,Marselha,4-2-3-1,Élie Baup,20111,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330849
+6,sáb 21/09/2013,12:00,SC Bastia,Marselha,4-2-3-1,Élie Baup,14995,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330855
+7,ter 24/09/2013,16:00,Marselha,Saint-Étienne,4-2-3-1,Élie Baup,36073,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330876
+8,sáb 28/09/2013,09:00,FC Lorient,Marselha,4-2-3-1,Élie Baup,15340,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330869
+9,dom 06/10/2013,16:00,Marselha,PSG,4-2-3-1,Élie Baup,44391,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330870
+10,sex 18/10/2013,15:30,Nice,Marselha,4-2-3-1,Élie Baup,31634,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330889
+11,sáb 26/10/2013,13:00,Marselha,Reims,4-2-3-1,Élie Baup,40532,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331029
+12,sáb 02/11/2013,14:00,Rennes,Marselha,4-2-3-1,Élie Baup,26785,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330897
+13,dom 10/11/2013,14:00,Marselha,FC Sochaux,4-2-3-1,Élie Baup,37583,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331042
+14,sex 22/11/2013,17:30,AC Ajaccio,Marselha,4-2-3-1,Élie Baup,6846,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330936
+15,sex 29/11/2013,17:30,Marselha,Montpellier,4-2-3-1,Élie Baup,35045,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330924
+16,ter 03/12/2013,16:00,Lille,Marselha,4-2-3-1,Élie Baup,46089,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330966
+17,sex 06/12/2013,17:30,Marselha,Nantes,4-3-3 ofensivo,Élie Baup,36622,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330951
+18,dom 15/12/2013,18:00,Lyon,Marselha,4-2-3-1,José Anigo,36214,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330958
+19,dom 22/12/2013,11:00,Marselha,Bordeaux,4-3-3 ofensivo,José Anigo,38720,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330990
+20,dom 12/01/2014,14:00,Évian,Marselha,4-3-1-2,José Anigo,14746,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330994
+21,qua 29/01/2014,16:00,Marselha,Valenciennes,4-2-3-1,José Anigo,35741,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331025
+22,dom 26/01/2014,18:00,Monaco,Marselha,4-3-1-2,José Anigo,11284,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330997
+23,dom 02/02/2014,18:00,Marselha,Toulouse,4-2-3-1,José Anigo,33041,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331000
+24,sáb 08/02/2014,14:00,Marselha,SC Bastia,4-4-2 losango,José Anigo,36240,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331044
+25,dom 16/02/2014,17:00,Saint-Étienne,Marselha,5-4-1,José Anigo,32024,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331093
+26,sáb 22/02/2014,13:00,Marselha,FC Lorient,4-4-2 losango,José Anigo,38104,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331087
+27,dom 02/03/2014,17:00,PSG,Marselha,4-3-2-1,José Anigo,45483,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331074
+28,sex 07/03/2014,16:30,Marselha,Nice,4-3-1-2,José Anigo,36083,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331094
+29,sex 14/03/2014,16:30,Reims,Marselha,4-3-3 ofensivo,José Anigo,20513,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331067
+30,sáb 22/03/2014,13:00,Marselha,Rennes,4-2-3-1,José Anigo,36883,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331046
+31,sáb 29/03/2014,13:00,FC Sochaux,Marselha,4-3-3 ofensivo,José Anigo,16328,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331107
+32,sex 04/04/2014,15:30,Marselha,AC Ajaccio,4-3-3 defensivo,José Anigo,34992,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331143
+33,sex 11/04/2014,15:30,Montpellier,Marselha,4-2-3-1,José Anigo,19757,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331121
+34,dom 20/04/2014,16:00,Marselha,Lille,4-2-3-1,José Anigo,39545,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331122
+35,sex 25/04/2014,15:30,Nantes,Marselha,4-2-3-1,José Anigo,35959,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331168
+36,dom 04/05/2014,16:00,Marselha,Lyon,4-2-3-1,José Anigo,37842,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331150
+37,sáb 10/05/2014,16:00,Bordeaux,Marselha,4-2-3-1,José Anigo,31555,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331159
+38,sáb 17/05/2014,16:00,Marselha,Guingamp,4-2-3-1,José Anigo,37904,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331184

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 10/05/2009,11:00,Atlético-PR,Vitória,3-5-2,Paulo César Carpegiani,12906,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939075
+2,dom 17/05/2009,13:30,Vitória,Sport,4-4-2,Paulo César Carpegiani,2284,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939087
+3,sáb 23/05/2009,13:30,Cruzeiro,Vitória,4-5-1,Paulo César Carpegiani,7344,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939090
+4,dom 31/05/2009,11:00,Vitória,Grêmio,3-5-2,Paulo César Carpegiani,14526,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939106
+5,dom 07/06/2009,11:10,Palmeiras,Vitória,3-5-2,Paulo César Carpegiani,16118,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939112
+6,dom 14/06/2009,13:30,Internacional,Vitória,3-5-2,Paulo César Carpegiani,17302,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939121
+7,sáb 20/06/2009,11:10,Vitória,Botafogo,3-5-2,Paulo César Carpegiani,12274,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939133
+8,dom 28/06/2009,13:30,Vitória,Santo André,3-5-2,Paulo César Carpegiani,8741,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939141
+9,sáb 04/07/2009,13:30,Flamengo,Vitória,3-5-2,Paulo César Carpegiani,20296,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939157
+10,dom 12/07/2009,13:30,Vitória,Santos,4-4-2,Paulo César Carpegiani,17090,6:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939166
+11,qui 16/07/2009,16:00,Náutico,Vitória,3-5-2,Paulo César Carpegiani,13178,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939176
+12,dom 19/07/2009,11:00,Vitória,Atlético-MG,3-5-2,Paulo César Carpegiani,16101,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939181
+13,qui 23/07/2009,16:00,Corinthians,Vitória,3-5-2,Paulo César Carpegiani,23600,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939197
+14,dom 26/07/2009,13:30,Vitória,Coritiba,4-4-2,Paulo César Carpegiani,12105,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939208
+15,qui 30/07/2009,16:00,Avaí,Vitória,4-4-2,Paulo César Carpegiani,9556,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939216
+16,dom 02/08/2009,11:00,Vitória,São Paulo,4-4-2,Paulo César Carpegiani,17519,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939224
+17,qui 06/08/2009,16:00,Barueri,Vitória,3-5-2,Paulo César Carpegiani,2180,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939236
+18,dom 09/08/2009,11:00,Vitória,Fluminense,3-5-2,Paulo César Carpegiani,7853,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939243
+19,dom 16/08/2009,11:00,Goiás,Vitória,4-4-2,Vagner Mancini,7202,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/965900
+20,qua 19/08/2009,14:30,Vitória,Atlético-PR,4-4-2,Vagner Mancini,5376,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/965891
+21,sáb 22/08/2009,13:30,Sport,Vitória,4-4-2,Vagner Mancini,15961,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/965903
+22,dom 30/08/2009,13:30,Vitória,Cruzeiro,4-4-2,Vagner Mancini,7388,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/965918
+23,sáb 05/09/2009,13:30,Grêmio,Vitória,4-4-2,Vagner Mancini,17653,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/971299
+24,dom 13/09/2009,11:00,Vitória,Palmeiras,4-4-2,Vagner Mancini,26464,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/971369
+25,sáb 19/09/2009,13:30,Vitória,Internacional,4-4-2,Vagner Mancini,19033,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/971375
+26,dom 27/09/2009,13:30,Botafogo,Vitória,4-4-2,Vagner Mancini,11852,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/971663
+27,sáb 03/10/2009,13:30,Santo André,Vitória,4-4-2,Vagner Mancini,1701,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/971667
+28,qua 07/10/2009,16:50,Vitória,Flamengo,4-4-2,Vagner Mancini,21324,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/971703
+29,seg 12/10/2009,11:00,Santos,Vitória,4-4-2,Vagner Mancini,23673,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/971712
+30,dom 18/10/2009,14:30,Vitória,Náutico,4-4-2,Vagner Mancini,11391,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/971727
+31,sáb 24/10/2009,14:30,Atlético-MG,Vitória,4-4-2,Vagner Mancini,57901,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/971728
+32,qua 28/10/2009,18:50,Vitória,Corinthians,4-4-2,Vagner Mancini,21681,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/971742
+33,dom 01/11/2009,13:00,Coritiba,Vitória,4-4-2,Vagner Mancini,11808,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/971750
+34,sáb 07/11/2009,15:30,Vitória,Avaí,4-4-2,Vagner Mancini,7958,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/971764
+35,sáb 14/11/2009,16:30,São Paulo,Vitória,4-4-2,Vagner Mancini,53204,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/971768
+36,dom 22/11/2009,16:30,Vitória,Barueri,4-4-2,Vagner Mancini,19857,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/971784
+37,dom 29/11/2009,14:00,Fluminense,Vitória,4-4-2,Vagner Mancini,52408,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/971793
+38,dom 06/12/2009,14:00,Vitória,Goiás,4-4-2,Vagner Mancini,7974,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/971804

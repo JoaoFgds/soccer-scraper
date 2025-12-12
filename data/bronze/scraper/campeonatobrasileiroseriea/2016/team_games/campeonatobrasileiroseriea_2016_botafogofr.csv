@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 15/05/2016,11:00,Botafogo,São Paulo,4-4-2 duplo 6,Ricardo Gomes,5465,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2684555
+2,dom 22/05/2016,18:30,Sport,Botafogo,4-4-2 duplo 6,Ricardo Gomes,6117,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2684574
+3,qua 25/05/2016,19:30,Botafogo,Atlético-PR,4-4-2 duplo 6,Ricardo Gomes,4445,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2694645
+4,dom 29/05/2016,16:00,Fluminense,Botafogo,4-4-2 duplo 6,Ricardo Gomes,4550,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2694662
+5,qua 01/06/2016,21:45,Botafogo,Cruzeiro,4-4-2 duplo 6,Ricardo Gomes,7057,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2695570
+6,dom 05/06/2016,11:00,Santos,Botafogo,4-4-2 duplo 6,Ricardo Gomes,16530,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2695586
+7,dom 12/06/2016,11:00,Botafogo,Vitória,4-4-2 duplo 6,Ricardo Gomes,1203,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2696875
+8,qua 15/06/2016,21:00,Botafogo,América-MG,?,Ricardo Gomes,883,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698564
+9,dom 19/06/2016,16:00,Corinthians,Botafogo,4-5-1,Ricardo Gomes,34747,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698576
+10,qua 22/06/2016,21:00,Botafogo,Figueirense,?,Ricardo Gomes,2797,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698583
+11,dom 26/06/2016,16:00,Internacional,Botafogo,?,Ricardo Gomes,25037,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702137
+12,qui 30/06/2016,21:00,Atlético-MG,Botafogo,?,Ricardo Gomes,23018,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702150
+13,dom 03/07/2016,16:00,Botafogo,Santa Cruz,?,Ricardo Gomes,5033,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2708411
+14,sáb 09/07/2016,16:30,Coritiba,Botafogo,4-2-3-1,Ricardo Gomes,10922,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2708415
+15,sáb 16/07/2016,16:00,Botafogo,Flamengo,?,Ricardo Gomes,11692,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713332
+16,dom 24/07/2016,16:00,Chapecoense,Botafogo,4-2-3-1,Ricardo Gomes,7012,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713356
+17,dom 31/07/2016,18:30,Botafogo,Palmeiras,4-2-3-1,Ricardo Gomes,8477,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713370
+18,qui 04/08/2016,19:15,Ponte Preta,Botafogo,?,Ricardo Gomes,5050,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713387
+19,dom 04/09/2016,16:00,Botafogo,Grêmio,?,Jair Ventura,5199,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713398
+20,dom 14/08/2016,16:15,São Paulo,Botafogo,?,Jair Ventura,14399,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713415
+21,sáb 20/08/2016,22:00,Botafogo,Sport,?,Jair Ventura,4771,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2767844
+22,seg 29/08/2016,21:00,Atlético-PR,Botafogo,4-3-1-2,Jair Ventura,11453,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2767862
+23,qua 07/09/2016,17:00,Botafogo,Fluminense,4-3-1-2,Jair Ventura,10156,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770070
+24,dom 11/09/2016,17:00,Cruzeiro,Botafogo,4-2-3-1,Jair Ventura,26611,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770084
+25,qua 14/09/2016,20:30,Botafogo,Santos,4-3-1-2,Jair Ventura,11883,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770090
+26,dom 18/09/2016,19:30,Vitória,Botafogo,4-2-3-1,Jair Ventura,9900,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770108
+27,sáb 24/09/2016,22:00,América-MG,Botafogo,4-3-1-2,Jair Ventura,1789,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770152
+28,sáb 01/10/2016,17:30,Botafogo,Corinthians,4-3-3 defensivo,Jair Ventura,9123,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770164
+29,dom 09/10/2016,18:00,Figueirense,Botafogo,4-3-1-2,Jair Ventura,12325,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770178
+30,qua 12/10/2016,22:45,Botafogo,Internacional,4-3-1-2,Jair Ventura,10176,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770182
+31,dom 16/10/2016,19:00,Botafogo,Atlético-MG,4-3-1-2,Jair Ventura,14595,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770190
+32,qua 19/10/2016,23:45,Santa Cruz,Botafogo,4-3-1-2,Jair Ventura,3480,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770200
+33,sáb 29/10/2016,18:30,Botafogo,Coritiba,?,Jair Ventura,15170,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770215
+34,sáb 05/11/2016,17:00,Flamengo,Botafogo,?,Jair Ventura,49382,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770220
+35,qua 16/11/2016,19:30,Botafogo,Chapecoense,4-2-3-1,Jair Ventura,10170,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2778077
+36,dom 20/11/2016,17:00,Palmeiras,Botafogo,4-4-2,Jair Ventura,39690,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2778087
+37,sáb 26/11/2016,20:00,Botafogo,Ponte Preta,4-3-3 ofensivo,Jair Ventura,12069,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2798382
+38,dom 11/12/2016,17:00,Grêmio,Botafogo,4-2-3-1,Jair Ventura,14101,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2798937

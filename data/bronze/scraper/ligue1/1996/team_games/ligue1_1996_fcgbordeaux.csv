@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 10/08/1996,15:00,Bordeaux,Le Havre,?,Rolland Courbis,23675,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010776
+2,sex 16/08/1996,15:00,FC Metz,Bordeaux,?,Rolland Courbis,19707,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010786
+3,sáb 24/08/1996,15:00,Bordeaux,Auxerre,?,Rolland Courbis,26076,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010792
+4,seg 26/08/1996,15:00,Rennes,Bordeaux,?,Rolland Courbis,17027,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010806
+5,ter 03/09/1996,15:00,Bordeaux,SC Bastia,4-4-2 líbero losango,Rolland Courbis,22000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010814
+6,dom 08/09/1996,15:00,Nice,Bordeaux,?,Rolland Courbis,6555,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010828
+7,sáb 14/09/1996,15:00,Bordeaux,Lille,?,Rolland Courbis,16945,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010829
+8,sex 20/09/1996,15:00,Bordeaux,Guingamp,?,Rolland Courbis,15000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010842
+9,sáb 28/09/1996,15:00,Marselha,Bordeaux,?,Rolland Courbis,19000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010850
+10,qua 02/10/1996,15:00,Bordeaux,Strasbourg,?,Rolland Courbis,20000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010879
+11,sáb 05/10/1996,15:00,SM Caen,Bordeaux,?,Rolland Courbis,14964,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010890
+12,sex 11/10/1996,16:00,Bordeaux,AS Nancy,?,Rolland Courbis,15549,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010901
+13,sáb 19/10/1996,16:00,Nantes,Bordeaux,?,Rolland Courbis,21316,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010912
+14,qui 24/10/1996,16:00,Bordeaux,Montpellier,?,Rolland Courbis,15042,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010917
+15,sáb 02/11/1996,17:00,Monaco,Bordeaux,?,Rolland Courbis,7000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010927
+16,qua 06/11/1996,17:00,Bordeaux,Cannes,?,Rolland Courbis,16000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010942
+17,qua 13/11/1996,17:00,Lens,Bordeaux,?,Rolland Courbis,22630,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010952
+18,sáb 16/11/1996,17:00,Bordeaux,PSG,?,Rolland Courbis,30997,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010957
+19,sex 22/11/1996,17:00,Lyon,Bordeaux,?,Rolland Courbis,24068,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010996
+20,sex 29/11/1996,17:00,Bordeaux,FC Metz,?,Rolland Courbis,14928,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011007
+21,sáb 07/12/1996,17:00,Auxerre,Bordeaux,?,Rolland Courbis,11000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011018
+22,sáb 14/12/1996,17:00,Bordeaux,Rennes,?,Rolland Courbis,16000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011027
+23,qui 19/12/1996,17:00,SC Bastia,Bordeaux,?,Rolland Courbis,5000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011034
+24,sáb 25/01/1997,17:00,Bordeaux,Nice,?,Rolland Courbis,12544,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011045
+25,sáb 01/02/1997,17:00,Lille,Bordeaux,?,Rolland Courbis,10056,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011055
+26,sáb 15/02/1997,17:00,Guingamp,Bordeaux,?,Rolland Courbis,10224,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011072
+27,sáb 22/02/1997,16:00,Bordeaux,Marselha,?,Rolland Courbis,27139,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011079
+28,sáb 08/03/1997,16:00,Strasbourg,Bordeaux,?,Rolland Courbis,29507,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011121
+29,sáb 15/03/1997,16:00,Bordeaux,SM Caen,?,Rolland Courbis,12000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011138
+30,sáb 22/03/1997,16:00,AS Nancy,Bordeaux,?,Rolland Courbis,9191,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011142
+31,ter 25/03/1997,16:00,Bordeaux,Nantes,?,Rolland Courbis,25108,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011150
+32,sáb 05/04/1997,15:00,Montpellier,Bordeaux,?,Rolland Courbis,13814,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011173
+33,qua 16/04/1997,15:00,Bordeaux,Monaco,?,Rolland Courbis,29000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011180
+34,sáb 26/04/1997,15:00,Cannes,Bordeaux,?,Rolland Courbis,5000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011192
+35,qua 30/04/1997,15:00,Bordeaux,Lens,?,Rolland Courbis,16000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011203
+36,sáb 03/05/1997,15:00,PSG,Bordeaux,?,Rolland Courbis,42361,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011209
+37,sáb 17/05/1997,15:00,Bordeaux,Lyon,?,Rolland Courbis,20000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011224
+38,sáb 24/05/1997,15:00,Le Havre,Bordeaux,?,Guy Stéphan,16229,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011231

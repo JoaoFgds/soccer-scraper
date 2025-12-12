@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 19/07/1991,19:00,Marselha,Lille,3-4-3 plano,Tomislav Ivic,30000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012961
+2,sex 26/07/1991,19:00,Lyon,Marselha,3-4-3 plano,Tomislav Ivic,35000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012972
+3,ter 30/07/1991,19:00,Marselha,FC Metz,4-2-3-1,Tomislav Ivic,32000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012978
+4,sáb 03/08/1991,15:30,Rennes,Marselha,4-3-2-1,Tomislav Ivic,19281,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012987
+5,qui 08/08/1991,19:00,Marselha,PSG,4-3-2-1,Tomislav Ivic,37933,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012997
+6,sáb 17/08/1991,19:00,SM Caen,Marselha,4-3-2-1,Tomislav Ivic,10709,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013016
+7,sex 23/08/1991,19:00,Marselha,Nîmes Olympique,4-3-3 ofensivo,Tomislav Ivic,39385,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013019
+8,ter 27/08/1991,19:00,SC Toulon Var,Marselha,5-3-2,Tomislav Ivic,15620,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013035
+9,sáb 07/09/1991,19:00,Marselha,Toulouse,4-2-3-1,Tomislav Ivic,33000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013046
+10,sex 13/09/1991,19:00,FC Sochaux,Marselha,3-4-3 plano,Tomislav Ivic,14962,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013774
+11,sex 20/09/1991,19:00,Marselha,Lens,4-3-3 ofensivo,Tomislav Ivic,25000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013782
+12,qui 26/09/1991,19:00,Auxerre,Marselha,5-3-2,Tomislav Ivic,15000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013792
+13,sex 04/10/1991,20:00,Marselha,Nantes,5-3-2,Raymond Goethals,20000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013801
+14,ter 28/01/1992,21:00,Saint-Étienne,Marselha,4-2-3-1,Raymond Goethals,23172,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013820
+15,sex 25/10/1991,21:00,Le Havre,Marselha,5-3-2,Raymond Goethals,18984,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013821
+16,qui 31/10/1991,21:00,Marselha,AS Nancy,4-3-3 ofensivo,Raymond Goethals,25000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013832
+17,sex 08/11/1991,21:00,Montpellier,Marselha,5-3-2,Raymond Goethals,18878,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013841
+18,qua 13/11/1991,21:00,Marselha,Monaco,5-3-2,Raymond Goethals,26015,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013851
+19,sex 22/11/1991,21:00,Cannes,Marselha,4-3-3 ofensivo,Raymond Goethals,16000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013888
+20,sex 29/11/1991,21:00,Marselha,Lyon,4-3-3 ofensivo,Raymond Goethals,23295,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013899
+21,sex 06/12/1991,21:00,FC Metz,Marselha,4-3-3 ofensivo,Raymond Goethals,28766,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013909
+22,sex 13/12/1991,21:00,Marselha,Rennes,4-3-1-2,Raymond Goethals,20000,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013918
+23,seg 16/12/1991,21:00,PSG,Marselha,4-3-3 ofensivo,Raymond Goethals,43382,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013928
+24,sex 20/12/1991,21:00,Marselha,SM Caen,4-2-3-1,Raymond Goethals,22000,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013938
+25,sáb 18/01/1992,21:00,Nîmes Olympique,Marselha,5-3-2,Raymond Goethals,23015,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013956
+26,sáb 25/01/1992,21:00,Marselha,SC Toulon Var,5-3-2,Raymond Goethals,20000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013967
+27,sex 31/01/1992,21:00,Toulouse,Marselha,4-3-3 ofensivo,Raymond Goethals,27349,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013968
+28,sáb 08/02/1992,20:00,Marselha,FC Sochaux,4-3-3 ofensivo,Raymond Goethals,25000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014014
+29,sex 14/02/1992,20:00,Lens,Marselha,4-3-3 ofensivo,Raymond Goethals,48912,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014016
+30,sex 28/02/1992,20:00,Marselha,Auxerre,4-3-3 ofensivo,Raymond Goethals,28000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014026
+31,sex 06/03/1992,20:00,Nantes,Marselha,4-3-3 ofensivo,Raymond Goethals,35419,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014036
+32,sex 20/03/1992,20:00,Marselha,Saint-Étienne,5-3-2,Raymond Goethals,35000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014047
+33,sex 27/03/1992,20:00,Marselha,Le Havre,5-3-2,Raymond Goethals,20000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014056
+34,qui 02/04/1992,19:00,AS Nancy,Marselha,5-3-2,Raymond Goethals,17152,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014065
+35,sex 10/04/1992,19:00,Marselha,Montpellier,3-4-3 plano,Raymond Goethals,30000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014077
+36,sex 17/04/1992,19:00,Monaco,Marselha,5-3-2,Raymond Goethals,18000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014085
+37,sex 24/04/1992,19:00,Marselha,Cannes,5-3-2,Raymond Goethals,48000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014104
+38,qui 30/04/1992,19:00,Lille,Marselha,5-4-1 plano,Raymond Goethals,17235,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014114

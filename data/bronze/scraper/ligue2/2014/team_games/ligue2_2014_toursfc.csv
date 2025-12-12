@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 01/08/2014,15:00,Tours FC,US Créteil-L,4-3-3 defensivo,Olivier Pantaloni,4881,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2477754
+2,sex 08/08/2014,15:00,Troyes,Tours FC,4-3-3 defensivo,Olivier Pantaloni,7227,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2481156
+3,sex 15/08/2014,15:00,Tours FC,Valenciennes,4-3-3 ofensivo,Olivier Pantaloni,5389,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2484021
+4,sex 22/08/2014,15:00,AC Ajaccio,Tours FC,4-3-1-2,Olivier Pantaloni,3655,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2486937
+5,sáb 30/08/2014,09:00,Tours FC,Angers,4-3-3 ofensivo,Olivier Pantaloni,6299,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2486954
+6,sex 12/09/2014,15:00,AC Arles-Avignon,Tours FC,4-3-3 ofensivo,Olivier Pantaloni,1470,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2490415
+7,sex 19/09/2014,15:00,Tours FC,US Orléans,4-3-3 ofensivo,Olivier Pantaloni,6012,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2490430
+8,ter 23/09/2014,15:55,AS Nancy,Tours FC,4-3-3 ofensivo,Olivier Pantaloni,13651,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2490436
+9,sex 26/09/2014,15:00,Tours FC,FC Sochaux,4-2-3-1,Olivier Pantaloni,5047,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2495654
+10,seg 06/10/2014,15:30,Brest,Tours FC,4-3-3 ofensivo,Olivier Pantaloni,9642,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2495657
+11,sex 17/10/2014,15:00,Tours FC,Nîmes Olympique,4-3-3 ofensivo,Olivier Pantaloni,6451,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2501080
+12,sex 24/10/2014,16:00,LB Châteauroux,Tours FC,4-2-3-1,Alexandre Dujeux,5237,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2501085
+13,sex 31/10/2014,17:00,Stade Lavallois,Tours FC,4-2-3-1,Alexandre Dujeux,5967,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2502491
+14,sex 07/11/2014,17:00,Tours FC,Auxerre,4-2-3-1,Alexandre Dujeux,4469,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2507089
+15,sex 21/11/2014,17:00,Chamois Niort,Tours FC,4-3-3 defensivo,Alexandre Dujeux,4377,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2507098
+16,sex 28/11/2014,17:00,Tours FC,G. Ajaccio,4-2-3-1,Alexandre Dujeux,3831,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2507111
+17,sex 12/12/2014,17:00,Clermont Foot,Tours FC,4-2-3-1,Alexandre Dujeux,2623,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2511724
+18,sex 19/12/2014,17:00,Tours FC,Le Havre,4-4-2,Alexandre Dujeux,4187,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2511735
+19,sex 09/01/2015,17:00,Dijon,Tours FC,4-2-3-1,Alexandre Dujeux,7265,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2520762
+20,sex 16/01/2015,17:00,Tours FC,Troyes,4-2-3-1,Alexandre Dujeux,4432,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2520769
+21,sáb 24/01/2015,11:00,Valenciennes,Tours FC,4-3-3 ofensivo,Alexandre Dujeux,6731,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2520780
+22,sex 30/01/2015,17:00,Tours FC,AC Ajaccio,4-3-3 ofensivo,Gilbert Zoonekynd,3776,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2520791
+23,sex 06/02/2015,17:00,Angers,Tours FC,4-4-2,Gilbert Zoonekynd,8868,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2520809
+24,sex 13/02/2015,17:00,Tours FC,AC Arles-Avignon,4-4-2 duplo 6,Gilbert Zoonekynd,4192,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2535722
+25,sex 20/02/2015,17:00,US Orléans,Tours FC,4-3-3 ofensivo,Gilbert Zoonekynd,4447,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2535728
+26,sex 27/02/2015,16:00,Tours FC,AS Nancy,4-2-3-1,Gilbert Zoonekynd,4363,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2535736
+27,sex 06/03/2015,16:00,FC Sochaux,Tours FC,4-4-1-1,Gilbert Zoonekynd,8917,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2538823
+28,sex 13/03/2015,16:00,Tours FC,Brest,4-4-2,Gilbert Zoonekynd,4587,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2538835
+29,sex 20/03/2015,16:00,Nîmes Olympique,Tours FC,4-4-2,Gilbert Zoonekynd,5568,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2538842
+30,sex 03/04/2015,15:00,Tours FC,LB Châteauroux,4-4-2,Gilbert Zoonekynd,5281,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547627
+31,sex 10/04/2015,15:00,Tours FC,Stade Lavallois,4-4-2,Gilbert Zoonekynd,4772,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547639
+32,sex 17/04/2015,15:00,Auxerre,Tours FC,4-4-2,Gilbert Zoonekynd,5936,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547643
+33,sex 24/04/2015,15:00,Tours FC,Chamois Niort,4-4-2 duplo 6,Gilbert Zoonekynd,6793,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547660
+34,ter 28/04/2015,15:30,G. Ajaccio,Tours FC,4-4-2 duplo 6,Gilbert Zoonekynd,2689,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547666
+35,sex 01/05/2015,15:00,Tours FC,Clermont Foot,4-4-2,Gilbert Zoonekynd,5309,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547680
+36,sex 08/05/2015,15:00,Le Havre,Tours FC,4-4-2,Gilbert Zoonekynd,6630,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547686
+37,sex 15/05/2015,15:30,Tours FC,Dijon,4-4-2,Gilbert Zoonekynd,7389,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547700
+38,sex 22/05/2015,15:30,US Créteil-L,Tours FC,4-4-2,Gilbert Zoonekynd,2725,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547705

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 15/08/2022,14:30,Getafe,Atlético,3-1-4-2,Diego Simeone,12235,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844095
+2,dom 21/08/2022,14:30,Atlético,Villarreal,3-1-4-2,Diego Simeone,57033,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844594
+3,seg 29/08/2022,17:00,Valencia,Atlético,3-5-2 plano,Diego Simeone,43910,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3885851
+4,sáb 03/09/2022,13:30,Real Sociedad,Atlético,3-5-2 plano,Diego Simeone,35366,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3885856
+5,sáb 10/09/2022,16:00,Atlético,Celta de Vigo,3-5-2 plano,Diego Simeone,52247,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886301
+6,dom 18/09/2022,16:00,Atlético,Real Madrid,3-5-2 plano,Diego Simeone,66881,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3858320
+7,sáb 01/10/2022,13:30,Sevilla,Atlético,4-1-4-1,Diego Simeone,37754,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886288
+8,sáb 08/10/2022,11:15,Atlético,Girona,5-4-1 plano,Diego Simeone,54069,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886304
+9,sáb 15/10/2022,16:00,Athletic Club,Atlético,4-4-2 duplo 6,Diego Simeone,48391,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886319
+10,ter 18/10/2022,16:00,Atlético,Rayo Vallecano,4-4-2 duplo 6,Diego Simeone,46803,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886329
+11,dom 23/10/2022,11:15,Betis,Atlético,4-4-2 duplo 6,Diego Simeone,50179,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886364
+12,sáb 29/10/2022,11:15,Cádiz CF,Atlético,4-3-3 ofensivo,Diego Simeone,18183,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886388
+13,dom 06/11/2022,10:00,Atlético,Espanyol,4-4-2 duplo 6,Diego Simeone,50007,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886408
+14,qua 09/11/2022,17:30,Mallorca,Atlético,4-4-2 duplo 6,Diego Simeone,14475,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886450
+15,sex 30/12/2022,17:30,Atlético,Elche,3-4-2-1,Diego Simeone,48119,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886463
+16,dom 08/01/2023,17:00,Atlético,Barcelona,4-4-2,Diego Simeone,63493,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886481
+17,dom 15/01/2023,12:15,UD Almería,Atlético,4-1-4-1,Diego Simeone,14128,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886493
+18,sáb 21/01/2023,14:30,Atlético,Valladolid,4-1-4-1,Diego Simeone,53253,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886501
+19,dom 29/01/2023,12:15,Osasuna,Atlético,4-4-2,Diego Simeone,20902,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886514
+20,sáb 04/02/2023,14:30,Atlético,Getafe,4-1-4-1,Diego Simeone,56079,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886521
+21,dom 12/02/2023,12:15,Celta de Vigo,Atlético,4-3-3 ofensivo,Diego Simeone,15842,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886535
+22,dom 19/02/2023,14:30,Atlético,Athletic Club,4-4-2,Diego Simeone,61617,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886556
+23,sáb 25/02/2023,14:30,Real Madrid,Atlético,4-4-2,Diego Simeone,64721,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886564
+24,sáb 04/03/2023,17:00,Atlético,Sevilla,3-5-2,Diego Simeone,57737,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886569
+25,seg 13/03/2023,17:00,Girona,Atlético,3-5-2 ofensivo,Diego Simeone,12499,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886585
+26,sáb 18/03/2023,17:00,Atlético,Valencia,3-5-2 plano,Diego Simeone,58317,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886590
+27,dom 02/04/2023,16:00,Atlético,Betis,3-5-2 plano,Diego Simeone,61623,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886601
+28,dom 09/04/2023,16:00,Rayo Vallecano,Atlético,3-5-2 plano,Diego Simeone,13512,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886615
+29,dom 16/04/2023,13:30,Atlético,UD Almería,5-3-2,Diego Simeone,59204,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886629
+30,dom 23/04/2023,11:15,Barcelona,Atlético,5-3-2,Diego Simeone,80965,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886633
+31,qua 26/04/2023,14:30,Atlético,Mallorca,3-5-2 ofensivo,Diego Simeone,58523,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886641
+32,dom 30/04/2023,16:00,Valladolid,Atlético,5-3-2,Diego Simeone,23321,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886656
+33,qua 03/05/2023,17:00,Atlético,Cádiz CF,3-5-2 ofensivo,Diego Simeone,42023,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886661
+34,dom 14/05/2023,11:15,Elche,Atlético,3-5-2,Diego Simeone,22174,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886673
+35,dom 21/05/2023,11:15,Atlético,Osasuna,3-5-2 plano,Diego Simeone,57012,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886681
+36,qua 24/05/2023,17:00,Espanyol,Atlético,5-3-2,Diego Simeone,25822,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886695
+37,dom 28/05/2023,14:00,Atlético,Real Sociedad,5-4-1 plano,Diego Simeone,56169,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886701
+38,dom 04/06/2023,13:30,Villarreal,Atlético,5-3-2,Diego Simeone,18226,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844558

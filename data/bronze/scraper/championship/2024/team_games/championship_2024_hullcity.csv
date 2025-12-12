@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 10/08/2024,08:30,Hull City,Bristol City,4-1-4-1,Tim Walter,21011,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382370
+2,sáb 17/08/2024,11:00,Plymouth Argyle,Hull City,4-1-4-1,Tim Walter,16306,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382384
+3,sáb 24/08/2024,08:30,Hull City,Millwall,4-1-4-1,Tim Walter,20009,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382393
+4,sáb 31/08/2024,11:00,Leeds,Hull City,4-1-4-1,Tim Walter,36517,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382407
+5,sex 13/09/2024,16:00,Hull City,Sheff Utd,4-1-4-1,Tim Walter,22403,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382417
+6,sex 20/09/2024,16:00,Stoke,Hull City,4-1-4-1,Tim Walter,23366,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382436
+7,sáb 28/09/2024,11:00,Hull City,Cardiff,4-3-3 ofensivo,Tim Walter,22665,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382441
+8,ter 01/10/2024,15:45,QPR,Hull City,4-3-3 ofensivo,Tim Walter,13407,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382467
+9,sáb 05/10/2024,08:30,Norwich,Hull City,4-2-3-1,Tim Walter,26326,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382455
+10,dom 20/10/2024,11:00,Hull City,AFC Sunderland,4-3-3 ofensivo,Tim Walter,23072,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382501
+11,qua 23/10/2024,15:45,Hull City,FC Burnley,4-3-3 ofensivo,Tim Walter,20168,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382476
+12,sáb 26/10/2024,11:00,Derby,Hull City,4-3-3 ofensivo,Tim Walter,29877,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382610
+13,sáb 02/11/2024,12:00,Hull City,FC Portsmouth,4-1-4-1,Tim Walter,21904,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382513
+14,ter 05/11/2024,16:45,Oxford United,Hull City,4-1-4-1,Tim Walter,10213,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382525
+15,dom 10/11/2024,10:00,Hull City,West Brom,4-2-3-1,Tim Walter,20538,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382550
+16,sáb 23/11/2024,12:00,Luton,Hull City,4-2-3-1,Tim Walter,11386,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382490
+17,ter 26/11/2024,16:45,Hull City,Sheff Wed,4-1-4-1,Tim Walter,21297,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382536
+18,sáb 30/11/2024,09:30,Middlesbrough,Hull City,4-4-2 duplo 6,Andy Dawson,24121,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382599
+19,sáb 07/12/2024,12:00,Hull City,Blackburn,4-2-3-1,Andy Dawson,20544,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382573
+20,qua 11/12/2024,16:45,Hull City,Watford,4-2-3-1,Rubén Sellés,18694,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382640
+21,sáb 14/12/2024,09:30,Coventry City,Hull City,4-2-3-1,Rubén Sellés,25528,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382585
+22,sáb 21/12/2024,09:30,Hull City,Swansea,4-3-3 ofensivo,Rubén Sellés,20024,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382561
+23,qui 26/12/2024,12:00,Preston NE,Hull City,4-3-3 ofensivo,Rubén Sellés,16521,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382662
+24,dom 29/12/2024,12:00,Blackburn,Hull City,4-3-3 ofensivo,Rubén Sellés,16245,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382667
+25,qua 01/01/2025,14:30,Hull City,Middlesbrough,4-3-3 ofensivo,Rubén Sellés,21585,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382621
+26,sáb 04/01/2025,12:00,Hull City,Leeds,4-2-3-1,Rubén Sellés,24463,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382693
+27,sáb 18/01/2025,09:30,Millwall,Hull City,4-3-3 ofensivo,Rubén Sellés,14759,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382649
+28,ter 21/01/2025,16:45,Hull City,QPR,4-1-4-1,Rubén Sellés,19180,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382681
+29,sex 24/01/2025,17:00,Sheff Utd,Hull City,4-3-3 ofensivo,Rubén Sellés,27448,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382711
+30,sáb 01/02/2025,12:00,Hull City,Stoke,4-1-4-1,Rubén Sellés,21709,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382777
+31,qua 26/02/2025,16:45,Cardiff,Hull City,4-4-2 duplo 6,Rubén Sellés,16622,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382729
+32,qua 12/02/2025,16:45,FC Burnley,Hull City,4-3-3 ofensivo,Rubén Sellés,18987,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382747
+33,sáb 15/02/2025,12:00,Hull City,Norwich,4-2-3-1,Rubén Sellés,22141,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382825
+34,sáb 22/02/2025,09:30,AFC Sunderland,Hull City,4-2-3-1,Rubén Sellés,44009,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382771
+35,ter 04/03/2025,16:45,Hull City,Plymouth Argyle,4-2-3-1,Rubén Sellés,18772,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382813
+36,sáb 08/03/2025,12:00,Bristol City,Hull City,4-2-3-1,Rubén Sellés,21754,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382751
+37,qua 12/03/2025,16:45,Hull City,Oxford United,4-2-3-1,Rubén Sellés,19024,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382722
+38,sáb 15/03/2025,12:00,West Brom,Hull City,4-3-3 ofensivo,Rubén Sellés,24870,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382882
+39,sáb 29/03/2025,09:30,Hull City,Luton,4-2-3-1,Rubén Sellés,23005,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382886
+40,sáb 05/04/2025,11:00,Sheff Wed,Hull City,4-2-3-1,Rubén Sellés,27342,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382796
+41,ter 08/04/2025,15:45,Watford,Hull City,4-2-3-1,Rubén Sellés,17268,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382842
+42,seg 14/04/2025,16:00,Hull City,Coventry City,4-2-3-1,Rubén Sellés,21659,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382801
+43,sex 18/04/2025,11:00,Swansea,Hull City,4-2-3-1,Rubén Sellés,18775,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382869
+44,seg 21/04/2025,11:00,Hull City,Preston NE,4-2-3-1,Rubén Sellés,22103,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382897
+45,sáb 26/04/2025,11:00,Hull City,Derby,4-2-3-1,Rubén Sellés,24451,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382909
+46,sáb 03/05/2025,08:30,FC Portsmouth,Hull City,4-2-3-1,Rubén Sellés,20420,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382853

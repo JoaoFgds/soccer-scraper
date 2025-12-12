@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 02/08/2014,15:00,White Star,Lommel United,4-3-3 ofensivo,John Bico,400,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2471486
+2,sáb 09/08/2014,15:00,RE Virton,White Star,4-3-3 ofensivo,John Bico,1000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2485585
+3,qua 13/08/2014,15:30,White Star,RAEC Mons,4-4-2 duplo 6,John Bico,700,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2487728
+4,sáb 30/08/2014,15:00,Seraing United,White Star,4-4-2 duplo 6,John Bico,800,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2488215
+5,qua 03/09/2014,15:30,White Star,AFC Tubize,4-4-2,John Bico,1200,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2492915
+6,sáb 06/09/2014,15:00,OH Leuven,White Star,4-5-1,John Bico,5000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2495538
+7,sáb 13/09/2014,15:00,White Star,Eendracht Aalst,4-4-2 duplo 6,John Bico,1000,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498025
+8,dom 21/09/2014,10:00,KRC Mechelen,White Star,4-3-3 ofensivo,John Bico,1100,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2500510
+9,sáb 27/09/2014,15:00,White Star,Dessel Sport,4-3-3 ofensivo,John Bico,100,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2501066
+10,dom 05/10/2014,10:00,Antuérpia,White Star,4-4-2,John Bico,3500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2502606
+11,dom 12/10/2014,10:00,White Star,KAS Eupen,4-4-2,John Bico,400,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2503816
+12,dom 19/10/2014,14:00,St.Truiden,White Star,4-3-3 ofensivo,John Bico,5000,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2506615
+13,dom 26/10/2014,12:00,KVW Zaventem,White Star,4-3-3 ofensivo,John Bico,1000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2506624
+14,sáb 01/11/2014,17:00,White Star,Patro Eisden,4-4-2,John Bico,250,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2508344
+15,dom 09/11/2014,12:00,KSK Heist,White Star,4-3-3 ofensivo,John Bico,1000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2510934
+16,sáb 15/11/2014,17:00,White Star,KSV Roeselare,4-4-2 duplo 6,John Bico,350,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2512726
+17,sáb 22/11/2014,17:00,ASV Geel,White Star,4-4-2,John Bico,1600,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2512739
+18,sáb 29/11/2014,17:00,Lommel United,White Star,4-3-3 ofensivo,John Bico,2000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2512747
+19,dom 07/12/2014,12:00,White Star,RE Virton,4-3-3 ofensivo,John Bico,200,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2516119
+20,sáb 13/12/2014,17:00,RAEC Mons,White Star,4-3-3 defensivo,John Bico,1800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2517404
+21,dom 21/12/2014,12:00,White Star,Seraing United,4-3-3 defensivo,John Bico,800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2518462
+22,dom 18/01/2015,12:00,AFC Tubize,White Star,4-3-3 ofensivo,John Bico,300,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2531436
+23,sáb 24/01/2015,17:00,White Star,OH Leuven,4-3-3 ofensivo,John Bico,400,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2531441
+24,dom 01/02/2015,12:00,Eendracht Aalst,White Star,4-3-3 defensivo,John Bico,1200,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2531456
+25,sáb 07/02/2015,17:00,White Star,KRC Mechelen,4-3-3 defensivo,John Bico,300,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2531460
+26,sáb 14/02/2015,16:30,Dessel Sport,White Star,4-3-3 defensivo,John Bico,600,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2535548
+27,sáb 28/02/2015,16:00,White Star,Antuérpia,4-3-3 defensivo,John Bico,556,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2535559
+28,sáb 07/03/2015,16:00,KAS Eupen,White Star,4-3-3 defensivo,John Bico,1280,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2535568
+29,sex 13/03/2015,16:30,White Star,St.Truiden,4-3-3 defensivo,John Bico,900,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2535573
+30,sáb 21/03/2015,16:00,White Star,KVW Zaventem,4-3-3 defensivo,John Bico,200,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2535586
+31,sáb 04/04/2015,15:00,Patro Eisden,White Star,4-3-3 ofensivo,John Bico,900,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2550486
+32,sáb 11/04/2015,15:00,White Star,KSK Heist,4-3-3 ofensivo,John Bico,150,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2550873
+33,dom 19/04/2015,10:00,KSV Roeselare,White Star,4-3-3 defensivo,John Bico,900,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2550882
+34,sáb 25/04/2015,15:00,White Star,ASV Geel,4-3-3 defensivo,John Bico,350,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2550887

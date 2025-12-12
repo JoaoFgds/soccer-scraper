@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 20/05/2012,13:30,Cruzeiro,Atlético-GO,4-3-2-1,Adilson Batista,3952,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2210943
+2,sáb 26/05/2012,13:30,Atlético-GO,Ponte Preta,4-3-2-1,Adilson Batista,1703,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206416
+3,qua 06/06/2012,14:30,Atlético-GO,Grêmio,4-4-2 duplo 6,Hélio dos Anjos,2965,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206424
+4,dom 10/06/2012,11:00,Portuguesa,Atlético-GO,4-4-2 duplo 6,Hélio dos Anjos,1407,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206429
+5,dom 17/06/2012,13:30,Coritiba,Atlético-GO,4-3-1-2,Hélio dos Anjos,8704,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206439
+6,dom 24/06/2012,13:30,Atlético-GO,Fluminense,4-3-1-2,Hélio dos Anjos,5240,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206451
+7,dom 01/07/2012,13:30,Flamengo,Atlético-GO,4-3-1-2,Hélio dos Anjos,6645,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206453
+8,sáb 07/07/2012,16:00,Atlético-GO,Náutico,3-5-2,Hélio dos Anjos,2048,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206473
+9,dom 15/07/2012,13:30,Vasco da Gama,Atlético-GO,4-4-2 duplo 6,Jairo,9624,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206479
+10,qui 19/07/2012,16:00,Atlético-GO,Figueirense,4-3-3 defensivo,Jairo,1112,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206381
+11,dom 22/07/2012,11:00,Internacional,Atlético-GO,4-3-1-2,Jairo,10021,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206375
+12,qua 25/07/2012,16:50,Atlético-GO,São Paulo,4-3-3 defensivo,Jairo,6236,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206392
+13,dom 29/07/2012,11:00,Sport,Atlético-GO,4-3-3 defensivo,Jairo,12860,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206401
+14,sáb 04/08/2012,13:30,Atlético-GO,Botafogo,4-3-3 ofensivo,Jairo,7309,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206508
+15,qua 08/08/2012,15:30,Corinthians,Atlético-GO,4-4-2 duplo 6,Jairo,24372,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206499
+16,sáb 11/08/2012,13:30,Santos,Atlético-GO,4-3-1-2,Jairo,9432,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206526
+17,qua 15/08/2012,15:30,Atlético-GO,Atlético-MG,4-2-3-1,Jairo,7729,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206719
+18,dom 19/08/2012,13:30,Atlético-GO,Palmeiras,4-3-1-2,Jairo,9955,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206706
+19,dom 26/08/2012,13:30,Bahia,Atlético-GO,4-3-1-2,Jairo,10901,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206695
+20,qua 29/08/2012,17:00,Atlético-GO,Cruzeiro,4-3-3 defensivo,Jairo,2675,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206680
+21,dom 02/09/2012,13:30,Ponte Preta,Atlético-GO,4-3-1-2,Jairo,4762,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206665
+22,qua 05/09/2012,15:30,Grêmio,Atlético-GO,4-4-2 losango,Jairo,21832,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206660
+23,dom 09/09/2012,13:30,Atlético-GO,Portuguesa,4-3-1-2,Jairo,891,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206643
+24,qua 12/09/2012,15:30,Atlético-GO,Coritiba,4-3-1-2,Arthur Neto,697,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206641
+25,sáb 15/09/2012,13:30,Fluminense,Atlético-GO,4-3-1-2,Arthur Neto,8269,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206637
+26,dom 23/09/2012,11:00,Atlético-GO,Flamengo,4-3-1-2,Arthur Neto,23887,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206610
+27,sáb 29/09/2012,13:30,Náutico,Atlético-GO,4-3-1-2,Arthur Neto,13149,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206606
+28,sáb 06/10/2012,16:20,Atlético-GO,Vasco da Gama,4-3-1-2,Arthur Neto,13212,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206601
+29,qua 10/10/2012,14:30,Figueirense,Atlético-GO,4-3-1-2,Arthur Neto,2600,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206583
+30,sáb 13/10/2012,13:30,Atlético-GO,Internacional,4-4-2 duplo 6,Arthur Neto,1476,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206564
+31,qui 18/10/2012,16:00,São Paulo,Atlético-GO,4-3-1-2,Arthur Neto,27098,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206566
+32,dom 21/10/2012,14:30,Atlético-GO,Sport,4-3-1-2,Arthur Neto,449,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206545
+33,sáb 27/10/2012,14:30,Botafogo,Atlético-GO,4-3-1-2,Arthur Neto,11352,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206551
+34,dom 04/11/2012,14:00,Atlético-GO,Corinthians,4-3-1-2,Jairo,8931,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206544
+35,sáb 10/11/2012,16:30,Atlético-GO,Santos,4-3-1-2,Jairo,7276,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206505
+36,dom 18/11/2012,14:00,Atlético-MG,Atlético-GO,4-3-1-2,Jairo,15342,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206510
+37,dom 25/11/2012,14:00,Palmeiras,Atlético-GO,4-3-1-2,Jairo,4244,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206484
+38,dom 02/12/2012,14:00,Atlético-GO,Bahia,4-3-1-2,Jairo,2358,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206681

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 19/08/2017,10:30,Wolfsburg,Dortmund,4-2-3-1,Andries Jonker,30000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871503
+2,sáb 26/08/2017,10:30,Frankfurt,Wolfsburg,5-4-1 plano,Andries Jonker,46000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871547
+3,sáb 09/09/2017,10:30,Wolfsburg,Hannover,5-3-2,Andries Jonker,27321,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871599
+4,sáb 16/09/2017,10:30,Stuttgart,Wolfsburg,5-3-2,Andries Jonker,50500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871663
+5,ter 19/09/2017,15:30,Wolfsburg,Werder Bremen,4-2-3-1,Martin Schmidt,26174,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871699
+6,sex 22/09/2017,15:30,Bayern,Wolfsburg,4-1-4-1,Martin Schmidt,75024,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871727
+7,sáb 30/09/2017,10:30,Wolfsburg,Mainz,4-2-3-1,Martin Schmidt,24352,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871781
+8,dom 15/10/2017,11:30,Leverkusen,Wolfsburg,4-1-4-1,Martin Schmidt,29104,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871814
+9,dom 22/10/2017,14:00,Wolfsburg,Hoffenheim,4-2-3-1,Martin Schmidt,23514,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871862
+10,sáb 28/10/2017,11:30,Schalke,Wolfsburg,4-4-1-1,Martin Schmidt,60429,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871903
+11,dom 05/11/2017,15:00,Wolfsburg,Hertha Berlim,4-2-3-1,Martin Schmidt,25214,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871961
+12,sáb 18/11/2017,12:30,Wolfsburg,Freiburg,4-2-3-1,Martin Schmidt,23744,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871996
+13,sáb 25/11/2017,12:30,Augsburg,Wolfsburg,4-2-3-1,Martin Schmidt,26541,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872031
+14,dom 03/12/2017,15:00,Wolfsburg,M'gladbach,4-2-3-1,Martin Schmidt,24265,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871988
+15,sáb 09/12/2017,12:31,Hamburgo,Wolfsburg,4-2-3-1,Martin Schmidt,45226,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871941
+16,ter 12/12/2017,15:30,Wolfsburg,Leipzig,4-2-3-1,Martin Schmidt,22827,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871916
+17,sáb 16/12/2017,12:30,Colônia,Wolfsburg,4-2-3-1,Martin Schmidt,41100,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871874
+18,dom 14/01/2018,15:00,Dortmund,Wolfsburg,4-2-3-1,Martin Schmidt,80600,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871494
+19,sáb 20/01/2018,12:31,Wolfsburg,Frankfurt,4-4-2 duplo 6,Martin Schmidt,24450,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871508
+20,dom 28/01/2018,15:00,Hannover,Wolfsburg,4-2-3-1,Martin Schmidt,34300,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871577
+21,sáb 03/02/2018,12:32,Wolfsburg,Stuttgart,4-2-3-1,Martin Schmidt,24378,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871654
+22,dom 11/02/2018,15:00,Werder Bremen,Wolfsburg,4-2-3-1,Martin Schmidt,38062,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871677
+23,sáb 17/02/2018,12:30,Wolfsburg,Bayern,4-2-3-1,Martin Schmidt,30000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871726
+24,sex 23/02/2018,16:30,Mainz,Wolfsburg,4-2-3-1,Bruno Labbadia,25173,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871760
+25,sáb 03/03/2018,11:30,Wolfsburg,Leverkusen,4-2-3-1,Bruno Labbadia,24354,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872114
+26,sáb 10/03/2018,11:30,Hoffenheim,Wolfsburg,4-4-1-1,Bruno Labbadia,25550,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871793
+27,sáb 17/03/2018,14:30,Wolfsburg,Schalke,4-3-3 ofensivo,Bruno Labbadia,27502,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871835
+28,sáb 31/03/2018,15:30,Hertha Berlim,Wolfsburg,4-3-3 ofensivo,Bruno Labbadia,34765,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872018
+29,sáb 07/04/2018,10:30,Freiburg,Wolfsburg,4-3-3 ofensivo,Bruno Labbadia,24000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872046
+30,sex 13/04/2018,15:30,Wolfsburg,Augsburg,3-4-2-1,Bruno Labbadia,23512,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872068
+31,sex 20/04/2018,15:30,M'gladbach,Wolfsburg,3-4-2-1,Bruno Labbadia,47797,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872073
+32,sáb 28/04/2018,10:30,Wolfsburg,Hamburgo,4-2-3-1,Bruno Labbadia,29400,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872087
+33,sáb 05/05/2018,10:30,Leipzig,Wolfsburg,3-5-2,Bruno Labbadia,41487,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872089
+34,sáb 12/05/2018,10:30,Wolfsburg,Colônia,4-3-3 ofensivo,Bruno Labbadia,26112,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872105

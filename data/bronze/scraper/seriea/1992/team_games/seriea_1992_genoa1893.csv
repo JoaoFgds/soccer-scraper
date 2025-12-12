@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 06/09/1992,11:00,Florenz,Genoa,?,Bruno Giorgi,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216058
+2,dom 13/09/1992,11:00,Genoa,Roma,?,Bruno Giorgi,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216068
+3,dom 20/09/1992,11:00,Genoa,Juventus,4-4-2 duplo 6,Bruno Giorgi,37123,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216077
+4,dom 27/09/1992,11:00,Lazio,Genoa,?,Bruno Giorgi,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216080
+5,dom 04/10/1992,11:00,Genoa,Ancona,?,Bruno Giorgi,22654,4:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216095
+6,dom 18/10/1992,11:00,Foggia,Genoa,?,Bruno Giorgi,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216104
+7,dom 25/10/1992,11:30,Genoa,Pescara,?,Bruno Giorgi,,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216113
+8,dom 01/11/1992,11:30,Sampdoria,Genoa,3-4-2-1,Bruno Giorgi,39919,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216118
+9,dom 08/11/1992,11:30,Genoa,Cagliari,?,Bruno Giorgi,,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216131
+10,dom 22/11/1992,11:30,Udinese,Genoa,?,Luigi Maifredi,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216135
+11,dom 29/11/1992,11:30,Genoa,Torino,?,Luigi Maifredi,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216149
+12,dom 06/12/1992,11:30,Brescia,Genoa,?,Luigi Maifredi,13142,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216156
+13,dom 13/12/1992,11:30,Genoa,Napoli,?,Luigi Maifredi,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216167
+14,dom 03/01/1993,11:30,Inter,Genoa,?,Luigi Maifredi,,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216175
+15,dom 10/01/1993,11:30,AC Parma,Genoa,5-3-2,Luigi Maifredi,22585,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216177
+16,dom 17/01/1993,11:30,Genoa,Atalanta,?,Luigi Maifredi,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216194
+17,dom 24/01/1993,11:30,Milan,Genoa,?,Luigi Maifredi,76440,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216197
+18,dom 31/01/1993,10:30,Genoa,Florenz,?,Luigi Maifredi,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216274
+19,dom 07/02/1993,10:30,Roma,Genoa,?,Luigi Maifredi,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216209
+20,dom 14/02/1993,11:00,Juventus,Genoa,5-4-1 plano,Luigi Maifredi,41805,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216220
+21,dom 28/02/1993,11:00,Genoa,Lazio,?,Luigi Maifredi,,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216230
+22,dom 07/03/1993,11:00,Ancona,Genoa,?,Claudio Maselli,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216236
+23,dom 14/03/1993,11:00,Genoa,Foggia,?,Claudio Maselli,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216248
+24,dom 21/03/1993,11:00,Pescara,Genoa,?,Claudio Maselli,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216252
+25,dom 28/03/1993,11:00,Genoa,Sampdoria,4-4-2 duplo 6,Claudio Maselli,39281,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216265
+26,dom 04/04/1993,11:00,Cagliari,Genoa,?,Claudio Maselli,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216283
+27,sáb 10/04/1993,11:00,Genoa,Udinese,?,Claudio Maselli,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216293
+28,dom 18/04/1993,11:00,Torino,Genoa,?,Claudio Maselli,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216297
+29,dom 25/04/1993,11:00,Genoa,Brescia,?,Claudio Maselli,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216310
+30,dom 09/05/1993,11:00,Napoli,Genoa,?,Claudio Maselli,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216312
+31,dom 16/05/1993,11:00,Genoa,Inter,?,Claudio Maselli,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216328
+32,dom 23/05/1993,11:00,Genoa,AC Parma,5-3-2,Claudio Maselli,25518,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216336
+33,dom 30/05/1993,11:30,Atalanta,Genoa,?,Claudio Maselli,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216346
+34,dom 06/06/1993,11:30,Genoa,Milan,?,Claudio Maselli,29230,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216353

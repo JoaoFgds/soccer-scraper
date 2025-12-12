@@ -1,0 +1,19 @@
+position,team,played,won,drawn,lost,goal_ratio,goal_difference,points,team_url
+1,FC Porto,34,27,4,3,80:24,56,85,https://www.transfermarkt.com.br/fc-porto/spielplan/verein/720/saison_id/1996
+2,Sporting CP,34,22,6,6,55:19,36,72,https://www.transfermarkt.com.br/sporting-lissabon/spielplan/verein/336/saison_id/1996
+3,SL Benfica,34,17,7,10,49:30,19,58,https://www.transfermarkt.com.br/benfica-lissabon/spielplan/verein/294/saison_id/1996
+4,SC Braga,34,15,10,9,39:40,-1,55,https://www.transfermarkt.com.br/sc-braga/spielplan/verein/1075/saison_id/1996
+5,Vitória Sport Clube,34,15,8,11,51:46,5,53,https://www.transfermarkt.com.br/vitoria-guimaraes-sc/spielplan/verein/2420/saison_id/1996
+6,SC Salgueiros,34,14,10,10,49:48,1,52,https://www.transfermarkt.com.br/sc-salgueiros/spielplan/verein/2434/saison_id/1996
+7,Boavista FC,34,12,13,9,62:39,23,49,https://www.transfermarkt.com.br/boavista-porto-fc/spielplan/verein/2503/saison_id/1996
+8,Club Sport Marítimo,34,13,8,13,39:38,1,47,https://www.transfermarkt.com.br/cs-maritimo/spielplan/verein/1301/saison_id/1996
+8,Clube Futebol Estrela da Amadora,34,12,11,11,39:38,1,47,https://www.transfermarkt.com.br/cf-estrela-amadora-sad/spielplan/verein/2431/saison_id/1996
+10,GD Chaves,34,12,10,12,39:45,-6,46,https://www.transfermarkt.com.br/gd-chaves/spielplan/verein/3325/saison_id/1996
+11,SC Farense,34,10,12,12,34:34,0,42,https://www.transfermarkt.com.br/sc-farense/spielplan/verein/4294/saison_id/1996
+12,Vitória Futebol Clube,34,10,10,14,38:42,-4,40,https://www.transfermarkt.com.br/vitoria-setubal-fc/spielplan/verein/1085/saison_id/1996
+13,CF Os Belenenses,34,10,10,14,37:50,-13,40,https://www.transfermarkt.com.br/cf-os-belenenses/spielplan/verein/68608/saison_id/1996
+14,Leça FC,34,9,9,16,33:42,-9,36,https://www.transfermarkt.com.br/leca-fc/spielplan/verein/3267/saison_id/1996
+15,Rio Ave Futebol Clube,34,8,11,15,35:42,-7,35,https://www.transfermarkt.com.br/rio-ave-fc/spielplan/verein/2425/saison_id/1996
+16,Sporting Clube de Espinho,34,9,6,19,27:56,-29,33,https://www.transfermarkt.com.br/sc-espinho/spielplan/verein/3265/saison_id/1996
+17,UD Leiria,34,8,6,20,25:53,-28,30,https://www.transfermarkt.com.br/uniao-leiria/spielplan/verein/2639/saison_id/1996
+18,Gil Vicente Futebol Clube,34,4,7,23,29:74,-45,19,https://www.transfermarkt.com.br/gil-vicente-fc/spielplan/verein/2424/saison_id/1996

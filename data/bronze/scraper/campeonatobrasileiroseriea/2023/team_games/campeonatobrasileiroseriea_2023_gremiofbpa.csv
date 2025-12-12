@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 16/04/2023,18:30,Grêmio,Santos,4-2-3-1,Renato Gaúcho,13997,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4055823
+2,sáb 22/04/2023,21:00,Cruzeiro,Grêmio,4-2-3-1,Renato Gaúcho,21605,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4059106
+3,dom 30/04/2023,18:30,Cuiabá,Grêmio,4-2-3-1,Renato Gaúcho,21385,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060070
+4,dom 07/05/2023,18:30,Grêmio,Bragantino,4-2-3-1,Renato Gaúcho,23760,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061499
+5,qua 10/05/2023,21:30,Palmeiras,Grêmio,3-4-1-2,Renato Gaúcho,37532,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061435
+6,dom 14/05/2023,16:00,Grêmio,Fortaleza,4-2-3-1,Renato Gaúcho,19598,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061519
+7,dom 21/05/2023,18:30,Grêmio,Internacional,3-4-3 plano,Renato Gaúcho,39438,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061409
+8,sáb 27/05/2023,16:00,Athletico-PR,Grêmio,3-4-2-1,Renato Gaúcho,25966,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061450
+9,dom 04/06/2023,16:00,Grêmio,São Paulo,3-4-2-1,Renato Gaúcho,42207,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061419
+10,dom 11/06/2023,18:30,Flamengo,Grêmio,5-4-1,Renato Gaúcho,62967,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061523
+11,qui 22/06/2023,19:00,Grêmio,América-MG,4-2-3-1,Renato Gaúcho,15864,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061469
+12,dom 25/06/2023,16:00,Grêmio,Coritiba,4-2-3-1,Renato Gaúcho,37048,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061509
+13,sáb 01/07/2023,18:30,Bahia,Grêmio,5-4-1 plano,Renato Gaúcho,34090,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061561
+14,dom 09/07/2023,18:30,Grêmio,Botafogo,3-4-2-1,Renato Gaúcho,47029,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061299
+15,seg 18/09/2023,21:00,Corinthians,Grêmio,4-4-2,Renato Gaúcho,36076,4:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061426
+16,sáb 22/07/2023,21:00,Grêmio,Atlético-MG,3-4-2-1,Renato Gaúcho,37085,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061547
+17,dom 30/07/2023,18:30,Goiás,Grêmio,3-4-3 plano,Renato Gaúcho,12311,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061542
+18,dom 06/08/2023,16:00,Vasco da Gama,Grêmio,4-2-3-1,Renato Gaúcho,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061274
+19,dom 13/08/2023,16:00,Grêmio,Fluminense,4-4-2,Renato Gaúcho,38712,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061399
+20,dom 20/08/2023,16:00,Santos,Grêmio,4-2-3-1,Renato Gaúcho,12933,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061246
+21,dom 27/08/2023,19:00,Grêmio,Cruzeiro,4-3-1-2,Alexandre Mendes,24938,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061389
+22,dom 03/09/2023,11:00,Grêmio,Cuiabá,4-3-3 ofensivo,Renato Gaúcho,39339,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061289
+23,qui 14/09/2023,21:30,Bragantino,Grêmio,4-1-3-2,Renato Gaúcho,5088,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061217
+24,qui 21/09/2023,21:30,Grêmio,Palmeiras,4-3-3 ofensivo,Renato Gaúcho,29057,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061259
+25,sáb 30/09/2023,16:00,Fortaleza,Grêmio,4-3-3 defensivo,Renato Gaúcho,23634,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061381
+26,dom 08/10/2023,16:00,Internacional,Grêmio,4-3-3 ofensivo,Renato Gaúcho,39133,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061269
+27,qua 18/10/2023,19:00,Grêmio,Athletico-PR,4-3-3 ofensivo,Renato Gaúcho,24679,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061349
+28,sáb 21/10/2023,18:30,São Paulo,Grêmio,5-3-2,Renato Gaúcho,47132,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061325
+29,qua 25/10/2023,21:30,Grêmio,Flamengo,3-4-2-1,Renato Gaúcho,22325,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061459
+30,sáb 28/10/2023,19:00,América-MG,Grêmio,4-3-3 ofensivo,Renato Gaúcho,3008,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061322
+31,qua 01/11/2023,20:00,Coritiba,Grêmio,3-4-1-2,Renato Gaúcho,24308,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061240
+32,sáb 04/11/2023,19:30,Grêmio,Bahia,3-4-1-2,Renato Gaúcho,40154,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061229
+33,qui 09/11/2023,20:00,Botafogo,Grêmio,4-2-3-1,Renato Gaúcho,17708,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061334
+34,dom 12/11/2023,16:00,Grêmio,Corinthians,4-3-3 ofensivo,Renato Gaúcho,51842,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061309
+35,dom 26/11/2023,16:00,Atlético-MG,Grêmio,3-4-3 plano,Renato Gaúcho,39337,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061358
+36,qui 30/11/2023,19:00,Grêmio,Goiás,4-3-3 ofensivo,Renato Gaúcho,38683,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061369
+37,dom 03/12/2023,18:30,Grêmio,Vasco da Gama,4-3-3 ofensivo,Renato Gaúcho,50481,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061479
+38,qua 06/12/2023,21:30,Fluminense,Grêmio,4-3-3 ofensivo,Renato Gaúcho,44190,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061483

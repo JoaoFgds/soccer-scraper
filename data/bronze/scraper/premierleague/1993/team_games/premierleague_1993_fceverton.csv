@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 14/08/1993,11:00,Southampton,Everton,?,Howard Kendall,14051,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111722
+2,ter 17/08/1993,15:30,Everton,Man City,?,Howard Kendall,26036,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111734
+3,sáb 21/08/1993,11:00,Everton,Sheff Utd,?,Howard Kendall,24169,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111748
+4,qua 25/08/1993,15:45,Newcastle,Everton,?,Howard Kendall,34833,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111759
+5,sáb 28/08/1993,11:00,Arsenal,Everton,?,Howard Kendall,29063,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111772
+6,ter 31/08/1993,15:30,Everton,Aston Villa,?,Howard Kendall,24022,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111778
+7,sáb 11/09/1993,11:00,Oldham Athletic,Everton,?,Howard Kendall,13666,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111789
+8,sáb 18/09/1993,11:00,Everton,Liverpool,?,Howard Kendall,38157,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111803
+9,sáb 25/09/1993,11:00,Everton,Norwich,?,Howard Kendall,20531,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111808
+10,dom 03/10/1993,12:00,Tottenham,Everton,?,Howard Kendall,27487,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111828
+11,sáb 16/10/1993,11:00,Swindon Town,Everton,?,Howard Kendall,14414,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111832
+12,sáb 23/10/1993,12:00,Everton,Man Utd,?,Howard Kendall,35430,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111848
+13,sáb 30/10/1993,13:00,Ipswich,Everton,?,Howard Kendall,15078,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111856
+14,sáb 06/11/1993,13:00,Coventry City,Everton,?,Howard Kendall,15662,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111870
+15,sáb 20/11/1993,13:00,Everton,QPR,?,Howard Kendall,17326,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111880
+16,ter 23/11/1993,17:30,Everton,Leeds,?,Howard Kendall,17066,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111886
+17,sáb 27/11/1993,13:00,Wimbledon FC,Everton,?,Howard Kendall,6934,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111896
+18,sáb 04/12/1993,13:00,Everton,Southampton,?,Howard Kendall,13660,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111914
+19,qua 08/12/1993,17:45,Man City,Everton,?,,20513,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111922
+20,sáb 11/12/1993,13:00,Sheff Utd,Everton,?,Jimmy Gabriel,15135,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111929
+21,sáb 18/12/1993,13:00,Everton,Newcastle,?,Jimmy Gabriel,25189,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111943
+22,seg 27/12/1993,18:00,Everton,Sheff Wed,?,Jimmy Gabriel,16777,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111955
+23,qua 29/12/1993,17:45,Blackburn,Everton,?,Jimmy Gabriel,21462,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111962
+24,sáb 01/01/1994,13:00,Everton,West Ham,?,Jimmy Gabriel,19579,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111975
+24,seg 03/01/1994,13:00,Chelsea,Everton,?,Jimmy Gabriel,18338,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111977
+25,sáb 15/01/1994,13:00,Everton,Swindon Town,?,Mike Walker,20546,6:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111992
+26,sáb 22/01/1994,13:00,Man Utd,Everton,?,Mike Walker,44750,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111998
+27,sáb 05/02/1994,13:00,Everton,Chelsea,?,Mike Walker,18821,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1112013
+28,sáb 12/02/1994,13:00,Everton,Ipswich,?,Mike Walker,19588,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1112021
+28,sáb 19/02/1994,13:00,Everton,Arsenal,?,Mike Walker,19891,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1112025
+30,sáb 05/03/1994,12:00,Everton,Oldham Athletic,?,Mike Walker,18837,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1112049
+31,dom 13/03/1994,14:00,Liverpool,Everton,4-4-2,Mike Walker,44281,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1112059
+33,seg 21/03/1994,17:00,Norwich,Everton,?,Mike Walker,16432,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1112075
+33,sáb 26/03/1994,12:00,Everton,Tottenham,?,Mike Walker,23580,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1112081
+34,qua 30/03/1994,15:45,Aston Villa,Everton,?,Mike Walker,36044,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1112093
+35,sáb 02/04/1994,11:00,Sheff Wed,Everton,?,Mike Walker,24096,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1112098
+36,seg 04/04/1994,11:00,Everton,Blackburn,?,Mike Walker,27427,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1112113
+37,sáb 09/04/1994,11:00,West Ham,Everton,?,Mike Walker,20243,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1112118
+37,sáb 16/04/1994,11:00,QPR,Everton,?,Mike Walker,13330,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1112125
+39,sáb 23/04/1994,11:00,Everton,Coventry City,?,Mike Walker,23217,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1112143
+40,sáb 30/04/1994,11:00,Leeds,Everton,?,Mike Walker,35487,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1112159
+42,sáb 07/05/1994,11:00,Everton,Wimbledon FC,?,Mike Walker,31297,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1112176

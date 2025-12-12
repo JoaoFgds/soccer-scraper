@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 06/08/1999,19:00,Newcastle,Aston Villa,5-4-1,Ruud Gullit,37376,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043693
+2,dom 08/08/1999,19:00,Tottenham,Newcastle,4-4-2 duplo 6,Ruud Gullit,28701,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1055071
+3,sáb 14/08/1999,19:00,Southampton,Newcastle,4-4-2,Ruud Gullit,15013,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1055089
+4,sex 20/08/1999,19:00,Newcastle,Wimbledon FC,4-4-2,Ruud Gullit,35809,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1055096
+5,ter 24/08/1999,19:00,Newcastle,AFC Sunderland,4-5-1,Ruud Gullit,36600,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1055106
+6,sáb 28/08/1999,19:00,Man Utd,Newcastle,4-4-2,Steve Clarke,55190,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1055185
+7,sex 10/09/1999,19:00,Chelsea,Newcastle,4-4-2,Sir Bobby Robson,35092,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1055187
+8,sáb 18/09/1999,19:00,Newcastle,Sheff Wed,4-4-2,Sir Bobby Robson,36619,8:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1055204
+9,sex 24/09/1999,19:00,Leeds,Newcastle,4-4-2,Sir Bobby Robson,40192,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113805
+10,sáb 02/10/1999,20:00,Newcastle,Middlesbrough,4-4-2,Sir Bobby Robson,36421,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113819
+11,sex 15/10/1999,20:00,Coventry City,Newcastle,4-4-2,Sir Bobby Robson,23031,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113823
+12,dom 24/10/1999,20:00,Newcastle,Derby,4-4-2,Sir Bobby Robson,35614,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113841
+13,sex 29/10/1999,20:00,Arsenal,Newcastle,4-4-2,Sir Bobby Robson,38106,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113845
+14,sáb 06/11/1999,21:00,Newcastle,Everton,?,Sir Bobby Robson,36164,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113861
+15,sex 19/11/1999,21:00,Watford,Newcastle,?,Sir Bobby Robson,19539,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113868
+16,sáb 27/11/1999,21:00,Newcastle,Tottenham,4-4-2,Sir Bobby Robson,36460,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113877
+17,sex 03/12/1999,21:00,Aston Villa,Newcastle,4-4-2,Sir Bobby Robson,34531,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113882
+18,sex 17/12/1999,21:00,Bradford,Newcastle,4-4-2,Sir Bobby Robson,18286,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113900
+19,sáb 25/12/1999,21:00,Newcastle,Liverpool,4-4-2,Sir Bobby Robson,36445,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113907
+20,seg 27/12/1999,21:00,Leicester,Newcastle,4-4-2,Sir Bobby Robson,21225,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113914
+21,dom 02/01/2000,21:00,Newcastle,West Ham,4-4-2,Sir Bobby Robson,36314,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113925
+22,sáb 15/01/2000,21:00,Newcastle,Southampton,4-4-2,Sir Bobby Robson,35623,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113940
+23,sex 21/01/2000,21:00,Wimbledon FC,Newcastle,4-4-2,Sir Bobby Robson,22118,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113949
+24,sex 04/02/2000,21:00,AFC Sunderland,Newcastle,4-4-2,Sir Bobby Robson,42192,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113959
+25,sex 11/02/2000,21:00,Newcastle,Man Utd,4-4-2,Sir Bobby Robson,36470,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113966
+26,sex 25/02/2000,21:00,Sheff Wed,Newcastle,4-4-2,Sir Bobby Robson,29212,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113977
+27,sex 03/03/2000,20:00,Newcastle,Chelsea,4-4-2,Sir Bobby Robson,36448,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113985
+28,sex 10/03/2000,20:00,Newcastle,Watford,4-4-2,Sir Bobby Robson,36433,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113996
+29,dom 19/03/2000,13:00,Everton,Newcastle,4-4-2,Sir Bobby Robson,32512,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1114011
+30,sáb 25/03/2000,12:00,Liverpool,Newcastle,5-3-2,Sir Bobby Robson,44743,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1114015
+31,sáb 01/04/2000,11:00,Newcastle,Bradford,4-4-2,Sir Bobby Robson,36572,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1114025
+32,qua 12/04/2000,15:45,West Ham,Newcastle,4-5-1,Sir Bobby Robson,25817,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1114039
+33,sáb 15/04/2000,11:00,Newcastle,Leicester,4-5-1,Sir Bobby Robson,36426,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1114046
+34,dom 23/04/2000,11:00,Newcastle,Leeds,3-5-2 ofensivo,Sir Bobby Robson,36460,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1114061
+35,ter 02/05/2000,15:45,Middlesbrough,Newcastle,4-4-2,Sir Bobby Robson,34744,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1114069
+36,sáb 29/04/2000,11:00,Newcastle,Coventry City,4-5-1,Sir Bobby Robson,36048,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1114076
+37,sáb 06/05/2000,11:00,Derby,Newcastle,4-4-2,Sir Bobby Robson,32724,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1114089
+38,dom 14/05/2000,12:00,Newcastle,Arsenal,4-4-2,Sir Bobby Robson,36450,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1114096

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 25/08/2001,16:30,Valencia,Real Madrid,4-4-1-1,Rafael Benítez,52600,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1081894
+2,dom 09/09/2001,15:00,Valladolid,Valencia,?,Rafael Benítez,12200,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1081912
+3,dom 16/09/2001,15:00,Valencia,Las Palmas,4-2-3-1,Rafael Benítez,45000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1081929
+4,dom 23/09/2001,15:00,Athletic Club,Valencia,?,Rafael Benítez,35000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1081935
+5,dom 30/09/2001,14:00,Valencia,Alavés,?,Rafael Benítez,45000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1082061
+6,qui 04/10/2001,16:30,Celta de Vigo,Valencia,?,Rafael Benítez,15000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1082074
+7,dom 07/10/2001,15:00,Valencia,Villarreal,?,Rafael Benítez,45000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1082084
+8,dom 14/10/2001,15:00,Barcelona,Valencia,4-4-2 duplo 6,Rafael Benítez,90000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1082092
+9,dom 21/10/2001,16:00,Valencia,Zaragoza,?,Rafael Benítez,40000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1082104
+10,dom 28/10/2001,15:00,Sevilla,Valencia,?,Rafael Benítez,35000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1082113
+11,dom 04/11/2001,14:00,Valencia,Rayo Vallecano,?,Rafael Benítez,40000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1083511
+12,dom 11/11/2001,14:00,Osasuna,Valencia,?,Rafael Benítez,17601,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1083526
+13,dom 18/11/2001,14:00,Valencia,Tenerife,?,Rafael Benítez,40000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1083548
+14,dom 25/11/2001,14:00,Real Sociedad,Valencia,?,Rafael Benítez,24140,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1083558
+15,sáb 01/12/2001,18:30,Valencia,Mallorca,?,Rafael Benítez,40000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1083564
+16,dom 09/12/2001,14:00,Deportivo,Valencia,?,Rafael Benítez,32000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089639
+17,sáb 15/12/2001,18:30,Espanyol,Valencia,?,Rafael Benítez,7900,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089642
+18,sáb 22/12/2001,18:30,Valencia,Málaga CF,?,Rafael Benítez,40000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089655
+19,dom 06/01/2002,14:00,Betis,Valencia,?,Rafael Benítez,35000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089668
+20,dom 13/01/2002,17:00,Real Madrid,Valencia,4-4-2 duplo 6,Rafael Benítez,71529,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089680
+21,dom 20/01/2002,14:00,Valencia,Valladolid,?,Rafael Benítez,40000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089695
+22,sáb 26/01/2002,19:00,Las Palmas,Valencia,?,Rafael Benítez,18000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089703
+23,dom 03/02/2002,17:00,Valencia,Athletic Club,?,Rafael Benítez,45000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089721
+24,qua 06/02/2002,17:30,Alavés,Valencia,?,Rafael Benítez,13425,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089724
+25,sáb 09/02/2002,18:30,Valencia,Celta de Vigo,?,Rafael Benítez,49000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089733
+26,sáb 16/02/2002,18:00,Villarreal,Valencia,?,Rafael Benítez,21000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089743
+27,sáb 23/02/2002,17:30,Valencia,Barcelona,4-2-3-1,Rafael Benítez,50000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089754
+28,dom 03/03/2002,13:00,Zaragoza,Valencia,?,Rafael Benítez,33000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089767
+29,dom 10/03/2002,13:00,Valencia,Sevilla,?,Rafael Benítez,45000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089779
+30,dom 17/03/2002,16:00,Rayo Vallecano,Valencia,?,Rafael Benítez,15000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089791
+31,dom 24/03/2002,14:00,Valencia,Osasuna,?,Rafael Benítez,50000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089811
+32,sáb 30/03/2002,17:30,Tenerife,Valencia,?,Rafael Benítez,22000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089817
+33,dom 07/04/2002,14:00,Valencia,Real Sociedad,?,Rafael Benítez,48000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089831
+34,sáb 13/04/2002,16:30,Mallorca,Valencia,?,Rafael Benítez,20000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089833
+35,dom 21/04/2002,15:00,Valencia,Deportivo,?,Rafael Benítez,52000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089852
+36,sáb 27/04/2002,16:30,Valencia,Espanyol,?,Rafael Benítez,52600,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089880
+37,dom 05/05/2002,15:00,Málaga CF,Valencia,?,Rafael Benítez,22000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089897
+38,sáb 11/05/2002,16:00,Valencia,Betis,?,Rafael Benítez,52600,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089906

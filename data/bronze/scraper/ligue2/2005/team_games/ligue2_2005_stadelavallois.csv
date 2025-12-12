@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 29/07/2005,15:30,Stade Lavallois,FC Istres,?,Denis Troch,5231,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46919
+2,qua 03/08/2005,15:30,FC Lorient,Stade Lavallois,?,Denis Troch,8380,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46925
+3,sex 12/08/2005,15:30,Stade Lavallois,Dijon,?,Denis Troch,4161,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46939
+4,ter 16/08/2005,15:30,Grenoble,Stade Lavallois,?,Denis Troch,5000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46946
+5,sex 19/08/2005,15:30,Stade Lavallois,SM Caen,?,Denis Troch,5306,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46956
+6,sex 26/08/2005,15:30,Montpellier,Stade Lavallois,?,Denis Troch,5689,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46971
+7,seg 12/09/2005,15:30,Stade Lavallois,SC Bastia,?,Denis Troch,5621,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46984
+8,sex 16/09/2005,15:30,Le Havre,Stade Lavallois,?,Denis Troch,8123,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46990
+9,sex 23/09/2005,15:30,Stade Lavallois,LB Châteauroux,?,Denis Troch,4154,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46996
+10,sex 30/09/2005,15:30,FC Gueugnon,Stade Lavallois,?,Denis Troch,3763,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47009
+11,sex 07/10/2005,15:30,Stade Lavallois,Brest,?,Denis Troch,4060,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47016
+12,sex 14/10/2005,15:30,US Créteil-L,Stade Lavallois,?,Denis Troch,3142,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47026
+13,sex 21/10/2005,16:30,Stade Lavallois,Amiens SC,?,Denis Troch,3886,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47042
+14,sáb 29/10/2005,16:00,Valenciennes,Stade Lavallois,?,Denis Troch,8927,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47052
+15,sex 04/11/2005,18:30,Stade Lavallois,Reims,?,Denis Troch,3124,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47059
+16,sex 11/11/2005,18:30,Stade Lavallois,CS Sedan,?,Denis Troch,4760,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47071
+17,sex 25/11/2005,18:30,Guingamp,Stade Lavallois,?,Denis Troch,8257,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47079
+18,sex 02/12/2005,18:30,Stade Lavallois,FC Sète 34,?,Denis Troch,2970,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47090
+19,sex 16/12/2005,18:30,Clermont FA,Stade Lavallois,?,Denis Troch,8446,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47104
+20,ter 03/01/2006,18:30,Stade Lavallois,FC Lorient,?,Denis Troch,3570,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47111
+21,ter 10/01/2006,18:30,Dijon,Stade Lavallois,?,Denis Troch,3176,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47117
+22,sáb 14/01/2006,18:00,Stade Lavallois,Grenoble,?,Denis Troch,3072,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47130
+23,sex 20/01/2006,18:30,SM Caen,Stade Lavallois,?,Denis Troch,11322,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47136
+24,sex 03/02/2006,18:30,Stade Lavallois,Montpellier,?,Denis Troch,3746,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47150
+25,sex 10/02/2006,18:30,SC Bastia,Stade Lavallois,?,Denis Troch,4144,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47155
+26,sex 17/02/2006,18:30,Stade Lavallois,Le Havre,?,Denis Troch,3162,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47169
+27,sex 24/02/2006,17:30,LB Châteauroux,Stade Lavallois,?,Denis Troch,5312,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47178
+28,sex 03/03/2006,17:30,Stade Lavallois,FC Gueugnon,?,Denis Troch,3937,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47189
+29,sex 10/03/2006,17:30,Brest,Stade Lavallois,?,Denis Troch,5501,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47197
+30,sex 17/03/2006,17:30,Stade Lavallois,US Créteil-L,?,Denis Troch,6858,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47210
+31,sex 24/03/2006,17:30,Amiens SC,Stade Lavallois,?,Denis Troch,8183,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47215
+32,sex 31/03/2006,15:30,Stade Lavallois,Valenciennes,?,Denis Troch,5852,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47231
+33,sex 07/04/2006,15:30,Reims,Stade Lavallois,?,Denis Troch,5117,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47242
+34,sex 14/04/2006,15:30,CS Sedan,Stade Lavallois,?,Denis Troch,10126,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47253
+35,sex 21/04/2006,15:30,Stade Lavallois,Guingamp,?,Denis Troch,7882,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47260
+36,sex 28/04/2006,15:30,FC Sète 34,Stade Lavallois,?,Denis Troch,1515,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47274
+37,sex 05/05/2006,15:30,Stade Lavallois,Clermont FA,?,Denis Troch,7792,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47284
+38,sex 12/05/2006,15:30,FC Istres,Stade Lavallois,?,Denis Troch,3389,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47291

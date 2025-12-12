@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 27/07/2001,14:00,Greuther Fürth,RW Oberhausen,3-4-2-1,Uwe Erkenbrecher,7051,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19374
+2,sex 03/08/2001,14:00,LR Ahlen,Greuther Fürth,3-5-2,Uwe Erkenbrecher,7513,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19384
+3,dom 12/08/2001,10:00,Greuther Fürth,Babelsberg 03,3-1-4-2,Uwe Erkenbrecher,5500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19398
+4,sex 17/08/2001,14:00,SSV Reutlingen,Greuther Fürth,3-4-2-1,Uwe Erkenbrecher,7014,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19402
+5,sáb 08/09/2001,10:00,Greuther Fürth,W. Mannheim,?,Paul Hesselbach,4730,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19413
+6,sáb 15/09/2001,10:00,Schweinfurt 05,Greuther Fürth,3-5-2,Paul Hesselbach,8319,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19422
+7,dom 23/09/2001,10:00,Greuther Fürth,Saarbrücken,3-5-2,Paul Hesselbach,5250,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19435
+8,dom 30/09/2001,10:00,Frankfurt,Greuther Fürth,3-5-2,Paul Hesselbach,16000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19443
+9,dom 14/10/2001,11:00,Greuther Fürth,Arm. Bielefeld,3-5-2,Paul Hesselbach,8512,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19451
+10,dom 21/10/2001,11:00,MSV Duisburg,Greuther Fürth,3-5-2,Paul Hesselbach,5200,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19460
+11,sáb 27/10/2001,11:00,Karlsruher,Greuther Fürth,3-1-4-2,Werner Dreßel,9200,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19468
+12,dom 04/11/2001,12:00,Greuther Fürth,Union Berlim,4-4-2,Eugen Hach,7093,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19479
+13,sex 16/11/2001,16:00,Alem. Aachen,Greuther Fürth,4-4-2,Eugen Hach,14000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19482
+14,sex 23/11/2001,16:00,Greuther Fürth,Unterhaching,4-4-2,Eugen Hach,4694,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19491
+15,sex 30/11/2001,16:00,Bochum,Greuther Fürth,4-4-2,Eugen Hach,9397,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19502
+16,sáb 08/12/2001,12:00,Greuther Fürth,Mainz,4-4-2,Eugen Hach,6500,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19512
+17,dom 16/12/2001,12:00,Hannover,Greuther Fürth,?,Eugen Hach,22200,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19523
+18,qua 19/12/2001,16:00,RW Oberhausen,Greuther Fürth,?,Eugen Hach,2505,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19532
+19,sáb 26/01/2002,12:00,Greuther Fürth,LR Ahlen,?,Eugen Hach,5036,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19540
+20,sáb 02/02/2002,10:30,Babelsberg 03,Greuther Fürth,4-4-2,Eugen Hach,3238,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19548
+21,ter 05/02/2002,16:00,Greuther Fürth,SSV Reutlingen,4-4-2,Eugen Hach,5425,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19555
+22,sex 08/02/2002,16:00,W. Mannheim,Greuther Fürth,4-4-2,Eugen Hach,5000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19563
+23,sex 15/02/2002,16:00,Greuther Fürth,Schweinfurt 05,4-4-2,Eugen Hach,9331,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19572
+24,sex 22/02/2002,15:00,Saarbrücken,Greuther Fürth,4-4-2,Eugen Hach,3000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19582
+25,dom 03/03/2002,11:00,Greuther Fürth,Frankfurt,?,Eugen Hach,11500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19595
+26,seg 11/03/2002,16:15,Arm. Bielefeld,Greuther Fürth,4-4-2,Eugen Hach,13162,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19607
+27,dom 17/03/2002,11:00,Greuther Fürth,MSV Duisburg,?,Eugen Hach,7600,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19614
+28,sex 22/03/2002,15:00,Greuther Fürth,Karlsruher,?,Eugen Hach,6500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19619
+29,qui 28/03/2002,15:00,Union Berlim,Greuther Fürth,?,Eugen Hach,12395,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19626
+30,sáb 06/04/2002,10:00,Greuther Fürth,Alem. Aachen,?,Eugen Hach,6116,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19638
+31,dom 14/04/2002,10:00,Unterhaching,Greuther Fürth,4-4-2,Eugen Hach,8600,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19650
+32,sex 19/04/2002,14:00,Greuther Fürth,Bochum,4-4-2,Eugen Hach,11026,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19655
+33,dom 28/04/2002,10:00,Mainz,Greuther Fürth,4-3-3 defensivo,Eugen Hach,15500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19663
+34,dom 05/05/2002,10:00,Greuther Fürth,Hannover,?,Eugen Hach,9130,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19674

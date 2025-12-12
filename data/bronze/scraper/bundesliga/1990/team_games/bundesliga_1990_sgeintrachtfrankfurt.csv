@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 11/08/1990,10:30,Frankfurt,Karlsruher,3-5-2 ofensivo,Jörg Berger,29000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15328
+2,sáb 18/08/1990,10:30,K'lautern,Frankfurt,3-4-2-1,Jörg Berger,30500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15334
+3,sex 24/08/1990,15:00,Frankfurt,Düsseldorf,3-4-1-2,Jörg Berger,30000,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15341
+4,sáb 01/09/1990,10:30,Bochum,Frankfurt,3-5-2 ofensivo,Jörg Berger,18500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15352
+5,sáb 08/09/1990,10:30,Frankfurt,Werder Bremen,3-5-2,Jörg Berger,25000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15361
+6,sáb 15/09/1990,10:30,M'gladbach,Frankfurt,3-4-2-1,Jörg Berger,15421,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15372
+7,sáb 22/09/1990,10:30,Frankfurt,Colônia,3-5-2,Jörg Berger,19000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15380
+8,sáb 29/09/1990,10:30,Hamburgo,Frankfurt,3-4-1-2,Jörg Berger,22500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15388
+9,sáb 06/10/1990,11:30,Wattenscheid 09,Frankfurt,3-1-4-2,Jörg Berger,10226,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15398
+10,sáb 13/10/1990,11:30,Frankfurt,Dortmund,3-5-2 ofensivo,Jörg Berger,29000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15407
+11,sáb 20/10/1990,11:30,Hertha Berlim,Frankfurt,3-1-4-2,Jörg Berger,18405,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15417
+12,sáb 27/10/1990,12:30,Frankfurt,Bayern,3-1-4-2,Jörg Berger,61000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15424
+13,sáb 10/11/1990,12:30,Nuremberg,Frankfurt,3-4-2-1,Jörg Berger,14900,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15434
+14,sáb 17/11/1990,12:30,Frankfurt,Bayer 05,4-4-2,Jörg Berger,12000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15445
+15,sáb 24/11/1990,12:30,Leverkusen,Frankfurt,4-4-2,Jörg Berger,12500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15450
+16,sáb 08/12/1990,12:30,Frankfurt,St. Pauli,4-4-2,Jörg Berger,14000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15462
+17,dom 16/12/1990,16:00,Stuttgart,Frankfurt,4-4-2,Jörg Berger,19000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15470
+18,ter 26/02/1991,16:00,Karlsruher,Frankfurt,3-4-2-1,Jörg Berger,17000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15481
+19,sáb 02/03/1991,11:30,Frankfurt,K'lautern,3-1-4-2,Jörg Berger,30000,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15485
+20,sáb 09/03/1991,11:30,Düsseldorf,Frankfurt,3-1-4-2,Jörg Berger,12000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15497
+21,sáb 16/03/1991,11:30,Frankfurt,Bochum,3-5-2,Jörg Berger,21000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15506
+22,sex 22/03/1991,16:00,Werder Bremen,Frankfurt,4-3-2-1,Jörg Berger,23700,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15511
+23,qua 03/04/1991,15:00,Frankfurt,M'gladbach,3-5-2 ofensivo,Jörg Berger,24000,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15526
+24,sáb 06/04/1991,10:30,Colônia,Frankfurt,3-4-2-1,Jörg Berger,23000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15534
+25,sáb 13/04/1991,10:30,Frankfurt,Hamburgo,3-1-4-2,Jörg Berger,29000,0:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15543
+26,ter 16/04/1991,15:00,Frankfurt,Wattenscheid 09,3-1-4-2,Dragoslav Stepanovic,11200,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15550
+27,sáb 20/04/1991,10:30,Dortmund,Frankfurt,3-5-2,Dragoslav Stepanovic,34474,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15560
+28,sáb 04/05/1991,10:30,Frankfurt,Hertha Berlim,3-1-4-2,Dragoslav Stepanovic,11500,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15568
+29,sáb 11/05/1991,10:30,Bayern,Frankfurt,3-1-4-2,Dragoslav Stepanovic,37000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15578
+30,sex 17/05/1991,15:00,Frankfurt,Nuremberg,3-4-2-1,Dragoslav Stepanovic,17000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15585
+31,sex 24/05/1991,15:00,Bayer 05,Frankfurt,3-1-4-2,Dragoslav Stepanovic,8100,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15593
+32,qui 30/05/1991,15:15,Frankfurt,Leverkusen,5-3-2,Dragoslav Stepanovic,16500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15601
+33,sáb 08/06/1991,10:30,St. Pauli,Frankfurt,5-3-2,Dragoslav Stepanovic,20100,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15613
+34,sáb 15/06/1991,10:30,Frankfurt,Stuttgart,3-5-2 ofensivo,Dragoslav Stepanovic,39800,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15622

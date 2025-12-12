@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/08/2000,10:30,Hamburgo,1860 Munique,4-4-2 líbero losango,Werner Lorant,38167,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18462
+2,sáb 19/08/2000,10:30,1860 Munique,Werder Bremen,3-5-2,Werner Lorant,28200,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18471
+3,qua 06/09/2000,15:15,Dortmund,1860 Munique,4-4-2 líbero losango,Werner Lorant,59000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18481
+4,sáb 09/09/2000,10:30,1860 Munique,Schalke,3-5-2,Werner Lorant,35500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18488
+5,sáb 16/09/2000,10:30,Frankfurt,1860 Munique,3-5-2,Werner Lorant,25600,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18497
+6,sex 22/09/2000,15:15,1860 Munique,Freiburg,3-5-2,Werner Lorant,22800,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18501
+7,sáb 30/09/2000,15:15,Leverkusen,1860 Munique,3-5-2,Werner Lorant,22500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18515
+8,sáb 14/10/2000,11:30,1860 Munique,K'lautern,3-5-2,Werner Lorant,33500,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18521
+9,sáb 21/10/2000,11:30,Bayern,1860 Munique,?,Werner Lorant,69000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18529
+10,dom 29/10/2000,14:30,1860 Munique,Hertha Berlim,3-5-2,Werner Lorant,27600,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18544
+11,sáb 04/11/2000,12:30,Bochum,1860 Munique,3-5-2,Werner Lorant,15591,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18550
+12,sáb 11/11/2000,12:30,1860 Munique,Wolfsburg,3-5-2,Werner Lorant,21800,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18558
+13,sex 17/11/2000,17:15,Stuttgart,1860 Munique,3-4-3,Werner Lorant,22000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18564
+14,dom 26/11/2000,15:00,1860 Munique,Unterhaching,3-5-2,Werner Lorant,29600,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18581
+15,sáb 02/12/2000,12:30,Colônia,1860 Munique,3-5-2,Werner Lorant,30000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18587
+16,sáb 09/12/2000,12:30,1860 Munique,Hansa Rostock,3-5-2,Werner Lorant,20300,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18596
+17,qua 13/12/2000,17:15,Energ. Cottbus,1860 Munique,3-5-2,Werner Lorant,12453,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18608
+18,sáb 16/12/2000,17:15,1860 Munique,Hamburgo,3-5-2,Werner Lorant,19700,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18615
+19,sáb 27/01/2001,12:30,Werder Bremen,1860 Munique,4-4-2 líbero losango,Werner Lorant,24473,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18623
+20,sex 02/02/2001,17:15,1860 Munique,Dortmund,4-4-2 líbero losango,Werner Lorant,20000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18627
+21,sáb 10/02/2001,12:30,Schalke,1860 Munique,4-4-2 líbero losango,Werner Lorant,33705,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18641
+22,sex 16/02/2001,17:15,1860 Munique,Frankfurt,3-5-2,Werner Lorant,20200,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18645
+23,sáb 24/02/2001,11:30,Freiburg,1860 Munique,3-5-2,Werner Lorant,24000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18657
+24,dom 04/03/2001,13:30,1860 Munique,Leverkusen,?,Werner Lorant,21500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18670
+25,dom 11/03/2001,13:30,K'lautern,1860 Munique,3-5-2,Werner Lorant,39172,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18679
+26,sáb 17/03/2001,16:15,1860 Munique,Bayern,3-5-2,Werner Lorant,69000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18682
+27,sáb 31/03/2001,10:30,Hertha Berlim,1860 Munique,?,Werner Lorant,33530,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18692
+28,sáb 07/04/2001,10:30,1860 Munique,Bochum,4-4-2,Werner Lorant,26300,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18701
+29,sáb 14/04/2001,10:30,Wolfsburg,1860 Munique,?,Werner Lorant,13639,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18714
+30,dom 22/04/2001,12:30,1860 Munique,Stuttgart,3-5-2,Werner Lorant,24100,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18725
+31,dom 29/04/2001,12:30,Unterhaching,1860 Munique,3-5-2,Werner Lorant,15300,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18733
+32,sáb 05/05/2001,10:30,1860 Munique,Colônia,3-5-2,Werner Lorant,26900,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18739
+33,sáb 12/05/2001,10:30,Hansa Rostock,1860 Munique,?,Werner Lorant,19000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18751
+34,sáb 19/05/2001,10:30,1860 Munique,Energ. Cottbus,3-5-2,Werner Lorant,28700,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18761

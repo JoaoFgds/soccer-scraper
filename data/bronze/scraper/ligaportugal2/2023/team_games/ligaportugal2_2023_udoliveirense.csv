@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,ter 15/08/2023,07:00,UD Oliveirense,Feirense,4-2-3-1,Fábio Pereira,1510,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109790
+2,dom 20/08/2023,07:00,Vilaverdense,UD Oliveirense,4-2-3-1,Fábio Pereira,660,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109606
+3,dom 27/08/2023,07:00,UD Oliveirense,Penafiel,4-2-3-1,Fábio Pereira,922,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109785
+4,dom 03/09/2023,07:00,Torreense,UD Oliveirense,4-2-3-1,Fábio Pereira,974,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109795
+5,dom 17/09/2023,07:00,UD Oliveirense,Académico FC,4-2-3-1,Fábio Pereira,457,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109722
+6,sáb 30/09/2023,07:00,UD Oliveirense,Santa Clara,4-4-2 duplo 6,Fábio Pereira,609,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109773
+7,sáb 07/10/2023,07:00,Nacional,UD Oliveirense,4-2-3-1,Fábio Pereira,1262,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109808
+8,dom 29/10/2023,15:00,UD Oliveirense,Leiria,4-2-3-1,Fábio Pereira,548,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109816
+9,dom 05/11/2023,08:00,AVS,UD Oliveirense,4-2-3-1,Fábio Pereira,559,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109826
+10,sáb 11/11/2023,15:00,UD Oliveirense,Paços Ferreira,4-2-3-1,Fábio Pereira,565,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109836
+11,sáb 25/11/2023,15:00,Benfica B,UD Oliveirense,4-2-3-1,Fábio Pereira,264,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109853
+12,sáb 02/12/2023,08:00,UD Oliveirense,FC Porto B,4-2-3-1,Fábio Pereira,597,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109872
+13,dom 10/12/2023,11:00,Belenenses,UD Oliveirense,4-4-2 duplo 6,Daniel Araújo,1343,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109879
+14,dom 17/12/2023,15:00,UD Oliveirense,Mafra,4-4-2 duplo 6,Ricardo Chéu,434,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109615
+15,sáb 30/12/2023,11:00,CD Tondela,UD Oliveirense,4-2-3-1,Ricardo Chéu,1149,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109886
+16,sáb 06/01/2024,08:00,UD Oliveirense,Marítimo,4-2-3-1,Ricardo Chéu,419,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109626
+17,sex 12/01/2024,15:00,Leixões,UD Oliveirense,4-2-3-1,Ricardo Chéu,1789,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109848
+18,sáb 20/01/2024,12:30,Feirense,UD Oliveirense,3-4-3 plano,Ricardo Chéu,2716,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109858
+19,dom 28/01/2024,15:00,UD Oliveirense,Vilaverdense,3-4-3 plano,Ricardo Chéu,566,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109633
+20,sáb 03/02/2024,12:30,Penafiel,UD Oliveirense,3-4-3 plano,Ricardo Chéu,953,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109911
+21,sex 09/02/2024,15:00,UD Oliveirense,Torreense,3-4-3 plano,Ricardo Chéu,221,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109660
+22,dom 18/02/2024,08:00,Académico FC,UD Oliveirense,4-2-3-1,Ricardo Chéu,1239,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109686
+23,sáb 24/02/2024,11:00,Santa Clara,UD Oliveirense,3-4-3 plano,Ricardo Chéu,1184,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109656
+24,dom 03/03/2024,08:00,UD Oliveirense,Nacional,4-2-3-1,Ricardo Chéu,368,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109672
+25,sex 08/03/2024,17:45,Leiria,UD Oliveirense,3-4-3 plano,Ricardo Chéu,3155,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109645
+26,sáb 16/03/2024,08:00,UD Oliveirense,AVS,3-4-3 plano,Ricardo Chéu,423,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109702
+27,sex 29/03/2024,11:00,Paços Ferreira,UD Oliveirense,4-2-3-1,Ricardo Chéu,1621,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109902
+28,dom 07/04/2024,14:00,UD Oliveirense,Benfica B,4-2-3-1,Ricardo Chéu,907,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109709
+29,dom 14/04/2024,11:30,FC Porto B,UD Oliveirense,4-2-3-1,Ricardo Chéu,551,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109695
+30,dom 21/04/2024,07:00,UD Oliveirense,Belenenses,4-2-3-1,Ricardo Chéu,712,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109725
+31,sáb 27/04/2024,07:00,Mafra,UD Oliveirense,4-2-3-1,Ricardo Chéu,309,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109762
+32,sáb 04/05/2024,11:30,UD Oliveirense,CD Tondela,4-2-3-1,Ricardo Chéu,490,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109745
+33,dom 12/05/2024,11:30,Marítimo,UD Oliveirense,4-2-3-1,Ricardo Chéu,7832,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109751
+34,dom 19/05/2024,10:00,UD Oliveirense,Leixões,4-2-3-1,Ricardo Chéu,564,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109736

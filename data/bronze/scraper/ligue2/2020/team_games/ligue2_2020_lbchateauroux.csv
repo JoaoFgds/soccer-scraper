@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 22/08/2020,14:00,AC Ajaccio,LB Châteauroux,4-4-2,Nicolas Usaï,2030,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3393969
+2,sáb 29/08/2020,14:00,LB Châteauroux,Auxerre,4-3-3 ofensivo,Nicolas Usaï,2634,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3393980
+3,sáb 12/09/2020,14:00,Valenciennes,LB Châteauroux,4-4-2,Nicolas Usaï,4329,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3393998
+4,sáb 19/09/2020,14:00,LB Châteauroux,Amiens SC,4-2-3-1,Nicolas Usaï,4612,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394001
+5,sáb 26/09/2020,14:00,FC Chambly Oise,LB Châteauroux,4-2-3-1,Nicolas Usaï,1338,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394011
+6,sáb 03/10/2020,14:00,LB Châteauroux,Chamois Niort,4-2-3-1,Nicolas Usaï,1920,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394021
+7,sáb 17/10/2020,14:00,Le Havre,LB Châteauroux,4-2-3-1,Nicolas Usaï,1000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394033
+8,sáb 24/10/2020,14:00,LB Châteauroux,Paris FC,4-2-3-1,Nicolas Usaï,3119,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394041
+9,sáb 31/10/2020,15:00,AS Nancy,LB Châteauroux,4-3-3 ofensivo,Nicolas Usaï,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394054
+10,sáb 07/11/2020,15:00,LB Châteauroux,Pau FC,4-3-3 ofensivo,Nicolas Usaï,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394061
+11,sáb 21/11/2020,15:00,LB Châteauroux,FC Sochaux,4-3-3 ofensivo,Nicolas Usaï,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394071
+12,sáb 28/11/2020,15:00,SM Caen,LB Châteauroux,3-5-2,Nicolas Usaï,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394081
+13,ter 01/12/2020,15:00,LB Châteauroux,Grenoble,4-4-2,Nicolas Usaï,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394091
+14,sáb 05/12/2020,15:00,USL Dunkerque,LB Châteauroux,4-4-2,Nicolas Usaï,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394104
+15,sáb 12/12/2020,15:00,LB Châteauroux,Toulouse,4-3-3 ofensivo,Nicolas Usaï,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394111
+16,sex 18/12/2020,16:00,Rodez AF,LB Châteauroux,4-3-3 ofensivo,Olivier Saragaglia,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394124
+17,ter 22/12/2020,16:00,LB Châteauroux,Clermont Foot,4-3-3 ofensivo,Olivier Saragaglia,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394131
+18,ter 05/01/2021,16:00,Troyes,LB Châteauroux,4-2-3-1,Benoît Cauet,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394147
+19,sex 08/01/2021,16:00,LB Châteauroux,Guingamp,4-2-3-1,Benoît Cauet,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394150
+20,sáb 16/01/2021,15:00,Auxerre,LB Châteauroux,4-2-3-1,Benoît Cauet,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394161
+21,sáb 23/01/2021,15:00,LB Châteauroux,Valenciennes,4-2-3-1,Benoît Cauet,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394170
+22,sáb 30/01/2021,15:00,Amiens SC,LB Châteauroux,4-2-3-1,Benoît Cauet,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394180
+23,ter 02/02/2021,16:00,LB Châteauroux,FC Chambly Oise,3-4-1-2,Benoît Cauet,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394191
+24,sex 05/02/2021,16:00,Chamois Niort,LB Châteauroux,4-3-2-1,Benoît Cauet,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394205
+25,sáb 13/02/2021,15:00,LB Châteauroux,Le Havre,4-3-2-1,Benoît Cauet,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394211
+26,sáb 20/02/2021,15:00,Paris FC,LB Châteauroux,4-3-1-2,Benoît Cauet,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394226
+27,sáb 27/02/2021,15:00,LB Châteauroux,AS Nancy,4-3-2-1,Benoît Cauet,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394231
+28,ter 02/03/2021,16:00,Pau FC,LB Châteauroux,4-3-1-2,Benoît Cauet,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394254
+29,sáb 13/03/2021,16:00,FC Sochaux,LB Châteauroux,4-2-3-1,Marco Simone,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394270
+30,sáb 20/03/2021,16:00,LB Châteauroux,SM Caen,4-2-3-1,Marco Simone,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394282
+31,sáb 03/04/2021,15:00,Grenoble,LB Châteauroux,4-2-3-1,Marco Simone,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394309
+32,sáb 10/04/2021,15:00,LB Châteauroux,USL Dunkerque,4-4-2,Marco Simone,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394322
+33,sáb 17/04/2021,15:00,Toulouse,LB Châteauroux,4-2-3-1,Marco Simone,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394345
+34,ter 20/04/2021,15:00,LB Châteauroux,Rodez AF,4-2-3-1,Marco Simone,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394364
+35,seg 26/04/2021,15:45,Clermont Foot,LB Châteauroux,4-2-3-1,Marco Simone,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394497
+36,sáb 01/05/2021,15:00,LB Châteauroux,Troyes,4-2-3-1,Marco Simone,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394508
+37,sáb 08/05/2021,15:00,Guingamp,LB Châteauroux,4-4-2 duplo 6,Marco Simone,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394529
+38,sáb 15/05/2021,15:00,LB Châteauroux,AC Ajaccio,4-2-3-1,Marco Simone,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394539

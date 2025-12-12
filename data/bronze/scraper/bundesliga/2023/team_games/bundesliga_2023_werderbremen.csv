@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 18/08/2023,15:30,Werder Bremen,Bayern,3-1-4-2,Ole Werner,42100,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095967
+2,sáb 26/08/2023,10:30,Freiburg,Werder Bremen,3-1-4-2,Ole Werner,34700,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095978
+3,sáb 02/09/2023,10:30,Werder Bremen,Mainz,3-5-2,Ole Werner,41000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095991
+4,dom 17/09/2023,10:30,Heidenheim,Werder Bremen,3-5-2,Ole Werner,15000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096001
+5,sáb 23/09/2023,13:30,Werder Bremen,Colônia,3-5-2,Ole Werner,42100,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096009
+6,dom 01/10/2023,10:30,Darmstadt 98,Werder Bremen,3-5-2,Ole Werner,17810,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096020
+7,sáb 07/10/2023,13:30,Werder Bremen,Hoffenheim,3-1-4-2,Ole Werner,41000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096027
+8,sex 20/10/2023,15:30,Dortmund,Werder Bremen,3-5-2 plano,Ole Werner,81365,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096030
+9,sáb 28/10/2023,10:30,Werder Bremen,Union Berlim,3-1-4-2,Ole Werner,42100,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096044
+10,dom 05/11/2023,11:30,Wolfsburg,Werder Bremen,3-1-4-2,Ole Werner,28917,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096051
+11,dom 12/11/2023,13:30,Werder Bremen,Frankfurt,3-5-2 ofensivo,Ole Werner,42100,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096061
+12,sáb 25/11/2023,11:30,Werder Bremen,Leverkusen,3-5-2 plano,Ole Werner,42100,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096073
+13,sáb 02/12/2023,14:30,Stuttgart,Werder Bremen,3-1-4-2,Ole Werner,54500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096082
+14,sáb 09/12/2023,11:30,Werder Bremen,Augsburg,3-5-2,Ole Werner,41000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096090
+15,sex 15/12/2023,16:30,M'gladbach,Werder Bremen,3-5-2,Ole Werner,50660,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096098
+16,ter 19/12/2023,14:30,Werder Bremen,Leipzig,3-4-3 plano,Ole Werner,41000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096108
+17,dom 14/01/2024,11:30,Bochum,Werder Bremen,3-4-3 plano,Ole Werner,26000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096117
+18,dom 21/01/2024,11:30,Bayern,Werder Bremen,5-3-2,Ole Werner,75000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096120
+19,sáb 27/01/2024,11:30,Werder Bremen,Freiburg,3-5-2,Ole Werner,41500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096131
+20,sáb 03/02/2024,11:30,Mainz,Werder Bremen,3-5-2,Ole Werner,31800,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096144
+21,sáb 10/02/2024,11:30,Werder Bremen,Heidenheim,3-5-2,Ole Werner,41000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096154
+22,sex 16/02/2024,16:30,Colônia,Werder Bremen,3-5-2,Ole Werner,50000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096162
+23,sáb 24/02/2024,11:30,Werder Bremen,Darmstadt 98,3-5-2,Ole Werner,42358,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096173
+24,dom 03/03/2024,13:30,Hoffenheim,Werder Bremen,3-5-2,Ole Werner,25000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096180
+25,sáb 09/03/2024,14:30,Werder Bremen,Dortmund,3-5-2,Ole Werner,42100,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096183
+26,sáb 16/03/2024,11:30,Union Berlim,Werder Bremen,3-4-1-2,Ole Werner,22012,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096197
+27,sáb 30/03/2024,11:30,Werder Bremen,Wolfsburg,3-5-2,Ole Werner,41500,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096204
+28,sex 05/04/2024,15:30,Frankfurt,Werder Bremen,3-5-2,Ole Werner,58000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096214
+29,dom 14/04/2024,12:30,Leverkusen,Werder Bremen,3-5-2,Ole Werner,30210,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096226
+30,dom 21/04/2024,10:30,Werder Bremen,Stuttgart,3-4-2-1,Ole Werner,42100,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096235
+31,sáb 27/04/2024,10:30,Augsburg,Werder Bremen,3-4-2-1,Ole Werner,30660,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096243
+32,sáb 04/05/2024,10:30,Werder Bremen,M'gladbach,3-4-2-1,Ole Werner,42100,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096251
+33,sáb 11/05/2024,10:30,Leipzig,Werder Bremen,3-4-2-1,Ole Werner,47069,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096261
+34,sáb 18/05/2024,10:30,Werder Bremen,Bochum,3-4-2-1,Ole Werner,42100,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096270

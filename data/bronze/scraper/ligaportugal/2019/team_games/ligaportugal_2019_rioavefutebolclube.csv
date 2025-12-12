@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 08/09/2019,11:00,Rio Ave,Vit. Guimarães,4-2-3-1,Carlos Carvalhal,2713,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211336
+2,sex 16/08/2019,16:30,Famalicão,Rio Ave,4-4-1-1,Carlos Carvalhal,4960,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211337
+3,sex 23/08/2019,17:15,Rio Ave,CD Aves,4-4-2 duplo 6,Carlos Carvalhal,2485,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211380
+4,sáb 31/08/2019,15:00,Sporting,Rio Ave,4-4-2 duplo 6,Carlos Carvalhal,37942,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211390
+5,dom 15/09/2019,12:00,Rio Ave,CD Tondela,4-3-3 ofensivo,Carlos Carvalhal,2103,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211394
+6,sáb 21/09/2019,14:00,B SAD,Rio Ave,4-4-2 duplo 6,Carlos Carvalhal,821,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211423
+7,dom 29/09/2019,16:00,Rio Ave,FC Porto,4-2-3-1,Carlos Carvalhal,4411,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211438
+8,sex 25/10/2019,16:30,Paços Ferreira,Rio Ave,4-4-2 duplo 6,Carlos Carvalhal,2095,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211446
+9,qua 30/10/2019,14:00,Rio Ave,Moreirense,4-2-3-1,Carlos Carvalhal,1387,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211462
+10,sáb 02/11/2019,15:00,Benfica,Rio Ave,3-4-1-2,Carlos Carvalhal,53579,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211464
+11,sáb 09/11/2019,12:30,Rio Ave,Vitória FC,4-2-3-1,Carlos Carvalhal,1740,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211477
+12,seg 02/12/2019,15:45,Braga,Rio Ave,3-4-3 plano,Carlos Carvalhal,7274,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211484
+13,seg 09/12/2019,17:15,Rio Ave,Gil Vicente,4-4-2 duplo 6,Carlos Carvalhal,2350,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211495
+14,sex 13/12/2019,17:30,Portimonense,Rio Ave,4-3-3 ofensivo,Carlos Carvalhal,1973,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211502
+15,dom 05/01/2020,12:00,Rio Ave,Marítimo,4-3-3 ofensivo,Carlos Carvalhal,2168,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211583
+16,sex 10/01/2020,16:00,Santa Clara,Rio Ave,4-3-3 ofensivo,Carlos Carvalhal,1663,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211776
+17,dom 19/01/2020,17:00,Rio Ave,Boavista,4-2-3-1,Carlos Carvalhal,2830,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211790
+18,seg 27/01/2020,15:45,Vit. Guimarães,Rio Ave,4-2-3-1,Carlos Carvalhal,9845,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211802
+19,sex 31/01/2020,18:15,Rio Ave,Famalicão,4-4-2 duplo 6,Carlos Carvalhal,2337,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211812
+20,dom 09/02/2020,17:00,CD Aves,Rio Ave,4-4-1-1,Carlos Carvalhal,1289,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211826
+21,sáb 15/02/2020,17:30,Rio Ave,Sporting,4-2-3-1,Carlos Carvalhal,4434,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211837
+22,sáb 22/02/2020,15:00,CD Tondela,Rio Ave,4-2-3-1,Carlos Carvalhal,1859,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211841
+23,sáb 29/02/2020,15:00,Rio Ave,B SAD,4-3-3 ofensivo,Carlos Carvalhal,2289,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211850
+24,sáb 07/03/2020,17:30,FC Porto,Rio Ave,3-4-3 plano,Carlos Carvalhal,38219,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212607
+25,dom 07/06/2020,17:00,Rio Ave,Paços Ferreira,4-4-2 duplo 6,Carlos Carvalhal,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212610
+26,sex 12/06/2020,15:00,Moreirense,Rio Ave,4-2-3-1,Carlos Carvalhal,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212625
+27,qua 17/06/2020,17:15,Rio Ave,Benfica,4-2-3-1,Carlos Carvalhal,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212627
+28,ter 23/06/2020,15:00,Vitória FC,Rio Ave,4-3-3 ofensivo,Carlos Carvalhal,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212639
+29,ter 30/06/2020,17:30,Rio Ave,Braga,4-2-3-1,Carlos Carvalhal,x,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212646
+30,dom 05/07/2020,13:00,Gil Vicente,Rio Ave,4-4-2,Carlos Carvalhal,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212659
+31,qui 09/07/2020,13:00,Rio Ave,Portimonense,4-2-3-1,Carlos Carvalhal,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212665
+32,seg 13/07/2020,15:00,Marítimo,Rio Ave,4-2-3-1,Carlos Carvalhal,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212678
+33,sáb 18/07/2020,15:00,Rio Ave,Santa Clara,4-2-3-1,Carlos Carvalhal,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212682
+34,sáb 25/07/2020,15:00,Boavista,Rio Ave,4-5-1,Carlos Carvalhal,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212695

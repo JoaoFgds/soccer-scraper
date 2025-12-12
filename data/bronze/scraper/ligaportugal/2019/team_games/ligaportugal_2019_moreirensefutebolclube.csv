@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 11/08/2019,17:00,Braga,Moreirense,4-3-3 ofensivo,Vítor Campelos,13223,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211330
+2,sáb 17/08/2019,12:30,Moreirense,Gil Vicente,4-1-4-1,Vítor Campelos,1792,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211342
+3,sex 23/08/2019,15:00,Vitória FC,Moreirense,4-3-3 ofensivo,Vítor Campelos,3787,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211381
+4,sex 30/08/2019,15:00,Moreirense,Portimonense,4-3-3 ofensivo,Vítor Campelos,1432,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211385
+5,dom 15/09/2019,12:00,Santa Clara,Moreirense,4-1-4-1,Vítor Campelos,2248,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211391
+6,sáb 21/09/2019,16:30,Moreirense,Benfica,4-1-4-1,Vítor Campelos,4220,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211426
+7,sáb 28/09/2019,12:30,Marítimo,Moreirense,4-1-4-1,Vítor Campelos,5380,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211435
+8,sáb 26/10/2019,16:30,Moreirense,Boavista,4-1-4-1,Vítor Campelos,2060,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211451
+9,qua 30/10/2019,14:00,Rio Ave,Moreirense,4-1-4-1,Vítor Campelos,1387,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211462
+10,sáb 02/11/2019,17:30,Moreirense,Vit. Guimarães,4-2-3-1,Vítor Campelos,3369,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211470
+11,sáb 09/11/2019,17:30,Famalicão,Moreirense,4-1-4-1,Vítor Campelos,3912,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211473
+12,sáb 30/11/2019,12:30,Moreirense,CD Aves,4-1-4-1,Vítor Campelos,1869,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211487
+13,dom 08/12/2019,14:30,Sporting,Moreirense,4-1-4-1,Vítor Campelos,26093,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211498
+14,dom 15/12/2019,12:00,Moreirense,B SAD,4-1-4-1,Vítor Campelos,943,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211506
+15,dom 05/01/2020,12:00,Paços Ferreira,Moreirense,4-2-3-1,Ricardo Soares,2612,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211577
+16,sex 10/01/2020,18:15,Moreirense,FC Porto,4-2-3-1,Ricardo Soares,3525,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211779
+17,sáb 18/01/2020,15:00,CD Tondela,Moreirense,4-2-3-1,Ricardo Soares,1681,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211793
+18,qua 29/01/2020,17:15,Moreirense,Braga,4-1-4-1,Ricardo Soares,1711,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211795
+19,dom 02/02/2020,12:00,Gil Vicente,Moreirense,4-1-4-1,Ricardo Soares,4880,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211816
+20,dom 09/02/2020,12:00,Moreirense,Vitória FC,4-1-4-1,Ricardo Soares,2100,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211828
+21,sáb 15/02/2020,12:30,Portimonense,Moreirense,4-1-4-1,Ricardo Soares,2493,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211833
+22,dom 23/02/2020,12:00,Moreirense,Santa Clara,4-3-3 ofensivo,Ricardo Soares,2148,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211840
+23,seg 02/03/2020,17:45,Benfica,Moreirense,4-1-4-1,Ricardo Soares,40861,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211853
+24,dom 08/03/2020,12:00,Moreirense,Marítimo,4-1-4-1,Ricardo Soares,1580,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212603
+25,sáb 06/06/2020,17:15,Boavista,Moreirense,4-3-3 ofensivo,Ricardo Soares,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212614
+26,sex 12/06/2020,15:00,Moreirense,Rio Ave,4-1-4-1,Ricardo Soares,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212625
+27,sex 19/06/2020,15:00,Vit. Guimarães,Moreirense,4-1-4-1,Ricardo Soares,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212633
+28,qua 24/06/2020,17:15,Moreirense,Famalicão,4-1-4-1,Ricardo Soares,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212635
+29,seg 29/06/2020,13:00,CD Aves,Moreirense,4-3-3 ofensivo,Ricardo Soares,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212649
+30,seg 06/07/2020,17:00,Moreirense,Sporting,4-1-4-1,Ricardo Soares,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212661
+31,sáb 11/07/2020,15:15,B SAD,Moreirense,4-2-3-1,Ricardo Soares,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212669
+32,qua 15/07/2020,13:00,Moreirense,Paços Ferreira,4-1-4-1,Ricardo Soares,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212673
+33,seg 20/07/2020,17:15,FC Porto,Moreirense,4-3-3 ofensivo,Ricardo Soares,x,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212683
+34,dom 26/07/2020,15:30,Moreirense,CD Tondela,4-1-4-1,Ricardo Soares,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212697

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 28/07/1990,10:00,Schweinfurt 05,VfL Osnabrück,?,Roland Koch,6000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978519
+2,ter 07/08/1990,14:30,VfL Osnabrück,MSV Duisburg,?,Rolf Grünther,8000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978531
+3,sáb 11/08/1990,10:00,W. Mannheim,VfL Osnabrück,?,Roland Koch,6000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978541
+4,dom 19/08/1990,10:00,VfL Osnabrück,Schalke,?,Roland Koch,18000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978555
+5,qua 22/08/1990,14:30,Stuttg. Kickers,VfL Osnabrück,?,Roland Koch,4700,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978558
+6,dom 26/08/1990,10:00,VfL Osnabrück,FC 08 Homburg,?,Roland Koch,4000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978815
+7,sex 31/08/1990,14:00,Pr. Münster,VfL Osnabrück,?,Roland Koch,7000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978821
+8,qua 05/09/1990,14:30,VfL Osnabrück,VfB Oldenburg,?,Roland Koch,6000,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978835
+9,dom 09/09/1990,10:00,Hannover,VfL Osnabrück,?,Roland Koch,5600,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978889
+10,sex 14/09/1990,14:00,VfL Osnabrück,Freiburg,?,Roland Koch,4000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978893
+11,dom 23/09/1990,10:00,Mainz,VfL Osnabrück,?,Roland Koch,3600,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978908
+12,sex 28/09/1990,14:00,VfL Osnabrück,Fortuna Köln,?,Roland Koch,2500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978914
+13,sáb 06/10/1990,11:00,RW Essen,VfL Osnabrück,?,Roland Koch,4800,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978927
+14,sex 12/10/1990,15:00,VfL Osnabrück,Darmstadt 98,?,Roland Koch,2000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978949
+15,sex 19/10/1990,15:00,Saarbrücken,VfL Osnabrück,?,Roland Koch,6800,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978960
+16,sex 26/10/1990,16:00,VfL Osnabrück,BW Berlin,?,Rolf Grünther,3000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978971
+17,sex 09/11/1990,16:00,E. Braunschweig,VfL Osnabrück,?,Rolf Grünther,3900,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978982
+18,qua 21/11/1990,16:30,SV Meppen,VfL Osnabrück,?,Rolf Grünther,7500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978998
+19,dom 25/11/1990,12:00,VfL Osnabrück,TSV Havelse,?,Rolf Grünther,3000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979008
+20,dom 09/12/1990,12:00,VfL Osnabrück,Schweinfurt 05,?,Rolf Grünther,2000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979019
+21,dom 16/12/1990,12:00,MSV Duisburg,VfL Osnabrück,?,Rolf Grünther,10000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979022
+22,ter 05/03/1991,15:30,VfL Osnabrück,W. Mannheim,?,Rolf Grünther,3000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979036
+23,sáb 02/03/1991,11:00,Schalke,VfL Osnabrück,?,Rolf Grünther,37200,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979047
+24,dom 10/03/1991,11:00,VfL Osnabrück,Stuttg. Kickers,?,Rolf Grünther,4000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979058
+25,sáb 16/03/1991,11:00,FC 08 Homburg,VfL Osnabrück,?,Rolf Grünther,2200,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979065
+26,dom 24/03/1991,11:00,VfL Osnabrück,Pr. Münster,?,Rolf Grünther,15000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979078
+27,sáb 30/03/1991,11:00,VfB Oldenburg,VfL Osnabrück,?,Rolf Grünther,12000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979083
+28,sex 05/04/1991,14:00,VfL Osnabrück,Hannover,?,Rolf Grünther,6000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979093
+29,sáb 13/04/1991,10:00,Freiburg,VfL Osnabrück,?,Rolf Grünther,2100,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979106
+30,qua 17/04/1991,14:30,VfL Osnabrück,Mainz,3-5-2 ofensivo,Rolf Grünther,4000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979119
+31,sáb 20/04/1991,10:00,Fortuna Köln,VfL Osnabrück,?,Rolf Grünther,600,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979124
+32,sex 03/05/1991,14:00,VfL Osnabrück,RW Essen,?,Rolf Grünther,5000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979134
+33,sáb 11/05/1991,10:00,Darmstadt 98,VfL Osnabrück,?,Rolf Grünther,2500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979146
+34,sex 17/05/1991,14:00,VfL Osnabrück,Saarbrücken,?,Rolf Grünther,4000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979153
+35,sáb 25/05/1991,10:00,BW Berlin,VfL Osnabrück,?,Rolf Grünther,700,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979164
+36,dom 02/06/1991,10:00,VfL Osnabrück,E. Braunschweig,?,Rolf Grünther,6000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979179
+37,dom 09/06/1991,10:00,VfL Osnabrück,SV Meppen,?,Rolf Grünther,15000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979191
+38,dom 16/06/1991,10:00,TSV Havelse,VfL Osnabrück,?,Rolf Grünther,4000,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979199

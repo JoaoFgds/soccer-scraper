@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 14/09/2020,15:45,Penafiel,Covilhã,3-4-3 plano,Pedro Ribeiro,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431497
+2,sex 18/09/2020,12:00,UD Oliveirense,Penafiel,5-4-1 plano,Pedro Ribeiro,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431544
+3,qua 23/09/2020,14:30,Penafiel,Vilafranquense,5-4-1 plano,Pedro Ribeiro,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431581
+4,dom 27/09/2020,13:00,FC Porto B,Penafiel,?,Pedro Ribeiro,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431602
+5,sex 02/10/2020,13:00,Penafiel,Mafra,3-4-3 plano,Pedro Ribeiro,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431549
+6,dom 18/10/2020,07:15,Académica,Penafiel,?,Pedro Ribeiro,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431463
+7,sex 23/10/2020,14:30,Penafiel,Arouca,?,Pedro Ribeiro,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431499
+8,dom 01/11/2020,11:00,Casa Pia,Penafiel,?,Pedro Ribeiro,,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431535
+9,seg 09/11/2020,16:45,Penafiel,Chaves,?,Pedro Ribeiro,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431587
+10,sáb 28/11/2020,08:00,Académico FC,Penafiel,3-4-3 plano,Pedro Ribeiro,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431480
+11,sex 04/12/2020,17:30,Penafiel,Leixões,?,Pedro Ribeiro,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431609
+12,sáb 19/12/2020,08:00,Cova da Piedade,Penafiel,?,Pedro Ribeiro,,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431572
+13,dom 27/12/2020,11:00,Penafiel,Benfica B,?,Pedro Ribeiro,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431603
+14,seg 04/01/2021,14:00,Estoril,Penafiel,3-4-3 plano,Pedro Ribeiro,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431672
+15,dom 10/01/2021,08:15,Penafiel,Varzim,?,Pedro Ribeiro,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431490
+16,sáb 16/01/2021,14:00,Vizela,Penafiel,3-4-3 plano,Pedro Ribeiro,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431653
+17,sex 22/01/2021,17:15,Penafiel,Feirense,?,Pedro Ribeiro,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431635
+18,qui 11/03/2021,12:00,Covilhã,Penafiel,?,Pedro Ribeiro,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431641
+19,qua 03/03/2021,14:00,Penafiel,UD Oliveirense,?,Pedro Ribeiro,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431725
+20,qui 18/03/2021,12:00,Vilafranquense,Penafiel,?,Pedro Ribeiro,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431620
+21,dom 21/02/2021,11:00,Penafiel,FC Porto B,?,Pedro Ribeiro,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431707
+22,dom 28/02/2021,11:00,Mafra,Penafiel,?,Pedro Ribeiro,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431622
+23,dom 07/03/2021,08:15,Penafiel,Académica,?,Pedro Ribeiro,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431540
+24,seg 15/03/2021,13:00,Arouca,Penafiel,?,Pedro Ribeiro,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431512
+25,seg 22/03/2021,15:00,Penafiel,Casa Pia,?,Pedro Ribeiro,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431604
+26,seg 29/03/2021,17:00,Chaves,Penafiel,?,Pedro Ribeiro,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431650
+27,sex 02/04/2021,16:30,Penafiel,Académico FC,4-3-3 ofensivo,Pedro Ribeiro,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431514
+28,sáb 10/04/2021,16:30,Leixões,Penafiel,?,Pedro Ribeiro,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431628
+29,dom 18/04/2021,10:00,Penafiel,Cova da Piedade,?,Pedro Ribeiro,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431531
+30,seg 26/04/2021,11:30,Benfica B,Penafiel,?,Pedro Ribeiro,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431616
+31,dom 02/05/2021,16:00,Penafiel,Estoril,4-3-3 ofensivo,Pedro Ribeiro,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431661
+32,dom 09/05/2021,16:30,Varzim,Penafiel,4-3-3 ofensivo,Pedro Ribeiro,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431627
+33,dom 16/05/2021,10:00,Penafiel,Vizela,?,Pedro Ribeiro,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431702
+34,sex 21/05/2021,16:30,Feirense,Penafiel,4-3-3 ofensivo,Pedro Ribeiro,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431538

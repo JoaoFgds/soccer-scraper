@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 08/05/2010,13:30,Botafogo,Santos,4-4-2,Dorival Júnior,25634,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003471
+2,dom 16/05/2010,11:00,Santos,Ceará,4-4-2,Dorival Júnior,8999,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003487
+3,sáb 22/05/2010,13:30,Atlético-GO,Santos,4-4-2,Dorival Júnior,4669,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004147
+4,qua 26/05/2010,16:50,Santos,Guarani,4-4-2,Dorival Júnior,5146,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004787
+5,dom 30/05/2010,11:00,Corinthians,Santos,4-4-2,Dorival Júnior,27681,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004794
+6,qua 02/06/2010,16:50,Cruzeiro,Santos,4-4-2,Dorival Júnior,15708,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005864
+7,dom 06/06/2010,11:00,Santos,Vasco da Gama,4-4-2,Dorival Júnior,9525,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005872
+8,qui 15/07/2010,16:00,Palmeiras,Santos,4-4-2,Dorival Júnior,9400,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005885
+9,dom 18/07/2010,13:30,Santos,Fluminense,4-3-3 defensivo,Dorival Júnior,9193,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005895
+10,qua 21/07/2010,16:50,Atlético-PR,Santos,4-3-3 defensivo,Dorival Júnior,20001,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005912
+11,dom 25/07/2010,11:00,Santos,São Paulo,4-4-2,Dorival Júnior,9367,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006304
+12,dom 01/08/2010,13:30,Barueri,Santos,4-4-2,Dorival Júnior,15890,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006319
+13,qua 13/10/2010,17:00,Santos,Internacional,4-4-2,Marcelo Martelotte,10036,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006335
+14,dom 15/08/2010,13:30,Vitória,Santos,4-4-2,Dorival Júnior,9144,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006348
+15,dom 22/08/2010,11:00,Santos,Atlético-MG,4-3-3 defensivo,Dorival Júnior,10220,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006354
+16,qua 25/08/2010,17:00,Grêmio,Santos,4-4-2,Dorival Júnior,12379,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1050957
+17,sáb 28/08/2010,13:30,Santos,Goiás,4-3-3 defensivo,Dorival Júnior,17968,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007614
+18,qui 02/09/2010,16:00,Santos,Avaí,4-3-3 defensivo,Dorival Júnior,7141,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007626
+19,dom 05/09/2010,11:00,Flamengo,Santos,4-4-2,Dorival Júnior,41007,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007635
+20,qui 09/09/2010,16:00,Santos,Botafogo,4-4-2,Dorival Júnior,14305,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007639
+21,dom 12/09/2010,13:30,Ceará,Santos,4-4-2,Marcelo Martelotte,23374,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007656
+22,qua 15/09/2010,14:30,Santos,Atlético-GO,4-4-2,Dorival Júnior,3873,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009300
+23,dom 19/09/2010,11:00,Guarani,Santos,4-4-2,Dorival Júnior,10998,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009313
+24,qua 22/09/2010,17:00,Santos,Corinthians,4-4-2,Marcelo Martelotte,10898,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009320
+25,sáb 25/09/2010,13:30,Santos,Cruzeiro,4-4-2,Marcelo Martelotte,9542,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009330
+26,ter 28/09/2010,16:00,Vasco da Gama,Santos,4-4-2,Marcelo Martelotte,5388,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009341
+27,sáb 02/10/2010,11:00,Santos,Palmeiras,4-4-2,Marcelo Martelotte,8900,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009350
+28,qua 06/10/2010,14:30,Fluminense,Santos,4-4-2,Marcelo Martelotte,14687,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009362
+29,sáb 09/10/2010,13:30,Santos,Atlético-PR,4-4-2,Marcelo Martelotte,8417,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009370
+30,dom 17/10/2010,14:30,São Paulo,Santos,4-4-2,Marcelo Martelotte,23791,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009379
+31,dom 24/10/2010,14:30,Santos,Barueri,4-3-3 defensivo,Marcelo Martelotte,11075,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009390
+32,sáb 30/10/2010,12:00,Internacional,Santos,4-4-2,Marcelo Martelotte,25178,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009406
+33,qua 03/11/2010,16:30,Santos,Vitória,4-4-2,Marcelo Martelotte,4643,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009411
+34,dom 07/11/2010,15:30,Atlético-MG,Santos,4-4-2,Marcelo Martelotte,16771,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009425
+35,sáb 13/11/2010,16:30,Santos,Grêmio,4-4-2,Marcelo Martelotte,7421,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009431
+36,dom 21/11/2010,16:30,Goiás,Santos,4-4-2,Marcelo Martelotte,2865,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009447
+37,dom 28/11/2010,14:00,Avaí,Santos,?,Marcelo Martelotte,17136,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009459
+38,dom 05/12/2010,14:00,Santos,Flamengo,4-4-2,Marcelo Martelotte,9086,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009461

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 13/09/2020,07:15,Cova da Piedade,Mafra,4-3-3 ofensivo,António Pereira,,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431460
+2,sáb 19/09/2020,14:00,Covilhã,Cova da Piedade,3-4-1-2,António Pereira,,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431523
+3,qua 23/09/2020,12:00,Cova da Piedade,Académica,?,António Pereira,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431505
+4,dom 27/09/2020,14:00,Chaves,Cova da Piedade,?,António Pereira,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431645
+5,sáb 03/10/2020,11:30,Cova da Piedade,Arouca,?,António Pereira,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431479
+6,dom 18/10/2020,11:00,Académico FC,Cova da Piedade,3-4-3 plano,António Pereira,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431469
+7,sáb 24/10/2020,11:00,Cova da Piedade,Leixões,?,António Pereira,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431466
+8,sáb 14/11/2020,08:00,Estoril,Cova da Piedade,4-4-2 losango,António Pereira,,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431612
+9,qua 25/11/2020,15:00,Cova da Piedade,Benfica B,?,António Pereira,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431501
+10,sáb 28/11/2020,12:00,Cova da Piedade,Feirense,?,António Pereira,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431485
+11,dom 06/12/2020,14:00,Varzim,Cova da Piedade,?,António Pereira,,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431743
+12,sáb 19/12/2020,08:00,Cova da Piedade,Penafiel,?,António Pereira,,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431572
+13,ter 29/12/2020,12:00,UD Oliveirense,Cova da Piedade,?,Ricardo Aires,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431742
+14,seg 04/01/2021,11:00,Cova da Piedade,FC Porto B,?,Ricardo Aires,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431550
+15,dom 10/01/2021,14:00,Vizela,Cova da Piedade,?,Ricardo Aires,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431525
+16,qua 17/02/2021,12:00,Cova da Piedade,Vilafranquense,?,Ricardo Aires,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431517
+17,seg 25/01/2021,14:00,Casa Pia,Cova da Piedade,?,Mário Nunes,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431580
+18,ter 02/02/2021,14:00,Mafra,Cova da Piedade,?,Mário Nunes,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431521
+19,seg 08/02/2021,12:00,Cova da Piedade,Covilhã,?,Mário Nunes,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431708
+20,sáb 13/02/2021,08:00,Académica,Cova da Piedade,?,Mário Nunes,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431557
+21,sáb 20/02/2021,08:00,Cova da Piedade,Chaves,?,Ricardo Aires,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431728
+22,sáb 27/02/2021,12:00,Arouca,Cova da Piedade,?,Mário Nunes,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431552
+23,seg 08/03/2021,12:00,Cova da Piedade,Académico FC,4-3-3 ofensivo,Mário Nunes,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431591
+24,sáb 13/03/2021,12:00,Leixões,Cova da Piedade,?,Mário Nunes,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431484
+25,sáb 20/03/2021,08:00,Cova da Piedade,Estoril,4-1-4-1,Mário Nunes,,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431667
+26,dom 28/03/2021,12:00,Benfica B,Cova da Piedade,?,Miguel Leal,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431553
+27,dom 04/04/2021,07:15,Feirense,Cova da Piedade,?,Miguel Leal,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431524
+28,sáb 10/04/2021,11:00,Cova da Piedade,Varzim,?,Miguel Leal,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431747
+29,dom 18/04/2021,10:00,Penafiel,Cova da Piedade,?,Miguel Leal,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431531
+30,dom 25/04/2021,11:00,Cova da Piedade,UD Oliveirense,?,Miguel Leal,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431753
+31,sáb 01/05/2021,11:00,FC Porto B,Cova da Piedade,?,Miguel Leal,,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431579
+32,dom 09/05/2021,10:00,Cova da Piedade,Vizela,?,Miguel Leal,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431673
+33,sáb 15/05/2021,11:00,Vilafranquense,Cova da Piedade,?,Miguel Leal,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431599
+34,sáb 22/05/2021,14:00,Cova da Piedade,Casa Pia,?,Miguel Leal,,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431507

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 12/08/2018,12:00,Bordeaux,Strasbourg,4-1-4-1,Gustavo Poyet,23273,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047432
+2,dom 19/08/2018,12:00,Toulouse,Bordeaux,4-3-3 ofensivo,Eric Bedouet,15387,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047450
+3,dom 26/08/2018,12:00,Bordeaux,Monaco,4-3-3 ofensivo,Eric Bedouet,21607,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047452
+4,dom 02/09/2018,12:00,Rennes,Bordeaux,4-3-3 ofensivo,Eric Bedouet,23817,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047468
+5,dom 16/09/2018,12:00,Bordeaux,Nîmes Olympique,4-3-3 ofensivo,Eric Bedouet,15895,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047472
+6,dom 23/09/2018,12:00,Guingamp,Bordeaux,4-3-3 ofensivo,Eric Bedouet,14772,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047512
+7,qua 26/09/2018,14:00,Bordeaux,Lille,4-2-3-1,Eric Bedouet,17395,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047522
+8,sáb 29/09/2018,15:00,Reims,Bordeaux,4-1-4-1,Eric Bedouet,13406,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047537
+9,dom 07/10/2018,10:00,Bordeaux,Nantes,4-3-3 ofensivo,Eric Bedouet,18307,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047543
+10,dom 21/10/2018,10:00,Montpellier,Bordeaux,4-3-3 ofensivo,Eric Bedouet,12491,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047555
+11,dom 28/10/2018,13:00,Bordeaux,Nice,4-3-3 defensivo,Eric Bedouet,20730,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047563
+12,sáb 03/11/2018,13:00,Lyon,Bordeaux,4-3-3 ofensivo,Eric Bedouet,46653,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047573
+13,dom 11/11/2018,12:00,Bordeaux,SM Caen,4-3-3 ofensivo,Eric Bedouet,15352,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047582
+14,sáb 24/11/2018,17:00,Dijon,Bordeaux,4-3-3 ofensivo,Eric Bedouet,12285,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047593
+15,dom 02/12/2018,18:00,Bordeaux,PSG,4-2-3-1,Eric Bedouet,40841,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047602
+16,qua 05/12/2018,16:00,Bordeaux,Saint-Étienne,4-3-3 ofensivo,Eric Bedouet,23375,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047612
+17,ter 15/01/2019,16:00,Angers,Bordeaux,4-2-3-1,Eric Bedouet,10836,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047651
+18,ter 05/02/2019,16:00,Marselha,Bordeaux,4-3-3 ofensivo,Eric Bedouet,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047694
+19,dom 23/12/2018,14:00,Bordeaux,Amiens SC,4-3-3 ofensivo,Eric Bedouet,23343,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047701
+20,sáb 12/01/2019,17:00,Nice,Bordeaux,4-3-3 ofensivo,Eric Bedouet,15191,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047718
+21,dom 20/01/2019,16:00,Bordeaux,Dijon,4-2-3-1,Eric Bedouet,13380,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047722
+22,sáb 26/01/2019,17:00,Strasbourg,Bordeaux,4-3-3 ofensivo,Eric Bedouet,25214,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047739
+23,qua 20/02/2019,15:00,Bordeaux,Guingamp,4-3-3 ofensivo,Eric Bedouet,14527,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047742
+24,sáb 09/02/2019,14:00,PSG,Bordeaux,4-2-3-1,Eric Bedouet,47274,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047757
+25,dom 17/02/2019,11:00,Bordeaux,Toulouse,4-3-3 defensivo,Eric Bedouet,19332,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047762
+26,dom 24/02/2019,11:00,Nantes,Bordeaux,4-3-3 ofensivo,Eric Bedouet,21910,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047776
+27,ter 05/03/2019,15:00,Bordeaux,Montpellier,4-2-3-1,Eric Bedouet,14522,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047782
+28,sáb 09/03/2019,16:00,Monaco,Bordeaux,4-2-3-1,Eric Bedouet,8042,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047794
+29,dom 17/03/2019,13:00,Bordeaux,Rennes,3-4-3 plano,Paulo Sousa,19807,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047802
+30,dom 31/03/2019,10:00,Amiens SC,Bordeaux,4-4-2 duplo 6,Paulo Sousa,11765,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047811
+31,sex 05/04/2019,15:45,Bordeaux,Marselha,3-4-3 plano,Paulo Sousa,34152,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047822
+32,dom 14/04/2019,12:00,Saint-Étienne,Bordeaux,5-3-2,Paulo Sousa,33935,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047838
+33,sáb 20/04/2019,15:00,Nîmes Olympique,Bordeaux,3-4-3 plano,Paulo Sousa,17092,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047845
+34,sex 26/04/2019,15:45,Bordeaux,Lyon,5-4-1 plano,Paulo Sousa,27455,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047852
+35,sáb 04/05/2019,15:00,Bordeaux,Angers,4-4-2 duplo 6,Paulo Sousa,18584,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047860
+36,dom 12/05/2019,12:00,Lille,Bordeaux,4-1-4-1,Paulo Sousa,41413,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047874
+37,sáb 18/05/2019,16:00,Bordeaux,Reims,4-1-4-1,Paulo Sousa,14247,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047880
+38,sex 24/05/2019,16:05,SM Caen,Bordeaux,3-4-1-2,Paulo Sousa,19355,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047892

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 16/07/2022,08:00,Greuther Fürth,Holstein Kiel,4-3-1-2,Marc Schneider,8756,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839017
+2,sáb 23/07/2022,08:00,Nuremberg,Greuther Fürth,4-3-1-2,Marc Schneider,41204,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839038
+3,sex 05/08/2022,13:30,Greuther Fürth,Karlsruher,4-3-1-2,Marc Schneider,9678,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839043
+4,dom 14/08/2022,08:30,Düsseldorf,Greuther Fürth,4-3-1-2,Marc Schneider,23861,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839066
+5,dom 21/08/2022,08:30,Greuther Fürth,K'lautern,4-3-1-2,Marc Schneider,12475,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839070
+6,dom 28/08/2022,08:30,Hannover,Greuther Fürth,4-2-3-1,Marc Schneider,22800,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839093
+7,sáb 03/09/2022,08:00,Greuther Fürth,St. Pauli,4-2-3-1,Marc Schneider,10553,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839123
+8,dom 11/09/2022,08:30,Magdeburgo,Greuther Fürth,4-3-1-2,Marc Schneider,18955,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839148
+9,dom 18/09/2022,08:30,Greuther Fürth,Paderborn,4-2-3-1,Marc Schneider,8530,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839169
+10,sáb 01/10/2022,08:00,Greuther Fürth,Sandhausen,4-2-3-1,Marc Schneider,8637,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839186
+11,sex 07/10/2022,13:30,J. Regensburg,Greuther Fürth,4-2-3-1,Marc Schneider,10716,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839211
+12,sex 14/10/2022,13:30,Greuther Fürth,Hansa Rostock,4-3-1-2,Marc Schneider,10516,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839222
+13,dom 23/10/2022,08:30,Heidenheim,Greuther Fürth,4-3-1-2,Rainer Widmayer,8130,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839243
+14,sex 28/10/2022,13:30,Greuther Fürth,Arm. Bielefeld,5-3-2,Alexander Zorniger,9433,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839267
+15,dom 06/11/2022,09:30,E. Braunschweig,Greuther Fürth,5-3-2,Alexander Zorniger,17580,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839293
+16,qua 09/11/2022,14:30,Greuther Fürth,Hamburgo,5-3-2,Alexander Zorniger,13266,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839303
+17,dom 13/11/2022,09:30,Darmstadt 98,Greuther Fürth,5-3-2,Alexander Zorniger,15080,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839323
+18,sáb 28/01/2023,09:00,Holstein Kiel,Greuther Fürth,5-3-2,Alexander Zorniger,11438,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839344
+19,sáb 04/02/2023,16:30,Greuther Fürth,Nuremberg,5-3-2,Alexander Zorniger,16626,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839357
+20,sex 10/02/2023,14:30,Karlsruher,Greuther Fürth,5-3-2,Alexander Zorniger,15612,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839383
+21,sáb 18/02/2023,09:00,Greuther Fürth,Düsseldorf,5-3-2,Alexander Zorniger,9804,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839402
+22,sáb 25/02/2023,09:00,K'lautern,Greuther Fürth,5-3-2,Alexander Zorniger,39124,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839428
+23,dom 05/03/2023,09:30,Greuther Fürth,Hannover,5-3-2,Alexander Zorniger,10845,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839438
+24,sáb 11/03/2023,09:00,St. Pauli,Greuther Fürth,5-3-2,Alexander Zorniger,29346,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839457
+25,sáb 18/03/2023,09:00,Greuther Fürth,Magdeburgo,5-3-2,Alexander Zorniger,11619,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839475
+26,dom 02/04/2023,08:30,Paderborn,Greuther Fürth,5-3-2,Alexander Zorniger,10952,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839493
+27,dom 09/04/2023,08:30,Sandhausen,Greuther Fürth,5-3-2,Alexander Zorniger,4951,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839525
+28,sex 14/04/2023,13:30,Greuther Fürth,J. Regensburg,5-3-2,Alexander Zorniger,12570,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839537
+29,sáb 22/04/2023,08:00,Hansa Rostock,Greuther Fürth,5-3-2,Alexander Zorniger,24000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839560
+30,sex 28/04/2023,13:30,Greuther Fürth,Heidenheim,5-3-2,Alexander Zorniger,11897,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839573
+31,sex 05/05/2023,13:30,Arm. Bielefeld,Greuther Fürth,5-3-2,Alexander Zorniger,22015,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839591
+32,sáb 13/05/2023,08:00,Greuther Fürth,E. Braunschweig,5-3-2,Alexander Zorniger,11430,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839600
+33,sáb 20/05/2023,15:30,Hamburgo,Greuther Fürth,5-3-2,Alexander Zorniger,56537,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839610
+34,dom 28/05/2023,10:30,Greuther Fürth,Darmstadt 98,3-5-2,Alexander Zorniger,14333,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839618

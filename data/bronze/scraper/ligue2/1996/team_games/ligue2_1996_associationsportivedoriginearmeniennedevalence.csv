@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 10/08/1996,19:00,ASOA Valence,AS Beauvais,?,Léonce Lavagne,1000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026308
+2,sex 16/08/1996,19:00,FC Lorient,ASOA Valence,?,Léonce Lavagne,2610,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026321
+3,seg 19/08/1996,19:00,ASOA Valence,Chamois Niort,?,Léonce Lavagne,2046,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026326
+4,sex 23/08/1996,19:00,Toulouse,ASOA Valence,?,Léonce Lavagne,5814,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026338
+5,qui 29/08/1996,19:00,ASOA Valence,FC Gueugnon,?,Léonce Lavagne,2143,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026348
+6,ter 03/09/1996,19:00,SC Toulon 83,ASOA Valence,?,Léonce Lavagne,3554,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026361
+7,sex 06/09/1996,19:00,ASOA Valence,Perpignan,?,Léonce Lavagne,2293,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026375
+8,sex 13/09/1996,19:00,SAS Epinal,ASOA Valence,?,Léonce Lavagne,1658,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026389
+9,ter 17/09/1996,19:00,ASOA Valence,LB Châteauroux,?,Léonce Lavagne,1227,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026392
+10,sex 20/09/1996,19:00,Le Mans UC 72,ASOA Valence,?,Léonce Lavagne,2771,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026409
+11,sex 27/09/1996,19:00,ASOA Valence,FC Martigues,?,Léonce Lavagne,4083,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026415
+12,ter 01/10/1996,19:00,Amiens SC,ASOA Valence,?,Léonce Lavagne,3278,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026432
+13,sex 04/10/1996,19:00,ASOA Valence,Stade Briochin,?,Léonce Lavagne,1660,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026468
+14,sex 11/10/1996,20:00,Mulhouse S-A,ASOA Valence,?,Léonce Lavagne,3512,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026483
+15,sex 18/10/1996,20:00,ASOA Valence,AS Red Star 93,?,Léonce Lavagne,1634,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026490
+16,sex 25/10/1996,20:00,Louh.-Cuiseaux,ASOA Valence,?,Léonce Lavagne,1818,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026504
+17,sex 01/11/1996,21:00,ASOA Valence,O Charleville,?,Léonce Lavagne,1000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026511
+18,qua 06/11/1996,21:00,ASOA Valence,FC Sochaux,?,Léonce Lavagne,700,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026525
+19,ter 12/11/1996,21:00,Troyes,ASOA Valence,?,Léonce Lavagne,3379,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026532
+20,sex 15/11/1996,21:00,ASOA Valence,Stade Lavallois,?,Léonce Lavagne,1200,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026547
+21,ter 26/11/1996,21:00,Saint-Étienne,ASOA Valence,?,Léonce Lavagne,6000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026560
+22,ter 14/01/1997,21:00,ASOA Valence,FC Lorient,?,Léonce Lavagne,250,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026592
+23,sex 13/12/1996,21:00,Chamois Niort,ASOA Valence,?,Léonce Lavagne,2234,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026595
+24,sex 24/01/1997,21:00,ASOA Valence,Toulouse,?,Léonce Lavagne,3000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026604
+25,sex 31/01/1997,21:00,FC Gueugnon,ASOA Valence,?,Léonce Lavagne,1976,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026622
+26,sex 14/02/1997,21:00,ASOA Valence,SC Toulon 83,?,Léonce Lavagne,800,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026634
+27,sex 21/02/1997,20:00,Perpignan,ASOA Valence,?,Léonce Lavagne,1830,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026646
+28,sex 07/03/1997,20:00,ASOA Valence,SAS Epinal,?,Léonce Lavagne,500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026658
+29,ter 11/03/1997,20:00,LB Châteauroux,ASOA Valence,?,Léonce Lavagne,4000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026660
+30,sex 14/03/1997,20:00,ASOA Valence,Le Mans UC 72,?,Léonce Lavagne,991,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026677
+31,sex 21/03/1997,20:00,FC Martigues,ASOA Valence,?,Léonce Lavagne,2632,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026683
+32,ter 25/03/1997,20:00,ASOA Valence,Amiens SC,?,Léonce Lavagne,500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026693
+33,seg 31/03/1997,19:00,Stade Briochin,ASOA Valence,?,Léonce Lavagne,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026712
+34,sex 04/04/1997,19:00,ASOA Valence,Mulhouse S-A,?,Léonce Lavagne,738,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026718
+35,qui 10/04/1997,19:00,AS Red Star 93,ASOA Valence,?,Léonce Lavagne,2068,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026729
+36,ter 15/04/1997,19:00,ASOA Valence,Louh.-Cuiseaux,?,Léonce Lavagne,1200,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026741
+37,qui 24/04/1997,19:00,O Charleville,ASOA Valence,?,Léonce Lavagne,1620,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026751
+38,ter 29/04/1997,19:00,FC Sochaux,ASOA Valence,?,Léonce Lavagne,2000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026766
+39,sex 02/05/1997,19:00,ASOA Valence,Troyes,?,Léonce Lavagne,1189,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026775
+40,qui 08/05/1997,19:00,Stade Lavallois,ASOA Valence,?,Léonce Lavagne,2843,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026789
+41,qua 07/05/1997,19:00,ASOA Valence,Saint-Étienne,?,Léonce Lavagne,7000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026797
+42,sex 23/05/1997,19:00,AS Beauvais,ASOA Valence,?,Léonce Lavagne,2717,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026809

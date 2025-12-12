@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 26/08/2001,15:00,Espanyol,Zaragoza,?,Txetxu Rojo,16900,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1081896
+2,dom 09/09/2001,16:00,Zaragoza,Sevilla,?,Txetxu Rojo,22000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1081913
+3,dom 16/09/2001,14:00,Rayo Vallecano,Zaragoza,?,Txetxu Rojo,5000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1081927
+4,dom 23/09/2001,14:30,Zaragoza,Osasuna,?,Txetxu Rojo,25000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1081939
+5,dom 30/09/2001,14:00,Tenerife,Zaragoza,?,Txetxu Rojo,14000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1082063
+6,qua 03/10/2001,15:30,Zaragoza,Real Sociedad,?,Txetxu Rojo,18000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1082067
+7,dom 07/10/2001,14:00,Mallorca,Zaragoza,?,Txetxu Rojo,15900,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1082082
+8,sáb 13/10/2001,15:45,Zaragoza,Deportivo,?,Txetxu Rojo,25000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1082085
+9,dom 21/10/2001,16:00,Valencia,Zaragoza,?,Txetxu Rojo,40000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1082104
+10,dom 28/10/2001,15:00,Zaragoza,Málaga CF,?,Txetxu Rojo,25000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1082112
+11,dom 04/11/2001,14:00,Betis,Zaragoza,?,Txetxu Rojo,30000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1083509
+12,dom 11/11/2001,14:00,Zaragoza,Real Madrid,4-4-2 duplo 6,Txetxu Rojo,32000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1083527
+13,dom 18/11/2001,14:00,Valladolid,Zaragoza,?,Txetxu Rojo,12000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1083546
+14,dom 25/11/2001,14:00,Zaragoza,Las Palmas,?,Txetxu Rojo,25000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1083554
+15,sáb 01/12/2001,14:00,Athletic Club,Zaragoza,?,Txetxu Rojo,38000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1083565
+16,dom 09/12/2001,14:00,Zaragoza,Alavés,?,Txetxu Rojo,20000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089634
+17,sáb 15/12/2001,14:00,Celta de Vigo,Zaragoza,?,Txetxu Rojo,19000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089645
+18,dom 23/12/2001,14:00,Zaragoza,Villarreal,?,Txetxu Rojo,18000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089657
+19,dom 06/01/2002,17:00,Barcelona,Zaragoza,?,Txetxu Rojo,40000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089670
+20,dom 13/01/2002,14:00,Zaragoza,Espanyol,?,Txetxu Rojo,25000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089678
+21,dom 20/01/2002,14:00,Sevilla,Zaragoza,?,Txetxu Rojo,35000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089699
+22,dom 27/01/2002,14:00,Zaragoza,Rayo Vallecano,?,Luis Costa,24000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089709
+23,dom 03/02/2002,14:00,Osasuna,Zaragoza,?,Luis Costa,18835,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089720
+24,qua 06/02/2002,18:00,Zaragoza,Tenerife,?,Luis Costa,20000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089728
+25,dom 10/02/2002,14:00,Real Sociedad,Zaragoza,?,Luis Costa,23226,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089738
+26,dom 17/02/2002,13:00,Zaragoza,Mallorca,?,Luis Costa,22000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089746
+27,sáb 23/02/2002,16:45,Deportivo,Zaragoza,?,Luis Costa,27000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089753
+28,dom 03/03/2002,13:00,Zaragoza,Valencia,?,Luis Costa,33000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089767
+29,dom 10/03/2002,13:00,Málaga CF,Zaragoza,?,Luis Costa,12000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089778
+30,dom 17/03/2002,13:00,Zaragoza,Betis,?,Luis Costa,33000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089787
+31,dom 24/03/2002,13:00,Real Madrid,Zaragoza,?,Luis Costa,63512,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089808
+32,dom 31/03/2002,13:00,Zaragoza,Valladolid,?,Marcos Alonso,32000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089821
+33,sáb 06/04/2002,17:00,Las Palmas,Zaragoza,?,Marcos Alonso,18137,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089826
+34,dom 14/04/2002,14:00,Zaragoza,Athletic Club,?,Marcos Alonso,34000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089840
+35,dom 21/04/2002,13:00,Alavés,Zaragoza,?,Marcos Alonso,16240,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089847
+36,dom 28/04/2002,13:00,Zaragoza,Celta de Vigo,?,Marcos Alonso,35000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089881
+37,dom 05/05/2002,15:00,Villarreal,Zaragoza,?,Marcos Alonso,21000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089889
+38,sáb 11/05/2002,16:00,Zaragoza,Barcelona,?,Marcos Alonso,20000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089899

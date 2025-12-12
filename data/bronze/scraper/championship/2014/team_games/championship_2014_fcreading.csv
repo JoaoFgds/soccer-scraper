@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 09/08/2014,11:00,Wigan,Reading,4-2-3-1,Nigel Adkins,12174,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2464946
+2,sáb 16/08/2014,11:00,Reading,Ipswich,4-4-2 duplo 6,Nigel Adkins,17198,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2484441
+3,ter 19/08/2014,16:00,Reading,Huddersfield,4-4-2 duplo 6,Nigel Adkins,15035,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2485910
+4,sáb 23/08/2014,11:00,Nott'm Forest,Reading,4-1-4-1,Nigel Adkins,22795,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2485920
+5,sáb 30/08/2014,11:00,Middlesbrough,Reading,4-4-2,Nigel Adkins,14970,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2485929
+6,sáb 13/09/2014,11:00,Reading,Fulham,4-4-2 duplo 6,Nigel Adkins,18790,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2485946
+7,ter 16/09/2014,16:00,Reading,Millwall,4-4-2 duplo 6,Nigel Adkins,15091,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2485958
+8,sáb 20/09/2014,11:00,Sheff Wed,Reading,4-4-2 duplo 6,Nigel Adkins,29848,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498460
+9,dom 28/09/2014,09:15,Reading,Wolves,4-4-2 duplo 6,Nigel Adkins,17454,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498498
+10,qua 01/10/2014,15:45,Leeds,Reading,4-4-2 duplo 6,Nigel Adkins,20705,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498508
+11,sáb 04/10/2014,11:00,Brentford,Reading,4-2-3-1,Nigel Adkins,10776,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498514
+12,sáb 18/10/2014,11:00,Reading,Derby,4-4-2 duplo 6,Nigel Adkins,18141,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498532
+13,ter 21/10/2014,16:45,Bournemouth,Reading,4-4-2 duplo 6,Nigel Adkins,8899,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498538
+14,sáb 25/10/2014,12:00,Reading,Blackpool,4-4-2 duplo 6,Nigel Adkins,15625,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498567
+15,sáb 01/11/2014,13:00,Blackburn,Reading,4-4-2 duplo 6,Nigel Adkins,14237,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498641
+16,ter 04/11/2014,18:00,Reading,Rotherham,4-4-2 duplo 6,Nigel Adkins,13775,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498677
+17,sáb 08/11/2014,13:00,Reading,Charlton,4-4-2 duplo 6,Nigel Adkins,16989,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2509877
+18,sex 21/11/2014,17:45,Cardiff,Reading,4-4-2 duplo 6,Nigel Adkins,20643,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2509881
+19,sáb 29/11/2014,13:00,Norwich,Reading,4-4-2 duplo 6,Nigel Adkins,26002,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2509900
+20,sáb 06/12/2014,13:00,Reading,Bolton,4-4-2 duplo 6,Nigel Adkins,15421,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2509913
+21,sáb 13/12/2014,13:00,Birmingham,Reading,4-4-2 duplo 6,Nigel Adkins,15240,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2509966
+22,sáb 20/12/2014,13:00,Reading,Watford,4-4-2 duplo 6,Steve Clarke,18522,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2509984
+23,sex 26/12/2014,13:00,Brighton,Reading,4-4-2 duplo 6,Steve Clarke,26173,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2509992
+24,dom 28/12/2014,13:00,Reading,Norwich,4-4-2 duplo 6,Steve Clarke,19430,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2510009
+25,sáb 10/01/2015,13:00,Reading,Middlesbrough,4-4-2 duplo 6,Steve Clarke,17131,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2520390
+26,sáb 17/01/2015,13:00,Fulham,Reading,4-4-2 duplo 6,Steve Clarke,17831,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2520394
+27,ter 27/01/2015,17:45,Millwall,Reading,4-3-3 defensivo,Steve Clarke,8317,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525517
+28,sáb 31/01/2015,13:00,Reading,Sheff Wed,4-4-2 duplo 6,Steve Clarke,17755,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525535
+29,sáb 07/02/2015,13:00,Wolves,Reading,4-4-2 duplo 6,Steve Clarke,20274,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525547
+30,ter 10/02/2015,18:00,Reading,Leeds,4-3-3 defensivo,Steve Clarke,18124,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525558
+31,ter 17/02/2015,18:00,Reading,Wigan,4-4-2 duplo 6,Steve Clarke,14601,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525569
+32,sáb 21/02/2015,13:00,Ipswich,Reading,4-4-2 duplo 6,Steve Clarke,21298,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525577
+33,ter 24/02/2015,16:45,Huddersfield,Reading,4-3-3 ofensivo,Steve Clarke,10282,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525588
+34,sáb 28/02/2015,12:00,Reading,Nott'm Forest,4-4-2 duplo 6,Steve Clarke,18586,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525605
+35,ter 03/03/2015,17:00,Bolton,Reading,4-4-2 duplo 6,Steve Clarke,12795,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525619
+36,ter 10/03/2015,17:00,Reading,Brighton,3-5-2,Steve Clarke,14748,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525629
+37,sáb 14/03/2015,12:00,Watford,Reading,4-4-2 duplo 6,Steve Clarke,16660,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525643
+38,qua 22/04/2015,16:00,Reading,Birmingham,4-4-2 duplo 6,Steve Clarke,14604,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525653
+39,sáb 21/03/2015,12:00,Charlton,Reading,4-4-2 duplo 6,Steve Clarke,15007,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525661
+40,sáb 04/04/2015,11:00,Reading,Cardiff,4-4-2 duplo 6,Steve Clarke,17953,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525686
+41,ter 07/04/2015,15:45,Blackpool,Reading,4-4-2 duplo 6,Steve Clarke,9614,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525689
+42,sáb 11/04/2015,11:00,Reading,Blackburn,4-4-2 duplo 6,Steve Clarke,17564,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525710
+43,ter 14/04/2015,16:00,Reading,Bournemouth,4-3-3 ofensivo,Steve Clarke,18917,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525721
+44,ter 28/04/2015,15:45,Rotherham,Reading,4-1-4-1,Steve Clarke,11123,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525732
+45,sáb 25/04/2015,11:00,Reading,Brentford,4-3-3 ofensivo,Steve Clarke,20048,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525744
+46,sáb 02/05/2015,08:15,Derby,Reading,4-2-3-1,Steve Clarke,30806,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525761

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 04/09/1994,11:00,Napoli,Reggiana,?,Giuseppe Marchioro,31000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215443
+2,dom 11/09/1994,11:00,Reggiana,Sampdoria,?,Giuseppe Marchioro,16000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215449
+3,dom 18/09/1994,11:00,Bari,Reggiana,?,Giuseppe Marchioro,15000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215461
+4,dom 25/09/1994,11:00,Reggiana,Roma,?,Giuseppe Marchioro,13000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215468
+5,dom 02/10/1994,11:00,Genoa,Reggiana,?,Giuseppe Marchioro,21666,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215479
+6,dom 16/10/1994,12:00,Reggiana,Florenz,?,Giuseppe Marchioro,15045,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215486
+7,dom 23/10/1994,11:30,AC Parma,Reggiana,4-4-2 duplo 6,Giuseppe Marchioro,24631,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215496
+8,dom 30/10/1994,11:30,Inter,Reggiana,?,Giuseppe Marchioro,34305,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215507
+9,dom 06/11/1994,11:30,Reggiana,Lazio,?,Enzo Ferrari,14205,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215513
+10,dom 20/11/1994,11:30,Juventus,Reggiana,4-5-1 plano,Enzo Ferrari,39208,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215525
+11,dom 27/11/1994,11:30,Reggiana,Cagliari,5-3-2,Enzo Ferrari,12320,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215531
+12,qua 11/01/1995,17:30,Milan,Reggiana,4-3-3 ofensivo,Enzo Ferrari,48752,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215546
+13,dom 11/12/1994,11:30,Reggiana,Cremonese,?,Enzo Ferrari,12135,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215551
+14,dom 18/12/1994,12:15,Reggiana,Padova,?,Enzo Ferrari,12530,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215563
+15,dom 08/01/1995,11:30,Brescia,Reggiana,?,Enzo Ferrari,9847,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215567
+16,dom 15/01/1995,11:30,Reggiana,Torino,?,Enzo Ferrari,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215575
+17,dom 22/01/1995,11:30,Foggia,Reggiana,?,Enzo Ferrari,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215588
+18,dom 29/01/1995,11:30,Reggiana,Napoli,?,Enzo Ferrari,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215599
+19,dom 12/02/1995,12:00,Sampdoria,Reggiana,?,Enzo Ferrari,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215603
+20,dom 19/02/1995,11:00,Reggiana,Bari,?,Enzo Ferrari,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215614
+21,dom 26/02/1995,11:00,Roma,Reggiana,?,Enzo Ferrari,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215621
+22,dom 05/03/1995,16:30,Reggiana,Genoa,?,Enzo Ferrari,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215631
+23,dom 12/03/1995,11:00,Florenz,Reggiana,?,Enzo Ferrari,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215640
+24,dom 19/03/1995,11:00,Reggiana,AC Parma,4-5-1 plano,Enzo Ferrari,13245,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215648
+25,dom 02/04/1995,11:00,Reggiana,Inter,?,Enzo Ferrari,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215655
+26,dom 09/04/1995,11:00,Lazio,Reggiana,?,Enzo Ferrari,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215667
+27,sáb 15/04/1995,11:00,Reggiana,Juventus,4-5-1 plano,Enzo Ferrari,22662,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215673
+28,dom 23/04/1995,11:00,Cagliari,Reggiana,?,Enzo Ferrari,,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215685
+29,dom 30/04/1995,11:00,Reggiana,Milan,?,Enzo Ferrari,14424,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215695
+30,dom 07/05/1995,11:00,Cremonese,Reggiana,?,Enzo Ferrari,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215708
+31,dom 14/05/1995,11:00,Padova,Reggiana,?,Enzo Ferrari,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215714
+32,dom 21/05/1995,11:00,Reggiana,Brescia,3-4-3 plano,Cesare Vitale,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215724
+33,dom 28/05/1995,11:30,Torino,Reggiana,?,Cesare Vitale,,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215728
+34,dom 04/06/1995,11:30,Reggiana,Foggia,?,Cesare Vitale,10959,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215739

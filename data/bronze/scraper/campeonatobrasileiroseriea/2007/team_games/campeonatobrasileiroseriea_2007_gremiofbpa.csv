@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qua 02/05/2007,19:00,Paraná,Grêmio,?,Mano Menezes,3568,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/73328
+2,sáb 19/05/2007,19:00,Grêmio,Fluminense,,Mano Menezes,14968,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/73338
+3,sáb 26/05/2007,19:00,Grêmio,Sport,,Mano Menezes,31606,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/73346
+4,sáb 02/06/2007,19:00,Botafogo,Grêmio,,Mano Menezes,12681,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/73350
+5,sáb 09/06/2007,19:00,Vasco da Gama,Grêmio,,Mano Menezes,15519,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/73366
+6,sáb 16/06/2007,19:00,Grêmio,Cruzeiro,,Mano Menezes,9599,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/73373
+7,sáb 23/06/2007,19:00,Internacional,Grêmio,,Mano Menezes,30372,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/73379
+8,sex 29/06/2007,19:00,Santos,Grêmio,,Mano Menezes,3824,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/73392
+9,ter 03/07/2007,19:00,Grêmio,Juventude,?,Mano Menezes,13603,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/73399
+10,sex 06/07/2007,19:00,Atlético-MG,Grêmio,,Mano Menezes,13458,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/73403
+11,sex 13/07/2007,19:00,Grêmio,Palmeiras,,Mano Menezes,19567,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/73415
+12,qui 19/07/2007,19:00,Goiás,Grêmio,,Mano Menezes,9011,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/73424
+13,sáb 21/07/2007,19:00,Grêmio,Flamengo,,Mano Menezes,13246,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/73518
+14,qua 25/07/2007,19:00,Náutico,Grêmio,,Mano Menezes,13009,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/73538
+15,sex 27/07/2007,19:00,Grêmio,Atlético-PR,,Mano Menezes,27377,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/74137
+16,qua 01/08/2007,19:00,Figueirense,Grêmio,,Mano Menezes,6586,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80737
+17,sáb 04/08/2007,19:00,Grêmio,São Paulo,,Mano Menezes,21051,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80747
+18,qui 09/08/2007,19:00,Grêmio,América-RN,?,Mano Menezes,12244,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/81083
+19,sáb 11/08/2007,19:00,Corinthians,Grêmio,,Mano Menezes,6298,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/81485
+20,sex 17/08/2007,19:00,Grêmio,Paraná,?,Mano Menezes,20814,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/81871
+21,sáb 25/08/2007,13:10,Fluminense,Grêmio,,Mano Menezes,12025,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/81991
+22,qua 29/08/2007,16:45,Sport,Grêmio,,Mano Menezes,18444,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/82708
+23,dom 02/09/2007,11:00,Grêmio,Botafogo,,Mano Menezes,25515,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83490
+24,qua 05/09/2007,16:45,Grêmio,Vasco da Gama,,Mano Menezes,18147,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83500
+25,sáb 08/09/2007,13:10,Cruzeiro,Grêmio,,Mano Menezes,35645,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/84565
+26,dom 16/09/2007,13:10,Grêmio,Internacional,,Mano Menezes,32873,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/84609
+27,sáb 22/09/2007,13:10,Grêmio,Santos,,Mano Menezes,22832,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/85103
+28,dom 30/09/2007,11:00,Juventude,Grêmio,?,Mano Menezes,20156,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/85110
+29,qua 03/10/2007,15:30,Grêmio,Atlético-MG,?,Mano Menezes,24463,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/85118
+30,sáb 06/10/2007,13:10,Palmeiras,Grêmio,?,Mano Menezes,22667,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/85125
+31,sáb 13/10/2007,13:10,Grêmio,Goiás,4-4-2,Mano Menezes,22067,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/85142
+32,dom 21/10/2007,14:10,Flamengo,Grêmio,4-4-2,Mano Menezes,63189,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/86060
+33,dom 28/10/2007,13:00,Grêmio,Náutico,4-4-2,Mano Menezes,36101,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/86066
+34,qua 31/10/2007,13:00,Atlético-PR,Grêmio,?,Mano Menezes,23112,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/86072
+35,sáb 03/11/2007,13:00,Grêmio,Figueirense,4-4-2,Mano Menezes,21437,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/86087
+36,dom 11/11/2007,13:00,São Paulo,Grêmio,4-4-2,Mano Menezes,24714,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/86096
+37,sáb 24/11/2007,13:00,América-RN,Grêmio,4-4-2,Mano Menezes,,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/86105
+38,dom 02/12/2007,13:00,Grêmio,Corinthians,4-4-2,Mano Menezes,34453,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/86117

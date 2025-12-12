@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 30/05/2021,18:15,Corinthians,Atlético-GO,4-2-3-1,Eduardo Barroca,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546469
+2,sáb 05/06/2021,19:00,Atlético-GO,São Paulo,4-2-3-1,Eduardo Barroca,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546476
+3,qua 21/07/2021,19:00,Cuiabá,Atlético-GO,4-2-3-1,Eduardo Barroca,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3571602
+4,qui 17/06/2021,19:00,Atlético-GO,Fortaleza,4-2-3-1,Eduardo Barroca,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3572018
+5,dom 20/06/2021,18:15,Athletico-PR,Atlético-GO,4-2-3-1,Eduardo Barroca,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3572024
+6,qua 23/06/2021,19:00,Atlético-GO,Fluminense,4-2-3-1,Eduardo Barroca,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580695
+7,seg 28/06/2021,20:00,Atlético-GO,Bragantino,4-2-3-1,Eduardo Barroca,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580714
+8,qui 01/07/2021,19:00,Atlético-MG,Atlético-GO,4-2-3-1,Eduardo Barroca,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580723
+9,dom 04/07/2021,20:30,Grêmio,Atlético-GO,4-2-3-1,Eduardo Barroca,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583803
+10,qua 07/07/2021,19:15,Atlético-GO,Sport,4-3-3 ofensivo,Eduardo Barroca,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583818
+11,dom 11/07/2021,11:00,Juventude,Atlético-GO,4-2-3-1,Eduardo Barroca,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583827
+12,dom 18/07/2021,16:00,Atlético-GO,Palmeiras,4-2-3-1,Eduardo Barroca,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583838
+13,dom 25/07/2021,18:15,Santos,Atlético-GO,4-2-3-1,Eduardo Barroca,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583841
+14,dom 01/08/2021,20:30,Atlético-GO,América-MG,4-2-3-1,Eduardo Barroca,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583878
+15,dom 08/08/2021,18:15,Ceará,Atlético-GO,4-2-3-1,Eduardo Barroca,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583864
+16,dom 15/08/2021,18:15,Bahia,Atlético-GO,4-2-3-1,Eduardo Barroca,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583855
+17,sáb 21/08/2021,17:00,Atlético-GO,Chapecoense,4-4-2,Eduardo Barroca,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583888
+18,dom 29/08/2021,18:15,Atlético-GO,Internacional,4-4-2,Eduardo Barroca,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583898
+19,sex 05/11/2021,21:30,Flamengo,Atlético-GO,4-2-3-1,Eduardo Souza,17717,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583899
+20,dom 12/09/2021,18:15,Atlético-GO,Corinthians,4-4-2,Eduardo Barroca,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583938
+21,dom 19/09/2021,16:00,São Paulo,Atlético-GO,4-4-2,Eduardo Barroca,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583921
+22,dom 26/09/2021,20:30,Atlético-GO,Cuiabá,4-2-3-1,Eduardo Barroca,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583918
+23,sáb 02/10/2021,17:00,Fortaleza,Atlético-GO,4-2-3-1,Eduardo Souza,2785,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583944
+24,qua 06/10/2021,19:00,Atlético-GO,Athletico-PR,4-2-3-1,Eduardo Souza,1500,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583958
+25,sáb 09/10/2021,16:30,Fluminense,Atlético-GO,4-4-2,Eduardo Souza,2200,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583959
+26,ter 12/10/2021,19:00,Bragantino,Atlético-GO,4-2-3-1,Eduardo Souza,971,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583996
+27,dom 17/10/2021,18:15,Atlético-GO,Atlético-MG,4-2-3-1,Eduardo Souza,2963,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583988
+28,seg 25/10/2021,20:00,Atlético-GO,Grêmio,4-2-3-1,Eduardo Souza,3852,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583978
+29,dom 31/10/2021,20:30,Sport,Atlético-GO,4-2-3-1,Eduardo Souza,3685,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584005
+30,ter 23/11/2021,19:00,Atlético-GO,Juventude,4-2-3-1,Marcelo Cabo,9051,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584018
+31,qua 10/11/2021,20:30,Palmeiras,Atlético-GO,4-1-4-1,Eduardo Souza,19165,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584020
+32,sáb 13/11/2021,17:00,Atlético-GO,Santos,4-2-3-1,Marcelo Cabo,5015,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584058
+33,qua 17/11/2021,19:00,América-MG,Atlético-GO,4-2-3-1,Marcelo Cabo,2955,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584042
+34,sáb 20/11/2021,21:00,Atlético-GO,Ceará,4-2-3-1,Marcelo Cabo,2801,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584038
+35,seg 29/11/2021,19:00,Atlético-GO,Bahia,4-2-3-1,Marcelo Cabo,10004,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584068
+36,sex 03/12/2021,20:00,Chapecoense,Atlético-GO,4-2-3-1,Marcelo Cabo,1134,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584077
+37,seg 06/12/2021,20:00,Internacional,Atlético-GO,4-3-1-2,Marcelo Cabo,19265,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584083
+38,qui 09/12/2021,21:30,Atlético-GO,Flamengo,4-3-3 ofensivo,Marcelo Cabo,11728,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584098

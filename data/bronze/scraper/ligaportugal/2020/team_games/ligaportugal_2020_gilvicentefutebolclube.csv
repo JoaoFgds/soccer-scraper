@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qua 28/10/2020,18:45,Sporting,Gil Vicente,5-4-1 plano,Rui Almeida,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432016
+2,dom 27/09/2020,12:00,Gil Vicente,Portimonense,5-4-1 plano,Rui Almeida,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431961
+3,sáb 03/10/2020,12:00,Santa Clara,Gil Vicente,3-4-1-2,Rui Almeida,873,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431995
+4,sáb 17/10/2020,11:30,Gil Vicente,CD Tondela,3-4-3 plano,Rui Almeida,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431960
+5,sáb 24/10/2020,16:30,FC Porto,Gil Vicente,3-4-3 plano,Rui Almeida,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432051
+6,dom 01/11/2020,14:30,Gil Vicente,Vit. Guimarães,3-4-3 plano,Rui Almeida,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431967
+7,dom 08/11/2020,12:00,Nacional,Gil Vicente,3-4-3 plano,Rui Almeida,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431976
+8,dom 29/11/2020,12:00,Gil Vicente,Rio Ave,3-4-3 plano,Ricardo Soares,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431988
+9,sáb 05/12/2020,12:30,Moreirense,Gil Vicente,4-3-3 ofensivo,Ricardo Soares,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432094
+10,dom 20/12/2020,14:30,Gil Vicente,Benfica,4-3-3 ofensivo,Ricardo Soares,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431987
+11,dom 27/12/2020,12:00,Famalicão,Gil Vicente,4-3-3 ofensivo,Ricardo Soares,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432001
+12,seg 04/01/2021,16:00,Gil Vicente,B SAD,4-3-3 ofensivo,Ricardo Soares,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432013
+13,dom 10/01/2021,12:00,Farense,Gil Vicente,4-3-3 ofensivo,Ricardo Soares,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432212
+14,dom 17/01/2021,17:00,Gil Vicente,Marítimo,4-3-3 ofensivo,Ricardo Soares,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432011
+15,ter 26/01/2021,16:45,Braga,Gil Vicente,3-4-3 plano,Ricardo Soares,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432165
+16,ter 02/02/2021,17:15,Gil Vicente,Paços Ferreira,4-3-3 ofensivo,Ricardo Soares,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432039
+17,sex 05/02/2021,18:00,Boavista,Gil Vicente,4-3-3 ofensivo,Ricardo Soares,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432061
+18,ter 09/02/2021,18:00,Gil Vicente,Sporting,5-4-1 plano,Ricardo Soares,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432235
+19,dom 14/02/2021,12:00,Portimonense,Gil Vicente,4-3-3 ofensivo,Ricardo Soares,,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432022
+20,sáb 20/02/2021,14:30,Gil Vicente,Santa Clara,4-1-4-1,Ricardo Soares,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432148
+21,dom 28/02/2021,14:30,CD Tondela,Gil Vicente,4-3-3 ofensivo,Ricardo Soares,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432021
+22,sáb 06/03/2021,15:00,Gil Vicente,FC Porto,3-4-3 plano,Ricardo Soares,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432238
+23,dom 14/03/2021,14:30,Vit. Guimarães,Gil Vicente,4-3-3 ofensivo,Ricardo Soares,,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432020
+24,sex 19/03/2021,17:30,Gil Vicente,Nacional,4-3-3 ofensivo,Ricardo Soares,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432081
+25,sáb 03/04/2021,14:00,Rio Ave,Gil Vicente,4-3-3 ofensivo,Ricardo Soares,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432066
+26,dom 11/04/2021,11:00,Gil Vicente,Moreirense,4-3-3 ofensivo,Ricardo Soares,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432199
+27,sáb 17/04/2021,14:00,Benfica,Gil Vicente,4-3-3 ofensivo,Ricardo Soares,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432054
+28,qui 22/04/2021,13:00,Gil Vicente,Famalicão,4-3-3 ofensivo,Ricardo Soares,,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432068
+29,seg 26/04/2021,13:00,B SAD,Gil Vicente,4-3-3 ofensivo,Ricardo Soares,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432077
+30,sáb 01/05/2021,11:30,Gil Vicente,Farense,4-3-3 ofensivo,Ricardo Soares,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432251
+31,qua 05/05/2021,15:00,Marítimo,Gil Vicente,4-3-3 ofensivo,Ricardo Soares,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432073
+32,dom 09/05/2021,16:00,Gil Vicente,Braga,4-3-3 ofensivo,Ricardo Soares,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432205
+33,sex 14/05/2021,15:00,Paços Ferreira,Gil Vicente,4-3-3 ofensivo,Ricardo Soares,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432041
+34,qua 19/05/2021,16:00,Gil Vicente,Boavista,4-3-3 ofensivo,Ricardo Soares,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432184

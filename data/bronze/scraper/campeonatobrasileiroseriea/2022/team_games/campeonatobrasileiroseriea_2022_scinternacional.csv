@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 10/04/2022,16:00,Atlético-MG,Internacional,4-2-3-1,Alexander Medina,37531,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767772
+2,dom 17/04/2022,18:00,Internacional,Fortaleza,4-3-3 ofensivo,Cauan de Almeida,31783,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767787
+3,sáb 23/04/2022,19:00,Fluminense,Internacional,4-3-3 ofensivo,Cauan de Almeida,16176,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767793
+4,dom 01/05/2022,19:00,Internacional,Avaí,4-3-3 ofensivo,Mano Menezes,23823,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767827
+5,dom 08/05/2022,19:00,Juventude,Internacional,4-3-3 ofensivo,Mano Menezes,7341,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767817
+6,sáb 14/05/2022,19:00,Internacional,Corinthians,4-4-1-1,Mano Menezes,18482,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767807
+7,sáb 21/05/2022,21:00,Cuiabá,Internacional,4-4-1-1,Mano Menezes,7968,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767840
+8,seg 30/05/2022,20:00,Internacional,Atlético-GO,4-4-1-1,Mano Menezes,11050,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767847
+9,dom 05/06/2022,19:00,Bragantino,Internacional,4-4-1-1,Mano Menezes,3062,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767854
+10,qua 08/06/2022,21:30,Santos,Internacional,4-2-3-1,Mano Menezes,8845,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767886
+11,sáb 11/06/2022,21:00,Internacional,Flamengo,4-4-1-1,Mano Menezes,22392,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767877
+12,qua 15/06/2022,20:30,Goiás,Internacional,4-3-2-1,Mano Menezes,8892,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767869
+13,sáb 18/06/2022,19:00,Internacional,Botafogo,4-4-2 losango,Mano Menezes,26219,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767897
+14,sex 24/06/2022,21:30,Internacional,Coritiba,4-3-3 ofensivo,Mano Menezes,13454,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767907
+15,sáb 02/07/2022,19:00,Ceará,Internacional,4-2-3-1,Mano Menezes,23283,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767918
+16,seg 11/07/2022,20:00,Internacional,América-MG,4-2-3-1,Mano Menezes,19023,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768147
+17,sáb 16/07/2022,16:30,Athletico-PR,Internacional,4-2-3-1,Mano Menezes,21402,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768141
+18,qua 20/07/2022,20:30,Internacional,São Paulo,4-2-3-1,Mano Menezes,32804,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768127
+19,dom 24/07/2022,16:00,Palmeiras,Internacional,4-4-2 losango,Mano Menezes,38658,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768115
+20,dom 31/07/2022,16:00,Internacional,Atlético-MG,4-4-2,Mano Menezes,39451,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768107
+21,sáb 06/08/2022,19:00,Fortaleza,Internacional,4-2-3-1,Mano Menezes,39253,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768098
+22,dom 14/08/2022,19:00,Internacional,Fluminense,4-1-4-1,Mano Menezes,14824,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768087
+23,seg 22/08/2022,20:00,Avaí,Internacional,4-4-1-1,Mano Menezes,13911,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768080
+24,seg 29/08/2022,20:00,Internacional,Juventude,4-4-1-1,Mano Menezes,16518,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768067
+25,dom 04/09/2022,16:00,Corinthians,Internacional,4-4-2 losango,Mano Menezes,41423,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768055
+26,sáb 10/09/2022,16:30,Internacional,Cuiabá,4-3-3 ofensivo,Mano Menezes,30719,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768047
+27,seg 19/09/2022,20:00,Atlético-GO,Internacional,4-3-3 ofensivo,Mano Menezes,5185,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768039
+28,qua 28/09/2022,19:00,Internacional,Bragantino,4-2-3-1,Mano Menezes,17945,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768007
+29,sáb 01/10/2022,15:00,Internacional,Santos,4-3-3 ofensivo,Mano Menezes,30858,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768017
+30,qua 05/10/2022,21:30,Flamengo,Internacional,4-2-3-1,Mano Menezes,43710,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768023
+31,dom 09/10/2022,11:00,Internacional,Goiás,4-2-3-1,Mano Menezes,31554,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767997
+32,dom 16/10/2022,18:00,Botafogo,Internacional,4-2-3-1,Mano Menezes,24445,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767986
+33,dom 23/10/2022,18:00,Coritiba,Internacional,4-4-2 losango,Mano Menezes,18485,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767981
+34,qua 26/10/2022,21:45,Internacional,Ceará,4-2-3-1,Mano Menezes,10544,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767947
+35,qua 02/11/2022,16:00,América-MG,Internacional,4-4-1-1,Mano Menezes,3474,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767952
+36,sáb 05/11/2022,21:00,Internacional,Athletico-PR,4-4-1-1,Mano Menezes,11226,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767967
+37,ter 08/11/2022,21:30,São Paulo,Internacional,4-2-3-1,Mano Menezes,19692,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767934
+38,dom 13/11/2022,16:00,Internacional,Palmeiras,4-2-3-1,Mano Menezes,31632,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767927

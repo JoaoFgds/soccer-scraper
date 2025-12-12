@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 15/04/2023,18:30,Botafogo,São Paulo,4-2-3-1,Luís Castro,11708,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4055816
+2,seg 24/04/2023,20:00,Bahia,Botafogo,4-2-3-1,Luís Castro,27427,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4059112
+3,dom 30/04/2023,16:00,Flamengo,Botafogo,4-2-3-1,Luís Castro,53138,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060068
+4,dom 07/05/2023,18:30,Botafogo,Atlético-MG,4-2-3-1,Luís Castro,18218,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061494
+5,qui 11/05/2023,19:30,Botafogo,Corinthians,4-2-3-1,Luís Castro,22388,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061434
+6,dom 14/05/2023,18:30,Goiás,Botafogo,4-2-3-1,Luís Castro,9092,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061517
+7,sáb 20/05/2023,18:30,Botafogo,Fluminense,4-2-3-1,Luís Castro,24732,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061404
+8,dom 28/05/2023,19:00,Botafogo,América-MG,4-2-3-1,Luís Castro,23708,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061444
+9,sáb 03/06/2023,18:30,Athletico-PR,Botafogo,4-2-3-1,Luís Castro,18684,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061420
+10,sáb 10/06/2023,21:00,Botafogo,Fortaleza,4-2-3-1,Luís Castro,19291,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061524
+11,qui 22/06/2023,20:00,Cuiabá,Botafogo,4-3-3 ofensivo,Luís Castro,13981,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061472
+12,dom 25/06/2023,16:00,Palmeiras,Botafogo,4-2-3-1,Luís Castro,38877,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061505
+13,dom 02/07/2023,16:00,Botafogo,Vasco da Gama,4-2-3-1,Cláudio Caçapa,38798,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061550
+14,dom 09/07/2023,18:30,Grêmio,Botafogo,4-2-3-1,Cláudio Caçapa,47029,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061299
+15,sáb 15/07/2023,21:00,Botafogo,Bragantino,4-2-3-1,Cláudio Caçapa,37036,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061424
+16,dom 23/07/2023,16:00,Santos,Botafogo,4-2-3-1,Bruno Lage,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061539
+17,dom 30/07/2023,16:00,Botafogo,Coritiba,4-2-3-1,Bruno Lage,43071,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061535
+18,dom 06/08/2023,18:30,Cruzeiro,Botafogo,4-2-3-1,Bruno Lage,44759,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061278
+19,sáb 12/08/2023,21:00,Botafogo,Internacional,4-2-3-1,Bruno Lage,39598,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061394
+20,sáb 19/08/2023,16:00,São Paulo,Botafogo,4-2-3-1,Bruno Lage,51946,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061245
+21,dom 27/08/2023,16:00,Botafogo,Bahia,4-2-3-1,Bruno Lage,39610,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061384
+22,sáb 02/09/2023,21:00,Botafogo,Flamengo,4-2-3-1,Bruno Lage,40769,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061284
+23,sáb 16/09/2023,21:00,Atlético-MG,Botafogo,4-2-3-1,Bruno Lage,31729,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061218
+24,sex 22/09/2023,20:00,Corinthians,Botafogo,4-2-3-1,Bruno Lage,37543,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061256
+25,seg 02/10/2023,20:00,Botafogo,Goiás,4-2-3-1,Bruno Lage,34294,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061374
+26,dom 08/10/2023,16:00,Fluminense,Botafogo,4-2-3-1,Lúcio Flávio,45193,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061263
+27,qua 18/10/2023,20:00,América-MG,Botafogo,4-2-3-1,Lúcio Flávio,6230,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061352
+28,sáb 21/10/2023,21:00,Botafogo,Athletico-PR,4-2-3-1,Lúcio Flávio,36908,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061324
+29,qui 23/11/2023,19:00,Fortaleza,Botafogo,4-2-3-1,Tiago Nunes,25828,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061461
+30,dom 29/10/2023,21:00,Botafogo,Cuiabá,4-2-3-1,Lúcio Flávio,30659,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061314
+31,qua 01/11/2023,21:30,Botafogo,Palmeiras,4-2-3-1,Lúcio Flávio,34913,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061234
+32,seg 06/11/2023,19:00,Vasco da Gama,Botafogo,4-2-3-1,Lúcio Flávio,21043,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061224
+33,qui 09/11/2023,20:00,Botafogo,Grêmio,4-2-3-1,Lúcio Flávio,17708,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061334
+34,dom 12/11/2023,16:00,Bragantino,Botafogo,4-2-3-1,Lúcio Flávio,9869,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061307
+35,dom 26/11/2023,16:00,Botafogo,Santos,3-4-2-1,Tiago Nunes,29387,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061354
+36,qua 29/11/2023,21:30,Coritiba,Botafogo,3-4-3 plano,Tiago Nunes,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061370
+37,dom 03/12/2023,18:30,Botafogo,Cruzeiro,3-4-2-1,Tiago Nunes,15462,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061474
+38,qua 06/12/2023,21:30,Internacional,Botafogo,4-2-3-1,Tiago Nunes,27365,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061489

@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 13/09/2020,13:15,Fuenlabrada CF,Lugo,3-5-2,Juanfran,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3441552
+2,dom 20/09/2020,07:00,Lugo,Leganés,3-5-2 plano,Juanfran,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3441561
+3,dom 27/09/2020,07:00,Lugo,UD Almería,4-4-2,Juanfran,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3441569
+4,dom 04/10/2020,15:30,FC Cartagena,Lugo,4-3-3 ofensivo,Juanfran,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3441580
+5,dom 11/10/2020,07:00,Lugo,Mallorca,4-2-3-1,Juanfran,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3456984
+6,sáb 17/10/2020,11:00,Castellón,Lugo,4-2-3-1,Mehdi Nafti,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3456994
+7,qua 21/10/2020,14:00,Lugo,Girona,4-4-2 duplo 6,Mehdi Nafti,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457007
+8,sáb 24/10/2020,13:15,UD Logrones,Lugo,4-4-2,Mehdi Nafti,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457019
+9,qui 29/10/2020,15:00,Tenerife,Lugo,4-3-3 ofensivo,Mehdi Nafti,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457034
+10,dom 01/11/2020,16:30,Lugo,Rayo Vallecano,4-2-3-1,Mehdi Nafti,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457041
+11,sáb 07/11/2020,17:00,Espanyol,Lugo,4-3-3 ofensivo,Mehdi Nafti,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457050
+12,sáb 14/11/2020,14:30,Lugo,Albacete,4-2-3-1,Mehdi Nafti,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457064
+13,sex 20/11/2020,15:00,AD Alcorcón,Lugo,4-2-3-1,Mehdi Nafti,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457069
+14,ter 24/11/2020,17:30,Lugo,Real Oviedo,4-1-4-1,Mehdi Nafti,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457087
+15,sex 27/11/2020,17:00,Málaga CF,Lugo,4-2-3-1,Mehdi Nafti,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457094
+16,qua 02/12/2020,17:30,Lugo,Las Palmas,4-4-1-1,Mehdi Nafti,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457108
+17,sáb 05/12/2020,14:15,Mirandés,Lugo,4-2-3-1,Mehdi Nafti,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457117
+18,sex 11/12/2020,15:00,Lugo,Ponferradina,4-4-2 duplo 6,Mehdi Nafti,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457131
+19,sáb 19/12/2020,17:00,Zaragoza,Lugo,4-4-2 duplo 6,Mehdi Nafti,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457141
+20,seg 04/01/2021,17:00,Lugo,Real Sporting,4-1-4-1,Mehdi Nafti,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457153
+21,seg 11/01/2021,17:30,CE Sabadell,Lugo,4-1-4-1,Mehdi Nafti,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457164
+22,sáb 23/01/2021,14:15,Lugo,Tenerife,4-4-2 duplo 6,Mehdi Nafti,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457175
+23,seg 01/02/2021,15:00,Leganés,Lugo,4-4-2,Mehdi Nafti,,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457181
+24,seg 08/02/2021,17:00,Lugo,Espanyol,4-2-3-1,Mehdi Nafti,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457196
+25,seg 15/02/2021,17:00,Real Oviedo,Lugo,4-4-2,Mehdi Nafti,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457207
+26,dom 21/02/2021,16:30,Lugo,UD Logrones,4-4-2 duplo 6,Mehdi Nafti,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457217
+27,sáb 27/02/2021,14:15,UD Almería,Lugo,5-4-1 plano,Mehdi Nafti,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457222
+28,seg 08/03/2021,17:00,Lugo,Fuenlabrada CF,4-1-4-1,Luis César Sampedro,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457239
+29,sáb 13/03/2021,14:15,Girona,Lugo,4-3-3 ofensivo,Luis César Sampedro,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457247
+30,dom 21/03/2021,14:15,Lugo,Castellón,4-3-3 ofensivo,Luis César Sampedro,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457260
+31,dom 28/03/2021,09:00,Lugo,CE Sabadell,4-3-3 ofensivo,Luis César Sampedro,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457272
+32,qui 01/04/2021,16:00,Las Palmas,Lugo,4-3-3 ofensivo,Luis César Sampedro,x,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457280
+33,dom 04/04/2021,13:15,Lugo,Málaga CF,4-2-3-1,Luis César Sampedro,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457297
+34,dom 11/04/2021,13:15,Mallorca,Lugo,4-4-2,Luis César Sampedro,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457302
+35,sáb 17/04/2021,09:00,Lugo,AD Alcorcón,3-5-2 plano,Luis César Sampedro,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457319
+36,sáb 24/04/2021,15:30,Ponferradina,Lugo,4-4-2,Rubén Albés,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457326
+37,sex 30/04/2021,16:00,Lugo,Zaragoza,4-4-2 duplo 6,Rubén Albés,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457340
+38,seg 10/05/2021,16:00,Real Sporting,Lugo,4-4-2 duplo 6,Rubén Albés,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457352
+39,sáb 15/05/2021,13:30,Lugo,Mirandés,4-1-4-1,Rubén Albés,1021,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457361
+40,ter 18/05/2021,16:30,Albacete,Lugo,4-2-3-1,Rubén Albés,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457365
+41,seg 24/05/2021,16:00,Lugo,FC Cartagena,4-2-3-1,Rubén Albés,1174,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457383
+42,dom 30/05/2021,16:00,Rayo Vallecano,Lugo,5-4-1 plano,Rubén Albés,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457394

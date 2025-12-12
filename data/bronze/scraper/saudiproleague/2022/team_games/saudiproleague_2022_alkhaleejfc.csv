@@ -1,0 +1,31 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qui 25/08/2022,15:00,Al-Khaleej,Al-Hilal,5-4-1 plano,Pedro Emanuel,13218,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3900988
+2,sex 02/09/2022,15:00,Damac FC,Al-Khaleej,3-4-3 plano,Pedro Emanuel,746,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3900984
+3,qui 08/09/2022,12:30,Al-Khaleej,Al-Adalah,3-4-3 plano,Pedro Emanuel,1968,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901092
+4,qui 15/09/2022,15:00,Al-Ittihad,Al-Khaleej,5-3-2,Pedro Emanuel,25049,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901047
+5,sáb 01/10/2022,15:00,Al-Khaleej,Al-Batin,4-3-3 ofensivo,Pedro Emanuel,2367,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901037
+6,qui 06/10/2022,12:30,Al-Tai,Al-Khaleej,4-2-3-1,Pedro Emanuel,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901068
+7,ter 11/10/2022,14:30,Al-Khaleej,Al-Fateh,4-2-3-1,Pedro Emanuel,1953,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901001
+8,sáb 15/10/2022,14:45,Al-Shabab,Al-Khaleej,4-2-3-1,Pedro Emanuel,7354,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901005
+9,qui 15/12/2022,09:30,Al-Khaleej,Al-Fayha,4-3-3 ofensivo,Pedro Emanuel,1000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901029
+10,dom 25/12/2022,14:30,Al-Ettifaq,Al-Khaleej,4-3-3 ofensivo,Pedro Emanuel,3522,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901077
+11,sáb 31/12/2022,14:30,Al-Khaleej,Al-Nassr,4-3-3 ofensivo,Pedro Emanuel,13810,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901052
+12,sex 06/01/2023,12:00,Al-Taawoun,Al-Khaleej,4-3-3 ofensivo,Pedro Emanuel,2767,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901083
+13,sex 13/01/2023,12:00,Al-Khaleej,Al-Wehda,4-3-3 ofensivo,Pedro Emanuel,,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901011
+14,sex 20/01/2023,09:30,Al-Khaleej,Al-Raed,4-1-4-1,Pedro Emanuel,3979,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901062
+15,qui 02/02/2023,10:00,Abha,Al-Khaleej,4-1-4-1,Pedro Emanuel,569,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3901021
+16,sáb 01/04/2023,13:30,Al-Hilal,Al-Khaleej,4-2-3-1,Pedro Emanuel,7662,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4002727
+17,sáb 18/02/2023,12:00,Al-Khaleej,Damac FC,4-3-3 ofensivo,Pedro Emanuel,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4002735
+18,sex 24/02/2023,12:00,Al-Adalah,Al-Khaleej,4-3-3 ofensivo,Pedro Emanuel,9677,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4002740
+19,sex 03/03/2023,10:00,Al-Khaleej,Al-Ittihad,4-3-3 ofensivo,Pedro Emanuel,15355,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4002748
+20,qui 09/03/2023,10:00,Al-Batin,Al-Khaleej,4-3-3 ofensivo,Pedro Emanuel,3218,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4002752
+21,qui 16/03/2023,10:00,Al-Khaleej,Al-Tai,4-3-3 ofensivo,Pedro Emanuel,1788,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4002760
+22,qui 06/04/2023,16:00,Al-Fateh,Al-Khaleej,4-2-3-1,Pedro Emanuel,9362,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4002774
+23,ter 11/04/2023,16:00,Al-Khaleej,Al-Shabab,4-2-3-1,Pedro Emanuel,1771,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4002782
+24,sex 28/04/2023,15:30,Al-Fayha,Al-Khaleej,4-2-3-1,Pedro Emanuel,2665,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4057499
+25,ter 02/05/2023,15:30,Al-Khaleej,Al-Ettifaq,4-2-3-1,Pedro Emanuel,6988,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4057506
+26,seg 08/05/2023,13:00,Al-Nassr,Al-Khaleej,4-2-3-1,Pedro Emanuel,16742,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4066478
+27,seg 15/05/2023,13:00,Al-Khaleej,Al-Taawoun,4-2-3-1,Pedro Emanuel,3882,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4066485
+28,seg 22/05/2023,15:30,Al-Wehda,Al-Khaleej,4-2-3-1,Pedro Emanuel,3911,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4066489
+29,sáb 27/05/2023,15:00,Al-Raed,Al-Khaleej,4-2-3-1,Pedro Emanuel,4490,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4066500
+30,qua 31/05/2023,15:00,Al-Khaleej,Abha,4-2-3-1,Pedro Emanuel,8771,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4066507

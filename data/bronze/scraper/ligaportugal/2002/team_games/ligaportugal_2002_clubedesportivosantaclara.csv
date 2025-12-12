@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 24/08/2002,15:00,Santa Clara,Braga,4-2-3-1,Manuel Fernandes,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853613
+2,dom 01/09/2002,17:00,Sporting,Santa Clara,5-3-2,Manuel Fernandes,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853651
+3,dom 15/09/2002,12:00,Santa Clara,Belenenses,4-2-3-1,Manuel Fernandes,4000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853659
+4,ter 24/09/2002,17:45,Boavista,Santa Clara,4-5-1,Manuel Fernandes,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853670
+5,dom 29/09/2002,13:00,Santa Clara,Gil Vicente,4-4-2 losango,Manuel Fernandes,3000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853676
+6,dom 06/10/2002,12:00,Vit. Guimarães,Santa Clara,5-3-2,Manuel Fernandes,2500,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853685
+7,qua 04/12/2002,20:00,Santa Clara,Marítimo,4-5-1,Carlos Alberto Silva,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853700
+8,dom 27/10/2002,13:00,Beira-Mar,Santa Clara,4-3-1-2,Manuel Fernandes,3000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853706
+9,dom 03/11/2002,17:00,Santa Clara,Benfica,4-2-3-1,Manuel Fernandes,14000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853716
+10,dom 10/11/2002,14:00,Leiria,Santa Clara,4-2-3-1,Manuel Fernandes,1000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853748
+11,dom 17/11/2002,15:00,Santa Clara,Nacional,4-4-2 duplo 6,Manuel Fernandes,4000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853756
+12,sáb 30/11/2002,14:00,Vitória FC,Santa Clara,4-2-3-1,Carlos Alberto Silva,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853761
+13,dom 08/12/2002,17:00,Santa Clara,FC Porto,4-1-3-2,Carlos Alberto Silva,2000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853777
+14,sáb 14/12/2002,13:00,Académica,Santa Clara,4-4-2 losango,Carlos Alberto Silva,,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853780
+15,dom 22/12/2002,13:00,Moreirense,Santa Clara,4-2-3-1,Carlos Alberto Silva,2000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853790
+16,dom 05/01/2003,15:00,Santa Clara,Paços Ferreira,4-2-3-1,Carlos Alberto Silva,2500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853804
+17,dom 12/01/2003,13:00,Varzim,Santa Clara,4-2-3-1,Carlos Alberto Silva,3000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853811
+18,dom 19/01/2003,14:00,Braga,Santa Clara,4-2-3-1,Carlos Alberto Silva,2000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853826
+19,sáb 25/01/2003,19:15,Santa Clara,Sporting,4-2-3-1,Carlos Alberto Silva,7000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853834
+20,dom 02/02/2003,13:00,Belenenses,Santa Clara,4-2-3-1,Carlos Alberto Silva,2000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853841
+21,sex 07/02/2003,19:00,Santa Clara,Boavista,4-2-3-1,Carlos Alberto Silva,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853849
+22,dom 16/02/2003,13:00,Gil Vicente,Santa Clara,4-3-1-2,Carlos Alberto Silva,5000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853863
+23,dom 23/02/2003,14:00,Santa Clara,Vit. Guimarães,?,Carlos Alberto Silva,3000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853871
+24,sex 28/02/2003,18:00,Marítimo,Santa Clara,?,Carlos Alberto Silva,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853876
+25,dom 16/03/2003,14:00,Santa Clara,Beira-Mar,?,Carlos Alberto Silva,1500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853890
+26,sáb 22/03/2003,14:15,Benfica,Santa Clara,?,Carlos Alberto Silva,55000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853895
+27,dom 06/04/2003,13:00,Santa Clara,Leiria,?,Carlos Alberto Silva,3000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853908
+28,sáb 19/04/2003,15:30,Nacional,Santa Clara,?,Carlos Alberto Silva,1000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853917
+29,dom 27/04/2003,13:00,Santa Clara,Vitória FC,?,Carlos Alberto Silva,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853927
+30,dom 04/05/2003,15:15,FC Porto,Santa Clara,4-3-3 ofensivo,Carlos Alberto Silva,42318,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853946
+31,dom 11/05/2003,13:00,Santa Clara,Académica,?,Carlos Alberto Silva,3000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853965
+32,dom 18/05/2003,13:00,Santa Clara,Moreirense,?,Carlos Alberto Silva,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853974
+33,dom 25/05/2003,12:00,Paços Ferreira,Santa Clara,?,Carlos Alberto Silva,2000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853981
+34,dom 01/06/2003,12:00,Santa Clara,Varzim,?,Carlos Alberto Silva,3000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853993

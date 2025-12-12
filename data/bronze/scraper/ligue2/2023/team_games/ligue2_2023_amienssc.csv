@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 05/08/2023,14:00,Amiens SC,QRM,4-2-3-1,Omar Daf,5662,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095499
+2,sáb 12/08/2023,14:00,Auxerre,Amiens SC,4-2-3-1,Omar Daf,14682,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095512
+3,sáb 19/08/2023,14:00,Amiens SC,SC Bastia,4-2-3-1,Omar Daf,6558,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095519
+4,sáb 26/08/2023,10:00,Bordeaux,Amiens SC,4-2-3-1,Omar Daf,20605,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095530
+5,sáb 02/09/2023,14:00,Amiens SC,Guingamp,4-2-3-1,Omar Daf,6950,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095539
+6,sáb 16/09/2023,14:00,Paris FC,Amiens SC,4-2-3-1,Omar Daf,972,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095555
+7,sáb 23/09/2023,14:00,Amiens SC,Valenciennes,4-2-3-1,Omar Daf,7608,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095559
+8,ter 26/09/2023,15:45,Amiens SC,AC Ajaccio,4-1-4-1,Omar Daf,6183,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095569
+9,sáb 30/09/2023,14:00,Pau FC,Amiens SC,4-3-3 ofensivo,Omar Daf,2845,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095581
+10,sáb 07/10/2023,14:00,Amiens SC,Angers,4-1-4-1,Omar Daf,6799,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095589
+11,sáb 21/10/2023,14:00,FC Annecy,Amiens SC,4-1-4-1,Omar Daf,3313,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4148520
+12,sáb 28/10/2023,14:00,Amiens SC,Stade Lavallois,4-3-3 ofensivo,Omar Daf,7601,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095609
+13,sáb 04/11/2023,15:00,USL Dunkerque,Amiens SC,4-4-1-1,Omar Daf,2904,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095625
+14,sáb 11/11/2023,15:00,Amiens SC,Grenoble,4-2-3-1,Omar Daf,5910,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095629
+15,sáb 25/11/2023,15:00,Amiens SC,Concarneau,4-3-3 ofensivo,Omar Daf,5575,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095809
+16,sáb 02/12/2023,15:00,Amiens SC,Saint-Étienne,4-3-3 ofensivo,Omar Daf,8712,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095649
+17,ter 05/12/2023,16:45,Troyes,Amiens SC,4-3-3 ofensivo,Omar Daf,4163,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095665
+18,sáb 16/12/2023,15:00,Rodez AF,Amiens SC,5-3-2,Omar Daf,2809,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095678
+19,ter 19/12/2023,16:45,Amiens SC,SM Caen,5-3-2,Omar Daf,5927,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095679
+20,sáb 13/01/2024,15:00,Valenciennes,Amiens SC,4-4-2 duplo 6,Omar Daf,6052,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095693
+21,ter 23/01/2024,16:45,Amiens SC,FC Annecy,4-4-2 duplo 6,Omar Daf,5456,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4148530
+22,sáb 27/01/2024,11:00,Saint-Étienne,Amiens SC,4-3-3 ofensivo,Omar Daf,18612,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095712
+23,sáb 03/02/2024,15:00,Amiens SC,Paris FC,4-4-1-1,Omar Daf,6639,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095719
+24,sáb 10/02/2024,15:00,SM Caen,Amiens SC,4-4-2 duplo 6,Omar Daf,13454,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095734
+25,seg 19/02/2024,16:45,Amiens SC,Bordeaux,4-5-1 plano,Omar Daf,8564,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095739
+26,sáb 24/02/2024,15:00,AC Ajaccio,Amiens SC,4-4-2 duplo 6,Omar Daf,3798,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095749
+27,sáb 02/03/2024,15:00,Stade Lavallois,Amiens SC,4-4-2 duplo 6,Omar Daf,7796,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095764
+28,sáb 09/03/2024,15:00,Amiens SC,Rodez AF,4-3-3 ofensivo,Omar Daf,5890,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095769
+29,sáb 16/03/2024,15:00,Angers,Amiens SC,4-2-3-1,Omar Daf,9685,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095781
+30,sáb 30/03/2024,15:00,Amiens SC,Pau FC,4-4-2,Omar Daf,5915,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095789
+31,sáb 06/04/2024,14:00,Guingamp,Amiens SC,4-1-4-1,Omar Daf,9078,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095806
+32,sáb 13/04/2024,14:00,Concarneau,Amiens SC,4-4-2,Omar Daf,1260,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095646
+33,sáb 20/04/2024,14:00,Amiens SC,USL Dunkerque,4-2-3-1,Omar Daf,7821,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095819
+34,ter 23/04/2024,15:45,QRM,Amiens SC,3-4-3 plano,Omar Daf,4139,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095837
+35,sáb 27/04/2024,14:00,Amiens SC,Troyes,3-4-3 plano,Omar Daf,5967,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095839
+36,sex 03/05/2024,15:00,SC Bastia,Amiens SC,3-5-2 plano,Omar Daf,11210,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095851
+37,sex 10/05/2024,15:45,Amiens SC,Auxerre,5-3-2,Omar Daf,12377,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095859
+38,sex 17/05/2024,15:45,Grenoble,Amiens SC,4-3-3 ofensivo,Omar Daf,4952,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095876

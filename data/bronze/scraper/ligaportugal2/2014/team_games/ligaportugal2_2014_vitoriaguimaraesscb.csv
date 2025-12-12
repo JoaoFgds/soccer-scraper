@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 09/08/2014,13:00,Vitória SC B,Feirense,4-3-3 defensivo,Armando Evangelista,1803,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2479457
+2,dom 17/08/2014,13:00,UD Oliveirense,Vitória SC B,4-2-3-1,Armando Evangelista,637,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2479461
+3,dom 07/09/2014,13:00,Vitória SC B,Leixões,?,Armando Evangelista,3740,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2479479
+4,qua 27/08/2014,13:00,Atlético CP,Vitória SC B,?,Armando Evangelista,410,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2479484
+5,dom 31/08/2014,13:00,Vitória SC B,Oriental,?,Armando Evangelista,1621,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2479500
+6,sáb 13/09/2014,12:00,CF União,Vitória SC B,?,Armando Evangelista,1107,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2480210
+7,dom 12/10/2014,12:00,Vitória SC B,Covilhã,?,Armando Evangelista,2424,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2480226
+8,dom 21/09/2014,11:00,Santa Clara,Vitória SC B,?,Armando Evangelista,499,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2480235
+9,qua 01/10/2014,12:00,Vitória SC B,Beira-Mar,?,Armando Evangelista,1067,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2490900
+10,dom 05/10/2014,15:00,Farense,Vitória SC B,?,Armando Evangelista,1122,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2490910
+11,sáb 18/10/2014,12:00,Vitória SC B,Portimonense,?,Armando Evangelista,1516,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2490925
+12,dom 26/10/2014,13:00,Vitória SC B,Olhanense,4-3-3 defensivo,Armando Evangelista,1896,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2490933
+13,dom 02/11/2014,13:00,CD Aves,Vitória SC B,?,Armando Evangelista,232,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525032
+14,qua 05/11/2014,13:00,Vitória SC B,Chaves,?,Armando Evangelista,1373,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2490985
+15,dom 09/11/2014,13:00,CD Tondela,Vitória SC B,4-3-3 ofensivo,Armando Evangelista,484,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2490996
+16,dom 30/11/2014,13:00,Vitória SC B,Freamunde,?,Armando Evangelista,1968,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2491010
+17,sáb 15/11/2014,13:00,Trofense,Vitória SC B,?,Armando Evangelista,532,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498696
+18,sex 05/12/2014,13:00,Vitória SC B,Académico FC,?,Armando Evangelista,1328,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498704
+19,dom 14/12/2014,09:00,Marítimo B,Vitória SC B,?,Armando Evangelista,106,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2508381
+20,dom 21/12/2014,13:00,Vitória SC B,Sporting B,?,Armando Evangelista,1790,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2508390
+21,dom 04/01/2015,14:00,FC Porto B,Vitória SC B,?,Armando Evangelista,580,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2512231
+22,sex 09/01/2015,13:00,Braga B,Vitória SC B,4-3-3 ofensivo,Armando Evangelista,820,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2512236
+23,dom 18/01/2015,13:00,Vitória SC B,Benfica B,4-2-3-1,Armando Evangelista,3178,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2512248
+24,dom 25/01/2015,13:00,Feirense,Vitória SC B,?,Armando Evangelista,889,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2512264
+25,dom 01/02/2015,13:00,Vitória SC B,UD Oliveirense,4-3-3 ofensivo,Armando Evangelista,1127,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2525243
+26,sáb 07/02/2015,13:00,Leixões,Vitória SC B,4-3-3 ofensivo,Armando Evangelista,877,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2526279
+27,sáb 14/02/2015,13:00,Vitória SC B,Atlético CP,4-3-3 ofensivo,Armando Evangelista,1500,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2526287
+28,qua 18/02/2015,13:00,Oriental,Vitória SC B,4-2-3-1,Armando Evangelista,410,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2526302
+29,dom 22/02/2015,12:00,Vitória SC B,CF União,4-2-3-1,Armando Evangelista,1720,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2526320
+30,qua 25/02/2015,12:00,Covilhã,Vitória SC B,4-3-3 defensivo,Armando Evangelista,238,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2526325
+31,dom 01/03/2015,12:00,Vitória SC B,Santa Clara,4-2-3-1,Armando Evangelista,1435,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2526340
+32,sáb 07/03/2015,13:00,Beira-Mar,Vitória SC B,4-2-3-1,Armando Evangelista,512,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2526350
+33,qua 11/03/2015,12:00,Vitória SC B,Farense,4-3-3 ofensivo,Armando Evangelista,981,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2526359
+34,dom 15/03/2015,12:00,Portimonense,Vitória SC B,4-2-3-1,Armando Evangelista,524,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2526373
+35,qua 18/03/2015,12:00,Olhanense,Vitória SC B,4-4-2,Armando Evangelista,341,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2529681
+36,dom 22/03/2015,12:00,Vitória SC B,CD Aves,4-3-3 defensivo,Armando Evangelista,39,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2529877
+37,sáb 04/04/2015,12:00,Chaves,Vitória SC B,4-3-3 defensivo,Armando Evangelista,6130,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2529900
+38,sáb 11/04/2015,12:00,Vitória SC B,CD Tondela,4-2-3-1,Armando Evangelista,1183,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2534733
+39,dom 29/03/2015,12:00,Freamunde,Vitória SC B,4-2-3-1,Armando Evangelista,853,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2534755
+40,dom 19/04/2015,12:00,Vitória SC B,Trofense,4-2-3-1,Armando Evangelista,1419,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2534767
+41,dom 26/04/2015,11:00,Académico FC,Vitória SC B,4-3-3 ofensivo,Armando Evangelista,411,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2534776
+42,sáb 02/05/2015,12:00,Vitória SC B,Marítimo B,4-3-3 ofensivo,Armando Evangelista,951,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2534782
+43,qua 06/05/2015,12:00,Sporting B,Vitória SC B,4-2-3-1,Armando Evangelista,259,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2536672
+44,ter 12/05/2015,12:00,Vitória SC B,FC Porto B,4-2-3-1,Armando Evangelista,928,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2536684
+45,seg 18/05/2015,13:00,Vitória SC B,Braga B,4-2-3-1,Armando Evangelista,1555,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2536699
+46,dom 24/05/2015,13:00,Benfica B,Vitória SC B,4-3-3 defensivo,Armando Evangelista,579,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2536712

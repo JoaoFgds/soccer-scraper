@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/09/2020,11:00,Barnsley FC,Luton,3-4-1-2,Gerhard Struber,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427304
+2,sáb 19/09/2020,11:00,Reading,Barnsley FC,5-4-1 plano,Gerhard Struber,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427625
+3,sáb 26/09/2020,11:00,Barnsley FC,Coventry City,3-4-1-2,Gerhard Struber,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427302
+4,sáb 03/10/2020,11:00,Middlesbrough,Barnsley FC,3-4-1-2,Gerhard Struber,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427690
+5,sáb 17/10/2020,11:00,Barnsley FC,Bristol City,3-5-2,Adam Murray,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427316
+6,qua 21/10/2020,15:45,Stoke,Barnsley FC,5-3-2,Adam Murray,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427376
+7,sáb 24/10/2020,11:00,Millwall,Barnsley FC,5-3-2,Adam Murray,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427512
+8,ter 27/10/2020,16:00,Barnsley FC,QPR,5-4-1 plano,Valérien Ismaël,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427300
+9,sáb 31/10/2020,12:00,Barnsley FC,Watford,3-4-3 plano,Valérien Ismaël,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427321
+10,ter 03/11/2020,16:45,Cardiff,Barnsley FC,3-4-3 plano,Valérien Ismaël,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427393
+11,sáb 07/11/2020,12:00,Derby,Barnsley FC,3-4-3 plano,Valérien Ismaël,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427525
+12,sáb 21/11/2020,12:00,Barnsley FC,Nott'm Forest,3-4-1-2,Valérien Ismaël,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427358
+13,ter 24/11/2020,16:45,Barnsley FC,Brentford,3-4-3 plano,Valérien Ismaël,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427298
+14,sáb 28/11/2020,12:00,Blackburn,Barnsley FC,3-4-3 plano,Valérien Ismaël,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427306
+15,ter 01/12/2020,16:45,Birmingham,Barnsley FC,3-4-3 plano,Valérien Ismaël,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427407
+16,sex 04/12/2020,14:30,Barnsley FC,Bournemouth,3-4-3 plano,Valérien Ismaël,x,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427324
+17,qua 09/12/2020,16:45,Barnsley FC,Wycombe Wand.,3-4-3 plano,Valérien Ismaël,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427620
+18,sáb 12/12/2020,12:00,Sheff Wed,Barnsley FC,3-4-3 plano,Valérien Ismaël,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427813
+19,ter 15/12/2020,16:45,Barnsley FC,Preston NE,3-4-3 plano,Valérien Ismaël,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427374
+20,sáb 19/12/2020,12:00,Swansea,Barnsley FC,5-4-1 plano,Valérien Ismaël,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427455
+21,sáb 26/12/2020,12:00,Barnsley FC,Huddersfield,3-4-3 plano,Valérien Ismaël,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427362
+22,ter 29/12/2020,16:45,Rotherham,Barnsley FC,3-4-3 plano,Valérien Ismaël,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427650
+23,sáb 02/01/2021,12:00,Norwich,Barnsley FC,3-4-3 plano,Valérien Ismaël,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427607
+24,sáb 16/01/2021,16:45,Barnsley FC,Swansea,3-4-3 plano,Valérien Ismaël,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427398
+25,ter 19/01/2021,16:45,Watford,Barnsley FC,3-4-3 plano,Valérien Ismaël,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427603
+26,qua 27/01/2021,16:00,Barnsley FC,Cardiff,3-4-3 plano,Valérien Ismaël,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427419
+27,sáb 30/01/2021,12:00,Nott'm Forest,Barnsley FC,3-4-3 plano,Valérien Ismaël,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427689
+28,qua 10/03/2021,16:00,Barnsley FC,Derby,3-4-3 plano,Valérien Ismaël,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427410
+29,dom 14/02/2021,10:00,Brentford,Barnsley FC,3-4-3 plano,Valérien Ismaël,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427520
+30,qua 17/02/2021,16:45,Barnsley FC,Blackburn,3-4-3 plano,Valérien Ismaël,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427483
+31,sáb 20/02/2021,12:00,Bristol City,Barnsley FC,3-4-3 plano,Valérien Ismaël,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427382
+32,qua 24/02/2021,16:00,Barnsley FC,Stoke,3-4-3 plano,Valérien Ismaël,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427456
+33,sáb 27/02/2021,12:00,Barnsley FC,Millwall,3-4-3 plano,Valérien Ismaël,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427438
+34,qua 03/03/2021,16:00,QPR,Barnsley FC,3-4-3 plano,Valérien Ismaël,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427717
+35,sáb 06/03/2021,12:00,Barnsley FC,Birmingham,3-4-3 plano,Valérien Ismaël,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427422
+36,sáb 13/03/2021,12:00,Bournemouth,Barnsley FC,5-4-1 plano,Valérien Ismaël,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427421
+37,qua 17/03/2021,16:00,Wycombe Wand.,Barnsley FC,3-4-3 plano,Valérien Ismaël,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427501
+38,sáb 20/03/2021,12:00,Barnsley FC,Sheff Wed,3-4-3 plano,Valérien Ismaël,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427381
+39,sex 02/04/2021,13:30,Barnsley FC,Reading,3-4-3 plano,Valérien Ismaël,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427461
+40,seg 05/04/2021,11:00,Luton,Barnsley FC,3-4-3 plano,Valérien Ismaël,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427538
+41,sáb 10/04/2021,11:00,Barnsley FC,Middlesbrough,3-4-3 plano,Valérien Ismaël,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427486
+42,dom 18/04/2021,11:00,Coventry City,Barnsley FC,3-4-3 plano,Valérien Ismaël,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427510
+43,qua 21/04/2021,15:45,Huddersfield,Barnsley FC,3-4-3 plano,Valérien Ismaël,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427423
+44,sáb 24/04/2021,11:00,Barnsley FC,Rotherham,3-4-3 plano,Valérien Ismaël,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427447
+45,sáb 01/05/2021,11:00,Preston NE,Barnsley FC,3-4-3 plano,Valérien Ismaël,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427641
+46,sáb 08/05/2021,08:30,Barnsley FC,Norwich,3-4-3 plano,Valérien Ismaël,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427440

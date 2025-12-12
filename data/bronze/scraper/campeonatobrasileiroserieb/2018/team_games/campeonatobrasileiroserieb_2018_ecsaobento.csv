@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 14/04/2018,16:30,Brasil Pelotas,São Bento,4-1-4-1,Paulo Roberto Santos,3001,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036439
+2,sex 20/04/2018,20:30,São Bento,CSA,4-3-1-2,Paulo Roberto Santos,2391,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036448
+3,sáb 28/04/2018,21:00,São Bento,Goiás,4-2-3-1,Paulo Roberto Santos,3316,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036464
+4,sáb 05/05/2018,16:30,Avaí,São Bento,4-2-3-1,Paulo Roberto Santos,4029,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036472
+5,sáb 12/05/2018,16:30,São Bento,Oeste,4-2-3-1,Paulo Roberto Santos,3294,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036479
+6,sáb 19/05/2018,16:30,Paysandu,São Bento,4-3-1-2,Paulo Roberto Santos,5331,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036493
+7,sáb 26/05/2018,17:25,São Bento,Juventude,4-3-1-2,Paulo Roberto Santos,1163,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036500
+8,ter 29/05/2018,19:15,São Bento,Figueirense,4-2-3-1,Paulo Roberto Santos,1866,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036506
+9,ter 05/06/2018,20:30,Boa Esporte,São Bento,4-2-3-1,Paulo Roberto Santos,474,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036519
+10,sáb 09/06/2018,16:30,São Bento,Fortaleza,4-2-3-1,Paulo Roberto Santos,4421,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036526
+11,qui 14/06/2018,21:00,Guarani,São Bento,4-3-1-2,Paulo Roberto Santos,2237,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036539
+12,sáb 23/06/2018,19:00,São Bento,Londrina,4-3-1-2,Paulo Roberto Santos,2530,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036550
+13,sáb 30/06/2018,18:00,Criciúma,São Bento,4-2-3-1,Diego Mura,2084,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036559
+14,qua 04/07/2018,20:30,CRB,São Bento,4-2-3-1,Edison Borges,4036,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036572
+15,sáb 14/07/2018,18:00,São Bento,Ponte Preta,4-1-4-1,Marquinhos Santos,2598,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036576
+16,sáb 21/07/2018,16:30,Coritiba,São Bento,4-2-3-1,Marquinhos Santos,7172,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036593
+17,ter 24/07/2018,21:30,São Bento,Sampaio Corrêa,4-3-2-1,Marquinhos Santos,1767,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036596
+18,sáb 28/07/2018,16:30,São Bento,Atlético-GO,4-2-3-1,Marquinhos Santos,2538,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036606
+19,sáb 04/08/2018,16:30,Vila Nova,São Bento,4-2-3-1,Marquinhos Santos,4002,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036620
+20,sex 10/08/2018,19:00,São Bento,Brasil Pelotas,4-2-3-1,Marquinhos Santos,2289,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036626
+21,sáb 18/08/2018,21:00,CSA,São Bento,4-2-3-1,Marquinhos Santos,7786,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036642
+22,ter 21/08/2018,20:30,Goiás,São Bento,4-2-3-1,Marquinhos Santos,8510,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036650
+23,sáb 25/08/2018,16:30,São Bento,Avaí,4-2-3-1,Marquinhos Santos,1745,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036656
+24,ter 28/08/2018,20:30,Oeste,São Bento,4-3-1-2,Marquinhos Santos,770,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036666
+25,ter 04/09/2018,20:30,São Bento,Paysandu,4-2-3-1,Marquinhos Santos,1348,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036676
+26,sáb 08/09/2018,16:30,Juventude,São Bento,4-2-3-1,Marquinhos Santos,2701,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036687
+27,sex 14/09/2018,20:30,Figueirense,São Bento,4-2-3-1,Marquinhos Santos,1535,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036698
+28,sex 21/09/2018,20:30,São Bento,Boa Esporte,4-2-3-1,Marquinhos Santos,2312,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036706
+29,ter 25/09/2018,19:15,Fortaleza,São Bento,4-2-3-1,Marquinhos Santos,27579,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036719
+30,sex 05/10/2018,19:00,São Bento,Guarani,4-2-3-1,Marquinhos Santos,3690,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036726
+31,sáb 13/10/2018,21:00,Londrina,São Bento,4-2-3-1,Marquinhos Santos,1295,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036743
+32,sex 19/10/2018,20:30,São Bento,Criciúma,4-2-3-1,Marquinhos Santos,1845,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036746
+33,sáb 27/10/2018,16:30,São Bento,CRB,4-1-4-1,Marquinhos Santos,1911,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036756
+34,sex 02/11/2018,17:00,Ponte Preta,São Bento,4-2-3-1,Marquinhos Santos,6501,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036765
+35,ter 06/11/2018,20:30,São Bento,Coritiba,4-3-3 defensivo,Marquinhos Santos,2169,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036776
+36,sáb 10/11/2018,19:30,Sampaio Corrêa,São Bento,4-2-3-1,Marquinhos Santos,522,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036794
+37,sex 16/11/2018,20:30,Atlético-GO,São Bento,4-3-1-2,Marquinhos Santos,1265,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036801
+38,sáb 24/11/2018,17:00,São Bento,Vila Nova,4-3-1-2,Marquinhos Santos,1617,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036806

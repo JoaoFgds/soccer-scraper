@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 19/08/2023,10:30,Hoffenheim,Freiburg,3-5-2 plano,Pellegrino Matarazzo,25890,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095973
+2,sáb 26/08/2023,10:30,Heidenheim,Hoffenheim,3-4-3 plano,Pellegrino Matarazzo,15000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095983
+3,sáb 02/09/2023,10:30,Hoffenheim,Wolfsburg,3-5-2,Pellegrino Matarazzo,17500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095990
+4,sáb 16/09/2023,10:30,Colônia,Hoffenheim,3-5-2,Pellegrino Matarazzo,49300,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095999
+5,sáb 23/09/2023,10:30,Union Berlim,Hoffenheim,3-1-4-2,Pellegrino Matarazzo,20000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096005
+6,sex 29/09/2023,15:30,Hoffenheim,Dortmund,3-5-2 plano,Pellegrino Matarazzo,30150,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096017
+7,sáb 07/10/2023,13:30,Werder Bremen,Hoffenheim,3-5-2,Pellegrino Matarazzo,41000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096027
+8,sáb 21/10/2023,10:30,Hoffenheim,Frankfurt,3-5-2 plano,Pellegrino Matarazzo,30150,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096036
+9,sáb 28/10/2023,10:30,Stuttgart,Hoffenheim,3-1-4-2,Pellegrino Matarazzo,53200,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096047
+10,sáb 04/11/2023,11:30,Hoffenheim,Leverkusen,3-5-2 plano,Pellegrino Matarazzo,30150,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096054
+11,sáb 11/11/2023,11:30,Augsburg,Hoffenheim,3-1-4-2,Pellegrino Matarazzo,28260,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096063
+12,dom 26/11/2023,13:30,Hoffenheim,Mainz,3-1-4-2,Pellegrino Matarazzo,22000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096072
+13,sáb 02/12/2023,11:30,M'gladbach,Hoffenheim,3-1-4-2,Pellegrino Matarazzo,49341,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096079
+14,sex 08/12/2023,16:30,Hoffenheim,Bochum,4-3-2-1,Pellegrino Matarazzo,16023,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096089
+15,sáb 16/12/2023,14:30,Leipzig,Hoffenheim,3-4-1-2,Pellegrino Matarazzo,42946,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096094
+16,ter 19/12/2023,16:30,Hoffenheim,Darmstadt 98,3-1-4-2,Pellegrino Matarazzo,18125,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096107
+17,sex 12/01/2024,16:30,Bayern,Hoffenheim,3-1-4-2,Pellegrino Matarazzo,75000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096111
+18,sáb 20/01/2024,11:30,Freiburg,Hoffenheim,3-1-4-2,Pellegrino Matarazzo,33600,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096126
+19,sáb 27/01/2024,11:30,Hoffenheim,Heidenheim,4-3-1-2,Pellegrino Matarazzo,20120,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096136
+20,dom 04/02/2024,11:30,Wolfsburg,Hoffenheim,4-3-1-2,Pellegrino Matarazzo,22917,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096143
+21,dom 11/02/2024,13:30,Hoffenheim,Colônia,3-4-3 plano,Pellegrino Matarazzo,23020,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096152
+22,sáb 17/02/2024,11:30,Hoffenheim,Union Berlim,4-4-2 losango,Pellegrino Matarazzo,19050,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096158
+23,dom 25/02/2024,13:30,Dortmund,Hoffenheim,3-4-1-2,Pellegrino Matarazzo,81365,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096170
+24,dom 03/03/2024,13:30,Hoffenheim,Werder Bremen,3-4-3 plano,Pellegrino Matarazzo,25000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096180
+25,dom 10/03/2024,13:30,Frankfurt,Hoffenheim,3-4-1-2,Pellegrino Matarazzo,57000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096189
+26,sáb 16/03/2024,14:30,Hoffenheim,Stuttgart,3-4-2-1,Pellegrino Matarazzo,30150,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096200
+27,sáb 30/03/2024,11:30,Leverkusen,Hoffenheim,3-4-1-2,Pellegrino Matarazzo,30047,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096207
+28,dom 07/04/2024,10:30,Hoffenheim,Augsburg,3-4-1-2,Pellegrino Matarazzo,28881,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096216
+29,sáb 13/04/2024,10:30,Mainz,Hoffenheim,3-5-2 plano,Pellegrino Matarazzo,32000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096225
+30,sáb 20/04/2024,10:30,Hoffenheim,M'gladbach,3-4-1-2,Pellegrino Matarazzo,26078,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096232
+31,sex 26/04/2024,15:30,Bochum,Hoffenheim,3-5-2,Pellegrino Matarazzo,24300,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096242
+32,sex 03/05/2024,15:30,Hoffenheim,Leipzig,3-5-2 plano,Pellegrino Matarazzo,25066,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096247
+33,dom 12/05/2024,10:30,Darmstadt 98,Hoffenheim,3-4-1-2,Pellegrino Matarazzo,17810,0:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096260
+34,sáb 18/05/2024,10:30,Hoffenheim,Bayern,3-4-2-1,Pellegrino Matarazzo,30150,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096264

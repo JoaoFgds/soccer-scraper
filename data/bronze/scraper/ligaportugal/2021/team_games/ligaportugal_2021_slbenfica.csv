@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 07/08/2021,14:00,Moreirense,Benfica,3-4-3 plano,Jorge Jesus,1498,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621351
+2,sáb 14/08/2021,14:00,Benfica,Arouca,4-1-3-2,Jorge Jesus,13973,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621356
+3,sáb 21/08/2021,14:00,Gil Vicente,Benfica,3-1-4-2,Jorge Jesus,3751,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621369
+4,dom 29/08/2021,14:00,Benfica,CD Tondela,4-1-3-2,Jorge Jesus,19425,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621375
+5,sáb 11/09/2021,14:00,Santa Clara,Benfica,3-4-3 plano,Jorge Jesus,3326,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621385
+6,seg 20/09/2021,15:00,Benfica,Boavista,3-5-2,Jorge Jesus,23000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621402
+7,sáb 25/09/2021,14:00,Vit. Guimarães,Benfica,3-5-2,Jorge Jesus,14222,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621395
+8,dom 03/10/2021,14:00,Benfica,Portimonense,3-5-2,Jorge Jesus,38845,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621420
+9,dom 24/10/2021,14:00,Vizela,Benfica,3-5-2,Jorge Jesus,4883,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621436
+10,sáb 30/10/2021,15:00,Estoril,Benfica,3-4-3 plano,Jorge Jesus,4128,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621417
+11,dom 07/11/2021,18:15,Benfica,Braga,3-4-3 plano,Jorge Jesus,40577,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621473
+12,sáb 27/11/2021,17:30,B SAD,Benfica,3-4-3 plano,Jorge Jesus,6096,0:7,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621442
+13,sex 03/12/2021,18:15,Benfica,Sporting,3-4-3 plano,Jorge Jesus,48790,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621482
+14,dom 12/12/2021,15:00,Famalicão,Benfica,3-4-3 plano,Jorge Jesus,3994,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621460
+15,dom 19/12/2021,14:00,Benfica,Marítimo,3-4-3 plano,Jorge Jesus,27814,7:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621491
+16,qui 30/12/2021,18:00,FC Porto,Benfica,4-4-2 duplo 6,Nélson Veríssimo,46250,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621465
+17,dom 09/01/2022,15:00,Benfica,Paços Ferreira,4-4-2 duplo 6,Nélson Veríssimo,26268,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621446
+18,sáb 15/01/2022,15:00,Benfica,Moreirense,4-1-3-2,Nélson Veríssimo,29188,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621504
+19,sex 21/01/2022,16:00,Arouca,Benfica,4-3-3 ofensivo,Nélson Veríssimo,2387,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621563
+20,qua 02/02/2022,16:00,Benfica,Gil Vicente,4-3-3 ofensivo,Nélson Veríssimo,21979,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621513
+21,seg 07/02/2022,16:00,CD Tondela,Benfica,4-4-2 duplo 6,Nélson Veríssimo,3973,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621528
+22,sáb 12/02/2022,15:00,Benfica,Santa Clara,4-4-2 duplo 6,Nélson Veríssimo,30905,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621520
+23,sex 18/02/2022,17:15,Boavista,Benfica,4-4-2 duplo 6,Nélson Veríssimo,7903,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621546
+24,dom 27/02/2022,15:00,Benfica,Vit. Guimarães,4-4-2 duplo 6,Nélson Veríssimo,39846,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621595
+25,sáb 05/03/2022,15:00,Portimonense,Benfica,4-4-2 duplo 6,Nélson Veríssimo,3880,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621573
+26,sex 11/03/2022,17:15,Benfica,Vizela,4-4-2 duplo 6,Nélson Veríssimo,31546,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621631
+27,dom 20/03/2022,15:00,Benfica,Estoril,4-4-2 duplo 6,Nélson Veríssimo,36768,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621543
+28,sex 01/04/2022,16:15,Braga,Benfica,4-4-2 duplo 6,Nélson Veríssimo,16073,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621560
+29,sáb 09/04/2022,14:00,Benfica,B SAD,4-2-3-1,Nélson Veríssimo,34183,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621611
+30,dom 17/04/2022,16:30,Sporting,Benfica,4-4-2 duplo 6,Nélson Veríssimo,40714,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621567
+31,sáb 23/04/2022,14:00,Benfica,Famalicão,4-4-2 duplo 6,Nélson Veríssimo,37894,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621624
+32,sáb 30/04/2022,13:00,Marítimo,Benfica,4-3-3 ofensivo,Nélson Veríssimo,9102,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621565
+33,sáb 07/05/2022,14:00,Benfica,FC Porto,4-4-2 duplo 6,Nélson Veríssimo,42256,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621564
+34,sex 13/05/2022,16:15,Paços Ferreira,Benfica,4-3-3 ofensivo,Nélson Veríssimo,5635,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621554

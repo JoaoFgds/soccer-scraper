@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 22/02/2019,07:30,Cerezo Osaka,Vissel Kobe,4-3-1-2,Juanma Lillo,42221,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3145732
+2,sáb 02/03/2019,03:00,Vissel Kobe,Sagan Tosu,4-3-3 defensivo,Juanma Lillo,25172,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3153229
+3,dom 10/03/2019,02:00,Vegalta Sendai,Vissel Kobe,4-4-2 duplo 6,Juanma Lillo,19503,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3149444
+4,dom 17/03/2019,02:00,Vissel Kobe,Shimizu S-Pulse,4-2-3-1,Juanma Lillo,22542,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3149450
+5,sáb 30/03/2019,05:00,Gamba Osaka,Vissel Kobe,4-3-3 defensivo,Juanma Lillo,37076,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3149461
+6,sáb 06/04/2019,07:00,Matsumoto Yama.,Vissel Kobe,4-2-3-1,Juanma Lillo,18831,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3149473
+7,dom 14/04/2019,04:00,Vissel Kobe,Sanf. Hiroshima,4-2-3-1,Juanma Lillo,17708,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3149480
+8,sáb 20/04/2019,01:00,Urawa Reds,Vissel Kobe,4-2-3-1,Takayuki Yoshida,54599,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3149486
+9,dom 28/04/2019,02:00,Vissel Kobe,Kawasaki Front.,4-3-3 defensivo,Takayuki Yoshida,25929,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3149496
+10,sáb 04/05/2019,02:00,H. C. Sapporo,Vissel Kobe,4-4-2 duplo 6,Takayuki Yoshida,34591,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3149505
+11,dom 12/05/2019,02:00,Vissel Kobe,Kashima Antlers,4-2-3-1,Takayuki Yoshida,20119,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3149516
+12,sáb 18/05/2019,02:00,Yokohama F. M.,Vissel Kobe,4-4-2 duplo 6,Takayuki Yoshida,44210,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3149523
+13,dom 26/05/2019,03:00,Vissel Kobe,Shonan Bellmare,3-4-1-2,Takayuki Yoshida,18091,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3149535
+14,sáb 01/06/2019,03:00,Júbilo Iwata,Vissel Kobe,3-4-2-1,Takayuki Yoshida,26753,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3149541
+15,sáb 15/06/2019,07:00,FC Tokyo,Vissel Kobe,4-4-2 duplo 6,Thorsten Fink,38506,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3149549
+16,sáb 22/06/2019,06:00,Vissel Kobe,Oita Trinita,4-4-2 duplo 6,Thorsten Fink,20192,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3149557
+17,dom 30/06/2019,06:00,Vissel Kobe,Nagoya Grampus,4-4-2 duplo 6,Thorsten Fink,22123,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3149568
+18,sáb 06/07/2019,06:00,Shimizu S-Pulse,Vissel Kobe,4-1-3-2,Thorsten Fink,15420,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3149573
+19,dom 14/07/2019,07:00,Shonan Bellmare,Vissel Kobe,4-4-2 duplo 6,Thorsten Fink,14246,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3149599
+20,sáb 20/07/2019,06:00,Vissel Kobe,Yokohama F. M.,4-3-3 ofensivo,Thorsten Fink,20269,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3149585
+21,sex 02/08/2019,07:00,Vissel Kobe,Gamba Osaka,4-3-3 ofensivo,Thorsten Fink,21276,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3149600
+22,sáb 10/08/2019,07:00,Oita Trinita,Vissel Kobe,3-5-2 plano,Thorsten Fink,26085,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3149615
+23,sáb 17/08/2019,07:00,Vissel Kobe,Urawa Reds,3-5-2 plano,Thorsten Fink,22513,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3149623
+24,sex 23/08/2019,07:30,Sagan Tosu,Vissel Kobe,3-5-2 plano,Thorsten Fink,23055,1:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3149627
+25,sáb 31/08/2019,07:00,Vissel Kobe,H. C. Sapporo,3-5-2 plano,Thorsten Fink,20825,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3149639
+26,sáb 14/09/2019,07:00,Vissel Kobe,Matsumoto Yama.,3-5-2,Thorsten Fink,20215,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3149649
+27,sáb 28/09/2019,05:00,Kawasaki Front.,Vissel Kobe,3-5-2 plano,Thorsten Fink,22923,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3149656
+28,sáb 05/10/2019,04:00,Sanf. Hiroshima,Vissel Kobe,3-5-2 plano,Thorsten Fink,29666,6:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3149670
+29,sáb 19/10/2019,01:00,Vissel Kobe,FC Tokyo,3-5-2,Thorsten Fink,20413,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3149678
+30,sáb 02/11/2019,01:00,Vissel Kobe,Vegalta Sendai,3-1-4-2,Thorsten Fink,18975,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3149687
+31,sáb 09/11/2019,02:00,Nagoya Grampus,Vissel Kobe,3-4-2-1,Thorsten Fink,37194,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3149693
+32,sáb 23/11/2019,01:00,Vissel Kobe,Cerezo Osaka,4-3-3 ofensivo,Thorsten Fink,23744,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3149705
+33,sáb 30/11/2019,02:00,Kashima Antlers,Vissel Kobe,3-4-2-1,Thorsten Fink,34312,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3149709
+34,sáb 07/12/2019,02:00,Vissel Kobe,Júbilo Iwata,3-4-2-1,Thorsten Fink,25243,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3149723

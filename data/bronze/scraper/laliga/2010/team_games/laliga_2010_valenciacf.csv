@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 28/08/2010,15:00,Málaga CF,Valencia,4-2-3-1,Unai Emery,28963,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036049
+2,sáb 11/09/2010,13:00,Valencia,Rac. Santander,4-2-3-1,Unai Emery,45000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036080
+3,dom 19/09/2010,12:00,Hércules CF,Valencia,4-2-3-1,Unai Emery,24000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036084
+4,qua 22/09/2010,17:00,Valencia,Atlético,4-2-3-1,Unai Emery,50000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036096
+5,sáb 25/09/2010,13:00,Real Sporting,Valencia,4-4-2 duplo 6,Unai Emery,21000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036111
+6,sáb 02/10/2010,17:00,Valencia,Athletic Club,4-4-2 duplo 6,Unai Emery,45000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036113
+7,sáb 16/10/2010,15:00,Barcelona,Valencia,4-2-3-1,Unai Emery,87995,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036132
+8,sáb 23/10/2010,18:00,Valencia,Mallorca,4-2-3-1,Unai Emery,40000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036142
+9,sáb 30/10/2010,14:00,Valencia,Zaragoza,4-2-3-1,Unai Emery,40000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036152
+10,seg 08/11/2010,18:30,Sevilla,Valencia,4-4-2 duplo 6,Unai Emery,30000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036163
+11,dom 14/11/2010,18:00,Valencia,Getafe,4-4-2 duplo 6,Unai Emery,40000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036172
+12,sáb 20/11/2010,15:00,Villarreal,Valencia,5-4-1 plano,Unai Emery,23000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036184
+13,dom 28/11/2010,18:00,Valencia,UD Almería,4-4-2 duplo 6,Unai Emery,35000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036194
+14,sáb 04/12/2010,19:00,Real Madrid,Valencia,4-2-3-1,Unai Emery,70000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036205
+15,seg 13/12/2010,18:00,Valencia,Osasuna,4-4-2 duplo 6,Unai Emery,40000,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036213
+16,sáb 18/12/2010,19:00,Real Sociedad,Valencia,4-4-2 duplo 6,Unai Emery,21885,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036226
+17,dom 02/01/2011,19:00,Valencia,Espanyol,4-2-3-1,Unai Emery,30000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036236
+18,dom 09/01/2011,18:00,Levante,Valencia,4-4-2 duplo 6,Unai Emery,15000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036247
+19,dom 16/01/2011,14:00,Valencia,Deportivo,4-2-3-1,Unai Emery,40000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036252
+20,sáb 22/01/2011,19:00,Valencia,Málaga CF,4-2-3-1,Unai Emery,35000,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036270
+21,seg 31/01/2011,18:00,Rac. Santander,Valencia,4-3-3 ofensivo,Unai Emery,16308,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036280
+22,dom 06/02/2011,18:00,Valencia,Hércules CF,4-4-2 losango,Unai Emery,40000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036284
+23,sáb 12/02/2011,15:00,Atlético,Valencia,5-4-1 plano,Unai Emery,40000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036296
+24,sáb 19/02/2011,15:00,Valencia,Real Sporting,4-2-3-1,Unai Emery,40000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036311
+25,dom 27/02/2011,17:00,Athletic Club,Valencia,4-2-3-1,Unai Emery,35000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036313
+26,qua 02/03/2011,18:00,Valencia,Barcelona,4-2-3-1,Unai Emery,50800,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036322
+27,sáb 05/03/2011,14:00,Mallorca,Valencia,4-2-3-1,Unai Emery,14000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036332
+28,sáb 12/03/2011,18:00,Zaragoza,Valencia,4-2-3-1,Unai Emery,30000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036342
+29,dom 20/03/2011,17:00,Valencia,Sevilla,4-2-3-1,Unai Emery,40000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036353
+30,sáb 02/04/2011,15:00,Getafe,Valencia,4-2-3-1,Unai Emery,11000,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036362
+31,dom 10/04/2011,16:00,Valencia,Villarreal,4-2-3-1,Unai Emery,45000,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036374
+32,sáb 16/04/2011,15:00,UD Almería,Valencia,4-3-3 ofensivo,Unai Emery,10562,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036384
+33,sáb 23/04/2011,13:00,Valencia,Real Madrid,4-3-3 ofensivo,Unai Emery,50000,3:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036395
+34,dom 01/05/2011,16:00,Osasuna,Valencia,4-2-3-1,Unai Emery,18575,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036403
+35,sáb 07/05/2011,13:00,Valencia,Real Sociedad,4-2-3-1,Unai Emery,30000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036416
+36,qua 11/05/2011,16:00,Espanyol,Valencia,4-2-3-1,Unai Emery,23652,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036426
+37,dom 15/05/2011,16:00,Valencia,Levante,4-2-3-1,Unai Emery,45000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036437
+38,sáb 21/05/2011,17:00,Deportivo,Valencia,4-2-3-1,Unai Emery,34711,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036449

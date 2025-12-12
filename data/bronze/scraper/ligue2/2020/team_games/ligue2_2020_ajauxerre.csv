@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 22/08/2020,14:00,Auxerre,FC Sochaux,4-2-3-1,Jean-Marc Furlan,4594,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3393971
+2,sáb 29/08/2020,14:00,LB Châteauroux,Auxerre,4-3-3 ofensivo,Jean-Marc Furlan,2634,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3393980
+3,sáb 12/09/2020,14:00,Auxerre,Clermont Foot,4-3-3 ofensivo,Jean-Marc Furlan,6047,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3393991
+4,seg 21/09/2020,15:45,Auxerre,Troyes,4-2-3-1,Jean-Marc Furlan,5169,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3393999
+5,sáb 26/09/2020,10:00,Toulouse,Auxerre,4-4-2 duplo 6,Jean-Marc Furlan,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394016
+6,sáb 03/10/2020,14:00,Auxerre,AC Ajaccio,4-1-4-1,Jean-Marc Furlan,5000,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394019
+7,seg 19/10/2020,15:45,Guingamp,Auxerre,4-2-3-1,Jean-Marc Furlan,5000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394032
+8,sáb 24/10/2020,14:00,Auxerre,FC Chambly Oise,4-1-4-1,Jean-Marc Furlan,4418,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394039
+9,sáb 31/10/2020,15:00,Rodez AF,Auxerre,4-1-4-1,Jean-Marc Furlan,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394057
+10,sáb 07/11/2020,15:00,Auxerre,Amiens SC,4-1-4-1,Jean-Marc Furlan,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394059
+11,sáb 21/11/2020,15:00,Paris FC,Auxerre,4-1-4-1,Jean-Marc Furlan,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394076
+12,sáb 28/11/2020,15:00,Auxerre,Valenciennes,4-1-4-1,Jean-Marc Furlan,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394080
+13,ter 01/12/2020,15:00,Le Havre,Auxerre,4-1-4-1,Jean-Marc Furlan,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394093
+14,sáb 05/12/2020,15:00,Auxerre,Chamois Niort,4-1-4-1,Jean-Marc Furlan,x,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394100
+15,sáb 12/12/2020,15:00,AS Nancy,Auxerre,4-1-4-1,Jean-Marc Furlan,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394115
+16,sex 18/12/2020,16:00,Auxerre,Pau FC,4-3-3 ofensivo,Jean-Marc Furlan,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394120
+17,ter 22/12/2020,16:00,USL Dunkerque,Auxerre,4-2-3-1,Jean-Marc Furlan,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394132
+18,ter 05/01/2021,16:00,Auxerre,SM Caen,4-1-4-1,Jean-Marc Furlan,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394140
+19,sáb 09/01/2021,11:00,Grenoble,Auxerre,4-2-3-1,Jean-Marc Furlan,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394152
+20,sáb 16/01/2021,15:00,Auxerre,LB Châteauroux,4-1-4-1,Jean-Marc Furlan,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394161
+21,sáb 23/01/2021,11:00,Clermont Foot,Auxerre,4-1-4-1,Jean-Marc Furlan,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394171
+22,sáb 30/01/2021,11:00,Troyes,Auxerre,4-3-3 ofensivo,Jean-Marc Furlan,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394187
+23,ter 02/02/2021,16:00,Auxerre,Toulouse,4-3-3 ofensivo,Jean-Marc Furlan,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394189
+24,sex 05/02/2021,16:00,AC Ajaccio,Auxerre,4-1-4-1,Jean-Marc Furlan,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394199
+25,sáb 13/02/2021,11:00,Auxerre,Guingamp,4-1-4-1,Jean-Marc Furlan,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394209
+26,sáb 20/02/2021,15:00,FC Chambly Oise,Auxerre,4-1-4-1,Jean-Marc Furlan,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394221
+27,sáb 27/02/2021,15:00,Auxerre,Rodez AF,4-1-4-1,Jean-Marc Furlan,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394229
+28,ter 02/03/2021,16:00,Amiens SC,Auxerre,4-1-4-1,Jean-Marc Furlan,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394247
+29,sáb 13/03/2021,11:00,Auxerre,Paris FC,4-1-4-1,Jean-Marc Furlan,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394264
+30,sáb 20/03/2021,16:00,Valenciennes,Auxerre,4-1-4-1,Jean-Marc Furlan,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394289
+31,seg 05/04/2021,15:45,Auxerre,Le Havre,4-1-4-1,Jean-Marc Furlan,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394305
+32,sáb 10/04/2021,15:00,Chamois Niort,Auxerre,4-1-4-1,Jean-Marc Furlan,x,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394327
+33,sáb 17/04/2021,15:00,Auxerre,AS Nancy,4-3-3 ofensivo,Jean-Marc Furlan,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394339
+34,ter 20/04/2021,15:00,Pau FC,Auxerre,4-2-3-1,Jean-Marc Furlan,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394371
+35,sáb 24/04/2021,15:00,Auxerre,USL Dunkerque,4-1-4-1,Jean-Marc Furlan,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394495
+36,sáb 01/05/2021,15:00,SM Caen,Auxerre,4-1-4-1,Jean-Marc Furlan,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394507
+37,sáb 08/05/2021,15:00,Auxerre,Grenoble,4-1-4-1,Jean-Marc Furlan,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394526
+38,sáb 15/05/2021,15:00,FC Sochaux,Auxerre,4-1-4-1,Jean-Marc Furlan,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394547

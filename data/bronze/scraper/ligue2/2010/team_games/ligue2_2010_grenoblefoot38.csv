@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 06/08/2010,15:00,Grenoble,Le Havre,?,Mehmed Bazdarevic,5135,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036790
+2,sex 13/08/2010,15:30,CS Sedan,Grenoble,?,Mehmed Bazdarevic,7453,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1040762
+3,ter 17/08/2010,15:00,Grenoble,Angers,?,Mehmed Bazdarevic,5837,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1040768
+4,sex 20/08/2010,15:00,Nîmes Olympique,Grenoble,?,Mehmed Bazdarevic,6610,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1040779
+5,seg 30/08/2010,15:30,Grenoble,Le Mans FC,?,Mehmed Bazdarevic,5342,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1040792
+6,sex 10/09/2010,15:00,FC Istres,Grenoble,?,Yvon Pouliquen,1800,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043941
+7,sex 17/09/2010,15:00,Grenoble,Troyes,?,Yvon Pouliquen,5354,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1048159
+8,sex 24/09/2010,15:00,Nantes,Grenoble,?,Yvon Pouliquen,9827,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1048169
+9,sex 01/10/2010,15:00,Grenoble,Vannes,?,Yvon Pouliquen,4840,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1052114
+10,sex 15/10/2010,15:00,Stade Lavallois,Grenoble,?,Yvon Pouliquen,4818,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1052120
+11,ter 19/10/2010,16:00,Grenoble,FC Metz,?,Yvon Pouliquen,4854,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1052133
+12,sex 22/10/2010,16:00,Reims,Grenoble,?,Yvon Pouliquen,6975,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1052144
+13,sex 29/10/2010,16:00,Grenoble,AC Ajaccio,?,Yvon Pouliquen,5179,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1059775
+14,sex 05/11/2010,17:00,LB Châteauroux,Grenoble,?,Yvon Pouliquen,6504,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1061513
+15,sex 12/11/2010,17:00,Grenoble,Tours FC,?,Yvon Pouliquen,6370,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1061983
+16,sex 26/11/2010,17:00,Évian,Grenoble,?,Yvon Pouliquen,4459,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1063797
+17,sex 03/12/2010,17:00,US Boulogne,Grenoble,?,Yvon Pouliquen,7670,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1066420
+18,sex 17/12/2010,17:00,Grenoble,Dijon,?,Yvon Pouliquen,4374,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1068734
+19,ter 21/12/2010,17:00,Clermont Foot,Grenoble,?,Yvon Pouliquen,3764,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1069550
+20,sáb 15/01/2011,12:00,Grenoble,CS Sedan,?,Yvon Pouliquen,3836,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1072317
+21,sáb 29/01/2011,12:00,Angers,Grenoble,?,Yvon Pouliquen,5662,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1073917
+22,sáb 05/02/2011,12:00,Grenoble,Nîmes Olympique,?,Yvon Pouliquen,5135,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1076295
+23,sáb 12/02/2011,12:00,Le Mans FC,Grenoble,?,Yvon Pouliquen,10239,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1077330
+24,sex 18/02/2011,17:00,Grenoble,FC Istres,?,Yvon Pouliquen,4719,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1079057
+25,sex 25/02/2011,16:00,Troyes,Grenoble,?,Yvon Pouliquen,8295,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1079776
+26,sex 04/03/2011,16:30,Grenoble,Nantes,?,Yvon Pouliquen,5195,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1081588
+27,sex 11/03/2011,16:00,Vannes,Grenoble,?,Yvon Pouliquen,4209,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1083795
+28,sex 18/03/2011,16:00,Grenoble,Stade Lavallois,?,Yvon Pouliquen,4899,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1086840
+29,sex 01/04/2011,15:00,FC Metz,Grenoble,?,Yvon Pouliquen,11896,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089433
+30,sex 08/04/2011,15:00,Grenoble,Reims,?,Yvon Pouliquen,5356,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091776
+31,sex 15/04/2011,15:00,AC Ajaccio,Grenoble,?,Yvon Pouliquen,3659,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1092585
+32,sex 22/04/2011,15:00,Grenoble,LB Châteauroux,?,Yvon Pouliquen,4799,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1093569
+33,sex 29/04/2011,15:00,Tours FC,Grenoble,?,Yvon Pouliquen,4894,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1097503
+34,sex 06/05/2011,15:00,Grenoble,Évian,?,Yvon Pouliquen,6036,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1098122
+35,ter 10/05/2011,15:00,Grenoble,US Boulogne,?,Yvon Pouliquen,4937,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1098204
+36,seg 16/05/2011,15:30,Dijon,Grenoble,?,Yvon Pouliquen,11791,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1101244
+37,sex 20/05/2011,15:30,Grenoble,Clermont Foot,?,Yvon Pouliquen,5032,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1103049
+38,sex 27/05/2011,15:30,Le Havre,Grenoble,?,Yvon Pouliquen,6943,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1103061

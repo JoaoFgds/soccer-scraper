@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 19/08/2017,10:30,Wolfsburg,Dortmund,4-3-3 ofensivo,Peter Bosz,30000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871503
+2,sáb 26/08/2017,13:30,Dortmund,Hertha Berlim,4-3-3 ofensivo,Peter Bosz,80860,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871543
+3,sáb 09/09/2017,10:30,Freiburg,Dortmund,4-3-3 ofensivo,Peter Bosz,24000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871593
+4,dom 17/09/2017,13:00,Dortmund,Colônia,4-3-3 ofensivo,Peter Bosz,81000,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871656
+5,qua 20/09/2017,15:30,Hamburgo,Dortmund,4-3-3 ofensivo,Peter Bosz,52962,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871697
+6,sáb 23/09/2017,13:30,Dortmund,M'gladbach,4-3-3 ofensivo,Peter Bosz,81360,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871728
+7,sáb 30/09/2017,10:30,Augsburg,Dortmund,4-3-3 ofensivo,Peter Bosz,30660,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871779
+8,sáb 14/10/2017,13:30,Dortmund,Leipzig,4-3-3 ofensivo,Peter Bosz,80100,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871810
+9,sáb 21/10/2017,11:31,Frankfurt,Dortmund,4-3-3 ofensivo,Peter Bosz,51500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871859
+10,sáb 28/10/2017,11:30,Hannover,Dortmund,4-3-3 ofensivo,Peter Bosz,49000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871906
+11,sáb 04/11/2017,15:30,Dortmund,Bayern,4-3-3 ofensivo,Peter Bosz,81360,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871953
+12,sex 17/11/2017,17:30,Stuttgart,Dortmund,4-3-3 ofensivo,Peter Bosz,58932,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871997
+13,sáb 25/11/2017,12:30,Dortmund,Schalke,3-4-2-1,Peter Bosz,80179,4:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872025
+14,sáb 02/12/2017,12:30,Leverkusen,Dortmund,3-4-3 plano,Peter Bosz,30210,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871986
+15,sáb 09/12/2017,12:30,Dortmund,Werder Bremen,5-4-1 plano,Peter Bosz,81160,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871935
+16,ter 12/12/2017,17:31,Mainz,Dortmund,4-2-3-1,Peter Stöger,32976,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871915
+17,sáb 16/12/2017,15:30,Dortmund,Hoffenheim,4-2-3-1,Peter Stöger,81000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871872
+18,dom 14/01/2018,15:00,Dortmund,Wolfsburg,4-1-4-1,Peter Stöger,80600,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871494
+19,sex 19/01/2018,17:30,Hertha Berlim,Dortmund,4-1-4-1,Peter Stöger,65893,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871504
+20,sáb 27/01/2018,12:30,Dortmund,Freiburg,4-2-3-1,Peter Stöger,81360,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871565
+21,sex 02/02/2018,17:30,Colônia,Dortmund,4-2-3-1,Peter Stöger,50000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871646
+22,sáb 10/02/2018,12:30,Dortmund,Hamburgo,4-1-4-1,Peter Stöger,81360,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871674
+23,dom 18/02/2018,14:00,M'gladbach,Dortmund,4-2-3-1,Peter Stöger,54018,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871721
+24,seg 26/02/2018,16:30,Dortmund,Augsburg,4-2-3-1,Peter Stöger,54300,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871755
+25,sáb 03/03/2018,14:30,Leipzig,Dortmund,4-2-3-1,Peter Stöger,42558,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872106
+26,dom 11/03/2018,14:00,Dortmund,Frankfurt,4-2-3-1,Peter Stöger,81360,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871792
+27,dom 18/03/2018,09:30,Dortmund,Hannover,4-2-3-1,Peter Stöger,81360,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871827
+28,sáb 31/03/2018,13:30,Bayern,Dortmund,4-2-3-1,Peter Stöger,75000,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872016
+29,dom 08/04/2018,10:30,Dortmund,Stuttgart,4-2-3-1,Peter Stöger,81360,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872043
+30,dom 15/04/2018,10:30,Schalke,Dortmund,4-2-3-1,Peter Stöger,61786,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872065
+31,sáb 21/04/2018,13:30,Dortmund,Leverkusen,4-2-3-1,Peter Stöger,81360,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872070
+32,dom 29/04/2018,13:00,Werder Bremen,Dortmund,4-1-4-1,Peter Stöger,42100,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872083
+33,sáb 05/05/2018,10:30,Dortmund,Mainz,4-1-4-1,Peter Stöger,81360,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872088
+34,sáb 12/05/2018,10:30,Hoffenheim,Dortmund,3-5-2,Peter Stöger,30150,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872098

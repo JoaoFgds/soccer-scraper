@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 11/08/2018,11:00,Fulham,Crystal Palace,4-3-3 ofensivo,Slavisa Jokanovic,24821,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050169
+2,sáb 18/08/2018,11:00,Tottenham,Fulham,4-3-3 ofensivo,Slavisa Jokanovic,58297,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050185
+3,dom 26/08/2018,12:00,Fulham,FC Burnley,4-3-3 ofensivo,Slavisa Jokanovic,23438,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050189
+4,sáb 01/09/2018,11:00,Brighton,Fulham,4-3-3 ofensivo,Slavisa Jokanovic,30526,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050197
+5,sáb 15/09/2018,11:00,Man City,Fulham,4-3-3 ofensivo,Slavisa Jokanovic,53307,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050211
+6,sáb 22/09/2018,08:30,Fulham,Watford,4-3-3 ofensivo,Slavisa Jokanovic,23418,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050222
+7,sáb 29/09/2018,11:00,Everton,Fulham,4-4-2 duplo 6,Slavisa Jokanovic,38788,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050231
+8,dom 07/10/2018,08:00,Fulham,Arsenal,5-4-1 plano,Slavisa Jokanovic,25401,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050240
+9,sáb 20/10/2018,11:00,Cardiff,Fulham,4-3-3 ofensivo,Slavisa Jokanovic,29681,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050249
+10,sáb 27/10/2018,11:00,Fulham,Bournemouth,4-2-3-1,Slavisa Jokanovic,25071,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050260
+11,seg 05/11/2018,18:00,Huddersfield,Fulham,4-3-3 ofensivo,Slavisa Jokanovic,17082,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050272
+12,dom 11/11/2018,10:00,Liverpool,Fulham,4-2-3-1,Slavisa Jokanovic,53128,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050283
+13,sáb 24/11/2018,13:00,Fulham,Southampton,4-2-3-1,Claudio Ranieri,24603,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050291
+14,dom 02/12/2018,10:00,Chelsea,Fulham,4-4-2 losango,Claudio Ranieri,40551,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050299
+15,qua 05/12/2018,17:45,Fulham,Leicester,4-2-3-1,Claudio Ranieri,22881,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050310
+16,sáb 08/12/2018,13:00,Man Utd,Fulham,4-3-3 ofensivo,Claudio Ranieri,74523,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050324
+17,sáb 15/12/2018,15:30,Fulham,West Ham,4-4-2 duplo 6,Claudio Ranieri,24081,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050329
+18,sáb 22/12/2018,13:00,Newcastle,Fulham,5-4-1 plano,Claudio Ranieri,51237,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050344
+19,qua 26/12/2018,10:30,Fulham,Wolves,5-4-1 plano,Claudio Ranieri,24382,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050420
+20,sáb 29/12/2018,13:00,Fulham,Huddersfield,5-3-2,Claudio Ranieri,24423,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050350
+21,ter 01/01/2019,13:00,Arsenal,Fulham,5-4-1 plano,Claudio Ranieri,59887,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050357
+22,sáb 12/01/2019,13:00,FC Burnley,Fulham,5-4-1 plano,Claudio Ranieri,19316,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050368
+23,dom 20/01/2019,14:00,Fulham,Tottenham,5-4-1 plano,Claudio Ranieri,24807,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050379
+24,ter 29/01/2019,17:45,Fulham,Brighton,5-4-1 plano,Claudio Ranieri,22008,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050389
+25,sáb 02/02/2019,13:00,Crystal Palace,Fulham,5-4-1 plano,Claudio Ranieri,25355,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050401
+26,sáb 09/02/2019,10:30,Fulham,Man Utd,4-2-3-1,Claudio Ranieri,25001,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050409
+27,sex 22/02/2019,16:45,West Ham,Fulham,4-4-1-1,Claudio Ranieri,59950,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050436
+28,qua 27/02/2019,16:45,Southampton,Fulham,4-3-1-2,Claudio Ranieri,27597,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050444
+29,dom 03/03/2019,11:05,Fulham,Chelsea,4-2-3-1,Scott Parker,24900,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050451
+30,sáb 09/03/2019,12:00,Leicester,Fulham,4-2-3-1,Scott Parker,32017,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050462
+31,dom 17/03/2019,11:15,Fulham,Liverpool,4-3-3 ofensivo,Scott Parker,25043,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050479
+32,sáb 30/03/2019,09:30,Fulham,Man City,5-4-1 plano,Scott Parker,25001,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050490
+33,ter 02/04/2019,15:45,Watford,Fulham,5-4-1 plano,Scott Parker,17301,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050503
+34,sáb 13/04/2019,11:00,Fulham,Everton,4-2-3-1,Scott Parker,24971,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050516
+35,sáb 20/04/2019,11:00,Bournemouth,Fulham,4-2-3-1,Scott Parker,10511,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050524
+36,sáb 27/04/2019,11:00,Fulham,Cardiff,4-2-3-1,Scott Parker,23822,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050536
+37,sáb 04/05/2019,11:00,Wolves,Fulham,5-3-2,Scott Parker,30456,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050560
+38,dom 12/05/2019,11:00,Fulham,Newcastle,4-2-3-1,Scott Parker,24979,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050564

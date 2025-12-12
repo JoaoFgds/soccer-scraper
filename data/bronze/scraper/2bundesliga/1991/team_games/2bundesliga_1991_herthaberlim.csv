@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 01/08/2025,15:30,Schalke,Hertha Berlim,3-5-2 ofensivo,Stefan Leitl,62271,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634100
+2,dom 10/08/2025,08:30,Hertha Berlim,Karlsruher,3-5-2,Stefan Leitl,59655,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634320
+3,dom 24/08/2025,08:30,Darmstadt 98,Hertha Berlim,3-4-3 plano,Stefan Leitl,17810,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634337
+4,sex 29/08/2025,13:30,Hertha Berlim,SV Elversberg,3-4-3 plano,Stefan Leitl,39680,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634357
+5,sáb 13/09/2025,15:30,Hannover,Hertha Berlim,4-2-3-1,Stefan Leitl,49000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634372
+6,sáb 20/09/2025,08:00,Hertha Berlim,Paderborn,4-2-3-1,Stefan Leitl,44718,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634401
+7,dom 28/09/2025,08:30,Nuremberg,Hertha Berlim,4-2-3-1,Stefan Leitl,38923,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634419
+8,sáb 04/10/2025,08:00,Hertha Berlim,Pr. Münster,4-2-3-1,Stefan Leitl,43827,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634436
+9,sáb 18/10/2025,15:30,Bochum,Hertha Berlim,,,,-:-,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634450
+10,sáb 25/10/2025,15:30,Hertha Berlim,Düsseldorf,,,,-:-,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634471
+11,sáb 01/11/2025,09:00,Hertha Berlim,Dynamo Dresden,,,,-:-,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634492
+12,sáb 08/11/2025,16:30,K'lautern,Hertha Berlim,,,,-:-,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634506
+13,sex 21/11/2025,14:30,Hertha Berlim,E. Braunschweig,,,,-:-,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634528
+14,sáb 29/11/2025,09:00,Holstein Kiel,Hertha Berlim,,,,-:-,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634540
+15,sáb 06/12/2025,desconhecido,Hertha Berlim,Magdeburgo,,,,-:-,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634563
+16,sex 12/12/2025,20:00,Greuther Fürth,Hertha Berlim,,,,-:-,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634576
+17,sáb 20/12/2025,desconhecido,Hertha Berlim,Arm. Bielefeld,,,,-:-,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634586
+18,sáb 17/01/2026,desconhecido,Hertha Berlim,Schalke,,,,-:-,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634594
+19,sáb 24/01/2026,desconhecido,Karlsruher,Hertha Berlim,,,,-:-,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634601
+20,sáb 31/01/2026,desconhecido,Hertha Berlim,Darmstadt 98,,,,-:-,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634613
+21,sáb 07/02/2026,desconhecido,SV Elversberg,Hertha Berlim,,,,-:-,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634616
+22,sáb 14/02/2026,desconhecido,Hertha Berlim,Hannover,,,,-:-,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634631
+23,sáb 21/02/2026,desconhecido,Paderborn,Hertha Berlim,,,,-:-,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634636
+24,sáb 28/02/2026,desconhecido,Hertha Berlim,Nuremberg,,,,-:-,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634647
+25,sáb 07/03/2026,desconhecido,Pr. Münster,Hertha Berlim,,,,-:-,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634673
+26,sáb 14/03/2026,desconhecido,Hertha Berlim,Bochum,,,,-:-,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634677
+27,sáb 21/03/2026,desconhecido,Düsseldorf,Hertha Berlim,,,,-:-,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634686
+28,sáb 04/04/2026,desconhecido,Dynamo Dresden,Hertha Berlim,,,,-:-,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634700
+29,sáb 11/04/2026,desconhecido,Hertha Berlim,K'lautern,,,,-:-,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634707
+30,sáb 18/04/2026,desconhecido,E. Braunschweig,Hertha Berlim,,,,-:-,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634716
+31,sáb 25/04/2026,desconhecido,Hertha Berlim,Holstein Kiel,,,,-:-,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634725
+32,sáb 02/05/2026,desconhecido,Magdeburgo,Hertha Berlim,,,,-:-,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634730
+33,sáb 09/05/2026,desconhecido,Hertha Berlim,Greuther Fürth,,,,-:-,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634743
+34,dom 17/05/2026,10:30,Arm. Bielefeld,Hertha Berlim,,,,-:-,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4634753

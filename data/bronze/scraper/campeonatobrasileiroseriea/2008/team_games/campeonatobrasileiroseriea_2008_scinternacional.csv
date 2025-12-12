@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 11/05/2008,11:00,Internacional,Vasco da Gama,3-5-2,Abel Braga,25744,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/90318
+2,dom 18/05/2008,13:10,Palmeiras,Internacional,4-4-2,Abel Braga,10081,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/90330
+3,sáb 24/05/2008,13:10,Flamengo,Internacional,3-5-2,Abel Braga,27031,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909270
+4,sáb 31/05/2008,13:10,Internacional,Sport,4-4-2,Abel Braga,23456,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909282
+5,dom 08/06/2008,11:00,Portuguesa,Internacional,4-4-2,,3415,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909294
+6,sáb 14/06/2008,11:10,Internacional,Botafogo,4-4-2,Tite,20694,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909303
+7,dom 22/06/2008,11:00,Vitória,Internacional,4-4-2,Tite,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909314
+8,dom 29/06/2008,13:10,Grêmio,Internacional,4-4-2,Tite,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909328
+9,dom 06/07/2008,11:00,Internacional,Coritiba,4-4-2,Tite,27528,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909333
+10,qua 09/07/2008,14:30,Internacional,Goiás,4-4-2,Tite,26535,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909340
+11,dom 13/07/2008,11:00,Atlético-PR,Internacional,4-4-2,Tite,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909353
+12,qui 17/07/2008,15:30,Internacional,Atlético-MG,4-4-2,Tite,24343,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909367
+13,dom 20/07/2008,11:00,Náutico,Internacional,4-3-3 defensivo,Tite,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909376
+14,qua 23/07/2008,16:45,Internacional,São Paulo,4-4-2,Tite,41674,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909384
+15,sáb 26/07/2008,13:10,Ipatinga,Internacional,4-4-2,Tite,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909392
+16,qua 30/07/2008,16:45,Internacional,Santos,4-4-2,Tite,22228,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909404
+17,sáb 02/08/2008,13:10,Fluminense,Internacional,4-4-2,Tite,10092,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909410
+18,qui 07/08/2008,15:30,Cruzeiro,Internacional,4-4-2,Tite,30861,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909428
+19,dom 10/08/2008,13:10,Internacional,Figueirense,4-4-2,Tite,25659,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909437
+20,dom 17/08/2008,11:00,Vasco da Gama,Internacional,3-5-2,Tite,5387,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/921852
+21,qua 20/08/2008,17:00,Internacional,Palmeiras,3-5-2,Tite,14470,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/923052
+22,dom 24/08/2008,11:00,Internacional,Flamengo,4-4-2,Tite,29329,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/923195
+23,dom 31/08/2008,11:00,Sport,Internacional,4-4-2,Tite,21030,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/923346
+24,sáb 06/09/2008,13:20,Internacional,Portuguesa,4-4-2,Tite,9349,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/924008
+25,dom 14/09/2008,13:10,Botafogo,Internacional,4-4-2,Tite,25196,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/924301
+26,dom 21/09/2008,13:10,Internacional,Vitória,4-4-2,Tite,19493,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/924726
+27,dom 28/09/2008,13:10,Internacional,Grêmio,4-4-2,Tite,37388,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/925507
+28,sáb 04/10/2008,13:20,Coritiba,Internacional,4-4-2,Tite,,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/926223
+29,sáb 11/10/2008,13:20,Goiás,Internacional,4-4-2,Tite,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/926509
+30,sáb 18/10/2008,13:20,Internacional,Atlético-PR,4-4-2,Tite,15813,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/926888
+31,sáb 25/10/2008,14:20,Atlético-MG,Internacional,4-4-2,Tite,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/927619
+32,qua 29/10/2008,17:30,Internacional,Náutico,4-4-2,Tite,14464,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/927978
+33,dom 02/11/2008,16:10,São Paulo,Internacional,4-4-2,Tite,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/928493
+34,dom 09/11/2008,16:10,Internacional,Ipatinga,4-4-2,Tite,8131,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/928687
+35,dom 16/11/2008,16:10,Santos,Internacional,4-4-2,Tite,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/929540
+36,dom 23/11/2008,16:10,Internacional,Fluminense,4-4-2,Tite,7481,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/929592
+37,dom 30/11/2008,14:00,Internacional,Cruzeiro,4-4-2,Tite,13269,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/930201
+38,dom 07/12/2008,14:00,Figueirense,Internacional,4-4-2,Tite,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/930217

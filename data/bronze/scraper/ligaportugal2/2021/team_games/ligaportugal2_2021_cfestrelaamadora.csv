@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 08/08/2021,07:00,Estrela Amadora,Mafra,3-4-3 plano,Rui Santos,764,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621661
+2,sex 13/08/2021,14:00,Trofense,Estrela Amadora,4-3-3 ofensivo,Rui Santos,616,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621670
+3,sáb 21/08/2021,07:00,Estrela Amadora,Farense,4-1-4-1,Rui Santos,873,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621697
+4,qui 16/09/2021,16:15,Académica,Estrela Amadora,?,Ricardo Chéu,1133,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621683
+5,sex 10/09/2021,16:15,Estrela Amadora,Rio Ave,4-3-3 ofensivo,Rui Santos,957,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621679
+6,ter 21/09/2021,14:00,Varzim,Estrela Amadora,4-4-2,Ricardo Chéu,1246,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621706
+7,sáb 02/10/2021,07:00,Estrela Amadora,Leixões,4-1-4-1,Ricardo Chéu,1897,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621724
+8,dom 10/10/2021,15:30,Estrela Amadora,Académico FC,4-1-4-1,Ricardo Chéu,3117,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621733
+9,dom 24/10/2021,07:00,Feirense,Estrela Amadora,4-1-4-1,Ricardo Chéu,1060,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621708
+10,dom 31/10/2021,08:00,Estrela Amadora,FC Porto B,4-1-4-1,Ricardo Chéu,3114,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621787
+11,sex 05/11/2021,15:00,Vilafranquense,Estrela Amadora,4-1-4-1,Ricardo Chéu,256,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621741
+12,seg 29/11/2021,15:00,Estrela Amadora,Benfica B,4-1-4-1,Ricardo Chéu,3617,3:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621796
+13,sáb 04/12/2021,11:00,Nacional,Estrela Amadora,?,Ricardo Chéu,389,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621752
+14,seg 13/12/2021,15:00,Estrela Amadora,Casa Pia,3-4-3 plano,Ricardo Chéu,2034,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621778
+15,dom 19/12/2021,08:00,Penafiel,Estrela Amadora,?,Ricardo Chéu,859,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621763
+16,seg 27/12/2021,17:15,Estrela Amadora,Chaves,3-4-3 plano,Ricardo Chéu,1127,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621751
+17,dom 09/01/2022,16:30,Covilhã,Estrela Amadora,3-4-3 plano,Ricardo Chéu,107,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621822
+18,ter 18/01/2022,15:00,Mafra,Estrela Amadora,3-4-3 plano,Ricardo Chéu,987,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621805
+19,dom 23/01/2022,16:30,Estrela Amadora,Trofense,?,Ricardo Chéu,4027,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621814
+20,sex 28/01/2022,15:00,Farense,Estrela Amadora,3-4-3 plano,Ricardo Chéu,2583,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621954
+21,ter 08/02/2022,17:15,Estrela Amadora,Académica,?,Ricardo Chéu,2432,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621836
+22,seg 14/02/2022,15:00,Rio Ave,Estrela Amadora,3-4-3 plano,Ricardo Chéu,1150,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621957
+23,seg 21/02/2022,16:00,Estrela Amadora,Varzim,3-4-3 plano,Ricardo Chéu,2003,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621832
+24,dom 27/02/2022,12:30,Leixões,Estrela Amadora,4-1-4-1,Ricardo Chéu,2460,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621946
+25,sáb 05/03/2022,08:00,Académico FC,Estrela Amadora,?,Ricardo Chéu,173,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621925
+26,sáb 12/03/2022,08:00,Estrela Amadora,Feirense,3-4-3 plano,Ricardo Chéu,1832,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621852
+27,dom 20/03/2022,12:30,FC Porto B,Estrela Amadora,3-4-3 plano,Ricardo Chéu,364,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621850
+28,dom 03/04/2022,15:00,Estrela Amadora,Vilafranquense,3-4-3 plano,Ricardo Chéu,1367,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621948
+29,sáb 09/04/2022,10:00,Benfica B,Estrela Amadora,4-3-3 ofensivo,Ricardo Chéu,370,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621942
+30,sáb 16/04/2022,13:00,Estrela Amadora,Nacional,?,Ricardo Chéu,4332,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621864
+31,sáb 23/04/2022,07:00,Casa Pia,Estrela Amadora,?,Ricardo Chéu,714,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621939
+32,sáb 30/04/2022,10:00,Estrela Amadora,Penafiel,?,Ricardo Chéu,3908,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621921
+33,dom 08/05/2022,07:00,Chaves,Estrela Amadora,?,Ricardo Chéu,5161,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621931
+34,dom 15/05/2022,11:30,Estrela Amadora,Covilhã,?,Ricardo Chéu,4036,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621919

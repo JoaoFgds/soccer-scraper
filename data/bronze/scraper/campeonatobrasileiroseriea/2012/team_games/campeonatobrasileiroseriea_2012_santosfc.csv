@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 20/05/2012,13:30,Bahia,Santos,4-1-3-2,Muricy Ramalho,8908,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2210944
+2,dom 27/05/2012,11:00,Santos,Sport,4-4-2 duplo 6,Muricy Ramalho,5294,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206417
+3,qua 06/06/2012,16:50,Santos,Fluminense,4-4-2,Muricy Ramalho,4080,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206411
+4,dom 10/06/2012,13:30,São Paulo,Santos,4-4-2 duplo 6,Muricy Ramalho,6505,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206427
+5,dom 17/06/2012,11:00,Flamengo,Santos,4-4-1-1,Muricy Ramalho,17373,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206436
+6,dom 24/06/2012,13:30,Santos,Coritiba,4-3-3 defensivo,Muricy Ramalho,5120,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206448
+7,dom 01/07/2012,11:00,Portuguesa,Santos,4-3-1-2,Muricy Ramalho,8379,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206460
+8,dom 08/07/2012,11:00,Santos,Grêmio,4-3-1-2,Muricy Ramalho,9402,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206466
+9,dom 15/07/2012,11:00,Internacional,Santos,4-3-1-2,Muricy Ramalho,11791,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206477
+10,qua 18/07/2012,14:30,Santos,Botafogo,4-3-1-2,Muricy Ramalho,7069,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206365
+11,sáb 21/07/2012,13:30,Vasco da Gama,Santos,4-3-1-2,Muricy Ramalho,17222,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206376
+12,qui 26/07/2012,16:00,Atlético-MG,Santos,4-3-2-1,Muricy Ramalho,20418,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206399
+13,dom 29/07/2012,13:30,Santos,Ponte Preta,4-3-1-2,Muricy Ramalho,4261,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206397
+14,dom 05/08/2012,13:30,Náutico,Santos,4-1-3-2,Muricy Ramalho,12266,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206516
+15,qua 08/08/2012,16:50,Santos,Cruzeiro,4-4-2 duplo 6,Muricy Ramalho,3215,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206502
+16,sáb 11/08/2012,13:30,Santos,Atlético-GO,4-4-2 duplo 6,Muricy Ramalho,9432,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206526
+17,qui 16/08/2012,16:00,Figueirense,Santos,4-4-2 duplo 6,Muricy Ramalho,10993,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206716
+18,dom 19/08/2012,11:00,Santos,Corinthians,4-4-2 duplo 6,Muricy Ramalho,12413,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206711
+19,sáb 25/08/2012,13:30,Palmeiras,Santos,4-4-2 duplo 6,Muricy Ramalho,21171,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206699
+20,qua 29/08/2012,14:30,Santos,Bahia,4-4-2 duplo 6,Muricy Ramalho,8612,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206693
+21,dom 02/09/2012,11:00,Sport,Santos,4-2-3-1,Muricy Ramalho,20171,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206666
+22,qui 06/09/2012,16:00,Fluminense,Santos,4-4-2 duplo 6,Muricy Ramalho,15874,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206670
+23,dom 09/09/2012,11:00,Santos,São Paulo,4-2-3-1,Muricy Ramalho,6379,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206659
+24,qua 12/09/2012,17:00,Santos,Flamengo,4-4-2 duplo 6,Muricy Ramalho,8015,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206650
+25,dom 16/09/2012,11:00,Coritiba,Santos,4-4-2 duplo 6,Muricy Ramalho,20274,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206629
+26,sáb 22/09/2012,16:00,Santos,Portuguesa,4-1-3-2,Muricy Ramalho,15774,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206620
+27,dom 30/09/2012,13:30,Grêmio,Santos,4-4-2 duplo 6,Muricy Ramalho,38212,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206619
+28,sáb 06/10/2012,16:20,Santos,Internacional,4-4-2 duplo 6,Muricy Ramalho,9965,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206603
+29,qua 10/10/2012,14:30,Botafogo,Santos,4-4-2 duplo 6,Muricy Ramalho,4634,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206600
+30,dom 14/10/2012,11:00,Santos,Vasco da Gama,4-3-1-2,Muricy Ramalho,6555,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206592
+31,qua 17/10/2012,17:00,Santos,Atlético-MG,4-3-1-2,Muricy Ramalho,10553,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206565
+32,dom 21/10/2012,14:30,Ponte Preta,Santos,4-3-1-2,Muricy Ramalho,13468,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206549
+33,qui 25/10/2012,17:00,Santos,Náutico,4-4-2 duplo 6,Muricy Ramalho,6256,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206547
+34,sáb 03/11/2012,16:30,Cruzeiro,Santos,4-3-1-2,Muricy Ramalho,16331,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206534
+35,sáb 10/11/2012,16:30,Atlético-GO,Santos,4-3-1-2,Muricy Ramalho,7276,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206505
+36,sáb 17/11/2012,16:30,Santos,Figueirense,4-4-2 duplo 6,Muricy Ramalho,10013,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206511
+37,sáb 24/11/2012,16:30,Corinthians,Santos,4-4-2 duplo 6,Muricy Ramalho,34171,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206483
+38,sáb 01/12/2012,16:30,Santos,Palmeiras,4-4-2 duplo 6,Muricy Ramalho,11641,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206684

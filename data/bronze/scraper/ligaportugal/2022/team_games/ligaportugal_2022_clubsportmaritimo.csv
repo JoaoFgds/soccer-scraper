@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 06/08/2022,16:30,FC Porto,Marítimo,4-1-4-1,Vasco Seabra,46309,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869052
+2,seg 15/08/2022,11:30,Marítimo,Chaves,4-4-1-1,Vasco Seabra,6827,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869056
+3,dom 21/08/2022,14:00,Braga,Marítimo,4-2-3-1,Vasco Seabra,12358,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869067
+4,sáb 27/08/2022,11:30,Marítimo,Portimonense,4-4-2 duplo 6,Vasco Seabra,4785,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869112
+5,dom 04/09/2022,13:00,Santa Clara,Marítimo,4-4-2 duplo 6,Vasco Seabra,1012,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869078
+6,dom 11/09/2022,14:00,Marítimo,Gil Vicente,4-4-2 duplo 6,João Henriques,5032,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869081
+7,dom 18/09/2022,14:00,Benfica,Marítimo,4-2-3-1,João Henriques,56889,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869094
+8,seg 03/10/2022,16:15,Marítimo,Casa Pia,3-4-3 plano,João Henriques,4484,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869116
+9,dom 09/10/2022,11:30,Boavista,Marítimo,3-4-3 plano,João Henriques,11295,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869104
+10,dom 23/10/2022,11:30,Marítimo,Arouca,3-4-3 plano,João Henriques,9072,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869131
+11,sex 28/10/2022,16:15,Paços Ferreira,Marítimo,3-4-1-2,João Henriques,3067,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869344
+12,dom 06/11/2022,15:00,Marítimo,Famalicão,3-4-1-2,João Henriques,9438,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869189
+13,dom 13/11/2022,12:30,Vit. Guimarães,Marítimo,3-4-1-2,João Henriques,14920,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869135
+14,sex 23/12/2022,17:15,Rio Ave,Marítimo,4-4-2 duplo 6,José Gomes,1492,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869147
+15,dom 08/01/2023,15:00,Marítimo,Sporting,4-4-2 duplo 6,José Gomes,9510,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869156
+16,sáb 14/01/2023,12:30,Vizela,Marítimo,4-2-3-1,José Gomes,2609,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869243
+17,dom 22/01/2023,12:30,Marítimo,Estoril,4-4-2,José Gomes,9212,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869182
+18,qua 01/02/2023,16:00,Marítimo,FC Porto,4-4-2 duplo 6,José Gomes,9624,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869167
+19,dom 05/02/2023,12:30,Chaves,Marítimo,4-2-3-1,José Gomes,2129,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869174
+20,dom 12/02/2023,17:30,Marítimo,Braga,4-1-3-2,José Gomes,9937,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869212
+21,sáb 18/02/2023,15:00,Portimonense,Marítimo,4-1-4-1,José Gomes,1572,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869221
+22,sáb 25/02/2023,15:00,Marítimo,Santa Clara,4-1-4-1,José Gomes,9312,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869268
+23,dom 05/03/2023,12:30,Gil Vicente,Marítimo,4-2-3-1,José Gomes,5243,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869271
+24,dom 12/03/2023,15:00,Marítimo,Benfica,4-3-3 ofensivo,José Gomes,10547,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869338
+25,dom 19/03/2023,12:30,Casa Pia,Marítimo,4-2-3-1,José Gomes,2432,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869198
+26,dom 02/04/2023,11:30,Marítimo,Boavista,4-2-3-1,José Gomes,9679,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869285
+27,sáb 08/04/2023,11:30,Arouca,Marítimo,4-2-3-1,José Gomes,1719,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869294
+28,sáb 15/04/2023,11:30,Marítimo,Paços Ferreira,4-2-3-1,José Gomes,9093,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869236
+29,sáb 22/04/2023,11:30,Famalicão,Marítimo,3-4-3 plano,José Gomes,4044,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869225
+30,sáb 29/04/2023,11:30,Marítimo,Vit. Guimarães,4-2-3-1,José Gomes,9274,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869297
+31,dom 07/05/2023,11:30,Marítimo,Rio Ave,4-2-3-1,José Gomes,8641,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869306
+32,sáb 13/05/2023,16:30,Sporting,Marítimo,3-4-1-2,José Gomes,27130,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869327
+33,sex 19/05/2023,16:15,Marítimo,Vizela,4-2-3-1,José Gomes,10181,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869315
+34,sáb 27/05/2023,11:30,Estoril,Marítimo,4-3-3 ofensivo,José Gomes,2736,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869254

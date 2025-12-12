@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 03/08/2018,15:30,Hamburgo,Holstein Kiel,4-1-4-1,Christian Titz,57000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058415
+2,dom 12/08/2018,08:30,Sandhausen,Hamburgo,4-1-4-1,Christian Titz,14508,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058626
+3,seg 27/08/2018,15:30,Hamburgo,Arm. Bielefeld,4-1-4-1,Christian Titz,46934,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058729
+4,ter 18/09/2018,13:30,Dynamo Dresden,Hamburgo,4-1-4-1,Christian Titz,30723,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058763
+5,sáb 15/09/2018,08:00,Hamburgo,Heidenheim,4-1-4-1,Christian Titz,45379,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058765
+6,dom 23/09/2018,08:30,Hamburgo,J. Regensburg,4-1-4-1,Christian Titz,44716,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058774
+7,qui 27/09/2018,15:30,Greuther Fürth,Hamburgo,4-2-3-1,Christian Titz,14965,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058787
+8,dom 30/09/2018,08:30,Hamburgo,St. Pauli,4-2-3-1,Christian Titz,57000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058805
+9,sex 05/10/2018,13:30,Darmstadt 98,Hamburgo,4-1-4-1,Christian Titz,17400,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058833
+10,dom 21/10/2018,08:30,Hamburgo,Bochum,4-1-4-1,Christian Titz,51953,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058838
+11,sex 26/10/2018,13:30,Magdeburgo,Hamburgo,4-1-4-1,Hannes Wolf,23132,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058853
+12,seg 05/11/2018,17:30,Hamburgo,Colônia,4-1-4-1,Hannes Wolf,53876,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058855
+13,sáb 10/11/2018,10:00,Erzgebirge Aue,Hamburgo,4-1-4-1,Hannes Wolf,16080,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058870
+14,seg 26/11/2018,17:30,Hamburgo,Union Berlim,4-1-4-1,Hannes Wolf,46000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058911
+15,sáb 01/12/2018,10:00,Ingolstadt,Hamburgo,4-1-4-1,Hannes Wolf,13500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058903
+16,sex 07/12/2018,15:30,Hamburgo,Paderborn,4-1-4-1,Hannes Wolf,49449,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058920
+17,sex 14/12/2018,15:30,MSV Duisburg,Hamburgo,4-1-4-1,Hannes Wolf,26500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058931
+18,dom 23/12/2018,10:30,Holstein Kiel,Hamburgo,4-1-4-1,Hannes Wolf,11386,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058939
+19,qua 30/01/2019,17:30,Hamburgo,Sandhausen,4-1-4-1,Hannes Wolf,36564,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058947
+20,sáb 02/02/2019,10:00,Arm. Bielefeld,Hamburgo,4-1-4-1,Hannes Wolf,26515,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058957
+21,seg 11/02/2019,17:30,Hamburgo,Dynamo Dresden,4-3-3 ofensivo,Hannes Wolf,46924,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058965
+22,sáb 16/02/2019,10:00,Heidenheim,Hamburgo,4-1-4-1,Hannes Wolf,15000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058980
+23,dom 24/02/2019,09:30,J. Regensburg,Hamburgo,4-1-4-1,Hannes Wolf,15210,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058984
+24,seg 04/03/2019,16:30,Hamburgo,Greuther Fürth,4-1-4-1,Hannes Wolf,36560,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058992
+25,dom 10/03/2019,09:30,St. Pauli,Hamburgo,4-2-3-1,Hannes Wolf,29546,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059006
+26,sáb 16/03/2019,09:00,Hamburgo,Darmstadt 98,4-2-3-1,Hannes Wolf,54668,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059010
+27,sáb 30/03/2019,09:00,Bochum,Hamburgo,4-2-3-1,Hannes Wolf,26600,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059020
+28,seg 08/04/2019,15:30,Hamburgo,Magdeburgo,3-5-2,Hannes Wolf,49823,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059028
+29,seg 15/04/2019,15:30,Colônia,Hamburgo,4-2-3-1,Hannes Wolf,50000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059037
+30,sáb 20/04/2019,08:00,Hamburgo,Erzgebirge Aue,4-1-4-1,Hannes Wolf,52354,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059046
+31,dom 28/04/2019,08:30,Union Berlim,Hamburgo,3-4-2-1,Hannes Wolf,22012,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059057
+32,sáb 04/05/2019,08:00,Hamburgo,Ingolstadt,4-1-4-1,Hannes Wolf,50768,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059064
+33,dom 12/05/2019,10:30,Paderborn,Hamburgo,3-5-2 plano,Hannes Wolf,15000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058755
+34,dom 19/05/2019,10:30,Hamburgo,MSV Duisburg,4-2-3-1,Hannes Wolf,51147,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058738

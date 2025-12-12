@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 13/04/2024,21:00,Fluminense,Bragantino,4-3-3 ofensivo,Pedro Caixinha,17645,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316190
+2,qua 17/04/2024,19:00,Bragantino,Vasco da Gama,4-3-3 ofensivo,Pedro Caixinha,5532,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316263
+3,sáb 20/04/2024,18:30,Bragantino,Corinthians,4-3-3 ofensivo,Pedro Caixinha,9613,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316233
+4,dom 28/04/2024,18:30,Fortaleza,Bragantino,4-3-3 ofensivo,Pedro Caixinha,18113,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316274
+5,sáb 04/05/2024,18:30,Bragantino,Flamengo,4-2-3-1,Pedro Caixinha,9971,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316293
+6,dom 12/05/2024,18:30,Bahia,Bragantino,4-3-3 ofensivo,Pedro Caixinha,36820,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316309
+7,sáb 01/06/2024,16:00,Grêmio,Bragantino,4-2-3-1,Pedro Caixinha,7563,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316277
+8,ter 11/06/2024,21:30,Bragantino,Atlético-MG,4-3-3 ofensivo,Pedro Caixinha,4516,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316333
+9,sáb 15/06/2024,18:30,Bragantino,Juventude,4-3-3 ofensivo,Pedro Caixinha,3338,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316203
+10,qui 20/06/2024,21:30,Palmeiras,Bragantino,4-3-3 ofensivo,Pedro Malta,29119,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316242
+11,dom 23/06/2024,18:30,Bragantino,Vitória,4-3-3 ofensivo,Pedro Caixinha,4426,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316303
+12,qua 26/06/2024,19:00,Botafogo,Bragantino,3-4-3 plano,Pedro Caixinha,13333,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316341
+13,sáb 29/06/2024,18:30,Cuiabá,Bragantino,4-2-3-1,Pedro Caixinha,5024,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316215
+14,qua 03/07/2024,21:30,Bragantino,Atlético-GO,4-2-3-1,Pedro Caixinha,3102,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316353
+15,sáb 06/07/2024,20:00,São Paulo,Bragantino,4-2-3-1,Pedro Caixinha,46321,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316323
+16,qua 25/09/2024,19:00,Bragantino,Internacional,3-5-2 plano,Pedro Caixinha,3871,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316463
+17,sáb 13/07/2024,16:00,Cruzeiro,Bragantino,4-2-3-1,Pedro Caixinha,20042,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316388
+18,dom 21/07/2024,18:30,Bragantino,Athletico-PR,4-2-3-1,Pedro Caixinha,4343,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316543
+19,qua 28/08/2024,19:30,Criciúma,Bragantino,4-3-3 ofensivo,Pedro Caixinha,11849,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316386
+20,dom 28/07/2024,11:00,Bragantino,Fluminense,4-2-3-1,Pedro Caixinha,7304,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316503
+21,sáb 03/08/2024,19:00,Vasco da Gama,Bragantino,4-3-3 ofensivo,Pedro Caixinha,17938,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316361
+22,sáb 10/08/2024,21:30,Corinthians,Bragantino,4-3-3 ofensivo,Pedro Caixinha,42018,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316422
+23,sáb 17/08/2024,18:30,Bragantino,Fortaleza,4-3-3 ofensivo,Pedro Caixinha,3928,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316433
+24,dom 25/08/2024,20:00,Flamengo,Bragantino,4-2-3-1,Pedro Caixinha,28159,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316440
+25,dom 01/09/2024,18:30,Bragantino,Bahia,3-4-2-1,Pedro Caixinha,3921,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316533
+26,dom 15/09/2024,16:00,Bragantino,Grêmio,4-3-3 ofensivo,Pedro Caixinha,5228,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316413
+27,dom 22/09/2024,16:00,Atlético-MG,Bragantino,4-3-3 ofensivo,Pedro Caixinha,34533,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316508
+28,dom 29/09/2024,11:00,Juventude,Bragantino,4-1-4-1,Pedro Caixinha,6285,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316256
+29,sáb 05/10/2024,16:30,Bragantino,Palmeiras,4-1-4-1,Pedro Caixinha,9989,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316453
+30,sáb 19/10/2024,16:00,Vitória,Bragantino,4-2-3-1,Pedro Caixinha,25189,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316519
+31,sáb 26/10/2024,19:00,Bragantino,Botafogo,4-2-3-1,Pedro Caixinha,7400,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316483
+32,sáb 02/11/2024,16:00,Bragantino,Cuiabá,4-2-3-1,Fernando Seabra,4103,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316373
+33,sáb 09/11/2024,19:00,Atlético-GO,Bragantino,4-2-3-1,Fernando Seabra,2419,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316475
+34,qua 20/11/2024,16:30,Bragantino,São Paulo,4-2-3-1,Fernando Seabra,9017,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316553
+35,dom 24/11/2024,16:00,Internacional,Bragantino,4-2-3-1,Fernando Seabra,41762,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316217
+36,dom 01/12/2024,18:30,Bragantino,Cruzeiro,4-2-3-1,Fernando Seabra,6223,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316493
+37,qui 05/12/2024,20:00,Athletico-PR,Bragantino,4-2-3-1,Fernando Seabra,41626,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316564
+38,dom 08/12/2024,16:00,Bragantino,Criciúma,4-2-3-1,Fernando Seabra,9110,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316403

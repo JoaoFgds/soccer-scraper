@@ -1,0 +1,17 @@
+league_name,season_year,canonical_name,other_name,precision_score,is_confident_match
+ligaportugal,2013,academicadecoimbra,academica,67,False
+ligaportugal,2013,cdnacional,nacional,89,True
+ligaportugal,2013,cfosbelenenses,belenenses,83,True
+ligaportugal,2013,clubsportmaritimo,maritimo,64,False
+ligaportugal,2013,fcarouca,arouca,86,True
+ligaportugal,2013,fcpacosdeferreira,pacosferreira,87,True
+ligaportugal,2013,fcporto,fcporto,100,True
+ligaportugal,2013,gdestorilpraia,estoril,67,False
+ligaportugal,2013,gilvicentefutebolclube,gilvicente,62,False
+ligaportugal,2013,rioavefutebolclube,rioave,50,False
+ligaportugal,2013,scbraga,braga,83,True
+ligaportugal,2013,slbenfica,benfica,88,True
+ligaportugal,2013,sportingclubeolhanense,olhanense,58,False
+ligaportugal,2013,sportingcp,sporting,89,True
+ligaportugal,2013,vitoriafutebolclube,vitoriafc,64,False
+ligaportugal,2013,vitoriasportclube,vitguimaraes,48,False

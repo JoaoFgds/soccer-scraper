@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 18/08/2012,14:00,Lugo,Hércules CF,?,Quique Setién,3500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250691
+2,sáb 25/08/2012,14:00,Las Palmas,Lugo,?,Quique Setién,10440,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250703
+3,sáb 01/09/2012,13:00,Lugo,Córdoba,?,Quique Setién,4000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250709
+4,dom 09/09/2012,13:00,Real Sporting,Lugo,?,Quique Setién,18000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250711
+5,sáb 15/09/2012,13:00,Lugo,SD Huesca,?,Quique Setién,4500,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250713
+6,sáb 22/09/2012,13:00,Recr. Huelva,Lugo,?,Quique Setién,5120,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250715
+7,sáb 29/09/2012,13:00,Lugo,Mirandés,?,Quique Setién,3500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250717
+8,sáb 06/10/2012,13:00,Numância,Lugo,?,Quique Setién,3000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250719
+9,sáb 13/10/2012,13:00,Lugo,Real Murcia,?,Quique Setién,4000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250721
+10,dom 21/10/2012,08:00,Rac. Santander,Lugo,?,Quique Setién,7193,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250723
+11,dom 28/10/2012,15:00,Xerez CD,Lugo,?,Quique Setién,6000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250725
+12,dom 04/11/2012,15:00,Lugo,Elche,?,Quique Setién,4000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250727
+13,dom 11/11/2012,13:00,AD Alcorcón,Lugo,?,Quique Setién,2500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250729
+14,sáb 17/11/2012,15:00,Lugo,Girona,?,Quique Setién,3500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250731
+15,sáb 24/11/2012,17:00,Villarreal,Lugo,4-5-1,Quique Setién,8000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250733
+16,sáb 01/12/2012,15:00,Lugo,Barcelona B,?,Quique Setién,4500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250735
+17,sáb 08/12/2012,15:00,UD Almería,Lugo,?,Quique Setién,4952,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250737
+18,sex 14/12/2012,18:00,Lugo,RM Castilla,?,Quique Setién,3800,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250738
+19,sáb 22/12/2012,15:00,CE Sabadell,Lugo,?,Quique Setién,3028,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250739
+20,dom 06/01/2013,14:00,Lugo,CD Guadalajara,?,Quique Setién,3500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250741
+21,dom 13/01/2013,14:00,Ponferradina,Lugo,?,Quique Setién,8200,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250743
+22,dom 20/01/2013,09:00,Hércules CF,Lugo,?,Quique Setién,5500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250746
+23,sáb 26/01/2013,15:00,Lugo,Las Palmas,?,Quique Setién,4000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250748
+24,dom 03/02/2013,14:00,Córdoba,Lugo,?,Quique Setién,11861,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250750
+25,sáb 09/02/2013,15:00,Lugo,Real Sporting,?,Quique Setién,4800,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250752
+26,dom 17/02/2013,13:00,SD Huesca,Lugo,?,Quique Setién,3100,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250754
+27,sáb 23/02/2013,14:00,Lugo,Recr. Huelva,?,Quique Setién,4300,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250756
+28,dom 03/03/2013,13:00,Mirandés,Lugo,?,Quique Setién,4956,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250758
+29,sáb 09/03/2013,14:00,Lugo,Numância,?,Quique Setién,3500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250760
+30,dom 17/03/2013,08:00,Real Murcia,Lugo,?,Quique Setién,5624,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250762
+31,sáb 23/03/2013,14:00,Lugo,Rac. Santander,?,Quique Setién,3500,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250764
+32,sáb 30/03/2013,14:00,Lugo,Xerez CD,?,Quique Setién,4000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250766
+33,sáb 06/04/2013,15:00,Elche,Lugo,?,Quique Setién,13345,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250768
+34,sáb 13/04/2013,13:00,Lugo,AD Alcorcón,?,Quique Setién,3500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250770
+35,sáb 20/04/2013,12:00,Girona,Lugo,?,Quique Setién,7981,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250772
+36,sáb 27/04/2013,12:00,Lugo,Villarreal,?,Quique Setién,2500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250774
+37,sáb 04/05/2013,13:00,Barcelona B,Lugo,?,Quique Setién,3585,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250776
+38,sáb 11/05/2013,13:00,Lugo,UD Almería,?,Quique Setién,4000,3:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250778
+39,sáb 18/05/2013,13:00,RM Castilla,Lugo,?,Quique Setién,2220,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250779
+40,dom 26/05/2013,13:00,Lugo,CE Sabadell,?,Quique Setién,3500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250780
+41,dom 02/06/2013,13:00,CD Guadalajara,Lugo,?,Quique Setién,4500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250782
+42,sáb 08/06/2013,14:00,Lugo,Ponferradina,?,Quique Setién,6000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250784

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 09/08/2020,19:00,Grêmio,Fluminense,4-2-3-1,Odair Hellmann,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3392042
+2,qua 12/08/2020,21:30,Fluminense,Palmeiras,4-3-3 ofensivo,Odair Hellmann,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3411145
+3,dom 16/08/2020,18:00,Fluminense,Internacional,4-3-3 ofensivo,Odair Hellmann,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416084
+4,qua 19/08/2020,19:15,Bragantino,Fluminense,4-2-3-1,Odair Hellmann,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416218
+5,sáb 22/08/2020,16:00,Athletico-PR,Fluminense,4-2-3-1,Odair Hellmann,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416099
+6,sáb 29/08/2020,19:00,Fluminense,Vasco da Gama,4-2-3-1,Odair Hellmann,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416110
+7,qua 02/09/2020,19:15,Fluminense,Atlético-GO,4-3-3 defensivo,Odair Hellmann,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416121
+8,dom 06/09/2020,16:00,São Paulo,Fluminense,4-2-3-1,Odair Hellmann,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416133
+9,qua 09/09/2020,21:30,Fluminense,Flamengo,4-1-4-1,Odair Hellmann,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416167
+10,dom 13/09/2020,16:00,Fluminense,Corinthians,4-2-3-1,Odair Hellmann,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416239
+11,dom 20/09/2020,20:30,Sport,Fluminense,4-3-1-2,Odair Hellmann,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417537
+12,seg 28/09/2020,20:00,Fluminense,Coritiba,4-2-3-1,Odair Hellmann,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417545
+13,dom 04/10/2020,11:00,Botafogo,Fluminense,4-2-3-1,Odair Hellmann,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417556
+14,qua 07/10/2020,20:30,Goiás,Fluminense,4-2-3-1,Odair Hellmann,x,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417574
+15,dom 11/10/2020,16:00,Fluminense,Bahia,4-2-3-1,Odair Hellmann,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417575
+16,qua 14/10/2020,21:30,Atlético-MG,Fluminense,4-3-3 ofensivo,Odair Hellmann,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417589
+17,sáb 17/10/2020,19:00,Fluminense,Ceará,4-2-3-1,Odair Hellmann,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417595
+18,dom 25/10/2020,16:00,Fluminense,Santos,4-3-3 defensivo,Odair Hellmann,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417605
+19,sáb 31/10/2020,21:00,Fortaleza,Fluminense,4-4-2 duplo 6,Odair Hellmann,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417623
+20,dom 08/11/2020,20:30,Fluminense,Grêmio,4-2-3-1,Odair Hellmann,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417630
+21,sáb 14/11/2020,21:30,Palmeiras,Fluminense,4-2-3-1,Odair Hellmann,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417635
+22,dom 22/11/2020,17:15,Internacional,Fluminense,4-2-3-1,Odair Hellmann,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417656
+23,seg 30/11/2020,19:00,Fluminense,Bragantino,4-2-3-1,Odair Hellmann,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417666
+24,sáb 05/12/2020,18:00,Fluminense,Athletico-PR,4-3-3 defensivo,Odair Hellmann,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417652
+25,dom 13/12/2020,20:30,Vasco da Gama,Fluminense,4-4-2 duplo 6,Marcão,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417675
+26,qua 16/12/2020,21:30,Atlético-GO,Fluminense,4-1-4-1,Marcão,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417685
+27,sáb 26/12/2020,21:00,Fluminense,São Paulo,4-2-3-1,Marcão,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417688
+28,qua 06/01/2021,20:30,Flamengo,Fluminense,4-2-3-1,Marcão,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417501
+29,qua 13/01/2021,20:30,Corinthians,Fluminense,4-3-3 ofensivo,Marcão,x,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417515
+30,sáb 16/01/2021,19:00,Fluminense,Sport,4-3-3 ofensivo,Marcão,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417521
+31,qua 20/01/2021,20:30,Coritiba,Fluminense,4-2-3-1,Marcão,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417712
+32,dom 24/01/2021,20:30,Fluminense,Botafogo,4-2-3-1,Marcão,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417805
+33,dom 31/01/2021,20:30,Fluminense,Goiás,4-2-3-1,Marcão,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418066
+34,qua 03/02/2021,20:30,Bahia,Fluminense,4-2-3-1,Marcão,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418082
+35,qua 10/02/2021,20:30,Fluminense,Atlético-MG,4-2-3-1,Marcão,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418086
+36,seg 15/02/2021,18:00,Ceará,Fluminense,4-2-3-1,Marcão,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418104
+37,dom 21/02/2021,18:15,Santos,Fluminense,4-2-3-1,Marcão,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418109
+38,qui 25/02/2021,21:30,Fluminense,Fortaleza,4-2-3-1,Marcão,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418116

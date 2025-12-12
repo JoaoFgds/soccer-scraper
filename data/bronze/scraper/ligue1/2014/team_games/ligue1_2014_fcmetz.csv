@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 09/08/2014,16:00,Lille,FC Metz,4-2-3-1,Albert Cartier,34327,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482109
+2,sáb 16/08/2014,15:00,FC Metz,Nantes,4-4-2 duplo 6,Albert Cartier,20335,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482120
+3,sáb 23/08/2014,15:00,Montpellier,FC Metz,4-2-3-1,Albert Cartier,12337,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482130
+4,dom 31/08/2014,12:00,FC Metz,Lyon,4-2-3-1,Albert Cartier,20168,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482140
+5,sáb 13/09/2014,15:00,Nice,FC Metz,4-1-4-1,Albert Cartier,18019,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2500953
+6,sáb 20/09/2014,15:00,FC Metz,SC Bastia,4-2-3-1,Albert Cartier,18605,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482160
+7,qua 24/09/2014,14:00,Guingamp,FC Metz,4-2-3-1,Albert Cartier,12712,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482168
+8,sáb 27/09/2014,15:00,FC Metz,Reims,4-2-3-1,Albert Cartier,18273,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482180
+9,sáb 04/10/2014,15:00,Évian,FC Metz,4-2-3-1,Albert Cartier,10937,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482187
+10,sáb 18/10/2014,15:00,FC Metz,Rennes,4-2-3-1,Albert Cartier,18074,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482200
+11,dom 26/10/2014,14:00,Saint-Étienne,FC Metz,4-3-3 ofensivo,Albert Cartier,33991,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482213
+12,sáb 01/11/2014,17:00,FC Metz,SM Caen,4-2-3-1,Albert Cartier,17864,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482220
+13,sáb 08/11/2014,17:00,Toulouse,FC Metz,4-4-2 duplo 6,Albert Cartier,16412,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482234
+14,sex 21/11/2014,17:30,FC Metz,PSG,4-2-3-1,Albert Cartier,25012,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482240
+15,sáb 29/11/2014,17:00,Lens,FC Metz,4-2-3-1,Albert Cartier,8922,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482248
+16,qua 03/12/2014,16:00,FC Metz,Bordeaux,4-2-3-1,Albert Cartier,17866,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482260
+17,dom 07/12/2014,18:00,Marselha,FC Metz,4-4-2 duplo 6,Albert Cartier,45537,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482269
+18,sáb 13/12/2014,17:00,FC Lorient,FC Metz,4-2-3-1,Albert Cartier,11507,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482278
+19,sáb 20/12/2014,17:00,FC Metz,Monaco,4-3-3 ofensivo,Albert Cartier,18354,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482290
+20,dom 11/01/2015,14:00,Nantes,FC Metz,4-3-3 ofensivo,Albert Cartier,28090,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482300
+21,sáb 17/01/2015,17:00,FC Metz,Montpellier,4-1-4-1,Albert Cartier,16786,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482310
+22,dom 25/01/2015,11:00,Lyon,FC Metz,4-2-3-1,Albert Cartier,36580,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482320
+23,sáb 31/01/2015,17:00,FC Metz,Nice,4-2-3-1,Albert Cartier,15115,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482331
+24,sáb 07/02/2015,17:00,SC Bastia,FC Metz,5-3-2,Albert Cartier,11399,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482340
+25,dom 15/02/2015,14:00,FC Metz,Guingamp,4-4-1-1,Albert Cartier,20252,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482348
+26,dom 22/02/2015,13:00,Reims,FC Metz,4-1-4-1,Albert Cartier,12575,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482360
+27,sáb 28/02/2015,16:00,FC Metz,Évian,4-1-4-1,Albert Cartier,16286,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482367
+28,sáb 07/03/2015,16:00,Rennes,FC Metz,4-2-3-1,Albert Cartier,17174,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482380
+29,sáb 14/03/2015,13:00,FC Metz,Saint-Étienne,4-2-3-1,Albert Cartier,16721,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482393
+30,sáb 21/03/2015,16:00,SM Caen,FC Metz,4-1-4-1,Albert Cartier,15810,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482400
+31,sáb 04/04/2015,15:00,FC Metz,Toulouse,4-2-3-1,Albert Cartier,20027,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482414
+32,ter 28/04/2015,16:00,PSG,FC Metz,4-2-3-1,Albert Cartier,46337,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482420
+33,sáb 18/04/2015,15:00,FC Metz,Lens,4-2-3-1,Albert Cartier,16875,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482428
+34,sáb 25/04/2015,15:00,Bordeaux,FC Metz,4-4-2 duplo 6,Albert Cartier,22708,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482440
+35,sex 01/05/2015,15:30,FC Metz,Marselha,4-2-3-1,Albert Cartier,23190,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482449
+36,sáb 09/05/2015,15:00,FC Metz,FC Lorient,4-2-3-1,Albert Cartier,16986,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482458
+37,sáb 16/05/2015,16:00,Monaco,FC Metz,4-2-3-1,Albert Cartier,8627,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482470
+38,sáb 23/05/2015,16:00,FC Metz,Lille,4-4-1-1,Albert Cartier,15939,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2482478

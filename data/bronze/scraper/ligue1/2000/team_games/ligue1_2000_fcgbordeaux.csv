@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 29/07/2000,15:00,Bordeaux,FC Metz,?,Élie Baup,29751,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002776
+2,sáb 05/08/2000,15:00,SC Bastia,Bordeaux,?,Élie Baup,9285,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002785
+3,sáb 12/08/2000,15:00,Bordeaux,Troyes,?,Élie Baup,28228,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002792
+4,sáb 19/08/2000,12:30,Saint-Étienne,Bordeaux,?,Élie Baup,31384,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002801
+5,sáb 26/08/2000,15:00,Bordeaux,Lens,?,Élie Baup,32120,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002809
+6,qua 06/09/2000,15:00,Nantes,Bordeaux,4-4-2 duplo 6,Élie Baup,31501,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002823
+7,sáb 09/09/2000,15:00,Bordeaux,Guingamp,?,Élie Baup,25681,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002830
+8,sáb 16/09/2000,15:00,Marselha,Bordeaux,4-4-2 duplo 6,Élie Baup,51694,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002839
+9,sáb 23/09/2000,15:00,Bordeaux,Toulouse,?,Élie Baup,27355,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002846
+10,sáb 30/09/2000,15:00,Monaco,Bordeaux,?,Élie Baup,7775,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002857
+11,dom 15/10/2000,15:00,Auxerre,Bordeaux,?,Élie Baup,8296,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002870
+12,sáb 21/10/2000,16:00,Bordeaux,Lyon,?,Élie Baup,30107,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002873
+13,dom 29/10/2000,16:00,PSG,Bordeaux,?,Élie Baup,43432,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002887
+14,sáb 04/11/2000,17:00,Bordeaux,Lille,?,Élie Baup,29247,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002892
+15,dom 12/11/2000,14:30,Strasbourg,Bordeaux,?,Élie Baup,20987,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002906
+16,dom 19/11/2000,17:45,Bordeaux,Rennes,?,Élie Baup,26657,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002916
+17,dom 26/11/2000,17:45,CS Sedan,Bordeaux,?,Élie Baup,16697,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002924
+18,qua 29/11/2000,17:00,Bordeaux,SC Bastia,?,Élie Baup,24798,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002934
+19,sáb 02/12/2000,17:00,Troyes,Bordeaux,?,Élie Baup,14694,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002947
+20,dom 10/12/2000,17:45,Bordeaux,Saint-Étienne,?,Élie Baup,30693,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002957
+21,sáb 16/12/2000,17:00,Lens,Bordeaux,?,Élie Baup,40441,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002959
+22,qui 21/12/2000,15:00,Bordeaux,Nantes,?,Élie Baup,30968,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002968
+23,sáb 13/01/2001,17:00,Guingamp,Bordeaux,4-4-2 duplo 6,Élie Baup,12592,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002979
+24,sex 26/01/2001,17:45,Bordeaux,Marselha,5-3-2,Élie Baup,32497,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002985
+25,sáb 03/02/2001,17:00,Toulouse,Bordeaux,?,Élie Baup,29543,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003000
+26,qua 07/02/2001,17:00,Bordeaux,Monaco,?,Élie Baup,30455,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003006
+27,dom 18/02/2001,16:45,Bordeaux,Auxerre,?,Élie Baup,26532,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003020
+28,sáb 03/03/2001,13:15,Lyon,Bordeaux,?,Élie Baup,35445,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003021
+29,dom 18/03/2001,16:45,Bordeaux,PSG,?,Élie Baup,31703,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003038
+30,sex 06/04/2001,15:45,Lille,Bordeaux,4-4-2 losango,Élie Baup,19583,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003039
+31,sáb 14/04/2001,15:00,Bordeaux,Strasbourg,?,Élie Baup,30385,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003050
+32,sáb 28/04/2001,15:00,Rennes,Bordeaux,?,Élie Baup,22467,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003061
+33,sáb 12/05/2001,15:00,Bordeaux,CS Sedan,?,Élie Baup,32140,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003067
+34,sáb 19/05/2001,15:00,FC Metz,Bordeaux,?,Élie Baup,25468,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003077

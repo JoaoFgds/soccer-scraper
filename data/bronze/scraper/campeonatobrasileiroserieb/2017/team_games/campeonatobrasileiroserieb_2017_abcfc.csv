@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 13/05/2017,17:30,ABC,Paraná,4-2-3-1,Geninho,3214,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873890
+2,sáb 20/05/2017,20:00,Internacional,ABC,4-2-3-1,Geninho,27605,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873905
+3,sáb 27/05/2017,17:30,ABC,Vila Nova,4-2-3-1,Geninho,2976,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873911
+4,sáb 03/06/2017,17:30,Santa Cruz,ABC,4-2-3-1,Geninho,4834,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873922
+5,ter 06/06/2017,20:15,ABC,Paysandu,4-3-3 ofensivo,Geninho,3231,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873926
+6,sáb 10/06/2017,20:00,ABC,Figueirense,4-2-3-1,Geninho,5132,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873944
+7,ter 13/06/2017,21:30,Juventude,ABC,4-3-3 defensivo,Geninho,4353,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873958
+8,sex 16/06/2017,22:30,Goiás,ABC,4-3-3 defensivo,Geninho,5584,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873966
+9,ter 20/06/2017,21:30,ABC,CRB,4-2-3-1,Geninho,4393,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873983
+10,sex 23/06/2017,21:30,Boa Esporte,ABC,4-4-2 duplo 6,Geninho,831,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873991
+11,sáb 01/07/2017,19:00,ABC,Guarani,4-2-3-1,Geninho,2552,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2874008
+12,ter 04/07/2017,22:30,ABC,Náutico,4-2-3-1,Geninho,4124,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2880438
+13,ter 11/07/2017,19:15,Londrina,ABC,3-5-2,Geninho,5047,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2880821
+14,sáb 15/07/2017,21:00,Luverdense,ABC,4-2-3-1,Geninho,1216,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2880838
+15,ter 18/07/2017,20:30,ABC,América-MG,4-3-3 defensivo,Geninho,3893,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2888273
+16,sáb 22/07/2017,16:30,Criciúma,ABC,4-3-3 defensivo,Márcio Fernandes,3091,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893403
+17,seg 24/07/2017,19:00,ABC,Brasil Pelotas,4-3-3 defensivo,Márcio Fernandes,3230,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2895917
+18,ter 01/08/2017,20:30,Oeste,ABC,4-3-3 ofensivo,Márcio Fernandes,1072,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2902420
+19,sáb 05/08/2017,16:30,ABC,Ceará,4-4-2 duplo 6,Márcio Fernandes,7493,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2903013
+20,sáb 12/08/2017,16:30,Paraná,ABC,4-3-3 ofensivo,Márcio Fernandes,7800,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2905627
+21,sáb 19/08/2017,16:30,ABC,Internacional,4-3-3 ofensivo,Márcio Fernandes,6282,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2909874
+22,sáb 26/08/2017,16:30,Vila Nova,ABC,4-3-3 defensivo,Ranielle Ribeiro,18153,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2914701
+23,sáb 09/09/2017,19:00,ABC,Santa Cruz,4-2-3-1,Itamar Schulle,3395,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2920792
+24,sáb 16/09/2017,16:30,Paysandu,ABC,4-2-3-1,Itamar Schulle,6684,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2925035
+25,sáb 23/09/2017,16:30,Figueirense,ABC,4-3-1-2,Itamar Schulle,6316,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2926853
+26,ter 26/09/2017,21:30,ABC,Juventude,4-3-3 defensivo,Itamar Schulle,1277,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2928559
+27,sex 29/09/2017,20:30,ABC,Goiás,4-2-3-1,Itamar Schulle,1119,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2928820
+28,sex 06/10/2017,20:30,CRB,ABC,4-2-3-1,Itamar Schulle,12011,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2930346
+29,sáb 14/10/2017,16:30,ABC,Boa Esporte,4-2-3-1,Itamar Schulle,896,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2930851
+30,ter 17/10/2017,19:15,Guarani,ABC,4-2-3-1,Itamar Schulle,2633,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2932841
+31,sex 20/10/2017,20:30,Náutico,ABC,4-2-3-1,Ranielle Ribeiro,2474,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2934734
+32,sáb 28/10/2017,17:30,ABC,Londrina,4-2-3-1,Ranielle Ribeiro,2111,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2934768
+33,sex 03/11/2017,21:30,ABC,Luverdense,4-2-3-1,Ranielle Ribeiro,4087,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942388
+34,ter 07/11/2017,19:15,América-MG,ABC,4-2-3-1,Ranielle Ribeiro,5950,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942403
+35,sex 10/11/2017,21:30,ABC,Criciúma,4-2-3-1,Ranielle Ribeiro,1155,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2943651
+36,ter 14/11/2017,20:30,Brasil Pelotas,ABC,4-3-3 ofensivo,Ranielle Ribeiro,9913,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2943665
+37,sáb 18/11/2017,17:30,ABC,Oeste,4-3-3 ofensivo,Ranielle Ribeiro,1106,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2969477
+38,sáb 25/11/2017,17:30,Ceará,ABC,4-3-3 ofensivo,Ranielle Ribeiro,56999,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2969486

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 14/08/2021,14:30,Cádiz CF,Levante,4-2-3-1,Álvaro Cervera,6940,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605042
+2,sex 20/08/2021,16:00,Betis,Cádiz CF,4-4-2 duplo 6,Álvaro Cervera,23102,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605051
+3,dom 29/08/2021,14:30,Cádiz CF,Osasuna,4-1-4-1,Álvaro Cervera,7452,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605063
+4,dom 12/09/2021,13:30,Cádiz CF,Real Sociedad,4-4-2 duplo 6,Álvaro Cervera,11826,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605196
+5,sex 17/09/2021,16:00,Celta de Vigo,Cádiz CF,4-1-4-1,Álvaro Cervera,6754,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605208
+6,qui 23/09/2021,17:00,Cádiz CF,Barcelona,4-4-2 duplo 6,Álvaro Cervera,12180,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605216
+7,dom 26/09/2021,13:30,Rayo Vallecano,Cádiz CF,4-1-4-1,Álvaro Cervera,5903,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605285
+8,sáb 02/10/2021,13:30,Cádiz CF,Valencia,4-4-2 duplo 6,Álvaro Cervera,14794,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605298
+9,seg 18/10/2021,16:00,Espanyol,Cádiz CF,4-1-4-1,Álvaro Cervera,15678,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605308
+10,sáb 23/10/2021,11:15,Cádiz CF,Alavés,4-4-2 duplo 6,Álvaro Cervera,13790,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605327
+11,ter 26/10/2021,16:30,Villarreal,Cádiz CF,4-1-4-1,Álvaro Cervera,12190,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607530
+12,dom 31/10/2021,10:00,Cádiz CF,Mallorca,4-4-2 duplo 6,Álvaro Cervera,11790,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607534
+13,sex 05/11/2021,17:00,Athletic Club,Cádiz CF,4-4-2 duplo 6,Álvaro Cervera,37581,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607542
+14,dom 21/11/2021,10:00,Getafe,Cádiz CF,4-4-2 duplo 6,Álvaro Cervera,8825,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607554
+15,dom 28/11/2021,14:30,Cádiz CF,Atlético,4-4-2 duplo 6,Álvaro Cervera,16861,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607565
+16,dom 05/12/2021,12:15,Elche,Cádiz CF,4-4-2 duplo 6,Álvaro Cervera,11879,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607580
+17,seg 13/12/2021,17:00,Cádiz CF,Granada CF,4-4-1-1,Álvaro Cervera,13052,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607593
+18,dom 19/12/2021,17:00,Real Madrid,Cádiz CF,4-2-3-1,Álvaro Cervera,38818,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607605
+19,seg 03/01/2022,17:15,Cádiz CF,Sevilla,4-2-3-1,Álvaro Cervera,14342,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607614
+20,dom 09/01/2022,14:30,Osasuna,Cádiz CF,4-2-3-1,Álvaro Cervera,16292,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607623
+21,ter 18/01/2022,17:30,Cádiz CF,Espanyol,4-4-2,Sergio,10755,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3610277
+22,sáb 22/01/2022,10:00,Levante,Cádiz CF,4-4-2,Sergio,14063,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3610294
+23,sáb 05/02/2022,12:15,Mallorca,Cádiz CF,4-4-2,Sergio,13226,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3610324
+24,sáb 12/02/2022,10:00,Cádiz CF,Celta de Vigo,4-4-2 duplo 6,Sergio,15635,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3610343
+25,sáb 19/02/2022,14:30,Cádiz CF,Getafe,3-4-1-2,Sergio,15948,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3610363
+26,seg 28/02/2022,17:00,Granada CF,Cádiz CF,3-4-3 plano,Sergio,14785,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3610374
+27,dom 06/03/2022,10:00,Cádiz CF,Rayo Vallecano,4-4-2,Sergio,15677,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3610404
+28,sex 11/03/2022,17:00,Atlético,Cádiz CF,4-4-2 duplo 6,Sergio,50573,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3610430
+29,dom 20/03/2022,12:15,Cádiz CF,Villarreal,4-4-2,Sergio,13325,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3610561
+30,dom 03/04/2022,13:30,Valencia,Cádiz CF,4-4-2,Sergio,32949,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3610577
+31,sáb 09/04/2022,09:00,Cádiz CF,Betis,4-4-2,Sergio,18063,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611440
+32,seg 18/04/2022,16:00,Barcelona,Cádiz CF,4-2-3-1,Sergio,57495,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611452
+33,qui 21/04/2022,15:00,Cádiz CF,Athletic Club,4-4-2,Sergio,17360,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611463
+34,sex 29/04/2022,16:00,Sevilla,Cádiz CF,4-2-3-1,Sergio,37113,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611475
+35,sáb 07/05/2022,13:30,Cádiz CF,Elche,4-4-2 duplo 6,Sergio,17615,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611485
+36,qui 12/05/2022,14:00,Real Sociedad,Cádiz CF,4-2-3-1,Sergio,29014,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611494
+37,dom 15/05/2022,14:30,Cádiz CF,Real Madrid,4-4-2 duplo 6,Sergio,19643,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611505
+38,dom 22/05/2022,15:00,Alavés,Cádiz CF,4-4-2,Sergio,11138,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611509

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 09/08/2020,16:00,Santos,Bragantino,4-3-3 ofensivo,Cuca,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3392040
+2,qui 13/08/2020,19:30,Internacional,Santos,3-5-2 plano,Cuca,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3411148
+3,dom 16/08/2020,19:45,Santos,Athletico-PR,4-3-3 ofensivo,Cuca,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416087
+4,qui 20/08/2020,19:15,Sport,Santos,4-3-3 ofensivo,Cuca,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416224
+5,dom 23/08/2020,16:00,Palmeiras,Santos,4-3-3 ofensivo,Cuca,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416105
+6,dom 30/08/2020,16:00,Santos,Flamengo,4-3-3 ofensivo,Cuca,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416114
+7,qua 02/09/2020,21:30,Santos,Vasco da Gama,4-3-3 ofensivo,Cuca,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416125
+8,sáb 05/09/2020,21:00,Ceará,Santos,4-2-3-1,Cuca,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416131
+9,qua 09/09/2020,21:30,Santos,Atlético-MG,4-3-3 ofensivo,Cuca,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416168
+10,sáb 12/09/2020,19:00,Santos,São Paulo,4-2-3-1,Cuca,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416235
+11,dom 20/09/2020,18:15,Botafogo,Santos,4-3-3 ofensivo,Cuca,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417532
+12,dom 27/09/2020,20:30,Santos,Fortaleza,4-1-4-1,Cuca,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417548
+13,dom 04/10/2020,18:15,Goiás,Santos,4-2-3-1,Cuca,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417564
+14,qua 07/10/2020,19:00,Corinthians,Santos,4-4-2,Cuca,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417569
+15,dom 11/10/2020,16:00,Santos,Grêmio,4-2-3-1,Cuca,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417578
+16,qua 14/10/2020,20:30,Santos,Atlético-GO,4-2-3-1,Cuca,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417588
+17,sáb 17/10/2020,19:00,Coritiba,Santos,4-1-4-1,Cuca,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417602
+18,dom 25/10/2020,16:00,Fluminense,Santos,3-4-2-1,Cuca,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417605
+19,dom 01/11/2020,18:15,Santos,Bahia,4-3-3 ofensivo,Cuca,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417618
+20,dom 08/11/2020,18:15,Bragantino,Santos,4-1-4-1,Cuca,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417628
+21,sáb 14/11/2020,16:30,Santos,Internacional,4-2-3-1,Cuca,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417640
+22,sáb 21/11/2020,18:00,Athletico-PR,Santos,4-2-3-1,Cuca,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417659
+23,sáb 28/11/2020,16:00,Santos,Sport,4-3-3 defensivo,Cuca,x,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417671
+24,sáb 05/12/2020,17:00,Santos,Palmeiras,4-2-3-1,Cuca,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417647
+25,dom 13/12/2020,15:00,Flamengo,Santos,4-2-3-1,Cuca,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417678
+26,dom 20/12/2020,16:00,Vasco da Gama,Santos,4-2-3-1,Cuca,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417698
+27,dom 27/12/2020,18:15,Santos,Ceará,4-3-3 defensivo,Cuca,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417694
+28,ter 26/01/2021,20:00,Atlético-MG,Santos,4-1-4-1,Cuca,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417505
+29,dom 10/01/2021,15:00,São Paulo,Santos,4-1-4-1,Cuca,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417513
+30,dom 17/01/2021,16:00,Santos,Botafogo,4-2-3-1,Cuca,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417524
+31,qui 21/01/2021,19:00,Fortaleza,Santos,4-1-4-1,Cuca,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417713
+32,dom 24/01/2021,18:15,Santos,Goiás,4-3-3 ofensivo,Cuca,x,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417814
+33,qua 17/02/2021,18:00,Santos,Corinthians,4-3-3 ofensivo,Cuca,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418069
+34,qua 03/02/2021,15:00,Grêmio,Santos,4-1-4-1,Cuca,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418081
+35,sáb 06/02/2021,20:00,Atlético-GO,Santos,4-2-3-1,Cuca,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418095
+36,sáb 13/02/2021,19:00,Santos,Coritiba,4-3-3 ofensivo,Cuca,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418099
+37,dom 21/02/2021,18:15,Santos,Fluminense,4-3-3 ofensivo,Cuca,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418109
+38,qui 25/02/2021,21:30,Bahia,Santos,4-4-1-1,Marcelo Fernandes,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418122

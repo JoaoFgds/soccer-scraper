@@ -1,0 +1,31 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 11/08/2023,15:00,RFC Seraing,SL16 FC,4-3-3 ofensivo,Joseph Laumann,1015,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4093114
+2,dom 20/08/2023,14:15,SL16 FC,RFC Lüttich,4-3-3 ofensivo,Joseph Laumann,2943,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4099010
+3,ter 05/12/2023,16:00,SL16 FC,Beerschot VA,3-4-3 plano,Réginal Goreux,353,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4099205
+4,dom 03/09/2023,15:00,SK Beveren,SL16 FC,4-2-3-1,Joseph Laumann,2541,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4099226
+5,dom 17/09/2023,14:15,SL16 FC,KV Oostende,4-2-3-1,Joseph Laumann,245,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4099194
+6,sáb 23/09/2023,15:00,Club NXT,SL16 FC,4-1-4-1,Grégory Menard,366,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098997
+7,sex 29/09/2023,15:00,SL16 FC,Patro Eisden,3-4-2-1,Joseph Laumann,272,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4099168
+8,sex 06/10/2023,15:00,Lommel SK,SL16 FC,3-4-1-2,Joseph Laumann,1105,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4099022
+9,sáb 21/10/2023,11:00,RSCA Futures,SL16 FC,5-3-2,Joseph Laumann,419,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4099015
+10,dom 29/10/2023,12:00,SL16 FC,KMSK Deinze,4-2-3-1,Réginal Goreux,191,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4099135
+11,sáb 04/11/2023,16:00,Francs Borains,SL16 FC,4-2-3-1,Réginal Goreux,434,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4099130
+12,sex 10/11/2023,16:00,SL16 FC,Jong Genk,4-3-3 defensivo,Réginal Goreux,234,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4099214
+13,dom 26/11/2023,15:15,KSK Lierse Kem.,SL16 FC,4-3-3 defensivo,Réginal Goreux,2512,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4099087
+14,sáb 02/12/2023,12:00,SL16 FC,Zulte Waregem,4-3-3 defensivo,Réginal Goreux,346,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4099071
+15,sáb 09/12/2023,12:00,SL16 FC,FCV Dender EH,4-2-3-1,Réginal Goreux,178,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4099039
+16,dom 17/12/2023,12:00,KMSK Deinze,SL16 FC,3-4-2-1,Réginal Goreux,612,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4099063
+17,sáb 13/01/2024,12:00,SL16 FC,SK Beveren,3-4-3 plano,Réginal Goreux,329,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4099031
+18,dom 21/01/2024,12:00,Patro Eisden,SL16 FC,3-4-3 plano,Réginal Goreux,782,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4099081
+19,sex 26/01/2024,16:00,SL16 FC,Lommel SK,4-2-3-1,Réginal Goreux,192,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4099046
+20,sex 02/02/2024,16:00,SL16 FC,RSCA Futures,4-2-3-1,Réginal Goreux,841,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4099055
+21,dom 11/02/2024,12:00,Beerschot VA,SL16 FC,4-2-3-1,Réginal Goreux,4780,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4099117
+22,dom 18/02/2024,15:15,SL16 FC,Francs Borains,3-4-2-1,Réginal Goreux,302,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4099160
+23,sáb 24/02/2024,16:00,RFC Lüttich,SL16 FC,3-4-3 plano,Réginal Goreux,2543,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4099097
+24,sex 01/03/2024,16:00,Zulte Waregem,SL16 FC,4-3-3 defensivo,Réginal Goreux,5261,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4099100
+25,sáb 09/03/2024,12:00,SL16 FC,Club NXT,4-3-3 defensivo,Réginal Goreux,290,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4099149
+26,sáb 16/03/2024,16:45,FCV Dender EH,SL16 FC,4-3-3 defensivo,Réginal Goreux,658,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4099145
+27,sáb 30/03/2024,16:00,SL16 FC,KSK Lierse Kem.,4-2-3-1,Réginal Goreux,606,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4099111
+28,dom 07/04/2024,08:30,Jong Genk,SL16 FC,4-4-2,Réginal Goreux,287,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4099200
+29,dom 14/04/2024,11:00,SL16 FC,RFC Seraing,5-4-1 plano,Réginal Goreux,497,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4099185
+30,sex 19/04/2024,15:00,KV Oostende,SL16 FC,5-4-1,Réginal Goreux,4048,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4099175

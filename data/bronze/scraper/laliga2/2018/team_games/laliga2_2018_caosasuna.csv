@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 19/08/2018,14:00,Mallorca,Osasuna,4-2-3-1,Jagoba Arrasate,9450,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080463
+2,dom 26/08/2018,14:30,Osasuna,Elche,4-2-3-1,Jagoba Arrasate,14064,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080478
+3,dom 02/09/2018,16:00,Granada CF,Osasuna,4-4-2 duplo 6,Jagoba Arrasate,8713,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080484
+4,sáb 08/09/2018,11:00,Osasuna,UD Almería,4-4-2 duplo 6,Jagoba Arrasate,12818,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080495
+5,sáb 15/09/2018,11:00,Gimnàstic,Osasuna,5-3-2,Jagoba Arrasate,4576,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089561
+6,sáb 22/09/2018,11:00,Osasuna,Real Sporting,4-2-3-1,Jagoba Arrasate,13354,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089566
+7,dom 30/09/2018,13:00,Osasuna,Numância,4-2-3-1,Jagoba Arrasate,14457,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089584
+8,seg 08/10/2018,16:00,Zaragoza,Osasuna,4-3-3 ofensivo,Jagoba Arrasate,23850,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089595
+9,sáb 13/10/2018,11:00,Osasuna,Córdoba,4-2-3-1,Jagoba Arrasate,12996,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089615
+10,sáb 20/10/2018,11:00,Real Oviedo,Osasuna,4-2-3-1,Jagoba Arrasate,12218,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089605
+11,dom 28/10/2018,14:00,R. Majadahonda,Osasuna,4-2-3-1,Jagoba Arrasate,2482,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089620
+12,sáb 03/11/2018,14:00,Osasuna,Málaga CF,4-2-3-1,Jagoba Arrasate,14052,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089638
+13,sáb 10/11/2018,15:00,Extremadura,Osasuna,4-2-3-1,Jagoba Arrasate,8237,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089643
+14,sáb 17/11/2018,15:00,Osasuna,Tenerife,4-2-3-1,Jagoba Arrasate,14182,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089655
+15,sáb 24/11/2018,15:00,Deportivo,Osasuna,4-2-3-1,Jagoba Arrasate,13628,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089664
+16,dom 02/12/2018,13:00,Osasuna,Lugo,4-2-3-1,Jagoba Arrasate,13301,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089682
+17,sáb 08/12/2018,15:00,Albacete,Osasuna,4-2-3-1,Jagoba Arrasate,9602,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089684
+18,dom 16/12/2018,13:00,Osasuna,AD Alcorcón,4-2-3-1,Jagoba Arrasate,13437,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089701
+19,dom 23/12/2018,09:00,Reus Deportiu,Osasuna,4-2-3-1,Jagoba Arrasate,3516,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089816
+20,dom 06/01/2019,15:00,Osasuna,Cádiz CF,4-2-3-1,Jagoba Arrasate,14940,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089824
+21,sáb 12/01/2019,15:00,Las Palmas,Osasuna,4-1-4-1,Jagoba Arrasate,11005,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089833
+22,dom 20/01/2019,09:00,Osasuna,Mallorca,4-2-3-1,Jagoba Arrasate,14278,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089848
+23,sáb 26/01/2019,13:00,UD Almería,Osasuna,4-2-3-1,Jagoba Arrasate,7015,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089852
+24,dom 03/02/2019,15:00,Osasuna,Granada CF,4-2-3-1,Jagoba Arrasate,15083,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089870
+25,sex 08/02/2019,18:00,Real Sporting,Osasuna,4-2-3-1,Jagoba Arrasate,17806,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3093043
+26,dom 17/02/2019,12:00,Numância,Osasuna,4-2-3-1,Jagoba Arrasate,6024,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3093051
+27,sáb 23/02/2019,16:30,Osasuna,Zaragoza,4-4-2 duplo 6,Jagoba Arrasate,16750,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3093061
+28,sáb 02/03/2019,14:00,Osasuna,Gimnàstic,4-2-3-1,Jagoba Arrasate,15389,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3093069
+29,seg 11/03/2019,17:00,Málaga CF,Osasuna,4-2-3-1,Jagoba Arrasate,22692,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3093081
+30,dom 17/03/2019,14:00,Osasuna,R. Majadahonda,4-2-3-1,Jagoba Arrasate,16048,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3093098
+31,sex 22/03/2019,17:00,Tenerife,Osasuna,4-2-3-1,Jagoba Arrasate,9628,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3093109
+32,dom 31/03/2019,11:00,Osasuna,Extremadura,4-2-3-1,Jagoba Arrasate,16032,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3093119
+33,dom 07/04/2019,11:00,Lugo,Osasuna,4-2-3-1,Jagoba Arrasate,3752,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094021
+34,sáb 13/04/2019,13:00,Osasuna,Deportivo,4-2-3-1,Jagoba Arrasate,16383,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094035
+35,seg 22/04/2019,16:00,Elche,Osasuna,4-2-3-1,Jagoba Arrasate,10698,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094044
+36,sáb 27/04/2019,13:00,Osasuna,Albacete,4-2-3-1,Jagoba Arrasate,16819,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094064
+37,sáb 04/05/2019,11:00,AD Alcorcón,Osasuna,4-4-2 duplo 6,Jagoba Arrasate,3210,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094075
+38,dom 12/05/2019,11:00,Osasuna,Reus Deportiu,?,Jagoba Arrasate,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094092
+39,dom 19/05/2019,13:00,Cádiz CF,Osasuna,4-2-3-1,Jagoba Arrasate,15914,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094101
+40,sáb 25/05/2019,13:00,Osasuna,Las Palmas,4-4-2 duplo 6,Jagoba Arrasate,16682,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094119
+41,sex 31/05/2019,16:00,Córdoba,Osasuna,4-4-2 duplo 6,Jagoba Arrasate,2313,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094124
+42,sáb 08/06/2019,15:30,Osasuna,Real Oviedo,4-2-3-1,Jagoba Arrasate,14995,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094134

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 03/08/2003,12:30,Hansa Rostock,Stuttgart,4-4-2 losango,Armin Veh,26000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/393
+2,sáb 09/08/2003,10:30,Freiburg,Hansa Rostock,4-4-2,Armin Veh,23500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/560
+3,sáb 16/08/2003,10:30,Hansa Rostock,Frankfurt,4-4-2 duplo 6,Armin Veh,19600,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/776
+4,qua 27/08/2003,13:45,Hannover,Hansa Rostock,4-4-2 losango,Armin Veh,21312,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1026
+5,sáb 13/09/2003,10:30,Hansa Rostock,Bochum,4-4-2 duplo 6,Armin Veh,18000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1232
+6,dom 21/09/2003,12:30,Hamburgo,Hansa Rostock,4-1-4-1,Armin Veh,44304,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1461
+7,sáb 27/09/2003,10:30,Hansa Rostock,Bayern,5-4-1 plano,Armin Veh,29000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1635
+8,dom 05/10/2003,12:30,Leverkusen,Hansa Rostock,5-4-1 plano,Armin Veh,22500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1859
+9,sáb 18/10/2003,10:30,Wolfsburg,Hansa Rostock,4-4-2 duplo 6,Juri Schlünz,19846,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2044
+10,sáb 25/10/2003,11:30,Hansa Rostock,Hertha Berlim,4-4-2 duplo 6,Juri Schlünz,22000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2247
+11,sáb 01/11/2003,12:30,M'gladbach,Hansa Rostock,5-3-2,Juri Schlünz,30100,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2444
+12,sáb 08/11/2003,12:30,Hansa Rostock,K'lautern,5-3-2,Juri Schlünz,14600,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2647
+13,sáb 22/11/2003,12:30,Schalke,Hansa Rostock,5-3-2,Juri Schlünz,61266,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2849
+14,dom 30/11/2003,14:30,Hansa Rostock,Dortmund,5-3-2,Juri Schlünz,24300,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069
+15,sáb 06/12/2003,12:30,1860 Munique,Hansa Rostock,5-3-2,Juri Schlünz,18600,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3241
+16,sáb 13/12/2003,12:30,Hansa Rostock,Colônia,5-3-2,Juri Schlünz,22200,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3438
+17,ter 16/12/2003,17:00,Werder Bremen,Hansa Rostock,3-1-4-2,Juri Schlünz,36000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3640
+18,sáb 31/01/2004,12:30,Stuttgart,Hansa Rostock,5-3-2,Juri Schlünz,42000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870
+19,sáb 07/02/2004,12:30,Hansa Rostock,Freiburg,4-4-2 duplo 6,Juri Schlünz,14000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4045
+20,sáb 14/02/2004,12:30,Frankfurt,Hansa Rostock,5-3-2,Wolfgang Funkel,24000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4240
+21,sáb 21/02/2004,11:30,Hansa Rostock,Hannover,5-3-2,Juri Schlünz,16000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4439
+22,sáb 28/02/2004,11:30,Bochum,Hansa Rostock,5-3-2,Juri Schlünz,25110,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4604
+23,sáb 06/03/2004,11:30,Hansa Rostock,Hamburgo,3-5-2,Juri Schlünz,26000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4813
+24,sáb 13/03/2004,11:30,Bayern,Hansa Rostock,5-3-2,Juri Schlünz,41000,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5014
+25,sáb 20/03/2004,11:30,Hansa Rostock,Leverkusen,4-4-2 duplo 6,Juri Schlünz,24200,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5224
+26,sáb 27/03/2004,11:30,Hansa Rostock,Wolfsburg,5-3-2,Juri Schlünz,19800,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5415
+27,sáb 03/04/2004,10:30,Hertha Berlim,Hansa Rostock,3-5-2,Juri Schlünz,47305,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5632
+28,sáb 10/04/2004,10:30,Hansa Rostock,M'gladbach,5-3-2,Juri Schlünz,25800,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5858
+29,sáb 17/04/2004,10:30,K'lautern,Hansa Rostock,5-3-2,Juri Schlünz,34884,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6035
+30,sáb 24/04/2004,10:30,Hansa Rostock,Schalke,3-1-4-2,Juri Schlünz,26000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6246
+31,sáb 01/05/2004,10:30,Dortmund,Hansa Rostock,3-5-2 ofensivo,Juri Schlünz,83000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6452
+32,dom 09/05/2004,12:30,Hansa Rostock,1860 Munique,?,Juri Schlünz,23000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6686
+33,sáb 15/05/2004,10:30,Colônia,Hansa Rostock,4-4-2 losango,Juri Schlünz,41000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6859
+34,sáb 22/05/2004,10:30,Hansa Rostock,Werder Bremen,3-4-3,Juri Schlünz,29000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7076

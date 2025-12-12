@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 06/08/2016,11:00,Bristol City,Wigan,5-3-2,Gary Caldwell,17635,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2701251
+2,sáb 13/08/2016,11:00,Wigan,Blackburn,3-5-2,Gary Caldwell,12216,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716137
+3,ter 16/08/2016,15:45,Wigan,Birmingham,5-4-1 plano,Gary Caldwell,11182,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716148
+4,sáb 20/08/2016,11:00,Nott'm Forest,Wigan,3-4-2-1,Gary Caldwell,17750,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716159
+5,sáb 27/08/2016,11:00,Wigan,QPR,3-4-2-1,Gary Caldwell,10606,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716175
+6,sáb 10/09/2016,11:00,Sheff Wed,Wigan,5-4-1 plano,Gary Caldwell,24860,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716185
+7,ter 13/09/2016,15:45,Norwich,Wigan,4-2-3-1,Gary Caldwell,25992,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716193
+8,sáb 17/09/2016,11:00,Wigan,Fulham,4-2-3-1,Gary Caldwell,10582,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716211
+9,sex 23/09/2016,15:45,Preston NE,Wigan,4-2-3-1,Gary Caldwell,13077,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716213
+10,ter 27/09/2016,15:45,Wigan,Wolves,4-2-3-1,Gary Caldwell,10723,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716235
+11,sáb 01/10/2016,11:00,Brentford,Wigan,4-2-3-1,Gary Caldwell,9547,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716239
+12,sáb 15/10/2016,11:00,Wigan,Burton Albion,4-2-3-1,Gary Caldwell,10430,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716260
+13,ter 18/10/2016,16:45,Leeds,Wigan,4-2-3-1,Gary Caldwell,19861,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716269
+14,sáb 22/10/2016,12:00,Wigan,Brighton,4-2-3-1,Gary Caldwell,10430,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716283
+15,sáb 29/10/2016,12:00,Cardiff,Wigan,4-2-3-1,Graham Barrow,15969,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716288
+16,sáb 05/11/2016,13:00,Wigan,Reading,4-2-3-1,Warren Joyce,10277,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716307
+17,sáb 19/11/2016,13:00,Barnsley FC,Wigan,4-1-4-1,Warren Joyce,12181,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716309
+18,seg 28/11/2016,17:45,Huddersfield,Wigan,4-4-1-1,Warren Joyce,18943,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716326
+19,sáb 03/12/2016,13:00,Wigan,Derby,4-2-3-1,Warren Joyce,12526,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716344
+20,sáb 10/12/2016,13:00,Aston Villa,Wigan,4-2-3-1,Warren Joyce,29392,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716346
+21,qua 14/12/2016,17:45,Wigan,Newcastle,4-2-3-1,Warren Joyce,14562,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716368
+22,sáb 17/12/2016,13:00,Wigan,Ipswich,4-2-3-1,Warren Joyce,10071,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716380
+23,seg 26/12/2016,13:00,Rotherham,Wigan,4-2-3-1,Warren Joyce,10158,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716391
+24,sáb 31/12/2016,13:00,Derby,Wigan,4-2-3-1,Warren Joyce,28289,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716400
+25,seg 02/01/2017,13:00,Wigan,Huddersfield,4-2-3-1,Warren Joyce,13480,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716416
+26,sáb 14/01/2017,13:00,Burton Albion,Wigan,4-1-4-1,Warren Joyce,4411,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716420
+27,sáb 21/01/2017,13:00,Wigan,Brentford,4-1-4-1,Warren Joyce,10244,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716440
+28,ter 21/02/2017,16:45,QPR,Wigan,4-4-1-1,Warren Joyce,12101,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716448
+29,ter 07/02/2017,17:45,Wigan,Norwich,4-2-3-1,Warren Joyce,10193,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716462
+30,sex 03/02/2017,17:45,Wigan,Sheff Wed,4-2-3-1,Warren Joyce,13037,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716476
+31,sáb 11/02/2017,13:00,Fulham,Wigan,4-2-3-1,Warren Joyce,15552,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716480
+32,ter 14/02/2017,17:45,Wolves,Wigan,4-4-2,Warren Joyce,17156,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716499
+33,sáb 18/02/2017,13:00,Wigan,Preston NE,4-2-3-1,Warren Joyce,15117,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716512
+34,sáb 25/02/2017,12:00,Wigan,Nott'm Forest,4-4-2,Warren Joyce,11254,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716521
+35,sáb 04/03/2017,12:00,Blackburn,Wigan,4-1-4-1,Graham Barrow,13165,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716525
+36,ter 07/03/2017,16:45,Birmingham,Wigan,3-4-2-1,Warren Joyce,15596,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716536
+37,sáb 11/03/2017,12:00,Wigan,Bristol City,4-2-3-1,Warren Joyce,10787,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716558
+38,sáb 18/03/2017,12:00,Wigan,Aston Villa,4-1-4-1,Graham Barrow,14811,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716571
+39,sáb 01/04/2017,11:00,Newcastle,Wigan,5-4-1 plano,Graham Barrow,51849,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716579
+40,ter 04/04/2017,15:45,Ipswich,Wigan,5-4-1 plano,Graham Barrow,14661,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716590
+41,sáb 08/04/2017,11:00,Wigan,Rotherham,4-2-3-1,Graham Barrow,10085,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716607
+42,qui 13/04/2017,15:45,Wigan,Barnsley FC,4-1-4-1,Graham Barrow,10838,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716619
+43,seg 17/04/2017,11:00,Brighton,Wigan,4-1-4-1,Graham Barrow,29940,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716623
+44,sáb 22/04/2017,11:00,Wigan,Cardiff,4-1-4-1,Graham Barrow,10875,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716641
+45,sáb 29/04/2017,11:00,Reading,Wigan,5-4-1 plano,Graham Barrow,19177,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716655
+46,dom 07/05/2017,08:00,Wigan,Leeds,3-4-2-1,Graham Barrow,15280,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716672

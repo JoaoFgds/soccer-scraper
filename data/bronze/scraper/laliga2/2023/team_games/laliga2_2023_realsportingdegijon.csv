@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 11/08/2023,16:30,Valladolid,Real Sporting,4-2-3-1,Miguel Ángel Ramírez,16912,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094224
+2,dom 20/08/2023,14:30,Real Sporting,Mirandés,4-4-2,Miguel Ángel Ramírez,18394,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094235
+3,dom 27/08/2023,12:00,Racing Ferrol,Real Sporting,4-2-3-1,Miguel Ángel Ramírez,9010,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094241
+4,sáb 02/09/2023,11:15,Real Sporting,Burgos CF,3-4-2-1,Miguel Ángel Ramírez,16890,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094261
+5,sáb 09/09/2023,13:30,Real Oviedo,Real Sporting,5-4-1 plano,Miguel Ángel Ramírez,22121,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094267
+6,dom 17/09/2023,16:00,Real Sporting,Tenerife,4-4-2,Miguel Ángel Ramírez,15792,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094282
+7,sáb 23/09/2023,09:00,FC Andorra,Real Sporting,4-4-2,Miguel Ángel Ramírez,2120,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094287
+8,dom 01/10/2023,16:00,SD Huesca,Real Sporting,4-4-2,Miguel Ángel Ramírez,4884,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094303
+9,qua 04/10/2023,16:30,Real Sporting,Elche,4-4-2,Miguel Ángel Ramírez,14916,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094316
+10,sáb 07/10/2023,13:30,Rac. Santander,Real Sporting,4-4-2,Miguel Ángel Ramírez,19356,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094372
+11,sáb 14/10/2023,13:30,Real Sporting,Zaragoza,4-4-2,Miguel Ángel Ramírez,20698,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094385
+12,dom 22/10/2023,13:30,Albacete,Real Sporting,4-4-2,Miguel Ángel Ramírez,11007,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094391
+13,sáb 28/10/2023,13:30,Real Sporting,Espanyol,4-4-2,Miguel Ángel Ramírez,19951,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094465
+14,sáb 04/11/2023,12:15,Villarreal CF B,Real Sporting,5-4-1 plano,Miguel Ángel Ramírez,2598,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094476
+15,sáb 11/11/2023,17:00,Real Sporting,SD Amorebieta,4-4-2,Miguel Ángel Ramírez,18972,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094485
+16,sáb 18/11/2023,12:15,AD Alcorcón,Real Sporting,4-2-3-1,Miguel Ángel Ramírez,4414,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4116560
+17,seg 27/11/2023,17:00,Real Sporting,Eldense,4-4-1-1,Miguel Ángel Ramírez,14892,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4116580
+18,sáb 02/12/2023,12:15,FC Cartagena,Real Sporting,5-4-1 plano,Miguel Ángel Ramírez,5702,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4116585
+19,sáb 09/12/2023,14:30,Real Sporting,Levante,4-4-2,Miguel Ángel Ramírez,19640,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4116602
+20,sáb 16/12/2023,14:30,Real Sporting,Leganés,4-4-2,Miguel Ángel Ramírez,20035,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4116614
+21,qua 20/12/2023,17:30,Eibar,Real Sporting,4-4-2,Miguel Ángel Ramírez,4054,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4116616
+22,dom 14/01/2024,12:15,Real Sporting,SD Huesca,4-4-2,Miguel Ángel Ramírez,19471,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4204517
+23,sáb 20/01/2024,14:30,Tenerife,Real Sporting,4-4-2,Miguel Ángel Ramírez,16230,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4204528
+24,dom 28/01/2024,17:00,Real Sporting,Racing Ferrol,4-4-2,Miguel Ángel Ramírez,20096,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4204536
+25,seg 05/02/2024,16:30,Zaragoza,Real Sporting,4-4-2,Miguel Ángel Ramírez,21147,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4204550
+26,sáb 10/02/2024,14:30,Real Sporting,Real Oviedo,4-2-3-1,Miguel Ángel Ramírez,26794,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4204560
+27,sáb 17/02/2024,14:30,Real Sporting,Valladolid,4-4-2,Miguel Ángel Ramírez,21130,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4204566
+28,dom 25/02/2024,12:15,Burgos CF,Real Sporting,5-4-1 plano,Miguel Ángel Ramírez,11083,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4204574
+29,sex 01/03/2024,16:30,Real Sporting,Albacete,3-4-1-2,Miguel Ángel Ramírez,16790,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4204589
+30,dom 10/03/2024,12:15,Levante,Real Sporting,4-2-3-1,Miguel Ángel Ramírez,12704,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4204599
+31,sáb 16/03/2024,17:00,Real Sporting,AD Alcorcón,3-4-1-2,Miguel Ángel Ramírez,18390,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4204612
+32,dom 24/03/2024,10:00,SD Amorebieta,Real Sporting,4-4-2,Miguel Ángel Ramírez,1720,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4204619
+33,sáb 30/03/2024,14:30,Real Sporting,Rac. Santander,4-4-2,Miguel Ángel Ramírez,22972,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4204637
+34,dom 07/04/2024,11:15,Mirandés,Real Sporting,3-4-1-2,Miguel Ángel Ramírez,4002,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4204644
+35,sáb 13/04/2024,11:15,Real Sporting,FC Cartagena,4-4-2,Miguel Ángel Ramírez,19594,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4204656
+36,sáb 20/04/2024,13:30,Elche,Real Sporting,5-3-2,Miguel Ángel Ramírez,16771,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4204663
+37,dom 28/04/2024,09:00,Real Sporting,Villarreal CF B,3-5-2 plano,Miguel Ángel Ramírez,20281,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4204679
+38,dom 05/05/2024,11:15,Espanyol,Real Sporting,4-4-2,Miguel Ángel Ramírez,25015,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4204684
+39,sáb 11/05/2024,11:15,Real Sporting,FC Andorra,4-2-3-1,Miguel Ángel Ramírez,19146,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4204701
+40,sáb 18/05/2024,11:15,Leganés,Real Sporting,4-4-2,Miguel Ángel Ramírez,11306,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4204710
+41,dom 26/05/2024,13:30,Real Sporting,Eibar,4-4-2,Miguel Ángel Ramírez,24816,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4204725
+42,dom 02/06/2024,13:30,Eldense,Real Sporting,4-4-2,Miguel Ángel Ramírez,5776,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4204730

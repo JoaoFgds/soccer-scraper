@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 11/08/2018,14:00,Benfica B,Leixões,4-4-2 duplo 6,Bruno Lage,654,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070429
+2,dom 19/08/2018,07:15,Arouca,Benfica B,4-4-2 duplo 6,Bruno Lage,840,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070440
+3,dom 26/08/2018,14:00,Benfica B,Mafra,4-4-2 duplo 6,Bruno Lage,1008,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070452
+4,sáb 01/09/2018,07:15,Académica,Benfica B,4-4-2 duplo 6,Bruno Lage,2922,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070481
+5,sáb 22/09/2018,14:00,Benfica B,Varzim,4-4-1-1,Bruno Lage,504,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070495
+6,sáb 06/10/2018,07:00,Cova da Piedade,Benfica B,4-4-1-1,Bruno Lage,748,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070500
+7,sáb 27/10/2018,14:00,Benfica B,Covilhã,4-4-1-1,Bruno Lage,442,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070515
+8,sáb 03/11/2018,08:00,Paços Ferreira,Benfica B,4-4-1-1,Bruno Lage,1726,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070519
+9,sáb 10/11/2018,09:00,Penafiel,Benfica B,4-4-1-1,Bruno Lage,594,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070530
+10,sex 30/11/2018,18:00,Benfica B,Estoril,?,Bruno Lage,412,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070542
+11,qui 06/12/2018,18:15,Farense,Benfica B,4-4-1-1,Bruno Lage,1850,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070545
+12,sáb 15/12/2018,15:00,Benfica B,UD Oliveirense,4-4-1-1,Bruno Lage,496,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070560
+13,sáb 22/12/2018,09:00,Famalicão,Benfica B,4-4-1-1,Bruno Lage,4050,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070575
+14,qua 16/01/2019,13:00,Benfica B,Académico FC,4-3-3 ofensivo,Renato Paiva,378,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070586
+15,sáb 05/01/2019,13:00,FC Porto B,Benfica B,4-4-1-1,Nélson Veríssimo,1314,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070590
+16,qua 09/01/2019,15:00,Vitória SC B,Benfica B,?,Nélson Veríssimo,1044,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070603
+17,dom 13/01/2019,09:15,Benfica B,Braga B,4-3-3 ofensivo,Nélson Veríssimo,522,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070614
+18,dom 20/01/2019,09:15,Leixões,Benfica B,?,Renato Paiva,653,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070706
+19,qua 30/01/2019,14:00,Benfica B,Arouca,?,Renato Paiva,293,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070771
+20,sáb 02/02/2019,09:00,Mafra,Benfica B,4-3-3 ofensivo,Renato Paiva,636,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070778
+21,sáb 09/02/2019,15:00,Benfica B,Académica,4-2-3-1,Renato Paiva,908,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070789
+22,sáb 16/02/2019,09:00,Varzim,Benfica B,4-3-3 ofensivo,Renato Paiva,1357,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070798
+23,dom 24/02/2019,08:15,Benfica B,Cova da Piedade,4-4-2,Renato Paiva,788,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070800
+24,dom 03/03/2019,08:15,Covilhã,Benfica B,4-1-4-1,Renato Paiva,842,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070815
+25,sáb 09/03/2019,12:00,Benfica B,Paços Ferreira,4-3-3 ofensivo,Renato Paiva,861,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070819
+26,sáb 16/03/2019,12:00,Benfica B,Penafiel,4-3-3 ofensivo,Renato Paiva,549,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070828
+27,dom 31/03/2019,07:15,Estoril,Benfica B,4-3-3 ofensivo,Renato Paiva,1382,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070843
+28,sex 05/04/2019,15:00,Benfica B,Farense,4-3-3 ofensivo,Renato Paiva,554,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070848
+29,sex 12/04/2019,16:00,UD Oliveirense,Benfica B,4-3-3 ofensivo,Renato Paiva,481,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070861
+30,sáb 20/04/2019,13:00,Benfica B,Famalicão,4-3-3 ofensivo,Renato Paiva,1550,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070866
+31,dom 28/04/2019,11:00,Académico FC,Benfica B,4-1-4-1,Renato Paiva,1210,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070879
+32,dom 05/05/2019,07:15,Benfica B,FC Porto B,4-1-4-1,Renato Paiva,676,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070885
+33,sáb 11/05/2019,12:00,Benfica B,Vitória SC B,4-3-3 ofensivo,Renato Paiva,572,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070895
+34,sáb 18/05/2019,07:00,Braga B,Benfica B,4-3-3 ofensivo,Renato Paiva,146,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070907

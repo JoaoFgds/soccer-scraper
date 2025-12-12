@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 08/08/1997,19:00,Leeds,Arsenal,4-4-2,Arsène Wenger,37993,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941312
+2,dom 10/08/1997,19:00,Arsenal,Coventry City,4-4-2,Arsène Wenger,37324,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941315
+3,sex 22/08/1997,19:00,Southampton,Arsenal,4-4-2 duplo 6,Arsène Wenger,15246,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941325
+4,ter 26/08/1997,19:00,Leicester,Arsenal,4-4-2 duplo 6,Arsène Wenger,21089,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941337
+5,sex 29/08/1997,19:00,Arsenal,Tottenham,4-4-1-1,Arsène Wenger,38102,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941346
+6,sex 12/09/1997,19:00,Arsenal,Bolton,4-4-2 duplo 6,Arsène Wenger,38138,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941357
+7,sáb 20/09/1997,19:00,Chelsea,Arsenal,4-4-2 duplo 6,Arsène Wenger,33012,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941374
+8,ter 23/09/1997,19:00,Arsenal,West Ham,4-4-2 duplo 6,Arsène Wenger,38012,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941381
+9,sex 26/09/1997,19:00,Everton,Arsenal,3-4-2-1,Arsène Wenger,35457,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941391
+10,sex 03/10/1997,19:00,Arsenal,Barnsley FC,4-4-2 duplo 6,Arsène Wenger,38049,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941396
+11,sex 17/10/1997,20:00,Crystal Palace,Arsenal,4-4-2 duplo 6,Arsène Wenger,26180,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941409
+12,sáb 25/10/1997,20:00,Arsenal,Aston Villa,4-4-2 duplo 6,Arsène Wenger,38061,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941422
+13,sex 31/10/1997,21:00,Derby,Arsenal,4-4-2 duplo 6,Arsène Wenger,30004,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941432
+14,sáb 08/11/1997,21:00,Arsenal,Man Utd,4-4-2,Arsène Wenger,38205,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941442
+15,sex 21/11/1997,21:00,Sheff Wed,Arsenal,5-4-1 plano,Arsène Wenger,34373,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941449
+16,sáb 29/11/1997,21:00,Arsenal,Liverpool,4-4-2 duplo 6,Arsène Wenger,38094,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941464
+17,sex 05/12/1997,21:00,Newcastle,Arsenal,4-4-2,Arsène Wenger,36751,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941467
+18,sex 12/12/1997,21:00,Arsenal,Blackburn,4-4-2 duplo 6,Arsène Wenger,38147,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941475
+19,ter 10/03/1998,20:00,Wimbledon FC,Arsenal,4-4-2 duplo 6,Arsène Wenger,22291,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941494
+20,qui 25/12/1997,21:00,Arsenal,Leicester,4-4-2 duplo 6,Arsène Wenger,38023,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941497
+21,sáb 27/12/1997,21:00,Tottenham,Arsenal,4-4-2 duplo 6,Arsène Wenger,29610,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942107
+22,sex 09/01/1998,21:00,Arsenal,Leeds,4-4-2 duplo 6,Arsène Wenger,38018,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942113
+23,sex 16/01/1998,21:00,Coventry City,Arsenal,5-3-2,Arsène Wenger,22864,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942127
+24,sex 30/01/1998,21:00,Arsenal,Southampton,4-4-2 duplo 6,Arsène Wenger,38056,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942136
+25,sáb 07/02/1998,21:00,Arsenal,Chelsea,4-4-2 duplo 6,Arsène Wenger,38083,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942152
+26,seg 30/03/1998,19:00,Bolton,Arsenal,4-4-2 duplo 6,Arsène Wenger,25000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942163
+27,sex 20/02/1998,21:00,Arsenal,Crystal Palace,4-4-1-1,Arsène Wenger,38094,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942172
+28,dom 01/03/1998,20:00,West Ham,Arsenal,4-3-2-1,Arsène Wenger,25717,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942184
+29,ter 28/04/1998,19:00,Arsenal,Derby,4-4-2 duplo 6,Arsène Wenger,38121,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942191
+30,sáb 14/03/1998,08:15,Man Utd,Arsenal,4-4-2 duplo 6,Arsène Wenger,55174,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942198
+31,sex 27/03/1998,20:00,Arsenal,Sheff Wed,4-4-2 duplo 6,Arsène Wenger,38087,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942207
+32,ter 05/05/1998,19:00,Liverpool,Arsenal,4-3-3 defensivo,Arsène Wenger,44417,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942227
+33,sex 10/04/1998,19:00,Arsenal,Newcastle,4-4-2 duplo 6,Arsène Wenger,38102,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942229
+34,dom 12/04/1998,19:00,Blackburn,Arsenal,4-4-2 duplo 6,Arsène Wenger,28212,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942243
+35,sex 17/04/1998,19:00,Arsenal,Wimbledon FC,4-4-2 duplo 6,Arsène Wenger,38024,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942249
+36,sex 24/04/1998,19:00,Barnsley FC,Arsenal,4-3-3 defensivo,Arsène Wenger,18691,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942259
+37,sáb 02/05/1998,19:00,Arsenal,Everton,4-3-3 defensivo,Arsène Wenger,38269,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941293
+38,sáb 09/05/1998,19:00,Aston Villa,Arsenal,4-4-2 duplo 6,Arsène Wenger,39372,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941295

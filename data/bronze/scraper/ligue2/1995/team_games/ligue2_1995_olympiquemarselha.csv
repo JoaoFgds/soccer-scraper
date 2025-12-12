@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,ter 18/07/1995,19:00,Marselha,Le Mans UC 72,5-3-2,Henri Stambouli,22000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3240318
+2,ter 25/07/1995,19:00,SAS Epinal,Marselha,5-3-2,Henri Stambouli,8000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3240329
+3,sex 28/07/1995,19:00,Marselha,Angers,5-3-2,Henri Stambouli,17000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3290963
+4,sex 04/08/1995,19:00,Louh.-Cuiseaux,Marselha,5-3-2,Henri Stambouli,7000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3290974
+5,ter 08/08/1995,19:00,Marselha,Amiens SC,5-3-2,Henri Stambouli,15000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3290984
+6,sex 11/08/1995,19:00,Perpignan,Marselha,5-3-2,Henri Stambouli,8000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3290998
+7,sex 18/08/1995,19:00,Marselha,USL Dunkerque,5-3-2,Henri Stambouli,16000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3291008
+8,sex 25/08/1995,19:00,SM Caen,Marselha,5-3-2,Henri Stambouli,20000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3291012
+9,qua 30/08/1995,19:00,Marselha,Toulouse,5-3-2,Henri Stambouli,18000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3291033
+10,sex 08/09/1995,19:00,Mulhouse S-A,Marselha,5-3-2,Gérard Gili,5000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3292561
+11,sex 15/09/1995,19:00,Marselha,Stade Lavallois,4-3-1-2,Gérard Gili,12000,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3292578
+12,sex 22/09/1995,19:00,Olympique Alès,Marselha,4-3-1-2,Gérard Gili,5000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3292581
+13,sex 29/09/1995,20:00,Marselha,FC Lorient,4-3-1-2,Gérard Gili,12000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3292599
+14,qua 04/10/1995,20:00,AS Nancy,Marselha,5-3-2,Gérard Gili,8600,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3292613
+15,sex 13/10/1995,20:00,Marselha,Stade Poitevin,5-3-2,Gérard Gili,8000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3292621
+16,sex 20/10/1995,21:00,Marselha,LB Châteauroux,5-3-2,Gérard Gili,12000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3295149
+17,sáb 28/10/1995,21:00,AS Red Star 93,Marselha,4-3-1-2,Gérard Gili,6827,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3295165
+18,sex 03/11/1995,21:00,Marselha,Chamois Niort,4-3-1-2,Gérard Gili,8000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3295167
+19,qui 09/11/1995,21:00,ASOA Valence,Marselha,4-3-1-2,Gérard Gili,8900,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3295178
+20,sex 17/11/1995,21:00,Marselha,O Charleville,4-3-1-2,Gérard Gili,10000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3295191
+21,qui 23/11/1995,21:00,FC Sochaux,Marselha,4-3-1-2,Gérard Gili,9500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3295217
+22,sex 08/12/1995,21:00,Marselha,SAS Epinal,4-3-1-2,Gérard Gili,9000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3301575
+23,ter 09/01/1996,21:00,Angers,Marselha,4-3-1-2,Gérard Gili,7176,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3301592
+24,sex 19/01/1996,21:00,Marselha,Louh.-Cuiseaux,4-3-1-2,Gérard Gili,5000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3301600
+25,sex 26/01/1996,21:00,Amiens SC,Marselha,4-3-1-2,Gérard Gili,7268,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3301614
+26,ter 06/02/1996,21:00,Marselha,Perpignan,4-3-1-2,Gérard Gili,8000,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3301619
+27,sex 09/02/1996,21:00,USL Dunkerque,Marselha,4-3-1-2,Gérard Gili,7000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3301630
+28,sáb 17/02/1996,20:00,Marselha,SM Caen,4-3-1-2,Gérard Gili,39408,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3301644
+29,seg 26/02/1996,20:00,Toulouse,Marselha,4-3-1-2,Gérard Gili,30000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302602
+30,sex 01/03/1996,20:00,Marselha,Mulhouse S-A,4-3-1-2,Gérard Gili,10000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302616
+31,qui 07/03/1996,20:00,Stade Lavallois,Marselha,4-3-1-2,Gérard Gili,13000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302634
+32,ter 12/03/1996,20:00,Marselha,Olympique Alès,4-3-1-2,Gérard Gili,9000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302641
+33,sex 22/03/1996,20:00,FC Lorient,Marselha,4-3-1-2,Gérard Gili,11000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302655
+34,sex 29/03/1996,20:00,Marselha,AS Nancy,4-3-1-2,Gérard Gili,13000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302667
+35,seg 08/04/1996,19:00,Stade Poitevin,Marselha,4-3-1-2,Gérard Gili,10000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302678
+36,qui 18/04/1996,19:00,LB Châteauroux,Marselha,4-3-1-2,Gérard Gili,8000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302688
+37,qua 24/04/1996,10:30,Marselha,AS Red Star 93,4-3-1-2,Gérard Gili,12000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302700
+38,sáb 27/04/1996,10:30,Chamois Niort,Marselha,5-3-2,Gérard Gili,10000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302708
+39,qui 02/05/1996,19:00,Marselha,ASOA Valence,5-3-2,Gérard Gili,12000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302780
+40,qui 09/05/1996,19:00,O Charleville,Marselha,5-3-2,Gérard Gili,5095,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302792
+41,qui 16/05/1996,19:00,Marselha,FC Sochaux,4-3-1-2,Gérard Gili,27000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302819
+42,seg 20/05/1996,19:00,Le Mans UC 72,Marselha,4-3-1-2,Gérard Gili,8000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302826

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 18/08/2019,14:00,Espanyol,Sevilla,4-4-2,David Gallego,19832,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208622
+2,dom 25/08/2019,12:00,Alavés,Espanyol,4-1-4-1,David Gallego,14567,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208639
+3,dom 01/09/2019,14:00,Espanyol,Granada CF,4-3-3 ofensivo,David Gallego,20870,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208652
+4,dom 15/09/2019,07:00,Eibar,Espanyol,4-4-2,David Gallego,5410,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208663
+5,dom 22/09/2019,09:00,Espanyol,Real Sociedad,4-4-2 duplo 6,David Gallego,19173,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208671
+6,qui 26/09/2019,15:00,Celta de Vigo,Espanyol,4-4-2 duplo 6,David Gallego,16361,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208681
+7,dom 29/09/2019,07:00,Espanyol,Valladolid,4-2-3-1,David Gallego,20911,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208696
+8,dom 06/10/2019,07:00,Mallorca,Espanyol,4-2-3-1,David Gallego,15052,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208707
+9,dom 20/10/2019,11:00,Espanyol,Villarreal,3-4-2-1,Pablo Machín,20653,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208717
+10,dom 27/10/2019,12:00,Levante,Espanyol,3-4-2-1,Pablo Machín,18934,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208728
+11,qua 30/10/2019,16:00,Athletic Club,Espanyol,3-5-2 plano,Pablo Machín,37094,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208743
+12,sáb 02/11/2019,09:00,Espanyol,Valencia,5-3-2,Pablo Machín,18428,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208753
+13,dom 10/11/2019,12:00,Atlético,Espanyol,3-4-2-1,Pablo Machín,53069,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208764
+14,dom 24/11/2019,08:00,Espanyol,Getafe,3-4-1-2,Pablo Machín,22031,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208774
+15,dom 01/12/2019,12:00,Espanyol,Osasuna,3-5-2 plano,Pablo Machín,21238,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208786
+16,sáb 07/12/2019,09:00,Real Madrid,Espanyol,3-5-2 plano,Pablo Machín,64125,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208799
+17,dom 15/12/2019,12:00,Espanyol,Betis,3-5-2 plano,Pablo Machín,22248,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208806
+18,dom 22/12/2019,08:00,Leganés,Espanyol,3-1-4-2,Pablo Machín,10183,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208815
+19,sáb 04/01/2020,17:00,Espanyol,Barcelona,4-4-1-1,Abelardo,33562,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208825
+20,dom 19/01/2020,12:00,Villarreal,Espanyol,4-4-2 duplo 6,Abelardo,12053,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208841
+21,sáb 25/01/2020,09:00,Espanyol,Athletic Club,4-4-2 duplo 6,Abelardo,27542,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208845
+22,sáb 01/02/2020,09:00,Granada CF,Espanyol,4-4-2 duplo 6,Abelardo,15226,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3209795
+23,dom 09/02/2020,08:00,Espanyol,Mallorca,4-4-2 duplo 6,Abelardo,28823,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3209806
+24,dom 16/02/2020,08:00,Sevilla,Espanyol,4-2-3-1,Abelardo,35661,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3209965
+25,dom 23/02/2020,12:00,Valladolid,Espanyol,4-2-3-1,Abelardo,19645,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3209977
+26,dom 01/03/2020,12:00,Espanyol,Atlético,4-1-4-1,Abelardo,30360,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3209980
+27,dom 08/03/2020,08:00,Osasuna,Espanyol,4-4-2 duplo 6,Abelardo,15737,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210004
+28,sáb 13/06/2020,09:00,Espanyol,Alavés,4-4-2 duplo 6,Abelardo,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210018
+29,ter 16/06/2020,14:30,Getafe,Espanyol,4-4-2 duplo 6,Abelardo,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210039
+30,sáb 20/06/2020,09:00,Espanyol,Levante,4-4-2 duplo 6,Abelardo,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210057
+31,qui 25/06/2020,17:00,Betis,Espanyol,4-4-2 duplo 6,Abelardo,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210075
+32,dom 28/06/2020,17:00,Espanyol,Real Madrid,4-4-2 duplo 6,Francisco Rufete,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210086
+33,qui 02/07/2020,14:30,Real Sociedad,Espanyol,4-2-3-1,Francisco Rufete,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210100
+34,dom 05/07/2020,12:00,Espanyol,Leganés,4-4-2 duplo 6,Francisco Rufete,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210106
+35,qua 08/07/2020,17:00,Barcelona,Espanyol,5-4-1 plano,Francisco Rufete,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210114
+36,dom 12/07/2020,09:00,Espanyol,Eibar,4-4-2 duplo 6,Francisco Rufete,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210125
+37,qui 16/07/2020,16:00,Valencia,Espanyol,4-4-2 duplo 6,Francisco Rufete,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210142
+38,dom 19/07/2020,16:00,Espanyol,Celta de Vigo,4-2-3-1,Francisco Rufete,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208631

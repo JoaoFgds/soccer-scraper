@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/08/2000,10:30,Freiburg,Stuttgart,4-3-3 ofensivo,Ralf Rangnick,24000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18460
+2,sáb 19/08/2000,15:15,Stuttgart,Leverkusen,4-2-3-1,Ralf Rangnick,25000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18469
+3,ter 05/09/2000,15:15,K'lautern,Stuttgart,4-3-3 ofensivo,Ralf Rangnick,37600,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18474
+4,sáb 09/09/2000,10:30,Stuttgart,Bayern,4-2-3-1,Ralf Rangnick,51200,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18484
+5,dom 17/09/2000,12:30,Hertha Berlim,Stuttgart,4-1-4-1,Ralf Rangnick,32980,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18499
+6,sáb 23/09/2000,10:30,Stuttgart,Bochum,4-4-2 losango,Ralf Rangnick,18000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18503
+7,dom 01/10/2000,12:30,Wolfsburg,Stuttgart,4-4-2,Ralf Rangnick,15378,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18517
+8,sáb 14/10/2000,16:15,Stuttgart,Hamburgo,4-5-1,Ralf Rangnick,26000,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18525
+9,sáb 21/10/2000,11:30,Stuttgart,Unterhaching,4-4-2 losango,Ralf Rangnick,17000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18533
+10,dom 29/10/2000,14:30,Colônia,Stuttgart,3-4-3,Ralf Rangnick,32000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18545
+11,sáb 04/11/2000,12:30,Stuttgart,Hansa Rostock,3-5-2,Ralf Rangnick,19000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18552
+12,dom 12/11/2000,14:30,Energ. Cottbus,Stuttgart,3-5-2,Ralf Rangnick,16296,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18563
+13,sex 17/11/2000,17:15,Stuttgart,1860 Munique,3-4-3,Ralf Rangnick,22000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18564
+14,dom 26/11/2000,14:30,Werder Bremen,Stuttgart,3-4-2-1,Ralf Rangnick,26189,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18580
+15,sáb 02/12/2000,12:30,Stuttgart,Dortmund,4-4-2 losango,Ralf Rangnick,30000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18586
+16,sáb 09/12/2000,12:30,Schalke,Stuttgart,4-5-1,Ralf Rangnick,31281,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18594
+17,ter 12/12/2000,17:15,Stuttgart,Frankfurt,?,Ralf Rangnick,15000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18601
+18,sáb 16/12/2000,12:30,Stuttgart,Freiburg,3-5-2,Ralf Rangnick,19500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18612
+19,dom 28/01/2001,14:30,Leverkusen,Stuttgart,?,Ralf Rangnick,22500,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18626
+20,sáb 03/02/2001,17:15,Stuttgart,K'lautern,3-5-2,Ralf Rangnick,18000,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18633
+21,sáb 10/02/2001,12:30,Bayern,Stuttgart,4-2-3-1,Ralf Rangnick,41000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18637
+22,dom 18/02/2001,13:30,Stuttgart,Hertha Berlim,4-3-3 defensivo,Ralf Rangnick,18500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18652
+23,dom 25/02/2001,13:30,Bochum,Stuttgart,3-5-2,Felix Magath,18800,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18661
+24,sáb 03/03/2001,11:30,Stuttgart,Wolfsburg,?,Felix Magath,15000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18667
+25,dom 11/03/2001,13:30,Hamburgo,Stuttgart,4-4-2 losango,Felix Magath,40065,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18680
+26,dom 18/03/2001,13:30,Unterhaching,Stuttgart,3-5-2,Felix Magath,12000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18689
+27,sáb 31/03/2001,10:30,Stuttgart,Colônia,3-5-2,Felix Magath,32000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18695
+28,dom 08/04/2001,12:30,Hansa Rostock,Stuttgart,4-5-1,Felix Magath,15500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18707
+29,qui 12/04/2001,15:15,Stuttgart,Energ. Cottbus,3-5-2,Felix Magath,36000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18708
+30,dom 22/04/2001,12:30,1860 Munique,Stuttgart,3-5-2,Felix Magath,24100,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18725
+31,sáb 28/04/2001,10:30,Stuttgart,Werder Bremen,3-5-2,Felix Magath,34000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18731
+32,sex 04/05/2001,15:15,Dortmund,Stuttgart,4-3-1-2,Felix Magath,67500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18735
+33,sáb 12/05/2001,10:30,Stuttgart,Schalke,4-4-2,Felix Magath,51000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18748
+34,sáb 19/05/2001,10:30,Frankfurt,Stuttgart,4-4-2 losango,Felix Magath,34000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18757

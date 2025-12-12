@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 08/08/2015,08:45,Man Utd,Tottenham,4-2-3-1,Louis van Gaal,75261,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2577860
+2,sex 14/08/2015,15:45,Aston Villa,Man Utd,4-2-3-1,Louis van Gaal,42200,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2577885
+3,sáb 22/08/2015,08:45,Man Utd,Newcastle,4-2-3-1,Louis van Gaal,75354,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2577899
+4,dom 30/08/2015,12:00,Swansea,Man Utd,4-2-3-1,Louis van Gaal,20828,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2577944
+5,sáb 12/09/2015,13:30,Man Utd,Liverpool,4-2-3-1,Louis van Gaal,75347,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2577958
+6,dom 20/09/2015,12:00,Southampton,Man Utd,4-2-3-1,Louis van Gaal,31588,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2577966
+7,sáb 26/09/2015,11:00,Man Utd,AFC Sunderland,4-2-3-1,Louis van Gaal,75328,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2577977
+8,dom 04/10/2015,12:00,Arsenal,Man Utd,4-2-3-1,Louis van Gaal,60084,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2577974
+9,sáb 17/10/2015,11:00,Everton,Man Utd,4-2-3-1,Louis van Gaal,39553,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2577984
+10,dom 25/10/2015,12:05,Man Utd,Man City,4-2-3-1,Louis van Gaal,75329,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2577998
+11,sáb 31/10/2015,13:00,Crystal Palace,Man Utd,4-2-3-1,Louis van Gaal,24854,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578010
+12,sáb 07/11/2015,13:00,Man Utd,West Brom,4-2-3-1,Louis van Gaal,75410,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578033
+13,sáb 21/11/2015,10:45,Watford,Man Utd,4-4-2 duplo 6,Louis van Gaal,20702,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578038
+14,sáb 28/11/2015,15:30,Leicester,Man Utd,3-5-2,Louis van Gaal,32115,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578031
+15,sáb 05/12/2015,13:00,Man Utd,West Ham,4-5-1 plano,Louis van Gaal,75350,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578047
+16,sáb 12/12/2015,15:30,Bournemouth,Man Utd,4-2-3-1,Louis van Gaal,11334,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578057
+17,sáb 19/12/2015,13:00,Man Utd,Norwich,4-3-3 ofensivo,Louis van Gaal,75320,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578078
+18,sáb 26/12/2015,10:45,Stoke,Man Utd,4-2-3-1,Louis van Gaal,27426,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578086
+19,seg 28/12/2015,15:30,Man Utd,Chelsea,4-2-3-1,Louis van Gaal,75275,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578236
+20,sáb 02/01/2016,13:00,Man Utd,Swansea,4-3-3 ofensivo,Louis van Gaal,75415,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578233
+21,ter 12/01/2016,17:45,Newcastle,Man Utd,4-2-3-1,Louis van Gaal,49673,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578092
+22,dom 17/01/2016,12:05,Liverpool,Man Utd,4-2-3-1,Louis van Gaal,43865,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578097
+23,sáb 23/01/2016,13:00,Man Utd,Southampton,3-5-2 plano,Louis van Gaal,75408,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578118
+24,ter 02/02/2016,18:00,Man Utd,Stoke,4-2-3-1,Louis van Gaal,75234,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578126
+25,dom 07/02/2016,14:00,Chelsea,Man Utd,4-2-3-1,Louis van Gaal,41434,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578130
+26,sáb 13/02/2016,10:45,AFC Sunderland,Man Utd,4-2-3-1,Louis van Gaal,41687,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578140
+27,dom 28/02/2016,11:05,Man Utd,Arsenal,4-2-3-1,Louis van Gaal,75329,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578164
+28,qua 02/03/2016,17:00,Man Utd,Watford,4-2-3-1,Louis van Gaal,75272,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578162
+29,dom 06/03/2016,13:00,West Brom,Man Utd,4-4-2 duplo 6,Louis van Gaal,24878,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578175
+30,qua 20/04/2016,16:00,Man Utd,Crystal Palace,4-1-4-1,Louis van Gaal,75277,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578176
+31,dom 20/03/2016,13:00,Man City,Man Utd,4-2-3-1,Louis van Gaal,54557,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578202
+32,dom 03/04/2016,12:00,Man Utd,Everton,4-2-3-1,Louis van Gaal,75341,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578204
+33,dom 10/04/2016,12:30,Tottenham,Man Utd,4-2-3-1,Louis van Gaal,35761,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578218
+34,sáb 16/04/2016,11:00,Man Utd,Aston Villa,4-2-3-1,Louis van Gaal,75411,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578232
+35,ter 10/05/2016,16:30,West Ham,Man Utd,4-1-4-1,Louis van Gaal,34602,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578237
+36,dom 01/05/2016,10:05,Man Utd,Leicester,4-1-4-1,Louis van Gaal,75275,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578283
+37,sáb 07/05/2016,08:45,Norwich,Man Utd,4-1-4-1,Louis van Gaal,27132,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578268
+38,ter 17/05/2016,16:00,Man Utd,Bournemouth,4-1-4-1,Louis van Gaal,74363,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2578259

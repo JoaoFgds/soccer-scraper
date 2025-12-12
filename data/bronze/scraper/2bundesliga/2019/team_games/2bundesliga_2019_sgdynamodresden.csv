@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 27/07/2019,08:00,Dynamo Dresden,Nuremberg,5-4-1 plano,Cristian Fiél,29753,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203438
+2,sáb 03/08/2019,08:00,Karlsruher,Dynamo Dresden,3-4-2-1,Cristian Fiél,13099,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203747
+3,dom 18/08/2019,08:30,Dynamo Dresden,Heidenheim,3-4-2-1,Cristian Fiél,26350,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203752
+4,sex 23/08/2019,13:30,Darmstadt 98,Dynamo Dresden,3-4-2-1,Cristian Fiél,14610,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203769
+5,sáb 31/08/2019,08:00,Dynamo Dresden,St. Pauli,3-4-2-1,Cristian Fiél,29953,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203785
+6,dom 15/09/2019,08:30,Bochum,Dynamo Dresden,3-4-2-1,Cristian Fiél,16859,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203801
+7,dom 22/09/2019,08:30,Dynamo Dresden,J. Regensburg,3-4-1-2,Cristian Fiél,27260,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203824
+8,dom 29/09/2019,08:30,Erzgebirge Aue,Dynamo Dresden,3-4-1-2,Cristian Fiél,15500,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203841
+9,sáb 05/10/2019,08:00,Dynamo Dresden,Hannover,3-4-2-1,Cristian Fiél,28359,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203850
+10,sex 18/10/2019,13:30,Greuther Fürth,Dynamo Dresden,3-4-2-1,Cristian Fiél,9770,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203859
+11,sáb 26/10/2019,08:00,Dynamo Dresden,Arm. Bielefeld,3-4-2-1,Cristian Fiél,25197,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203867
+12,dom 03/11/2019,09:30,Stuttgart,Dynamo Dresden,3-4-1-2,Cristian Fiél,52129,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203874
+13,sex 08/11/2019,14:30,Dynamo Dresden,Wehen Wiesbaden,3-5-2,Cristian Fiél,25444,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203888
+14,sáb 23/11/2019,09:00,Hamburgo,Dynamo Dresden,3-4-1-2,Cristian Fiél,51586,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203894
+15,sáb 30/11/2019,09:00,Dynamo Dresden,Holstein Kiel,3-5-2 plano,Cristian Fiél,24811,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203906
+16,dom 08/12/2019,09:30,Dynamo Dresden,Sandhausen,4-2-3-1,Heiko Scholz,26019,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203923
+17,dom 15/12/2019,09:30,VfL Osnabrück,Dynamo Dresden,4-1-3-2,Markus Kauczinski,15352,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203935
+18,sex 20/12/2019,14:30,Nuremberg,Dynamo Dresden,4-2-3-1,Markus Kauczinski,29741,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203945
+19,qua 29/01/2020,16:30,Dynamo Dresden,Karlsruher,4-2-3-1,Markus Kauczinski,27595,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203979
+20,dom 02/02/2020,09:30,Heidenheim,Dynamo Dresden,4-2-3-1,Markus Kauczinski,12150,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203992
+21,sex 07/02/2020,14:30,Dynamo Dresden,Darmstadt 98,4-2-3-1,Markus Kauczinski,26243,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204010
+22,sex 14/02/2020,14:30,St. Pauli,Dynamo Dresden,4-2-3-1,Markus Kauczinski,28980,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204018
+23,sáb 22/02/2020,09:00,Dynamo Dresden,Bochum,4-2-3-1,Markus Kauczinski,26279,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204043
+24,sex 28/02/2020,14:30,J. Regensburg,Dynamo Dresden,4-3-3 ofensivo,Markus Kauczinski,11309,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204056
+25,dom 08/03/2020,09:30,Dynamo Dresden,Erzgebirge Aue,4-2-3-1,Markus Kauczinski,30753,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204076
+26,qua 03/06/2020,13:30,Hannover,Dynamo Dresden,4-2-3-1,Markus Kauczinski,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204086
+27,ter 09/06/2020,13:30,Dynamo Dresden,Greuther Fürth,3-4-2-1,Markus Kauczinski,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204106
+28,seg 15/06/2020,15:30,Arm. Bielefeld,Dynamo Dresden,4-2-3-1,Markus Kauczinski,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204113
+29,dom 31/05/2020,08:30,Dynamo Dresden,Stuttgart,4-2-3-1,Markus Kauczinski,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204132
+30,sáb 06/06/2020,08:00,Wehen Wiesbaden,Dynamo Dresden,4-2-3-1,Markus Kauczinski,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204151
+31,sex 12/06/2020,13:30,Dynamo Dresden,Hamburgo,4-4-2 duplo 6,Markus Kauczinski,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204164
+32,qui 18/06/2020,13:30,Holstein Kiel,Dynamo Dresden,4-2-3-1,Markus Kauczinski,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204171
+33,dom 21/06/2020,10:30,Sandhausen,Dynamo Dresden,4-1-4-1,Markus Kauczinski,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204183
+34,dom 28/06/2020,10:30,Dynamo Dresden,VfL Osnabrück,4-2-3-1,Markus Kauczinski,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204192

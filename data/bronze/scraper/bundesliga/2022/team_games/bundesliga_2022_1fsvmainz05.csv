@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 06/08/2022,10:30,Bochum,Mainz,3-4-2-1,Bo Svensson,24110,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839031
+2,dom 14/08/2022,10:30,Mainz,Union Berlim,3-5-2 plano,Bo Svensson,25009,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839056
+3,sáb 20/08/2022,10:30,Augsburg,Mainz,3-5-2 plano,Bo Svensson,23755,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839086
+4,sáb 27/08/2022,10:30,Mainz,Leverkusen,3-5-2 plano,Bo Svensson,28500,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839100
+5,dom 04/09/2022,12:30,M'gladbach,Mainz,3-4-2-1,Bo Svensson,51210,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839108
+6,sáb 10/09/2022,10:30,Hoffenheim,Mainz,3-4-2-1,Bo Svensson,20114,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839118
+7,sex 16/09/2022,15:30,Mainz,Hertha Berlim,4-3-2-1,Bo Svensson,25300,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839135
+8,sáb 01/10/2022,10:30,Freiburg,Mainz,3-5-2 plano,Bo Svensson,34700,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839152
+9,sáb 08/10/2022,10:30,Mainz,Leipzig,3-5-2 plano,Bo Svensson,26100,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839161
+10,sáb 15/10/2022,10:30,Werder Bremen,Mainz,3-5-2 plano,Bo Svensson,41000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839185
+11,sex 21/10/2022,15:30,Mainz,Colônia,4-3-1-2,Bo Svensson,31610,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839198
+12,sáb 29/10/2022,10:30,Bayern,Mainz,3-4-2-1,Bo Svensson,75000,6:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839213
+13,sáb 05/11/2022,11:30,Mainz,Wolfsburg,4-3-1-2,Bo Svensson,26750,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839234
+14,qua 09/11/2022,16:30,Schalke,Mainz,3-5-2,Bo Svensson,58256,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839257
+15,dom 13/11/2022,11:30,Mainz,Frankfurt,3-4-2-1,Bo Svensson,33305,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839260
+16,sáb 21/01/2023,11:30,Stuttgart,Mainz,3-4-2-1,Bo Svensson,45903,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839284
+17,qua 25/01/2023,14:30,Mainz,Dortmund,3-5-2 ofensivo,Bo Svensson,31500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839297
+18,sáb 28/01/2023,11:30,Mainz,Bochum,3-4-1-2,Bo Svensson,23100,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839316
+19,sáb 04/02/2023,11:30,Union Berlim,Mainz,3-4-2-1,Bo Svensson,22012,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839331
+20,sáb 11/02/2023,11:30,Mainz,Augsburg,3-4-2-1,Bo Svensson,22200,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839352
+21,dom 19/02/2023,15:30,Leverkusen,Mainz,3-4-1-2,Bo Svensson,27002,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839367
+22,sex 24/02/2023,16:30,Mainz,M'gladbach,3-4-2-1,Bo Svensson,32500,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839388
+23,sáb 04/03/2023,11:30,Mainz,Hoffenheim,3-4-2-1,Bo Svensson,28100,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839396
+24,sáb 11/03/2023,11:30,Hertha Berlim,Mainz,3-4-2-1,Bo Svensson,41689,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839417
+25,dom 19/03/2023,15:30,Mainz,Freiburg,3-4-2-1,Bo Svensson,26800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839432
+26,sáb 01/04/2023,10:30,Leipzig,Mainz,3-4-2-1,Bo Svensson,45597,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839448
+27,sáb 08/04/2023,10:30,Mainz,Werder Bremen,3-4-2-1,Bo Svensson,33305,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839468
+28,sáb 15/04/2023,10:30,Colônia,Mainz,3-5-2 plano,Bo Svensson,50000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839486
+29,sáb 22/04/2023,10:30,Mainz,Bayern,3-4-2-1,Bo Svensson,33305,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839504
+30,dom 30/04/2023,12:30,Wolfsburg,Mainz,3-4-2-1,Bo Svensson,23817,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839515
+31,sex 05/05/2023,15:30,Mainz,Schalke,3-4-2-1,Bo Svensson,33305,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839531
+32,sáb 13/05/2023,10:30,Frankfurt,Mainz,3-4-2-1,Bo Svensson,50000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839551
+33,dom 21/05/2023,10:30,Mainz,Stuttgart,3-4-2-1,Bo Svensson,33305,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839567
+34,sáb 27/05/2023,10:30,Dortmund,Mainz,3-4-2-1,Bo Svensson,81365,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839582

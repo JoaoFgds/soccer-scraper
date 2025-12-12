@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,ter 12/01/2021,17:15,FC Burnley,Man Utd,4-2-3-1,Ole Gunnar Solskjær,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3420828
+2,sáb 19/09/2020,13:30,Man Utd,Crystal Palace,4-2-3-1,Ole Gunnar Solskjær,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3420844
+3,sáb 26/09/2020,08:30,Brighton,Man Utd,4-2-3-1,Ole Gunnar Solskjær,,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421694
+4,dom 04/10/2020,12:30,Man Utd,Tottenham,4-2-3-1,Ole Gunnar Solskjær,,1:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421709
+5,sáb 17/10/2020,16:00,Newcastle,Man Utd,4-2-3-1,Ole Gunnar Solskjær,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421719
+6,sáb 24/10/2020,13:30,Man Utd,Chelsea,4-2-3-1,Ole Gunnar Solskjær,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421729
+7,dom 01/11/2020,13:30,Man Utd,Arsenal,4-3-1-2,Ole Gunnar Solskjær,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421738
+8,sáb 07/11/2020,09:30,Everton,Man Utd,4-2-3-1,Ole Gunnar Solskjær,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421747
+9,sáb 21/11/2020,17:00,Man Utd,West Brom,4-2-3-1,Ole Gunnar Solskjær,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421758
+10,dom 29/11/2020,11:00,Southampton,Man Utd,4-3-1-2,Ole Gunnar Solskjær,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421770
+11,sáb 05/12/2020,14:30,West Ham,Man Utd,4-2-3-1,Ole Gunnar Solskjær,2000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421782
+12,sáb 12/12/2020,14:30,Man Utd,Man City,4-2-3-1,Ole Gunnar Solskjær,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421789
+13,qui 17/12/2020,17:00,Sheff Utd,Man Utd,4-2-3-1,Ole Gunnar Solskjær,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421798
+14,dom 20/12/2020,13:30,Man Utd,Leeds,4-2-3-1,Ole Gunnar Solskjær,,6:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421808
+15,sáb 26/12/2020,09:30,Leicester,Man Utd,4-2-3-1,Ole Gunnar Solskjær,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421817
+16,ter 29/12/2020,17:00,Man Utd,Wolves,4-2-3-1,Ole Gunnar Solskjær,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421828
+17,sex 01/01/2021,17:00,Man Utd,Aston Villa,4-3-1-2,Ole Gunnar Solskjær,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421838
+18,qua 20/01/2021,17:15,Fulham,Man Utd,4-2-3-1,Ole Gunnar Solskjær,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421845
+19,dom 17/01/2021,13:30,Liverpool,Man Utd,4-2-3-1,Ole Gunnar Solskjær,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421858
+20,qua 27/01/2021,17:15,Man Utd,Sheff Utd,4-2-3-1,Ole Gunnar Solskjær,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429686
+21,sáb 30/01/2021,14:30,Arsenal,Man Utd,4-2-3-1,Ole Gunnar Solskjær,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429693
+22,ter 02/02/2021,17:15,Man Utd,Southampton,4-2-3-1,Ole Gunnar Solskjær,,9:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429707
+23,sáb 06/02/2021,17:00,Man Utd,Everton,4-2-3-1,Ole Gunnar Solskjær,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429718
+24,dom 14/02/2021,11:00,West Brom,Man Utd,4-2-3-1,Ole Gunnar Solskjær,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429731
+25,dom 21/02/2021,16:00,Man Utd,Newcastle,4-2-3-1,Ole Gunnar Solskjær,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429739
+26,dom 28/02/2021,13:30,Chelsea,Man Utd,4-2-3-1,Ole Gunnar Solskjær,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429743
+27,dom 07/03/2021,13:30,Man City,Man Utd,4-2-3-1,Ole Gunnar Solskjær,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429758
+28,dom 14/03/2021,16:15,Man Utd,West Ham,4-2-3-1,Ole Gunnar Solskjær,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429769
+29,qua 03/03/2021,17:15,Crystal Palace,Man Utd,4-2-3-1,Ole Gunnar Solskjær,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429775
+30,dom 04/04/2021,15:30,Man Utd,Brighton,4-2-3-1,Ole Gunnar Solskjær,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429789
+31,dom 11/04/2021,12:30,Tottenham,Man Utd,4-2-3-1,Ole Gunnar Solskjær,,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429800
+32,dom 18/04/2021,12:00,Man Utd,FC Burnley,4-2-3-1,Ole Gunnar Solskjær,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429809
+33,dom 25/04/2021,10:00,Leeds,Man Utd,4-2-3-1,Ole Gunnar Solskjær,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429816
+34,qui 13/05/2021,16:15,Man Utd,Liverpool,4-2-3-1,Ole Gunnar Solskjær,x,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429828
+35,dom 09/05/2021,10:05,Aston Villa,Man Utd,4-3-1-2,Ole Gunnar Solskjær,,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429834
+36,ter 11/05/2021,14:00,Man Utd,Leicester,4-2-3-1,Ole Gunnar Solskjær,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429846
+37,ter 18/05/2021,14:00,Man Utd,Fulham,4-2-3-1,Ole Gunnar Solskjær,10000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429858
+38,dom 23/05/2021,12:00,Wolves,Man Utd,4-2-3-1,Ole Gunnar Solskjær,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429872

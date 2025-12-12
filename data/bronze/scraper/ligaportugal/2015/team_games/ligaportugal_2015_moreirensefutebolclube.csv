@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 16/08/2015,13:00,Moreirense,Arouca,4-3-3 defensivo,Miguel Leal,1337,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2586584
+2,dom 23/08/2015,13:00,Estoril,Moreirense,4-3-3 defensivo,Miguel Leal,1387,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2596943
+3,sáb 29/08/2015,16:45,Benfica,Moreirense,4-3-3 defensivo,Miguel Leal,43417,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609329
+4,dom 13/09/2015,12:00,Moreirense,CF União,4-3-3 defensivo,Miguel Leal,1191,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609349
+5,seg 21/09/2015,14:00,Belenenses,Moreirense,4-3-3 defensivo,Miguel Leal,2028,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609355
+6,sex 25/09/2015,16:30,Moreirense,FC Porto,4-3-3 ofensivo,Miguel Leal,4425,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609368
+7,sáb 03/10/2015,12:00,CD Tondela,Moreirense,4-3-3 defensivo,Miguel Leal,1010,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609380
+8,dom 25/10/2015,14:00,Moreirense,Vitória FC,4-3-3 defensivo,Miguel Leal,1078,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609385
+9,dom 01/11/2015,14:00,Académica,Moreirense,4-2-3-1,Miguel Leal,2855,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609390
+10,dom 08/11/2015,14:00,Moreirense,Paços Ferreira,4-3-3 defensivo,Miguel Leal,1442,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609407
+11,dom 29/11/2015,14:00,Rio Ave,Moreirense,4-3-3 defensivo,Miguel Leal,6985,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609415
+12,dom 06/12/2015,15:00,Moreirense,Braga,4-3-3 defensivo,Miguel Leal,1962,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609423
+13,dom 13/12/2015,16:15,Sporting,Moreirense,4-3-3 defensivo,Miguel Leal,32367,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609434
+14,dom 20/12/2015,14:00,Moreirense,Nacional,4-3-3 defensivo,Miguel Leal,1068,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609440
+15,sáb 02/01/2016,14:00,Boavista,Moreirense,4-3-3 defensivo,Miguel Leal,4337,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609445
+16,qua 06/01/2016,14:15,Moreirense,Vit. Guimarães,4-3-3 defensivo,Miguel Leal,2520,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609461
+17,dom 10/01/2016,14:00,Marítimo,Moreirense,4-3-3 defensivo,Miguel Leal,4937,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609465
+18,dom 17/01/2016,14:00,Arouca,Moreirense,4-3-3 defensivo,Miguel Leal,920,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613534
+19,sáb 23/01/2016,14:00,Moreirense,Estoril,4-3-3 defensivo,Miguel Leal,1054,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613542
+20,dom 31/01/2016,17:15,Moreirense,Benfica,4-3-3 defensivo,Miguel Leal,5772,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613550
+21,dom 07/02/2016,14:00,CF União,Moreirense,4-3-3 defensivo,Miguel Leal,2153,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613561
+22,sáb 13/02/2016,14:15,Moreirense,Belenenses,4-3-3 ofensivo,Miguel Leal,757,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613567
+23,dom 21/02/2016,15:15,FC Porto,Moreirense,4-3-3 ofensivo,Miguel Leal,30321,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613580
+24,dom 28/02/2016,13:00,Moreirense,CD Tondela,4-3-3 defensivo,Miguel Leal,2129,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613592
+25,dom 06/03/2016,13:00,Vitória FC,Moreirense,4-3-3 defensivo,Miguel Leal,3321,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613597
+26,dom 13/03/2016,13:00,Moreirense,Académica,4-3-3 defensivo,Miguel Leal,2712,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613613
+27,dom 20/03/2016,13:00,Paços Ferreira,Moreirense,4-3-3 ofensivo,Miguel Leal,3031,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613631
+28,dom 03/04/2016,15:15,Moreirense,Rio Ave,4-3-3 ofensivo,Miguel Leal,1801,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613647
+29,dom 10/04/2016,16:30,Braga,Moreirense,4-3-3 ofensivo,Miguel Leal,6520,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613655
+30,sáb 16/04/2016,16:45,Moreirense,Sporting,4-2-3-1,Miguel Leal,4840,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613666
+31,dom 24/04/2016,12:00,Nacional,Moreirense,4-3-3 ofensivo,Miguel Leal,1795,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613672
+32,dom 01/05/2016,12:00,Moreirense,Boavista,4-3-3 ofensivo,Miguel Leal,3151,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613677
+33,dom 08/05/2016,14:15,Vit. Guimarães,Moreirense,4-3-3 defensivo,Miguel Leal,8975,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613693
+34,dom 15/05/2016,11:00,Moreirense,Marítimo,4-3-3 defensivo,Miguel Leal,922,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613697

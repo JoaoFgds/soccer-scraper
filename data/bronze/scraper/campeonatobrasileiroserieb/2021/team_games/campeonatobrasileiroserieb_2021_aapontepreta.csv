@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 30/05/2021,11:00,Brusque,Ponte Preta,4-4-2,Sandro Forner,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546389
+2,dom 06/06/2021,16:00,Ponte Preta,Vasco da Gama,4-4-2,Gilson Kleina,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546394
+3,sex 11/06/2021,19:00,Sampaio Corrêa,Ponte Preta,4-4-2,Gilson Kleina,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3573959
+4,qua 16/06/2021,21:30,Ponte Preta,Cruzeiro,3-5-2,Gilson Kleina,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3573976
+5,sáb 19/06/2021,18:30,Guarani,Ponte Preta,4-2-3-1,Gilson Kleina,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3573982
+6,ter 22/06/2021,19:00,Ponte Preta,Operário-PR,4-4-2,Gilson Kleina,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3573991
+7,sex 25/06/2021,19:00,Brasil Pelotas,Ponte Preta,4-4-2,Gilson Kleina,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580670
+8,qua 30/06/2021,16:30,Ponte Preta,CSA,4-2-3-1,Gilson Kleina,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580681
+9,sáb 03/07/2021,21:30,Vila Nova,Ponte Preta,4-4-2,Gilson Kleina,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584100
+10,ter 06/07/2021,19:00,Ponte Preta,Avaí,4-4-2,Gilson Kleina,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584131
+11,seg 12/07/2021,20:00,Náutico,Ponte Preta,4-2-3-1,Gilson Kleina,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584122
+12,sáb 17/07/2021,18:30,Ponte Preta,Remo,4-2-3-1,Gilson Kleina,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584111
+13,ter 20/07/2021,21:30,Vitória,Ponte Preta,4-1-4-1,Gilson Kleina,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584147
+14,sex 23/07/2021,20:00,Ponte Preta,Goiás,3-5-2,Gilson Kleina,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584151
+15,dom 01/08/2021,18:15,CRB,Ponte Preta,4-2-3-1,Gilson Kleina,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584164
+16,dom 08/08/2021,20:30,Botafogo,Ponte Preta,4-2-3-1,Gilson Kleina,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584189
+17,qua 11/08/2021,19:00,Ponte Preta,Londrina,4-2-3-1,Gilson Kleina,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584181
+18,sáb 14/08/2021,16:30,Ponte Preta,Confiança,4-2-3-1,Gilson Kleina,x,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584171
+19,ter 17/08/2021,21:30,Coritiba,Ponte Preta,4-3-3 ofensivo,Gilson Kleina,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584205
+20,dom 22/08/2021,20:30,Ponte Preta,Brusque,4-2-3-1,Gilson Kleina,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584211
+21,dom 29/08/2021,16:00,Vasco da Gama,Ponte Preta,4-3-3 ofensivo,Gilson Kleina,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584219
+22,sex 03/09/2021,19:00,Ponte Preta,Sampaio Corrêa,4-2-3-1,Gilson Kleina,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584251
+23,sáb 11/09/2021,11:00,Cruzeiro,Ponte Preta,4-2-3-1,Gilson Kleina,4467,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584242
+24,sex 17/09/2021,21:30,Ponte Preta,Guarani,4-2-3-1,Gilson Kleina,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584231
+25,qua 22/09/2021,21:30,Operário-PR,Ponte Preta,4-2-3-1,Gilson Kleina,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584265
+26,dom 26/09/2021,18:15,Ponte Preta,Brasil Pelotas,4-2-3-1,Gilson Kleina,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584271
+27,qua 29/09/2021,21:30,CSA,Ponte Preta,4-2-3-1,Gilson Kleina,1513,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584284
+28,sáb 02/10/2021,21:00,Ponte Preta,Vila Nova,4-2-3-1,Gilson Kleina,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584311
+29,ter 05/10/2021,19:00,Avaí,Ponte Preta,4-2-3-1,Gilson Kleina,1540,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584306
+30,sáb 16/10/2021,16:00,Ponte Preta,Náutico,4-2-3-1,Gilson Kleina,2732,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584291
+31,dom 24/10/2021,16:00,Remo,Ponte Preta,4-2-3-1,Gilson Kleina,6103,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584328
+32,sáb 30/10/2021,16:00,Ponte Preta,Vitória,4-2-3-1,Gilson Kleina,3396,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584331
+33,ter 02/11/2021,21:30,Goiás,Ponte Preta,4-2-3-1,Gilson Kleina,3310,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584340
+34,dom 07/11/2021,20:30,Ponte Preta,CRB,4-1-4-1,Gilson Kleina,2795,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584371
+35,qui 11/11/2021,19:00,Ponte Preta,Botafogo,4-1-4-1,Gilson Kleina,4325,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584361
+36,seg 15/11/2021,16:00,Londrina,Ponte Preta,4-1-4-1,Gilson Kleina,2573,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584353
+37,sáb 20/11/2021,16:30,Confiança,Ponte Preta,4-3-1-2,Gilson Kleina,1809,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584387
+38,sex 26/11/2021,19:00,Ponte Preta,Coritiba,4-3-1-2,Gilson Kleina,1970,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584391

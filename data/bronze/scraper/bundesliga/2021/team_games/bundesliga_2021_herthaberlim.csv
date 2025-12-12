@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 15/08/2021,12:30,Colônia,Hertha Berlim,4-3-3 ofensivo,Pál Dárdai,16500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588147
+2,sáb 21/08/2021,10:30,Hertha Berlim,Wolfsburg,4-3-3 ofensivo,Pál Dárdai,18241,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588154
+3,sáb 28/08/2021,13:30,Bayern,Hertha Berlim,4-2-3-1,Pál Dárdai,25000,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588166
+4,dom 12/09/2021,12:30,Bochum,Hertha Berlim,3-4-2-1,Pál Dárdai,14000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588182
+5,sex 17/09/2021,15:30,Hertha Berlim,Greuther Fürth,3-5-2 plano,Pál Dárdai,21372,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588199
+6,sáb 25/09/2021,10:30,Leipzig,Hertha Berlim,3-5-2 plano,Pál Dárdai,23500,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588211
+7,sáb 02/10/2021,10:30,Hertha Berlim,Freiburg,3-5-2 plano,Pál Dárdai,18376,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588226
+8,sáb 16/10/2021,10:30,Frankfurt,Hertha Berlim,4-2-3-1,Pál Dárdai,32000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588239
+9,sáb 23/10/2021,13:30,Hertha Berlim,M'gladbach,4-3-3 ofensivo,Pál Dárdai,25000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588261
+10,sex 29/10/2021,15:30,Hoffenheim,Hertha Berlim,4-2-3-1,Pál Dárdai,8127,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588280
+11,dom 07/11/2021,11:30,Hertha Berlim,Leverkusen,4-2-3-1,Pál Dárdai,22187,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588288
+12,sáb 20/11/2021,14:30,Union Berlim,Hertha Berlim,4-2-3-1,Pál Dárdai,22012,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588303
+13,sáb 27/11/2021,11:30,Hertha Berlim,Augsburg,3-4-2-1,Pál Dárdai,14523,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588324
+14,dom 05/12/2021,11:30,Stuttgart,Hertha Berlim,4-4-2 duplo 6,Tayfun Korkut,395,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588341
+15,sáb 11/12/2021,11:30,Hertha Berlim,Arm. Bielefeld,4-4-2 duplo 6,Tayfun Korkut,5000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588351
+16,ter 14/12/2021,16:30,Mainz,Hertha Berlim,4-4-2 duplo 6,Tayfun Korkut,10000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588379
+17,sáb 18/12/2021,14:30,Hertha Berlim,Dortmund,4-4-2 duplo 6,Tayfun Korkut,5000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588387
+18,dom 09/01/2022,11:30,Hertha Berlim,Colônia,4-4-2 duplo 6,Tayfun Korkut,3000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588406
+19,sáb 15/01/2022,11:30,Wolfsburg,Hertha Berlim,4-4-2 duplo 6,Tayfun Korkut,500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588419
+20,dom 23/01/2022,13:30,Hertha Berlim,Bayern,3-5-2 plano,Tayfun Korkut,3000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588442
+21,sex 04/02/2022,16:30,Hertha Berlim,Bochum,4-4-2 duplo 6,Tayfun Korkut,3000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588460
+22,sáb 12/02/2022,11:30,Greuther Fürth,Hertha Berlim,4-2-3-1,Tayfun Korkut,7919,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588471
+23,dom 20/02/2022,15:30,Hertha Berlim,Leipzig,4-3-3 ofensivo,Tayfun Korkut,10000,1:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588487
+24,sáb 26/02/2022,11:30,Freiburg,Hertha Berlim,4-3-1-2,Tayfun Korkut,21000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588494
+25,sáb 05/03/2022,11:30,Hertha Berlim,Frankfurt,4-4-2 duplo 6,Tayfun Korkut,25000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588513
+26,sáb 12/03/2022,14:30,M'gladbach,Hertha Berlim,3-5-2,Tayfun Korkut,30675,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588530
+27,sáb 19/03/2022,11:30,Hertha Berlim,Hoffenheim,4-1-4-1,Mark Fotheringham,25000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588549
+28,sáb 02/04/2022,10:30,Leverkusen,Hertha Berlim,4-1-4-1,Felix Magath,23500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588564
+29,sáb 09/04/2022,13:30,Hertha Berlim,Union Berlim,4-1-4-1,Felix Magath,74667,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588585
+30,sáb 16/04/2022,10:30,Augsburg,Hertha Berlim,4-2-3-1,Felix Magath,28533,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588596
+31,dom 24/04/2022,12:30,Hertha Berlim,Stuttgart,4-2-3-1,Felix Magath,54589,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588612
+32,sáb 30/04/2022,10:30,Arm. Bielefeld,Hertha Berlim,4-2-3-1,Felix Magath,26021,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588633
+33,sáb 07/05/2022,13:30,Hertha Berlim,Mainz,4-2-3-1,Felix Magath,71548,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588654
+34,sáb 14/05/2022,10:30,Dortmund,Hertha Berlim,4-2-3-1,Felix Magath,80500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588667

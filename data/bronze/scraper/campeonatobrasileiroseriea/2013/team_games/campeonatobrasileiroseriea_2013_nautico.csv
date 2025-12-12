@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 26/05/2013,16:00,Grêmio,Náutico,4-4-2 losango,Silas,9560,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2317511
+2,qua 29/05/2013,21:00,Náutico,Vitória,4-3-3 defensivo,Silas,11230,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2318594
+3,dom 02/06/2013,18:30,Náutico,Portuguesa,4-3-3 ofensivo,Silas,15013,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2318608
+4,qua 05/06/2013,22:00,Flamengo,Náutico,4-3-1-2,Lisca,5241,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2318730
+5,dom 09/06/2013,18:30,Coritiba,Náutico,4-3-1-2,Lisca,16815,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2319217
+6,sáb 06/07/2013,18:30,Náutico,Ponte Preta,4-3-1-2,Zé Teodoro,20413,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2319692
+7,dom 14/07/2013,18:30,Cruzeiro,Náutico,4-3-1-2,Zé Teodoro,15528,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2327545
+8,sáb 20/07/2013,18:30,Botafogo,Náutico,4-3-1-2,Zé Teodoro,6567,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343404
+9,dom 28/07/2013,16:00,Náutico,Internacional,4-4-2 duplo 6,Zé Teodoro,19488,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343417
+10,ter 03/09/2013,21:00,Náutico,São Paulo,4-3-2-1,Jorginho,12217,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343429
+11,qua 25/09/2013,21:00,Santos,Náutico,4-3-1-2,Marcelo Martelotte,5108,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343433
+12,qua 07/08/2013,21:50,Goiás,Náutico,4-4-2 duplo 6,Zé Teodoro,5761,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344058
+13,sáb 10/08/2013,18:30,Náutico,Atlético-MG,4-3-1-2,Zé Teodoro,19997,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344152
+14,qua 14/08/2013,19:30,Criciúma,Náutico,4-3-1-2,Zé Teodoro,7625,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344074
+15,sáb 17/08/2013,18:30,Náutico,Fluminense,4-3-1-2,Jorginho,16583,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344118
+16,dom 25/08/2013,16:00,Bahia,Náutico,4-3-1-2,Jorginho,10614,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344075
+17,sáb 31/08/2013,18:30,Náutico,Atlético-PR,4-4-2 duplo 6,Jorginho,11263,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344098
+18,qui 05/09/2013,21:00,Náutico,Vasco da Gama,4-3-2-1,Jorginho,8153,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344069
+19,dom 08/09/2013,16:00,Corinthians,Náutico,4-3-1-2,Levi Gomes,22712,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344073
+20,qua 11/09/2013,21:50,Náutico,Grêmio,4-3-1-2,Levi Gomes,6826,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344192
+21,dom 15/09/2013,18:30,Vitória,Náutico,4-3-1-2,Levi Gomes,10054,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344193
+22,qui 19/09/2013,21:00,Portuguesa,Náutico,4-1-3-2,Levi Gomes,1808,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344211
+23,dom 22/09/2013,16:00,Náutico,Flamengo,4-4-2 duplo 6,Levi Gomes,15003,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344159
+24,sáb 28/09/2013,18:30,Náutico,Coritiba,4-3-1-2,Marcelo Martelotte,7065,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344137
+25,ter 01/10/2013,19:30,Ponte Preta,Náutico,4-3-1-2,Marcelo Martelotte,12625,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344260
+26,dom 06/10/2013,16:00,Náutico,Cruzeiro,4-3-1-2,Marcelo Martelotte,20661,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344311
+27,qua 09/10/2013,21:50,Náutico,Botafogo,4-4-2 duplo 6,Marcelo Martelotte,6658,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344187
+28,dom 13/10/2013,16:00,Internacional,Náutico,4-3-1-2,Marcelo Martelotte,3672,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344219
+29,qua 16/10/2013,21:00,São Paulo,Náutico,4-3-2-1,Marcelo Martelotte,14942,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344181
+30,sáb 19/10/2013,18:30,Náutico,Santos,4-4-2 duplo 6,Marcelo Martelotte,5452,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344154
+31,dom 27/10/2013,18:30,Náutico,Goiás,?,Marcelo Martelotte,3558,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344184
+32,sáb 02/11/2013,21:00,Atlético-MG,Náutico,?,Marcelo Martelotte,13255,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344313
+33,dom 10/11/2013,19:30,Náutico,Criciúma,5-3-2,Marcelo Martelotte,2797,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344290
+34,qui 14/11/2013,21:00,Fluminense,Náutico,?,Marcelo Martelotte,30844,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344300
+35,dom 17/11/2013,19:30,Náutico,Bahia,?,Marcelo Martelotte,2721,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344241
+36,dom 24/11/2013,17:00,Atlético-PR,Náutico,?,Marcelo Martelotte,2472,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344256
+37,dom 01/12/2013,17:00,Vasco da Gama,Náutico,4-4-2 losango,Marcelo Martelotte,55914,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344250
+38,sáb 07/12/2013,19:30,Náutico,Corinthians,4-3-2-1,Marcelo Martelotte,9716,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344257

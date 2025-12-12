@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 29/07/2023,08:00,VfL Osnabrück,Karlsruher,4-4-2 losango,Christian Eichner,15741,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096280
+2,dom 06/08/2023,08:30,Karlsruher,Hamburgo,4-4-2 losango,Christian Eichner,33000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096286
+3,sex 18/08/2023,13:30,Wehen Wiesbaden,Karlsruher,4-4-2,Christian Eichner,10626,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096299
+4,dom 27/08/2023,08:30,Karlsruher,E. Braunschweig,4-4-2 losango,Christian Eichner,22590,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096304
+5,sex 01/09/2023,13:30,Düsseldorf,Karlsruher,4-4-2 losango,Christian Eichner,27942,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096310
+6,sáb 16/09/2023,08:00,Karlsruher,K'lautern,4-4-2 losango,Christian Eichner,33000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096322
+7,sáb 23/09/2023,08:00,Greuther Fürth,Karlsruher,4-4-2 losango,Christian Eichner,11090,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096332
+8,sáb 30/09/2023,08:00,Karlsruher,Holstein Kiel,4-4-2 duplo 6,Christian Eichner,21982,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096339
+9,sáb 07/10/2023,08:00,Magdeburgo,Karlsruher,4-4-2 duplo 6,Christian Eichner,24366,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096350
+10,dom 22/10/2023,08:30,Karlsruher,Schalke,4-4-2 losango,Christian Eichner,33000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096357
+11,sáb 28/10/2023,08:00,St. Pauli,Karlsruher,4-4-2 losango,Christian Eichner,29125,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096365
+12,dom 05/11/2023,09:30,Karlsruher,Paderborn,4-4-2 losango,Christian Eichner,23705,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096374
+13,sáb 11/11/2023,16:30,Hertha Berlim,Karlsruher,4-4-2 losango,Christian Eichner,58851,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096382
+14,dom 26/11/2023,09:30,Karlsruher,Nuremberg,4-4-2 losango,Christian Eichner,25966,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096392
+15,dom 03/12/2023,09:30,Karlsruher,Hansa Rostock,4-4-2 losango,Christian Eichner,23159,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096403
+16,sex 08/12/2023,14:30,Hannover,Karlsruher,4-4-2 losango,Christian Eichner,26200,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096411
+17,dom 17/12/2023,09:30,Karlsruher,SV Elversberg,4-4-2 losango,Christian Eichner,23654,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096421
+18,sex 19/01/2024,14:30,Karlsruher,VfL Osnabrück,4-4-2 losango,Christian Eichner,21077,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096433
+19,dom 28/01/2024,09:30,Hamburgo,Karlsruher,4-4-2 losango,Christian Eichner,51776,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096439
+20,sex 02/02/2024,14:30,Karlsruher,Wehen Wiesbaden,4-4-2 losango,Christian Eichner,20407,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096452
+21,sáb 10/02/2024,09:00,E. Braunschweig,Karlsruher,4-4-2 losango,Christian Eichner,19595,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096457
+22,sáb 17/02/2024,16:30,Karlsruher,Düsseldorf,4-2-3-1,Christian Eichner,26563,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096463
+23,sáb 24/02/2024,09:00,K'lautern,Karlsruher,4-2-3-1,Christian Eichner,49327,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096475
+24,sáb 02/03/2024,16:30,Karlsruher,Greuther Fürth,4-2-3-1,Christian Eichner,26043,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096485
+25,sáb 09/03/2024,09:00,Holstein Kiel,Karlsruher,4-2-3-1,Christian Eichner,15034,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096492
+26,dom 17/03/2024,09:30,Karlsruher,Magdeburgo,4-4-2 duplo 6,Christian Eichner,27028,7:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096503
+27,dom 31/03/2024,08:30,Schalke,Karlsruher,4-4-2 duplo 6,Christian Eichner,61653,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096510
+28,sáb 06/04/2024,15:30,Karlsruher,St. Pauli,4-4-2 losango,Christian Eichner,34302,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096518
+29,sáb 13/04/2024,08:00,Paderborn,Karlsruher,4-4-2 duplo 6,Christian Eichner,12387,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096527
+30,dom 21/04/2024,08:30,Karlsruher,Hertha Berlim,4-2-3-1,Christian Eichner,33000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096535
+31,dom 28/04/2024,08:30,Nuremberg,Karlsruher,4-4-2 duplo 6,Christian Eichner,35162,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096545
+32,sáb 04/05/2024,08:00,Hansa Rostock,Karlsruher,4-4-2 duplo 6,Christian Eichner,26500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096556
+33,dom 12/05/2024,08:30,Karlsruher,Hannover,4-4-2 duplo 6,Christian Eichner,32140,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096564
+34,dom 19/05/2024,10:30,SV Elversberg,Karlsruher,4-4-2 duplo 6,Christian Eichner,9502,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096574

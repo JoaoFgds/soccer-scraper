@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 16/04/2023,16:00,Corinthians,Cruzeiro,4-3-3 ofensivo,Pepa,41304,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4055822
+2,sáb 22/04/2023,21:00,Cruzeiro,Grêmio,4-3-3 ofensivo,Pepa,21605,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4059106
+3,sáb 29/04/2023,18:30,Bragantino,Cruzeiro,4-3-3 ofensivo,Pepa,4829,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060066
+4,sáb 06/05/2023,16:00,Cruzeiro,Santos,4-3-3 ofensivo,Pepa,21191,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061498
+5,qua 10/05/2023,21:30,Cruzeiro,Fluminense,4-3-3 ofensivo,Pepa,51846,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061438
+6,dom 14/05/2023,18:30,América-MG,Cruzeiro,4-3-3 ofensivo,Pepa,4295,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061522
+7,seg 22/05/2023,20:00,Cruzeiro,Cuiabá,4-3-3 ofensivo,Pepa,15722,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061408
+8,sáb 27/05/2023,18:30,Flamengo,Cruzeiro,4-3-3 ofensivo,Pepa,65270,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061443
+9,sáb 03/06/2023,18:30,Cruzeiro,Atlético-MG,4-3-3 ofensivo,Pepa,34344,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061418
+10,sáb 10/06/2023,18:30,Bahia,Cruzeiro,4-3-3 ofensivo,Pepa,34019,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061531
+11,qua 21/06/2023,19:00,Cruzeiro,Fortaleza,4-3-3 ofensivo,Pepa,28494,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061468
+12,sáb 24/06/2023,21:00,Cruzeiro,São Paulo,4-3-3 ofensivo,Pepa,17478,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061508
+13,sáb 01/07/2023,21:00,Internacional,Cruzeiro,4-1-4-1,Pepa,23923,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061559
+14,sáb 08/07/2023,16:00,Vasco da Gama,Cruzeiro,4-1-4-1,Pepa,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061294
+15,dom 16/07/2023,11:00,Cruzeiro,Coritiba,4-3-3 ofensivo,Pepa,22123,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061428
+16,dom 23/07/2023,16:00,Cruzeiro,Goiás,4-1-4-1,Pepa,21688,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061545
+17,sáb 29/07/2023,16:00,Athletico-PR,Cruzeiro,4-3-3 ofensivo,Pepa,22730,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061548
+18,dom 06/08/2023,18:30,Cruzeiro,Botafogo,4-3-3 ofensivo,Pepa,44759,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061278
+19,seg 14/08/2023,19:00,Palmeiras,Cruzeiro,4-2-3-1,Pepa,38555,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061395
+20,sáb 19/08/2023,21:00,Cruzeiro,Corinthians,4-2-3-1,Pepa,36202,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061248
+21,dom 27/08/2023,19:00,Grêmio,Cruzeiro,4-2-3-1,Pepa,24938,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061389
+22,dom 03/09/2023,18:30,Cruzeiro,Bragantino,4-2-3-1,Fernando Seabra,29417,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061288
+23,qui 14/09/2023,19:00,Santos,Cruzeiro,4-2-3-1,Zé Ricardo,12244,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061216
+24,qua 20/09/2023,21:30,Fluminense,Cruzeiro,4-2-3-1,Zé Ricardo,28985,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061253
+25,dom 01/10/2023,16:00,Cruzeiro,América-MG,4-2-3-1,Zé Ricardo,44279,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061378
+26,sáb 14/10/2023,21:00,Cuiabá,Cruzeiro,4-3-3 defensivo,Zé Ricardo,12100,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061272
+27,qui 19/10/2023,19:00,Cruzeiro,Flamengo,4-2-3-1,Zé Ricardo,37073,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061348
+28,dom 22/10/2023,16:00,Atlético-MG,Cruzeiro,4-3-3 ofensivo,Zé Ricardo,42058,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061328
+29,qua 25/10/2023,20:00,Cruzeiro,Bahia,4-3-3 defensivo,Zé Ricardo,36104,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061458
+30,sáb 18/11/2023,18:30,Fortaleza,Cruzeiro,4-3-3 ofensivo,Paulo Autuori,30804,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061321
+31,qui 02/11/2023,20:00,São Paulo,Cruzeiro,4-3-3 ofensivo,Zé Ricardo,50570,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061235
+32,dom 05/11/2023,16:00,Cruzeiro,Internacional,4-4-1-1,Zé Ricardo,36801,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061228
+33,qua 22/11/2023,19:00,Cruzeiro,Vasco da Gama,4-3-2-1,Paulo Autuori,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061338
+34,sáb 11/11/2023,16:00,Coritiba,Cruzeiro,4-4-1-1,Zé Ricardo,7243,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061310
+35,seg 27/11/2023,20:00,Goiás,Cruzeiro,4-3-2-1,Paulo Autuori,9143,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061357
+36,qui 30/11/2023,20:00,Cruzeiro,Athletico-PR,4-3-2-1,Paulo Autuori,36696,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061368
+37,dom 03/12/2023,18:30,Botafogo,Cruzeiro,4-3-3 ofensivo,Paulo Autuori,15462,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061474
+38,qua 06/12/2023,21:30,Cruzeiro,Palmeiras,4-3-3 ofensivo,Paulo Autuori,44190,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061488

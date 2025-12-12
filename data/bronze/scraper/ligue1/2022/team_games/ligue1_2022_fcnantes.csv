@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 07/08/2022,10:00,Angers,Nantes,3-4-1-2,Antoine Kombouaré,12000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839728
+2,sex 12/08/2022,16:00,Nantes,Lille,3-5-2,Antoine Kombouaré,30689,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839778
+3,sáb 20/08/2022,16:00,Marselha,Nantes,5-4-1 plano,Antoine Kombouaré,63147,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839822
+4,dom 28/08/2022,08:00,Nantes,Toulouse,4-3-3 ofensivo,Antoine Kombouaré,26574,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839843
+5,qua 31/08/2022,14:00,Strasbourg,Nantes,4-2-3-1,Antoine Kombouaré,25162,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839870
+6,sáb 03/09/2022,16:00,Nantes,PSG,3-4-3 plano,Antoine Kombouaré,34406,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840010
+7,dom 11/09/2022,10:00,FC Lorient,Nantes,4-3-3 ofensivo,Antoine Kombouaré,15080,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840020
+8,dom 18/09/2022,12:05,Nantes,Lens,3-4-3 plano,Antoine Kombouaré,28854,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840029
+9,dom 02/10/2022,12:05,Monaco,Nantes,5-4-1 plano,Antoine Kombouaré,5202,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840041
+10,dom 09/10/2022,12:05,Rennes,Nantes,4-2-3-1,Antoine Kombouaré,27844,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840057
+11,dom 16/10/2022,10:00,Nantes,Brest,4-4-2 duplo 6,Antoine Kombouaré,25759,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840062
+12,dom 23/10/2022,12:05,Nice,Nantes,4-2-3-1,Antoine Kombouaré,20166,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840074
+13,dom 30/10/2022,11:00,Nantes,Clermont Foot,4-2-3-1,Antoine Kombouaré,30894,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840082
+14,dom 06/11/2022,11:00,Reims,Nantes,4-3-3 ofensivo,Antoine Kombouaré,11477,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840096
+15,dom 13/11/2022,11:00,Nantes,AC Ajaccio,4-2-3-1,Antoine Kombouaré,29407,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840100
+16,qua 28/12/2022,11:00,Troyes,Nantes,4-3-3 ofensivo,Antoine Kombouaré,9043,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840118
+17,dom 01/01/2023,11:00,Nantes,Auxerre,4-2-3-1,Antoine Kombouaré,23266,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840121
+18,qua 11/01/2023,15:00,Nantes,Lyon,4-2-3-1,Antoine Kombouaré,27657,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840133
+19,dom 15/01/2023,11:00,Montpellier,Nantes,5-4-1 plano,Antoine Kombouaré,10947,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840142
+20,dom 29/01/2023,11:00,Clermont Foot,Nantes,4-3-3 ofensivo,Antoine Kombouaré,11015,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840151
+21,qua 01/02/2023,15:00,Nantes,Marselha,4-2-3-1,Antoine Kombouaré,34125,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840161
+22,dom 05/02/2023,11:00,AC Ajaccio,Nantes,4-2-3-1,Antoine Kombouaré,6908,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840169
+23,dom 12/02/2023,13:05,Nantes,FC Lorient,4-2-3-1,Antoine Kombouaré,33579,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840182
+24,dom 19/02/2023,13:05,Lens,Nantes,3-4-1-2,Antoine Kombouaré,37984,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840193
+25,dom 26/02/2023,11:00,Nantes,Rennes,4-3-3 ofensivo,Antoine Kombouaré,34467,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840204
+26,sáb 04/03/2023,17:00,PSG,Nantes,5-3-2,Antoine Kombouaré,47000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840212
+27,dom 12/03/2023,11:00,Nantes,Nice,4-3-3 ofensivo,Antoine Kombouaré,33568,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840225
+28,sex 17/03/2023,17:00,Lyon,Nantes,4-2-3-1,Antoine Kombouaré,38880,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840232
+29,dom 02/04/2023,10:00,Nantes,Reims,4-2-3-1,Antoine Kombouaré,26285,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840250
+30,dom 09/04/2023,12:05,Nantes,Monaco,4-2-3-1,Antoine Kombouaré,30050,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840259
+31,dom 16/04/2023,10:00,Auxerre,Nantes,4-3-3 ofensivo,Antoine Kombouaré,15714,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840266
+32,dom 23/04/2023,10:00,Nantes,Troyes,4-4-2,Antoine Kombouaré,34082,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840280
+33,qua 03/05/2023,16:00,Brest,Nantes,4-2-3-1,Antoine Kombouaré,14470,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840292
+34,dom 07/05/2023,10:00,Nantes,Strasbourg,3-4-1-2,Antoine Kombouaré,28563,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840409
+35,dom 14/05/2023,11:30,Toulouse,Nantes,5-3-2,Pierre Aristouy,27033,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840424
+36,sáb 20/05/2023,12:00,Nantes,Montpellier,3-4-2-1,Pierre Aristouy,30170,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840428
+37,sáb 27/05/2023,16:00,Lille,Nantes,4-3-3 ofensivo,Pierre Aristouy,41163,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840437
+38,sáb 03/06/2023,16:00,Nantes,Angers,4-2-3-1,Pierre Aristouy,27650,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840449

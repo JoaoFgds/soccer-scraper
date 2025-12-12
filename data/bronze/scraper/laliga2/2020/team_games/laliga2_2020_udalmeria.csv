@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qui 05/11/2020,15:00,CE Sabadell,UD Almería,4-2-3-1,José Gomes,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3441549
+2,qua 09/12/2020,15:00,UD Almería,Zaragoza,4-2-3-1,José Gomes,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3441559
+3,dom 27/09/2020,07:00,Lugo,UD Almería,4-3-3 ofensivo,José Gomes,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3441569
+4,dom 04/10/2020,13:15,UD Almería,Real Sporting,4-2-3-1,José Gomes,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3441579
+5,sáb 10/10/2020,11:00,UD Logrones,UD Almería,4-2-3-1,José Gomes,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3456983
+6,sáb 17/10/2020,13:15,Las Palmas,UD Almería,4-4-2 duplo 6,José Gomes,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3456996
+7,qua 21/10/2020,16:30,UD Almería,FC Cartagena,4-2-3-1,José Gomes,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457002
+8,sáb 24/10/2020,15:30,UD Almería,Fuenlabrada CF,4-2-3-1,José Gomes,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457015
+9,qua 28/10/2020,15:00,Castellón,UD Almería,4-2-3-1,José Gomes,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457026
+10,dom 01/11/2020,17:00,UD Almería,Girona,4-2-3-1,José Gomes,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457035
+11,dom 08/11/2020,12:00,Rayo Vallecano,UD Almería,4-2-3-1,José Gomes,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457053
+12,sáb 14/11/2020,12:15,UD Almería,Mirandés,4-2-3-1,José Gomes,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457057
+13,seg 23/11/2020,17:00,Albacete,UD Almería,4-2-3-1,José Gomes,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457068
+14,qui 26/11/2020,17:30,UD Almería,Tenerife,4-2-3-1,José Gomes,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457079
+15,seg 30/11/2020,17:00,Real Oviedo,UD Almería,4-2-3-1,José Gomes,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457099
+16,qui 03/12/2020,15:00,UD Almería,Mallorca,4-2-3-1,José Gomes,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457101
+17,dom 06/12/2020,10:00,AD Alcorcón,UD Almería,4-2-3-1,José Gomes,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457113
+18,dom 13/12/2020,12:00,UD Almería,Málaga CF,4-2-3-1,José Gomes,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457123
+19,dom 20/12/2020,12:00,Espanyol,UD Almería,4-2-3-1,José Gomes,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457135
+20,dom 03/01/2021,16:30,UD Almería,Ponferradina,4-2-3-1,José Gomes,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457146
+21,qua 17/02/2021,15:00,Leganés,UD Almería,4-2-3-1,José Gomes,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457158
+22,dom 24/01/2021,10:00,UD Almería,CE Sabadell,4-2-3-1,José Gomes,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457168
+23,sáb 30/01/2021,17:00,UD Almería,Castellón,4-2-3-1,José Gomes,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457179
+24,sáb 06/02/2021,16:30,Fuenlabrada CF,UD Almería,4-2-3-1,José Gomes,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457193
+25,dom 14/02/2021,12:00,UD Almería,Las Palmas,4-4-2,José Gomes,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457201
+26,dom 21/02/2021,12:00,Mallorca,UD Almería,4-2-3-1,José Gomes,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457219
+27,sáb 27/02/2021,14:15,UD Almería,Lugo,4-2-3-1,José Gomes,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457222
+28,dom 07/03/2021,17:00,Girona,UD Almería,4-2-3-1,José Gomes,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457235
+29,seg 15/03/2021,15:00,UD Almería,AD Alcorcón,4-2-3-1,José Gomes,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457244
+30,dom 21/03/2021,10:00,Ponferradina,UD Almería,4-2-3-1,José Gomes,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457263
+31,sáb 27/03/2021,14:15,UD Almería,Leganés,4-2-3-1,José Gomes,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457266
+32,ter 30/03/2021,14:30,Málaga CF,UD Almería,4-2-3-1,José Gomes,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457281
+33,sex 02/04/2021,16:00,UD Almería,Rayo Vallecano,4-2-3-1,José Gomes,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457289
+34,dom 11/04/2021,11:00,Zaragoza,UD Almería,4-2-3-1,José Gomes,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457307
+35,seg 19/04/2021,16:00,UD Almería,Espanyol,4-2-3-1,José Gomes,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457311
+36,dom 25/04/2021,11:00,Mirandés,UD Almería,3-4-3 plano,José Gomes,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457325
+37,sáb 01/05/2021,13:15,UD Almería,Real Oviedo,4-2-3-1,Rubi,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457333
+38,sex 07/05/2021,16:00,Tenerife,UD Almería,4-2-3-1,Rubi,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457353
+39,sáb 15/05/2021,16:00,UD Almería,Albacete,4-2-3-1,Rubi,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457354
+40,ter 18/05/2021,14:00,FC Cartagena,UD Almería,4-2-3-1,Rubi,2643,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457367
+41,seg 24/05/2021,16:00,UD Almería,UD Logrones,4-2-3-1,Rubi,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457376
+42,dom 30/05/2021,16:00,Real Sporting,UD Almería,4-2-3-1,Rubi,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457396

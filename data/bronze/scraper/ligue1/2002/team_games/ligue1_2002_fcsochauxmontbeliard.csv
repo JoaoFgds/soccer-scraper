@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 03/08/2002,15:00,CS Sedan,FC Sochaux,?,Guy Lacombe,13231,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/992398
+2,sáb 10/08/2002,12:15,Lens,FC Sochaux,?,Guy Lacombe,36971,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1001752
+3,sáb 17/08/2002,15:00,FC Sochaux,Nantes,?,Guy Lacombe,14433,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1001769
+4,sáb 24/08/2002,15:00,Monaco,FC Sochaux,?,Guy Lacombe,8536,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1001973
+5,sáb 31/08/2002,15:00,FC Sochaux,Lyon,?,Guy Lacombe,18442,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1001983
+6,qua 11/09/2002,15:30,Rennes,FC Sochaux,?,Guy Lacombe,15856,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1001994
+7,sáb 14/09/2002,15:00,FC Sochaux,Auxerre,?,Guy Lacombe,18352,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002003
+8,sáb 21/09/2002,15:00,AC Ajaccio,FC Sochaux,?,Guy Lacombe,5272,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002013
+9,sáb 28/09/2002,15:00,FC Sochaux,Nice,?,Guy Lacombe,15457,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002080
+10,sáb 05/10/2002,15:00,Le Havre,FC Sochaux,?,Guy Lacombe,8779,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002087
+11,sáb 19/10/2002,15:00,FC Sochaux,Bordeaux,?,Guy Lacombe,19082,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002099
+12,sáb 26/10/2002,15:00,Lille,FC Sochaux,?,Guy Lacombe,14981,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002110
+13,sáb 02/11/2002,16:00,FC Sochaux,Strasbourg,?,Guy Lacombe,18555,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002118
+14,sáb 09/11/2002,17:00,PSG,FC Sochaux,?,Guy Lacombe,40992,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002130
+15,sáb 16/11/2002,17:00,FC Sochaux,Montpellier,?,Guy Lacombe,13752,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002139
+16,sáb 23/11/2002,17:00,Guingamp,FC Sochaux,?,Guy Lacombe,14325,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002149
+17,sáb 30/11/2002,17:00,FC Sochaux,Troyes,?,Guy Lacombe,12163,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002157
+18,qua 04/12/2002,17:30,Marselha,FC Sochaux,5-3-2,Guy Lacombe,45293,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002170
+19,sáb 14/12/2002,14:15,FC Sochaux,SC Bastia,?,Guy Lacombe,10934,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002172
+20,sex 20/12/2002,15:00,FC Sochaux,Lens,4-4-2 duplo 6,Guy Lacombe,12682,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002182
+21,sáb 15/02/2003,14:30,Nantes,FC Sochaux,?,Guy Lacombe,29670,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002200
+22,qua 15/01/2003,15:00,FC Sochaux,Monaco,?,Guy Lacombe,11653,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002202
+23,qua 22/01/2003,15:00,Lyon,FC Sochaux,4-4-2 losango,Guy Lacombe,30662,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002212
+24,qua 29/01/2003,17:30,FC Sochaux,Rennes,?,Guy Lacombe,10471,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002230
+25,sáb 01/02/2003,14:15,Auxerre,FC Sochaux,?,Guy Lacombe,6488,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002231
+26,sex 14/03/2003,16:30,FC Sochaux,AC Ajaccio,?,Guy Lacombe,13400,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002249
+27,sáb 08/02/2003,17:00,Nice,FC Sochaux,?,Guy Lacombe,14078,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002259
+28,sáb 22/02/2003,16:00,FC Sochaux,Le Havre,?,Guy Lacombe,12355,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002269
+29,sáb 01/03/2003,13:30,Bordeaux,FC Sochaux,?,Guy Lacombe,25361,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002279
+30,sáb 08/03/2003,16:00,FC Sochaux,Lille,?,Guy Lacombe,12818,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002289
+31,sáb 22/03/2003,16:00,Strasbourg,FC Sochaux,?,Guy Lacombe,12549,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002299
+32,sáb 05/04/2003,15:00,FC Sochaux,PSG,?,Guy Lacombe,19682,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002309
+33,sáb 12/04/2003,15:00,Montpellier,FC Sochaux,?,Guy Lacombe,12177,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002320
+34,sáb 19/04/2003,15:00,FC Sochaux,Guingamp,?,Guy Lacombe,17563,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002328
+35,sáb 03/05/2003,15:00,Troyes,FC Sochaux,?,Guy Lacombe,11597,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002339
+36,sáb 10/05/2003,15:00,FC Sochaux,Marselha,4-4-2 duplo 6,Guy Lacombe,19910,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002349
+37,ter 20/05/2003,15:30,SC Bastia,FC Sochaux,?,Guy Lacombe,7943,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002360
+38,sáb 24/05/2003,15:30,FC Sochaux,CS Sedan,?,Guy Lacombe,19078,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002370

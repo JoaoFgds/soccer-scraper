@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/08/2017,11:00,Crystal Palace,Huddersfield,3-4-2-1,Frank de Boer,25488,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872118
+2,sáb 19/08/2017,11:00,Liverpool,Crystal Palace,5-4-1 plano,Frank de Boer,53138,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872129
+3,sáb 26/08/2017,11:00,Crystal Palace,Swansea,3-5-2 plano,Frank de Boer,23477,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872137
+4,dom 10/09/2017,09:30,FC Burnley,Crystal Palace,4-1-4-1,Frank de Boer,18862,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872147
+5,sáb 16/09/2017,08:30,Crystal Palace,Southampton,4-2-3-1,Roy Hodgson,24199,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872157
+6,sáb 23/09/2017,11:00,Man City,Crystal Palace,4-2-3-1,Roy Hodgson,53526,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872170
+7,sáb 30/09/2017,11:00,Man Utd,Crystal Palace,4-1-4-1,Roy Hodgson,75118,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872180
+8,sáb 14/10/2017,11:00,Crystal Palace,Chelsea,4-4-2,Roy Hodgson,25480,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872187
+9,sáb 21/10/2017,12:00,Newcastle,Crystal Palace,4-4-2,Roy Hodgson,52251,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872199
+10,sáb 28/10/2017,12:00,Crystal Palace,West Ham,4-4-2,Roy Hodgson,25242,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872209
+11,dom 05/11/2017,10:00,Tottenham,Crystal Palace,4-4-2,Roy Hodgson,65270,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872223
+12,sáb 18/11/2017,13:00,Crystal Palace,Everton,4-4-2,Roy Hodgson,25526,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872229
+13,sáb 25/11/2017,13:00,Crystal Palace,Stoke,4-4-2,Roy Hodgson,23723,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872236
+14,ter 28/11/2017,17:45,Brighton,Crystal Palace,4-4-2 duplo 6,Roy Hodgson,29889,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872247
+15,sáb 02/12/2017,13:00,West Brom,Crystal Palace,4-4-2,Roy Hodgson,23531,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872264
+16,sáb 09/12/2017,13:00,Crystal Palace,Bournemouth,4-4-2 duplo 6,Roy Hodgson,24823,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872266
+17,ter 12/12/2017,18:00,Crystal Palace,Watford,4-4-2,Roy Hodgson,23566,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872276
+18,sáb 16/12/2017,10:30,Leicester,Crystal Palace,4-4-2,Roy Hodgson,31081,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872290
+19,sáb 23/12/2017,13:00,Swansea,Crystal Palace,4-4-1-1,Roy Hodgson,20354,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872302
+20,qui 28/12/2017,18:00,Crystal Palace,Arsenal,4-4-2,Roy Hodgson,25762,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872307
+21,dom 31/12/2017,10:00,Crystal Palace,Man City,4-3-3 ofensivo,Roy Hodgson,25804,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872317
+22,ter 02/01/2018,17:45,Southampton,Crystal Palace,4-2-3-1,Roy Hodgson,28411,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872331
+23,sáb 13/01/2018,13:00,Crystal Palace,FC Burnley,4-4-2 duplo 6,Roy Hodgson,24696,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872337
+24,sáb 20/01/2018,13:00,Arsenal,Crystal Palace,4-3-3 ofensivo,Roy Hodgson,59386,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872345
+25,ter 30/01/2018,17:45,West Ham,Crystal Palace,4-4-2 duplo 6,Roy Hodgson,56911,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872357
+26,dom 04/02/2018,12:15,Crystal Palace,Newcastle,4-4-2,Roy Hodgson,25746,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872369
+27,sáb 10/02/2018,13:00,Everton,Crystal Palace,4-3-3 ofensivo,Roy Hodgson,39139,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872376
+28,dom 25/02/2018,09:00,Crystal Palace,Tottenham,4-3-3 ofensivo,Roy Hodgson,25287,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872389
+29,seg 05/03/2018,17:00,Crystal Palace,Man Utd,4-4-2,Roy Hodgson,25840,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872397
+30,sáb 10/03/2018,14:30,Chelsea,Crystal Palace,4-4-2 duplo 6,Roy Hodgson,40800,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872407
+31,sáb 17/03/2018,12:00,Huddersfield,Crystal Palace,4-1-4-1,Roy Hodgson,23918,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872417
+32,sáb 31/03/2018,08:30,Crystal Palace,Liverpool,4-3-3 defensivo,Roy Hodgson,25807,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872428
+33,sáb 07/04/2018,11:00,Bournemouth,Crystal Palace,4-4-2,Roy Hodgson,10710,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872435
+34,sáb 14/04/2018,11:00,Crystal Palace,Brighton,4-4-2,Roy Hodgson,24656,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872446
+35,sáb 21/04/2018,11:00,Watford,Crystal Palace,4-4-2,Roy Hodgson,20400,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872463
+36,sáb 28/04/2018,11:00,Crystal Palace,Leicester,4-4-2,Roy Hodgson,25750,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872466
+37,sáb 05/05/2018,08:30,Stoke,Crystal Palace,4-4-2,Roy Hodgson,29687,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872482
+38,dom 13/05/2018,11:00,Crystal Palace,West Brom,4-4-2,Roy Hodgson,25357,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872486

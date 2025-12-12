@@ -1,0 +1,17 @@
+league_name,season_year,canonical_name,other_name,precision_score,is_confident_match
+ligaportugal2,2011,atleticoclubedeportugal,atleticocp,61,False
+ligaportugal2,2011,cfosbelenenses,belenenses,83,True
+ligaportugal2,2011,cfuniaodamadeira2021,cfuniao,52,False
+ligaportugal2,2011,clubedesportivodasaves2020,cdaves,38,False
+ligaportugal2,2011,clubedesportivosantaclara,santaclara,57,False
+ligaportugal2,2011,clubedesportivotrofense,trofense,52,False
+ligaportugal2,2011,fcarouca,arouca,86,True
+ligaportugal2,2011,futebolclubepenafiel,penafiel,57,False
+ligaportugal2,2011,gdestorilpraia,estoril,67,False
+ligaportugal2,2011,leixoessc,leixoes,88,True
+ligaportugal2,2011,moreirensefutebolclube,moreirense,62,False
+ligaportugal2,2011,naval1odemaio,naval1odemaio,100,True
+ligaportugal2,2011,portimonensesad,portimonense,89,True
+ligaportugal2,2011,sccovilha,covilha,88,True
+ligaportugal2,2011,scfreamunde,freamunde,90,True
+ligaportugal2,2011,udoliveirense,udoliveirense,100,True

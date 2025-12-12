@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 11/08/2019,10:00,Newcastle,Arsenal,5-3-2,Steve Bruce,47635,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3194824
+2,sáb 17/08/2019,11:00,Norwich,Newcastle,3-5-2 plano,Steve Bruce,27059,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219430
+3,dom 25/08/2019,12:30,Tottenham,Newcastle,5-4-1 plano,Steve Bruce,59245,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219088
+4,sáb 31/08/2019,11:00,Newcastle,Watford,5-4-1 plano,Steve Bruce,44157,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219421
+5,sáb 14/09/2019,08:30,Liverpool,Newcastle,5-4-1 plano,Steve Bruce,51430,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219082
+6,sáb 21/09/2019,13:30,Newcastle,Brighton,3-4-2-1,Steve Bruce,43316,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219072
+7,dom 29/09/2019,12:30,Leicester,Newcastle,4-4-1-1,Steve Bruce,32168,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219067
+8,dom 06/10/2019,12:30,Newcastle,Man Utd,5-4-1 plano,Steve Bruce,51198,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219066
+9,sáb 19/10/2019,11:00,Chelsea,Newcastle,5-4-1 plano,Steve Bruce,40513,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219396
+10,dom 27/10/2019,11:00,Newcastle,Wolves,5-4-1 plano,Steve Bruce,46019,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219380
+11,sáb 02/11/2019,12:00,West Ham,Newcastle,5-4-1 plano,Steve Bruce,59907,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219367
+12,sáb 09/11/2019,12:00,Newcastle,Bournemouth,5-4-1 plano,Steve Bruce,44424,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219360
+13,seg 25/11/2019,17:00,Aston Villa,Newcastle,5-4-1 plano,Steve Bruce,41821,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219356
+14,sáb 30/11/2019,09:30,Newcastle,Man City,5-4-1 plano,Steve Bruce,49937,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219341
+15,qui 05/12/2019,16:30,Sheff Utd,Newcastle,3-4-3 plano,Steve Bruce,30409,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219336
+16,dom 08/12/2019,11:00,Newcastle,Southampton,5-4-1 plano,Steve Bruce,42303,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219324
+17,sáb 14/12/2019,12:00,FC Burnley,Newcastle,5-4-1 plano,Steve Bruce,19798,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219314
+18,sáb 21/12/2019,12:00,Newcastle,Crystal Palace,3-5-2 plano,Steve Bruce,45453,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219297
+19,qui 26/12/2019,14:30,Man Utd,Newcastle,3-5-2 plano,Steve Bruce,73206,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219281
+20,sáb 28/12/2019,12:00,Newcastle,Everton,3-5-2 plano,Steve Bruce,52211,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219286
+21,qua 01/01/2020,12:00,Newcastle,Leicester,3-4-2-1,Steve Bruce,52178,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219269
+22,sáb 11/01/2020,12:00,Wolves,Newcastle,5-4-1 plano,Steve Bruce,31570,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219250
+23,sáb 18/01/2020,14:30,Newcastle,Chelsea,5-4-1 plano,Steve Bruce,52217,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219257
+24,ter 21/01/2020,16:30,Everton,Newcastle,5-4-1 plano,Steve Bruce,38822,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219244
+25,sáb 01/02/2020,12:00,Newcastle,Norwich,5-4-1 plano,Steve Bruce,52204,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219232
+26,dom 16/02/2020,13:30,Arsenal,Newcastle,5-4-1 plano,Steve Bruce,60188,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219225
+27,sáb 22/02/2020,12:00,Crystal Palace,Newcastle,5-4-1 plano,Steve Bruce,25486,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219182
+28,sáb 29/02/2020,12:00,Newcastle,FC Burnley,4-4-1-1,Steve Bruce,52219,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219214
+29,sáb 07/03/2020,12:00,Southampton,Newcastle,4-4-2 duplo 6,Steve Bruce,30096,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219118
+30,dom 21/06/2020,10:00,Newcastle,Sheff Utd,4-4-1-1,Steve Bruce,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219150
+31,qua 24/06/2020,14:00,Newcastle,Aston Villa,4-2-3-1,Steve Bruce,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219167
+32,qua 01/07/2020,14:00,Bournemouth,Newcastle,4-2-3-1,Steve Bruce,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219174
+33,dom 05/07/2020,10:15,Newcastle,West Ham,4-2-3-1,Steve Bruce,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219201
+34,qua 08/07/2020,14:00,Man City,Newcastle,4-2-3-1,Steve Bruce,x,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219131
+35,sáb 11/07/2020,08:30,Watford,Newcastle,4-4-1-1,Steve Bruce,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219123
+36,qua 15/07/2020,14:00,Newcastle,Tottenham,5-3-2,Steve Bruce,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219136
+37,seg 20/07/2020,14:00,Brighton,Newcastle,3-5-2 plano,Steve Bruce,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219157
+38,dom 26/07/2020,12:00,Newcastle,Liverpool,3-5-2,Steve Bruce,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219102

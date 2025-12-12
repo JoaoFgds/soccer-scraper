@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 27/07/2018,15:00,Clermont Foot,LB Châteauroux,4-2-3-1,Jean-Luc Vasseur,2873,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047903
+2,seg 06/08/2018,15:45,LB Châteauroux,FC Lorient,4-4-2,Jean-Luc Vasseur,3580,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047912
+3,sex 10/08/2018,15:00,Valenciennes,LB Châteauroux,5-3-2,Jean-Luc Vasseur,6501,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047929
+4,sex 17/08/2018,15:00,LB Châteauroux,Red Star FC,5-4-1 plano,Jean-Luc Vasseur,2930,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047932
+5,sex 24/08/2018,15:00,Grenoble,LB Châteauroux,5-3-2,Jean-Luc Vasseur,6522,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047944
+6,sex 31/08/2018,15:00,LB Châteauroux,AS Nancy,5-3-2,Jean-Luc Vasseur,2777,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047952
+7,sex 14/09/2018,15:00,US Orléans,LB Châteauroux,5-3-2,Jean-Luc Vasseur,3888,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047967
+8,sex 21/09/2018,15:00,LB Châteauroux,AS Béziers,5-3-2,Jean-Luc Vasseur,2631,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047972
+9,sex 28/09/2018,15:00,Brest,LB Châteauroux,4-3-3 ofensivo,Jean-Luc Vasseur,6469,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047982
+10,sex 05/10/2018,15:00,LB Châteauroux,Troyes,3-5-2 ofensivo,Jean-Luc Vasseur,6861,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3047992
+11,sex 19/10/2018,15:00,Paris FC,LB Châteauroux,4-4-2 duplo 6,Olivier Saragaglia,2945,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048008
+12,sex 26/10/2018,15:00,LB Châteauroux,AC Ajaccio,4-2-3-1,Nicolas Usaï,2781,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048071
+13,sáb 03/11/2018,11:00,Lens,LB Châteauroux,5-4-1 plano,Nicolas Usaï,30949,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048082
+14,sex 09/11/2018,17:00,LB Châteauroux,FC Metz,5-4-1 plano,Nicolas Usaï,7153,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048092
+15,sex 23/11/2018,17:00,Chamois Niort,LB Châteauroux,4-2-3-1,Nicolas Usaï,2957,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048104
+16,sex 30/11/2018,17:00,LB Châteauroux,FC Sochaux,5-3-2,Nicolas Usaï,2711,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048117
+17,ter 04/12/2018,18:00,Le Havre,LB Châteauroux,4-5-1 plano,Nicolas Usaï,5798,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048134
+18,sex 14/12/2018,17:00,LB Châteauroux,Auxerre,4-4-2 duplo 6,Nicolas Usaï,2686,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048149
+19,sex 21/12/2018,17:30,LB Châteauroux,G. Ajaccio,4-3-1-2,Nicolas Usaï,2677,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048171
+20,sex 11/01/2019,17:00,FC Lorient,LB Châteauroux,3-5-2,Nicolas Usaï,5298,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048212
+21,sex 18/01/2019,17:00,LB Châteauroux,Valenciennes,4-3-3 ofensivo,Nicolas Usaï,2881,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048227
+22,sex 25/01/2019,17:00,Red Star FC,LB Châteauroux,4-2-3-1,Nicolas Usaï,2315,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048242
+23,sex 01/02/2019,17:00,LB Châteauroux,Grenoble,4-2-3-1,Nicolas Usaï,2557,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048261
+24,sex 08/02/2019,17:00,AS Nancy,LB Châteauroux,4-2-3-1,Nicolas Usaï,9890,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048275
+25,sex 15/02/2019,17:00,LB Châteauroux,US Orléans,4-2-3-1,Nicolas Usaï,7346,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048281
+26,sex 22/02/2019,16:00,AS Béziers,LB Châteauroux,4-2-3-1,Nicolas Usaï,2236,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048290
+27,sex 01/03/2019,16:00,LB Châteauroux,Brest,5-4-1 plano,Nicolas Usaï,6435,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048805
+28,sex 08/03/2019,16:00,Troyes,LB Châteauroux,4-3-3 ofensivo,Nicolas Usaï,7339,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048822
+29,sex 15/03/2019,16:00,LB Châteauroux,Paris FC,4-2-3-1,Nicolas Usaï,3365,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048891
+30,sex 29/03/2019,16:00,AC Ajaccio,LB Châteauroux,3-4-3 plano,Nicolas Usaï,2289,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048899
+31,seg 08/04/2019,15:45,LB Châteauroux,Lens,4-3-3 ofensivo,Nicolas Usaï,9246,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048911
+32,sex 12/04/2019,15:00,FC Metz,LB Châteauroux,3-4-3 plano,Nicolas Usaï,10489,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048922
+33,sex 19/04/2019,15:00,LB Châteauroux,Chamois Niort,4-4-2 duplo 6,Nicolas Usaï,3202,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048932
+34,ter 23/04/2019,15:00,FC Sochaux,LB Châteauroux,4-3-3 ofensivo,Nicolas Usaï,7984,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048947
+35,sex 26/04/2019,15:00,LB Châteauroux,Le Havre,4-3-3 ofensivo,Nicolas Usaï,6058,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048951
+36,sex 03/05/2019,15:00,Auxerre,LB Châteauroux,4-3-3 ofensivo,Nicolas Usaï,6372,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048960
+37,sex 10/05/2019,15:45,G. Ajaccio,LB Châteauroux,4-3-3 ofensivo,Nicolas Usaï,3144,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048970
+38,sex 17/05/2019,15:45,LB Châteauroux,Clermont Foot,4-3-3 ofensivo,Nicolas Usaï,7414,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048981

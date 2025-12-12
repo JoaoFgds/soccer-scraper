@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 24/08/2014,16:00,Celta de Vigo,Getafe,4-2-3-1,Cosmin Contra,20416,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475183
+2,sex 29/08/2014,15:00,Getafe,UD Almería,4-2-3-1,Cosmin Contra,6000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475192
+3,dom 14/09/2014,14:00,Sevilla,Getafe,4-2-3-1,Cosmin Contra,34600,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475201
+4,seg 22/09/2014,15:45,Getafe,Valencia,4-4-2 duplo 6,Cosmin Contra,6000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475211
+5,qui 25/09/2014,15:00,Espanyol,Getafe,4-2-3-1,Cosmin Contra,14285,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475220
+6,dom 28/09/2014,07:00,Getafe,Málaga CF,4-2-3-1,Cosmin Contra,5500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475230
+7,sex 03/10/2014,16:00,Getafe,Córdoba,4-2-3-1,Cosmin Contra,9000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475240
+8,seg 20/10/2014,16:45,Real Sociedad,Getafe,4-2-3-1,Cosmin Contra,19098,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475251
+9,dom 26/10/2014,18:00,Getafe,Atlético,4-2-3-1,Cosmin Contra,9300,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475261
+10,sex 31/10/2014,17:45,Deportivo,Getafe,4-2-3-1,Cosmin Contra,20150,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475272
+11,sáb 08/11/2014,15:00,Getafe,Elche,4-2-3-1,Cosmin Contra,6000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475282
+12,dom 23/11/2014,18:00,Villarreal,Getafe,4-2-3-1,Cosmin Contra,19500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475293
+13,sáb 29/11/2014,13:00,Getafe,Athletic Club,4-2-3-1,Cosmin Contra,8100,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475303
+14,seg 08/12/2014,16:00,Levante,Getafe,4-2-3-1,Cosmin Contra,13582,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475314
+15,sáb 13/12/2014,13:00,Getafe,Barcelona,4-1-4-1,Cosmin Contra,9500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475324
+16,dom 21/12/2014,14:00,Granada CF,Getafe,4-2-3-1,Álvaro García,19600,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475335
+17,dom 04/01/2015,09:00,Getafe,Rayo Vallecano,4-1-4-1,Cosmin Contra,6500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475345
+18,sáb 10/01/2015,19:00,Eibar,Getafe,4-4-2 duplo 6,Quique Sánchez Flores,4115,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475356
+19,dom 18/01/2015,09:00,Getafe,Real Madrid,4-2-3-1,Quique Sánchez Flores,10591,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475366
+20,seg 26/01/2015,17:45,Getafe,Celta de Vigo,4-2-3-1,Quique Sánchez Flores,4570,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475373
+21,dom 01/02/2015,14:00,UD Almería,Getafe,4-2-3-1,Quique Sánchez Flores,8575,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475382
+22,dom 08/02/2015,14:00,Getafe,Sevilla,4-4-2 duplo 6,Quique Sánchez Flores,6297,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475391
+23,dom 15/02/2015,09:00,Valencia,Getafe,4-4-2 duplo 6,Quique Sánchez Flores,48245,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475401
+24,sex 20/02/2015,17:45,Getafe,Espanyol,4-2-3-1,Quique Sánchez Flores,9614,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475410
+25,sáb 28/02/2015,18:00,Málaga CF,Getafe,4-2-3-1,Pablo Franco,19939,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475420
+26,seg 09/03/2015,16:45,Córdoba,Getafe,4-2-3-1,Pablo Franco,15183,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475430
+27,seg 16/03/2015,16:45,Getafe,Real Sociedad,4-2-3-1,Pablo Franco,9012,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475441
+28,sáb 21/03/2015,12:00,Atlético,Getafe,4-2-3-1,Pablo Franco,38673,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475451
+29,dom 05/04/2015,14:00,Getafe,Deportivo,4-2-3-1,Pablo Franco,6287,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475462
+30,qui 09/04/2015,17:00,Elche,Getafe,4-4-2 duplo 6,Pablo Franco,18088,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475472
+31,dom 12/04/2015,07:00,Getafe,Villarreal,4-2-3-1,Pablo Franco,6745,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475483
+32,sáb 18/04/2015,17:00,Athletic Club,Getafe,4-2-3-1,Pablo Franco,37220,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475493
+33,sáb 25/04/2015,15:00,Getafe,Levante,4-2-3-1,Pablo Franco,5954,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475504
+34,ter 28/04/2015,15:00,Barcelona,Getafe,4-2-3-1,Pablo Franco,65356,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475514
+35,dom 03/05/2015,12:00,Getafe,Granada CF,4-2-3-1,Pablo Franco,5987,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475525
+36,seg 11/05/2015,15:45,Rayo Vallecano,Getafe,4-2-3-1,Pablo Franco,9475,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475535
+37,dom 17/05/2015,14:00,Getafe,Eibar,4-2-3-1,Pablo Franco,8808,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475546
+38,sáb 23/05/2015,15:30,Real Madrid,Getafe,4-2-3-1,Pablo Franco,63769,7:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475556

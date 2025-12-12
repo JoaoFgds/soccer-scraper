@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/08/2023,11:00,Brighton,Luton,4-2-3-1,Roberto De Zerbi,31872,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4087927
+2,sáb 19/08/2023,11:00,Wolves,Brighton,4-2-3-1,Roberto De Zerbi,31317,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4087943
+3,sáb 26/08/2023,13:30,Brighton,West Ham,4-2-3-1,Roberto De Zerbi,31508,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4087947
+4,sáb 02/09/2023,13:30,Brighton,Newcastle,4-2-3-1,Roberto De Zerbi,31620,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4087956
+5,sáb 16/09/2023,11:00,Man Utd,Brighton,4-2-3-1,Roberto De Zerbi,73592,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4087967
+6,dom 24/09/2023,10:00,Brighton,Bournemouth,4-2-3-1,Roberto De Zerbi,31617,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095064
+7,sáb 30/09/2023,08:30,Aston Villa,Brighton,4-4-2 duplo 6,Roberto De Zerbi,40636,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095137
+8,dom 08/10/2023,10:00,Brighton,Liverpool,4-2-3-1,Roberto De Zerbi,31752,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095147
+9,sáb 21/10/2023,11:00,Man City,Brighton,4-2-3-1,Roberto De Zerbi,53466,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095161
+10,dom 29/10/2023,11:00,Brighton,Fulham,3-4-2-1,Roberto De Zerbi,31550,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095169
+11,sáb 04/11/2023,12:00,Everton,Brighton,4-3-3 ofensivo,Roberto De Zerbi,38683,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095178
+12,dom 12/11/2023,11:00,Brighton,Sheff Utd,4-2-3-1,Roberto De Zerbi,31367,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095189
+13,sáb 25/11/2023,12:00,Nott'm Forest,Brighton,4-2-3-1,Roberto De Zerbi,29404,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095203
+14,dom 03/12/2023,11:00,Chelsea,Brighton,4-2-3-1,Roberto De Zerbi,39647,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095210
+15,qua 06/12/2023,16:30,Brighton,Brentford,4-2-3-1,Roberto De Zerbi,30760,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095217
+16,sáb 09/12/2023,12:00,Brighton,FC Burnley,4-2-3-1,Roberto De Zerbi,31511,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095227
+17,dom 17/12/2023,11:00,Arsenal,Brighton,4-2-3-1,Roberto De Zerbi,60257,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095237
+18,qui 21/12/2023,17:00,Crystal Palace,Brighton,4-2-3-1,Roberto De Zerbi,24171,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095247
+19,qui 28/12/2023,16:30,Brighton,Tottenham,4-4-2 losango,Roberto De Zerbi,31675,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095259
+20,ter 02/01/2024,16:30,West Ham,Brighton,4-3-1-2,Roberto De Zerbi,62462,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095274
+21,seg 22/01/2024,16:45,Brighton,Wolves,4-3-3 ofensivo,Roberto De Zerbi,31505,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095279
+22,ter 30/01/2024,16:45,Luton,Brighton,3-4-3 plano,Roberto De Zerbi,10994,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095288
+23,sáb 03/02/2024,12:00,Brighton,Crystal Palace,3-4-3 plano,Roberto De Zerbi,31345,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095299
+24,sáb 10/02/2024,12:00,Tottenham,Brighton,4-2-3-1,Roberto De Zerbi,61445,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095317
+25,dom 18/02/2024,11:00,Sheff Utd,Brighton,4-2-3-1,Roberto De Zerbi,29522,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095328
+26,sáb 24/02/2024,12:00,Brighton,Everton,4-2-3-1,Roberto De Zerbi,31646,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095333
+27,sáb 02/03/2024,12:00,Fulham,Brighton,3-4-2-1,Roberto De Zerbi,24460,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095343
+28,dom 10/03/2024,11:00,Brighton,Nott'm Forest,4-2-3-1,Roberto De Zerbi,31505,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095353
+29,qui 25/04/2024,16:00,Brighton,Man City,4-2-3-1,Roberto De Zerbi,31596,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095361
+30,dom 31/03/2024,10:00,Liverpool,Brighton,4-2-3-1,Roberto De Zerbi,60061,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095374
+31,qua 03/04/2024,15:30,Brentford,Brighton,4-2-3-1,Roberto De Zerbi,17024,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095382
+32,sáb 06/04/2024,13:30,Brighton,Arsenal,4-2-3-1,Roberto De Zerbi,31677,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095391
+33,sáb 13/04/2024,11:00,FC Burnley,Brighton,4-2-3-1,Roberto De Zerbi,20687,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095403
+34,qua 15/05/2024,15:45,Brighton,Chelsea,4-2-3-1,Roberto De Zerbi,31555,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095411
+35,dom 28/04/2024,10:00,Bournemouth,Brighton,4-4-2 duplo 6,Roberto De Zerbi,11188,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095420
+36,dom 05/05/2024,10:00,Brighton,Aston Villa,4-2-3-1,Roberto De Zerbi,31596,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095432
+37,sáb 11/05/2024,11:00,Newcastle,Brighton,4-2-3-1,Roberto De Zerbi,51997,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095446
+38,dom 19/05/2024,12:00,Brighton,Man Utd,4-2-3-1,Roberto De Zerbi,31662,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095454

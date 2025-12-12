@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 15/04/2023,18:15,Juventude,Botafogo-SP,4-2-3-1,Pintado,3243,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4056137
+2,sáb 22/04/2023,17:00,Novorizontino,Juventude,4-2-3-1,Pintado,1792,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4059118
+3,dom 30/04/2023,18:15,Vila Nova,Juventude,4-2-3-1,Pintado,8177,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060061
+4,qua 03/05/2023,19:00,Juventude,Guarani,4-4-2,Pintado,1460,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060970
+5,sáb 06/05/2023,18:15,Sampaio Corrêa,Juventude,4-4-2,Pintado,2875,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060879
+6,sáb 13/05/2023,16:00,Juventude,Mirassol,4-4-2 duplo 6,Adaílton,1994,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060890
+7,dom 21/05/2023,11:00,Chapecoense,Juventude,4-2-3-1,Thiago Carpini,4930,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060960
+8,qua 24/05/2023,19:00,Juventude,Atlético-GO,4-2-3-1,Thiago Carpini,2568,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060900
+9,sáb 27/05/2023,17:00,CRB,Juventude,4-2-3-1,Thiago Carpini,2522,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060932
+10,sáb 03/06/2023,16:00,Juventude,Avaí,4-3-1-2,Thiago Carpini,5197,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060940
+11,qui 08/06/2023,16:00,Criciúma,Juventude,4-2-3-1,Thiago Carpini,18223,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060915
+12,dom 11/06/2023,18:15,Juventude,Tombense,4-2-3-1,Thiago Carpini,2816,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060950
+13,qui 22/06/2023,21:30,Sport,Juventude,4-2-3-1,Thiago Carpini,14136,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060978
+14,qua 28/06/2023,21:30,Londrina,Juventude,4-2-3-1,Thiago Carpini,422,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061001
+15,dom 02/07/2023,15:30,Juventude,Vitória,4-2-3-1,Thiago Carpini,5195,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061040
+16,sáb 08/07/2023,17:00,Ituano,Juventude,4-4-2,Thiago Carpini,1305,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061016
+17,sáb 15/07/2023,11:00,Juventude,ABC,4-4-2,Thiago Carpini,3194,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060990
+18,ter 18/07/2023,21:30,Ponte Preta,Juventude,4-2-3-1,Thiago Carpini,2315,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061023
+19,dom 23/07/2023,15:30,Juventude,Ceará,4-2-3-1,Thiago Carpini,4103,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061050
+20,sáb 29/07/2023,15:30,Botafogo-SP,Juventude,4-2-3-1,Thiago Carpini,5180,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061056
+21,qua 02/08/2023,21:30,Juventude,Novorizontino,4-4-2,Thiago Carpini,3976,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061090
+22,seg 07/08/2023,18:00,Juventude,Vila Nova,4-4-2,Thiago Carpini,3432,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061080
+23,dom 13/08/2023,15:45,Guarani,Juventude,4-4-2,Thiago Carpini,6570,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061103
+24,sáb 19/08/2023,18:00,Juventude,Sampaio Corrêa,4-3-3 ofensivo,Thiago Carpini,6630,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061120
+25,ter 22/08/2023,19:00,Mirassol,Juventude,3-4-3 plano,Thiago Carpini,1909,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061097
+26,qui 31/08/2023,21:30,Juventude,Chapecoense,4-3-3 ofensivo,Thiago Carpini,5410,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061150
+27,dom 10/09/2023,15:45,Atlético-GO,Juventude,4-2-3-1,Thiago Carpini,8996,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061134
+28,sáb 16/09/2023,18:00,Juventude,CRB,4-4-2,Thiago Carpini,4927,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061130
+29,seg 25/09/2023,18:30,Avaí,Juventude,4-4-2,Thiago Carpini,4041,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061175
+30,sáb 30/09/2023,15:30,Juventude,Criciúma,4-3-3 ofensivo,Thiago Carpini,14213,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061170
+31,sáb 07/10/2023,15:30,Tombense,Juventude,4-3-3 ofensivo,Thiago Carpini,2407,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061161
+32,seg 16/10/2023,20:00,Juventude,Sport,4-3-3 ofensivo,Thiago Carpini,7438,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061200
+33,sáb 21/10/2023,18:00,Juventude,Londrina,4-3-3 ofensivo,Thiago Carpini,12161,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061190
+34,dom 29/10/2023,20:00,Vitória,Juventude,4-3-3 ofensivo,Thiago Carpini,29146,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060908
+35,sex 03/11/2023,21:30,Juventude,Ituano,4-3-3 ofensivo,Thiago Carpini,9238,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060869
+36,ter 14/11/2023,21:30,ABC,Juventude,4-3-3 ofensivo,Thiago Carpini,965,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061012
+37,sáb 18/11/2023,17:00,Juventude,Ponte Preta,4-3-3 ofensivo,Thiago Carpini,13157,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061070
+38,sáb 25/11/2023,17:00,Ceará,Juventude,4-3-3 ofensivo,Thiago Carpini,7555,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061209

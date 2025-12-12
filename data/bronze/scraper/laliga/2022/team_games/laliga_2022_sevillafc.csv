@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 12/08/2022,16:00,Osasuna,Sevilla,4-2-3-1,Julen Lopetegui,18536,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844093
+2,sex 19/08/2022,17:00,Sevilla,Valladolid,4-3-3 ofensivo,Julen Lopetegui,34082,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844597
+3,sáb 27/08/2022,17:00,UD Almería,Sevilla,4-2-3-1,Julen Lopetegui,13788,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3885846
+4,sáb 03/09/2022,16:00,Sevilla,Barcelona,4-3-3 ofensivo,Julen Lopetegui,40233,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3885857
+5,sáb 10/09/2022,11:15,Espanyol,Sevilla,4-2-3-1,Julen Lopetegui,20135,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886296
+6,dom 18/09/2022,11:15,Villarreal,Sevilla,4-2-3-1,Julen Lopetegui,18252,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3858326
+7,sáb 01/10/2022,13:30,Sevilla,Atlético,4-2-3-1,Julen Lopetegui,37754,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886288
+8,sáb 08/10/2022,13:30,Sevilla,Athletic Club,4-2-3-1,Jorge Sampaoli,36502,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886312
+9,sáb 15/10/2022,13:30,Mallorca,Sevilla,3-4-2-1,Jorge Sampaoli,15300,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886321
+10,ter 18/10/2022,14:00,Sevilla,Valencia,3-4-2-1,Jorge Sampaoli,37353,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886332
+11,sáb 22/10/2022,16:00,Real Madrid,Sevilla,4-3-3 ofensivo,Jorge Sampaoli,59625,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886361
+12,sáb 29/10/2022,13:30,Sevilla,Rayo Vallecano,4-2-3-1,Jorge Sampaoli,36601,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886392
+13,dom 06/11/2022,17:00,Betis,Sevilla,4-2-3-1,Jorge Sampaoli,54034,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886409
+14,qua 09/11/2022,15:00,Sevilla,Real Sociedad,4-2-3-1,Jorge Sampaoli,34814,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886455
+15,sex 30/12/2022,15:15,Celta de Vigo,Sevilla,5-3-2,Jorge Sampaoli,13653,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886465
+16,dom 08/01/2023,14:30,Sevilla,Getafe,3-1-4-2,Jorge Sampaoli,35389,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886487
+17,sáb 14/01/2023,12:15,Girona,Sevilla,3-5-2 plano,Jorge Sampaoli,12035,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886494
+18,sáb 21/01/2023,17:00,Sevilla,Cádiz CF,3-4-2-1,Jorge Sampaoli,37400,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886507
+19,sáb 28/01/2023,14:30,Sevilla,Elche,4-3-3 ofensivo,Jorge Sampaoli,35567,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886517
+20,dom 05/02/2023,17:00,Barcelona,Sevilla,5-4-1 plano,Jorge Sampaoli,77987,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886522
+21,sáb 11/02/2023,14:30,Sevilla,Mallorca,3-4-2-1,Jorge Sampaoli,35150,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886538
+22,dom 19/02/2023,12:15,Rayo Vallecano,Sevilla,5-4-1 plano,Jorge Sampaoli,13294,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886555
+23,dom 26/02/2023,17:00,Sevilla,Osasuna,3-4-2-1,Jorge Sampaoli,34538,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886567
+24,sáb 04/03/2023,17:00,Atlético,Sevilla,4-3-3 ofensivo,Jorge Sampaoli,57737,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886569
+25,dom 12/03/2023,12:15,Sevilla,UD Almería,3-4-2-1,Jorge Sampaoli,37848,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886589
+26,dom 19/03/2023,14:30,Getafe,Sevilla,5-4-1 plano,Jorge Sampaoli,12253,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886593
+27,sáb 01/04/2023,13:30,Cádiz CF,Sevilla,4-2-3-1,José Luis Mendilibar,19181,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886603
+28,sex 07/04/2023,16:00,Sevilla,Celta de Vigo,4-2-3-1,José Luis Mendilibar,30778,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886616
+29,dom 16/04/2023,16:00,Valencia,Sevilla,4-2-3-1,José Luis Mendilibar,39654,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886628
+30,dom 23/04/2023,16:00,Sevilla,Villarreal,4-2-3-1,José Luis Mendilibar,29635,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886631
+31,qui 27/04/2023,17:00,Athletic Club,Sevilla,4-2-3-1,José Luis Mendilibar,42716,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886640
+32,seg 01/05/2023,16:00,Sevilla,Girona,4-2-3-1,José Luis Mendilibar,35560,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886659
+33,qui 04/05/2023,14:30,Sevilla,Espanyol,4-2-3-1,José Luis Mendilibar,35391,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886668
+34,dom 14/05/2023,13:30,Valladolid,Sevilla,4-2-3-1,José Luis Mendilibar,21580,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886677
+35,dom 21/05/2023,16:00,Sevilla,Betis,4-2-3-1,José Luis Mendilibar,41392,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886686
+36,qua 24/05/2023,14:30,Elche,Sevilla,4-2-3-1,José Luis Mendilibar,13263,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886692
+37,sáb 27/05/2023,14:00,Sevilla,Real Madrid,4-2-3-1,José Luis Mendilibar,29856,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886709
+38,dom 04/06/2023,13:30,Real Sociedad,Sevilla,4-2-3-1,José Luis Mendilibar,35065,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844551

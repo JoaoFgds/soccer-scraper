@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 20/08/2016,13:15,Barcelona,Betis,3-5-2 plano,Gustavo Poyet,65731,6:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718711
+2,sex 26/08/2016,15:45,Betis,Deportivo,4-2-3-1,Gustavo Poyet,34543,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718724
+3,dom 11/09/2016,11:00,Valencia,Betis,4-3-3 defensivo,Gustavo Poyet,36854,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718733
+4,sex 16/09/2016,15:45,Betis,Granada CF,4-3-3 ofensivo,Gustavo Poyet,36090,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718743
+5,ter 20/09/2016,17:00,Sevilla,Betis,4-3-3 ofensivo,Gustavo Poyet,39849,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718752
+6,sex 23/09/2016,15:45,Betis,Málaga CF,4-4-2 duplo 6,Gustavo Poyet,37038,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718762
+7,sex 30/09/2016,15:45,Real Sociedad,Betis,4-3-3 ofensivo,Gustavo Poyet,18289,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718771
+8,sáb 15/10/2016,15:45,Betis,Real Madrid,4-3-3 ofensivo,Gustavo Poyet,41665,1:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718781
+9,sex 21/10/2016,16:45,Osasuna,Betis,4-2-3-1,Gustavo Poyet,15044,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718790
+10,dom 30/10/2016,15:30,Betis,Espanyol,4-3-3 ofensivo,Gustavo Poyet,38282,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718800
+11,dom 06/11/2016,15:30,Villarreal,Betis,4-3-3 ofensivo,Gustavo Poyet,18826,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718809
+12,sex 18/11/2016,17:45,Betis,Las Palmas,5-4-1 plano,Víctor Sánchez,34114,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718819
+13,sex 25/11/2016,17:45,Eibar,Betis,5-4-1 plano,Víctor Sánchez,5150,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718828
+14,dom 04/12/2016,09:00,Betis,Celta de Vigo,5-3-2,Víctor Sánchez,27241,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718838
+15,dom 11/12/2016,17:45,Betis,Athletic Club,4-4-2 losango,Víctor Sánchez,34481,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718848
+16,sex 16/12/2016,17:45,Alavés,Betis,3-4-1-2,Víctor Sánchez,18067,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718859
+17,dom 08/01/2017,13:15,Betis,Leganés,5-3-2,Víctor Sánchez,36328,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718869
+18,sáb 14/01/2017,15:30,Atlético,Betis,5-3-2,Víctor Sánchez,46043,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718880
+19,dom 22/01/2017,15:30,Betis,Real Sporting,5-3-2,Víctor Sánchez,35097,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718890
+20,dom 29/01/2017,09:00,Betis,Barcelona,5-3-2,Víctor Sánchez,43790,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718901
+21,qua 08/03/2017,14:45,Deportivo,Betis,5-4-1 plano,Víctor Sánchez,21450,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718914
+22,sáb 11/02/2017,10:00,Betis,Valencia,5-3-2,Víctor Sánchez,30567,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718923
+23,sex 17/02/2017,17:45,Granada CF,Betis,5-3-2,Víctor Sánchez,15927,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718933
+24,sáb 25/02/2017,12:15,Betis,Sevilla,5-3-2,Víctor Sánchez,41263,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718942
+25,ter 28/02/2017,17:30,Málaga CF,Betis,5-4-1 plano,Víctor Sánchez,24285,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718952
+26,sex 03/03/2017,16:45,Betis,Real Sociedad,5-4-1 plano,Víctor Sánchez,29612,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718961
+27,dom 12/03/2017,16:45,Real Madrid,Betis,5-3-2,Víctor Sánchez,73103,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718971
+28,sáb 18/03/2017,16:45,Betis,Osasuna,5-3-2,Víctor Sánchez,32375,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718980
+29,sex 31/03/2017,15:45,Espanyol,Betis,5-3-2,Víctor Sánchez,21138,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718990
+30,ter 04/04/2017,16:30,Betis,Villarreal,5-3-2,Víctor Sánchez,25477,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718999
+31,dom 09/04/2017,15:45,Las Palmas,Betis,5-3-2,Víctor Sánchez,19769,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2719009
+32,dom 16/04/2017,13:30,Betis,Eibar,5-3-2,Víctor Sánchez,30331,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2719018
+33,dom 23/04/2017,11:15,Celta de Vigo,Betis,5-3-2,Víctor Sánchez,15851,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2719028
+34,qui 27/04/2017,16:30,Athletic Club,Betis,5-4-1 plano,Víctor Sánchez,34074,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2719038
+35,dom 30/04/2017,11:15,Betis,Alavés,5-4-1 plano,Víctor Sánchez,22271,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2732966
+36,seg 08/05/2017,15:45,Leganés,Betis,5-3-2,Víctor Sánchez,11922,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2719059
+37,dom 14/05/2017,15:00,Betis,Atlético,4-1-4-1,Alexis Trujillo,27159,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2719070
+38,sáb 20/05/2017,12:00,Real Sporting,Betis,4-2-3-1,Alexis Trujillo,16201,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2719080

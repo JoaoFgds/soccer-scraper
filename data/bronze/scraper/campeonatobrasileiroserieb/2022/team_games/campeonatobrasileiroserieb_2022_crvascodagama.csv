@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qui 07/04/2022,19:00,Vasco da Gama,Vila Nova,4-2-3-1,Zé Ricardo,17251,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768168
+2,sex 15/04/2022,19:00,CRB,Vasco da Gama,4-3-3 ofensivo,Zé Ricardo,8999,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768173
+3,sex 22/04/2022,21:30,Chapecoense,Vasco da Gama,4-3-3 ofensivo,Zé Ricardo,1935,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768161
+4,qua 27/04/2022,21:30,Vasco da Gama,Ponte Preta,4-2-3-1,Zé Ricardo,9165,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768188
+5,sáb 30/04/2022,19:00,Tombense,Vasco da Gama,4-2-3-1,Zé Ricardo,8357,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768200
+6,sex 06/05/2022,19:00,Vasco da Gama,CSA,4-2-3-1,Zé Ricardo,16097,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768208
+7,dom 15/05/2022,16:00,Vasco da Gama,Bahia,4-2-3-1,Zé Ricardo,19692,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768218
+8,qui 19/05/2022,21:30,Guarani,Vasco da Gama,4-4-2,Zé Ricardo,33048,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768222
+9,qui 26/05/2022,19:00,Vasco da Gama,Brusque,4-2-3-1,Zé Ricardo,18452,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768238
+10,qui 02/06/2022,20:00,Vasco da Gama,Grêmio,4-4-2,Zé Ricardo,21848,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768248
+11,ter 07/06/2022,19:00,Náutico,Vasco da Gama,4-4-2,,6104,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768254
+12,sex 10/06/2022,19:00,Vasco da Gama,Cruzeiro,4-4-2,Emilio Faro,63609,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768268
+13,sáb 18/06/2022,16:00,Londrina,Vasco da Gama,4-4-2,Maurício Souza,6120,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768277
+14,sex 24/06/2022,19:00,Vasco da Gama,Operário-PR,4-4-2,Maurício Souza,21739,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768298
+15,ter 28/06/2022,19:00,Novorizontino,Vasco da Gama,4-2-3-1,Maurício Souza,2987,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768286
+16,sex 01/07/2022,19:00,Vasco da Gama,Sport,4-1-4-1,Maurício Souza,60601,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768308
+17,sáb 09/07/2022,16:30,Criciúma,Vasco da Gama,4-2-3-1,Maurício Souza,19219,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768325
+18,sáb 16/07/2022,16:30,Sampaio Corrêa,Vasco da Gama,4-2-3-1,Maurício Souza,29280,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768319
+19,ter 19/07/2022,21:30,Vasco da Gama,Ituano,4-3-3 ofensivo,Maurício Souza,20508,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768338
+20,sáb 23/07/2022,16:30,Vila Nova,Vasco da Gama,4-2-3-1,Maurício Souza,11703,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768351
+21,qui 28/07/2022,19:00,Vasco da Gama,CRB,4-2-3-1,Emilio Faro,19997,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768358
+22,dom 31/07/2022,16:00,Vasco da Gama,Chapecoense,4-2-3-1,Emilio Faro,20918,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768368
+23,ter 09/08/2022,20:30,Ponte Preta,Vasco da Gama,4-2-3-1,Emilio Faro,8103,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768372
+24,sáb 13/08/2022,11:00,Vasco da Gama,Tombense,4-2-3-1,Emilio Faro,20903,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768488
+25,qui 18/08/2022,20:00,CSA,Vasco da Gama,4-2-3-1,Emilio Faro,12831,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768423
+26,dom 28/08/2022,16:00,Bahia,Vasco da Gama,4-4-2,Emilio Faro,48183,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768389
+27,qua 31/08/2022,19:00,Vasco da Gama,Guarani,4-2-3-1,Emilio Faro,19368,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768408
+28,sáb 03/09/2022,16:30,Brusque,Vasco da Gama,4-2-3-1,Emilio Faro,4987,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768395
+29,dom 11/09/2022,16:00,Grêmio,Vasco da Gama,4-2-3-1,Jorginho,48860,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768418
+30,sex 16/09/2022,19:00,Vasco da Gama,Náutico,4-2-3-1,Jorginho,19152,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768478
+31,qua 21/09/2022,21:00,Cruzeiro,Vasco da Gama,4-2-3-1,Jorginho,59204,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768500
+32,qui 29/09/2022,21:30,Vasco da Gama,Londrina,4-2-3-1,Jorginho,19803,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768438
+33,ter 04/10/2022,19:00,Operário-PR,Vasco da Gama,4-2-3-1,Jorginho,5819,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768507
+34,sáb 08/10/2022,18:30,Vasco da Gama,Novorizontino,4-3-1-2,Jorginho,20533,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768448
+35,dom 16/10/2022,16:00,Sport,Vasco da Gama,4-4-2,Jorginho,19598,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768454
+36,sáb 22/10/2022,16:30,Vasco da Gama,Criciúma,4-4-2,Jorginho,20342,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768528
+37,qui 27/10/2022,21:45,Vasco da Gama,Sampaio Corrêa,4-4-2,Jorginho,20111,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768518
+38,dom 06/11/2022,18:30,Ituano,Vasco da Gama,4-3-3 ofensivo,Jorginho,14322,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768466

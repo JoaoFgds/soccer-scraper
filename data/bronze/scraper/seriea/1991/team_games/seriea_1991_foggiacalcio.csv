@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 01/09/1991,11:00,Inter,Foggia,?,Zdenek Zeman,63310,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216362
+2,dom 08/09/1991,11:00,Foggia,Juventus,?,Zdenek Zeman,45000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216376
+3,dom 15/09/1991,11:00,Florenz,Foggia,?,Zdenek Zeman,34620,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216377
+4,dom 22/09/1991,11:00,Foggia,Cagliari,?,Zdenek Zeman,19147,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216392
+5,dom 29/09/1991,11:00,Foggia,AC Parma,4-3-3 ofensivo,Zdenek Zeman,20553,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216395
+6,dom 06/10/1991,11:00,Torino,Foggia,?,Zdenek Zeman,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216405
+7,dom 20/10/1991,11:30,Foggia,Ascoli,?,Zdenek Zeman,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216420
+8,dom 27/10/1991,11:30,Roma,Foggia,?,Zdenek Zeman,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216423
+9,dom 03/11/1991,11:30,Foggia,Bari,?,Zdenek Zeman,,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216436
+10,dom 17/11/1991,11:30,Cremonese,Foggia,?,Zdenek Zeman,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216440
+11,dom 24/11/1991,11:30,Foggia,Atalanta,?,Zdenek Zeman,,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216454
+12,dom 01/12/1991,11:30,Verona,Foggia,?,Zdenek Zeman,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216459
+13,dom 08/12/1991,11:30,Foggia,Sampdoria,4-3-3 ofensivo,Zdenek Zeman,20531,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216475
+14,dom 15/12/1991,11:30,Napoli,Foggia,?,Zdenek Zeman,,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216484
+15,dom 05/01/1992,11:30,Lazio,Foggia,?,Zdenek Zeman,,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216487
+16,dom 12/01/1992,11:30,Foggia,Genoa,?,Zdenek Zeman,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216501
+17,dom 19/01/1992,11:30,Milan,Foggia,?,Zdenek Zeman,79560,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216504
+18,dom 26/01/1992,11:30,Foggia,Inter,?,Zdenek Zeman,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216512
+19,dom 02/02/1992,11:30,Juventus,Foggia,?,Zdenek Zeman,52023,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216523
+20,dom 09/02/1992,11:00,Foggia,Florenz,?,Zdenek Zeman,,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216535
+21,dom 16/02/1992,11:00,Cagliari,Foggia,?,Zdenek Zeman,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216546
+22,dom 23/02/1992,11:00,AC Parma,Foggia,4-3-3 ofensivo,Zdenek Zeman,23624,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216548
+23,dom 01/03/1992,11:00,Foggia,Torino,?,Zdenek Zeman,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216557
+24,dom 08/03/1992,11:00,Ascoli,Foggia,?,Zdenek Zeman,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216572
+25,dom 15/03/1992,11:00,Foggia,Roma,?,Zdenek Zeman,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216575
+26,dom 29/03/1992,11:00,Bari,Foggia,?,Zdenek Zeman,,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216591
+27,dom 05/04/1992,11:00,Foggia,Cremonese,?,Zdenek Zeman,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216598
+28,dom 12/04/1992,11:00,Atalanta,Foggia,?,Zdenek Zeman,,4:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216606
+29,sáb 18/04/1992,11:00,Foggia,Verona,?,Zdenek Zeman,,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216617
+30,dom 26/04/1992,11:00,Sampdoria,Foggia,4-3-3 ofensivo,Zdenek Zeman,28130,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216622
+31,dom 03/05/1992,11:00,Foggia,Napoli,?,Zdenek Zeman,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216634
+32,dom 10/05/1992,11:00,Foggia,Lazio,?,Zdenek Zeman,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216644
+33,dom 17/05/1992,11:00,Genoa,Foggia,?,Zdenek Zeman,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216655
+34,dom 24/05/1992,11:00,Foggia,Milan,?,Zdenek Zeman,22835,2:8,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216662

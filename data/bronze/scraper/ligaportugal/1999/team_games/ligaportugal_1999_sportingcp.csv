@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 22/08/1999,14:00,Santa Clara,Sporting,4-4-2 duplo 6,Giuseppe Materazzi,3000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854863
+2,seg 30/08/1999,17:00,Sporting,Vitória FC,4-2-3-1,Giuseppe Materazzi,20000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854878
+3,dom 12/09/1999,16:15,Farense,Sporting,4-4-1-1,Giuseppe Materazzi,7000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854881
+4,dom 19/09/1999,19:00,Sporting,CF Estrela,4-4-2 duplo 6,Giuseppe Materazzi,15000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854895
+5,sex 24/09/1999,19:00,Gil Vicente,Sporting,?,Giuseppe Materazzi,3000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854898
+6,seg 04/10/1999,20:00,Sporting,Boavista,?,Augusto Inácio,25000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854913
+7,dom 17/10/1999,16:30,Alverca,Sporting,4-2-3-1,Augusto Inácio,2500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854919
+8,sex 22/10/1999,20:00,Sporting,Braga,?,Augusto Inácio,4000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854925
+9,sáb 30/10/1999,16:00,FC Porto,Sporting,4-2-3-1,Augusto Inácio,25000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854935
+10,sáb 06/11/1999,19:00,Sporting,Campomaiorense,4-2-3-1,Augusto Inácio,18000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854943
+11,sáb 20/11/1999,21:00,Belenenses,Sporting,?,Augusto Inácio,10000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854954
+12,sex 26/11/1999,21:00,Sporting,Leiria,?,Augusto Inácio,20000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854961
+13,sex 03/12/1999,21:00,Vit. Guimarães,Sporting,4-2-3-1,Augusto Inácio,10000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854970
+14,sáb 11/12/1999,21:00,Sporting,Rio Ave,?,Augusto Inácio,10000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854984
+15,sex 17/12/1999,21:00,Sporting,Marítimo,?,Augusto Inácio,15000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854988
+16,dom 09/01/2000,17:00,Benfica,Sporting,4-3-3 ofensivo,Augusto Inácio,75000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855002
+17,sáb 15/01/2000,21:00,Sporting,Salgueiros,?,Augusto Inácio,9000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855010
+18,sex 21/01/2000,21:00,Sporting,Santa Clara,4-2-3-1,Augusto Inácio,15000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855017
+19,seg 31/01/2000,19:00,Vitória FC,Sporting,4-4-2 duplo 6,Augusto Inácio,10000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855031
+20,dom 06/02/2000,14:00,Sporting,Farense,4-2-3-1,Augusto Inácio,35000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855036
+21,dom 13/02/2000,14:00,CF Estrela,Sporting,4-3-3 ofensivo,Augusto Inácio,10000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855044
+22,sáb 19/02/2000,19:00,Sporting,Gil Vicente,?,Augusto Inácio,1500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855056
+23,dom 27/02/2000,20:00,Boavista,Sporting,?,Augusto Inácio,7500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855067
+24,sáb 04/03/2000,15:00,Sporting,Alverca,4-2-3-1,Augusto Inácio,25000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855072
+25,qui 09/03/2000,20:00,Braga,Sporting,?,Augusto Inácio,10000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855077
+26,sáb 18/03/2000,18:00,Sporting,FC Porto,4-2-3-1,Augusto Inácio,50000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855088
+27,sex 24/03/2000,18:00,Campomaiorense,Sporting,4-2-3-1,Augusto Inácio,10000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855095
+28,sáb 01/04/2000,19:00,Sporting,Belenenses,?,Augusto Inácio,25000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855110
+29,qui 06/04/2000,19:00,Leiria,Sporting,?,Augusto Inácio,15000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855114
+30,sáb 15/04/2000,19:00,Sporting,Vit. Guimarães,?,Augusto Inácio,25000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855124
+31,sex 21/04/2000,19:00,Rio Ave,Sporting,?,Augusto Inácio,6761,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855137
+32,dom 30/04/2000,16:30,Marítimo,Sporting,4-2-3-1,Augusto Inácio,10000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855146
+33,sex 05/05/2000,19:00,Sporting,Benfica,4-2-3-1,Augusto Inácio,50000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855150
+34,dom 14/05/2000,15:00,Salgueiros,Sporting,4-2-3-1,Augusto Inácio,4500,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855160

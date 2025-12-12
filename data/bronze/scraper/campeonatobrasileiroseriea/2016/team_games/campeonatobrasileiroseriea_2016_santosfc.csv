@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 14/05/2016,18:30,Atlético-MG,Santos,4-2-3-1,Dorival Júnior,5403,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2684558
+2,dom 22/05/2016,11:00,Santos,Coritiba,4-2-3-1,Dorival Júnior,7472,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2684568
+3,qua 25/05/2016,19:30,Figueirense,Santos,4-2-3-1,Dorival Júnior,5849,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2694646
+4,dom 29/05/2016,18:30,Santos,Internacional,4-2-3-1,Dorival Júnior,4468,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2694663
+5,qua 01/06/2016,21:00,Corinthians,Santos,4-4-2 duplo 6,Dorival Júnior,30187,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2695568
+6,dom 05/06/2016,11:00,Santos,Botafogo,4-2-3-1,Dorival Júnior,16530,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2695586
+7,dom 12/06/2016,19:00,Santa Cruz,Santos,4-2-3-1,Dorival Júnior,16464,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2696880
+8,qua 15/06/2016,21:00,Santos,Sport,4-2-3-1,Dorival Júnior,4937,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698563
+9,sáb 18/06/2016,18:00,Atlético-PR,Santos,4-4-2,Dorival Júnior,15359,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698571
+10,qua 22/06/2016,21:45,Fluminense,Santos,4-3-1-2,Dorival Júnior,4721,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698586
+11,dom 26/06/2016,16:00,Santos,São Paulo,4-3-1-2,Dorival Júnior,19748,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702135
+12,qua 29/06/2016,19:30,Grêmio,Santos,?,Dorival Júnior,14865,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702143
+13,dom 03/07/2016,16:00,Santos,Chapecoense,4-2-3-1,Dorival Júnior,10322,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2708408
+14,ter 12/07/2016,20:30,Palmeiras,Santos,4-2-3-1,Dorival Júnior,40035,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2708423
+15,sáb 16/07/2016,18:30,Santos,Ponte Preta,4-2-3-1,Dorival Júnior,11979,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713333
+16,dom 24/07/2016,18:30,Vitória,Santos,?,Dorival Júnior,9244,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713359
+17,dom 31/07/2016,16:00,Santos,Cruzeiro,?,Dorival Júnior,13830,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713367
+18,qua 03/08/2016,21:45,Santos,Flamengo,?,Dorival Júnior,21814,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713385
+19,dom 07/08/2016,11:00,América-MG,Santos,?,Dorival Júnior,2893,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713393
+20,dom 14/08/2016,16:00,Santos,Atlético-MG,?,Dorival Júnior,10250,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713414
+21,dom 21/08/2016,19:30,Coritiba,Santos,4-2-3-1,Dorival Júnior,7972,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2767851
+22,dom 28/08/2016,18:00,Santos,Figueirense,4-3-3 defensivo,Dorival Júnior,11456,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2767854
+23,qui 08/09/2016,22:00,Internacional,Santos,4-2-3-1,Dorival Júnior,34075,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770078
+24,dom 11/09/2016,17:00,Santos,Corinthians,4-2-3-1,Dorival Júnior,8610,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770083
+25,qua 14/09/2016,20:30,Botafogo,Santos,4-2-3-1,Dorival Júnior,11883,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770090
+26,dom 18/09/2016,19:30,Santos,Santa Cruz,?,Dorival Júnior,28700,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770107
+27,sáb 24/09/2016,19:30,Sport,Santos,4-2-3-1,Dorival Júnior,7934,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770151
+28,sáb 01/10/2016,17:00,Santos,Atlético-PR,4-3-3 defensivo,Dorival Júnior,5764,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770162
+29,qua 05/10/2016,22:00,Santos,Fluminense,4-2-3-1,Dorival Júnior,6263,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770173
+30,qua 12/10/2016,22:00,São Paulo,Santos,4-2-3-1,Dorival Júnior,29314,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770187
+31,dom 16/10/2016,21:30,Santos,Grêmio,4-2-3-1,Dorival Júnior,7969,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770197
+32,seg 24/10/2016,19:30,Chapecoense,Santos,4-2-3-1,Dorival Júnior,7459,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770208
+33,sáb 29/10/2016,19:30,Santos,Palmeiras,4-3-1-2,Dorival Júnior,13574,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770227
+34,dom 06/11/2016,11:00,Ponte Preta,Santos,?,Dorival Júnior,10208,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770212
+35,qui 17/11/2016,19:30,Santos,Vitória,?,Dorival Júnior,9258,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2778083
+36,dom 20/11/2016,17:00,Cruzeiro,Santos,4-2-3-1,Dorival Júnior,13902,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2778088
+37,dom 27/11/2016,17:00,Flamengo,Santos,4-2-3-1,Dorival Júnior,37615,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2798385
+38,dom 11/12/2016,17:00,Santos,América-MG,4-2-3-1,Dorival Júnior,7531,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2798935

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 16/08/2015,16:30,Benfica,Estoril,4-4-2 duplo 6,Rui Vitória,53285,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2586580
+2,dom 23/08/2015,15:15,Arouca,Benfica,4-4-2 duplo 6,Rui Vitória,23450,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2596946
+3,sáb 29/08/2015,16:45,Benfica,Moreirense,4-4-2 duplo 6,Rui Vitória,43417,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609329
+4,sex 11/09/2015,16:30,Benfica,Belenenses,4-4-2 duplo 6,Rui Vitória,42454,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609352
+5,dom 20/09/2015,15:15,FC Porto,Benfica,4-4-2 duplo 6,Rui Vitória,49289,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609359
+6,sáb 26/09/2015,14:30,Benfica,Paços Ferreira,4-4-2 duplo 6,Rui Vitória,45276,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609364
+7,ter 15/12/2015,19:00,CF União,Benfica,4-4-2 duplo 6,Rui Vitória,5095,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609376
+8,dom 25/10/2015,15:00,Benfica,Sporting,4-4-2 duplo 6,Rui Vitória,63054,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609383
+9,sex 30/10/2015,18:30,CD Tondela,Benfica,4-4-2 duplo 6,Rui Vitória,9394,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609395
+10,dom 08/11/2015,14:00,Benfica,Boavista,4-4-2 duplo 6,Rui Vitória,46362,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609401
+11,seg 30/11/2015,19:00,Braga,Benfica,4-4-1-1,Rui Vitória,17396,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609412
+12,sex 04/12/2015,18:30,Benfica,Académica,4-4-2 duplo 6,Rui Vitória,34752,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609422
+13,sáb 12/12/2015,18:45,Vitória FC,Benfica,4-4-2 duplo 6,Rui Vitória,9323,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609432
+14,dom 20/12/2015,14:00,Benfica,Rio Ave,4-4-2 duplo 6,Rui Vitória,45955,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609437
+15,sáb 02/01/2016,16:30,Vit. Guimarães,Benfica,4-4-2 duplo 6,Rui Vitória,22218,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609449
+16,qua 06/01/2016,17:00,Benfica,Marítimo,4-4-2 duplo 6,Rui Vitória,31590,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609455
+17,seg 11/01/2016,10:00,Nacional,Benfica,4-4-2 duplo 6,Rui Vitória,4753,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609469
+18,sáb 16/01/2016,18:45,Estoril,Benfica,4-4-2 duplo 6,Rui Vitória,7836,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613531
+19,sáb 23/01/2016,16:30,Benfica,Arouca,4-4-2 duplo 6,Rui Vitória,51511,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613540
+20,dom 31/01/2016,17:15,Moreirense,Benfica,4-4-2 duplo 6,Rui Vitória,5772,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613550
+21,sex 05/02/2016,18:30,Belenenses,Benfica,4-4-2 duplo 6,Rui Vitória,13109,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613564
+22,sex 12/02/2016,18:30,Benfica,FC Porto,4-4-2 duplo 6,Rui Vitória,61536,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613571
+23,sáb 20/02/2016,16:30,Paços Ferreira,Benfica,4-4-2 duplo 6,Rui Vitória,6433,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613576
+24,seg 29/02/2016,16:45,Benfica,CF União,4-4-2 duplo 6,Rui Vitória,44485,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613588
+25,sáb 05/03/2016,17:45,Sporting,Benfica,4-4-2 duplo 6,Rui Vitória,49699,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613595
+26,seg 14/03/2016,17:00,Benfica,CD Tondela,4-4-2 duplo 6,Rui Vitória,51314,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613618
+27,dom 20/03/2016,15:15,Boavista,Benfica,4-4-2 duplo 6,Rui Vitória,17193,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613625
+28,sex 01/04/2016,16:30,Benfica,Braga,4-4-2 duplo 6,Rui Vitória,61042,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613644
+29,sáb 09/04/2016,14:30,Académica,Benfica,4-4-2 duplo 6,Rui Vitória,26444,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613654
+30,seg 18/04/2016,17:00,Benfica,Vitória FC,4-4-2 duplo 6,Rui Vitória,54855,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613664
+31,dom 24/04/2016,16:30,Rio Ave,Benfica,4-4-2 duplo 6,Rui Vitória,9023,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613669
+32,sex 29/04/2016,15:00,Benfica,Vit. Guimarães,4-4-2 duplo 6,Rui Vitória,60351,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613681
+33,dom 08/05/2016,16:30,Marítimo,Benfica,4-4-2 duplo 6,Rui Vitória,9400,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613687
+34,dom 15/05/2016,13:00,Benfica,Nacional,4-4-2 duplo 6,Rui Vitória,64235,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613701

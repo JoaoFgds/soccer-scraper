@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 25/08/2024,10:30,Wolfsburg,Bayern,4-2-3-1,Ralph Hasenhüttl,28917,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373299
+2,sáb 31/08/2024,10:30,Holstein Kiel,Wolfsburg,4-2-3-1,Ralph Hasenhüttl,15034,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373319
+3,sáb 14/09/2024,10:30,Wolfsburg,Frankfurt,4-2-3-1,Ralph Hasenhüttl,26281,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373325
+4,dom 22/09/2024,10:30,Leverkusen,Wolfsburg,4-1-4-1,Ralph Hasenhüttl,29250,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373338
+5,sáb 28/09/2024,10:30,Wolfsburg,Stuttgart,4-4-2,Ralph Hasenhüttl,27135,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373370
+6,sáb 05/10/2024,10:30,Bochum,Wolfsburg,3-4-1-2,Ralph Hasenhüttl,24630,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373390
+7,dom 20/10/2024,12:30,Wolfsburg,Werder Bremen,3-4-1-2,Ralph Hasenhüttl,28917,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373406
+8,sáb 26/10/2024,10:30,St. Pauli,Wolfsburg,4-4-2 duplo 6,Ralph Hasenhüttl,29546,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373427
+9,sáb 02/11/2024,11:30,Wolfsburg,Augsburg,4-2-3-1,Ralph Hasenhüttl,22654,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373443
+10,dom 10/11/2024,15:30,Heidenheim,Wolfsburg,4-3-3 ofensivo,Ralph Hasenhüttl,15000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373457
+11,sáb 23/11/2024,11:30,Wolfsburg,Union Berlim,4-2-3-1,Ralph Hasenhüttl,23861,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373479
+12,sáb 30/11/2024,11:30,Leipzig,Wolfsburg,4-3-3 ofensivo,Ralph Hasenhüttl,44000,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373491
+13,dom 08/12/2024,11:30,Wolfsburg,Mainz,4-4-2,Ralph Hasenhüttl,20036,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373514
+14,sex 13/12/2024,16:30,Freiburg,Wolfsburg,4-4-2,Ralph Hasenhüttl,32600,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373530
+15,dom 22/12/2024,13:30,Wolfsburg,Dortmund,4-2-3-1,Ralph Hasenhüttl,28917,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373551
+16,sáb 11/01/2025,11:30,Hoffenheim,Wolfsburg,4-3-3 ofensivo,Ralph Hasenhüttl,18114,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373565
+17,ter 14/01/2025,16:30,Wolfsburg,M'gladbach,4-4-2,Ralph Hasenhüttl,20519,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373586
+18,sáb 18/01/2025,11:30,Bayern,Wolfsburg,4-4-2,Ralph Hasenhüttl,75000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373592
+19,sex 24/01/2025,16:30,Wolfsburg,Holstein Kiel,4-3-3 ofensivo,Ralph Hasenhüttl,22103,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373613
+20,dom 02/02/2025,11:30,Frankfurt,Wolfsburg,4-1-3-2,Ralph Hasenhüttl,56900,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373629
+21,sáb 08/02/2025,11:30,Wolfsburg,Leverkusen,4-3-3 ofensivo,Ralph Hasenhüttl,28198,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373649
+22,sáb 15/02/2025,11:30,Stuttgart,Wolfsburg,4-3-3 ofensivo,Ralph Hasenhüttl,58000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373663
+23,sáb 22/02/2025,11:30,Wolfsburg,Bochum,4-4-2 losango,Ralph Hasenhüttl,23772,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373694
+24,sáb 01/03/2025,11:30,Werder Bremen,Wolfsburg,4-3-3 ofensivo,Ralph Hasenhüttl,41152,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373711
+25,sáb 08/03/2025,11:30,Wolfsburg,St. Pauli,4-4-2,Ralph Hasenhüttl,28917,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373731
+26,sáb 15/03/2025,11:30,Augsburg,Wolfsburg,4-3-3 ofensivo,Ralph Hasenhüttl,28351,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373747
+27,sáb 29/03/2025,11:30,Wolfsburg,Heidenheim,4-3-3 ofensivo,Ralph Hasenhüttl,21545,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373767
+28,dom 06/04/2025,12:30,Union Berlim,Wolfsburg,3-4-1-2,Ralph Hasenhüttl,22012,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373785
+29,sex 11/04/2025,15:30,Wolfsburg,Leipzig,3-4-1-2,Ralph Hasenhüttl,23070,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373802
+30,sáb 19/04/2025,10:30,Mainz,Wolfsburg,3-5-2 plano,Ralph Hasenhüttl,32000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373821
+31,sáb 26/04/2025,10:30,Wolfsburg,Freiburg,4-3-3 ofensivo,Ralph Hasenhüttl,23145,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373839
+32,sáb 03/05/2025,13:30,Dortmund,Wolfsburg,3-5-2 plano,Ralph Hasenhüttl,81365,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373852
+33,sex 09/05/2025,15:30,Wolfsburg,Hoffenheim,4-3-3 defensivo,Daniel Bauer,20145,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373874
+34,sáb 17/05/2025,10:30,M'gladbach,Wolfsburg,4-2-3-1,Daniel Bauer,53048,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373894

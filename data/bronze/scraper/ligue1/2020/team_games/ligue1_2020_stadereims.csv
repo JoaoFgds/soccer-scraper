@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 23/08/2020,08:00,Monaco,Reims,4-2-3-1,David Guion,2933,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3393962
+2,dom 30/08/2020,08:00,Reims,Lille,4-3-3 ofensivo,David Guion,3614,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394572
+3,dom 13/09/2020,10:00,Angers,Reims,4-4-2,David Guion,5348,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394584
+4,dom 20/09/2020,10:00,FC Metz,Reims,4-3-3 ofensivo,David Guion,5000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394590
+5,dom 27/09/2020,16:00,Reims,PSG,4-1-4-1,David Guion,4988,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394603
+6,dom 04/10/2020,12:00,Rennes,Reims,4-4-2,David Guion,1000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394616
+7,sáb 17/10/2020,12:00,Reims,FC Lorient,4-2-3-1,David Guion,3923,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394631
+8,dom 25/10/2020,11:00,Montpellier,Reims,4-3-3 ofensivo,David Guion,x,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394635
+9,dom 01/11/2020,11:00,Reims,Strasbourg,4-4-2 duplo 6,David Guion,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394645
+10,dom 08/11/2020,11:00,Lens,Reims,4-4-2 duplo 6,David Guion,x,4:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394657
+11,dom 22/11/2020,11:00,Reims,Nîmes Olympique,4-4-2,David Guion,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394664
+12,dom 29/11/2020,09:00,Lyon,Reims,4-4-2 duplo 6,David Guion,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394680
+13,dom 06/12/2020,13:00,Reims,Nice,4-2-3-1,David Guion,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394689
+14,dom 13/12/2020,11:00,Brest,Reims,4-4-2 duplo 6,David Guion,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394703
+15,qua 16/12/2020,15:00,Reims,Nantes,4-4-2 duplo 6,David Guion,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394705
+16,sáb 19/12/2020,15:00,Marselha,Reims,4-5-1,David Guion,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394722
+17,qua 23/12/2020,15:00,Bordeaux,Reims,4-3-3 ofensivo,David Guion,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394727
+18,qua 06/01/2021,17:00,Reims,Dijon,4-3-3 ofensivo,David Guion,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394743
+19,sáb 09/01/2021,17:00,Reims,Saint-Étienne,4-1-4-1,David Guion,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394744
+20,dom 17/01/2021,13:00,Lille,Reims,4-1-4-1,David Guion,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394754
+21,dom 24/01/2021,11:00,Reims,Brest,4-1-4-1,David Guion,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394766
+22,dom 31/01/2021,11:00,Strasbourg,Reims,4-1-4-1,David Guion,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394780
+23,qua 03/02/2021,15:00,Reims,Angers,4-1-4-1,David Guion,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394788
+24,sáb 06/02/2021,13:00,FC Lorient,Reims,4-1-4-1,David Guion,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394800
+25,sáb 13/02/2021,15:00,Reims,Lens,4-1-4-1,David Guion,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394804
+26,sáb 20/02/2021,09:00,Saint-Étienne,Reims,4-3-3 ofensivo,David Guion,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394815
+27,dom 28/02/2021,11:00,Reims,Montpellier,4-1-4-1,David Guion,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394834
+28,qua 03/03/2021,17:00,Nantes,Reims,4-1-4-1,David Guion,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394864
+29,sex 12/03/2021,17:00,Reims,Lyon,4-2-3-1,David Guion,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394891
+30,dom 21/03/2021,11:00,Dijon,Reims,4-1-4-1,David Guion,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394910
+31,dom 04/04/2021,10:00,Reims,Rennes,4-1-4-1,David Guion,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394919
+32,dom 11/04/2021,10:00,Nice,Reims,4-3-3 ofensivo,David Guion,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394930
+33,dom 18/04/2021,10:00,Reims,FC Metz,4-4-2,David Guion,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394933
+34,sex 23/04/2021,16:00,Reims,Marselha,4-3-3 ofensivo,David Guion,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394948
+35,dom 02/05/2021,10:00,Nîmes Olympique,Reims,4-3-3 ofensivo,David Guion,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394968
+36,dom 09/05/2021,12:05,Reims,Monaco,4-3-3 ofensivo,David Guion,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394983
+37,dom 16/05/2021,16:00,PSG,Reims,4-1-4-1,David Guion,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394993
+38,dom 23/05/2021,16:00,Reims,Bordeaux,4-4-2,David Guion,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394999

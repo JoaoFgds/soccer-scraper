@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 13/05/2017,17:30,ABC,Paraná,4-2-3-1,Cristian Souza,3214,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873890
+2,sex 19/05/2017,20:15,Paraná,Paysandu,4-2-3-1,Cristian Souza,3296,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873898
+3,sáb 27/05/2017,20:00,Juventude,Paraná,4-3-3 ofensivo,Cristian Souza,2331,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873915
+4,qua 17/05/2017,22:30,Paraná,Goiás,4-2-3-1,Cristian Souza,2177,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873916
+5,ter 06/06/2017,21:30,Londrina,Paraná,4-3-3 defensivo,Cristian Souza,926,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873932
+6,sáb 10/06/2017,17:30,Paraná,Guarani,4-3-3 defensivo,Cristian Souza,4619,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873941
+7,ter 13/06/2017,20:15,Náutico,Paraná,4-3-3 defensivo,Cristian Souza,1700,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873953
+8,sex 16/06/2017,21:30,Paraná,Figueirense,4-3-3 defensivo,Cristian Souza,3519,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873965
+9,ter 20/06/2017,22:30,Internacional,Paraná,4-3-3 defensivo,Cristian Souza,12137,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873989
+10,sex 23/06/2017,22:30,Criciúma,Paraná,4-3-3 defensivo,Cristian Souza,3223,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873992
+11,sáb 01/07/2017,16:30,Paraná,Ceará,4-3-3 defensivo,Cristian Souza,4170,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2874006
+12,sex 07/07/2017,21:30,Paraná,América-MG,4-4-2 duplo 6,Cristian Souza,3878,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2880441
+13,ter 11/07/2017,20:30,Vila Nova,Paraná,4-4-2 duplo 6,Cristian Souza,5681,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2880823
+14,sex 14/07/2017,20:30,Oeste,Paraná,4-4-2 duplo 6,Cristian Souza,1043,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2880830
+15,ter 18/07/2017,18:15,Paraná,Brasil Pelotas,4-2-3-1,Matheus Costa,2164,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2888271
+16,sex 21/07/2017,20:30,Luverdense,Paraná,4-2-3-1,Lisca,1291,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893401
+17,sáb 29/07/2017,16:30,Paraná,Santa Cruz,4-3-3 defensivo,Lisca,11638,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2895921
+18,ter 01/08/2017,19:15,Paraná,CRB,4-2-3-1,Lisca,8833,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2902417
+19,sáb 05/08/2017,19:00,Boa Esporte,Paraná,4-2-3-1,Lisca,643,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2903016
+20,sáb 12/08/2017,16:30,Paraná,ABC,4-2-3-1,Lisca,7800,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2905627
+21,sáb 19/08/2017,19:00,Paysandu,Paraná,4-3-1-2,Lisca,13234,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2909878
+22,sex 25/08/2017,20:30,Paraná,Juventude,4-4-2 duplo 6,Lisca,6995,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2914698
+23,qua 06/09/2017,19:30,Goiás,Paraná,4-4-2 duplo 6,Matheus Costa,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2920785
+24,sáb 16/09/2017,19:00,Paraná,Londrina,4-4-2 duplo 6,Matheus Costa,14006,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2925037
+25,ter 19/09/2017,21:30,Guarani,Paraná,4-4-2 duplo 6,Matheus Costa,2800,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2926848
+26,ter 26/09/2017,20:30,Paraná,Náutico,4-4-2 duplo 6,Matheus Costa,9712,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2928557
+27,sex 29/09/2017,19:15,Figueirense,Paraná,4-4-2 duplo 6,Matheus Costa,2651,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2928818
+28,ter 03/10/2017,20:30,Paraná,Internacional,4-4-2 duplo 6,Matheus Costa,39414,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2930343
+29,sex 13/10/2017,20:30,Paraná,Criciúma,4-2-3-1,Matheus Costa,12594,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2930846
+30,ter 17/10/2017,20:30,Ceará,Paraná,4-2-3-1,Matheus Costa,36720,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2932846
+31,sáb 21/10/2017,19:00,América-MG,Paraná,4-3-3 defensivo,Matheus Costa,6697,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2934741
+32,ter 24/10/2017,21:30,Paraná,Vila Nova,4-3-3 defensivo,Matheus Costa,10639,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2934762
+33,ter 31/10/2017,21:30,Paraná,Oeste,4-3-3 defensivo,Matheus Costa,14155,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942386
+34,ter 07/11/2017,21:30,Brasil Pelotas,Paraná,4-3-3 defensivo,Matheus Costa,9414,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942402
+35,sex 10/11/2017,21:30,Paraná,Luverdense,4-3-3 defensivo,Matheus Costa,13038,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2943652
+36,ter 14/11/2017,21:30,Santa Cruz,Paraná,4-3-3 defensivo,Matheus Costa,2005,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2943661
+37,sáb 18/11/2017,17:30,CRB,Paraná,4-3-3 defensivo,Matheus Costa,12202,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2969473
+38,sáb 25/11/2017,17:30,Paraná,Boa Esporte,4-3-3 defensivo,Matheus Costa,37714,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2969489

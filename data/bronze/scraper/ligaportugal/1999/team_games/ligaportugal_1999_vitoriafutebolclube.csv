@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 20/08/1999,17:00,Vitória FC,Vit. Guimarães,3-5-2,Carlos Cardoso,5000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854861
+2,seg 30/08/1999,17:00,Sporting,Vitória FC,5-4-1 plano,Carlos Cardoso,20000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854878
+3,dom 12/09/1999,12:00,Vitória FC,Marítimo,?,Carlos Cardoso,7000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854886
+4,seg 20/09/1999,16:00,Benfica,Vitória FC,5-4-1 plano,Carlos Cardoso,6000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854896
+5,dom 26/09/1999,12:00,Vitória FC,Salgueiros,4-4-2 duplo 6,Carlos Cardoso,3000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854905
+6,seg 04/10/1999,20:00,Santa Clara,Vitória FC,?,Carlos Cardoso,4000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854914
+7,sáb 16/10/1999,20:00,Rio Ave,Vitória FC,?,Carlos Cardoso,3000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854923
+8,qui 21/10/1999,20:00,Vitória FC,Farense,?,Carlos Cardoso,2500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854924
+9,dom 31/10/1999,21:00,CF Estrela,Vitória FC,?,Carlos Cardoso,800,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854941
+10,sáb 06/11/1999,21:00,Vitória FC,Gil Vicente,?,Carlos Cardoso,2000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854947
+11,sex 19/11/1999,21:00,Boavista,Vitória FC,?,Carlos Cardoso,3000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854951
+12,sáb 27/11/1999,21:00,Vitória FC,Alverca,?,Carlos Cardoso,3000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854966
+13,sáb 04/12/1999,21:00,Braga,Vitória FC,?,Carlos Cardoso,2000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854974
+14,seg 13/12/1999,19:00,Vitória FC,FC Porto,4-3-3 ofensivo,Carlos Cardoso,2500,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854986
+15,dom 19/12/1999,14:00,Campomaiorense,Vitória FC,4-3-3 ofensivo,Carlos Cardoso,1500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854991
+16,sex 07/01/2000,21:00,Vitória FC,Belenenses,4-4-2,Carlos Cardoso,1500,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855001
+17,sáb 15/01/2000,21:00,Leiria,Vitória FC,4-3-3 ofensivo,Rui Águas,3500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855011
+18,sex 21/01/2000,21:00,Vit. Guimarães,Vitória FC,?,Rui Águas,7100,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855018
+19,seg 31/01/2000,19:00,Vitória FC,Sporting,4-4-2,Rui Águas,10000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855031
+20,sáb 05/02/2000,14:00,Marítimo,Vitória FC,4-2-3-1,Rui Águas,4000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855034
+21,seg 14/02/2000,18:30,Vitória FC,Benfica,4-2-3-1,Rui Águas,12000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855049
+22,sáb 19/02/2000,21:00,Salgueiros,Vitória FC,4-4-2,Rui Águas,1500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855054
+23,dom 27/02/2000,12:00,Vitória FC,Santa Clara,4-4-2,Rui Águas,8000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855059
+24,sex 03/03/2000,20:00,Vitória FC,Rio Ave,4-4-2,Rui Águas,5000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855075
+25,dom 12/03/2000,13:00,Farense,Vitória FC,4-3-3 ofensivo,Rui Águas,4000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855082
+26,sáb 18/03/2000,20:00,Vitória FC,CF Estrela,?,Rui Águas,4000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855094
+27,sáb 25/03/2000,20:00,Gil Vicente,Vitória FC,?,Rui Águas,3000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855102
+28,sex 31/03/2000,17:00,Vitória FC,Boavista,4-3-3 ofensivo,Rui Águas,2000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855104
+29,sáb 08/04/2000,19:00,Alverca,Vitória FC,?,Rui Águas,3000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855116
+30,sáb 15/04/2000,19:00,Vitória FC,Braga,?,Rui Águas,3500,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855129
+31,sáb 22/04/2000,15:00,FC Porto,Vitória FC,4-4-2,Rui Águas,12750,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855136
+32,dom 30/04/2000,12:00,Vitória FC,Campomaiorense,4-3-3 ofensivo,Rui Águas,5000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855143
+33,sex 05/05/2000,19:00,Belenenses,Vitória FC,?,Rui Águas,1000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855151
+34,sáb 13/05/2000,19:00,Vitória FC,Leiria,?,Rui Águas,6000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3528538

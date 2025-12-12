@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 06/08/2022,11:00,Tottenham,Southampton,3-4-3 plano,Antonio Conte,61732,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3837816
+2,dom 14/08/2022,12:30,Chelsea,Tottenham,3-4-3 plano,Antonio Conte,39946,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3837829
+3,sáb 20/08/2022,08:30,Tottenham,Wolves,3-4-3 plano,Antonio Conte,61298,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3837842
+4,dom 28/08/2022,12:30,Nott'm Forest,Tottenham,3-4-3 plano,Antonio Conte,29296,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3837851
+5,qua 31/08/2022,15:45,West Ham,Tottenham,3-4-3 plano,Antonio Conte,62450,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3837859
+6,sáb 03/09/2022,11:00,Tottenham,Fulham,3-4-3 plano,Antonio Conte,61641,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3837980
+7,qui 19/01/2023,17:00,Man City,Tottenham,3-4-3 plano,Antonio Conte,53088,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3837995
+8,sáb 17/09/2022,13:30,Tottenham,Leicester,3-4-3 plano,Antonio Conte,61450,6:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838006
+9,sáb 01/10/2022,08:30,Arsenal,Tottenham,3-4-3 plano,Antonio Conte,60278,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838009
+10,sáb 08/10/2022,13:30,Brighton,Tottenham,3-5-2 plano,Antonio Conte,31498,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838020
+11,sáb 15/10/2022,13:30,Tottenham,Everton,3-4-3 plano,Antonio Conte,61812,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838036
+12,qua 19/10/2022,16:15,Man Utd,Tottenham,3-5-2 plano,Antonio Conte,73677,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838059
+13,dom 23/10/2022,12:30,Tottenham,Newcastle,3-5-2 plano,Antonio Conte,61726,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838195
+14,sáb 29/10/2022,11:00,Bournemouth,Tottenham,3-5-2 plano,Antonio Conte,10430,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838204
+15,dom 06/11/2022,13:30,Tottenham,Liverpool,3-5-2 plano,Antonio Conte,62008,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838233
+16,sáb 12/11/2022,12:00,Tottenham,Leeds,3-4-3 plano,Antonio Conte,61667,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838243
+17,seg 26/12/2022,09:30,Brentford,Tottenham,3-4-3 plano,Antonio Conte,17137,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838254
+18,dom 01/01/2023,11:00,Tottenham,Aston Villa,3-4-3 plano,Antonio Conte,61651,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838269
+19,qua 04/01/2023,17:00,Crystal Palace,Tottenham,3-4-3 plano,Antonio Conte,25132,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838276
+20,dom 15/01/2023,13:30,Tottenham,Arsenal,3-4-3 plano,Antonio Conte,61870,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838796
+21,seg 23/01/2023,17:00,Fulham,Tottenham,3-4-2-1,Antonio Conte,24190,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838789
+22,dom 05/02/2023,13:30,Tottenham,Man City,3-4-2-1,Antonio Conte,61747,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838778
+23,sáb 11/02/2023,12:00,Leicester,Tottenham,3-4-2-1,Antonio Conte,32184,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838765
+24,dom 19/02/2023,13:30,Tottenham,West Ham,3-4-2-1,Antonio Conte,61476,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838759
+25,dom 26/02/2023,10:30,Tottenham,Chelsea,3-4-2-1,Antonio Conte,61613,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838749
+26,sáb 04/03/2023,12:00,Wolves,Tottenham,3-4-2-1,Antonio Conte,31585,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838731
+27,sáb 11/03/2023,12:00,Tottenham,Nott'm Forest,3-4-3 plano,Antonio Conte,61460,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838727
+28,sáb 18/03/2023,12:00,Southampton,Tottenham,3-4-3 plano,Antonio Conte,30157,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838719
+29,seg 03/04/2023,16:00,Everton,Tottenham,3-4-3 plano,Cristian Stellini,39294,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838705
+30,sáb 08/04/2023,11:00,Tottenham,Brighton,3-4-2-1,Cristian Stellini,61405,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838692
+31,sáb 15/04/2023,11:00,Tottenham,Bournemouth,3-4-2-1,Cristian Stellini,61369,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838678
+32,dom 23/04/2023,10:00,Newcastle,Tottenham,4-3-3 ofensivo,Cristian Stellini,52252,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838665
+33,qui 27/04/2023,16:15,Tottenham,Man Utd,3-4-3 plano,Ryan Mason,61586,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838657
+34,dom 30/04/2023,12:30,Liverpool,Tottenham,3-4-2-1,Ryan Mason,53275,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838641
+35,sáb 06/05/2023,11:00,Tottenham,Crystal Palace,4-4-2,Ryan Mason,61093,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838631
+36,sáb 13/05/2023,11:00,Aston Villa,Tottenham,3-4-3 plano,Ryan Mason,42164,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838614
+37,sáb 20/05/2023,08:30,Tottenham,Brentford,4-4-2,Ryan Mason,61514,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838610
+38,dom 28/05/2023,12:30,Leeds,Tottenham,4-4-2,Ryan Mason,36871,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838599

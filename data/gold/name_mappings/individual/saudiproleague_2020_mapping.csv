@@ -1,0 +1,17 @@
+league_name,season_year,canonical_name,other_name,precision_score,is_confident_match
+saudiproleague,2020,abhaclub,abha,67,False
+saudiproleague,2020,alahlisfc,alahli,80,True
+saudiproleague,2020,alainsfc,alain,77,True
+saudiproleague,2020,albatinfc,albatin,88,True
+saudiproleague,2020,alettifaqfc,alettifaq,90,True
+saudiproleague,2020,alfaisalyfc,alfaisaly,90,True
+saudiproleague,2020,alfatehsc,alfateh,88,True
+saudiproleague,2020,alhilalsfc,alhilal,82,True
+saudiproleague,2020,alittihadclub,alittihad,82,True
+saudiproleague,2020,alnassrfc,alnassr,88,True
+saudiproleague,2020,alqadsiahfc,alqadsiah,90,True
+saudiproleague,2020,alraedsfc,alraed,80,True
+saudiproleague,2020,alshababfc,alshabab,89,True
+saudiproleague,2020,altaawounfc,altaawoun,90,True
+saudiproleague,2020,alwehdafc,alwehda,88,True
+saudiproleague,2020,damacfc,damacfc,100,True

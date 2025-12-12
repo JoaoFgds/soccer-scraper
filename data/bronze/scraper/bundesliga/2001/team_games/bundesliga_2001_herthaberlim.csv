@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 29/07/2001,12:30,St. Pauli,Hertha Berlim,3-5-2,Jürgen Röber,19700,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18769
+2,sáb 04/08/2001,10:30,Hertha Berlim,Dortmund,3-5-2 ofensivo,Jürgen Röber,55000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18773
+3,sáb 11/08/2001,10:30,Freiburg,Hertha Berlim,3-5-2,Jürgen Röber,24000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18783
+4,dom 19/08/2001,12:30,Hertha Berlim,Energ. Cottbus,3-5-2,Jürgen Röber,42791,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18797
+5,sáb 08/09/2001,10:30,Stuttgart,Hertha Berlim,3-5-2,Jürgen Röber,22500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18799
+6,dom 16/09/2001,12:30,Hertha Berlim,1860 Munique,3-5-2 ofensivo,Jürgen Röber,27914,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18814
+7,sáb 22/09/2001,10:30,K'lautern,Hertha Berlim,3-5-2 ofensivo,Jürgen Röber,36927,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18822
+8,sáb 29/09/2001,10:30,Hertha Berlim,Colônia,4-4-2 duplo 6,Jürgen Röber,34926,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18828
+9,sáb 13/10/2001,10:30,Hamburgo,Hertha Berlim,4-4-2 duplo 6,Jürgen Röber,43129,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18838
+10,sáb 20/10/2001,11:30,Hertha Berlim,Werder Bremen,3-5-2,Jürgen Röber,34400,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18848
+11,dom 28/10/2001,14:30,Nuremberg,Hertha Berlim,4-3-2-1,Jürgen Röber,24700,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18859
+12,dom 04/11/2001,14:30,Hertha Berlim,M'gladbach,4-3-2-1,Jürgen Röber,34925,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18869
+13,sáb 17/11/2001,12:30,Hertha Berlim,Wolfsburg,3-4-2-1,Jürgen Röber,27400,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18875
+14,sáb 24/11/2001,12:30,Hansa Rostock,Hertha Berlim,4-3-2-1,Jürgen Röber,14700,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18884
+15,dom 02/12/2001,14:30,Hertha Berlim,Bayern,4-2-3-1,Jürgen Röber,52000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18896
+16,dom 09/12/2001,14:30,Schalke,Hertha Berlim,4-1-4-1,Jürgen Röber,60204,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18905
+17,sáb 15/12/2001,12:30,Hertha Berlim,Leverkusen,4-5-1,Jürgen Röber,34635,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18911
+18,ter 18/12/2001,17:00,Hertha Berlim,St. Pauli,3-3-3-1,Jürgen Röber,27100,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18918
+19,dom 27/01/2002,14:30,Dortmund,Hertha Berlim,4-3-2-1,Jürgen Röber,63000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18932
+20,sáb 02/02/2002,12:30,Hertha Berlim,Freiburg,3-5-2,Jürgen Röber,25146,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18937
+21,ter 05/02/2002,17:00,Energ. Cottbus,Hertha Berlim,3-3-3-1,Jürgen Röber,15600,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18945
+22,sáb 09/02/2002,12:30,Hertha Berlim,Stuttgart,4-3-3 ofensivo,Falko Götz,25329,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18952
+23,sáb 16/02/2002,12:30,1860 Munique,Hertha Berlim,3-4-3,Falko Götz,20000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18960
+24,sáb 23/02/2002,11:30,Hertha Berlim,K'lautern,4-3-3 defensivo,Falko Götz,33652,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18970
+25,sáb 02/03/2002,11:30,Colônia,Hertha Berlim,4-3-3 defensivo,Falko Götz,22000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18980
+26,dom 10/03/2002,13:30,Hertha Berlim,Hamburgo,3-4-3,Falko Götz,36238,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18995
+27,sáb 16/03/2002,11:30,Werder Bremen,Hertha Berlim,3-4-3,Falko Götz,31350,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19001
+28,sáb 23/03/2002,11:30,Hertha Berlim,Nuremberg,4-3-3 defensivo,Falko Götz,37163,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19011
+29,sáb 30/03/2002,11:30,M'gladbach,Hertha Berlim,4-5-1,Falko Götz,32200,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19020
+30,sáb 06/04/2002,10:30,Wolfsburg,Hertha Berlim,4-4-2 losango,Falko Götz,15127,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19029
+31,sáb 13/04/2002,10:30,Hertha Berlim,Hansa Rostock,4-5-1,Falko Götz,42537,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19037
+32,sáb 20/04/2002,10:30,Bayern,Hertha Berlim,4-3-1-2,Falko Götz,63000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19046
+33,sáb 27/04/2002,10:30,Hertha Berlim,Schalke,3-4-3,Falko Götz,55000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19056
+34,sáb 04/05/2002,10:30,Leverkusen,Hertha Berlim,3-4-3,Falko Götz,22500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19065

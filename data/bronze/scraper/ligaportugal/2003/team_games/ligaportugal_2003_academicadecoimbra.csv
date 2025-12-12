@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 16/08/2003,15:45,Académica,Sporting,4-1-3-2,Artur Jorge,3500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/458
+2,sáb 23/08/2003,17:30,Leiria,Académica,4-4-2 losango,Artur Jorge,1200,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/672
+3,qua 29/10/2003,19:00,Académica,Benfica,4-3-3 defensivo,Vítor Oliveira,22500,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/948767
+4,sáb 13/09/2003,17:15,Vit. Guimarães,Académica,?,Vítor Oliveira,10000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003102
+5,sáb 20/09/2003,14:30,Boavista,Académica,?,Vítor Oliveira,4500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003738
+6,dom 28/09/2003,17:30,Académica,Belenenses,?,Vítor Oliveira,2000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003748
+7,dom 05/10/2003,16:15,FC Porto,Académica,4-2-3-1,Vítor Oliveira,27316,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1067226
+8,sáb 18/10/2003,12:00,Académica,Nacional,?,Vítor Oliveira,1500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702833
+9,dom 26/10/2003,14:00,Moreirense,Académica,?,Vítor Oliveira,3000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771704
+10,dom 02/11/2003,14:00,Académica,Gil Vicente,?,Vítor Oliveira,2000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771714
+11,sáb 08/11/2003,14:00,Marítimo,Académica,?,Vítor Oliveira,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771718
+12,dom 30/11/2003,14:00,Académica,Beira-Mar,?,Vítor Oliveira,4000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771730
+13,dom 07/12/2003,14:00,Alverca,Académica,?,Vítor Oliveira,1500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771750
+14,sáb 13/12/2003,14:00,Académica,Rio Ave,?,Vítor Oliveira,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771770
+15,dom 21/12/2003,14:00,Paços Ferreira,Académica,?,Vítor Oliveira,2000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771779
+16,seg 05/01/2004,17:45,Académica,Braga,?,João Carlos Pereira,3500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771793
+17,dom 11/01/2004,14:00,CF Estrela,Académica,?,Vítor Oliveira,1500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771799
+18,sáb 17/01/2004,17:30,Sporting,Académica,?,Vítor Oliveira,35372,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771806
+19,dom 25/01/2004,14:00,Académica,Leiria,?,Vítor Oliveira,1500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771820
+20,ter 03/02/2004,19:15,Benfica,Académica,?,Artur Jorge,56090,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771831
+21,dom 08/02/2004,14:00,Académica,Vit. Guimarães,?,João Carlos Pereira,5000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771838
+22,sáb 14/02/2004,17:00,Académica,Boavista,?,João Carlos Pereira,9000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4545
+23,sáb 21/02/2004,16:15,Belenenses,Académica,?,João Carlos Pereira,2000,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771842
+24,seg 01/03/2004,18:15,Académica,FC Porto,4-4-2 duplo 6,João Carlos Pereira,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4964
+25,dom 07/03/2004,13:00,Nacional,Académica,?,João Carlos Pereira,1500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771856
+26,dom 14/03/2004,13:00,Académica,Moreirense,?,João Carlos Pereira,7200,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771865
+27,dom 21/03/2004,13:00,Gil Vicente,Académica,?,João Carlos Pereira,3000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5567
+28,sex 26/03/2004,18:30,Académica,Marítimo,?,João Carlos Pereira,5000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5764
+29,dom 04/04/2004,12:00,Beira-Mar,Académica,4-3-3 ofensivo,João Carlos Pereira,6163,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5977
+30,sáb 10/04/2004,12:00,Académica,Alverca,?,João Carlos Pereira,7000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6184
+31,dom 18/04/2004,12:00,Rio Ave,Académica,?,João Carlos Pereira,4000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6395
+32,dom 25/04/2004,12:00,Académica,Paços Ferreira,4-2-3-1,João Carlos Pereira,15000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6606
+33,dom 02/05/2004,12:00,Braga,Académica,4-2-3-1,João Carlos Pereira,14000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6809
+34,dom 09/05/2004,12:00,Académica,CF Estrela,4-3-3 ofensivo,João Carlos Pereira,24289,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7018

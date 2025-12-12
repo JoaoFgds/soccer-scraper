@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 05/08/1995,10:30,Mainz,Hannover,?,Egon Coordes,4076,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976606
+2,ter 08/08/1995,15:00,Hannover,MSV Duisburg,?,Egon Coordes,14300,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976613
+3,seg 14/08/1995,14:30,Bochum,Hannover,?,Egon Coordes,13000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976638
+4,sex 18/08/1995,15:00,Hannover,W. Mannheim,?,Egon Coordes,11800,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976640
+5,qua 30/08/1995,15:00,Hannover,VfB Lübeck,?,Egon Coordes,11200,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976656
+6,sáb 02/09/1995,10:30,VfB Leipzig,Hannover,?,Egon Coordes,6200,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976699
+7,dom 10/09/1995,10:00,Hannover,FSV Zwickau,?,Egon Coordes,7922,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976711
+8,sáb 16/09/1995,10:30,SV Meppen,Hannover,?,Egon Coordes,8000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976719
+9,sáb 23/09/1995,10:30,Hannover,Hertha Berlim,?,Egon Coordes,7885,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976727
+10,sex 29/09/1995,16:00,Nuremberg,Hannover,?,Egon Coordes,13200,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976734
+11,sáb 14/10/1995,11:30,Hannover,Fortuna Köln,?,Egon Coordes,10990,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976746
+12,sex 20/10/1995,16:30,Wattenscheid 09,Hannover,?,Egon Coordes,1815,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976752
+13,sáb 28/10/1995,12:30,Hannover,Wolfsburg,?,Egon Coordes,12153,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976791
+14,ter 07/11/1995,17:00,Unterhaching,Hannover,?,Egon Coordes,700,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976803
+15,sáb 11/11/1995,12:30,Hannover,Carl Zeiss Jena,?,Egon Coordes,6607,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976810
+16,sáb 18/11/1995,12:30,Chemnitzer FC,Hannover,?,Egon Coordes,2400,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976818
+17,sex 24/11/1995,17:00,Hannover,Arm. Bielefeld,3-5-2,Egon Coordes,12700,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976824
+18,sex 01/12/1995,17:00,Hannover,Mainz,?,Egon Coordes,5540,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976846
+19,dom 10/12/1995,12:00,MSV Duisburg,Hannover,?,Egon Coordes,10000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976860
+20,sáb 09/03/1996,11:30,Hannover,Bochum,3-5-2,Egon Coordes,12100,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976868
+21,sáb 16/03/1996,11:30,W. Mannheim,Hannover,?,Egon Coordes,9500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976875
+22,dom 24/03/1996,11:00,VfB Lübeck,Hannover,?,Egon Coordes,9000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976888
+23,dom 31/03/1996,10:00,Hannover,VfB Leipzig,?,Jürgen Stoffregen,6286,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976896
+24,qui 04/04/1996,12:15,FSV Zwickau,Hannover,?,Jürgen Stoffregen,3175,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976900
+25,ter 16/04/1996,13:30,Hannover,SV Meppen,?,Jürgen Stoffregen,8103,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976917
+26,sáb 20/04/1996,10:30,Hertha Berlim,Hannover,?,Jürgen Stoffregen,7780,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976923
+27,seg 29/04/1996,14:30,Hannover,Nuremberg,3-5-2,Jürgen Stoffregen,7100,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976936
+28,dom 05/05/1996,10:00,Fortuna Köln,Hannover,?,Jürgen Stoffregen,1200,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976942
+29,sex 10/05/1996,15:00,Hannover,Wattenscheid 09,?,Jürgen Stoffregen,7500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976948
+30,qua 15/05/1996,13:00,Wolfsburg,Hannover,?,Jürgen Stoffregen,8700,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976955
+31,dom 19/05/1996,10:00,Hannover,Unterhaching,?,Jürgen Stoffregen,17890,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976971
+32,qui 23/05/1996,14:30,Carl Zeiss Jena,Hannover,?,Jürgen Stoffregen,3321,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976973
+33,dom 02/06/1996,10:00,Hannover,Chemnitzer FC,?,Jürgen Stoffregen,5158,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976986
+34,sáb 08/06/1996,10:30,Arm. Bielefeld,Hannover,5-3-2,Jürgen Stoffregen,18200,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976991

@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 06/08/2016,07:15,Olhanense,Académica,4-4-2 losango,Costinha,821,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733814
+2,dom 14/08/2016,12:00,Académica,Santa Clara,4-4-2 duplo 6,Costinha,3003,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2740301
+3,dom 21/08/2016,07:15,Penafiel,Académica,4-4-2 losango,Costinha,627,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733815
+4,qua 24/08/2016,12:00,Académica,Portimonense,4-4-2 duplo 6,Costinha,2311,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2750735
+5,dom 28/08/2016,12:00,Académica,CF União,4-4-1-1,Costinha,2009,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2753294
+6,qua 05/10/2016,11:30,Covilhã,Académica,4-3-3 ofensivo,Costinha,637,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2753299
+7,qui 15/09/2016,19:00,Académica,Famalicão,4-3-3 ofensivo,Costinha,2420,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2761695
+8,qua 21/09/2016,12:00,Cova da Piedade,Académica,?,Costinha,1135,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2758198
+9,dom 04/09/2016,12:00,Académica,Vizela,4-3-3 defensivo,Costinha,2519,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2758199
+10,dom 02/10/2016,07:15,Fafe,Académica,?,Costinha,962,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2758656
+11,seg 10/10/2016,15:30,Académica,Varzim,4-3-3 ofensivo,Costinha,2007,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2758660
+12,dom 23/10/2016,13:00,Académico FC,Académica,?,Costinha,847,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2765723
+13,dom 30/10/2016,13:00,Académica,Gil Vicente,?,Costinha,2708,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2765727
+14,sáb 05/11/2016,09:15,CD Aves,Académica,?,Costinha,950,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2765730
+15,dom 13/11/2016,13:00,Académica,Leixões,?,Costinha,2572,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2765733
+16,dom 27/11/2016,13:00,Freamunde,Académica,?,Costinha,741,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2765830
+17,dom 04/12/2016,13:00,Académica,Braga B,?,Costinha,1737,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2765831
+18,sáb 10/12/2016,14:00,Académica,Benfica B,4-2-3-1,Costinha,3027,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2765834
+19,seg 19/12/2016,13:00,Vitória SC B,Académica,4-3-3 ofensivo,Costinha,1475,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2765839
+20,sex 30/12/2016,13:00,Académica,Sporting B,?,Costinha,3542,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2765972
+21,dom 08/01/2017,13:00,FC Porto B,Académica,?,Costinha,590,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771679
+22,qui 12/01/2017,18:30,Académica,Olhanense,4-4-2 duplo 6,Costinha,3107,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771683
+23,dom 22/01/2017,14:00,Santa Clara,Académica,?,Costinha,1142,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771684
+24,sáb 28/01/2017,13:00,Académica,Penafiel,4-4-2 duplo 6,Costinha,2512,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771688
+25,sáb 04/02/2017,09:15,Portimonense,Académica,?,Costinha,1817,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771690
+26,sáb 11/02/2017,13:00,CF União,Académica,?,Costinha,819,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771693
+27,qua 15/02/2017,17:00,Académica,Covilhã,?,Costinha,868,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2773853
+28,dom 19/02/2017,12:00,Famalicão,Académica,4-4-2 duplo 6,Costinha,2954,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2773854
+29,sáb 25/02/2017,08:15,Académica,Cova da Piedade,4-3-3 defensivo,Costinha,2594,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2773858
+30,dom 05/03/2017,12:00,Vizela,Académica,4-3-3 defensivo,Costinha,926,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2773861
+31,sáb 11/03/2017,12:00,Académica,Fafe,4-3-3 defensivo,Costinha,3174,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2774104
+32,dom 26/03/2017,11:00,Varzim,Académica,?,Costinha,2303,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2774106
+33,dom 19/03/2017,13:00,Académica,Académico FC,?,Costinha,2757,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2774109
+34,dom 02/04/2017,07:15,Gil Vicente,Académica,4-3-3 ofensivo,Costinha,662,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2774112
+35,qui 06/04/2017,16:15,Académica,CD Aves,4-2-3-1,Costinha,3357,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2774118
+36,sex 14/04/2017,12:00,Leixões,Académica,4-2-3-1,Costinha,5658,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2774119
+37,qua 19/04/2017,16:00,Académica,Freamunde,?,Costinha,1742,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2774122
+38,seg 24/04/2017,12:00,Braga B,Académica,?,Costinha,400,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2774124
+39,dom 30/04/2017,12:00,Benfica B,Académica,?,Costinha,806,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2774127
+40,sáb 06/05/2017,07:15,Académica,Vitória SC B,?,Costinha,2163,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2774131
+41,dom 14/05/2017,12:00,Sporting B,Académica,?,Costinha,312,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2774133
+42,dom 21/05/2017,12:00,Académica,FC Porto B,4-3-3 ofensivo,Costinha,2014,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2774137

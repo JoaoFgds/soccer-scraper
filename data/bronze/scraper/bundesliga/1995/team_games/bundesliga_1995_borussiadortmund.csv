@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 11/08/1995,15:00,Dortmund,K'lautern,3-5-2,Ottmar Hitzfeld,42300,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16926
+2,sáb 19/08/1995,10:30,Leverkusen,Dortmund,3-5-2 ofensivo,Ottmar Hitzfeld,25500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16939
+3,ter 29/08/1995,14:30,Hansa Rostock,Dortmund,3-5-2,Ottmar Hitzfeld,25850,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16946
+4,sex 01/09/1995,15:00,Dortmund,M'gladbach,3-5-2,Ottmar Hitzfeld,42800,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16953
+5,sáb 09/09/1995,10:30,St. Pauli,Dortmund,3-5-2,Ottmar Hitzfeld,20725,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16968
+6,sáb 16/09/1995,10:30,Dortmund,Stuttgart,3-5-2 ofensivo,Ottmar Hitzfeld,42000,6:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16974
+7,sex 22/09/1995,15:00,Frankfurt,Dortmund,3-5-2 ofensivo,Ottmar Hitzfeld,49000,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16980
+8,dom 01/10/1995,16:15,Dortmund,Bayern,3-5-2 ofensivo,Ottmar Hitzfeld,42800,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16996
+9,sáb 14/10/1995,11:30,Werder Bremen,Dortmund,3-5-2,Ottmar Hitzfeld,29700,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17005
+10,sáb 21/10/1995,12:30,Dortmund,Colônia,3-5-2,Ottmar Hitzfeld,42800,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17010
+11,sáb 28/10/1995,12:30,Schalke,Dortmund,3-5-2,Ottmar Hitzfeld,70960,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17020
+12,sáb 04/11/1995,12:30,Dortmund,Düsseldorf,3-5-2,Ottmar Hitzfeld,42800,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17028
+13,sex 10/11/1995,17:00,Hamburgo,Dortmund,3-4-2-1,Ottmar Hitzfeld,51531,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17035
+14,sáb 18/11/1995,12:30,Dortmund,Karlsruher,3-5-2,Ottmar Hitzfeld,42569,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17047
+15,sáb 25/11/1995,12:30,KFC Uerdingen,Dortmund,3-5-2,Ottmar Hitzfeld,34500,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17056
+16,sex 01/12/1995,17:00,Dortmund,1860 Munique,3-5-2,Ottmar Hitzfeld,42800,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17062
+17,sáb 09/12/1995,12:30,Freiburg,Dortmund,3-5-2 ofensivo,Ottmar Hitzfeld,22500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17076
+18,sáb 10/02/1996,12:30,K'lautern,Dortmund,3-5-2 ofensivo,Ottmar Hitzfeld,38000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17080
+19,ter 07/05/1996,15:00,Dortmund,Leverkusen,3-5-2,Ottmar Hitzfeld,48800,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17095
+20,sáb 24/02/1996,11:30,Dortmund,Hansa Rostock,3-5-2 ofensivo,Ottmar Hitzfeld,42000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17099
+21,sáb 02/03/1996,11:30,M'gladbach,Dortmund,3-5-2,Ottmar Hitzfeld,33500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17108
+22,sáb 09/03/1996,11:30,Dortmund,St. Pauli,3-5-2,Ottmar Hitzfeld,42400,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17118
+23,sáb 16/03/1996,16:00,Stuttgart,Dortmund,3-5-2,Ottmar Hitzfeld,51000,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17130
+24,sáb 23/03/1996,11:30,Dortmund,Frankfurt,3-5-2,Ottmar Hitzfeld,42400,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17137
+25,sáb 30/03/1996,11:30,Bayern,Dortmund,3-5-2,Ottmar Hitzfeld,63000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17145
+26,sáb 06/04/1996,10:30,Dortmund,Werder Bremen,3-1-4-2,Ottmar Hitzfeld,42400,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17155
+27,ter 09/04/1996,15:00,Colônia,Dortmund,3-5-2,Ottmar Hitzfeld,53000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17160
+28,sáb 13/04/1996,10:30,Dortmund,Schalke,3-5-2,Ottmar Hitzfeld,42400,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17172
+29,sáb 20/04/1996,10:30,Düsseldorf,Dortmund,3-5-2,Ottmar Hitzfeld,55000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17183
+30,sáb 27/04/1996,10:30,Dortmund,Hamburgo,3-5-2,Ottmar Hitzfeld,48800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17190
+31,ter 30/04/1996,15:00,Karlsruher,Dortmund,3-5-2 plano,Ottmar Hitzfeld,33500,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17199
+32,sex 03/05/1996,15:00,Dortmund,KFC Uerdingen,3-5-2,Ottmar Hitzfeld,48800,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17205
+33,sáb 11/05/1996,10:30,1860 Munique,Dortmund,3-5-2,Ottmar Hitzfeld,66000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17222
+34,sáb 18/05/1996,10:30,Dortmund,Freiburg,3-5-2,Ottmar Hitzfeld,48800,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17224

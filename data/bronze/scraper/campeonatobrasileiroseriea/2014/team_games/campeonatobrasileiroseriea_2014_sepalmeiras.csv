@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 20/04/2014,18:30,Criciúma,Palmeiras,4-2-3-1,Gilson Kleina,11768,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454187
+2,sáb 26/04/2014,21:00,Palmeiras,Fluminense,4-4-2 duplo 6,Gilson Kleina,11189,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454189
+3,dom 04/05/2014,16:00,Flamengo,Palmeiras,4-5-1,Gilson Kleina,21082,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454335
+4,sáb 10/05/2014,18:30,Palmeiras,Goiás,4-3-3 ofensivo,Alberto Valentim,6454,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454345
+5,dom 18/05/2014,18:30,Vitória,Palmeiras,4-4-2 losango,Alberto Valentim,8484,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454358
+6,qui 22/05/2014,19:30,Palmeiras,Figueirense,4-4-2 losango,Alberto Valentim,10870,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454365
+7,dom 25/05/2014,18:30,Chapecoense,Palmeiras,4-4-2 duplo 6,Alberto Valentim,6275,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454381
+8,ter 27/05/2014,19:30,Palmeiras,Botafogo,4-4-2 losango,Alberto Valentim,5681,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454385
+9,dom 01/06/2014,16:00,Grêmio,Palmeiras,4-2-3-1,Alberto Valentim,15136,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454399
+10,qui 17/07/2014,19:30,Santos,Palmeiras,?,Ricardo Gareca,11774,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454405
+11,dom 20/07/2014,16:00,Palmeiras,Cruzeiro,4-3-3 defensivo,Ricardo Gareca,14970,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454415
+12,dom 27/07/2014,16:00,Corinthians,Palmeiras,4-4-2 duplo 6,Ricardo Gareca,31031,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454424
+13,dom 03/08/2014,16:00,Palmeiras,Bahia,4-3-3 ofensivo,Ricardo Gareca,15206,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454435
+14,dom 10/08/2014,18:30,Atlético-MG,Palmeiras,4-4-2 duplo 6,Ricardo Gareca,14089,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454447
+15,dom 17/08/2014,16:00,Palmeiras,São Paulo,4-4-2 duplo 6,Ricardo Gareca,20267,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454455
+16,qua 20/08/2014,19:30,Sport,Palmeiras,5-3-2,Ricardo Gareca,21802,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454463
+17,sáb 23/08/2014,21:00,Palmeiras,Coritiba,4-3-3 ofensivo,Ricardo Gareca,18461,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454475
+18,sáb 30/08/2014,18:30,Palmeiras,Internacional,4-3-3 ofensivo,Ricardo Gareca,31178,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454485
+19,dom 07/09/2014,18:30,Atlético-PR,Palmeiras,4-4-2 duplo 6,Dorival Júnior,19559,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454496
+20,qua 10/09/2014,19:30,Palmeiras,Criciúma,4-4-2,Dorival Júnior,17173,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454505
+21,sáb 13/09/2014,18:30,Fluminense,Palmeiras,4-4-2 duplo 6,Dorival Júnior,15238,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454513
+22,qua 17/09/2014,22:00,Palmeiras,Flamengo,4-3-3 defensivo,Dorival Júnior,19350,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454525
+23,dom 21/09/2014,18:30,Goiás,Palmeiras,4-3-1-2,Dorival Júnior,7845,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454541
+24,qui 25/09/2014,19:30,Palmeiras,Vitória,4-3-1-2,Dorival Júnior,14907,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454545
+25,dom 28/09/2014,18:30,Figueirense,Palmeiras,4-4-2 losango,Dorival Júnior,6787,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454560
+26,qui 02/10/2014,19:30,Palmeiras,Chapecoense,4-4-2,Dorival Júnior,14299,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454565
+27,qua 08/10/2014,19:30,Botafogo,Palmeiras,4-4-2 losango,Dorival Júnior,10200,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454572
+28,sáb 11/10/2014,21:00,Palmeiras,Grêmio,4-4-2 losango,Dorival Júnior,26940,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454585
+29,dom 19/10/2014,16:00,Palmeiras,Santos,4-3-1-2,Dorival Júnior,30695,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454595
+30,qua 22/10/2014,19:30,Cruzeiro,Palmeiras,4-2-3-1,Dorival Júnior,26944,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454607
+31,sáb 25/10/2014,16:20,Palmeiras,Corinthians,4-2-3-1,Dorival Júnior,24245,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454615
+32,dom 02/11/2014,20:00,Bahia,Palmeiras,4-2-3-1,Dorival Júnior,15367,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454628
+33,sáb 08/11/2014,19:30,Palmeiras,Atlético-MG,4-2-3-1,Dorival Júnior,24368,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454635
+34,dom 16/11/2014,19:30,São Paulo,Palmeiras,4-3-1-2,Dorival Júnior,36764,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454644
+35,qua 19/11/2014,22:00,Palmeiras,Sport,4-3-1-2,Dorival Júnior,35939,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454655
+36,dom 23/11/2014,19:30,Coritiba,Palmeiras,4-4-1-1,Dorival Júnior,18863,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454666
+37,sáb 29/11/2014,19:30,Internacional,Palmeiras,4-3-2-1,Dorival Júnior,41148,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454678
+38,dom 07/12/2014,17:00,Palmeiras,Atlético-PR,4-3-2-1,Dorival Júnior,33151,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454685

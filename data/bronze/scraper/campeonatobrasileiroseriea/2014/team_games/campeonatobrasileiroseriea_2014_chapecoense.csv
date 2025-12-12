@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 19/04/2014,21:00,Chapecoense,Coritiba,4-3-3 ofensivo,Gilmar Pozzo,7178,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454180
+2,dom 27/04/2014,18:30,Sport,Chapecoense,4-3-3 ofensivo,Gilmar Pozzo,12686,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454194
+3,dom 04/05/2014,18:30,Chapecoense,Corinthians,4-3-1-2,Gilmar Pozzo,15009,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454341
+4,dom 11/05/2014,16:00,Chapecoense,Grêmio,4-5-1 plano,Gilmar Pozzo,19165,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454351
+5,dom 18/05/2014,16:00,Atlético-PR,Chapecoense,4-3-3 ofensivo,Gilmar Pozzo,766,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454356
+6,qua 21/05/2014,21:00,Criciúma,Chapecoense,4-4-2 duplo 6,Gilmar Pozzo,7336,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454370
+7,dom 25/05/2014,18:30,Chapecoense,Palmeiras,4-3-1-2,Celso Rodrigues,6275,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454381
+8,ter 27/05/2014,21:00,Internacional,Chapecoense,4-3-1-2,Gilmar Pozzo,2824,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454389
+9,dom 01/06/2014,16:00,Chapecoense,Bahia,4-4-2 duplo 6,Celso Rodrigues,7817,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454401
+10,qua 06/08/2014,21:00,Chapecoense,Atlético-MG,4-3-1-2,Celso Rodrigues,9426,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454411
+11,sáb 19/07/2014,18:30,São Paulo,Chapecoense,4-3-2-1,Celso Rodrigues,42979,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454414
+12,sáb 26/07/2014,18:30,Santos,Chapecoense,?,Celso Rodrigues,6962,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454425
+13,dom 03/08/2014,16:00,Chapecoense,Flamengo,4-3-1-2,Celso Rodrigues,12473,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454441
+14,dom 10/08/2014,18:30,Chapecoense,Figueirense,4-3-1-2,Celso Rodrigues,7431,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454451
+15,dom 17/08/2014,16:00,Vitória,Chapecoense,?,Celso Rodrigues,10897,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454458
+16,qua 20/08/2014,22:00,Chapecoense,Fluminense,4-1-4-1,Celso Rodrigues,8817,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454471
+17,sáb 23/08/2014,18:30,Botafogo,Chapecoense,4-3-2-1,Celso Rodrigues,18450,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454472
+18,sáb 30/08/2014,18:30,Cruzeiro,Chapecoense,4-3-2-1,Celso Rodrigues,26682,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454487
+19,sáb 06/09/2014,21:00,Chapecoense,Goiás,?,Celso Rodrigues,2005,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454501
+20,qua 10/09/2014,21:00,Coritiba,Chapecoense,?,Celso Rodrigues,7238,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454506
+21,sáb 13/09/2014,18:30,Chapecoense,Sport,?,Jorginho,4737,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454521
+22,qui 18/09/2014,19:30,Corinthians,Chapecoense,4-3-1-2,Jorginho,25724,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454524
+23,dom 21/09/2014,18:30,Grêmio,Chapecoense,?,Jorginho,16759,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454539
+24,qua 24/09/2014,21:00,Chapecoense,Atlético-PR,4-4-2 duplo 6,Jorginho,6610,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454551
+25,sáb 27/09/2014,18:30,Chapecoense,Criciúma,?,Jorginho,5364,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454561
+26,qui 02/10/2014,19:30,Palmeiras,Chapecoense,4-3-1-2,Jorginho,14299,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454565
+27,qui 09/10/2014,20:30,Chapecoense,Internacional,4-3-1-2,Jorginho,17230,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454581
+28,dom 12/10/2014,16:00,Bahia,Chapecoense,?,Jorginho,22162,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454588
+29,sáb 18/10/2014,22:00,Atlético-MG,Chapecoense,4-3-1-2,Jorginho,20558,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454597
+30,qua 22/10/2014,22:00,Chapecoense,São Paulo,4-3-1-2,Jorginho,15095,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454611
+31,sáb 25/10/2014,18:30,Chapecoense,Santos,4-3-1-2,Jorginho,10334,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454621
+32,dom 02/11/2014,19:30,Flamengo,Chapecoense,4-3-1-2,Jorginho,31984,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454622
+33,dom 09/11/2014,17:00,Figueirense,Chapecoense,?,Jorginho,15102,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454640
+34,dom 16/11/2014,19:30,Chapecoense,Vitória,?,Jorginho,12749,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454651
+35,qui 20/11/2014,19:30,Fluminense,Chapecoense,4-3-1-2,Celso Rodrigues,29482,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454653
+36,dom 23/11/2014,19:30,Chapecoense,Botafogo,?,Celso Rodrigues,14343,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454671
+37,dom 30/11/2014,17:00,Chapecoense,Cruzeiro,4-3-1-2,Celso Rodrigues,8067,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454681
+38,dom 07/12/2014,17:00,Goiás,Chapecoense,?,Celso Rodrigues,1768,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454691

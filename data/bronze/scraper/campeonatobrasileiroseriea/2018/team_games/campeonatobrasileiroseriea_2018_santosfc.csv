@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 14/04/2018,21:00,Santos,Ceará,4-3-3 ofensivo,Jair Ventura,15513,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3011403
+2,sáb 21/04/2018,16:00,Bahia,Santos,4-3-3 ofensivo,Jair Ventura,15588,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3034132
+3,qui 27/09/2018,20:00,Santos,Vasco da Gama,4-2-3-1,Cuca,12985,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3034151
+4,dom 06/05/2018,19:01,Grêmio,Santos,4-3-3 ofensivo,Jair Ventura,27844,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036823
+5,dom 13/05/2018,19:00,Santos,Paraná,4-3-3 ofensivo,Jair Ventura,3971,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036834
+6,dom 20/05/2018,16:00,São Paulo,Santos,4-3-3 ofensivo,Jair Ventura,40465,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036841
+7,dom 27/05/2018,16:00,Santos,Cruzeiro,4-3-3 ofensivo,Jair Ventura,10670,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036851
+8,qui 31/05/2018,21:00,Atlético-PR,Santos,4-3-3 ofensivo,Jair Ventura,9173,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036864
+9,dom 03/06/2018,16:00,Santos,Vitória,4-2-3-1,Jair Ventura,3887,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036872
+10,qua 06/06/2018,21:00,Corinthians,Santos,4-2-3-1,Jair Ventura,27586,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036879
+11,dom 10/06/2018,19:00,Santos,Internacional,4-2-3-1,Jair Ventura,8124,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036892
+12,qua 13/06/2018,19:00,Fluminense,Santos,4-2-3-1,Jair Ventura,7438,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036899
+13,qui 19/07/2018,20:00,Santos,Palmeiras,4-2-3-1,Jair Ventura,26417,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036912
+14,dom 22/07/2018,19:00,Chapecoense,Santos,4-2-3-1,Jair Ventura,7100,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036917
+15,qua 25/07/2018,21:45,Santos,Flamengo,4-4-2 duplo 6,Serginho Chulapa,11843,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036932
+16,dom 29/07/2018,19:00,Santos,América-MG,4-2-3-1,Serginho Chulapa,8691,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036942
+17,sáb 04/08/2018,16:00,Botafogo,Santos,4-2-3-1,Cuca,6940,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036950
+18,dom 12/08/2018,11:00,Atlético-MG,Santos,4-2-3-1,Cuca,22062,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036955
+19,sáb 18/08/2018,16:00,Santos,Sport,4-2-3-1,Cuca,10991,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036972
+20,qua 08/08/2018,19:30,Ceará,Santos,4-2-3-1,Cuca,18047,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036981
+21,sáb 25/08/2018,16:00,Santos,Bahia,4-1-4-1,Cuca,11564,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036992
+22,sáb 01/09/2018,19:00,Vasco da Gama,Santos,4-2-3-1,Cuca,33646,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036999
+23,qui 06/09/2018,19:00,Santos,Grêmio,4-3-3 ofensivo,Cuca,16083,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037012
+24,dom 09/09/2018,19:00,Paraná,Santos,4-2-3-1,Cuca,4504,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037016
+25,dom 16/09/2018,16:00,Santos,São Paulo,4-2-3-1,Cuca,13488,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037032
+26,dom 23/09/2018,19:00,Cruzeiro,Santos,4-2-3-1,Cuca,9029,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037035
+27,dom 30/09/2018,16:00,Santos,Atlético-PR,4-2-3-1,Cuca,7802,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037052
+28,sex 05/10/2018,21:30,Vitória,Santos,4-2-3-1,Cuca,7478,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037058
+29,sáb 13/10/2018,19:00,Santos,Corinthians,4-3-3 defensivo,Cuca,26428,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037072
+30,seg 22/10/2018,20:00,Internacional,Santos,4-3-3 defensivo,Cuca,43159,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037084
+31,sáb 27/10/2018,16:30,Santos,Fluminense,4-3-3 defensivo,Cuca,8680,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037092
+32,sáb 03/11/2018,19:00,Palmeiras,Santos,4-3-3 defensivo,Cuca,38938,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037103
+33,seg 12/11/2018,20:00,Santos,Chapecoense,4-1-4-1,Cuca,12659,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037112
+34,qui 15/11/2018,17:00,Flamengo,Santos,4-2-3-1,Cuca,46067,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037120
+35,dom 18/11/2018,17:00,América-MG,Santos,4-2-3-1,Cuca,4652,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037127
+36,qua 21/11/2018,21:00,Santos,Botafogo,4-3-3 defensivo,Cuca,3620,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037142
+37,sáb 24/11/2018,20:00,Santos,Atlético-MG,4-3-3 defensivo,Cuca,4591,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037152
+38,dom 02/12/2018,17:00,Sport,Santos,4-3-3 defensivo,Cuca,23451,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037162

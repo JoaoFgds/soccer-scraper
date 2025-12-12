@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 13/04/2018,20:30,Oeste,CRB,4-2-3-1,Roberto Cavalo,1246,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036436
+2,sex 20/04/2018,19:15,Juventude,Oeste,4-2-3-1,Roberto Cavalo,3165,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036447
+3,sex 27/04/2018,20:30,CSA,Oeste,4-2-3-1,Roberto Cavalo,9673,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036458
+4,sex 04/05/2018,21:30,Oeste,Coritiba,4-2-3-1,Roberto Cavalo,1315,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036471
+5,sáb 12/05/2018,16:30,São Bento,Oeste,4-2-3-1,Roberto Cavalo,3294,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036479
+6,sáb 19/05/2018,16:30,Oeste,Vila Nova,4-2-3-1,Roberto Cavalo,826,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036491
+7,sex 25/05/2018,19:15,Atlético-GO,Oeste,4-2-3-1,Roberto Cavalo,2289,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036498
+8,sáb 02/06/2018,19:00,Ponte Preta,Oeste,4-5-1,Roberto Cavalo,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036513
+9,ter 05/06/2018,21:30,Oeste,Brasil Pelotas,4-2-3-1,Roberto Cavalo,554,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036523
+10,sáb 09/06/2018,16:30,Sampaio Corrêa,Oeste,4-3-1-2,Roberto Cavalo,4706,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036532
+11,sáb 16/06/2018,19:00,Oeste,Criciúma,4-2-3-1,Roberto Cavalo,518,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036544
+12,sáb 23/06/2018,19:00,Fortaleza,Oeste,4-2-3-1,Roberto Cavalo,20076,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036551
+13,ter 26/06/2018,20:30,Oeste,Avaí,4-2-3-1,Roberto Cavalo,659,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036556
+14,qui 05/07/2018,18:00,Oeste,Guarani,4-2-3-1,Roberto Cavalo,757,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036566
+15,seg 09/07/2018,20:30,Figueirense,Oeste,4-2-3-1,Roberto Cavalo,3157,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036578
+16,sáb 21/07/2018,19:00,Oeste,Paysandu,4-2-3-1,Roberto Cavalo,907,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036586
+17,ter 24/07/2018,19:15,Londrina,Oeste,4-2-3-1,Roberto Cavalo,1511,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036603
+18,sáb 28/07/2018,16:30,Goiás,Oeste,4-2-3-1,Roberto Cavalo,6398,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036610
+19,sex 03/08/2018,20:30,Oeste,Boa Esporte,4-2-3-1,Roberto Cavalo,346,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036616
+20,sáb 11/08/2018,16:30,CRB,Oeste,4-2-3-1,Roberto Cavalo,4699,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036632
+21,sáb 18/08/2018,16:30,Oeste,Juventude,4-3-1-2,Roberto Cavalo,864,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036636
+22,ter 21/08/2018,21:30,Oeste,CSA,4-2-3-1,Roberto Cavalo,744,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036646
+23,sex 24/08/2018,19:15,Coritiba,Oeste,4-2-3-1,Roberto Cavalo,4639,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036663
+24,ter 28/08/2018,20:30,Oeste,São Bento,4-3-1-2,Roberto Cavalo,770,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036666
+25,seg 03/09/2018,20:00,Vila Nova,Oeste,4-2-3-1,Roberto Cavalo,8149,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036680
+26,sex 07/09/2018,16:00,Oeste,Atlético-GO,4-2-3-1,Roberto Cavalo,883,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036686
+27,sáb 15/09/2018,21:00,Oeste,Ponte Preta,4-4-2 duplo 6,Roberto Cavalo,886,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036696
+28,sáb 22/09/2018,16:30,Brasil Pelotas,Oeste,4-2-3-1,Roberto Cavalo,4325,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036707
+29,sáb 29/09/2018,16:30,Oeste,Sampaio Corrêa,4-3-1-2,Roberto Cavalo,827,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036716
+30,ter 02/10/2018,20:30,Criciúma,Oeste,4-3-1-2,Roberto Cavalo,3558,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036729
+31,sáb 13/10/2018,16:30,Oeste,Fortaleza,4-1-4-1,Roberto Cavalo,2425,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036736
+32,sáb 20/10/2018,16:30,Avaí,Oeste,4-2-3-1,Roberto Cavalo,10040,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036748
+33,sáb 27/10/2018,16:30,Guarani,Oeste,4-3-1-2,Roberto Cavalo,1737,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036755
+34,sex 02/11/2018,20:30,Oeste,Figueirense,4-3-1-2,Roberto Cavalo,793,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036766
+35,ter 06/11/2018,21:30,Paysandu,Oeste,4-3-1-2,Roberto Cavalo,5453,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036784
+36,sáb 10/11/2018,17:00,Oeste,Londrina,4-3-1-2,Roberto Cavalo,1032,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036786
+37,sáb 17/11/2018,21:00,Oeste,Goiás,4-3-1-2,Roberto Cavalo,1325,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036796
+38,sáb 24/11/2018,17:00,Boa Esporte,Oeste,4-3-3 defensivo,Roberto Cavalo,320,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036811

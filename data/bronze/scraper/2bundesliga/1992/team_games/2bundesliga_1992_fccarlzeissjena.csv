@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 10/07/1992,14:30,Unterhaching,Carl Zeiss Jena,?,Reiner Hollmann,3500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/924507
+2,qua 15/07/1992,15:00,Carl Zeiss Jena,Hansa Rostock,?,Reiner Hollmann,6630,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/924526
+3,sáb 18/07/1992,10:30,Düsseldorf,Carl Zeiss Jena,?,Reiner Hollmann,5300,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/924535
+4,qua 22/07/1992,15:00,Carl Zeiss Jena,VfL Osnabrück,?,Reiner Hollmann,4506,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/982371
+5,dom 26/07/1992,10:00,VfB Oldenburg,Carl Zeiss Jena,?,Reiner Hollmann,6000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977785
+6,sex 31/07/1992,15:00,Carl Zeiss Jena,Stuttg. Kickers,?,Reiner Hollmann,5880,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977791
+7,sáb 08/08/1992,10:30,Freiburg,Carl Zeiss Jena,3-5-2 plano,Reiner Hollmann,11000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977807
+8,qua 12/08/1992,15:00,Carl Zeiss Jena,Wolfsburg,?,Reiner Hollmann,5323,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977821
+9,sáb 15/08/1992,10:30,Chemnitzer FC,Carl Zeiss Jena,?,Reiner Hollmann,5000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977838
+10,dom 23/08/1992,10:00,Carl Zeiss Jena,FC Remscheid,?,Reiner Hollmann,4374,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977856
+11,qua 26/08/1992,15:00,Hannover,Carl Zeiss Jena,?,Reiner Hollmann,5500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977868
+12,sáb 29/08/1992,10:30,W. Mannheim,Carl Zeiss Jena,?,Reiner Hollmann,5000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977876
+13,qua 02/09/1992,14:30,Carl Zeiss Jena,Mainz,?,Reiner Hollmann,2917,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977890
+14,sáb 05/09/1992,10:30,MSV Duisburg,Carl Zeiss Jena,?,Reiner Hollmann,10000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977898
+15,sex 18/09/1992,14:30,Carl Zeiss Jena,SV Meppen,?,Reiner Hollmann,4256,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977905
+16,sáb 26/09/1992,10:30,FC 08 Homburg,Carl Zeiss Jena,?,Reiner Hollmann,1900,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977926
+17,sex 02/10/1992,15:30,Carl Zeiss Jena,St. Pauli,?,Reiner Hollmann,4300,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977933
+18,sáb 17/10/1992,11:30,Hertha Berlim,Carl Zeiss Jena,?,Reiner Hollmann,4645,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977954
+19,sex 23/10/1992,15:30,Carl Zeiss Jena,Darmstadt 98,?,Reiner Hollmann,3303,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977958
+20,dom 01/11/1992,12:00,E. Braunschweig,Carl Zeiss Jena,?,Reiner Hollmann,5901,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977980
+21,sex 13/11/1992,16:30,Carl Zeiss Jena,VfB Leipzig,?,Reiner Hollmann,3000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/977982
+22,dom 22/11/1992,15:00,Wuppertaler SV,Carl Zeiss Jena,?,Reiner Hollmann,6500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978016
+23,sex 27/11/1992,16:30,Carl Zeiss Jena,Fortuna Köln,?,Reiner Hollmann,3580,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978018
+24,dom 06/12/1992,12:00,Carl Zeiss Jena,Unterhaching,?,Reiner Hollmann,2979,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978039
+25,sáb 12/12/1992,12:30,Hansa Rostock,Carl Zeiss Jena,?,Reiner Hollmann,1750,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978046
+26,ter 23/02/1993,14:00,Carl Zeiss Jena,Düsseldorf,?,Reiner Hollmann,3227,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978064
+27,dom 14/02/1993,11:00,VfL Osnabrück,Carl Zeiss Jena,?,Reiner Hollmann,4000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978198
+28,sáb 20/02/1993,11:30,Carl Zeiss Jena,VfB Oldenburg,?,Reiner Hollmann,3200,6:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978211
+29,sáb 27/02/1993,11:00,Stuttg. Kickers,Carl Zeiss Jena,?,Reiner Hollmann,3452,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978214
+30,qua 10/03/1993,14:00,Carl Zeiss Jena,Freiburg,3-5-2 plano,Reiner Hollmann,4914,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978335
+31,sáb 13/03/1993,11:30,Wolfsburg,Carl Zeiss Jena,?,Reiner Hollmann,6000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978343
+32,sáb 20/03/1993,11:30,Carl Zeiss Jena,Chemnitzer FC,?,Reiner Hollmann,3900,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978351
+33,sáb 27/03/1993,11:30,FC Remscheid,Carl Zeiss Jena,?,Reiner Hollmann,2200,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978367
+34,sex 02/04/1993,14:30,Carl Zeiss Jena,Hannover,?,Reiner Hollmann,3700,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978374
+35,dom 11/04/1993,10:00,Carl Zeiss Jena,W. Mannheim,?,Reiner Hollmann,5579,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978394
+36,sáb 17/04/1993,10:30,Mainz,Carl Zeiss Jena,?,Reiner Hollmann,3100,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978403
+37,sáb 24/04/1993,10:30,Carl Zeiss Jena,MSV Duisburg,?,Reiner Hollmann,3754,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978413
+38,qua 28/04/1993,13:30,SV Meppen,Carl Zeiss Jena,?,Reiner Hollmann,5000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978425
+39,dom 02/05/1993,10:00,Carl Zeiss Jena,FC 08 Homburg,?,Reiner Hollmann,3455,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978442
+40,sáb 08/05/1993,10:30,St. Pauli,Carl Zeiss Jena,?,Reiner Hollmann,11828,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978449
+41,qua 12/05/1993,14:30,Carl Zeiss Jena,Hertha Berlim,?,Reiner Hollmann,3800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978466
+42,dom 16/05/1993,13:00,Darmstadt 98,Carl Zeiss Jena,3-5-2,Reiner Hollmann,1500,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978479
+43,sáb 22/05/1993,10:30,Carl Zeiss Jena,E. Braunschweig,?,Reiner Hollmann,2600,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978500
+44,ter 25/05/1993,14:30,VfB Leipzig,Carl Zeiss Jena,?,Reiner Hollmann,7600,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978502
+45,dom 30/05/1993,10:00,Carl Zeiss Jena,Wuppertaler SV,?,Reiner Hollmann,3299,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/982351
+46,dom 06/06/1993,10:00,Fortuna Köln,Carl Zeiss Jena,?,Reiner Hollmann,800,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/982353

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/08/2023,14:00,Farense,Casa Pia,3-4-3 plano,Filipe Martins,3953,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109295
+2,sex 18/08/2023,16:15,Casa Pia,Sporting,3-4-3 plano,Filipe Martins,6981,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109293
+3,dom 27/08/2023,11:30,Boavista,Casa Pia,3-4-3 plano,Filipe Martins,4945,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109318
+4,sáb 02/09/2023,11:30,Casa Pia,Rio Ave,3-4-3 plano,Filipe Martins,3267,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109307
+5,dom 17/09/2023,11:30,Arouca,Casa Pia,3-4-3 plano,Filipe Martins,1346,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109355
+6,sáb 23/09/2023,14:00,Casa Pia,Vit. Guimarães,3-4-3 plano,Filipe Martins,3830,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109327
+7,seg 02/10/2023,16:15,Gil Vicente,Casa Pia,3-5-2,Filipe Martins,2702,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109330
+8,dom 08/10/2023,11:30,Casa Pia,Estrela Amadora,3-4-3 plano,Filipe Martins,2861,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109361
+9,sáb 28/10/2023,14:00,Benfica,Casa Pia,3-4-3 plano,Filipe Martins,57240,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109436
+10,dom 05/11/2023,12:30,Casa Pia,Vizela,3-4-3 plano,Filipe Martins,1586,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109347
+11,sex 10/11/2023,17:15,Estoril,Casa Pia,3-4-3 plano,Filipe Martins,2896,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109387
+12,sáb 02/12/2023,17:30,Casa Pia,Portimonense,3-4-3 plano,Pedro Moreira,1187,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109380
+13,sáb 09/12/2023,17:30,FC Porto,Casa Pia,3-4-3 plano,Pedro Moreira,29130,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109369
+14,dom 17/12/2023,12:30,Chaves,Casa Pia,4-4-2,Pedro Moreira,1980,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109498
+15,sáb 30/12/2023,15:00,Casa Pia,Braga,4-4-2,Pedro Moreira,4153,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109415
+16,seg 08/01/2024,17:15,Moreirense,Casa Pia,4-4-2,Pedro Moreira,944,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109475
+17,sáb 13/01/2024,12:30,Casa Pia,Famalicão,4-4-2 duplo 6,Pedro Moreira,1240,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109428
+18,sáb 20/01/2024,15:00,Casa Pia,Farense,4-4-2 duplo 6,Pedro Moreira,1726,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109404
+19,seg 29/01/2024,17:45,Sporting,Casa Pia,5-4-1 plano,Pedro Moreira,32869,8:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109527
+20,seg 05/02/2024,17:15,Casa Pia,Boavista,4-4-2,Pedro Moreira,1261,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109399
+21,dom 11/02/2024,12:30,Rio Ave,Casa Pia,4-2-3-1,Pedro Moreira,2682,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109450
+22,dom 18/02/2024,12:30,Casa Pia,Arouca,3-4-3 plano,Gonçalo Santos,1244,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109515
+23,sáb 24/02/2024,17:30,Vit. Guimarães,Casa Pia,3-4-3 plano,Gonçalo Santos,13689,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109489
+24,dom 03/03/2024,12:30,Casa Pia,Gil Vicente,3-4-3 plano,Gonçalo Santos,1253,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109501
+25,sex 08/03/2024,17:45,Estrela Amadora,Casa Pia,3-4-3 plano,Gonçalo Santos,1972,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109469
+26,dom 17/03/2024,15:00,Casa Pia,Benfica,3-4-3 plano,Gonçalo Santos,6925,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109445
+27,dom 31/03/2024,14:00,Vizela,Casa Pia,3-4-3 plano,Gonçalo Santos,2235,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109462
+28,seg 08/04/2024,16:15,Casa Pia,Estoril,3-4-3 plano,Gonçalo Santos,1391,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109557
+29,dom 14/04/2024,14:00,Portimonense,Casa Pia,3-4-2-1,Gonçalo Santos,1683,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109545
+30,dom 21/04/2024,14:00,Casa Pia,FC Porto,3-4-3 plano,Gonçalo Santos,3387,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109548
+31,sáb 27/04/2024,11:30,Casa Pia,Chaves,3-4-3 plano,Gonçalo Santos,1044,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109535
+32,dom 05/05/2024,14:00,Braga,Casa Pia,3-5-2,Gonçalo Santos,10894,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109576
+33,dom 12/05/2024,14:00,Casa Pia,Moreirense,4-2-3-1,Gonçalo Santos,1837,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109568
+34,sex 17/05/2024,14:45,Famalicão,Casa Pia,3-4-3 plano,Gonçalo Santos,3115,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109586

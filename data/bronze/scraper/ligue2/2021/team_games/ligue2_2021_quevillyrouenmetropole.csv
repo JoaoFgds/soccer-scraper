@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 24/07/2021,14:00,USL Dunkerque,Quevilly Rouen,4-3-3 ofensivo,Bruno Irles,1500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589626
+2,qua 18/08/2021,14:00,Quevilly Rouen,SC Bastia,4-2-3-1,Bruno Irles,895,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589639
+3,sáb 07/08/2021,14:00,Amiens SC,Quevilly Rouen,4-3-3 ofensivo,Bruno Irles,5584,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589703
+4,sáb 14/08/2021,14:00,Quevilly Rouen,Dijon,4-1-4-1,Bruno Irles,816,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589719
+5,sáb 21/08/2021,14:00,Grenoble,Quevilly Rouen,4-2-3-1,Bruno Irles,3630,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589729
+6,sáb 28/08/2021,14:00,Quevilly Rouen,Paris FC,4-1-4-1,Bruno Irles,2789,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589907
+7,sáb 11/09/2021,14:00,Valenciennes,Quevilly Rouen,4-2-3-1,Bruno Irles,5666,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589920
+8,sáb 18/09/2021,14:00,Quevilly Rouen,Auxerre,4-1-4-1,Bruno Irles,3549,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589927
+9,ter 21/09/2021,15:00,Le Havre,Quevilly Rouen,4-1-4-1,Bruno Irles,7650,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589939
+10,sex 24/09/2021,16:00,Quevilly Rouen,Guingamp,4-2-3-1,Bruno Irles,3513,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589949
+11,sáb 02/10/2021,14:00,AC Ajaccio,Quevilly Rouen,4-2-3-1,Bruno Irles,2497,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589959
+12,sáb 16/10/2021,14:00,Quevilly Rouen,Chamois Niort,4-3-3 ofensivo,Bruno Irles,3300,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589975
+13,sáb 23/10/2021,14:00,FC Sochaux,Quevilly Rouen,4-2-3-1,Bruno Irles,9081,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589990
+14,sáb 30/10/2021,14:00,Rodez AF,Quevilly Rouen,4-1-4-1,Bruno Irles,1521,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589998
+15,sáb 06/11/2021,15:00,Quevilly Rouen,Toulouse,4-4-1-1,Bruno Irles,4079,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590009
+16,sáb 20/11/2021,15:00,Nîmes Olympique,Quevilly Rouen,4-2-3-1,Bruno Irles,1203,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590017
+17,sex 03/12/2021,17:00,Quevilly Rouen,AS Nancy,4-3-2-1,Bruno Irles,2912,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590028
+18,sáb 11/12/2021,15:00,Pau FC,Quevilly Rouen,4-3-2-1,Bruno Irles,2171,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590038
+19,ter 21/12/2021,16:45,Quevilly Rouen,SM Caen,4-3-2-1,Bruno Irles,5058,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590048
+20,sáb 08/01/2022,15:00,SC Bastia,Quevilly Rouen,4-2-3-1,Fabien Mercadal,5000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590052
+21,qua 26/01/2022,15:00,Quevilly Rouen,Amiens SC,5-4-1 plano,Fabien Mercadal,2200,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590123
+22,sáb 22/01/2022,15:00,Dijon,Quevilly Rouen,4-2-3-1,Fabien Mercadal,3093,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590138
+23,sáb 05/02/2022,15:00,Quevilly Rouen,Grenoble,5-4-1 plano,Fabien Mercadal,2400,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590161
+24,sáb 12/02/2022,15:00,Paris FC,Quevilly Rouen,5-4-1 plano,Fabien Mercadal,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590173
+25,sáb 19/02/2022,15:00,Quevilly Rouen,Valenciennes,3-4-3 plano,Fabien Mercadal,2777,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590181
+26,sáb 26/02/2022,15:00,Auxerre,Quevilly Rouen,3-4-3 plano,Fabien Mercadal,5214,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590187
+27,sáb 05/03/2022,15:00,Quevilly Rouen,Le Havre,3-4-3 plano,Fabien Mercadal,5200,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590201
+28,sáb 12/03/2022,15:00,Guingamp,Quevilly Rouen,3-4-3 plano,Fabien Mercadal,7794,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590211
+29,ter 15/03/2022,15:00,Quevilly Rouen,AC Ajaccio,5-4-1 plano,Fabien Mercadal,2689,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590221
+30,sáb 19/03/2022,15:00,Chamois Niort,Quevilly Rouen,3-4-3 plano,Fabien Mercadal,1800,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590232
+31,sáb 02/04/2022,14:00,Quevilly Rouen,FC Sochaux,4-4-2 duplo 6,Fabien Mercadal,2000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590241
+32,sáb 09/04/2022,14:00,Quevilly Rouen,Rodez AF,5-3-2,Fabien Mercadal,4568,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590253
+33,sáb 16/04/2022,10:00,Toulouse,Quevilly Rouen,3-4-1-2,Fabien Mercadal,12348,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590263
+34,ter 19/04/2022,15:00,Quevilly Rouen,Nîmes Olympique,3-4-1-2,Fabien Mercadal,3334,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590272
+35,sex 22/04/2022,16:00,AS Nancy,Quevilly Rouen,3-4-3 plano,Fabien Mercadal,,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590280
+36,sáb 30/04/2022,14:00,Quevilly Rouen,Pau FC,4-5-1 plano,Fabien Mercadal,3708,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590292
+37,sáb 07/05/2022,14:00,SM Caen,Quevilly Rouen,3-4-1-2,Fabien Mercadal,18003,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590297
+38,sáb 14/05/2022,14:00,Quevilly Rouen,USL Dunkerque,4-3-3 ofensivo,Fabien Mercadal,4078,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590312

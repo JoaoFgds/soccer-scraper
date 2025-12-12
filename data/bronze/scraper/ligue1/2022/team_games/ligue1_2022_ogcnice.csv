@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 07/08/2022,08:00,Toulouse,Nice,4-3-3 ofensivo,Lucien Favre,20567,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839737
+2,dom 14/08/2022,12:05,Nice,Strasbourg,4-2-3-1,Lucien Favre,24707,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839779
+3,dom 21/08/2022,10:00,Clermont Foot,Nice,4-1-4-1,Lucien Favre,11500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839818
+4,dom 28/08/2022,10:00,Nice,Marselha,4-2-3-1,Lucien Favre,31418,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839844
+5,qua 31/08/2022,16:00,Lille,Nice,3-5-2 plano,Lucien Favre,30254,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839865
+6,dom 04/09/2022,15:45,Nice,Monaco,3-4-3 plano,Lucien Favre,24125,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840012
+7,dom 11/09/2022,10:00,AC Ajaccio,Nice,4-4-2 duplo 6,Lucien Favre,7068,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840017
+8,dom 18/09/2022,10:00,Nice,Angers,4-4-2 duplo 6,Lucien Favre,18545,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840032
+9,sáb 01/10/2022,16:00,PSG,Nice,5-4-1 plano,Lucien Favre,47000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840044
+10,dom 09/10/2022,10:00,Nice,Troyes,3-4-3 plano,Lucien Favre,18053,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840053
+11,dom 16/10/2022,10:00,Auxerre,Nice,3-5-2,Lucien Favre,14125,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840059
+12,dom 23/10/2022,12:05,Nice,Nantes,3-4-3 plano,Lucien Favre,20166,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840074
+13,dom 30/10/2022,13:05,FC Lorient,Nice,4-4-2 duplo 6,Lucien Favre,16034,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840081
+14,dom 06/11/2022,11:00,Nice,Brest,4-4-2,Lucien Favre,19035,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840094
+15,sex 11/11/2022,17:00,Lyon,Nice,4-4-2,Lucien Favre,57000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840103
+16,qui 29/12/2022,17:00,Nice,Lens,3-4-3 plano,Lucien Favre,24672,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840113
+17,seg 02/01/2023,17:00,Rennes,Nice,5-4-1 plano,Lucien Favre,27427,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840127
+18,qua 11/01/2023,17:00,Nice,Montpellier,4-2-3-1,Didier Digard,17500,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840134
+19,dom 15/01/2023,11:00,Reims,Nice,4-2-3-1,Didier Digard,11383,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840147
+20,dom 29/01/2023,09:00,Nice,Lille,4-3-3 ofensivo,Didier Digard,22126,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840153
+21,qua 01/02/2023,17:00,Lens,Nice,5-4-1 plano,Didier Digard,37437,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840165
+22,dom 05/02/2023,16:45,Marselha,Nice,4-3-3 ofensivo,Didier Digard,65234,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840173
+23,sex 10/02/2023,17:00,Nice,AC Ajaccio,4-3-3 ofensivo,Didier Digard,20163,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840185
+24,sáb 18/02/2023,13:00,Nice,Reims,4-3-3 ofensivo,Didier Digard,18102,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840191
+25,dom 26/02/2023,13:05,Monaco,Nice,5-3-2,Didier Digard,9000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840200
+26,sex 03/03/2023,17:00,Nice,Auxerre,4-3-3 ofensivo,Didier Digard,21133,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840210
+27,dom 12/03/2023,11:00,Nantes,Nice,3-4-2-1,Didier Digard,33568,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840225
+28,dom 19/03/2023,11:00,Nice,FC Lorient,3-4-1-2,Didier Digard,20762,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840231
+29,dom 02/04/2023,10:00,Angers,Nice,4-3-3 ofensivo,Didier Digard,6649,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840248
+30,sáb 08/04/2023,16:00,Nice,PSG,5-4-1 plano,Didier Digard,34456,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840261
+31,dom 16/04/2023,10:00,Brest,Nice,3-4-1-2,Didier Digard,12615,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840273
+32,dom 23/04/2023,10:00,Nice,Clermont Foot,4-3-3 ofensivo,Didier Digard,20578,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840282
+33,dom 30/04/2023,10:00,Troyes,Nice,4-3-3 ofensivo,Didier Digard,8399,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840295
+34,sáb 06/05/2023,12:00,Nice,Rennes,4-3-3 ofensivo,Didier Digard,22601,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840410
+35,sáb 13/05/2023,12:00,Strasbourg,Nice,4-3-3 ofensivo,Didier Digard,25147,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840421
+36,dom 21/05/2023,10:00,Nice,Toulouse,4-3-3 ofensivo,Didier Digard,20041,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840430
+37,sáb 27/05/2023,16:00,Montpellier,Nice,4-3-3 ofensivo,Didier Digard,16340,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840438
+38,sáb 03/06/2023,16:00,Nice,Lyon,3-4-3 plano,Didier Digard,25243,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840450

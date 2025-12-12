@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 18/08/2019,13:00,Union Berlim,Leipzig,3-4-3 plano,Julian Nagelsmann,22012,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203432
+2,dom 25/08/2019,10:30,Leipzig,Frankfurt,3-5-2 ofensivo,Julian Nagelsmann,40108,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203442
+3,sex 30/08/2019,15:30,M'gladbach,Leipzig,4-4-2,Julian Nagelsmann,47227,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203453
+4,sáb 14/09/2019,13:30,Leipzig,Bayern,3-1-4-2,Julian Nagelsmann,41939,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203461
+5,sáb 21/09/2019,13:30,Werder Bremen,Leipzig,3-1-4-2,Julian Nagelsmann,40550,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203474
+6,sáb 28/09/2019,10:30,Leipzig,Schalke,4-4-2 duplo 6,Julian Nagelsmann,42146,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203479
+7,sáb 05/10/2019,10:30,Leverkusen,Leipzig,4-4-2 duplo 6,Julian Nagelsmann,26355,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203488
+8,sáb 19/10/2019,10:30,Leipzig,Wolfsburg,4-4-2 duplo 6,Julian Nagelsmann,39182,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203497
+9,sáb 26/10/2019,10:30,Freiburg,Leipzig,3-5-2 plano,Julian Nagelsmann,24000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203511
+10,sáb 02/11/2019,11:30,Leipzig,Mainz,4-4-2 duplo 6,Julian Nagelsmann,38517,8:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203515
+11,sáb 09/11/2019,11:30,Hertha Berlim,Leipzig,4-4-2 duplo 6,Julian Nagelsmann,48532,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203526
+12,sáb 23/11/2019,14:30,Leipzig,Colônia,4-2-3-1,Julian Nagelsmann,42036,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203533
+13,sáb 30/11/2019,11:30,Paderborn,Leipzig,4-4-2 duplo 6,Julian Nagelsmann,13253,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203549
+14,sáb 07/12/2019,11:30,Leipzig,Hoffenheim,4-4-2 duplo 6,Julian Nagelsmann,38407,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203551
+15,sáb 14/12/2019,14:30,Düsseldorf,Leipzig,4-4-2 duplo 6,Julian Nagelsmann,35387,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203562
+16,ter 17/12/2019,16:30,Dortmund,Leipzig,4-3-1-2,Julian Nagelsmann,80200,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203568
+17,sáb 21/12/2019,11:30,Leipzig,Augsburg,3-4-2-1,Julian Nagelsmann,40562,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203578
+18,sáb 18/01/2020,14:30,Leipzig,Union Berlim,4-2-3-1,Julian Nagelsmann,42146,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203586
+19,sáb 25/01/2020,11:30,Frankfurt,Leipzig,3-4-2-1,Julian Nagelsmann,50300,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203600
+20,sáb 01/02/2020,14:30,Leipzig,M'gladbach,4-2-3-1,Julian Nagelsmann,42146,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203605
+21,dom 09/02/2020,14:00,Bayern,Leipzig,5-4-1 plano,Julian Nagelsmann,75000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203613
+22,sáb 15/02/2020,11:30,Leipzig,Werder Bremen,3-5-2 ofensivo,Julian Nagelsmann,41308,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203623
+23,sáb 22/02/2020,14:30,Schalke,Leipzig,3-5-2 ofensivo,Julian Nagelsmann,61433,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203639
+24,dom 01/03/2020,11:30,Leipzig,Leverkusen,3-1-4-2,Julian Nagelsmann,41216,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203641
+25,sáb 07/03/2020,11:30,Wolfsburg,Leipzig,3-1-4-2,Julian Nagelsmann,27195,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203652
+26,sáb 16/05/2020,10:30,Leipzig,Freiburg,3-5-2 plano,Julian Nagelsmann,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203659
+27,dom 24/05/2020,10:30,Mainz,Leipzig,4-4-2 duplo 6,Julian Nagelsmann,x,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203671
+28,qua 27/05/2020,13:30,Leipzig,Hertha Berlim,4-4-2 duplo 6,Julian Nagelsmann,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203677
+29,seg 01/06/2020,15:30,Colônia,Leipzig,4-4-2 duplo 6,Julian Nagelsmann,x,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203692
+30,sáb 06/06/2020,10:30,Leipzig,Paderborn,4-4-2 duplo 6,Julian Nagelsmann,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203695
+31,sex 12/06/2020,15:30,Hoffenheim,Leipzig,4-3-1-2,Julian Nagelsmann,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203705
+32,qua 17/06/2020,15:30,Leipzig,Düsseldorf,4-3-1-2,Julian Nagelsmann,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203713
+33,sáb 20/06/2020,10:30,Leipzig,Dortmund,3-1-4-2,Julian Nagelsmann,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203722
+34,sáb 27/06/2020,10:30,Augsburg,Leipzig,3-4-2-1,Julian Nagelsmann,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203737

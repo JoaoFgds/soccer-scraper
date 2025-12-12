@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 31/07/1998,14:00,Fortuna Köln,Düsseldorf,?,Klaus Allofs,11200,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942690
+2,dom 09/08/1998,10:00,Düsseldorf,FC Gütersloh,?,Klaus Allofs,11000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942705
+3,qui 13/08/1998,14:00,Düsseldorf,KFC Uerdingen,?,Klaus Allofs,11000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942714
+4,dom 16/08/1998,10:00,Stuttg. Kickers,Düsseldorf,?,Klaus Allofs,4338,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942720
+5,qua 09/09/1998,14:00,Düsseldorf,TeBe Berlin,?,Klaus Allofs,7000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942733
+6,dom 13/09/1998,10:00,Greuther Fürth,Düsseldorf,?,Klaus Allofs,6000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942737
+7,sáb 19/09/1998,10:30,Düsseldorf,Wattenscheid 09,?,Klaus Allofs,7000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942745
+8,sex 25/09/1998,14:00,Karlsruher,Düsseldorf,?,Klaus Allofs,16200,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942752
+9,sex 02/10/1998,14:00,Düsseldorf,Arm. Bielefeld,3-5-2,Klaus Allofs,8500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942764
+10,seg 19/10/1998,15:30,Colônia,Düsseldorf,3-5-2,Klaus Allofs,15000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942778
+11,dom 25/10/1998,12:00,Düsseldorf,Unterhaching,3-5-2,Klaus Allofs,6700,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942922
+12,dom 01/11/1998,12:00,Hannover,Düsseldorf,?,Klaus Allofs,9439,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942932
+13,dom 08/11/1998,12:00,Düsseldorf,SSV Ulm 1846,?,Klaus Allofs,8000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942939
+14,sex 13/11/1998,16:00,Mainz,Düsseldorf,?,Klaus Allofs,5740,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942944
+15,sex 20/11/1998,16:00,Düsseldorf,St. Pauli,?,Klaus Allofs,6000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942956
+16,sex 27/11/1998,16:00,Energ. Cottbus,Düsseldorf,?,Klaus Allofs,4371,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942961
+17,dom 06/12/1998,12:00,Düsseldorf,RW Oberhausen,?,Klaus Allofs,8000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942976
+18,sex 11/12/1998,16:00,Düsseldorf,Fortuna Köln,?,Klaus Allofs,5900,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/950615
+19,dom 20/12/1998,12:00,FC Gütersloh,Düsseldorf,?,Klaus Allofs,7000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/952161
+20,dom 28/02/1999,11:00,KFC Uerdingen,Düsseldorf,?,Klaus Allofs,8540,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/952169
+21,dom 07/03/1999,11:00,Düsseldorf,Stuttg. Kickers,?,Klaus Allofs,11000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/952469
+22,dom 14/03/1999,11:00,TeBe Berlin,Düsseldorf,?,Klaus Allofs,4118,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/952478
+23,dom 21/03/1999,11:00,Düsseldorf,Greuther Fürth,?,Klaus Allofs,12000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/952486
+24,dom 04/04/1999,10:00,Wattenscheid 09,Düsseldorf,?,Klaus Allofs,4364,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/952496
+25,seg 12/04/1999,15:15,Düsseldorf,Karlsruher,?,Klaus Allofs,5000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/952507
+26,sex 16/04/1999,14:00,Arm. Bielefeld,Düsseldorf,3-5-2,Klaus Allofs,12526,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/952510
+27,sex 23/04/1999,14:00,Düsseldorf,Colônia,?,Peter Neururer,18000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/952699
+28,dom 02/05/1999,10:00,Unterhaching,Düsseldorf,?,Peter Neururer,4100,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/952715
+29,sex 07/05/1999,14:00,Düsseldorf,Hannover,?,Peter Neururer,8000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/952719
+30,sex 14/05/1999,14:00,SSV Ulm 1846,Düsseldorf,?,Peter Neururer,10300,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/952729
+31,dom 23/05/1999,10:00,Düsseldorf,Mainz,?,Peter Neururer,6000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/952740
+32,sex 28/05/1999,14:00,St. Pauli,Düsseldorf,?,Peter Neururer,13476,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/952748
+33,dom 13/06/1999,10:00,Düsseldorf,Energ. Cottbus,?,Peter Neururer,12000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/952755
+34,qui 17/06/1999,14:00,RW Oberhausen,Düsseldorf,?,Peter Neururer,3866,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/952769

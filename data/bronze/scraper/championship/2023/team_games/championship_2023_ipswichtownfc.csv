@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 06/08/2023,13:00,AFC Sunderland,Ipswich,4-2-3-1,Kieran McKenna,44406,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4101217
+2,sáb 12/08/2023,11:00,Ipswich,Stoke,4-2-3-1,Kieran McKenna,29006,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108318
+3,sáb 19/08/2023,11:00,QPR,Ipswich,4-2-3-1,Kieran McKenna,16790,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108332
+4,sáb 26/08/2023,11:00,Ipswich,Leeds,4-2-3-1,Kieran McKenna,29606,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108402
+5,sáb 02/09/2023,11:00,Ipswich,Cardiff,4-2-3-1,Kieran McKenna,28011,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108278
+6,sáb 16/09/2023,11:00,Sheff Wed,Ipswich,4-2-3-1,Kieran McKenna,25938,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108370
+7,ter 19/09/2023,15:45,Southampton,Ipswich,4-2-3-1,Kieran McKenna,27265,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108197
+8,sáb 23/09/2023,11:00,Ipswich,Blackburn,4-2-3-1,Kieran McKenna,28792,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108339
+9,sáb 30/09/2023,11:00,Huddersfield,Ipswich,4-2-3-1,Kieran McKenna,20000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108436
+10,ter 03/10/2023,15:45,Ipswich,Hull City,4-2-3-1,Kieran McKenna,27070,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108241
+11,sáb 07/10/2023,11:00,Ipswich,Preston NE,4-2-3-1,Kieran McKenna,29018,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108219
+12,ter 07/11/2023,17:00,Rotherham,Ipswich,4-2-3-1,Kieran McKenna,10800,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108392
+13,qua 25/10/2023,15:45,Bristol City,Ipswich,4-2-3-1,Kieran McKenna,22784,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108416
+14,sáb 28/10/2023,11:00,Ipswich,Plymouth Argyle,4-2-3-1,Kieran McKenna,29027,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108425
+15,sáb 04/11/2023,12:00,Birmingham,Ipswich,4-2-3-1,Kieran McKenna,20940,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108445
+16,sáb 11/11/2023,12:00,Ipswich,Swansea,4-2-3-1,Kieran McKenna,28925,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108725
+17,sáb 25/11/2023,14:30,West Brom,Ipswich,4-2-3-1,Kieran McKenna,24001,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108556
+18,qua 29/11/2023,17:00,Ipswich,Millwall,4-2-3-1,Kieran McKenna,27702,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108528
+19,sáb 02/12/2023,12:00,Ipswich,Coventry City,4-2-3-1,Kieran McKenna,29378,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108536
+20,sáb 09/12/2023,12:00,Middlesbrough,Ipswich,4-2-3-1,Kieran McKenna,27960,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108462
+21,ter 12/12/2023,16:45,Watford,Ipswich,4-2-3-1,Kieran McKenna,18109,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108474
+22,sáb 16/12/2023,09:30,Ipswich,Norwich,4-2-3-1,Kieran McKenna,29611,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108512
+23,sáb 23/12/2023,09:30,Leeds,Ipswich,4-2-3-1,Kieran McKenna,36758,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108487
+24,ter 26/12/2023,16:45,Ipswich,Leicester,4-2-3-1,Kieran McKenna,29410,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108502
+25,sex 29/12/2023,16:45,Ipswich,QPR,4-2-3-1,Kieran McKenna,29100,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108574
+26,seg 01/01/2024,12:00,Stoke,Ipswich,4-2-3-1,Kieran McKenna,23121,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108298
+27,sáb 13/01/2024,14:30,Ipswich,AFC Sunderland,4-2-3-1,Kieran McKenna,29291,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108599
+28,seg 22/01/2024,17:00,Leicester,Ipswich,4-2-3-1,Kieran McKenna,31794,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108207
+29,ter 20/02/2024,16:45,Ipswich,Rotherham,4-2-3-1,Kieran McKenna,28026,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108352
+30,sáb 03/02/2024,12:00,Preston NE,Ipswich,4-2-3-1,Kieran McKenna,17313,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108307
+31,sáb 10/02/2024,09:30,Ipswich,West Brom,4-2-3-1,Kieran McKenna,29016,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108633
+32,qua 14/02/2024,17:00,Millwall,Ipswich,4-2-3-1,Kieran McKenna,15890,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108624
+33,sáb 17/02/2024,12:00,Swansea,Ipswich,4-2-3-1,Kieran McKenna,16647,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108262
+34,sáb 24/02/2024,12:00,Ipswich,Birmingham,4-2-3-1,Kieran McKenna,29363,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108561
+35,sáb 02/03/2024,12:00,Plymouth Argyle,Ipswich,4-2-3-1,Kieran McKenna,16871,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108587
+36,ter 05/03/2024,17:00,Ipswich,Bristol City,4-2-3-1,Kieran McKenna,28001,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108667
+37,sáb 09/03/2024,09:30,Cardiff,Ipswich,4-2-3-1,Kieran McKenna,21771,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108607
+38,sáb 16/03/2024,12:00,Ipswich,Sheff Wed,4-2-3-1,Kieran McKenna,29325,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108266
+39,sex 29/03/2024,14:30,Blackburn,Ipswich,4-2-3-1,Kieran McKenna,18235,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108643
+40,seg 01/04/2024,13:30,Ipswich,Southampton,4-2-3-1,Kieran McKenna,29393,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108375
+41,sáb 06/04/2024,08:30,Norwich,Ipswich,4-2-3-1,Kieran McKenna,27001,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108704
+42,qua 10/04/2024,15:45,Ipswich,Watford,4-2-3-1,Kieran McKenna,28589,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108712
+43,sáb 13/04/2024,11:00,Ipswich,Middlesbrough,4-2-3-1,Kieran McKenna,28771,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108231
+44,ter 30/04/2024,16:00,Coventry City,Ipswich,4-2-3-1,Kieran McKenna,26457,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108653
+45,sáb 27/04/2024,16:00,Hull City,Ipswich,4-2-3-1,Kieran McKenna,24298,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108673
+46,sáb 04/05/2024,08:30,Ipswich,Huddersfield,4-2-3-1,Kieran McKenna,29011,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108659

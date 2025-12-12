@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 10/05/2009,11:00,Corinthians,Internacional,4-4-2,Tite,14458,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939072
+2,dom 17/05/2009,11:00,Internacional,Palmeiras,4-4-2,Tite,29735,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939084
+3,sáb 23/05/2009,13:30,Goiás,Internacional,4-4-2,Tite,6918,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939091
+4,dom 31/05/2009,13:30,Internacional,Avaí,4-4-2,Tite,13023,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939108
+5,dom 07/06/2009,13:30,Cruzeiro,Internacional,4-4-2,Tite,16687,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939116
+6,dom 14/06/2009,13:30,Internacional,Vitória,4-4-2,Tite,17302,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939121
+7,dom 21/06/2009,13:30,Flamengo,Internacional,4-4-2,Tite,15864,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939136
+8,dom 28/06/2009,13:30,Internacional,Coritiba,3-5-2,Tite,9763,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939145
+9,dom 05/07/2009,13:30,Náutico,Internacional,4-4-2,Tite,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939158
+10,dom 12/07/2009,11:00,Atlético-PR,Internacional,4-4-2,Tite,,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939163
+11,qua 15/07/2009,16:50,Internacional,Fluminense,3-5-2,Tite,6346,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939173
+12,dom 19/07/2009,11:00,Grêmio,Internacional,4-4-2,Tite,36046,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939183
+13,qua 22/07/2009,16:50,Internacional,São Paulo,4-4-2,Tite,16974,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939193
+14,sáb 25/07/2009,13:30,Botafogo,Internacional,4-4-2,Tite,8523,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939201
+15,qua 29/07/2009,16:00,Internacional,Barueri,4-4-2,Tite,12495,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939211
+16,qua 26/08/2009,16:00,Santos,Internacional,4-4-2,Tite,7876,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939221
+17,qua 02/09/2009,16:00,Internacional,Atlético-MG,3-5-2,Tite,17127,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939238
+18,seg 10/08/2009,16:00,Internacional,Sport,4-4-2,Tite,16650,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939246
+19,sáb 15/08/2009,13:30,Santo André,Internacional,4-4-2,Tite,2725,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939251
+20,qua 19/08/2009,16:50,Internacional,Corinthians,4-4-2,Tite,20328,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/965896
+21,sáb 22/08/2009,13:30,Palmeiras,Internacional,4-4-2,Tite,22101,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/965901
+22,dom 30/08/2009,13:30,Internacional,Goiás,3-5-2,Tite,29820,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/965911
+23,dom 06/09/2009,13:30,Avaí,Internacional,4-4-2,Tite,14520,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/971306
+24,dom 13/09/2009,11:00,Internacional,Cruzeiro,4-4-2,Tite,38350,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/971368
+25,sáb 19/09/2009,13:30,Vitória,Internacional,4-4-2,Tite,19033,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/971375
+26,dom 27/09/2009,11:00,Internacional,Flamengo,4-4-2,Tite,10447,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/971659
+27,dom 04/10/2009,13:30,Coritiba,Internacional,4-4-2,Tite,21159,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/971665
+28,qua 07/10/2009,16:50,Internacional,Náutico,3-5-2,Mário Sérgio,10243,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/971704
+29,sáb 10/10/2009,13:30,Internacional,Atlético-PR,4-4-2,Mário Sérgio,18649,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/971711
+30,dom 18/10/2009,12:00,Fluminense,Internacional,3-5-2,Mário Sérgio,28138,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/971723
+31,dom 25/10/2009,13:00,Internacional,Grêmio,4-4-2,Mário Sérgio,36834,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/971733
+32,qua 28/10/2009,18:50,São Paulo,Internacional,4-4-2,Mário Sérgio,34203,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/971743
+33,dom 01/11/2009,13:00,Internacional,Botafogo,3-5-2,Mário Sérgio,16932,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/971751
+34,dom 08/11/2009,15:30,Barueri,Internacional,4-4-2,Mário Sérgio,2789,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/971760
+35,dom 15/11/2009,16:30,Internacional,Santos,3-5-2,Mário Sérgio,15158,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/971772
+36,dom 22/11/2009,16:30,Atlético-MG,Internacional,4-4-2,Mário Sérgio,41842,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/971786
+37,dom 29/11/2009,14:00,Sport,Internacional,4-5-1,Mário Sérgio,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/971795
+38,dom 06/12/2009,14:00,Internacional,Santo André,4-4-2,Mário Sérgio,36597,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/971802

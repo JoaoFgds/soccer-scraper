@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 13/08/2023,12:30,Chelsea,Liverpool,3-4-2-1,Mauricio Pochettino,40096,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4087932
+2,dom 20/08/2023,12:30,West Ham,Chelsea,3-4-2-1,Mauricio Pochettino,62470,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4087942
+3,sex 25/08/2023,16:00,Chelsea,Luton,3-4-2-1,Mauricio Pochettino,39893,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4087949
+4,sáb 02/09/2023,11:00,Chelsea,Nott'm Forest,3-4-2-1,Mauricio Pochettino,39820,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4087958
+5,dom 17/09/2023,10:00,Bournemouth,Chelsea,4-2-3-1,Mauricio Pochettino,10421,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4087964
+6,dom 24/09/2023,10:00,Chelsea,Aston Villa,4-2-3-1,Mauricio Pochettino,39700,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095066
+7,seg 02/10/2023,16:00,Fulham,Chelsea,4-3-3 ofensivo,Mauricio Pochettino,24445,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095139
+8,sáb 07/10/2023,11:00,FC Burnley,Chelsea,4-3-3 ofensivo,Mauricio Pochettino,21654,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095148
+9,sáb 21/10/2023,13:30,Chelsea,Arsenal,4-2-3-1,Mauricio Pochettino,39723,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095159
+10,sáb 28/10/2023,08:30,Chelsea,Brentford,4-2-3-1,Mauricio Pochettino,39575,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095170
+11,seg 06/11/2023,17:00,Tottenham,Chelsea,4-2-3-1,Mauricio Pochettino,61726,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095185
+12,dom 12/11/2023,13:30,Chelsea,Man City,4-2-3-1,Mauricio Pochettino,39532,4:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095190
+13,sáb 25/11/2023,12:00,Newcastle,Chelsea,4-2-3-1,Mauricio Pochettino,52227,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095202
+14,dom 03/12/2023,11:00,Chelsea,Brighton,4-2-3-1,Mauricio Pochettino,39647,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095210
+15,qua 06/12/2023,17:15,Man Utd,Chelsea,4-2-3-1,Mauricio Pochettino,73607,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095225
+16,dom 10/12/2023,11:00,Everton,Chelsea,4-2-3-1,Mauricio Pochettino,39280,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095229
+17,sáb 16/12/2023,12:00,Chelsea,Sheff Utd,4-2-3-1,Mauricio Pochettino,39599,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095240
+18,dom 24/12/2023,10:00,Wolves,Chelsea,4-2-3-1,Mauricio Pochettino,31641,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095255
+19,qua 27/12/2023,16:30,Chelsea,Crystal Palace,4-2-3-1,Mauricio Pochettino,39618,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095261
+20,sáb 30/12/2023,09:30,Luton,Chelsea,4-2-3-1,Mauricio Pochettino,11041,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095270
+21,sáb 13/01/2024,09:30,Chelsea,Fulham,4-2-3-1,Mauricio Pochettino,39643,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095281
+22,qua 31/01/2024,17:15,Liverpool,Chelsea,4-2-3-1,Mauricio Pochettino,57524,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095294
+23,dom 04/02/2024,11:00,Chelsea,Wolves,4-2-3-1,Mauricio Pochettino,39628,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095301
+24,seg 12/02/2024,17:00,Crystal Palace,Chelsea,4-2-3-1,Mauricio Pochettino,25110,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095311
+25,sáb 17/02/2024,14:30,Man City,Chelsea,4-2-3-1,Mauricio Pochettino,53509,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095325
+26,qui 02/05/2024,15:30,Chelsea,Tottenham,4-2-3-1,Mauricio Pochettino,39086,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095334
+27,sáb 02/03/2024,12:00,Brentford,Chelsea,3-5-2 plano,Mauricio Pochettino,17140,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095340
+28,seg 11/03/2024,17:00,Chelsea,Newcastle,4-2-3-1,Mauricio Pochettino,38752,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095354
+29,ter 23/04/2024,16:00,Arsenal,Chelsea,4-2-3-1,Mauricio Pochettino,60238,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095360
+30,sáb 30/03/2024,12:00,Chelsea,FC Burnley,4-2-3-1,Mauricio Pochettino,39535,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095373
+31,qui 04/04/2024,16:15,Chelsea,Man Utd,4-2-3-1,Mauricio Pochettino,39694,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095386
+32,dom 07/04/2024,13:30,Sheff Utd,Chelsea,4-2-3-1,Mauricio Pochettino,28638,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095397
+33,seg 15/04/2024,16:00,Chelsea,Everton,4-2-3-1,Mauricio Pochettino,39392,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095404
+34,qua 15/05/2024,15:45,Brighton,Chelsea,4-2-3-1,Mauricio Pochettino,31555,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095411
+35,sáb 27/04/2024,16:00,Aston Villa,Chelsea,4-2-3-1,Mauricio Pochettino,42354,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095421
+36,dom 05/05/2024,10:00,Chelsea,West Ham,4-2-3-1,Mauricio Pochettino,39295,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095434
+37,sáb 11/05/2024,13:30,Nott'm Forest,Chelsea,4-2-3-1,Mauricio Pochettino,29708,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095447
+38,dom 19/05/2024,12:00,Chelsea,Bournemouth,4-2-3-1,Mauricio Pochettino,39724,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095456

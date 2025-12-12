@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 10/08/2024,16:30,FC Porto,Gil Vicente,4-4-2 duplo 6,Carlos Cunha,46813,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396642
+2,sex 16/08/2024,16:15,Gil Vicente,AVS,4-1-4-1,Bruno Pinheiro,3649,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396779
+3,dom 25/08/2024,14:00,Estoril,Gil Vicente,4-1-4-1,Bruno Pinheiro,2010,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396764
+4,dom 01/09/2024,16:30,Gil Vicente,Braga,4-1-4-1,Bruno Pinheiro,7140,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396710
+5,sáb 14/09/2024,16:30,Famalicão,Gil Vicente,4-3-3 ofensivo,Bruno Pinheiro,4112,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396654
+6,dom 22/09/2024,11:30,Gil Vicente,Casa Pia,4-3-3 ofensivo,Bruno Pinheiro,3825,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396768
+7,sáb 28/09/2024,16:30,Benfica,Gil Vicente,4-1-4-1,Bruno Pinheiro,58965,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396757
+8,sáb 05/10/2024,11:30,Gil Vicente,Estrela Amadora,4-1-4-1,Bruno Pinheiro,2709,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396670
+9,sex 25/10/2024,16:45,Santa Clara,Gil Vicente,4-1-4-1,Bruno Pinheiro,1676,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396661
+10,sáb 02/11/2024,17:30,Gil Vicente,Boavista,4-1-4-1,Bruno Pinheiro,4221,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396737
+11,sex 08/11/2024,17:15,Moreirense,Gil Vicente,4-1-4-1,Bruno Pinheiro,1316,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396689
+12,seg 02/12/2024,15:45,Vit. Guimarães,Gil Vicente,4-1-4-1,Bruno Pinheiro,11317,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396684
+13,sáb 07/12/2024,12:30,Gil Vicente,Nacional,4-1-4-1,Bruno Pinheiro,2643,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396728
+14,sáb 14/12/2024,12:30,Farense,Gil Vicente,4-1-4-1,Bruno Pinheiro,4761,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396821
+15,dom 22/12/2024,17:30,Gil Vicente,Sporting,4-1-4-1,Bruno Pinheiro,9794,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396839
+16,sex 27/12/2024,17:15,Arouca,Gil Vicente,4-3-3 ofensivo,Bruno Pinheiro,1743,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396810
+17,seg 06/01/2025,17:15,Gil Vicente,Rio Ave,4-3-3 ofensivo,Bruno Pinheiro,3348,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396890
+18,dom 19/01/2025,17:30,Gil Vicente,FC Porto,4-1-4-1,Bruno Pinheiro,7412,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396823
+19,seg 27/01/2025,17:15,AVS,Gil Vicente,4-2-3-1,Bruno Pinheiro,726,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396788
+20,sáb 01/02/2025,15:00,Gil Vicente,Estoril,4-1-4-1,Bruno Pinheiro,3949,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396700
+21,dom 09/02/2025,15:00,Braga,Gil Vicente,4-1-4-1,Bruno Pinheiro,12304,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396863
+22,seg 17/02/2025,17:15,Gil Vicente,Famalicão,4-1-4-1,Bruno Pinheiro,4490,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396717
+23,sáb 22/02/2025,12:30,Casa Pia,Gil Vicente,4-3-3 ofensivo,José Pedro,1135,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396903
+24,sex 28/03/2025,17:15,Gil Vicente,Benfica,4-1-4-1,César Peixoto,11010,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396901
+25,sex 07/03/2025,17:15,Estrela Amadora,Gil Vicente,4-3-3 ofensivo,César Peixoto,1945,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396742
+26,sáb 15/03/2025,12:30,Gil Vicente,Santa Clara,4-1-4-1,César Peixoto,4248,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396842
+27,ter 01/04/2025,16:15,Boavista,Gil Vicente,4-2-3-1,César Peixoto,4731,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396799
+28,dom 06/04/2025,11:30,Gil Vicente,Moreirense,4-2-3-1,César Peixoto,5981,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396850
+29,sex 11/04/2025,16:15,Gil Vicente,Vit. Guimarães,4-2-3-1,César Peixoto,6588,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396928
+30,sáb 19/04/2025,11:30,Nacional,Gil Vicente,4-2-3-1,César Peixoto,2998,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396917
+31,sáb 26/04/2025,14:00,Gil Vicente,Farense,4-2-3-1,César Peixoto,5611,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396882
+32,dom 04/05/2025,16:30,Sporting,Gil Vicente,4-2-3-1,César Peixoto,44666,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396875
+33,sáb 10/05/2025,16:30,Gil Vicente,Arouca,4-2-3-1,César Peixoto,6819,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396945
+34,sex 16/05/2025,15:00,Rio Ave,Gil Vicente,4-2-3-1,César Peixoto,909,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396937

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 22/08/1999,14:00,Farense,Leiria,?,João Alves,3000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854865
+2,sex 27/08/1999,17:00,Vit. Guimarães,Farense,5-4-1 plano,João Alves,5000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854870
+3,dom 12/09/1999,16:15,Farense,Sporting,3-1-4-2,João Alves,7000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854881
+4,dom 19/09/1999,12:00,Marítimo,Farense,4-4-2,João Alves,2500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854892
+5,sex 24/09/1999,19:00,Farense,Benfica,5-4-1 plano,João Alves,8000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854899
+6,sáb 02/10/1999,12:00,Salgueiros,Farense,5-3-2,João Alves,4000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854909
+7,dom 17/10/1999,13:00,Farense,Santa Clara,4-3-1-2,João Alves,1000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854922
+8,qui 21/10/1999,20:00,Vitória FC,Farense,?,João Alves,2500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854924
+9,sáb 30/10/1999,20:00,Rio Ave,Farense,?,João Alves,2000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854940
+10,dom 07/11/1999,14:00,Farense,CF Estrela,4-3-1-2,João Alves,3000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854944
+11,sáb 20/11/1999,21:00,Gil Vicente,Farense,?,João Alves,2000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854957
+12,dom 28/11/1999,21:00,Farense,Boavista,?,João Alves,1000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854968
+13,sex 03/12/1999,21:00,Alverca,Farense,?,João Alves,1000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854971
+14,sáb 11/12/1999,21:00,Farense,Braga,?,Nicolau Vaqueiro,3000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854981
+15,seg 20/12/1999,19:00,FC Porto,Farense,4-3-3 ofensivo,Nicolau Vaqueiro,15000,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854995
+16,sáb 08/01/2000,13:00,Farense,Campomaiorense,4-3-3 ofensivo,Nicolau Vaqueiro,3000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854998
+17,dom 16/01/2000,13:00,Belenenses,Farense,5-3-2,Portela,2500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855007
+18,sáb 22/01/2000,21:00,Leiria,Farense,4-3-3 ofensivo,Portela,9000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855022
+19,sáb 29/01/2000,16:00,Farense,Vit. Guimarães,4-3-3 ofensivo,Portela,3000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855024
+20,dom 06/02/2000,14:00,Sporting,Farense,4-3-3 ofensivo,Ismael Díaz,35000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855036
+21,sáb 12/02/2000,21:00,Farense,Marítimo,4-3-3 ofensivo,Ismael Díaz,3500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855045
+22,dom 20/02/2000,14:00,Benfica,Farense,4-2-3-1,Ismael Díaz,60000,6:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855051
+23,dom 27/02/2000,13:00,Farense,Salgueiros,4-3-3 ofensivo,Ismael Díaz,3500,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855064
+24,sex 03/03/2000,20:00,Santa Clara,Farense,?,Ismael Díaz,2000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855071
+25,dom 12/03/2000,13:00,Farense,Vitória FC,4-3-3 ofensivo,Ismael Díaz,4000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855082
+26,dom 19/03/2000,13:00,Farense,Rio Ave,4-3-3 ofensivo,Ismael Díaz,2000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855090
+27,dom 26/03/2000,11:00,CF Estrela,Farense,4-3-3 ofensivo,Ismael Díaz,1000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855101
+28,seg 03/04/2000,16:30,Farense,Gil Vicente,4-3-3 ofensivo,Ismael Díaz,2000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855112
+29,seg 10/04/2000,16:30,Boavista,Farense,4-3-3 ofensivo,Ismael Díaz,5000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855121
+30,sex 14/04/2000,17:00,Farense,Alverca,4-3-3 ofensivo,Ismael Díaz,3000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855122
+31,sáb 22/04/2000,12:00,Braga,Farense,4-3-3 ofensivo,Ismael Díaz,3000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855134
+32,sáb 29/04/2000,15:00,Farense,FC Porto,4-2-3-1,Ismael Díaz,3000,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855141
+33,dom 07/05/2000,12:00,Campomaiorense,Farense,4-4-2,Ismael Díaz,3000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855155
+34,dom 14/05/2000,15:00,Farense,Belenenses,4-3-3 ofensivo,Ismael Díaz,6000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855163

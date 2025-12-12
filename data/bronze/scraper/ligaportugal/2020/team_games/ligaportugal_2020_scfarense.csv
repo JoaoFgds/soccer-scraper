@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 20/09/2020,14:30,Moreirense,Farense,4-2-3-1,Sérgio Vieira,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431979
+2,dom 27/09/2020,11:30,Farense,Nacional,4-2-3-1,Sérgio Vieira,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432017
+3,dom 04/10/2020,14:30,Benfica,Farense,4-1-4-1,Sérgio Vieira,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431985
+4,dom 18/10/2020,13:30,Farense,Famalicão,4-1-4-1,Sérgio Vieira,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432005
+5,dom 25/10/2020,12:00,Farense,Rio Ave,4-2-3-1,Sérgio Vieira,860,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432086
+6,sáb 31/10/2020,12:30,B SAD,Farense,4-2-3-1,Sérgio Vieira,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431980
+7,dom 08/11/2020,12:00,Farense,Boavista,4-2-3-1,Sérgio Vieira,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432078
+8,dom 29/11/2020,17:00,Braga,Farense,4-2-3-1,Sérgio Vieira,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432052
+9,seg 07/12/2020,17:15,Farense,Marítimo,4-2-3-1,Sérgio Vieira,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432158
+10,sáb 19/12/2020,17:30,Sporting,Farense,4-2-3-1,Sérgio Vieira,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432228
+11,dom 27/12/2020,14:30,Farense,Paços Ferreira,4-5-1,Sérgio Vieira,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432187
+12,seg 04/01/2021,18:15,Portimonense,Farense,4-2-3-1,Sérgio Vieira,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432185
+13,dom 10/01/2021,12:00,Farense,Gil Vicente,4-2-3-1,Sérgio Vieira,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432212
+14,qua 17/02/2021,18:45,Vit. Guimarães,Farense,4-2-3-1,Jorge Costa,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432114
+15,seg 25/01/2021,17:15,Farense,FC Porto,4-2-3-1,Sérgio Vieira,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432236
+16,sáb 30/01/2021,15:00,CD Tondela,Farense,3-4-3 plano,Sérgio Vieira,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432254
+17,qui 04/02/2021,12:00,Farense,Santa Clara,4-2-3-1,Jorge Costa,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432122
+18,seg 08/02/2021,14:00,Farense,Moreirense,4-2-3-1,Jorge Costa,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432172
+19,sáb 13/02/2021,12:30,Nacional,Farense,4-2-3-1,Jorge Costa,,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432124
+20,dom 21/02/2021,17:15,Farense,Benfica,4-2-3-1,Jorge Costa,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432134
+21,sáb 27/02/2021,12:30,Famalicão,Farense,4-2-3-1,Jorge Costa,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432098
+22,dom 07/03/2021,17:00,Rio Ave,Farense,4-2-3-1,Jorge Costa,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432253
+23,sáb 13/03/2021,12:30,Farense,B SAD,4-4-2 losango,Jorge Costa,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432043
+24,dom 21/03/2021,14:30,Boavista,Farense,4-2-3-1,Jorge Costa,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432240
+25,seg 05/04/2021,14:45,Farense,Braga,4-2-3-1,Jorge Costa,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432138
+26,sáb 10/04/2021,11:00,Marítimo,Farense,4-2-3-1,Jorge Costa,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432262
+27,sex 16/04/2021,17:00,Farense,Sporting,4-3-3 ofensivo,Jorge Costa,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432232
+28,ter 20/04/2021,16:00,Paços Ferreira,Farense,4-1-4-1,Jorge Costa,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432226
+29,ter 27/04/2021,17:45,Farense,Portimonense,4-3-3 ofensivo,Jorge Costa,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432239
+30,sáb 01/05/2021,11:30,Gil Vicente,Farense,4-2-3-1,Jorge Costa,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432251
+31,qui 06/05/2021,16:30,Farense,Vit. Guimarães,4-1-4-1,Jorge Costa,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432191
+32,seg 10/05/2021,16:15,FC Porto,Farense,4-2-3-1,Jorge Costa,,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432249
+33,sáb 15/05/2021,11:30,Farense,CD Tondela,4-2-3-1,Jorge Costa,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432186
+34,qua 19/05/2021,16:00,Santa Clara,Farense,4-3-3 ofensivo,Jorge Costa,,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432231

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 05/08/2018,10:30,Heidenheim,Arm. Bielefeld,4-4-2 duplo 6,Jeff Saibene,10500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058420
+2,sáb 11/08/2018,10:30,Arm. Bielefeld,Dynamo Dresden,4-4-2 duplo 6,Jeff Saibene,19409,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058623
+3,seg 27/08/2018,15:30,Hamburgo,Arm. Bielefeld,4-4-2 duplo 6,Jeff Saibene,46934,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058729
+4,sáb 01/09/2018,08:00,Arm. Bielefeld,J. Regensburg,4-4-2 duplo 6,Jeff Saibene,15388,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058757
+5,seg 17/09/2018,15:30,Magdeburgo,Arm. Bielefeld,4-4-2 duplo 6,Jeff Saibene,19794,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058773
+6,sáb 22/09/2018,08:00,Arm. Bielefeld,Union Berlim,4-4-2 duplo 6,Jeff Saibene,18114,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058777
+7,ter 25/09/2018,13:30,Darmstadt 98,Arm. Bielefeld,4-4-1-1,Jeff Saibene,14210,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058785
+8,sex 28/09/2018,13:30,Arm. Bielefeld,Colônia,4-4-2 duplo 6,Jeff Saibene,26283,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058807
+9,sex 05/10/2018,13:30,Bochum,Arm. Bielefeld,3-5-2 plano,Jeff Saibene,19231,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058830
+10,sáb 20/10/2018,08:00,Arm. Bielefeld,Greuther Fürth,3-5-2,Jeff Saibene,16032,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058840
+11,sáb 27/10/2018,08:00,Erzgebirge Aue,Arm. Bielefeld,4-4-2 duplo 6,Jeff Saibene,8050,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058852
+12,dom 04/11/2018,10:30,Arm. Bielefeld,St. Pauli,4-4-2 duplo 6,Jeff Saibene,22446,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058857
+13,dom 11/11/2018,10:30,Ingolstadt,Arm. Bielefeld,4-4-2 duplo 6,Jeff Saibene,7081,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058867
+14,sex 23/11/2018,15:30,Arm. Bielefeld,MSV Duisburg,5-4-1 plano,Jeff Saibene,14766,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058913
+15,sex 30/11/2018,15:30,Paderborn,Arm. Bielefeld,4-4-2 duplo 6,Jeff Saibene,15000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058908
+16,dom 09/12/2018,10:30,Arm. Bielefeld,Sandhausen,4-4-2,Jeff Saibene,14091,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058921
+17,sex 14/12/2018,15:30,Holstein Kiel,Arm. Bielefeld,4-4-2 duplo 6,Uwe Neuhaus,8904,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058930
+18,sáb 22/12/2018,10:00,Arm. Bielefeld,Heidenheim,4-4-2 duplo 6,Uwe Neuhaus,15874,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058940
+19,qua 30/01/2019,17:30,Dynamo Dresden,Arm. Bielefeld,4-3-3 ofensivo,Uwe Neuhaus,24706,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058953
+20,sáb 02/02/2019,10:00,Arm. Bielefeld,Hamburgo,4-1-4-1,Uwe Neuhaus,26515,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058957
+21,sex 08/02/2019,15:30,J. Regensburg,Arm. Bielefeld,4-3-3 ofensivo,Uwe Neuhaus,8639,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058967
+22,dom 17/02/2019,09:30,Arm. Bielefeld,Magdeburgo,4-1-4-1,Uwe Neuhaus,19568,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058975
+23,sex 22/02/2019,14:30,Union Berlim,Arm. Bielefeld,4-3-3 ofensivo,Uwe Neuhaus,21286,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058986
+24,dom 03/03/2019,09:30,Arm. Bielefeld,Darmstadt 98,4-1-4-1,Uwe Neuhaus,15011,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058994
+25,sáb 09/03/2019,09:00,Colônia,Arm. Bielefeld,4-3-3 ofensivo,Uwe Neuhaus,50000,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059001
+26,dom 17/03/2019,09:30,Arm. Bielefeld,Bochum,4-1-4-1,Uwe Neuhaus,18192,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059012
+27,dom 31/03/2019,08:30,Greuther Fürth,Arm. Bielefeld,4-3-3 ofensivo,Uwe Neuhaus,9440,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059025
+28,sex 05/04/2019,13:30,Arm. Bielefeld,Erzgebirge Aue,4-3-3 ofensivo,Uwe Neuhaus,18429,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059030
+29,dom 14/04/2019,08:30,St. Pauli,Arm. Bielefeld,4-3-3 ofensivo,Uwe Neuhaus,29546,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059042
+30,dom 21/04/2019,08:30,Arm. Bielefeld,Ingolstadt,4-1-4-1,Uwe Neuhaus,15880,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059048
+31,seg 29/04/2019,15:30,MSV Duisburg,Arm. Bielefeld,4-3-3 ofensivo,Uwe Neuhaus,13340,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059056
+32,sex 03/05/2019,13:30,Arm. Bielefeld,Paderborn,4-3-3 ofensivo,Uwe Neuhaus,26300,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059066
+33,dom 12/05/2019,10:30,Sandhausen,Arm. Bielefeld,4-3-3 ofensivo,Uwe Neuhaus,7453,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058752
+34,dom 19/05/2019,10:30,Arm. Bielefeld,Holstein Kiel,4-3-3 ofensivo,Uwe Neuhaus,22867,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058739

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 03/08/2024,08:00,Magdeburgo,SV Elversberg,4-3-2-1,Horst Steffen,21469,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373309
+2,sáb 10/08/2024,08:00,SV Elversberg,Colônia,4-2-3-1,Horst Steffen,9502,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373332
+3,sex 23/08/2024,13:30,Karlsruher,SV Elversberg,4-4-2 duplo 6,Horst Steffen,26838,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373349
+4,sáb 31/08/2024,08:00,SV Elversberg,Darmstadt 98,4-4-2 duplo 6,Horst Steffen,9443,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373360
+5,dom 15/09/2024,08:30,Greuther Fürth,SV Elversberg,4-4-2 duplo 6,Horst Steffen,10877,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373379
+6,dom 22/09/2024,08:30,SV Elversberg,SSV Ulm 1846,4-4-2 duplo 6,Horst Steffen,8451,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373395
+7,dom 29/09/2024,08:30,Hertha Berlim,SV Elversberg,4-4-2 duplo 6,Horst Steffen,43123,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373415
+8,sáb 05/10/2024,08:00,SV Elversberg,K'lautern,4-4-2 duplo 6,Horst Steffen,9502,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373433
+9,sáb 19/10/2024,08:00,Pr. Münster,SV Elversberg,4-4-2 duplo 6,Horst Steffen,11507,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373453
+10,sáb 26/10/2024,08:00,SV Elversberg,Hamburgo,4-4-2 duplo 6,Horst Steffen,9502,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373469
+11,sáb 02/11/2024,09:00,J. Regensburg,SV Elversberg,4-4-2 duplo 6,Horst Steffen,9048,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373490
+12,dom 10/11/2024,09:30,SV Elversberg,Hannover,4-2-3-1,Horst Steffen,9337,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373505
+13,sáb 23/11/2024,09:00,Düsseldorf,SV Elversberg,4-2-3-1,Horst Steffen,52000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373518
+14,sáb 30/11/2024,09:00,SV Elversberg,Paderborn,4-2-3-1,Horst Steffen,8922,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373540
+15,sex 06/12/2024,14:30,SV Elversberg,Nuremberg,4-2-3-1,Horst Steffen,9323,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373559
+16,dom 15/12/2024,09:30,E. Braunschweig,SV Elversberg,4-2-3-1,Horst Steffen,18308,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373579
+17,sex 20/12/2024,14:30,SV Elversberg,Schalke,4-2-3-1,Horst Steffen,9502,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373603
+18,dom 19/01/2025,09:30,SV Elversberg,Magdeburgo,4-2-3-1,Horst Steffen,9351,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373620
+19,sáb 25/01/2025,09:00,Colônia,SV Elversberg,4-2-3-1,Horst Steffen,49800,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373635
+20,sex 31/01/2025,14:30,SV Elversberg,Karlsruher,4-2-3-1,Horst Steffen,10102,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373657
+21,sáb 08/02/2025,09:00,Darmstadt 98,SV Elversberg,4-2-3-1,Horst Steffen,16855,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373672
+22,sáb 15/02/2025,09:00,SV Elversberg,Greuther Fürth,4-2-3-1,Horst Steffen,8623,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373683
+23,sáb 22/02/2025,09:00,SSV Ulm 1846,SV Elversberg,4-2-3-1,Horst Steffen,11735,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373705
+24,dom 02/03/2025,09:30,SV Elversberg,Hertha Berlim,4-2-3-1,Horst Steffen,10607,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373720
+25,sex 07/03/2025,14:30,K'lautern,SV Elversberg,4-2-3-1,Horst Steffen,49068,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373739
+26,sáb 15/03/2025,09:00,SV Elversberg,Pr. Münster,4-2-3-1,Horst Steffen,10157,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373757
+27,sex 28/03/2025,14:30,Hamburgo,SV Elversberg,4-4-2 losango,Horst Steffen,56328,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373770
+28,dom 06/04/2025,08:30,SV Elversberg,J. Regensburg,4-2-3-1,Horst Steffen,10786,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373793
+29,sáb 12/04/2025,08:00,Hannover,SV Elversberg,4-2-3-1,Horst Steffen,35500,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373807
+30,sáb 19/04/2025,08:00,SV Elversberg,Düsseldorf,4-2-3-1,Horst Steffen,9105,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373828
+31,sáb 26/04/2025,08:00,Paderborn,SV Elversberg,4-2-3-1,Horst Steffen,14300,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373845
+32,dom 04/05/2025,08:30,Nuremberg,SV Elversberg,4-2-3-1,Horst Steffen,49000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373865
+33,sáb 10/05/2025,08:00,SV Elversberg,E. Braunschweig,4-2-3-1,Horst Steffen,9105,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373882
+34,dom 18/05/2025,10:30,Schalke,SV Elversberg,4-2-3-1,Horst Steffen,62077,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373901

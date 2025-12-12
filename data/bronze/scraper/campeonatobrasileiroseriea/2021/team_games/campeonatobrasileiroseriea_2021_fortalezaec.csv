@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 30/05/2021,11:00,Atlético-MG,Fortaleza,3-5-2,Juan Pablo Vojvoda,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546470
+2,dom 06/06/2021,16:00,Fortaleza,Internacional,3-4-1-2,Juan Pablo Vojvoda,x,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546483
+3,dom 13/06/2021,20:30,Fortaleza,Sport,3-4-1-2,Juan Pablo Vojvoda,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3571599
+4,qui 17/06/2021,19:00,Atlético-GO,Fortaleza,3-4-1-2,Juan Pablo Vojvoda,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3572018
+5,dom 20/06/2021,18:15,Fortaleza,Fluminense,3-4-1-2,Juan Pablo Vojvoda,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3572025
+6,qua 23/06/2021,19:00,Flamengo,Fortaleza,3-4-1-2,Juan Pablo Vojvoda,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580694
+7,dom 27/06/2021,20:00,Grêmio,Fortaleza,3-4-1-2,Juan Pablo Vojvoda,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580705
+8,qua 30/06/2021,16:00,Fortaleza,Chapecoense,3-5-2,Juan Pablo Vojvoda,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580715
+9,sáb 03/07/2021,19:00,Athletico-PR,Fortaleza,3-4-3 plano,Juan Pablo Vojvoda,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583806
+10,qua 07/07/2021,18:00,Fortaleza,América-MG,3-4-1-2,Juan Pablo Vojvoda,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583814
+11,dom 11/07/2021,20:30,Fortaleza,Corinthians,3-4-1-2,Juan Pablo Vojvoda,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583824
+12,sáb 17/07/2021,17:00,São Paulo,Fortaleza,3-4-1-2,Juan Pablo Vojvoda,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583831
+13,dom 25/07/2021,16:00,Fortaleza,Bragantino,3-4-1-2,Juan Pablo Vojvoda,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583844
+14,dom 01/08/2021,20:30,Ceará,Fortaleza,3-4-1-2,Juan Pablo Vojvoda,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583874
+15,sáb 07/08/2021,21:00,Palmeiras,Fortaleza,3-5-2,Juan Pablo Vojvoda,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583860
+16,dom 15/08/2021,18:15,Fortaleza,Santos,3-5-2,Juan Pablo Vojvoda,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583854
+17,sáb 21/08/2021,21:00,Juventude,Fortaleza,3-4-1-2,Juan Pablo Vojvoda,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583887
+18,seg 30/08/2021,21:30,Fortaleza,Cuiabá,3-4-1-2,Juan Pablo Vojvoda,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583894
+19,sáb 04/09/2021,21:00,Bahia,Fortaleza,3-4-3 plano,Juan Pablo Vojvoda,x,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583905
+20,dom 12/09/2021,16:00,Fortaleza,Atlético-MG,3-4-1-2,Juan Pablo Vojvoda,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583934
+21,dom 19/09/2021,11:00,Internacional,Fortaleza,3-4-1-2,Juan Pablo Vojvoda,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583923
+22,dom 26/09/2021,18:15,Sport,Fortaleza,3-4-1-2,Juan Pablo Vojvoda,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583915
+23,sáb 02/10/2021,17:00,Fortaleza,Atlético-GO,3-4-1-2,Juan Pablo Vojvoda,2785,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583944
+24,qua 06/10/2021,21:30,Fluminense,Fortaleza,3-4-2-1,Juan Pablo Vojvoda,3231,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583949
+25,sáb 09/10/2021,19:00,Fortaleza,Flamengo,5-4-1,Juan Pablo Vojvoda,4052,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583964
+26,qua 13/10/2021,20:30,Fortaleza,Grêmio,3-4-1-2,Juan Pablo Vojvoda,3499,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583994
+27,sáb 16/10/2021,19:00,Chapecoense,Fortaleza,3-4-1-2,Juan Pablo Vojvoda,1027,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583987
+28,sáb 23/10/2021,19:15,Fortaleza,Athletico-PR,3-4-1-2,Juan Pablo Vojvoda,7011,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583974
+29,sáb 30/10/2021,23:00,América-MG,Fortaleza,3-4-1-2,Juan Pablo Vojvoda,1034,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584002
+30,sáb 06/11/2021,17:00,Corinthians,Fortaleza,3-4-1-2,Juan Pablo Vojvoda,36219,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584010
+31,qua 10/11/2021,21:30,Fortaleza,São Paulo,3-4-1-2,Juan Pablo Vojvoda,16261,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584024
+32,sáb 13/11/2021,19:00,Bragantino,Fortaleza,3-4-1-2,Juan Pablo Vojvoda,1978,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584056
+33,qua 17/11/2021,20:00,Fortaleza,Ceará,3-4-1-2,Juan Pablo Vojvoda,28037,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584044
+34,sáb 20/11/2021,19:00,Fortaleza,Palmeiras,3-4-1-2,Juan Pablo Vojvoda,18139,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584034
+35,qui 25/11/2021,19:00,Santos,Fortaleza,3-4-1-2,Juan Pablo Vojvoda,11313,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584061
+36,sex 03/12/2021,21:00,Fortaleza,Juventude,3-5-2,Juan Pablo Vojvoda,45398,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584074
+37,seg 06/12/2021,20:00,Cuiabá,Fortaleza,3-4-1-2,Juan Pablo Vojvoda,15923,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584088
+38,qui 09/12/2021,21:30,Fortaleza,Bahia,3-4-1-2,Juan Pablo Vojvoda,51125,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584094

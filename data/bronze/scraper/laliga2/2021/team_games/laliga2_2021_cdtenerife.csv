@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 15/08/2021,17:00,Fuenlabrada CF,Tenerife,4-2-3-1,Luis Miguel Ramis,1184,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605069
+2,sáb 21/08/2021,14:30,Tenerife,Real Sporting,4-2-3-1,Luis Miguel Ramis,4999,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605088
+3,sáb 28/08/2021,14:30,Real Oviedo,Tenerife,4-4-2 duplo 6,Luis Miguel Ramis,6381,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605096
+4,sáb 04/09/2021,13:15,Tenerife,Ponferradina,4-4-2,Luis Miguel Ramis,6940,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605119
+5,dom 12/09/2021,11:00,Valladolid,Tenerife,4-2-3-1,Luis Miguel Ramis,13699,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605130
+6,dom 19/09/2021,13:15,Tenerife,Mirandés,4-4-2 duplo 6,Luis Miguel Ramis,9939,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605140
+7,sex 24/09/2021,16:00,UD Almería,Tenerife,4-3-3 ofensivo,Luis Miguel Ramis,7074,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605142
+8,sáb 02/10/2021,11:00,SD Huesca,Tenerife,4-2-3-1,Luis Miguel Ramis,6826,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605158
+9,dom 10/10/2021,13:15,Tenerife,SD Amorebieta,4-4-2,Luis Miguel Ramis,12572,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605172
+10,sáb 16/10/2021,13:15,Las Palmas,Tenerife,4-4-2,Luis Miguel Ramis,25887,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605181
+11,ter 19/10/2021,16:00,Tenerife,Eibar,4-4-2,Luis Miguel Ramis,9348,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607637
+12,sáb 23/10/2021,16:00,Leganés,Tenerife,4-4-2,Luis Miguel Ramis,6454,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607645
+13,seg 01/11/2021,14:15,Tenerife,Burgos CF,4-4-2,Luis Miguel Ramis,12105,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607659
+14,qui 04/11/2021,17:15,UD Ibiza,Tenerife,4-4-2,Luis Miguel Ramis,3501,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607666
+15,seg 08/11/2021,17:00,Tenerife,Girona,4-2-3-1,Luis Miguel Ramis,10121,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607681
+16,seg 15/11/2021,17:00,Málaga CF,Tenerife,4-4-2,Luis Miguel Ramis,15700,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607691
+17,dom 21/11/2021,14:15,Tenerife,AD Alcorcón,4-4-2,Luis Miguel Ramis,11796,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607704
+18,dom 28/11/2021,14:15,Tenerife,Sanse,4-4-2,Luis Miguel Ramis,9850,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607715
+19,seg 06/12/2021,14:15,FC Cartagena,Tenerife,4-4-2,Luis Miguel Ramis,7441,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607717
+20,sáb 11/12/2021,17:00,Tenerife,Lugo,4-4-2,Luis Miguel Ramis,9617,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607737
+21,dom 19/12/2021,12:00,Zaragoza,Tenerife,4-4-2,Luis Miguel Ramis,15283,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607749
+22,dom 02/01/2022,17:30,Tenerife,Las Palmas,4-4-2,Luis Miguel Ramis,10751,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607759
+23,sex 07/01/2022,17:00,SD Amorebieta,Tenerife,4-4-2,Luis Miguel Ramis,764,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3608174
+24,sex 21/01/2022,17:00,Tenerife,Real Oviedo,4-4-2,Luis Miguel Ramis,7310,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3608207
+25,dom 30/01/2022,17:00,Ponferradina,Tenerife,4-4-2,Luis Miguel Ramis,3963,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611528
+26,dom 06/02/2022,17:00,Tenerife,Leganés,4-4-2,Luis Miguel Ramis,11040,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611539
+27,dom 13/02/2022,14:15,AD Alcorcón,Tenerife,4-4-2,Luis Miguel Ramis,2425,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611541
+28,sáb 19/02/2022,14:15,Tenerife,UD Ibiza,4-4-2,Luis Miguel Ramis,13177,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611561
+29,sáb 26/02/2022,12:00,Mirandés,Tenerife,4-4-2,Luis Miguel Ramis,2652,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611570
+30,sáb 05/03/2022,14:15,Tenerife,Valladolid,4-4-2,Luis Miguel Ramis,18587,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611591
+31,dom 13/03/2022,12:00,Real Sporting,Tenerife,4-4-2,Luis Miguel Ramis,14002,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614250
+32,seg 21/03/2022,17:00,Tenerife,UD Almería,4-4-2,Luis Miguel Ramis,15007,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614261
+33,dom 27/03/2022,11:00,Burgos CF,Tenerife,4-4-2,Luis Miguel Ramis,8898,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614265
+34,sáb 02/04/2022,15:30,Tenerife,Zaragoza,4-4-2,Luis Miguel Ramis,12050,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614283
+35,sáb 09/04/2022,11:00,Sanse,Tenerife,4-4-2,Luis Miguel Ramis,4941,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614294
+36,dom 17/04/2022,13:15,Tenerife,Fuenlabrada CF,4-4-2,Luis Miguel Ramis,11750,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614305
+37,sex 22/04/2022,16:00,Tenerife,SD Huesca,4-4-2,Luis Miguel Ramis,11896,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614316
+38,dom 01/05/2022,13:15,Lugo,Tenerife,4-4-2,Luis Miguel Ramis,2580,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614324
+39,seg 09/05/2022,16:00,Girona,Tenerife,4-4-2,Luis Miguel Ramis,6587,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614333
+40,dom 15/05/2022,16:00,Tenerife,Málaga CF,4-4-2,Luis Miguel Ramis,14636,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614349
+41,sáb 21/05/2022,17:00,Eibar,Tenerife,4-4-2 duplo 6,Luis Miguel Ramis,7135,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614353
+42,dom 29/05/2022,15:00,Tenerife,FC Cartagena,4-4-2,Luis Miguel Ramis,14525,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614371

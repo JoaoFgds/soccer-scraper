@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 30/07/1999,15:45,Monaco,Saint-Étienne,?,Robert Nouzaret,14668,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009193
+2,sex 06/08/1999,15:00,Saint-Étienne,Nantes,?,Robert Nouzaret,27274,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009204
+3,dom 15/08/1999,15:45,Marselha,Saint-Étienne,4-4-2,Robert Nouzaret,56898,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009218
+4,sex 20/08/1999,15:00,Saint-Étienne,AS Nancy,?,Robert Nouzaret,28924,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009222
+5,sáb 28/08/1999,15:00,CS Sedan,Saint-Étienne,?,Robert Nouzaret,11447,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009229
+6,sáb 11/09/1999,15:00,Saint-Étienne,Le Havre,?,Robert Nouzaret,26742,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009239
+7,sáb 18/09/1999,13:45,Auxerre,Saint-Étienne,?,Robert Nouzaret,18252,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009246
+8,dom 26/09/1999,13:45,Lens,Saint-Étienne,?,Robert Nouzaret,40295,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009262
+9,sáb 02/10/1999,15:00,Saint-Étienne,SC Bastia,?,Robert Nouzaret,33163,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009267
+10,qua 13/10/1999,16:00,Montpellier,Saint-Étienne,?,Robert Nouzaret,16032,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009279
+11,sáb 16/10/1999,16:00,Saint-Étienne,Troyes,?,Robert Nouzaret,23023,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009285
+12,sáb 23/10/1999,14:45,Rennes,Saint-Étienne,?,Robert Nouzaret,14929,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009505
+13,sáb 30/10/1999,16:00,Saint-Étienne,FC Metz,?,Robert Nouzaret,30555,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009518
+14,sáb 06/11/1999,17:00,PSG,Saint-Étienne,?,Robert Nouzaret,44596,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009523
+15,qua 10/11/1999,18:00,Saint-Étienne,Lyon,?,Robert Nouzaret,35095,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009540
+16,sex 19/11/1999,17:00,Bordeaux,Saint-Étienne,?,Robert Nouzaret,32243,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009543
+17,sáb 27/11/1999,17:00,Saint-Étienne,Strasbourg,?,Robert Nouzaret,23724,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009552
+18,sex 03/12/1999,17:00,Nantes,Saint-Étienne,?,Robert Nouzaret,30121,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009563
+19,dom 12/12/1999,17:45,Saint-Étienne,Marselha,4-4-2,Robert Nouzaret,32595,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009575
+20,sáb 18/12/1999,17:00,AS Nancy,Saint-Étienne,?,Robert Nouzaret,9096,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009579
+21,qua 12/01/2000,17:00,Saint-Étienne,CS Sedan,?,Robert Nouzaret,18769,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009589
+22,sáb 15/01/2000,17:00,Le Havre,Saint-Étienne,?,Robert Nouzaret,15338,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009597
+23,qua 26/01/2000,17:00,Saint-Étienne,Auxerre,?,Robert Nouzaret,20704,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009608
+24,qua 02/02/2000,17:00,Saint-Étienne,Lens,?,Robert Nouzaret,19940,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009618
+25,sáb 05/02/2000,17:00,SC Bastia,Saint-Étienne,?,Robert Nouzaret,6244,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009625
+26,qua 16/02/2000,17:00,Saint-Étienne,Montpellier,?,Robert Nouzaret,20128,5:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009636
+27,sáb 26/02/2000,16:00,Troyes,Saint-Étienne,?,Robert Nouzaret,15843,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009645
+28,sáb 11/03/2000,16:00,Saint-Étienne,Rennes,?,Robert Nouzaret,33551,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009651
+29,sáb 25/03/2000,16:00,FC Metz,Saint-Étienne,?,Robert Nouzaret,19601,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009658
+30,sáb 08/04/2000,15:00,Saint-Étienne,PSG,?,Robert Nouzaret,32286,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009671
+31,sex 14/04/2000,15:45,Lyon,Saint-Étienne,?,Robert Nouzaret,39218,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009677
+32,sáb 29/04/2000,15:00,Saint-Étienne,Bordeaux,?,Robert Nouzaret,34861,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009688
+33,qui 04/05/2000,15:00,Strasbourg,Saint-Étienne,?,Robert Nouzaret,22731,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009698
+34,sáb 13/05/2000,15:00,Saint-Étienne,Monaco,?,Robert Nouzaret,34558,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009706

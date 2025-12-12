@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 24/07/2021,14:00,Le Havre,Guingamp,4-2-3-1,Paul Le Guen,3661,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589628
+2,sáb 31/07/2021,14:00,FC Sochaux,Le Havre,4-4-2 duplo 6,Paul Le Guen,4204,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589641
+3,sáb 07/08/2021,14:00,Le Havre,Paris FC,4-4-2,Paul Le Guen,4662,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589710
+4,sáb 14/08/2021,14:00,Rodez AF,Le Havre,4-4-2,Paul Le Guen,1496,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589720
+5,sáb 21/08/2021,14:00,Le Havre,Chamois Niort,4-3-3 ofensivo,Paul Le Guen,4394,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589730
+6,sáb 28/08/2021,14:00,SC Bastia,Le Havre,4-3-3 ofensivo,Paul Le Guen,8742,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589901
+7,seg 13/09/2021,15:45,Le Havre,Toulouse,4-4-2,Paul Le Guen,5998,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589918
+8,sáb 18/09/2021,14:00,AS Nancy,Le Havre,4-4-2,Paul Le Guen,6649,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589923
+9,ter 21/09/2021,15:00,Le Havre,Quevilly Rouen,4-2-3-1,Paul Le Guen,7650,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589939
+10,sex 24/09/2021,16:00,Nîmes Olympique,Le Havre,4-4-2,Paul Le Guen,2540,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589946
+11,sáb 02/10/2021,14:00,Le Havre,Dijon,4-4-2,Paul Le Guen,5096,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589966
+12,sáb 16/10/2021,14:00,SM Caen,Le Havre,4-4-2,Paul Le Guen,16729,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589970
+13,sáb 23/10/2021,14:00,Le Havre,Pau FC,4-4-2,Paul Le Guen,5439,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589987
+14,sáb 30/10/2021,14:00,USL Dunkerque,Le Havre,4-4-2,Paul Le Guen,2200,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589994
+15,sáb 06/11/2021,15:00,Le Havre,Valenciennes,4-2-3-1,Paul Le Guen,5504,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590006
+16,sáb 20/11/2021,15:00,Le Havre,Amiens SC,4-4-2,Paul Le Guen,5120,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590015
+17,sex 03/12/2021,17:00,Grenoble,Le Havre,5-3-2,Paul Le Guen,4085,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590024
+18,sáb 11/12/2021,11:00,Le Havre,AC Ajaccio,3-5-2,Paul Le Guen,7400,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590036
+19,ter 21/12/2021,16:45,Auxerre,Le Havre,3-4-3 plano,Paul Le Guen,6985,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590042
+20,sáb 08/01/2022,11:00,Le Havre,FC Sochaux,3-4-3 plano,Paul Le Guen,4998,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590057
+21,seg 17/01/2022,16:45,Paris FC,Le Havre,3-4-3 plano,Paul Le Guen,910,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590122
+22,sáb 22/01/2022,15:00,Le Havre,Rodez AF,3-4-3 plano,Paul Le Guen,4045,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590141
+23,sáb 05/02/2022,15:00,Chamois Niort,Le Havre,3-4-3 plano,Paul Le Guen,2021,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590159
+24,seg 14/02/2022,16:45,Le Havre,SC Bastia,3-4-1-2,Paul Le Guen,4464,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590172
+25,seg 21/02/2022,16:45,Toulouse,Le Havre,3-4-1-2,Paul Le Guen,11130,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590184
+26,sáb 26/02/2022,15:00,Le Havre,AS Nancy,4-2-3-1,Paul Le Guen,4383,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590192
+27,sáb 05/03/2022,15:00,Quevilly Rouen,Le Havre,4-1-4-1,Paul Le Guen,5200,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590201
+28,sáb 12/03/2022,15:00,Le Havre,Nîmes Olympique,4-1-4-1,Paul Le Guen,4407,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590212
+29,ter 15/03/2022,15:00,Dijon,Le Havre,4-4-2,Paul Le Guen,4500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590216
+30,sáb 19/03/2022,11:00,Le Havre,SM Caen,3-4-3 plano,Paul Le Guen,18693,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590231
+31,sáb 02/04/2022,14:00,Pau FC,Le Havre,4-1-4-1,Paul Le Guen,2713,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590240
+32,sáb 09/04/2022,14:00,Le Havre,USL Dunkerque,4-1-4-1,Paul Le Guen,4332,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590250
+33,sáb 16/04/2022,14:00,Valenciennes,Le Havre,4-3-1-2,Paul Le Guen,10000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590264
+34,ter 19/04/2022,15:00,Amiens SC,Le Havre,4-3-1-2,Paul Le Guen,8000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590266
+35,sex 22/04/2022,16:00,Le Havre,Grenoble,4-4-2,Paul Le Guen,4830,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590279
+36,sáb 30/04/2022,14:00,AC Ajaccio,Le Havre,4-3-1-2,Paul Le Guen,4900,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590285
+37,sáb 07/05/2022,14:00,Le Havre,Auxerre,4-3-1-2,Paul Le Guen,8058,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590301
+38,sáb 14/05/2022,14:00,Guingamp,Le Havre,4-3-1-2,Paul Le Guen,12834,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590307

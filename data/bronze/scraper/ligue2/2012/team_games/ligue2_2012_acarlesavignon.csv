@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 27/07/2012,15:30,Le Havre,AC Arles-Avignon,?,Thierry Laurey,7814,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2229810
+2,sex 03/08/2012,15:30,AC Arles-Avignon,Lens,?,Thierry Laurey,2871,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2229833
+3,sex 10/08/2012,13:45,G. Ajaccio,AC Arles-Avignon,?,Thierry Laurey,2738,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2229822
+4,sex 17/08/2012,13:45,AC Arles-Avignon,Angers,?,Thierry Laurey,1674,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223542
+5,sex 24/08/2012,13:45,Monaco,AC Arles-Avignon,?,Thierry Laurey,6083,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223540
+6,sex 31/08/2012,13:45,AC Arles-Avignon,Nantes,?,Thierry Laurey,2334,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223513
+7,sex 14/09/2012,13:45,Chamois Niort,AC Arles-Avignon,?,Thierry Laurey,3883,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223494
+8,sex 21/09/2012,13:45,AC Arles-Avignon,LB Châteauroux,?,Thierry Laurey,1623,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223500
+9,seg 01/10/2012,15:30,Auxerre,AC Arles-Avignon,?,Thierry Laurey,8120,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223557
+10,sex 05/10/2012,13:45,AC Arles-Avignon,Clermont Foot,?,Thierry Laurey,2329,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223562
+11,sex 19/10/2012,13:45,CS Sedan,AC Arles-Avignon,?,Thierry Laurey,4885,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223635
+12,sex 26/10/2012,14:45,AC Arles-Avignon,SM Caen,?,Thierry Laurey,1659,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223612
+13,sex 02/11/2012,15:45,Nîmes Olympique,AC Arles-Avignon,?,Thierry Laurey,6674,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223632
+14,sex 09/11/2012,15:45,AC Arles-Avignon,Stade Lavallois,?,Pierre Mosca,1650,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223622
+15,sex 23/11/2012,15:45,FC Istres,AC Arles-Avignon,?,Pierre Mosca,2100,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223581
+16,sex 30/11/2012,15:45,AC Arles-Avignon,Le Mans FC,5-4-1,Pierre Mosca,2017,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223597
+17,ter 11/12/2012,17:55,Guingamp,AC Arles-Avignon,?,Pierre Mosca,6700,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223602
+18,sex 14/12/2012,15:45,AC Arles-Avignon,Tours FC,?,Pierre Mosca,1394,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223568
+19,sex 21/12/2012,15:45,AC Arles-Avignon,Dijon,?,Pierre Mosca,2130,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223645
+20,sex 11/01/2013,17:00,Lens,AC Arles-Avignon,?,Pierre Mosca,14758,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223654
+21,sex 18/01/2013,17:00,AC Arles-Avignon,G. Ajaccio,?,Pierre Mosca,1538,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223658
+22,sex 25/01/2013,17:00,Angers,AC Arles-Avignon,?,Pierre Mosca,5113,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223683
+23,seg 04/02/2013,17:30,AC Arles-Avignon,Monaco,?,Pierre Mosca,3085,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223707
+24,sáb 09/02/2013,11:00,Nantes,AC Arles-Avignon,?,Pierre Mosca,12950,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223672
+25,sex 15/02/2013,17:00,AC Arles-Avignon,Chamois Niort,?,Noël Tosi,3115,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223680
+26,sex 22/02/2013,16:00,LB Châteauroux,AC Arles-Avignon,?,Noël Tosi,4293,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223750
+27,sex 01/03/2013,16:00,AC Arles-Avignon,Auxerre,4-2-3-1,Noël Tosi,1913,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223756
+28,sex 08/03/2013,16:00,Clermont Foot,AC Arles-Avignon,?,Noël Tosi,3450,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223724
+29,sex 15/03/2013,16:00,AC Arles-Avignon,CS Sedan,?,Noël Tosi,3711,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223736
+30,sex 29/03/2013,16:00,SM Caen,AC Arles-Avignon,?,Noël Tosi,7865,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223743
+31,sex 05/04/2013,15:00,AC Arles-Avignon,Nîmes Olympique,?,Noël Tosi,3585,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223777
+32,sex 12/04/2013,15:00,Stade Lavallois,AC Arles-Avignon,?,Noël Tosi,4228,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223789
+33,sex 19/04/2013,15:00,AC Arles-Avignon,FC Istres,?,Noël Tosi,2763,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223825
+34,sex 26/04/2013,15:00,Le Mans FC,AC Arles-Avignon,?,Noël Tosi,6355,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223807
+35,sex 03/05/2013,15:00,AC Arles-Avignon,Guingamp,?,Noël Tosi,2594,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223767
+36,sex 10/05/2013,15:00,Tours FC,AC Arles-Avignon,,Noël Tosi,4020,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223779
+37,sex 17/05/2013,15:30,Dijon,AC Arles-Avignon,?,Noël Tosi,10706,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223785
+38,sex 24/05/2013,15:30,AC Arles-Avignon,Le Havre,?,Noël Tosi,2740,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223830

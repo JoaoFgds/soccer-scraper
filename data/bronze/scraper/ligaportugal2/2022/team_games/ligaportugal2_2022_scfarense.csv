@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 06/08/2022,07:00,Farense,Torreense,4-4-2 duplo 6,Vasco Faísca,1557,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869832
+2,sáb 13/08/2022,11:30,Estrela Amadora,Farense,4-3-3 ofensivo,Vasco Faísca,821,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869805
+3,sáb 20/08/2022,07:00,Farense,Académico FC,4-4-2 duplo 6,Vasco Faísca,2411,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869814
+4,seg 29/08/2022,14:00,Mafra,Farense,4-4-2 duplo 6,Vasco Faísca,767,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869818
+5,dom 04/09/2022,11:30,Farense,Covilhã,4-2-3-1,Vasco Faísca,2896,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869835
+6,dom 11/09/2022,10:00,Leixões,Farense,4-4-2 duplo 6,Vasco Faísca,2019,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869881
+7,dom 18/09/2022,07:00,Farense,Vilafranquense,4-4-2 duplo 6,Vasco Faísca,2584,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869847
+8,sex 07/10/2022,14:00,B SAD,Farense,4-4-2 duplo 6,Vasco Faísca,401,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869893
+9,qua 16/11/2022,17:15,Farense,Trofense,4-4-2 duplo 6,Vasco Faísca,2949,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869859
+10,dom 23/10/2022,11:30,Moreirense,Farense,4-4-2 duplo 6,Vasco Faísca,1367,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869871
+11,dom 30/10/2022,11:00,Farense,UD Oliveirense,4-4-2 duplo 6,Vasco Faísca,3169,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869868
+12,sáb 05/11/2022,20:00,Penafiel,Farense,4-4-2 duplo 6,Vasco Faísca,482,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869898
+13,sáb 12/11/2022,11:00,Farense,Feirense,4-4-2 duplo 6,Vasco Faísca,3248,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869921
+14,qua 28/12/2022,14:00,FC Porto B,Farense,4-4-2 duplo 6,Vasco Faísca,298,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869909
+15,sáb 07/01/2023,11:00,Farense,Nacional,3-4-3 plano,Vasco Faísca,2148,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869957
+16,dom 15/01/2023,12:30,Farense,Benfica B,3-4-3 plano,Vasco Faísca,4655,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869964
+17,dom 22/01/2023,11:00,CD Tondela,Farense,3-4-3 plano,Vasco Faísca,882,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869944
+18,dom 29/01/2023,08:00,Torreense,Farense,3-4-3 plano,Vasco Faísca,828,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869976
+19,sex 03/02/2023,17:15,Farense,Estrela Amadora,4-3-3 ofensivo,Vasco Faísca,3513,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869940
+20,seg 13/02/2023,15:00,Académico FC,Farense,4-3-3 ofensivo,José Mota,2937,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869924
+21,dom 19/02/2023,12:30,Farense,Mafra,4-3-3 ofensivo,José Mota,3601,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3995972
+22,dom 26/02/2023,11:00,Covilhã,Farense,4-3-3 ofensivo,José Mota,856,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869997
+23,sáb 04/03/2023,20:00,Farense,Leixões,4-3-3 ofensivo,José Mota,2423,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870088
+24,sáb 11/03/2023,08:00,Vilafranquense,Farense,4-3-3 ofensivo,José Mota,188,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870036
+25,dom 19/03/2023,12:30,Farense,B SAD,4-3-3 ofensivo,José Mota,4393,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870010
+26,sáb 01/04/2023,07:00,Trofense,Farense,4-3-3 ofensivo,José Mota,589,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870021
+27,sex 07/04/2023,10:00,Farense,Moreirense,4-3-3 ofensivo,José Mota,3963,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869988
+28,sex 14/04/2023,14:00,UD Oliveirense,Farense,4-3-3 ofensivo,José Mota,402,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870048
+29,sáb 22/04/2023,11:30,Farense,Penafiel,4-3-3 ofensivo,José Mota,3907,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870024
+30,sáb 29/04/2023,07:00,Feirense,Farense,4-3-3 ofensivo,José Mota,942,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870101
+31,dom 07/05/2023,11:30,Farense,FC Porto B,4-3-3 ofensivo,José Mota,5525,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870062
+32,dom 14/05/2023,07:00,Nacional,Farense,4-2-3-1,José Mota,3644,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869984
+33,sex 19/05/2023,14:00,Benfica B,Farense,4-2-3-1,José Mota,990,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870054
+34,dom 28/05/2023,14:00,Farense,CD Tondela,4-2-3-1,José Mota,6017,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870070

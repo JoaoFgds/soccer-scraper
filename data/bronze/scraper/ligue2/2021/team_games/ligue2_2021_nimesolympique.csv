@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 24/07/2021,10:00,SC Bastia,Nîmes Olympique,4-2-3-1,Pascal Plancque,8165,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589623
+2,sáb 31/07/2021,10:00,Nîmes Olympique,Dijon,4-1-4-1,Pascal Plancque,2375,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589636
+3,sáb 07/08/2021,14:00,Valenciennes,Nîmes Olympique,4-1-4-1,Pascal Plancque,4074,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589712
+4,sáb 14/08/2021,14:00,Nîmes Olympique,Pau FC,4-1-4-1,Pascal Plancque,1849,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589716
+5,sáb 21/08/2021,14:00,USL Dunkerque,Nîmes Olympique,4-1-4-1,Pascal Plancque,1498,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589728
+6,sáb 28/08/2021,10:00,Nîmes Olympique,SM Caen,4-1-4-1,Pascal Plancque,3296,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589904
+7,sáb 11/09/2021,14:00,Grenoble,Nîmes Olympique,4-1-4-1,Pascal Plancque,5274,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589917
+8,sáb 18/09/2021,14:00,Nîmes Olympique,Amiens SC,4-1-4-1,Pascal Plancque,2497,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589924
+9,ter 21/09/2021,15:00,Paris FC,Nîmes Olympique,4-1-4-1,Pascal Plancque,2726,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589940
+10,sex 24/09/2021,16:00,Nîmes Olympique,Le Havre,4-1-4-1,Pascal Plancque,2540,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589946
+11,sáb 02/10/2021,10:00,Auxerre,Nîmes Olympique,4-1-4-1,Pascal Plancque,9479,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589961
+12,seg 18/10/2021,15:45,Nîmes Olympique,AC Ajaccio,4-4-2,Pascal Plancque,2329,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589973
+13,sáb 23/10/2021,14:00,Guingamp,Nîmes Olympique,4-3-3 ofensivo,Pascal Plancque,9983,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589986
+14,sáb 30/10/2021,14:00,Nîmes Olympique,Chamois Niort,4-3-3 ofensivo,Pascal Plancque,1174,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589996
+15,sáb 06/11/2021,11:00,FC Sochaux,Nîmes Olympique,4-1-4-1,Pascal Plancque,9780,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590010
+16,sáb 20/11/2021,15:00,Nîmes Olympique,Quevilly Rouen,4-1-4-1,Pascal Plancque,1203,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590017
+17,sex 03/12/2021,17:00,Rodez AF,Nîmes Olympique,3-1-4-2,Pascal Plancque,1567,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590029
+18,sáb 11/12/2021,15:00,Nîmes Olympique,AS Nancy,3-1-4-2,Pascal Plancque,1210,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590037
+19,ter 21/12/2021,16:45,Nîmes Olympique,Toulouse,4-4-2 duplo 6,Pascal Plancque,2064,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590045
+20,sáb 08/01/2022,15:00,Dijon,Nîmes Olympique,4-2-3-1,Nicolas Usaï,5400,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590054
+21,sex 28/01/2022,15:00,Nîmes Olympique,Valenciennes,4-2-3-1,Nicolas Usaï,1378,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590120
+22,ter 01/02/2022,15:00,Pau FC,Nîmes Olympique,4-3-3 ofensivo,Nicolas Usaï,2224,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590142
+23,sáb 05/02/2022,15:00,Nîmes Olympique,USL Dunkerque,4-3-3 ofensivo,Nicolas Usaï,1500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590158
+24,sáb 12/02/2022,15:00,SM Caen,Nîmes Olympique,4-4-2,Nicolas Usaï,8075,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590168
+25,sáb 19/02/2022,15:00,Nîmes Olympique,Grenoble,4-2-3-1,Nicolas Usaï,1492,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590178
+26,sáb 26/02/2022,15:00,Amiens SC,Nîmes Olympique,3-4-2-1,Nicolas Usaï,7354,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590186
+27,sáb 05/03/2022,11:00,Nîmes Olympique,Paris FC,4-2-3-1,Nicolas Usaï,2008,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590198
+28,sáb 12/03/2022,15:00,Le Havre,Nîmes Olympique,4-2-3-1,Nicolas Usaï,4407,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590212
+29,ter 15/03/2022,15:00,Nîmes Olympique,Auxerre,4-2-3-1,Nicolas Usaï,1838,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590218
+30,sáb 19/03/2022,15:00,AC Ajaccio,Nîmes Olympique,4-2-3-1,Nicolas Usaï,2300,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590225
+31,sáb 02/04/2022,14:00,Nîmes Olympique,Guingamp,4-2-3-1,Nicolas Usaï,1345,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590239
+32,sáb 09/04/2022,14:00,Chamois Niort,Nîmes Olympique,4-2-3-1,Nicolas Usaï,2000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590251
+33,sáb 16/04/2022,14:00,Nîmes Olympique,FC Sochaux,3-5-2,Nicolas Usaï,1694,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590260
+34,ter 19/04/2022,15:00,Quevilly Rouen,Nîmes Olympique,4-3-3 ofensivo,Nicolas Usaï,3334,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590272
+35,sex 22/04/2022,16:00,Nîmes Olympique,Rodez AF,4-2-3-1,Nicolas Usaï,1560,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590281
+36,sáb 30/04/2022,14:00,AS Nancy,Nîmes Olympique,4-4-2,Nicolas Usaï,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590289
+37,sáb 07/05/2022,14:00,Toulouse,Nîmes Olympique,4-4-2,Nicolas Usaï,27868,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590303
+38,sáb 14/05/2022,14:00,Nîmes Olympique,SC Bastia,4-4-2,Nicolas Usaï,2194,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590309

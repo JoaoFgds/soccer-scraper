@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 25/05/2013,18:30,Vasco da Gama,Portuguesa,4-4-2 duplo 6,Paulo Autuori,11099,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2317517
+2,qua 29/05/2013,19:30,São Paulo,Vasco da Gama,4-3-1-2,Paulo Autuori,8079,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2318591
+3,sáb 01/06/2013,18:30,Vitória,Vasco da Gama,4-4-2 duplo 6,Paulo Autuori,11535,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2318603
+4,qua 05/06/2013,21:00,Vasco da Gama,Atlético-MG,4-2-3-1,Paulo Autuori,2744,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2318727
+5,sáb 08/06/2013,18:30,Vasco da Gama,Bahia,4-2-3-1,Paulo Autuori,3986,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2319212
+6,dom 07/07/2013,16:00,Internacional,Vasco da Gama,4-4-2 duplo 6,Paulo Autuori,2858,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2319689
+7,dom 14/07/2013,18:30,Vasco da Gama,Flamengo,4-4-2 duplo 6,Dorival Júnior,61767,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2327543
+8,dom 21/07/2013,18:30,Fluminense,Vasco da Gama,4-4-2 duplo 6,Dorival Júnior,46860,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343409
+9,sáb 27/07/2013,18:30,Vasco da Gama,Criciúma,4-4-2 duplo 6,Dorival Júnior,18304,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343412
+10,qui 01/08/2013,21:00,Goiás,Vasco da Gama,4-3-1-2,Dorival Júnior,18136,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343431
+11,dom 04/08/2013,18:30,Vasco da Gama,Botafogo,4-4-2 duplo 6,Dorival Júnior,33419,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343434
+12,qui 08/08/2013,21:00,Vasco da Gama,Ponte Preta,4-4-2 duplo 6,Dorival Júnior,9347,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344072
+13,dom 11/08/2013,16:00,Coritiba,Vasco da Gama,4-4-2 duplo 6,Dorival Júnior,19140,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344101
+14,qua 14/08/2013,19:30,Santos,Vasco da Gama,4-3-1-2,Dorival Júnior,3898,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344096
+15,sáb 17/08/2013,21:00,Vasco da Gama,Grêmio,4-4-2 duplo 6,Dorival Júnior,15781,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344110
+16,dom 25/08/2013,16:00,Vasco da Gama,Corinthians,4-4-2 duplo 6,Dorival Júnior,21627,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344086
+17,dom 01/09/2013,18:30,Cruzeiro,Vasco da Gama,4-4-2 duplo 6,Dorival Júnior,17071,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344067
+18,qui 05/09/2013,21:00,Náutico,Vasco da Gama,4-4-2 duplo 6,Dorival Júnior,8153,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344069
+19,dom 08/09/2013,18:30,Vasco da Gama,Atlético-PR,4-1-3-2,Dorival Júnior,11832,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344057
+20,qua 11/09/2013,21:50,Portuguesa,Vasco da Gama,4-3-1-2,Dorival Júnior,4207,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344127
+21,dom 15/09/2013,16:00,Vasco da Gama,São Paulo,4-4-2 duplo 6,Dorival Júnior,10961,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344158
+22,qua 18/09/2013,19:30,Vasco da Gama,Vitória,4-1-3-2,Dorival Júnior,5624,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344120
+23,dom 22/09/2013,18:30,Atlético-MG,Vasco da Gama,4-4-2 duplo 6,Dorival Júnior,12834,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344163
+24,dom 29/09/2013,16:00,Bahia,Vasco da Gama,4-4-2 duplo 6,Dorival Júnior,31946,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344142
+25,qui 03/10/2013,21:00,Vasco da Gama,Internacional,4-4-2 duplo 6,Dorival Júnior,10220,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344267
+26,dom 06/10/2013,16:00,Flamengo,Vasco da Gama,4-4-2 duplo 6,Dorival Júnior,34597,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344207
+27,qua 09/10/2013,21:50,Vasco da Gama,Fluminense,4-4-2 duplo 6,Dorival Júnior,8245,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344317
+28,dom 13/10/2013,16:00,Criciúma,Vasco da Gama,4-5-1,Dorival Júnior,13158,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344203
+29,qui 17/10/2013,19:30,Vasco da Gama,Goiás,4-4-2 duplo 6,Dorival Júnior,7766,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344179
+30,dom 20/10/2013,18:30,Botafogo,Vasco da Gama,?,Dorival Júnior,15152,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344228
+31,dom 27/10/2013,16:00,Ponte Preta,Vasco da Gama,4-1-4-1,Dorival Júnior,13349,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344166
+32,sáb 02/11/2013,19:30,Vasco da Gama,Coritiba,?,Adilson Batista,6615,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344157
+33,dom 10/11/2013,19:30,Vasco da Gama,Santos,4-4-2 duplo 6,Adilson Batista,56756,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344276
+34,qua 13/11/2013,19:30,Grêmio,Vasco da Gama,5-3-2,Adilson Batista,16863,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344248
+35,dom 17/11/2013,17:00,Corinthians,Vasco da Gama,?,Adilson Batista,19207,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344255
+36,sáb 23/11/2013,19:30,Vasco da Gama,Cruzeiro,?,Adilson Batista,38654,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344295
+37,dom 01/12/2013,17:00,Vasco da Gama,Náutico,4-4-2 duplo 6,Ricardo Gomes,55914,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344250
+38,dom 08/12/2013,17:00,Atlético-PR,Vasco da Gama,4-4-2 duplo 6,Adilson Batista,8978,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344215

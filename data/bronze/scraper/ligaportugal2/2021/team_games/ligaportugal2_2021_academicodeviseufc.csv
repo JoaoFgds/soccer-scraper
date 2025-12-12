@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 07/08/2021,06:45,Académico FC,Casa Pia,4-1-3-2,Zé Gomes,132,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621657
+2,dom 15/08/2021,15:30,Covilhã,Académico FC,4-1-3-2,Zé Gomes,432,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621669
+3,dom 22/08/2021,14:00,Académico FC,Mafra,4-1-3-2,Zé Gomes,249,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621693
+4,qui 26/08/2021,14:00,Chaves,Académico FC,3-4-3 plano,Zé Gomes,923,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621684
+5,seg 13/09/2021,15:30,Académico FC,Farense,3-4-3 plano,Zé Gomes,133,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621675
+6,seg 20/09/2021,15:30,Leixões,Académico FC,3-4-3 plano,Zé Gomes,944,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621703
+7,sáb 02/10/2021,10:00,Académico FC,Académica,3-4-3 plano,Zé Gomes,370,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621720
+8,dom 10/10/2021,15:30,Estrela Amadora,Académico FC,3-4-3 plano,Zé Gomes,3117,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621733
+9,sex 22/10/2021,14:00,Académico FC,Varzim,3-4-3 plano,Zé Gomes,125,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621712
+10,dom 31/10/2021,11:00,Rio Ave,Académico FC,3-4-3 plano,Zé Gomes,720,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621779
+11,seg 08/11/2021,17:15,Académico FC,Feirense,3-4-3 plano,Zé Gomes,266,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621739
+12,sáb 27/11/2021,12:30,Académico FC,Vilafranquense,3-4-3 plano,Zé Gomes,139,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621794
+13,dom 05/12/2021,12:30,Trofense,Académico FC,3-4-3 plano,Zé Gomes,512,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621760
+14,ter 14/12/2021,15:00,Académico FC,Benfica B,3-4-3 plano,Zé Gomes,192,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621775
+15,dom 19/12/2021,12:30,FC Porto B,Académico FC,4-2-3-1,Zé Gomes,270,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621768
+16,qua 29/12/2021,12:30,Académico FC,Nacional,?,Zé Gomes,71,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621747
+17,sáb 08/01/2022,08:00,Penafiel,Académico FC,4-2-3-1,Pedro Ribeiro,215,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621818
+18,sáb 15/01/2022,08:00,Casa Pia,Académico FC,4-2-3-1,Pedro Ribeiro,194,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621801
+19,seg 24/01/2022,12:30,Académico FC,Covilhã,?,Pedro Ribeiro,72,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621813
+20,dom 30/01/2022,08:00,Mafra,Académico FC,?,Pedro Ribeiro,499,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621929
+21,sáb 05/02/2022,12:00,Académico FC,Chaves,?,Pedro Ribeiro,278,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621837
+22,dom 13/02/2022,16:30,Farense,Académico FC,4-3-3 ofensivo,Pedro Ribeiro,3227,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621943
+23,sex 18/02/2022,15:00,Académico FC,Leixões,?,Pedro Ribeiro,114,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621829
+24,seg 28/02/2022,16:30,Académica,Académico FC,?,Pedro Ribeiro,2448,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621911
+25,sáb 05/03/2022,08:00,Académico FC,Estrela Amadora,?,Pedro Ribeiro,173,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621925
+26,sex 11/03/2022,15:00,Varzim,Académico FC,4-3-3 ofensivo,Pedro Ribeiro,2349,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621856
+27,sex 18/03/2022,15:00,Académico FC,Rio Ave,4-3-3 defensivo,Pedro Ribeiro,249,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621842
+28,sáb 02/04/2022,10:00,Feirense,Académico FC,4-3-3 ofensivo,Pedro Ribeiro,2721,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621917
+29,sáb 09/04/2022,11:30,Vilafranquense,Académico FC,4-3-3 ofensivo,Pedro Ribeiro,236,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621923
+30,sáb 16/04/2022,11:30,Académico FC,Trofense,?,Pedro Ribeiro,439,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621945
+31,dom 24/04/2022,11:30,Benfica B,Académico FC,?,Pedro Ribeiro,531,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621910
+32,sex 29/04/2022,14:00,Académico FC,FC Porto B,4-3-3 ofensivo,Pedro Ribeiro,261,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621956
+33,sáb 07/05/2022,11:30,Nacional,Académico FC,?,Pedro Ribeiro,876,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621893
+34,sex 13/05/2022,14:00,Académico FC,Penafiel,3-4-3 plano,Pedro Ribeiro,141,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621888

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 09/04/2022,21:00,Palmeiras,Ceará,4-3-3 ofensivo,Dorival Júnior,27100,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767775
+2,dom 17/04/2022,19:00,Ceará,Botafogo,4-3-3 ofensivo,Dorival Júnior,33734,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767788
+3,qua 01/06/2022,20:30,Fortaleza,Ceará,4-3-3 ofensivo,Dorival Júnior,37372,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767798
+4,sáb 30/04/2022,16:30,Ceará,Bragantino,4-3-3 ofensivo,Dorival Júnior,23211,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767828
+5,sáb 07/05/2022,20:30,Athletico-PR,Ceará,4-2-3-1,Dorival Júnior,22659,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767821
+6,sáb 14/05/2022,16:30,Ceará,Flamengo,4-2-3-1,Dorival Júnior,52139,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767808
+7,sáb 21/05/2022,18:30,Santos,Ceará,4-3-3 ofensivo,Dorival Júnior,25797,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767836
+8,sáb 28/05/2022,19:00,São Paulo,Ceará,4-3-3 ofensivo,Dorival Júnior,32977,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767844
+9,sáb 04/06/2022,19:00,Ceará,Coritiba,4-2-3-1,Dorival Júnior,27602,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767858
+10,qua 08/06/2022,19:00,América-MG,Ceará,4-3-3 ofensivo,Dorival Júnior,2132,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767882
+11,dom 12/06/2022,16:00,Goiás,Ceará,4-3-3 ofensivo,Marquinhos Santos,9011,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767879
+12,qua 15/06/2022,19:00,Ceará,Atlético-MG,4-3-3 ofensivo,Marquinhos Santos,26774,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767868
+13,sáb 18/06/2022,19:00,Cuiabá,Ceará,4-3-3 ofensivo,Marquinhos Santos,7512,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767900
+14,dom 26/06/2022,18:00,Ceará,Atlético-GO,4-3-3 ofensivo,Marquinhos Santos,21337,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767908
+15,sáb 02/07/2022,19:00,Ceará,Internacional,4-2-3-1,Marquinhos Santos,23283,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767918
+16,sáb 09/07/2022,19:00,Fluminense,Ceará,4-2-3-1,Marquinhos Santos,63707,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768143
+17,sáb 16/07/2022,21:00,Ceará,Corinthians,4-2-3-1,Marquinhos Santos,28683,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768138
+18,ter 19/07/2022,21:30,Ceará,Avaí,4-2-3-1,Marquinhos Santos,37567,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768128
+19,dom 24/07/2022,16:00,Juventude,Ceará,4-2-3-1,Marquinhos Santos,4445,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768117
+20,sáb 30/07/2022,16:30,Ceará,Palmeiras,4-2-3-1,Marquinhos Santos,40912,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768108
+21,sáb 06/08/2022,16:30,Botafogo,Ceará,4-2-3-1,Marquinhos Santos,21657,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768096
+22,dom 14/08/2022,16:00,Ceará,Fortaleza,4-2-3-1,Marquinhos Santos,33355,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768088
+23,dom 21/08/2022,18:00,Bragantino,Ceará,4-2-3-1,Juca,2488,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768074
+24,sáb 27/08/2022,21:00,Ceará,Athletico-PR,4-2-3-1,Juca,16754,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768068
+25,dom 04/09/2022,11:00,Flamengo,Ceará,4-2-3-1,Lucho González,64387,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768053
+26,sáb 10/09/2022,16:30,Ceará,Santos,4-2-3-1,Lucho González,38339,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768048
+27,dom 18/09/2022,16:00,Ceará,São Paulo,4-2-3-1,Lucho González,43000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768038
+28,qua 28/09/2022,21:45,Coritiba,Ceará,4-2-3-1,Lucho González,14735,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768011
+29,sáb 01/10/2022,19:00,Ceará,América-MG,4-3-3 ofensivo,Lucho González,13976,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768018
+30,qua 05/10/2022,19:00,Ceará,Goiás,3-4-1-2,Lucho González,16702,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768028
+31,dom 09/10/2022,18:00,Atlético-MG,Ceará,4-3-3 ofensivo,Lucho González,34718,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767992
+32,dom 16/10/2022,16:00,Ceará,Cuiabá,3-4-3 plano,Lucho González,41242,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767988
+33,dom 23/10/2022,18:00,Atlético-GO,Ceará,3-4-2-1,Lucho González,10166,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767979
+34,qua 26/10/2022,21:45,Internacional,Ceará,4-4-2,Lucho González,10544,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767947
+35,seg 31/10/2022,20:00,Ceará,Fluminense,4-2-3-1,Juca,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767958
+36,sáb 05/11/2022,20:30,Corinthians,Ceará,4-3-1-2,Juca,41335,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767965
+37,qua 09/11/2022,19:00,Avaí,Ceará,4-2-3-1,Juca,2025,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767940
+38,dom 13/11/2022,16:00,Ceará,Juventude,4-2-3-1,Juca,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767928

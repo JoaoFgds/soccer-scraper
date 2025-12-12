@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 10/08/2019,13:30,Tottenham,Aston Villa,4-3-1-2,Mauricio Pochettino,60407,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3194823
+2,sáb 17/08/2019,13:30,Man City,Tottenham,4-2-3-1,Mauricio Pochettino,54503,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219093
+3,dom 25/08/2019,12:30,Tottenham,Newcastle,4-2-3-1,Mauricio Pochettino,59245,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219088
+4,dom 01/09/2019,12:30,Arsenal,Tottenham,4-4-2 duplo 6,Mauricio Pochettino,60333,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219081
+5,sáb 14/09/2019,11:00,Tottenham,Crystal Palace,4-4-2 duplo 6,Mauricio Pochettino,59812,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219414
+6,sáb 21/09/2019,08:30,Leicester,Tottenham,4-3-1-2,Mauricio Pochettino,32129,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219075
+7,sáb 28/09/2019,11:00,Tottenham,Southampton,4-3-1-2,Mauricio Pochettino,59645,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219404
+8,sáb 05/10/2019,08:30,Brighton,Tottenham,4-2-3-1,Mauricio Pochettino,30610,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219402
+9,sáb 19/10/2019,11:00,Tottenham,Watford,5-4-1 plano,Mauricio Pochettino,58754,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219383
+10,dom 27/10/2019,13:30,Liverpool,Tottenham,4-3-3 ofensivo,Mauricio Pochettino,53222,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219389
+11,dom 03/11/2019,13:30,Everton,Tottenham,4-2-3-1,Mauricio Pochettino,39001,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219375
+12,sáb 09/11/2019,12:00,Tottenham,Sheff Utd,4-2-3-1,Mauricio Pochettino,59781,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219353
+13,sáb 23/11/2019,09:30,West Ham,Tottenham,4-2-3-1,José Mourinho,59930,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219340
+14,sáb 30/11/2019,12:00,Tottenham,Bournemouth,4-1-4-1,José Mourinho,59626,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219333
+15,qua 04/12/2019,16:30,Man Utd,Tottenham,4-2-3-1,José Mourinho,73252,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219335
+16,sáb 07/12/2019,12:00,Tottenham,FC Burnley,4-2-3-1,José Mourinho,58401,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219319
+17,dom 15/12/2019,11:00,Wolves,Tottenham,4-3-3 ofensivo,José Mourinho,31674,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219300
+18,dom 22/12/2019,13:30,Tottenham,Chelsea,4-3-3 ofensivo,José Mourinho,61104,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219306
+19,qui 26/12/2019,09:30,Tottenham,Brighton,3-5-2 plano,José Mourinho,56308,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219278
+20,sáb 28/12/2019,14:30,Norwich,Tottenham,3-5-2 plano,José Mourinho,27027,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219271
+21,qua 01/01/2020,12:00,Southampton,Tottenham,4-2-3-1,José Mourinho,30976,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219262
+22,sáb 11/01/2020,14:30,Tottenham,Liverpool,4-4-2,José Mourinho,61023,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219255
+23,sáb 18/01/2020,09:30,Watford,Tottenham,4-3-3 ofensivo,José Mourinho,21366,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219245
+24,qua 22/01/2020,16:30,Tottenham,Norwich,4-2-3-1,José Mourinho,58182,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219240
+25,dom 02/02/2020,13:30,Tottenham,Man City,4-2-3-1,José Mourinho,61022,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219228
+26,dom 16/02/2020,11:00,Aston Villa,Tottenham,4-2-3-1,José Mourinho,41874,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219219
+27,sáb 22/02/2020,09:30,Chelsea,Tottenham,5-4-1 plano,José Mourinho,40608,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219186
+28,dom 01/03/2020,11:00,Tottenham,Wolves,5-4-1 plano,José Mourinho,58064,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219202
+29,sáb 07/03/2020,14:30,FC Burnley,Tottenham,5-4-1 plano,José Mourinho,20496,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219133
+30,sex 19/06/2020,16:15,Tottenham,Man Utd,4-2-3-1,José Mourinho,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219141
+31,ter 23/06/2020,16:15,Tottenham,West Ham,4-2-3-1,José Mourinho,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219159
+32,qui 02/07/2020,14:00,Sheff Utd,Tottenham,4-2-3-1,José Mourinho,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219176
+33,seg 06/07/2020,16:00,Tottenham,Everton,4-3-3 ofensivo,José Mourinho,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219190
+34,qui 09/07/2020,14:00,Bournemouth,Tottenham,4-3-3 ofensivo,José Mourinho,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219197
+35,dom 12/07/2020,12:30,Tottenham,Arsenal,4-4-1-1,José Mourinho,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219110
+36,qua 15/07/2020,14:00,Newcastle,Tottenham,4-3-3 defensivo,José Mourinho,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219136
+37,dom 19/07/2020,12:00,Tottenham,Leicester,4-2-3-1,José Mourinho,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219156
+38,dom 26/07/2020,12:00,Crystal Palace,Tottenham,4-2-3-1,José Mourinho,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219104

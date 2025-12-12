@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 12/08/2018,13:00,Penafiel,Arouca,4-3-3 ofensivo,Miguel Leal,769,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070430
+2,dom 19/08/2018,07:15,Arouca,Benfica B,4-3-3 defensivo,Miguel Leal,840,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070440
+3,dom 26/08/2018,13:00,Académico FC,Arouca,4-3-3 ofensivo,Miguel Leal,300,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070447
+4,dom 02/09/2018,13:00,Famalicão,Arouca,4-3-3 defensivo,Miguel Leal,2018,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070474
+5,sáb 22/09/2018,12:00,Arouca,Braga B,4-3-3 defensivo,Miguel Leal,1160,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070498
+6,dom 07/10/2018,11:00,FC Porto B,Arouca,4-4-2 duplo 6,Quim Machado,346,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070504
+7,dom 28/10/2018,12:00,Arouca,Mafra,4-4-2 duplo 6,Quim Machado,737,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070516
+8,sáb 03/11/2018,12:00,Cova da Piedade,Arouca,4-4-2 duplo 6,Quim Machado,668,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070518
+9,dom 11/11/2018,13:00,Arouca,Leixões,4-3-3 defensivo,Quim Machado,515,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070534
+10,sáb 01/12/2018,13:00,Académica,Arouca,4-3-3 defensivo,Quim Machado,2428,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070543
+11,dom 09/12/2018,13:00,Arouca,Varzim,4-3-3 defensivo,Quim Machado,810,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070552
+12,dom 16/12/2018,13:00,Covilhã,Arouca,4-4-2 duplo 6,Quim Machado,223,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070554
+13,sáb 22/12/2018,13:00,Arouca,Vitória SC B,4-4-2 duplo 6,Quim Machado,795,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070578
+14,qua 02/01/2019,15:00,Paços Ferreira,Arouca,4-4-2 duplo 6,Quim Machado,1811,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070584
+15,dom 06/01/2019,13:00,Arouca,Farense,?,Quim Machado,856,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070597
+16,qua 09/01/2019,15:00,Estoril,Arouca,?,Quim Machado,527,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070598
+17,dom 13/01/2019,15:00,Arouca,UD Oliveirense,4-4-2 duplo 6,Quim Machado,945,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070615
+18,dom 20/01/2019,13:00,Arouca,Penafiel,4-4-2 duplo 6,Quim Machado,855,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070704
+19,qua 30/01/2019,14:00,Benfica B,Arouca,?,Quim Machado,293,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070771
+20,dom 03/02/2019,13:00,Arouca,Académico FC,4-4-2 duplo 6,Quim Machado,780,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070776
+21,dom 10/02/2019,15:00,Arouca,Famalicão,4-4-2 duplo 6,Quim Machado,1105,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070782
+22,dom 17/02/2019,12:00,Braga B,Arouca,4-4-2 duplo 6,Quim Machado,312,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070796
+23,dom 24/02/2019,12:00,Arouca,FC Porto B,4-2-3-1,Quim Machado,745,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070803
+24,sáb 02/03/2019,12:00,Mafra,Arouca,4-4-2 duplo 6,Quim Machado,413,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070816
+25,dom 10/03/2019,14:00,Arouca,Cova da Piedade,4-4-2 duplo 6,Quim Machado,900,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070818
+26,sáb 16/03/2019,12:00,Leixões,Arouca,4-4-2 duplo 6,Quim Machado,626,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070834
+27,dom 31/03/2019,14:00,Arouca,Académica,3-4-3 plano,Quim Machado,1370,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070841
+28,sáb 06/04/2019,14:00,Varzim,Arouca,4-4-2 duplo 6,Quim Machado,1083,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070850
+29,dom 14/04/2019,12:00,Arouca,Covilhã,3-4-3 plano,Quim Machado,803,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070857
+30,sáb 20/04/2019,14:00,Vitória SC B,Arouca,3-5-2,Quim Machado,653,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070870
+31,dom 28/04/2019,12:00,Arouca,Paços Ferreira,4-4-2 duplo 6,Quim Machado,1480,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070876
+32,dom 05/05/2019,12:00,Farense,Arouca,4-4-2 duplo 6,Quim Machado,4571,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070889
+33,sáb 11/05/2019,13:00,Arouca,Estoril,4-4-2 duplo 6,Quim Machado,1890,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070890
+34,dom 19/05/2019,11:00,UD Oliveirense,Arouca,4-4-2 duplo 6,Quim Machado,917,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070905

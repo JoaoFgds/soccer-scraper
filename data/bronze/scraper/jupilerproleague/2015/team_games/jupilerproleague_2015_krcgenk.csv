@@ -1,0 +1,31 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 25/07/2015,15:00,KRC Genk,OH Leuven,4-3-3 defensivo,Peter Maes,16120,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2587024
+2,sex 31/07/2015,15:30,KAA Gent,KRC Genk,4-4-1-1,Peter Maes,19598,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2587030
+3,sex 07/08/2015,15:30,Zulte Waregem,KRC Genk,4-4-1-1,Peter Maes,8138,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2587038
+4,sáb 15/08/2015,15:00,KRC Genk,KVC Westerlo,4-3-3 ofensivo,Peter Maes,16830,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2587050
+5,sex 21/08/2015,15:30,St.Truiden,KRC Genk,4-4-1-1,Peter Maes,12501,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2617066
+6,sex 28/08/2015,15:30,KRC Genk,R Charleroi SC,4-4-2 duplo 6,Peter Maes,17650,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2617082
+7,dom 13/09/2015,13:00,Anderlecht,KRC Genk,4-2-3-1,Peter Maes,21000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2624877
+8,sex 18/09/2015,15:30,KRC Genk,KV Mechelen,4-3-3 ofensivo,Peter Maes,17350,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2626579
+9,dom 27/09/2015,15:00,KV Kortrijk,KRC Genk,4-3-3 defensivo,Peter Maes,7257,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2629215
+10,dom 04/10/2015,13:00,KRC Genk,Standard Liège,4-3-3 defensivo,Peter Maes,20515,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2630703
+11,sáb 17/10/2015,15:00,Waasland-Beveren,KRC Genk,4-3-3 defensivo,Peter Maes,6393,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2633796
+12,sex 23/10/2015,16:30,KRC Genk,Royal Mouscron,4-3-3 defensivo,Peter Maes,16120,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2633801
+13,ter 27/10/2015,17:30,KV Oostende,KRC Genk,4-2-3-1,Peter Maes,7400,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2635112
+14,sex 30/10/2015,17:30,KRC Genk,KSC Lokeren,4-3-3 defensivo,Peter Maes,15411,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2635118
+15,dom 08/11/2015,15:00,Club Brugge,KRC Genk,4-3-3 defensivo,Peter Maes,27000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2636710
+16,sáb 21/11/2015,17:00,OH Leuven,KRC Genk,4-3-3 defensivo,Peter Maes,7640,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2636714
+17,sáb 28/11/2015,15:00,KRC Genk,KAA Gent,4-2-3-1,Peter Maes,16545,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2640897
+18,dom 06/12/2015,15:00,KRC Genk,Anderlecht,4-3-3 defensivo,Peter Maes,17675,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2640910
+19,sex 11/12/2015,17:30,KVC Westerlo,KRC Genk,4-3-3 ofensivo,Peter Maes,6500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2640912
+20,sáb 19/12/2015,15:00,KRC Genk,St.Truiden,4-3-3 defensivo,Peter Maes,17385,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2640927
+21,sáb 26/12/2015,15:00,R Charleroi SC,KRC Genk,4-3-3 defensivo,Peter Maes,11669,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2648377
+22,sex 15/01/2016,17:30,KRC Genk,Zulte Waregem,4-3-3 ofensivo,Peter Maes,16530,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2653861
+23,sáb 23/01/2016,15:00,KV Mechelen,KRC Genk,4-3-3 ofensivo,Peter Maes,9613,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2653887
+24,sáb 30/01/2016,17:30,KRC Genk,KV Kortrijk,4-3-3 ofensivo,Peter Maes,14530,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2653898
+25,sáb 06/02/2016,15:00,Royal Mouscron,KRC Genk,4-3-3 defensivo,Peter Maes,3500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2653903
+26,sáb 13/02/2016,17:30,KRC Genk,Waasland-Beveren,4-4-2 duplo 6,Peter Maes,14125,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2653914
+27,sáb 20/02/2016,17:30,KSC Lokeren,KRC Genk,4-2-3-1,Peter Maes,7892,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2662188
+28,dom 28/02/2016,10:30,KRC Genk,Club Brugge,4-3-3 ofensivo,Peter Maes,19068,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2662197
+29,sáb 05/03/2016,16:00,Standard Liège,KRC Genk,4-3-3 ofensivo,Peter Maes,30023,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2668503
+30,dom 13/03/2016,14:00,KRC Genk,KV Oostende,4-3-3 ofensivo,Peter Maes,17530,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2668505

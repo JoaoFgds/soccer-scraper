@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 28/07/2001,15:00,Montpellier,Marselha,4-4-1-1,José Anigo,29507,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002376
+2,sex 03/08/2001,15:45,Marselha,Bordeaux,4-4-1-1,José Anigo,55803,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002467
+3,sáb 11/08/2001,15:00,Lens,Marselha,5-4-1 plano,José Anigo,40323,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002478
+4,sáb 18/08/2001,15:00,Marselha,Troyes,5-4-1,José Anigo,55719,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002488
+5,sáb 25/08/2001,15:00,SC Bastia,Marselha,?,Albert Emon,11333,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002495
+6,sáb 08/09/2001,12:15,Marselha,Lyon,?,Tomislav Ivic,52559,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002503
+7,dom 16/09/2001,15:45,CS Sedan,Marselha,5-4-1 plano,Tomislav Ivic,20150,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002520
+8,sáb 22/09/2001,15:00,Marselha,Nantes,5-4-1 plano,Tomislav Ivic,49752,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002525
+9,sáb 29/09/2001,12:15,Guingamp,Marselha,5-3-2,Tomislav Ivic,12714,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002530
+10,sáb 13/10/2001,12:15,FC Metz,Marselha,5-3-2,Tomislav Ivic,25609,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002539
+11,sáb 20/10/2001,16:00,Marselha,Lille,5-3-2,Tomislav Ivic,50476,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002551
+12,sex 26/10/2001,16:45,Auxerre,Marselha,5-4-1 plano,Tomislav Ivic,20502,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002557
+13,sáb 03/11/2001,17:00,Marselha,Rennes,4-4-2 duplo 6,Tomislav Ivic,49668,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002568
+14,sex 16/11/2001,17:45,Monaco,Marselha,?,Tomislav Ivic,14492,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002575
+15,sáb 24/11/2001,14:15,Marselha,FC Sochaux,5-3-2,Tomislav Ivic,48425,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002589
+16,qui 29/11/2001,17:45,PSG,Marselha,4-4-1-1,Tomislav Ivic,42178,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002601
+17,sáb 08/12/2001,17:00,Marselha,FC Lorient,?,Albert Emon,47703,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002605
+18,ter 18/12/2001,17:45,Bordeaux,Marselha,?,Albert Emon,32389,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002612
+19,sex 21/12/2001,17:45,Marselha,Lens,5-3-2,Albert Emon,49392,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002620
+20,sáb 26/01/2002,14:15,Troyes,Marselha,?,Albert Emon,15715,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002635
+21,sáb 12/01/2002,17:00,Marselha,SC Bastia,?,Albert Emon,47121,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002640
+22,qua 23/01/2002,17:30,Lyon,Marselha,?,Albert Emon,38378,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002650
+23,qua 30/01/2002,17:30,Marselha,CS Sedan,4-3-3 ofensivo,Albert Emon,46285,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002659
+24,dom 03/02/2002,17:45,Nantes,Marselha,?,Albert Emon,35453,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002673
+25,qua 06/02/2002,17:30,Marselha,Guingamp,?,Albert Emon,46630,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002678
+26,sáb 16/02/2002,17:00,Marselha,FC Metz,?,Albert Emon,47449,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002687
+27,dom 24/02/2002,16:45,Lille,Marselha,?,Albert Emon,19447,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002699
+28,seg 01/04/2002,14:00,Marselha,Auxerre,?,Albert Emon,50955,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002710
+29,sáb 16/03/2002,13:15,Rennes,Marselha,?,Albert Emon,22656,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002719
+30,dom 24/03/2002,16:45,Marselha,Monaco,?,Albert Emon,48964,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002736
+31,sáb 06/04/2002,15:00,FC Sochaux,Marselha,4-2-3-1,Albert Emon,19907,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002744
+32,sex 12/04/2002,15:45,Marselha,PSG,?,Albert Emon,55797,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002746
+33,sáb 27/04/2002,15:00,FC Lorient,Marselha,4-2-3-1,Albert Emon,15896,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002757
+34,sáb 04/05/2002,15:00,Marselha,Montpellier,4-3-3 ofensivo,Albert Emon,47813,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1002768

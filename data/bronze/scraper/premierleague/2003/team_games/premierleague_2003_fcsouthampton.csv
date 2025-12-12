@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 16/08/2003,11:00,Leicester,Southampton,4-5-1,Gordon Strachan,31621,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/452
+2,sáb 23/08/2003,11:00,Southampton,Birmingham,4-4-2 duplo 6,Gordon Strachan,31656,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/660
+3,ter 26/08/2003,15:45,Leeds,Southampton,4-4-2 duplo 6,Gordon Strachan,34721,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/865
+4,dom 31/08/2003,10:00,Southampton,Man Utd,4-4-2 duplo 6,Gordon Strachan,32066,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1051
+5,sáb 13/09/2003,11:00,Southampton,Wolves,4-4-2 duplo 6,Gordon Strachan,31711,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1243
+6,sáb 20/09/2003,11:00,Tottenham,Southampton,4-4-2 duplo 6,Gordon Strachan,35784,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1440
+7,sáb 27/09/2003,11:00,Southampton,Middlesbrough,4-4-2 duplo 6,Gordon Strachan,30772,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1641
+8,sáb 04/10/2003,11:00,Newcastle,Southampton,4-4-2,Gordon Strachan,52127,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1838
+9,dom 19/10/2003,13:05,Everton,Southampton,4-4-2 duplo 6,Gordon Strachan,35775,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2075
+10,sáb 25/10/2003,12:00,Southampton,Blackburn,4-4-2 duplo 6,Gordon Strachan,31620,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2254
+11,sáb 01/11/2003,13:00,Southampton,Man City,4-4-2 duplo 6,Gordon Strachan,31952,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2455
+12,sáb 08/11/2003,13:00,Bolton,Southampton,4-4-2 duplo 6,Gordon Strachan,25619,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2652
+13,sáb 22/11/2003,13:00,Southampton,Chelsea,4-4-2 duplo 6,Gordon Strachan,32149,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2852
+14,sáb 29/11/2003,13:00,Aston Villa,Southampton,4-4-2 duplo 6,Gordon Strachan,31285,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3048
+15,dom 07/12/2003,14:05,Southampton,Charlton,4-4-2 duplo 6,Gordon Strachan,30513,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3282
+16,sáb 13/12/2003,13:00,Liverpool,Southampton,4-4-2 duplo 6,Gordon Strachan,41762,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451
+17,dom 21/12/2003,10:30,Southampton,FC Portsmouth,4-4-2 duplo 6,Gordon Strachan,31697,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3674
+18,sex 26/12/2003,10:00,Fulham,Southampton,4-4-2,Gordon Strachan,16767,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3813
+19,seg 29/12/2003,18:00,Southampton,Arsenal,4-4-2,Gordon Strachan,32151,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4000
+20,qua 07/01/2004,17:45,Southampton,Leicester,4-4-2 duplo 6,Gordon Strachan,31053,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4162
+21,sáb 10/01/2004,13:00,Birmingham,Southampton,4-4-2 duplo 6,Gordon Strachan,29071,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4355
+22,sáb 17/01/2004,13:00,Southampton,Leeds,4-4-2 duplo 6,Gordon Strachan,31976,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4509
+23,sáb 31/01/2004,10:30,Man Utd,Southampton,4-4-2 duplo 6,Gordon Strachan,67758,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4711
+24,sáb 07/02/2004,13:00,Southampton,Fulham,4-4-2 duplo 6,Gordon Strachan,31820,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4913
+25,ter 10/02/2004,17:45,Arsenal,Southampton,4-4-2,Gordon Strachan,38007,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5119
+26,sáb 21/02/2004,12:00,Southampton,Everton,4-4-2 duplo 6,Gordon Strachan,31875,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5323
+27,sáb 28/02/2004,12:00,Blackburn,Southampton,4-4-2,Paul Sturrock,21970,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5529
+28,dom 14/03/2004,13:05,Southampton,Liverpool,4-4-2,Paul Sturrock,32056,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5750
+29,dom 21/03/2004,13:05,FC Portsmouth,Southampton,4-4-2,Paul Sturrock,20140,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5960
+30,sáb 27/03/2004,12:00,Southampton,Tottenham,4-4-2 duplo 6,Paul Sturrock,31973,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6144
+31,sáb 03/04/2004,11:00,Wolves,Southampton,4-4-2 duplo 6,Paul Sturrock,29106,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6354
+32,qua 12/05/2004,15:45,Southampton,Newcastle,4-4-2,Paul Sturrock,31815,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6702
+33,seg 12/04/2004,11:00,Middlesbrough,Southampton,4-4-2 duplo 6,Paul Sturrock,30768,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6765
+34,sáb 17/04/2004,11:00,Man City,Southampton,4-4-2,Paul Sturrock,47152,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6974
+35,sáb 24/04/2004,11:00,Southampton,Bolton,4-4-2,Paul Sturrock,24754,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7178
+36,sáb 01/05/2004,11:00,Chelsea,Southampton,3-5-2 plano,Paul Sturrock,41321,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7226
+37,sáb 08/05/2004,11:00,Southampton,Aston Villa,4-4-2,Paul Sturrock,32054,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7270
+38,sáb 15/05/2004,11:00,Charlton,Southampton,4-4-2 duplo 6,Paul Sturrock,26614,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7323

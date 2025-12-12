@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 12/08/2024,16:00,Luton,FC Burnley,4-2-3-1,Scott Parker,11777,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382378
+2,sáb 17/08/2024,11:00,FC Burnley,Cardiff,4-4-2,Scott Parker,19759,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382380
+3,sáb 24/08/2024,11:00,AFC Sunderland,FC Burnley,4-4-2,Scott Parker,40096,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382400
+4,sáb 31/08/2024,08:30,FC Burnley,Blackburn,4-2-3-1,Scott Parker,21042,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382403
+5,sáb 14/09/2024,08:30,Leeds,FC Burnley,4-2-3-1,Scott Parker,36405,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382418
+6,sáb 21/09/2024,11:00,FC Burnley,FC Portsmouth,4-2-3-1,Scott Parker,20476,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382428
+7,sáb 28/09/2024,11:00,Oxford United,FC Burnley,4-2-3-1,Scott Parker,11517,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382445
+8,ter 01/10/2024,15:45,FC Burnley,Plymouth Argyle,4-1-4-1,Scott Parker,18779,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382463
+9,sáb 05/10/2024,08:30,FC Burnley,Preston NE,4-2-3-1,Scott Parker,20816,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382452
+10,sáb 19/10/2024,11:00,Sheff Wed,FC Burnley,4-3-3 ofensivo,Scott Parker,28105,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382509
+11,qua 23/10/2024,15:45,Hull City,FC Burnley,4-1-4-1,Scott Parker,20168,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382476
+12,sáb 26/10/2024,11:00,FC Burnley,QPR,4-3-3 ofensivo,Scott Parker,19187,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382608
+13,dom 03/11/2024,12:00,Millwall,FC Burnley,4-2-3-1,Scott Parker,14245,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382517
+14,qui 07/11/2024,17:00,West Brom,FC Burnley,4-2-3-1,Scott Parker,23443,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382530
+15,dom 10/11/2024,12:00,FC Burnley,Swansea,4-2-3-1,Scott Parker,18717,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382547
+16,sáb 23/11/2024,09:30,Bristol City,FC Burnley,4-2-3-1,Scott Parker,20800,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382488
+17,ter 26/11/2024,16:45,FC Burnley,Coventry City,4-3-3 ofensivo,Scott Parker,18293,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382535
+18,sáb 30/11/2024,12:00,Stoke,FC Burnley,4-2-3-1,Scott Parker,22994,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382604
+19,sex 06/12/2024,17:00,FC Burnley,Middlesbrough,4-2-3-1,Scott Parker,20543,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382571
+20,ter 10/12/2024,16:45,FC Burnley,Derby,4-3-3 ofensivo,Scott Parker,18813,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382631
+21,dom 15/12/2024,12:00,Norwich,FC Burnley,4-2-3-1,Scott Parker,26218,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382588
+22,sáb 21/12/2024,12:00,FC Burnley,Watford,4-2-3-1,Scott Parker,19601,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382559
+23,qui 26/12/2024,12:00,Sheff Utd,FC Burnley,4-2-3-1,Scott Parker,30580,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382663
+24,dom 29/12/2024,17:00,Middlesbrough,FC Burnley,4-2-3-1,Scott Parker,27686,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382671
+25,qua 01/01/2025,12:00,FC Burnley,Stoke,4-2-3-1,Scott Parker,20119,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382619
+26,sáb 04/01/2025,09:30,Blackburn,FC Burnley,4-2-3-1,Scott Parker,25909,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382691
+27,sex 17/01/2025,17:00,FC Burnley,AFC Sunderland,4-2-3-1,Scott Parker,21014,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382643
+28,qua 22/01/2025,17:00,Plymouth Argyle,FC Burnley,4-2-3-1,Scott Parker,15509,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382688
+29,seg 27/01/2025,17:00,FC Burnley,Leeds,4-2-3-1,Scott Parker,21329,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382704
+30,sáb 01/02/2025,12:00,FC Portsmouth,FC Burnley,4-2-3-1,Scott Parker,20381,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382783
+31,ter 04/02/2025,16:45,FC Burnley,Oxford United,4-2-3-1,Scott Parker,18187,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382728
+32,qua 12/02/2025,16:45,FC Burnley,Hull City,4-2-3-1,Scott Parker,18987,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382747
+33,sáb 15/02/2025,09:30,Preston NE,FC Burnley,4-3-3 ofensivo,Scott Parker,19864,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382831
+34,sex 21/02/2025,17:00,FC Burnley,Sheff Wed,4-2-3-1,Scott Parker,20675,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382764
+35,ter 04/03/2025,16:45,Cardiff,FC Burnley,4-2-3-1,Scott Parker,15713,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382812
+36,sáb 08/03/2025,12:00,FC Burnley,Luton,4-3-3 ofensivo,Scott Parker,19453,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382752
+37,ter 11/03/2025,16:45,FC Burnley,West Brom,4-2-3-1,Scott Parker,18843,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382715
+38,sáb 15/03/2025,12:00,Swansea,FC Burnley,4-4-1-1,Scott Parker,13679,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382881
+39,sáb 29/03/2025,12:00,FC Burnley,Bristol City,4-4-1-1,Scott Parker,20523,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382883
+40,sáb 05/04/2025,08:30,Coventry City,FC Burnley,4-4-1-1,Scott Parker,28704,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382789
+41,ter 08/04/2025,15:45,Derby,FC Burnley,4-4-1-1,Scott Parker,27584,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382844
+42,sex 11/04/2025,16:00,FC Burnley,Norwich,4-2-3-1,Scott Parker,19030,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382799
+43,sex 18/04/2025,11:00,Watford,FC Burnley,4-2-3-1,Scott Parker,20523,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382870
+44,seg 21/04/2025,13:30,FC Burnley,Sheff Utd,4-2-3-1,Scott Parker,21486,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382895
+45,sáb 26/04/2025,08:30,QPR,FC Burnley,4-2-3-1,Scott Parker,16977,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382916
+46,sáb 03/05/2025,08:30,FC Burnley,Millwall,4-2-3-1,Scott Parker,21485,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382848

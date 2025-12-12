@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 17/08/2024,13:30,West Ham,Aston Villa,4-1-4-1,Julen Lopetegui,61990,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361267
+2,sáb 24/08/2024,11:00,Crystal Palace,West Ham,4-1-4-1,Julen Lopetegui,25099,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361274
+3,sáb 31/08/2024,13:30,West Ham,Man City,4-2-3-1,Julen Lopetegui,62500,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361299
+4,sáb 14/09/2024,11:00,Fulham,West Ham,4-2-3-1,Julen Lopetegui,26528,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361354
+5,sáb 21/09/2024,08:30,West Ham,Chelsea,3-4-3 plano,Julen Lopetegui,62000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361369
+6,sáb 28/09/2024,11:00,Brentford,West Ham,4-1-4-1,Julen Lopetegui,17050,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361372
+7,sáb 05/10/2024,11:00,West Ham,Ipswich,4-1-4-1,Julen Lopetegui,62215,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361389
+8,sáb 19/10/2024,08:30,Tottenham,West Ham,4-1-4-1,Julen Lopetegui,61381,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361398
+9,dom 27/10/2024,11:00,West Ham,Man Utd,4-2-3-1,Julen Lopetegui,62474,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361408
+10,sáb 02/11/2024,12:00,Nott'm Forest,West Ham,3-4-2-1,Julen Lopetegui,30445,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361416
+11,sáb 09/11/2024,12:00,West Ham,Everton,4-1-4-1,Julen Lopetegui,62463,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361428
+12,seg 25/11/2024,17:00,Newcastle,West Ham,4-2-3-1,Julen Lopetegui,52094,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361438
+13,sáb 30/11/2024,14:30,West Ham,Arsenal,4-2-3-1,Julen Lopetegui,62475,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361448
+14,ter 03/12/2024,17:15,Leicester,West Ham,4-2-3-1,Julen Lopetegui,30947,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361456
+15,seg 09/12/2024,17:00,West Ham,Wolves,4-2-3-1,Julen Lopetegui,62435,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361468
+16,seg 16/12/2024,17:00,Bournemouth,West Ham,4-2-3-1,Julen Lopetegui,11204,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361470
+17,sáb 21/12/2024,12:00,West Ham,Brighton,4-1-4-1,Julen Lopetegui,62500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361489
+18,qui 26/12/2024,12:00,Southampton,West Ham,4-1-4-1,Julen Lopetegui,31059,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361498
+19,dom 29/12/2024,14:15,West Ham,Liverpool,4-2-3-1,Julen Lopetegui,62476,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361509
+20,sáb 04/01/2025,12:00,Man City,West Ham,4-2-3-1,Julen Lopetegui,52737,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361515
+21,ter 14/01/2025,16:30,West Ham,Fulham,4-2-3-1,Graham Potter,62456,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361526
+22,sáb 18/01/2025,12:00,West Ham,Crystal Palace,3-4-2-1,Graham Potter,62469,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362737
+23,dom 26/01/2025,13:30,Aston Villa,West Ham,3-4-2-1,Graham Potter,42918,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362739
+24,seg 03/02/2025,17:00,Chelsea,West Ham,3-4-2-1,Graham Potter,39459,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362751
+25,sáb 15/02/2025,12:00,West Ham,Brentford,4-2-3-1,Graham Potter,62467,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362767
+26,sáb 22/02/2025,12:00,Arsenal,West Ham,5-3-2,Graham Potter,60262,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362769
+27,qui 27/02/2025,17:00,West Ham,Leicester,3-5-2 plano,Graham Potter,62455,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362782
+28,seg 10/03/2025,17:00,West Ham,Newcastle,3-5-2 plano,Graham Potter,62500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362796
+29,sáb 15/03/2025,12:00,Everton,West Ham,3-5-2 plano,Graham Potter,39343,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362801
+30,ter 01/04/2025,15:45,Wolves,West Ham,3-4-2-1,Graham Potter,30537,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362812
+31,sáb 05/04/2025,11:00,West Ham,Bournemouth,4-2-3-1,Graham Potter,62459,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362827
+32,dom 13/04/2025,10:00,Liverpool,West Ham,3-5-2 plano,Graham Potter,60376,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362832
+33,sáb 19/04/2025,11:00,West Ham,Southampton,4-2-3-1,Graham Potter,62461,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362847
+34,sáb 26/04/2025,11:00,Brighton,West Ham,3-5-2 plano,Graham Potter,31499,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362850
+35,dom 04/05/2025,10:00,West Ham,Tottenham,3-4-2-1,Graham Potter,62468,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362867
+36,dom 11/05/2025,10:15,Man Utd,West Ham,3-4-1-2,Graham Potter,73804,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362872
+37,dom 18/05/2025,10:15,West Ham,Nott'm Forest,3-4-1-2,Graham Potter,62466,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362887
+38,dom 25/05/2025,12:00,Ipswich,West Ham,3-1-4-2,Graham Potter,29771,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361532

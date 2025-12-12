@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 06/08/2022,13:30,Dortmund,Leverkusen,4-2-3-1,Edin Terzic,81365,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839026
+2,sex 12/08/2022,15:30,Freiburg,Dortmund,4-2-3-1,Edin Terzic,34700,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839055
+3,sáb 20/08/2022,10:30,Dortmund,Werder Bremen,4-2-3-1,Edin Terzic,81365,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839079
+4,sáb 27/08/2022,10:30,Hertha Berlim,Dortmund,4-2-3-1,Edin Terzic,62142,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839102
+5,sex 02/09/2022,15:30,Dortmund,Hoffenheim,4-2-3-1,Edin Terzic,79300,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839105
+6,sáb 10/09/2022,10:30,Leipzig,Dortmund,4-2-3-1,Edin Terzic,47069,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839115
+7,sáb 17/09/2022,10:30,Dortmund,Schalke,4-2-3-1,Edin Terzic,81100,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839132
+8,sáb 01/10/2022,10:30,Colônia,Dortmund,4-2-3-1,Edin Terzic,50000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839153
+9,sáb 08/10/2022,13:30,Dortmund,Bayern,4-3-3 ofensivo,Edin Terzic,81365,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839159
+10,dom 16/10/2022,12:30,Union Berlim,Dortmund,3-5-2 plano,Edin Terzic,22012,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839179
+11,sáb 22/10/2022,10:30,Dortmund,Stuttgart,4-2-3-1,Edin Terzic,81365,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839195
+12,sáb 29/10/2022,13:30,Frankfurt,Dortmund,4-2-3-1,Edin Terzic,50000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839217
+13,sáb 05/11/2022,11:30,Dortmund,Bochum,4-2-3-1,Edin Terzic,81365,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839231
+14,ter 08/11/2022,14:30,Wolfsburg,Dortmund,4-2-3-1,Edin Terzic,28675,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839254
+15,sex 11/11/2022,16:30,M'gladbach,Dortmund,4-2-3-1,Edin Terzic,54042,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839262
+16,dom 22/01/2023,11:30,Dortmund,Augsburg,4-2-3-1,Edin Terzic,81365,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839276
+17,qua 25/01/2023,14:30,Mainz,Dortmund,4-3-3 ofensivo,Edin Terzic,31500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839297
+18,dom 29/01/2023,13:30,Leverkusen,Dortmund,4-3-3 ofensivo,Edin Terzic,30210,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839313
+19,sáb 04/02/2023,11:30,Dortmund,Freiburg,4-2-3-1,Edin Terzic,81365,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839330
+20,sáb 11/02/2023,11:30,Werder Bremen,Dortmund,4-3-3 ofensivo,Edin Terzic,42100,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839356
+21,dom 19/02/2023,13:30,Dortmund,Hertha Berlim,4-2-3-1,Edin Terzic,81365,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839366
+22,sáb 25/02/2023,11:30,Hoffenheim,Dortmund,4-3-3 ofensivo,Edin Terzic,30150,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839389
+23,sex 03/03/2023,16:30,Dortmund,Leipzig,4-3-3 ofensivo,Edin Terzic,81365,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839393
+24,sáb 11/03/2023,14:30,Schalke,Dortmund,4-3-3 ofensivo,Edin Terzic,61571,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839418
+25,sáb 18/03/2023,14:30,Dortmund,Colônia,4-3-3 ofensivo,Edin Terzic,81365,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839429
+26,sáb 01/04/2023,13:30,Bayern,Dortmund,4-3-3 ofensivo,Edin Terzic,75024,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839447
+27,sáb 08/04/2023,10:30,Dortmund,Union Berlim,4-3-3 ofensivo,Edin Terzic,81365,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839465
+28,sáb 15/04/2023,10:30,Stuttgart,Dortmund,4-3-3 ofensivo,Edin Terzic,47900,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839489
+29,sáb 22/04/2023,13:30,Dortmund,Frankfurt,4-3-3 ofensivo,Edin Terzic,81365,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839501
+30,sex 28/04/2023,15:30,Bochum,Dortmund,4-3-3 ofensivo,Edin Terzic,26000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839516
+31,dom 07/05/2023,12:30,Dortmund,Wolfsburg,4-3-3 ofensivo,Edin Terzic,81365,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839528
+32,sáb 13/05/2023,13:30,Dortmund,M'gladbach,4-3-3 ofensivo,Edin Terzic,81365,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839547
+33,dom 21/05/2023,12:30,Augsburg,Dortmund,4-3-3 ofensivo,Edin Terzic,30660,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839569
+34,sáb 27/05/2023,10:30,Dortmund,Mainz,4-3-3 ofensivo,Edin Terzic,81365,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839582

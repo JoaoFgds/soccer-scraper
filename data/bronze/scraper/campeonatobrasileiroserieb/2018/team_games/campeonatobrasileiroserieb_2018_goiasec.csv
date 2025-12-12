@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 14/04/2018,16:30,CSA,Goiás,4-2-3-1,Hélio dos Anjos,6626,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036441
+2,sáb 21/04/2018,16:30,Goiás,Figueirense,4-2-3-1,Hélio dos Anjos,3191,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036452
+3,sáb 28/04/2018,21:00,São Bento,Goiás,4-2-3-1,Hélio dos Anjos,3316,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036464
+4,sáb 05/05/2018,16:30,Goiás,Vila Nova,4-2-3-1,Hélio dos Anjos,7590,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036473
+5,sáb 12/05/2018,19:00,Fortaleza,Goiás,4-2-3-1,Ney Franco,32558,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036483
+6,sex 18/05/2018,19:15,Goiás,Guarani,4-2-3-1,Ney Franco,2672,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036487
+7,sáb 26/05/2018,16:30,Goiás,Boa Esporte,4-2-3-1,Ney Franco,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036502
+8,sáb 02/06/2018,16:30,Atlético-GO,Goiás,4-1-4-1,Ney Franco,5861,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036511
+9,ter 05/06/2018,21:30,Ponte Preta,Goiás,4-1-4-1,Ney Franco,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036522
+10,sex 08/06/2018,20:30,Goiás,Paysandu,4-1-4-1,Ney Franco,3511,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036527
+11,ter 12/06/2018,18:00,Londrina,Goiás,4-1-4-1,Ney Franco,525,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036537
+12,qui 21/06/2018,21:30,Goiás,Juventude,4-1-3-2,Ney Franco,7009,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036548
+13,ter 26/06/2018,21:30,Goiás,CRB,4-1-4-1,Ney Franco,3868,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036560
+14,qua 04/07/2018,20:30,Avaí,Goiás,4-1-4-1,Ney Franco,3126,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036568
+15,sex 13/07/2018,20:30,Goiás,Criciúma,4-1-4-1,Ney Franco,8746,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036580
+16,sex 20/07/2018,20:30,Sampaio Corrêa,Goiás,4-1-4-1,Ney Franco,4589,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036594
+17,ter 24/07/2018,19:15,Goiás,Coritiba,4-1-4-1,Ney Franco,11498,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036600
+18,sáb 28/07/2018,16:30,Goiás,Oeste,4-1-4-1,Ney Franco,6398,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036610
+19,sáb 04/08/2018,19:00,Brasil Pelotas,Goiás,3-5-2,Ney Franco,4194,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036617
+20,sex 10/08/2018,19:15,Goiás,CSA,4-1-4-1,Ney Franco,6072,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036630
+21,sex 17/08/2018,21:30,Figueirense,Goiás,4-1-4-1,Ney Franco,3545,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036638
+22,ter 21/08/2018,20:30,Goiás,São Bento,4-1-4-1,Ney Franco,8510,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036650
+23,sáb 25/08/2018,16:30,Vila Nova,Goiás,4-1-4-1,Ney Franco,10780,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036660
+24,sáb 01/09/2018,19:00,Goiás,Fortaleza,4-1-4-1,Ney Franco,9057,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036670
+25,ter 04/09/2018,19:15,Guarani,Goiás,4-1-4-1,Ney Franco,2781,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036675
+26,sex 07/09/2018,16:00,Boa Esporte,Goiás,4-2-3-1,Ney Franco,885,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036691
+27,sáb 15/09/2018,19:00,Goiás,Atlético-GO,4-1-4-1,Ney Franco,12652,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036700
+28,sex 21/09/2018,19:15,Goiás,Ponte Preta,4-1-4-1,Ney Franco,10442,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036710
+29,sex 28/09/2018,19:15,Paysandu,Goiás,4-1-4-1,Ney Franco,6635,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036724
+30,ter 02/10/2018,20:30,Goiás,Londrina,4-1-4-1,Ney Franco,9940,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036730
+31,sex 12/10/2018,19:15,Juventude,Goiás,4-1-4-1,Ney Franco,4603,3:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036737
+32,sex 19/10/2018,19:15,CRB,Goiás,4-1-4-1,Ney Franco,4698,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036752
+33,sex 26/10/2018,21:30,Goiás,Avaí,4-1-4-1,Ney Franco,12170,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036760
+34,qui 01/11/2018,19:15,Criciúma,Goiás,4-3-3 defensivo,Ney Franco,4592,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036769
+35,seg 05/11/2018,20:00,Goiás,Sampaio Corrêa,4-3-3 defensivo,Ney Franco,7995,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036780
+36,sex 09/11/2018,21:30,Coritiba,Goiás,4-1-4-1,Ney Franco,1235,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036793
+37,sáb 17/11/2018,21:00,Oeste,Goiás,4-3-3 defensivo,Ney Franco,1325,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036796
+38,sáb 24/11/2018,17:00,Goiás,Brasil Pelotas,4-3-3 defensivo,Ney Franco,32036,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036810

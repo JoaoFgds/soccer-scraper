@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 02/08/2013,15:00,Clermont Foot,Tours FC,4-3-3 defensivo,Olivier Pantaloni,3367,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2355365
+2,sex 09/08/2013,15:00,Tours FC,Chamois Niort,4-3-3 defensivo,Olivier Pantaloni,4011,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2355374
+3,sex 16/08/2013,15:00,LB Châteauroux,Tours FC,5-4-1 plano,Olivier Pantaloni,4720,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330467
+4,sex 23/08/2013,15:00,Tours FC,Nîmes Olympique,4-3-3 defensivo,Olivier Pantaloni,5157,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330476
+5,sex 30/08/2013,15:00,AS Nancy,Tours FC,4-3-3 ofensivo,Olivier Pantaloni,12401,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330489
+6,sex 13/09/2013,15:00,Tours FC,FC Istres,4-3-3 defensivo,Olivier Pantaloni,5458,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330501
+7,sex 20/09/2013,15:00,Dijon,Tours FC,4-3-3 ofensivo,Olivier Pantaloni,6886,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330510
+8,seg 23/09/2013,15:30,Tours FC,Lens,4-3-3 defensivo,Olivier Pantaloni,7032,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330519
+9,sex 27/09/2013,15:00,Angers,Tours FC,4-3-1-2,Olivier Pantaloni,9022,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330517
+10,sex 04/10/2013,15:00,Tours FC,Brest,4-2-3-1,Olivier Pantaloni,6246,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330522
+11,sex 18/10/2013,15:00,CA Bastia,Tours FC,5-4-1,Olivier Pantaloni,1873,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330588
+12,sex 25/10/2013,16:00,Tours FC,Stade Lavallois,4-4-2 duplo 6,Olivier Pantaloni,6234,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330555
+13,sex 01/11/2013,17:00,Auxerre,Tours FC,4-2-3-1,Olivier Pantaloni,5334,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330598
+14,sex 08/11/2013,17:00,US Créteil-L,Tours FC,4-2-3-1,Olivier Pantaloni,2202,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330590
+15,sex 22/11/2013,17:00,Tours FC,Le Havre,4-2-3-1,Olivier Pantaloni,4165,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330594
+16,sex 29/11/2013,17:00,Troyes,Tours FC,4-2-3-1,Olivier Pantaloni,7361,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330601
+17,sex 13/12/2013,17:00,Tours FC,FC Metz,4-2-3-1,Olivier Pantaloni,6230,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330607
+18,sáb 21/12/2013,11:00,AC Arles-Avignon,Tours FC,4-3-3 defensivo,Olivier Pantaloni,1833,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330609
+19,sex 10/01/2014,17:00,Tours FC,SM Caen,4-3-3 defensivo,Olivier Pantaloni,5530,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330629
+20,sex 17/01/2014,17:00,Chamois Niort,Tours FC,4-3-3 defensivo,Olivier Pantaloni,4556,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330648
+21,sáb 25/01/2014,11:00,Tours FC,LB Châteauroux,4-4-2,Olivier Pantaloni,6718,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330649
+22,sex 31/01/2014,17:00,Nîmes Olympique,Tours FC,4-4-2,Olivier Pantaloni,4487,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330672
+23,seg 10/02/2014,17:30,Tours FC,AS Nancy,4-4-2 duplo 6,Olivier Pantaloni,5616,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330660
+24,sex 14/02/2014,17:00,FC Istres,Tours FC,4-4-2 duplo 6,Olivier Pantaloni,2416,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330668
+25,sex 21/02/2014,16:00,Tours FC,Dijon,4-3-3 ofensivo,Olivier Pantaloni,4757,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330705
+26,seg 03/03/2014,16:30,Lens,Tours FC,4-3-1-2,Olivier Pantaloni,35208,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330732
+27,seg 10/03/2014,16:30,Tours FC,Angers,4-3-1-2,Olivier Pantaloni,13035,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330723
+28,sex 14/03/2014,16:00,Brest,Tours FC,4-3-1-2,Olivier Pantaloni,6060,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330686
+29,sex 21/03/2014,16:00,Tours FC,CA Bastia,4-3-1-2,Olivier Pantaloni,5049,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330724
+30,sex 28/03/2014,16:00,Stade Lavallois,Tours FC,4-3-1-2,Olivier Pantaloni,5824,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330740
+31,sex 04/04/2014,15:00,Tours FC,Auxerre,4-4-2 duplo 6,Olivier Pantaloni,7677,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330765
+32,sex 11/04/2014,15:00,Tours FC,US Créteil-L,4-3-3 ofensivo,Olivier Pantaloni,6868,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330763
+33,sex 18/04/2014,15:00,Le Havre,Tours FC,4-3-1-2,Olivier Pantaloni,6749,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330789
+34,sex 25/04/2014,15:00,Tours FC,Troyes,4-3-1-2,Olivier Pantaloni,5647,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330749
+35,sex 02/05/2014,15:00,FC Metz,Tours FC,4-3-1-2,Olivier Pantaloni,20800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330781
+36,ter 06/05/2014,15:45,Tours FC,AC Arles-Avignon,4-4-2 duplo 6,Olivier Pantaloni,4368,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330814
+37,sex 09/05/2014,15:30,SM Caen,Tours FC,4-3-1-2,Olivier Pantaloni,20027,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330796
+38,sex 16/05/2014,15:30,Tours FC,Clermont Foot,4-4-2 duplo 6,Olivier Pantaloni,7646,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330798

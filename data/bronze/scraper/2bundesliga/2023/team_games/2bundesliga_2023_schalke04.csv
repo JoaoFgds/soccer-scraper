@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 28/07/2023,15:30,Hamburgo,Schalke,4-3-3 ofensivo,Thomas Reis,57000,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096273
+2,sáb 05/08/2023,15:30,Schalke,K'lautern,4-3-3 ofensivo,Thomas Reis,61801,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096282
+3,dom 20/08/2023,08:30,E. Braunschweig,Schalke,4-3-3 ofensivo,Thomas Reis,21800,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096297
+4,sex 25/08/2023,13:30,Schalke,Holstein Kiel,4-2-3-1,Thomas Reis,60403,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096300
+5,sáb 02/09/2023,08:00,Wehen Wiesbaden,Schalke,4-3-3 ofensivo,Thomas Reis,11003,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096317
+6,sáb 16/09/2023,15:30,Schalke,Magdeburgo,4-3-3 ofensivo,Thomas Reis,61755,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096318
+7,sáb 23/09/2023,15:30,St. Pauli,Schalke,4-3-3 ofensivo,Thomas Reis,29546,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096328
+8,sex 29/09/2023,13:30,Paderborn,Schalke,4-3-3 ofensivo,Matthias Kreutzer,15000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096338
+9,dom 08/10/2023,08:30,Schalke,Hertha Berlim,4-2-3-1,Matthias Kreutzer,62271,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096345
+10,dom 22/10/2023,08:30,Karlsruher,Schalke,3-4-1-2,Karel Geraerts,33000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096357
+11,sáb 28/10/2023,08:00,Schalke,Hannover,3-4-3 plano,Karel Geraerts,62207,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096363
+12,sáb 04/11/2023,09:00,Nuremberg,Schalke,3-4-1-2,Karel Geraerts,50000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096378
+13,sex 10/11/2023,14:30,Schalke,SV Elversberg,3-4-1-2,Karel Geraerts,61110,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096381
+14,sáb 25/11/2023,16:30,Düsseldorf,Schalke,3-4-1-2,Karel Geraerts,52000,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096391
+15,sex 01/12/2023,14:30,Schalke,VfL Osnabrück,4-4-2 losango,Karel Geraerts,62093,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096399
+16,dom 10/12/2023,09:30,Hansa Rostock,Schalke,4-4-2 losango,Karel Geraerts,27250,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096413
+17,sex 15/12/2023,14:30,Schalke,Greuther Fürth,4-4-2 losango,Karel Geraerts,60166,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096417
+18,sáb 20/01/2024,16:30,Schalke,Hamburgo,4-4-2 losango,Karel Geraerts,61992,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096426
+19,sex 26/01/2024,14:30,K'lautern,Schalke,4-4-2 losango,Karel Geraerts,49327,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096435
+20,sáb 03/02/2024,09:00,Schalke,E. Braunschweig,4-4-2 losango,Karel Geraerts,61219,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096450
+21,dom 11/02/2024,09:30,Holstein Kiel,Schalke,4-4-2 duplo 6,Karel Geraerts,14500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096453
+22,sáb 17/02/2024,09:00,Schalke,Wehen Wiesbaden,3-5-2 ofensivo,Karel Geraerts,60542,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096470
+23,sáb 24/02/2024,16:30,Magdeburgo,Schalke,3-4-1-2,Karel Geraerts,27038,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096471
+24,sex 01/03/2024,14:30,Schalke,St. Pauli,4-4-2 losango,Karel Geraerts,61497,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096481
+25,sáb 09/03/2024,09:00,Schalke,Paderborn,4-4-2 losango,Karel Geraerts,61475,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096491
+26,dom 17/03/2024,09:30,Hertha Berlim,Schalke,4-4-2 losango,Karel Geraerts,69156,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096498
+27,dom 31/03/2024,08:30,Schalke,Karlsruher,4-4-2 losango,Karel Geraerts,61653,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096510
+28,dom 07/04/2024,08:30,Hannover,Schalke,4-4-2 losango,Karel Geraerts,49000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096516
+29,sáb 13/04/2024,15:30,Schalke,Nuremberg,4-4-2 losango,Karel Geraerts,62278,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096531
+30,sex 19/04/2024,13:30,SV Elversberg,Schalke,4-4-2 losango,Karel Geraerts,10000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096534
+31,sáb 27/04/2024,15:30,Schalke,Düsseldorf,4-4-2 losango,Karel Geraerts,61854,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096544
+32,ter 07/05/2024,13:30,VfL Osnabrück,Schalke,4-4-2 losango,Karel Geraerts,x,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096552
+33,sáb 11/05/2024,08:00,Schalke,Hansa Rostock,4-4-2 losango,Karel Geraerts,61833,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096566
+34,dom 19/05/2024,10:30,Greuther Fürth,Schalke,4-4-2 losango,Karel Geraerts,16126,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096570

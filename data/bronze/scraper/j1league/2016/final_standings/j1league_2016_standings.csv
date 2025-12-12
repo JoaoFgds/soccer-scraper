@@ -1,0 +1,21 @@
+position,team,played,won,drawn,lost,goal_ratio,goal_difference,points,team_url
+1,Kashima Antlers,33,20,5,8,52:28,24,65,https://www.transfermarkt.com.br/kashima-antlers/spielplan/verein/2241/saison_id/2024
+2,Kyoto Sanga,33,17,9,7,57:35,22,60,https://www.transfermarkt.com.br/kyoto-sanga/spielplan/verein/593/saison_id/2024
+3,Kashiwa Reysol,33,16,12,5,48:33,15,60,https://www.transfermarkt.com.br/kashiwa-reysol/spielplan/verein/6632/saison_id/2024
+4,Vissel Kobe,33,18,6,9,43:28,15,60,https://www.transfermarkt.com.br/vissel-kobe/spielplan/verein/3958/saison_id/2024
+5,Sanfrecce Hiroshima,33,17,7,9,39:23,16,58,https://www.transfermarkt.com.br/sanfrecce-hiroshima/spielplan/verein/2697/saison_id/2024
+6,Machida Zelvia,33,16,7,10,49:35,14,55,https://www.transfermarkt.com.br/machida-zelvia/spielplan/verein/23568/saison_id/2024
+7,Kawasaki Frontale,33,14,11,8,60:45,15,53,https://www.transfermarkt.com.br/kawasaki-frontale/spielplan/verein/9598/saison_id/2024
+8,Urawa Red Diamonds,33,14,10,9,40:32,8,52,https://www.transfermarkt.com.br/urawa-red-diamonds/spielplan/verein/828/saison_id/2024
+9,Gamba Osaka,33,15,5,13,46:47,-1,50,https://www.transfermarkt.com.br/gamba-osaka/spielplan/verein/596/saison_id/2024
+10,Cerezo Osaka,33,11,10,12,50:49,1,43,https://www.transfermarkt.com.br/cerezo-osaka/spielplan/verein/1022/saison_id/2024
+11,Shimizu S-Pulse,33,10,11,12,35:39,-4,41,https://www.transfermarkt.com.br/shimizu-s-pulse/spielplan/verein/1062/saison_id/2024
+12,Fagiano Okayama,33,11,8,14,29:35,-6,41,https://www.transfermarkt.com.br/fagiano-okayama/spielplan/verein/22171/saison_id/2024
+13,FC Tokyo,33,11,8,14,36:46,-10,41,https://www.transfermarkt.com.br/fc-tokyo/spielplan/verein/6631/saison_id/2024
+14,Avispa Fukuoka,33,10,10,13,32:37,-5,40,https://www.transfermarkt.com.br/avispa-fukuoka/spielplan/verein/9597/saison_id/2024
+15,Nagoya Grampus,33,10,9,14,40:48,-8,39,https://www.transfermarkt.com.br/nagoya-grampus/spielplan/verein/1066/saison_id/2024
+16,Tokyo Verdy,33,10,9,14,21:35,-14,39,https://www.transfermarkt.com.br/tokyo-verdy/spielplan/verein/3734/saison_id/2024
+17,Yokohama F. Marinos,33,8,7,18,32:44,-12,31,https://www.transfermarkt.com.br/yokohama-f-marinos/spielplan/verein/3828/saison_id/2024
+18,Yokohama FC,33,8,7,18,21:37,-16,31,https://www.transfermarkt.com.br/yokohama-fc/spielplan/verein/943/saison_id/2024
+19,Shonan Bellmare,33,6,7,20,28:57,-29,25,https://www.transfermarkt.com.br/shonan-bellmare/spielplan/verein/8457/saison_id/2024
+20,Albirex Niigata,33,4,10,19,30:55,-25,22,https://www.transfermarkt.com.br/albirex-niigata/spielplan/verein/8344/saison_id/2024

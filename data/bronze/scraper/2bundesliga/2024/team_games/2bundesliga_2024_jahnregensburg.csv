@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 03/08/2024,08:00,Hannover,J. Regensburg,4-2-3-1,Joe Enochs,31800,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373305
+2,sex 09/08/2024,13:30,J. Regensburg,SSV Ulm 1846,4-2-3-1,Joe Enochs,12095,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373337
+3,sáb 24/08/2024,08:00,Hertha Berlim,J. Regensburg,4-2-3-1,Joe Enochs,42355,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373352
+4,sex 30/08/2024,13:30,J. Regensburg,Greuther Fürth,4-2-3-1,Joe Enochs,13105,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373364
+5,dom 15/09/2024,08:30,Hamburgo,J. Regensburg,4-2-3-1,Joe Enochs,53779,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373376
+6,dom 22/09/2024,08:30,J. Regensburg,Pr. Münster,4-2-3-1,Joe Enochs,12554,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373400
+7,sáb 28/09/2024,08:00,J. Regensburg,K'lautern,3-4-2-1,Joe Enochs,14431,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373418
+8,sex 04/10/2024,13:30,Paderborn,J. Regensburg,3-4-2-1,Joe Enochs,12615,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373431
+9,sáb 19/10/2024,08:00,J. Regensburg,Düsseldorf,5-3-2,Joe Enochs,12310,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373454
+10,sex 25/10/2024,13:30,Nuremberg,J. Regensburg,3-4-1-2,Joe Enochs,36152,8:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373470
+11,sáb 02/11/2024,09:00,J. Regensburg,SV Elversberg,3-4-1-2,Andreas Patz,9048,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373490
+12,dom 10/11/2024,09:30,Schalke,J. Regensburg,5-3-2,Andreas Patz,60755,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373504
+13,dom 24/11/2024,09:30,J. Regensburg,Magdeburgo,3-4-2-1,Andreas Patz,11047,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373526
+14,sáb 30/11/2024,09:00,E. Braunschweig,J. Regensburg,3-4-2-1,Andreas Patz,19540,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373543
+15,dom 08/12/2024,09:30,J. Regensburg,Colônia,3-4-2-1,Andreas Patz,14232,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373562
+16,sex 13/12/2024,14:30,Karlsruher,J. Regensburg,3-4-2-1,Andreas Patz,24158,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373574
+17,dom 22/12/2024,09:30,J. Regensburg,Darmstadt 98,3-5-2 ofensivo,Andreas Patz,10008,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373607
+18,sex 17/01/2025,14:30,J. Regensburg,Hannover,3-5-2 plano,Andreas Patz,11310,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373625
+19,dom 26/01/2025,09:30,SSV Ulm 1846,J. Regensburg,3-5-2 plano,Andreas Patz,14012,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373643
+20,sáb 01/02/2025,09:00,J. Regensburg,Hertha Berlim,3-4-1-2,Andreas Patz,12025,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373661
+21,sex 07/02/2025,14:30,Greuther Fürth,J. Regensburg,3-4-1-2,Andreas Patz,12586,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373675
+22,dom 16/02/2025,09:30,J. Regensburg,Hamburgo,3-4-1-2,Munier Raychouni,15210,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373688
+23,sáb 22/02/2025,09:00,Pr. Münster,J. Regensburg,3-5-2 ofensivo,Andreas Patz,11586,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373706
+24,sáb 01/03/2025,09:00,K'lautern,J. Regensburg,4-4-2 duplo 6,Andreas Patz,41579,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373722
+25,dom 09/03/2025,09:30,J. Regensburg,Paderborn,4-4-2 duplo 6,Andreas Patz,10398,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373742
+26,sáb 15/03/2025,09:00,Düsseldorf,J. Regensburg,4-4-2 duplo 6,Andreas Patz,31951,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373753
+27,dom 30/03/2025,08:30,J. Regensburg,Nuremberg,4-3-3 ofensivo,Andreas Patz,15210,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373778
+28,dom 06/04/2025,08:30,SV Elversberg,J. Regensburg,3-5-2 plano,Andreas Patz,10786,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373793
+29,dom 13/04/2025,08:30,J. Regensburg,Schalke,3-4-3 plano,Andreas Patz,15210,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373814
+30,dom 20/04/2025,08:30,Magdeburgo,J. Regensburg,3-4-3 plano,Andreas Patz,26020,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373830
+31,sáb 26/04/2025,08:00,J. Regensburg,E. Braunschweig,3-4-3 plano,Andreas Patz,13773,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373850
+32,sáb 03/05/2025,15:30,Colônia,J. Regensburg,3-4-3 plano,Andreas Patz,49500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373860
+33,dom 11/05/2025,08:30,J. Regensburg,Karlsruher,3-4-3 plano,Munier Raychouni,12708,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373886
+34,dom 18/05/2025,10:30,Darmstadt 98,J. Regensburg,3-5-2 ofensivo,Munier Raychouni,16966,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373897

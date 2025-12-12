@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/09/2020,11:00,Bristol City,Coventry City,3-4-2-1,Mark Robins,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427390
+2,sex 18/09/2020,15:45,Coventry City,QPR,3-4-2-1,Mark Robins,,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427404
+3,sáb 26/09/2020,11:00,Barnsley FC,Coventry City,3-4-2-1,Mark Robins,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427302
+4,sex 02/10/2020,15:45,Coventry City,Bournemouth,3-4-2-1,Mark Robins,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427622
+5,sáb 17/10/2020,11:00,Brentford,Coventry City,5-3-2,Mark Robins,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427481
+6,ter 20/10/2020,15:45,Coventry City,Swansea,3-4-2-1,Mark Robins,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427289
+7,sáb 24/10/2020,11:00,Coventry City,Blackburn,3-4-2-1,Mark Robins,,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427391
+8,ter 27/10/2020,16:45,Middlesbrough,Coventry City,3-4-2-1,Mark Robins,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427465
+9,sex 30/10/2020,16:45,Coventry City,Reading,5-3-2,Mark Robins,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427425
+10,qua 04/11/2020,16:45,Nott'm Forest,Coventry City,3-4-1-2,Mark Robins,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427645
+11,sáb 07/11/2020,12:00,Watford,Coventry City,3-5-2,Mark Robins,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427807
+12,sex 20/11/2020,16:45,Coventry City,Birmingham,4-2-3-1,Mark Robins,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427466
+13,qua 25/11/2020,16:45,Coventry City,Cardiff,4-1-4-1,Mark Robins,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427371
+14,sáb 28/11/2020,12:00,Norwich,Coventry City,5-4-1 plano,Mark Robins,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427366
+15,ter 01/12/2020,16:45,Derby,Coventry City,4-2-3-1,Mark Robins,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427511
+16,sáb 05/12/2020,12:00,Coventry City,Rotherham,5-4-1 plano,Mark Robins,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427468
+17,ter 08/12/2020,16:45,Coventry City,Luton,3-4-1-2,Mark Robins,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427334
+18,sáb 12/12/2020,12:00,Wycombe Wand.,Coventry City,3-4-2-1,Mark Robins,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427825
+19,qua 16/12/2020,17:00,Coventry City,Huddersfield,3-4-2-1,Mark Robins,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427682
+20,sáb 19/12/2020,12:00,Sheff Wed,Coventry City,3-5-2,Mark Robins,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427405
+21,sáb 26/12/2020,12:00,Coventry City,Stoke,5-3-2,Mark Robins,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427553
+22,ter 29/12/2020,16:45,Preston NE,Coventry City,3-5-2,Mark Robins,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427630
+23,sáb 02/01/2021,12:00,Millwall,Coventry City,3-4-2-1,Mark Robins,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427564
+24,qua 27/01/2021,16:00,Coventry City,Sheff Wed,4-3-1-2,Mark Robins,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427612
+25,ter 19/01/2021,15:00,Reading,Coventry City,3-4-2-1,Mark Robins,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427497
+26,ter 02/02/2021,16:00,Coventry City,Nott'm Forest,4-1-4-1,Mark Robins,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427505
+27,sáb 30/01/2021,12:00,Birmingham,Coventry City,4-2-3-1,Mark Robins,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427380
+28,sáb 06/02/2021,09:30,Coventry City,Watford,3-5-2,Mark Robins,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427506
+29,sáb 13/02/2021,12:00,Cardiff,Coventry City,3-4-2-1,Mark Robins,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427559
+30,qua 17/02/2021,16:00,Coventry City,Norwich,3-4-2-1,Mark Robins,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427490
+31,sáb 20/02/2021,09:30,Coventry City,Brentford,5-3-2,Mark Robins,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427476
+32,qua 24/02/2021,16:00,Swansea,Coventry City,5-3-2,Mark Robins,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427502
+33,sáb 27/02/2021,12:00,Blackburn,Coventry City,3-5-2,Mark Robins,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427515
+34,ter 02/03/2021,16:00,Coventry City,Middlesbrough,5-3-2,Mark Robins,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427418
+35,sáb 06/03/2021,12:00,Coventry City,Derby,3-5-2 plano,Mark Robins,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427573
+36,qui 15/04/2021,15:00,Rotherham,Coventry City,3-4-1-2,Mark Robins,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427771
+37,ter 16/03/2021,16:00,Luton,Coventry City,3-5-2 plano,Mark Robins,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427354
+38,sáb 20/03/2021,12:00,Coventry City,Wycombe Wand.,3-5-2,Mark Robins,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427569
+39,sex 02/04/2021,11:00,QPR,Coventry City,3-4-2-1,Mark Robins,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427767
+40,seg 05/04/2021,11:00,Coventry City,Bristol City,3-5-2,Mark Robins,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427499
+41,sáb 10/04/2021,11:00,Bournemouth,Coventry City,3-5-2,Mark Robins,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427415
+42,dom 18/04/2021,11:00,Coventry City,Barnsley FC,3-4-1-2,Mark Robins,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427510
+43,qua 21/04/2021,15:00,Stoke,Coventry City,5-3-2,Mark Robins,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427498
+44,sáb 24/04/2021,11:00,Coventry City,Preston NE,3-5-2,Mark Robins,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427629
+45,sáb 01/05/2021,11:00,Huddersfield,Coventry City,3-5-2,Mark Robins,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427460
+46,sáb 08/05/2021,08:30,Coventry City,Millwall,3-4-2-1,Mark Robins,x,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427599

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 04/08/2018,10:30,Greuther Fürth,Sandhausen,4-2-3-1,Damir Buric,8450,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058422
+2,sex 10/08/2018,13:30,Ingolstadt,Greuther Fürth,4-2-3-1,Damir Buric,9861,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058625
+3,sáb 25/08/2018,08:00,Greuther Fürth,Paderborn,4-2-3-1,Damir Buric,7480,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058736
+4,sáb 01/09/2018,08:00,MSV Duisburg,Greuther Fürth,4-2-3-1,Damir Buric,12070,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058758
+5,sáb 15/09/2018,08:00,Greuther Fürth,Holstein Kiel,4-2-3-1,Damir Buric,8370,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058771
+6,dom 23/09/2018,08:30,Heidenheim,Greuther Fürth,4-2-3-1,Damir Buric,10400,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058775
+7,qui 27/09/2018,15:30,Greuther Fürth,Hamburgo,4-2-3-1,Damir Buric,14965,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058787
+8,dom 30/09/2018,08:30,Dynamo Dresden,Greuther Fürth,4-2-3-1,Damir Buric,27750,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058812
+9,sáb 06/10/2018,08:00,Greuther Fürth,J. Regensburg,4-2-3-1,Damir Buric,10845,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058835
+10,sáb 20/10/2018,08:00,Arm. Bielefeld,Greuther Fürth,4-2-3-1,Damir Buric,16032,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058840
+11,sex 26/10/2018,13:30,Darmstadt 98,Greuther Fürth,4-2-3-1,Damir Buric,14050,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058850
+12,sex 02/11/2018,14:30,Greuther Fürth,Bochum,4-2-3-1,Damir Buric,8750,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058863
+13,dom 11/11/2018,10:30,Union Berlim,Greuther Fürth,4-2-3-1,Damir Buric,21785,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058866
+14,sex 23/11/2018,15:30,Greuther Fürth,Magdeburgo,3-5-2,Damir Buric,9390,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058919
+15,sáb 01/12/2018,10:00,Colônia,Greuther Fürth,5-4-1 plano,Damir Buric,49700,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058900
+16,sáb 08/12/2018,10:00,Greuther Fürth,Erzgebirge Aue,4-2-3-1,Damir Buric,9305,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058927
+17,sáb 15/12/2018,10:00,St. Pauli,Greuther Fürth,4-2-3-1,Damir Buric,29546,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058935
+18,sex 21/12/2018,15:30,Sandhausen,Greuther Fürth,3-5-2,Damir Buric,4478,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058943
+19,ter 29/01/2019,17:30,Greuther Fürth,Ingolstadt,4-2-3-1,Damir Buric,7725,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058954
+20,sáb 02/02/2019,10:00,Paderborn,Greuther Fürth,4-2-3-1,Damir Buric,9220,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058964
+21,sáb 09/02/2019,10:00,Greuther Fürth,MSV Duisburg,4-1-4-1,Stefan Leitl,8635,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058971
+22,dom 17/02/2019,09:30,Holstein Kiel,Greuther Fürth,4-1-4-1,Stefan Leitl,8669,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058974
+23,sex 22/02/2019,14:30,Greuther Fürth,Heidenheim,4-1-4-1,Stefan Leitl,7870,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058989
+24,seg 04/03/2019,16:30,Hamburgo,Greuther Fürth,4-1-4-1,Stefan Leitl,36560,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058992
+25,qui 04/04/2019,14:00,Greuther Fürth,Dynamo Dresden,4-1-4-1,Stefan Leitl,12590,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059007
+26,seg 18/03/2019,16:30,J. Regensburg,Greuther Fürth,4-1-4-1,Stefan Leitl,11330,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059013
+27,dom 31/03/2019,08:30,Greuther Fürth,Arm. Bielefeld,4-4-2 losango,Stefan Leitl,9440,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059025
+28,dom 07/04/2019,08:30,Greuther Fürth,Darmstadt 98,4-1-4-1,Stefan Leitl,9730,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059036
+29,dom 14/04/2019,08:30,Bochum,Greuther Fürth,4-1-4-1,Stefan Leitl,17334,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059038
+30,sáb 20/04/2019,08:00,Greuther Fürth,Union Berlim,4-1-4-1,Stefan Leitl,9650,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059054
+31,sáb 27/04/2019,08:00,Magdeburgo,Greuther Fürth,4-1-4-1,Stefan Leitl,18243,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059062
+32,seg 06/05/2019,15:30,Greuther Fürth,Colônia,4-2-3-1,Stefan Leitl,12520,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059072
+33,dom 12/05/2019,10:30,Erzgebirge Aue,Greuther Fürth,4-2-3-1,Stefan Leitl,13600,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058754
+34,dom 19/05/2019,10:30,Greuther Fürth,St. Pauli,4-2-3-1,Stefan Leitl,13890,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058745

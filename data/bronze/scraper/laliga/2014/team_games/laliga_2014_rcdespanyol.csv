@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 23/08/2014,18:00,UD Almería,Espanyol,4-2-3-1,Sergio,9872,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475185
+2,sáb 30/08/2014,18:00,Espanyol,Sevilla,4-2-3-1,Sergio,16490,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475191
+3,dom 14/09/2014,12:00,Valencia,Espanyol,4-2-3-1,Sergio,38500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475200
+4,sáb 20/09/2014,17:00,Espanyol,Málaga CF,4-2-3-1,Sergio,12600,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475210
+5,qui 25/09/2014,15:00,Espanyol,Getafe,4-4-2 duplo 6,Sergio,14285,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475220
+6,dom 28/09/2014,16:00,Córdoba,Espanyol,4-3-3 defensivo,Sergio,24000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475231
+7,dom 05/10/2014,14:00,Espanyol,Real Sociedad,4-2-3-1,Sergio,18326,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475241
+8,dom 19/10/2014,08:00,Atlético,Espanyol,4-4-1-1,Sergio,54069,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475252
+9,dom 26/10/2014,14:00,Espanyol,Deportivo,4-2-3-1,Sergio,22732,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475262
+10,dom 02/11/2014,18:00,Elche,Espanyol,4-4-2 duplo 6,Sergio,21472,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475273
+11,dom 09/11/2014,14:00,Espanyol,Villarreal,4-4-2 duplo 6,Sergio,22000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475283
+12,sex 21/11/2014,17:45,Athletic Club,Espanyol,4-1-4-1,Sergio,28000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475294
+13,sáb 29/11/2014,15:00,Espanyol,Levante,4-4-2 duplo 6,Sergio,12723,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475304
+14,dom 07/12/2014,14:00,Barcelona,Espanyol,4-4-2 duplo 6,Sergio,76057,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475315
+15,dom 14/12/2014,09:00,Espanyol,Granada CF,4-2-3-1,Sergio,18405,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475325
+16,sáb 20/12/2014,19:00,Rayo Vallecano,Espanyol,4-4-2 duplo 6,Sergio,7776,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475336
+17,dom 04/01/2015,16:00,Espanyol,Eibar,4-4-2 duplo 6,Sergio,19136,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475346
+18,sáb 10/01/2015,13:00,Real Madrid,Espanyol,4-3-3 ofensivo,Sergio,74896,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475357
+19,sáb 17/01/2015,19:00,Espanyol,Celta de Vigo,4-4-2 duplo 6,Sergio,12710,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475367
+20,dom 25/01/2015,16:00,Espanyol,UD Almería,4-4-2 duplo 6,Sergio,16792,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475375
+21,dom 01/02/2015,16:00,Sevilla,Espanyol,4-3-3 ofensivo,Sergio,27955,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475381
+22,dom 08/02/2015,16:00,Espanyol,Valencia,4-4-2 duplo 6,Sergio,18752,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475390
+23,sáb 14/02/2015,19:00,Málaga CF,Espanyol,4-4-2,Sergio,16181,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475400
+24,sex 20/02/2015,17:45,Getafe,Espanyol,4-2-3-1,Sergio,9614,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475410
+25,sex 27/02/2015,16:45,Espanyol,Córdoba,4-4-2 duplo 6,Sergio,17128,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475421
+26,dom 08/03/2015,13:00,Real Sociedad,Espanyol,4-3-3 ofensivo,Sergio,23329,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475431
+27,sáb 14/03/2015,12:00,Espanyol,Atlético,4-3-3 ofensivo,Sergio,22538,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475442
+28,dom 22/03/2015,08:00,Deportivo,Espanyol,4-5-1 plano,Sergio,19957,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475452
+29,seg 06/04/2015,15:00,Espanyol,Elche,4-2-3-1,Sergio,13892,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475463
+30,qui 09/04/2015,17:00,Villarreal,Espanyol,4-2-3-1,Sergio,11830,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475473
+31,dom 12/04/2015,12:00,Espanyol,Athletic Club,4-4-2 duplo 6,Sergio,19054,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475484
+32,sex 17/04/2015,15:45,Levante,Espanyol,4-4-2 duplo 6,Sergio,17062,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475494
+33,sáb 25/04/2015,11:00,Espanyol,Barcelona,4-4-2,Sergio,30253,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475505
+34,qui 30/04/2015,17:00,Granada CF,Espanyol,4-4-2 duplo 6,Sergio,15097,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475515
+35,dom 03/05/2015,07:00,Espanyol,Rayo Vallecano,4-4-1-1,Sergio,16479,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475526
+36,sex 08/05/2015,15:45,Eibar,Espanyol,4-3-3 ofensivo,Sergio,5648,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475536
+37,dom 17/05/2015,14:00,Espanyol,Real Madrid,5-3-2,Sergio,30180,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475547
+38,sáb 23/05/2015,13:30,Celta de Vigo,Espanyol,4-4-2 duplo 6,Sergio,18385,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475557

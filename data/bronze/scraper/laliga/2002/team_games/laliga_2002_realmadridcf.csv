@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 02/09/2002,16:30,Real Madrid,Espanyol,4-4-2 losango,Vicente del Bosque,75000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/987778
+2,ter 08/10/2002,15:30,Betis,Real Madrid,4-4-2 losango,Vicente del Bosque,52500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998914
+3,sáb 21/09/2002,15:30,Real Madrid,Osasuna,4-4-2 duplo 6,Vicente del Bosque,60000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998915
+4,sáb 28/09/2002,16:30,Valladolid,Real Madrid,4-4-2 losango,Vicente del Bosque,21000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998927
+5,dom 06/10/2002,13:00,Real Madrid,Alavés,4-4-2 duplo 6,Vicente del Bosque,75000,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998938
+6,sáb 19/10/2002,15:30,Rac. Santander,Real Madrid,4-4-2 duplo 6,Vicente del Bosque,22500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998946
+7,sáb 26/10/2002,14:00,Real Madrid,Villarreal,4-2-3-1,Vicente del Bosque,65000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998956
+8,sáb 02/11/2002,17:30,Deportivo,Real Madrid,4-4-1-1,Vicente del Bosque,35000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998967
+9,sáb 09/11/2002,17:00,Rayo Vallecano,Real Madrid,4-4-1-1,Vicente del Bosque,15500,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998976
+10,dom 17/11/2002,16:00,Real Madrid,Real Sociedad,4-4-2 duplo 6,Vicente del Bosque,75000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1000094
+11,sáb 23/11/2002,18:00,Barcelona,Real Madrid,4-2-3-1,Vicente del Bosque,98152,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1000097
+12,qui 02/01/2003,18:00,Real Madrid,Sevilla,4-2-3-1,Vicente del Bosque,76300,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1000115
+13,dom 08/12/2002,16:00,Mallorca,Real Madrid,4-4-2 duplo 6,Vicente del Bosque,23142,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1000124
+14,dom 15/12/2002,15:30,Real Madrid,Recr. Huelva,4-2-3-1,Vicente del Bosque,66302,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1000134
+15,sáb 21/12/2002,17:00,Málaga CF,Real Madrid,4-4-2 losango,Vicente del Bosque,27000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1000138
+16,dom 05/01/2003,17:30,Real Madrid,Valencia,4-2-3-1,Vicente del Bosque,65932,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1000155
+17,sáb 11/01/2003,18:00,Celta de Vigo,Real Madrid,4-2-3-1,Vicente del Bosque,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1000156
+18,dom 19/01/2003,17:30,Real Madrid,Atlético,4-4-2 duplo 6,Vicente del Bosque,78000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1000175
+19,dom 26/01/2003,16:00,Athletic Club,Real Madrid,4-2-3-1,Vicente del Bosque,38000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1000184
+20,dom 02/02/2003,16:00,Espanyol,Real Madrid,4-2-3-1,Vicente del Bosque,51100,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1000194
+21,sáb 08/02/2003,18:30,Real Madrid,Betis,4-2-3-1,Vicente del Bosque,70000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1000205
+22,dom 16/02/2003,14:00,Osasuna,Real Madrid,4-4-2 duplo 6,Vicente del Bosque,18766,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004568
+23,sáb 22/02/2003,15:00,Real Madrid,Valladolid,4-2-3-1,Vicente del Bosque,62000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004551
+24,sáb 01/03/2003,17:30,Alavés,Real Madrid,4-2-3-1,Vicente del Bosque,11351,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004385
+25,sáb 08/03/2003,15:00,Real Madrid,Rac. Santander,4-2-3-1,Vicente del Bosque,70000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004386
+26,sáb 15/03/2003,15:00,Villarreal,Real Madrid,4-4-2 duplo 6,Vicente del Bosque,23000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004396
+27,dom 23/03/2003,16:30,Real Madrid,Deportivo,4-2-3-1,Vicente del Bosque,75000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004415
+28,sáb 05/04/2003,14:00,Real Madrid,Rayo Vallecano,4-2-3-1,Vicente del Bosque,68000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004416
+29,dom 13/04/2003,14:00,Real Sociedad,Real Madrid,4-4-2 duplo 6,Vicente del Bosque,32000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004434
+30,sáb 19/04/2003,16:30,Real Madrid,Barcelona,4-2-3-1,Vicente del Bosque,77000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004438
+31,dom 27/04/2003,14:00,Sevilla,Real Madrid,4-2-3-1,Vicente del Bosque,55000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004454
+32,sáb 03/05/2003,14:30,Real Madrid,Mallorca,4-2-3-1,Vicente del Bosque,75000,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004456
+33,sáb 10/05/2003,14:00,Recr. Huelva,Real Madrid,4-4-2 duplo 6,Vicente del Bosque,20000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004467
+34,dom 18/05/2003,14:30,Real Madrid,Málaga CF,4-4-2 duplo 6,Vicente del Bosque,67134,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004483
+35,sáb 24/05/2003,16:30,Valencia,Real Madrid,4-2-3-1,Vicente del Bosque,53000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004507
+36,sáb 31/05/2003,16:30,Real Madrid,Celta de Vigo,4-2-3-1,Vicente del Bosque,75000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004521
+37,dom 15/06/2003,16:00,Atlético,Real Madrid,4-2-3-1,Vicente del Bosque,58000,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004534
+38,dom 22/06/2003,16:00,Real Madrid,Athletic Club,4-2-3-1,Vicente del Bosque,60000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004550

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 18/05/2012,16:00,Ipatinga,ABC,?,Márcio Goiano,142,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2210945
+2,sex 25/05/2012,16:00,ABC,Joinville,?,Márcio Goiano,3609,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2210957
+3,ter 29/05/2012,16:50,Barueri,ABC,?,Márcio Goiano,953,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206750
+4,sáb 02/06/2012,11:20,ABC,São Caetano,?,Márcio Goiano,4230,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206736
+5,sáb 09/06/2012,16:00,Ceará,ABC,?,Márcio Goiano,8107,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206741
+6,sáb 16/06/2012,11:20,ABC,CRB,?,Márcio Goiano,3405,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2218648
+7,sáb 23/06/2012,11:20,Guarani,ABC,?,Márcio Goiano,1877,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206777
+8,sex 29/06/2012,16:00,ASA,ABC,?,Márcio Goiano,1011,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206776
+9,sáb 07/07/2012,11:20,ABC,Vitória,?,Ademir Fonseca,4156,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206760
+10,sáb 14/07/2012,11:20,Atlético-PR,ABC,?,Ademir Fonseca,3317,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206751
+11,ter 17/07/2012,16:50,ABC,Criciúma,?,Ademir Fonseca,3183,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206789
+12,sáb 21/07/2012,16:00,Bragantino,ABC,?,Ademir Fonseca,851,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206859
+13,sáb 28/07/2012,11:20,ABC,Guaratinguetá,?,Ademir Fonseca,4529,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206858
+14,ter 31/07/2012,14:30,Goiás,ABC,?,Ademir Fonseca,16408,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206855
+15,sáb 04/08/2012,16:00,ABC,Paraná,?,Ademir Fonseca,3974,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206848
+16,ter 07/08/2012,16:00,Avaí,ABC,?,Ademir Fonseca,5103,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206844
+17,ter 14/08/2012,16:50,ABC,América-MG,?,Ademir Fonseca,5889,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206835
+18,sáb 18/08/2012,16:20,ABC,Boa Esporte,?,Ademir Fonseca,2844,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206807
+19,sáb 25/08/2012,11:20,América-RN,ABC,?,Ademir Fonseca,3425,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2256572
+20,ter 28/08/2012,16:50,ABC,Ipatinga,?,Ademir Fonseca,2517,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2258383
+21,sáb 01/09/2012,11:00,Joinville,ABC,?,Ademir Fonseca,11942,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2261807
+22,ter 04/09/2012,16:50,ABC,Barueri,?,Ademir Fonseca,2965,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206801
+23,sáb 08/09/2012,21:00,São Caetano,ABC,?,Ademir Fonseca,673,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206802
+24,ter 11/09/2012,16:50,ABC,Ceará,?,Ademir Fonseca,5015,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206874
+25,sáb 15/09/2012,11:00,CRB,ABC,?,Ademir Fonseca,3866,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2265002
+26,sex 21/09/2012,16:00,ABC,Guarani,?,Ademir Fonseca,4690,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206926
+27,ter 25/09/2012,14:30,ABC,ASA,?,Ademir Fonseca,4784,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206936
+28,sáb 06/10/2012,11:00,Vitória,ABC,?,Ademir Fonseca,20515,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206899
+29,sex 12/10/2012,16:00,ABC,Atlético-PR,?,Ademir Fonseca,4306,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206909
+30,ter 16/10/2012,16:50,Criciúma,ABC,?,Ademir Fonseca,10313,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206918
+31,sáb 20/10/2012,11:00,ABC,Bragantino,?,Givanildo Oliveira,5713,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206877
+32,ter 23/10/2012,17:50,Guaratinguetá,ABC,?,Givanildo Oliveira,1219,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206893
+33,sex 26/10/2012,15:30,ABC,Goiás,?,Givanildo Oliveira,3828,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206891
+34,ter 30/10/2012,18:00,Paraná,ABC,?,Givanildo Oliveira,2135,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206933
+35,ter 06/11/2012,18:50,ABC,Avaí,?,Givanildo Oliveira,6360,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206948
+36,sáb 10/11/2012,14:00,América-MG,ABC,?,Givanildo Oliveira,615,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206941
+37,sáb 17/11/2012,16:20,Boa Esporte,ABC,?,Givanildo Oliveira,1136,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206958
+38,sáb 24/11/2012,13:20,ABC,América-RN,?,Givanildo Oliveira,4835,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2280938

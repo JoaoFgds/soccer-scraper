@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 28/07/2001,15:00,Grenoble,SM Caen,?,Hervé Gauthier,x,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006771
+2,sáb 04/08/2001,15:00,SM Caen,Wasquehal,?,Hervé Gauthier,9998,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006780
+3,sáb 11/08/2001,15:00,AC Ajaccio,SM Caen,?,Hervé Gauthier,2918,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006790
+4,sáb 18/08/2001,15:00,SM Caen,FC Martigues,?,Hervé Gauthier,9431,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006801
+5,sáb 25/08/2001,15:00,FC Gueugnon,SM Caen,?,Hervé Gauthier,5212,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006812
+6,qua 29/08/2001,15:00,SM Caen,Amiens SC,?,Hervé Gauthier,10776,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006821
+7,sáb 08/09/2001,15:00,Stade Lavallois,SM Caen,?,Hervé Gauthier,4361,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006833
+8,sex 14/09/2001,15:15,SM Caen,Nice,?,Hervé Gauthier,11007,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006839
+9,sex 21/09/2001,15:00,FC Istres,SM Caen,?,Hervé Gauthier,1109,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006849
+10,sáb 29/09/2001,15:00,SM Caen,Le Havre,?,Hervé Gauthier,16889,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006862
+11,sex 05/10/2001,15:00,Strasbourg,SM Caen,?,Hervé Gauthier,8131,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006877
+12,sáb 13/10/2001,15:00,SM Caen,Chamois Niort,?,Hervé Gauthier,10620,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006884
+13,sáb 20/10/2001,16:00,Nîmes Olympique,SM Caen,?,Hervé Gauthier,3727,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006896
+14,dom 28/10/2001,14:45,SM Caen,AS Nancy,?,Hervé Gauthier,12295,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006907
+15,qui 08/11/2001,17:45,AS Beauvais,SM Caen,?,Hervé Gauthier,3586,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006909
+16,ter 13/11/2001,17:00,SM Caen,LB Châteauroux,?,Hervé Gauthier,10963,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006920
+17,sáb 17/11/2001,17:00,SM Caen,Saint-Étienne,?,Hervé Gauthier,17576,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006931
+18,qua 28/11/2001,17:30,US Créteil,SM Caen,?,Hervé Gauthier,2035,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006942
+19,sáb 08/12/2001,17:00,SM Caen,Le Mans UC 72,?,Hervé Gauthier,8966,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006950
+20,qua 19/12/2001,17:30,Wasquehal,SM Caen,?,Hervé Gauthier,1090,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006967
+21,sáb 22/12/2001,17:00,SM Caen,AC Ajaccio,?,Hervé Gauthier,9997,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006971
+22,sáb 05/01/2002,17:00,FC Martigues,SM Caen,?,Hervé Gauthier,1347,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006982
+23,sáb 12/01/2002,17:00,SM Caen,FC Gueugnon,?,Hervé Gauthier,8482,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006990
+24,qua 23/01/2002,17:30,Amiens SC,SM Caen,?,Hervé Gauthier,7424,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007001
+25,qua 30/01/2002,17:30,SM Caen,Stade Lavallois,?,Hervé Gauthier,10114,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007010
+26,dom 03/02/2002,15:00,Nice,SM Caen,?,Hervé Gauthier,4978,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007028
+27,qua 06/02/2002,17:30,SM Caen,FC Istres,?,Hervé Gauthier,8831,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007032
+28,ter 12/02/2002,17:15,Le Havre,SM Caen,?,Hervé Gauthier,11214,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010073
+29,sáb 16/02/2002,17:00,SM Caen,Strasbourg,?,Hervé Gauthier,10482,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010076
+30,sáb 23/02/2002,16:00,Chamois Niort,SM Caen,?,Hervé Gauthier,3198,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010090
+31,qua 06/03/2002,16:30,SM Caen,Nîmes Olympique,?,Hervé Gauthier,12088,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010095
+32,sáb 16/03/2002,16:00,AS Nancy,SM Caen,?,Hervé Gauthier,6492,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010109
+33,sex 22/03/2002,16:00,SM Caen,AS Beauvais,?,Hervé Gauthier,11060,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010115
+34,ter 26/03/2002,16:00,LB Châteauroux,SM Caen,?,Hervé Gauthier,7239,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010125
+35,sáb 06/04/2002,15:00,Saint-Étienne,SM Caen,?,Hervé Gauthier,17416,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010141
+36,sáb 13/04/2002,15:00,SM Caen,US Créteil,?,Hervé Gauthier,11155,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010145
+37,sex 26/04/2002,15:00,Le Mans UC 72,SM Caen,?,Hervé Gauthier,10920,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010159
+38,sex 03/05/2002,15:00,SM Caen,Grenoble,?,Hervé Gauthier,11827,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1010165

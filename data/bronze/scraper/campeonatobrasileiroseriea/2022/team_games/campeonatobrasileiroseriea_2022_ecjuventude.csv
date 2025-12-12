@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 11/04/2022,20:00,Juventude,Bragantino,4-2-3-1,Eduardo Baptista,3300,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767777
+2,sáb 16/04/2022,19:00,América-MG,Juventude,4-2-3-1,Eduardo Baptista,1559,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767782
+3,dom 24/04/2022,18:00,Juventude,Cuiabá,4-2-3-1,Eduardo Baptista,3920,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767797
+4,dom 01/05/2022,11:00,Botafogo,Juventude,4-2-3-1,Eduardo Baptista,34734,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767826
+5,dom 08/05/2022,19:00,Juventude,Internacional,4-2-3-1,Eduardo Baptista,7341,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767817
+6,dom 15/05/2022,18:00,Avaí,Juventude,4-4-2,Eduardo Baptista,9355,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767810
+7,sáb 21/05/2022,19:00,Juventude,Palmeiras,4-3-3 ofensivo,Eduardo Baptista,5513,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767837
+8,sáb 28/05/2022,20:30,Fortaleza,Juventude,4-4-2,Eduardo Baptista,22466,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767848
+9,dom 05/06/2022,11:00,Juventude,Fluminense,4-3-3 ofensivo,Eduardo Baptista,2573,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767857
+10,qua 08/06/2022,19:00,Juventude,Athletico-PR,4-4-2,Eduardo Baptista,3590,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767887
+11,sáb 11/06/2022,16:30,Corinthians,Juventude,4-4-2,Eduardo Baptista,34617,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767875
+12,ter 14/06/2022,21:30,Juventude,Santos,3-5-2,,3025,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767867
+13,dom 19/06/2022,18:00,Atlético-GO,Juventude,4-3-3 ofensivo,,4524,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767899
+14,sáb 25/06/2022,19:00,São Paulo,Juventude,4-2-3-1,Umberto Louzer,20466,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767904
+15,sáb 02/07/2022,16:30,Juventude,Atlético-MG,4-2-3-1,Umberto Louzer,6565,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767917
+16,dom 10/07/2022,11:00,Coritiba,Juventude,4-4-2,Umberto Louzer,20235,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768151
+17,dom 17/07/2022,11:00,Juventude,Goiás,4-1-4-1,Umberto Louzer,4406,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768137
+18,qua 20/07/2022,20:30,Flamengo,Juventude,4-2-3-1,Umberto Louzer,65392,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768123
+19,dom 24/07/2022,16:00,Juventude,Ceará,4-1-4-1,Umberto Louzer,4445,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768117
+20,dom 31/07/2022,19:00,Bragantino,Juventude,4-1-4-1,Umberto Louzer,3236,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768104
+21,sáb 06/08/2022,16:30,Juventude,América-MG,4-4-2,Umberto Louzer,3524,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768097
+22,sáb 13/08/2022,20:30,Cuiabá,Juventude,5-3-2,Umberto Louzer,6909,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768090
+23,dom 21/08/2022,11:00,Juventude,Botafogo,4-1-4-1,Umberto Louzer,3095,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768077
+24,seg 29/08/2022,20:00,Internacional,Juventude,4-1-4-1,Umberto Louzer,16518,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768067
+25,sáb 03/09/2022,16:30,Juventude,Avaí,3-4-2-1,Umberto Louzer,2708,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768057
+26,sáb 10/09/2022,21:00,Palmeiras,Juventude,3-4-1-2,Umberto Louzer,39337,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768045
+27,dom 18/09/2022,18:00,Juventude,Fortaleza,3-4-3 plano,Umberto Louzer,2144,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768037
+28,qua 28/09/2022,19:00,Fluminense,Juventude,3-5-2,Umberto Louzer,23396,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768003
+29,sáb 01/10/2022,19:00,Athletico-PR,Juventude,4-2-3-1,Umberto Louzer,14403,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768021
+30,ter 04/10/2022,21:30,Juventude,Corinthians,4-1-4-1,Lucas Zanella,3159,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768027
+31,seg 10/10/2022,20:00,Santos,Juventude,4-1-4-1,Lucas Zanella,9171,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767996
+32,dom 16/10/2022,18:00,Juventude,Atlético-GO,4-2-3-1,Lucas Zanella,1489,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767987
+33,dom 23/10/2022,16:00,Juventude,São Paulo,4-2-3-1,Lucas Zanella,3204,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767977
+34,qui 27/10/2022,21:30,Atlético-MG,Juventude,4-2-3-1,Lucas Zanella,18298,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767942
+35,qua 02/11/2022,19:00,Juventude,Coritiba,4-2-3-1,Celso Roth,3412,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767957
+36,sáb 05/11/2022,19:00,Goiás,Juventude,4-2-3-1,Celso Roth,10480,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767969
+37,qua 09/11/2022,21:30,Juventude,Flamengo,4-2-3-1,Celso Roth,5231,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767937
+38,dom 13/11/2022,16:00,Ceará,Juventude,4-4-2 losango,Celso Roth,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767928

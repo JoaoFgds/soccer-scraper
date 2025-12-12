@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 05/08/2006,15:00,Bordeaux,Toulouse,4-4-2 losango,Ricardo Gomes,30186,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57663
+2,sáb 12/08/2006,12:15,FC Lorient,Bordeaux,4-4-2 losango,Ricardo Gomes,15180,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57666
+3,dom 20/08/2006,16:00,Bordeaux,Lyon,4-3-1-2,Ricardo Gomes,32008,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57685
+4,sáb 26/08/2006,15:00,Lille,Bordeaux,4-5-1,Ricardo Gomes,15003,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57687
+5,sáb 09/09/2006,12:15,Bordeaux,Nice,4-5-1,Ricardo Gomes,20178,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57697
+6,dom 17/09/2006,16:00,Marselha,Bordeaux,4-5-1,Ricardo Gomes,55000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57708
+7,sáb 23/09/2006,15:00,Bordeaux,Troyes,4-4-2 losango,Ricardo Gomes,18623,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57717
+8,sáb 30/09/2006,15:00,Valenciennes,Bordeaux,4-4-2 losango,Ricardo Gomes,15040,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57735
+9,sáb 14/10/2006,15:00,Bordeaux,Monaco,4-4-2 losango,Ricardo Gomes,23135,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57736
+10,sáb 21/10/2006,15:00,FC Sochaux,Bordeaux,4-4-2 duplo 6,Ricardo Gomes,13475,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57754
+11,sáb 28/10/2006,15:00,Bordeaux,CS Sedan,4-4-2 losango,Ricardo Gomes,20836,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57756
+12,dom 05/11/2006,16:30,AS Nancy,Bordeaux,4-2-3-1,Ricardo Gomes,18041,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57769
+13,sáb 11/11/2006,15:15,Bordeaux,Auxerre,4-5-1,Ricardo Gomes,22025,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57776
+14,sáb 18/11/2006,18:30,PSG,Bordeaux,4-5-1,Ricardo Gomes,38394,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57791
+15,sáb 25/11/2006,18:00,Bordeaux,Saint-Étienne,4-5-1,Ricardo Gomes,29702,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57796
+16,sáb 02/12/2006,18:00,Lens,Bordeaux,4-5-1,Ricardo Gomes,30279,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57808
+17,sáb 09/12/2006,17:00,Bordeaux,Rennes,4-4-2 duplo 6,Ricardo Gomes,21929,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57816
+18,sáb 16/12/2006,18:00,Nantes,Bordeaux,4-4-2 losango,Ricardo Gomes,26490,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57831
+19,sáb 23/12/2006,17:00,Bordeaux,Le Mans UC 72,4-4-2 losango,Ricardo Gomes,20392,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57836
+20,sáb 13/01/2007,17:00,Bordeaux,FC Lorient,4-4-2 losango,Ricardo Gomes,19809,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57847
+21,qua 24/01/2007,17:30,Lyon,Bordeaux,4-5-1,Ricardo Gomes,35305,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57858
+22,sáb 27/01/2007,18:00,Bordeaux,Lille,4-5-1,Ricardo Gomes,23453,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57867
+23,sáb 03/02/2007,18:00,Nice,Bordeaux,4-4-2 losango,Ricardo Gomes,10898,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57881
+24,dom 11/02/2007,18:00,Bordeaux,Marselha,4-4-2 losango,Ricardo Gomes,32200,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57887
+25,sáb 17/02/2007,17:00,Troyes,Bordeaux,4-5-1,Ricardo Gomes,10401,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57904
+26,dom 25/02/2007,15:00,Bordeaux,Valenciennes,4-5-1,Ricardo Gomes,22371,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57906
+27,sáb 03/03/2007,16:00,Monaco,Bordeaux,4-2-3-1,Ricardo Gomes,11456,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57920
+28,sáb 10/03/2007,16:00,Bordeaux,FC Sochaux,4-5-1,Ricardo Gomes,25128,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57926
+29,sáb 17/03/2007,16:00,CS Sedan,Bordeaux,4-5-1,Ricardo Gomes,16994,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57943
+30,qua 18/04/2007,14:00,Bordeaux,AS Nancy,4-4-2 duplo 6,Ricardo Gomes,21732,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57946
+31,sáb 07/04/2007,15:00,Auxerre,Bordeaux,4-5-1,Ricardo Gomes,14556,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57956
+32,sáb 14/04/2007,12:10,Bordeaux,PSG,4-5-1,Ricardo Gomes,31731,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57966
+33,dom 22/04/2007,16:00,Saint-Étienne,Bordeaux,4-5-1,Ricardo Gomes,27851,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57983
+34,dom 29/04/2007,13:00,Bordeaux,Lens,4-5-1,Ricardo Gomes,32253,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/57986
+35,sáb 05/05/2007,15:00,Rennes,Bordeaux,4-5-1,Ricardo Gomes,28368,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58002
+36,qua 09/05/2007,15:30,Bordeaux,Nantes,4-5-1,Ricardo Gomes,27432,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58006
+37,sáb 19/05/2007,15:45,Le Mans UC 72,Bordeaux,4-5-1,Ricardo Gomes,14072,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58017
+38,sáb 26/05/2007,15:00,Toulouse,Bordeaux,4-5-1,Ricardo Gomes,32008,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/58033

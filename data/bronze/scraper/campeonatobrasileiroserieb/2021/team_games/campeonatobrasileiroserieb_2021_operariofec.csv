@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 29/05/2021,11:00,Vasco da Gama,Operário-PR,4-2-3-1,Matheus Costa,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546382
+2,ter 01/06/2021,19:00,Operário-PR,Guarani,4-2-3-1,Matheus Costa,x,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546398
+3,dom 13/06/2021,20:30,Vitória,Operário-PR,4-3-3 ofensivo,Matheus Costa,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3573967
+4,qua 16/06/2021,18:00,Operário-PR,Sampaio Corrêa,4-2-3-1,Matheus Costa,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3573975
+5,sáb 19/06/2021,19:00,Operário-PR,Cruzeiro,4-2-3-1,Matheus Costa,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3573984
+6,ter 22/06/2021,19:00,Ponte Preta,Operário-PR,4-2-3-1,Matheus Costa,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3573991
+7,sex 25/06/2021,19:00,Operário-PR,Confiança,4-2-3-1,Matheus Costa,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580672
+8,seg 28/06/2021,18:00,Operário-PR,Vila Nova,4-2-3-1,Matheus Costa,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580679
+9,sex 02/07/2021,19:00,Náutico,Operário-PR,4-3-3 ofensivo,Matheus Costa,x,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584102
+10,sáb 10/07/2021,11:00,Operário-PR,Brasil Pelotas,4-2-3-1,Matheus Costa,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584135
+11,ter 13/07/2021,21:30,Londrina,Operário-PR,4-2-3-1,Matheus Costa,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584123
+12,sáb 17/07/2021,19:00,Operário-PR,CSA,4-2-3-1,Matheus Costa,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584115
+13,qui 22/07/2021,21:30,Avaí,Operário-PR,4-2-3-1,Matheus Costa,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584146
+14,dom 25/07/2021,18:15,Operário-PR,Coritiba,4-2-3-1,Matheus Costa,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584155
+15,sex 30/07/2021,16:00,Goiás,Operário-PR,4-2-3-1,Matheus Costa,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584160
+16,sex 06/08/2021,16:00,Remo,Operário-PR,4-2-3-1,Matheus Costa,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584198
+17,qui 12/08/2021,21:30,Operário-PR,Botafogo,4-2-3-1,Matheus Costa,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584185
+18,dom 15/08/2021,20:30,Operário-PR,Brusque,4-4-2,Matheus Costa,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584175
+19,qua 18/08/2021,21:30,CRB,Operário-PR,4-2-3-1,Matheus Costa,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584204
+20,sáb 21/08/2021,19:00,Operário-PR,Vasco da Gama,4-2-3-1,Matheus Costa,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584215
+21,ter 24/08/2021,19:00,Guarani,Operário-PR,4-2-3-1,Matheus Costa,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584221
+22,sáb 04/09/2021,11:00,Operário-PR,Vitória,4-2-3-1,Matheus Costa,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584255
+23,sáb 11/09/2021,16:30,Sampaio Corrêa,Operário-PR,4-2-3-1,Matheus Costa,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584248
+24,qui 16/09/2021,19:00,Cruzeiro,Operário-PR,4-2-3-1,Matheus Costa,5373,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584232
+25,qua 22/09/2021,21:30,Operário-PR,Ponte Preta,4-2-3-1,Matheus Costa,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584265
+26,sáb 25/09/2021,17:30,Confiança,Operário-PR,4-2-3-1,Matheus Costa,905,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584277
+27,ter 28/09/2021,21:30,Vila Nova,Operário-PR,3-4-3 plano,Matheus Costa,1328,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584280
+28,sex 01/10/2021,21:30,Operário-PR,Náutico,4-5-1,Ricardo Catalá,427,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584315
+29,qua 06/10/2021,16:00,Brasil Pelotas,Operário-PR,4-2-3-1,Ricardo Catalá,183,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584303
+30,sáb 16/10/2021,18:30,Operário-PR,Londrina,4-2-3-1,Ricardo Catalá,2523,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584295
+31,sáb 23/10/2021,19:00,CSA,Operário-PR,4-2-3-1,Ricardo Catalá,5002,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584324
+32,sex 29/10/2021,19:00,Operário-PR,Avaí,4-2-3-1,Ricardo Catalá,2362,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584335
+33,qua 03/11/2021,18:30,Coritiba,Operário-PR,4-2-3-1,Ricardo Catalá,16886,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584345
+34,sáb 06/11/2021,18:30,Operário-PR,Goiás,4-2-3-1,Ricardo Catalá,3111,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584375
+35,ter 09/11/2021,19:00,Operário-PR,Remo,4-2-3-1,Ricardo Catalá,3723,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584365
+36,seg 15/11/2021,16:00,Botafogo,Operário-PR,4-2-3-1,Ricardo Catalá,25584,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584349
+37,sex 19/11/2021,19:00,Brusque,Operário-PR,4-2-3-1,Ricardo Catalá,1773,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584386
+38,dom 28/11/2021,16:00,Operário-PR,CRB,4-2-3-1,Ricardo Catalá,2622,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584395

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 13/09/2020,09:00,Alavés,Betis,4-2-3-1,Manuel Pellegrini,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431904
+2,dom 20/09/2020,13:30,Betis,Valladolid,4-2-3-1,Manuel Pellegrini,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431915
+3,sáb 26/09/2020,16:00,Betis,Real Madrid,4-2-3-1,Manuel Pellegrini,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431927
+4,ter 29/09/2020,16:30,Getafe,Betis,4-2-3-1,Manuel Pellegrini,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431937
+5,sáb 03/10/2020,16:00,Valencia,Betis,4-2-3-1,Manuel Pellegrini,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3441595
+6,dom 18/10/2020,16:00,Betis,Real Sociedad,4-2-3-1,Manuel Pellegrini,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3450967
+7,sáb 24/10/2020,16:00,Atlético,Betis,4-2-3-1,Manuel Pellegrini,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3450970
+8,dom 01/11/2020,10:00,Betis,Elche,4-3-3 ofensivo,Manuel Pellegrini,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3450986
+9,sáb 07/11/2020,12:15,Barcelona,Betis,4-2-3-1,Manuel Pellegrini,x,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3450991
+10,seg 23/11/2020,17:00,Athletic Club,Betis,4-1-4-1,Manuel Pellegrini,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451001
+11,seg 30/11/2020,17:00,Betis,Eibar,4-2-3-1,Manuel Pellegrini,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451015
+12,dom 06/12/2020,12:15,Osasuna,Betis,4-4-1-1,Manuel Pellegrini,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451027
+13,dom 13/12/2020,12:15,Betis,Villarreal,4-2-3-1,Manuel Pellegrini,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451035
+14,dom 20/12/2020,12:15,Granada CF,Betis,4-2-3-1,Manuel Pellegrini,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451046
+15,qua 23/12/2020,18:00,Betis,Cádiz CF,4-2-3-1,Manuel Pellegrini,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451054
+16,ter 29/12/2020,17:30,Levante,Betis,4-2-3-1,Manuel Pellegrini,x,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451067
+17,sáb 02/01/2021,12:15,Betis,Sevilla,4-2-3-1,Manuel Pellegrini,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451075
+18,seg 11/01/2021,17:00,SD Huesca,Betis,4-2-3-1,Manuel Pellegrini,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451085
+19,qua 20/01/2021,17:00,Betis,Celta de Vigo,4-2-3-1,Manuel Pellegrini,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451095
+20,sáb 23/01/2021,14:30,Real Sociedad,Betis,4-2-3-1,Manuel Pellegrini,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451108
+21,seg 01/02/2021,17:00,Betis,Osasuna,4-2-3-1,Manuel Pellegrini,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451115
+22,dom 07/02/2021,17:00,Betis,Barcelona,4-2-3-1,Manuel Pellegrini,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451135
+23,dom 14/02/2021,17:00,Villarreal,Betis,4-2-3-1,Manuel Pellegrini,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451155
+24,sex 19/02/2021,17:00,Betis,Getafe,4-2-3-1,Manuel Pellegrini,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451162
+25,dom 28/02/2021,12:15,Cádiz CF,Betis,4-2-3-1,Manuel Pellegrini,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451176
+26,seg 08/03/2021,17:00,Betis,Alavés,4-2-3-1,Manuel Pellegrini,,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451198
+27,dom 14/03/2021,17:00,Sevilla,Betis,4-4-1-1,Manuel Pellegrini,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451213
+28,sex 19/03/2021,17:00,Betis,Levante,4-2-3-1,Manuel Pellegrini,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451378
+29,dom 04/04/2021,11:15,Elche,Betis,4-2-3-1,Manuel Pellegrini,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451386
+30,dom 11/04/2021,16:00,Betis,Atlético,4-2-3-1,Manuel Pellegrini,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451398
+31,qua 21/04/2021,15:00,Betis,Athletic Club,4-4-1-1,Manuel Pellegrini,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451411
+32,sáb 24/04/2021,16:00,Real Madrid,Betis,4-2-3-1,Manuel Pellegrini,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451418
+33,dom 18/04/2021,13:30,Betis,Valencia,4-2-3-1,Manuel Pellegrini,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451431
+34,dom 02/05/2021,09:00,Valladolid,Betis,4-2-3-1,Manuel Pellegrini,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451439
+35,seg 10/05/2021,16:00,Betis,Granada CF,4-2-3-1,Manuel Pellegrini,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451448
+36,qui 13/05/2021,15:00,Eibar,Betis,4-2-3-1,Manuel Pellegrini,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451455
+37,dom 16/05/2021,13:30,Betis,SD Huesca,4-2-3-1,Manuel Pellegrini,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451469
+38,sáb 22/05/2021,13:00,Celta de Vigo,Betis,4-2-3-1,Manuel Pellegrini,1738,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451473

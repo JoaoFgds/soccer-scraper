@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 16/04/2023,16:00,Corinthians,Cruzeiro,4-2-3-1,Fernando Lázaro,41304,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4055822
+2,dom 23/04/2023,19:00,Goiás,Corinthians,4-2-3-1,Cuca,10162,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4059111
+3,sáb 29/04/2023,18:30,Palmeiras,Corinthians,4-2-3-1,Danilo,41457,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060064
+4,seg 08/05/2023,20:00,Corinthians,Fortaleza,4-2-3-1,Vanderlei Luxemburgo,36512,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061496
+5,qui 11/05/2023,19:30,Botafogo,Corinthians,4-1-4-1,Vanderlei Luxemburgo,22388,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061434
+6,dom 14/05/2023,16:00,Corinthians,São Paulo,4-1-4-1,Vanderlei Luxemburgo,41434,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061516
+7,dom 21/05/2023,16:00,Flamengo,Corinthians,4-4-2,Vanderlei Luxemburgo,64871,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061403
+8,dom 28/05/2023,16:00,Corinthians,Fluminense,4-4-2,Vanderlei Luxemburgo,34624,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061446
+9,sáb 03/06/2023,18:30,América-MG,Corinthians,3-4-2-1,Vanderlei Luxemburgo,6701,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061422
+10,sáb 10/06/2023,18:30,Corinthians,Cuiabá,3-4-1-2,Vanderlei Luxemburgo,40512,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061526
+11,qua 21/06/2023,20:00,Santos,Corinthians,4-1-4-1,Vanderlei Luxemburgo,12499,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061466
+12,sáb 24/06/2023,16:00,Athletico-PR,Corinthians,4-1-4-1,Vanderlei Luxemburgo,30144,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061510
+13,dom 02/07/2023,11:00,Corinthians,Bragantino,4-3-3 ofensivo,Vanderlei Luxemburgo,42404,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061556
+14,sáb 08/07/2023,18:30,Atlético-MG,Corinthians,5-3-2,Vanderlei Luxemburgo,21086,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061298
+15,seg 18/09/2023,21:00,Corinthians,Grêmio,4-1-4-1,Vanderlei Luxemburgo,36076,4:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061426
+16,sáb 22/07/2023,18:30,Bahia,Corinthians,3-4-2-1,Vanderlei Luxemburgo,43716,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061551
+17,sáb 29/07/2023,18:30,Corinthians,Vasco da Gama,4-3-1-2,Vanderlei Luxemburgo,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061540
+18,sáb 05/08/2023,18:30,Internacional,Corinthians,4-3-3 ofensivo,Vanderlei Luxemburgo,22509,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061279
+19,dom 13/08/2023,16:00,Corinthians,Coritiba,4-2-3-1,Vanderlei Luxemburgo,42171,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061396
+20,sáb 19/08/2023,21:00,Cruzeiro,Corinthians,4-3-3 ofensivo,Vanderlei Luxemburgo,36202,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061248
+21,sáb 26/08/2023,21:00,Corinthians,Goiás,4-3-3 ofensivo,Vanderlei Luxemburgo,37316,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061386
+22,dom 03/09/2023,16:00,Corinthians,Palmeiras,4-2-3-1,Vanderlei Luxemburgo,44371,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061286
+23,qui 14/09/2023,19:00,Fortaleza,Corinthians,3-4-1-2,Vanderlei Luxemburgo,32690,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061221
+24,sex 22/09/2023,20:00,Corinthians,Botafogo,4-4-2 duplo 6,Vanderlei Luxemburgo,37543,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061256
+25,sáb 30/09/2023,18:30,São Paulo,Corinthians,4-2-3-1,Mano Menezes,56735,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061375
+26,sáb 07/10/2023,21:00,Corinthians,Flamengo,4-2-3-1,Mano Menezes,40800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061266
+27,qui 19/10/2023,21:30,Fluminense,Corinthians,4-4-2 losango,Mano Menezes,36916,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061343
+28,dom 22/10/2023,18:30,Corinthians,América-MG,4-1-4-1,Mano Menezes,38121,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061326
+29,qua 25/10/2023,21:30,Cuiabá,Corinthians,4-1-4-1,Mano Menezes,36620,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061462
+30,dom 29/10/2023,19:30,Corinthians,Santos,4-2-3-1,Mano Menezes,42248,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061316
+31,qua 01/11/2023,19:00,Corinthians,Athletico-PR,4-2-3-1,Mano Menezes,29870,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061236
+32,dom 05/11/2023,16:00,Bragantino,Corinthians,4-2-3-1,Mano Menezes,10797,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061227
+33,qui 09/11/2023,19:00,Corinthians,Atlético-MG,4-2-3-1,Mano Menezes,30348,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061336
+34,dom 12/11/2023,16:00,Grêmio,Corinthians,3-4-1-2,Mano Menezes,51842,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061309
+35,sex 24/11/2023,21:00,Corinthians,Bahia,4-2-3-1,Mano Menezes,39403,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061356
+36,ter 28/11/2023,21:30,Vasco da Gama,Corinthians,4-2-3-1,Mano Menezes,20577,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061364
+37,sáb 02/12/2023,18:00,Corinthians,Internacional,4-4-2,Mano Menezes,40583,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061476
+38,qua 06/12/2023,21:30,Coritiba,Corinthians,4-3-3 defensivo,Mano Menezes,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061490

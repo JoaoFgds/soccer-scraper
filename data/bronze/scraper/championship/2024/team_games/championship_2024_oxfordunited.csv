@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 10/08/2024,08:30,Oxford United,Norwich,4-1-4-1,Des Buckingham,11333,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382374
+2,sex 16/08/2024,16:00,Coventry City,Oxford United,4-1-4-1,Des Buckingham,28051,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382381
+3,sáb 24/08/2024,11:00,Blackburn,Oxford United,4-1-4-1,Des Buckingham,14769,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382391
+4,sáb 31/08/2024,11:00,Oxford United,Preston NE,4-1-4-1,Des Buckingham,11403,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382410
+5,sáb 14/09/2024,08:30,Oxford United,Stoke,4-1-4-1,Des Buckingham,11507,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382421
+6,sáb 21/09/2024,11:00,Bristol City,Oxford United,4-3-3 ofensivo,Des Buckingham,24808,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382427
+7,sáb 28/09/2024,11:00,Oxford United,FC Burnley,4-1-4-1,Des Buckingham,11517,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382445
+8,ter 01/10/2024,15:45,Luton,Oxford United,4-1-4-1,Des Buckingham,11397,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382466
+9,sáb 05/10/2024,08:30,FC Portsmouth,Oxford United,4-1-4-1,Des Buckingham,20125,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382457
+10,sáb 19/10/2024,08:30,Oxford United,West Brom,4-1-4-1,Des Buckingham,11453,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382506
+11,ter 22/10/2024,15:45,Oxford United,Derby,4-1-4-1,Des Buckingham,11423,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382478
+12,sáb 26/10/2024,11:00,AFC Sunderland,Oxford United,4-1-4-1,Des Buckingham,35106,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382615
+13,sáb 02/11/2024,09:30,Oxford United,Swansea,4-1-4-1,Des Buckingham,11454,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382518
+14,ter 05/11/2024,16:45,Oxford United,Hull City,4-2-3-1,Des Buckingham,10213,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382525
+15,sex 08/11/2024,17:00,Watford,Oxford United,3-4-2-1,Des Buckingham,20268,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382558
+16,sáb 23/11/2024,12:00,Oxford United,Middlesbrough,3-4-2-1,Des Buckingham,11442,2:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382492
+17,ter 26/11/2024,16:45,Sheff Utd,Oxford United,4-4-1-1,Des Buckingham,25574,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382539
+18,sáb 30/11/2024,09:30,Oxford United,Millwall,4-4-1-1,Des Buckingham,10990,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382601
+19,ter 14/01/2025,16:45,Plymouth Argyle,Oxford United,4-2-3-1,Gary Rowett,15933,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382577
+20,qua 11/12/2024,16:45,QPR,Oxford United,4-1-4-1,Des Buckingham,14440,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382641
+21,sáb 14/12/2024,12:00,Oxford United,Sheff Wed,4-4-1-1,Des Buckingham,11567,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382589
+22,sáb 21/12/2024,12:00,Leeds,Oxford United,4-4-1-1,Craig Short,36646,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382562
+23,qui 26/12/2024,12:00,Oxford United,Cardiff,4-4-1-1,Gary Rowett,11494,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382661
+24,dom 29/12/2024,12:00,Oxford United,Plymouth Argyle,4-2-3-1,Gary Rowett,11438,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382673
+25,qua 01/01/2025,10:00,Millwall,Oxford United,4-2-3-1,Gary Rowett,14964,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382624
+26,sáb 04/01/2025,12:00,Preston NE,Oxford United,4-2-3-1,Gary Rowett,14749,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382696
+27,sáb 18/01/2025,12:00,Oxford United,Blackburn,4-2-3-1,Gary Rowett,11207,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382650
+28,ter 21/01/2025,16:45,Oxford United,Luton,4-2-3-1,Gary Rowett,11035,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382684
+29,sáb 25/01/2025,09:30,Stoke,Oxford United,4-2-3-1,Gary Rowett,22911,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382712
+30,sáb 01/02/2025,09:30,Oxford United,Bristol City,4-2-3-1,Gary Rowett,11430,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382781
+31,ter 04/02/2025,16:45,FC Burnley,Oxford United,4-2-3-1,Gary Rowett,18187,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382728
+32,ter 11/02/2025,16:45,Derby,Oxford United,4-2-3-1,Gary Rowett,25999,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382741
+33,sáb 15/02/2025,09:30,Oxford United,FC Portsmouth,4-2-3-1,Gary Rowett,11423,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382830
+34,sáb 22/02/2025,12:00,West Brom,Oxford United,4-2-3-1,Gary Rowett,25951,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382774
+35,sáb 01/03/2025,09:30,Oxford United,Coventry City,4-2-3-1,Gary Rowett,11405,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382818
+36,sex 07/03/2025,17:00,Norwich,Oxford United,5-3-2,Gary Rowett,25996,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382755
+37,qua 12/03/2025,16:45,Hull City,Oxford United,4-2-3-1,Gary Rowett,19024,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382722
+38,sáb 15/03/2025,12:00,Oxford United,Watford,4-2-3-1,Gary Rowett,11535,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382876
+39,sáb 29/03/2025,12:00,Middlesbrough,Oxford United,3-4-3 plano,Gary Rowett,24624,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382888
+40,sáb 05/04/2025,11:00,Oxford United,Sheff Utd,4-2-3-1,Gary Rowett,11496,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382792
+41,qua 09/04/2025,15:45,Oxford United,QPR,4-2-3-1,Gary Rowett,11509,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382845
+42,sáb 12/04/2025,11:00,Sheff Wed,Oxford United,4-2-3-1,Gary Rowett,25646,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382808
+43,sex 18/04/2025,11:00,Oxford United,Leeds,4-2-3-1,Gary Rowett,11537,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382865
+44,seg 21/04/2025,11:00,Cardiff,Oxford United,4-4-2 duplo 6,Gary Rowett,23407,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382896
+45,sáb 26/04/2025,11:00,Oxford United,AFC Sunderland,4-2-3-1,Gary Rowett,11431,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382914
+46,sáb 03/05/2025,08:30,Swansea,Oxford United,4-4-1-1,Gary Rowett,19672,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382856

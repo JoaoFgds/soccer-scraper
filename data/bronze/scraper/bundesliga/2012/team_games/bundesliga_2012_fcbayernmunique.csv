@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 25/08/2012,10:30,Greuther Fürth,Bayern,4-2-3-1,Jupp Heynckes,18000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2222543
+2,dom 02/09/2012,12:30,Bayern,Stuttgart,4-2-3-1,Jupp Heynckes,71000,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231393
+3,sáb 15/09/2012,10:30,Bayern,Mainz,4-2-3-1,Jupp Heynckes,71000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231429
+4,sáb 22/09/2012,10:30,Schalke,Bayern,4-2-3-1,Jupp Heynckes,61673,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231423
+5,ter 25/09/2012,15:00,Bayern,Wolfsburg,4-2-3-1,Jupp Heynckes,71000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231412
+6,sáb 29/09/2012,10:30,Werder Bremen,Bayern,4-2-3-1,Jupp Heynckes,42100,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231395
+7,sáb 06/10/2012,10:30,Bayern,Hoffenheim,4-2-3-1,Jupp Heynckes,71000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231402
+8,sáb 20/10/2012,10:30,Düsseldorf,Bayern,4-2-3-1,Jupp Heynckes,54600,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231502
+9,dom 28/10/2012,14:30,Bayern,Leverkusen,4-2-3-1,Jupp Heynckes,71000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231494
+10,sáb 03/11/2012,15:30,Hamburgo,Bayern,4-2-3-1,Jupp Heynckes,57000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231472
+11,sáb 10/11/2012,12:30,Bayern,Frankfurt,4-2-3-1,Jupp Heynckes,71000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231475
+12,sáb 17/11/2012,12:30,Nuremberg,Bayern,4-2-3-1,Jupp Heynckes,50000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231479
+13,sáb 24/11/2012,12:30,Bayern,Hannover,4-2-3-1,Jupp Heynckes,71000,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231459
+14,qua 28/11/2012,17:00,Freiburg,Bayern,4-2-3-1,Jupp Heynckes,24000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231440
+15,sáb 01/12/2012,15:30,Bayern,Dortmund,4-2-3-1,Jupp Heynckes,71000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231446
+16,sáb 08/12/2012,12:30,Augsburg,Bayern,4-2-3-1,Jupp Heynckes,30660,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231523
+17,sex 14/12/2012,17:30,Bayern,M'gladbach,4-2-3-1,Jupp Heynckes,71000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231516
+18,sáb 19/01/2013,12:30,Bayern,Greuther Fürth,4-2-3-1,Jupp Heynckes,71000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231556
+19,dom 27/01/2013,14:30,Stuttgart,Bayern,4-2-3-1,Jupp Heynckes,60441,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231561
+20,sáb 02/02/2013,12:30,Mainz,Bayern,4-2-3-1,Jupp Heynckes,34034,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231545
+21,sáb 09/02/2013,15:30,Bayern,Schalke,4-2-3-1,Jupp Heynckes,71000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231546
+22,sex 15/02/2013,17:30,Wolfsburg,Bayern,4-2-3-1,Jupp Heynckes,30000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231554
+23,sáb 23/02/2013,11:30,Bayern,Werder Bremen,4-2-3-1,Jupp Heynckes,71000,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231579
+24,dom 03/03/2013,11:30,Hoffenheim,Bayern,4-2-3-1,Jupp Heynckes,30150,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231647
+25,sáb 09/03/2013,11:30,Bayern,Düsseldorf,4-2-3-1,Jupp Heynckes,71000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231599
+26,sáb 16/03/2013,14:30,Leverkusen,Bayern,4-2-3-1,Jupp Heynckes,30210,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231627
+27,sáb 30/03/2013,14:30,Bayern,Hamburgo,4-2-3-1,Jupp Heynckes,71000,9:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231620
+28,sáb 06/04/2013,10:30,Frankfurt,Bayern,4-2-3-1,Jupp Heynckes,51500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231637
+29,sáb 13/04/2013,10:30,Bayern,Nuremberg,4-4-2 duplo 6,Jupp Heynckes,71000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231641
+30,sáb 20/04/2013,10:30,Hannover,Bayern,4-4-2 duplo 6,Jupp Heynckes,49000,1:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231585
+31,sáb 27/04/2013,10:30,Bayern,Freiburg,4-4-2 duplo 6,Jupp Heynckes,71000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231576
+32,sáb 04/05/2013,13:30,Dortmund,Bayern,4-4-2 duplo 6,Jupp Heynckes,80645,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231680
+33,sáb 11/05/2013,10:30,Bayern,Augsburg,4-2-3-1,Jupp Heynckes,71000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231668
+34,sáb 18/05/2013,10:30,M'gladbach,Bayern,4-2-3-1,Jupp Heynckes,54010,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2231653

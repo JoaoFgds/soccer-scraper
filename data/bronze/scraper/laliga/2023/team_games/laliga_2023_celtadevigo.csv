@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 13/08/2023,12:00,Celta de Vigo,Osasuna,4-4-2,Rafael Benítez,20269,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112808
+2,sáb 19/08/2023,12:00,Real Sociedad,Celta de Vigo,4-4-2,Rafael Benítez,30354,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113156
+3,sex 25/08/2023,16:30,Celta de Vigo,Real Madrid,3-4-3 plano,Rafael Benítez,23057,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113082
+4,sex 01/09/2023,17:00,UD Almería,Celta de Vigo,3-4-3 plano,Rafael Benítez,14196,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113045
+5,sáb 16/09/2023,13:30,Celta de Vigo,Mallorca,3-4-3 plano,Rafael Benítez,18693,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113108
+6,sáb 23/09/2023,13:30,Barcelona,Celta de Vigo,5-3-2,Rafael Benítez,43272,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113122
+7,qui 28/09/2023,14:00,Celta de Vigo,Alavés,5-3-2,Rafael Benítez,16852,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113074
+8,seg 02/10/2023,16:00,Las Palmas,Celta de Vigo,5-3-2,Rafael Benítez,22472,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112965
+9,dom 08/10/2023,13:30,Celta de Vigo,Getafe,4-4-2 duplo 6,Rafael Benítez,17953,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113057
+10,sáb 21/10/2023,16:00,Celta de Vigo,Atlético,4-3-3 ofensivo,Rafael Benítez,20282,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113125
+11,sex 27/10/2023,16:00,Girona,Celta de Vigo,4-4-2 duplo 6,Rafael Benítez,12671,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113145
+12,sáb 04/11/2023,14:30,Celta de Vigo,Sevilla,4-4-2 duplo 6,Rafael Benítez,19023,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113104
+13,sex 10/11/2023,17:00,Athletic Club,Celta de Vigo,4-4-2,Rafael Benítez,44435,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113088
+14,sáb 25/11/2023,12:15,Valencia,Celta de Vigo,4-4-2,Rafael Benítez,43375,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113094
+15,seg 04/12/2023,17:00,Celta de Vigo,Cádiz CF,4-4-2,Rafael Benítez,17302,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113152
+16,seg 11/12/2023,17:00,Rayo Vallecano,Celta de Vigo,4-4-2,Rafael Benítez,11796,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112883
+17,sáb 16/12/2023,10:00,Celta de Vigo,Granada CF,4-4-2,Rafael Benítez,18027,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112847
+18,qua 20/12/2023,17:30,Villarreal,Celta de Vigo,4-4-2 duplo 6,Rafael Benítez,14687,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112874
+19,qua 03/01/2024,15:15,Celta de Vigo,Betis,4-4-2 duplo 6,Rafael Benítez,21105,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112861
+20,sáb 13/01/2024,12:15,Mallorca,Celta de Vigo,3-1-4-2,Rafael Benítez,21130,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112823
+21,sáb 20/01/2024,17:00,Celta de Vigo,Real Sociedad,4-3-3 ofensivo,Rafael Benítez,20901,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112825
+22,dom 28/01/2024,10:00,Celta de Vigo,Girona,3-4-3 plano,Rafael Benítez,20684,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112844
+23,dom 04/02/2024,12:15,Osasuna,Celta de Vigo,3-4-3 plano,Rafael Benítez,20030,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113044
+24,dom 11/02/2024,10:00,Getafe,Celta de Vigo,5-4-1 plano,Rafael Benítez,11502,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112892
+25,sáb 17/02/2024,14:30,Celta de Vigo,Barcelona,4-4-2 duplo 6,Rafael Benítez,23096,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113180
+26,dom 25/02/2024,10:00,Cádiz CF,Celta de Vigo,4-4-2 duplo 6,Rafael Benítez,18123,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113027
+27,sex 01/03/2024,17:00,Celta de Vigo,UD Almería,4-4-2,Rafael Benítez,18005,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113008
+28,dom 10/03/2024,14:30,Real Madrid,Celta de Vigo,4-4-2,Rafael Benítez,73644,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113003
+29,dom 17/03/2024,10:00,Sevilla,Celta de Vigo,5-4-1 plano,Claudio Giráldez,36544,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112991
+30,dom 31/03/2024,09:00,Celta de Vigo,Rayo Vallecano,3-4-2-1,Claudio Giráldez,21505,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112978
+31,sex 12/04/2024,16:00,Betis,Celta de Vigo,3-4-3 plano,Claudio Giráldez,48938,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113017
+32,sáb 20/04/2024,09:00,Celta de Vigo,Las Palmas,3-4-3 plano,Claudio Giráldez,21256,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112927
+33,sáb 27/04/2024,13:30,Alavés,Celta de Vigo,3-4-3 plano,Claudio Giráldez,18039,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112940
+34,dom 05/05/2024,11:15,Celta de Vigo,Villarreal,3-4-2-1,Claudio Giráldez,19548,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112945
+35,dom 12/05/2024,11:15,Atlético,Celta de Vigo,3-4-3 plano,Claudio Giráldez,63014,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112956
+36,qua 15/05/2024,17:00,Celta de Vigo,Athletic Club,3-4-3 plano,Claudio Giráldez,21301,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112918
+37,dom 19/05/2024,14:00,Granada CF,Celta de Vigo,3-5-2 plano,Claudio Giráldez,11473,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112912
+38,dom 26/05/2024,11:15,Celta de Vigo,Valencia,3-4-3 plano,Claudio Giráldez,21878,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112896

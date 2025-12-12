@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 30/08/2003,14:30,Real Madrid,Betis,4-1-3-2,Carlos Queiroz,60000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/501
+2,ter 02/09/2003,16:00,Villarreal,Real Madrid,4-1-3-2,Carlos Queiroz,22000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/703
+3,sáb 13/09/2003,14:30,Real Madrid,Valladolid,4-4-2 duplo 6,Carlos Queiroz,64725,7:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/898
+4,dom 21/09/2003,16:30,Málaga CF,Real Madrid,4-2-3-1,Carlos Queiroz,25000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1105
+5,sáb 27/09/2003,16:30,Valencia,Real Madrid,4-4-1-1,Carlos Queiroz,50000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1299
+6,dom 05/10/2003,14:00,Real Madrid,Espanyol,4-4-2,Carlos Queiroz,76300,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1501
+7,sáb 18/10/2003,14:30,Celta de Vigo,Real Madrid,4-4-2 duplo 6,Carlos Queiroz,25000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1696
+8,sáb 25/10/2003,15:30,Real Madrid,Rac. Santander,4-2-3-1,Carlos Queiroz,65000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1896
+9,ter 28/10/2003,18:00,Zaragoza,Real Madrid,4-2-3-1,Carlos Queiroz,35000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2094
+10,sáb 01/11/2003,18:30,Real Madrid,Athletic Club,4-2-3-1,Carlos Queiroz,69433,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2286
+11,dom 09/11/2003,18:00,Sevilla,Real Madrid,4-2-3-1,Carlos Queiroz,40000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2494
+12,dom 23/11/2003,16:00,Real Madrid,Albacete,4-4-2 duplo 6,Carlos Queiroz,76300,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698
+13,sáb 29/11/2003,16:30,Osasuna,Real Madrid,4-2-3-1,Carlos Queiroz,15984,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884
+14,qua 03/12/2003,18:30,Real Madrid,Atlético,4-2-3-1,Carlos Queiroz,78000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3083
+15,sáb 06/12/2003,18:30,Barcelona,Real Madrid,4-2-3-1,Carlos Queiroz,92524,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3245
+16,dom 14/12/2003,16:00,Real Madrid,Deportivo,4-2-3-1,Carlos Queiroz,78000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3470
+17,dom 21/12/2003,16:00,Mallorca,Real Madrid,4-2-3-1,Carlos Queiroz,22146,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3668
+18,sáb 03/01/2004,16:30,Real Madrid,Real Murcia,4-4-2 duplo 6,Carlos Queiroz,75000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3831
+19,sáb 10/01/2004,18:30,Real Sociedad,Real Madrid,4-2-3-1,Carlos Queiroz,30000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3911
+20,dom 18/01/2004,18:00,Betis,Real Madrid,4-2-3-1,Carlos Queiroz,50000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4178
+21,sáb 24/01/2004,16:30,Real Madrid,Villarreal,4-2-3-1,Carlos Queiroz,73000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4375
+22,dom 01/02/2004,14:00,Valladolid,Real Madrid,4-2-3-1,Carlos Queiroz,25200,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4528
+23,dom 08/02/2004,18:30,Real Madrid,Málaga CF,4-2-3-1,Carlos Queiroz,70000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4748
+24,dom 15/02/2004,17:00,Real Madrid,Valencia,4-2-3-1,Carlos Queiroz,70000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4938
+25,sáb 21/02/2004,15:30,Espanyol,Real Madrid,4-4-2 duplo 6,Carlos Queiroz,46750,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5144
+26,dom 29/02/2004,15:00,Real Madrid,Celta de Vigo,4-2-3-1,Carlos Queiroz,75000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5331
+27,sáb 06/03/2004,15:30,Rac. Santander,Real Madrid,4-2-3-1,Carlos Queiroz,21146,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5519
+28,sáb 13/03/2004,15:30,Real Madrid,Zaragoza,4-2-3-1,Carlos Queiroz,70135,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5738
+29,sáb 20/03/2004,15:30,Athletic Club,Real Madrid,4-2-3-1,Carlos Queiroz,30800,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5935
+30,dom 28/03/2004,16:00,Real Madrid,Sevilla,4-2-3-1,Carlos Queiroz,65000,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6161
+31,sáb 03/04/2004,15:00,Albacete,Real Madrid,4-2-3-1,Carlos Queiroz,17000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6368
+32,dom 11/04/2004,16:30,Real Madrid,Osasuna,4-2-3-1,Carlos Queiroz,50000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6581
+33,sáb 17/04/2004,17:00,Atlético,Real Madrid,4-2-3-1,Carlos Queiroz,57000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6775
+34,dom 25/04/2004,14:30,Real Madrid,Barcelona,4-2-3-1,Carlos Queiroz,76300,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6979
+35,sáb 01/05/2004,17:00,Deportivo,Real Madrid,4-2-3-1,Carlos Queiroz,35600,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7192
+36,sáb 08/05/2004,17:00,Real Madrid,Mallorca,4-2-3-1,Carlos Queiroz,68000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7234
+37,dom 16/05/2004,16:30,Real Murcia,Real Madrid,4-2-3-1,Carlos Queiroz,16000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7295
+38,dom 23/05/2004,16:00,Real Madrid,Real Sociedad,4-2-3-1,Carlos Queiroz,50000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7331

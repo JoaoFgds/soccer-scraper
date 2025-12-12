@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 01/08/2003,15:30,Bayern,Frankfurt,4-1-3-2,Ottmar Hitzfeld,63000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/331
+2,sáb 09/08/2003,10:30,Hannover,Bayern,4-4-2 losango,Ottmar Hitzfeld,22500,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/559
+3,sáb 16/08/2003,10:30,Bayern,Bochum,4-4-2 duplo 6,Ottmar Hitzfeld,63000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/778
+4,dom 24/08/2003,12:00,Hamburgo,Bayern,4-4-2 duplo 6,Ottmar Hitzfeld,55500,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008
+5,sáb 13/09/2003,10:30,Wolfsburg,Bayern,4-2-3-1,Ottmar Hitzfeld,30000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1230
+6,sáb 20/09/2003,10:30,Bayern,Leverkusen,4-4-2 duplo 6,Ottmar Hitzfeld,63000,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1434
+7,sáb 27/09/2003,10:30,Hansa Rostock,Bayern,4-4-2 losango,Ottmar Hitzfeld,29000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1635
+8,sáb 04/10/2003,10:30,Bayern,Hertha Berlim,4-4-2 losango,Ottmar Hitzfeld,63000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1831
+9,sáb 18/10/2003,10:30,M'gladbach,Bayern,4-4-2 losango,Ottmar Hitzfeld,34500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2045
+10,sáb 25/10/2003,11:30,Bayern,K'lautern,4-4-2 duplo 6,Ottmar Hitzfeld,58000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2248
+11,sáb 01/11/2003,12:30,Schalke,Bayern,4-4-2 duplo 6,Ottmar Hitzfeld,61266,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2449
+12,dom 09/11/2003,14:30,Bayern,Dortmund,4-4-2 losango,Ottmar Hitzfeld,63000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2669
+13,sáb 22/11/2003,12:30,1860 Munique,Bayern,4-4-2 losango,Ottmar Hitzfeld,69250,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2847
+14,sáb 29/11/2003,12:30,Bayern,Colônia,4-4-2 losango,Ottmar Hitzfeld,48000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3044
+15,sáb 06/12/2003,12:30,Werder Bremen,Bayern,4-4-2 losango,Ottmar Hitzfeld,43000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3240
+16,sáb 13/12/2003,12:30,Bayern,Stuttgart,4-4-2 losango,Ottmar Hitzfeld,63000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3440
+17,ter 16/12/2003,17:00,Freiburg,Bayern,4-4-2 duplo 6,Ottmar Hitzfeld,24000,0:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3639
+18,sáb 31/01/2004,12:30,Frankfurt,Bayern,4-3-3 defensivo,Ottmar Hitzfeld,37500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3871
+19,dom 08/02/2004,14:30,Bayern,Hannover,4-4-2 losango,Ottmar Hitzfeld,32000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4056
+20,sáb 14/02/2004,12:30,Bochum,Bayern,4-4-2 losango,Ottmar Hitzfeld,32645,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4242
+21,sáb 21/02/2004,11:30,Bayern,Hamburgo,4-4-2 losango,Ottmar Hitzfeld,36000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4444
+22,sáb 28/02/2004,11:30,Bayern,Wolfsburg,4-4-2 losango,Ottmar Hitzfeld,32000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4602
+23,sáb 06/03/2004,11:30,Leverkusen,Bayern,4-4-2 losango,Ottmar Hitzfeld,22500,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4812
+24,sáb 13/03/2004,11:30,Bayern,Hansa Rostock,4-4-2 duplo 6,Ottmar Hitzfeld,41000,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5014
+25,sáb 20/03/2004,11:30,Hertha Berlim,Bayern,4-4-2 duplo 6,Ottmar Hitzfeld,60800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5225
+26,sáb 27/03/2004,11:30,Bayern,M'gladbach,4-4-2 duplo 6,Ottmar Hitzfeld,56000,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5416
+27,sáb 03/04/2004,10:30,K'lautern,Bayern,4-4-2 duplo 6,Ottmar Hitzfeld,47315,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5634
+28,sáb 10/04/2004,10:30,Bayern,Schalke,4-4-2 duplo 6,Ottmar Hitzfeld,63000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5862
+29,sáb 17/04/2004,10:30,Dortmund,Bayern,4-4-2 duplo 6,Ottmar Hitzfeld,83000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6037
+30,dom 25/04/2004,12:30,Bayern,1860 Munique,4-4-2 losango,Ottmar Hitzfeld,69000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6270
+31,sáb 01/05/2004,10:30,Colônia,Bayern,4-4-2 losango,Ottmar Hitzfeld,50200,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6454
+32,sáb 08/05/2004,10:30,Bayern,Werder Bremen,4-4-2 duplo 6,Ottmar Hitzfeld,63000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6663
+33,sáb 15/05/2004,10:30,Stuttgart,Bayern,4-4-2 duplo 6,Ottmar Hitzfeld,48400,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6861
+34,sáb 22/05/2004,10:30,Bayern,Freiburg,4-4-2 duplo 6,Ottmar Hitzfeld,63000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7074

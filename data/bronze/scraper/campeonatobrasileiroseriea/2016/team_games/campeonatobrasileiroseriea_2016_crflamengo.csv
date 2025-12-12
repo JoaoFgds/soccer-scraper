@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 14/05/2016,16:00,Flamengo,Sport,4-3-3 ofensivo,Muricy Ramalho,7863,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2684556
+2,dom 22/05/2016,16:00,Grêmio,Flamengo,4-3-3 defensivo,Jayme de Almeida Filho,17866,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2684570
+3,qua 25/05/2016,21:00,Flamengo,Chapecoense,4-3-3 defensivo,Jayme de Almeida Filho,2705,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2694648
+4,dom 29/05/2016,11:00,Ponte Preta,Flamengo,4-3-3 defensivo,Zé Ricardo,7106,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2694659
+5,qui 02/06/2016,21:00,Flamengo,Vitória,4-3-1-2,Zé Ricardo,6164,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2695575
+6,dom 05/06/2016,16:00,Flamengo,Palmeiras,4-2-3-1,Zé Ricardo,54655,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2695589
+7,dom 12/06/2016,16:00,Figueirense,Flamengo,4-2-3-1,Zé Ricardo,11556,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2696877
+8,qua 15/06/2016,21:45,Cruzeiro,Flamengo,4-3-3 ofensivo,Zé Ricardo,17593,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698567
+9,dom 19/06/2016,16:00,Flamengo,São Paulo,4-3-3 ofensivo,Carlos Mozer,27233,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698577
+10,qua 22/06/2016,21:00,Santa Cruz,Flamengo,4-2-3-1,Zé Ricardo,12739,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698584
+11,dom 26/06/2016,16:00,Flamengo,Fluminense,?,Zé Ricardo,25941,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702138
+12,qua 29/06/2016,19:30,Flamengo,Internacional,?,Zé Ricardo,21000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702141
+13,dom 03/07/2016,16:00,Corinthians,Flamengo,4-2-3-1,Zé Ricardo,32577,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2708410
+14,dom 10/07/2016,11:00,Flamengo,Atlético-MG,4-2-3-1,Zé Ricardo,23390,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2708417
+15,sáb 16/07/2016,16:00,Botafogo,Flamengo,4-1-4-1,Zé Ricardo,11692,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713332
+16,seg 25/07/2016,20:00,Flamengo,América-MG,?,Zé Ricardo,16523,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713360
+17,dom 31/07/2016,16:00,Coritiba,Flamengo,?,Zé Ricardo,16177,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713366
+18,qua 03/08/2016,21:45,Santos,Flamengo,?,Zé Ricardo,21814,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713385
+19,sáb 06/08/2016,18:30,Flamengo,Atlético-PR,?,Zé Ricardo,19036,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713391
+20,sáb 13/08/2016,16:00,Sport,Flamengo,?,Zé Ricardo,25019,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713410
+21,dom 21/08/2016,12:00,Flamengo,Grêmio,4-2-3-1,Zé Ricardo,22552,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2767845
+22,dom 28/08/2016,17:00,Chapecoense,Flamengo,4-2-3-1,Zé Ricardo,11562,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2767856
+23,qua 07/09/2016,22:45,Flamengo,Ponte Preta,4-3-3 defensivo,Zé Ricardo,16358,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770076
+24,sáb 10/09/2016,19:30,Vitória,Flamengo,4-3-3 defensivo,Zé Ricardo,28387,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770080
+25,qua 14/09/2016,21:45,Palmeiras,Flamengo,4-2-3-1,Zé Ricardo,32885,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770094
+26,dom 18/09/2016,12:00,Flamengo,Figueirense,4-2-3-1,Zé Ricardo,29605,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770101
+27,dom 25/09/2016,17:00,Flamengo,Cruzeiro,?,Zé Ricardo,13780,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770155
+28,sáb 01/10/2016,17:00,São Paulo,Flamengo,4-2-3-1,Zé Ricardo,29813,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770161
+29,dom 09/10/2016,18:00,Flamengo,Santa Cruz,?,Zé Ricardo,21773,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770177
+30,qua 12/10/2016,22:00,Fluminense,Flamengo,?,Zé Ricardo,9008,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770188
+31,dom 16/10/2016,19:00,Internacional,Flamengo,?,Zé Ricardo,31981,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770191
+32,dom 23/10/2016,19:00,Flamengo,Corinthians,?,Zé Ricardo,54250,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770202
+33,sáb 29/10/2016,16:30,Atlético-MG,Flamengo,4-2-3-1,Zé Ricardo,45952,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770225
+34,sáb 05/11/2016,17:00,Flamengo,Botafogo,?,Zé Ricardo,49382,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770220
+35,qua 16/11/2016,21:45,América-MG,Flamengo,?,Zé Ricardo,7420,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2778080
+36,dom 20/11/2016,19:30,Flamengo,Coritiba,4-2-3-1,Zé Ricardo,40802,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2778092
+37,dom 27/11/2016,17:00,Flamengo,Santos,4-2-3-1,Zé Ricardo,37615,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2798385
+38,dom 11/12/2016,17:00,Atlético-PR,Flamengo,4-2-3-1,Zé Ricardo,35396,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2798938

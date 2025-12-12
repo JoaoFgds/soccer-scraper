@@ -1,0 +1,31 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 23/08/2019,14:10,Al-Taawoun,Al-Hazem,4-2-3-1,Daniel Isăilă,2129,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3224610
+2,qui 29/08/2019,14:20,Al-Fayha,Al-Hazem,4-2-3-1,Daniel Isăilă,5752,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3224624
+3,dom 15/09/2019,12:50,Al-Hazem,Al-Ettifaq,4-4-1-1,Daniel Isăilă,4050,0:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3224661
+4,sex 20/09/2019,14:20,Al-Nassr,Al-Hazem,4-3-1-2,Daniel Isăilă,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3224667
+5,sáb 28/09/2019,13:35,Al-Hazem,Damac FC,4-3-1-2,Daniel Isăilă,,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3252144
+6,sex 04/10/2019,14:10,Al-Ittihad,Al-Hazem,4-3-1-2,Daniel Isăilă,20244,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3252182
+7,dom 20/10/2019,14:00,Al-Faisaly,Al-Hazem,4-4-1-1,Daniel Isăilă,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3254900
+8,sáb 26/10/2019,12:10,Al-Hazem,Al-Ahli,4-5-1 plano,Daniel Isăilă,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3254908
+9,sáb 02/11/2019,12:00,Al-Adalah,Al-Hazem,4-3-3 ofensivo,Daniel Isăilă,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3256127
+10,sex 22/11/2019,13:55,Al-Hazem,Al-Raed,4-4-1-1,Daniel Isăilă,,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3256140
+11,qui 12/12/2019,11:20,Al-Hazem,Abha,4-2-3-1,Daniel Isăilă,,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3256147
+12,sex 20/12/2019,13:35,Al-Fateh,Al-Hazem,4-2-3-1,Daniel Isăilă,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3256732
+13,qui 26/12/2019,13:50,Al-Hazem,Al-Hilal,4-1-4-1,Daniel Isăilă,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3256739
+14,sex 10/01/2020,11:35,Al-Hazem,Al-Shabab,4-3-1-2,Daniel Isăilă,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3256748
+15,sex 24/01/2020,14:10,Al-Wehda,Al-Hazem,4-5-1,Daniel Isăilă,,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3256761
+16,sex 31/01/2020,12:25,Al-Hazem,Al-Taawoun,4-1-4-1,Daniel Isăilă,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3304521
+17,sex 07/02/2020,12:30,Al-Hazem,Al-Fayha,4-1-4-1,,,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3304689
+18,qui 13/02/2020,09:30,Al-Ettifaq,Al-Hazem,4-5-1,André Gaspar,,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3305029
+19,sáb 22/02/2020,12:40,Al-Hazem,Al-Nassr,4-5-1,André Gaspar,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3305042
+20,sex 28/02/2020,12:10,Damac FC,Al-Hazem,4-4-2 duplo 6,André Gaspar,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3305046
+21,qui 05/03/2020,12:45,Al-Hazem,Al-Ittihad,5-3-2,André Gaspar,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3307732
+22,sex 13/03/2020,12:50,Al-Hazem,Al-Faisaly,5-4-1,André Gaspar,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3314289
+23,ter 04/08/2020,15:15,Al-Ahli,Al-Hazem,5-4-1 plano,André Gaspar,,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3314306
+24,seg 10/08/2020,13:20,Al-Hazem,Al-Adalah,5-4-1,André Gaspar,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3314317
+25,sex 14/08/2020,13:15,Al-Raed,Al-Hazem,5-4-1,André Gaspar,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3316152
+26,qua 19/08/2020,13:10,Abha,Al-Hazem,4-3-3 ofensivo,André Gaspar,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3316161
+27,seg 24/08/2020,13:10,Al-Hazem,Al-Fateh,4-2-3-1,André Gaspar,,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3328097
+28,sáb 29/08/2020,14:40,Al-Hilal,Al-Hazem,5-4-1 plano,André Gaspar,,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3328102
+29,sex 04/09/2020,14:35,Al-Shabab,Al-Hazem,4-4-2 duplo 6,André Gaspar,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3328112
+30,qua 09/09/2020,15:35,Al-Hazem,Al-Wehda,4-2-3-1,André Gaspar,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3328121

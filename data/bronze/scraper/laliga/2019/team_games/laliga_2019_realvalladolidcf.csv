@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 18/08/2019,16:00,Betis,Valladolid,4-4-2,Sergio,51497,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208625
+2,sáb 24/08/2019,14:00,Real Madrid,Valladolid,4-4-2,Sergio,62444,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208648
+3,sáb 31/08/2019,14:00,Levante,Valladolid,4-4-2,Sergio,19347,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208654
+4,dom 15/09/2019,13:30,Valladolid,Osasuna,4-4-2 duplo 6,Sergio,20670,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208668
+5,sáb 21/09/2019,08:00,Villarreal,Valladolid,4-4-2 duplo 6,Sergio,16195,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208678
+6,ter 24/09/2019,14:00,Valladolid,Granada CF,4-4-2 duplo 6,Sergio,18410,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208688
+7,dom 29/09/2019,07:00,Espanyol,Valladolid,4-4-2 duplo 6,Sergio,20911,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208696
+8,dom 06/10/2019,11:00,Valladolid,Atlético,4-4-2 duplo 6,Sergio,23650,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208712
+9,dom 20/10/2019,13:30,Athletic Club,Valladolid,4-4-2 duplo 6,Sergio,37107,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208714
+10,sáb 26/10/2019,13:30,Valladolid,Eibar,4-4-2 duplo 6,Sergio,20036,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208732
+11,ter 29/10/2019,17:15,Barcelona,Valladolid,5-4-1 plano,Sergio,59896,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208744
+12,dom 03/11/2019,08:00,Valladolid,Mallorca,4-4-2 duplo 6,Sergio,18419,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208761
+13,sáb 09/11/2019,09:00,Alavés,Valladolid,4-4-2 duplo 6,Sergio,16148,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208762
+14,dom 24/11/2019,17:00,Valladolid,Sevilla,4-4-2 duplo 6,Sergio,18169,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208781
+15,sex 29/11/2019,17:00,Celta de Vigo,Valladolid,4-4-2 duplo 6,Sergio,16918,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208785
+16,dom 08/12/2019,12:00,Valladolid,Real Sociedad,4-4-2 duplo 6,Sergio,18654,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208801
+17,dom 15/12/2019,08:00,Getafe,Valladolid,4-4-2 duplo 6,Sergio,10816,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208807
+18,sáb 21/12/2019,17:00,Valladolid,Valencia,4-4-2 duplo 6,Sergio,16295,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208821
+19,sex 03/01/2020,15:00,Valladolid,Leganés,4-4-2 duplo 6,Sergio,21492,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208831
+20,sáb 18/01/2020,14:30,Osasuna,Valladolid,5-3-2,Sergio,15382,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208839
+21,dom 26/01/2020,17:00,Valladolid,Real Madrid,4-3-1-2,Sergio,23417,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208851
+22,sáb 01/02/2020,14:30,Mallorca,Valladolid,4-4-2 duplo 6,Sergio,13891,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3209797
+23,sáb 08/02/2020,14:30,Valladolid,Villarreal,4-4-2 duplo 6,Sergio,17547,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3209811
+24,sáb 15/02/2020,17:00,Granada CF,Valladolid,4-4-2 duplo 6,Sergio,15782,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3209961
+25,dom 23/02/2020,12:00,Valladolid,Espanyol,4-4-2 duplo 6,Sergio,19645,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3209977
+26,sex 28/02/2020,17:00,Real Sociedad,Valladolid,4-3-3 ofensivo,Sergio,30611,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3209985
+27,dom 08/03/2020,10:00,Valladolid,Athletic Club,3-4-3 plano,Sergio,21632,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210006
+28,sáb 13/06/2020,14:30,Leganés,Valladolid,4-4-2 duplo 6,Sergio,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210020
+29,qua 17/06/2020,14:30,Valladolid,Celta de Vigo,4-4-2 duplo 6,Sergio,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210044
+30,sáb 20/06/2020,17:00,Atlético,Valladolid,4-3-3 ofensivo,Sergio,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210055
+31,ter 23/06/2020,14:30,Valladolid,Getafe,4-4-2,Sergio,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210082
+32,sex 26/06/2020,17:00,Sevilla,Valladolid,4-2-3-1,Sergio,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210091
+33,qua 01/07/2020,17:00,Valladolid,Levante,4-2-3-1,Sergio,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210102
+34,sáb 04/07/2020,14:30,Valladolid,Alavés,4-4-2 duplo 6,Sergio,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210112
+35,ter 07/07/2020,14:30,Valencia,Valladolid,4-2-3-1,Sergio,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210122
+36,sáb 11/07/2020,14:30,Valladolid,Barcelona,4-3-1-2,Sergio,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210132
+37,qui 16/07/2020,13:30,Eibar,Valladolid,4-4-2,Sergio,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210137
+38,dom 19/07/2020,13:30,Valladolid,Betis,4-4-2 duplo 6,Sergio,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208638

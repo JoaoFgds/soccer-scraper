@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 08/08/2021,10:00,Rio Ave,Académica,4-2-3-1,Rui Borges,635,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621653
+2,sáb 14/08/2021,07:00,Académica,Varzim,4-2-3-1,Rui Borges,300,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621664
+3,dom 22/08/2021,10:00,Leixões,Académica,4-2-3-1,Rui Borges,564,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621692
+4,qui 16/09/2021,16:15,Académica,Estrela Amadora,?,Rui Borges,1133,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621683
+5,sáb 11/09/2021,07:00,Feirense,Académica,4-2-3-1,Rui Borges,739,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621671
+6,seg 20/09/2021,14:00,Académica,Vilafranquense,4-2-3-1,Rui Borges,1195,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621701
+7,sáb 02/10/2021,10:00,Académico FC,Académica,4-1-4-1,João Carlos Pereira,370,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621720
+8,dom 21/11/2021,08:00,Académica,FC Porto B,4-2-3-1,João Carlos Pereira,2048,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621727
+9,sáb 23/10/2021,14:00,Benfica B,Académica,4-2-3-1,João Carlos Pereira,398,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621710
+10,seg 01/11/2021,13:30,Académica,Nacional,4-2-3-1,João Carlos Pereira,1471,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621781
+11,sáb 06/11/2021,11:00,Casa Pia,Académica,4-2-3-1,João Carlos Pereira,571,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621737
+12,dom 28/11/2021,16:30,Académica,Covilhã,4-2-3-1,Pedro Duarte,1010,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621790
+13,dom 05/12/2021,08:00,Penafiel,Académica,?,Pedro Duarte,817,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621753
+14,dom 12/12/2021,11:00,Académica,Chaves,?,Pedro Duarte,1297,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621772
+15,sáb 18/12/2021,08:00,Mafra,Académica,?,Pedro Duarte,387,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621766
+16,ter 28/12/2021,17:00,Académica,Trofense,?,Pedro Duarte,701,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621744
+17,qui 03/02/2022,17:15,Farense,Académica,?,Pedro Duarte,2859,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621815
+18,qua 19/01/2022,15:00,Académica,Rio Ave,4-2-3-1,Pedro Duarte,1125,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621797
+19,sáb 22/01/2022,12:30,Varzim,Académica,4-2-3-1,Pedro Duarte,1960,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621808
+20,dom 30/01/2022,14:30,Académica,Leixões,?,Pedro Duarte,1173,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621909
+21,ter 08/02/2022,17:15,Estrela Amadora,Académica,?,Pedro Duarte,2432,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621836
+22,sáb 12/02/2022,11:00,Académica,Feirense,5-4-1 plano,Pedro Duarte,1368,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621901
+23,sáb 19/02/2022,08:00,Vilafranquense,Académica,3-4-3 plano,Pedro Duarte,243,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621827
+24,seg 28/02/2022,16:30,Académica,Académico FC,?,Pedro Duarte,2448,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621911
+25,dom 06/03/2022,12:30,FC Porto B,Académica,?,Zé Gomes,442,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621873
+26,sex 11/03/2022,15:00,Académica,Benfica B,4-2-3-1,Zé Gomes,1824,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621854
+27,dom 20/03/2022,08:00,Nacional,Académica,4-2-3-1,Zé Gomes,722,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621844
+28,dom 03/04/2022,07:00,Académica,Casa Pia,4-2-3-1,Zé Gomes,1038,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621896
+29,dom 10/04/2022,07:00,Covilhã,Académica,4-2-3-1,Zé Gomes,771,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621883
+30,sáb 16/04/2022,07:00,Académica,Penafiel,?,Zé Gomes,809,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621875
+31,sáb 23/04/2022,10:00,Chaves,Académica,?,Zé Gomes,1770,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621880
+32,sáb 30/04/2022,07:00,Académica,Mafra,?,Zé Gomes,540,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621947
+33,dom 08/05/2022,14:00,Trofense,Académica,?,Zé Gomes,2294,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621870
+34,sáb 14/05/2022,07:00,Académica,Farense,?,Zé Gomes,658,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621861

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 25/08/2018,10:30,Hertha Berlim,Nuremberg,4-3-3 ofensivo,Michael Köllner,53729,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058409
+2,sáb 01/09/2018,10:30,Nuremberg,Mainz,4-3-3 ofensivo,Michael Köllner,37781,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058432
+3,dom 16/09/2018,10:30,Werder Bremen,Nuremberg,4-3-3 ofensivo,Michael Köllner,42100,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058437
+4,sáb 22/09/2018,10:30,Nuremberg,Hannover,4-3-1-2,Michael Köllner,36736,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058450
+5,qua 26/09/2018,15:30,Dortmund,Nuremberg,5-3-2,Michael Köllner,75700,7:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058452
+6,sáb 29/09/2018,10:30,Nuremberg,Düsseldorf,4-3-1-2,Michael Köllner,36102,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058468
+7,dom 07/10/2018,13:00,Leipzig,Nuremberg,4-1-4-1,Michael Köllner,37389,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058472
+8,sáb 20/10/2018,10:30,Nuremberg,Hoffenheim,4-1-4-1,Michael Köllner,36472,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058486
+9,dom 28/10/2018,09:30,Nuremberg,Frankfurt,4-4-2 duplo 6,Michael Köllner,42154,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058495
+10,sáb 03/11/2018,11:30,Augsburg,Nuremberg,4-2-3-1,Michael Köllner,30660,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058502
+11,sáb 10/11/2018,12:30,Nuremberg,Stuttgart,4-2-3-1,Michael Köllner,50000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058513
+12,sáb 24/11/2018,15:30,Schalke,Nuremberg,3-4-1-2,Michael Köllner,62271,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058515
+13,seg 03/12/2018,17:30,Nuremberg,Leverkusen,4-4-2 duplo 6,Michael Köllner,32238,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058531
+14,sáb 08/12/2018,12:30,Bayern,Nuremberg,4-4-2 duplo 6,Michael Köllner,75000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058532
+15,sex 14/12/2018,17:30,Nuremberg,Wolfsburg,4-2-3-1,Michael Köllner,29604,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058549
+16,ter 18/12/2018,15:30,M'gladbach,Nuremberg,4-1-4-1,Michael Köllner,42323,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058552
+17,sáb 22/12/2018,12:30,Nuremberg,Freiburg,4-1-4-1,Michael Köllner,36190,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058567
+18,dom 20/01/2019,12:30,Nuremberg,Hertha Berlim,4-1-4-1,Michael Köllner,36112,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058576
+19,sáb 26/01/2019,12:30,Mainz,Nuremberg,4-3-3 ofensivo,Michael Köllner,22005,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058583
+20,sáb 02/02/2019,12:30,Nuremberg,Werder Bremen,4-2-3-1,Michael Köllner,35753,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058593
+21,sáb 09/02/2019,12:30,Hannover,Nuremberg,4-4-2 duplo 6,Michael Köllner,33700,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058599
+22,seg 18/02/2019,16:30,Nuremberg,Dortmund,4-1-4-1,Boris Schommers,50000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058611
+23,sáb 23/02/2019,14:30,Düsseldorf,Nuremberg,4-1-4-1,Boris Schommers,41816,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058620
+24,sáb 02/03/2019,11:30,Nuremberg,Leipzig,4-1-4-1,Boris Schommers,34532,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058638
+25,dom 10/03/2019,11:30,Hoffenheim,Nuremberg,4-1-4-1,Boris Schommers,29015,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058640
+26,dom 17/03/2019,11:30,Frankfurt,Nuremberg,4-2-3-1,Boris Schommers,51500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058652
+27,sáb 30/03/2019,11:30,Nuremberg,Augsburg,4-1-4-1,Boris Schommers,42658,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058665
+28,sáb 06/04/2019,10:30,Stuttgart,Nuremberg,4-1-4-1,Boris Schommers,58757,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058669
+29,sex 12/04/2019,15:30,Nuremberg,Schalke,4-1-4-1,Boris Schommers,50000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058683
+30,sáb 20/04/2019,10:30,Leverkusen,Nuremberg,4-1-4-1,Boris Schommers,26400,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058686
+31,dom 28/04/2019,13:00,Nuremberg,Bayern,4-2-3-1,Boris Schommers,50000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058701
+32,sáb 04/05/2019,10:30,Wolfsburg,Nuremberg,4-2-3-1,Boris Schommers,22512,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058710
+33,sáb 11/05/2019,10:30,Nuremberg,M'gladbach,4-1-4-1,Boris Schommers,50000,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058719
+34,sáb 18/05/2019,10:30,Freiburg,Nuremberg,4-1-4-1,Boris Schommers,24000,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058725

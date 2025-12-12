@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 08/08/2015,13:00,Académico FC,Farense,4-3-3 defensivo,Ricardo Chéu,1040,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2586591
+2,sáb 15/08/2015,13:00,Portimonense,Académico FC,4-3-3 defensivo,Ricardo Chéu,879,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2607199
+3,sáb 22/08/2015,13:00,Académico FC,Braga B,4-3-3 defensivo,Ricardo Chéu,910,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609250
+4,dom 06/09/2015,13:00,Santa Clara,Académico FC,4-3-3 defensivo,Ricardo Chéu,799,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611429
+5,dom 30/08/2015,13:00,Académico FC,Oriental,4-3-3 defensivo,Ricardo Chéu,826,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611445
+6,sáb 12/09/2015,13:00,Benfica B,Académico FC,4-3-3 defensivo,Ricardo Chéu,614,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613777
+7,qua 16/09/2015,13:00,Académico FC,Freamunde,4-3-3 defensivo,Ricardo Chéu,485,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613795
+8,dom 20/09/2015,13:00,Famalicão,Académico FC,4-3-3 defensivo,Ricardo Chéu,3006,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613802
+9,qua 30/09/2015,13:00,Académico FC,Atlético CP,4-3-3 defensivo,Ricardo Chéu,406,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613816
+10,sáb 03/10/2015,12:00,Penafiel,Académico FC,4-3-3 defensivo,Ricardo Chéu,559,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614268
+11,qua 21/10/2015,13:00,Académico FC,Varzim,4-3-3 defensivo,Ricardo Chéu,421,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614286
+12,dom 25/10/2015,13:00,Olhanense,Académico FC,4-3-3 defensivo,Ricardo Chéu,406,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614296
+13,sáb 31/10/2015,13:00,Académico FC,Leixões,4-3-3 defensivo,Ricardo Chéu,526,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614310
+14,qua 04/11/2015,13:00,Vitória SC B,Académico FC,4-3-3 defensivo,Ricardo Chéu,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614349
+15,dom 08/11/2015,09:15,Académico FC,FC Porto B,4-3-1-2,Ricardo Chéu,691,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614395
+16,sáb 21/11/2015,13:00,UD Oliveirense,Académico FC,4-2-3-1,Ricardo Chéu,465,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614401
+17,dom 29/11/2015,13:00,Académico FC,Chaves,4-3-3 defensivo,Ricardo Chéu,918,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614415
+18,qua 02/12/2015,13:00,Sporting B,Académico FC,4-3-3 defensivo,Ricardo Chéu,270,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614431
+19,dom 06/12/2015,13:00,CD Aves,Académico FC,4-3-3 defensivo,Ricardo Chéu,843,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614435
+20,qua 09/12/2015,13:00,Académico FC,Gil Vicente,4-2-3-1,Ricardo Chéu,383,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614576
+21,dom 13/12/2015,14:00,Feirense,Académico FC,4-3-1-2,Ricardo Chéu,809,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614599
+22,dom 20/12/2015,13:00,Académico FC,Mafra,4-3-3 defensivo,Ricardo Chéu,547,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614616
+23,dom 03/01/2016,13:00,Covilhã,Académico FC,4-2-3-1,Ricardo Chéu,180,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614618
+24,dom 10/01/2016,13:00,Farense,Académico FC,4-2-3-1,Ricardo Chéu,861,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614639
+25,sáb 16/01/2016,13:00,Académico FC,Portimonense,4-3-3 defensivo,Ricardo Chéu,521,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614656
+26,sáb 23/01/2016,13:00,Braga B,Académico FC,4-1-4-1,Ricardo Chéu,340,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614684
+27,dom 31/01/2016,13:00,Académico FC,Santa Clara,4-3-3 defensivo,Ricardo Chéu,559,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614703
+28,dom 07/02/2016,13:00,Oriental,Académico FC,?,Ricardo Chéu,576,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614719
+29,sáb 13/02/2016,13:00,Académico FC,Benfica B,4-3-3 defensivo,,432,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614722
+30,qua 17/02/2016,13:00,Freamunde,Académico FC,?,João Eusébio,570,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614744
+31,dom 21/02/2016,12:00,Académico FC,Famalicão,4-3-3 defensivo,Bruno Ribeiro,782,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614752
+32,sáb 27/02/2016,12:00,Atlético CP,Académico FC,?,Bruno Ribeiro,118,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614766
+33,sáb 05/03/2016,12:00,Académico FC,Penafiel,4-3-3 defensivo,Bruno Ribeiro,461,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614778
+34,qua 09/03/2016,12:00,Varzim,Académico FC,?,Bruno Ribeiro,620,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615133
+35,dom 13/03/2016,12:00,Académico FC,Olhanense,4-3-3 defensivo,Casquilha,500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615143
+36,sáb 26/03/2016,12:00,Leixões,Académico FC,4-2-3-1,Casquilha,1640,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615157
+37,dom 20/03/2016,12:00,Académico FC,Vitória SC B,4-2-3-1,Casquilha,840,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615185
+38,sáb 02/04/2016,11:00,FC Porto B,Académico FC,4-3-3 defensivo,Casquilha,656,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615225
+39,qua 06/04/2016,12:00,Académico FC,UD Oliveirense,?,Casquilha,752,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615231
+40,dom 10/04/2016,12:00,Chaves,Académico FC,?,Casquilha,2953,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615265
+41,qua 13/04/2016,12:00,Académico FC,Sporting B,?,Casquilha,571,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615280
+42,dom 17/04/2016,12:00,Académico FC,CD Aves,4-3-3 defensivo,Casquilha,619,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615292
+43,dom 24/04/2016,12:00,Gil Vicente,Académico FC,4-3-3 defensivo,Casquilha,817,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615312
+44,sáb 30/04/2016,12:00,Académico FC,Feirense,?,Casquilha,921,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615327
+45,dom 08/05/2016,12:00,Mafra,Académico FC,?,Casquilha,811,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615351
+46,sáb 14/05/2016,11:00,Académico FC,Covilhã,?,Casquilha,2142,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615362

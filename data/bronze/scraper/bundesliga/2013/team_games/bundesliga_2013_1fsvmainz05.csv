@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 11/08/2013,10:30,Mainz,Stuttgart,4-2-3-1,Thomas Tuchel,30279,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321031
+2,sáb 17/08/2013,10:30,Freiburg,Mainz,4-3-1-2,Thomas Tuchel,23100,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321050
+3,sáb 24/08/2013,10:30,Mainz,Wolfsburg,4-2-3-1,Thomas Tuchel,27103,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321058
+4,sáb 31/08/2013,10:30,Hannover,Mainz,4-3-1-2,Thomas Tuchel,38600,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321066
+5,sáb 14/09/2013,10:30,Mainz,Schalke,4-2-3-1,Thomas Tuchel,34000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321077
+6,sáb 21/09/2013,10:30,Mainz,Leverkusen,4-2-3-1,Thomas Tuchel,28617,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321088
+7,sáb 28/09/2013,10:30,Hertha Berlim,Mainz,4-1-4-1,Thomas Tuchel,40969,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321116
+8,sáb 05/10/2013,10:30,Mainz,Hoffenheim,4-3-1-2,Thomas Tuchel,25187,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321125
+9,sáb 19/10/2013,10:30,Bayern,Mainz,5-4-1 plano,Thomas Tuchel,71000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321127
+10,sáb 26/10/2013,11:30,Mainz,E. Braunschweig,4-1-4-1,Thomas Tuchel,30657,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321143
+11,dom 03/11/2013,12:30,Augsburg,Mainz,5-4-1 plano,Thomas Tuchel,28007,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321148
+12,dom 10/11/2013,12:30,Mainz,Frankfurt,4-2-3-1,Thomas Tuchel,34000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321161
+13,dom 24/11/2013,14:30,Werder Bremen,Mainz,4-2-3-1,Thomas Tuchel,38429,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321164
+14,sáb 30/11/2013,12:30,Mainz,Dortmund,4-2-3-1,Thomas Tuchel,34000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321178
+15,sex 06/12/2013,17:30,Nuremberg,Mainz,4-2-3-1,Thomas Tuchel,31084,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321185
+16,sáb 14/12/2013,12:30,Mainz,M'gladbach,4-1-4-1,Thomas Tuchel,34000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321196
+17,sáb 21/12/2013,12:30,Hamburgo,Mainz,4-4-2 losango,Thomas Tuchel,50000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321205
+18,sáb 25/01/2014,12:30,Stuttgart,Mainz,4-4-2 losango,Thomas Tuchel,38000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321210
+19,sáb 01/02/2014,12:30,Mainz,Freiburg,4-4-2 losango,Thomas Tuchel,27247,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321222
+20,sáb 08/02/2014,12:30,Wolfsburg,Mainz,4-4-2 losango,Thomas Tuchel,23520,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321229
+21,sex 14/02/2014,17:30,Mainz,Hannover,4-2-3-1,Thomas Tuchel,26754,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321240
+22,sex 21/02/2014,16:30,Schalke,Mainz,4-4-2 losango,Thomas Tuchel,60952,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321244
+23,sáb 01/03/2014,11:30,Leverkusen,Mainz,4-4-2 losango,Thomas Tuchel,25503,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321255
+24,dom 09/03/2014,13:30,Mainz,Hertha Berlim,4-2-3-1,Thomas Tuchel,29760,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321269
+25,sáb 15/03/2014,11:30,Hoffenheim,Mainz,4-2-3-1,Thomas Tuchel,24741,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321274
+26,sáb 22/03/2014,11:30,Mainz,Bayern,4-2-3-1,Thomas Tuchel,34000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321287
+27,ter 25/03/2014,16:00,E. Braunschweig,Mainz,4-2-3-1,Thomas Tuchel,21880,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321294
+28,sáb 29/03/2014,11:30,Mainz,Augsburg,4-2-3-1,Thomas Tuchel,30014,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321306
+29,sáb 05/04/2014,10:30,Frankfurt,Mainz,4-3-1-2,Thomas Tuchel,50400,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321314
+30,sáb 12/04/2014,10:30,Mainz,Werder Bremen,4-2-3-1,Thomas Tuchel,33597,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321324
+31,sáb 19/04/2014,10:30,Dortmund,Mainz,4-2-3-1,Thomas Tuchel,80500,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321325
+32,sáb 26/04/2014,10:30,Mainz,Nuremberg,4-2-3-1,Thomas Tuchel,33507,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321340
+33,sáb 03/05/2014,10:30,M'gladbach,Mainz,5-4-1 plano,Thomas Tuchel,54010,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321344
+34,sáb 10/05/2014,10:30,Mainz,Hamburgo,4-2-3-1,Thomas Tuchel,34000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321358

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 05/08/2023,14:00,Paris FC,SM Caen,4-4-2,Jean-Marc Furlan,1056,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095506
+2,sáb 12/08/2023,14:00,SM Caen,Pau FC,4-4-2,Jean-Marc Furlan,15168,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095513
+3,sáb 19/08/2023,14:00,Concarneau,SM Caen,4-4-2,Jean-Marc Furlan,3001,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095527
+4,sáb 26/08/2023,14:00,SM Caen,AC Ajaccio,4-4-2,Jean-Marc Furlan,16190,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095533
+5,sáb 02/09/2023,14:00,Stade Lavallois,SM Caen,4-4-2,Jean-Marc Furlan,8889,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095545
+6,sáb 16/09/2023,10:00,SM Caen,Saint-Étienne,5-3-2,Jean-Marc Furlan,19013,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095552
+7,ter 03/10/2023,13:45,Bordeaux,SM Caen,4-2-3-1,Jean-Marc Furlan,21038,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095563
+8,ter 26/09/2023,15:45,SM Caen,Grenoble,4-4-2,Jean-Marc Furlan,14770,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095573
+9,sáb 30/09/2023,14:00,SM Caen,Guingamp,4-4-2,Jean-Marc Furlan,14881,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095584
+10,sáb 07/10/2023,14:00,Rodez AF,SM Caen,4-2-3-1,Jean-Marc Furlan,2892,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095598
+11,sáb 21/10/2023,10:00,SM Caen,Auxerre,4-4-2,Jean-Marc Furlan,17917,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095602
+12,sáb 28/10/2023,14:00,Valenciennes,SM Caen,4-4-2,Jean-Marc Furlan,6682,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095615
+13,sáb 04/11/2023,15:00,Troyes,SM Caen,4-3-3 ofensivo,Jean-Marc Furlan,4401,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095624
+14,sáb 11/11/2023,15:00,SM Caen,QRM,4-2-3-1,Patrice Sauvaget,14485,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095634
+15,seg 27/11/2023,16:45,Angers,SM Caen,5-4-1 plano,Patrice Sauvaget,9202,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095640
+16,sáb 02/12/2023,15:00,SM Caen,SC Bastia,4-4-2,Nicolas Seube,14469,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095654
+17,qua 06/12/2023,15:00,FC Annecy,SM Caen,4-4-2,Nicolas Seube,3513,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4148526
+18,sáb 16/12/2023,15:00,SM Caen,USL Dunkerque,4-4-2 duplo 6,Nicolas Seube,13723,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095672
+19,ter 19/12/2023,16:45,Amiens SC,SM Caen,4-4-2,Nicolas Seube,5927,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095679
+20,sáb 13/01/2024,15:00,SM Caen,Concarneau,4-4-2 duplo 6,Nicolas Seube,13487,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095692
+21,ter 23/01/2024,16:45,SC Bastia,SM Caen,4-4-2,Nicolas Seube,9598,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095703
+22,sáb 27/01/2024,15:00,SM Caen,Troyes,4-4-2,Nicolas Seube,13198,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095714
+23,sáb 03/02/2024,15:00,Grenoble,SM Caen,4-2-3-1,Nicolas Seube,4876,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095728
+24,sáb 10/02/2024,15:00,SM Caen,Amiens SC,4-3-3 ofensivo,Nicolas Seube,13454,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095734
+25,sáb 17/02/2024,15:00,Guingamp,SM Caen,4-3-3 ofensivo,Nicolas Seube,9371,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095745
+26,seg 26/02/2024,16:45,SM Caen,Angers,4-2-3-1,Nicolas Seube,16965,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095753
+27,sáb 02/03/2024,15:00,Pau FC,SM Caen,4-4-2,Nicolas Seube,3068,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095760
+28,sáb 09/03/2024,15:00,SM Caen,Paris FC,4-4-2,Nicolas Seube,17015,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095773
+29,sáb 16/03/2024,11:00,Auxerre,SM Caen,4-2-3-1,Nicolas Seube,14964,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095783
+30,sáb 30/03/2024,15:00,QRM,SM Caen,3-4-1-2,Nicolas Seube,4476,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095798
+31,sáb 06/04/2024,14:00,SM Caen,Bordeaux,3-4-1-2,Nicolas Seube,19168,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095805
+32,sáb 13/04/2024,14:00,SM Caen,Rodez AF,4-4-2,Nicolas Seube,17250,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095812
+33,sáb 20/04/2024,14:00,AC Ajaccio,SM Caen,4-2-3-1,Nicolas Seube,5265,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095820
+34,ter 23/04/2024,15:45,SM Caen,FC Annecy,4-4-2 duplo 6,Nicolas Seube,17137,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4148543
+35,sáb 27/04/2024,10:00,Saint-Étienne,SM Caen,4-4-1-1,Nicolas Seube,35445,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095843
+36,sex 03/05/2024,15:00,SM Caen,Stade Lavallois,4-4-2 duplo 6,Nicolas Seube,18348,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095853
+37,sex 10/05/2024,15:45,USL Dunkerque,SM Caen,4-4-1-1,Nicolas Seube,4933,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095867
+38,sex 17/05/2024,15:45,SM Caen,Valenciennes,4-2-3-1,Nicolas Seube,19466,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095873

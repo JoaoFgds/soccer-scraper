@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 10/08/2024,08:30,Middlesbrough,Swansea,4-1-4-1,Luke Williams,26610,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382372
+2,sáb 17/08/2024,11:00,Swansea,Preston NE,4-2-3-1,Luke Williams,14037,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382388
+3,dom 25/08/2024,11:00,Swansea,Cardiff,4-2-3-1,Luke Williams,20174,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382401
+4,sáb 31/08/2024,11:00,West Brom,Swansea,4-2-3-1,Luke Williams,24975,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382414
+5,sáb 14/09/2024,11:00,Swansea,Norwich,4-2-3-1,Luke Williams,14097,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382425
+6,sáb 21/09/2024,11:00,Coventry City,Swansea,4-2-3-1,Luke Williams,26273,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382430
+7,dom 29/09/2024,11:00,Swansea,Bristol City,4-2-3-1,Luke Williams,16238,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382449
+8,qua 02/10/2024,15:45,Sheff Utd,Swansea,4-2-3-1,Luke Williams,25112,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382468
+9,sáb 05/10/2024,11:00,Swansea,Stoke,4-2-3-1,Luke Williams,14546,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382460
+10,sáb 19/10/2024,11:00,Blackburn,Swansea,4-3-3 ofensivo,Luke Williams,13550,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382499
+11,ter 22/10/2024,15:45,Sheff Wed,Swansea,4-2-3-1,Luke Williams,22452,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382481
+12,sáb 26/10/2024,11:00,Swansea,Millwall,4-2-3-1,Luke Williams,15119,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382616
+13,sáb 02/11/2024,09:30,Oxford United,Swansea,4-2-3-1,Luke Williams,11454,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382518
+14,ter 05/11/2024,17:00,Swansea,Watford,4-2-3-1,Luke Williams,12869,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382529
+15,dom 10/11/2024,12:00,FC Burnley,Swansea,4-2-3-1,Luke Williams,18717,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382547
+16,dom 24/11/2024,12:00,Swansea,Leeds,4-2-3-1,Luke Williams,17125,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382497
+17,qua 27/11/2024,17:00,Derby,Swansea,4-2-3-1,Luke Williams,25141,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382544
+18,sáb 30/11/2024,12:00,Swansea,FC Portsmouth,4-2-3-1,Luke Williams,15404,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382605
+19,sáb 07/12/2024,12:00,Luton,Swansea,4-2-3-1,Luke Williams,11264,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382575
+20,ter 10/12/2024,16:45,Plymouth Argyle,Swansea,4-2-3-1,Luke Williams,15305,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382635
+21,sáb 14/12/2024,12:00,Swansea,AFC Sunderland,4-2-3-1,Luke Williams,15791,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382593
+22,sáb 21/12/2024,09:30,Hull City,Swansea,4-2-3-1,Luke Williams,20024,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382561
+23,qui 26/12/2024,12:00,Swansea,QPR,4-2-3-1,Luke Williams,15843,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382665
+24,dom 29/12/2024,12:00,Swansea,Luton,4-2-3-1,Luke Williams,16414,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382677
+25,qua 01/01/2025,12:00,FC Portsmouth,Swansea,4-2-3-1,Luke Williams,20427,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382626
+26,sáb 04/01/2025,09:30,Swansea,West Brom,4-2-3-1,Luke Williams,14729,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382701
+27,sáb 18/01/2025,09:30,Cardiff,Swansea,4-3-3 ofensivo,Luke Williams,26536,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382644
+28,ter 21/01/2025,16:45,Swansea,Sheff Utd,4-3-3 ofensivo,Luke Williams,13373,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382685
+29,sáb 25/01/2025,09:30,Norwich,Swansea,4-2-3-1,Luke Williams,25713,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382708
+30,sáb 01/02/2025,12:00,Swansea,Coventry City,3-4-3 plano,Luke Williams,15189,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382785
+31,dom 09/02/2025,09:00,Bristol City,Swansea,3-4-3 plano,Luke Williams,21554,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382727
+32,qua 12/02/2025,16:45,Swansea,Sheff Wed,3-4-3 plano,Luke Williams,14149,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382745
+33,sáb 15/02/2025,12:00,Stoke,Swansea,3-4-3 plano,Luke Williams,21256,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382834
+34,sáb 22/02/2025,12:00,Swansea,Blackburn,4-2-3-1,Alan Sheehan,13788,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382772
+35,ter 04/03/2025,16:45,Preston NE,Swansea,4-2-3-1,Alan Sheehan,12838,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382819
+36,sáb 08/03/2025,12:00,Swansea,Middlesbrough,4-2-3-1,Alan Sheehan,13986,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382760
+37,qua 12/03/2025,16:45,Watford,Swansea,4-2-3-1,Alan Sheehan,16739,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382726
+38,sáb 15/03/2025,12:00,Swansea,FC Burnley,4-2-3-1,Alan Sheehan,13679,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382881
+39,sáb 29/03/2025,12:00,Leeds,Swansea,4-2-3-1,Alan Sheehan,35574,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382887
+40,sáb 05/04/2025,11:00,Swansea,Derby,4-3-3 ofensivo,Alan Sheehan,16501,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382797
+41,qua 09/04/2025,15:45,Swansea,Plymouth Argyle,4-2-3-1,Alan Sheehan,14978,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382846
+42,sáb 12/04/2025,11:00,AFC Sunderland,Swansea,4-2-3-1,Alan Sheehan,42362,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382809
+43,sex 18/04/2025,11:00,Swansea,Hull City,4-1-4-1,Alan Sheehan,18775,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382869
+44,seg 21/04/2025,11:00,QPR,Swansea,4-2-3-1,Alan Sheehan,16351,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382903
+45,sáb 26/04/2025,11:00,Millwall,Swansea,4-2-3-1,Alan Sheehan,17239,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382913
+46,sáb 03/05/2025,08:30,Swansea,Oxford United,4-2-3-1,Alan Sheehan,19672,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4382856

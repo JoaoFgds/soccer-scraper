@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 28/08/2004,15:00,Atlético,Málaga CF,4-5-1,Alberto Iturralde,40000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27958
+2,dom 12/09/2004,16:30,Albacete,Atlético,4-5-1,César Ferrando,13000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28077
+3,dom 19/09/2004,14:30,Atlético,Barcelona,4-2-3-1,César Ferrando,54851,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28186
+4,qua 22/09/2004,16:00,Levante,Atlético,4-4-2,César Ferrando,22000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28283
+5,sáb 25/09/2004,13:00,Atlético,Villarreal,?,César Ferrando,48100,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28288
+6,sáb 02/10/2004,17:00,Real Sociedad,Atlético,?,César Ferrando,20498,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28307
+7,dom 17/10/2004,14:00,Atlético,Rac. Santander,4-2-3-1,César Ferrando,48000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28309
+8,dom 24/10/2004,14:00,Sevilla,Atlético,?,César Ferrando,45000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28323
+9,sáb 30/10/2004,17:00,Valencia,Atlético,?,César Ferrando,41000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28328
+10,dom 07/11/2004,18:00,Atlético,Zaragoza,?,César Ferrando,50000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27970
+11,dom 14/11/2004,14:00,Mallorca,Atlético,?,César Ferrando,15000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27981
+12,dom 21/11/2004,16:00,Atlético,Numância,?,César Ferrando,45000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27990
+13,sáb 27/11/2004,19:00,Espanyol,Atlético,?,César Ferrando,17102,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28006
+14,dom 05/12/2004,18:00,Atlético,Osasuna,4-4-2,César Ferrando,45000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28009
+15,sáb 11/12/2004,19:00,Athletic Club,Atlético,?,César Ferrando,35000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28025
+16,dom 19/12/2004,18:00,Atlético,Deportivo,?,César Ferrando,45000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28029
+17,ter 21/12/2004,19:00,Betis,Atlético,?,César Ferrando,30000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28041
+18,dom 09/01/2005,16:00,Atlético,Real Madrid,4-4-2 duplo 6,César Ferrando,55000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28050
+19,sáb 15/01/2005,14:00,Getafe,Atlético,?,César Ferrando,14000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28064
+20,dom 23/01/2005,16:00,Málaga CF,Atlético,?,César Ferrando,29000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28079
+21,sáb 29/01/2005,17:00,Atlético,Albacete,?,César Ferrando,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28089
+22,dom 06/02/2005,18:00,Barcelona,Atlético,4-2-3-1,César Ferrando,67112,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28100
+23,dom 13/02/2005,14:00,Atlético,Levante,?,César Ferrando,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28109
+24,dom 20/02/2005,17:00,Villarreal,Atlético,?,César Ferrando,20000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28118
+25,dom 27/02/2005,15:00,Atlético,Real Sociedad,?,César Ferrando,32000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28129
+26,qua 02/03/2005,16:00,Rac. Santander,Atlético,?,César Ferrando,14000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28146
+27,sáb 05/03/2005,18:00,Atlético,Sevilla,?,César Ferrando,25500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28149
+28,dom 13/03/2005,17:00,Atlético,Valencia,4-2-3-1,César Ferrando,60000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28160
+29,dom 20/03/2005,17:00,Zaragoza,Atlético,?,César Ferrando,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28169
+30,dom 03/04/2005,14:00,Atlético,Mallorca,?,César Ferrando,,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28190
+31,sáb 09/04/2005,15:00,Numância,Atlético,?,César Ferrando,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28200
+32,sáb 16/04/2005,15:00,Atlético,Espanyol,?,César Ferrando,45000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28209
+33,sáb 23/04/2005,15:00,Osasuna,Atlético,?,César Ferrando,17000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28222
+34,sáb 30/04/2005,15:00,Atlético,Athletic Club,?,César Ferrando,45000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28229
+35,dom 08/05/2005,16:00,Deportivo,Atlético,?,César Ferrando,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28247
+36,dom 15/05/2005,14:00,Atlético,Betis,?,César Ferrando,30000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28249
+37,sáb 21/05/2005,17:00,Real Madrid,Atlético,4-2-3-1,César Ferrando,75000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28265
+38,dom 29/05/2005,16:00,Atlético,Getafe,4-2-3-1,César Ferrando,25000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28270

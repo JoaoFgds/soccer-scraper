@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 22/01/2012,18:30,Real Madrid,Athletic Club,4-2-3-1,José Mourinho,75000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125062
+2,dom 28/08/2011,15:00,Zaragoza,Real Madrid,4-2-3-1,José Mourinho,28000,0:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125240
+3,sáb 10/09/2011,15:00,Real Madrid,Getafe,4-2-3-1,José Mourinho,76000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125250
+4,dom 18/09/2011,15:00,Levante,Real Madrid,4-2-3-1,José Mourinho,17676,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125261
+5,qua 21/09/2011,15:00,Rac. Santander,Real Madrid,4-2-3-1,José Mourinho,12000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125271
+6,sáb 24/09/2011,15:00,Real Madrid,Rayo Vallecano,4-2-3-1,José Mourinho,72000,6:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125281
+7,dom 02/10/2011,17:00,Espanyol,Real Madrid,4-2-3-1,José Mourinho,34423,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125290
+8,sáb 15/10/2011,13:00,Real Madrid,Betis,4-2-3-1,José Mourinho,72000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125293
+9,sáb 22/10/2011,16:00,Málaga CF,Real Madrid,4-2-3-1,José Mourinho,28963,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125309
+10,qua 26/10/2011,18:00,Real Madrid,Villarreal,4-2-3-1,José Mourinho,55000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125319
+11,sáb 29/10/2011,18:00,Real Sociedad,Real Madrid,4-2-3-1,José Mourinho,27193,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125328
+12,dom 06/11/2011,09:00,Real Madrid,Osasuna,4-2-3-1,José Mourinho,80000,7:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125338
+13,sáb 19/11/2011,19:00,Valencia,Real Madrid,4-3-3 ofensivo,José Mourinho,45000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125347
+14,sáb 26/11/2011,17:00,Real Madrid,Atlético,4-2-3-1,José Mourinho,80000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125357
+15,sáb 03/12/2011,15:00,Real Sporting,Real Madrid,4-2-3-1,José Mourinho,23500,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125366
+16,sáb 10/12/2011,19:00,Real Madrid,Barcelona,4-2-3-1,José Mourinho,80000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125376
+17,sáb 17/12/2011,19:00,Sevilla,Real Madrid,4-2-3-1,José Mourinho,40000,2:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125385
+18,sáb 07/01/2012,17:00,Real Madrid,Granada CF,4-2-3-1,José Mourinho,72000,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125395
+19,sáb 14/01/2012,17:00,Mallorca,Real Madrid,4-2-3-1,José Mourinho,19557,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125404
+20,qua 02/05/2012,17:00,Athletic Club,Real Madrid,4-2-3-1,José Mourinho,39000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125413
+21,sáb 28/01/2012,17:00,Real Madrid,Zaragoza,4-2-3-1,José Mourinho,67000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125430
+22,sáb 04/02/2012,17:00,Getafe,Real Madrid,4-2-3-1,José Mourinho,13000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125440
+23,dom 12/02/2012,18:30,Real Madrid,Levante,4-2-3-1,José Mourinho,67000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125451
+24,sáb 18/02/2012,17:00,Real Madrid,Rac. Santander,4-2-3-1,José Mourinho,76000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125461
+25,dom 26/02/2012,12:00,Rayo Vallecano,Real Madrid,4-2-3-1,José Mourinho,12400,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125471
+26,dom 04/03/2012,17:30,Real Madrid,Espanyol,4-2-3-1,José Mourinho,77000,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125480
+27,sáb 10/03/2012,18:00,Betis,Real Madrid,4-2-3-1,José Mourinho,51566,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125483
+28,dom 18/03/2012,17:30,Real Madrid,Málaga CF,4-2-3-1,José Mourinho,73000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125499
+29,qua 21/03/2012,18:00,Villarreal,Real Madrid,4-3-3 ofensivo,José Mourinho,21000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125509
+30,sáb 24/03/2012,16:00,Real Madrid,Real Sociedad,4-2-3-1,José Mourinho,77000,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125548
+31,sáb 31/03/2012,15:00,Osasuna,Real Madrid,4-2-3-1,José Mourinho,18161,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1134013
+32,dom 08/04/2012,16:30,Real Madrid,Valencia,4-2-3-1,José Mourinho,79000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125527
+33,qua 11/04/2012,17:00,Atlético,Real Madrid,4-2-3-1,José Mourinho,54851,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125537
+34,sáb 14/04/2012,15:00,Real Madrid,Real Sporting,4-2-3-1,José Mourinho,75000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125556
+35,sáb 21/04/2012,15:00,Barcelona,Real Madrid,4-2-3-1,José Mourinho,99252,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125566
+36,dom 29/04/2012,07:00,Real Madrid,Sevilla,4-2-3-1,José Mourinho,72000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125575
+37,sáb 05/05/2012,16:00,Granada CF,Real Madrid,4-2-3-1,José Mourinho,22000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125585
+38,dom 13/05/2012,15:00,Real Madrid,Mallorca,4-2-3-1,José Mourinho,83000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125594

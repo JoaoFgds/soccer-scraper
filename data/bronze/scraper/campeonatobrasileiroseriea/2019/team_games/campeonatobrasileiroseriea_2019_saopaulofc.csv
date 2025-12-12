@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 27/04/2019,16:00,São Paulo,Botafogo,4-3-3 defensivo,Cuca,26533,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3173968
+2,qua 01/05/2019,21:30,Goiás,São Paulo,4-3-3 defensivo,Cuca,29644,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3180859
+3,dom 05/05/2019,16:00,São Paulo,Flamengo,4-3-3 defensivo,Cuca,38749,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3180867
+4,dom 12/05/2019,19:00,Fortaleza,São Paulo,4-3-3 defensivo,Cuca,40877,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3180941
+5,dom 19/05/2019,11:00,São Paulo,Bahia,4-3-3 defensivo,Cuca,44640,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3180946
+6,dom 26/05/2019,19:00,Corinthians,São Paulo,4-3-3 defensivo,Cuca,39670,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3180954
+7,dom 02/06/2019,16:00,São Paulo,Cruzeiro,4-3-1-2,Cuca,8517,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3181106
+8,sáb 08/06/2019,21:00,Avaí,São Paulo,4-3-3 defensivo,Cuca,8084,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3181116
+9,qui 13/06/2019,20:00,Atlético-MG,São Paulo,4-3-3 defensivo,Cuca,19761,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3181147
+10,sáb 13/07/2019,19:00,São Paulo,Palmeiras,4-3-3 defensivo,Cuca,38267,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3193493
+11,seg 22/07/2019,20:00,São Paulo,Chapecoense,4-3-3 defensivo,Cuca,35558,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3193502
+12,sáb 27/07/2019,19:00,Fluminense,São Paulo,4-3-3 defensivo,Cuca,21741,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3193508
+13,qua 21/08/2019,19:15,Athletico-PR,São Paulo,4-2-3-1,Cuca,21526,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195273
+14,sáb 10/08/2019,17:00,São Paulo,Santos,4-3-3 defensivo,Cuca,47277,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195278
+15,dom 18/08/2019,16:00,São Paulo,Ceará,4-3-3 defensivo,Cuca,47775,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195354
+16,dom 25/08/2019,16:00,Vasco da Gama,São Paulo,4-3-3 defensivo,Cuca,20404,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195431
+17,sáb 31/08/2019,11:00,São Paulo,Grêmio,4-3-3 defensivo,Cuca,46997,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3197452
+18,sáb 07/09/2019,19:00,Internacional,São Paulo,4-2-3-1,Cuca,16048,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3197460
+19,dom 15/09/2019,19:00,São Paulo,CSA,4-3-3 defensivo,Cuca,29779,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3197499
+20,sáb 21/09/2019,11:00,Botafogo,São Paulo,4-2-3-1,Cuca,18471,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3255761
+21,qua 25/09/2019,21:30,São Paulo,Goiás,4-3-3 defensivo,Cuca,12505,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3255775
+22,sáb 28/09/2019,19:00,Flamengo,São Paulo,4-2-3-1,Fernando Diniz,67051,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3260649
+23,sáb 05/10/2019,17:00,São Paulo,Fortaleza,4-3-1-2,Fernando Diniz,34962,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3260660
+24,qua 09/10/2019,21:00,Bahia,São Paulo,4-3-1-2,Fernando Diniz,32021,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3265342
+25,dom 13/10/2019,18:00,São Paulo,Corinthians,4-3-2-1,Fernando Diniz,37561,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3265355
+26,qua 16/10/2019,21:00,Cruzeiro,São Paulo,4-2-3-1,Fernando Diniz,30969,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3265507
+27,dom 20/10/2019,16:00,São Paulo,Avaí,4-2-3-1,Fernando Diniz,20763,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3265519
+28,dom 27/10/2019,16:00,São Paulo,Atlético-MG,4-1-4-1,Fernando Diniz,18815,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3268457
+29,qua 30/10/2019,19:30,Palmeiras,São Paulo,4-1-4-1,Fernando Diniz,29481,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3268463
+30,sáb 02/11/2019,21:00,Chapecoense,São Paulo,4-2-3-1,Fernando Diniz,9533,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3272413
+31,qua 06/11/2019,20:00,São Paulo,Fluminense,4-3-3 ofensivo,Fernando Diniz,17650,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3272427
+32,sáb 09/11/2019,20:00,São Paulo,Athletico-PR,4-1-4-1,Fernando Diniz,13795,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3273306
+33,sáb 16/11/2019,17:00,Santos,São Paulo,4-2-3-1,Fernando Diniz,14062,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3277729
+34,dom 24/11/2019,19:00,Ceará,São Paulo,4-2-3-1,Fernando Diniz,29001,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3277747
+35,qua 27/11/2019,20:00,São Paulo,Vasco da Gama,4-1-4-1,Fernando Diniz,11970,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3277786
+36,sáb 30/11/2019,20:00,Grêmio,São Paulo,4-1-4-1,Fernando Diniz,24464,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3277812
+37,ter 03/12/2019,20:00,São Paulo,Internacional,4-1-4-1,Fernando Diniz,30822,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3285721
+38,dom 08/12/2019,16:00,CSA,São Paulo,4-3-3 ofensivo,Fernando Diniz,9498,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3285736

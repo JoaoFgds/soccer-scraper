@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 25/08/1996,12:00,FC Porto,Vitória FC,5-4-1 plano,Mário Reis,25000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855860
+2,sáb 07/09/1996,14:00,Vitória FC,Vit. Guimarães,4-1-4-1,Mário Reis,8000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855870
+3,dom 15/09/1996,13:00,Benfica,Vitória FC,5-4-1 plano,Mário Reis,25000,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855882
+4,dom 22/09/1996,13:00,Vitória FC,Braga,4-3-3 ofensivo,Mário Reis,8000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855892
+5,dom 29/09/1996,12:00,Gil Vicente,Vitória FC,5-4-1 plano,Mário Reis,3000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855895
+6,dom 13/10/1996,13:00,Vitória FC,Belenenses,5-4-1 plano,Mário Reis,5000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855907
+7,dom 20/10/1996,13:00,Vitória FC,Leiria,5-4-1 plano,Mário Reis,5000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855919
+8,dom 27/10/1996,14:00,Chaves,Vitória FC,5-3-2,Mário Reis,3000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855921
+9,dom 03/11/1996,13:00,Vitória FC,Salgueiros,4-1-3-2,Mário Reis,5000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855946
+10,dom 17/11/1996,13:00,CF Estrela,Vitória FC,4-4-2 duplo 6,Mário Reis,2500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855958
+11,sáb 23/11/1996,19:30,Vitória FC,Sporting,4-5-1,Mário Reis,5000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855978
+12,sex 29/11/1996,19:00,Boavista,Vitória FC,5-3-2,Mário Reis,4000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855993
+13,dom 22/12/1996,13:00,Vitória FC,SC Espinho,5-3-2,Mário Reis,4000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856009
+14,dom 05/01/1997,13:00,Farense,Vitória FC,5-3-2,Mário Reis,2000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856013
+15,dom 12/01/1997,13:00,Vitória FC,Rio Ave,4-2-3-1,Mário Reis,3000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856025
+16,dom 19/01/1997,14:00,Marítimo,Vitória FC,5-3-2,Mário Reis,5000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856033
+17,dom 26/01/1997,13:00,Vitória FC,Leça,5-4-1 plano,Mário Reis,4000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856040
+18,sex 31/01/1997,19:00,Vitória FC,FC Porto,4-3-3 ofensivo,Mourinho Félix,8000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856047
+19,sáb 08/02/1997,13:00,Vit. Guimarães,Vitória FC,5-3-2,Mourinho Félix,12000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856061
+20,sáb 15/02/1997,15:00,Vitória FC,Benfica,5-4-1 plano,Mourinho Félix,15000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856066
+21,dom 23/02/1997,13:00,Braga,Vitória FC,4-3-3 ofensivo,Mourinho Félix,7000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856076
+22,dom 02/03/1997,13:00,Vitória FC,Gil Vicente,5-4-1 plano,Mourinho Félix,5000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856091
+23,dom 16/03/1997,13:00,Belenenses,Vitória FC,5-4-1 plano,Manuel Fernandes,6000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856097
+24,dom 23/03/1997,13:00,Leiria,Vitória FC,5-3-2,Manuel Fernandes,3000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856102
+25,dom 06/04/1997,12:00,Vitória FC,Chaves,5-3-2,Manuel Fernandes,5000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856116
+26,dom 13/04/1997,12:00,Salgueiros,Vitória FC,5-3-2,Manuel Fernandes,2000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856125
+27,dom 20/04/1997,12:00,Vitória FC,CF Estrela,4-2-3-1,Manuel Fernandes,3000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856131
+28,dom 27/04/1997,14:00,Sporting,Vitória FC,5-3-2,Manuel Fernandes,18000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856144
+29,dom 04/05/1997,13:00,Vitória FC,Boavista,5-3-2,Manuel Fernandes,7000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856154
+30,dom 11/05/1997,13:00,SC Espinho,Vitória FC,4-4-2 duplo 6,Manuel Fernandes,6000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856161
+31,dom 18/05/1997,13:00,Vitória FC,Farense,4-4-2 duplo 6,Manuel Fernandes,7000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856178
+32,dom 25/05/1997,13:00,Rio Ave,Vitória FC,5-3-2,Manuel Fernandes,5000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856192
+33,dom 01/06/1997,13:00,Vitória FC,Marítimo,5-4-1 plano,Manuel Fernandes,3000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856203
+34,dom 15/06/1997,13:00,Leça,Vitória FC,5-3-2,Manuel Fernandes,3000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856212

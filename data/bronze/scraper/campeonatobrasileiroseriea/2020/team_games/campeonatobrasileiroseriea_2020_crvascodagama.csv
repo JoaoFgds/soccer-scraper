@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,ter 26/01/2021,20:00,Palmeiras,Vasco da Gama,4-2-3-1,Vanderlei Luxemburgo,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417541
+2,qui 13/08/2020,20:00,Vasco da Gama,Sport,4-1-4-1,Ramon Menezes,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3411149
+3,dom 16/08/2020,16:00,Vasco da Gama,São Paulo,4-2-3-1,Ramon Menezes,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416082
+4,qui 20/08/2020,20:00,Ceará,Vasco da Gama,4-4-2,Ramon Menezes,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416226
+5,dom 23/08/2020,16:00,Vasco da Gama,Grêmio,4-1-4-1,Ramon Menezes,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416104
+6,sáb 29/08/2020,19:00,Fluminense,Vasco da Gama,4-1-4-1,Ramon Menezes,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416110
+7,qua 02/09/2020,21:30,Santos,Vasco da Gama,4-1-4-1,Ramon Menezes,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416125
+8,dom 06/09/2020,18:00,Vasco da Gama,Athletico-PR,4-2-3-1,Ramon Menezes,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416129
+9,qui 10/09/2020,21:00,Vasco da Gama,Atlético-GO,4-2-3-1,Ramon Menezes,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416172
+10,dom 13/09/2020,20:30,Botafogo,Vasco da Gama,4-2-3-1,Ramon Menezes,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416242
+11,dom 20/09/2020,16:00,Coritiba,Vasco da Gama,4-2-3-1,Ramon Menezes,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417538
+12,dom 27/09/2020,11:00,Vasco da Gama,Bragantino,4-2-3-1,Ramon Menezes,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417546
+13,dom 04/10/2020,20:30,Atlético-MG,Vasco da Gama,4-3-3 defensivo,Ramon Menezes,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417559
+14,qua 07/10/2020,19:15,Bahia,Vasco da Gama,4-2-3-1,Ramon Menezes,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417571
+15,sáb 10/10/2020,17:00,Vasco da Gama,Flamengo,4-2-3-1,Alexandre Grasseli,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417576
+16,qui 19/11/2020,19:00,Vasco da Gama,Fortaleza,3-4-3 plano,Ricardo Sá Pinto,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417586
+17,dom 18/10/2020,18:15,Internacional,Vasco da Gama,4-2-3-1,Alexandre Grasseli,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417600
+18,qua 21/10/2020,21:30,Vasco da Gama,Corinthians,4-2-3-1,Ricardo Sá Pinto,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417606
+19,dom 01/11/2020,20:30,Goiás,Vasco da Gama,4-2-3-1,Ricardo Sá Pinto,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417624
+20,dom 08/11/2020,16:00,Vasco da Gama,Palmeiras,3-4-2-1,Ricardo Sá Pinto,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417627
+21,sáb 14/11/2020,16:30,Sport,Vasco da Gama,3-4-2-1,Ricardo Sá Pinto,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417636
+22,dom 22/11/2020,15:00,São Paulo,Vasco da Gama,3-4-2-1,Ricardo Sá Pinto,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417657
+23,seg 30/11/2020,18:00,Vasco da Gama,Ceará,3-4-2-1,Ricardo Sá Pinto,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417673
+24,dom 06/12/2020,15:00,Grêmio,Vasco da Gama,3-4-2-1,Ricardo Sá Pinto,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417646
+25,dom 13/12/2020,20:30,Vasco da Gama,Fluminense,4-2-3-1,Ricardo Sá Pinto,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417675
+26,dom 20/12/2020,16:00,Vasco da Gama,Santos,4-2-3-1,Ricardo Sá Pinto,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417698
+27,dom 27/12/2020,18:15,Athletico-PR,Vasco da Gama,4-2-3-1,Ricardo Sá Pinto,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417687
+28,qui 07/01/2021,20:00,Atlético-GO,Vasco da Gama,4-1-4-1,Vanderlei Luxemburgo,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417510
+29,dom 10/01/2021,19:30,Vasco da Gama,Botafogo,4-1-4-1,Vanderlei Luxemburgo,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417512
+30,sáb 16/01/2021,21:00,Vasco da Gama,Coritiba,4-2-3-1,Vanderlei Luxemburgo,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417522
+31,qua 20/01/2021,21:30,Bragantino,Vasco da Gama,4-1-4-1,Vanderlei Luxemburgo,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417708
+32,sáb 23/01/2021,21:00,Vasco da Gama,Atlético-MG,4-2-3-1,Vanderlei Luxemburgo,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417806
+33,dom 31/01/2021,16:00,Vasco da Gama,Bahia,4-3-3 ofensivo,Vanderlei Luxemburgo,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418067
+34,qui 04/02/2021,20:00,Flamengo,Vasco da Gama,4-1-4-1,Vanderlei Luxemburgo,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418076
+35,qua 10/02/2021,18:15,Fortaleza,Vasco da Gama,4-2-3-1,Vanderlei Luxemburgo,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418094
+36,dom 14/02/2021,16:00,Vasco da Gama,Internacional,4-2-3-1,Vanderlei Luxemburgo,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418097
+37,dom 21/02/2021,16:00,Corinthians,Vasco da Gama,4-1-4-1,Vanderlei Luxemburgo,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418110
+38,qui 25/02/2021,21:30,Vasco da Gama,Goiás,4-1-4-1,Vanderlei Luxemburgo,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418117

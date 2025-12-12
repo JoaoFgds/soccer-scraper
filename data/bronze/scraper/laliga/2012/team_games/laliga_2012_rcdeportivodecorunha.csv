@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 20/08/2012,14:00,Deportivo,Osasuna,4-2-3-1,José Luis Oltra,30000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2244387
+2,dom 26/08/2012,18:00,Valencia,Deportivo,4-2-3-1,José Luis Oltra,40000,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242833
+3,sáb 01/09/2012,15:00,Deportivo,Getafe,4-2-3-1,José Luis Oltra,29000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242885
+4,dom 16/09/2012,11:00,Granada CF,Deportivo,4-2-3-1,José Luis Oltra,18600,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242918
+5,seg 24/09/2012,16:30,Deportivo,Sevilla,4-2-3-1,José Luis Oltra,27000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242905
+6,dom 30/09/2012,14:50,Real Madrid,Deportivo,4-2-3-1,José Luis Oltra,71000,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242843
+7,sáb 06/10/2012,11:00,Rayo Vallecano,Deportivo,4-2-3-1,José Luis Oltra,12500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242862
+8,sáb 20/10/2012,17:00,Deportivo,Barcelona,4-2-3-1,José Luis Oltra,34600,4:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242855
+9,sáb 27/10/2012,16:00,Celta de Vigo,Deportivo,4-2-3-1,José Luis Oltra,30000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242889
+10,dom 04/11/2012,13:00,Deportivo,Mallorca,4-2-3-1,José Luis Oltra,27000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242872
+11,sáb 10/11/2012,17:00,Zaragoza,Deportivo,4-2-3-1,José Luis Oltra,16000,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242916
+12,dom 18/11/2012,09:00,Deportivo,Levante,4-2-3-1,José Luis Oltra,26000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243008
+13,dom 25/11/2012,14:00,Athletic Club,Deportivo,4-2-3-1,José Luis Oltra,36500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242988
+14,dom 02/12/2012,14:00,Deportivo,Betis,4-2-3-1,José Luis Oltra,28121,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243017
+15,dom 09/12/2012,16:00,Atlético,Deportivo,4-2-3-1,José Luis Oltra,40000,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243032
+16,seg 17/12/2012,17:00,Deportivo,Valladolid,4-2-3-1,José Luis Oltra,24000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243034
+17,qui 20/12/2012,19:00,Espanyol,Deportivo,4-2-3-1,José Luis Oltra,15820,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243065
+18,sáb 05/01/2013,17:00,Deportivo,Málaga CF,4-2-3-1,Domingos Paciência,25000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243048
+19,dom 13/01/2013,14:00,Real Sociedad,Deportivo,4-2-3-1,Domingos Paciência,20000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243075
+20,dom 20/01/2013,09:00,Osasuna,Deportivo,4-2-3-1,Domingos Paciência,14135,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243084
+21,sáb 26/01/2013,19:00,Deportivo,Valencia,4-2-3-1,Domingos Paciência,25000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243103
+22,sáb 02/02/2013,15:00,Getafe,Deportivo,4-2-3-1,Domingos Paciência,9000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243100
+23,sáb 09/02/2013,19:00,Deportivo,Granada CF,4-2-3-1,Fernando Vázquez,27000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243128
+24,sex 15/02/2013,18:30,Sevilla,Deportivo,4-2-3-1,Fernando Vázquez,35000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243137
+25,sáb 23/02/2013,16:00,Deportivo,Real Madrid,4-2-3-1,Fernando Vázquez,30000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243139
+26,sáb 02/03/2013,14:00,Deportivo,Rayo Vallecano,4-2-3-1,Fernando Vázquez,27000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243145
+27,sáb 09/03/2013,16:00,Barcelona,Deportivo,4-3-3 ofensivo,Fernando Vázquez,69748,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243163
+28,sex 15/03/2013,17:45,Deportivo,Celta de Vigo,4-2-3-1,Fernando Vázquez,32500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243174
+29,dom 31/03/2013,12:00,Mallorca,Deportivo,4-2-3-1,Fernando Vázquez,23000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243178
+30,sáb 06/04/2013,15:00,Deportivo,Zaragoza,4-2-3-1,Fernando Vázquez,34000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243190
+31,sáb 13/04/2013,13:00,Levante,Deportivo,4-2-3-1,Fernando Vázquez,13571,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243195
+32,dom 21/04/2013,12:00,Deportivo,Athletic Club,4-2-3-1,Fernando Vázquez,30000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242951
+33,seg 29/04/2013,17:00,Betis,Deportivo,4-2-3-1,Fernando Vázquez,32800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242933
+34,sáb 04/05/2013,17:00,Deportivo,Atlético,4-2-3-1,Fernando Vázquez,34600,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242939
+35,sáb 11/05/2013,13:00,Valladolid,Deportivo,4-2-3-1,Fernando Vázquez,21239,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242991
+36,dom 19/05/2013,12:00,Deportivo,Espanyol,4-2-3-1,Fernando Vázquez,34000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242958
+37,dom 26/05/2013,15:00,Málaga CF,Deportivo,4-2-3-1,Fernando Vázquez,25180,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242966
+38,sáb 01/06/2013,16:00,Deportivo,Real Sociedad,4-2-3-1,Fernando Vázquez,34600,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243025

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 17/08/2003,13:00,Gil Vicente,Alverca,3-4-3 plano,José Couceiro,1500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/470
+2,sex 22/08/2003,17:00,Alverca,Marítimo,4-5-1,José Couceiro,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/656
+3,dom 31/08/2003,12:00,Beira-Mar,Alverca,?,José Couceiro,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/948760
+4,seg 15/09/2003,16:30,Alverca,Boavista,?,José Couceiro,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003094
+5,dom 21/09/2003,13:00,Alverca,Rio Ave,?,José Couceiro,700,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003731
+6,dom 28/09/2003,12:00,Paços Ferreira,Alverca,?,José Couceiro,2000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003741
+7,seg 06/10/2003,15:45,Alverca,Braga,?,José Couceiro,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1067220
+8,dom 19/10/2003,13:00,CF Estrela,Alverca,?,José Couceiro,1000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702835
+9,dom 26/10/2003,17:45,Alverca,Sporting,?,José Couceiro,2000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771706
+10,dom 02/11/2003,14:00,Leiria,Alverca,?,José Couceiro,2000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771713
+11,dom 09/11/2003,17:15,Alverca,Benfica,?,José Couceiro,2000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771723
+12,dom 30/11/2003,14:00,Vit. Guimarães,Alverca,?,José Couceiro,7300,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771729
+13,dom 07/12/2003,14:00,Alverca,Académica,?,José Couceiro,1500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771750
+14,dom 14/12/2003,16:00,Belenenses,Alverca,?,José Couceiro,3000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771775
+15,seg 22/12/2003,17:45,Alverca,FC Porto,3-4-3,José Couceiro,5000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771785
+16,dom 04/01/2004,14:00,Nacional,Alverca,?,José Couceiro,3500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771788
+17,dom 11/01/2004,14:00,Alverca,Moreirense,?,José Couceiro,1000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771800
+18,dom 18/01/2004,14:00,Alverca,Gil Vicente,?,José Couceiro,500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771808
+19,sex 23/01/2004,19:30,Marítimo,Alverca,4-1-4-1,José Couceiro,4500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771814
+20,seg 02/02/2004,17:45,Alverca,Beira-Mar,?,José Couceiro,1500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771830
+21,seg 09/02/2004,17:45,Boavista,Alverca,?,José Couceiro,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771840
+22,seg 16/02/2004,17:30,Rio Ave,Alverca,?,José Couceiro,3000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4555
+23,dom 22/02/2004,13:00,Alverca,Paços Ferreira,?,José Couceiro,2000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771844
+24,seg 01/03/2004,16:45,Braga,Alverca,?,José Couceiro,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4963
+25,dom 07/03/2004,13:00,Alverca,CF Estrela,?,José Couceiro,3000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771853
+26,seg 15/03/2004,16:45,Sporting,Alverca,?,José Couceiro,26406,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771867
+27,dom 21/03/2004,13:00,Alverca,Leiria,4-3-3 ofensivo,José Couceiro,2000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5568
+28,dom 28/03/2004,17:15,Benfica,Alverca,?,José Couceiro,11767,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5771
+29,sex 02/04/2004,17:30,Alverca,Vit. Guimarães,?,José Couceiro,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5972
+30,sáb 10/04/2004,12:00,Académica,Alverca,?,José Couceiro,7000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6184
+31,dom 18/04/2004,14:15,Alverca,Belenenses,4-4-2 duplo 6,José Couceiro,2000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6396
+32,dom 25/04/2004,15:15,FC Porto,Alverca,4-3-3 ofensivo,José Couceiro,50000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6607
+33,dom 02/05/2004,12:00,Alverca,Nacional,4-3-3 ofensivo,José Couceiro,2000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6805
+34,dom 09/05/2004,12:00,Moreirense,Alverca,4-3-1-2,José Couceiro,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7011

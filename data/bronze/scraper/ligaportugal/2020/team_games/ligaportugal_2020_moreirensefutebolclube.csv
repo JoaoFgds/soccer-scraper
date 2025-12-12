@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 20/09/2020,14:30,Moreirense,Farense,4-3-3 ofensivo,Ricardo Soares,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431979
+2,sáb 26/09/2020,14:30,Benfica,Moreirense,4-1-4-1,Ricardo Soares,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431978
+3,sex 02/10/2020,15:00,Moreirense,Boavista,4-1-4-1,Ricardo Soares,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432037
+4,dom 18/10/2020,11:00,B SAD,Moreirense,4-1-4-1,Ricardo Soares,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431971
+5,dom 25/10/2020,12:00,Moreirense,Marítimo,4-3-3 ofensivo,Ricardo Soares,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432025
+6,sáb 31/10/2020,15:00,Rio Ave,Moreirense,4-1-4-1,Ricardo Soares,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432035
+7,ter 01/12/2020,18:45,Moreirense,Paços Ferreira,4-3-3 defensivo,César Peixoto,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432009
+8,sáb 28/11/2020,17:30,Sporting,Moreirense,4-3-3 ofensivo,César Peixoto,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432169
+9,sáb 05/12/2020,12:30,Moreirense,Gil Vicente,3-4-3 plano,César Peixoto,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432094
+10,sáb 19/12/2020,15:00,CD Tondela,Moreirense,5-4-1 plano,César Peixoto,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432263
+11,ter 29/12/2020,15:45,Moreirense,Santa Clara,5-4-1,César Peixoto,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432166
+12,dom 03/01/2021,18:00,FC Porto,Moreirense,3-4-3 plano,Leandro Mendes,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432160
+13,sáb 09/01/2021,14:00,Moreirense,Vit. Guimarães,4-3-3 ofensivo,Vasco Seabra,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432204
+14,dom 17/01/2021,12:00,Nacional,Moreirense,4-3-3 ofensivo,Vasco Seabra,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432056
+15,dom 24/01/2021,14:30,Moreirense,Portimonense,4-2-3-1,Vasco Seabra,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432211
+16,seg 01/02/2021,16:45,Moreirense,Braga,4-3-3 defensivo,Vasco Seabra,,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432173
+17,qui 04/02/2021,18:30,Famalicão,Moreirense,3-5-2,Vasco Seabra,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432015
+18,seg 08/02/2021,14:00,Farense,Moreirense,3-4-3 plano,Vasco Seabra,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432172
+19,dom 14/02/2021,17:15,Moreirense,Benfica,5-4-1 plano,Vasco Seabra,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432059
+20,sex 19/02/2021,17:30,Boavista,Moreirense,3-4-3 plano,Vasco Seabra,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432190
+21,seg 01/03/2021,17:15,Moreirense,B SAD,4-3-3 ofensivo,Vasco Seabra,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432042
+22,dom 07/03/2021,14:30,Marítimo,Moreirense,4-4-2,Vasco Seabra,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432220
+23,dom 14/03/2021,12:00,Moreirense,Rio Ave,4-4-2,Vasco Seabra,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432100
+24,sáb 20/03/2021,12:30,Paços Ferreira,Moreirense,4-3-3 defensivo,Vasco Seabra,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432195
+25,seg 05/04/2021,17:00,Moreirense,Sporting,4-3-3 defensivo,Vasco Seabra,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432243
+26,dom 11/04/2021,11:00,Gil Vicente,Moreirense,4-3-3 ofensivo,Vasco Seabra,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432199
+27,sáb 17/04/2021,11:30,Moreirense,CD Tondela,4-2-3-1,Vasco Seabra,,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432245
+28,qua 21/04/2021,11:30,Santa Clara,Moreirense,4-4-2,Vasco Seabra,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432208
+29,seg 26/04/2021,17:15,Moreirense,FC Porto,3-4-3 plano,Vasco Seabra,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432217
+30,sex 30/04/2021,13:00,Vit. Guimarães,Moreirense,3-4-3 plano,Vasco Seabra,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432234
+31,qui 06/05/2021,11:00,Moreirense,Nacional,4-4-2,Vasco Seabra,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432143
+32,seg 10/05/2021,14:00,Portimonense,Moreirense,4-3-3 ofensivo,Vasco Seabra,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432237
+33,sex 14/05/2021,17:15,Braga,Moreirense,4-3-3 ofensivo,Vasco Seabra,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432101
+34,qua 19/05/2021,16:00,Moreirense,Famalicão,4-4-2 duplo 6,Vasco Seabra,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432076

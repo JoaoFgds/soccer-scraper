@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 09/08/2008,17:00,Bordeaux,SM Caen,4-3-1-2,Laurent Blanc,29002,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912739
+2,sáb 16/08/2008,17:00,PSG,Bordeaux,4-3-1-2,Laurent Blanc,41575,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912755
+3,dom 24/08/2008,17:00,Bordeaux,Nantes,4-4-2 duplo 6,Laurent Blanc,29748,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912759
+4,dom 31/08/2008,13:00,Lille,Bordeaux,4-4-2 losango,Laurent Blanc,14599,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912770
+5,sáb 13/09/2008,17:00,Bordeaux,Marselha,4-4-2 losango,Laurent Blanc,32854,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912779
+6,sáb 20/09/2008,15:00,Grenoble,Bordeaux,4-4-2 duplo 6,Laurent Blanc,19018,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912788
+7,dom 28/09/2008,17:00,Bordeaux,Saint-Étienne,4-4-2 losango,Laurent Blanc,23191,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912799
+8,sáb 04/10/2008,15:00,FC Lorient,Bordeaux,4-3-3 ofensivo,Laurent Blanc,11278,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912811
+9,sáb 18/10/2008,15:00,Bordeaux,Toulouse,4-5-1,Laurent Blanc,27740,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912819
+10,sáb 25/10/2008,16:00,Nice,Bordeaux,4-4-2 duplo 6,Laurent Blanc,12612,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912834
+11,ter 28/10/2008,20:00,Bordeaux,Le Havre,4-4-2 duplo 6,Laurent Blanc,21990,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912838
+12,sáb 01/11/2008,18:00,AS Nancy,Bordeaux,4-3-3 defensivo,Laurent Blanc,18618,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912854
+13,sáb 08/11/2008,18:00,Bordeaux,Auxerre,4-3-3 ofensivo,Laurent Blanc,22335,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912858
+14,dom 16/11/2008,18:00,Lyon,Bordeaux,4-5-1,Laurent Blanc,36341,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912872
+15,sáb 22/11/2008,16:00,Bordeaux,Rennes,4-3-1-2,Laurent Blanc,25213,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912878
+16,sáb 29/11/2008,18:00,FC Sochaux,Bordeaux,4-4-2 duplo 6,Laurent Blanc,13843,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912896
+17,sex 05/12/2008,16:00,Bordeaux,Valenciennes,4-3-1-2,Laurent Blanc,18717,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912898
+18,sáb 13/12/2008,16:00,Le Mans UC 72,Bordeaux,4-3-1-2,Laurent Blanc,10499,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912910
+19,dom 21/12/2008,18:00,Monaco,Bordeaux,4-3-1-2,Laurent Blanc,8142,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912923
+20,dom 11/01/2009,18:00,Bordeaux,PSG,4-4-2 losango,Laurent Blanc,31910,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912929
+21,sáb 17/01/2009,18:00,Nantes,Bordeaux,4-4-2 losango,Laurent Blanc,26008,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912943
+22,dom 01/02/2009,14:00,Bordeaux,Lille,4-4-2 losango,Laurent Blanc,28137,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912949
+23,dom 08/02/2009,18:00,Marselha,Bordeaux,4-4-2 losango,Laurent Blanc,53856,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912962
+24,sáb 14/02/2009,16:00,Bordeaux,Grenoble,4-3-1-2,Laurent Blanc,21392,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912977
+25,dom 22/02/2009,13:00,Saint-Étienne,Bordeaux,4-3-3 defensivo,Laurent Blanc,27048,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912986
+26,dom 01/03/2009,13:00,Bordeaux,FC Lorient,4-3-1-2,Laurent Blanc,22670,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912989
+27,sáb 07/03/2009,15:00,Toulouse,Bordeaux,4-3-1-2,Laurent Blanc,30152,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913007
+28,sáb 14/03/2009,17:00,Bordeaux,Nice,4-4-2 losango,Laurent Blanc,25054,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913008
+29,sáb 21/03/2009,15:00,Le Havre,Bordeaux,4-4-2 losango,Laurent Blanc,14363,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913019
+30,sáb 04/04/2009,14:00,Bordeaux,AS Nancy,4-4-2 losango,Laurent Blanc,26825,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913028
+31,sáb 11/04/2009,14:00,Auxerre,Bordeaux,4-3-1-2,Laurent Blanc,20002,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913038
+32,dom 19/04/2009,16:00,Bordeaux,Lyon,4-3-3 defensivo,Laurent Blanc,32858,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913048
+33,qua 29/04/2009,15:00,Rennes,Bordeaux,4-5-1,Laurent Blanc,26079,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913065
+34,dom 03/05/2009,16:00,Bordeaux,FC Sochaux,4-3-1-2,Laurent Blanc,27133,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913068
+35,qua 13/05/2009,16:00,Valenciennes,Bordeaux,4-2-3-1,Laurent Blanc,15104,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913087
+36,sáb 16/05/2009,14:00,Bordeaux,Le Mans UC 72,4-2-3-1,Laurent Blanc,32722,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913088
+37,sáb 23/05/2009,16:00,Bordeaux,Monaco,4-3-3 defensivo,Laurent Blanc,32620,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913099
+38,sáb 30/05/2009,16:00,SM Caen,Bordeaux,4-3-3 defensivo,Laurent Blanc,20924,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913108

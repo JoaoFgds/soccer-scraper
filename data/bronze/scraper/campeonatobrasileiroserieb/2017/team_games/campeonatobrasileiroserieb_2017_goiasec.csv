@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 13/05/2017,20:00,Goiás,Figueirense,4-3-3 ofensivo,Sérgio Soares,3107,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873894
+2,sex 19/05/2017,22:30,América-MG,Goiás,4-2-3-1,Sérgio Soares,1379,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873900
+3,sex 26/05/2017,22:30,Goiás,Brasil Pelotas,4-2-3-1,Sérgio Soares,1567,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873910
+4,qua 17/05/2017,22:30,Paraná,Goiás,4-2-3-1,Sérgio Soares,2177,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873916
+5,ter 06/06/2017,21:30,Goiás,Santa Cruz,4-3-3 defensivo,Sílvio Criciúma,3489,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873931
+6,sex 09/06/2017,22:30,Paysandu,Goiás,4-3-3 defensivo,Sílvio Criciúma,5945,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873939
+7,ter 13/06/2017,21:30,Goiás,Boa Esporte,4-3-3 defensivo,Sílvio Criciúma,4805,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873957
+8,sex 16/06/2017,22:30,Goiás,ABC,4-3-3 defensivo,Sílvio Criciúma,5584,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873966
+9,ter 20/06/2017,20:15,Náutico,Goiás,4-3-3 defensivo,Sílvio Criciúma,1761,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873980
+10,sáb 24/06/2017,17:30,Goiás,Vila Nova,4-3-3 defensivo,Sílvio Criciúma,10828,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873995
+11,ter 27/06/2017,20:15,Juventude,Goiás,4-3-3 defensivo,Sílvio Criciúma,4601,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2874000
+12,sex 07/07/2017,20:30,Goiás,Luverdense,4-3-3 defensivo,Sílvio Criciúma,3516,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2880440
+13,ter 11/07/2017,20:30,Guarani,Goiás,4-3-3 defensivo,Sílvio Criciúma,5123,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2880824
+14,sex 14/07/2017,21:30,Criciúma,Goiás,4-3-3 defensivo,Sílvio Criciúma,3436,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2880831
+15,ter 18/07/2017,20:30,Goiás,Londrina,4-2-3-1,Sílvio Criciúma,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2888275
+16,sex 21/07/2017,21:30,Ceará,Goiás,4-3-1-2,Argel Fuchs,9131,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893402
+17,sáb 29/07/2017,16:30,Goiás,CRB,4-4-2 duplo 6,Argel Fuchs,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2895924
+18,ter 01/08/2017,21:30,Internacional,Goiás,4-3-3 defensivo,Argel Fuchs,35391,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2902424
+19,sex 04/08/2017,20:30,Goiás,Oeste,4-2-3-1,Argel Fuchs,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2903011
+20,sáb 12/08/2017,19:00,Figueirense,Goiás,4-3-2-1,Argel Fuchs,3985,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2905629
+21,sex 18/08/2017,21:30,Goiás,América-MG,4-3-2-1,Argel Fuchs,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2909873
+22,ter 22/08/2017,19:15,Brasil Pelotas,Goiás,4-2-3-1,Argel Fuchs,3547,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2914695
+23,qua 06/09/2017,19:30,Goiás,Paraná,4-2-3-1,Sílvio Criciúma,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2920785
+24,sex 15/09/2017,19:15,Santa Cruz,Goiás,4-4-2 duplo 6,Sílvio Criciúma,5206,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2925030
+25,sáb 23/09/2017,16:30,Goiás,Paysandu,5-3-2,Hélio dos Anjos,12820,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2926854
+26,ter 26/09/2017,20:30,Boa Esporte,Goiás,5-3-2,Hélio dos Anjos,1372,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2928558
+27,sex 29/09/2017,20:30,ABC,Goiás,5-3-2,Hélio dos Anjos,1119,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2928820
+28,sex 06/10/2017,21:30,Goiás,Náutico,4-3-3 defensivo,Hélio dos Anjos,12347,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2930347
+29,sáb 14/10/2017,16:30,Vila Nova,Goiás,4-3-3 defensivo,Hélio dos Anjos,13429,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2930850
+30,ter 17/10/2017,21:30,Goiás,Juventude,4-3-3 defensivo,Hélio dos Anjos,9073,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2932849
+31,sáb 21/10/2017,21:00,Luverdense,Goiás,4-3-3 defensivo,Hélio dos Anjos,1383,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2934742
+32,sáb 28/10/2017,19:00,Goiás,Guarani,4-3-3 defensivo,Hélio dos Anjos,12586,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2934770
+33,ter 31/10/2017,19:30,Goiás,Criciúma,4-3-3 defensivo,Hélio dos Anjos,3932,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942385
+34,ter 07/11/2017,20:30,Londrina,Goiás,4-3-3 defensivo,Hélio dos Anjos,1515,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942396
+35,sáb 11/11/2017,17:30,Goiás,Ceará,4-3-3 defensivo,Hélio dos Anjos,6043,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2943654
+36,ter 14/11/2017,21:30,CRB,Goiás,4-3-3 defensivo,Hélio dos Anjos,8413,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2943666
+37,sáb 18/11/2017,17:00,Goiás,Internacional,4-3-3 defensivo,Hélio dos Anjos,7046,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2969474
+38,sáb 25/11/2017,17:30,Oeste,Goiás,4-3-3 ofensivo,Hélio dos Anjos,2827,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2969487

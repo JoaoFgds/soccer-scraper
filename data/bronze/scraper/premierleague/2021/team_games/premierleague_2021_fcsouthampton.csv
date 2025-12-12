@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 14/08/2021,11:00,Everton,Southampton,4-4-2 duplo 6,Ralph Hasenhüttl,38487,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583479
+2,dom 22/08/2021,10:00,Southampton,Man Utd,4-4-2 duplo 6,Ralph Hasenhüttl,29485,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583526
+3,sáb 28/08/2021,11:00,Newcastle,Southampton,4-4-2 duplo 6,Ralph Hasenhüttl,44017,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591996
+4,sáb 11/09/2021,11:00,Southampton,West Ham,4-4-2 duplo 6,Ralph Hasenhüttl,30000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592029
+5,sáb 18/09/2021,11:00,Man City,Southampton,4-4-2 duplo 6,Ralph Hasenhüttl,52698,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591965
+6,dom 26/09/2021,10:00,Southampton,Wolves,4-4-2 duplo 6,Ralph Hasenhüttl,28002,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591989
+7,sáb 02/10/2021,11:00,Chelsea,Southampton,4-4-2 duplo 6,Ralph Hasenhüttl,40109,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592003
+8,sáb 16/10/2021,11:00,Southampton,Leeds,4-4-2 duplo 6,Ralph Hasenhüttl,30506,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592019
+9,sáb 23/10/2021,11:00,Southampton,FC Burnley,4-4-2 duplo 6,Ralph Hasenhüttl,29145,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592049
+10,sáb 30/10/2021,11:00,Watford,Southampton,4-4-2 duplo 6,Ralph Hasenhüttl,20869,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591979
+11,sex 05/11/2021,17:00,Southampton,Aston Villa,4-4-2 duplo 6,Ralph Hasenhüttl,30178,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591959
+12,sáb 20/11/2021,12:00,Norwich,Southampton,4-4-2,Ralph Hasenhüttl,26885,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592037
+13,sáb 27/11/2021,12:00,Liverpool,Southampton,5-4-1 plano,Ralph Hasenhüttl,53040,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592098
+14,qua 01/12/2021,16:30,Southampton,Leicester,4-4-2 duplo 6,Ralph Hasenhüttl,26951,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592139
+15,sáb 04/12/2021,12:00,Southampton,Brighton,4-4-2 duplo 6,Ralph Hasenhüttl,28706,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592066
+16,sáb 11/12/2021,12:00,Arsenal,Southampton,4-4-2 duplo 6,Ralph Hasenhüttl,59653,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592071
+17,qua 15/12/2021,16:30,Crystal Palace,Southampton,4-4-2,Ralph Hasenhüttl,22861,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592055
+18,ter 11/01/2022,16:45,Southampton,Brentford,3-5-2 plano,Ralph Hasenhüttl,27383,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592086
+19,dom 26/12/2021,12:00,West Ham,Southampton,4-1-4-1,Ralph Hasenhüttl,45000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592263
+20,ter 28/12/2021,12:00,Southampton,Tottenham,3-5-2 plano,Ralph Hasenhüttl,31304,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592299
+21,qui 10/03/2022,16:30,Southampton,Newcastle,4-4-2,Ralph Hasenhüttl,31016,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592309
+22,sáb 15/01/2022,12:00,Wolves,Southampton,3-5-2 plano,Ralph Hasenhüttl,30057,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592120
+23,sáb 22/01/2022,14:30,Southampton,Man City,4-4-2 duplo 6,Ralph Hasenhüttl,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592129
+24,qua 09/02/2022,16:45,Tottenham,Southampton,4-4-2,Ralph Hasenhüttl,54012,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592280
+25,sáb 12/02/2022,09:30,Man Utd,Southampton,4-4-2,Ralph Hasenhüttl,73084,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592210
+26,sáb 19/02/2022,12:00,Southampton,Everton,4-4-2 duplo 6,Ralph Hasenhüttl,31312,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592108
+27,sex 25/02/2022,17:00,Southampton,Norwich,4-4-2 duplo 6,Ralph Hasenhüttl,31182,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592292
+28,sáb 05/03/2022,12:00,Aston Villa,Southampton,4-4-2,Ralph Hasenhüttl,41855,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592141
+29,dom 13/03/2022,11:00,Southampton,Watford,4-4-2,Ralph Hasenhüttl,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592248
+30,qui 21/04/2022,15:45,FC Burnley,Southampton,3-5-2 plano,Ralph Hasenhüttl,17384,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592168
+31,sáb 02/04/2022,11:00,Leeds,Southampton,4-3-1-2,Ralph Hasenhüttl,36580,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592207
+32,sáb 09/04/2022,11:00,Southampton,Chelsea,4-4-2,Ralph Hasenhüttl,31359,0:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592252
+33,sáb 16/04/2022,11:00,Southampton,Arsenal,3-4-2-1,Ralph Hasenhüttl,31465,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592242
+34,dom 24/04/2022,10:00,Brighton,Southampton,4-4-2 duplo 6,Ralph Hasenhüttl,31335,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592192
+35,sáb 30/04/2022,11:00,Southampton,Crystal Palace,4-4-2 duplo 6,Ralph Hasenhüttl,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592245
+36,sáb 07/05/2022,11:00,Brentford,Southampton,4-4-2 duplo 6,Ralph Hasenhüttl,17051,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592173
+37,ter 17/05/2022,15:45,Southampton,Liverpool,3-4-3 plano,Ralph Hasenhüttl,31588,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592229
+38,dom 22/05/2022,12:00,Leicester,Southampton,4-4-2 duplo 6,Ralph Hasenhüttl,32003,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592224

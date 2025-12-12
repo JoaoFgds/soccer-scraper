@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 24/07/2021,14:00,Pau FC,AS Nancy,4-3-3 ofensivo,Daniel Stendel,1803,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589629
+2,sáb 31/07/2021,14:00,AS Nancy,Toulouse,4-3-3 ofensivo,Daniel Stendel,5678,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589635
+3,qua 11/08/2021,14:00,SC Bastia,AS Nancy,3-4-3 plano,Daniel Stendel,10025,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589705
+4,sáb 14/08/2021,14:00,AS Nancy,Valenciennes,4-4-2,Daniel Stendel,5725,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589715
+5,sáb 21/08/2021,14:00,SM Caen,AS Nancy,4-2-3-1,Daniel Stendel,8854,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589726
+6,sáb 28/08/2021,14:00,AS Nancy,Auxerre,4-2-3-1,Daniel Stendel,5977,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589903
+7,sáb 11/09/2021,14:00,USL Dunkerque,AS Nancy,4-2-3-1,Daniel Stendel,1950,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589916
+8,sáb 18/09/2021,14:00,AS Nancy,Le Havre,4-2-3-1,Daniel Stendel,6649,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589923
+9,ter 21/09/2021,15:00,Grenoble,AS Nancy,4-2-3-1,Daniel Stendel,3845,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589937
+10,sex 24/09/2021,16:00,AS Nancy,Amiens SC,4-2-3-1,Daniel Stendel,6010,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589945
+11,sáb 02/10/2021,14:00,Paris FC,AS Nancy,3-4-2-1,Benoît Pedretti,2710,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589967
+12,sáb 16/10/2021,14:00,AS Nancy,Guingamp,3-4-1-2,Benoît Pedretti,5000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589972
+13,sáb 23/10/2021,14:00,AC Ajaccio,AS Nancy,4-1-4-1,Benoît Pedretti,2713,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589981
+14,sáb 30/10/2021,14:00,AS Nancy,FC Sochaux,3-4-1-2,Benoît Pedretti,8114,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589995
+15,sáb 06/11/2021,15:00,Chamois Niort,AS Nancy,3-4-1-2,Benoît Pedretti,2050,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590007
+16,sáb 20/11/2021,15:00,AS Nancy,Rodez AF,3-4-1-2,Benoît Pedretti,8680,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590016
+17,sex 03/12/2021,17:00,Quevilly Rouen,AS Nancy,3-5-2 plano,Benoît Pedretti,2912,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590028
+18,sáb 11/12/2021,15:00,Nîmes Olympique,AS Nancy,4-1-4-1,Benoît Pedretti,1210,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590037
+19,ter 21/12/2021,16:45,AS Nancy,Dijon,3-5-2,Benoît Pedretti,5000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590044
+20,qua 19/01/2022,15:00,Toulouse,AS Nancy,4-2-3-1,Albert Cartier,5482,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590059
+21,sáb 15/01/2022,15:00,AS Nancy,SC Bastia,4-2-3-1,Albert Cartier,4983,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590119
+22,ter 01/02/2022,15:00,Valenciennes,AS Nancy,4-2-3-1,Albert Cartier,3830,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590143
+23,sáb 05/02/2022,15:00,AS Nancy,SM Caen,5-3-2,Albert Cartier,4000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590157
+24,sáb 12/02/2022,15:00,Auxerre,AS Nancy,5-3-2,Albert Cartier,5003,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590167
+25,sáb 19/02/2022,15:00,AS Nancy,USL Dunkerque,5-3-2,Albert Cartier,3412,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590177
+26,sáb 26/02/2022,15:00,Le Havre,AS Nancy,5-3-2,Albert Cartier,4383,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590192
+27,sáb 05/03/2022,15:00,AS Nancy,Grenoble,5-3-2,Albert Cartier,7000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590197
+28,sáb 12/03/2022,15:00,Amiens SC,AS Nancy,5-3-2,Albert Cartier,7500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590206
+29,ter 15/03/2022,15:00,AS Nancy,Paris FC,3-4-1-2,Albert Cartier,4000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590217
+30,sáb 19/03/2022,15:00,Guingamp,AS Nancy,3-4-1-2,Albert Cartier,8666,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590230
+31,seg 04/04/2022,15:45,AS Nancy,AC Ajaccio,5-4-1 plano,Albert Cartier,3000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590238
+32,sáb 09/04/2022,14:00,FC Sochaux,AS Nancy,3-4-1-2,Albert Cartier,9102,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590254
+33,sáb 16/04/2022,14:00,AS Nancy,Chamois Niort,3-4-1-2,Albert Cartier,3000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590259
+34,ter 19/04/2022,15:00,Rodez AF,AS Nancy,4-2-3-1,Albert Cartier,1607,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590273
+35,sex 22/04/2022,16:00,AS Nancy,Quevilly Rouen,4-2-3-1,Albert Cartier,,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590280
+36,sáb 30/04/2022,14:00,AS Nancy,Nîmes Olympique,4-5-1 plano,Albert Cartier,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590289
+37,sáb 07/05/2022,14:00,Dijon,AS Nancy,4-2-3-1,Albert Cartier,7500,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590298
+38,sáb 14/05/2022,14:00,AS Nancy,Pau FC,4-2-3-1,Albert Cartier,1500,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590308

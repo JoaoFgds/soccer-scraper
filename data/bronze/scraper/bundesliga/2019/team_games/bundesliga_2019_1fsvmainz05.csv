@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 17/08/2019,10:30,Freiburg,Mainz,4-3-1-2,Sandro Schwarz,24000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203431
+2,sáb 24/08/2019,10:30,Mainz,M'gladbach,4-3-1-2,Sandro Schwarz,28005,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203446
+3,sáb 31/08/2019,10:30,Bayern,Mainz,4-3-1-2,Sandro Schwarz,75000,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203451
+4,sáb 14/09/2019,10:30,Mainz,Hertha Berlim,4-3-1-2,Sandro Schwarz,22798,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203464
+5,sex 20/09/2019,15:30,Schalke,Mainz,4-3-1-2,Sandro Schwarz,58687,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203477
+6,sáb 28/09/2019,10:30,Mainz,Wolfsburg,4-3-1-2,Sandro Schwarz,24303,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203482
+7,sáb 05/10/2019,10:30,Paderborn,Mainz,4-3-1-2,Jan-Moritz Lichte,14217,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203495
+8,sáb 19/10/2019,10:30,Düsseldorf,Mainz,4-4-2,Sandro Schwarz,40660,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203501
+9,sex 25/10/2019,15:30,Mainz,Colônia,4-3-1-2,Sandro Schwarz,32000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203510
+10,sáb 02/11/2019,11:30,Leipzig,Mainz,4-4-2 duplo 6,Sandro Schwarz,38517,8:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203515
+11,sáb 09/11/2019,11:30,Mainz,Union Berlim,4-3-1-2,Sandro Schwarz,24549,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203527
+12,dom 24/11/2019,14:00,Hoffenheim,Mainz,3-4-1-2,Achim Beierlorzer,23129,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203537
+13,seg 02/12/2019,16:30,Mainz,Frankfurt,3-5-2,Achim Beierlorzer,33184,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203546
+14,sáb 07/12/2019,11:30,Augsburg,Mainz,3-4-1-2,Achim Beierlorzer,26950,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203557
+15,sáb 14/12/2019,11:30,Mainz,Dortmund,3-4-1-2,Achim Beierlorzer,33305,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203564
+16,ter 17/12/2019,14:30,Werder Bremen,Mainz,4-2-3-1,Achim Beierlorzer,37720,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203573
+17,sáb 21/12/2019,11:30,Mainz,Leverkusen,4-2-3-1,Achim Beierlorzer,24345,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203582
+18,sáb 18/01/2020,11:30,Mainz,Freiburg,4-2-3-1,Achim Beierlorzer,23138,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203590
+19,sáb 25/01/2020,11:30,M'gladbach,Mainz,4-2-3-1,Achim Beierlorzer,49175,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203598
+20,sáb 01/02/2020,11:30,Mainz,Bayern,4-2-3-1,Achim Beierlorzer,33305,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203609
+21,sáb 08/02/2020,11:30,Hertha Berlim,Mainz,3-4-2-1,Achim Beierlorzer,35049,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203619
+22,dom 16/02/2020,14:00,Mainz,Schalke,3-4-2-1,Achim Beierlorzer,27482,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203626
+23,dom 23/02/2020,14:00,Wolfsburg,Mainz,3-4-2-1,Achim Beierlorzer,21058,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203634
+24,sáb 29/02/2020,11:30,Mainz,Paderborn,4-4-2,Achim Beierlorzer,24231,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203645
+25,dom 08/03/2020,14:00,Mainz,Düsseldorf,5-4-1 plano,Achim Beierlorzer,21409,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203654
+26,dom 17/05/2020,10:30,Colônia,Mainz,4-2-3-1,Achim Beierlorzer,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203665
+27,dom 24/05/2020,10:30,Mainz,Leipzig,5-4-1 plano,Achim Beierlorzer,x,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203671
+28,qua 27/05/2020,15:30,Union Berlim,Mainz,4-2-3-1,Achim Beierlorzer,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203684
+29,sáb 30/05/2020,10:30,Mainz,Hoffenheim,4-2-3-1,Achim Beierlorzer,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203689
+30,sáb 06/06/2020,10:30,Frankfurt,Mainz,4-2-3-1,Achim Beierlorzer,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203697
+31,dom 14/06/2020,10:30,Mainz,Augsburg,4-2-3-1,Achim Beierlorzer,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203708
+32,qua 17/06/2020,15:30,Dortmund,Mainz,4-2-3-1,Achim Beierlorzer,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203712
+33,sáb 20/06/2020,10:30,Mainz,Werder Bremen,4-2-3-1,Achim Beierlorzer,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203726
+34,sáb 27/06/2020,10:30,Leverkusen,Mainz,4-2-3-1,Achim Beierlorzer,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203731

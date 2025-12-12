@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 05/08/2023,14:00,Stade Lavallois,Angers,3-5-2,Alexandre Dujeux,8912,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095505
+2,sáb 12/08/2023,14:00,Angers,FC Annecy,4-3-3 ofensivo,Alexandre Dujeux,5836,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4148511
+3,sáb 19/08/2023,10:00,Angers,Auxerre,4-2-3-1,Alexandre Dujeux,6406,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095523
+4,sáb 26/08/2023,14:00,USL Dunkerque,Angers,4-2-3-1,Alexandre Dujeux,4200,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095536
+5,sáb 02/09/2023,14:00,Angers,Paris FC,4-4-2,Alexandre Dujeux,5276,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095542
+6,sáb 16/09/2023,14:00,Rodez AF,Angers,4-4-2,Alexandre Dujeux,2722,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095558
+7,sáb 23/09/2023,14:00,Angers,SC Bastia,4-4-2,Alexandre Dujeux,4972,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095562
+8,ter 26/09/2023,15:45,QRM,Angers,4-4-2,Alexandre Dujeux,5194,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095577
+9,sáb 30/09/2023,14:00,Angers,Concarneau,4-4-2,Alexandre Dujeux,5487,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095582
+10,sáb 07/10/2023,14:00,Amiens SC,Angers,4-4-2,Alexandre Dujeux,6799,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095589
+11,sáb 21/10/2023,14:00,Angers,Bordeaux,4-4-2,Alexandre Dujeux,10416,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095601
+12,seg 30/10/2023,16:45,Saint-Étienne,Angers,4-4-2,Alexandre Dujeux,27153,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095613
+13,sáb 04/11/2023,15:00,Angers,Valenciennes,4-3-3 ofensivo,Alexandre Dujeux,8094,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095620
+14,sáb 11/11/2023,15:00,Pau FC,Angers,4-1-4-1,Alexandre Dujeux,3162,4:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095631
+15,seg 27/11/2023,16:45,Angers,SM Caen,4-2-3-1,Alexandre Dujeux,9202,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095640
+16,sáb 02/12/2023,15:00,AC Ajaccio,Angers,4-2-3-1,Alexandre Dujeux,3956,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095650
+17,ter 05/12/2023,16:45,Angers,Grenoble,4-4-1-1,Alexandre Dujeux,9600,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095662
+18,sáb 16/12/2023,15:00,Troyes,Angers,4-4-1-1,Alexandre Dujeux,5039,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095676
+19,ter 19/12/2023,16:45,Angers,Guingamp,4-4-1-1,Alexandre Dujeux,10205,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095683
+20,sáb 13/01/2024,15:00,SC Bastia,Angers,4-2-3-1,Alexandre Dujeux,10328,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095689
+21,ter 23/01/2024,16:45,Angers,QRM,4-2-3-1,Alexandre Dujeux,7803,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095701
+22,seg 29/01/2024,16:45,Bordeaux,Angers,4-2-3-1,Alexandre Dujeux,17148,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095711
+23,sáb 03/02/2024,15:00,Angers,Rodez AF,4-2-3-1,Alexandre Dujeux,8473,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095721
+24,sáb 10/02/2024,11:00,Auxerre,Angers,4-2-3-1,Alexandre Dujeux,16732,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095733
+25,sáb 17/02/2024,11:00,Angers,Saint-Étienne,4-2-3-1,Alexandre Dujeux,15662,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095742
+26,seg 26/02/2024,16:45,SM Caen,Angers,4-2-3-1,Alexandre Dujeux,16965,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095753
+27,seg 04/03/2024,16:45,Angers,AC Ajaccio,4-2-3-1,Alexandre Dujeux,9636,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095761
+28,sáb 09/03/2024,15:00,Valenciennes,Angers,4-2-3-1,Alexandre Dujeux,5633,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095774
+29,sáb 16/03/2024,15:00,Angers,Amiens SC,4-2-3-1,Alexandre Dujeux,9685,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095781
+30,sáb 30/03/2024,15:00,Concarneau,Angers,4-2-3-1,Alexandre Dujeux,1442,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095796
+31,sáb 06/04/2024,14:00,Angers,Stade Lavallois,4-2-3-1,Alexandre Dujeux,16785,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095801
+32,seg 15/04/2024,15:45,Grenoble,Angers,4-2-3-1,Alexandre Dujeux,5132,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095817
+33,sáb 20/04/2024,14:00,Angers,Troyes,4-2-3-1,Alexandre Dujeux,9468,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095823
+34,ter 23/04/2024,15:45,Guingamp,Angers,4-2-3-1,Alexandre Dujeux,9259,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095834
+35,sáb 27/04/2024,14:00,Paris FC,Angers,4-2-3-1,Alexandre Dujeux,10252,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095846
+36,sex 03/05/2024,15:00,Angers,Pau FC,4-2-3-1,Alexandre Dujeux,10728,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095849
+37,sex 10/05/2024,15:45,FC Annecy,Angers,4-2-3-1,Alexandre Dujeux,13063,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4148546
+38,sex 17/05/2024,15:45,Angers,USL Dunkerque,4-2-3-1,Alexandre Dujeux,16594,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095869

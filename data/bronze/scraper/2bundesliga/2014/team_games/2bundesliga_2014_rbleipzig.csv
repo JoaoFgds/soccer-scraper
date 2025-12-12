@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 02/08/2014,08:00,Leipzig,VfR Aalen,4-3-1-2,Alexander Zorniger,21354,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2460939
+2,dom 10/08/2014,10:30,1860 Munique,Leipzig,4-3-1-2,Alexander Zorniger,32000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2460943
+3,sex 22/08/2014,13:30,Leipzig,Erzgebirge Aue,4-3-1-2,Alexander Zorniger,34273,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2460959
+4,sex 29/08/2014,13:30,FSV Frankfurt,Leipzig,4-3-1-2,Alexander Zorniger,6041,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2460968
+5,sáb 13/09/2014,08:00,Leipzig,E. Braunschweig,4-3-3 ofensivo,Alexander Zorniger,24969,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2460977
+6,dom 21/09/2014,08:30,Union Berlim,Leipzig,4-3-3 ofensivo,Alexander Zorniger,21366,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2460984
+7,qua 24/09/2014,12:30,Leipzig,Karlsruher,4-3-1-2,Alexander Zorniger,18235,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2460995
+8,dom 28/09/2014,08:30,Düsseldorf,Leipzig,4-3-1-2,Alexander Zorniger,30477,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461000
+9,seg 06/10/2014,15:15,Leipzig,Heidenheim,4-3-1-2,Alexander Zorniger,18820,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461013
+10,sex 17/10/2014,15:30,Nuremberg,Leipzig,4-3-1-2,Alexander Zorniger,28571,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461015
+11,sex 24/10/2014,14:30,Leipzig,Bochum,4-3-1-2,Alexander Zorniger,30194,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461031
+12,seg 03/11/2014,17:15,Leipzig,K'lautern,4-3-1-2,Alexander Zorniger,25637,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461041
+13,sáb 08/11/2014,10:00,Darmstadt 98,Leipzig,4-3-1-2,Alexander Zorniger,14400,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461050
+14,dom 23/11/2014,10:30,Leipzig,St. Pauli,4-3-1-2,Alexander Zorniger,38660,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461059
+15,dom 30/11/2014,10:30,Sandhausen,Leipzig,4-4-2 losango,Alexander Zorniger,4518,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461065
+16,dom 07/12/2014,10:30,Leipzig,Ingolstadt,4-3-1-2,Alexander Zorniger,23985,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461076
+17,sex 12/12/2014,15:30,Greuther Fürth,Leipzig,4-3-1-2,Alexander Zorniger,10225,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461079
+18,qua 17/12/2014,14:30,VfR Aalen,Leipzig,4-4-2 losango,Alexander Zorniger,5015,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461092
+19,seg 22/12/2014,17:15,Leipzig,1860 Munique,4-3-1-2,Alexander Zorniger,27370,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461103
+20,sex 06/02/2015,15:30,Erzgebirge Aue,Leipzig,4-3-3 ofensivo,Alexander Zorniger,13600,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461112
+21,dom 15/02/2015,10:30,Leipzig,FSV Frankfurt,4-3-3 ofensivo,Achim Beierlorzer,18237,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461120
+22,seg 23/02/2015,16:15,E. Braunschweig,Leipzig,4-3-3 ofensivo,Achim Beierlorzer,20650,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461122
+23,dom 01/03/2015,09:30,Leipzig,Union Berlim,4-4-2 losango,Achim Beierlorzer,24780,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461138
+24,seg 09/03/2015,16:15,Karlsruher,Leipzig,4-4-2 losango,Achim Beierlorzer,17829,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461142
+25,seg 16/03/2015,16:15,Leipzig,Düsseldorf,4-4-2 duplo 6,Achim Beierlorzer,17087,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461156
+26,dom 22/03/2015,09:30,Heidenheim,Leipzig,4-4-2,Achim Beierlorzer,12000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461166
+27,dom 05/04/2015,08:30,Leipzig,Nuremberg,4-3-3 ofensivo,Achim Beierlorzer,30479,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461174
+28,dom 12/04/2015,08:30,Bochum,Leipzig,4-4-2 duplo 6,Achim Beierlorzer,18529,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461183
+29,seg 20/04/2015,15:15,K'lautern,Leipzig,4-2-3-1,Achim Beierlorzer,31141,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461186
+30,sex 24/04/2015,13:30,Leipzig,Darmstadt 98,4-3-3 ofensivo,Achim Beierlorzer,25336,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461202
+31,dom 03/05/2015,08:30,St. Pauli,Leipzig,4-2-3-1,Achim Beierlorzer,23584,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461206
+32,sex 08/05/2015,13:30,Leipzig,Sandhausen,4-4-2 duplo 6,Achim Beierlorzer,18904,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461220
+33,dom 17/05/2015,10:30,Ingolstadt,Leipzig,4-3-3 defensivo,Achim Beierlorzer,15000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461225
+34,dom 24/05/2015,10:30,Leipzig,Greuther Fürth,4-3-1-2,Achim Beierlorzer,27117,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461237

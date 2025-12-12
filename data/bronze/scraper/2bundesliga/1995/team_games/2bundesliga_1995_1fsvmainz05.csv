@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 05/08/1995,10:30,Mainz,Hannover,3-5-2,Horst Franz,4076,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976606
+2,ter 08/08/1995,13:30,VfB Lübeck,Mainz,?,Horst Franz,11000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976611
+3,dom 13/08/1995,10:00,Mainz,VfB Leipzig,?,Horst Franz,3225,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976635
+4,sáb 19/08/1995,10:30,FSV Zwickau,Mainz,?,Horst Franz,4767,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976642
+5,qua 30/08/1995,15:00,Mainz,SV Meppen,?,Horst Franz,3500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976655
+6,sáb 02/09/1995,15:00,Hertha Berlim,Mainz,3-5-2,Horst Franz,9866,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976701
+7,sáb 09/09/1995,10:30,Mainz,Nuremberg,3-5-2,Horst Franz,4150,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976708
+8,dom 17/09/1995,10:00,Fortuna Köln,Mainz,?,Manfred Lorenz,1500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976722
+9,sáb 23/09/1995,10:30,Mainz,Wattenscheid 09,?,Manfred Lorenz,2500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976725
+10,sáb 30/09/1995,11:30,Wolfsburg,Mainz,?,Wolfgang Frank,2000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976736
+11,sex 13/10/1995,16:00,Mainz,Unterhaching,?,Wolfgang Frank,3624,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976744
+12,sex 20/10/1995,16:30,Carl Zeiss Jena,Mainz,?,Wolfgang Frank,4948,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976753
+13,dom 29/10/1995,12:00,Mainz,Chemnitzer FC,?,Wolfgang Frank,3106,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976795
+14,sex 03/11/1995,16:30,Arm. Bielefeld,Mainz,3-4-2-1,Wolfgang Frank,10000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976797
+15,sex 10/11/1995,17:00,Mainz,W. Mannheim,?,Wolfgang Frank,4285,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976806
+16,dom 19/11/1995,12:00,Mainz,MSV Duisburg,?,Wolfgang Frank,4200,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976822
+17,sex 24/11/1995,17:00,Bochum,Mainz,3-5-2 plano,Wolfgang Frank,14342,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976825
+18,sex 01/12/1995,17:00,Hannover,Mainz,?,Wolfgang Frank,5540,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976846
+19,sex 08/12/1995,16:00,Mainz,VfB Lübeck,?,Wolfgang Frank,2783,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976855
+20,sáb 09/03/1996,11:30,VfB Leipzig,Mainz,?,Wolfgang Frank,6100,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976866
+21,sex 15/03/1996,15:30,Mainz,FSV Zwickau,?,Wolfgang Frank,3718,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976873
+22,dom 24/03/1996,11:00,SV Meppen,Mainz,?,Wolfgang Frank,8000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976886
+23,dom 31/03/1996,10:00,Mainz,Hertha Berlim,?,Wolfgang Frank,3903,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976897
+24,sáb 06/04/1996,10:30,Nuremberg,Mainz,?,Wolfgang Frank,17900,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976905
+25,sex 12/04/1996,15:00,Mainz,Fortuna Köln,?,Wolfgang Frank,4110,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976911
+26,sáb 20/04/1996,10:30,Wattenscheid 09,Mainz,?,Wolfgang Frank,1729,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976922
+27,sáb 27/04/1996,10:30,Mainz,Wolfsburg,?,Wolfgang Frank,3179,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976930
+28,dom 05/05/1996,10:00,Unterhaching,Mainz,?,Wolfgang Frank,2000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976943
+29,dom 12/05/1996,10:00,Mainz,Carl Zeiss Jena,?,Wolfgang Frank,3485,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976950
+30,qua 15/05/1996,13:00,Chemnitzer FC,Mainz,4-4-2 duplo 6,Wolfgang Frank,2600,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976957
+31,dom 19/05/1996,10:00,Mainz,Arm. Bielefeld,4-5-1,Wolfgang Frank,6800,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976964
+32,sex 24/05/1996,14:30,W. Mannheim,Mainz,?,Wolfgang Frank,9200,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976975
+33,dom 02/06/1996,10:00,MSV Duisburg,Mainz,4-4-2 duplo 6,Wolfgang Frank,22000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976989
+34,sáb 08/06/1996,10:30,Mainz,Bochum,4-4-2,Wolfgang Frank,12000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976992

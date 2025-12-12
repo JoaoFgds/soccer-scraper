@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 30/05/2021,16:00,Ceará,Grêmio,4-3-3 ofensivo,Evandro Fornari,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546471
+2,ter 23/11/2021,21:00,Grêmio,Flamengo,4-2-3-1,Vagner Mancini,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546482
+3,dom 13/06/2021,16:00,Grêmio,Athletico-PR,4-2-3-1,Tiago Nunes,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3571596
+4,qui 17/06/2021,19:00,Sport,Grêmio,4-2-3-1,Tiago Nunes,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3572014
+5,qua 18/08/2021,19:00,Cuiabá,Grêmio,4-2-3-1,Luiz Felipe Scolari,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3572026
+6,qui 24/06/2021,21:30,Grêmio,Santos,4-2-3-1,Tiago Nunes,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580697
+7,dom 27/06/2021,20:00,Grêmio,Fortaleza,4-3-3 ofensivo,Tiago Nunes,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580705
+8,qua 30/06/2021,21:30,Juventude,Grêmio,4-3-3 ofensivo,Tiago Nunes,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580720
+9,dom 04/07/2021,20:30,Grêmio,Atlético-GO,4-2-3-1,Tiago Nunes,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583803
+10,qua 07/07/2021,19:00,Palmeiras,Grêmio,4-2-3-1,Thiago Gomes,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583810
+11,sáb 10/07/2021,16:30,Grêmio,Internacional,4-2-3-1,Luiz Felipe Scolari,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583823
+12,sáb 17/07/2021,21:00,Fluminense,Grêmio,4-4-2,Luiz Felipe Scolari,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583829
+13,sáb 24/07/2021,17:00,Grêmio,América-MG,3-5-2,Luiz Felipe Scolari,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583843
+14,sáb 31/07/2021,21:00,Bragantino,Grêmio,4-2-3-1,Luiz Felipe Scolari,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583876
+15,seg 09/08/2021,20:00,Grêmio,Chapecoense,4-2-3-1,Luiz Felipe Scolari,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583863
+16,sáb 14/08/2021,21:00,São Paulo,Grêmio,4-2-3-1,Luiz Felipe Scolari,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583851
+17,sáb 21/08/2021,19:00,Grêmio,Bahia,4-2-3-1,Luiz Felipe Scolari,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583883
+18,sáb 28/08/2021,21:00,Grêmio,Corinthians,4-2-3-1,Luiz Felipe Scolari,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583893
+19,qua 03/11/2021,21:00,Atlético-MG,Grêmio,4-3-3 ofensivo,Vagner Mancini,56624,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583902
+20,dom 12/09/2021,11:00,Grêmio,Ceará,4-2-3-1,Luiz Felipe Scolari,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583933
+21,dom 19/09/2021,20:30,Flamengo,Grêmio,4-2-3-1,Luiz Felipe Scolari,6446,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583919
+22,dom 26/09/2021,18:15,Athletico-PR,Grêmio,4-2-3-1,Luiz Felipe Scolari,x,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583916
+23,dom 03/10/2021,20:30,Grêmio,Sport,4-2-3-1,Luiz Felipe Scolari,7147,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583943
+24,qua 06/10/2021,21:30,Grêmio,Cuiabá,4-2-3-1,Luiz Felipe Scolari,4931,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583953
+25,dom 10/10/2021,16:00,Santos,Grêmio,3-4-2-1,Luiz Felipe Scolari,4165,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583961
+26,qua 13/10/2021,20:30,Fortaleza,Grêmio,3-4-1-2,Thiago Gomes,3499,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583994
+27,dom 17/10/2021,18:15,Grêmio,Juventude,4-2-3-1,Vagner Mancini,15129,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583983
+28,seg 25/10/2021,20:00,Atlético-GO,Grêmio,4-2-3-1,Vagner Mancini,3852,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583978
+29,dom 31/10/2021,16:00,Grêmio,Palmeiras,4-2-3-1,Vagner Mancini,14207,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584003
+30,sáb 06/11/2021,19:00,Internacional,Grêmio,4-3-3 ofensivo,Vagner Mancini,25951,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584013
+31,ter 09/11/2021,21:30,Grêmio,Fluminense,4-2-3-1,Vagner Mancini,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584023
+32,sáb 13/11/2021,18:30,América-MG,Grêmio,4-2-3-1,Vagner Mancini,3157,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584052
+33,ter 16/11/2021,18:00,Grêmio,Bragantino,4-2-3-1,Vagner Mancini,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584043
+34,sáb 20/11/2021,19:00,Chapecoense,Grêmio,4-2-3-1,Vagner Mancini,2830,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584037
+35,qui 02/12/2021,20:00,Grêmio,São Paulo,4-2-3-1,Vagner Mancini,9312,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584063
+36,sex 26/11/2021,19:00,Bahia,Grêmio,4-2-3-1,Vagner Mancini,30671,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584075
+37,dom 05/12/2021,16:00,Corinthians,Grêmio,4-2-3-1,Vagner Mancini,44187,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584080
+38,qui 09/12/2021,21:30,Grêmio,Atlético-MG,4-3-3 defensivo,Vagner Mancini,33577,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584093

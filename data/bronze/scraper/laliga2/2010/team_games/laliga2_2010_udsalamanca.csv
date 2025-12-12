@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 29/08/2010,14:00,UD Salamanca,Córdoba,?,Óscar Cano,5602,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036064
+2,dom 05/09/2010,15:00,Tenerife,UD Salamanca,?,Óscar Cano,16442,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036484
+3,sex 10/09/2010,16:00,UD Salamanca,Gimnàstic,?,Óscar Cano,5640,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036492
+4,sáb 18/09/2010,13:00,SD Huesca,UD Salamanca,?,Óscar Cano,3100,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036591
+5,dom 26/09/2010,12:00,UD Salamanca,AD Alcorcón,?,Óscar Cano,7196,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036614
+6,sex 01/10/2010,16:00,Villarreal CF B,UD Salamanca,?,Óscar Cano,1500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036641
+7,dom 10/10/2010,12:00,UD Salamanca,Granada CF,?,Óscar Cano,7064,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036652
+8,sex 15/10/2010,16:00,Recr. Huelva,UD Salamanca,?,Óscar Cano,6386,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036664
+9,dom 24/10/2010,08:00,UD Salamanca,Betis,?,Óscar Cano,7667,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036675
+10,sáb 30/10/2010,12:00,Valladolid,UD Salamanca,?,Óscar Cano,9900,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036685
+11,sáb 06/11/2010,15:00,UD Salamanca,Albacete,?,Óscar Cano,6083,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036709
+12,dom 14/11/2010,14:00,Ponferradina,UD Salamanca,?,Óscar Cano,7000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036719
+13,sáb 20/11/2010,13:00,UD Salamanca,Las Palmas,?,Óscar Cano,5563,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036730
+14,sáb 27/11/2010,15:00,Girona,UD Salamanca,?,Óscar Cano,7100,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036742
+15,dom 05/12/2010,14:00,Elche,UD Salamanca,?,Óscar Cano,6202,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036753
+16,dom 12/12/2010,09:00,UD Salamanca,Rayo Vallecano,?,Óscar Cano,7012,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036759
+17,sáb 18/12/2010,15:00,Celta de Vigo,UD Salamanca,?,Óscar Cano,9488,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036774
+18,seg 03/01/2011,17:00,UD Salamanca,Xerez CD,?,Óscar Cano,6012,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1038082
+19,sáb 08/01/2011,15:00,FC Cartagena,UD Salamanca,?,Óscar Cano,6500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1038092
+20,sáb 15/01/2011,15:00,UD Salamanca,Barcelona B,?,Óscar Cano,7316,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1038103
+21,dom 23/01/2011,14:00,Numância,UD Salamanca,?,Óscar Cano,4000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1038112
+22,sáb 29/01/2011,15:00,Córdoba,UD Salamanca,?,Óscar Cano,7000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1038150
+23,sáb 05/02/2011,15:00,UD Salamanca,Tenerife,?,Óscar Cano,6098,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1038162
+24,dom 13/02/2011,14:00,Gimnàstic,UD Salamanca,?,Óscar Cano,5000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1038170
+25,sáb 19/02/2011,15:00,UD Salamanca,SD Huesca,?,Pepe Murcia,5612,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1038365
+26,sáb 26/02/2011,14:00,AD Alcorcón,UD Salamanca,?,Pepe Murcia,4100,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1038426
+27,ter 01/03/2011,16:00,UD Salamanca,Villarreal CF B,?,Pepe Murcia,4921,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1039301
+28,sáb 05/03/2011,14:00,Granada CF,UD Salamanca,?,Pepe Murcia,14500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1039312
+29,dom 13/03/2011,13:00,UD Salamanca,Recr. Huelva,?,Pepe Murcia,7604,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1039379
+30,sáb 19/03/2011,14:00,Betis,UD Salamanca,?,Pepe Murcia,25000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1039400
+31,dom 27/03/2011,07:00,UD Salamanca,Valladolid,?,Pepe Murcia,6487,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1039419
+32,sáb 02/04/2011,13:00,Albacete,UD Salamanca,?,Pepe Murcia,3723,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1039441
+33,dom 10/04/2011,12:00,UD Salamanca,Ponferradina,?,Pepe Murcia,7473,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1039462
+34,sáb 16/04/2011,13:00,Las Palmas,UD Salamanca,?,Balta Sánchez,13332,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1039482
+35,sex 22/04/2011,16:00,UD Salamanca,Girona,?,Balta Sánchez,4102,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1039495
+36,sáb 30/04/2011,11:00,UD Salamanca,Elche,?,Balta Sánchez,5016,5:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1039506
+37,sáb 07/05/2011,13:00,Rayo Vallecano,UD Salamanca,?,Balta Sánchez,14000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1039512
+38,qui 12/05/2011,17:00,UD Salamanca,Celta de Vigo,?,Balta Sánchez,7882,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1039527
+39,dom 15/05/2011,12:00,Xerez CD,UD Salamanca,?,Balta Sánchez,7770,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1039538
+40,sáb 21/05/2011,13:00,UD Salamanca,FC Cartagena,?,Balta Sánchez,9100,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1039548
+41,dom 29/05/2011,14:00,Barcelona B,UD Salamanca,4-4-2 duplo 6,Balta Sánchez,1300,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1039559
+42,sáb 04/06/2011,13:00,UD Salamanca,Numância,?,Balta Sánchez,2641,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1039568

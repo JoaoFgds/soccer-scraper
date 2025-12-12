@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 12/08/2024,16:15,Arouca,Vit. Guimarães,3-4-3 plano,Gonzalo García,3394,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396647
+2,dom 18/08/2024,11:30,Moreirense,Arouca,4-2-3-1,Gonzalo García,1527,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396780
+3,dom 25/08/2024,11:30,Arouca,Nacional,4-4-2 duplo 6,Gonzalo García,2081,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396767
+4,dom 01/09/2024,14:00,Rio Ave,Arouca,4-4-2 duplo 6,Gonzalo García,2558,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396709
+5,sex 13/09/2024,16:15,Arouca,Sporting,3-4-3 plano,Gonzalo García,4644,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396657
+6,dom 22/09/2024,14:00,Farense,Arouca,4-2-3-1,Gonzalo García,5057,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396772
+7,dom 29/09/2024,14:00,FC Porto,Arouca,4-2-3-1,Gonzalo García,44209,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396752
+8,sáb 05/10/2024,14:00,Arouca,AVS,4-4-2 duplo 6,Gonzalo García,1113,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396676
+9,sáb 26/10/2024,11:30,Estoril,Arouca,4-2-3-1,Gonzalo García,1686,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396662
+10,dom 03/11/2024,15:00,Arouca,Braga,4-2-3-1,Vasco Seabra,1631,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396740
+11,sáb 09/11/2024,15:00,Famalicão,Arouca,4-2-3-1,Vasco Seabra,3551,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396688
+12,dom 01/12/2024,15:00,Arouca,Benfica,3-5-2,Cláudio Botelho,4644,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396685
+13,seg 09/12/2024,17:15,Estrela Amadora,Arouca,4-3-3 ofensivo,Vasco Seabra,2083,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396725
+14,dom 15/12/2024,12:30,Arouca,Santa Clara,4-2-3-1,Vasco Seabra,1307,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396819
+15,sex 20/12/2024,17:15,Casa Pia,Arouca,4-2-3-1,Vasco Seabra,912,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396833
+16,sex 27/12/2024,17:15,Arouca,Gil Vicente,4-2-3-1,Vasco Seabra,1743,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396810
+17,sáb 04/01/2025,17:30,Boavista,Arouca,4-2-3-1,Vasco Seabra,3559,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396887
+18,sáb 18/01/2025,17:30,Vit. Guimarães,Arouca,4-2-3-1,Vasco Seabra,13916,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396829
+19,sex 24/01/2025,17:15,Arouca,Moreirense,4-2-3-1,Vasco Seabra,756,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396789
+20,sáb 01/02/2025,12:30,Nacional,Arouca,4-2-3-1,Vasco Seabra,1989,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396704
+21,seg 10/02/2025,17:15,Arouca,Rio Ave,4-2-3-1,Vasco Seabra,1245,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396861
+22,sáb 15/02/2025,17:30,Sporting,Arouca,4-2-3-1,Vasco Seabra,39258,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396720
+23,dom 23/02/2025,12:30,Arouca,Farense,4-2-3-1,Vasco Seabra,1705,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396906
+24,sáb 01/03/2025,15:00,Arouca,FC Porto,4-2-3-1,Vasco Seabra,3114,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396896
+25,sáb 08/03/2025,12:30,AVS,Arouca,4-2-3-1,Vasco Seabra,759,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396748
+26,dom 16/03/2025,12:30,Arouca,Estoril,4-2-3-1,Vasco Seabra,1643,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396843
+27,sáb 29/03/2025,17:30,Braga,Arouca,4-4-2,Vasco Seabra,12122,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396800
+28,sáb 05/04/2025,14:00,Arouca,Famalicão,4-4-2 duplo 6,Vasco Seabra,1669,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396849
+29,dom 13/04/2025,14:00,Benfica,Arouca,4-4-2 duplo 6,Vasco Seabra,61581,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396926
+30,sáb 19/04/2025,14:00,Arouca,Estrela Amadora,4-4-2,Vasco Seabra,1227,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396913
+31,sáb 26/04/2025,11:30,Santa Clara,Arouca,4-4-2 duplo 6,Vasco Seabra,1534,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396883
+32,dom 04/05/2025,14:00,Arouca,Casa Pia,4-4-2 duplo 6,Vasco Seabra,1032,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396868
+33,sáb 10/05/2025,16:30,Gil Vicente,Arouca,4-2-3-1,Vasco Seabra,6819,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396945
+34,sáb 17/05/2025,14:00,Arouca,Boavista,4-2-3-1,Vasco Seabra,2911,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396931

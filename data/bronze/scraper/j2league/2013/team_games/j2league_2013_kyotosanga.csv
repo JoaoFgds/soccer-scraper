@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 03/03/2013,04:00,Gamba Osaka,Kyoto Sanga,4-4-2 duplo 6,Takeshi Oki,18041,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2287797
+2,dom 10/03/2013,07:00,Kyoto Sanga,Tokyo Verdy,4-2-3-1,Takeshi Oki,7293,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2287807
+3,dom 17/03/2013,01:00,Avispa Fukuoka,Kyoto Sanga,4-4-2 duplo 6,Takeshi Oki,4614,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2295957
+4,qua 20/03/2013,01:00,Kyoto Sanga,Vissel Kobe,4-4-2 duplo 6,Takeshi Oki,9485,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2295950
+5,dom 24/03/2013,01:00,Kataller Toyama,Kyoto Sanga,4-4-2 duplo 6,Takeshi Oki,4353,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2295932
+6,dom 31/03/2013,04:00,Kyoto Sanga,Tokushima Vort.,4-4-2 duplo 6,Takeshi Oki,6128,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296027
+7,dom 07/04/2013,01:00,FC Gifu,Kyoto Sanga,4-4-2 duplo 6,Takeshi Oki,3264,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296036
+8,dom 14/04/2013,04:00,Kyoto Sanga,Yokohama FC,4-2-3-1,Takeshi Oki,7860,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296011
+9,qua 17/04/2013,07:00,Fagiano Okayama,Kyoto Sanga,4-2-3-1,Takeshi Oki,6234,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296003
+10,dom 21/04/2013,02:00,Kyoto Sanga,Gainare Tottori,4-2-3-1,Takeshi Oki,4692,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296006
+11,dom 28/04/2013,01:00,Kyoto Sanga,JEF Utd. Chiba,4-2-3-1,Takeshi Oki,8594,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2295989
+12,sex 03/05/2013,04:00,C'dole Sapporo,Kyoto Sanga,4-2-3-1,Takeshi Oki,11981,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296111
+13,seg 06/05/2013,06:00,Kyoto Sanga,Matsumoto Yama.,4-2-3-1,Takeshi Oki,6424,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296068
+14,dom 12/05/2013,04:00,Kyoto Sanga,Thespaku. Gunma,4-2-3-1,Takeshi Oki,7078,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296050
+15,dom 19/05/2013,01:00,V-V. Nagasaki,Kyoto Sanga,4-2-3-1,Takeshi Oki,3940,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2303036
+16,dom 26/05/2013,01:00,Monte. Yamagata,Kyoto Sanga,4-2-3-1,Takeshi Oki,6811,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296047
+17,seg 03/06/2013,07:00,Kyoto Sanga,Gir. Kitakyushu,4-2-3-1,Takeshi Oki,5297,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296154
+18,dom 09/06/2013,07:00,Roasso Kumamoto,Kyoto Sanga,4-2-3-1,Takeshi Oki,5460,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296121
+19,sáb 15/06/2013,07:00,Kyoto Sanga,Ehime FC,4-2-3-1,Takeshi Oki,10643,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296153
+20,sáb 22/06/2013,07:00,Kyoto Sanga,Mito HollyHock,4-2-3-1,Takeshi Oki,10120,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296112
+21,sáb 29/06/2013,06:00,Tochigi SC,Kyoto Sanga,4-2-3-1,Takeshi Oki,4784,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296146
+22,qua 03/07/2013,07:00,Tokyo Verdy,Kyoto Sanga,4-2-3-1,Takeshi Oki,2539,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296117
+23,dom 07/07/2013,07:00,Kyoto Sanga,FC Gifu,4-2-3-1,Takeshi Oki,7923,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2295976
+24,dom 14/07/2013,06:00,Matsumoto Yama.,Kyoto Sanga,4-2-3-1,Takeshi Oki,12151,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2295985
+25,sáb 20/07/2013,07:00,Gir. Kitakyushu,Kyoto Sanga,4-2-3-1,Takeshi Oki,2555,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2295973
+26,sáb 27/07/2013,07:00,Kyoto Sanga,Avispa Fukuoka,4-3-3 ofensivo,Takeshi Oki,7885,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2295952
+27,dom 04/08/2013,07:00,Kyoto Sanga,Monte. Yamagata,4-3-3 ofensivo,Takeshi Oki,6424,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296163
+28,dom 11/08/2013,07:00,Ehime FC,Kyoto Sanga,4-3-3 ofensivo,Takeshi Oki,4048,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296186
+29,dom 18/08/2013,06:00,Yokohama FC,Kyoto Sanga,4-3-3 ofensivo,Takeshi Oki,5309,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296203
+30,qua 21/08/2013,07:00,Kyoto Sanga,Fagiano Okayama,4-3-3 ofensivo,Takeshi Oki,6267,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296187
+31,dom 25/08/2013,06:30,Tokushima Vort.,Kyoto Sanga,4-3-3 ofensivo,Takeshi Oki,5129,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296227
+32,dom 01/09/2013,07:00,Kyoto Sanga,Roasso Kumamoto,4-3-3 ofensivo,Takeshi Oki,4314,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296214
+33,dom 15/09/2013,07:00,JEF Utd. Chiba,Kyoto Sanga,4-4-2 duplo 6,Takeshi Oki,10187,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296234
+34,dom 22/09/2013,03:00,Kyoto Sanga,Kataller Toyama,4-4-2 duplo 6,Takeshi Oki,5594,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296189
+35,dom 29/09/2013,03:00,Kyoto Sanga,V-V. Nagasaki,4-3-3 ofensivo,Takeshi Oki,9226,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2355778
+36,dom 06/10/2013,01:00,Gainare Tottori,Kyoto Sanga,4-3-3 ofensivo,Takeshi Oki,3907,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296262
+37,dom 20/10/2013,04:00,Thespaku. Gunma,Kyoto Sanga,4-4-2 duplo 6,Takeshi Oki,2781,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296285
+38,dom 27/10/2013,02:00,Kyoto Sanga,C'dole Sapporo,4-3-3 ofensivo,Takeshi Oki,8590,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296257
+39,dom 03/11/2013,08:00,Vissel Kobe,Kyoto Sanga,4-3-3 ofensivo,Takeshi Oki,22468,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296239
+40,dom 10/11/2013,02:00,Kyoto Sanga,Gamba Osaka,4-3-3 ofensivo,Takeshi Oki,15380,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296316
+41,dom 17/11/2013,03:00,Mito HollyHock,Kyoto Sanga,4-3-3 ofensivo,Takeshi Oki,8266,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296307
+42,dom 24/11/2013,01:30,Kyoto Sanga,Tochigi SC,4-4-2 duplo 6,Takeshi Oki,10500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296303

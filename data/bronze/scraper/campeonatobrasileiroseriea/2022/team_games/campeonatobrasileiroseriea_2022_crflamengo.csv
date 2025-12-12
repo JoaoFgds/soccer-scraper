@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 09/04/2022,19:00,Atlético-GO,Flamengo,3-4-2-1,Paulo Sousa,10496,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767779
+2,dom 17/04/2022,16:00,Flamengo,São Paulo,4-2-3-1,Paulo Sousa,54686,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767783
+3,sáb 23/04/2022,16:30,Athletico-PR,Flamengo,3-4-2-1,Paulo Sousa,22659,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767801
+4,qua 20/04/2022,19:30,Flamengo,Palmeiras,4-2-3-1,Paulo Sousa,69997,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767823
+5,dom 08/05/2022,11:00,Flamengo,Botafogo,4-2-3-1,Paulo Sousa,54981,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767813
+6,sáb 14/05/2022,16:30,Ceará,Flamengo,4-2-3-1,Paulo Sousa,52139,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767808
+7,sáb 21/05/2022,16:30,Flamengo,Goiás,4-4-2,Paulo Sousa,51962,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767833
+8,dom 29/05/2022,18:00,Fluminense,Flamengo,4-2-3-1,Paulo Sousa,57919,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767843
+9,dom 05/06/2022,16:00,Flamengo,Fortaleza,4-3-3 ofensivo,Paulo Sousa,63795,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767853
+10,qua 08/06/2022,20:30,Bragantino,Flamengo,4-4-2 duplo 6,Paulo Sousa,8627,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767884
+11,sáb 11/06/2022,21:00,Internacional,Flamengo,4-3-3 ofensivo,Dorival Júnior,22392,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767877
+12,qua 15/06/2022,20:30,Flamengo,Cuiabá,4-3-3 ofensivo,Dorival Júnior,43930,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767863
+13,dom 19/06/2022,16:00,Atlético-MG,Flamengo,4-2-3-1,Dorival Júnior,55373,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767892
+14,sáb 25/06/2022,19:00,Flamengo,América-MG,4-1-3-2,Dorival Júnior,42931,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767903
+15,sáb 02/07/2022,19:00,Santos,Flamengo,4-3-3 ofensivo,Dorival Júnior,12464,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767916
+16,dom 10/07/2022,16:00,Corinthians,Flamengo,4-3-2-1,Dorival Júnior,44055,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768145
+17,sáb 16/07/2022,19:00,Flamengo,Coritiba,4-1-4-1,Dorival Júnior,33778,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768133
+18,qua 20/07/2022,20:30,Flamengo,Juventude,4-2-3-1,Mário Jorge,65392,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768123
+19,dom 24/07/2022,11:00,Avaí,Flamengo,4-4-2 losango,Dorival Júnior,17557,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768120
+20,sáb 30/07/2022,20:30,Flamengo,Atlético-GO,4-4-2,Dorival Júnior,59999,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768103
+21,sáb 06/08/2022,20:30,São Paulo,Flamengo,4-3-3 ofensivo,Dorival Júnior,45217,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768094
+22,dom 14/08/2022,16:00,Flamengo,Athletico-PR,4-3-3 ofensivo,Dorival Júnior,64378,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768083
+23,dom 21/08/2022,16:00,Palmeiras,Flamengo,4-3-3 ofensivo,Dorival Júnior,40485,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768075
+24,dom 28/08/2022,18:00,Botafogo,Flamengo,4-3-3 ofensivo,Dorival Júnior,14442,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768066
+25,dom 04/09/2022,11:00,Flamengo,Ceará,4-3-3 ofensivo,Mário Jorge,64387,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768053
+26,sáb 10/09/2022,19:00,Goiás,Flamengo,4-1-4-1,Dorival Júnior,13798,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768049
+27,dom 18/09/2022,16:00,Flamengo,Fluminense,4-4-2 losango,Dorival Júnior,55170,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768033
+28,qua 28/09/2022,19:00,Fortaleza,Flamengo,4-3-3 ofensivo,Dorival Júnior,46299,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768008
+29,sáb 01/10/2022,19:00,Flamengo,Bragantino,4-4-2 losango,Mário Jorge,46698,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768013
+30,qua 05/10/2022,21:30,Flamengo,Internacional,4-3-2-1,Dorival Júnior,43710,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768023
+31,sáb 08/10/2022,19:00,Cuiabá,Flamengo,4-3-3 ofensivo,Mário Jorge,40059,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768000
+32,sáb 15/10/2022,20:30,Flamengo,Atlético-MG,4-3-3 ofensivo,Dorival Júnior,51179,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767983
+33,sáb 22/10/2022,19:00,América-MG,Flamengo,4-3-3 ofensivo,Dorival Júnior,9626,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767972
+34,ter 25/10/2022,21:45,Flamengo,Santos,4-3-3 ofensivo,Dorival Júnior,44679,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767943
+35,qua 02/11/2022,21:30,Flamengo,Corinthians,4-3-3 ofensivo,Dorival Júnior,60369,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767953
+36,dom 06/11/2022,16:00,Coritiba,Flamengo,4-3-3 ofensivo,Dorival Júnior,33304,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767971
+37,qua 09/11/2022,21:30,Juventude,Flamengo,4-3-3 ofensivo,Dorival Júnior,5231,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767937
+38,dom 13/11/2022,16:00,Flamengo,Avaí,4-3-3 ofensivo,Dorival Júnior,63077,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767923

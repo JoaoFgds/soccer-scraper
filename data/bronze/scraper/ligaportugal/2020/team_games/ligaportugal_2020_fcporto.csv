@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 19/09/2020,17:00,FC Porto,Braga,4-1-4-1,Sérgio Conceição,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431986
+2,sáb 26/09/2020,17:00,Boavista,FC Porto,4-1-4-1,Sérgio Conceição,x,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431983
+3,sáb 03/10/2020,14:30,FC Porto,Marítimo,4-1-4-1,Sérgio Conceição,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432159
+4,sáb 17/10/2020,16:30,Sporting,FC Porto,4-2-3-1,Sérgio Conceição,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432048
+5,sáb 24/10/2020,16:30,FC Porto,Gil Vicente,4-4-2 duplo 6,Sérgio Conceição,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432051
+6,sex 30/10/2020,17:30,Paços Ferreira,FC Porto,4-3-3 ofensivo,Sérgio Conceição,,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431974
+7,dom 08/11/2020,14:30,FC Porto,Portimonense,4-2-3-1,Vítor Bruno,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432027
+8,sáb 28/11/2020,16:00,Santa Clara,FC Porto,4-3-3 ofensivo,Sérgio Conceição,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432096
+9,sáb 05/12/2020,17:30,FC Porto,CD Tondela,4-4-2 duplo 6,Sérgio Conceição,,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432127
+10,dom 20/12/2020,17:00,FC Porto,Nacional,4-4-2 duplo 6,Sérgio Conceição,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432105
+11,ter 29/12/2020,18:00,Vit. Guimarães,FC Porto,4-4-2 duplo 6,Sérgio Conceição,,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432141
+12,dom 03/01/2021,18:00,FC Porto,Moreirense,4-4-2 duplo 6,Sérgio Conceição,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432160
+13,sex 08/01/2021,18:00,Famalicão,FC Porto,4-4-2 duplo 6,Sérgio Conceição,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432007
+14,sex 15/01/2021,18:00,FC Porto,Benfica,4-4-2 duplo 6,Sérgio Conceição,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432149
+15,seg 25/01/2021,17:15,Farense,FC Porto,4-4-2 duplo 6,Sérgio Conceição,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432236
+16,seg 01/02/2021,16:00,FC Porto,Rio Ave,4-4-2 duplo 6,Sérgio Conceição,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432201
+17,qui 04/02/2021,16:00,B SAD,FC Porto,4-3-3 ofensivo,Sérgio Conceição,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432032
+18,dom 07/02/2021,17:45,Braga,FC Porto,4-4-2 duplo 6,Sérgio Conceição,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432206
+19,sáb 13/02/2021,17:30,FC Porto,Boavista,4-4-2 duplo 6,Sérgio Conceição,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432067
+20,seg 22/02/2021,16:00,Marítimo,FC Porto,4-4-2 duplo 6,Sérgio Conceição,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432213
+21,sáb 27/02/2021,17:30,FC Porto,Sporting,4-4-2 duplo 6,Sérgio Conceição,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432163
+22,sáb 06/03/2021,15:00,Gil Vicente,FC Porto,4-4-2 duplo 6,Sérgio Conceição,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432238
+23,dom 14/03/2021,17:00,FC Porto,Paços Ferreira,4-4-2 duplo 6,Sérgio Conceição,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432030
+24,sáb 20/03/2021,15:00,Portimonense,FC Porto,4-4-2 duplo 6,Sérgio Conceição,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432218
+25,sáb 03/04/2021,16:30,FC Porto,Santa Clara,4-4-2 duplo 6,Vítor Bruno,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432174
+26,sáb 10/04/2021,14:00,CD Tondela,FC Porto,4-4-2 duplo 6,Sérgio Conceição,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432225
+27,dom 18/04/2021,13:30,Nacional,FC Porto,4-3-3 ofensivo,Sérgio Conceição,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432188
+28,qui 22/04/2021,17:00,FC Porto,Vit. Guimarães,4-4-2 duplo 6,Sérgio Conceição,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432189
+29,seg 26/04/2021,17:15,Moreirense,FC Porto,4-4-2 duplo 6,Sérgio Conceição,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432217
+30,sex 30/04/2021,17:15,FC Porto,Famalicão,4-4-2 duplo 6,Vítor Bruno,,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432074
+31,qui 06/05/2021,14:30,Benfica,FC Porto,4-4-2 duplo 6,Sérgio Conceição,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432209
+32,seg 10/05/2021,16:15,FC Porto,Farense,4-4-2 duplo 6,Sérgio Conceição,,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432249
+33,sáb 15/05/2021,16:30,Rio Ave,FC Porto,4-4-2 duplo 6,Sérgio Conceição,,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432128
+34,qua 19/05/2021,14:00,FC Porto,B SAD,4-4-2 duplo 6,Sérgio Conceição,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432139

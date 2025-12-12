@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 08/08/2020,16:00,Operário-PR,Figueirense,4-4-2,Marcio Coelho,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3392052
+2,ter 11/08/2020,21:30,Figueirense,Vitória,4-2-3-1,Marcio Coelho,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3414462
+3,dom 16/08/2020,16:00,Figueirense,Cruzeiro,4-2-3-1,Marcio Coelho,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416274
+4,qua 14/10/2020,16:00,Sampaio Corrêa,Figueirense,4-2-3-1,Elano,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416283
+5,sáb 22/08/2020,16:30,Botafogo-SP,Figueirense,4-2-3-1,Marcio Coelho,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416790
+6,sáb 29/08/2020,19:00,Figueirense,Confiança,4-2-3-1,Elano,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416804
+7,ter 01/09/2020,21:30,Náutico,Figueirense,4-2-3-1,Elano,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416814
+8,sex 04/09/2020,19:15,Figueirense,Paraná,4-2-3-1,Elano,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416818
+9,ter 08/09/2020,21:30,Cuiabá,Figueirense,4-2-3-1,Elano,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416829
+10,sáb 19/09/2020,16:30,América-MG,Figueirense,4-2-3-1,Elano,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418156
+11,sáb 26/09/2020,11:00,Figueirense,Guarani,4-2-3-1,Elano,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418167
+12,ter 29/09/2020,19:15,Avaí,Figueirense,4-1-4-1,Elano,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418177
+13,sex 02/10/2020,16:30,Figueirense,Oeste,4-2-3-1,Elano,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418187
+14,ter 06/10/2020,19:15,CSA,Figueirense,4-2-3-1,Elano,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418198
+15,sex 09/10/2020,16:00,Figueirense,Chapecoense,4-2-3-1,Elano,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418207
+16,sáb 17/10/2020,18:30,Brasil Pelotas,Figueirense,3-5-2 plano,Elano,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418222
+17,qua 21/10/2020,16:30,Figueirense,CRB,3-5-2,Elano,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418227
+18,dom 25/10/2020,18:15,Figueirense,Juventude,4-2-3-1,Elano,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418237
+19,seg 02/11/2020,17:30,Ponte Preta,Figueirense,4-2-3-1,Elano,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418249
+20,sáb 07/11/2020,16:30,Figueirense,Operário-PR,4-2-3-1,Elano,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418257
+21,qui 12/11/2020,21:30,Vitória,Figueirense,4-4-2,Elano,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418273
+22,sex 20/11/2020,21:30,Cruzeiro,Figueirense,4-2-3-1,Jorginho,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418276
+23,seg 23/11/2020,17:30,Figueirense,Sampaio Corrêa,4-2-3-1,Jorginho,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418287
+24,qui 26/11/2020,21:30,Figueirense,Botafogo-SP,4-4-2,Jorginho,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418297
+25,ter 01/12/2020,19:15,Confiança,Figueirense,4-2-3-1,Jorginho,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418314
+26,dom 06/12/2020,18:15,Figueirense,Náutico,4-2-3-1,Jorginho,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418317
+27,qua 09/12/2020,19:15,Paraná,Figueirense,4-2-3-1,Jorginho,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418351
+28,sáb 12/12/2020,16:00,Figueirense,Cuiabá,4-2-3-1,Jorginho,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418337
+29,qui 17/12/2020,19:15,Figueirense,América-MG,4-2-3-1,Jorginho,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418327
+30,dom 20/12/2020,18:15,Guarani,Figueirense,4-2-3-1,Jorginho,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418359
+31,sáb 26/12/2020,16:00,Figueirense,Avaí,4-4-2,Jorginho,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418367
+32,sáb 02/01/2021,18:45,Oeste,Figueirense,4-4-2,Jorginho,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419419
+33,sex 08/01/2021,21:30,Figueirense,CSA,4-4-2,Marcio Coelho,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419426
+34,ter 12/01/2021,21:30,Chapecoense,Figueirense,4-2-3-1,Jorginho,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419452
+35,sex 15/01/2021,17:30,Figueirense,Brasil Pelotas,4-2-3-1,Jorginho,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419454
+36,ter 19/01/2021,19:15,CRB,Figueirense,4-2-3-1,Jorginho,x,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419481
+37,sex 22/01/2021,16:00,Juventude,Figueirense,4-2-3-1,Jorginho,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419502
+38,sex 29/01/2021,16:00,Figueirense,Ponte Preta,4-2-3-1,Jorginho,x,2:7,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419507

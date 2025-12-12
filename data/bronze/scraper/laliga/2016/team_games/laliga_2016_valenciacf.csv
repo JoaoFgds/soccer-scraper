@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 22/08/2016,17:00,Valencia,Las Palmas,4-1-4-1,Pako Ayestarán,37144,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718713
+2,sáb 27/08/2016,13:15,Eibar,Valencia,4-3-3 ofensivo,Pako Ayestarán,3576,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718723
+3,dom 11/09/2016,11:00,Valencia,Betis,4-3-3 ofensivo,Pako Ayestarán,36854,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718733
+4,dom 18/09/2016,11:15,Athletic Club,Valencia,4-3-3 ofensivo,Pako Ayestarán,40907,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718744
+5,qui 22/09/2016,17:00,Valencia,Alavés,4-3-3 ofensivo,Voro,32285,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718754
+6,dom 25/09/2016,07:00,Leganés,Valencia,4-2-3-1,Voro,10622,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718765
+7,dom 02/10/2016,07:00,Valencia,Atlético,4-2-3-1,Voro,43276,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718775
+8,dom 16/10/2016,14:30,Real Sporting,Valencia,4-2-3-1,Cesare Prandelli,24309,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718786
+9,sáb 22/10/2016,12:15,Valencia,Barcelona,4-2-3-1,Cesare Prandelli,46770,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718796
+10,seg 31/10/2016,17:45,Deportivo,Valencia,4-2-3-1,Cesare Prandelli,23492,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718807
+11,dom 06/11/2016,13:15,Celta de Vigo,Valencia,4-2-3-1,Cesare Prandelli,17892,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718817
+12,dom 20/11/2016,13:15,Valencia,Granada CF,4-2-3-1,Cesare Prandelli,34884,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718827
+13,sáb 26/11/2016,17:45,Sevilla,Valencia,3-4-1-2,Cesare Prandelli,31901,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718836
+14,dom 04/12/2016,17:45,Valencia,Málaga CF,3-5-2 plano,Cesare Prandelli,23121,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718846
+15,sáb 10/12/2016,13:15,Real Sociedad,Valencia,4-3-3 ofensivo,Cesare Prandelli,22817,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718855
+16,qua 22/02/2017,14:45,Valencia,Real Madrid,4-2-3-1,Voro,45833,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718865
+17,seg 09/01/2017,17:45,Osasuna,Valencia,4-3-3 ofensivo,Voro,12160,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718874
+18,dom 15/01/2017,09:00,Valencia,Espanyol,4-3-3 ofensivo,Voro,33932,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718884
+19,sáb 21/01/2017,17:45,Villarreal,Valencia,4-3-3 ofensivo,Voro,17615,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718893
+20,seg 30/01/2017,17:45,Las Palmas,Valencia,4-3-3 ofensivo,Voro,20427,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718903
+21,sáb 04/02/2017,17:45,Valencia,Eibar,4-1-4-1,Voro,32571,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718913
+22,sáb 11/02/2017,10:00,Betis,Valencia,4-2-3-1,Voro,30567,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718923
+23,dom 19/02/2017,12:15,Valencia,Athletic Club,4-2-3-1,Voro,36317,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718934
+24,sáb 25/02/2017,09:00,Alavés,Valencia,4-3-3 ofensivo,Voro,19118,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718944
+25,ter 28/02/2017,17:30,Valencia,Leganés,4-3-3 ofensivo,Voro,26711,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718955
+26,dom 05/03/2017,12:15,Atlético,Valencia,4-3-3 ofensivo,Voro,46473,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718965
+27,sáb 11/03/2017,09:00,Valencia,Real Sporting,4-2-3-1,Voro,28785,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718976
+28,dom 19/03/2017,16:45,Barcelona,Valencia,4-2-3-1,Voro,78675,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718986
+29,dom 02/04/2017,13:30,Valencia,Deportivo,4-3-3 ofensivo,Voro,34638,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2718997
+30,qui 06/04/2017,16:30,Valencia,Celta de Vigo,4-3-3 ofensivo,Voro,29212,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2719007
+31,dom 09/04/2017,07:00,Granada CF,Valencia,4-2-3-1,Voro,15087,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2719017
+32,dom 16/04/2017,11:15,Valencia,Sevilla,4-2-3-1,Voro,37748,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2719026
+33,sáb 22/04/2017,08:00,Málaga CF,Valencia,4-2-3-1,Voro,23089,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2719036
+34,qua 26/04/2017,15:30,Valencia,Real Sociedad,4-2-3-1,Voro,26101,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2719045
+35,sáb 29/04/2017,11:15,Real Madrid,Valencia,4-2-3-1,Voro,75180,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2719055
+36,dom 07/05/2017,11:15,Valencia,Osasuna,4-2-3-1,Voro,24752,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2719064
+37,sáb 13/05/2017,11:00,Espanyol,Valencia,4-4-2 duplo 6,Voro,20111,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2719074
+38,dom 21/05/2017,11:45,Valencia,Villarreal,4-4-2,Voro,33587,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2719083

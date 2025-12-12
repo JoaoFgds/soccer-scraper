@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 14/04/2024,16:00,Atlético-GO,Flamengo,4-1-3-2,Jair Ventura,35195,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316195
+2,qui 18/04/2024,21:30,Botafogo,Atlético-GO,4-4-2 duplo 6,Jair Ventura,8508,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316261
+3,dom 21/04/2024,18:30,Atlético-GO,São Paulo,4-4-2 duplo 6,Jair Ventura,9017,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316235
+4,dom 28/04/2024,20:00,Internacional,Atlético-GO,4-2-3-1,Jair Ventura,23836,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316267
+5,qua 05/06/2024,19:00,Juventude,Atlético-GO,4-3-3 ofensivo,Jair Ventura,5123,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316296
+6,dom 12/05/2024,16:00,Atlético-GO,Cruzeiro,4-2-3-1,Jair Ventura,7576,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316315
+7,sáb 01/06/2024,16:00,Vitória,Atlético-GO,4-3-3 ofensivo,Jair Ventura,16008,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316279
+8,ter 11/06/2024,19:00,Atlético-GO,Corinthians,4-3-3 ofensivo,Jair Ventura,12089,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316335
+9,sáb 15/06/2024,21:00,Fluminense,Atlético-GO,4-3-3 ofensivo,Jair Ventura,14485,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316200
+10,qua 19/06/2024,19:00,Atlético-GO,Criciúma,4-3-3 ofensivo,Jair Ventura,6478,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316245
+11,sáb 22/06/2024,18:30,Cuiabá,Atlético-GO,4-3-3 defensivo,Anderson Gomes,5768,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316305
+12,qua 26/06/2024,20:00,Atlético-GO,Grêmio,4-3-3 ofensivo,Anderson Gomes,8838,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316345
+13,dom 30/06/2024,11:00,Atlético-MG,Atlético-GO,4-3-3 ofensivo,Anderson Gomes,39767,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316208
+14,qua 03/07/2024,21:30,Bragantino,Atlético-GO,4-2-3-1,Anderson Gomes,3102,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316353
+15,dom 07/07/2024,18:30,Atlético-GO,Athletico-PR,4-3-3 ofensivo,Anderson Gomes,6152,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316325
+16,qui 11/07/2024,19:30,Palmeiras,Atlético-GO,5-4-1,Vagner Mancini,26897,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316462
+17,qua 17/07/2024,19:00,Atlético-GO,Vasco da Gama,4-3-3 ofensivo,Vagner Mancini,12089,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316395
+18,dom 21/07/2024,18:30,Fortaleza,Atlético-GO,5-4-1 plano,Vagner Mancini,30822,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316544
+19,qua 24/07/2024,21:30,Atlético-GO,Bahia,4-1-4-1,Vagner Mancini,5777,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316385
+20,dom 28/07/2024,16:00,Flamengo,Atlético-GO,4-3-3 ofensivo,Vagner Mancini,61883,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316500
+21,sáb 03/08/2024,20:00,Atlético-GO,Botafogo,4-3-3 ofensivo,Vagner Mancini,8618,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316365
+22,dom 11/08/2024,16:00,São Paulo,Atlético-GO,4-2-3-1,Umberto Louzer,46600,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316423
+23,dom 18/08/2024,16:00,Atlético-GO,Internacional,4-2-3-1,Umberto Louzer,5460,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316435
+24,sáb 24/08/2024,16:00,Atlético-GO,Juventude,4-2-3-1,Umberto Louzer,4407,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316445
+25,dom 01/09/2024,11:00,Cruzeiro,Atlético-GO,4-3-3 ofensivo,Umberto Louzer,50000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316528
+26,sáb 14/09/2024,16:00,Atlético-GO,Vitória,4-2-3-1,Umberto Louzer,4938,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316415
+27,sáb 21/09/2024,16:00,Corinthians,Atlético-GO,4-2-3-1,Umberto Louzer,46001,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316512
+28,dom 29/09/2024,16:00,Atlético-GO,Fluminense,4-3-3 ofensivo,Umberto Louzer,7871,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316255
+29,qui 03/10/2024,19:00,Criciúma,Atlético-GO,4-3-3 ofensivo,Umberto Louzer,12343,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316456
+30,sex 18/10/2024,19:00,Atlético-GO,Cuiabá,4-3-3 ofensivo,Umberto Louzer,3622,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316525
+31,sáb 26/10/2024,16:30,Grêmio,Atlético-GO,4-2-3-1,Umberto Louzer,36959,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316477
+32,qua 06/11/2024,21:00,Atlético-GO,Atlético-MG,4-2-3-1,Anderson Gomes,3791,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316375
+33,sáb 09/11/2024,19:00,Atlético-GO,Bragantino,4-2-3-1,Anderson Gomes,2419,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316475
+34,qua 20/11/2024,16:30,Athletico-PR,Atlético-GO,4-2-3-1,Anderson Gomes,42177,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316554
+35,sáb 23/11/2024,19:30,Atlético-GO,Palmeiras,4-2-3-1,Anderson Gomes,11216,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316225
+36,sáb 30/11/2024,21:30,Vasco da Gama,Atlético-GO,4-2-3-1,Anderson Gomes,18270,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316491
+37,qua 04/12/2024,21:30,Atlético-GO,Fortaleza,4-2-3-1,Anderson Gomes,3157,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316565
+38,dom 08/12/2024,16:00,Bahia,Atlético-GO,4-1-4-1,Anderson Gomes,48476,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316399

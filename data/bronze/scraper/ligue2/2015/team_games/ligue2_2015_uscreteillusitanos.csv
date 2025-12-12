@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 31/07/2015,15:00,Red Star FC,US Créteil-L,4-4-2,Thierry Froger,1410,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2602003
+2,sex 07/08/2015,15:00,US Créteil-L,Bourg-en-Bresse,4-3-3 defensivo,Thierry Froger,1331,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2602019
+3,sex 14/08/2015,15:00,Lens,US Créteil-L,4-4-2,Thierry Froger,25456,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2602025
+4,sex 21/08/2015,15:00,US Créteil-L,FC Metz,4-4-2,Thierry Froger,2093,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2602038
+5,sex 28/08/2015,15:00,Dijon,US Créteil-L,4-4-1-1,Thierry Froger,7149,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2602052
+6,sex 11/09/2015,15:00,FC Sochaux,US Créteil-L,4-4-2,Thierry Froger,6717,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616474
+7,sex 18/09/2015,15:00,US Créteil-L,Valenciennes,4-3-3 ofensivo,Thierry Froger,2477,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616490
+8,ter 22/09/2015,16:00,Tours FC,US Créteil-L,5-3-2,Thierry Froger,3753,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616505
+9,sex 25/09/2015,15:00,US Créteil-L,Le Havre,4-2-3-1,Thierry Froger,2374,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616515
+10,sex 02/10/2015,15:00,Stade Lavallois,US Créteil-L,4-2-3-1,Thierry Froger,5036,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616525
+11,sex 16/10/2015,15:00,US Créteil-L,Brest,4-2-3-1,Thierry Froger,2956,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616535
+12,sex 23/10/2015,16:00,Évian,US Créteil-L,4-4-1-1,Thierry Froger,4314,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616541
+13,sex 30/10/2015,17:00,US Créteil-L,Nîmes Olympique,4-4-1-1,Thierry Froger,2514,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616567
+14,sex 06/11/2015,17:00,Clermont Foot,US Créteil-L,4-2-3-1,Thierry Froger,2673,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616584
+15,sex 20/11/2015,17:00,US Créteil-L,AS Nancy,4-2-3-1,Thierry Froger,1854,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616598
+16,sex 27/11/2015,17:00,Auxerre,US Créteil-L,4-2-3-1,Thierry Froger,3994,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616611
+17,ter 01/12/2015,18:00,US Créteil-L,Paris FC,5-4-1,Thierry Froger,2136,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616628
+18,sex 11/12/2015,17:00,AC Ajaccio,US Créteil-L,4-2-3-1,Laurent Roussey,3227,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616630
+19,sex 18/12/2015,17:00,US Créteil-L,Chamois Niort,4-2-3-1,Philippe Troussier,1883,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616648
+20,sex 08/01/2016,17:00,Bourg-en-Bresse,US Créteil-L,4-4-1-1,Laurent Roussey,2396,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2648115
+21,sex 15/01/2016,17:00,US Créteil-L,Lens,4-2-3-1,Laurent Roussey,3351,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2648149
+22,sex 22/01/2016,17:00,FC Metz,US Créteil-L,4-4-2,Laurent Roussey,11202,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2648157
+23,sex 29/01/2016,17:00,US Créteil-L,Dijon,4-2-3-1,Laurent Roussey,1926,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2648169
+24,ter 02/02/2016,18:00,US Créteil-L,FC Sochaux,4-2-3-1,Laurent Roussey,1934,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654405
+25,sex 05/02/2016,17:00,Valenciennes,US Créteil-L,4-2-3-1,Laurent Roussey,6439,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654415
+26,sex 12/02/2016,17:00,US Créteil-L,Tours FC,4-4-1-1,Laurent Roussey,2002,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654423
+27,sáb 20/02/2016,11:00,Le Havre,US Créteil-L,4-3-1-2,Laurent Roussey,6328,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654431
+28,sex 26/02/2016,16:00,US Créteil-L,Stade Lavallois,4-2-3-1,Laurent Roussey,2035,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654444
+29,sex 04/03/2016,16:00,Brest,US Créteil-L,4-2-3-1,Laurent Roussey,5418,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654453
+30,sex 11/03/2016,16:00,US Créteil-L,Évian,4-2-3-1,Laurent Roussey,1917,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654463
+31,sex 18/03/2016,16:00,Nîmes Olympique,US Créteil-L,4-2-3-1,Laurent Roussey,10013,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654472
+32,sex 01/04/2016,15:00,US Créteil-L,Clermont Foot,4-2-3-1,Laurent Roussey,2109,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654484
+33,seg 11/04/2016,15:30,AS Nancy,US Créteil-L,4-3-1-2,Laurent Roussey,16919,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654488
+34,sex 15/04/2016,15:00,US Créteil-L,Auxerre,4-2-3-1,Laurent Roussey,2832,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654504
+35,sex 22/04/2016,15:00,Paris FC,US Créteil-L,4-4-1-1,Laurent Roussey,3941,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654514
+36,sex 29/04/2016,15:00,US Créteil-L,AC Ajaccio,4-3-3 ofensivo,Laurent Roussey,2025,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654524
+37,sex 06/05/2016,15:45,Chamois Niort,US Créteil-L,4-2-3-1,Laurent Roussey,5611,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654529
+38,sex 13/05/2016,15:45,US Créteil-L,Red Star FC,4-3-3 ofensivo,Laurent Roussey,3426,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654544

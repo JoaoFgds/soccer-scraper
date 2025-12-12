@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 25/08/2014,15:00,Real Madrid,Córdoba,4-2-3-1,Carlo Ancelotti,70356,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475189
+2,dom 31/08/2014,16:00,Real Sociedad,Real Madrid,4-2-3-1,Carlo Ancelotti,27879,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475194
+3,sáb 13/09/2014,15:00,Real Madrid,Atlético,4-2-3-1,Carlo Ancelotti,85253,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475204
+4,sáb 20/09/2014,11:00,Deportivo,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,27685,2:8,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475215
+5,ter 23/09/2014,15:00,Real Madrid,Elche,4-4-2,Carlo Ancelotti,63634,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475225
+6,sáb 27/09/2014,11:00,Villarreal,Real Madrid,4-4-2,Carlo Ancelotti,22146,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475236
+7,dom 05/10/2014,16:00,Real Madrid,Athletic Club,4-2-3-1,Carlo Ancelotti,77987,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475246
+8,sáb 18/10/2014,11:00,Levante,Real Madrid,4-4-2,Carlo Ancelotti,23506,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475257
+9,sáb 25/10/2014,14:00,Real Madrid,Barcelona,4-4-2,Carlo Ancelotti,84000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475267
+10,sáb 01/11/2014,13:00,Granada CF,Real Madrid,4-4-2,Carlo Ancelotti,21800,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475278
+11,sáb 08/11/2014,17:00,Real Madrid,Rayo Vallecano,4-4-2,Carlo Ancelotti,76842,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475288
+12,sáb 22/11/2014,15:00,Eibar,Real Madrid,4-4-2,Carlo Ancelotti,5859,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475299
+13,sáb 29/11/2014,17:00,Málaga CF,Real Madrid,4-4-2,Carlo Ancelotti,29025,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475309
+14,sáb 06/12/2014,17:00,Real Madrid,Celta de Vigo,4-4-2,Carlo Ancelotti,80300,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475319
+15,sex 12/12/2014,17:45,UD Almería,Real Madrid,4-4-2,Carlo Ancelotti,16000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475328
+16,qua 04/02/2015,17:45,Real Madrid,Sevilla,4-4-2,Carlo Ancelotti,67126,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475338
+17,dom 04/01/2015,14:00,Valencia,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,50738,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475347
+18,sáb 10/01/2015,13:00,Real Madrid,Espanyol,4-3-3 ofensivo,Carlo Ancelotti,74896,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475357
+19,dom 18/01/2015,09:00,Getafe,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,10591,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475366
+20,sáb 24/01/2015,13:00,Córdoba,Real Madrid,4-4-2,Carlo Ancelotti,21495,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475379
+21,sáb 31/01/2015,13:00,Real Madrid,Real Sociedad,4-4-2,Carlo Ancelotti,71653,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475384
+22,sáb 07/02/2015,13:00,Atlético,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,52063,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475394
+23,sáb 14/02/2015,15:00,Real Madrid,Deportivo,4-3-3 ofensivo,Carlo Ancelotti,73671,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475405
+24,dom 22/02/2015,17:00,Elche,Real Madrid,4-4-2,Carlo Ancelotti,31512,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475415
+25,dom 01/03/2015,17:00,Real Madrid,Villarreal,4-4-2,Carlo Ancelotti,75108,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475426
+26,sáb 07/03/2015,14:00,Athletic Club,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,48437,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475436
+27,dom 15/03/2015,17:00,Real Madrid,Levante,4-2-3-1,Carlo Ancelotti,64861,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475447
+28,dom 22/03/2015,17:00,Barcelona,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,98760,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475457
+29,dom 05/04/2015,07:00,Real Madrid,Granada CF,4-4-2,Carlo Ancelotti,71863,9:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475468
+30,qua 08/04/2015,17:00,Rayo Vallecano,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,13016,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475478
+31,sáb 11/04/2015,11:00,Real Madrid,Eibar,4-3-3 ofensivo,Carlo Ancelotti,73965,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475489
+32,sáb 18/04/2015,15:00,Real Madrid,Málaga CF,4-4-2,Carlo Ancelotti,78354,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475499
+33,dom 26/04/2015,16:00,Celta de Vigo,Real Madrid,4-4-2 duplo 6,Carlo Ancelotti,25274,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475509
+34,qua 29/04/2015,15:00,Real Madrid,UD Almería,4-3-3 ofensivo,Carlo Ancelotti,63813,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475518
+35,sáb 02/05/2015,15:00,Sevilla,Real Madrid,4-4-2 duplo 6,Carlo Ancelotti,39689,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475528
+36,sáb 09/05/2015,15:00,Real Madrid,Valencia,4-3-3 ofensivo,Carlo Ancelotti,79897,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475537
+37,dom 17/05/2015,14:00,Espanyol,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,30180,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475547
+38,sáb 23/05/2015,15:30,Real Madrid,Getafe,4-3-3 ofensivo,Carlo Ancelotti,63769,7:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475556

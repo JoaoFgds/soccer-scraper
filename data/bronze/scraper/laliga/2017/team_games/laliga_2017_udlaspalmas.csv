@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 18/08/2017,17:15,Valencia,Las Palmas,4-1-4-1,Manolo Márquez,35971,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899564
+2,sáb 26/08/2017,17:15,Las Palmas,Atlético,4-2-3-1,Manolo Márquez,20384,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899937
+3,seg 11/09/2017,16:00,Málaga CF,Las Palmas,4-2-3-1,Manolo Márquez,22697,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899578
+4,dom 17/09/2017,13:30,Las Palmas,Athletic Club,4-2-3-1,Manolo Márquez,19149,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899588
+5,qua 20/09/2017,17:00,Sevilla,Las Palmas,4-2-3-1,Manolo Márquez,35317,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899593
+6,dom 24/09/2017,13:30,Las Palmas,Leganés,4-2-3-1,Manolo Márquez,17560,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899601
+7,dom 01/10/2017,11:15,Barcelona,Las Palmas,4-2-3-1,Pako Ayestarán,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899620
+8,seg 16/10/2017,17:00,Las Palmas,Celta de Vigo,4-2-3-1,Pako Ayestarán,13799,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899621
+9,dom 22/10/2017,08:00,Villarreal,Las Palmas,4-2-3-1,Pako Ayestarán,16606,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899637
+10,seg 30/10/2017,18:00,Las Palmas,Deportivo,4-2-3-1,Pako Ayestarán,14805,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899639
+11,dom 05/11/2017,17:45,Real Madrid,Las Palmas,5-3-2,Pako Ayestarán,67120,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899655
+12,dom 19/11/2017,15:30,Las Palmas,Levante,4-2-3-1,Pako Ayestarán,26212,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899666
+13,dom 26/11/2017,13:15,Real Sociedad,Las Palmas,4-2-3-1,Pako Ayestarán,19780,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899676
+14,dom 03/12/2017,17:45,Las Palmas,Betis,4-2-3-1,Paquito,16313,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899679
+15,sex 08/12/2017,18:00,Alavés,Las Palmas,4-2-3-1,Paquito,18567,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899690
+16,dom 17/12/2017,15:30,Las Palmas,Espanyol,4-2-3-1,Paquito,14020,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899704
+17,qua 20/12/2017,16:30,Getafe,Las Palmas,4-2-3-1,Paquito,9231,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899714
+18,sáb 06/01/2018,15:30,Las Palmas,Eibar,4-2-3-1,Paco Jémez,12059,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899716
+19,sáb 13/01/2018,10:00,Girona,Las Palmas,3-5-2,Paco Jémez,10037,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899732
+20,sáb 20/01/2018,17:45,Las Palmas,Valencia,4-3-3 ofensivo,Paco Jémez,20242,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899754
+21,dom 28/01/2018,13:15,Atlético,Las Palmas,4-1-4-1,Paco Jémez,55363,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899757
+22,seg 05/02/2018,18:00,Las Palmas,Málaga CF,4-1-4-1,Paco Jémez,17424,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899776
+23,sex 09/02/2018,18:00,Athletic Club,Las Palmas,4-2-3-1,Paco Jémez,33679,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899787
+24,sáb 17/02/2018,10:00,Las Palmas,Sevilla,4-2-3-1,Paco Jémez,19161,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899772
+25,sáb 24/02/2018,14:30,Leganés,Las Palmas,4-2-3-1,Paco Jémez,9325,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899780
+26,qui 01/03/2018,17:00,Las Palmas,Barcelona,4-2-3-1,Paco Jémez,23778,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899803
+27,seg 05/03/2018,17:00,Celta de Vigo,Las Palmas,4-2-3-1,Paco Jémez,11276,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899809
+28,dom 11/03/2018,14:30,Las Palmas,Villarreal,4-4-2 duplo 6,Paco Jémez,18907,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899825
+29,sáb 17/03/2018,09:00,Deportivo,Las Palmas,4-2-3-1,Paco Jémez,18942,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899836
+30,sáb 31/03/2018,13:30,Las Palmas,Real Madrid,4-2-3-1,Paco Jémez,22942,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899830
+31,dom 08/04/2018,07:00,Levante,Las Palmas,4-2-3-1,Paco Jémez,18402,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899820
+32,sáb 14/04/2018,13:30,Las Palmas,Real Sociedad,4-2-3-1,Paco Jémez,10531,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899841
+33,qui 19/04/2018,16:30,Betis,Las Palmas,5-4-1 plano,Paco Jémez,45151,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899848
+34,dom 22/04/2018,13:30,Las Palmas,Alavés,4-2-3-1,Paco Jémez,7143,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899851
+35,sáb 28/04/2018,08:00,Espanyol,Las Palmas,4-2-3-1,Paco Jémez,13589,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899860
+36,dom 06/05/2018,13:30,Las Palmas,Getafe,4-4-2 duplo 6,Paco Jémez,4624,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899879
+37,sáb 12/05/2018,13:30,Eibar,Las Palmas,4-2-3-1,Paco Jémez,5107,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899914
+38,sáb 19/05/2018,13:30,Las Palmas,Girona,4-2-3-1,Paco Jémez,6362,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899922

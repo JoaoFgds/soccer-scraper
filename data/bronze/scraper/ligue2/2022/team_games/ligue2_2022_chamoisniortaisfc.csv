@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 30/07/2022,14:00,FC Annecy,Chamois Niort,4-2-3-1,Sébastien Desabre,5288,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3863135
+2,sáb 06/08/2022,14:00,Chamois Niort,SC Bastia,4-2-3-1,Sébastien Desabre,2190,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3863147
+3,sáb 13/08/2022,14:00,Bordeaux,Chamois Niort,4-4-2,Andé Dona Ndoh,20709,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3888709
+4,sáb 20/08/2022,14:00,Chamois Niort,Paris FC,4-2-3-1,Andé Dona Ndoh,2000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864784
+5,sáb 27/08/2022,14:00,FC Sochaux,Chamois Niort,4-4-2,Andé Dona Ndoh,8980,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864796
+6,ter 30/08/2022,15:45,Chamois Niort,Valenciennes,4-2-3-1,Andé Dona Ndoh,2300,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864804
+7,sex 02/09/2022,15:45,Quevilly Rouen,Chamois Niort,4-2-3-1,Andé Dona Ndoh,200,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864831
+8,sáb 10/09/2022,14:00,Chamois Niort,Le Havre,3-4-3 plano,Rui Almeida,2000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864841
+9,sáb 17/09/2022,14:00,Amiens SC,Chamois Niort,5-4-1 plano,Rui Almeida,6188,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864843
+10,sáb 01/10/2022,14:00,Chamois Niort,Guingamp,5-4-1 plano,Rui Almeida,2184,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864875
+11,sáb 08/10/2022,14:00,SM Caen,Chamois Niort,5-4-1 plano,Rui Almeida,11142,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864880
+12,sáb 15/10/2022,14:00,Chamois Niort,Grenoble,5-4-1 plano,Rui Almeida,1755,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864911
+13,sáb 22/10/2022,14:00,Chamois Niort,Dijon,4-4-2,Rui Almeida,3869,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864929
+14,sáb 05/11/2022,15:00,Stade Lavallois,Chamois Niort,4-2-3-1,Rui Almeida,6717,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864945
+15,sáb 12/11/2022,15:00,Chamois Niort,Nîmes Olympique,4-2-3-1,Rui Almeida,3788,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864956
+16,seg 26/12/2022,17:00,FC Metz,Chamois Niort,4-4-2,Rui Almeida,14443,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864960
+17,sex 30/12/2022,17:00,Chamois Niort,Pau FC,4-4-2,Rui Almeida,2151,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864974
+18,ter 10/01/2023,16:45,Rodez AF,Chamois Niort,4-4-2,Rui Almeida,2728,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864984
+19,seg 16/01/2023,16:45,Chamois Niort,Saint-Étienne,4-2-3-1,Rui Almeida,5026,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865002
+20,sáb 28/01/2023,15:00,Nîmes Olympique,Chamois Niort,4-2-3-1,Rui Almeida,1405,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865013
+21,ter 31/01/2023,16:45,Chamois Niort,Amiens SC,4-4-2 duplo 6,Rui Almeida,1753,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865031
+22,sex 03/02/2023,16:45,Dijon,Chamois Niort,4-2-3-1,Oumar Tchomogo,5600,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865036
+23,sáb 11/02/2023,15:00,Chamois Niort,Bordeaux,4-2-3-1,Oumar Tchomogo,5446,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3888729
+24,sáb 18/02/2023,15:00,Le Havre,Chamois Niort,4-2-3-1,Oumar Tchomogo,9064,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865063
+25,sáb 25/02/2023,15:00,Paris FC,Chamois Niort,4-3-3 ofensivo,Oumar Tchomogo,2205,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865075
+26,sáb 04/03/2023,15:00,Chamois Niort,Rodez AF,4-3-3 ofensivo,Oumar Tchomogo,2349,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865092
+27,sáb 11/03/2023,15:00,Pau FC,Chamois Niort,4-1-4-1,Bernard Simondi,2531,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865139
+28,sáb 18/03/2023,15:00,Chamois Niort,Stade Lavallois,4-3-3 ofensivo,Bernard Simondi,2213,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865156
+29,sáb 01/04/2023,10:00,Saint-Étienne,Chamois Niort,4-1-4-1,Bernard Simondi,24284,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865183
+30,sáb 08/04/2023,14:00,Chamois Niort,FC Sochaux,4-3-3 ofensivo,Bernard Simondi,2298,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865200
+31,sáb 15/04/2023,14:00,Valenciennes,Chamois Niort,4-1-4-1,Bernard Simondi,8375,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865228
+32,sáb 22/04/2023,14:00,Chamois Niort,SM Caen,4-1-4-1,Bernard Simondi,2184,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865278
+33,sáb 29/04/2023,14:00,Grenoble,Chamois Niort,3-4-1-2,Bernard Simondi,4135,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865284
+34,sáb 06/05/2023,14:00,Chamois Niort,FC Metz,4-3-3 ofensivo,Bernard Simondi,2056,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865296
+35,sáb 13/05/2023,14:00,SC Bastia,Chamois Niort,4-3-3 ofensivo,Bernard Simondi,8498,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865301
+36,sáb 20/05/2023,14:00,Chamois Niort,FC Annecy,4-3-3 ofensivo,Bernard Simondi,1627,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865314
+37,sex 26/05/2023,15:45,Guingamp,Chamois Niort,4-3-3 ofensivo,Bernard Simondi,12885,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865321
+38,sex 02/06/2023,15:45,Chamois Niort,Quevilly Rouen,4-3-3 ofensivo,Bernard Simondi,1759,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865332

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 24/07/1993,15:00,Toulouse,Le Havre,?,Serge Delmas,7708,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012068
+2,sáb 31/07/1993,15:00,Monaco,Toulouse,?,Serge Delmas,5000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012075
+3,sex 06/08/1993,19:00,Toulouse,Nantes,?,Serge Delmas,9046,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012080
+4,qua 11/08/1993,15:00,Toulouse,Strasbourg,?,Serge Delmas,6891,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012098
+5,sáb 14/08/1993,15:00,Saint-Étienne,Toulouse,?,Serge Delmas,13403,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012106
+6,sex 27/08/1993,19:00,Toulouse,Lille,?,Serge Delmas,8607,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012118
+7,seg 30/08/1993,19:00,Bordeaux,Toulouse,?,Serge Delmas,16582,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012119
+8,sex 10/09/1993,19:00,Toulouse,Marselha,?,Serge Delmas,13702,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012134
+9,sex 17/09/1993,19:00,SM Caen,Toulouse,?,Serge Delmas,15000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012144
+10,seg 01/11/1993,21:00,Toulouse,Montpellier,?,Serge Delmas,7393,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012158
+11,sex 01/10/1993,20:00,Auxerre,Toulouse,?,Serge Delmas,5000,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012163
+12,ter 05/10/1993,20:00,Toulouse,Angers,?,Serge Delmas,8191,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012178
+13,sáb 16/10/1993,16:00,FC Martigues,Toulouse,?,Serge Delmas,3500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012186
+14,sex 22/10/1993,21:00,Toulouse,Lyon,?,Serge Delmas,5466,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012255
+15,qui 28/10/1993,21:00,FC Metz,Toulouse,?,Serge Delmas,6933,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012263
+16,sáb 06/11/1993,21:00,Toulouse,Lens,?,Serge Delmas,6090,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012276
+17,ter 09/11/1993,21:00,FC Sochaux,Toulouse,?,Serge Delmas,4500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012285
+18,sáb 20/11/1993,17:00,Toulouse,PSG,?,Serge Delmas,13514,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012288
+19,sex 26/11/1993,21:00,Cannes,Toulouse,?,Serge Delmas,6000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012301
+20,sex 03/12/1993,17:00,Toulouse,Monaco,?,Serge Delmas,7589,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012312
+21,sex 10/12/1993,21:00,Nantes,Toulouse,?,Serge Delmas,8000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012323
+22,sex 17/12/1993,21:00,Strasbourg,Toulouse,?,Serge Delmas,11341,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012331
+23,sáb 15/01/1994,16:30,Toulouse,Saint-Étienne,?,Jean-Luc Ruty,7481,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012343
+24,sex 28/01/1994,21:00,Lille,Toulouse,?,Jean-Luc Ruty,4201,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012356
+25,qui 03/02/1994,21:00,Toulouse,Bordeaux,?,Jean-Luc Ruty,11098,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012357
+26,ter 08/02/1994,21:00,Marselha,Toulouse,?,Jean-Luc Ruty,22000,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012369
+27,sex 18/02/1994,21:00,Toulouse,SM Caen,?,Jean-Luc Ruty,5319,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012394
+28,qui 24/02/1994,20:00,Montpellier,Toulouse,?,Jean-Luc Ruty,6863,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012400
+29,sex 04/03/1994,20:00,Toulouse,Auxerre,?,Jean-Luc Ruty,5283,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012408
+30,qui 10/03/1994,20:00,Angers,Toulouse,?,Jean-Luc Ruty,3896,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012424
+31,sáb 26/03/1994,16:00,Toulouse,FC Martigues,?,Jean-Luc Ruty,5300,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012435
+32,sáb 02/04/1994,15:00,Lyon,Toulouse,?,Jean-Luc Ruty,8000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012440
+33,ter 05/04/1994,15:00,Toulouse,FC Metz,?,Jean-Luc Ruty,4808,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012461
+34,sex 08/04/1994,19:00,Lens,Toulouse,?,Jean-Luc Ruty,14269,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012471
+35,sex 22/04/1994,19:00,Toulouse,FC Sochaux,?,Jean-Luc Ruty,8435,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012484
+36,sáb 30/04/1994,15:00,PSG,Toulouse,?,Jean-Luc Ruty,33987,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012486
+37,sex 06/05/1994,19:00,Toulouse,Cannes,?,Jean-Luc Ruty,5616,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012500
+38,sáb 21/05/1994,15:00,Le Havre,Toulouse,?,Jean-Luc Ruty,6123,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012514

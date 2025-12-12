@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qui 05/11/2020,15:00,CE Sabadell,UD Almería,3-5-2,Antonio Hidalgo,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3441549
+2,sáb 19/09/2020,16:00,Rayo Vallecano,CE Sabadell,4-5-1 plano,Antonio Hidalgo,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3441558
+3,dom 27/09/2020,11:00,Mallorca,CE Sabadell,3-4-2-1,Antonio Hidalgo,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3441571
+4,dom 04/10/2020,11:00,CE Sabadell,Espanyol,5-4-1 plano,Antonio Hidalgo,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3441587
+5,sáb 10/10/2020,08:00,CE Sabadell,Mirandés,4-3-3 ofensivo,Antonio Hidalgo,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3456989
+6,sáb 17/10/2020,11:00,Albacete,CE Sabadell,5-3-2,Antonio Hidalgo,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3456991
+7,qua 09/12/2020,15:00,CE Sabadell,AD Alcorcón,4-4-2,Antonio Hidalgo,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457012
+8,dom 25/10/2020,17:00,Zaragoza,CE Sabadell,3-5-2,Antonio Hidalgo,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457021
+9,qui 29/10/2020,17:30,CE Sabadell,Leganés,3-5-2,Antonio Hidalgo,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457033
+10,dom 01/11/2020,14:15,Ponferradina,CE Sabadell,3-5-2 plano,Antonio Hidalgo,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457043
+11,dom 08/11/2020,10:00,CE Sabadell,Málaga CF,3-4-1-2,Antonio Hidalgo,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457055
+12,sáb 14/11/2020,20:00,UD Logrones,CE Sabadell,5-4-1 plano,Antonio Hidalgo,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457063
+13,dom 22/11/2020,10:00,CE Sabadell,Las Palmas,3-4-3 plano,Antonio Hidalgo,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457077
+14,qua 25/11/2020,15:00,Real Sporting,CE Sabadell,3-1-4-2,Antonio Hidalgo,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457089
+15,sáb 28/11/2020,12:00,CE Sabadell,Fuenlabrada CF,3-4-2-1,Antonio Hidalgo,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457100
+16,qui 03/12/2020,15:00,Tenerife,CE Sabadell,4-4-2,Antonio Hidalgo,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457111
+17,dom 06/12/2020,16:30,CE Sabadell,Real Oviedo,4-4-2,Antonio Hidalgo,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457121
+18,dom 13/12/2020,16:30,FC Cartagena,CE Sabadell,3-4-2-1,Antonio Hidalgo,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457124
+19,sáb 19/12/2020,12:00,CE Sabadell,Castellón,3-5-2,Antonio Hidalgo,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457142
+20,seg 04/01/2021,14:30,Girona,CE Sabadell,3-5-2,Antonio Hidalgo,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457149
+21,seg 11/01/2021,17:30,CE Sabadell,Lugo,3-1-4-2,Antonio Hidalgo,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457164
+22,dom 24/01/2021,10:00,UD Almería,CE Sabadell,3-5-2,Antonio Hidalgo,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457168
+23,seg 01/02/2021,17:00,CE Sabadell,UD Logrones,3-4-1-2,Antonio Hidalgo,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457186
+24,dom 07/02/2021,16:30,Las Palmas,CE Sabadell,3-4-3 plano,Antonio Hidalgo,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457194
+25,sex 12/02/2021,17:00,CE Sabadell,Zaragoza,3-5-2,Antonio Hidalgo,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457208
+26,sáb 20/02/2021,12:00,Espanyol,CE Sabadell,3-4-3 plano,Antonio Hidalgo,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457213
+27,sex 26/02/2021,15:00,CE Sabadell,Albacete,3-4-2-1,Antonio Hidalgo,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457230
+28,dom 07/03/2021,10:00,Málaga CF,CE Sabadell,3-4-2-1,Antonio Hidalgo,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457240
+29,sáb 13/03/2021,16:30,Castellón,CE Sabadell,3-5-2 plano,Antonio Hidalgo,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457246
+30,sáb 20/03/2021,12:00,CE Sabadell,Real Sporting,3-5-2,Antonio Hidalgo,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457265
+31,dom 28/03/2021,09:00,Lugo,CE Sabadell,3-5-2,Antonio Hidalgo,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457272
+32,qua 31/03/2021,14:00,CE Sabadell,Girona,3-4-3 plano,Antonio Hidalgo,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457287
+33,dom 04/04/2021,13:15,Leganés,CE Sabadell,3-4-2-1,Antonio Hidalgo,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457295
+34,dom 11/04/2021,13:15,CE Sabadell,FC Cartagena,3-4-2-1,Antonio Hidalgo,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457308
+35,sex 16/04/2021,14:00,Fuenlabrada CF,CE Sabadell,5-3-2,Antonio Hidalgo,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457315
+36,seg 26/04/2021,16:00,CE Sabadell,Mallorca,3-5-2,Antonio Hidalgo,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457330
+37,seg 03/05/2021,13:00,CE Sabadell,Rayo Vallecano,3-5-2,Antonio Hidalgo,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457342
+38,dom 09/05/2021,11:00,Real Oviedo,CE Sabadell,4-4-2 duplo 6,Antonio Hidalgo,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457350
+39,dom 16/05/2021,09:00,CE Sabadell,Tenerife,4-4-2,Antonio Hidalgo,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457364
+40,qua 19/05/2021,14:00,AD Alcorcón,CE Sabadell,3-4-1-2,Antonio Hidalgo,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457366
+41,seg 24/05/2021,16:00,CE Sabadell,Ponferradina,4-4-2,Antonio Hidalgo,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457386
+42,dom 30/05/2021,16:00,Mirandés,CE Sabadell,3-5-2,Antonio Hidalgo,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3457392

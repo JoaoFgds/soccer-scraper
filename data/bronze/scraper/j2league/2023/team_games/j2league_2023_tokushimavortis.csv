@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 19/02/2023,02:00,Tokushima Vort.,Oita Trinita,4-4-2 losango,Beñat Labaien,12070,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006231
+2,sáb 25/02/2023,01:00,Ventforet Kofu,Tokushima Vort.,4-3-3 ofensivo,Beñat Labaien,5633,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006233
+3,sáb 04/03/2023,02:00,Tokushima Vort.,Vegalta Sendai,4-3-3 ofensivo,Beñat Labaien,5553,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006246
+4,dom 12/03/2023,02:00,Tokushima Vort.,Tokyo Verdy,4-4-2 losango,Beñat Labaien,6006,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006264
+5,dom 19/03/2023,02:00,Iwaki FC,Tokushima Vort.,4-4-2 duplo 6,Beñat Labaien,3100,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006269
+6,sáb 25/03/2023,02:00,Tokushima Vort.,Blaublitz Akita,4-3-3 ofensivo,Beñat Labaien,4582,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006280
+7,dom 02/04/2023,01:00,Roasso Kumamoto,Tokushima Vort.,4-3-3 ofensivo,Beñat Labaien,4166,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006293
+8,sáb 08/04/2023,02:00,JEF Utd. Chiba,Tokushima Vort.,4-3-3 ofensivo,Beñat Labaien,5475,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006303
+9,qua 12/04/2023,07:00,Tokushima Vort.,Mito HollyHock,4-4-2 losango,Beñat Labaien,3304,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006318
+10,dom 16/04/2023,02:00,Tokushima Vort.,V-V. Nagasaki,4-4-2 losango,Beñat Labaien,4892,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006329
+11,dom 23/04/2023,02:00,Thespaku. Gunma,Tokushima Vort.,3-1-4-2,Beñat Labaien,2949,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006394
+12,sáb 29/04/2023,02:00,Júbilo Iwata,Tokushima Vort.,3-1-4-2,Beñat Labaien,9280,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006339
+13,qua 03/05/2023,02:00,Tokushima Vort.,Shimizu S-Pulse,3-1-4-2,Beñat Labaien,13199,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006372
+14,dom 07/05/2023,02:00,Omiya Ardija,Tokushima Vort.,3-1-4-2,Beñat Labaien,4288,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006402
+15,sáb 13/05/2023,01:15,Reno. Yamaguchi,Tokushima Vort.,3-1-4-2,Beñat Labaien,3775,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006355
+16,qua 17/05/2023,07:00,Tokushima Vort.,Zweig. Kanazawa,3-1-4-2,Beñat Labaien,3562,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006384
+17,dom 21/05/2023,02:00,Fujieda MYFC,Tokushima Vort.,3-1-4-2,Beñat Labaien,2353,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006414
+18,dom 28/05/2023,02:00,Tokushima Vort.,Machida Zelvia,3-1-4-2,Beñat Labaien,5884,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006648
+19,sáb 03/06/2023,07:00,Fagiano Okayama,Tokushima Vort.,3-1-4-2,Beñat Labaien,10256,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006351
+20,dom 11/06/2023,04:00,Tokushima Vort.,Tochigi SC,3-1-4-2,Beñat Labaien,4201,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006514
+21,sáb 17/06/2023,07:00,Tokushima Vort.,Monte. Yamagata,3-1-4-2,Beñat Labaien,5601,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006455
+22,dom 25/06/2023,06:00,Vegalta Sendai,Tokushima Vort.,3-1-4-2,Beñat Labaien,10286,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006525
+23,sáb 01/07/2023,07:00,Tokushima Vort.,Thespaku. Gunma,3-1-4-2,Beñat Labaien,4043,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006493
+24,qua 05/07/2023,07:00,Mito HollyHock,Tokushima Vort.,3-1-4-2,Beñat Labaien,2349,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006477
+25,dom 09/07/2023,07:00,Tokushima Vort.,Fagiano Okayama,3-1-4-2,Beñat Labaien,8293,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006451
+26,sáb 15/07/2023,06:00,Tokyo Verdy,Tokushima Vort.,3-1-4-2,Beñat Labaien,6646,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006596
+27,sáb 22/07/2023,07:00,Tokushima Vort.,Ventforet Kofu,3-1-4-2,Beñat Labaien,4987,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006535
+28,sáb 29/07/2023,06:00,Machida Zelvia,Tokushima Vort.,3-1-4-2,Beñat Labaien,3561,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006567
+29,dom 06/08/2023,07:00,Tokushima Vort.,JEF Utd. Chiba,4-4-2 duplo 6,Beñat Labaien,4411,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006616
+30,dom 13/08/2023,07:00,Tochigi SC,Tokushima Vort.,4-2-3-1,Beñat Labaien,5865,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006428
+31,dom 20/08/2023,07:00,Tokushima Vort.,Reno. Yamaguchi,4-2-3-1,Beñat Labaien,5533,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006584
+32,sáb 26/08/2023,07:00,Zweig. Kanazawa,Tokushima Vort.,4-2-3-1,Tatsuma Yoshida,4874,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006556
+33,dom 03/09/2023,06:00,Shimizu S-Pulse,Tokushima Vort.,4-2-3-1,Tatsuma Yoshida,13299,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006505
+34,dom 10/09/2023,07:00,Tokushima Vort.,Iwaki FC,4-2-3-1,Tatsuma Yoshida,4799,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006438
+35,sáb 16/09/2023,07:00,Oita Trinita,Tokushima Vort.,4-2-3-1,Tatsuma Yoshida,9741,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006623
+36,dom 24/09/2023,04:00,Tokushima Vort.,Omiya Ardija,4-2-3-1,Tatsuma Yoshida,5613,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006660
+37,dom 01/10/2023,02:00,Monte. Yamagata,Tokushima Vort.,4-2-3-1,Tatsuma Yoshida,7329,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006677
+38,qua 27/09/2023,07:00,Tokushima Vort.,Roasso Kumamoto,3-4-2-1,Tatsuma Yoshida,3126,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006595
+39,dom 22/10/2023,02:00,Tokushima Vort.,Júbilo Iwata,4-2-3-1,Tatsuma Yoshida,7828,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006473
+40,sáb 28/10/2023,02:00,V-V. Nagasaki,Tokushima Vort.,4-2-3-1,Tatsuma Yoshida,8010,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006633
+41,sáb 04/11/2023,02:00,Tokushima Vort.,Fujieda MYFC,4-2-3-1,Tatsuma Yoshida,8004,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006544
+42,dom 12/11/2023,01:00,Blaublitz Akita,Tokushima Vort.,4-2-3-1,Tatsuma Yoshida,3375,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006663

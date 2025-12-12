@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 20/09/2020,08:30,Greuther Fürth,VfL Osnabrück,3-4-1-2,Marco Grote,3000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413185
+2,sex 25/09/2020,13:30,VfL Osnabrück,Hannover,4-2-3-1,Marco Grote,3200,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413193
+3,sex 02/10/2020,13:30,Bochum,VfL Osnabrück,4-3-1-2,Marco Grote,4231,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413201
+4,qua 28/10/2020,14:30,VfL Osnabrück,Darmstadt 98,4-3-1-2,Marco Grote,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413211
+5,dom 25/10/2020,09:30,Heidenheim,VfL Osnabrück,4-4-2 duplo 6,Marco Grote,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413216
+6,sáb 31/10/2020,09:00,VfL Osnabrück,Sandhausen,4-3-3 ofensivo,Marco Grote,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413236
+7,dom 08/11/2020,09:30,J. Regensburg,VfL Osnabrück,4-3-1-2,Marco Grote,x,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413249
+8,seg 23/11/2020,16:30,VfL Osnabrück,Nuremberg,4-3-3 ofensivo,Marco Grote,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413258
+9,sex 27/11/2020,14:30,St. Pauli,VfL Osnabrück,4-2-3-1,Marco Grote,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413267
+10,sáb 05/12/2020,09:00,VfL Osnabrück,Karlsruher,4-4-2 losango,Marco Grote,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413285
+11,dom 13/12/2020,09:30,E. Braunschweig,VfL Osnabrück,4-3-1-2,Marco Grote,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413296
+12,qua 16/12/2020,14:30,Düsseldorf,VfL Osnabrück,4-4-2 losango,Marco Grote,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413306
+13,sáb 19/12/2020,09:00,VfL Osnabrück,Paderborn,4-3-1-2,Marco Grote,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413319
+14,dom 03/01/2021,09:30,Holstein Kiel,VfL Osnabrück,4-2-3-1,Marco Grote,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413331
+15,sáb 09/01/2021,09:00,VfL Osnabrück,Würzb. Kickers,4-2-3-1,Marco Grote,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413346
+16,seg 18/01/2021,16:30,Hamburgo,VfL Osnabrück,4-2-3-1,Marco Grote,x,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413352
+17,sex 22/01/2021,14:30,VfL Osnabrück,Erzgebirge Aue,4-3-3 defensivo,Marco Grote,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413373
+18,ter 26/01/2021,16:30,VfL Osnabrück,Greuther Fürth,4-2-3-1,Marco Grote,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413382
+19,seg 01/02/2021,16:30,Hannover,VfL Osnabrück,4-2-3-1,Marco Grote,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413398
+20,sáb 06/02/2021,09:00,VfL Osnabrück,Bochum,4-2-3-1,Marco Grote,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413410
+21,dom 14/02/2021,09:30,Darmstadt 98,VfL Osnabrück,4-3-1-2,Marco Grote,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413425
+22,sáb 20/02/2021,09:00,VfL Osnabrück,Heidenheim,3-4-2-1,Florian Fulland,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413445
+23,dom 28/02/2021,09:30,Sandhausen,VfL Osnabrück,3-4-2-1,Florian Fulland,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413463
+24,qua 14/04/2021,13:30,VfL Osnabrück,J. Regensburg,3-5-2 plano,Markus Feldhoff,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413482
+25,dom 14/03/2021,09:30,Nuremberg,VfL Osnabrück,3-4-2-1,Markus Feldhoff,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413476
+26,dom 21/03/2021,09:30,VfL Osnabrück,St. Pauli,3-1-4-2,Markus Feldhoff,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413456
+27,sáb 03/04/2021,08:00,Karlsruher,VfL Osnabrück,3-4-1-2,Markus Feldhoff,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413439
+28,dom 11/04/2021,08:30,VfL Osnabrück,E. Braunschweig,3-5-2 plano,Markus Feldhoff,x,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413421
+29,dom 18/04/2021,08:30,VfL Osnabrück,Düsseldorf,4-3-3 defensivo,Markus Feldhoff,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413391
+30,qua 21/04/2021,13:30,Paderborn,VfL Osnabrück,3-4-1-2,Markus Feldhoff,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413361
+31,sáb 24/04/2021,08:00,VfL Osnabrück,Holstein Kiel,3-4-1-2,Markus Feldhoff,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413337
+32,sáb 08/05/2021,08:00,Würzb. Kickers,VfL Osnabrück,4-2-3-1,Markus Feldhoff,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413305
+33,dom 16/05/2021,10:30,VfL Osnabrück,Hamburgo,4-4-2 duplo 6,Markus Feldhoff,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413274
+34,dom 23/05/2021,10:30,Erzgebirge Aue,VfL Osnabrück,4-4-2 duplo 6,Markus Feldhoff,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413231

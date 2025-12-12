@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 09/09/1990,11:00,Milan,Genoa,4-4-2 duplo 6,Arrigo Sacchi,78990,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216675
+2,dom 16/09/1990,11:00,Cesena,Milan,4-4-2 duplo 6,Arrigo Sacchi,24680,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216682
+3,dom 23/09/1990,11:00,Milan,Florenz,4-4-2 duplo 6,Arrigo Sacchi,77419,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216686
+4,dom 30/09/1990,11:00,Lazio,Milan,4-4-2 duplo 6,Arrigo Sacchi,50447,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216696
+5,dom 07/10/1990,11:00,Milan,Cagliari,4-4-2 duplo 6,Arrigo Sacchi,79553,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216704
+6,dom 21/10/1990,11:30,Napoli,Milan,4-4-2 duplo 6,Arrigo Sacchi,68178,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216715
+7,dom 28/10/1990,11:30,Milan,Sampdoria,4-3-1-2,Arrigo Sacchi,79897,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216721
+8,dom 11/11/1990,11:30,Atalanta,Milan,4-4-2 duplo 6,Arrigo Sacchi,29229,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216731
+9,dom 18/11/1990,11:30,Milan,Inter,4-4-2 duplo 6,Arrigo Sacchi,83803,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216742
+10,dom 25/11/1990,11:30,Torino,Milan,4-4-2 duplo 6,Arrigo Sacchi,43849,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216749
+11,dom 02/12/1990,11:30,Milan,Lecce,4-4-2 duplo 6,Arrigo Sacchi,75872,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216760
+12,qua 23/01/1991,11:30,Milan,AC Pisa 1909,4-4-2 duplo 6,Arrigo Sacchi,75214,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216773
+13,dom 16/12/1990,11:30,Roma,Milan,4-4-2 duplo 6,Arrigo Sacchi,59212,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216776
+14,dom 30/12/1990,11:30,Milan,Juventus,4-4-2 duplo 6,Arrigo Sacchi,83921,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216786
+15,dom 06/01/1991,11:30,Bologna,Milan,4-4-2 duplo 6,Arrigo Sacchi,34061,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216797
+16,dom 13/01/1991,11:30,Milan,Bari,4-4-2 duplo 6,Arrigo Sacchi,75315,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216809
+17,dom 20/01/1991,11:30,AC Parma,Milan,4-4-2 duplo 6,Arrigo Sacchi,20954,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216814
+18,dom 27/01/1991,11:30,Genoa,Milan,4-4-2 duplo 6,Arrigo Sacchi,37282,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216827
+19,dom 03/02/1991,11:30,Milan,Cesena,4-4-2 duplo 6,Arrigo Sacchi,72983,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216833
+20,dom 10/02/1991,12:00,Florenz,Milan,4-4-2 duplo 6,Arrigo Sacchi,34835,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216839
+21,dom 17/02/1991,11:00,Milan,Lazio,4-3-1-2,Arrigo Sacchi,75395,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216847
+22,dom 24/02/1991,11:00,Cagliari,Milan,4-4-2 duplo 6,Arrigo Sacchi,35713,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216862
+23,dom 03/03/1991,11:00,Milan,Napoli,4-4-2 duplo 6,Arrigo Sacchi,82043,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216873
+24,dom 10/03/1991,11:00,Sampdoria,Milan,4-4-2 duplo 6,Arrigo Sacchi,38400,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216875
+25,dom 17/03/1991,11:00,Milan,Atalanta,4-4-2 duplo 6,Arrigo Sacchi,76739,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216891
+26,dom 24/03/1991,11:00,Inter,Milan,4-4-2 losango,Arrigo Sacchi,80172,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216894
+27,sáb 30/03/1991,11:00,Milan,Torino,4-4-2 duplo 6,Arrigo Sacchi,79796,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216904
+28,dom 07/04/1991,11:00,Lecce,Milan,4-4-2 duplo 6,Arrigo Sacchi,23625,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216918
+29,dom 14/04/1991,11:00,AC Pisa 1909,Milan,4-4-2 duplo 6,Arrigo Sacchi,20797,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216921
+30,sáb 20/04/1991,11:00,Milan,Roma,4-4-2 losango,Arrigo Sacchi,78064,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216930
+31,dom 05/05/1991,11:00,Juventus,Milan,4-4-2 duplo 6,Arrigo Sacchi,57794,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216941
+32,dom 12/05/1991,11:00,Milan,Bologna,4-4-2 duplo 6,Arrigo Sacchi,75486,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216947
+33,dom 19/05/1991,11:00,Bari,Milan,4-4-2 duplo 6,Arrigo Sacchi,42549,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216961
+34,dom 26/05/1991,11:00,Milan,AC Parma,4-4-2 duplo 6,Arrigo Sacchi,83528,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216970

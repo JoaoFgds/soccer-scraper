@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 09/09/1990,11:00,Sampdoria,Cesena,5-3-2,Vujadin Boskov,24321,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216669
+2,dom 16/09/1990,11:00,Florenz,Sampdoria,3-4-2-1,Vujadin Boskov,33186,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216681
+3,dom 23/09/1990,11:00,Sampdoria,Bologna,3-4-2-1,Vujadin Boskov,27371,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216688
+4,dom 30/09/1990,11:00,Juventus,Sampdoria,3-4-2-1,Vujadin Boskov,47116,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216697
+5,dom 07/10/1990,11:00,AC Parma,Sampdoria,3-5-2 plano,Vujadin Boskov,16840,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216706
+6,dom 21/10/1990,11:30,Sampdoria,Atalanta,3-5-2 plano,Vujadin Boskov,26658,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216713
+7,dom 28/10/1990,11:30,Milan,Sampdoria,3-4-2-1,Vujadin Boskov,79897,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216721
+8,dom 11/11/1990,11:30,Sampdoria,AC Pisa 1909,3-5-2 plano,Vujadin Boskov,28002,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216730
+9,dom 18/11/1990,11:30,Napoli,Sampdoria,3-5-2 plano,Vujadin Boskov,57013,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216741
+10,dom 25/11/1990,11:30,Sampdoria,Genoa,3-5-2 plano,Vujadin Boskov,39058,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216750
+11,dom 02/12/1990,11:30,Cagliari,Sampdoria,3-4-2-1,Vujadin Boskov,24760,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216762
+12,qua 23/01/1991,11:30,Sampdoria,Roma,3-5-2 plano,Vujadin Boskov,27337,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216768
+13,dom 16/12/1990,11:30,Bari,Sampdoria,3-5-2 plano,Vujadin Boskov,36402,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216782
+14,dom 30/12/1990,11:30,Sampdoria,Inter,3-5-2 plano,Vujadin Boskov,38482,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216785
+15,dom 06/01/1991,11:30,Sampdoria,Torino,3-5-2 plano,Vujadin Boskov,31210,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216794
+16,dom 13/01/1991,11:30,Lecce,Sampdoria,3-4-2-1,Vujadin Boskov,16063,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216810
+17,dom 20/01/1991,11:30,Sampdoria,Lazio,3-5-2 plano,Vujadin Boskov,25191,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216812
+18,dom 27/01/1991,11:30,Cesena,Sampdoria,4-4-2 líbero plano,Vujadin Boskov,12194,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216822
+19,dom 03/02/1991,11:30,Sampdoria,Florenz,3-4-2-1,Vujadin Boskov,27708,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216831
+20,dom 10/02/1991,12:00,Bologna,Sampdoria,3-5-2 plano,Vujadin Boskov,18104,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216844
+21,dom 17/02/1991,11:00,Sampdoria,Juventus,3-5-2 plano,Vujadin Boskov,38284,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216849
+22,dom 24/02/1991,11:00,Sampdoria,AC Parma,3-5-2 plano,Vujadin Boskov,31714,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216858
+23,dom 03/03/1991,11:00,Atalanta,Sampdoria,3-5-2 plano,Vujadin Boskov,19130,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216872
+24,dom 10/03/1991,11:00,Sampdoria,Milan,3-5-2 plano,Vujadin Boskov,38400,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216875
+25,dom 17/03/1991,11:00,AC Pisa 1909,Sampdoria,3-5-2 plano,Luca Giannini,15278,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216884
+26,dom 24/03/1991,11:00,Sampdoria,Napoli,3-5-2 plano,Vujadin Boskov,29793,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216893
+27,sáb 30/03/1991,11:00,Genoa,Sampdoria,3-5-2 plano,Vujadin Boskov,27731,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216906
+28,dom 07/04/1991,11:00,Sampdoria,Cagliari,3-5-2 plano,Vujadin Boskov,32274,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216913
+29,dom 14/04/1991,11:00,Roma,Sampdoria,3-5-2 plano,Vujadin Boskov,47359,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216920
+30,dom 21/04/1991,11:00,Sampdoria,Bari,3-5-2 plano,Vujadin Boskov,36402,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216936
+31,dom 05/05/1991,11:00,Inter,Sampdoria,3-5-2 plano,Vujadin Boskov,78898,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216937
+32,dom 12/05/1991,11:00,Torino,Sampdoria,3-5-2 plano,Vujadin Boskov,41244,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216949
+33,dom 19/05/1991,11:00,Sampdoria,Lecce,3-5-2 plano,Vujadin Boskov,39487,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216956
+34,dom 26/05/1991,11:00,Lazio,Sampdoria,3-5-2 plano,Vujadin Boskov,34426,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216968

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qui 22/08/2002,17:00,Vitória FC,Boavista,4-2-3-1,Luís Campos,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853610
+2,dom 01/09/2002,12:00,Gil Vicente,Vitória FC,4-2-3-1,Luís Campos,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853649
+3,seg 16/09/2002,16:30,Vitória FC,Vit. Guimarães,4-5-1,Luís Campos,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853661
+4,dom 22/09/2002,12:00,Marítimo,Vitória FC,3-4-3 plano,Luís Campos,5000,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853665
+5,dom 29/09/2002,12:00,Vitória FC,Beira-Mar,4-2-3-1,Luís Campos,5000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853674
+6,sáb 05/10/2002,17:00,Benfica,Vitória FC,4-2-3-1,Luís Campos,35500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853683
+7,dom 20/10/2002,12:00,Vitória FC,Leiria,4-5-1,Luís Campos,5000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3578216
+8,dom 27/10/2002,13:00,Nacional,Vitória FC,4-2-3-1,Luís Campos,3000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853705
+9,dom 03/11/2002,13:00,Moreirense,Vitória FC,4-2-3-1,Luís Campos,2000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853712
+10,sáb 09/11/2002,19:00,Vitória FC,FC Porto,4-3-3 ofensivo,Luís Campos,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853746
+11,dom 17/11/2002,16:00,Académica,Vitória FC,4-2-3-1,Luís Campos,8000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853757
+12,sáb 30/11/2002,14:00,Vitória FC,Santa Clara,4-2-3-1,Luís Campos,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853761
+13,dom 08/12/2002,14:00,Paços Ferreira,Vitória FC,4-5-1,Luís Campos,2000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853774
+14,sex 13/12/2002,19:00,Vitória FC,Varzim,4-5-1,Luís Campos,,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853779
+15,dom 22/12/2002,14:00,Braga,Vitória FC,4-2-3-1,Luís Campos,4000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853792
+16,sáb 04/01/2003,19:15,Vitória FC,Sporting,3-3-3-1,Luís Campos,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853801
+17,seg 13/01/2003,18:30,Belenenses,Vitória FC,4-2-3-1,Luís Campos,2000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853815
+18,dom 19/01/2003,16:00,Boavista,Vitória FC,4-3-3 ofensivo,Luís Campos,4000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853827
+19,dom 26/01/2003,16:00,Vitória FC,Gil Vicente,4-2-3-1,Luís Campos,4000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853838
+20,seg 03/02/2003,19:00,Vit. Guimarães,Vitória FC,4-2-3-1,Luís Campos,3500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853848
+21,dom 09/02/2003,14:00,Vitória FC,Marítimo,4-2-3-1,Diamantino,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853854
+22,dom 16/02/2003,13:00,Beira-Mar,Vitória FC,4-2-3-1,Diamantino,4000,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853862
+23,sáb 22/02/2003,18:00,Vitória FC,Benfica,?,Diamantino,10000,2:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853868
+24,sáb 01/03/2003,18:00,Leiria,Vitória FC,?,Diamantino,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853877
+25,dom 16/03/2003,13:00,Vitória FC,Nacional,?,Carlos Cardoso,5000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853887
+26,dom 23/03/2003,13:00,Vitória FC,Moreirense,?,Carlos Cardoso,6000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853896
+27,dom 06/04/2003,16:30,FC Porto,Vitória FC,4-3-3 ofensivo,Carlos Cardoso,20000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853910
+28,sáb 19/04/2003,12:00,Vitória FC,Académica,?,Carlos Cardoso,3000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853914
+29,dom 27/04/2003,13:00,Santa Clara,Vitória FC,?,Carlos Cardoso,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853927
+30,dom 04/05/2003,12:00,Vitória FC,Paços Ferreira,?,Carlos Cardoso,3500,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853943
+31,dom 11/05/2003,12:00,Varzim,Vitória FC,4-2-3-1,Carlos Cardoso,3500,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853962
+32,seg 19/05/2003,16:30,Vitória FC,Braga,?,Carlos Cardoso,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853976
+33,sáb 24/05/2003,16:45,Sporting,Vitória FC,4-2-3-1,Luís Campos,24000,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853978
+34,dom 01/06/2003,12:00,Vitória FC,Belenenses,?,Carlos Cardoso,1200,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853990

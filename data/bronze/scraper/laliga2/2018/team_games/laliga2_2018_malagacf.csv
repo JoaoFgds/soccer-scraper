@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 18/08/2018,14:30,Lugo,Málaga CF,4-2-3-1,Juan Muñiz,3290,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080462
+2,sex 24/08/2018,17:00,Málaga CF,AD Alcorcón,4-2-3-1,Juan Muñiz,18626,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080475
+3,seg 03/09/2018,16:00,UD Almería,Málaga CF,4-4-2 duplo 6,Juan Muñiz,8955,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080481
+4,sáb 08/09/2018,13:00,Málaga CF,Tenerife,4-4-2,Juan Muñiz,15408,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080493
+5,sáb 15/09/2018,13:00,Málaga CF,Córdoba,4-4-2 duplo 6,Juan Muñiz,19047,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089559
+6,dom 23/09/2018,13:00,Las Palmas,Málaga CF,4-4-2 duplo 6,Juan Muñiz,21350,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089565
+7,dom 30/09/2018,11:00,Málaga CF,R. Majadahonda,4-4-2 duplo 6,Juan Muñiz,18207,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089583
+8,dom 07/10/2018,13:00,Deportivo,Málaga CF,4-4-2 duplo 6,Juan Muñiz,18374,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089586
+9,sex 12/10/2018,11:00,Málaga CF,Albacete,4-4-2 duplo 6,Juan Muñiz,18709,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089612
+10,sex 19/10/2018,16:00,Elche,Málaga CF,4-4-2 duplo 6,Juan Muñiz,9565,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089600
+11,seg 29/10/2018,17:00,Málaga CF,Numância,4-4-2 duplo 6,Juan Muñiz,14780,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089621
+12,sáb 03/11/2018,14:00,Osasuna,Málaga CF,4-4-2 duplo 6,Juan Muñiz,14052,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089638
+13,dom 11/11/2018,15:00,Real Sporting,Málaga CF,4-4-2 duplo 6,Juan Muñiz,18720,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089650
+14,sáb 17/11/2018,13:00,Málaga CF,Gimnàstic,4-4-2 duplo 6,Juan Muñiz,17256,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089654
+15,dom 25/11/2018,13:00,Extremadura,Málaga CF,4-2-3-1,Juan Muñiz,7708,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089665
+16,sáb 01/12/2018,15:00,Málaga CF,Granada CF,4-4-2 duplo 6,Juan Muñiz,22988,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089681
+17,sáb 08/12/2018,15:00,Mallorca,Málaga CF,4-4-2 duplo 6,Juan Muñiz,9643,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089694
+18,sex 14/12/2018,18:00,Málaga CF,Cádiz CF,4-4-2 duplo 6,Juan Muñiz,17650,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089702
+19,sáb 22/12/2018,13:00,Real Oviedo,Málaga CF,4-4-2 duplo 6,Juan Muñiz,12736,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089815
+20,dom 06/01/2019,17:00,Málaga CF,Reus Deportiu,4-4-2 duplo 6,Juan Muñiz,16058,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089819
+21,dom 13/01/2019,15:00,Zaragoza,Málaga CF,4-3-3 ofensivo,Juan Muñiz,24898,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089837
+22,sáb 19/01/2019,17:30,Málaga CF,Lugo,4-4-2 duplo 6,Juan Muñiz,12758,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089847
+23,sáb 26/01/2019,17:30,Tenerife,Málaga CF,4-1-4-1,Juan Muñiz,14366,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089859
+24,sex 01/02/2019,18:00,Málaga CF,UD Almería,4-1-4-1,Juan Muñiz,13313,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089867
+25,dom 10/02/2019,17:00,Málaga CF,Las Palmas,4-1-4-1,Juan Muñiz,15842,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3093042
+26,dom 17/02/2019,14:00,R. Majadahonda,Málaga CF,4-1-4-1,Juan Muñiz,3137,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3093050
+27,dom 24/02/2019,14:00,Málaga CF,Deportivo,4-1-4-1,Juan Muñiz,22414,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3093063
+28,sáb 02/03/2019,14:00,Córdoba,Málaga CF,4-1-4-1,Juan Muñiz,13885,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3093067
+29,seg 11/03/2019,17:00,Málaga CF,Osasuna,4-2-3-1,Juan Muñiz,22692,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3093081
+30,seg 18/03/2019,17:00,Numância,Málaga CF,4-2-3-1,Juan Muñiz,2576,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3093099
+31,dom 24/03/2019,12:00,Gimnàstic,Málaga CF,4-4-2 duplo 6,Juan Muñiz,6212,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3093108
+32,sex 29/03/2019,17:00,Málaga CF,Real Sporting,4-2-3-1,Juan Muñiz,16996,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3093115
+33,sáb 06/04/2019,13:00,Granada CF,Málaga CF,4-2-3-1,Juan Muñiz,15211,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094020
+34,sáb 13/04/2019,11:00,Málaga CF,Extremadura,4-2-3-1,Juan Muñiz,18910,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094036
+35,sex 19/04/2019,16:00,AD Alcorcón,Málaga CF,4-3-3 ofensivo,Víctor Sánchez,1607,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094041
+36,sáb 27/04/2019,11:15,Málaga CF,Mallorca,4-3-3 ofensivo,Víctor Sánchez,23621,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094063
+37,seg 06/05/2019,16:00,Cádiz CF,Málaga CF,4-3-3 ofensivo,Víctor Sánchez,14320,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094076
+38,seg 13/05/2019,16:00,Málaga CF,Real Oviedo,4-3-3 ofensivo,Víctor Sánchez,15894,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094091
+39,dom 19/05/2019,11:00,Reus Deportiu,Málaga CF,?,Víctor Sánchez,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094107
+40,sex 24/05/2019,16:00,Málaga CF,Zaragoza,4-3-3 ofensivo,Víctor Sánchez,18970,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094112
+41,dom 02/06/2019,15:00,Albacete,Málaga CF,4-3-3 ofensivo,Víctor Sánchez,11649,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094121
+42,sáb 08/06/2019,15:30,Málaga CF,Elche,4-1-4-1,Víctor Sánchez,17906,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094140

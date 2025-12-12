@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 15/04/2018,16:00,Vasco da Gama,Atlético-MG,4-2-3-1,Zé Ricardo,7197,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3011405
+2,dom 22/04/2018,16:00,Chapecoense,Vasco da Gama,4-2-3-1,Zé Ricardo,8675,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3034136
+3,qui 27/09/2018,20:00,Santos,Vasco da Gama,4-1-4-1,Alberto Valentim,12985,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3034151
+4,sáb 05/05/2018,19:00,Vasco da Gama,América-MG,4-2-3-1,Zé Ricardo,3311,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036815
+5,dom 13/05/2018,16:00,Vasco da Gama,Vitória,4-2-3-1,Zé Ricardo,3542,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036827
+6,sáb 19/05/2018,19:00,Flamengo,Vasco da Gama,4-2-3-1,Zé Ricardo,35208,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036836
+7,dom 27/05/2018,16:00,Bahia,Vasco da Gama,4-2-3-1,Zé Ricardo,15031,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036849
+8,qua 30/05/2018,19:30,Vasco da Gama,Paraná,4-2-3-1,Zé Ricardo,4584,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036855
+9,sáb 02/06/2018,19:00,Vasco da Gama,Botafogo,4-2-3-1,Zé Ricardo,9454,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036867
+10,qua 06/06/2018,21:45,Cruzeiro,Vasco da Gama,4-2-3-1,Valdir Bigode,23725,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036880
+11,sáb 09/06/2018,19:00,Vasco da Gama,Sport,4-2-3-1,Jorginho,8418,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036889
+12,qua 13/06/2018,21:45,Internacional,Vasco da Gama,4-2-3-1,Jorginho,21589,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036904
+13,qui 19/07/2018,20:00,Vasco da Gama,Fluminense,4-2-3-1,Jorginho,11901,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036909
+14,dom 22/07/2018,16:00,Vasco da Gama,Grêmio,4-2-3-1,Jorginho,8242,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036919
+15,qua 29/08/2018,19:30,Atlético-PR,Vasco da Gama,4-2-3-1,Alberto Valentim,12907,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036926
+16,dom 29/07/2018,11:00,Vasco da Gama,Corinthians,4-2-3-1,Jorginho,33516,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036939
+17,dom 05/08/2018,16:00,São Paulo,Vasco da Gama,4-1-4-1,Jorginho,53437,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036951
+18,dom 12/08/2018,19:00,Palmeiras,Vasco da Gama,4-1-4-1,Jorginho,30012,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036963
+19,seg 20/08/2018,20:00,Vasco da Gama,Ceará,4-1-4-1,Valdir Bigode,15539,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036969
+20,qui 23/08/2018,20:00,Atlético-MG,Vasco da Gama,4-2-3-1,Valdir Bigode,22452,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036975
+21,dom 26/08/2018,19:00,Vasco da Gama,Chapecoense,4-2-3-1,Valdir Bigode,8782,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036989
+22,sáb 01/09/2018,19:00,Vasco da Gama,Santos,4-1-4-1,Alberto Valentim,33646,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036999
+23,qui 06/09/2018,20:00,América-MG,Vasco da Gama,4-2-3-1,Alberto Valentim,5061,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037007
+24,dom 09/09/2018,19:00,Vitória,Vasco da Gama,4-3-1-2,Alberto Valentim,10092,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037018
+25,sáb 15/09/2018,19:00,Vasco da Gama,Flamengo,4-2-3-1,Alberto Valentim,54288,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037029
+26,seg 24/09/2018,20:00,Vasco da Gama,Bahia,4-1-4-1,Alberto Valentim,13293,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037039
+27,seg 01/10/2018,20:00,Paraná,Vasco da Gama,4-2-3-1,Alberto Valentim,3894,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037046
+28,ter 09/10/2018,21:00,Botafogo,Vasco da Gama,4-2-3-1,Alberto Valentim,10059,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037060
+29,dom 14/10/2018,16:00,Vasco da Gama,Cruzeiro,4-2-3-1,Alberto Valentim,11376,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037069
+30,sáb 20/10/2018,19:00,Sport,Vasco da Gama,4-2-3-1,Alberto Valentim,13860,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037082
+31,sex 26/10/2018,21:30,Vasco da Gama,Internacional,4-1-4-1,Alberto Valentim,8301,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037089
+32,sáb 03/11/2018,17:00,Fluminense,Vasco da Gama,4-2-3-1,Alberto Valentim,14275,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037099
+33,dom 11/11/2018,17:00,Grêmio,Vasco da Gama,4-2-3-1,Alberto Valentim,22622,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037114
+34,qua 14/11/2018,19:30,Vasco da Gama,Atlético-PR,4-3-3 defensivo,Alberto Valentim,20917,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037119
+35,sáb 17/11/2018,19:00,Corinthians,Vasco da Gama,4-2-3-1,Alberto Valentim,38605,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037133
+36,qui 22/11/2018,20:00,Vasco da Gama,São Paulo,4-2-3-1,Alberto Valentim,14917,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037139
+37,dom 25/11/2018,17:00,Vasco da Gama,Palmeiras,4-2-3-1,Alberto Valentim,21066,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037149
+38,dom 02/12/2018,17:00,Ceará,Vasco da Gama,4-2-3-1,Alberto Valentim,57223,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037161

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 22/08/2020,14:00,Amiens SC,AS Nancy,4-2-3-1,Luka Elsner,4791,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3393970
+2,sáb 29/08/2020,14:00,Le Havre,Amiens SC,4-2-3-1,Luka Elsner,4126,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3393983
+3,sáb 12/09/2020,14:00,Amiens SC,Paris FC,4-4-2 duplo 6,Luka Elsner,4657,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3393990
+4,sáb 19/09/2020,14:00,LB Châteauroux,Amiens SC,4-4-2,Luka Elsner,4612,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394001
+5,sáb 26/09/2020,14:00,Amiens SC,Pau FC,4-2-3-1,Luka Elsner,4724,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394010
+6,sáb 03/10/2020,10:30,SM Caen,Amiens SC,4-2-3-1,Oswald Tanchot,5843,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394020
+7,sáb 17/10/2020,14:00,Amiens SC,Grenoble,4-1-4-1,Oswald Tanchot,4770,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394030
+8,seg 26/10/2020,16:45,FC Sochaux,Amiens SC,4-1-4-1,Oswald Tanchot,4994,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394046
+9,seg 02/11/2020,16:45,Amiens SC,Toulouse,4-3-3 ofensivo,Oswald Tanchot,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394050
+10,sáb 07/11/2020,15:00,Auxerre,Amiens SC,4-3-3 ofensivo,Oswald Tanchot,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394059
+11,sáb 21/11/2020,15:00,Amiens SC,Clermont Foot,4-1-4-1,Oswald Tanchot,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394069
+12,sáb 28/11/2020,15:00,Troyes,Amiens SC,4-1-4-1,Oswald Tanchot,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394088
+13,ter 01/12/2020,15:00,Amiens SC,USL Dunkerque,4-1-4-1,Oswald Tanchot,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394089
+14,sáb 05/12/2020,15:00,Rodez AF,Amiens SC,4-3-3 ofensivo,Oswald Tanchot,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394105
+15,sáb 12/12/2020,15:00,Amiens SC,FC Chambly Oise,4-1-4-1,Oswald Tanchot,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394109
+16,sex 18/12/2020,16:00,Valenciennes,Amiens SC,4-3-3 ofensivo,Oswald Tanchot,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394128
+17,ter 22/12/2020,16:00,Amiens SC,AC Ajaccio,4-3-3 ofensivo,Oswald Tanchot,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394129
+18,ter 05/01/2021,16:00,Guingamp,Amiens SC,4-1-4-1,Oswald Tanchot,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394143
+19,sex 08/01/2021,16:00,Chamois Niort,Amiens SC,5-4-1 plano,Oswald Tanchot,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394155
+20,sáb 16/01/2021,15:00,Amiens SC,Le Havre,5-4-1 plano,Oswald Tanchot,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394160
+21,sáb 23/01/2021,15:00,Paris FC,Amiens SC,3-4-2-1,Oswald Tanchot,x,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394176
+22,sáb 30/01/2021,15:00,Amiens SC,LB Châteauroux,3-4-2-1,Oswald Tanchot,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394180
+23,ter 02/02/2021,16:00,Pau FC,Amiens SC,3-4-1-2,Oswald Tanchot,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394197
+24,sex 05/02/2021,16:00,Amiens SC,SM Caen,4-3-3 ofensivo,Oswald Tanchot,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394200
+25,sáb 13/02/2021,15:00,Grenoble,Amiens SC,4-3-3 ofensivo,Oswald Tanchot,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394214
+26,sáb 20/02/2021,15:00,Amiens SC,FC Sochaux,4-1-4-1,Oswald Tanchot,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394220
+27,sáb 27/02/2021,11:00,Toulouse,Amiens SC,4-3-3 ofensivo,Oswald Tanchot,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394237
+28,ter 02/03/2021,16:00,Amiens SC,Auxerre,3-4-2-1,Oswald Tanchot,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394247
+29,qua 14/04/2021,14:00,Clermont Foot,Amiens SC,3-4-2-1,Oswald Tanchot,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394266
+30,sáb 20/03/2021,11:00,Amiens SC,Troyes,3-4-2-1,Oswald Tanchot,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394280
+31,qua 28/04/2021,14:00,USL Dunkerque,Amiens SC,4-2-3-1,Oswald Tanchot,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394308
+32,dom 11/04/2021,14:00,Amiens SC,Rodez AF,3-4-2-1,Oswald Tanchot,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394321
+33,sáb 17/04/2021,15:00,FC Chambly Oise,Amiens SC,3-4-2-1,Oswald Tanchot,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394340
+34,ter 20/04/2021,15:00,Amiens SC,Valenciennes,4-4-1-1,Oswald Tanchot,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394362
+35,sáb 24/04/2021,15:00,AC Ajaccio,Amiens SC,4-1-4-1,Oswald Tanchot,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394494
+36,sáb 01/05/2021,15:00,Amiens SC,Guingamp,4-1-4-1,Oswald Tanchot,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394506
+37,sáb 08/05/2021,15:00,Amiens SC,Chamois Niort,4-2-3-1,Oswald Tanchot,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394525
+38,sáb 15/05/2021,15:00,AS Nancy,Amiens SC,5-3-2,Oswald Tanchot,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394543

@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 05/08/2019,15:45,Huddersfield,Derby,4-2-3-1,Jan Siewert,22596,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3196769
+2,sáb 10/08/2019,11:00,QPR,Huddersfield,4-2-3-1,Jan Siewert,14377,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219964
+3,sex 16/08/2019,15:45,Huddersfield,Fulham,4-3-3 ofensivo,Jan Siewert,20775,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219965
+4,qua 21/08/2019,15:45,Cardiff,Huddersfield,4-2-3-1,Mark Hudson,21821,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219943
+5,sáb 24/08/2019,11:00,Huddersfield,Reading,4-2-3-1,Mark Hudson,21847,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219930
+6,sáb 31/08/2019,11:00,Luton,Huddersfield,4-4-2 duplo 6,Mark Hudson,10062,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219922
+7,dom 15/09/2019,08:00,Huddersfield,Sheff Wed,4-3-3 ofensivo,Danny Cowley,22754,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219910
+8,dom 22/09/2019,08:00,West Brom,Huddersfield,4-3-3 ofensivo,Danny Cowley,23577,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219896
+9,sáb 28/09/2019,11:00,Huddersfield,Millwall,4-2-3-1,Danny Cowley,20781,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219881
+10,ter 01/10/2019,16:00,Stoke,Huddersfield,4-2-3-1,Danny Cowley,20372,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219855
+11,sáb 05/10/2019,11:00,Huddersfield,Hull City,4-2-3-1,Danny Cowley,21702,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219849
+12,sáb 19/10/2019,08:30,Blackburn,Huddersfield,4-2-3-1,Danny Cowley,13761,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219864
+13,qua 23/10/2019,15:45,Huddersfield,Middlesbrough,4-3-3 ofensivo,Danny Cowley,22839,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219851
+14,sáb 26/10/2019,11:00,Huddersfield,Barnsley FC,4-2-3-1,Danny Cowley,22718,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219841
+15,sáb 02/11/2019,12:00,Brentford,Huddersfield,4-2-3-1,Danny Cowley,11727,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219811
+16,sáb 09/11/2019,12:00,Preston NE,Huddersfield,4-2-3-1,Danny Cowley,16038,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219809
+17,sáb 23/11/2019,12:00,Huddersfield,Birmingham,4-2-3-1,Danny Cowley,22573,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219794
+18,ter 26/11/2019,16:45,Huddersfield,Swansea,4-2-3-1,Danny Cowley,20062,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219793
+19,sáb 30/11/2019,12:00,Bristol City,Huddersfield,4-4-1-1,Danny Cowley,20762,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219791
+20,sáb 07/12/2019,09:30,Huddersfield,Leeds,4-4-2,Danny Cowley,23805,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219724
+21,ter 10/12/2019,16:45,Charlton,Huddersfield,4-4-2,Danny Cowley,13488,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219712
+22,sáb 14/12/2019,12:00,Wigan,Huddersfield,4-2-3-1,Danny Cowley,10383,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219770
+23,sáb 21/12/2019,12:00,Huddersfield,Nott'm Forest,4-4-2,Danny Cowley,22529,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219753
+24,qui 26/12/2019,12:00,Middlesbrough,Huddersfield,4-2-3-1,Danny Cowley,25313,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223971
+25,dom 29/12/2019,12:00,Huddersfield,Blackburn,4-2-3-1,Danny Cowley,22859,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219667
+26,qua 01/01/2020,12:00,Huddersfield,Stoke,4-4-2,Danny Cowley,21933,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219671
+27,sáb 11/01/2020,12:00,Barnsley FC,Huddersfield,4-2-3-1,Danny Cowley,17158,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219676
+28,sáb 18/01/2020,12:00,Huddersfield,Brentford,4-2-3-1,Danny Cowley,20874,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219620
+29,ter 28/01/2020,16:45,Hull City,Huddersfield,4-2-3-1,Danny Cowley,10474,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219597
+30,sáb 01/02/2020,12:00,Fulham,Huddersfield,4-2-3-1,Danny Cowley,18013,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219688
+31,sáb 08/02/2020,12:00,Huddersfield,QPR,4-2-3-1,Danny Cowley,21083,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219594
+32,qua 12/02/2020,16:45,Huddersfield,Cardiff,4-2-3-1,Danny Cowley,20238,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219638
+33,sáb 15/02/2020,12:00,Derby,Huddersfield,4-2-3-1,Danny Cowley,27502,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219567
+34,sáb 22/02/2020,12:00,Swansea,Huddersfield,4-2-3-1,Danny Cowley,15148,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219675
+35,ter 25/02/2020,16:45,Huddersfield,Bristol City,4-2-3-1,Danny Cowley,19703,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219546
+36,sáb 29/02/2020,12:00,Huddersfield,Charlton,4-2-3-1,Danny Cowley,21539,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219565
+37,sáb 07/03/2020,12:00,Leeds,Huddersfield,4-2-3-1,Danny Cowley,36514,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219493
+38,sáb 20/06/2020,11:00,Huddersfield,Wigan,4-2-3-1,Danny Cowley,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219588
+39,dom 28/06/2020,10:15,Nott'm Forest,Huddersfield,4-2-3-1,Danny Cowley,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219544
+40,qua 01/07/2020,14:00,Birmingham,Huddersfield,4-2-3-1,Danny Cowley,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219532
+41,sáb 04/07/2020,11:00,Huddersfield,Preston NE,4-2-3-1,Danny Cowley,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219506
+42,ter 07/07/2020,14:00,Reading,Huddersfield,4-2-3-1,Danny Cowley,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219522
+43,sex 10/07/2020,14:00,Huddersfield,Luton,4-2-3-1,Danny Cowley,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219538
+44,ter 14/07/2020,15:45,Sheff Wed,Huddersfield,4-2-3-1,Danny Cowley,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219457
+45,sex 17/07/2020,13:30,Huddersfield,West Brom,4-2-3-1,Danny Cowley,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219444
+46,qua 22/07/2020,15:30,Millwall,Huddersfield,4-2-3-1,Danny Schofield,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219466

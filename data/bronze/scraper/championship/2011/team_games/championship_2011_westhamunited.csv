@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 07/08/2011,09:00,West Ham,Cardiff,4-2-3-1,Sam Allardyce,25680,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131754
+2,sáb 13/08/2011,11:00,Doncaster Rov.,West Ham,4-2-3-1,Sam Allardyce,11344,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131760
+3,ter 16/08/2011,15:45,Watford,West Ham,4-2-3-1,Sam Allardyce,14747,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131778
+4,dom 21/08/2011,09:15,West Ham,Leeds,4-2-3-1,Sam Allardyce,28252,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131790
+5,dom 28/08/2011,09:15,Nott'm Forest,West Ham,4-2-3-1,Sam Allardyce,21379,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131800
+6,sáb 10/09/2011,11:00,West Ham,FC Portsmouth,4-2-3-1,Sam Allardyce,33465,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131814
+7,sáb 17/09/2011,08:30,Millwall,West Ham,4-2-3-1,Sam Allardyce,16078,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131822
+8,sáb 24/09/2011,11:00,West Ham,Peterborough,4-2-3-1,Sam Allardyce,29895,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131838
+9,ter 27/09/2011,15:45,West Ham,Ipswich,4-4-2,Sam Allardyce,27709,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131850
+10,sáb 01/10/2011,11:00,Crystal Palace,West Ham,4-2-3-1,Sam Allardyce,20074,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131853
+11,sáb 15/10/2011,11:00,West Ham,Blackpool,4-4-2 losango,Sam Allardyce,31448,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131874
+12,ter 18/10/2011,16:45,Southampton,West Ham,4-4-2 duplo 6,Sam Allardyce,32152,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131886
+13,seg 24/10/2011,16:45,Brighton,West Ham,4-2-3-1,Sam Allardyce,20686,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131888
+14,sáb 29/10/2011,12:00,West Ham,Leicester,4-4-2,Sam Allardyce,30410,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131910
+15,ter 01/11/2011,17:45,West Ham,Bristol City,4-4-2,Sam Allardyce,27980,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131922
+16,sáb 05/11/2011,13:00,Hull City,West Ham,4-4-2,Sam Allardyce,21756,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131928
+17,sáb 19/11/2011,13:00,Coventry City,West Ham,4-1-4-1,Sam Allardyce,20524,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131938
+18,sáb 26/11/2011,15:20,West Ham,Derby,4-4-2,Sam Allardyce,27864,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131958
+19,ter 29/11/2011,17:45,Middlesbrough,West Ham,4-4-1-1,Sam Allardyce,18457,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131965
+20,sáb 03/12/2011,13:00,West Ham,FC Burnley,4-2-3-1,Sam Allardyce,26274,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131982
+21,sáb 10/12/2011,13:00,Reading,West Ham,4-2-3-1,Sam Allardyce,24026,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131992
+22,sáb 17/12/2011,13:00,West Ham,Barnsley FC,4-4-2,Sam Allardyce,34749,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132006
+23,seg 26/12/2011,15:30,Birmingham,West Ham,4-4-2,Sam Allardyce,20214,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132008
+24,sáb 31/12/2011,11:00,Derby,West Ham,4-4-2,Sam Allardyce,28067,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132030
+25,seg 02/01/2012,13:00,West Ham,Coventry City,4-2-3-1,Sam Allardyce,34936,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132034
+26,sáb 14/01/2012,13:00,FC Portsmouth,West Ham,4-4-1-1,Sam Allardyce,18492,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132054
+27,sáb 21/01/2012,13:00,West Ham,Nott'm Forest,4-4-2,Sam Allardyce,31718,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132064
+28,ter 31/01/2012,17:45,Ipswich,West Ham,4-2-3-1,Sam Allardyce,22185,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132078
+29,sáb 04/02/2012,10:30,West Ham,Millwall,4-2-3-1,Sam Allardyce,27774,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132086
+30,ter 27/03/2012,15:45,Peterborough,West Ham,4-4-2,Sam Allardyce,13517,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132102
+31,ter 14/02/2012,17:45,West Ham,Southampton,4-2-3-1,Sam Allardyce,32875,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132114
+32,ter 21/02/2012,18:00,Blackpool,West Ham,4-4-2 duplo 6,Sam Allardyce,13043,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132126
+33,sáb 25/02/2012,10:45,West Ham,Crystal Palace,4-4-2 duplo 6,Sam Allardyce,34900,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132129
+34,dom 04/03/2012,09:45,Cardiff,West Ham,4-2-3-1,Sam Allardyce,23872,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132150
+35,qua 07/03/2012,16:45,West Ham,Watford,4-4-2,Sam Allardyce,31674,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132162
+36,sáb 10/03/2012,12:00,West Ham,Doncaster Rov.,4-2-3-1,Sam Allardyce,34650,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132168
+37,sáb 17/03/2012,12:00,Leeds,West Ham,4-2-3-1,Sam Allardyce,33366,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132186
+38,ter 20/03/2012,16:45,West Ham,Middlesbrough,4-2-3-1,Sam Allardyce,27250,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132193
+39,sáb 24/03/2012,12:00,FC Burnley,West Ham,4-2-3-1,Sam Allardyce,15246,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132210
+40,sáb 31/03/2012,11:00,West Ham,Reading,4-3-2-1,Sam Allardyce,33350,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132220
+41,sex 06/04/2012,13:15,Barnsley FC,West Ham,4-2-3-1,Sam Allardyce,11151,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132234
+42,seg 09/04/2012,13:20,West Ham,Birmingham,4-3-3 defensivo,Sam Allardyce,31045,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132236
+43,sáb 14/04/2012,11:00,West Ham,Brighton,4-2-3-1,Sam Allardyce,32339,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132248
+44,ter 17/04/2012,15:45,Bristol City,West Ham,4-4-2,Sam Allardyce,16669,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132271
+45,seg 23/04/2012,15:45,Leicester,West Ham,4-1-4-1,Sam Allardyce,23172,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132283
+46,sáb 28/04/2012,08:30,West Ham,Hull City,4-2-3-1,Sam Allardyce,35000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132289

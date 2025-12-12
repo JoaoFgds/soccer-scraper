@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,ter 18/07/1995,19:00,Marselha,Le Mans UC 72,?,Thierry Froger,22000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3240318
+2,ter 25/07/1995,19:00,Le Mans UC 72,AS Red Star 93,?,Thierry Froger,3180,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3240337
+3,sex 28/07/1995,19:00,Chamois Niort,Le Mans UC 72,?,Thierry Froger,2670,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3290965
+4,sex 04/08/1995,19:00,Le Mans UC 72,ASOA Valence,?,Thierry Froger,2893,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3290977
+5,ter 08/08/1995,19:00,O Charleville,Le Mans UC 72,?,Thierry Froger,1855,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3290987
+6,sex 11/08/1995,19:00,Le Mans UC 72,FC Sochaux,?,Thierry Froger,3375,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3290993
+7,sex 18/08/1995,19:00,LB Châteauroux,Le Mans UC 72,?,Thierry Froger,3627,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3291011
+8,sex 25/08/1995,19:00,SAS Epinal,Le Mans UC 72,?,Thierry Froger,1387,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3291021
+9,sex 01/09/1995,19:00,Le Mans UC 72,Angers,?,Thierry Froger,3965,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3291025
+10,sex 08/09/1995,19:00,Louh.-Cuiseaux,Le Mans UC 72,?,Thierry Froger,1763,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3292568
+11,sex 15/09/1995,19:00,Le Mans UC 72,Amiens SC,?,Thierry Froger,3171,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3292574
+12,sex 22/09/1995,19:00,Perpignan,Le Mans UC 72,?,Thierry Froger,2419,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3292586
+13,sex 29/09/1995,20:00,Le Mans UC 72,USL Dunkerque,?,Thierry Froger,2500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3292597
+14,ter 03/10/1995,20:00,SM Caen,Le Mans UC 72,?,Thierry Froger,9567,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3292604
+15,sex 13/10/1995,20:00,Le Mans UC 72,Toulouse,?,Thierry Froger,5500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3292618
+16,sex 20/10/1995,21:00,Mulhouse S-A,Le Mans UC 72,?,Thierry Froger,1504,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3295145
+17,sex 27/10/1995,21:00,Le Mans UC 72,Stade Lavallois,?,Thierry Froger,8628,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3295159
+18,sex 03/11/1995,21:00,Olympique Alès,Le Mans UC 72,?,Thierry Froger,312,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3295171
+19,qui 09/11/1995,21:00,Le Mans UC 72,FC Lorient,?,Thierry Froger,3000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3295182
+20,sex 17/11/1995,21:00,AS Nancy,Le Mans UC 72,?,Thierry Froger,4832,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3295192
+21,qui 23/11/1995,21:00,Le Mans UC 72,Stade Poitevin,?,Thierry Froger,2695,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3295216
+22,sex 08/12/1995,21:00,AS Red Star 93,Le Mans UC 72,?,Thierry Froger,1321,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3301583
+23,ter 09/01/1996,21:00,Le Mans UC 72,Chamois Niort,?,Thierry Froger,2500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3301594
+24,sex 19/01/1996,21:00,ASOA Valence,Le Mans UC 72,?,Thierry Froger,1000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3301607
+25,sex 26/01/1996,21:00,Le Mans UC 72,O Charleville,?,Thierry Froger,2157,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3301617
+26,ter 06/02/1996,21:00,FC Sochaux,Le Mans UC 72,?,Thierry Froger,2135,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3301623
+27,sex 09/02/1996,21:00,Le Mans UC 72,LB Châteauroux,?,Thierry Froger,2980,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3301638
+28,sex 16/02/1996,20:00,Le Mans UC 72,SAS Epinal,?,Thierry Froger,2700,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3301645
+29,seg 26/02/1996,20:00,Angers,Le Mans UC 72,?,Thierry Froger,3145,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302603
+30,sex 01/03/1996,20:00,Le Mans UC 72,Louh.-Cuiseaux,?,Thierry Froger,3500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302617
+31,sex 08/03/1996,20:00,Amiens SC,Le Mans UC 72,?,Thierry Froger,3987,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302630
+32,ter 12/03/1996,20:00,Le Mans UC 72,Perpignan,?,Thierry Froger,2532,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302640
+33,sex 22/03/1996,20:00,USL Dunkerque,Le Mans UC 72,?,Thierry Froger,2030,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302652
+34,sex 29/03/1996,20:00,Le Mans UC 72,SM Caen,?,Thierry Froger,4595,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302663
+35,seg 08/04/1996,19:00,Toulouse,Le Mans UC 72,?,Thierry Froger,4572,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302668
+36,qui 18/04/1996,19:00,Le Mans UC 72,Mulhouse S-A,?,Thierry Froger,4400,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302689
+37,ter 23/04/1996,19:00,Stade Lavallois,Le Mans UC 72,?,Thierry Froger,11105,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302694
+38,sáb 27/04/1996,10:30,Le Mans UC 72,Olympique Alès,?,Thierry Froger,2519,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302706
+39,qui 02/05/1996,19:00,FC Lorient,Le Mans UC 72,?,Thierry Froger,1606,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302777
+40,qui 09/05/1996,19:00,Le Mans UC 72,AS Nancy,?,Thierry Froger,2642,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302787
+41,qui 16/05/1996,19:00,Stade Poitevin,Le Mans UC 72,?,Thierry Froger,4760,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302824
+42,seg 20/05/1996,19:00,Le Mans UC 72,Marselha,?,Thierry Froger,8000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302826

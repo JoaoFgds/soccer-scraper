@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qua 23/08/2006,15:00,KV Mechelen,KMSK Deinze,?,Peter Maes,6000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60402
+2,qua 30/08/2006,15:00,OH Leuven,KV Mechelen,?,Peter Maes,6000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60412
+3,sáb 02/09/2006,15:00,KV Mechelen,FCV Dender EH,?,Peter Maes,6600,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60416
+4,dom 10/09/2006,10:00,Union SG,KV Mechelen,?,Peter Maes,4000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60431
+5,sáb 16/09/2006,15:00,KV Mechelen,KAS Eupen,?,Peter Maes,6100,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60433
+6,dom 24/09/2006,10:00,RS Waasland,KV Mechelen,?,Peter Maes,3000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60446
+7,sáb 30/09/2006,15:00,KV Mechelen,Antuérpia,?,Peter Maes,10700,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60451
+8,sáb 07/10/2006,14:30,Dessel Sport,KV Mechelen,?,Peter Maes,2000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60460
+9,dom 15/10/2006,10:00,KVK Tienen,KV Mechelen,?,Peter Maes,5000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60477
+10,dom 29/10/2006,12:00,KV Mechelen,KV Oostende,?,Peter Maes,6000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60481
+11,dom 05/11/2006,13:00,KV Kortrijk,KV Mechelen,?,Peter Maes,3000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60494
+12,sáb 11/11/2006,18:00,KV Mechelen,AFC Tubize,?,Peter Maes,6300,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60497
+13,sáb 18/11/2006,18:00,KV Mechelen,KSK Ronse,?,Peter Maes,6200,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60508
+14,sáb 25/11/2006,18:00,RE Virton,KV Mechelen,?,Peter Maes,2000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60516
+15,sáb 02/12/2006,17:00,KV Mechelen,Overpelt-Lommel,?,Peter Maes,6400,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60526
+16,dom 10/12/2006,12:00,KRC Waregem,KV Mechelen,?,Peter Maes,1800,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60537
+17,sáb 16/12/2006,17:00,KV Mechelen,VW Hamme,?,Peter Maes,6200,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60544
+18,sáb 20/01/2007,17:00,KV Mechelen,OH Leuven,?,Peter Maes,7100,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60552
+19,sáb 27/01/2007,17:00,KMSK Deinze,KV Mechelen,?,Peter Maes,2500,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60559
+20,sáb 03/02/2007,17:00,KV Mechelen,Union SG,?,Peter Maes,6300,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60569
+21,dom 11/02/2007,12:00,FCV Dender EH,KV Mechelen,?,Peter Maes,4000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60582
+22,dom 18/02/2007,12:00,KV Mechelen,RS Waasland,?,Peter Maes,6300,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60588
+23,sáb 24/02/2007,17:00,KAS Eupen,KV Mechelen,?,Peter Maes,1050,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60598
+24,sáb 03/03/2007,16:00,KV Mechelen,Dessel Sport,?,Peter Maes,6200,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60604
+25,sáb 10/03/2007,16:00,Antuérpia,KV Mechelen,?,Peter Maes,14200,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60614
+26,sáb 17/03/2007,16:00,KV Mechelen,KVK Tienen,?,Peter Maes,6300,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60623
+27,dom 01/04/2007,10:00,KV Oostende,KV Mechelen,?,Peter Maes,4100,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60634
+28,sáb 07/04/2007,15:00,KV Mechelen,KV Kortrijk,?,Peter Maes,7733,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60641
+29,sáb 14/04/2007,15:00,AFC Tubize,KV Mechelen,?,Peter Maes,1600,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60654
+30,sáb 21/04/2007,15:00,KSK Ronse,KV Mechelen,?,Peter Maes,1900,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60659
+31,sáb 28/04/2007,15:00,KV Mechelen,RE Virton,?,Peter Maes,6500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60670
+32,sáb 05/05/2007,15:00,Overpelt-Lommel,KV Mechelen,?,Peter Maes,5000,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60680
+33,dom 13/05/2007,10:00,KV Mechelen,KRC Waregem,?,Peter Maes,7150,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60689
+34,dom 20/05/2007,10:00,VW Hamme,KV Mechelen,?,Peter Maes,2800,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/60702

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 11/08/2023,15:00,Al-Ahli,Al-Hazem,5-3-2,Filipe Gouveia,24006,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4120140
+2,sex 18/08/2023,15:00,Al-Hazem,Al-Ettifaq,5-3-2,Filipe Gouveia,1024,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138388
+3,sex 25/08/2023,12:00,Al-Fayha,Al-Hazem,3-4-1-2,Filipe Gouveia,465,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138381
+4,ter 29/08/2023,15:00,Al-Khaleej,Al-Hazem,4-4-2 duplo 6,Filipe Gouveia,1889,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138409
+5,sáb 02/09/2023,15:00,Al-Hazem,Al-Nassr,4-4-2 duplo 6,Filipe Gouveia,12297,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138484
+6,sáb 16/09/2023,12:00,Al-Hazem,Al-Tai,4-4-2,Filipe Gouveia,554,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138210
+7,qui 21/09/2023,15:00,Al-Shabab,Al-Hazem,4-4-2 duplo 6,Filipe Gouveia,2450,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138488
+8,sex 29/09/2023,12:00,Al-Hazem,Al-Taawoun,4-2-3-1,Filipe Gouveia,959,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138432
+9,qui 05/10/2023,09:00,Damac FC,Al-Hazem,4-2-3-1,Filipe Gouveia,312,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138394
+10,sáb 21/10/2023,12:00,Al-Hazem,Al-Raed,4-3-3 ofensivo,Daniel Carreño,532,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138355
+11,qui 26/10/2023,15:00,Al-Ittihad,Al-Hazem,4-3-3 ofensivo,Daniel Carreño,12113,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138421
+12,dom 05/11/2023,12:00,Al-Hazem,Al-Wehda,4-3-3 ofensivo,Daniel Carreño,427,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138444
+13,sáb 11/11/2023,12:00,Al-Okhdood,Al-Hazem,4-3-3 ofensivo,Daniel Carreño,588,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138413
+14,sáb 25/11/2023,12:00,Al-Hazem,Al-Hilal,4-3-3 ofensivo,Daniel Carreño,5994,0:9,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138463
+15,qui 30/11/2023,12:00,Al-Riyadh,Al-Hazem,4-3-1-2,Daniel Carreño,264,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138471
+16,qui 07/12/2023,12:00,Al-Hazem,Al-Fateh,4-3-1-2,Daniel Carreño,640,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138450
+17,qui 14/12/2023,12:00,Abha,Al-Hazem,4-3-3 ofensivo,Daniel Carreño,257,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138498
+18,sex 22/12/2023,12:00,Al-Hazem,Al-Ahli,4-4-2 duplo 6,Daniel Carreño,1798,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138246
+19,qui 28/12/2023,12:00,Al-Ettifaq,Al-Hazem,4-3-3 ofensivo,Daniel Carreño,5808,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138237
+20,sáb 17/02/2024,11:00,Al-Hazem,Al-Fayha,4-3-3 ofensivo,Daniel Carreño,355,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138218
+21,sáb 24/02/2024,14:00,Al-Hazem,Al-Khaleej,4-2-3-1,Daniel Carreño,695,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138224
+22,qui 29/02/2024,14:00,Al-Nassr,Al-Hazem,4-3-3 ofensivo,Daniel Carreño,19323,4:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138363
+23,sex 08/03/2024,11:00,Al-Tai,Al-Hazem,4-2-3-1,Daniel Carreño,5323,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138282
+24,qui 14/03/2024,16:00,Al-Hazem,Al-Shabab,4-2-3-1,Daniel Carreño,825,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138346
+25,qui 28/03/2024,20:00,Al-Taawoun,Al-Hazem,4-2-3-1,Daniel Carreño,3271,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138333
+26,seg 01/04/2024,16:00,Al-Hazem,Damac FC,4-5-1,Daniel Carreño,196,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138314
+27,dom 07/04/2024,16:00,Al-Raed,Al-Hazem,4-5-1,Daniel Carreño,2782,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138326
+28,sáb 20/04/2024,15:00,Al-Hazem,Al-Ittihad,4-5-1,Saleh Al-Mohammadi,1158,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138269
+29,qui 25/04/2024,15:00,Al-Wehda,Al-Hazem,4-5-1,Saleh Al-Mohammadi,695,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138295
+30,qui 02/05/2024,12:00,Al-Hazem,Al-Okhdood,4-3-3 ofensivo,Saleh Al-Mohammadi,533,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138265
+31,sáb 11/05/2024,12:00,Al-Hilal,Al-Hazem,3-1-4-2,Saleh Al-Mohammadi,11230,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138257
+32,sáb 18/05/2024,13:20,Al-Hazem,Al-Riyadh,3-4-2-1,Saleh Al-Mohammadi,305,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138288
+33,qui 23/05/2024,15:00,Al-Fateh,Al-Hazem,4-5-1,,3854,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138310
+34,seg 27/05/2024,15:00,Al-Hazem,Abha,4-4-2 duplo 6,Saleh Al-Mohammadi,117,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138368

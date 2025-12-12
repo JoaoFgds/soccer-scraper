@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 28/05/2021,16:00,Brasil Pelotas,Londrina,4-2-3-1,Roberto Fonseca,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546386
+2,sáb 05/06/2021,11:00,Londrina,Brusque,4-3-3 ofensivo,Roberto Fonseca,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546396
+3,dom 13/06/2021,20:30,Coritiba,Londrina,4-2-3-1,Roberto Fonseca,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3573966
+4,qui 17/06/2021,19:00,Londrina,Botafogo,4-3-3 ofensivo,Roberto Fonseca,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3573977
+5,dom 20/06/2021,20:30,CSA,Londrina,4-3-3 ofensivo,Roberto Fonseca,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3573988
+6,qua 23/06/2021,16:00,Londrina,Náutico,4-2-3-1,Roberto Fonseca,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3573996
+7,sáb 26/06/2021,18:30,Vitória,Londrina,4-2-3-1,Roberto Fonseca,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580675
+8,qua 30/06/2021,19:00,Londrina,Avaí,4-2-3-1,Roberto Fonseca,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580687
+9,sáb 03/07/2021,19:00,Sampaio Corrêa,Londrina,4-2-3-1,Roberto Fonseca,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584108
+10,sex 09/07/2021,19:00,Londrina,Guarani,4-2-3-1,Roberto Fonseca,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584133
+11,ter 13/07/2021,21:30,Londrina,Operário-PR,4-2-3-1,Roberto Fonseca,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584123
+12,sáb 17/07/2021,16:00,Goiás,Londrina,4-2-3-1,Márcio Fernandes,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584110
+13,ter 20/07/2021,19:00,Londrina,Confiança,4-2-3-1,Márcio Fernandes,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584143
+14,sex 23/07/2021,16:00,Londrina,Remo,4-2-3-1,Márcio Fernandes,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584153
+15,sex 30/07/2021,21:30,Cruzeiro,Londrina,4-2-3-1,Márcio Fernandes,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584162
+16,dom 08/08/2021,20:30,Londrina,CRB,4-2-3-1,Márcio Fernandes,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584193
+17,qua 11/08/2021,19:00,Ponte Preta,Londrina,4-2-3-1,Márcio Fernandes,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584181
+18,dom 15/08/2021,11:00,Londrina,Vila Nova,4-2-3-1,Márcio Fernandes,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584173
+19,qua 18/08/2021,21:30,Vasco da Gama,Londrina,4-2-3-1,Márcio Fernandes,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584199
+20,dom 22/08/2021,18:15,Londrina,Brasil Pelotas,4-4-2,Márcio Fernandes,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584213
+21,sáb 28/08/2021,18:45,Brusque,Londrina,4-2-3-1,Márcio Fernandes,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584226
+22,qua 01/09/2021,21:30,Londrina,Coritiba,4-1-3-2,Márcio Fernandes,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584253
+23,sáb 11/09/2021,16:30,Botafogo,Londrina,4-3-3 ofensivo,Márcio Fernandes,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584239
+24,sáb 18/09/2021,16:30,Londrina,CSA,4-2-3-1,Márcio Fernandes,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584233
+25,ter 21/09/2021,21:30,Náutico,Londrina,4-2-3-1,Márcio Fernandes,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584262
+26,sáb 25/09/2021,16:00,Londrina,Vitória,4-2-3-1,Márcio Fernandes,358,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584273
+27,ter 28/09/2021,16:00,Avaí,Londrina,4-2-3-1,Márcio Fernandes,645,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584286
+28,dom 03/10/2021,20:30,Londrina,Sampaio Corrêa,4-2-3-1,Márcio Fernandes,83,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584313
+29,sáb 09/10/2021,16:30,Guarani,Londrina,4-2-3-1,Márcio Fernandes,1307,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584301
+30,sáb 16/10/2021,18:30,Operário-PR,Londrina,4-2-3-1,Márcio Fernandes,2523,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584295
+31,ter 19/10/2021,19:00,Londrina,Goiás,4-2-3-1,Márcio Fernandes,1441,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584323
+32,sáb 30/10/2021,18:45,Confiança,Londrina,4-3-3 ofensivo,Márcio Fernandes,6443,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584337
+33,ter 02/11/2021,19:00,Remo,Londrina,4-3-3 ofensivo,Márcio Fernandes,6000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584348
+34,sex 05/11/2021,21:30,Londrina,Cruzeiro,4-3-3 ofensivo,Márcio Fernandes,3750,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584373
+35,qua 10/11/2021,21:30,CRB,Londrina,4-2-3-1,Márcio Fernandes,3847,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584364
+36,seg 15/11/2021,16:00,Londrina,Ponte Preta,4-2-3-1,Márcio Fernandes,2573,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584353
+37,sex 19/11/2021,21:30,Vila Nova,Londrina,4-2-3-1,Márcio Fernandes,1621,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584380
+38,dom 28/11/2021,16:00,Londrina,Vasco da Gama,4-3-3 ofensivo,Márcio Fernandes,3010,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584393

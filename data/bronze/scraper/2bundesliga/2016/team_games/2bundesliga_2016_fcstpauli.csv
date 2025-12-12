@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 08/08/2016,15:15,Stuttgart,St. Pauli,4-4-2 duplo 6,Ewald Lienen,60000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704214
+2,sáb 13/08/2016,10:30,St. Pauli,E. Braunschweig,4-4-2 duplo 6,Ewald Lienen,29546,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704297
+3,dom 28/08/2016,08:30,Dynamo Dresden,St. Pauli,4-2-3-1,Ewald Lienen,29350,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704350
+4,sáb 10/09/2016,08:00,St. Pauli,Arm. Bielefeld,4-4-2 duplo 6,Ewald Lienen,29546,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704384
+5,dom 18/09/2016,08:30,Karlsruher,St. Pauli,4-4-2 duplo 6,Ewald Lienen,14686,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704288
+6,qui 22/09/2016,15:15,St. Pauli,1860 Munique,4-2-3-1,Ewald Lienen,29000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704325
+7,seg 26/09/2016,15:15,Union Berlim,St. Pauli,4-2-3-1,Ewald Lienen,22012,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704371
+8,sáb 01/10/2016,08:00,Hannover,St. Pauli,4-4-2,Ewald Lienen,49000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704391
+9,sex 14/10/2016,13:30,St. Pauli,Erzgebirge Aue,4-4-2,Ewald Lienen,29075,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704399
+10,sáb 22/10/2016,09:00,Sandhausen,St. Pauli,4-1-4-1,Ewald Lienen,6653,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704412
+11,seg 31/10/2016,17:15,St. Pauli,Nuremberg,4-2-3-1,Ewald Lienen,29546,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704417
+12,seg 07/11/2016,17:15,Würzb. Kickers,St. Pauli,4-2-3-1,Ewald Lienen,13080,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704451
+13,dom 20/11/2016,10:30,St. Pauli,Düsseldorf,4-2-3-1,Ewald Lienen,29546,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704472
+14,sáb 26/11/2016,10:00,Heidenheim,St. Pauli,4-2-3-1,Ewald Lienen,13000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704492
+15,sex 02/12/2016,15:30,St. Pauli,K'lautern,4-1-4-1,Ewald Lienen,29037,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704517
+16,dom 11/12/2016,10:30,Greuther Fürth,St. Pauli,4-1-4-1,Ewald Lienen,10015,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704536
+17,sáb 17/12/2016,10:00,St. Pauli,Bochum,4-1-4-1,Ewald Lienen,29546,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704562
+18,dom 29/01/2017,10:30,St. Pauli,Stuttgart,4-2-3-1,Ewald Lienen,29546,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704598
+19,dom 05/02/2017,10:30,E. Braunschweig,St. Pauli,4-2-3-1,Ewald Lienen,22775,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704616
+20,dom 12/02/2017,10:30,St. Pauli,Dynamo Dresden,4-2-3-1,Ewald Lienen,29546,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704635
+21,dom 19/02/2017,09:30,Arm. Bielefeld,St. Pauli,4-2-3-1,Ewald Lienen,20426,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704665
+22,seg 27/02/2017,16:15,St. Pauli,Karlsruher,4-2-3-1,Ewald Lienen,29073,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704689
+23,sáb 04/03/2017,09:00,1860 Munique,St. Pauli,4-2-3-1,Ewald Lienen,30300,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704720
+24,sex 10/03/2017,14:30,St. Pauli,Union Berlim,4-2-3-1,Ewald Lienen,29546,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704725
+25,sáb 18/03/2017,09:00,St. Pauli,Hannover,4-2-3-1,Ewald Lienen,29546,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704731
+26,sex 31/03/2017,13:30,Erzgebirge Aue,St. Pauli,4-2-3-1,Ewald Lienen,10000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704747
+27,ter 04/04/2017,12:30,St. Pauli,Sandhausen,4-2-3-1,Ewald Lienen,29085,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704750
+28,sex 07/04/2017,13:32,Nuremberg,St. Pauli,4-2-3-1,Ewald Lienen,28889,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704768
+29,dom 16/04/2017,08:30,St. Pauli,Würzb. Kickers,4-3-3 defensivo,Ewald Lienen,29546,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704778
+30,sex 21/04/2017,13:30,Düsseldorf,St. Pauli,4-2-3-1,Ewald Lienen,28429,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704800
+31,sex 28/04/2017,13:30,St. Pauli,Heidenheim,4-2-3-1,Ewald Lienen,29546,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704805
+32,sex 05/05/2017,13:30,K'lautern,St. Pauli,4-2-3-1,Ewald Lienen,35781,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704843
+33,dom 14/05/2017,10:30,St. Pauli,Greuther Fürth,4-2-3-1,Ewald Lienen,29546,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704832
+34,dom 21/05/2017,10:30,Bochum,St. Pauli,5-4-1 plano,Ewald Lienen,27600,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704849

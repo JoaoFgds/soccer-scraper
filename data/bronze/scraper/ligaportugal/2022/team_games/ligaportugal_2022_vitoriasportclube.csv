@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 07/08/2022,16:30,Chaves,Vit. Guimarães,4-3-3 ofensivo,Moreno,7526,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869051
+2,dom 14/08/2022,16:30,Vit. Guimarães,Estoril,4-3-3 ofensivo,Moreno,15652,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869053
+3,dom 21/08/2022,16:30,Portimonense,Vit. Guimarães,4-3-3 ofensivo,Moreno,3032,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869064
+4,seg 29/08/2022,15:00,Vit. Guimarães,Casa Pia,4-3-3 ofensivo,Moreno,14231,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869111
+5,sáb 03/09/2022,11:30,Braga,Vit. Guimarães,3-4-3 plano,Moreno,21736,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869077
+6,sex 09/09/2022,16:15,Vit. Guimarães,Santa Clara,3-4-3 plano,Moreno,12132,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869087
+7,dom 18/09/2022,11:30,Arouca,Vit. Guimarães,3-4-3 plano,Moreno,2376,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869097
+8,sáb 01/10/2022,16:30,Vit. Guimarães,Benfica,3-4-3 plano,Moreno,19231,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869122
+9,sáb 08/10/2022,16:30,Paços Ferreira,Vit. Guimarães,3-4-3 plano,Moreno,5346,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869100
+10,dom 23/10/2022,16:30,Vit. Guimarães,Boavista,3-4-3 plano,Moreno,11359,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869129
+11,seg 31/10/2022,17:15,Vit. Guimarães,Famalicão,3-4-3 plano,Moreno,14968,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869343
+12,sáb 05/11/2022,17:30,Sporting,Vit. Guimarães,3-4-3 plano,Moreno,27324,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869191
+13,dom 13/11/2022,12:30,Vit. Guimarães,Marítimo,3-4-3 plano,Moreno,14920,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869135
+14,sex 30/12/2022,16:00,Vizela,Vit. Guimarães,3-4-3 plano,Moreno,3820,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869145
+15,sáb 07/01/2023,15:00,Vit. Guimarães,Rio Ave,3-4-3 plano,Moreno,9200,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869153
+16,seg 16/01/2023,18:15,Gil Vicente,Vit. Guimarães,3-4-3 plano,Moreno,3088,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869245
+17,sáb 21/01/2023,17:30,Vit. Guimarães,FC Porto,3-4-3 plano,Moreno,19653,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869183
+18,seg 30/01/2023,17:15,Vit. Guimarães,Chaves,3-4-3 plano,Moreno,9437,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869166
+19,sáb 04/02/2023,17:30,Estoril,Vit. Guimarães,3-4-3 plano,Moreno,1624,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869171
+20,sáb 11/02/2023,17:30,Vit. Guimarães,Portimonense,3-4-3 plano,Moreno,12956,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869209
+21,dom 19/02/2023,17:30,Casa Pia,Vit. Guimarães,4-2-3-1,Moreno,1818,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869220
+22,seg 27/02/2023,18:15,Vit. Guimarães,Braga,3-4-3 plano,Moreno,19072,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869267
+23,dom 05/03/2023,15:00,Santa Clara,Vit. Guimarães,3-4-3 plano,Moreno,1598,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869277
+24,sáb 11/03/2023,15:00,Vit. Guimarães,Arouca,3-4-3 plano,Moreno,21717,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869341
+25,sáb 18/03/2023,15:00,Benfica,Vit. Guimarães,3-4-3 plano,Moreno,59374,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869204
+26,sáb 01/04/2023,14:00,Vit. Guimarães,Paços Ferreira,4-3-3 ofensivo,Moreno,14784,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869281
+27,sex 07/04/2023,16:30,Boavista,Vit. Guimarães,3-4-2-1,Moreno,5756,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869292
+28,sex 14/04/2023,16:15,Famalicão,Vit. Guimarães,4-3-3 ofensivo,Moreno,4042,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869235
+29,seg 24/04/2023,16:15,Vit. Guimarães,Sporting,3-4-3 plano,Moreno,21893,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869227
+30,sáb 29/04/2023,11:30,Marítimo,Vit. Guimarães,3-4-3 plano,Moreno,9274,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869297
+31,dom 07/05/2023,14:00,Vit. Guimarães,Vizela,3-4-3 plano,Moreno,20031,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869308
+32,dom 14/05/2023,11:30,Rio Ave,Vit. Guimarães,3-4-3 plano,Moreno,4001,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869324
+33,dom 21/05/2023,11:30,Vit. Guimarães,Gil Vicente,3-4-3 plano,Moreno,22733,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869317
+34,sáb 27/05/2023,14:00,FC Porto,Vit. Guimarães,3-4-3 plano,Moreno,42417,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869255

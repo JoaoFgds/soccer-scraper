@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 18/08/2017,15:30,Bayern,Leverkusen,4-3-3 ofensivo,Carlo Ancelotti,75000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871495
+2,sáb 26/08/2017,10:30,Werder Bremen,Bayern,4-2-3-1,Carlo Ancelotti,42100,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871546
+3,sáb 09/09/2017,13:30,Hoffenheim,Bayern,4-2-3-1,Carlo Ancelotti,30150,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871591
+4,sáb 16/09/2017,10:31,Bayern,Mainz,4-2-3-1,Carlo Ancelotti,75000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871655
+5,ter 19/09/2017,15:30,Schalke,Bayern,4-2-3-1,Carlo Ancelotti,62271,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871695
+6,sex 22/09/2017,15:30,Bayern,Wolfsburg,4-2-3-1,Carlo Ancelotti,75024,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871727
+7,dom 01/10/2017,10:30,Hertha Berlim,Bayern,4-2-3-1,Willy Sagnol,71212,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871774
+8,sáb 14/10/2017,10:30,Bayern,Freiburg,4-2-3-1,Jupp Heynckes,75000,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871809
+9,sáb 21/10/2017,14:32,Hamburgo,Bayern,4-2-3-1,Jupp Heynckes,57000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871861
+10,sáb 28/10/2017,14:30,Bayern,Leipzig,4-3-3 ofensivo,Jupp Heynckes,75000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871899
+11,sáb 04/11/2017,15:30,Dortmund,Bayern,4-3-3 ofensivo,Jupp Heynckes,81360,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871953
+12,sáb 18/11/2017,12:30,Bayern,Augsburg,4-1-4-1,Jupp Heynckes,75000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871989
+13,sáb 25/11/2017,15:30,M'gladbach,Bayern,4-1-4-1,Jupp Heynckes,54018,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872029
+14,sáb 02/12/2017,12:30,Bayern,Hannover,4-2-3-1,Jupp Heynckes,75000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871980
+15,sáb 09/12/2017,12:30,Frankfurt,Bayern,4-1-4-1,Jupp Heynckes,51500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871939
+16,qua 13/12/2017,17:30,Bayern,Colônia,4-1-4-1,Jupp Heynckes,75000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871908
+17,sáb 16/12/2017,12:30,Stuttgart,Bayern,4-3-3 ofensivo,Jupp Heynckes,58885,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871880
+18,sex 12/01/2018,17:30,Leverkusen,Bayern,4-1-4-1,Jupp Heynckes,30210,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871486
+19,dom 21/01/2018,12:30,Bayern,Werder Bremen,4-1-4-1,Jupp Heynckes,75000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871507
+20,sáb 27/01/2018,12:30,Bayern,Hoffenheim,4-3-3 ofensivo,Jupp Heynckes,75000,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871564
+21,sáb 03/02/2018,12:30,Mainz,Bayern,4-3-3 ofensivo,Jupp Heynckes,34000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871653
+22,sáb 10/02/2018,15:30,Bayern,Schalke,4-3-3 ofensivo,Peter Hermann,75000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871673
+23,sáb 17/02/2018,12:30,Wolfsburg,Bayern,4-3-3 ofensivo,Jupp Heynckes,30000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871726
+24,sáb 24/02/2018,11:30,Bayern,Hertha Berlim,4-3-3 ofensivo,Jupp Heynckes,75000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871754
+25,dom 04/03/2018,14:00,Freiburg,Bayern,4-3-3 ofensivo,Jupp Heynckes,24000,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872108
+26,sáb 10/03/2018,11:30,Bayern,Hamburgo,4-3-3 ofensivo,Jupp Heynckes,75000,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871791
+27,dom 18/03/2018,14:03,Leipzig,Bayern,4-3-3 ofensivo,Jupp Heynckes,42558,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871828
+28,sáb 31/03/2018,13:30,Bayern,Dortmund,4-1-4-1,Jupp Heynckes,75000,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872016
+29,sáb 07/04/2018,10:30,Augsburg,Bayern,4-1-4-1,Jupp Heynckes,30660,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872049
+30,sáb 14/04/2018,13:30,Bayern,M'gladbach,4-1-4-1,Jupp Heynckes,75000,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872061
+31,sáb 21/04/2018,10:32,Hannover,Bayern,4-3-3 ofensivo,Jupp Heynckes,49000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872077
+32,sáb 28/04/2018,10:31,Bayern,Frankfurt,4-3-3 ofensivo,Jupp Heynckes,75000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872079
+33,sáb 05/05/2018,10:30,Colônia,Bayern,4-2-3-1,Jupp Heynckes,50000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872090
+34,sáb 12/05/2018,10:30,Bayern,Stuttgart,4-3-3 ofensivo,Jupp Heynckes,75000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872097

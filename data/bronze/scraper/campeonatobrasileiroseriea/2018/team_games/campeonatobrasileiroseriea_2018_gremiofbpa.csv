@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 14/04/2018,16:00,Cruzeiro,Grêmio,4-2-3-1,Renato Gaúcho,19285,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3011401
+2,dom 22/04/2018,19:00,Grêmio,Atlético-PR,4-2-3-1,Renato Gaúcho,23894,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3034140
+3,sáb 28/04/2018,16:00,Botafogo,Grêmio,4-2-3-1,Renato Gaúcho,10748,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3034142
+4,dom 06/05/2018,19:01,Grêmio,Santos,4-2-3-1,Renato Gaúcho,27844,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036823
+5,sáb 12/05/2018,16:00,Grêmio,Internacional,4-2-3-1,Renato Gaúcho,51870,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036825
+6,dom 20/05/2018,16:00,Paraná,Grêmio,4-2-3-1,Renato Gaúcho,8639,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036839
+7,dom 27/05/2018,19:00,Ceará,Grêmio,4-2-3-1,Renato Gaúcho,14012,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036850
+8,qua 30/05/2018,21:45,Grêmio,Fluminense,4-2-3-1,Renato Gaúcho,20044,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036861
+9,dom 03/06/2018,16:00,Bahia,Grêmio,4-2-3-1,Renato Gaúcho,15990,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036869
+10,qua 06/06/2018,21:45,Grêmio,Palmeiras,4-2-3-1,Renato Gaúcho,28664,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036881
+11,dom 10/06/2018,16:00,Grêmio,América-MG,4-2-3-1,Renato Gaúcho,14460,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036894
+12,qua 13/06/2018,19:30,Sport,Grêmio,4-2-3-1,Renato Gaúcho,19497,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036902
+13,qua 18/07/2018,21:45,Grêmio,Atlético-MG,4-2-3-1,Renato Gaúcho,22063,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036914
+14,dom 22/07/2018,16:00,Vasco da Gama,Grêmio,4-2-3-1,Renato Gaúcho,8242,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036919
+15,qui 26/07/2018,19:30,Grêmio,São Paulo,4-2-3-1,Renato Gaúcho,19865,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036934
+16,dom 29/07/2018,19:00,Chapecoense,Grêmio,4-2-3-1,Renato Gaúcho,14382,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036937
+17,sáb 04/08/2018,19:00,Grêmio,Flamengo,4-2-3-1,Renato Gaúcho,16588,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036954
+18,dom 12/08/2018,19:00,Grêmio,Vitória,4-2-3-1,Renato Gaúcho,16146,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036964
+19,sáb 18/08/2018,19:00,Corinthians,Grêmio,4-2-3-1,Renato Gaúcho,32848,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036973
+20,qua 22/08/2018,21:45,Grêmio,Cruzeiro,4-2-3-1,Renato Gaúcho,14559,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036984
+21,sáb 25/08/2018,19:00,Atlético-PR,Grêmio,4-2-3-1,Renato Gaúcho,13577,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036986
+22,sáb 01/09/2018,16:00,Grêmio,Botafogo,4-2-3-1,Renato Gaúcho,16589,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037004
+23,qui 06/09/2018,19:00,Santos,Grêmio,4-1-4-1,Renato Gaúcho,16083,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037012
+24,dom 09/09/2018,16:00,Internacional,Grêmio,4-2-3-1,Renato Gaúcho,44176,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037024
+25,sáb 15/09/2018,16:00,Grêmio,Paraná,4-2-3-1,Renato Gaúcho,20198,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037034
+26,dom 23/09/2018,11:00,Grêmio,Ceará,4-2-3-1,Renato Gaúcho,38924,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037044
+27,sáb 29/09/2018,16:00,Fluminense,Grêmio,4-2-3-1,Renato Gaúcho,8721,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037049
+28,sáb 06/10/2018,21:00,Grêmio,Bahia,4-2-3-1,Renato Gaúcho,31516,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037064
+29,dom 14/10/2018,16:00,Palmeiras,Grêmio,4-2-3-1,Renato Gaúcho,35812,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037073
+30,sáb 20/10/2018,16:00,América-MG,Grêmio,4-2-3-1,Renato Gaúcho,5821,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037077
+31,sáb 27/10/2018,16:30,Grêmio,Sport,4-2-3-1,Renato Gaúcho,13842,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037094
+32,sáb 03/11/2018,17:00,Atlético-MG,Grêmio,4-2-3-1,Renato Gaúcho,16758,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037095
+33,dom 11/11/2018,17:00,Grêmio,Vasco da Gama,4-2-3-1,Renato Gaúcho,22622,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037114
+34,qui 15/11/2018,19:00,São Paulo,Grêmio,4-2-3-1,Renato Gaúcho,24757,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037121
+35,dom 18/11/2018,19:00,Grêmio,Chapecoense,4-2-3-1,Renato Gaúcho,14982,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037134
+36,qua 21/11/2018,21:45,Flamengo,Grêmio,4-2-3-1,Renato Gaúcho,36013,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037140
+37,dom 25/11/2018,17:00,Vitória,Grêmio,4-2-3-1,Renato Gaúcho,3759,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037148
+38,dom 02/12/2018,17:00,Grêmio,Corinthians,4-2-3-1,Renato Gaúcho,41330,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037164

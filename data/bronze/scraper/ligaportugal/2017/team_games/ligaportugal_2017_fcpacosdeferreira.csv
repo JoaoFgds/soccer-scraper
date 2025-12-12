@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,ter 08/08/2017,12:00,Marítimo,Paços Ferreira,4-3-3 defensivo,Vasco Seabra,9237,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883611
+2,dom 13/08/2017,12:00,Paços Ferreira,CD Aves,4-3-3 defensivo,Vasco Seabra,2540,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883617
+3,seg 21/08/2017,16:00,Feirense,Paços Ferreira,4-4-2 duplo 6,Vasco Seabra,3258,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883640
+4,sáb 26/08/2017,12:00,Paços Ferreira,Vit. Guimarães,4-3-3 defensivo,Vasco Seabra,4353,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883660
+5,sáb 09/09/2017,12:00,CD Tondela,Paços Ferreira,4-3-3 defensivo,Vasco Seabra,1620,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883683
+6,sex 15/09/2017,16:30,Paços Ferreira,Vitória FC,4-3-3 defensivo,Vasco Seabra,2492,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883696
+7,sáb 23/09/2017,16:30,Benfica,Paços Ferreira,4-2-3-1,Vasco Seabra,47309,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883703
+8,sáb 30/09/2017,12:00,Paços Ferreira,Moreirense,4-4-2 duplo 6,Vasco Seabra,2539,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883715
+9,sáb 21/10/2017,17:30,FC Porto,Paços Ferreira,4-2-3-1,Vasco Seabra,40121,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883727
+10,dom 29/10/2017,16:00,Paços Ferreira,Estoril,4-4-2 duplo 6,Petit,3267,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883737
+11,dom 05/11/2017,14:00,Chaves,Paços Ferreira,4-3-3 defensivo,Petit,2555,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883738
+12,dom 26/11/2017,16:00,Paços Ferreira,Sporting,4-4-2 duplo 6,Petit,5534,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883752
+13,dom 03/12/2017,16:00,Braga,Paços Ferreira,4-4-2 losango,Petit,18483,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883756
+14,dom 10/12/2017,16:00,Belenenses,Paços Ferreira,4-4-2 losango,Petit,1223,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883766
+15,sex 15/12/2017,18:30,Paços Ferreira,Boavista,4-1-3-2,Petit,1660,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883779
+16,qua 03/01/2018,18:15,Rio Ave,Paços Ferreira,4-1-3-2,Petit,1781,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883800
+17,seg 08/01/2018,17:00,Paços Ferreira,Portimonense,4-4-1-1,Petit,1717,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883804
+18,sáb 13/01/2018,16:15,Paços Ferreira,Marítimo,4-3-3 ofensivo,João Henriques,1237,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884393
+19,dom 21/01/2018,14:00,CD Aves,Paços Ferreira,4-2-3-1,João Henriques,1877,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884399
+20,seg 29/01/2018,17:00,Paços Ferreira,Feirense,4-2-3-1,João Henriques,1814,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884405
+21,dom 04/02/2018,18:15,Vit. Guimarães,Paços Ferreira,4-3-1-2,João Henriques,13972,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884416
+22,sex 09/02/2018,18:30,Paços Ferreira,CD Tondela,4-2-3-1,João Henriques,1478,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884430
+23,dom 18/02/2018,13:00,Vitória FC,Paços Ferreira,4-2-3-1,João Henriques,4640,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884434
+24,sáb 24/02/2018,17:30,Paços Ferreira,Benfica,4-2-3-1,João Henriques,8810,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884441
+25,dom 04/03/2018,13:00,Moreirense,Paços Ferreira,4-2-3-1,João Henriques,1862,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884453
+26,dom 11/03/2018,17:15,Paços Ferreira,FC Porto,4-1-4-1,João Henriques,7232,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884465
+27,sáb 17/03/2018,13:00,Estoril,Paços Ferreira,4-2-3-1,João Henriques,1418,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884475
+28,sáb 31/03/2018,12:00,Paços Ferreira,Chaves,4-3-3 ofensivo,João Henriques,2688,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884476
+29,dom 08/04/2018,16:15,Sporting,Paços Ferreira,4-3-3 ofensivo,João Henriques,40868,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884490
+30,sex 13/04/2018,16:30,Paços Ferreira,Braga,4-2-3-1,João Henriques,4013,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884494
+31,sáb 21/04/2018,12:00,Paços Ferreira,Belenenses,4-2-3-1,João Henriques,2967,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884504
+32,dom 29/04/2018,12:00,Boavista,Paços Ferreira,4-3-3 ofensivo,João Henriques,4197,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884517
+33,seg 07/05/2018,16:00,Paços Ferreira,Rio Ave,4-1-4-1,João Henriques,5269,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884529
+34,dom 13/05/2018,14:00,Portimonense,Paços Ferreira,4-3-3 ofensivo,João Henriques,3914,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884533

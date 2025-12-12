@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 06/08/2016,13:00,Santa Clara,Vitória SC B,4-1-4-1,Daniel Ramos,614,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733475
+2,dom 14/08/2016,12:00,Académica,Santa Clara,4-3-3 ofensivo,Daniel Ramos,3003,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2740301
+3,sáb 20/08/2016,13:00,Santa Clara,Famalicão,4-1-4-1,Daniel Ramos,784,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733487
+4,dom 04/09/2016,12:00,Fafe,Santa Clara,?,Daniel Ramos,1470,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2750737
+5,dom 28/08/2016,15:00,Santa Clara,Gil Vicente,4-3-3 ofensivo,Daniel Ramos,614,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733582
+6,dom 11/09/2016,12:00,Cova da Piedade,Santa Clara,?,Daniel Ramos,1154,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2753298
+7,sáb 17/09/2016,15:00,Santa Clara,FC Porto B,4-3-3 ofensivo,Daniel Ramos,2060,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733574
+8,dom 09/10/2016,12:00,Vizela,Santa Clara,?,Rui Amorim,1015,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733539
+9,qua 28/09/2016,13:00,Santa Clara,Varzim,?,Quim Machado,1278,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733548
+10,dom 02/10/2016,07:15,Benfica B,Santa Clara,4-3-3 defensivo,Quim Machado,805,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733586
+11,qua 19/10/2016,14:00,Santa Clara,Académico FC,?,Rui Amorim,867,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733587
+12,dom 23/10/2016,13:00,Braga B,Santa Clara,?,Rui Amorim,295,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733577
+13,dom 30/10/2016,14:00,Santa Clara,CD Aves,?,Rui Amorim,1412,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733597
+14,sáb 05/11/2016,13:00,Sporting B,Santa Clara,?,Rui Amorim,149,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733607
+15,sáb 12/11/2016,17:00,Santa Clara,Freamunde,?,Rui Amorim,1161,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733501
+16,dom 27/11/2016,13:00,Leixões,Santa Clara,?,Rui Amorim,1111,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733757
+17,dom 04/12/2016,14:00,CF União,Santa Clara,?,Rui Amorim,603,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733752
+18,sáb 10/12/2016,17:00,Santa Clara,Penafiel,?,Carlos Pinto,1088,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733625
+19,dom 18/12/2016,09:15,Olhanense,Santa Clara,4-4-2 duplo 6,Carlos Pinto,224,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733606
+20,qua 21/12/2016,15:00,Santa Clara,Covilhã,4-3-3 ofensivo,Carlos Pinto,770,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733755
+21,dom 08/01/2017,09:15,Portimonense,Santa Clara,?,Carlos Pinto,1942,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733506
+22,dom 15/01/2017,13:00,Vitória SC B,Santa Clara,4-3-3 ofensivo,Carlos Pinto,1366,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733661
+23,dom 22/01/2017,14:00,Santa Clara,Académica,?,Carlos Pinto,1142,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771684
+24,sáb 28/01/2017,13:00,Famalicão,Santa Clara,4-3-3 ofensivo,Carlos Pinto,1075,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733653
+25,sáb 04/02/2017,17:00,Santa Clara,Fafe,?,Carlos Pinto,710,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771691
+26,dom 12/02/2017,09:15,Gil Vicente,Santa Clara,?,Carlos Pinto,563,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733678
+27,qua 15/02/2017,14:00,Santa Clara,Cova da Piedade,?,Carlos Pinto,582,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2773852
+28,dom 19/02/2017,12:00,FC Porto B,Santa Clara,?,Carlos Pinto,559,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733778
+29,dom 26/02/2017,09:15,Santa Clara,Vizela,?,Carlos Pinto,742,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733782
+30,dom 05/03/2017,12:00,Varzim,Santa Clara,?,Carlos Pinto,2166,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733698
+31,sáb 11/03/2017,14:00,Santa Clara,Benfica B,?,Carlos Pinto,2642,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733656
+32,dom 26/03/2017,12:00,Académico FC,Santa Clara,4-3-1-2,Carlos Pinto,1400,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733788
+33,dom 19/03/2017,09:15,Santa Clara,Braga B,?,Carlos Pinto,1259,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733695
+34,sáb 01/04/2017,07:15,CD Aves,Santa Clara,4-4-2 duplo 6,Carlos Pinto,718,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733763
+35,dom 09/04/2017,13:00,Santa Clara,Sporting B,?,Carlos Pinto,2059,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733787
+36,sáb 15/04/2017,12:00,Freamunde,Santa Clara,?,Carlos Pinto,396,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733773
+37,qua 19/04/2017,16:00,Santa Clara,Leixões,4-4-2 duplo 6,Carlos Pinto,425,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733515
+38,dom 23/04/2017,13:00,Santa Clara,CF União,?,Carlos Pinto,747,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733525
+39,dom 30/04/2017,12:00,Penafiel,Santa Clara,?,Carlos Pinto,493,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733521
+40,dom 07/05/2017,13:00,Santa Clara,Olhanense,?,Carlos Pinto,342,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733530
+41,dom 14/05/2017,11:00,Covilhã,Santa Clara,?,Carlos Pinto,278,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733725
+42,dom 21/05/2017,07:45,Santa Clara,Portimonense,?,Carlos Pinto,579,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733711

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 15/04/2023,17:00,Mirassol,Chapecoense,4-2-3-1,Argel Fuchs,1830,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4056135
+2,dom 23/04/2023,15:30,Chapecoense,Londrina,4-2-3-1,Argel Fuchs,5086,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4059120
+3,sáb 29/04/2023,17:00,Chapecoense,Ponte Preta,4-4-2 losango,Argel Fuchs,5049,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060057
+4,ter 02/05/2023,21:30,Atlético-GO,Chapecoense,4-4-2,Argel Fuchs,2379,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060964
+5,sáb 06/05/2023,20:30,Chapecoense,Novorizontino,4-4-2,Argel Fuchs,4035,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060880
+6,sex 12/05/2023,21:30,Avaí,Chapecoense,4-4-2,Argel Fuchs,6402,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060885
+7,dom 21/05/2023,11:00,Chapecoense,Juventude,4-3-3 ofensivo,Argel Fuchs,4930,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060960
+8,qua 24/05/2023,21:15,Guarani,Chapecoense,4-2-3-1,Argel Fuchs,3813,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060893
+9,seg 29/05/2023,20:00,Chapecoense,Sampaio Corrêa,4-2-3-1,Argel Fuchs,4976,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060930
+10,sex 02/06/2023,19:00,Ceará,Chapecoense,4-2-3-1,Argel Fuchs,41153,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060939
+11,ter 06/06/2023,19:00,Chapecoense,Vila Nova,4-2-3-1,Gilmar Pozzo,4720,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060920
+12,sex 09/06/2023,21:30,ABC,Chapecoense,4-3-3 ofensivo,Gilmar Pozzo,4195,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060952
+13,sáb 24/06/2023,17:00,Chapecoense,Criciúma,4-3-3 ofensivo,Gilmar Pozzo,6170,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060980
+14,ter 27/06/2023,19:00,Chapecoense,Sport,4-2-3-1,Gilmar Pozzo,12687,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061000
+15,sex 30/06/2023,21:30,Tombense,Chapecoense,4-4-2,Gilmar Pozzo,332,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061041
+16,dom 09/07/2023,15:30,Chapecoense,CRB,4-2-3-1,Gilmar Pozzo,5337,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061020
+17,qua 23/08/2023,21:30,Botafogo-SP,Chapecoense,5-3-2,Claudinei Oliveira,1893,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060986
+18,ter 18/07/2023,19:00,Chapecoense,Ituano,4-2-3-1,Gilmar Pozzo,4176,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061030
+19,seg 24/07/2023,19:00,Vitória,Chapecoense,5-4-1,Gilmar Pozzo,24189,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061048
+20,sáb 29/07/2023,11:00,Chapecoense,Mirassol,4-2-3-1,Gilmar Pozzo,4513,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061060
+21,qua 02/08/2023,21:30,Londrina,Chapecoense,4-2-3-1,Gilmar Pozzo,848,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061091
+22,dom 06/08/2023,15:30,Ponte Preta,Chapecoense,5-4-1,Gilmar Pozzo,4281,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061073
+23,dom 13/08/2023,11:00,Chapecoense,Atlético-GO,4-2-3-1,Claudinei Oliveira,3888,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061110
+24,dom 20/08/2023,15:45,Novorizontino,Chapecoense,5-3-2,Claudinei Oliveira,3912,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061117
+25,dom 27/08/2023,15:45,Chapecoense,Avaí,5-3-2,Claudinei Oliveira,11199,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061100
+26,qui 31/08/2023,21:30,Juventude,Chapecoense,5-3-2,Claudinei Oliveira,5410,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061150
+27,ter 05/09/2023,21:30,Chapecoense,Guarani,4-4-2,Claudinei Oliveira,4336,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061140
+28,sáb 16/09/2023,17:00,Sampaio Corrêa,Chapecoense,4-2-3-1,Claudinei Oliveira,7518,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061129
+29,sáb 23/09/2023,17:00,Chapecoense,Ceará,4-4-2,Claudinei Oliveira,4948,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061180
+30,dom 01/10/2023,15:45,Vila Nova,Chapecoense,4-4-2,Claudinei Oliveira,23311,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061164
+31,qui 05/10/2023,19:15,Chapecoense,ABC,4-4-2,Claudinei Oliveira,4935,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061160
+32,sex 13/10/2023,21:30,Criciúma,Chapecoense,4-3-3 ofensivo,Claudinei Oliveira,14012,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061195
+33,dom 22/10/2023,18:00,Sport,Chapecoense,4-3-3 ofensivo,Claudinei Oliveira,26002,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061188
+34,seg 30/10/2023,21:00,Chapecoense,Tombense,4-2-3-1,Claudinei Oliveira,4571,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060910
+35,ter 07/11/2023,19:00,CRB,Chapecoense,4-4-2,Claudinei Oliveira,2009,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060871
+36,sáb 11/11/2023,17:00,Chapecoense,Botafogo-SP,4-4-2,Claudinei Oliveira,4415,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061010
+37,sex 17/11/2023,19:00,Ituano,Chapecoense,4-4-2,Claudinei Oliveira,3294,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061066
+38,sáb 25/11/2023,17:00,Chapecoense,Vitória,4-4-2,Claudinei Oliveira,11171,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061210

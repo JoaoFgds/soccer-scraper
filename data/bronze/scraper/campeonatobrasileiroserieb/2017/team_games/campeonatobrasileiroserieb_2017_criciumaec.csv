@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 13/05/2017,17:30,Criciúma,Santa Cruz,4-3-3 defensivo,Deivid,3576,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873891
+2,sáb 20/05/2017,17:30,Oeste,Criciúma,4-2-3-1,Deivid,3836,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873903
+3,sex 26/05/2017,20:15,Criciúma,América-MG,4-2-3-1,Deivid,2075,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873908
+4,sáb 03/06/2017,17:30,Luverdense,Criciúma,4-3-3 ofensivo,Luiz Carlos Winck,713,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873924
+5,ter 06/06/2017,20:15,Juventude,Criciúma,4-3-3 defensivo,Luiz Carlos Winck,3439,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873928
+6,sex 09/06/2017,20:15,Criciúma,CRB,4-3-3 defensivo,Luiz Carlos Winck,1897,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873936
+7,ter 13/06/2017,21:30,Figueirense,Criciúma,4-3-3 defensivo,Luiz Carlos Winck,4044,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873956
+8,sex 16/06/2017,20:15,Criciúma,Guarani,4-3-3 defensivo,Luiz Carlos Winck,2308,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873963
+9,ter 20/06/2017,21:30,Londrina,Criciúma,4-3-3 defensivo,Luiz Carlos Winck,1704,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873985
+10,sex 23/06/2017,22:30,Criciúma,Paraná,4-3-3 defensivo,Luiz Carlos Winck,3223,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2873992
+11,sex 30/06/2017,20:30,Vila Nova,Criciúma,4-3-3 defensivo,Luiz Carlos Winck,7924,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2874003
+12,sáb 08/07/2017,16:30,Internacional,Criciúma,4-3-3 defensivo,Luiz Carlos Winck,25492,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2880443
+13,ter 11/07/2017,19:15,Criciúma,Paysandu,4-3-3 defensivo,Luiz Carlos Winck,4012,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2880819
+14,sex 14/07/2017,21:30,Criciúma,Goiás,4-3-2-1,Luiz Carlos Winck,3436,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2880831
+15,ter 18/07/2017,21:30,Boa Esporte,Criciúma,4-3-3 defensivo,Luiz Carlos Winck,673,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2888277
+16,sáb 22/07/2017,16:30,Criciúma,ABC,4-3-3 defensivo,Luiz Carlos Winck,3091,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893403
+17,sáb 29/07/2017,19:00,Náutico,Criciúma,4-2-3-1,Luiz Carlos Winck,4085,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2895926
+18,ter 01/08/2017,21:30,Ceará,Criciúma,4-2-3-1,Luiz Carlos Winck,7761,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2902422
+19,sex 04/08/2017,19:15,Criciúma,Brasil Pelotas,4-2-3-1,Luiz Carlos Winck,2887,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2903009
+20,ter 08/08/2017,19:15,Santa Cruz,Criciúma,4-2-3-1,Luiz Carlos Winck,4308,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2905621
+21,sex 18/08/2017,20:30,Criciúma,Oeste,4-3-3 defensivo,Luiz Carlos Winck,3269,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2909872
+22,ter 22/08/2017,21:30,América-MG,Criciúma,4-3-1-2,Luiz Carlos Winck,2864,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2914696
+23,sáb 09/09/2017,16:30,Criciúma,Luverdense,4-3-1-2,Luiz Carlos Winck,3607,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2920789
+24,ter 12/09/2017,21:30,Criciúma,Juventude,4-2-3-1,Luiz Carlos Winck,3168,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2925029
+25,sáb 23/09/2017,16:30,CRB,Criciúma,4-3-3 defensivo,Beto Campos,4060,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2926852
+26,ter 26/09/2017,19:15,Criciúma,Figueirense,4-2-3-1,Beto Campos,4739,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2928553
+27,sáb 30/09/2017,19:00,Guarani,Criciúma,4-2-3-1,Beto Campos,1730,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2928826
+28,sáb 07/10/2017,16:30,Criciúma,Londrina,4-3-3 defensivo,Beto Campos,2660,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2930348
+29,sex 13/10/2017,20:30,Paraná,Criciúma,4-2-3-1,Beto Campos,12594,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2930846
+30,ter 17/10/2017,20:30,Criciúma,Vila Nova,4-3-3 defensivo,Beto Campos,2551,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2932844
+31,sáb 21/10/2017,16:30,Criciúma,Internacional,4-3-3 defensivo,Beto Campos,10122,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2934737
+32,sex 27/10/2017,21:30,Paysandu,Criciúma,4-3-3 defensivo,Beto Campos,6224,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2934765
+33,ter 31/10/2017,19:30,Goiás,Criciúma,4-3-3 defensivo,Beto Campos,3932,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942385
+34,ter 07/11/2017,19:15,Criciúma,Boa Esporte,4-3-1-2,Beto Campos,2055,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942395
+35,sex 10/11/2017,21:30,ABC,Criciúma,4-2-3-1,Beto Campos,1155,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2943651
+36,ter 14/11/2017,19:15,Criciúma,Náutico,4-3-3 defensivo,Beto Campos,1465,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2943660
+37,sáb 18/11/2017,19:30,Criciúma,Ceará,4-3-3 defensivo,Grizzo,1577,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2969480
+38,sex 24/11/2017,19:15,Brasil Pelotas,Criciúma,4-3-1-2,Grizzo,9857,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2969482

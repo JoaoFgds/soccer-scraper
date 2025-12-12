@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 19/09/2020,10:30,Frankfurt,Arm. Bielefeld,4-3-3 ofensivo,Uwe Neuhaus,6500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412887
+2,sáb 26/09/2020,10:30,Arm. Bielefeld,Colônia,4-3-3 ofensivo,Uwe Neuhaus,5460,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412909
+3,sáb 03/10/2020,10:30,Werder Bremen,Arm. Bielefeld,4-3-3 ofensivo,Uwe Neuhaus,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412926
+4,sáb 17/10/2020,13:30,Arm. Bielefeld,Bayern,4-2-3-1,Uwe Neuhaus,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412945
+5,dom 25/10/2020,11:30,Wolfsburg,Arm. Bielefeld,4-2-3-1,Uwe Neuhaus,4519,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412959
+6,sáb 31/10/2020,11:30,Arm. Bielefeld,Dortmund,3-5-2 ofensivo,Uwe Neuhaus,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412981
+7,sáb 07/11/2020,11:30,Union Berlim,Arm. Bielefeld,4-2-3-1,Uwe Neuhaus,x,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412995
+8,sáb 21/11/2020,11:30,Arm. Bielefeld,Leverkusen,4-2-3-1,Uwe Neuhaus,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413017
+9,sáb 28/11/2020,11:30,Leipzig,Arm. Bielefeld,4-2-3-1,Uwe Neuhaus,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413019
+10,sáb 05/12/2020,11:30,Arm. Bielefeld,Mainz,4-4-2 duplo 6,Uwe Neuhaus,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413044
+11,sáb 12/12/2020,11:30,Freiburg,Arm. Bielefeld,4-4-2 duplo 6,Uwe Neuhaus,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413059
+12,qua 16/12/2020,16:30,Arm. Bielefeld,Augsburg,4-4-2 duplo 6,Uwe Neuhaus,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413079
+13,sáb 19/12/2020,11:30,Schalke,Arm. Bielefeld,4-4-2 duplo 6,Uwe Neuhaus,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413087
+14,sáb 02/01/2021,11:30,Arm. Bielefeld,M'gladbach,4-4-2 duplo 6,Uwe Neuhaus,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413106
+15,dom 10/01/2021,14:00,Arm. Bielefeld,Hertha Berlim,4-4-2 duplo 6,Uwe Neuhaus,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413125
+16,sáb 16/01/2021,11:30,Hoffenheim,Arm. Bielefeld,4-4-2 duplo 6,Uwe Neuhaus,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413137
+17,qua 20/01/2021,16:30,Arm. Bielefeld,Stuttgart,4-4-2 duplo 6,Uwe Neuhaus,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413161
+18,sáb 23/01/2021,11:30,Arm. Bielefeld,Frankfurt,4-4-2 duplo 6,Uwe Neuhaus,x,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413179
+19,dom 31/01/2021,11:30,Colônia,Arm. Bielefeld,4-4-2 duplo 6,Uwe Neuhaus,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413168
+20,qua 10/03/2021,14:30,Arm. Bielefeld,Werder Bremen,4-3-1-2,Frank Kramer,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413152
+21,seg 15/02/2021,16:30,Bayern,Arm. Bielefeld,4-2-3-1,Uwe Neuhaus,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413126
+22,sex 19/02/2021,16:30,Arm. Bielefeld,Wolfsburg,4-2-3-1,Uwe Neuhaus,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413116
+23,sáb 27/02/2021,11:30,Dortmund,Arm. Bielefeld,4-4-2 duplo 6,Uwe Neuhaus,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413091
+24,dom 07/03/2021,14:00,Arm. Bielefeld,Union Berlim,4-3-1-2,Frank Kramer,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413071
+25,dom 14/03/2021,09:30,Leverkusen,Arm. Bielefeld,4-4-2 duplo 6,Frank Kramer,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413047
+26,sex 19/03/2021,16:30,Arm. Bielefeld,Leipzig,4-3-1-2,Frank Kramer,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413035
+27,sáb 03/04/2021,10:30,Mainz,Arm. Bielefeld,4-3-1-2,Frank Kramer,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413006
+28,sex 09/04/2021,15:30,Arm. Bielefeld,Freiburg,4-2-3-1,Frank Kramer,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412989
+29,sáb 17/04/2021,10:30,Augsburg,Arm. Bielefeld,4-3-3 ofensivo,Frank Kramer,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412972
+30,ter 20/04/2021,15:30,Arm. Bielefeld,Schalke,4-3-3 ofensivo,Frank Kramer,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412953
+31,dom 25/04/2021,13:00,M'gladbach,Arm. Bielefeld,4-4-2 duplo 6,Frank Kramer,x,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412929
+32,dom 09/05/2021,13:00,Hertha Berlim,Arm. Bielefeld,4-3-3 ofensivo,Frank Kramer,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412915
+33,sáb 15/05/2021,10:30,Arm. Bielefeld,Hoffenheim,4-2-3-1,Frank Kramer,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412900
+34,sáb 22/05/2021,10:30,Stuttgart,Arm. Bielefeld,4-2-3-1,Frank Kramer,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412882

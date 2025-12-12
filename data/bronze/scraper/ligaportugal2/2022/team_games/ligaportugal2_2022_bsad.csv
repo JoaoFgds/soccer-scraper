@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 06/08/2022,11:30,Trofense,B SAD,4-4-2 duplo 6,José Maria Pratas,666,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869829
+2,seg 15/08/2022,11:30,B SAD,FC Porto B,4-4-2 duplo 6,José Maria Pratas,315,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869806
+3,seg 22/08/2022,14:00,Penafiel,B SAD,4-4-1-1,José Maria Pratas,456,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869810
+4,sáb 27/08/2022,10:00,B SAD,Moreirense,4-2-3-1,Nandinho,362,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869824
+5,dom 04/09/2022,11:30,Nacional,B SAD,4-2-3-1,Nandinho,802,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869837
+6,dom 11/09/2022,07:00,B SAD,Feirense,4-2-3-1,Nandinho,248,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869887
+7,sex 16/09/2022,14:00,CD Tondela,B SAD,4-2-3-1,Nandinho,1336,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869844
+8,sex 07/10/2022,14:00,B SAD,Farense,4-2-3-1,Nandinho,401,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869893
+9,ter 18/10/2022,19:00,Torreense,B SAD,4-2-3-1,Nandinho,428,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869856
+10,sáb 22/10/2022,16:30,B SAD,Benfica B,4-2-3-1,Nandinho,428,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869874
+11,dom 30/10/2022,08:00,Académico FC,B SAD,4-2-3-1,Nandinho,1003,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869861
+12,dom 06/11/2022,12:30,B SAD,Estrela Amadora,4-2-3-1,Nandinho,492,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869902
+13,dom 13/11/2022,11:00,Covilhã,B SAD,4-2-3-1,Nandinho,395,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869915
+14,qui 29/12/2022,14:00,B SAD,Leixões,4-3-3 ofensivo,Nandinho,256,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869914
+15,sáb 07/01/2023,12:30,Mafra,B SAD,4-1-4-1,Nandinho,466,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869954
+16,dom 15/01/2023,15:00,UD Oliveirense,B SAD,4-1-4-1,Nandinho,302,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869967
+17,sáb 21/01/2023,09:45,B SAD,Vilafranquense,4-1-4-1,Nandinho,263,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869950
+18,seg 30/01/2023,15:00,B SAD,Trofense,4-1-4-1,Nandinho,166,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869973
+19,sáb 04/02/2023,12:30,FC Porto B,B SAD,4-1-4-1,Tó Zé,328,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869941
+20,seg 13/02/2023,15:00,B SAD,Penafiel,4-3-3 ofensivo,Tó Zé,158,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869927
+21,dom 19/02/2023,11:00,Moreirense,B SAD,4-3-3 ofensivo,Paulinho,1147,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870085
+22,dom 26/02/2023,11:00,B SAD,Nacional,4-3-3 ofensivo,Paulinho,904,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869999
+23,dom 05/03/2023,12:30,Feirense,B SAD,4-3-3 ofensivo,Paulinho,932,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870094
+24,dom 12/03/2023,12:30,B SAD,CD Tondela,4-3-3 ofensivo,Paulinho,507,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870033
+25,dom 19/03/2023,12:30,Farense,B SAD,4-3-3 ofensivo,Paulinho,4393,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870010
+26,dom 02/04/2023,07:00,B SAD,Torreense,3-4-3 plano,Zé Pedro,515,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870018
+27,sáb 08/04/2023,07:00,Benfica B,B SAD,3-4-3 plano,Zé Pedro,460,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869991
+28,sáb 15/04/2023,07:00,B SAD,Académico FC,3-4-3 plano,Zé Pedro,657,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870041
+29,dom 23/04/2023,10:00,Estrela Amadora,B SAD,3-5-2 plano,Zé Pedro,3207,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870028
+30,dom 30/04/2023,07:00,B SAD,Covilhã,3-5-2 plano,Zé Pedro,432,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870095
+31,sex 05/05/2023,14:00,Leixões,B SAD,4-2-3-1,Zé Pedro,1324,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870067
+32,sáb 13/05/2023,07:00,B SAD,Mafra,3-4-3 plano,Zé Pedro,467,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869981
+33,sáb 20/05/2023,11:30,B SAD,UD Oliveirense,3-4-3 plano,Zé Pedro,109,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870057
+34,dom 28/05/2023,11:30,Vilafranquense,B SAD,3-5-2,Zé Pedro,215,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870076

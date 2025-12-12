@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 19/07/2013,15:30,St. Pauli,1860 Munique,4-4-2 duplo 6,Michael Frontzeck,27818,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321039
+2,sáb 27/07/2013,10:30,Karlsruher,St. Pauli,4-4-2 duplo 6,Michael Frontzeck,17667,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321097
+3,dom 11/08/2013,08:30,St. Pauli,Arm. Bielefeld,4-2-3-1,Michael Frontzeck,28528,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321102
+4,sex 16/08/2013,15:30,Bochum,St. Pauli,4-2-3-1,Michael Frontzeck,23028,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321436
+5,seg 26/08/2013,15:15,St. Pauli,Dynamo Dresden,4-2-3-1,Michael Frontzeck,28587,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321494
+6,sáb 31/08/2013,08:00,Union Berlim,St. Pauli,4-2-3-1,Michael Frontzeck,21717,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321553
+7,sáb 14/09/2013,08:00,St. Pauli,FSV Frankfurt,4-2-3-1,Michael Frontzeck,27863,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321562
+8,seg 23/09/2013,15:15,St. Pauli,Düsseldorf,4-2-3-1,Michael Frontzeck,29063,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321571
+9,dom 29/09/2013,08:30,Ingolstadt,St. Pauli,4-2-3-1,Michael Frontzeck,7688,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321583
+10,sex 04/10/2013,13:30,St. Pauli,Paderborn,4-2-3-1,Michael Frontzeck,28022,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321589
+11,dom 20/10/2013,09:30,Greuther Fürth,St. Pauli,4-2-3-1,Michael Frontzeck,14110,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321594
+12,sex 25/10/2013,14:30,St. Pauli,Sandhausen,4-2-3-1,Michael Frontzeck,27901,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321607
+13,sáb 02/11/2013,10:00,K'lautern,St. Pauli,4-4-2 losango,Michael Frontzeck,35313,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321612
+14,seg 11/11/2013,17:15,St. Pauli,Energ. Cottbus,4-4-2 losango,Roland Vrabec,27441,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321625
+15,dom 24/11/2013,10:30,VfR Aalen,St. Pauli,4-4-2 losango,Roland Vrabec,10480,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321634
+16,sex 29/11/2013,15:30,St. Pauli,Colônia,4-1-4-1,Roland Vrabec,29063,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321643
+17,sex 06/12/2013,15:30,Erzgebirge Aue,St. Pauli,4-4-2 losango,Roland Vrabec,8700,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321654
+18,seg 16/12/2013,17:15,1860 Munique,St. Pauli,4-4-2 losango,Roland Vrabec,23700,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321668
+19,sex 20/12/2013,15:30,St. Pauli,Karlsruher,4-4-2 losango,Roland Vrabec,29063,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321686
+20,dom 09/02/2014,10:30,Arm. Bielefeld,St. Pauli,4-4-2 losango,Roland Vrabec,23828,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321699
+21,sáb 15/02/2014,10:00,St. Pauli,Bochum,4-4-2 losango,Roland Vrabec,29063,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321705
+22,dom 23/02/2014,09:30,Dynamo Dresden,St. Pauli,4-4-2 losango,Roland Vrabec,29622,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321716
+23,seg 03/03/2014,16:15,St. Pauli,Union Berlim,4-4-2 losango,Roland Vrabec,29063,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321723
+24,dom 09/03/2014,09:30,FSV Frankfurt,St. Pauli,4-4-2 losango,Roland Vrabec,11103,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321729
+25,dom 16/03/2014,09:30,Düsseldorf,St. Pauli,4-4-2 duplo 6,Roland Vrabec,41357,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321737
+26,sáb 22/03/2014,09:00,St. Pauli,Ingolstadt,4-4-2 duplo 6,Roland Vrabec,28301,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321750
+27,ter 25/03/2014,13:30,Paderborn,St. Pauli,4-4-2 losango,Roland Vrabec,14411,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321761
+28,sex 28/03/2014,14:30,St. Pauli,Greuther Fürth,4-4-2 duplo 6,Roland Vrabec,28087,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321768
+29,sáb 05/04/2014,08:00,Sandhausen,St. Pauli,4-4-2 losango,Roland Vrabec,8050,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321778
+30,sex 11/04/2014,13:30,St. Pauli,K'lautern,4-4-2 losango,Roland Vrabec,29063,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321786
+31,qui 17/04/2014,13:30,Energ. Cottbus,St. Pauli,4-4-2 losango,Roland Vrabec,9142,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321794
+32,dom 27/04/2014,08:30,St. Pauli,VfR Aalen,4-2-3-1,Roland Vrabec,27497,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321804
+33,dom 04/05/2014,10:30,Colônia,St. Pauli,4-2-3-1,Roland Vrabec,50000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321810
+34,dom 11/05/2014,10:30,St. Pauli,Erzgebirge Aue,4-2-3-1,Roland Vrabec,27856,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321822

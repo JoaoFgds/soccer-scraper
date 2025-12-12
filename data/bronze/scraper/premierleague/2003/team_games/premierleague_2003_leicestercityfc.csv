@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 16/08/2003,11:00,Leicester,Southampton,4-4-2 duplo 6,Micky Adams,31621,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/452
+2,sáb 23/08/2003,11:00,Chelsea,Leicester,4-4-2 duplo 6,Micky Adams,41073,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/664
+3,ter 26/08/2003,15:45,Leicester,Middlesbrough,4-4-2 duplo 6,Micky Adams,30823,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/866
+4,sáb 30/08/2003,11:00,Aston Villa,Leicester,4-4-2 duplo 6,Micky Adams,32274,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1035
+5,seg 15/09/2003,16:00,Leicester,Leeds,4-4-2 duplo 6,Micky Adams,30460,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1288
+6,sáb 20/09/2003,11:00,Liverpool,Leicester,4-4-2 duplo 6,Micky Adams,44094,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1439
+7,sáb 27/09/2003,11:00,Leicester,Man Utd,4-4-2 duplo 6,Micky Adams,32044,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1640
+8,sáb 04/10/2003,11:00,Fulham,Leicester,4-4-2 duplo 6,Micky Adams,14562,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1837
+9,dom 19/10/2003,11:00,Leicester,Tottenham,4-4-2 duplo 6,Micky Adams,31521,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2074
+10,sáb 25/10/2003,12:00,Wolves,Leicester,4-4-2 duplo 6,Micky Adams,28578,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2252
+11,dom 02/11/2003,14:05,Leicester,Blackburn,4-4-2 duplo 6,Micky Adams,30975,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475
+12,dom 09/11/2003,13:00,Man City,Leicester,4-4-2 duplo 6,Micky Adams,46966,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2671
+13,sáb 22/11/2003,13:00,Leicester,Charlton,4-4-2 duplo 6,Micky Adams,30242,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2857
+14,sáb 29/11/2003,13:00,FC Portsmouth,Leicester,4-4-2 duplo 6,Micky Adams,20061,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3052
+15,sáb 06/12/2003,13:00,Leicester,Arsenal,4-4-2 duplo 6,Micky Adams,32108,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3250
+16,sáb 13/12/2003,10:00,Leicester,Birmingham,4-4-2 duplo 6,Micky Adams,30639,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3447
+17,sáb 20/12/2003,13:00,Everton,Leicester,4-4-2 duplo 6,Micky Adams,37007,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3652
+18,sex 26/12/2003,13:00,Leicester,Newcastle,4-4-2 duplo 6,Micky Adams,32148,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3819
+19,dom 28/12/2003,13:00,Bolton,Leicester,4-4-2 duplo 6,Micky Adams,28353,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3999
+20,qua 07/01/2004,17:45,Southampton,Leicester,4-4-2,Micky Adams,31053,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4162
+21,dom 11/01/2004,12:00,Leicester,Chelsea,4-4-2 duplo 6,Micky Adams,31547,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4356
+22,sáb 17/01/2004,13:00,Middlesbrough,Leicester,4-4-2 duplo 6,Micky Adams,27125,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4508
+23,sáb 31/01/2004,13:00,Leicester,Aston Villa,4-4-2 duplo 6,Micky Adams,31056,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4714
+24,sáb 07/02/2004,13:00,Newcastle,Leicester,4-4-2 duplo 6,Micky Adams,52125,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4916
+25,ter 10/02/2004,18:00,Leicester,Bolton,4-4-2 duplo 6,Micky Adams,26674,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5120
+26,dom 22/02/2004,13:05,Tottenham,Leicester,4-4-2 duplo 6,Micky Adams,35218,4:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5324
+27,sáb 28/02/2004,12:00,Leicester,Wolves,4-4-2 duplo 6,Micky Adams,31768,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5526
+28,sáb 13/03/2004,12:00,Birmingham,Leicester,4-4-2 duplo 6,Micky Adams,29491,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5725
+29,sáb 20/03/2004,12:00,Leicester,Everton,4-4-2 duplo 6,Micky Adams,31650,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5941
+30,dom 28/03/2004,11:00,Leicester,Liverpool,4-3-3 ofensivo,Micky Adams,32013,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6166
+31,seg 05/04/2004,16:00,Leeds,Leicester,4-4-2 duplo 6,Micky Adams,34036,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6385
+32,sáb 10/04/2004,11:00,Leicester,Fulham,4-4-2 duplo 6,Micky Adams,28392,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6561
+33,ter 13/04/2004,16:00,Man Utd,Leicester,4-4-2 duplo 6,Micky Adams,67749,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6769
+34,sáb 17/04/2004,11:00,Blackburn,Leicester,4-4-2,Micky Adams,22749,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6969
+35,sáb 24/04/2004,11:00,Leicester,Man City,4-4-2 duplo 6,Micky Adams,31457,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7181
+36,sáb 01/05/2004,11:00,Charlton,Leicester,4-4-2 duplo 6,Micky Adams,26034,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7225
+37,sáb 08/05/2004,11:00,Leicester,FC Portsmouth,4-4-2,Micky Adams,31536,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7274
+38,sáb 15/05/2004,11:00,Arsenal,Leicester,4-4-2 duplo 6,Micky Adams,38419,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7324

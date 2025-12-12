@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 26/08/2001,14:00,Tenerife,Alavés,4-2-3-1,Pepe Mel,14000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1081903
+2,dom 09/09/2001,14:00,Celta de Vigo,Tenerife,?,Pepe Mel,20000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1081910
+3,dom 16/09/2001,14:00,Tenerife,Villarreal,?,Pepe Mel,10000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1081928
+4,sáb 22/09/2001,16:00,Barcelona,Tenerife,4-2-3-1,Pepe Mel,40000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1081930
+5,dom 30/09/2001,14:00,Tenerife,Zaragoza,?,Pepe Mel,14000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1082063
+6,qua 03/10/2001,16:00,Sevilla,Tenerife,?,Pepe Mel,30000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1082072
+7,dom 07/10/2001,14:00,Tenerife,Rayo Vallecano,?,Pepe Mel,12000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1082083
+8,dom 14/10/2001,14:00,Osasuna,Tenerife,?,Pepe Mel,16862,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1082090
+9,dom 21/10/2001,15:00,Espanyol,Tenerife,?,Pepe Mel,21100,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1082103
+10,sáb 27/10/2001,18:00,Tenerife,Real Sociedad,?,Pepe Mel,10000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1082109
+11,dom 04/11/2001,14:00,Mallorca,Tenerife,?,Pepe Mel,14000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1083513
+12,dom 11/11/2001,15:00,Tenerife,Deportivo,?,Pepe Mel,15000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1083529
+13,dom 18/11/2001,14:00,Valencia,Tenerife,?,Pepe Mel,40000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1083548
+14,dom 25/11/2001,15:00,Tenerife,Málaga CF,?,Pepe Mel,12500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1083559
+15,sáb 01/12/2001,14:00,Betis,Tenerife,?,Pepe Mel,35000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1083567
+16,sáb 08/12/2001,19:00,Tenerife,Real Madrid,5-4-1 plano,Pepe Mel,24500,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089632
+17,sáb 15/12/2001,14:00,Valladolid,Tenerife,?,Pepe Mel,11000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089647
+18,sáb 22/12/2001,19:00,Tenerife,Las Palmas,?,Pepe Mel,23000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089656
+19,dom 06/01/2002,14:00,Athletic Club,Tenerife,4-2-3-1,Pepe Mel,24000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089666
+20,dom 13/01/2002,14:00,Alavés,Tenerife,?,Pepe Mel,13105,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089675
+21,dom 20/01/2002,15:00,Tenerife,Celta de Vigo,?,Pepe Mel,12000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089700
+22,dom 27/01/2002,14:00,Villarreal,Tenerife,?,Pepe Mel,17000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089707
+23,sáb 02/02/2002,19:00,Tenerife,Barcelona,4-4-2 duplo 6,Pepe Mel,22000,0:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089716
+24,qua 06/02/2002,18:00,Zaragoza,Tenerife,?,Pepe Mel,20000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089728
+25,dom 10/02/2002,15:00,Tenerife,Sevilla,?,Pepe Mel,22000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089740
+26,dom 17/02/2002,13:00,Rayo Vallecano,Tenerife,?,Pepe Mel,14300,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089748
+27,dom 24/02/2002,14:00,Tenerife,Osasuna,?,Javier Clemente,18000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089760
+28,dom 03/03/2002,14:00,Tenerife,Espanyol,?,Javier Clemente,16000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089770
+29,dom 10/03/2002,16:00,Real Sociedad,Tenerife,?,Javier Clemente,24320,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089781
+30,dom 17/03/2002,14:00,Tenerife,Mallorca,?,Javier Clemente,19000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089790
+31,dom 24/03/2002,13:00,Deportivo,Tenerife,?,Javier Clemente,28000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089809
+32,sáb 30/03/2002,17:30,Tenerife,Valencia,?,Javier Clemente,22000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089817
+33,dom 07/04/2002,13:00,Málaga CF,Tenerife,?,Javier Clemente,15000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089830
+34,dom 14/04/2002,14:00,Tenerife,Betis,?,Javier Clemente,21000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089841
+35,sáb 20/04/2002,16:30,Real Madrid,Tenerife,5-4-1 plano,Javier Clemente,62512,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089844
+36,dom 28/04/2002,14:00,Tenerife,Valladolid,?,Javier Clemente,19000,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089885
+37,dom 05/05/2002,15:00,Las Palmas,Tenerife,4-5-1 plano,Javier Clemente,18000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089893
+38,sáb 11/05/2002,16:00,Tenerife,Athletic Club,4-4-2,Javier Clemente,19000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089903

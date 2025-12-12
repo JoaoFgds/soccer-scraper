@@ -1,0 +1,31 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 14/08/2011,13:00,Feirense,Nacional,4-3-3 ofensivo,Quim Machado,731,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1134412
+2,sáb 20/08/2011,15:45,Benfica,Feirense,4-3-3 defensivo,Quim Machado,35856,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137679
+3,dom 28/08/2011,14:00,Feirense,Paços Ferreira,4-3-3 defensivo,Quim Machado,881,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1139111
+4,dom 11/09/2011,13:00,Olhanense,Feirense,4-3-3 ofensivo,Quim Machado,2044,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1144297
+5,dom 18/09/2011,14:15,Feirense,FC Porto,4-3-3 defensivo,Quim Machado,8872,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1148786
+6,seg 26/09/2011,16:15,Académica,Feirense,4-3-3 defensivo,Quim Machado,4185,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1150039
+7,dom 02/10/2011,12:00,Feirense,Marítimo,4-3-3 defensivo,Quim Machado,717,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1151275
+8,dom 23/10/2011,17:15,Braga,Feirense,4-3-3 defensivo,Quim Machado,6902,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1151732
+9,dom 30/10/2011,18:15,Feirense,Sporting,4-3-3 defensivo,Quim Machado,14848,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1154314
+10,dom 06/11/2011,14:00,Beira-Mar,Feirense,4-3-3 defensivo,Quim Machado,2090,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1154319
+11,dom 27/11/2011,14:00,Feirense,Rio Ave,4-3-3 defensivo,Quim Machado,2510,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1158619
+12,dom 11/12/2011,14:00,Vitória FC,Feirense,4-1-3-2,Quim Machado,2400,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1158745
+13,dom 18/12/2011,14:00,Feirense,Leiria,4-4-2 losango,Quim Machado,1503,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1158752
+14,dom 08/01/2012,18:15,Vit. Guimarães,Feirense,4-1-3-2,Quim Machado,8881,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1177313
+15,sáb 14/01/2012,14:00,Feirense,Gil Vicente,4-4-2 losango,Quim Machado,1385,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1177316
+16,dom 22/01/2012,14:00,Nacional,Feirense,4-4-2 losango,Quim Machado,1145,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1177806
+17,sáb 28/01/2012,18:30,Feirense,Benfica,4-1-3-2,Quim Machado,3622,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1179025
+18,dom 12/02/2012,14:00,Paços Ferreira,Feirense,4-4-2 losango,Quim Machado,1802,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1182997
+19,dom 19/02/2012,14:00,Feirense,Olhanense,4-2-3-1,Quim Machado,1163,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1183006
+20,dom 26/02/2012,17:15,FC Porto,Feirense,4-5-1,Quim Machado,34229,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1183016
+21,dom 04/03/2012,13:00,Feirense,Académica,4-3-3 ofensivo,Quim Machado,1382,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1188826
+22,sex 09/03/2012,17:15,Marítimo,Feirense,4-3-3 defensivo,Quim Machado,3647,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1189135
+23,sáb 17/03/2012,17:15,Feirense,Braga,4-4-2 losango,Quim Machado,1770,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1192789
+24,sáb 24/03/2012,17:15,Sporting,Feirense,4-3-3 defensivo,Quim Machado,29509,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1192900
+25,dom 01/04/2012,12:00,Feirense,Beira-Mar,4-4-2 losango,Quim Machado,3120,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2194022
+26,sáb 07/04/2012,12:00,Rio Ave,Feirense,?,Henrique Nunes,2520,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2194030
+27,dom 22/04/2012,12:00,Feirense,Vitória FC,?,Henrique Nunes,2274,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2194568
+28,dom 29/04/2012,12:00,Leiria,Feirense,?,Henrique Nunes,1278,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2208091
+29,sáb 05/05/2012,16:30,Feirense,Vit. Guimarães,4-2-3-1,Henrique Nunes,2293,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2209898
+30,sáb 12/05/2012,14:30,Gil Vicente,Feirense,4-3-3 defensivo,Henrique Nunes,3024,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2210791

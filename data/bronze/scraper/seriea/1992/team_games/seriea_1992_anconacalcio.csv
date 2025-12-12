@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 06/09/1992,11:00,Torino,Ancona,?,Vincenzo Guerini,23600,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216053
+2,dom 13/09/1992,11:00,Ancona,Sampdoria,4-5-1,Vincenzo Guerini,12525,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216063
+3,dom 20/09/1992,11:00,Florenz,Ancona,?,Vincenzo Guerini,33920,7:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216075
+4,dom 27/09/1992,11:00,Ancona,Napoli,?,Vincenzo Guerini,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216081
+5,dom 04/10/1992,11:00,Genoa,Ancona,?,Vincenzo Guerini,22654,4:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216095
+6,dom 18/10/1992,11:00,AC Parma,Ancona,?,Vincenzo Guerini,21835,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216096
+7,dom 25/10/1992,11:30,Ancona,Foggia,?,Vincenzo Guerini,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216110
+8,dom 01/11/1992,11:30,Juventus,Ancona,5-3-2,Vincenzo Guerini,39945,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216121
+9,dom 08/11/1992,11:30,Ancona,Brescia,?,Vincenzo Guerini,10910,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216127
+10,dom 22/11/1992,11:30,Roma,Ancona,?,Vincenzo Guerini,43856,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216136
+11,dom 29/11/1992,11:30,Ancona,Cagliari,?,Vincenzo Guerini,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216144
+12,dom 06/12/1992,11:30,Ancona,Inter,?,Vincenzo Guerini,16482,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216158
+13,dom 13/12/1992,11:30,Milan,Ancona,?,Vincenzo Guerini,75305,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216162
+14,dom 03/01/1993,11:30,Ancona,Lazio,?,Vincenzo Guerini,,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216173
+15,dom 10/01/1993,11:30,Pescara,Ancona,?,Vincenzo Guerini,15045,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216179
+16,dom 17/01/1993,11:30,Ancona,Udinese,?,Vincenzo Guerini,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216191
+17,dom 24/01/1993,11:30,Atalanta,Ancona,?,Vincenzo Guerini,16735,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216202
+18,dom 31/01/1993,10:30,Ancona,Torino,?,Vincenzo Guerini,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216271
+19,dom 07/02/1993,10:30,Sampdoria,Ancona,5-3-2,Vincenzo Guerini,26270,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216208
+20,dom 14/02/1993,11:00,Ancona,Florenz,?,Vincenzo Guerini,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216217
+21,dom 28/02/1993,11:00,Napoli,Ancona,?,Vincenzo Guerini,51328,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216222
+22,dom 07/03/1993,11:00,Ancona,Genoa,?,Vincenzo Guerini,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216236
+23,dom 14/03/1993,11:00,Ancona,AC Parma,?,Vincenzo Guerini,9490,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216245
+24,dom 21/03/1993,11:00,Foggia,Ancona,?,Vincenzo Guerini,11359,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216257
+25,dom 28/03/1993,11:00,Ancona,Juventus,4-3-3 ofensivo,Vincenzo Guerini,15315,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216263
+26,dom 04/04/1993,11:00,Brescia,Ancona,?,Vincenzo Guerini,7919,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216282
+27,sáb 10/04/1993,11:00,Ancona,Roma,?,Vincenzo Guerini,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216288
+28,dom 18/04/1993,11:00,Cagliari,Ancona,?,Vincenzo Guerini,17546,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216301
+29,dom 25/04/1993,11:00,Inter,Ancona,?,Vincenzo Guerini,35755,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216309
+30,dom 09/05/1993,11:00,Ancona,Milan,5-3-2,Vincenzo Guerini,17034,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216317
+31,dom 16/05/1993,11:00,Lazio,Ancona,?,Vincenzo Guerini,38742,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216322
+32,dom 23/05/1993,11:00,Ancona,Pescara,?,Vincenzo Guerini,,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216334
+33,dom 30/05/1993,11:30,Udinese,Ancona,?,Vincenzo Guerini,23658,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216345
+34,dom 06/06/1993,11:30,Ancona,Atalanta,?,Vincenzo Guerini,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216352

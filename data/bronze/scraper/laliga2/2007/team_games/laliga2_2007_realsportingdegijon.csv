@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 26/08/2007,14:00,Real Sporting,Poli Ejido,3-4-3,Manolo Preciado,12000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79421
+2,sáb 01/09/2007,13:30,Las Palmas,Real Sporting,3-4-3,Manolo Preciado,9366,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79408
+3,dom 09/09/2007,11:30,Real Sporting,Elche,3-5-2,Manolo Preciado,10000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79430
+4,sáb 15/09/2007,12:30,Xerez CD,Real Sporting,4-5-1,Manolo Preciado,7000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79446
+5,dom 23/09/2007,12:00,Real Sporting,Albacete,4-5-1,Manolo Preciado,13700,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79452
+6,sáb 29/09/2007,12:30,Numância,Real Sporting,4-5-1,Manolo Preciado,6000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79465
+7,sáb 06/10/2007,12:30,Hércules CF,Real Sporting,3-5-2,Manolo Preciado,7500,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79474
+8,dom 14/10/2007,13:00,Real Sporting,Racing Ferrol,4-4-2 duplo 6,Manolo Preciado,16500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79487
+9,sáb 20/10/2007,13:30,Real Sociedad,Real Sporting,4-5-1,Manolo Preciado,18560,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79500
+10,dom 28/10/2007,09:00,Real Sporting,Celta de Vigo,?,Manolo Preciado,15900,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79509
+11,sáb 03/11/2007,15:30,Gimnàstic,Real Sporting,?,Manolo Preciado,7000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79524
+12,dom 11/11/2007,09:00,Real Sporting,Málaga CF,?,Manolo Preciado,13500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79529
+13,sáb 17/11/2007,17:00,Sevilha Atl.,Real Sporting,?,Manolo Preciado,3000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79544
+14,dom 25/11/2007,14:00,Real Sporting,Cádiz CF,?,Manolo Preciado,16000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79551
+15,sáb 01/12/2007,15:30,Granada 74,Real Sporting,3-5-2,Manolo Preciado,3000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79561
+16,dom 09/12/2007,09:00,Real Sporting,Tenerife,?,Manolo Preciado,12000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79573
+17,sáb 15/12/2007,15:30,UD Salamanca,Real Sporting,?,Manolo Preciado,10767,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79588
+18,sáb 22/12/2007,17:00,Real Sporting,Alavés,?,Manolo Preciado,14000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79595
+19,dom 06/01/2008,09:00,Córdoba,Real Sporting,?,Manolo Preciado,7500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79605
+20,dom 13/01/2008,14:00,Real Sporting,Castellón,?,Manolo Preciado,18500,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79616
+21,dom 20/01/2008,09:00,Eibar,Real Sporting,?,Manolo Preciado,2000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79629
+22,sáb 26/01/2008,15:30,Poli Ejido,Real Sporting,?,Manolo Preciado,3800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79641
+23,dom 03/02/2008,09:00,Real Sporting,Las Palmas,3-4-3,Manolo Preciado,14000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79650
+24,dom 10/02/2008,09:00,Elche,Real Sporting,4-5-1,Manolo Preciado,12734,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79661
+25,sáb 16/02/2008,15:30,Real Sporting,Xerez CD,4-4-2,Manolo Preciado,13200,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79672
+26,sáb 23/02/2008,14:30,Albacete,Real Sporting,4-5-1,Manolo Preciado,5836,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79680
+27,dom 02/03/2008,08:00,Real Sporting,Numância,4-5-1,Manolo Preciado,14400,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79694
+28,dom 09/03/2008,08:00,Real Sporting,Hércules CF,4-5-1,Manolo Preciado,12000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79706
+29,sáb 15/03/2008,14:30,Racing Ferrol,Real Sporting,4-5-1,Manolo Preciado,7000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79715
+30,sáb 22/03/2008,14:30,Real Sporting,Real Sociedad,4-4-2 duplo 6,Manolo Preciado,25000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79728
+31,dom 30/03/2008,07:00,Celta de Vigo,Real Sporting,4-5-1,Manolo Preciado,11000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79736
+32,sáb 05/04/2008,13:30,Real Sporting,Gimnàstic,4-3-3 ofensivo,Manolo Preciado,19000,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79755
+33,dom 13/04/2008,07:00,Málaga CF,Real Sporting,4-5-1,Manolo Preciado,28000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79762
+34,dom 20/04/2008,13:00,Real Sporting,Sevilha Atl.,4-5-1,Manolo Preciado,20000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79772
+35,dom 27/04/2008,11:00,Cádiz CF,Real Sporting,4-5-1,Manolo Preciado,14500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79781
+36,sáb 03/05/2008,14:30,Real Sporting,Granada 74,4-5-1,Manolo Preciado,20000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79793
+37,sáb 10/05/2008,13:30,Tenerife,Real Sporting,4-5-1,Manolo Preciado,7550,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79809
+38,sáb 17/05/2008,13:30,Real Sporting,UD Salamanca,4-5-1,Manolo Preciado,23000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79815
+39,dom 25/05/2008,15:30,Alavés,Real Sporting,4-5-1,Manolo Preciado,14800,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79822
+40,sáb 31/05/2008,13:30,Real Sporting,Córdoba,4-5-1,Manolo Preciado,23000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79837
+41,dom 08/06/2008,13:00,Castellón,Real Sporting,4-5-1,Manolo Preciado,7000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79846
+42,dom 15/06/2008,13:00,Real Sporting,Eibar,3-5-2,Manolo Preciado,24000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79858

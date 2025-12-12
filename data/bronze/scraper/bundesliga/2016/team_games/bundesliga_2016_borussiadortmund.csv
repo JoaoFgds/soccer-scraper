@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 27/08/2016,10:30,Dortmund,Mainz,4-1-4-1,Thomas Tuchel,81360,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704205
+2,sáb 10/09/2016,13:30,Leipzig,Dortmund,4-1-4-1,Thomas Tuchel,42959,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704230
+3,sáb 17/09/2016,10:30,Dortmund,Darmstadt 98,4-1-4-1,Thomas Tuchel,81360,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704232
+4,ter 20/09/2016,15:00,Wolfsburg,Dortmund,4-1-4-1,Thomas Tuchel,30000,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704243
+5,sex 23/09/2016,15:30,Dortmund,Freiburg,4-1-4-1,Thomas Tuchel,80800,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704251
+6,sáb 01/10/2016,13:30,Leverkusen,Dortmund,4-1-4-1,Thomas Tuchel,30210,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704261
+7,sex 14/10/2016,15:30,Dortmund,Hertha Berlim,4-1-4-1,Thomas Tuchel,80800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704269
+8,sáb 22/10/2016,11:30,Ingolstadt,Dortmund,4-2-3-1,Thomas Tuchel,15200,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704283
+9,sáb 29/10/2016,14:30,Dortmund,Schalke,4-1-4-1,Thomas Tuchel,80179,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704304
+10,sáb 05/11/2016,12:30,Hamburgo,Dortmund,5-4-1 plano,Thomas Tuchel,57000,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704317
+11,sáb 19/11/2016,15:30,Dortmund,Bayern,3-1-4-2,Thomas Tuchel,81360,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704331
+12,sáb 26/11/2016,12:30,Frankfurt,Dortmund,4-1-4-1,Thomas Tuchel,51500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704358
+13,sáb 03/12/2016,12:30,Dortmund,M'gladbach,3-4-2-1,Thomas Tuchel,81360,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704360
+14,sáb 10/12/2016,12:30,Colônia,Dortmund,3-4-2-1,Thomas Tuchel,50000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704429
+15,sex 16/12/2016,17:30,Hoffenheim,Dortmund,3-4-3,Thomas Tuchel,30150,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704441
+16,ter 20/12/2016,17:00,Dortmund,Augsburg,3-4-3,Thomas Tuchel,81360,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704453
+17,sáb 21/01/2017,12:30,Werder Bremen,Dortmund,4-1-4-1,Thomas Tuchel,42100,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704466
+18,dom 29/01/2017,14:30,Mainz,Dortmund,4-1-4-1,Thomas Tuchel,34000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704481
+19,sáb 04/02/2017,15:30,Dortmund,Leipzig,3-5-2,Thomas Tuchel,81360,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704498
+20,sáb 11/02/2017,12:30,Darmstadt 98,Dortmund,3-4-2-1,Thomas Tuchel,17400,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704512
+21,sáb 18/02/2017,12:30,Dortmund,Wolfsburg,4-1-4-1,Thomas Tuchel,56903,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704524
+22,sáb 25/02/2017,11:30,Freiburg,Dortmund,3-4-2-1,Thomas Tuchel,24000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704549
+23,sáb 04/03/2017,11:30,Dortmund,Leverkusen,3-4-2-1,Thomas Tuchel,79100,6:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704551
+24,sáb 11/03/2017,11:30,Hertha Berlim,Dortmund,3-5-2,Thomas Tuchel,74667,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704572
+25,sex 17/03/2017,16:30,Dortmund,Ingolstadt,3-4-2-1,Thomas Tuchel,81360,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704578
+26,sáb 01/04/2017,10:30,Schalke,Dortmund,3-4-2-1,Thomas Tuchel,62271,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704589
+27,ter 04/04/2017,15:00,Dortmund,Hamburgo,4-3-3 ofensivo,Thomas Tuchel,81360,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704605
+28,sáb 08/04/2017,13:30,Bayern,Dortmund,3-4-2-1,Thomas Tuchel,75000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704623
+29,sáb 15/04/2017,10:30,Dortmund,Frankfurt,4-3-3 defensivo,Thomas Tuchel,81360,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704641
+30,sáb 22/04/2017,13:30,M'gladbach,Dortmund,3-4-2-1,Thomas Tuchel,54014,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704651
+31,sáb 29/04/2017,10:30,Dortmund,Colônia,4-2-3-1,Thomas Tuchel,81360,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704668
+32,sáb 06/05/2017,10:30,Dortmund,Hoffenheim,3-4-1-2,Thomas Tuchel,81360,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704678
+33,sáb 13/05/2017,10:30,Augsburg,Dortmund,3-5-2,Thomas Tuchel,30660,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704699
+34,sáb 20/05/2017,10:30,Dortmund,Werder Bremen,3-1-4-2,Thomas Tuchel,81360,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704705

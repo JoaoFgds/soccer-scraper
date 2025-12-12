@@ -1,0 +1,29 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 10/08/2019,15:00,Dijon,Saint-Étienne,4-2-3-1,Ghislain Printant,14334,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195018
+2,dom 18/08/2019,10:00,Saint-Étienne,Brest,4-2-3-1,Ghislain Printant,28645,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195257
+3,qua 28/08/2019,14:00,Lille,Saint-Étienne,4-2-3-1,Ghislain Printant,36138,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199383
+4,dom 01/09/2019,16:00,Marselha,Saint-Étienne,3-4-1-2,Ghislain Printant,44074,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199393
+5,dom 15/09/2019,12:00,Saint-Étienne,Toulouse,4-2-3-1,Ghislain Printant,24240,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199402
+6,dom 22/09/2019,12:00,Angers,Saint-Étienne,4-2-3-1,Ghislain Printant,9820,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199414
+7,qua 25/09/2019,14:00,Saint-Étienne,FC Metz,4-2-3-1,Ghislain Printant,19712,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199421
+8,dom 29/09/2019,12:00,Nîmes Olympique,Saint-Étienne,4-2-3-1,Ghislain Printant,13802,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199435
+9,dom 06/10/2019,16:00,Saint-Étienne,Lyon,3-4-1-2,Claude Puel,34071,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199445
+10,dom 20/10/2019,10:00,Bordeaux,Saint-Étienne,3-4-3 plano,Claude Puel,25952,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199452
+11,dom 27/10/2019,13:00,Saint-Étienne,Amiens SC,3-4-3 plano,Claude Puel,18877,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199459
+12,dom 03/11/2019,17:00,Saint-Étienne,Monaco,3-4-3 plano,Claude Puel,15685,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199470
+13,dom 10/11/2019,13:00,Nantes,Saint-Étienne,3-4-3 plano,Claude Puel,34191,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199486
+14,dom 24/11/2019,13:00,Saint-Étienne,Montpellier,3-4-3 plano,Claude Puel,24336,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199493
+15,sáb 30/11/2019,16:00,Rennes,Saint-Étienne,3-4-3 plano,Claude Puel,26738,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199502
+16,qua 04/12/2019,15:00,Saint-Étienne,Nice,4-3-3 ofensivo,Claude Puel,20138,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199510
+17,dom 08/12/2019,11:00,Reims,Saint-Étienne,4-2-3-1,Claude Puel,14512,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199522
+18,dom 15/12/2019,17:00,Saint-Étienne,PSG,5-3-2,Claude Puel,36391,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199529
+19,sáb 21/12/2019,16:45,Strasbourg,Saint-Étienne,3-4-2-1,Claude Puel,25471,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199541
+20,dom 12/01/2020,11:00,Saint-Étienne,Nantes,4-2-3-1,Claude Puel,15685,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199557
+21,sáb 25/01/2020,16:00,Saint-Étienne,Nîmes Olympique,4-2-3-1,Claude Puel,23927,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199567
+22,dom 02/02/2020,13:00,FC Metz,Saint-Étienne,4-2-3-1,Claude Puel,15636,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199577
+23,qua 05/02/2020,17:00,Saint-Étienne,Marselha,3-4-2-1,Claude Puel,29074,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199583
+24,dom 09/02/2020,11:00,Montpellier,Saint-Étienne,3-4-3 plano,Claude Puel,14669,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199593
+25,dom 16/02/2020,13:00,Brest,Saint-Étienne,4-3-3 ofensivo,Claude Puel,13399,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199606
+26,dom 23/02/2020,11:00,Saint-Étienne,Reims,4-2-3-1,Claude Puel,24868,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199624
+27,dom 01/03/2020,17:00,Lyon,Saint-Étienne,4-4-2,Claude Puel,52772,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199629
+28,dom 08/03/2020,11:00,Saint-Étienne,Bordeaux,4-3-3 ofensivo,Claude Puel,24912,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199643

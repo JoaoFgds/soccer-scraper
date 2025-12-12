@@ -1,0 +1,21 @@
+position,team,played,won,drawn,lost,goal_ratio,goal_difference,points,team_url
+1,Cruzeiro EC,38,24,8,6,67:38,29,80,https://www.transfermarkt.com.br/ec-cruzeiro-belo-horizonte/spielplan/verein/609/saison_id/2013
+2,São Paulo FC,38,20,10,8,59:40,19,70,https://www.transfermarkt.com.br/fc-sao-paulo/spielplan/verein/585/saison_id/2013
+3,SC Internacional,38,21,6,11,53:41,12,69,https://www.transfermarkt.com.br/sc-internacional-porto-alegre/spielplan/verein/6600/saison_id/2013
+4,SC Corinthians,38,19,12,7,49:31,18,69,https://www.transfermarkt.com.br/corinthians-sao-paulo/spielplan/verein/199/saison_id/2013
+5,Atlético Mineiro,38,17,11,10,51:38,13,62,https://www.transfermarkt.com.br/clube-atletico-mineiro/spielplan/verein/330/saison_id/2013
+6,Fluminense FC,38,17,10,11,61:42,19,61,https://www.transfermarkt.com.br/fluminense-rio-de-janeiro/spielplan/verein/2462/saison_id/2013
+7,Grêmio FBPA,38,17,10,11,36:24,12,61,https://www.transfermarkt.com.br/gremio-porto-alegre/spielplan/verein/210/saison_id/2013
+8,Clube Atlético Paranaense,38,15,9,14,43:42,1,54,https://www.transfermarkt.com.br/club-athletico-paranaense/spielplan/verein/679/saison_id/2013
+9,Santos FC,38,15,8,15,42:35,7,53,https://www.transfermarkt.com.br/fc-santos/spielplan/verein/221/saison_id/2013
+10,CR Flamengo,38,14,10,14,46:47,-1,52,https://www.transfermarkt.com.br/flamengo-rio-de-janeiro/spielplan/verein/614/saison_id/2013
+11,Sport Recife,38,14,10,14,36:46,-10,52,https://www.transfermarkt.com.br/sport-club-do-recife/spielplan/verein/8718/saison_id/2013
+12,Goiás EC,38,13,8,17,38:40,-2,47,https://www.transfermarkt.com.br/goias-ec/spielplan/verein/3197/saison_id/2013
+13,Figueirense FC,38,13,8,17,37:47,-10,47,https://www.transfermarkt.com.br/figueirense-fc/spielplan/verein/4064/saison_id/2013
+14,Coritiba FC,38,12,11,15,42:45,-3,47,https://www.transfermarkt.com.br/coritiba-fc/spielplan/verein/776/saison_id/2013
+15,Chapecoense,38,11,10,17,39:44,-5,43,https://www.transfermarkt.com.br/chapecoense/spielplan/verein/17776/saison_id/2013
+16,SE Palmeiras,38,11,7,20,34:59,-25,40,https://www.transfermarkt.com.br/se-palmeiras-sao-paulo/spielplan/verein/1023/saison_id/2013
+17,EC Vitória,38,10,8,20,37:54,-17,38,https://www.transfermarkt.com.br/esporte-clube-vitoria/spielplan/verein/2125/saison_id/2013
+18,EC Bahia,38,9,10,19,31:43,-12,37,https://www.transfermarkt.com.br/esporte-clube-bahia/spielplan/verein/10010/saison_id/2013
+19,Botafogo FR,38,9,7,22,31:48,-17,34,https://www.transfermarkt.com.br/botafogo-rio-de-janeiro/spielplan/verein/537/saison_id/2013
+20,Criciúma EC,38,7,11,20,28:56,-28,32,https://www.transfermarkt.com.br/criciuma-esporte-clube/spielplan/verein/7178/saison_id/2013

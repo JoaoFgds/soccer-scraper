@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 24/08/2015,16:00,Bilbao Athletic,Girona,5-3-2,Pablo Machín,7900,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594854
+2,sáb 29/08/2015,15:30,Girona,Numância,5-3-2,Pablo Machín,3534,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594869
+3,sáb 05/09/2015,13:00,Gimnàstic,Girona,5-3-2,Pablo Machín,5823,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594879
+4,dom 13/09/2015,07:00,Girona,SD Huesca,5-3-2,Pablo Machín,4153,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594890
+5,sáb 19/09/2015,11:00,Real Oviedo,Girona,5-3-2,Pablo Machín,12983,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594900
+6,dom 27/09/2015,12:00,Girona,UE Llagostera,5-3-2,Pablo Machín,4832,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594911
+7,dom 04/10/2015,12:00,Mirandés,Girona,5-3-2,Pablo Machín,3014,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594921
+8,dom 11/10/2015,14:15,Girona,UD Almería,5-3-2,Pablo Machín,4290,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594932
+9,sáb 17/10/2015,13:00,Leganés,Girona,5-3-2,Pablo Machín,3328,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594942
+10,sáb 24/10/2015,16:15,Girona,Zaragoza,5-3-2,Pablo Machín,4219,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594953
+11,dom 01/11/2015,14:00,Osasuna,Girona,5-3-2,Pablo Machín,14059,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594963
+12,dom 08/11/2015,14:00,Girona,Lugo,5-3-2,Pablo Machín,4212,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594974
+13,sáb 14/11/2015,15:00,Alavés,Girona,5-3-2,Pablo Machín,9440,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594984
+14,dom 22/11/2015,14:00,Girona,Albacete,5-3-2,Pablo Machín,3810,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594995
+15,dom 29/11/2015,14:00,Tenerife,Girona,5-3-2,Pablo Machín,8800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595005
+16,dom 06/12/2015,16:15,Girona,Córdoba,5-3-2,Pablo Machín,4329,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595016
+17,sáb 12/12/2015,15:00,Girona,Elche,5-3-2,Pablo Machín,3449,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595027
+18,sáb 19/12/2015,15:00,Mallorca,Girona,5-3-2,Pablo Machín,7000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595039
+19,seg 04/01/2016,17:30,Girona,Valladolid,5-3-2,Pablo Machín,2390,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595050
+20,sáb 09/01/2016,15:00,AD Alcorcón,Girona,5-3-2,Pablo Machín,1870,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595062
+21,dom 17/01/2016,14:00,Girona,Ponferradina,5-3-2,Pablo Machín,3861,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595073
+22,sáb 23/01/2016,15:00,Girona,Bilbao Athletic,5-3-2,Pablo Machín,4206,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595085
+23,dom 31/01/2016,14:00,Numância,Girona,5-3-2,Pablo Machín,2694,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595100
+24,dom 07/02/2016,14:00,Girona,Gimnàstic,5-3-2,Pablo Machín,4512,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595110
+25,dom 14/02/2016,14:00,SD Huesca,Girona,5-3-2,Pablo Machín,3294,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595121
+26,dom 21/02/2016,13:00,Girona,Real Oviedo,5-3-2,Pablo Machín,4419,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595131
+27,sáb 27/02/2016,14:00,UE Llagostera,Girona,5-3-2,Pablo Machín,2628,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595142
+28,sáb 05/03/2016,14:00,Girona,Mirandés,5-3-2,Pablo Machín,3787,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595152
+29,sáb 12/03/2016,14:00,UD Almería,Girona,5-3-2,Pablo Machín,7251,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595163
+30,dom 20/03/2016,13:00,Girona,Leganés,5-3-2,Pablo Machín,3859,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595173
+31,dom 27/03/2016,12:00,Zaragoza,Girona,5-3-2,Pablo Machín,14000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595184
+32,dom 03/04/2016,12:00,Girona,Osasuna,5-3-2,Pablo Machín,5328,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595194
+33,sáb 09/04/2016,13:00,Lugo,Girona,5-3-2,Pablo Machín,4381,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595205
+34,sáb 16/04/2016,13:00,Girona,Alavés,5-3-2,Pablo Machín,4610,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595215
+35,sáb 23/04/2016,13:00,Albacete,Girona,5-3-2,Pablo Machín,6809,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595226
+36,dom 01/05/2016,12:00,Girona,Tenerife,5-3-2,Pablo Machín,5311,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595236
+37,dom 08/05/2016,15:00,Córdoba,Girona,5-3-2,Pablo Machín,9221,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595247
+38,dom 15/05/2016,12:00,Elche,Girona,5-3-2,Pablo Machín,11384,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595258
+39,sáb 21/05/2016,13:00,Girona,Mallorca,5-3-2,Pablo Machín,5613,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595270
+40,ter 24/05/2016,15:30,Valladolid,Girona,5-3-2,Pablo Machín,6730,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595281
+41,dom 29/05/2016,15:00,Girona,AD Alcorcón,5-3-2,Pablo Machín,6602,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595293
+42,sáb 04/06/2016,15:30,Ponferradina,Girona,5-3-2,Pablo Machín,6990,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595304

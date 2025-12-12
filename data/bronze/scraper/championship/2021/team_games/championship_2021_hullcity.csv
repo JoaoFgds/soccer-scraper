@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 07/08/2021,11:00,Preston NE,Hull City,4-2-3-1,Grant McCann,12452,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3587433
+2,sáb 14/08/2021,11:00,Hull City,QPR,4-2-3-1,Grant McCann,10728,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3587441
+3,qua 18/08/2021,15:45,Hull City,Derby,4-2-3-1,Grant McCann,10451,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3587456
+4,sáb 21/08/2021,11:00,Fulham,Hull City,4-2-3-1,Grant McCann,16189,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3587484
+5,sáb 28/08/2021,11:00,Hull City,Bournemouth,4-2-3-1,Grant McCann,10199,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3587496
+6,sáb 11/09/2021,11:00,Swansea,Hull City,4-2-3-1,Grant McCann,16317,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3587515
+7,ter 14/09/2021,15:45,Blackburn,Hull City,4-2-3-1,Grant McCann,9140,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589155
+8,sáb 18/09/2021,08:30,Hull City,Sheff Utd,4-2-3-1,Grant McCann,14451,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589181
+9,sáb 25/09/2021,11:00,Stoke,Hull City,4-3-3 ofensivo,Grant McCann,20124,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589197
+10,ter 28/09/2021,15:45,Hull City,Blackpool,4-2-3-1,Grant McCann,10189,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589212
+11,sáb 02/10/2021,11:00,Hull City,Middlesbrough,3-5-2 plano,Grant McCann,13696,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589239
+12,sáb 16/10/2021,11:00,Huddersfield,Hull City,4-2-3-1,Grant McCann,17510,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589247
+13,qua 20/10/2021,15:45,Hull City,Peterborough,4-2-3-1,Grant McCann,10245,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589872
+14,sáb 23/10/2021,11:00,Luton,Hull City,4-2-3-1,Grant McCann,9999,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589884
+15,sáb 30/10/2021,11:00,Hull City,Coventry City,4-4-2 losango,Grant McCann,11901,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589893
+16,qua 03/11/2021,17:00,West Brom,Hull City,4-2-3-1,Grant McCann,19659,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592347
+17,sáb 06/11/2021,12:00,Barnsley FC,Hull City,4-2-3-1,Grant McCann,13003,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592325
+18,sáb 20/11/2021,12:00,Hull City,Birmingham,3-4-1-2,Grant McCann,12409,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592352
+19,qua 24/11/2021,16:45,Cardiff,Hull City,3-4-1-2,Grant McCann,17180,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592417
+20,sáb 27/11/2021,12:00,Hull City,Millwall,3-4-1-2,Grant McCann,10613,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592388
+21,sáb 04/12/2021,12:00,Reading,Hull City,3-4-1-2,Grant McCann,11827,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592407
+22,sáb 11/12/2021,12:00,Hull City,Bristol City,3-4-1-2,Grant McCann,10446,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592376
+23,sáb 18/12/2021,12:00,Nott'm Forest,Hull City,3-5-2 plano,Grant McCann,26513,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592369
+24,qua 19/01/2022,16:45,Hull City,Blackburn,3-4-1-2,Grant McCann,13950,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592569
+25,ter 15/02/2022,16:45,Sheff Utd,Hull City,4-3-3 ofensivo,Shota Arveladze,27601,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592560
+26,sáb 01/01/2022,12:00,Blackpool,Hull City,3-4-2-1,Grant McCann,11300,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592423
+27,dom 16/01/2022,09:00,Hull City,Stoke,3-5-2 plano,Grant McCann,11067,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592621
+28,sáb 22/01/2022,12:00,Bournemouth,Hull City,3-4-2-1,Grant McCann,8823,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592504
+29,sáb 29/01/2022,12:00,Hull City,Swansea,3-4-2-1,Shota Arveladze,13101,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592521
+30,sáb 05/02/2022,12:00,Hull City,Preston NE,3-4-2-1,Shota Arveladze,14273,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592460
+31,ter 08/02/2022,16:45,Derby,Hull City,5-3-2,Shota Arveladze,22595,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592593
+32,sáb 12/02/2022,12:00,Hull City,Fulham,4-2-3-1,Shota Arveladze,13022,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592436
+33,sáb 19/02/2022,12:00,QPR,Hull City,4-2-3-1,Shota Arveladze,14945,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592537
+34,ter 22/02/2022,16:45,Hull City,Barnsley FC,4-2-3-1,Shota Arveladze,16421,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592469
+35,sáb 26/02/2022,12:00,Peterborough,Hull City,3-4-2-1,Shota Arveladze,9463,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592502
+36,sáb 05/03/2022,12:00,Hull City,West Brom,3-4-2-1,Shota Arveladze,13643,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592448
+37,sáb 12/03/2022,12:00,Birmingham,Hull City,3-4-2-1,Shota Arveladze,17231,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592482
+38,qua 16/03/2022,16:45,Coventry City,Hull City,3-4-2-1,Shota Arveladze,15587,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592548
+39,sáb 19/03/2022,12:00,Hull City,Luton,3-4-2-1,Shota Arveladze,16555,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592615
+40,sex 01/04/2022,15:45,Hull City,Huddersfield,3-4-2-1,Shota Arveladze,12764,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592625
+41,sáb 09/04/2022,11:00,Middlesbrough,Hull City,3-4-2-1,Shota Arveladze,24603,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592624
+42,sex 15/04/2022,11:00,Hull City,Cardiff,5-4-1 plano,Shota Arveladze,15685,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592606
+43,seg 18/04/2022,11:00,Millwall,Hull City,4-2-3-1,Shota Arveladze,12776,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592646
+44,sáb 23/04/2022,11:00,Hull City,Reading,3-4-2-1,Shota Arveladze,12211,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592676
+45,sáb 30/04/2022,11:00,Bristol City,Hull City,3-4-3 plano,Shota Arveladze,21799,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592604
+46,sáb 07/05/2022,08:30,Hull City,Nott'm Forest,3-4-2-1,Shota Arveladze,18399,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592316

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 13/08/2023,12:05,Rennes,FC Metz,4-3-3 ofensivo,Bruno Génésio,26065,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094580
+2,dom 20/08/2023,15:45,Lens,Rennes,4-3-3 ofensivo,Bruno Génésio,37223,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094593
+3,dom 27/08/2023,08:00,Rennes,Le Havre,4-3-3 ofensivo,Bruno Génésio,28311,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094598
+4,sáb 02/09/2023,12:00,Brest,Rennes,4-3-3 ofensivo,Bruno Génésio,15201,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094613
+5,sáb 16/09/2023,12:00,Rennes,Lille,4-3-3 ofensivo,Bruno Génésio,28178,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094616
+6,dom 24/09/2023,12:05,Montpellier,Rennes,4-2-3-1,Bruno Génésio,15430,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094630
+7,dom 01/10/2023,15:45,Rennes,Nantes,4-3-3 ofensivo,Bruno Génésio,27316,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094633
+8,dom 08/10/2023,15:45,Rennes,PSG,4-3-3 ofensivo,Bruno Génésio,27734,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094642
+9,dom 22/10/2023,08:00,FC Lorient,Rennes,4-3-3 ofensivo,Bruno Génésio,16711,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094652
+10,dom 29/10/2023,13:05,Rennes,Strasbourg,4-3-3 ofensivo,Bruno Génésio,28100,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094659
+11,dom 05/11/2023,16:45,Nice,Rennes,4-2-3-1,Bruno Génésio,22430,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094675
+12,dom 12/11/2023,13:05,Rennes,Lyon,4-4-2 duplo 6,Bruno Génésio,28441,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094677
+13,dom 26/11/2023,13:05,Rennes,Reims,3-4-3 plano,Julien Stéphan,27718,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094688
+14,dom 03/12/2023,16:45,Marselha,Rennes,3-4-2-1,Julien Stéphan,54162,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094696
+15,sáb 09/12/2023,13:00,Rennes,Monaco,3-4-3 plano,Julien Stéphan,26856,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094706
+16,dom 17/12/2023,11:00,Toulouse,Rennes,3-4-3 plano,Julien Stéphan,23311,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094713
+17,qua 20/12/2023,17:00,Clermont Foot,Rennes,3-4-3 plano,Julien Stéphan,8832,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094727
+18,sáb 13/01/2024,17:00,Rennes,Nice,4-4-2 duplo 6,Julien Stéphan,26680,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094731
+19,sex 26/01/2024,17:00,Lyon,Rennes,4-4-2,Julien Stéphan,40516,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094744
+20,sáb 03/02/2024,13:00,Rennes,Montpellier,4-4-2,Julien Stéphan,24898,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094750
+21,dom 11/02/2024,09:00,Le Havre,Rennes,4-4-2 duplo 6,Julien Stéphan,22702,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094765
+22,dom 18/02/2024,11:00,Rennes,Clermont Foot,4-4-2 duplo 6,Julien Stéphan,27501,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094768
+23,dom 25/02/2024,13:05,PSG,Rennes,4-4-2,Julien Stéphan,47874,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094776
+24,dom 03/03/2024,13:05,Rennes,FC Lorient,4-4-2 duplo 6,Julien Stéphan,28615,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094785
+25,dom 10/03/2024,13:05,Lille,Rennes,4-2-3-1,Julien Stéphan,40383,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094798
+26,dom 17/03/2024,13:05,Rennes,Marselha,4-3-3 ofensivo,Julien Stéphan,28610,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094803
+27,dom 31/03/2024,12:05,Strasbourg,Rennes,4-3-3 ofensivo,Julien Stéphan,25407,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094812
+28,dom 07/04/2024,12:05,Monaco,Rennes,4-4-2 duplo 6,Julien Stéphan,6634,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094823
+29,sáb 13/04/2024,16:00,Rennes,Toulouse,4-4-2 duplo 6,Julien Stéphan,28055,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094831
+30,sáb 20/04/2024,12:00,Nantes,Rennes,4-4-2 duplo 6,Julien Stéphan,25433,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094845
+31,dom 28/04/2024,12:05,Rennes,Brest,4-4-2 duplo 6,Julien Stéphan,28527,4:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094850
+32,sáb 04/05/2024,14:00,FC Metz,Rennes,4-4-2,Julien Stéphan,23290,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094864
+33,dom 12/05/2024,16:00,Rennes,Lens,4-4-2 duplo 6,Julien Stéphan,28660,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094868
+34,dom 19/05/2024,16:00,Reims,Rennes,4-3-3 ofensivo,Julien Stéphan,16077,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4094880

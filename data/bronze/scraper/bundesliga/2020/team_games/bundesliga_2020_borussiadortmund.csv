@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 19/09/2020,13:30,Dortmund,M'gladbach,3-4-2-1,Lucien Favre,9300,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412884
+2,sáb 26/09/2020,10:30,Augsburg,Dortmund,3-4-2-1,Lucien Favre,6000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412908
+3,sáb 03/10/2020,10:30,Dortmund,Freiburg,3-4-2-1,Lucien Favre,11500,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412920
+4,sáb 17/10/2020,10:30,Hoffenheim,Dortmund,3-4-2-1,Lucien Favre,6030,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412938
+5,sáb 24/10/2020,13:30,Dortmund,Schalke,4-2-3-1,Lucien Favre,300,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412956
+6,sáb 31/10/2020,11:30,Arm. Bielefeld,Dortmund,4-2-3-1,Lucien Favre,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412981
+7,sáb 07/11/2020,14:30,Dortmund,Bayern,4-2-3-1,Lucien Favre,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412991
+8,sáb 21/11/2020,16:30,Hertha Berlim,Dortmund,3-4-2-1,Lucien Favre,x,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413014
+9,sáb 28/11/2020,11:30,Dortmund,Colônia,4-2-3-1,Lucien Favre,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413018
+10,sáb 05/12/2020,11:30,Frankfurt,Dortmund,3-4-2-1,Lucien Favre,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413039
+11,sáb 12/12/2020,11:30,Dortmund,Stuttgart,3-4-2-1,Lucien Favre,x,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413054
+12,ter 15/12/2020,16:30,Werder Bremen,Dortmund,4-2-3-1,Edin Terzic,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413078
+13,sex 18/12/2020,16:30,Union Berlim,Dortmund,4-2-3-1,Edin Terzic,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413086
+14,dom 03/01/2021,11:30,Dortmund,Wolfsburg,4-2-3-1,Edin Terzic,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413100
+15,sáb 09/01/2021,14:30,Leipzig,Dortmund,4-2-3-1,Edin Terzic,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413117
+16,sáb 16/01/2021,11:30,Dortmund,Mainz,4-2-3-1,Edin Terzic,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413136
+17,ter 19/01/2021,16:30,Leverkusen,Dortmund,4-2-3-1,Edin Terzic,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413155
+18,sex 22/01/2021,16:30,M'gladbach,Dortmund,4-2-3-1,Edin Terzic,x,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413171
+19,sáb 30/01/2021,11:30,Dortmund,Augsburg,4-2-3-1,Edin Terzic,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413163
+20,sáb 06/02/2021,11:30,Freiburg,Dortmund,4-1-4-1,Edin Terzic,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413147
+21,sáb 13/02/2021,11:30,Dortmund,Hoffenheim,4-2-3-1,Edin Terzic,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413127
+22,sáb 20/02/2021,14:30,Schalke,Dortmund,4-2-3-1,Edin Terzic,x,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413113
+23,sáb 27/02/2021,11:30,Dortmund,Arm. Bielefeld,4-2-3-1,Edin Terzic,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413091
+24,sáb 06/03/2021,14:30,Bayern,Dortmund,3-4-2-1,Edin Terzic,x,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413063
+25,sáb 13/03/2021,14:30,Dortmund,Hertha Berlim,4-2-3-1,Edin Terzic,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413045
+26,sáb 20/03/2021,11:30,Colônia,Dortmund,4-2-3-1,Edin Terzic,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413033
+27,sáb 03/04/2021,10:30,Dortmund,Frankfurt,4-3-3 ofensivo,Edin Terzic,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413000
+28,sáb 10/04/2021,13:30,Stuttgart,Dortmund,4-3-3 ofensivo,Edin Terzic,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412990
+29,dom 18/04/2021,10:30,Dortmund,Werder Bremen,4-3-3 ofensivo,Edin Terzic,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412964
+30,qua 21/04/2021,15:30,Dortmund,Union Berlim,4-3-3 ofensivo,Edin Terzic,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412947
+31,sáb 24/04/2021,10:30,Wolfsburg,Dortmund,4-2-3-1,Edin Terzic,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412931
+32,sáb 08/05/2021,10:30,Dortmund,Leipzig,4-2-3-1,Edin Terzic,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412911
+33,dom 16/05/2021,13:00,Mainz,Dortmund,4-3-3 ofensivo,Edin Terzic,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412898
+34,sáb 22/05/2021,10:30,Dortmund,Leverkusen,4-2-3-1,Edin Terzic,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412875

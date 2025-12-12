@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qui 22/08/2024,13:10,Al-Taawoun,Al-Fayha,4-2-3-1,Christos Kontis,1606,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4404836
+2,ter 27/08/2024,15:00,Al-Fayha,Al-Nassr,4-2-3-1,Christos Kontis,4195,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4404847
+3,sáb 14/09/2024,12:45,Al-Fayha,Al-Raed,4-3-3 ofensivo,Christos Kontis,794,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4404861
+4,sex 20/09/2024,12:15,Al-Khaleej,Al-Fayha,4-4-2,Christos Kontis,1073,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4404868
+5,dom 29/09/2024,12:30,Al-Fayha,Al-Riyadh,4-4-2 duplo 6,Christos Kontis,390,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4404880
+6,qui 03/10/2024,15:00,Al-Wehda,Al-Fayha,4-4-2,Christos Kontis,465,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4404884
+7,sex 18/10/2024,12:00,Al-Hilal,Al-Fayha,4-2-3-1,Christos Kontis,15570,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4404908
+8,sáb 26/10/2024,12:00,Al-Fayha,Al-Ettifaq,4-2-3-1,Christos Kontis,952,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4404891
+9,sáb 02/11/2024,11:35,Al-Fateh,Al-Fayha,4-2-3-1,Christos Kontis,3769,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4404904
+10,qui 07/11/2024,11:30,Al-Qadsiah,Al-Fayha,4-2-3-1,Christos Kontis,4045,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4410745
+11,sex 22/11/2024,11:50,Al-Fayha,Al-Ahli,5-3-2,Christos Kontis,999,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4410854
+12,qui 28/11/2024,11:45,Al-Fayha,Al-Orobah,3-5-2 plano,Christos Kontis,404,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4410960
+13,qui 05/12/2024,12:10,Damac FC,Al-Fayha,4-4-2 duplo 6,Christos Kontis,2814,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4410791
+14,sáb 11/01/2025,14:00,Al-Fayha,Al-Ittihad,3-4-3 plano,Pedro Emanuel,2878,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4410930
+15,qui 16/01/2025,10:55,Al-Okhdood,Al-Fayha,3-4-3 plano,Pedro Emanuel,986,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4410829
+16,seg 20/01/2025,12:10,Al-Fayha,Al-Kholood,3-4-3 plano,Pedro Emanuel,1026,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4410838
+17,seg 27/01/2025,12:10,Al-Shabab,Al-Fayha,3-4-3 plano,Pedro Emanuel,2848,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4410907
+18,sex 31/01/2025,10:45,Al-Fayha,Al-Taawoun,3-4-3 plano,Pedro Emanuel,1042,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4410862
+19,sex 07/02/2025,12:20,Al-Nassr,Al-Fayha,3-4-3 plano,Pedro Emanuel,20207,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4410814
+20,sáb 15/02/2025,12:30,Al-Raed,Al-Fayha,3-4-3 plano,Pedro Emanuel,1002,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4410817
+21,qui 20/02/2025,12:30,Al-Fayha,Al-Khaleej,3-4-3 plano,Pedro Emanuel,1606,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4410941
+22,qua 26/02/2025,12:30,Al-Riyadh,Al-Fayha,5-4-1 plano,Pedro Emanuel,148,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4410946
+23,sáb 01/03/2025,16:00,Al-Fayha,Al-Wehda,5-3-2,Pedro Emanuel,575,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4410880
+24,sex 07/03/2025,16:00,Al-Fayha,Al-Hilal,5-3-2,Pedro Emanuel,4133,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4410803
+25,sáb 15/03/2025,16:00,Al-Ettifaq,Al-Fayha,3-4-3 plano,Pedro Emanuel,4121,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4410845
+26,dom 06/04/2025,11:25,Al-Fayha,Al-Fateh,3-4-3 plano,Pedro Emanuel,798,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4410760
+27,sáb 12/04/2025,13:00,Al-Fayha,Al-Qadsiah,3-4-2-1,Pedro Emanuel,589,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4410768
+28,sex 18/04/2025,13:20,Al-Ahli,Al-Fayha,3-4-3 plano,Pedro Emanuel,7446,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4410778
+29,qui 24/04/2025,13:30,Al-Orobah,Al-Fayha,3-4-3 plano,Pedro Emanuel,556,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4410788
+30,sex 02/05/2025,13:05,Al-Fayha,Damac FC,3-4-2-1,Pedro Emanuel,1910,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4410896
+31,dom 11/05/2025,15:00,Al-Ittihad,Al-Fayha,3-4-2-1,Pedro Emanuel,22117,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4410879
+32,sáb 17/05/2025,13:15,Al-Fayha,Al-Okhdood,3-4-2-1,Pedro Emanuel,1833,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4410898
+33,qua 21/05/2025,13:25,Al-Kholood,Al-Fayha,3-4-2-1,Pedro Emanuel,3636,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4410923
+34,seg 26/05/2025,15:00,Al-Fayha,Al-Shabab,4-2-3-1,Pedro Emanuel,407,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4410966

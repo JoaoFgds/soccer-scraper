@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 07/08/2017,17:00,Rio Ave,Belenenses,3-4-3 plano,Domingos Paciência,2539,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883607
+2,sáb 12/08/2017,14:15,Belenenses,Marítimo,3-4-3 plano,Domingos Paciência,2153,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883613
+3,sáb 19/08/2017,16:30,Benfica,Belenenses,3-4-3 plano,Domingos Paciência,56262,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883642
+4,sex 25/08/2017,16:30,Belenenses,Vitória FC,4-2-3-1,Domingos Paciência,2318,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883657
+5,seg 11/09/2017,16:00,CD Aves,Belenenses,4-3-3 ofensivo,Domingos Paciência,1627,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883675
+6,dom 17/09/2017,12:00,Belenenses,Estoril,4-2-3-1,Domingos Paciência,2094,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883693
+7,dom 24/09/2017,12:00,Feirense,Belenenses,4-4-2 losango,Domingos Paciência,2813,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883707
+8,dom 01/10/2017,17:30,Belenenses,Vit. Guimarães,4-4-2 duplo 6,Domingos Paciência,1523,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883711
+9,dom 22/10/2017,13:00,CD Tondela,Belenenses,4-2-3-1,Domingos Paciência,2359,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883723
+10,sáb 28/10/2017,15:15,Belenenses,Moreirense,4-2-3-1,Domingos Paciência,2203,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883730
+11,sáb 04/11/2017,18:30,FC Porto,Belenenses,4-2-3-1,Domingos Paciência,38516,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883743
+12,sex 24/11/2017,18:30,Belenenses,Chaves,4-2-3-1,Domingos Paciência,2713,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883748
+13,sex 01/12/2017,16:15,Sporting,Belenenses,4-4-2 duplo 6,Domingos Paciência,46881,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883759
+14,dom 10/12/2017,16:00,Belenenses,Paços Ferreira,4-1-4-1,Domingos Paciência,1223,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883766
+15,sáb 16/12/2017,18:30,Braga,Belenenses,4-3-3 ofensivo,Domingos Paciência,7803,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883777
+16,qui 04/01/2018,18:15,Portimonense,Belenenses,4-4-1-1,Domingos Paciência,2388,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883797
+17,ter 09/01/2018,19:00,Belenenses,Boavista,4-4-2 duplo 6,Domingos Paciência,2163,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883801
+18,dom 14/01/2018,16:00,Belenenses,Rio Ave,4-2-3-1,Domingos Paciência,1763,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884389
+19,sáb 20/01/2018,14:00,Marítimo,Belenenses,4-1-4-1,Silas,5886,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884395
+20,seg 29/01/2018,19:00,Belenenses,Benfica,4-2-3-1,Silas,9268,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884407
+21,seg 05/02/2018,19:00,Vitória FC,Belenenses,4-4-1-1,Silas,1353,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884413
+22,dom 11/02/2018,14:00,Belenenses,CD Aves,4-1-4-1,Silas,1932,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884422
+23,sáb 17/02/2018,18:30,Estoril,Belenenses,3-4-3 plano,Silas,2174,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884431
+24,sáb 24/02/2018,13:00,Belenenses,Feirense,3-4-3 plano,Silas,2286,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884445
+25,dom 04/03/2018,17:15,Vit. Guimarães,Belenenses,3-4-3 plano,Silas,10941,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884449
+26,dom 11/03/2018,15:00,Belenenses,CD Tondela,3-4-3 plano,Silas,2412,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884461
+27,dom 18/03/2018,13:00,Moreirense,Belenenses,3-4-3 plano,Silas,1669,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884468
+28,seg 02/04/2018,16:00,Belenenses,FC Porto,3-4-3 plano,Silas,12851,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884481
+29,dom 08/04/2018,12:00,Chaves,Belenenses,3-4-3 plano,Silas,2198,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884486
+30,dom 15/04/2018,16:15,Belenenses,Sporting,3-4-3 plano,Silas,5167,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884497
+31,sáb 21/04/2018,12:00,Paços Ferreira,Belenenses,3-4-3 plano,Silas,2967,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884504
+32,dom 29/04/2018,16:15,Belenenses,Braga,3-4-3 plano,Silas,2633,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884515
+33,sáb 05/05/2018,12:00,Belenenses,Portimonense,3-4-3 plano,Silas,2149,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884526
+34,sáb 12/05/2018,16:00,Boavista,Belenenses,3-4-3 plano,Silas,5317,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884530

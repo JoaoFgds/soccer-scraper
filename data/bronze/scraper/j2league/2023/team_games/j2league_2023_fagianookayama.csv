@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 18/02/2023,02:00,Júbilo Iwata,Fagiano Okayama,4-4-2 losango,Takashi Kiyama,10737,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006229
+2,dom 26/02/2023,01:00,Fagiano Okayama,Shimizu S-Pulse,4-4-2 losango,Takashi Kiyama,15695,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006237
+3,dom 05/03/2023,03:00,Mito HollyHock,Fagiano Okayama,4-4-2 losango,Takashi Kiyama,3104,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006254
+4,dom 12/03/2023,02:00,Fagiano Okayama,Zweig. Kanazawa,4-4-2 losango,Takashi Kiyama,8129,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006263
+5,dom 19/03/2023,02:00,Fagiano Okayama,Ventforet Kofu,4-4-2 losango,Takashi Kiyama,7422,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006274
+6,sáb 25/03/2023,02:00,JEF Utd. Chiba,Fagiano Okayama,4-3-1-2,Takashi Kiyama,5317,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006279
+7,dom 02/04/2023,02:00,Fagiano Okayama,Iwaki FC,3-4-2-1,Takashi Kiyama,6577,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006298
+8,sáb 08/04/2023,02:00,Fujieda MYFC,Fagiano Okayama,4-4-2 losango,Takashi Kiyama,2243,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006306
+9,qua 12/04/2023,07:00,Fagiano Okayama,Roasso Kumamoto,4-4-2 losango,Takashi Kiyama,5258,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006317
+10,dom 16/04/2023,02:00,Vegalta Sendai,Fagiano Okayama,4-4-2 duplo 6,Takashi Kiyama,9857,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006322
+11,sáb 22/04/2023,02:00,Fagiano Okayama,Reno. Yamaguchi,4-4-2 duplo 6,Takashi Kiyama,6176,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006390
+12,sáb 29/04/2023,02:00,Blaublitz Akita,Fagiano Okayama,4-4-2 duplo 6,Takashi Kiyama,2483,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006333
+13,qua 03/05/2023,02:00,Fagiano Okayama,Monte. Yamagata,4-4-2 duplo 6,Takashi Kiyama,10909,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006370
+14,dom 07/05/2023,02:00,Machida Zelvia,Fagiano Okayama,4-4-2 duplo 6,Takashi Kiyama,3477,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006403
+15,sáb 13/05/2023,01:00,Fagiano Okayama,Omiya Ardija,4-4-2 duplo 6,Takashi Kiyama,5600,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006354
+16,qua 17/05/2023,07:00,V-V. Nagasaki,Fagiano Okayama,4-4-2 duplo 6,Takashi Kiyama,4104,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006385
+17,dom 21/05/2023,07:00,Fagiano Okayama,Thespaku. Gunma,4-4-2 duplo 6,Takashi Kiyama,5180,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006419
+18,dom 28/05/2023,02:00,Tochigi SC,Fagiano Okayama,4-4-2 duplo 6,Takashi Kiyama,8719,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006644
+19,sáb 03/06/2023,07:00,Fagiano Okayama,Tokushima Vort.,3-1-4-2,Takashi Kiyama,10256,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006351
+20,dom 11/06/2023,07:00,Fagiano Okayama,Tokyo Verdy,3-1-4-2,Takashi Kiyama,7095,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006517
+21,sáb 17/06/2023,07:00,Oita Trinita,Fagiano Okayama,3-1-4-2,Takashi Kiyama,8346,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006457
+22,sáb 24/06/2023,06:00,Ventforet Kofu,Fagiano Okayama,4-4-2 duplo 6,Takashi Kiyama,7538,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006521
+23,sáb 01/07/2023,07:00,Fagiano Okayama,Mito HollyHock,4-4-2 duplo 6,Takashi Kiyama,6335,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006492
+24,qua 05/07/2023,07:00,Fagiano Okayama,Fujieda MYFC,4-4-2 duplo 6,Takashi Kiyama,4254,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006483
+25,dom 09/07/2023,07:00,Tokushima Vort.,Fagiano Okayama,4-4-2 duplo 6,Takashi Kiyama,8293,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006451
+26,dom 16/07/2023,06:00,Fagiano Okayama,V-V. Nagasaki,3-1-4-2,Takashi Kiyama,8795,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006602
+27,seg 24/07/2023,07:00,Roasso Kumamoto,Fagiano Okayama,4-4-2 duplo 6,Takashi Kiyama,2981,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006540
+28,sáb 29/07/2023,06:00,Shimizu S-Pulse,Fagiano Okayama,3-4-2-1,Takashi Kiyama,12103,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006568
+29,sáb 05/08/2023,07:00,Fagiano Okayama,Machida Zelvia,3-1-4-2,Yuki Kosaka,10164,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006608
+30,dom 13/08/2023,07:00,Omiya Ardija,Fagiano Okayama,3-1-4-2,Takashi Kiyama,5597,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006430
+31,sáb 19/08/2023,07:00,Fagiano Okayama,Oita Trinita,3-1-4-2,Takashi Kiyama,7332,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006581
+32,sáb 26/08/2023,06:00,Tokyo Verdy,Fagiano Okayama,3-1-4-2,Takashi Kiyama,6363,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006553
+33,dom 03/09/2023,06:00,Iwaki FC,Fagiano Okayama,3-1-4-2,Takashi Kiyama,3030,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006501
+34,sáb 09/09/2023,07:00,Fagiano Okayama,Vegalta Sendai,3-1-4-2,Takashi Kiyama,14156,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006436
+35,sáb 16/09/2023,06:00,Monte. Yamagata,Fagiano Okayama,3-1-4-2,Takashi Kiyama,8605,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006618
+36,dom 24/09/2023,01:00,Fagiano Okayama,Júbilo Iwata,3-1-4-2,Takashi Kiyama,10578,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006659
+37,dom 01/10/2023,02:00,Fagiano Okayama,JEF Utd. Chiba,3-1-4-2,Takashi Kiyama,9463,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006682
+38,dom 08/10/2023,07:00,Thespaku. Gunma,Fagiano Okayama,3-1-4-2,Takashi Kiyama,3321,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006591
+39,dom 22/10/2023,00:30,Reno. Yamaguchi,Fagiano Okayama,3-1-4-2,Takashi Kiyama,6523,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006472
+40,dom 29/10/2023,03:00,Fagiano Okayama,Tochigi SC,3-1-4-2,Takashi Kiyama,10034,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006638
+41,dom 05/11/2023,02:00,Fagiano Okayama,Blaublitz Akita,3-1-4-2,Takashi Kiyama,8985,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006548
+42,dom 12/11/2023,01:00,Zweig. Kanazawa,Fagiano Okayama,3-1-4-2,Takashi Kiyama,3300,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4006669

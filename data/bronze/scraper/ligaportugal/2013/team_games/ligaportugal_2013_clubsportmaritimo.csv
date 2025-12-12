@@ -1,0 +1,31 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 18/08/2013,13:45,Marítimo,Benfica,4-2-3-1,Pedro Martins,4338,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340211
+2,dom 25/08/2013,15:45,FC Porto,Marítimo,4-3-3 ofensivo,Pedro Martins,41009,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340222
+3,dom 01/09/2013,12:00,Marítimo,Olhanense,4-3-3 defensivo,Pedro Martins,3440,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340226
+4,dom 15/09/2013,12:00,Vitória FC,Marítimo,4-3-3 ofensivo,Pedro Martins,3304,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340268
+5,sáb 21/09/2013,14:00,Belenenses,Marítimo,4-2-3-1,Pedro Martins,3520,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340282
+6,sáb 28/09/2013,12:15,Marítimo,Paços Ferreira,4-2-3-1,Pedro Martins,2727,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340280
+7,seg 07/10/2013,16:15,Vit. Guimarães,Marítimo,4-2-3-1,Pedro Martins,12088,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340242
+8,dom 27/10/2013,18:15,Marítimo,Estoril,4-3-3 ofensivo,Pedro Martins,3909,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340273
+9,sáb 02/11/2013,18:15,Sporting,Marítimo,4-2-3-1,Pedro Martins,25083,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340251
+10,dom 24/11/2013,14:00,Marítimo,Gil Vicente,4-3-3 ofensivo,Pedro Martins,3338,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340300
+11,dom 01/12/2013,14:00,Arouca,Marítimo,4-2-3-1,Pedro Martins,1670,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340304
+12,dom 08/12/2013,14:00,Marítimo,Nacional,4-1-4-1,Pedro Martins,7075,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340305
+13,sex 13/12/2013,18:15,Académica,Marítimo,?,Pedro Martins,2224,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340439
+14,qui 19/12/2013,18:00,Marítimo,Braga,4-2-3-1,Pedro Martins,5495,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340412
+15,sáb 11/01/2014,16:00,Rio Ave,Marítimo,?,Pedro Martins,1773,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340266
+16,dom 19/01/2014,15:00,Benfica,Marítimo,4-2-3-1,Pedro Martins,34396,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340432
+17,sáb 01/02/2014,15:15,Marítimo,FC Porto,?,Pedro Martins,4532,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340415
+18,dom 09/02/2014,14:00,Olhanense,Marítimo,4-3-3 ofensivo,Pedro Martins,417,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340434
+19,dom 16/02/2014,13:00,Marítimo,Vitória FC,?,Pedro Martins,2108,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340332
+20,dom 23/02/2014,14:00,Marítimo,Belenenses,?,Pedro Martins,1785,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340368
+21,dom 02/03/2014,13:00,Paços Ferreira,Marítimo,?,Pedro Martins,2206,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340358
+22,seg 10/03/2014,17:00,Marítimo,Vit. Guimarães,?,Pedro Martins,2091,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340398
+23,sáb 15/03/2014,15:00,Estoril,Marítimo,?,Pedro Martins,2598,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340320
+24,sáb 22/03/2014,16:00,Marítimo,Sporting,?,Pedro Martins,4600,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340334
+25,dom 30/03/2014,12:00,Gil Vicente,Marítimo,?,Pedro Martins,1520,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340331
+26,dom 06/04/2014,12:00,Marítimo,Arouca,?,Pedro Martins,3471,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340340
+27,sáb 12/04/2014,12:00,Nacional,Marítimo,4-1-4-1,Pedro Martins,2467,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340378
+28,sáb 19/04/2014,12:00,Marítimo,Académica,4-3-3 ofensivo,Pedro Martins,1957,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340396
+29,dom 04/05/2014,14:00,Braga,Marítimo,4-2-3-1,Pedro Martins,10482,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340416
+30,dom 11/05/2014,12:00,Marítimo,Rio Ave,4-2-3-1,Pedro Martins,2382,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2340374

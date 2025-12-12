@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 27/08/1995,11:00,Bari,Napoli,4-4-2 duplo 6,Vujadin Boskov,34746,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215133
+2,dom 10/09/1995,11:00,Napoli,Padova,4-4-2 duplo 6,Vujadin Boskov,25577,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215150
+3,dom 17/09/1995,11:00,Atalanta,Napoli,3-5-2,Vujadin Boskov,20358,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215156
+4,dom 24/09/1995,11:00,Napoli,Inter,4-4-2 duplo 6,Vujadin Boskov,59414,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215160
+5,dom 01/10/1995,11:00,Juventus,Napoli,5-3-2,Vujadin Boskov,51393,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215177
+6,dom 15/10/1995,17:30,Napoli,Florenz,5-3-2,Vujadin Boskov,60464,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215186
+7,dom 22/10/1995,11:30,Piacenza,Napoli,4-4-2 duplo 6,Vujadin Boskov,14202,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215195
+8,dom 29/10/1995,11:30,Napoli,Cremonese,3-5-2,Vujadin Boskov,56533,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215204
+9,dom 05/11/1995,11:30,Torino,Napoli,3-5-2,Vujadin Boskov,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215205
+10,dom 19/11/1995,11:30,Napoli,Vicenza,4-4-2 duplo 6,Vujadin Boskov,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215222
+11,dom 26/11/1995,11:30,Cagliari,Napoli,4-4-2 duplo 6,Vujadin Boskov,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215229
+12,dom 03/12/1995,11:30,Napoli,AC Parma,3-5-2 plano,Vujadin Boskov,38425,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215236
+13,dom 10/12/1995,17:30,Milan,Napoli,3-5-2 plano,Vujadin Boskov,52838,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215242
+14,dom 17/12/1995,11:30,Napoli,Roma,4-4-2 duplo 6,Vujadin Boskov,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215250
+15,sáb 23/12/1995,17:30,Sampdoria,Napoli,4-4-2 duplo 6,Vujadin Boskov,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215261
+16,dom 07/01/1996,11:30,Napoli,Lazio,4-4-2 duplo 6,Vujadin Boskov,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215276
+17,dom 14/01/1996,11:30,Udinese,Napoli,4-4-2 duplo 6,Vujadin Boskov,,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215278
+18,dom 21/01/1996,11:30,Napoli,Bari,3-5-2 plano,Vujadin Boskov,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215287
+19,dom 28/01/1996,11:30,Padova,Napoli,4-4-2 duplo 6,Vujadin Boskov,,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215295
+20,dom 04/02/1996,17:30,Napoli,Atalanta,4-4-2 duplo 6,Vujadin Boskov,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215310
+21,dom 11/02/1996,11:00,Inter,Napoli,3-5-2 plano,Vujadin Boskov,,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215321
+22,dom 18/02/1996,11:00,Napoli,Juventus,4-3-3 ofensivo,Vujadin Boskov,62127,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215326
+23,dom 25/02/1996,11:00,Florenz,Napoli,4-4-2 duplo 6,Vujadin Boskov,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215339
+24,dom 03/03/1996,11:00,Napoli,Piacenza,4-4-2 duplo 6,Vujadin Boskov,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215346
+25,dom 10/03/1996,11:00,Cremonese,Napoli,4-4-2 duplo 6,Vujadin Boskov,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215356
+26,qua 10/04/1996,15:30,Napoli,Torino,4-3-3 ofensivo,Vujadin Boskov,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215388
+27,dom 24/03/1996,11:00,Vicenza,Napoli,5-3-2,Vujadin Boskov,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215366
+28,dom 31/03/1996,11:00,Napoli,Cagliari,3-5-2,Vujadin Boskov,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215373
+29,sáb 06/04/1996,11:00,AC Parma,Napoli,4-4-2 duplo 6,Vujadin Boskov,22764,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215384
+30,dom 14/04/1996,11:00,Napoli,Milan,4-4-2 duplo 6,Vujadin Boskov,46192,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215394
+31,sáb 20/04/1996,11:00,Roma,Napoli,?,Vujadin Boskov,,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215410
+32,dom 28/04/1996,11:00,Napoli,Sampdoria,3-5-2 plano,Vujadin Boskov,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215414
+33,dom 05/05/1996,11:00,Lazio,Napoli,4-4-2 duplo 6,Vujadin Boskov,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215429
+34,dom 12/05/1996,11:00,Napoli,Udinese,4-4-2 duplo 6,Vujadin Boskov,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215437

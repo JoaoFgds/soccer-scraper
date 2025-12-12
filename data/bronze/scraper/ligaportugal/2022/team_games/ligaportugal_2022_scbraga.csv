@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 07/08/2022,14:00,Braga,Sporting,4-4-2 duplo 6,Artur Jorge,17714,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869049
+2,sex 12/08/2022,16:15,Famalicão,Braga,4-4-2 duplo 6,Artur Jorge,4637,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869057
+3,dom 21/08/2022,14:00,Braga,Marítimo,4-4-2 duplo 6,Artur Jorge,12358,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869067
+4,dom 28/08/2022,14:00,Arouca,Braga,4-4-2 duplo 6,Artur Jorge,2348,0:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869115
+5,sáb 03/09/2022,11:30,Braga,Vit. Guimarães,4-4-2 duplo 6,Artur Jorge,21736,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869077
+6,dom 11/09/2022,16:30,Rio Ave,Braga,4-4-2 duplo 6,Artur Jorge,3071,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869086
+7,dom 18/09/2022,16:30,Braga,Vizela,4-4-2 duplo 6,Artur Jorge,14181,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869096
+8,sex 30/09/2022,17:15,FC Porto,Braga,4-4-2 duplo 6,Artur Jorge,44830,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869120
+9,dom 09/10/2022,16:30,Braga,Chaves,4-4-2,Artur Jorge,12494,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869105
+10,sáb 22/10/2022,14:00,Estoril,Braga,4-4-2 duplo 6,Artur Jorge,2674,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869128
+11,dom 30/10/2022,17:30,Gil Vicente,Braga,4-4-2 duplo 6,Artur Jorge,5627,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869345
+12,dom 06/11/2022,15:00,Braga,Casa Pia,4-4-2 duplo 6,Artur Jorge,13004,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869197
+13,dom 13/11/2022,15:00,Portimonense,Braga,4-4-2 duplo 6,Artur Jorge,1290,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869136
+14,sex 30/12/2022,18:15,Braga,Benfica,4-2-3-1,Artur Jorge,19398,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869149
+15,qui 05/01/2023,16:15,Santa Clara,Braga,4-2-3-1,Artur Jorge,1591,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869154
+16,sáb 14/01/2023,17:30,Braga,Boavista,4-4-2,Artur Jorge,12357,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869249
+17,sáb 21/01/2023,12:30,Paços Ferreira,Braga,4-4-2 duplo 6,Artur Jorge,5904,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869181
+18,qua 01/02/2023,18:15,Sporting,Braga,3-4-3 plano,Artur Jorge,26338,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869168
+19,dom 05/02/2023,12:30,Braga,Famalicão,4-4-2 duplo 6,Artur Jorge,14331,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869175
+20,dom 12/02/2023,17:30,Marítimo,Braga,4-2-3-1,Artur Jorge,9937,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869212
+21,dom 19/02/2023,15:00,Braga,Arouca,4-4-2 duplo 6,Artur Jorge,13407,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869224
+22,seg 27/02/2023,18:15,Vit. Guimarães,Braga,4-4-2 duplo 6,Artur Jorge,19072,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869267
+23,dom 05/03/2023,17:30,Braga,Rio Ave,4-4-2 duplo 6,Artur Jorge,9456,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869276
+24,sáb 11/03/2023,17:30,Vizela,Braga,4-4-2 duplo 6,Artur Jorge,3682,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869340
+25,dom 19/03/2023,15:00,Braga,FC Porto,4-4-2 duplo 6,Artur Jorge,22256,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869202
+26,dom 02/04/2023,11:30,Chaves,Braga,4-2-3-1,Artur Jorge,5454,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869286
+27,sáb 08/04/2023,16:30,Braga,Estoril,4-2-3-1,Artur Jorge,15507,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869291
+28,dom 16/04/2023,14:00,Braga,Gil Vicente,4-4-2,Artur Jorge,18197,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869237
+29,sex 21/04/2023,16:15,Casa Pia,Braga,4-4-2 duplo 6,Artur Jorge,1016,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869233
+30,sáb 29/04/2023,11:30,Braga,Portimonense,4-4-2 duplo 6,Artur Jorge,16005,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869298
+31,sáb 06/05/2023,16:30,Benfica,Braga,4-2-3-1,Artur Jorge,60289,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869312
+32,dom 14/05/2023,14:00,Braga,Santa Clara,4-4-2 duplo 6,Artur Jorge,16442,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869325
+33,sáb 20/05/2023,14:00,Boavista,Braga,4-4-2,Artur Jorge,9265,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869321
+34,sáb 27/05/2023,16:30,Braga,Paços Ferreira,4-2-3-1,Artur Jorge,14481,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869253

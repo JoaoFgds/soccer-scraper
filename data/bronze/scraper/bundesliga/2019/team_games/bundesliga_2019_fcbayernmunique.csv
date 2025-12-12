@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 16/08/2019,15:30,Bayern,Hertha Berlim,4-2-3-1,Niko Kovac,75000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203424
+2,sáb 24/08/2019,13:30,Schalke,Bayern,4-3-3 ofensivo,Niko Kovac,62271,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203447
+3,sáb 31/08/2019,10:30,Bayern,Mainz,4-2-3-1,Niko Kovac,75000,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203451
+4,sáb 14/09/2019,13:30,Leipzig,Bayern,4-2-3-1,Niko Kovac,41939,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203461
+5,sáb 21/09/2019,10:30,Bayern,Colônia,4-2-3-1,Niko Kovac,75000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203469
+6,sáb 28/09/2019,10:30,Paderborn,Bayern,4-2-3-1,Niko Kovac,15000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203485
+7,sáb 05/10/2019,10:30,Bayern,Hoffenheim,4-2-3-1,Niko Kovac,75000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203487
+8,sáb 19/10/2019,10:30,Augsburg,Bayern,4-2-3-1,Niko Kovac,30660,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203502
+9,sáb 26/10/2019,10:30,Bayern,Union Berlim,4-1-4-1,Niko Kovac,75000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203505
+10,sáb 02/11/2019,11:30,Frankfurt,Bayern,4-2-3-1,Niko Kovac,51500,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203517
+11,sáb 09/11/2019,14:30,Bayern,Dortmund,4-3-3 ofensivo,Hansi Flick,75000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203523
+12,sáb 23/11/2019,11:30,Düsseldorf,Bayern,4-1-4-1,Hansi Flick,53000,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203538
+13,sáb 30/11/2019,14:30,Bayern,Leverkusen,4-2-3-1,Hansi Flick,75000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203541
+14,sáb 07/12/2019,11:30,M'gladbach,Bayern,4-3-3 ofensivo,Hansi Flick,54022,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203553
+15,sáb 14/12/2019,11:30,Bayern,Werder Bremen,4-3-3 ofensivo,Hansi Flick,75000,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203559
+16,qua 18/12/2019,16:30,Freiburg,Bayern,4-3-3 ofensivo,Hansi Flick,24000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203574
+17,sáb 21/12/2019,11:30,Bayern,Wolfsburg,4-3-3 ofensivo,Hansi Flick,75000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203577
+18,dom 19/01/2020,11:30,Hertha Berlim,Bayern,4-2-3-1,Hansi Flick,74475,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203589
+19,sáb 25/01/2020,14:30,Bayern,Schalke,4-3-3 ofensivo,Hansi Flick,75000,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203595
+20,sáb 01/02/2020,11:30,Mainz,Bayern,4-3-3 ofensivo,Hansi Flick,33305,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203609
+21,dom 09/02/2020,14:00,Bayern,Leipzig,4-3-3 ofensivo,Hansi Flick,75000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203613
+22,dom 16/02/2020,11:30,Colônia,Bayern,4-2-3-1,Hansi Flick,50000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203628
+23,sex 21/02/2020,16:30,Bayern,Paderborn,3-4-3 plano,Hansi Flick,75000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203631
+24,sáb 29/02/2020,11:30,Hoffenheim,Bayern,4-2-3-1,Hansi Flick,30150,0:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203643
+25,dom 08/03/2020,11:30,Bayern,Augsburg,4-2-3-1,Hansi Flick,75000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203649
+26,dom 17/05/2020,13:00,Union Berlim,Bayern,4-3-3 ofensivo,Hansi Flick,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203666
+27,sáb 23/05/2020,13:30,Bayern,Frankfurt,4-2-3-1,Hansi Flick,x,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203667
+28,ter 26/05/2020,13:30,Dortmund,Bayern,4-2-3-1,Hansi Flick,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203676
+29,sáb 30/05/2020,13:30,Bayern,Düsseldorf,4-2-3-1,Hansi Flick,x,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203685
+30,sáb 06/06/2020,10:30,Leverkusen,Bayern,4-2-3-1,Hansi Flick,x,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203696
+31,sáb 13/06/2020,13:30,Bayern,M'gladbach,4-2-3-1,Hansi Flick,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203703
+32,ter 16/06/2020,15:30,Werder Bremen,Bayern,4-2-3-1,Hansi Flick,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203717
+33,sáb 20/06/2020,10:30,Bayern,Freiburg,4-2-3-1,Hansi Flick,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203721
+34,sáb 27/06/2020,10:30,Wolfsburg,Bayern,4-2-3-1,Hansi Flick,x,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203733

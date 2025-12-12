@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 06/08/2022,08:30,Fulham,Liverpool,4-2-3-1,Marco Silva,22207,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3837815
+2,sáb 13/08/2022,11:00,Wolves,Fulham,4-2-3-1,Marco Silva,31178,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3837824
+3,sáb 20/08/2022,11:00,Fulham,Brentford,4-2-3-1,Marco Silva,21798,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3837837
+4,sáb 27/08/2022,13:30,Arsenal,Fulham,4-2-3-1,Marco Silva,60164,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3837844
+5,ter 30/08/2022,15:30,Fulham,Brighton,4-2-3-1,Marco Silva,22224,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3837856
+6,sáb 03/09/2022,11:00,Tottenham,Fulham,4-2-3-1,Marco Silva,61641,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3837980
+7,qui 12/01/2023,17:00,Fulham,Chelsea,4-2-3-1,Marco Silva,24460,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3837991
+8,sex 16/09/2022,16:00,Nott'm Forest,Fulham,4-2-3-1,Marco Silva,28654,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838005
+9,sáb 01/10/2022,11:00,Fulham,Newcastle,4-2-3-1,Marco Silva,22913,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838011
+10,dom 09/10/2022,10:00,West Ham,Fulham,4-2-3-1,Marco Silva,62454,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838027
+11,sáb 15/10/2022,11:00,Fulham,Bournemouth,4-2-3-1,Marco Silva,22913,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838030
+12,qui 20/10/2022,15:30,Fulham,Aston Villa,4-2-3-1,Marco Silva,23508,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838054
+13,dom 23/10/2022,10:00,Leeds,Fulham,4-2-3-1,Marco Silva,36447,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838191
+14,sáb 29/10/2022,13:30,Fulham,Everton,4-2-3-1,Marco Silva,23534,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838209
+15,sáb 05/11/2022,12:00,Man City,Fulham,4-1-4-1,Marco Silva,52395,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838230
+16,dom 13/11/2022,13:30,Fulham,Man Utd,4-2-3-1,Marco Silva,24246,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838238
+17,seg 26/12/2022,12:00,Crystal Palace,Fulham,4-2-3-1,Marco Silva,25176,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838256
+18,sáb 31/12/2022,12:00,Fulham,Southampton,4-2-3-1,Marco Silva,24344,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838264
+19,ter 03/01/2023,16:45,Leicester,Fulham,4-2-3-1,Marco Silva,30813,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838279
+20,dom 15/01/2023,11:00,Newcastle,Fulham,4-2-3-1,Marco Silva,52247,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838798
+21,seg 23/01/2023,17:00,Fulham,Tottenham,4-2-3-1,Marco Silva,24190,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838789
+22,sex 03/02/2023,17:00,Chelsea,Fulham,4-2-3-1,Marco Silva,40041,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838774
+23,sáb 11/02/2023,12:00,Fulham,Nott'm Forest,4-2-3-1,Marco Silva,24244,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838769
+24,sáb 18/02/2023,12:00,Brighton,Fulham,4-2-3-1,Marco Silva,31619,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838753
+25,sex 24/02/2023,17:00,Fulham,Wolves,4-2-3-1,Marco Silva,24399,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838744
+26,seg 06/03/2023,17:00,Brentford,Fulham,4-2-3-1,Marco Silva,17025,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838738
+27,dom 12/03/2023,11:00,Fulham,Arsenal,4-2-3-1,Marco Silva,24426,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838724
+28,qua 03/05/2023,16:00,Liverpool,Fulham,4-2-3-1,Marco Silva,52602,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838716
+29,sáb 01/04/2023,11:00,Bournemouth,Fulham,4-2-3-1,Marco Silva,10305,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838709
+30,sáb 08/04/2023,11:00,Fulham,West Ham,4-2-3-1,Marco Silva,24491,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838698
+31,sáb 15/04/2023,11:00,Everton,Fulham,4-2-3-1,Marco Silva,39241,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838683
+32,sáb 22/04/2023,08:30,Fulham,Leeds,4-2-3-1,Marco Silva,24356,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838669
+33,ter 25/04/2023,15:45,Aston Villa,Fulham,4-2-3-1,Marco Silva,41046,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838658
+34,dom 30/04/2023,10:00,Fulham,Man City,4-2-3-1,Marco Silva,24498,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838643
+35,seg 08/05/2023,11:00,Fulham,Leicester,4-2-3-1,Marco Silva,24442,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838625
+36,sáb 13/05/2023,11:00,Southampton,Fulham,4-2-3-1,Marco Silva,28978,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838622
+37,sáb 20/05/2023,11:00,Fulham,Crystal Palace,4-2-3-1,Marco Silva,24356,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838605
+38,dom 28/05/2023,12:30,Man Utd,Fulham,4-2-3-1,Marco Silva,73465,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838601

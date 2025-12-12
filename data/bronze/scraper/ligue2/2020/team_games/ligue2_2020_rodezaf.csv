@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 22/08/2020,14:00,Rodez AF,Grenoble,3-4-3 plano,Laurent Peyrelade,1591,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3393975
+2,sáb 29/08/2020,14:00,Pau FC,Rodez AF,3-4-2-1,Laurent Peyrelade,3231,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3393987
+3,sáb 12/09/2020,14:00,Rodez AF,SM Caen,5-3-2,Laurent Peyrelade,2346,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3393995
+4,sáb 19/09/2020,14:00,FC Sochaux,Rodez AF,4-4-2,Laurent Peyrelade,4970,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394008
+5,sáb 26/09/2020,14:00,Rodez AF,USL Dunkerque,3-5-2,Laurent Peyrelade,1696,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394015
+6,sáb 03/10/2020,14:00,Clermont Foot,Rodez AF,3-4-3 plano,Laurent Peyrelade,2623,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394022
+7,sáb 17/10/2020,14:00,Rodez AF,Troyes,3-5-2,Laurent Peyrelade,1791,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394037
+8,sáb 24/10/2020,14:00,Toulouse,Rodez AF,3-5-2,Laurent Peyrelade,540,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394047
+9,sáb 31/10/2020,15:00,Rodez AF,Auxerre,3-5-2,Laurent Peyrelade,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394057
+10,sáb 07/11/2020,15:00,Rodez AF,AC Ajaccio,3-1-4-2,Laurent Peyrelade,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394065
+11,sáb 21/11/2020,15:00,Valenciennes,Rodez AF,3-4-3 plano,Laurent Peyrelade,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394078
+12,sáb 28/11/2020,15:00,Rodez AF,Guingamp,3-4-2-1,Laurent Peyrelade,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394085
+13,ter 01/12/2020,15:00,FC Chambly Oise,Rodez AF,3-4-3 plano,Laurent Peyrelade,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394090
+14,sáb 05/12/2020,15:00,Rodez AF,Amiens SC,5-4-1 plano,Laurent Peyrelade,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394105
+15,sáb 12/12/2020,15:00,Paris FC,Rodez AF,3-4-3 plano,Laurent Peyrelade,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394117
+16,sex 18/12/2020,16:00,Rodez AF,LB Châteauroux,3-4-3 plano,Laurent Peyrelade,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394124
+17,ter 22/12/2020,16:00,Le Havre,Rodez AF,3-4-3 plano,Laurent Peyrelade,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394134
+18,ter 05/01/2021,16:00,Rodez AF,Chamois Niort,3-5-2,Laurent Peyrelade,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394144
+19,sex 08/01/2021,16:00,AS Nancy,Rodez AF,3-5-2,Laurent Peyrelade,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394154
+20,sáb 16/01/2021,15:00,Rodez AF,Pau FC,3-5-2,Laurent Peyrelade,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394165
+21,sáb 23/01/2021,15:00,SM Caen,Rodez AF,3-1-4-2,Laurent Peyrelade,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394169
+22,sáb 30/01/2021,15:00,Rodez AF,FC Sochaux,3-1-4-2,Laurent Peyrelade,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394185
+23,ter 02/02/2021,16:00,USL Dunkerque,Rodez AF,3-1-4-2,Laurent Peyrelade,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394193
+24,sex 05/02/2021,16:00,Rodez AF,Clermont Foot,3-1-4-2,Laurent Peyrelade,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394206
+25,sáb 13/02/2021,15:00,Troyes,Rodez AF,3-1-4-2,Laurent Peyrelade,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394218
+26,sáb 20/02/2021,15:00,Rodez AF,Toulouse,3-5-2 plano,Laurent Peyrelade,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394227
+27,sáb 27/02/2021,15:00,Auxerre,Rodez AF,3-1-4-2,Laurent Peyrelade,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394229
+28,ter 02/03/2021,16:00,AC Ajaccio,Rodez AF,3-1-4-2,Laurent Peyrelade,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394246
+29,sáb 13/03/2021,16:00,Rodez AF,Valenciennes,3-1-4-2,Laurent Peyrelade,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394269
+30,sáb 20/03/2021,16:00,Guingamp,Rodez AF,3-1-4-2,Laurent Peyrelade,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394283
+31,sáb 03/04/2021,15:00,Rodez AF,FC Chambly Oise,3-1-4-2,Laurent Peyrelade,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394310
+32,dom 11/04/2021,14:00,Amiens SC,Rodez AF,3-1-4-2,Laurent Peyrelade,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394321
+33,sáb 17/04/2021,15:00,Rodez AF,Paris FC,3-1-4-2,Laurent Peyrelade,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394343
+34,ter 20/04/2021,15:00,LB Châteauroux,Rodez AF,3-1-4-2,Laurent Peyrelade,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394364
+35,sáb 24/04/2021,15:00,Rodez AF,Le Havre,3-1-4-2,Laurent Peyrelade,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394499
+36,sáb 01/05/2021,15:00,Chamois Niort,Rodez AF,3-5-2,Laurent Peyrelade,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394513
+37,sáb 08/05/2021,15:00,Rodez AF,AS Nancy,3-1-4-2,Laurent Peyrelade,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394530
+38,sáb 15/05/2021,15:00,Grenoble,Rodez AF,3-5-2 plano,Laurent Peyrelade,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394541

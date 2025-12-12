@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 01/08/1997,19:00,Stade Lavallois,FC Gueugnon,?,Roland Gransart,4812,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008460
+2,sex 08/08/1997,19:00,FC Gueugnon,Chamois Niort,?,Roland Gransart,2919,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008473
+3,dom 17/08/1997,19:00,SC Toulon 83,FC Gueugnon,?,Roland Gransart,2611,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008483
+4,ter 19/08/1997,19:00,FC Gueugnon,Nice,?,Roland Gransart,4777,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008495
+5,sex 22/08/1997,19:00,Louh.-Cuiseaux,FC Gueugnon,?,Roland Gransart,3144,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008506
+6,sex 29/08/1997,19:00,FC Gueugnon,AS Beauvais,?,Roland Gransart,2557,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008518
+7,ter 02/09/1997,19:00,Lille,FC Gueugnon,?,Roland Gransart,6500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008524
+8,sex 05/09/1997,19:00,FC Gueugnon,FC Martigues,?,Roland Gransart,2303,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008541
+9,sex 12/09/1997,19:00,Saint-Étienne,FC Gueugnon,?,Roland Gransart,7457,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008552
+10,sex 19/09/1997,19:00,FC Gueugnon,Nîmes Olympique,?,Roland Gransart,3251,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008819
+11,ter 23/09/1997,19:00,Le Mans UC 72,FC Gueugnon,?,Roland Gransart,2727,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008828
+12,sáb 27/09/1997,19:00,FC Gueugnon,AS Red Star 93,?,Roland Gransart,3235,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008838
+13,sex 03/10/1997,19:00,FC Lorient,FC Gueugnon,?,Roland Gransart,7339,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008846
+14,ter 07/10/1997,20:00,FC Gueugnon,ASOA Valence,?,Roland Gransart,3069,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008861
+15,ter 14/10/1997,20:00,FC Sochaux,FC Gueugnon,?,Roland Gransart,3000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008875
+16,qui 16/10/1997,20:00,Amiens SC,FC Gueugnon,?,Roland Gransart,3646,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008883
+17,sex 24/10/1997,20:00,FC Gueugnon,Mulhouse S-A,?,Roland Gransart,2812,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008890
+18,dom 02/11/1997,21:00,AS Nancy,FC Gueugnon,?,Roland Gransart,6500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008901
+19,sex 07/11/1997,21:00,FC Gueugnon,Troyes,?,Roland Gransart,3550,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008919
+20,sex 14/11/1997,21:00,Wasquehal,FC Gueugnon,?,Roland Gransart,1452,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008923
+21,seg 17/11/1997,21:00,FC Gueugnon,SM Caen,?,Roland Gransart,2367,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008935
+22,sex 21/11/1997,21:00,Chamois Niort,FC Gueugnon,?,Roland Gransart,3703,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008953
+23,ter 02/12/1997,21:00,FC Gueugnon,SC Toulon 83,?,Roland Gransart,1906,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008957
+24,sex 05/12/1997,21:00,Nice,FC Gueugnon,?,Roland Gransart,2936,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008970
+25,qua 12/11/1997,21:00,FC Gueugnon,Louh.-Cuiseaux,?,Roland Gransart,2663,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008983
+26,sex 09/01/1998,21:00,AS Beauvais,FC Gueugnon,?,Roland Gransart,2272,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008993
+27,ter 20/01/1998,21:00,FC Gueugnon,Lille,?,Roland Gransart,2189,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009005
+28,ter 20/01/1998,21:00,FC Martigues,FC Gueugnon,?,Roland Gransart,1613,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009011
+29,qui 29/01/1998,21:00,FC Gueugnon,Saint-Étienne,?,Roland Gransart,3681,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009021
+30,ter 10/02/1998,21:00,Nîmes Olympique,FC Gueugnon,?,Roland Gransart,3877,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009039
+31,sex 13/02/1998,21:00,FC Gueugnon,Le Mans UC 72,?,Roland Gransart,2255,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009050
+32,sex 20/02/1998,21:00,AS Red Star 93,FC Gueugnon,?,Roland Gransart,1810,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009056
+33,sex 06/03/1998,20:00,FC Gueugnon,FC Lorient,?,Roland Gransart,2411,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009072
+34,sex 13/03/1998,20:00,ASOA Valence,FC Gueugnon,?,Roland Gransart,2500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009076
+35,sex 20/03/1998,20:00,FC Gueugnon,FC Sochaux,?,Roland Gransart,2602,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009087
+36,sex 27/03/1998,20:00,FC Gueugnon,Amiens SC,?,Roland Gransart,2841,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009098
+37,seg 06/04/1998,19:00,Mulhouse S-A,FC Gueugnon,?,Roland Gransart,3606,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009112
+38,sex 17/04/1998,19:00,FC Gueugnon,AS Nancy,?,Roland Gransart,3278,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009124
+39,qui 23/04/1998,19:00,Troyes,FC Gueugnon,?,Roland Gransart,4553,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009136
+40,ter 28/04/1998,19:00,FC Gueugnon,Wasquehal,?,Roland Gransart,2522,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009144
+41,seg 04/05/1998,19:00,SM Caen,FC Gueugnon,?,Roland Gransart,10063,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009156
+42,qui 07/05/1998,19:00,FC Gueugnon,Stade Lavallois,?,Roland Gransart,2898,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009172

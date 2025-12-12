@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qua 19/07/1995,15:00,Bordeaux,Lille,?,Jean Fernandez,12000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011251
+2,qua 26/07/1995,15:00,Lille,SC Bastia,?,Jean Fernandez,9364,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011260
+3,sáb 05/08/1995,15:00,Saint-Étienne,Lille,?,Jean-Michel Cavalli,12545,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011274
+4,qua 09/08/1995,15:00,Lille,Guingamp,?,Jean-Michel Cavalli,8000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011280
+5,sáb 19/08/1995,15:00,Cannes,Lille,?,Jean-Michel Cavalli,5000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011292
+6,sex 25/08/1995,15:00,Lille,Nantes,?,Jean-Michel Cavalli,7500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011296
+7,ter 29/08/1995,15:00,Monaco,Lille,?,Jean-Michel Cavalli,3000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011310
+8,sáb 09/09/1995,15:00,Lille,Lens,?,Jean-Michel Cavalli,12145,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011324
+9,sáb 16/09/1995,15:00,FC Gueugnon,Lille,?,Jean-Michel Cavalli,5542,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011332
+10,sex 22/09/1995,15:00,Lille,Le Havre,?,Jean-Michel Cavalli,5643,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011345
+11,sáb 30/09/1995,16:00,Montpellier,Lille,?,Jean-Michel Cavalli,8232,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011351
+12,qua 04/10/1995,16:00,Lille,Strasbourg,?,Jean-Michel Cavalli,7496,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011362
+13,sáb 14/10/1995,16:00,Rennes,Lille,?,Jean-Michel Cavalli,8385,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011374
+14,sáb 21/10/1995,17:00,Lille,FC Metz,?,Jean-Michel Cavalli,11014,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011376
+15,sex 27/10/1995,17:00,Auxerre,Lille,?,Jean-Michel Cavalli,6000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011388
+16,sáb 04/11/1995,17:00,Lille,FC Martigues,?,Jean-Michel Cavalli,7879,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011403
+17,qua 08/11/1995,17:00,Nice,Lille,?,Jean-Michel Cavalli,3667,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011414
+18,sáb 18/11/1995,17:00,Lille,PSG,?,Jean-Michel Cavalli,12074,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011417
+19,sáb 25/11/1995,17:00,Lyon,Lille,?,Jean-Michel Cavalli,12000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011452
+20,sex 01/12/1995,17:00,SC Bastia,Lille,?,Jean-Michel Cavalli,4500,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011469
+21,sáb 09/12/1995,17:00,Lille,Saint-Étienne,?,Jean-Michel Cavalli,7432,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011480
+22,sáb 16/12/1995,17:00,Guingamp,Lille,?,Jean-Michel Cavalli,6240,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011487
+23,qua 10/01/1996,17:00,Lille,Cannes,?,Jean-Michel Cavalli,6540,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011501
+24,sáb 20/01/1996,17:00,Nantes,Lille,?,Jean-Michel Cavalli,15326,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011509
+25,sáb 27/01/1996,17:00,Lille,Monaco,?,Jean-Michel Cavalli,7500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011516
+26,ter 06/02/1996,17:00,Lens,Lille,?,Jean-Michel Cavalli,22727,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011523
+27,sáb 10/02/1996,17:00,Lille,FC Gueugnon,?,Jean-Michel Cavalli,6385,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011539
+28,sáb 17/02/1996,16:00,Le Havre,Lille,?,Jean-Michel Cavalli,7110,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011552
+29,ter 27/02/1996,16:00,Lille,Montpellier,?,Jean-Michel Cavalli,7500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011557
+30,sáb 02/03/1996,16:00,Strasbourg,Lille,?,Jean-Michel Cavalli,10045,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011571
+31,sáb 09/03/1996,16:00,Lille,Rennes,?,Jean-Michel Cavalli,6874,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011580
+32,sáb 23/03/1996,16:00,FC Metz,Lille,?,Jean-Michel Cavalli,11837,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011584
+33,sáb 30/03/1996,16:00,Lille,Auxerre,?,Jean-Michel Cavalli,10000,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011593
+34,ter 09/04/1996,15:00,FC Martigues,Lille,?,Jean-Michel Cavalli,500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011610
+35,sáb 20/04/1996,15:00,Lille,Nice,?,Jean-Michel Cavalli,7316,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011622
+36,sáb 27/04/1996,15:00,PSG,Lille,?,Jean-Michel Cavalli,37762,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011626
+37,sáb 11/05/1996,15:00,Lille,Lyon,?,Jean-Michel Cavalli,7500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011640
+38,sáb 18/05/1996,15:00,Lille,Bordeaux,?,Jean-Michel Cavalli,12263,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011652

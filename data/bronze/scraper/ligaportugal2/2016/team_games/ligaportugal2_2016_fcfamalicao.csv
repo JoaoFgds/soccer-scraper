@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 06/08/2016,13:00,Leixões,Famalicão,4-2-3-1,Ulisses Morais,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733480
+2,sáb 13/08/2016,13:00,Famalicão,Olhanense,4-3-3 ofensivo,Ulisses Morais,2995,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733486
+3,sáb 20/08/2016,13:00,Santa Clara,Famalicão,4-3-3 ofensivo,Ulisses Morais,784,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733487
+4,qua 24/08/2016,14:00,Famalicão,Sporting B,4-3-3 ofensivo,Ulisses Morais,2465,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733561
+5,dom 28/08/2016,13:00,Braga B,Famalicão,4-3-3 ofensivo,Ulisses Morais,680,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733536
+6,sáb 10/09/2016,12:00,Famalicão,Freamunde,4-3-3 ofensivo,Ulisses Morais,2420,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733746
+7,qui 15/09/2016,19:00,Académica,Famalicão,4-2-3-1,Ulisses Morais,2420,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2761695
+8,qua 21/09/2016,16:30,Famalicão,Penafiel,4-3-3 ofensivo,Ulisses Morais,2305,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733579
+9,dom 09/10/2016,12:00,Covilhã,Famalicão,4-3-3 ofensivo,Ulisses Morais,327,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733588
+10,dom 02/10/2016,07:15,Famalicão,Portimonense,4-3-3 ofensivo,Ulisses Morais,2320,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733737
+11,qua 19/10/2016,13:00,FC Porto B,Famalicão,4-3-3 ofensivo,Nandinho,468,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733544
+12,dom 23/10/2016,13:00,Famalicão,CF União,4-3-3 ofensivo,Nandinho,1681,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733742
+13,sáb 29/10/2016,12:00,Vitória SC B,Famalicão,4-3-3 ofensivo,Nandinho,1943,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733598
+14,dom 06/11/2016,13:00,Famalicão,Fafe,4-3-3 ofensivo,Nandinho,4156,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2765732
+15,qua 23/11/2016,13:00,Famalicão,Benfica B,4-3-3 ofensivo,Nandinho,2250,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733636
+16,dom 27/11/2016,13:00,Cova da Piedade,Famalicão,4-3-3 ofensivo,Nandinho,920,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2765829
+17,dom 04/12/2016,09:15,Famalicão,CD Aves,4-3-3 ofensivo,Nandinho,2215,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733611
+18,dom 11/12/2016,13:00,Vizela,Famalicão,4-3-3 ofensivo,Nandinho,1633,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733633
+19,sáb 17/12/2016,14:00,Famalicão,Varzim,4-3-3 ofensivo,Nandinho,2560,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733613
+20,qua 21/12/2016,13:00,Académico FC,Famalicão,4-3-3 ofensivo,Nandinho,527,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733634
+21,dom 08/01/2017,14:00,Famalicão,Gil Vicente,4-3-3 defensivo,Nandinho,2132,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733645
+22,sáb 14/01/2017,13:00,Famalicão,Leixões,4-3-3 ofensivo,Nandinho,2205,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733510
+23,dom 22/01/2017,13:00,Olhanense,Famalicão,4-3-3 ofensivo,Nandinho,201,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733789
+24,sáb 28/01/2017,13:00,Famalicão,Santa Clara,4-3-3 ofensivo,Nandinho,1075,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733653
+25,dom 05/02/2017,13:00,Sporting B,Famalicão,4-2-3-1,Nandinho,204,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733777
+26,sáb 11/02/2017,13:00,Famalicão,Braga B,4-3-3 ofensivo,Nandinho,1495,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733800
+27,qua 15/02/2017,13:00,Freamunde,Famalicão,4-3-3 ofensivo,Nandinho,529,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733781
+28,dom 19/02/2017,12:00,Famalicão,Académica,4-2-3-1,Nandinho,2954,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2773854
+29,dom 26/02/2017,12:00,Penafiel,Famalicão,4-3-3 ofensivo,Nandinho,795,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733688
+30,dom 05/03/2017,13:00,Famalicão,Covilhã,4-3-3 ofensivo,Nandinho,2256,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733642
+31,sáb 11/03/2017,08:15,Portimonense,Famalicão,4-3-3 ofensivo,Nandinho,1488,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733699
+32,qua 15/03/2017,12:00,Famalicão,FC Porto B,4-3-3 ofensivo,Nandinho,2738,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733761
+33,dom 19/03/2017,13:00,CF União,Famalicão,4-3-3 ofensivo,Nandinho,1181,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733813
+34,dom 02/04/2017,12:00,Famalicão,Vitória SC B,4-3-3 ofensivo,Nandinho,3371,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733669
+35,dom 09/04/2017,12:00,Fafe,Famalicão,4-4-2 duplo 6,Dito,2552,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2774117
+36,sáb 15/04/2017,12:00,Benfica B,Famalicão,4-3-3 ofensivo,Dito,609,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733702
+37,qua 19/04/2017,12:00,Famalicão,Cova da Piedade,4-3-3 ofensivo,Dito,2535,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2774123
+38,dom 23/04/2017,12:00,CD Aves,Famalicão,4-3-3 ofensivo,Dito,3500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733718
+39,dom 30/04/2017,12:00,Famalicão,Vizela,4-2-3-1,Dito,3185,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733706
+40,dom 07/05/2017,12:00,Varzim,Famalicão,4-3-3 ofensivo,Dito,1776,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733716
+41,dom 14/05/2017,12:00,Famalicão,Académico FC,4-3-3 ofensivo,Dito,3234,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733729
+42,dom 21/05/2017,12:00,Gil Vicente,Famalicão,4-3-3 ofensivo,Dito,2762,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2733734

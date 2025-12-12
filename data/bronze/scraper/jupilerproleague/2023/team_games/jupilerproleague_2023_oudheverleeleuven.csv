@@ -1,0 +1,31 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 29/07/2023,13:15,R Charleroi SC,OH Leuven,4-2-3-1,Marc Brys,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4093107
+2,sáb 05/08/2023,15:45,OH Leuven,RWDM,4-3-3 ofensivo,Marc Brys,6217,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098766
+3,sáb 12/08/2023,13:15,Union SG,OH Leuven,4-2-3-1,Marc Brys,5731,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098797
+4,sex 18/08/2023,15:45,OH Leuven,Antuérpia,4-3-3 defensivo,Marc Brys,6595,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098771
+5,sáb 26/08/2023,13:15,KAS Eupen,OH Leuven,4-3-3 defensivo,Marc Brys,2351,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098789
+6,sex 01/09/2023,15:45,OH Leuven,KV Kortrijk,3-4-2-1,Marc Brys,6916,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098779
+7,dom 17/09/2023,13:30,OH Leuven,KAA Gent,3-4-2-1,Marc Brys,7338,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098961
+8,sáb 23/09/2023,13:15,KV Mechelen,OH Leuven,3-4-2-1,Marc Brys,13474,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098977
+9,sáb 30/09/2023,13:15,OH Leuven,Standard Liège,3-4-2-1,Marc Brys,7216,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098885
+10,sáb 07/10/2023,11:00,Cercle Brügge,OH Leuven,3-4-2-1,Marc Brys,3822,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098919
+11,dom 22/10/2023,14:15,OH Leuven,St.Truiden,3-4-1-2,Eddy Vanhemel,7239,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098893
+12,sáb 28/10/2023,15:45,Anderlecht,OH Leuven,3-4-1-2,Eddy Vanhemel,21500,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098940
+13,sáb 04/11/2023,14:15,OH Leuven,KVC Westerlo,3-4-1-2,Eddy Vanhemel,9800,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098869
+14,dom 12/11/2023,12:00,KRC Genk,OH Leuven,3-4-2-1,Óscar García,17821,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098820
+15,dom 26/11/2023,12:00,OH Leuven,Club Brugge,5-3-2,Óscar García,8952,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098878
+16,sáb 02/12/2023,16:45,Antuérpia,OH Leuven,4-4-1-1,Óscar García,12000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098933
+17,sáb 09/12/2023,14:15,St.Truiden,OH Leuven,3-5-2 plano,Óscar García,4754,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098952
+18,sáb 16/12/2023,12:00,OH Leuven,Cercle Brügge,5-3-2,Óscar García,6642,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098911
+19,qui 21/12/2023,16:45,KAA Gent,OH Leuven,3-4-2-1,Óscar García,11776,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098812
+20,ter 26/12/2023,12:00,OH Leuven,KAS Eupen,3-4-1-2,Óscar García,6263,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098903
+21,dom 21/01/2024,14:30,OH Leuven,Anderlecht,4-4-1-1,Óscar García,9057,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098968
+22,sáb 27/01/2024,12:00,KV Kortrijk,OH Leuven,4-3-3 ofensivo,Óscar García,6187,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098829
+23,qua 31/01/2024,14:45,OH Leuven,KRC Genk,4-5-1,Óscar García,6952,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098853
+24,sáb 03/02/2024,14:15,KVC Westerlo,OH Leuven,4-3-3 ofensivo,Óscar García,4500,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098929
+25,sáb 10/02/2024,12:00,Standard Liège,OH Leuven,4-1-4-1,Óscar García,17287,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098988
+26,sáb 17/02/2024,14:15,OH Leuven,R Charleroi SC,3-4-2-1,Óscar García,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098862
+27,sáb 24/02/2024,12:00,RWDM,OH Leuven,5-3-2,Óscar García,4935,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098981
+28,sáb 02/03/2024,14:15,OH Leuven,Union SG,3-4-2-1,Óscar García,9845,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098807
+29,dom 10/03/2024,12:00,Club Brugge,OH Leuven,4-2-3-1,Óscar García,19611,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098835
+30,dom 17/03/2024,14:30,OH Leuven,KV Mechelen,3-4-2-1,Óscar García,8963,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4098847

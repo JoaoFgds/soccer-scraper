@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 24/02/2019,02:00,Reno. Yamaguchi,Kashiwa Reysol,4-3-3 ofensivo,Masahiro Shimoda,8440,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3146019
+2,sáb 02/03/2019,01:00,Reno. Yamaguchi,Ventforet Kofu,4-3-3 ofensivo,Masahiro Shimoda,4001,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3150032
+3,dom 10/03/2019,02:00,JEF Utd. Chiba,Reno. Yamaguchi,4-3-3 ofensivo,Masahiro Shimoda,8203,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3150042
+4,dom 17/03/2019,02:00,Ehime FC,Reno. Yamaguchi,4-3-3 ofensivo,Masahiro Shimoda,2798,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3150053
+5,dom 24/03/2019,04:00,Reno. Yamaguchi,Tochigi SC,4-3-3 defensivo,Masahiro Shimoda,5002,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3150063
+6,sáb 30/03/2019,07:00,FC Ryukyu,Reno. Yamaguchi,4-3-3 ofensivo,Masahiro Shimoda,3789,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3155066
+7,qua 03/04/2019,07:00,Reno. Yamaguchi,Tokushima Vort.,4-3-3 ofensivo,Masahiro Shimoda,3806,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3155073
+8,dom 07/04/2019,02:00,V-V. Nagasaki,Reno. Yamaguchi,4-3-3 ofensivo,Masahiro Shimoda,8642,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3155084
+9,dom 14/04/2019,04:00,Reno. Yamaguchi,Kagoshima Utd.,4-3-3 ofensivo,Masahiro Shimoda,5699,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3155101
+10,dom 21/04/2019,02:00,Monte. Yamagata,Reno. Yamaguchi,4-3-3 defensivo,Masahiro Shimoda,6713,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3155108
+11,dom 28/04/2019,04:00,Reno. Yamaguchi,Zweig. Kanazawa,4-3-3 defensivo,Masahiro Shimoda,6605,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3155123
+12,sáb 04/05/2019,02:00,Albirex Niigata,Reno. Yamaguchi,4-3-3 ofensivo,Masahiro Shimoda,20121,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3155127
+13,sáb 11/05/2019,04:00,Reno. Yamaguchi,Omiya Ardija,4-3-3 defensivo,Masahiro Shimoda,6266,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3159739
+14,dom 19/05/2019,02:00,Reno. Yamaguchi,Tokyo Verdy,4-3-3 defensivo,Masahiro Shimoda,5576,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3159754
+15,sáb 25/05/2019,02:00,Kyoto Sanga,Reno. Yamaguchi,4-3-3 ofensivo,Masahiro Shimoda,7516,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3159759
+16,sáb 01/06/2019,04:00,Mito HollyHock,Reno. Yamaguchi,3-4-2-1,Masahiro Shimoda,4460,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3159772
+17,sáb 08/06/2019,07:00,Reno. Yamaguchi,Yokohama FC,3-4-2-1,Masahiro Shimoda,6054,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3160168
+18,sáb 15/06/2019,07:00,Fagiano Okayama,Reno. Yamaguchi,3-4-2-1,Masahiro Shimoda,8025,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3160182
+19,sáb 22/06/2019,07:00,Reno. Yamaguchi,FC Gifu,3-4-2-1,Masahiro Shimoda,4845,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3160191
+20,dom 30/06/2019,07:00,Avispa Fukuoka,Reno. Yamaguchi,3-4-2-1,Masahiro Shimoda,5403,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3160205
+21,dom 07/07/2019,07:00,Reno. Yamaguchi,Machida Zelvia,3-4-2-1,Masahiro Shimoda,4864,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3160385
+22,sáb 13/07/2019,06:00,Tochigi SC,Reno. Yamaguchi,3-4-2-1,Masahiro Shimoda,8034,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3160388
+23,sáb 20/07/2019,07:00,Reno. Yamaguchi,Albirex Niigata,3-4-2-1,Masahiro Shimoda,3662,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3160404
+24,sáb 27/07/2019,07:00,Omiya Ardija,Reno. Yamaguchi,3-4-2-1,Masahiro Shimoda,8033,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3160413
+25,qua 31/07/2019,07:30,Yokohama FC,Reno. Yamaguchi,3-4-2-1,Masahiro Shimoda,5530,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3160430
+26,dom 04/08/2019,07:00,Reno. Yamaguchi,Mito HollyHock,3-4-2-1,Masahiro Shimoda,5012,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3160535
+27,sáb 10/08/2019,07:00,Kashiwa Reysol,Reno. Yamaguchi,3-1-4-2,Masahiro Shimoda,9696,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3160540
+28,sáb 17/08/2019,06:00,Ventforet Kofu,Reno. Yamaguchi,4-3-3 ofensivo,Masahiro Shimoda,7540,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3160551
+29,sáb 24/08/2019,07:00,Reno. Yamaguchi,V-V. Nagasaki,4-3-3 defensivo,Masahiro Shimoda,12105,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3160566
+30,dom 01/09/2019,07:00,Reno. Yamaguchi,Fagiano Okayama,4-3-3 ofensivo,Masahiro Shimoda,4476,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3160582
+31,dom 08/09/2019,04:00,Tokyo Verdy,Reno. Yamaguchi,4-3-3 ofensivo,Masahiro Shimoda,2331,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3160902
+32,sáb 14/09/2019,07:00,Reno. Yamaguchi,Ehime FC,4-3-3 defensivo,Masahiro Shimoda,4674,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3160912
+33,sáb 21/09/2019,07:00,Zweig. Kanazawa,Reno. Yamaguchi,4-2-3-1,Masahiro Shimoda,3263,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3160917
+34,sáb 28/09/2019,07:00,Reno. Yamaguchi,Avispa Fukuoka,4-3-3 defensivo,Masahiro Shimoda,5822,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3160930
+35,dom 06/10/2019,07:00,FC Gifu,Reno. Yamaguchi,4-3-3 defensivo,Masahiro Shimoda,5214,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3160947
+36,sáb 12/10/2019,02:00,Reno. Yamaguchi,Kyoto Sanga,4-3-3 defensivo,Masahiro Shimoda,4166,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3160952
+37,dom 20/10/2019,01:00,Kagoshima Utd.,Reno. Yamaguchi,4-3-3 defensivo,Masahiro Shimoda,5646,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3160970
+38,dom 27/10/2019,04:00,Reno. Yamaguchi,JEF Utd. Chiba,4-3-3 defensivo,Masahiro Shimoda,5427,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3160977
+39,dom 03/11/2019,04:00,Reno. Yamaguchi,FC Ryukyu,4-3-3 ofensivo,Masahiro Shimoda,6099,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3160990
+40,dom 10/11/2019,02:00,Machida Zelvia,Reno. Yamaguchi,4-3-3 defensivo,Masahiro Shimoda,3749,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3160999
+41,sáb 16/11/2019,01:00,Reno. Yamaguchi,Monte. Yamagata,4-3-3 defensivo,Masahiro Shimoda,6117,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3161010
+42,dom 24/11/2019,02:00,Tokushima Vort.,Reno. Yamaguchi,4-2-3-1,Masahiro Shimoda,9326,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3161024

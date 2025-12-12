@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 11/08/2017,15:45,Arsenal,Leicester,3-4-2-1,Arsène Wenger,59387,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872115
+2,sáb 19/08/2017,13:30,Stoke,Arsenal,3-4-3 plano,Arsène Wenger,29459,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872131
+3,dom 27/08/2017,12:00,Liverpool,Arsenal,3-4-2-1,Arsène Wenger,53206,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872139
+4,sáb 09/09/2017,11:00,Arsenal,Bournemouth,3-4-2-1,Arsène Wenger,59262,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872145
+5,dom 17/09/2017,09:30,Chelsea,Arsenal,3-4-3 plano,Arsène Wenger,41478,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872156
+6,seg 25/09/2017,16:00,Arsenal,West Brom,3-4-2-1,Arsène Wenger,59134,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872165
+7,dom 01/10/2017,08:00,Arsenal,Brighton,3-4-2-1,Arsène Wenger,59378,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872176
+8,sáb 14/10/2017,13:30,Watford,Arsenal,3-4-2-1,Arsène Wenger,20384,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872194
+9,dom 22/10/2017,10:30,Everton,Arsenal,3-4-2-1,Arsène Wenger,39189,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872196
+10,sáb 28/10/2017,12:00,Arsenal,Swansea,3-4-2-1,Arsène Wenger,59493,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872206
+11,dom 05/11/2017,12:15,Man City,Arsenal,3-4-2-1,Arsène Wenger,54286,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872218
+12,sáb 18/11/2017,10:30,Arsenal,Tottenham,3-4-2-1,Arsène Wenger,59530,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872226
+13,dom 26/11/2017,12:00,FC Burnley,Arsenal,3-4-2-1,Arsène Wenger,21722,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872235
+14,qua 29/11/2017,17:45,Arsenal,Huddersfield,3-4-2-1,Arsène Wenger,59285,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872246
+15,sáb 02/12/2017,15:30,Arsenal,Man Utd,3-4-2-1,Arsène Wenger,59547,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872256
+16,dom 10/12/2017,10:00,Southampton,Arsenal,3-4-2-1,Arsène Wenger,31643,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872271
+17,qua 13/12/2017,18:00,West Ham,Arsenal,4-2-3-1,Arsène Wenger,56925,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872280
+18,sáb 16/12/2017,13:00,Arsenal,Newcastle,4-1-4-1,Arsène Wenger,59379,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872286
+19,sex 22/12/2017,17:45,Arsenal,Liverpool,4-2-3-1,Arsène Wenger,59409,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872295
+20,qui 28/12/2017,18:00,Crystal Palace,Arsenal,3-4-2-1,Arsène Wenger,25762,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872307
+21,dom 31/12/2017,14:30,West Brom,Arsenal,3-4-2-1,Arsène Wenger,26233,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872324
+22,qua 03/01/2018,17:45,Arsenal,Chelsea,3-5-2,Arsène Wenger,59379,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872325
+23,dom 14/01/2018,11:30,Bournemouth,Arsenal,3-4-2-1,Arsène Wenger,10836,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872335
+24,sáb 20/01/2018,13:00,Arsenal,Crystal Palace,4-3-3 ofensivo,Arsène Wenger,59386,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872345
+25,ter 30/01/2018,17:45,Swansea,Arsenal,4-3-3 ofensivo,Arsène Wenger,20819,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872356
+26,sáb 03/02/2018,15:30,Arsenal,Everton,4-2-3-1,Arsène Wenger,59306,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872366
+27,sáb 10/02/2018,10:30,Tottenham,Arsenal,4-2-3-1,Arsène Wenger,83222,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872383
+28,qui 01/03/2018,16:45,Arsenal,Man City,4-2-3-1,Arsène Wenger,58420,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872386
+29,dom 04/03/2018,10:30,Brighton,Arsenal,4-2-3-1,Arsène Wenger,30620,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872395
+30,dom 11/03/2018,10:30,Arsenal,Watford,4-2-3-1,Arsène Wenger,59131,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872406
+31,qua 09/05/2018,15:45,Leicester,Arsenal,4-3-3 ofensivo,Arsène Wenger,32095,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872418
+32,dom 01/04/2018,09:30,Arsenal,Stoke,4-2-3-1,Arsène Wenger,59371,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872425
+33,dom 08/04/2018,10:15,Arsenal,Southampton,4-2-3-1,Arsène Wenger,59374,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872436
+34,dom 15/04/2018,09:30,Newcastle,Arsenal,4-3-3 ofensivo,Arsène Wenger,52210,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872450
+35,dom 22/04/2018,09:30,Arsenal,West Ham,4-3-3 ofensivo,Arsène Wenger,59422,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872456
+36,dom 29/04/2018,12:30,Man Utd,Arsenal,4-2-3-1,Arsène Wenger,75035,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872469
+37,dom 06/05/2018,12:30,Arsenal,FC Burnley,4-3-3 ofensivo,Arsène Wenger,59540,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872476
+38,dom 13/05/2018,11:00,Huddersfield,Arsenal,4-3-3 ofensivo,Arsène Wenger,24122,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872487

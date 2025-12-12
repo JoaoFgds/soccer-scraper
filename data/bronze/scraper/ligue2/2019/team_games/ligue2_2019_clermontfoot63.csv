@@ -1,0 +1,29 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 26/07/2019,15:00,Clermont Foot,LB Châteauroux,4-2-3-1,Pascal Gastien,2557,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195686
+2,sex 02/08/2019,15:00,Troyes,Clermont Foot,4-2-3-1,Pascal Gastien,5628,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195702
+3,sáb 10/08/2019,10:00,Clermont Foot,Lens,4-2-3-1,Pascal Gastien,6304,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195706
+4,sex 16/08/2019,15:00,US Orléans,Clermont Foot,4-2-3-1,Pascal Gastien,3549,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195975
+5,sex 23/08/2019,15:00,Clermont Foot,Auxerre,4-2-3-1,Pascal Gastien,4100,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195981
+6,sex 30/08/2019,15:00,Valenciennes,Clermont Foot,4-2-3-1,Pascal Gastien,6843,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195997
+7,sáb 14/09/2019,09:45,Clermont Foot,FC Lorient,4-2-3-1,Pascal Gastien,3577,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3196000
+8,sex 20/09/2019,15:00,Paris FC,Clermont Foot,4-2-3-1,Pascal Gastien,1493,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3196016
+9,sex 27/09/2019,15:00,Clermont Foot,AS Nancy,4-2-3-1,Pascal Gastien,2488,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3238715
+10,sex 04/10/2019,15:00,FC Sochaux,Clermont Foot,4-2-3-1,Pascal Gastien,7042,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3238738
+11,sex 18/10/2019,15:00,Clermont Foot,Rodez AF,4-2-3-1,Pascal Gastien,3809,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3238744
+12,sex 25/10/2019,15:00,Guingamp,Clermont Foot,4-2-3-1,Pascal Gastien,8576,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3238751
+13,sáb 02/11/2019,11:00,Clermont Foot,Le Mans FC,4-2-3-1,Pascal Gastien,2646,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3239353
+14,sex 08/11/2019,16:00,FC Chambly Oise,Clermont Foot,4-2-3-1,Pascal Gastien,668,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3239360
+15,sex 22/11/2019,16:00,AC Ajaccio,Clermont Foot,4-2-3-1,Pascal Gastien,3016,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3239370
+16,sex 29/11/2019,16:00,Clermont Foot,Chamois Niort,4-2-3-1,Pascal Gastien,2559,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3239468
+17,ter 03/12/2019,17:05,Grenoble,Clermont Foot,4-2-3-1,Pascal Gastien,4369,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3239497
+18,sex 13/12/2019,16:00,Clermont Foot,Le Havre,4-2-3-1,Pascal Gastien,2270,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3239528
+19,sex 20/12/2019,16:00,SM Caen,Clermont Foot,4-2-3-1,Pascal Gastien,9529,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3239570
+20,sex 10/01/2020,16:00,Clermont Foot,Troyes,4-2-3-1,Pascal Gastien,3001,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3239598
+21,sáb 25/01/2020,11:00,Lens,Clermont Foot,4-2-3-1,Pascal Gastien,24625,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3239612
+22,sex 31/01/2020,16:00,Clermont Foot,US Orléans,4-2-3-1,Pascal Gastien,2616,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3239619
+23,ter 04/02/2020,17:05,Auxerre,Clermont Foot,4-2-3-1,Pascal Gastien,4094,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3239627
+24,sex 07/02/2020,16:00,Clermont Foot,Valenciennes,4-2-3-1,Pascal Gastien,2522,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3239639
+25,sáb 15/02/2020,11:00,FC Lorient,Clermont Foot,4-2-3-1,Pascal Gastien,7463,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3239840
+26,sex 21/02/2020,16:00,Clermont Foot,Paris FC,4-2-3-1,Pascal Gastien,4892,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3239947
+27,sex 28/02/2020,16:00,AS Nancy,Clermont Foot,4-2-3-1,Pascal Gastien,8867,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3240009
+28,sex 06/03/2020,16:00,Clermont Foot,FC Sochaux,4-2-3-1,Pascal Gastien,3839,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3240034

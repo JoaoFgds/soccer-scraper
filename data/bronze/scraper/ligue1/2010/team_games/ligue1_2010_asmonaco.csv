@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 07/08/2010,16:00,Lyon,Monaco,4-2-3-1,Guy Lacombe,35275,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1036778
+2,ter 17/08/2010,14:00,Monaco,Montpellier,4-2-3-1,Guy Lacombe,8917,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1046166
+3,sáb 21/08/2010,14:00,Lens,Monaco,4-4-1-1,Guy Lacombe,32905,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1039593
+4,dom 29/08/2010,12:00,Monaco,Auxerre,4-2-3-1,Guy Lacombe,6677,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1039690
+5,dom 12/09/2010,16:00,Marselha,Monaco,4-4-2 duplo 6,Guy Lacombe,49384,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1039697
+6,sáb 18/09/2010,14:00,Monaco,Toulouse,4-2-3-1,Guy Lacombe,6070,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1040683
+7,sáb 25/09/2010,14:00,FC Lorient,Monaco,4-2-3-1,Guy Lacombe,16021,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1040694
+8,sáb 02/10/2010,14:00,Monaco,Brest,4-2-3-1,Guy Lacombe,5431,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1040703
+9,sáb 16/10/2010,14:00,SM Caen,Monaco,4-1-4-1,Guy Lacombe,16285,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1040712
+10,sáb 23/10/2010,15:00,Monaco,Valenciennes,4-1-4-1,Guy Lacombe,5121,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1040724
+11,ter 02/11/2010,16:00,Monaco,Bordeaux,4-3-3 ofensivo,Guy Lacombe,5105,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1061402
+12,dom 07/11/2010,14:00,AS Nancy,Monaco,4-3-3 ofensivo,Guy Lacombe,14745,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1040744
+13,sáb 13/11/2010,16:00,Monaco,AC Arles-Avignon,4-2-3-1,Guy Lacombe,5161,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042662
+14,dom 21/11/2010,14:00,Lille,Monaco,4-1-4-1,Guy Lacombe,16454,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042667
+15,sáb 27/11/2010,16:00,Monaco,Nice,4-3-3 ofensivo,Guy Lacombe,9134,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042681
+16,sáb 04/12/2010,16:00,Rennes,Monaco,4-3-3 defensivo,Guy Lacombe,20829,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042691
+17,dom 12/12/2010,14:00,Monaco,Saint-Étienne,4-2-3-1,Guy Lacombe,6694,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042702
+18,sáb 18/12/2010,18:00,PSG,Monaco,5-4-1 plano,Guy Lacombe,32842,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043128
+19,qua 22/12/2010,16:00,Monaco,FC Sochaux,4-3-3 ofensivo,Guy Lacombe,4984,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043141
+20,sáb 15/01/2011,18:00,Auxerre,Monaco,4-2-3-1,Laurent Banide,9319,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043144
+21,dom 30/01/2011,18:00,Monaco,Marselha,4-2-3-1,Laurent Banide,10959,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043159
+22,dom 06/02/2011,14:00,Toulouse,Monaco,4-2-3-1,Laurent Banide,24652,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043194
+23,sáb 12/02/2011,16:00,Monaco,FC Lorient,4-2-3-1,Laurent Banide,4921,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043443
+24,sáb 19/02/2011,16:00,Brest,Monaco,4-4-2 duplo 6,Laurent Banide,13271,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043451
+25,sáb 26/02/2011,15:00,Monaco,SM Caen,4-1-4-1,Laurent Banide,5142,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043463
+26,sáb 05/03/2011,15:00,Valenciennes,Monaco,4-1-4-1,Laurent Banide,11859,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043479
+27,dom 13/03/2011,13:00,Bordeaux,Monaco,4-1-4-1,Laurent Banide,26811,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043481
+28,dom 20/03/2011,13:00,Monaco,AS Nancy,4-3-3 ofensivo,Laurent Banide,5446,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043496
+29,sáb 02/04/2011,14:00,AC Arles-Avignon,Monaco,4-4-2 duplo 6,Laurent Banide,9203,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043500
+30,sáb 09/04/2011,14:00,Monaco,Lille,4-2-3-1,Laurent Banide,7986,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043517
+31,sáb 16/04/2011,14:00,Nice,Monaco,4-2-3-1,Laurent Banide,8988,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043524
+32,dom 24/04/2011,12:00,Monaco,Rennes,4-2-3-1,Laurent Banide,6569,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043537
+33,dom 01/05/2011,16:00,Saint-Étienne,Monaco,4-2-3-1,Laurent Banide,23656,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043547
+34,sáb 07/05/2011,14:00,Monaco,PSG,4-1-4-1,Laurent Banide,9338,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043557
+35,qua 11/05/2011,14:00,FC Sochaux,Monaco,4-2-3-1,Laurent Banide,14524,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043908
+36,dom 15/05/2011,12:00,Monaco,Lens,4-2-3-1,Laurent Banide,6444,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043916
+37,sáb 21/05/2011,16:00,Montpellier,Monaco,4-2-3-1,Laurent Banide,17998,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043924
+38,dom 29/05/2011,16:00,Monaco,Lyon,4-2-3-1,Laurent Banide,11140,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043936

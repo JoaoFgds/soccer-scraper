@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 13/08/2000,12:30,Frankfurt,Unterhaching,3-1-4-2,Felix Magath,28500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18463
+2,dom 20/08/2000,12:30,Colônia,Frankfurt,5-4-1,Felix Magath,35000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18472
+3,qua 06/09/2000,15:15,Frankfurt,Hansa Rostock,3-5-2,Felix Magath,20500,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18480
+4,dom 10/09/2000,12:30,Energ. Cottbus,Frankfurt,3-5-2,Felix Magath,14012,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18491
+5,sáb 16/09/2000,10:30,Frankfurt,1860 Munique,3-5-2,Felix Magath,25600,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18497
+6,sáb 23/09/2000,10:30,Werder Bremen,Frankfurt,4-4-2 líbero losango,Felix Magath,26517,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18506
+7,sex 29/09/2000,15:15,Frankfurt,Dortmund,3-5-2 ofensivo,Felix Magath,38600,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18510
+8,sáb 14/10/2000,11:30,Schalke,Frankfurt,3-4-2-1,Felix Magath,44100,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18524
+9,sáb 21/10/2000,11:30,Hamburgo,Frankfurt,4-4-2 duplo 6,Felix Magath,41250,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18534
+10,sáb 28/10/2000,11:30,Frankfurt,Freiburg,3-5-2,Felix Magath,23800,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18541
+11,sex 03/11/2000,17:15,Leverkusen,Frankfurt,3-5-2,Felix Magath,22500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18546
+12,dom 12/11/2000,14:30,Frankfurt,K'lautern,3-5-2,Felix Magath,35000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18562
+13,sáb 18/11/2000,12:30,Bayern,Frankfurt,4-4-2 duplo 6,Felix Magath,47000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18565
+14,sáb 25/11/2000,12:30,Frankfurt,Hertha Berlim,3-5-2,Felix Magath,32000,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18575
+15,sáb 02/12/2000,12:30,Bochum,Frankfurt,3-3-3-1,Felix Magath,17500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18584
+16,sex 08/12/2000,17:15,Frankfurt,Wolfsburg,3-5-2,Felix Magath,20000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18591
+17,ter 12/12/2000,17:15,Stuttgart,Frankfurt,3-4-2-1,Felix Magath,15000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18601
+18,sex 15/12/2000,17:15,Unterhaching,Frankfurt,3-4-2-1,Felix Magath,6000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18609
+19,sáb 27/01/2001,17:15,Frankfurt,Colônia,3-5-2,Felix Magath,28100,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18624
+20,dom 04/02/2001,14:30,Hansa Rostock,Frankfurt,3-1-4-2,Rolf Dohmen,11000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18635
+21,sex 09/02/2001,17:15,Frankfurt,Energ. Cottbus,3-1-4-2,Rolf Dohmen,20000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18636
+22,sex 16/02/2001,17:15,1860 Munique,Frankfurt,3-5-2,Rolf Dohmen,20200,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18645
+23,sáb 24/02/2001,16:15,Frankfurt,Werder Bremen,3-1-4-2,Rolf Dohmen,21000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18659
+24,sex 02/03/2001,16:15,Dortmund,Frankfurt,3-5-2,Rolf Dohmen,62000,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18663
+25,sáb 10/03/2001,16:15,Frankfurt,Schalke,3-1-4-2,Rolf Dohmen,37400,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18678
+26,sáb 17/03/2001,11:30,Frankfurt,Hamburgo,3-1-4-2,Rolf Dohmen,33000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18687
+27,sáb 31/03/2001,10:30,Freiburg,Frankfurt,3-1-4-2,Rolf Dohmen,24000,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18694
+28,sáb 07/04/2001,10:30,Frankfurt,Leverkusen,3-4-2-1,Friedel Rausch,27000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18702
+29,sáb 14/04/2001,10:30,K'lautern,Frankfurt,3-4-2-1,Friedel Rausch,41500,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18711
+30,sáb 21/04/2001,10:30,Frankfurt,Bayern,3-4-2-1,Friedel Rausch,57000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18718
+31,sáb 28/04/2001,10:30,Hertha Berlim,Frankfurt,3-1-4-2,Friedel Rausch,35969,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18728
+32,sáb 05/05/2001,10:30,Frankfurt,Bochum,3-5-2,Friedel Rausch,14000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18737
+33,sáb 12/05/2001,10:30,Wolfsburg,Frankfurt,3-4-2-1,Friedel Rausch,16105,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18747
+34,sáb 19/05/2001,10:30,Frankfurt,Stuttgart,3-5-2,Friedel Rausch,34000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/18757

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qua 27/07/1994,19:00,Bordeaux,Nice,?,Toni,20000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011653
+2,seg 01/08/1994,19:00,Montpellier,Bordeaux,?,Toni,14104,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011664
+3,qui 04/08/1994,19:00,Bordeaux,FC Martigues,?,Toni,18000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011674
+4,sáb 13/08/1994,15:00,Rennes,Bordeaux,?,Toni,13527,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011691
+5,sex 19/08/1994,19:00,Bordeaux,Saint-Étienne,?,Toni,18000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011696
+6,sex 26/08/1994,19:00,Bordeaux,Cannes,?,Toni,25000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011705
+7,ter 30/08/1994,19:00,Le Havre,Bordeaux,?,Toni,7784,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011720
+8,sex 09/09/1994,19:00,Bordeaux,Lens,?,Toni,15000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011727
+9,sex 16/09/1994,19:00,FC Sochaux,Bordeaux,?,Toni,4355,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011737
+10,sex 23/09/1994,15:00,Bordeaux,Strasbourg,?,Toni,13875,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011748
+11,sex 30/09/1994,20:00,Nantes,Bordeaux,?,Toni,29980,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011753
+12,seg 10/10/1994,20:00,Bordeaux,Monaco,?,Toni,20000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011770
+13,qui 13/10/1994,20:00,SC Bastia,Bordeaux,?,Toni,7500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011778
+14,sex 21/10/1994,21:00,Bordeaux,FC Metz,?,Toni,12000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011788
+15,qui 27/10/1994,21:00,Lyon,Bordeaux,?,Toni,25516,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011793
+16,sáb 05/11/1994,21:00,Bordeaux,Auxerre,?,Toni,14000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011812
+17,ter 08/11/1994,21:00,SM Caen,Bordeaux,?,Toni,16440,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011819
+18,sex 18/11/1994,21:00,Bordeaux,Lille,?,Toni,12000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011826
+19,sáb 26/11/1994,17:00,PSG,Bordeaux,?,Toni,44464,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011833
+20,qui 01/12/1994,21:00,Bordeaux,Montpellier,?,Toni,13000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011848
+21,sex 16/12/1994,21:00,FC Martigues,Bordeaux,?,Toni,4000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011853
+22,sáb 07/01/1995,17:00,Bordeaux,Rennes,?,Toni,10000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011865
+23,sex 20/01/1995,21:00,Saint-Étienne,Bordeaux,?,Toni,11933,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011877
+24,sex 27/01/1995,21:00,Cannes,Bordeaux,?,Toni,6000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011884
+25,ter 07/02/1995,21:00,Bordeaux,Le Havre,?,Toni,8500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011900
+26,sáb 11/02/1995,21:00,Lens,Bordeaux,3-1-4-2,Toni,30460,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011911
+27,qui 23/02/1995,20:00,Bordeaux,FC Sochaux,?,Toni,7000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011918
+28,sex 03/03/1995,20:00,Strasbourg,Bordeaux,?,Toni,11390,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011928
+29,qui 09/03/1995,20:00,Bordeaux,Nantes,?,Toni,32476,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011934
+30,ter 21/03/1995,20:00,Monaco,Bordeaux,?,Toni,4000,6:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011948
+31,sex 31/03/1995,19:00,Bordeaux,SC Bastia,?,Eric Guérit,15000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011957
+32,sex 07/04/1995,19:00,FC Metz,Bordeaux,?,Eric Guérit,11744,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011967
+33,sex 14/04/1995,19:00,Bordeaux,Lyon,?,Eric Guérit,20000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011976
+34,sáb 29/04/1995,19:00,Auxerre,Bordeaux,?,Eric Guérit,9000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011992
+35,sex 05/05/1995,19:00,Bordeaux,SM Caen,?,Eric Guérit,8000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011999
+36,sex 19/05/1995,19:00,Lille,Bordeaux,?,Eric Guérit,10419,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012009
+37,sáb 27/05/1995,15:00,Bordeaux,PSG,?,Eric Guérit,19000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012015
+38,ter 30/05/1995,19:00,Nice,Bordeaux,?,Eric Guérit,2881,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012027

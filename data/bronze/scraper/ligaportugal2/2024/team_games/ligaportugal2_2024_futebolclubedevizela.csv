@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 11/08/2024,16:30,Leiria,Vizela,4-3-3 ofensivo,Rubén de la Barrera,7565,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397018
+2,dom 18/08/2024,11:30,Vizela,Penafiel,4-3-3 ofensivo,Rubén de la Barrera,1698,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396970
+3,dom 25/08/2024,14:00,Benfica B,Vizela,4-3-3 ofensivo,Rubén de la Barrera,653,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397008
+4,sáb 31/08/2024,11:30,Vizela,Torreense,4-3-3 ofensivo,Rubén de la Barrera,1427,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396995
+5,dom 15/09/2024,11:30,Leixões,Vizela,4-3-3 ofensivo,Rubén de la Barrera,2896,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396990
+6,seg 30/09/2024,14:00,Vizela,Mafra,4-4-2 duplo 6,Rubén de la Barrera,1540,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396976
+7,dom 06/10/2024,07:00,Feirense,Vizela,4-4-2 duplo 6,Rubén de la Barrera,1415,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396965
+8,dom 24/11/2024,08:00,Vizela,UD Oliveirense,4-4-2 duplo 6,Rubén de la Barrera,1292,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397024
+9,sex 25/10/2024,14:00,Paços Ferreira,Vizela,4-4-2 duplo 6,Rubén de la Barrera,1533,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397045
+10,sáb 02/11/2024,08:00,Portimonense,Vizela,4-4-2 duplo 6,Rubén de la Barrera,636,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397031
+11,sex 08/11/2024,15:00,Vizela,Chaves,4-4-2 duplo 6,Rubén de la Barrera,1419,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397059
+12,sáb 30/11/2024,15:00,Alverca,Vizela,4-3-3 ofensivo,Ronald Ramírez,529,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397090
+13,dom 08/12/2024,17:30,Vizela,CD Tondela,3-5-2,Ronald Ramírez,1344,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397104
+14,dom 15/12/2024,08:00,Felgueiras,Vizela,3-5-2 plano,Simón Lamas,1870,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397074
+15,sáb 21/12/2024,08:00,Vizela,FC Porto B,4-4-2 duplo 6,Fábio Pereira,1285,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397050
+16,dom 12/01/2025,08:00,Académico FC,Vizela,4-2-3-1,Fábio Pereira,1718,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397127
+17,dom 05/01/2025,12:30,Vizela,Marítimo,4-4-2 duplo 6,Fábio Pereira,1102,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397077
+18,dom 19/01/2025,08:00,Vizela,Leiria,4-2-3-1,Fábio Pereira,1351,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397097
+19,dom 26/01/2025,08:00,Penafiel,Vizela,4-2-3-1,Fábio Pereira,1046,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397114
+20,sáb 01/02/2025,12:30,Vizela,Benfica B,4-2-3-1,Fábio Pereira,1815,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397169
+21,seg 10/02/2025,15:00,Torreense,Vizela,4-2-3-1,Fábio Pereira,760,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397130
+22,dom 16/02/2025,08:00,Vizela,Leixões,4-2-3-1,Fábio Pereira,1683,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397151
+23,sáb 22/02/2025,11:00,Mafra,Vizela,4-2-3-1,Fábio Pereira,653,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397192
+24,dom 02/03/2025,15:00,Vizela,Feirense,4-2-3-1,Fábio Pereira,2789,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397145
+25,dom 09/03/2025,12:30,UD Oliveirense,Vizela,4-2-3-1,Fábio Pereira,1031,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397177
+26,dom 16/03/2025,17:30,Vizela,Paços Ferreira,4-2-3-1,Fábio Pereira,2573,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397187
+27,sáb 29/03/2025,12:30,Vizela,Portimonense,4-2-3-1,Fábio Pereira,2241,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397201
+28,sáb 05/04/2025,14:00,Chaves,Vizela,4-2-3-1,Fábio Pereira,3163,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397220
+29,dom 13/04/2025,10:00,Vizela,Alverca,4-2-3-1,Fábio Pereira,3229,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397253
+30,dom 20/04/2025,16:30,CD Tondela,Vizela,4-2-3-1,Fábio Pereira,3875,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397238
+31,sáb 26/04/2025,10:00,Vizela,Felgueiras,4-2-3-1,Fábio Pereira,4408,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397234
+32,sáb 03/05/2025,11:30,FC Porto B,Vizela,4-3-3 ofensivo,Fábio Pereira,1088,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397163
+33,dom 11/05/2025,10:00,Vizela,Académico FC,4-2-3-1,Fábio Pereira,3756,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397262
+34,sex 16/05/2025,16:30,Marítimo,Vizela,4-3-3 defensivo,Fábio Pereira,6102,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397212

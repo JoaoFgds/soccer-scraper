@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 08/08/1992,15:00,Monaco,SC Toulon Var,?,Arsène Wenger,5500,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012540
+2,sáb 15/08/1992,15:00,Auxerre,Monaco,?,Arsène Wenger,13000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012542
+3,sáb 22/08/1992,15:00,Monaco,Nîmes Olympique,?,Arsène Wenger,12000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012555
+4,sáb 29/08/1992,15:00,Le Havre,Monaco,?,Arsène Wenger,9085,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012565
+5,qua 02/09/1992,15:00,Monaco,Lens,?,Arsène Wenger,6000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012574
+6,sáb 12/09/1992,15:00,Monaco,Montpellier,?,Arsène Wenger,6000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012585
+7,sex 18/09/1992,19:00,Bordeaux,Monaco,?,Arsène Wenger,23815,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012595
+8,sex 25/09/1992,15:00,Monaco,Nantes,?,Arsène Wenger,6000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012604
+9,sex 02/10/1992,20:00,Marselha,Monaco,?,Arsène Wenger,38000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012612
+10,qua 07/10/1992,16:00,Monaco,Saint-Étienne,?,Arsène Wenger,4000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012626
+11,sáb 17/10/1992,16:00,FC Sochaux,Monaco,?,Arsène Wenger,4500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012634
+12,sáb 24/10/1992,16:00,Monaco,Strasbourg,?,Arsène Wenger,4000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012643
+13,sex 30/10/1992,17:00,SM Caen,Monaco,?,Arsène Wenger,9306,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012655
+14,sáb 07/11/1992,17:00,Monaco,Lille,?,Arsène Wenger,4000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012664
+15,sex 20/11/1992,16:30,US Valenciennes,Monaco,?,Arsène Wenger,13500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012679
+16,sex 27/11/1992,21:00,Monaco,PSG,?,Arsène Wenger,13500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012682
+17,sex 04/12/1992,17:00,Toulouse,Monaco,?,Arsène Wenger,14426,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012694
+18,sáb 12/12/1992,17:00,Monaco,FC Metz,?,Arsène Wenger,3000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012703
+19,sáb 19/12/1992,17:00,Lyon,Monaco,?,Arsène Wenger,27208,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012714
+20,sáb 09/01/1993,17:00,Monaco,Auxerre,?,Arsène Wenger,6855,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012721
+21,sáb 16/01/1993,17:00,Nîmes Olympique,Monaco,?,Arsène Wenger,11024,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012731
+22,sáb 23/01/1993,17:00,Monaco,Le Havre,?,Arsène Wenger,3202,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012742
+23,sáb 30/01/1993,17:00,Lens,Monaco,?,Arsène Wenger,21292,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012752
+24,sáb 06/02/1993,16:00,Montpellier,Monaco,?,Arsène Wenger,10426,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012762
+25,qua 10/02/1993,16:00,Monaco,Bordeaux,?,Arsène Wenger,5695,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012771
+26,dom 21/02/1993,16:00,Nantes,Monaco,?,Arsène Wenger,17853,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012783
+27,qua 24/02/1993,20:00,Monaco,Marselha,?,Arsène Wenger,18000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012791
+28,sex 12/03/1993,16:00,Saint-Étienne,Monaco,?,Arsène Wenger,25187,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012802
+29,sáb 20/03/1993,16:00,Monaco,FC Sochaux,?,Arsène Wenger,4000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012811
+30,sex 02/04/1993,15:00,Strasbourg,Monaco,?,Arsène Wenger,27404,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012822
+31,sáb 10/04/1993,15:00,Monaco,SM Caen,?,Arsène Wenger,5000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012832
+32,qua 14/04/1993,15:00,Lille,Monaco,?,Arsène Wenger,6749,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012842
+33,sáb 01/05/1993,15:00,Monaco,US Valenciennes,?,Arsène Wenger,3000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012852
+34,sex 07/05/1993,19:00,PSG,Monaco,?,Arsène Wenger,35000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012862
+35,sáb 15/05/1993,15:00,Monaco,Toulouse,?,Arsène Wenger,3000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012873
+36,sáb 22/05/1993,15:00,FC Metz,Monaco,?,Arsène Wenger,9978,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012883
+37,sáb 29/05/1993,15:00,Monaco,Lyon,?,Arsène Wenger,2000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012892
+38,qua 02/06/1993,15:00,SC Toulon Var,Monaco,?,Arsène Wenger,2500,4:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012910

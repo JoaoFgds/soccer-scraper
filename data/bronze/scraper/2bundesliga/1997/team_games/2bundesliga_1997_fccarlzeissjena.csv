@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 26/07/1997,10:30,Carl Zeiss Jena,Wattenscheid 09,3-5-2,Frank Engel,4598,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951021
+2,dom 03/08/1997,10:00,Stuttg. Kickers,Carl Zeiss Jena,?,Frank Engel,3509,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951032
+3,dom 10/08/1997,10:00,Carl Zeiss Jena,Energ. Cottbus,?,Frank Engel,5003,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951043
+4,dom 24/08/1997,10:00,Nuremberg,Carl Zeiss Jena,?,Frank Engel,19000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951053
+5,dom 31/08/1997,10:00,Carl Zeiss Jena,Freiburg,3-5-2,Frank Engel,7048,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951060
+6,dom 14/09/1997,10:00,VfB Leipzig,Carl Zeiss Jena,?,Frank Engel,5700,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951071
+7,dom 21/09/1997,10:00,FC Gütersloh,Carl Zeiss Jena,?,Frank Engel,5000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951079
+8,dom 28/09/1997,10:00,Carl Zeiss Jena,Frankfurt,3-5-2,Frank Engel,7973,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951087
+9,sex 03/10/1997,14:00,KFC Uerdingen,Carl Zeiss Jena,?,Frank Engel,5350,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951092
+10,sex 17/10/1997,15:00,Carl Zeiss Jena,SV Meppen,?,Frank Engel,4470,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951101
+11,sex 24/10/1997,15:00,Unterhaching,Carl Zeiss Jena,?,Frank Engel,1200,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951109
+12,sex 31/10/1997,16:00,Carl Zeiss Jena,Greuther Fürth,?,Frank Engel,4974,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951120
+13,sex 07/11/1997,16:00,St. Pauli,Carl Zeiss Jena,?,Frank Engel,14763,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951129
+14,sex 21/11/1997,16:00,Carl Zeiss Jena,Mainz,?,Frank Engel,3788,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951139
+15,sáb 29/11/1997,12:30,FSV Zwickau,Carl Zeiss Jena,?,Frank Engel,5632,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951151
+16,sáb 20/12/1997,12:30,Carl Zeiss Jena,Fortuna Köln,?,Reiner Hollmann,3114,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951165
+17,sex 12/12/1997,16:00,Düsseldorf,Carl Zeiss Jena,?,Reiner Hollmann,5000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951167
+18,dom 15/02/1998,12:30,Wattenscheid 09,Carl Zeiss Jena,?,Reiner Hollmann,4500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951181
+19,dom 22/02/1998,12:00,Carl Zeiss Jena,Stuttg. Kickers,?,Reiner Hollmann,1839,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951189
+20,dom 01/03/1998,11:00,Energ. Cottbus,Carl Zeiss Jena,?,Frank Engel,8213,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951198
+21,sex 06/03/1998,15:00,Carl Zeiss Jena,Nuremberg,?,Reiner Hollmann,7500,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951202
+22,sex 13/03/1998,15:00,Freiburg,Carl Zeiss Jena,3-5-2,Reiner Hollmann,17400,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951213
+23,ter 26/05/1998,14:00,Carl Zeiss Jena,VfB Leipzig,?,Reiner Hollmann,2800,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951228
+24,sex 27/03/1998,15:00,Carl Zeiss Jena,FC Gütersloh,?,Reiner Hollmann,4200,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951230
+25,sex 03/04/1998,14:00,Frankfurt,Carl Zeiss Jena,4-4-2,Reiner Hollmann,18000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951238
+26,dom 12/04/1998,10:00,Carl Zeiss Jena,KFC Uerdingen,?,Reiner Hollmann,5200,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951252
+27,dom 19/04/1998,10:00,SV Meppen,Carl Zeiss Jena,?,Reiner Hollmann,5500,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951262
+28,qua 29/04/1998,14:00,Carl Zeiss Jena,Unterhaching,?,Reiner Hollmann,4600,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951273
+29,dom 03/05/1998,10:00,Greuther Fürth,Carl Zeiss Jena,?,Reiner Hollmann,6300,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951280
+30,sex 08/05/1998,14:00,Carl Zeiss Jena,St. Pauli,3-5-2,Reiner Hollmann,3702,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951284
+31,sex 15/05/1998,14:00,Mainz,Carl Zeiss Jena,?,Reiner Hollmann,9000,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951293
+32,qua 20/05/1998,14:00,Carl Zeiss Jena,FSV Zwickau,3-5-2,Reiner Hollmann,2725,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951301
+33,qua 03/06/1998,14:00,Fortuna Köln,Carl Zeiss Jena,3-4-3,Reiner Hollmann,1000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951316
+34,dom 07/06/1998,10:00,Carl Zeiss Jena,Düsseldorf,3-5-2,Reiner Hollmann,2433,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951321

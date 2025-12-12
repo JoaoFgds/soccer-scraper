@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 02/08/2013,15:00,Nîmes Olympique,US Créteil-L,4-2-3-1,Victor Zvunka,5329,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2355368
+2,sex 09/08/2013,15:00,Auxerre,Nîmes Olympique,4-2-3-1,Victor Zvunka,4917,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2355370
+3,sex 16/08/2013,15:00,Nîmes Olympique,Troyes,4-2-3-1,Victor Zvunka,5503,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330465
+4,sex 23/08/2013,15:00,Tours FC,Nîmes Olympique,4-2-3-1,Victor Zvunka,5157,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330476
+5,sex 30/08/2013,15:00,Nîmes Olympique,Le Havre,4-2-3-1,Victor Zvunka,4861,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330493
+6,sex 13/09/2013,15:00,FC Metz,Nîmes Olympique,4-2-3-1,Victor Zvunka,8637,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330498
+7,sex 20/09/2013,15:00,Nîmes Olympique,AC Arles-Avignon,4-2-3-1,Victor Zvunka,5637,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330507
+8,ter 24/09/2013,15:55,Chamois Niort,Nîmes Olympique,4-4-2 duplo 6,Victor Zvunka,3892,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330542
+9,sex 27/09/2013,15:00,Nîmes Olympique,Clermont Foot,4-2-3-1,Victor Zvunka,4412,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330548
+10,sex 04/10/2013,15:00,Nîmes Olympique,SM Caen,4-2-3-1,Victor Zvunka,4712,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330652
+11,sáb 19/10/2013,09:00,Lens,Nîmes Olympique,4-2-3-1,Victor Zvunka,29657,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330589
+12,sex 25/10/2013,16:00,Nîmes Olympique,LB Châteauroux,4-2-3-1,Victor Zvunka,4838,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330524
+13,sex 01/11/2013,17:00,AS Nancy,Nîmes Olympique,4-2-3-1,Victor Zvunka,14427,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330593
+14,sex 08/11/2013,17:00,Nîmes Olympique,CA Bastia,4-2-3-1,Victor Zvunka,5218,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330591
+15,sex 22/11/2013,17:00,FC Istres,Nîmes Olympique,4-2-3-1,Victor Zvunka,2335,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330560
+16,sex 29/11/2013,17:00,Nîmes Olympique,Dijon,4-2-3-1,Victor Zvunka,4417,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330567
+17,sex 13/12/2013,17:00,Brest,Nîmes Olympique,4-2-3-1,Victor Zvunka,8601,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330603
+18,sex 20/12/2013,17:00,Nîmes Olympique,Angers,4-2-3-1,Michel Benezet,4625,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330627
+19,sex 10/01/2014,17:00,Stade Lavallois,Nîmes Olympique,4-2-3-1,René Marsiglia,5163,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330628
+20,sex 17/01/2014,17:00,Nîmes Olympique,Auxerre,4-2-3-1,René Marsiglia,5022,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330636
+21,sex 24/01/2014,17:00,Troyes,Nîmes Olympique,4-2-3-1,René Marsiglia,6903,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330635
+22,sex 31/01/2014,17:00,Nîmes Olympique,Tours FC,4-3-3 defensivo,René Marsiglia,4487,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330672
+23,sex 07/02/2014,17:00,Le Havre,Nîmes Olympique,4-3-3 defensivo,René Marsiglia,5880,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330661
+24,sex 14/02/2014,17:00,Nîmes Olympique,FC Metz,4-2-3-1,René Marsiglia,6262,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330673
+25,sex 21/02/2014,16:00,AC Arles-Avignon,Nîmes Olympique,4-3-3 defensivo,René Marsiglia,3226,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330706
+26,sex 28/02/2014,16:00,Nîmes Olympique,Chamois Niort,4-3-3 ofensivo,René Marsiglia,5016,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330721
+27,sex 07/03/2014,16:00,Clermont Foot,Nîmes Olympique,4-3-3 defensivo,René Marsiglia,3751,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330696
+28,ter 13/05/2014,15:00,SM Caen,Nîmes Olympique,4-3-3 ofensivo,René Marsiglia,19906,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2457292
+29,sáb 22/03/2014,10:00,Nîmes Olympique,Lens,4-3-1-2,René Marsiglia,6706,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330700
+30,sex 28/03/2014,16:00,LB Châteauroux,Nîmes Olympique,4-3-3 ofensivo,René Marsiglia,5262,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330735
+31,sex 04/04/2014,15:00,Nîmes Olympique,AS Nancy,4-3-3 defensivo,René Marsiglia,5016,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330761
+32,sex 11/04/2014,15:00,CA Bastia,Nîmes Olympique,4-2-3-1,René Marsiglia,1084,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330785
+33,sex 18/04/2014,15:00,Nîmes Olympique,FC Istres,4-2-3-1,René Marsiglia,7148,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330771
+34,sex 25/04/2014,15:00,Dijon,Nîmes Olympique,4-3-3 ofensivo,René Marsiglia,7992,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330748
+35,sex 02/05/2014,15:00,Nîmes Olympique,Brest,4-2-3-1,René Marsiglia,8013,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330743
+36,ter 06/05/2014,15:45,Angers,Nîmes Olympique,4-3-3 ofensivo,René Marsiglia,7730,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330806
+37,sex 09/05/2014,15:30,Nîmes Olympique,Stade Lavallois,4-2-3-1,René Marsiglia,11711,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330807
+38,sex 16/05/2014,15:30,US Créteil-L,Nîmes Olympique,4-3-3 defensivo,René Marsiglia,2649,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330813

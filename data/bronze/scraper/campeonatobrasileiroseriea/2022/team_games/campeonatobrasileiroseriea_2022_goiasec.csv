@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 10/04/2022,11:00,Coritiba,Goiás,4-4-2 duplo 6,Glauber Ramos,18600,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767781
+2,sáb 16/04/2022,16:30,Goiás,Palmeiras,4-2-3-1,Jair Ventura,12864,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767789
+3,seg 25/04/2022,20:00,Avaí,Goiás,4-3-3 ofensivo,Jair Ventura,5883,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767800
+4,sáb 30/04/2022,18:30,Goiás,Atlético-MG,5-3-2,Jair Ventura,10165,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767829
+5,dom 08/05/2022,16:00,Atlético-GO,Goiás,5-4-1,Jair Ventura,5431,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767819
+6,dom 15/05/2022,19:00,Goiás,Santos,5-4-1,Jair Ventura,9538,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767809
+7,sáb 21/05/2022,16:30,Flamengo,Goiás,5-4-1,Jair Ventura,51962,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767833
+8,sáb 28/05/2022,16:30,Goiás,Bragantino,5-4-1,Jair Ventura,6283,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767849
+9,seg 06/06/2022,20:00,Botafogo,Goiás,5-4-1,Jair Ventura,30954,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767856
+10,qui 09/06/2022,20:00,Fortaleza,Goiás,3-4-3,Jair Ventura,30017,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767888
+11,dom 12/06/2022,16:00,Goiás,Ceará,3-4-3 plano,Jair Ventura,9011,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767879
+12,qua 15/06/2022,20:30,Goiás,Internacional,3-4-3 plano,Jair Ventura,8892,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767869
+13,sáb 18/06/2022,19:00,Corinthians,Goiás,4-4-2,Jair Ventura,35900,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767895
+14,dom 26/06/2022,18:00,Goiás,Cuiabá,3-4-3 plano,Jair Ventura,8871,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767909
+15,dom 03/07/2022,18:00,América-MG,Goiás,3-4-2-1,Jair Ventura,2339,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767912
+16,sáb 09/07/2022,20:30,Goiás,Athletico-PR,3-5-2,Jair Ventura,9044,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768149
+17,dom 17/07/2022,11:00,Juventude,Goiás,4-4-2,Jair Ventura,4406,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768137
+18,qua 20/07/2022,19:00,Goiás,Fluminense,4-4-2,Jair Ventura,11974,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768129
+19,sáb 23/07/2022,19:00,São Paulo,Goiás,4-4-2,Jair Ventura,39393,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768114
+20,sáb 30/07/2022,16:30,Goiás,Coritiba,4-4-2 duplo 6,Jair Ventura,11267,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768109
+21,dom 07/08/2022,16:00,Palmeiras,Goiás,3-5-2,Jair Ventura,38801,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768095
+22,sáb 13/08/2022,16:30,Goiás,Avaí,4-2-3-1,Jair Ventura,10831,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768089
+23,sáb 20/08/2022,16:30,Atlético-MG,Goiás,4-1-4-1,Jair Ventura,31650,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768072
+24,sáb 27/08/2022,16:30,Goiás,Atlético-GO,4-1-4-1,Jair Ventura,13411,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768069
+25,seg 05/09/2022,20:00,Santos,Goiás,4-1-4-1,Jair Ventura,11497,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768056
+26,sáb 10/09/2022,19:00,Goiás,Flamengo,4-1-4-1,Jair Ventura,13798,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768049
+27,dom 18/09/2022,11:00,Bragantino,Goiás,4-2-3-1,Jair Ventura,3984,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768034
+28,qua 28/09/2022,21:45,Goiás,Botafogo,4-2-3-1,Jair Ventura,10774,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768009
+29,sáb 01/10/2022,19:00,Goiás,Fortaleza,4-2-3-1,Jair Ventura,9898,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768019
+30,qua 05/10/2022,19:00,Ceará,Goiás,4-1-4-1,Jair Ventura,16702,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768028
+31,dom 09/10/2022,11:00,Internacional,Goiás,4-1-4-1,Jair Ventura,31554,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767997
+32,sáb 29/10/2022,18:30,Goiás,Corinthians,5-4-1,Jair Ventura,9497,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767989
+33,dom 23/10/2022,18:00,Cuiabá,Goiás,5-4-1,Jair Ventura,8871,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767980
+34,qua 26/10/2022,21:45,Goiás,América-MG,4-1-4-1,Jair Ventura,7274,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767949
+35,qua 02/11/2022,16:00,Athletico-PR,Goiás,3-4-3 plano,Jair Ventura,13664,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767961
+36,sáb 05/11/2022,19:00,Goiás,Juventude,3-4-3 plano,Jair Ventura,10480,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767969
+37,qua 09/11/2022,19:00,Fluminense,Goiás,4-4-2,Jair Ventura,35410,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767933
+38,dom 13/11/2022,16:00,Goiás,São Paulo,4-2-3-1,Jair Ventura,13927,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767929

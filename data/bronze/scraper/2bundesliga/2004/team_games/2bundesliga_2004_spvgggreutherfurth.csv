@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 08/08/2004,10:00,Greuther Fürth,LR Ahlen,4-4-2 duplo 6,Benno Möhlmann,6600,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21043
+2,dom 15/08/2004,10:00,Unterhaching,Greuther Fürth,4-4-2,Benno Möhlmann,4500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21050
+3,dom 29/08/2004,10:00,Greuther Fürth,Erzgebirge Aue,4-4-2,Benno Möhlmann,10532,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21061
+4,dom 12/09/2004,10:00,Eintracht Trier,Greuther Fürth,4-4-2 duplo 6,Benno Möhlmann,5400,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21066
+5,dom 19/09/2004,10:00,Greuther Fürth,Rot-Weiß Erfurt,4-4-2,Benno Möhlmann,7600,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21079
+6,dom 26/09/2004,10:00,MSV Duisburg,Greuther Fürth,4-4-2,Benno Möhlmann,10600,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21082
+7,dom 03/10/2004,10:00,Greuther Fürth,Energ. Cottbus,4-4-2 losango,Benno Möhlmann,8011,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21097
+8,dom 17/10/2004,10:00,W. Burghausen,Greuther Fürth,4-4-2 losango,Benno Möhlmann,8400,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21098
+9,sex 22/10/2004,14:00,Greuther Fürth,Frankfurt,4-4-2 losango,Benno Möhlmann,10100,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21115
+10,ter 26/10/2004,12:30,Karlsruher,Greuther Fürth,?,Benno Möhlmann,8500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21123
+11,sex 29/10/2004,14:00,Greuther Fürth,Colônia,4-4-2 losango,Benno Möhlmann,12052,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21133
+12,dom 07/11/2004,12:00,Dynamo Dresden,Greuther Fürth,4-4-2,Benno Möhlmann,13201,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21139
+13,sex 12/11/2004,16:00,Greuther Fürth,Saarbrücken,4-4-2 duplo 6,Benno Möhlmann,6545,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21151
+14,sex 19/11/2004,16:00,RW Oberhausen,Greuther Fürth,?,Benno Möhlmann,2948,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21155
+15,dom 28/11/2004,12:00,Greuther Fürth,RW Essen,4-4-2 losango,Benno Möhlmann,6521,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21169
+16,seg 06/12/2004,17:15,1860 Munique,Greuther Fürth,4-4-2 duplo 6,Benno Möhlmann,16100,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21171
+17,sex 10/12/2004,16:00,Greuther Fürth,Alem. Aachen,4-4-2,Benno Möhlmann,8131,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21187
+18,dom 23/01/2005,12:00,LR Ahlen,Greuther Fürth,4-4-2,Benno Möhlmann,4385,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21196
+19,dom 30/01/2005,12:00,Greuther Fürth,Unterhaching,4-4-2,Benno Möhlmann,7100,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21203
+20,dom 06/02/2005,12:00,Erzgebirge Aue,Greuther Fürth,4-4-2,Benno Möhlmann,10600,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21214
+21,dom 13/02/2005,12:00,Greuther Fürth,Eintracht Trier,4-4-2 duplo 6,Benno Möhlmann,10047,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21219
+22,dom 20/02/2005,11:00,Rot-Weiß Erfurt,Greuther Fürth,4-3-3 defensivo,Benno Möhlmann,6814,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21232
+23,seg 28/02/2005,16:15,Greuther Fürth,MSV Duisburg,4-4-2 duplo 6,Benno Möhlmann,8106,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21235
+24,dom 06/03/2005,11:00,Energ. Cottbus,Greuther Fürth,4-4-2,Benno Möhlmann,8200,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21250
+25,qua 06/04/2005,13:15,Greuther Fürth,W. Burghausen,4-4-2 duplo 6,Benno Möhlmann,7100,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21251
+26,seg 21/03/2005,16:15,Frankfurt,Greuther Fürth,4-1-4-1,Benno Möhlmann,27000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21268
+27,dom 03/04/2005,10:00,Greuther Fürth,Karlsruher,4-4-2,Benno Möhlmann,8860,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21276
+28,seg 11/04/2005,15:15,Colônia,Greuther Fürth,4-3-3 ofensivo,Benno Möhlmann,40000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21286
+29,sex 15/04/2005,14:00,Greuther Fürth,Dynamo Dresden,?,Benno Möhlmann,12900,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21292
+30,dom 24/04/2005,10:00,Saarbrücken,Greuther Fürth,?,Benno Möhlmann,8500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21304
+31,sex 29/04/2005,14:00,Greuther Fürth,RW Oberhausen,3-4-2-1,Benno Möhlmann,6500,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21308
+32,dom 08/05/2005,10:00,RW Essen,Greuther Fürth,4-5-1,Benno Möhlmann,12000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21322
+33,dom 15/05/2005,10:00,Greuther Fürth,1860 Munique,4-2-3-1,Benno Möhlmann,15500,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21324
+34,dom 22/05/2005,10:00,Alem. Aachen,Greuther Fürth,4-3-3 defensivo,Benno Möhlmann,20330,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21340

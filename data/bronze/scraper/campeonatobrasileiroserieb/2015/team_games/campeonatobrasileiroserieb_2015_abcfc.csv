@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 08/05/2015,19:30,ABC,Oeste,4-4-2 duplo 6,Josué Teixeira,2774,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2562833
+2,sex 15/05/2015,21:50,Criciúma,ABC,4-2-3-1,Josué Teixeira,4309,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2562846
+3,sáb 23/05/2015,21:00,ABC,Luverdense,4-2-3-1,Ademir Fesan,2754,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2563608
+4,sex 29/05/2015,19:30,Santa Cruz,ABC,4-2-3-1,Gilmar Pozzo,4320,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2563782
+5,ter 02/06/2015,19:30,ABC,Bragantino,4-2-3-1,Gilmar Pozzo,4009,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2567931
+6,sáb 06/06/2015,21:00,CRB,ABC,4-2-3-1,Gilmar Pozzo,4251,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2568590
+7,sex 12/06/2015,19:30,ABC,Paysandu,4-2-3-1,Gilmar Pozzo,4038,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2569518
+8,sáb 20/06/2015,16:30,Vitória,ABC,4-3-1-2,Gilmar Pozzo,7409,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2573489
+9,sáb 27/06/2015,16:30,ABC,Náutico,4-2-3-1,Gilmar Pozzo,4554,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2573499
+10,sáb 04/07/2015,16:30,ABC,Macaé,4-2-3-1,Gilmar Pozzo,2670,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2573686
+11,ter 07/07/2015,19:30,Atlético-GO,ABC,4-2-3-1,Gilmar Pozzo,1214,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2576809
+12,sáb 11/07/2015,16:30,América-MG,ABC,4-4-2 duplo 6,Gilmar Pozzo,2200,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2576820
+13,ter 14/07/2015,19:30,ABC,Paraná,4-3-1-2,Gilmar Pozzo,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2576827
+14,sáb 25/07/2015,16:30,Sampaio Corrêa,ABC,4-3-1-2,Toninho Cecílio,10472,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2576836
+15,ter 28/07/2015,19:30,ABC,Ceará,4-4-2 duplo 6,Toninho Cecílio,2181,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2576847
+16,sex 31/07/2015,21:30,ABC,Bahia,4-3-3 defensivo,Toninho Cecílio,3147,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2597011
+17,sáb 08/08/2015,21:00,Mogi Mirim,ABC,4-3-1-2,Toninho Cecílio,860,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2597950
+18,ter 11/08/2015,21:30,Botafogo,ABC,4-3-1-2,Toninho Cecílio,6435,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2597959
+19,sáb 15/08/2015,16:30,ABC,Boa Esporte,4-3-1-2,Toninho Cecílio,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2602903
+20,sáb 22/08/2015,16:30,Oeste,ABC,4-4-2 duplo 6,Hélio dos Anjos,1495,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604939
+21,ter 25/08/2015,21:30,ABC,Criciúma,4-2-3-1,Hélio dos Anjos,2745,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2612423
+22,ter 01/09/2015,20:30,Luverdense,ABC,4-2-3-1,Hélio dos Anjos,1133,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2612434
+23,sex 04/09/2015,19:00,ABC,Santa Cruz,4-2-3-1,Hélio dos Anjos,6515,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2612442
+24,ter 08/09/2015,19:00,Bragantino,ABC,4-2-3-1,Hélio dos Anjos,409,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616607
+25,sáb 12/09/2015,16:30,ABC,CRB,4-2-3-1,Hélio dos Anjos,4114,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2619264
+26,ter 15/09/2015,20:30,Paysandu,ABC,4-3-1-2,Hélio dos Anjos,11742,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2621575
+27,sex 18/09/2015,19:00,ABC,Vitória,4-2-3-1,Hélio dos Anjos,3148,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2626920
+28,sáb 26/09/2015,16:30,Náutico,ABC,4-2-3-1,Hélio dos Anjos,6126,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2627053
+29,sáb 03/10/2015,16:30,Macaé,ABC,4-2-3-1,Hélio dos Anjos,1169,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2629228
+30,ter 06/10/2015,20:30,ABC,Atlético-GO,4-2-3-1,Hélio dos Anjos,1686,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2630442
+31,sáb 17/10/2015,16:30,ABC,América-MG,4-2-3-1,Sérgio China,3257,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2631616
+32,ter 27/10/2015,21:00,Paraná,ABC,4-2-3-1,Sérgio China,1052,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2633864
+33,sáb 31/10/2015,21:00,ABC,Sampaio Corrêa,4-2-3-1,Sérgio China,3533,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2633875
+34,sex 06/11/2015,21:00,Ceará,ABC,3-5-2,Sérgio China,19773,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2633879
+35,ter 10/11/2015,21:30,Bahia,ABC,4-2-3-1,Sérgio China,9233,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2633892
+36,sex 13/11/2015,21:00,ABC,Mogi Mirim,4-2-3-1,Sérgio China,605,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2636953
+37,sex 20/11/2015,21:30,ABC,Botafogo,4-2-3-1,Sérgio China,8132,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2639212
+38,ter 24/11/2015,20:30,Boa Esporte,ABC,4-2-3-1,Sérgio China,513,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2639220

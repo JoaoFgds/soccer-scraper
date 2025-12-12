@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 16/04/2023,11:00,Criciúma,Tombense,4-2-3-1,Marcelo Chamusca,13871,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4056138
+2,sáb 22/04/2023,11:00,Tombense,Ituano,4-2-3-1,Marcelo Chamusca,578,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4059116
+3,sáb 29/04/2023,18:15,Tombense,Atlético-GO,4-2-3-1,Marcelo Chamusca,4657,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060058
+4,qua 10/05/2023,21:15,Sport,Tombense,3-5-2,Marcelo Chamusca,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060968
+5,sáb 06/05/2023,18:15,Tombense,Avaí,4-2-3-1,Marcelo Chamusca,814,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060881
+6,sáb 13/05/2023,18:15,Ceará,Tombense,3-4-3 plano,Marcelo Chamusca,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060889
+7,sex 19/05/2023,19:00,Tombense,Londrina,4-3-3 ofensivo,Marcelo Chamusca,399,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060961
+8,ter 23/05/2023,21:30,ABC,Tombense,4-2-3-1,Marcelo Chamusca,3024,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060902
+9,dom 28/05/2023,18:15,Tombense,Guarani,4-2-3-1,Marcelo Chamusca,266,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060931
+10,sex 02/06/2023,19:00,Botafogo-SP,Tombense,4-3-3 ofensivo,Marcelo Chamusca,3463,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060936
+11,ter 06/06/2023,19:00,Tombense,Vitória,4-2-3-1,Julian Tobar,698,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060921
+12,dom 11/06/2023,18:15,Juventude,Tombense,4-2-3-1,Julian Tobar,2816,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060950
+13,sáb 24/06/2023,18:15,Tombense,Novorizontino,4-2-3-1,João Burse,326,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060981
+14,ter 27/06/2023,21:30,Vila Nova,Tombense,4-2-3-1,João Burse,8624,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060994
+15,sex 30/06/2023,21:30,Tombense,Chapecoense,4-3-3 ofensivo,João Burse,332,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061041
+16,sáb 08/07/2023,18:00,Tombense,Sampaio Corrêa,4-3-3 ofensivo,João Burse,416,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061021
+17,sáb 15/07/2023,17:00,Ponte Preta,Tombense,4-3-3 ofensivo,João Burse,4221,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060983
+18,ter 18/07/2023,18:00,Tombense,CRB,4-3-3 ofensivo,João Burse,428,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061031
+19,sáb 22/07/2023,15:30,Mirassol,Tombense,4-2-3-1,João Burse,1596,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061047
+20,dom 30/07/2023,11:00,Tombense,Criciúma,4-2-3-1,João Burse,594,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061061
+21,qua 02/08/2023,19:00,Ituano,Tombense,4-2-3-1,João Burse,1184,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061086
+22,seg 07/08/2023,20:00,Atlético-GO,Tombense,4-3-3 ofensivo,João Burse,3620,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061074
+23,sex 11/08/2023,21:30,Tombense,Sport,4-3-3 ofensivo,João Burse,674,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061111
+24,sáb 19/08/2023,15:30,Avaí,Tombense,4-3-3 ofensivo,João Burse,9526,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061115
+25,sáb 26/08/2023,17:00,Tombense,Ceará,4-4-2,Moacir Júnior,444,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061101
+26,sex 01/09/2023,21:30,Londrina,Tombense,4-3-3 ofensivo,Moacir Júnior,1012,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061151
+27,qui 07/09/2023,18:30,Tombense,ABC,4-3-3 ofensivo,Moacir Júnior,544,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061141
+28,dom 17/09/2023,15:45,Guarani,Tombense,4-3-3 ofensivo,Moacir Júnior,9041,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061123
+29,sáb 23/09/2023,18:00,Tombense,Botafogo-SP,4-3-3 ofensivo,Moacir Júnior,550,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061181
+30,sex 29/09/2023,21:30,Vitória,Tombense,4-3-3 ofensivo,Moacir Júnior,28506,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061168
+31,sáb 07/10/2023,15:30,Tombense,Juventude,4-5-1,Moacir Júnior,2407,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061161
+32,sáb 14/10/2023,17:00,Novorizontino,Tombense,4-3-3 ofensivo,Moacir Júnior,2677,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061197
+33,qui 19/10/2023,19:00,Tombense,Vila Nova,4-3-3 ofensivo,Moacir Júnior,1390,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061191
+34,seg 30/10/2023,21:00,Chapecoense,Tombense,4-3-3 ofensivo,Moacir Júnior,4571,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060910
+35,sáb 04/11/2023,19:30,Sampaio Corrêa,Tombense,4-3-3 ofensivo,Moacir Júnior,5010,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060868
+36,sáb 11/11/2023,18:00,Tombense,Ponte Preta,4-3-3 ofensivo,Moacir Júnior,3404,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061011
+37,dom 19/11/2023,18:00,CRB,Tombense,4-2-3-1,Moacir Júnior,1888,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061072
+38,sáb 25/11/2023,17:00,Tombense,Mirassol,4-2-3-1,Moacir Júnior,2052,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061211

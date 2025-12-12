@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 04/08/1995,13:00,Carl Zeiss Jena,FSV Zwickau,3-5-2,Gerd Schädlich,7644,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976601
+2,qua 09/08/1995,13:30,FSV Zwickau,Chemnitzer FC,?,Gerd Schädlich,6500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976614
+3,sáb 12/08/1995,10:30,Arm. Bielefeld,FSV Zwickau,3-4-3,Gerd Schädlich,10500,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976632
+4,sáb 19/08/1995,10:30,FSV Zwickau,Mainz,?,Gerd Schädlich,4767,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976642
+5,ter 29/08/1995,14:30,MSV Duisburg,FSV Zwickau,3-5-2,Gerd Schädlich,9500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976649
+6,ter 26/09/1995,11:30,FSV Zwickau,Bochum,3-5-2 plano,Gerd Schädlich,2739,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976705
+7,dom 10/09/1995,10:00,Hannover,FSV Zwickau,3-5-2,Gerd Schädlich,7922,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976711
+8,dom 17/09/1995,10:00,FSV Zwickau,VfB Lübeck,?,Gerd Schädlich,5000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976723
+9,sáb 23/09/1995,10:30,VfB Leipzig,FSV Zwickau,3-5-2,Gerd Schädlich,5800,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976726
+10,sáb 30/09/1995,11:30,FSV Zwickau,W. Mannheim,?,Gerd Schädlich,4450,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976737
+11,sáb 14/10/1995,11:00,FSV Zwickau,SV Meppen,?,Gerd Schädlich,5565,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976745
+12,dom 22/10/1995,12:00,Hertha Berlim,FSV Zwickau,?,Gerd Schädlich,6040,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976757
+13,dom 29/10/1995,11:30,FSV Zwickau,Nuremberg,?,Gerd Schädlich,8500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976792
+14,sáb 04/11/1995,12:30,Fortuna Köln,FSV Zwickau,?,Gerd Schädlich,800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976799
+15,sáb 11/11/1995,11:30,FSV Zwickau,Wattenscheid 09,?,Gerd Schädlich,6581,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976808
+16,sáb 18/11/1995,11:15,Wolfsburg,FSV Zwickau,?,Gerd Schädlich,3300,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976817
+17,sáb 25/11/1995,11:15,FSV Zwickau,Unterhaching,3-5-2,Gerd Schädlich,7600,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976826
+18,sáb 02/12/1995,11:00,FSV Zwickau,Carl Zeiss Jena,?,Gerd Schädlich,6015,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976848
+19,sáb 09/12/1995,12:30,Chemnitzer FC,FSV Zwickau,?,Gerd Schädlich,8200,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976859
+20,seg 08/04/1996,12:00,FSV Zwickau,Arm. Bielefeld,3-5-2,Gerd Schädlich,8500,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976872
+21,sex 15/03/1996,15:30,Mainz,FSV Zwickau,?,Gerd Schädlich,3718,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976873
+22,ter 07/05/1996,13:15,FSV Zwickau,MSV Duisburg,?,Gerd Schädlich,3769,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976890
+23,seg 01/04/1996,14:30,Bochum,FSV Zwickau,3-5-2 plano,Gerd Schädlich,11385,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976898
+24,qui 04/04/1996,12:15,FSV Zwickau,Hannover,?,Gerd Schädlich,3175,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976900
+25,dom 14/04/1996,10:00,VfB Lübeck,FSV Zwickau,?,Gerd Schädlich,7000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976914
+26,dom 21/04/1996,10:00,FSV Zwickau,VfB Leipzig,?,Gerd Schädlich,7183,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976925
+27,sex 26/04/1996,14:30,W. Mannheim,FSV Zwickau,?,Gerd Schädlich,8500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976929
+28,sáb 04/05/1996,10:30,SV Meppen,FSV Zwickau,?,Gerd Schädlich,6500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976940
+29,sex 10/05/1996,13:15,FSV Zwickau,Hertha Berlim,?,Gerd Schädlich,5545,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976946
+30,qua 15/05/1996,13:30,Nuremberg,FSV Zwickau,?,Gerd Schädlich,14000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976958
+31,dom 19/05/1996,10:00,FSV Zwickau,Fortuna Köln,?,Gerd Schädlich,6041,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976966
+32,dom 26/05/1996,10:00,Wattenscheid 09,FSV Zwickau,?,Gerd Schädlich,947,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976977
+33,dom 02/06/1996,10:00,FSV Zwickau,Wolfsburg,?,Gerd Schädlich,4833,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976984
+34,sáb 08/06/1996,10:30,Unterhaching,FSV Zwickau,?,Gerd Schädlich,1500,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/976993

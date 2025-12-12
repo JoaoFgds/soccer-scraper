@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 09/04/2022,16:30,Fluminense,Santos,4-3-1-2,Fabián Bustos,20787,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767773
+2,dom 17/04/2022,11:00,Santos,Coritiba,4-4-2 duplo 6,Fabián Bustos,13052,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767786
+3,dom 24/04/2022,16:00,Santos,América-MG,4-4-2 duplo 6,Fabián Bustos,10374,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767796
+4,seg 02/05/2022,20:00,São Paulo,Santos,4-3-1-2,Fabián Bustos,36746,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767824
+5,dom 08/05/2022,18:00,Santos,Cuiabá,4-2-3-1,Fabián Bustos,7256,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767816
+6,dom 15/05/2022,19:00,Goiás,Santos,4-2-3-1,Fabián Bustos,9538,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767809
+7,sáb 21/05/2022,18:30,Santos,Ceará,4-2-3-1,Fabián Bustos,25797,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767836
+8,dom 29/05/2022,16:00,Santos,Palmeiras,4-3-3 ofensivo,Fabián Bustos,14220,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767846
+9,sáb 04/06/2022,19:00,Athletico-PR,Santos,4-3-3 ofensivo,Fabián Bustos,19323,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767861
+10,qua 08/06/2022,21:30,Santos,Internacional,4-2-3-1,Fabián Bustos,8845,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767886
+11,sáb 11/06/2022,19:00,Atlético-MG,Santos,4-2-3-1,Fabián Bustos,26501,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767872
+12,ter 14/06/2022,21:30,Juventude,Santos,4-2-3-1,Fabián Bustos,3025,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767867
+13,sáb 18/06/2022,21:00,Santos,Bragantino,4-2-3-1,Fabián Bustos,710,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767896
+14,sáb 25/06/2022,19:00,Corinthians,Santos,4-2-3-1,,40842,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767905
+15,sáb 02/07/2022,19:00,Santos,Flamengo,4-2-3-1,Fabián Bustos,12464,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767916
+16,dom 10/07/2022,18:00,Santos,Atlético-GO,4-2-3-1,Marcelo Fernandes,8588,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768146
+17,sáb 16/07/2022,19:00,Avaí,Santos,4-2-3-1,Marcelo Fernandes,8674,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768140
+18,qua 20/07/2022,21:30,Santos,Botafogo,4-2-3-1,Marcelo Fernandes,8453,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768126
+19,sáb 23/07/2022,19:00,Fortaleza,Santos,4-1-4-1,Lisca,19902,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768118
+20,seg 01/08/2022,20:00,Santos,Fluminense,4-2-3-1,Lisca,11943,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768106
+21,seg 08/08/2022,20:00,Coritiba,Santos,4-2-3-1,Lisca,22691,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768101
+22,sáb 13/08/2022,19:00,América-MG,Santos,4-2-3-1,Lisca,2978,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768082
+23,dom 21/08/2022,18:00,Santos,São Paulo,4-5-1,Lisca,12598,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768076
+24,dom 28/08/2022,18:00,Cuiabá,Santos,4-3-3 ofensivo,Lisca,19136,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768070
+25,seg 05/09/2022,20:00,Santos,Goiás,4-3-3 ofensivo,Lisca,11497,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768056
+26,sáb 10/09/2022,16:30,Ceará,Santos,4-3-3 ofensivo,Lisca,38339,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768048
+27,dom 18/09/2022,18:30,Palmeiras,Santos,4-4-2,Orlando Ribeiro,40337,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768035
+28,ter 27/09/2022,21:00,Santos,Athletico-PR,4-4-2,Orlando Ribeiro,7464,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768006
+29,sáb 01/10/2022,15:00,Internacional,Santos,4-2-3-1,Orlando Ribeiro,30858,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768017
+30,qua 05/10/2022,21:30,Santos,Atlético-MG,4-2-3-1,Orlando Ribeiro,9278,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768026
+31,seg 10/10/2022,20:00,Santos,Juventude,4-2-3-1,Orlando Ribeiro,9171,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767996
+32,seg 17/10/2022,20:00,Bragantino,Santos,4-2-3-1,Orlando Ribeiro,6705,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767984
+33,sáb 22/10/2022,19:00,Santos,Corinthians,4-2-3-1,Orlando Ribeiro,12872,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767976
+34,ter 25/10/2022,21:45,Flamengo,Santos,4-2-3-1,Orlando Ribeiro,44679,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767943
+35,qua 02/11/2022,19:00,Atlético-GO,Santos,4-3-3 ofensivo,Orlando Ribeiro,9090,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767959
+36,sáb 05/11/2022,16:30,Santos,Avaí,4-2-3-1,Orlando Ribeiro,18686,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767966
+37,qui 10/11/2022,20:00,Botafogo,Santos,4-2-3-1,Orlando Ribeiro,28139,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767936
+38,dom 13/11/2022,16:00,Santos,Fortaleza,4-2-3-1,Orlando Ribeiro,11565,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767926

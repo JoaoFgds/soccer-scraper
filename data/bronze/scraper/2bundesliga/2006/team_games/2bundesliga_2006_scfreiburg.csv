@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 13/08/2006,09:00,Freiburg,Hansa Rostock,4-3-3 defensivo,Volker Finke,15000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53802
+2,dom 20/08/2006,09:00,RW Essen,Freiburg,4-2-3-1,Volker Finke,15076,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53813
+3,sex 25/08/2006,13:00,Freiburg,Unterhaching,4-3-3 defensivo,Volker Finke,12000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53816
+4,dom 17/09/2006,09:00,1860 Munique,Freiburg,4-2-3-1,Volker Finke,42500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53831
+5,sex 22/09/2006,13:00,Freiburg,Greuther Fürth,4-2-3-1,Volker Finke,11500,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53835
+6,dom 01/10/2006,09:00,Erzgebirge Aue,Freiburg,4-4-2 losango,Volker Finke,10500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53845
+7,sex 13/10/2006,13:00,MSV Duisburg,Freiburg,4-4-2 losango,Volker Finke,15580,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53854
+8,sex 20/10/2006,13:00,Freiburg,W. Burghausen,4-2-3-1,Volker Finke,11000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53861
+9,seg 30/10/2006,16:15,K'lautern,Freiburg,4-4-2 losango,Volker Finke,30736,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/54094
+10,sex 03/11/2006,14:00,Freiburg,E. Braunschweig,4-4-2 losango,Volker Finke,12000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53871
+11,qua 08/11/2006,14:30,Augsburg,Freiburg,4-4-2 losango,Volker Finke,10800,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53886
+12,dom 12/11/2006,11:00,Freiburg,Colônia,4-4-2 losango,Volker Finke,20000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53889
+13,sex 17/11/2006,15:00,Carl Zeiss Jena,Freiburg,4-4-2 duplo 6,Volker Finke,6000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53902
+14,dom 26/11/2006,11:00,Freiburg,K. Offenbach,4-4-2 losango,Volker Finke,11000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53908
+15,sex 01/12/2006,15:00,Paderborn,Freiburg,4-4-2 losango,Volker Finke,4317,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53917
+16,seg 11/12/2006,17:15,Freiburg,Karlsruher,4-4-2 losango,Volker Finke,22000,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53926
+17,dom 17/12/2006,11:00,TuS Koblenz,Freiburg,4-4-2 duplo 6,Volker Finke,10626,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53941
+18,seg 22/01/2007,17:15,Hansa Rostock,Freiburg,4-4-2 losango,Volker Finke,19000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53944
+19,dom 28/01/2007,11:00,Freiburg,RW Essen,4-4-2 duplo 6,Volker Finke,11500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53958
+20,dom 04/02/2007,11:00,Unterhaching,Freiburg,4-2-3-1,Volker Finke,3000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53962
+21,dom 11/02/2007,11:00,Freiburg,1860 Munique,4-2-3-1,Volker Finke,14300,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53974
+22,seg 19/02/2007,17:15,Greuther Fürth,Freiburg,4-4-2 duplo 6,Volker Finke,6200,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53981
+23,dom 25/02/2007,10:00,Freiburg,Erzgebirge Aue,4-4-2 duplo 6,Volker Finke,11700,5:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53989
+24,dom 04/03/2007,10:00,Freiburg,MSV Duisburg,4-4-2 duplo 6,Volker Finke,19300,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53998
+25,sex 09/03/2007,14:00,W. Burghausen,Freiburg,4-4-2 duplo 6,Volker Finke,4250,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/54005
+26,dom 18/03/2007,10:00,Freiburg,K'lautern,4-4-2 duplo 6,Volker Finke,24000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/54014
+27,dom 01/04/2007,09:00,E. Braunschweig,Freiburg,4-4-2 duplo 6,Volker Finke,12500,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/54023
+28,dom 08/04/2007,09:00,Freiburg,Augsburg,4-4-2 duplo 6,Volker Finke,20000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/54039
+29,dom 15/04/2007,09:00,Colônia,Freiburg,4-4-2 duplo 6,Volker Finke,44000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/54041
+30,dom 22/04/2007,09:00,Freiburg,Carl Zeiss Jena,4-4-2 duplo 6,Volker Finke,19500,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/54054
+31,dom 29/04/2007,09:00,K. Offenbach,Freiburg,4-4-2 duplo 6,Volker Finke,12016,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/54060
+32,sex 04/05/2007,13:00,Freiburg,Paderborn,4-4-2 duplo 6,Volker Finke,18700,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/54069
+33,dom 13/05/2007,09:00,Karlsruher,Freiburg,4-3-3 ofensivo,Volker Finke,29984,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/54078
+34,dom 20/05/2007,09:00,Freiburg,TuS Koblenz,4-4-2 duplo 6,Volker Finke,24000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/54093

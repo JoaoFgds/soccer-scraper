@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 13/08/2016,12:00,Moreirense,Paços Ferreira,4-3-3 ofensivo,Pepa,2058,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720756
+2,dom 21/08/2016,12:00,Feirense,Moreirense,4-3-3 ofensivo,Pepa,2721,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720763
+3,dom 28/08/2016,12:00,Moreirense,Marítimo,4-3-3 ofensivo,Pepa,949,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720774
+4,sáb 10/09/2016,14:15,Sporting,Moreirense,4-3-3 ofensivo,Pepa,44393,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720784
+5,sáb 17/09/2016,12:00,Estoril,Moreirense,4-3-3 defensivo,Pepa,1243,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720788
+6,dom 25/09/2016,16:15,Moreirense,Vit. Guimarães,4-3-3 ofensivo,Pepa,3810,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720802
+7,dom 02/10/2016,14:00,Boavista,Moreirense,4-1-4-1,Pepa,4437,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720805
+8,dom 23/10/2016,13:00,Moreirense,Rio Ave,4-2-3-1,Pepa,1048,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720817
+9,sáb 29/10/2016,13:00,CD Tondela,Moreirense,4-2-3-1,Pepa,1283,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720828
+10,dom 06/11/2016,14:00,Moreirense,Vitória FC,4-2-3-1,Pepa,992,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720832
+11,dom 27/11/2016,16:00,Benfica,Moreirense,4-2-3-1,Leandro Mendes,55970,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720841
+12,dom 04/12/2016,14:00,Moreirense,Nacional,4-3-3 ofensivo,Augusto Inácio,1060,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720848
+13,sáb 10/12/2016,16:15,Chaves,Moreirense,4-3-3 ofensivo,Augusto Inácio,2184,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720862
+14,sáb 17/12/2016,16:15,Moreirense,Arouca,4-2-3-1,Augusto Inácio,837,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720867
+15,qui 22/12/2016,17:00,Braga,Moreirense,4-2-3-1,Augusto Inácio,7665,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720878
+16,seg 09/01/2017,18:00,Moreirense,Belenenses,4-3-3 defensivo,Augusto Inácio,640,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720888
+17,dom 15/01/2017,16:00,FC Porto,Moreirense,4-3-3 defensivo,Augusto Inácio,32230,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720900
+18,sex 20/01/2017,18:30,Paços Ferreira,Moreirense,4-2-3-1,Augusto Inácio,1059,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720908
+19,seg 30/01/2017,17:00,Moreirense,Feirense,4-3-3 defensivo,Augusto Inácio,1816,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720916
+20,seg 06/02/2017,17:00,Marítimo,Moreirense,4-2-3-1,Augusto Inácio,9655,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720927
+21,dom 12/02/2017,16:00,Moreirense,Sporting,4-3-3 defensivo,Augusto Inácio,2655,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720937
+22,sáb 18/02/2017,14:00,Moreirense,Estoril,4-2-3-1,Augusto Inácio,1976,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720941
+23,sex 24/02/2017,16:00,Vit. Guimarães,Moreirense,4-3-3 defensivo,Augusto Inácio,14222,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720955
+24,sex 03/03/2017,17:30,Moreirense,Boavista,4-2-3-1,Augusto Inácio,1538,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720958
+25,dom 12/03/2017,15:00,Rio Ave,Moreirense,4-2-3-1,Augusto Inácio,3098,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720970
+26,sáb 18/03/2017,13:00,Moreirense,CD Tondela,4-3-3 defensivo,Augusto Inácio,1800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720981
+27,dom 02/04/2017,12:00,Vitória FC,Moreirense,4-2-3-1,Petit,3611,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720985
+28,dom 09/04/2017,16:15,Moreirense,Benfica,4-3-3 defensivo,Petit,5603,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720994
+29,seg 17/04/2017,16:00,Nacional,Moreirense,4-3-3 defensivo,Petit,4937,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2721001
+30,seg 24/04/2017,16:00,Moreirense,Chaves,4-1-4-1,Petit,2767,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2721015
+31,dom 30/04/2017,12:00,Arouca,Moreirense,4-2-3-1,Petit,1240,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2721020
+32,sex 05/05/2017,16:30,Moreirense,Braga,4-2-3-1,Petit,2909,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2721031
+33,sex 12/05/2017,16:30,Belenenses,Moreirense,4-3-3 defensivo,Petit,2437,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2721041
+34,dom 21/05/2017,14:00,Moreirense,FC Porto,4-4-2 duplo 6,Petit,4925,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2721053

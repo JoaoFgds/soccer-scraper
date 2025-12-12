@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 29/07/2005,15:30,Brest,FC Gueugnon,?,Victor Zvunka,7141,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46916
+2,sex 05/08/2005,15:30,FC Gueugnon,Valenciennes,?,Victor Zvunka,3723,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46929
+3,sex 12/08/2005,15:30,US Créteil-L,FC Gueugnon,?,Victor Zvunka,1654,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46937
+4,ter 16/08/2005,15:30,FC Gueugnon,Clermont FA,?,Victor Zvunka,4074,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46950
+5,sex 19/08/2005,15:30,Reims,FC Gueugnon,?,Victor Zvunka,5336,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46957
+6,seg 29/08/2005,15:30,FC Gueugnon,Amiens SC,?,Victor Zvunka,6631,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46973
+7,sex 09/09/2005,15:30,Guingamp,FC Gueugnon,?,Victor Zvunka,7184,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46977
+8,sex 16/09/2005,15:30,FC Gueugnon,FC Sète 34,?,Victor Zvunka,4971,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46989
+9,dom 25/09/2005,14:00,CS Sedan,FC Gueugnon,?,Victor Zvunka,10047,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47001
+10,sex 30/09/2005,15:30,FC Gueugnon,Stade Lavallois,?,Victor Zvunka,3763,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47009
+11,sex 07/10/2005,15:30,FC Istres,FC Gueugnon,?,Victor Zvunka,3221,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47015
+12,dom 16/10/2005,12:30,FC Gueugnon,Dijon,?,Victor Zvunka,7038,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47032
+13,sex 21/10/2005,16:30,Grenoble,FC Gueugnon,?,Victor Zvunka,5862,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47036
+14,sáb 29/10/2005,16:00,FC Gueugnon,SM Caen,?,Victor Zvunka,3320,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47048
+15,sex 04/11/2005,18:30,FC Lorient,FC Gueugnon,?,Victor Zvunka,5222,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47060
+16,sex 11/11/2005,18:30,SC Bastia,FC Gueugnon,?,Victor Zvunka,4627,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47067
+17,sex 25/11/2005,18:30,FC Gueugnon,Le Havre,?,Victor Zvunka,3734,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47078
+18,sex 02/12/2005,18:30,Montpellier,FC Gueugnon,?,Victor Zvunka,5227,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47092
+19,sex 16/12/2005,18:30,FC Gueugnon,LB Châteauroux,?,Victor Zvunka,4461,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47099
+20,ter 03/01/2006,18:30,Valenciennes,FC Gueugnon,?,Victor Zvunka,6921,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47114
+21,ter 10/01/2006,18:30,FC Gueugnon,US Créteil-L,?,Victor Zvunka,2521,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47119
+22,sex 13/01/2006,18:30,Clermont FA,FC Gueugnon,?,Victor Zvunka,4464,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47125
+23,sex 20/01/2006,18:30,FC Gueugnon,Reims,?,Victor Zvunka,2877,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47140
+24,sex 03/02/2006,18:30,Amiens SC,FC Gueugnon,?,Victor Zvunka,5880,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47146
+25,sex 10/02/2006,18:30,FC Gueugnon,Guingamp,?,Victor Zvunka,3364,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47161
+26,sex 17/02/2006,18:30,FC Sète 34,FC Gueugnon,?,Victor Zvunka,1508,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47173
+27,sex 24/02/2006,17:30,FC Gueugnon,CS Sedan,?,Victor Zvunka,3361,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47182
+28,sex 03/03/2006,17:30,Stade Lavallois,FC Gueugnon,?,Victor Zvunka,3937,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47189
+29,sex 10/03/2006,17:30,FC Gueugnon,FC Istres,?,Victor Zvunka,2974,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47201
+30,sex 17/03/2006,17:30,Dijon,FC Gueugnon,?,Victor Zvunka,6450,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47206
+31,sex 24/03/2006,17:30,FC Gueugnon,Grenoble,?,Victor Zvunka,4436,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47220
+32,sex 31/03/2006,15:30,SM Caen,FC Gueugnon,?,Victor Zvunka,12395,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47226
+33,sex 07/04/2006,15:30,FC Gueugnon,FC Lorient,?,Victor Zvunka,3929,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47239
+34,sex 14/04/2006,15:30,FC Gueugnon,SC Bastia,?,Victor Zvunka,3999,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47249
+35,sex 21/04/2006,15:30,Le Havre,FC Gueugnon,?,Victor Zvunka,9090,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47261
+36,sex 28/04/2006,15:30,FC Gueugnon,Montpellier,?,Victor Zvunka,4641,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47270
+37,sex 05/05/2006,15:30,LB Châteauroux,FC Gueugnon,?,Victor Zvunka,10766,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47277
+38,sex 12/05/2006,15:30,FC Gueugnon,Brest,?,Victor Zvunka,4134,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47290

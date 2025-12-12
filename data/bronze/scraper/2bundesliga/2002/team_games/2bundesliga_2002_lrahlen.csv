@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 11/08/2002,10:00,LR Ahlen,SSV Reutlingen,4-4-1-1,Uwe Rapolder,5600,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19712
+2,dom 18/08/2002,10:00,St. Pauli,LR Ahlen,4-4-2,Uwe Rapolder,18735,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19760
+3,dom 25/08/2002,10:00,LR Ahlen,Freiburg,4-4-2,Uwe Rapolder,7600,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19800
+4,ter 10/09/2002,14:00,Greuther Fürth,LR Ahlen,4-3-3 defensivo,Uwe Rapolder,4764,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19832
+5,sex 13/09/2002,14:00,LR Ahlen,Colônia,4-4-2,Uwe Rapolder,11000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19871
+6,sex 20/09/2002,12:00,W. Burghausen,LR Ahlen,4-4-2,Uwe Rapolder,2750,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19909
+7,dom 29/09/2002,10:00,LR Ahlen,Karlsruher,4-4-2,Uwe Rapolder,3802,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19951
+8,dom 06/10/2002,10:00,MSV Duisburg,LR Ahlen,4-3-3 defensivo,Uwe Rapolder,4800,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19991
+9,sex 18/10/2002,14:00,LR Ahlen,Alem. Aachen,?,Uwe Rapolder,4851,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20024
+10,dom 27/10/2002,11:00,Frankfurt,LR Ahlen,4-4-2,Uwe Rapolder,10000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20067
+11,dom 03/11/2002,12:00,Eintracht Trier,LR Ahlen,3-4-3 plano,Uwe Rapolder,6480,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20106
+12,dom 10/11/2002,12:00,LR Ahlen,VfB Lübeck,?,Uwe Rapolder,4306,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20141
+13,sex 15/11/2002,16:00,E. Braunschweig,LR Ahlen,3-5-2,Uwe Rapolder,13045,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20176
+14,sex 22/11/2002,16:00,LR Ahlen,Union Berlim,3-5-2,Uwe Rapolder,5853,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20213
+15,dom 01/12/2002,12:00,Mainz,LR Ahlen,3-5-2,Uwe Fuchs,9000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20256
+16,dom 08/12/2002,12:00,LR Ahlen,W. Mannheim,3-5-2,Uwe Fuchs,3258,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20290
+17,dom 15/12/2002,12:00,RW Oberhausen,LR Ahlen,4-4-2,Uwe Fuchs,3577,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20334
+18,dom 26/01/2003,12:00,SSV Reutlingen,LR Ahlen,4-4-2 losango,Werner Lorant,5685,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20370
+19,dom 02/02/2003,12:00,LR Ahlen,St. Pauli,3-4-3,Werner Lorant,10019,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20405
+20,dom 09/02/2003,12:00,Freiburg,LR Ahlen,3-5-2 plano,Werner Lorant,18000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20445
+21,dom 16/02/2003,11:00,LR Ahlen,Greuther Fürth,3-4-3,Werner Lorant,3750,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20474
+22,sex 21/02/2003,15:00,Colônia,LR Ahlen,3-5-2,Werner Lorant,22500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20506
+23,dom 02/03/2003,11:00,LR Ahlen,W. Burghausen,3-4-3,Werner Lorant,4500,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20539
+24,sex 07/03/2003,15:00,Karlsruher,LR Ahlen,3-5-2,Werner Lorant,7000,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20564
+25,sex 14/03/2003,15:00,LR Ahlen,MSV Duisburg,3-5-2,Werner Lorant,4800,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20604
+26,sex 21/03/2003,15:00,Alem. Aachen,LR Ahlen,3-4-2-1,Engin Firat,9968,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20641
+27,dom 06/04/2003,10:00,LR Ahlen,Frankfurt,3-5-2,Werner Lorant,7578,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20697
+28,dom 13/04/2003,10:00,LR Ahlen,Eintracht Trier,3-5-2,Werner Lorant,4338,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20732
+29,qui 17/04/2003,14:00,VfB Lübeck,LR Ahlen,3-1-4-2,Werner Lorant,7500,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20770
+30,dom 27/04/2003,10:00,LR Ahlen,E. Braunschweig,3-5-2,Werner Lorant,5452,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20811
+31,sex 02/05/2003,14:00,Union Berlim,LR Ahlen,3-5-2,Werner Lorant,7537,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20845
+32,seg 12/05/2003,15:15,LR Ahlen,Mainz,4-4-2 duplo 6,Werner Lorant,6142,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20896
+33,dom 18/05/2003,10:00,W. Mannheim,LR Ahlen,4-4-2 losango,Werner Lorant,3200,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20925
+34,dom 25/05/2003,10:00,LR Ahlen,RW Oberhausen,3-5-2,Werner Lorant,8129,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/20969

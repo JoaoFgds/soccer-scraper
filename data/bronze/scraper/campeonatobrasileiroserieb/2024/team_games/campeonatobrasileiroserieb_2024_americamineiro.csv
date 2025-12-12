@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 19/04/2024,19:00,Botafogo-SP,América-MG,4-2-3-1,Cauan de Almeida,4082,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315901
+2,sáb 27/04/2024,18:00,América-MG,Novorizontino,4-2-3-1,Cauan de Almeida,2841,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315803
+3,sáb 04/05/2024,17:00,Chapecoense,América-MG,4-2-3-1,Cauan de Almeida,4503,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315864
+4,qua 08/05/2024,21:00,América-MG,Vila Nova,4-2-3-1,Cauan de Almeida,1964,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315843
+5,qua 15/05/2024,19:00,América-MG,Mirassol,4-2-3-1,Cauan de Almeida,2423,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315883
+6,seg 20/05/2024,21:00,Guarani,América-MG,4-2-3-1,Cauan de Almeida,3562,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315820
+7,sex 24/05/2024,21:30,América-MG,Santos,4-2-3-1,Cauan de Almeida,7303,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315813
+8,ter 04/06/2024,21:30,Paysandu,América-MG,4-2-3-1,Cauan de Almeida,10048,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315897
+9,dom 09/06/2024,18:30,América-MG,Ponte Preta,4-2-3-1,Cauan de Almeida,2910,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315913
+10,sáb 15/06/2024,15:30,América-MG,CRB,4-2-3-1,Cauan de Almeida,3572,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315963
+11,qua 19/06/2024,21:30,Coritiba,América-MG,4-2-3-1,Cauan de Almeida,16080,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315836
+12,ter 25/06/2024,19:00,América-MG,Avaí,4-2-3-1,Cauan de Almeida,2651,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315933
+13,ter 02/07/2024,18:30,Goiás,América-MG,4-2-3-1,Cauan de Almeida,5941,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315999
+14,sáb 06/07/2024,11:00,América-MG,Operário-PR,4-2-3-1,Cauan de Almeida,3958,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315923
+15,sáb 13/07/2024,17:00,Sport,América-MG,4-2-3-1,Cauan de Almeida,16916,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315998
+16,sáb 20/07/2024,17:00,América-MG,Amazonas,4-1-4-1,Cauan de Almeida,3711,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316093
+17,ter 23/07/2024,21:00,Ituano,América-MG,4-1-4-1,Cauan de Almeida,1262,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316122
+18,dom 28/07/2024,18:30,América-MG,Ceará,4-2-3-1,Cauan de Almeida,2293,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316043
+19,sex 02/08/2024,19:00,Brusque,América-MG,4-2-3-1,Cauan de Almeida,48,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316135
+20,sex 09/08/2024,21:30,América-MG,Botafogo-SP,4-2-3-1,Cauan de Almeida,4082,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316143
+21,sex 16/08/2024,21:30,Novorizontino,América-MG,4-2-3-1,Cauan de Almeida,2049,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315942
+22,qua 21/08/2024,19:00,América-MG,Chapecoense,4-2-3-1,Cauan de Almeida,2374,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315853
+23,dom 25/08/2024,18:30,Vila Nova,América-MG,4-2-3-1,Cauan de Almeida,9510,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316019
+24,ter 03/09/2024,19:00,Mirassol,América-MG,4-2-3-1,Lisca,2857,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316061
+25,dom 08/09/2024,18:30,América-MG,Guarani,4-1-4-1,Lisca,2647,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316053
+26,dom 15/09/2024,16:00,Santos,América-MG,4-1-4-1,Lisca,10160,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316083
+27,qua 18/09/2024,21:30,América-MG,Paysandu,4-2-3-1,Lisca,1905,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316113
+28,ter 24/09/2024,21:30,Ponte Preta,América-MG,4-2-3-1,Lisca,3229,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316100
+29,dom 29/09/2024,16:00,CRB,América-MG,4-2-3-1,Lisca,5779,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316035
+30,sex 04/10/2024,19:00,América-MG,Coritiba,4-2-3-1,Lisca,3051,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315953
+31,sex 11/10/2024,21:00,Avaí,América-MG,4-4-2,Lisca,2545,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315984
+32,qui 17/10/2024,20:00,América-MG,Goiás,4-1-4-1,Lisca,3604,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315973
+33,qua 23/10/2024,21:30,Operário-PR,América-MG,4-1-4-1,Lisca,2614,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316076
+34,seg 28/10/2024,21:00,América-MG,Sport,4-1-4-1,Lisca,1889,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316163
+35,ter 05/11/2024,19:00,Amazonas,América-MG,4-4-2,Lisca,3823,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315877
+36,ter 12/11/2024,19:00,América-MG,Ituano,4-4-2,Lisca,1583,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316173
+37,seg 18/11/2024,21:45,Ceará,América-MG,4-5-1,Lisca,63908,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316158
+38,dom 24/11/2024,18:30,América-MG,Brusque,4-1-4-1,William Batista,1702,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316013

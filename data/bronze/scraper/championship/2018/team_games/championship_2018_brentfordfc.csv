@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 04/08/2018,11:00,Brentford,Rotherham,4-1-4-1,Dean Smith,10297,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053568
+2,sáb 11/08/2018,11:00,Stoke,Brentford,4-1-4-1,Dean Smith,24806,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053588
+3,dom 19/08/2018,11:00,Brentford,Sheff Wed,4-1-4-1,Dean Smith,10134,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053591
+4,qua 22/08/2018,15:45,Aston Villa,Brentford,4-1-4-1,Dean Smith,30011,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053635
+5,sáb 25/08/2018,11:00,Blackburn,Brentford,4-1-4-1,Dean Smith,12094,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053685
+6,sáb 01/09/2018,11:00,Brentford,Nott'm Forest,4-1-4-1,Dean Smith,10186,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053721
+7,sáb 15/09/2018,11:00,Brentford,Wigan,4-1-4-1,Dean Smith,9951,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053743
+8,ter 18/09/2018,15:45,Ipswich,Brentford,4-3-3 ofensivo,Dean Smith,14897,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053766
+9,sáb 22/09/2018,11:00,Derby,Brentford,4-1-4-1,Dean Smith,25110,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053789
+10,sáb 29/09/2018,11:00,Brentford,Reading,4-1-4-1,Dean Smith,10045,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053803
+11,ter 02/10/2018,15:45,Brentford,Birmingham,4-1-4-1,Dean Smith,9715,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053813
+12,sáb 06/10/2018,08:30,Leeds,Brentford,4-1-4-1,Dean Smith,31880,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053827
+13,sáb 20/10/2018,11:00,Brentford,Bristol City,4-1-4-1,Thomas Frank,11182,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053838
+14,qua 24/10/2018,15:45,Preston NE,Brentford,4-1-4-1,Thomas Frank,10882,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053857
+15,sáb 27/10/2018,11:00,Norwich,Brentford,4-1-4-1,Thomas Frank,25443,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053866
+16,sáb 03/11/2018,12:00,Brentford,Millwall,4-1-4-1,Thomas Frank,9476,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053874
+17,sáb 10/11/2018,13:00,QPR,Brentford,4-1-4-1,Thomas Frank,17609,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053892
+18,sáb 24/11/2018,15:30,Brentford,Middlesbrough,4-1-4-1,Thomas Frank,9430,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053905
+19,ter 27/11/2018,17:45,Brentford,Sheff Utd,4-1-4-1,Thomas Frank,8903,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053916
+20,seg 03/12/2018,18:00,West Brom,Brentford,4-1-4-1,Thomas Frank,20949,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053939
+21,sáb 08/12/2018,13:00,Brentford,Swansea,4-1-4-1,Thomas Frank,9442,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053940
+22,sáb 15/12/2018,13:00,Hull City,Brentford,4-1-4-1,Thomas Frank,10530,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053956
+23,sáb 22/12/2018,13:00,Brentford,Bolton,3-4-2-1,Thomas Frank,10512,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053965
+24,qua 26/12/2018,13:00,Bristol City,Brentford,5-4-1 plano,Thomas Frank,21207,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053977
+25,sáb 29/12/2018,13:00,Birmingham,Brentford,3-4-3 plano,Thomas Frank,23909,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053987
+26,ter 01/01/2019,13:00,Brentford,Norwich,3-4-3 plano,Thomas Frank,9524,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054001
+27,sáb 12/01/2019,13:00,Brentford,Stoke,3-4-3 plano,Thomas Frank,9439,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054012
+28,sáb 19/01/2019,13:00,Rotherham,Brentford,3-4-3 plano,Thomas Frank,8319,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054031
+29,ter 26/02/2019,16:45,Sheff Wed,Brentford,5-4-1 plano,Thomas Frank,23094,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054044
+30,sáb 02/02/2019,13:00,Brentford,Blackburn,3-4-3 plano,Thomas Frank,9972,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054048
+31,sáb 09/02/2019,13:00,Nott'm Forest,Brentford,3-4-3 plano,Thomas Frank,27829,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054065
+32,qua 13/02/2019,17:45,Brentford,Aston Villa,3-4-3 plano,Thomas Frank,9636,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054076
+33,ter 02/04/2019,15:45,Swansea,Brentford,3-4-3 plano,Thomas Frank,17197,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054094
+34,sáb 23/02/2019,12:00,Brentford,Hull City,3-4-3 plano,Thomas Frank,9675,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054096
+35,sáb 02/03/2019,12:00,Brentford,QPR,3-4-3 plano,Thomas Frank,11771,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054108
+36,sáb 09/03/2019,12:00,Middlesbrough,Brentford,3-4-3 plano,Thomas Frank,22069,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054132
+37,ter 12/03/2019,16:45,Sheff Utd,Brentford,3-4-3 plano,Thomas Frank,24463,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054143
+38,sáb 16/03/2019,12:00,Brentford,West Brom,3-4-3 plano,Thomas Frank,11488,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054152
+39,sáb 30/03/2019,12:00,Wigan,Brentford,3-4-3 plano,Thomas Frank,9953,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054174
+40,sáb 06/04/2019,11:00,Brentford,Derby,3-4-3 plano,Thomas Frank,12225,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054178
+41,qua 10/04/2019,15:45,Brentford,Ipswich,3-4-3 plano,Thomas Frank,10039,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054195
+42,sáb 13/04/2019,11:00,Reading,Brentford,3-4-3 plano,Thomas Frank,16892,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054206
+43,sex 19/04/2019,09:00,Millwall,Brentford,3-4-3 plano,Thomas Frank,14530,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054216
+44,seg 22/04/2019,13:15,Brentford,Leeds,3-4-3 plano,Thomas Frank,11580,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054225
+45,sáb 27/04/2019,11:00,Bolton,Brentford,?,Thomas Frank,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054236
+46,dom 05/05/2019,08:30,Brentford,Preston NE,3-4-3,Thomas Frank,11289,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054263

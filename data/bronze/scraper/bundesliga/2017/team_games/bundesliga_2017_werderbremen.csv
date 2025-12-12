@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 19/08/2017,10:30,Hoffenheim,Werder Bremen,3-5-2 plano,Alexander Nouri,30150,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871496
+2,sáb 26/08/2017,10:30,Werder Bremen,Bayern,3-5-2 plano,Alexander Nouri,42100,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871546
+3,dom 10/09/2017,10:30,Hertha Berlim,Werder Bremen,3-5-2,Alexander Nouri,49118,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871592
+4,sáb 16/09/2017,10:32,Werder Bremen,Schalke,3-5-2,Alexander Nouri,42100,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871659
+5,ter 19/09/2017,15:30,Wolfsburg,Werder Bremen,3-5-2 plano,Alexander Nouri,26174,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871699
+6,sáb 23/09/2017,10:30,Werder Bremen,Freiburg,3-5-2,Alexander Nouri,41000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871731
+7,sáb 30/09/2017,13:30,Hamburgo,Werder Bremen,3-5-2,Alexander Nouri,54613,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871780
+8,dom 15/10/2017,14:00,Werder Bremen,M'gladbach,3-5-2 plano,Alexander Nouri,42100,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871813
+9,dom 22/10/2017,09:30,Colônia,Werder Bremen,4-2-3-1,Alexander Nouri,50000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871855
+10,dom 29/10/2017,12:31,Werder Bremen,Augsburg,3-5-2 plano,Alexander Nouri,40500,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871902
+11,sex 03/11/2017,17:30,Frankfurt,Werder Bremen,4-3-3 ofensivo,Florian Kohfeldt,51500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871958
+12,dom 19/11/2017,15:00,Werder Bremen,Hannover,4-1-4-1,Florian Kohfeldt,41500,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871992
+13,sáb 25/11/2017,12:30,Leipzig,Werder Bremen,3-5-2 plano,Florian Kohfeldt,40172,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872026
+14,sáb 02/12/2017,12:32,Werder Bremen,Stuttgart,4-3-3 ofensivo,Florian Kohfeldt,41500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871984
+15,sáb 09/12/2017,12:30,Dortmund,Werder Bremen,5-3-2,Florian Kohfeldt,81160,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871935
+16,qua 13/12/2017,17:30,Leverkusen,Werder Bremen,3-4-2-1,Florian Kohfeldt,26620,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871913
+17,sáb 16/12/2017,12:30,Werder Bremen,Mainz,4-1-4-1,Florian Kohfeldt,38200,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871875
+18,sáb 13/01/2018,12:30,Werder Bremen,Hoffenheim,4-3-3 ofensivo,Florian Kohfeldt,37500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871487
+19,dom 21/01/2018,12:30,Bayern,Werder Bremen,4-1-4-1,Florian Kohfeldt,75000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871507
+20,sáb 27/01/2018,15:30,Werder Bremen,Hertha Berlim,4-1-4-1,Florian Kohfeldt,40030,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871571
+21,sáb 03/02/2018,12:30,Schalke,Werder Bremen,4-3-3 ofensivo,Florian Kohfeldt,62271,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871650
+22,dom 11/02/2018,15:00,Werder Bremen,Wolfsburg,4-3-3 ofensivo,Florian Kohfeldt,38062,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871677
+23,sáb 17/02/2018,12:30,Freiburg,Werder Bremen,4-3-3 ofensivo,Florian Kohfeldt,24000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871720
+24,sáb 24/02/2018,14:30,Werder Bremen,Hamburgo,4-1-4-1,Florian Kohfeldt,42100,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871758
+25,sex 02/03/2018,16:30,M'gladbach,Werder Bremen,3-5-2 plano,Florian Kohfeldt,52211,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872109
+26,seg 12/03/2018,16:30,Werder Bremen,Colônia,4-3-3 ofensivo,Florian Kohfeldt,41100,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871795
+27,sáb 17/03/2018,11:30,Augsburg,Werder Bremen,4-3-3 ofensivo,Florian Kohfeldt,30080,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871833
+28,dom 01/04/2018,10:30,Werder Bremen,Frankfurt,4-3-3 ofensivo,Florian Kohfeldt,42100,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872019
+29,sex 06/04/2018,15:31,Hannover,Werder Bremen,4-1-4-1,Florian Kohfeldt,49000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872051
+30,dom 15/04/2018,13:00,Werder Bremen,Leipzig,5-4-1 plano,Florian Kohfeldt,42100,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872064
+31,sáb 21/04/2018,10:30,Stuttgart,Werder Bremen,4-2-3-1,Florian Kohfeldt,58932,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872078
+32,dom 29/04/2018,13:00,Werder Bremen,Dortmund,4-1-4-1,Florian Kohfeldt,42100,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872083
+33,sáb 05/05/2018,10:30,Werder Bremen,Leverkusen,4-1-4-1,Florian Kohfeldt,42100,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872091
+34,sáb 12/05/2018,10:30,Mainz,Werder Bremen,4-3-3 ofensivo,Florian Kohfeldt,34000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872104

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 20/04/2014,18:30,Flamengo,Goiás,4-3-1-2,Jayme de Almeida Filho,19012,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454185
+2,dom 27/04/2014,16:00,Corinthians,Flamengo,4-4-2 duplo 6,Jayme de Almeida Filho,36402,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454191
+3,dom 04/05/2014,16:00,Flamengo,Palmeiras,4-2-3-1,Jayme de Almeida Filho,21082,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454335
+4,dom 11/05/2014,16:00,Fluminense,Flamengo,4-3-1-2,Jayme de Almeida Filho,30766,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454343
+5,dom 18/05/2014,16:00,Flamengo,São Paulo,4-3-3 defensivo,Jayme de Almeida Filho,25118,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454352
+6,qua 21/05/2014,19:30,Flamengo,Bahia,4-3-3 defensivo,Ney Franco,10924,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454362
+7,dom 25/05/2014,16:00,Santos,Flamengo,4-3-3 ofensivo,Jayme de Almeida Filho,7182,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454375
+8,qua 28/05/2014,19:30,Flamengo,Figueirense,?,Ney Franco,4577,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454382
+9,dom 01/06/2014,16:00,Cruzeiro,Flamengo,4-3-1-2,Jayme de Almeida Filho,10283,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454397
+10,qua 16/07/2014,22:00,Flamengo,Atlético-PR,3-5-2,Ney Franco,6692,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454402
+11,dom 20/07/2014,16:00,Internacional,Flamengo,4-3-1-2,Ney Franco,27633,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454419
+12,dom 27/07/2014,18:30,Flamengo,Botafogo,4-3-3 defensivo,Vanderlei Luxemburgo,52378,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454422
+13,dom 03/08/2014,16:00,Chapecoense,Flamengo,4-2-3-1,Vanderlei Luxemburgo,12473,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454441
+14,dom 10/08/2014,16:00,Flamengo,Sport,4-3-3 ofensivo,Vanderlei Luxemburgo,42071,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454442
+15,dom 17/08/2014,16:00,Coritiba,Flamengo,4-3-3 ofensivo,Vanderlei Luxemburgo,13521,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454456
+16,qua 20/08/2014,22:00,Flamengo,Atlético-MG,4-1-4-1,Vanderlei Luxemburgo,40892,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454462
+17,dom 24/08/2014,16:00,Criciúma,Flamengo,4-3-3 ofensivo,Vanderlei Luxemburgo,14516,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454480
+18,dom 31/08/2014,18:30,Vitória,Flamengo,4-3-1-2,Vanderlei Luxemburgo,14477,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454488
+19,sáb 06/09/2014,18:30,Flamengo,Grêmio,4-3-1-2,Vanderlei Luxemburgo,59680,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454492
+20,qua 10/09/2014,22:00,Goiás,Flamengo,4-3-1-2,Vanderlei Luxemburgo,33278,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454511
+21,dom 14/09/2014,16:00,Flamengo,Corinthians,4-3-1-2,Vanderlei Luxemburgo,36905,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454512
+22,qua 17/09/2014,22:00,Palmeiras,Flamengo,4-3-2-1,Vanderlei Luxemburgo,19350,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454525
+23,dom 21/09/2014,16:00,Flamengo,Fluminense,4-3-1-2,Vanderlei Luxemburgo,41666,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454532
+24,qua 24/09/2014,22:00,São Paulo,Flamengo,4-3-2-1,Vanderlei Luxemburgo,16571,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454544
+25,dom 28/09/2014,16:00,Bahia,Flamengo,4-3-1-2,Vanderlei Luxemburgo,36826,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454558
+26,sáb 04/10/2014,16:20,Flamengo,Santos,4-3-1-2,Vanderlei Luxemburgo,37204,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454562
+27,qua 08/10/2014,22:00,Figueirense,Flamengo,4-3-3 ofensivo,Vanderlei Luxemburgo,15727,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454580
+28,dom 12/10/2014,16:00,Flamengo,Cruzeiro,4-3-1-2,Vanderlei Luxemburgo,42171,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454582
+29,dom 19/10/2014,16:00,Atlético-PR,Flamengo,4-3-1-2,Vanderlei Luxemburgo,18908,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454596
+30,qua 22/10/2014,19:30,Flamengo,Internacional,4-3-1-2,Vanderlei Luxemburgo,21855,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454602
+31,sáb 25/10/2014,21:00,Botafogo,Flamengo,4-3-2-1,Vanderlei Luxemburgo,42391,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454612
+32,dom 02/11/2014,19:30,Flamengo,Chapecoense,4-3-1-2,Vanderlei Luxemburgo,31984,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454622
+33,dom 09/11/2014,17:00,Sport,Flamengo,4-3-3 ofensivo,Vanderlei Luxemburgo,36615,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454633
+34,dom 16/11/2014,17:00,Flamengo,Coritiba,4-3-3 defensivo,Vanderlei Luxemburgo,28250,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454642
+35,qua 19/11/2014,22:00,Atlético-MG,Flamengo,4-4-2 duplo 6,Vanderlei Luxemburgo,10123,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454657
+36,dom 23/11/2014,17:00,Flamengo,Criciúma,4-3-3 ofensivo,Vanderlei Luxemburgo,30753,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454662
+37,sáb 29/11/2014,21:01,Flamengo,Vitória,4-3-1-2,Vanderlei Luxemburgo,20057,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454672
+38,dom 07/12/2014,17:00,Grêmio,Flamengo,4-3-1-2,Vanderlei Luxemburgo,13713,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2454689

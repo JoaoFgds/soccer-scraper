@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 13/08/2022,14:00,Valladolid,Villarreal,4-4-2 duplo 6,Unai Emery,17543,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844096
+2,dom 21/08/2022,14:30,Atlético,Villarreal,4-4-2 duplo 6,Unai Emery,57033,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844594
+3,dom 28/08/2022,12:30,Getafe,Villarreal,4-4-2,Unai Emery,9815,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3885847
+4,dom 04/09/2022,13:30,Villarreal,Elche,4-4-2,Unai Emery,13915,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3885860
+5,dom 11/09/2022,16:00,Betis,Villarreal,4-4-2,Unai Emery,53276,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886302
+6,dom 18/09/2022,11:15,Villarreal,Sevilla,4-4-2,Unai Emery,18252,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3858326
+7,sáb 01/10/2022,09:00,Cádiz CF,Villarreal,4-2-3-1,Unai Emery,15516,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886285
+8,dom 09/10/2022,13:30,Real Sociedad,Villarreal,4-2-3-1,Unai Emery,32689,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886310
+9,seg 17/10/2022,16:00,Villarreal,Osasuna,4-4-2 duplo 6,Unai Emery,9699,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886327
+10,qui 20/10/2022,16:00,Barcelona,Villarreal,4-4-2 duplo 6,Unai Emery,73261,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886330
+11,dom 23/10/2022,13:30,Villarreal,UD Almería,4-2-3-1,Unai Emery,13816,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886369
+12,dom 30/10/2022,14:30,Athletic Club,Villarreal,4-3-3 ofensivo,Quique Setién,46081,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886384
+13,dom 06/11/2022,14:30,Villarreal,Mallorca,4-2-3-1,Quique Setién,16603,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886415
+14,qua 09/11/2022,16:00,Espanyol,Villarreal,4-3-3 ofensivo,Quique Setién,17400,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886448
+15,sáb 31/12/2022,12:15,Villarreal,Valencia,4-3-3 ofensivo,Quique Setién,19247,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886471
+16,sáb 07/01/2023,12:15,Villarreal,Real Madrid,4-3-3 ofensivo,Quique Setién,21088,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886489
+17,sex 13/01/2023,17:00,Celta de Vigo,Villarreal,4-3-3 ofensivo,Quique Setién,13931,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886490
+18,dom 22/01/2023,10:00,Villarreal,Girona,4-3-3 ofensivo,Quique Setién,15129,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886509
+19,seg 30/01/2023,17:00,Villarreal,Rayo Vallecano,4-1-4-1,Quique Setién,14378,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886519
+20,sáb 04/02/2023,12:15,Elche,Villarreal,4-3-3 ofensivo,Quique Setién,18421,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886524
+21,dom 12/02/2023,17:00,Villarreal,Barcelona,4-4-2,Quique Setién,21178,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886536
+22,sáb 18/02/2023,14:30,Mallorca,Villarreal,4-1-4-1,Quique Setién,13957,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886552
+23,seg 27/02/2023,17:00,Villarreal,Getafe,4-1-4-1,Quique Setién,13090,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886566
+24,sáb 04/03/2023,12:15,UD Almería,Villarreal,4-3-3 ofensivo,Quique Setién,13311,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886573
+25,dom 12/03/2023,14:30,Villarreal,Betis,4-3-3 ofensivo,Quique Setién,19174,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886586
+26,dom 19/03/2023,12:15,Osasuna,Villarreal,4-3-3 ofensivo,Quique Setién,20128,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886594
+27,dom 02/04/2023,13:30,Villarreal,Real Sociedad,4-3-3 ofensivo,Quique Setién,18768,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886607
+28,sáb 08/04/2023,16:00,Real Madrid,Villarreal,4-3-3 ofensivo,Quique Setién,57887,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886612
+29,sáb 15/04/2023,09:00,Villarreal,Valladolid,4-3-3 ofensivo,Quique Setién,14876,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886624
+30,dom 23/04/2023,16:00,Sevilla,Villarreal,4-4-2,Quique Setién,29635,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886631
+31,qui 27/04/2023,14:30,Villarreal,Espanyol,4-2-3-1,Quique Setién,16134,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886648
+32,dom 30/04/2023,11:15,Villarreal,Celta de Vigo,4-2-3-1,Quique Setién,16123,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886657
+33,qua 03/05/2023,14:30,Valencia,Villarreal,4-3-3 ofensivo,Quique Setién,43634,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886663
+34,sáb 13/05/2023,13:30,Villarreal,Athletic Club,4-3-3 ofensivo,Quique Setién,16871,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886672
+35,sáb 20/05/2023,09:00,Girona,Villarreal,4-2-3-1,Quique Setién,11649,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886685
+36,qua 24/05/2023,14:30,Villarreal,Cádiz CF,4-2-3-1,Quique Setién,15099,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886697
+37,dom 28/05/2023,14:00,Rayo Vallecano,Villarreal,4-3-3 ofensivo,Quique Setién,11085,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3886705
+38,dom 04/06/2023,13:30,Villarreal,Atlético,4-2-3-1,Quique Setién,18226,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844558

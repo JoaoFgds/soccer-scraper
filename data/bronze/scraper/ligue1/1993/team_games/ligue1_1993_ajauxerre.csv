@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 23/07/1993,19:00,Strasbourg,Auxerre,?,Guy Roux,22439,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012064
+2,sex 30/07/1993,19:00,Auxerre,Montpellier,?,Guy Roux,7000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012072
+3,sex 06/08/1993,19:00,SM Caen,Auxerre,?,Guy Roux,18618,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012083
+4,ter 10/08/1993,19:00,Auxerre,Angers,?,Guy Roux,10000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012095
+5,sex 13/08/1993,19:00,FC Metz,Auxerre,?,Guy Roux,11979,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012105
+6,sex 27/08/1993,19:00,Auxerre,Lyon,?,Guy Roux,11822,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012113
+7,qua 01/09/1993,15:00,FC Sochaux,Auxerre,?,Guy Roux,7865,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012124
+8,sáb 11/09/1993,15:00,FC Martigues,Auxerre,4-3-3 ofensivo,Guy Roux,8000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012137
+9,sex 17/09/1993,19:00,Auxerre,Lens,4-3-3 ofensivo,Guy Roux,9000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012143
+10,qui 23/09/1993,15:30,PSG,Auxerre,?,Guy Roux,24419,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012149
+11,sex 01/10/1993,20:00,Auxerre,Toulouse,?,Guy Roux,5000,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012163
+12,qua 06/10/1993,16:00,Le Havre,Auxerre,?,Guy Roux,6431,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012175
+13,sáb 16/10/1993,16:00,Auxerre,Monaco,?,Guy Roux,10000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012182
+14,sex 22/10/1993,21:00,Nantes,Auxerre,?,Guy Roux,19000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012251
+15,qua 27/10/1993,21:00,Auxerre,Cannes,?,Guy Roux,9000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012257
+16,sex 05/11/1993,21:00,Saint-Étienne,Auxerre,?,Guy Roux,17368,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012270
+17,ter 09/11/1993,21:00,Auxerre,Bordeaux,?,Guy Roux,13000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012279
+18,sex 19/11/1993,21:00,Marselha,Auxerre,?,Guy Roux,25000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012290
+19,sex 26/11/1993,21:00,Auxerre,Lille,?,Guy Roux,5000,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012299
+20,sex 03/12/1993,17:00,Montpellier,Auxerre,?,Guy Roux,9000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012311
+21,sex 10/12/1993,21:00,Auxerre,SM Caen,?,Guy Roux,6000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012321
+22,sáb 18/12/1993,17:00,Angers,Auxerre,?,Guy Roux,6242,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012329
+23,sáb 15/01/1994,16:30,Auxerre,FC Metz,?,Guy Roux,8000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012339
+24,sáb 29/01/1994,16:30,Lyon,Auxerre,?,Guy Roux,18350,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012350
+25,sáb 05/02/1994,16:30,Auxerre,FC Sochaux,?,Guy Roux,8000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012360
+26,ter 08/02/1994,21:00,Auxerre,FC Martigues,?,Guy Roux,5000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012370
+27,sex 18/02/1994,21:00,Lens,Auxerre,4-3-3 ofensivo,Guy Roux,20974,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012387
+28,qui 24/02/1994,16:30,Auxerre,PSG,?,Guy Roux,13000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012396
+29,sex 04/03/1994,20:00,Toulouse,Auxerre,4-3-3 ofensivo,Guy Roux,5283,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012408
+30,qui 10/03/1994,20:00,Auxerre,Le Havre,4-3-3 defensivo,Guy Roux,7500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012418
+31,sex 25/03/1994,16:00,Monaco,Auxerre,?,Guy Roux,4000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012426
+32,qui 31/03/1994,19:00,Auxerre,Nantes,?,Guy Roux,10000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012436
+33,seg 04/04/1994,19:00,Cannes,Auxerre,?,Guy Roux,6000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012458
+34,sex 08/04/1994,19:00,Auxerre,Saint-Étienne,?,Guy Roux,10000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012466
+35,sex 22/04/1994,19:00,Bordeaux,Auxerre,4-3-3 ofensivo,Guy Roux,29642,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012478
+36,sex 29/04/1994,19:00,Auxerre,Marselha,?,Guy Roux,18000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012487
+37,sáb 07/05/1994,15:00,Lille,Auxerre,?,Guy Roux,7432,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012499
+38,sex 20/05/1994,19:00,Auxerre,Strasbourg,?,Guy Roux,18000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012507

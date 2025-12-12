@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 04/08/2007,15:00,Monaco,Saint-Étienne,4-3-3 ofensivo,Laurent Roussey,17134,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/74236
+2,sáb 11/08/2007,15:00,Saint-Étienne,Valenciennes,4-4-2,Laurent Roussey,30143,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/74248
+3,qua 15/08/2007,15:45,Rennes,Saint-Étienne,4-1-4-1,Laurent Roussey,28316,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/82420
+4,sáb 18/08/2007,15:00,Saint-Étienne,Bordeaux,4-4-2 duplo 6,Laurent Roussey,32630,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/82646
+5,dom 26/08/2007,16:00,Lyon,Saint-Étienne,4-4-2 duplo 6,Laurent Roussey,38438,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/82674
+6,qua 29/08/2007,15:30,Saint-Étienne,Strasbourg,5-3-2,Laurent Roussey,25694,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/82727
+7,sáb 01/09/2007,15:00,AS Nancy,Saint-Étienne,4-4-2 duplo 6,Laurent Roussey,19332,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/82970
+8,sáb 15/09/2007,15:00,Saint-Étienne,SM Caen,4-4-2,Laurent Roussey,25638,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/82983
+9,sáb 22/09/2007,15:00,Nice,Saint-Étienne,4-4-2 duplo 6,Laurent Roussey,11252,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/82989
+10,sáb 06/10/2007,12:10,Saint-Étienne,Marselha,4-4-2 duplo 6,Laurent Roussey,32004,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83003
+11,sáb 20/10/2007,12:00,Toulouse,Saint-Étienne,4-4-2 duplo 6,Laurent Roussey,20114,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83013
+12,sáb 27/10/2007,16:00,Saint-Étienne,Auxerre,4-4-2,Laurent Roussey,30448,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83023
+13,dom 04/11/2007,19:00,Lens,Saint-Étienne,4-4-2 duplo 6,Laurent Roussey,33877,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83027
+14,sáb 10/11/2007,15:10,Le Mans UC 72,Saint-Étienne,4-2-3-1,Laurent Roussey,12434,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83036
+15,sáb 24/11/2007,18:00,Saint-Étienne,FC Sochaux,4-4-2,Laurent Roussey,26015,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83052
+16,sáb 01/12/2007,18:00,FC Lorient,Saint-Étienne,4-4-2,Laurent Roussey,11833,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83058
+17,sáb 08/12/2007,18:00,Saint-Étienne,FC Metz,4-4-2 duplo 6,Laurent Roussey,22585,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83072
+18,sáb 15/12/2007,18:00,Lille,Saint-Étienne,4-4-2,Laurent Roussey,11808,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83077
+19,dom 23/12/2007,17:00,Saint-Étienne,PSG,4-4-2 duplo 6,Laurent Roussey,31219,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83092
+20,sáb 12/01/2008,15:10,Valenciennes,Saint-Étienne,4-1-4-1,Laurent Roussey,13516,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83104
+21,sáb 19/01/2008,18:00,Saint-Étienne,Rennes,4-4-2,Laurent Roussey,21666,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83112
+22,qui 24/01/2008,18:55,Bordeaux,Saint-Étienne,4-5-1,Laurent Roussey,23990,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83115
+23,dom 27/01/2008,16:55,Saint-Étienne,Lyon,4-4-2 duplo 6,Laurent Roussey,31537,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83132
+24,sáb 09/02/2008,16:00,Strasbourg,Saint-Étienne,4-4-2 duplo 6,Laurent Roussey,16766,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83143
+25,sáb 16/02/2008,16:00,Saint-Étienne,AS Nancy,4-5-1,Laurent Roussey,26629,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83153
+26,sáb 23/02/2008,12:10,SM Caen,Saint-Étienne,4-5-1,Laurent Roussey,20713,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83156
+27,dom 02/03/2008,13:00,Saint-Étienne,Nice,4-5-1,Laurent Roussey,28037,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83173
+28,dom 09/03/2008,13:00,Marselha,Saint-Étienne,4-5-1,Laurent Roussey,53565,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83178
+29,sáb 15/03/2008,15:00,Saint-Étienne,Toulouse,4-5-1,Laurent Roussey,25991,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83193
+30,sáb 22/03/2008,15:00,Auxerre,Saint-Étienne,4-5-1,Laurent Roussey,13137,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83195
+31,qua 09/04/2008,11:30,Saint-Étienne,Lens,4-5-1,Laurent Roussey,33973,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83212
+32,sáb 05/04/2008,13:00,Saint-Étienne,Le Mans UC 72,4-2-3-1,Laurent Roussey,30006,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83222
+33,sáb 12/04/2008,13:00,FC Sochaux,Saint-Étienne,4-5-1,Laurent Roussey,19921,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83233
+34,sáb 19/04/2008,13:00,Saint-Étienne,FC Lorient,4-5-1,Laurent Roussey,33751,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83242
+35,sáb 26/04/2008,13:00,FC Metz,Saint-Étienne,4-4-2,Laurent Roussey,11520,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83249
+36,dom 04/05/2008,11:00,Saint-Étienne,Lille,4-4-2,Laurent Roussey,33223,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83262
+37,sáb 10/05/2008,15:45,PSG,Saint-Étienne,4-5-1,Laurent Roussey,45353,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83271
+38,sáb 17/05/2008,15:50,Saint-Étienne,Monaco,4-3-3 defensivo,Laurent Roussey,34237,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83282

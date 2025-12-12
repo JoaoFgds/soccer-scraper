@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 21/09/2020,15:30,Bochum,St. Pauli,3-4-2-1,Timo Schultz,3421,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413184
+2,dom 27/09/2020,08:30,St. Pauli,Heidenheim,4-2-3-1,Timo Schultz,2226,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413194
+3,sex 02/10/2020,13:30,Sandhausen,St. Pauli,3-4-1-2,Timo Schultz,1393,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413202
+4,seg 19/10/2020,15:30,St. Pauli,Nuremberg,3-4-1-2,Timo Schultz,1000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413212
+5,sáb 24/10/2020,08:00,Darmstadt 98,St. Pauli,3-5-2 plano,Timo Schultz,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413218
+6,sex 30/10/2020,14:30,Hamburgo,St. Pauli,3-4-2-1,Timo Schultz,1000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413230
+7,dom 08/11/2020,09:30,St. Pauli,Karlsruher,3-4-1-2,Timo Schultz,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413250
+8,sáb 21/11/2020,09:00,Paderborn,St. Pauli,4-4-2 duplo 6,Timo Schultz,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413253
+9,sex 27/11/2020,14:30,St. Pauli,VfL Osnabrück,4-2-3-1,Timo Schultz,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413267
+10,sáb 05/12/2020,09:00,E. Braunschweig,St. Pauli,4-4-1-1,Timo Schultz,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413286
+11,dom 13/12/2020,09:30,St. Pauli,Erzgebirge Aue,4-2-3-1,Timo Schultz,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413293
+12,qua 06/01/2021,14:30,Würzb. Kickers,St. Pauli,4-5-1 plano,Timo Schultz,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413314
+13,dom 20/12/2020,09:30,St. Pauli,Düsseldorf,4-2-3-1,Timo Schultz,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413320
+14,dom 03/01/2021,09:30,Greuther Fürth,St. Pauli,4-2-3-1,Timo Schultz,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413330
+15,sáb 09/01/2021,09:00,St. Pauli,Holstein Kiel,4-3-1-2,Timo Schultz,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413347
+16,sáb 16/01/2021,09:00,Hannover,St. Pauli,4-3-1-2,Timo Schultz,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413353
+17,dom 24/01/2021,09:30,St. Pauli,J. Regensburg,4-3-1-2,Timo Schultz,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413374
+18,qui 28/01/2021,16:30,St. Pauli,Bochum,4-3-1-2,Timo Schultz,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413383
+19,dom 31/01/2021,09:30,Heidenheim,St. Pauli,4-3-1-2,Timo Schultz,x,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413396
+20,sex 05/02/2021,14:30,St. Pauli,Sandhausen,4-3-1-2,Timo Schultz,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413411
+21,dom 14/02/2021,09:30,Nuremberg,St. Pauli,4-3-1-2,Timo Schultz,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413431
+22,sáb 20/02/2021,09:00,St. Pauli,Darmstadt 98,4-3-1-2,Timo Schultz,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413446
+23,seg 01/03/2021,16:30,St. Pauli,Hamburgo,4-3-1-2,Timo Schultz,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413466
+24,sáb 06/03/2021,09:00,Karlsruher,St. Pauli,4-3-1-2,Timo Schultz,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413483
+25,seg 15/03/2021,16:30,St. Pauli,Paderborn,4-3-1-2,Timo Schultz,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413474
+26,dom 21/03/2021,09:30,VfL Osnabrück,St. Pauli,4-3-1-2,Timo Schultz,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413456
+27,seg 05/04/2021,15:30,St. Pauli,E. Braunschweig,4-3-1-2,Timo Schultz,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413438
+28,sáb 10/04/2021,08:00,Erzgebirge Aue,St. Pauli,4-3-1-2,Timo Schultz,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413418
+29,sáb 17/04/2021,08:00,St. Pauli,Würzb. Kickers,4-3-1-2,Timo Schultz,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413392
+30,qua 21/04/2021,13:30,Düsseldorf,St. Pauli,4-3-1-2,Timo Schultz,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413360
+31,dom 25/04/2021,08:30,St. Pauli,Greuther Fürth,4-3-1-2,Timo Schultz,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413338
+32,sex 07/05/2021,13:30,Holstein Kiel,St. Pauli,4-3-1-2,Timo Schultz,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413304
+33,dom 16/05/2021,10:30,St. Pauli,Hannover,4-4-2 losango,Timo Schultz,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413275
+34,dom 23/05/2021,10:30,J. Regensburg,St. Pauli,4-3-1-2,Timo Schultz,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413238

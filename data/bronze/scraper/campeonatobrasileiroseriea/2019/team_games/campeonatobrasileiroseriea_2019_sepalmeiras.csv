@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 28/04/2019,19:00,Palmeiras,Fortaleza,4-2-3-1,Luiz Felipe Scolari,26701,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3173967
+2,qua 01/05/2019,16:00,CSA,Palmeiras,4-2-3-1,Luiz Felipe Scolari,15735,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3180853
+3,sáb 04/05/2019,19:00,Palmeiras,Internacional,4-2-3-1,Luiz Felipe Scolari,31549,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3180863
+4,dom 12/05/2019,16:00,Atlético-MG,Palmeiras,4-2-3-1,Luiz Felipe Scolari,24368,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3180938
+5,sáb 18/05/2019,19:00,Palmeiras,Santos,4-2-3-1,Luiz Felipe Scolari,32501,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3180944
+6,sáb 25/05/2019,16:00,Botafogo,Palmeiras,4-2-3-1,Luiz Felipe Scolari,33143,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3180953
+7,dom 02/06/2019,19:00,Chapecoense,Palmeiras,4-2-3-1,Luiz Felipe Scolari,10615,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3181107
+8,sáb 08/06/2019,16:30,Palmeiras,Athletico-PR,4-2-3-1,Luiz Felipe Scolari,37086,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3181113
+9,qui 13/06/2019,20:00,Palmeiras,Avaí,4-2-3-1,Luiz Felipe Scolari,31946,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3181149
+10,sáb 13/07/2019,19:00,São Paulo,Palmeiras,4-1-4-1,Luiz Felipe Scolari,38267,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3193493
+11,sáb 20/07/2019,19:00,Ceará,Palmeiras,4-2-3-1,Luiz Felipe Scolari,32287,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3193500
+12,sáb 27/07/2019,17:00,Palmeiras,Vasco da Gama,4-2-3-1,Luiz Felipe Scolari,37754,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3193514
+13,dom 04/08/2019,19:00,Corinthians,Palmeiras,4-2-3-1,Luiz Felipe Scolari,43045,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195268
+14,dom 11/08/2019,16:00,Palmeiras,Bahia,4-2-3-1,Luiz Felipe Scolari,34275,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195277
+15,sáb 17/08/2019,21:00,Grêmio,Palmeiras,4-3-3 defensivo,Luiz Felipe Scolari,14777,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195350
+16,ter 10/09/2019,21:00,Palmeiras,Fluminense,4-3-3 defensivo,Mano Menezes,27956,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195429
+17,dom 01/09/2019,16:00,Flamengo,Palmeiras,4-1-4-1,Luiz Felipe Scolari,65969,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3197451
+18,sáb 07/09/2019,21:00,Goiás,Palmeiras,4-2-3-1,Mano Menezes,17115,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3197462
+19,sáb 14/09/2019,19:00,Palmeiras,Cruzeiro,4-3-3 defensivo,Mano Menezes,35578,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3197500
+20,dom 22/09/2019,16:00,Fortaleza,Palmeiras,4-2-3-1,Mano Menezes,35514,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3255766
+21,qui 26/09/2019,19:15,Palmeiras,CSA,4-2-3-1,Mano Menezes,21537,6:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3255776
+22,dom 29/09/2019,16:00,Internacional,Palmeiras,4-3-3 defensivo,Mano Menezes,23114,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3260651
+23,dom 06/10/2019,16:00,Palmeiras,Atlético-MG,4-3-3 defensivo,Mano Menezes,32659,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3260664
+24,qua 09/10/2019,21:30,Santos,Palmeiras,4-3-3 defensivo,Mano Menezes,11408,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3265344
+25,sáb 12/10/2019,21:00,Palmeiras,Botafogo,4-2-3-1,Mano Menezes,19028,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3265350
+26,qua 16/10/2019,21:00,Palmeiras,Chapecoense,4-2-3-1,Mano Menezes,22738,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3265508
+27,dom 20/10/2019,19:00,Athletico-PR,Palmeiras,4-3-3 defensivo,Mano Menezes,18732,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3265522
+28,dom 27/10/2019,18:00,Avaí,Palmeiras,4-2-3-1,Mano Menezes,8815,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3268460
+29,qua 30/10/2019,19:30,Palmeiras,São Paulo,4-2-3-1,Mano Menezes,29481,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3268463
+30,sáb 02/11/2019,19:00,Palmeiras,Ceará,4-2-3-1,Mano Menezes,29019,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3272411
+31,ter 05/11/2019,20:00,Vasco da Gama,Palmeiras,4-2-3-1,Mano Menezes,8492,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3272423
+32,sex 08/11/2019,20:00,Palmeiras,Corinthians,4-2-3-1,Mano Menezes,36290,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3273303
+33,sáb 16/11/2019,20:00,Bahia,Palmeiras,4-2-3-1,Mano Menezes,23194,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3277733
+34,dom 24/11/2019,16:00,Palmeiras,Grêmio,4-2-3-1,Mano Menezes,22767,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3277744
+35,qua 27/11/2019,20:00,Fluminense,Palmeiras,4-2-3-1,Mano Menezes,30947,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3277785
+36,sáb 30/11/2019,20:00,Palmeiras,Flamengo,4-1-4-1,Mano Menezes,22219,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3277808
+37,qua 04/12/2019,20:00,Palmeiras,Goiás,4-2-3-1,Andrey Lopes,7229,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3285723
+38,dom 08/12/2019,16:00,Cruzeiro,Palmeiras,4-2-3-1,Andrey Lopes,27229,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3285728

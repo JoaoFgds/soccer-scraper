@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 20/08/1994,10:30,St. Pauli,Wolfsburg,3-5-2,Eckhard Krautzun,15400,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951331
+2,ter 23/08/1994,13:30,Wolfsburg,Mainz,3-5-2,Eckhard Krautzun,5200,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951337
+3,sáb 27/08/1994,10:30,FSV Zwickau,Wolfsburg,?,Eckhard Krautzun,5200,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951347
+4,sex 02/09/1994,13:15,Wolfsburg,FSV Frankfurt,?,Eckhard Krautzun,5200,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951355
+5,sáb 17/09/1994,10:30,FC 08 Homburg,Wolfsburg,?,Eckhard Krautzun,1800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951367
+6,dom 25/09/1994,11:00,Wolfsburg,Fortuna Köln,?,Eckhard Krautzun,8600,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951380
+7,sáb 01/10/1994,11:30,Wolfsburg,Hansa Rostock,3-5-2,Eckhard Krautzun,7800,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951385
+8,qui 06/10/1994,14:00,W. Mannheim,Wolfsburg,?,Eckhard Krautzun,16500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951393
+9,dom 16/10/1994,12:00,Wolfsburg,SV Meppen,?,Eckhard Krautzun,5903,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951409
+10,sáb 22/10/1994,12:30,VfB Leipzig,Wolfsburg,?,Eckhard Krautzun,2100,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951416
+11,sáb 29/10/1994,11:30,Wolfsburg,Düsseldorf,3-5-2,Eckhard Krautzun,8827,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951425
+12,seg 07/11/1994,17:15,Chemnitzer FC,Wolfsburg,?,Eckhard Krautzun,2000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951438
+13,sáb 12/11/1994,11:15,Wolfsburg,Saarbrücken,?,Eckhard Krautzun,5138,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951442
+14,sáb 19/11/1994,12:30,Wattenscheid 09,Wolfsburg,?,Eckhard Krautzun,2405,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951452
+15,sáb 26/11/1994,11:00,Wolfsburg,Hannover,?,Eckhard Krautzun,8422,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951460
+16,seg 05/12/1994,17:15,Nuremberg,Wolfsburg,?,Eckhard Krautzun,12200,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951474
+17,sáb 10/12/1994,11:00,Wolfsburg,Hertha Berlim,?,Eckhard Krautzun,8055,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951479
+18,sáb 18/02/1995,12:00,Wolfsburg,St. Pauli,?,Eckhard Krautzun,13264,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951485
+19,ter 02/05/1995,13:30,Mainz,Wolfsburg,3-1-4-2,Gerd Roggensack,4100,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974670
+20,sáb 04/03/1995,11:30,Wolfsburg,FSV Zwickau,3-5-2,Eckhard Krautzun,5000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974673
+21,sáb 11/03/1995,11:30,FSV Frankfurt,Wolfsburg,?,Eckhard Krautzun,800,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974682
+22,dom 19/03/1995,11:00,Wolfsburg,FC 08 Homburg,?,Eckhard Krautzun,5000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974695
+23,sex 24/03/1995,16:00,Fortuna Köln,Wolfsburg,?,Eckhard Krautzun,7000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974698
+24,seg 03/04/1995,15:15,Hansa Rostock,Wolfsburg,3-5-2,Eckhard Krautzun,10000,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974715
+25,sáb 08/04/1995,10:30,Wolfsburg,W. Mannheim,?,Gerd Roggensack,7000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974719
+26,sáb 15/04/1995,10:30,SV Meppen,Wolfsburg,?,Gerd Roggensack,11500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974730
+27,sáb 22/04/1995,10:30,Wolfsburg,VfB Leipzig,?,Gerd Roggensack,5350,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974739
+28,sáb 29/04/1995,10:30,Düsseldorf,Wolfsburg,?,Gerd Roggensack,11500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974746
+29,dom 07/05/1995,10:00,Wolfsburg,Chemnitzer FC,3-5-2,Gerd Roggensack,3000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974758
+30,sex 12/05/1995,14:30,Saarbrücken,Wolfsburg,3-5-2,Gerd Roggensack,5500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974762
+31,sex 19/05/1995,13:30,Wolfsburg,Wattenscheid 09,?,Gerd Roggensack,5700,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974772
+32,sex 26/05/1995,15:00,Hannover,Wolfsburg,?,Gerd Roggensack,25780,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974780
+33,dom 11/06/1995,10:00,Wolfsburg,Nuremberg,?,Gerd Roggensack,8500,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974796
+34,dom 18/06/1995,10:00,Hertha Berlim,Wolfsburg,?,Gerd Roggensack,7700,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974802

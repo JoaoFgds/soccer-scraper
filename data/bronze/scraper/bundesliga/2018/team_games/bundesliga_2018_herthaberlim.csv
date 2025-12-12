@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 25/08/2018,10:30,Hertha Berlim,Nuremberg,5-4-1 plano,Pál Dárdai,53729,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058409
+2,dom 02/09/2018,13:00,Schalke,Hertha Berlim,3-5-2,Pál Dárdai,60181,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058424
+3,sáb 15/09/2018,10:30,Wolfsburg,Hertha Berlim,4-3-3 ofensivo,Pál Dárdai,25090,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058440
+4,sáb 22/09/2018,10:30,Hertha Berlim,M'gladbach,4-1-4-1,Pál Dárdai,51852,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058447
+5,ter 25/09/2018,13:30,Werder Bremen,Hertha Berlim,4-2-3-1,Pál Dárdai,39100,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058455
+6,sex 28/09/2018,15:30,Hertha Berlim,Bayern,4-2-3-1,Pál Dárdai,74669,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058465
+7,sáb 06/10/2018,10:30,Mainz,Hertha Berlim,4-2-3-1,Pál Dárdai,22405,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058476
+8,dom 21/10/2018,10:30,Hertha Berlim,Freiburg,4-2-3-1,Pál Dárdai,53716,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058483
+9,sáb 27/10/2018,10:30,Dortmund,Hertha Berlim,5-3-2,Pál Dárdai,81000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058488
+10,sáb 03/11/2018,14:30,Hertha Berlim,Leipzig,3-5-2 plano,Pál Dárdai,50382,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058501
+11,sáb 10/11/2018,12:30,Düsseldorf,Hertha Berlim,4-2-3-1,Pál Dárdai,38743,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058512
+12,sáb 24/11/2018,12:30,Hertha Berlim,Hoffenheim,4-2-3-1,Pál Dárdai,44508,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058518
+13,sáb 01/12/2018,12:30,Hannover,Hertha Berlim,4-4-2 duplo 6,Pál Dárdai,35800,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058529
+14,sáb 08/12/2018,15:30,Hertha Berlim,Frankfurt,4-4-2 duplo 6,Pál Dárdai,42578,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058536
+15,sáb 15/12/2018,12:30,Stuttgart,Hertha Berlim,4-4-2 duplo 6,Pál Dárdai,47680,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058544
+16,ter 18/12/2018,17:30,Hertha Berlim,Augsburg,4-4-2 losango,Pál Dárdai,27939,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058553
+17,sáb 22/12/2018,12:30,Leverkusen,Hertha Berlim,4-2-3-1,Pál Dárdai,27647,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058561
+18,dom 20/01/2019,12:30,Nuremberg,Hertha Berlim,3-4-1-2,Pál Dárdai,36112,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058576
+19,sex 25/01/2019,17:30,Hertha Berlim,Schalke,3-4-1-2,Pál Dárdai,43027,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058580
+20,sáb 02/02/2019,12:30,Hertha Berlim,Wolfsburg,3-4-1-2,Pál Dárdai,39259,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058590
+21,sáb 09/02/2019,12:30,M'gladbach,Hertha Berlim,4-2-3-1,Pál Dárdai,48232,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058597
+22,sáb 16/02/2019,15:30,Hertha Berlim,Werder Bremen,3-4-1-2,Pál Dárdai,49627,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058608
+23,sáb 23/02/2019,11:30,Bayern,Hertha Berlim,3-4-1-2,Pál Dárdai,75000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058612
+24,sáb 02/03/2019,11:30,Hertha Berlim,Mainz,3-4-1-2,Pál Dárdai,33981,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058635
+25,sáb 09/03/2019,11:30,Freiburg,Hertha Berlim,3-4-1-2,Pál Dárdai,24000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058645
+26,sáb 16/03/2019,14:30,Hertha Berlim,Dortmund,3-4-1-2,Pál Dárdai,74667,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058654
+27,sáb 30/03/2019,14:30,Leipzig,Hertha Berlim,3-4-1-2,Pál Dárdai,41939,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058659
+28,sáb 06/04/2019,10:30,Hertha Berlim,Düsseldorf,4-2-3-1,Pál Dárdai,51604,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058671
+29,dom 14/04/2019,08:30,Hoffenheim,Hertha Berlim,4-2-3-1,Pál Dárdai,28010,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058675
+30,dom 21/04/2019,13:00,Hertha Berlim,Hannover,4-2-3-1,Pál Dárdai,38916,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058688
+31,sáb 27/04/2019,10:30,Frankfurt,Hertha Berlim,4-2-3-1,Pál Dárdai,51500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058697
+32,sáb 04/05/2019,10:30,Hertha Berlim,Stuttgart,4-2-3-1,Pál Dárdai,48668,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058706
+33,sáb 11/05/2019,10:30,Augsburg,Hertha Berlim,4-2-3-1,Pál Dárdai,29307,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058717
+34,sáb 18/05/2019,10:30,Hertha Berlim,Leverkusen,4-2-3-1,Pál Dárdai,59287,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058723

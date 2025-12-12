@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 07/08/2021,15:30,Feirense,Covilhã,3-1-4-2,Rui Ferreira,572,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621654
+2,sáb 14/08/2021,14:00,Mafra,Feirense,3-5-2 plano,Rui Ferreira,310,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621668
+3,dom 22/08/2021,15:30,Feirense,Chaves,3-1-4-2,Rui Ferreira,488,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621689
+4,dom 29/08/2021,15:30,Farense,Feirense,3-1-4-2,Rui Ferreira,1555,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621681
+5,sáb 11/09/2021,07:00,Feirense,Académica,3-1-4-2,Rui Ferreira,739,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621671
+6,sáb 18/09/2021,07:00,Rio Ave,Feirense,3-1-4-2,Rui Ferreira,909,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621698
+7,dom 03/10/2021,07:00,Feirense,Varzim,3-1-4-2,Rui Ferreira,1121,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621716
+8,dom 10/10/2021,12:30,Leixões,Feirense,3-1-4-2,Rui Ferreira,1928,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621729
+9,dom 24/10/2021,07:00,Feirense,Estrela Amadora,3-1-4-2,Rui Ferreira,1060,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621708
+10,dom 31/10/2021,13:00,Feirense,Casa Pia,3-5-2 plano,Rui Ferreira,945,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621782
+11,seg 08/11/2021,17:15,Académico FC,Feirense,3-1-4-2,Rui Ferreira,266,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621739
+12,dom 28/11/2021,08:00,Feirense,FC Porto B,3-1-4-2,Rui Ferreira,1198,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621791
+13,sáb 04/12/2021,08:00,Vilafranquense,Feirense,3-5-2 plano,Rui Ferreira,132,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621759
+14,sáb 11/12/2021,08:00,Feirense,Penafiel,3-5-2,Rui Ferreira,1017,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621773
+15,seg 20/12/2021,17:15,Trofense,Feirense,5-4-1,Rui Ferreira,664,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621769
+16,ter 28/12/2021,15:00,Feirense,Benfica B,3-5-2 plano,Rui Ferreira,850,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621745
+17,seg 10/01/2022,15:00,Nacional,Feirense,3-5-2 plano,Rui Ferreira,532,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621816
+18,ter 18/01/2022,17:15,Covilhã,Feirense,3-4-3 plano,Rui Ferreira,149,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621798
+19,dom 23/01/2022,08:00,Feirense,Mafra,5-4-1,Rui Ferreira,974,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621812
+20,dom 30/01/2022,11:00,Chaves,Feirense,3-5-2,Rui Ferreira,452,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621872
+21,ter 08/02/2022,15:00,Feirense,Farense,?,Rui Ferreira,1021,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621834
+22,sáb 12/02/2022,11:00,Académica,Feirense,3-5-2 plano,Rui Ferreira,1368,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621901
+23,dom 20/02/2022,11:00,Feirense,Rio Ave,?,Rui Ferreira,3122,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621824
+24,seg 28/02/2022,15:00,Varzim,Feirense,5-4-1,Rui Ferreira,2537,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621869
+25,dom 06/03/2022,08:00,Feirense,Leixões,5-4-1,Rui Ferreira,2534,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621889
+26,sáb 12/03/2022,08:00,Estrela Amadora,Feirense,3-4-1-2,Rui Ferreira,1832,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621852
+27,dom 20/03/2022,11:00,Casa Pia,Feirense,3-4-1-2,Rui Ferreira,513,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621845
+28,sáb 02/04/2022,10:00,Feirense,Académico FC,3-4-3 plano,Rui Ferreira,2721,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621917
+29,dom 10/04/2022,11:30,FC Porto B,Feirense,3-5-2,Rui Ferreira,542,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621891
+30,sáb 16/04/2022,15:00,Feirense,Vilafranquense,?,Rui Ferreira,1660,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621938
+31,dom 24/04/2022,07:00,Penafiel,Feirense,?,Rui Ferreira,524,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621886
+32,dom 01/05/2022,08:45,Feirense,Trofense,3-5-2 plano,Rui Ferreira,698,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621958
+33,sáb 07/05/2022,10:00,Benfica B,Feirense,3-4-3 plano,Rui Ferreira,283,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621878
+34,dom 15/05/2022,11:00,Feirense,Nacional,?,Rui Ferreira,539,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621868

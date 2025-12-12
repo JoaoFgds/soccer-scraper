@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 16/08/2019,16:00,Athletic Club,Barcelona,4-3-3 ofensivo,Ernesto Valverde,47693,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208627
+2,dom 25/08/2019,16:00,Barcelona,Betis,4-3-3 ofensivo,Ernesto Valverde,79159,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208640
+3,sáb 31/08/2019,12:00,Osasuna,Barcelona,4-3-3 ofensivo,Ernesto Valverde,16742,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208655
+4,sáb 14/09/2019,16:00,Barcelona,Valencia,4-3-3 ofensivo,Ernesto Valverde,81617,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208660
+5,sáb 21/09/2019,16:00,Granada CF,Barcelona,4-3-3 ofensivo,Ernesto Valverde,18880,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208673
+6,ter 24/09/2019,16:00,Barcelona,Villarreal,4-3-3 ofensivo,Ernesto Valverde,70316,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208679
+7,sáb 28/09/2019,11:00,Getafe,Barcelona,4-3-3 ofensivo,Ernesto Valverde,15135,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208697
+8,dom 06/10/2019,16:00,Barcelona,Sevilla,4-3-3 ofensivo,Ernesto Valverde,81331,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208703
+9,sáb 19/10/2019,08:00,Eibar,Barcelona,4-3-3 ofensivo,Ernesto Valverde,7295,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208716
+10,qua 18/12/2019,16:00,Barcelona,Real Madrid,4-3-3 ofensivo,Ernesto Valverde,93426,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208724
+11,ter 29/10/2019,17:15,Barcelona,Valladolid,4-3-3 ofensivo,Ernesto Valverde,59896,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208744
+12,sáb 02/11/2019,12:00,Levante,Barcelona,4-3-3 ofensivo,Ernesto Valverde,23341,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208756
+13,sáb 09/11/2019,17:00,Barcelona,Celta de Vigo,4-3-3 ofensivo,Ernesto Valverde,71209,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208765
+14,sáb 23/11/2019,09:00,Leganés,Barcelona,4-2-3-1,Ernesto Valverde,12110,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208776
+15,dom 01/12/2019,17:00,Atlético,Barcelona,4-3-3 ofensivo,Ernesto Valverde,64226,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208784
+16,sáb 07/12/2019,17:00,Barcelona,Mallorca,4-3-3 ofensivo,Ernesto Valverde,71072,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208792
+17,sáb 14/12/2019,12:00,Real Sociedad,Barcelona,4-3-3 ofensivo,Ernesto Valverde,36639,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208809
+18,sáb 21/12/2019,12:00,Barcelona,Alavés,4-3-3 ofensivo,Ernesto Valverde,63054,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208812
+19,sáb 04/01/2020,17:00,Espanyol,Barcelona,4-3-3 ofensivo,Ernesto Valverde,33562,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208825
+20,dom 19/01/2020,17:00,Barcelona,Granada CF,4-3-3 ofensivo,Quique Setién,65444,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208833
+21,sáb 25/01/2020,12:00,Valencia,Barcelona,3-5-2 plano,Quique Setién,45882,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208850
+22,dom 02/02/2020,17:00,Barcelona,Levante,4-3-3 ofensivo,Quique Setién,60295,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3209793
+23,dom 09/02/2020,17:00,Betis,Barcelona,4-3-1-2,Quique Setién,54526,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3209804
+24,sáb 15/02/2020,12:00,Barcelona,Getafe,4-3-3 ofensivo,Quique Setién,89409,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3209959
+25,sáb 22/02/2020,12:00,Barcelona,Eibar,4-3-1-2,Quique Setién,66970,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3209970
+26,dom 01/03/2020,17:00,Real Madrid,Barcelona,4-4-2 duplo 6,Quique Setién,78237,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3209984
+27,sáb 07/03/2020,14:30,Barcelona,Real Sociedad,4-3-3 ofensivo,Quique Setién,77035,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3209999
+28,sáb 13/06/2020,17:00,Mallorca,Barcelona,4-3-3 ofensivo,Quique Setién,x,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210021
+29,ter 16/06/2020,17:00,Barcelona,Leganés,4-3-3 ofensivo,Quique Setién,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210036
+30,sex 19/06/2020,17:00,Sevilla,Barcelona,4-3-3 ofensivo,Quique Setién,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210062
+31,ter 23/06/2020,17:00,Barcelona,Athletic Club,4-3-3 ofensivo,Quique Setién,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210074
+32,sáb 27/06/2020,12:00,Celta de Vigo,Barcelona,4-3-3 ofensivo,Quique Setién,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210085
+33,ter 30/06/2020,17:00,Barcelona,Atlético,4-3-1-2,Quique Setién,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210094
+34,dom 05/07/2020,17:00,Villarreal,Barcelona,4-3-1-2,Quique Setién,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210111
+35,qua 08/07/2020,17:00,Barcelona,Espanyol,4-3-1-2,Quique Setién,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210114
+36,sáb 11/07/2020,14:30,Valladolid,Barcelona,4-4-2 duplo 6,Quique Setién,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210132
+37,qui 16/07/2020,16:00,Barcelona,Osasuna,4-3-3 ofensivo,Quique Setién,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3210134
+38,dom 19/07/2020,12:00,Alavés,Barcelona,4-3-3 ofensivo,Quique Setién,x,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3208633

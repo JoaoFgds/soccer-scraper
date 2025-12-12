@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 10/08/2007,13:00,St. Pauli,Colônia,4-2-3-1,André Trulsen,15500,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69636
+2,dom 19/08/2007,09:00,Carl Zeiss Jena,St. Pauli,4-2-3-1,André Trulsen,12129,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69649
+3,dom 26/08/2007,09:00,St. Pauli,TuS Koblenz,4-2-3-1,André Trulsen,15117,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69660
+4,dom 02/09/2007,09:00,Greuther Fürth,St. Pauli,4-2-3-1,André Trulsen,12600,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69666
+5,sex 14/09/2007,13:00,St. Pauli,K. Offenbach,4-4-2 duplo 6,André Trulsen,15300,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69673
+6,sex 21/09/2007,13:00,1860 Munique,St. Pauli,4-2-3-1,André Trulsen,46000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69684
+7,ter 25/09/2007,12:30,St. Pauli,M'gladbach,4-4-2 duplo 6,André Trulsen,15300,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69696
+8,sex 28/09/2007,13:00,VfL Osnabrück,St. Pauli,4-2-3-1,André Trulsen,16000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69705
+9,dom 07/10/2007,09:00,St. Pauli,Paderborn,4-4-2 duplo 6,André Trulsen,15300,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69714
+10,dom 21/10/2007,10:00,Freiburg,St. Pauli,4-2-3-1,André Trulsen,22400,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69716
+11,sex 26/10/2007,14:00,St. Pauli,Wehen Wiesbaden,4-4-2 duplo 6,André Trulsen,15000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69732
+12,sex 02/11/2007,15:00,Hoffenheim,St. Pauli,4-2-3-1,André Trulsen,6450,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69740
+13,dom 11/11/2007,11:00,St. Pauli,Augsburg,4-2-3-1,André Trulsen,16800,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69750
+14,dom 25/11/2007,11:00,Erzgebirge Aue,St. Pauli,4-2-3-1,André Trulsen,12500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69755
+15,sex 30/11/2007,15:00,St. Pauli,K'lautern,4-2-3-1,André Trulsen,17800,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69768
+16,sex 07/12/2007,15:00,Alem. Aachen,St. Pauli,4-4-2,André Trulsen,21200,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69770
+17,sex 14/12/2007,15:00,St. Pauli,Mainz,4-4-2 duplo 6,André Trulsen,17800,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69786
+18,sex 01/02/2008,15:00,Colônia,St. Pauli,4-4-2 duplo 6,André Trulsen,50000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69794
+19,sex 08/02/2008,15:00,St. Pauli,Carl Zeiss Jena,4-4-2 duplo 6,André Trulsen,21000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69802
+20,sex 15/02/2008,15:00,TuS Koblenz,St. Pauli,4-4-2 duplo 6,André Trulsen,11352,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69805
+21,dom 24/02/2008,10:00,St. Pauli,Greuther Fürth,4-4-2 duplo 6,André Trulsen,20117,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69816
+22,dom 02/03/2008,10:00,K. Offenbach,St. Pauli,4-4-2 duplo 6,André Trulsen,13238,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69831
+23,seg 10/03/2008,16:15,St. Pauli,1860 Munique,4-4-2 losango,André Trulsen,21853,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69835
+24,dom 16/03/2008,10:00,M'gladbach,St. Pauli,4-2-3-1,André Trulsen,48414,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69849
+25,qui 20/03/2008,14:00,St. Pauli,VfL Osnabrück,4-4-2 duplo 6,André Trulsen,22648,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69858
+26,dom 30/03/2008,09:00,Paderborn,St. Pauli,4-2-3-1,André Trulsen,9022,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69867
+27,dom 06/04/2008,09:00,St. Pauli,Freiburg,4-2-3-1,André Trulsen,21017,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69870
+28,sex 11/04/2008,13:00,Wehen Wiesbaden,St. Pauli,4-5-1,André Trulsen,10606,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69885
+29,qua 16/04/2008,12:30,St. Pauli,Hoffenheim,4-2-3-1,André Trulsen,20017,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69892
+30,dom 27/04/2008,09:00,Augsburg,St. Pauli,4-5-1 plano,André Trulsen,20122,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69902
+31,sex 02/05/2008,13:00,St. Pauli,Erzgebirge Aue,4-2-3-1,André Trulsen,21421,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69908
+32,ter 06/05/2008,12:30,K'lautern,St. Pauli,4-2-3-1,André Trulsen,33615,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69920
+33,dom 11/05/2008,09:00,St. Pauli,Alem. Aachen,4-2-3-1,André Trulsen,22717,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69923
+34,dom 18/05/2008,09:00,Mainz,St. Pauli,4-1-4-1,André Trulsen,20300,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/69938

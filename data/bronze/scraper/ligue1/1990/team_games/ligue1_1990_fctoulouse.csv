@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 20/07/1990,19:00,Toulouse,Auxerre,?,Pierre Mosca,13731,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014201
+2,sex 27/07/1990,19:00,Nice,Toulouse,?,Pierre Mosca,9707,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014214
+3,sex 03/08/1990,19:00,Toulouse,Lyon,?,Pierre Mosca,9766,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014218
+4,sex 10/08/1990,19:00,Lille,Toulouse,?,Pierre Mosca,8110,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014232
+5,sex 17/08/1990,19:00,Toulouse,FC Metz,?,Pierre Mosca,9521,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014241
+6,sex 24/08/1990,19:00,SM Caen,Toulouse,?,Pierre Mosca,10619,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014249
+7,qua 29/08/1990,15:30,Toulouse,Nantes,?,Pierre Mosca,11854,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014263
+8,sex 07/09/1990,19:00,Bordeaux,Toulouse,?,Pierre Mosca,17000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014272
+9,sex 14/09/1990,19:00,Toulouse,Marselha,?,Pierre Mosca,30728,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014277
+10,sex 21/09/1990,19:00,Toulouse,AS Nancy,?,Pierre Mosca,6315,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014377
+11,sex 28/09/1990,19:00,Cannes,Toulouse,?,Pierre Mosca,7000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014388
+12,sex 05/10/1990,20:00,Toulouse,FC Sochaux,?,Pierre Mosca,6750,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014399
+13,sex 19/10/1990,16:30,Monaco,Toulouse,?,Pierre Mosca,3500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014400
+14,sex 26/10/1990,21:00,Toulouse,Saint-Étienne,?,Pierre Mosca,6712,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014415
+15,sex 02/11/1990,21:00,Brest Armorique,Toulouse,?,Pierre Mosca,11620,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014426
+16,sáb 10/11/1990,17:30,Toulouse,PSG,?,Pierre Mosca,6500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014435
+17,sex 23/11/1990,21:00,Rennes,Toulouse,?,Pierre Mosca,5404,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014447
+18,sáb 01/12/1990,21:00,Toulouse,SC Toulon Var,?,Pierre Mosca,5660,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014459
+19,sex 07/12/1990,21:00,Montpellier,Toulouse,?,Pierre Mosca,10391,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014483
+20,sáb 15/12/1990,21:00,Toulouse,Nice,?,Pierre Mosca,5165,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014497
+21,sáb 22/12/1990,21:00,Lyon,Toulouse,?,Pierre Mosca,15475,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014504
+22,sáb 12/01/1991,21:00,Toulouse,Lille,?,Pierre Mosca,7374,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014516
+23,sáb 19/01/1991,21:00,FC Metz,Toulouse,?,Pierre Mosca,5609,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014526
+24,sex 25/01/1991,21:00,Toulouse,SM Caen,?,Pierre Mosca,5141,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014530
+25,dom 03/02/1991,12:00,Nantes,Toulouse,?,Pierre Mosca,4201,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014548
+26,sáb 09/02/1991,21:00,Toulouse,Bordeaux,?,Pierre Mosca,9019,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014556
+27,ter 12/02/1991,21:00,Marselha,Toulouse,?,Pierre Mosca,20000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014560
+28,sáb 23/02/1991,20:00,AS Nancy,Toulouse,?,Pierre Mosca,6154,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014605
+29,sex 01/03/1991,20:00,Toulouse,Cannes,?,Pierre Mosca,7846,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014609
+30,sex 15/03/1991,20:00,FC Sochaux,Toulouse,?,Pierre Mosca,2710,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014625
+31,sáb 23/03/1991,16:30,Toulouse,Monaco,?,Pierre Mosca,8519,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014629
+32,sex 05/04/1991,19:00,Saint-Étienne,Toulouse,?,Pierre Mosca,11508,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014644
+33,sex 12/04/1991,19:00,Toulouse,Brest Armorique,?,Pierre Mosca,10806,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014690
+34,sáb 20/04/1991,15:30,PSG,Toulouse,?,Pierre Mosca,7154,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014702
+35,sex 03/05/1991,19:00,Toulouse,Rennes,?,Pierre Mosca,7649,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014713
+36,qui 09/05/1991,19:00,SC Toulon Var,Toulouse,?,Pierre Mosca,5000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014723
+37,qui 16/05/1991,19:00,Toulouse,Montpellier,?,Pierre Mosca,7457,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014728
+38,qui 23/05/1991,19:00,Auxerre,Toulouse,?,Pierre Mosca,10000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014736

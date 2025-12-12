@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 14/09/2020,16:15,Brighton,Chelsea,4-4-1-1,Frank Lampard,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3420826
+2,dom 20/09/2020,12:30,Chelsea,Liverpool,4-3-3 ofensivo,Frank Lampard,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3420840
+3,sáb 26/09/2020,13:30,West Brom,Chelsea,4-2-3-1,Frank Lampard,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421701
+4,sáb 03/10/2020,08:30,Chelsea,Crystal Palace,4-2-3-1,Frank Lampard,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421705
+5,sáb 17/10/2020,11:00,Chelsea,Southampton,4-2-3-1,Frank Lampard,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421713
+6,sáb 24/10/2020,13:30,Man Utd,Chelsea,3-4-2-1,Frank Lampard,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421729
+7,sáb 31/10/2020,12:00,FC Burnley,Chelsea,4-3-3 ofensivo,Frank Lampard,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421734
+8,sáb 07/11/2020,14:30,Chelsea,Sheff Utd,4-3-3 ofensivo,Frank Lampard,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421745
+9,sáb 21/11/2020,09:30,Newcastle,Chelsea,4-3-3 ofensivo,Frank Lampard,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421759
+10,dom 29/11/2020,13:30,Chelsea,Tottenham,4-3-3 ofensivo,Frank Lampard,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421765
+11,sáb 05/12/2020,17:00,Chelsea,Leeds,4-1-4-1,Frank Lampard,2000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421776
+12,sáb 12/12/2020,17:00,Everton,Chelsea,4-3-3 ofensivo,Frank Lampard,2000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421785
+13,ter 15/12/2020,15:00,Wolves,Chelsea,4-3-3 ofensivo,Frank Lampard,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421800
+14,seg 21/12/2020,17:00,Chelsea,West Ham,4-3-3 ofensivo,Frank Lampard,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421805
+15,sáb 26/12/2020,14:30,Arsenal,Chelsea,4-3-3 ofensivo,Frank Lampard,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421813
+16,seg 28/12/2020,14:30,Chelsea,Aston Villa,4-3-3 ofensivo,Frank Lampard,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421825
+17,dom 03/01/2021,13:30,Chelsea,Man City,4-1-4-1,Frank Lampard,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421835
+18,ter 19/01/2021,17:15,Leicester,Chelsea,4-3-3 ofensivo,Frank Lampard,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421847
+19,sáb 16/01/2021,14:30,Fulham,Chelsea,4-3-3 ofensivo,Frank Lampard,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3421855
+20,qua 27/01/2021,15:00,Chelsea,Wolves,3-4-2-1,Thomas Tuchel,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429688
+21,dom 31/01/2021,09:00,Chelsea,FC Burnley,3-4-2-1,Thomas Tuchel,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429695
+22,qui 04/02/2021,17:00,Tottenham,Chelsea,3-4-1-2,Thomas Tuchel,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429712
+23,dom 07/02/2021,16:15,Sheff Utd,Chelsea,3-4-2-1,Thomas Tuchel,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429720
+24,seg 15/02/2021,17:00,Chelsea,Newcastle,3-4-2-1,Thomas Tuchel,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429725
+25,sáb 20/02/2021,09:30,Southampton,Chelsea,3-5-2,Thomas Tuchel,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429740
+26,dom 28/02/2021,13:30,Chelsea,Man Utd,3-4-2-1,Thomas Tuchel,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429743
+27,seg 08/03/2021,15:00,Chelsea,Everton,3-4-1-2,Thomas Tuchel,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429756
+28,sáb 13/03/2021,09:30,Leeds,Chelsea,4-2-3-1,Thomas Tuchel,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429767
+29,qui 04/03/2021,17:15,Liverpool,Chelsea,3-4-2-1,Thomas Tuchel,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429777
+30,sáb 03/04/2021,08:30,Chelsea,West Brom,3-4-2-1,Thomas Tuchel,,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429785
+31,sáb 10/04/2021,13:30,Crystal Palace,Chelsea,3-4-2-1,Thomas Tuchel,,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429795
+32,ter 20/04/2021,16:00,Chelsea,Brighton,5-4-1 plano,Thomas Tuchel,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429805
+33,sáb 24/04/2021,13:30,West Ham,Chelsea,3-4-2-1,Thomas Tuchel,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429821
+34,sáb 01/05/2021,13:30,Chelsea,Fulham,3-5-2 ofensivo,Thomas Tuchel,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429825
+35,sáb 08/05/2021,13:30,Man City,Chelsea,3-4-2-1,Thomas Tuchel,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429839
+36,qua 12/05/2021,16:15,Chelsea,Arsenal,3-4-2-1,Thomas Tuchel,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429848
+37,ter 18/05/2021,16:15,Chelsea,Leicester,3-4-2-1,Thomas Tuchel,7195,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429855
+38,dom 23/05/2021,12:00,Aston Villa,Chelsea,3-4-2-1,Thomas Tuchel,10000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3429864

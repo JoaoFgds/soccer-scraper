@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 10/05/2015,16:00,São Paulo,Flamengo,4-3-3 defensivo,Vanderlei Luxemburgo,13656,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547059
+2,dom 17/05/2015,16:00,Flamengo,Sport,4-2-3-1,Vanderlei Luxemburgo,28794,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547069
+3,dom 24/05/2015,16:00,Avaí,Flamengo,4-3-3 ofensivo,Vanderlei Luxemburgo,11918,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547080
+4,dom 31/05/2015,18:30,Flamengo,Fluminense,4-2-3-1,Cristóvão Borges,25289,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2569252
+5,qua 03/06/2015,22:00,Cruzeiro,Flamengo,4-3-3 defensivo,Cristóvão Borges,13309,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2569259
+6,sáb 06/06/2015,18:30,Flamengo,Chapecoense,4-3-3 defensivo,Cristóvão Borges,20156,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2569265
+7,sáb 13/06/2015,16:30,Coritiba,Flamengo,4-2-3-1,Cristóvão Borges,12043,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2569402
+8,sáb 20/06/2015,16:30,Flamengo,Atlético-MG,4-3-3 defensivo,Cristóvão Borges,36774,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2569412
+9,dom 28/06/2015,18:30,Vasco da Gama,Flamengo,4-3-1-2,Cristóvão Borges,14010,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2569428
+10,qua 01/07/2015,22:00,Joinville,Flamengo,4-4-2 duplo 6,Cristóvão Borges,15731,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2569436
+11,dom 05/07/2015,18:30,Flamengo,Figueirense,4-3-3 defensivo,Cristóvão Borges,17986,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2569443
+12,qua 08/07/2015,22:00,Internacional,Flamengo,4-3-3 ofensivo,Cristóvão Borges,10931,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2569454
+13,dom 12/07/2015,16:00,Flamengo,Corinthians,4-3-3 ofensivo,Cristóvão Borges,29872,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2569463
+14,sáb 18/07/2015,18:30,Flamengo,Grêmio,4-3-3 defensivo,Cristóvão Borges,51055,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2569473
+15,dom 26/07/2015,16:00,Goiás,Flamengo,4-3-3 defensivo,Cristóvão Borges,12248,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2569488
+16,dom 02/08/2015,16:00,Flamengo,Santos,4-3-3 defensivo,Cristóvão Borges,61421,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2602940
+17,dom 09/08/2015,15:00,Ponte Preta,Flamengo,4-3-3 defensivo,Cristóvão Borges,11694,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611077
+18,qua 12/08/2015,19:30,Flamengo,Atlético-PR,4-3-3 defensivo,Cristóvão Borges,20881,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611081
+19,dom 16/08/2015,11:00,Palmeiras,Flamengo,4-3-3 defensivo,Cristóvão Borges,37739,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611093
+20,dom 23/08/2015,16:00,Flamengo,São Paulo,4-3-3 defensivo,Oswaldo de Oliveira,42954,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611106
+21,dom 30/08/2015,16:00,Sport,Flamengo,4-3-3 defensivo,Oswaldo de Oliveira,34939,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2615456
+22,qua 02/09/2015,21:00,Flamengo,Avaí,4-3-3 defensivo,Oswaldo de Oliveira,22825,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616552
+23,dom 06/09/2015,16:00,Fluminense,Flamengo,4-2-3-1,Oswaldo de Oliveira,55999,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2619244
+24,qui 10/09/2015,21:00,Flamengo,Cruzeiro,4-2-3-1,Oswaldo de Oliveira,43017,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2619256
+25,dom 13/09/2015,16:00,Chapecoense,Flamengo,4-2-3-1,Oswaldo de Oliveira,10800,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2621584
+26,qui 17/09/2015,21:00,Flamengo,Coritiba,4-2-3-1,Oswaldo de Oliveira,67011,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2621598
+27,dom 20/09/2015,16:00,Atlético-MG,Flamengo,4-2-3-1,Oswaldo de Oliveira,20203,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2626593
+28,dom 27/09/2015,16:00,Flamengo,Vasco da Gama,4-2-3-1,Oswaldo de Oliveira,40240,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2626602
+29,dom 04/10/2015,11:00,Flamengo,Joinville,4-3-3 defensivo,Oswaldo de Oliveira,52462,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2626610
+30,qua 14/10/2015,21:00,Figueirense,Flamengo,4-3-3 defensivo,Oswaldo de Oliveira,12820,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2626623
+31,dom 18/10/2015,16:00,Flamengo,Internacional,4-3-3 defensivo,Oswaldo de Oliveira,24599,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2626636
+32,dom 25/10/2015,17:00,Corinthians,Flamengo,4-3-3 defensivo,Oswaldo de Oliveira,43942,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2626637
+33,dom 01/11/2015,17:00,Grêmio,Flamengo,4-3-3 ofensivo,Oswaldo de Oliveira,35160,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2626651
+34,dom 08/11/2015,17:00,Flamengo,Goiás,4-3-3 defensivo,Oswaldo de Oliveira,12634,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2626660
+35,qui 19/11/2015,22:00,Santos,Flamengo,4-3-3 defensivo,Oswaldo de Oliveira,8071,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2626668
+36,dom 22/11/2015,18:00,Flamengo,Ponte Preta,4-3-3 defensivo,Oswaldo de Oliveira,12814,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2626680
+37,dom 29/11/2015,19:30,Atlético-PR,Flamengo,4-2-3-1,Jayme de Almeida Filho,25889,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2626694
+38,dom 06/12/2015,17:00,Flamengo,Palmeiras,4-2-3-1,Jayme de Almeida Filho,16070,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2626700

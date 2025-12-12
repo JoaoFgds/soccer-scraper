@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 06/08/2022,11:30,Rio Ave,Vizela,4-3-3 ofensivo,Álvaro Pacheco,3038,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869044
+2,dom 14/08/2022,14:00,Vizela,FC Porto,4-3-3 ofensivo,Álvaro Pacheco,4679,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869054
+3,sáb 20/08/2022,14:00,Chaves,Vizela,4-3-3 ofensivo,Álvaro Pacheco,5489,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869068
+4,seg 29/08/2022,17:15,Vizela,Gil Vicente,4-3-3 ofensivo,Álvaro Pacheco,2824,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869108
+5,sex 02/09/2022,15:00,Benfica,Vizela,4-3-3 ofensivo,Álvaro Pacheco,47958,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869079
+6,seg 12/09/2022,16:15,Vizela,Estoril,4-3-3 ofensivo,Álvaro Pacheco,2335,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869080
+7,dom 18/09/2022,16:30,Braga,Vizela,4-3-3 ofensivo,Álvaro Pacheco,14181,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869096
+8,sáb 01/10/2022,11:30,Vizela,Portimonense,4-3-3 ofensivo,Álvaro Pacheco,2435,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869118
+9,dom 09/10/2022,14:00,Casa Pia,Vizela,4-3-3 ofensivo,Álvaro Pacheco,2912,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869101
+10,dom 23/10/2022,11:30,Vizela,Santa Clara,4-2-3-1,Álvaro Pacheco,2007,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869125
+11,dom 30/10/2022,12:30,Boavista,Vizela,4-3-3 ofensivo,Álvaro Pacheco,5764,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869348
+12,sáb 05/11/2022,12:30,Vizela,Arouca,4-3-3 ofensivo,Álvaro Pacheco,2722,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869196
+13,dom 13/11/2022,12:30,Paços Ferreira,Vizela,4-3-3 ofensivo,Álvaro Pacheco,5182,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869138
+14,sex 30/12/2022,16:00,Vizela,Vit. Guimarães,4-2-3-1,Tulipa,3820,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869145
+15,sex 06/01/2023,18:15,Famalicão,Vizela,4-2-3-1,Tulipa,3334,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869157
+16,sáb 14/01/2023,12:30,Vizela,Marítimo,4-2-3-1,Tulipa,2609,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869243
+17,sex 20/01/2023,18:15,Sporting,Vizela,3-4-3 plano,Tulipa,23358,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869184
+18,dom 29/01/2023,12:30,Vizela,Rio Ave,4-2-3-1,Tulipa,3519,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869163
+19,dom 05/02/2023,15:00,FC Porto,Vizela,4-2-3-1,Tulipa,41211,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869172
+20,sex 10/02/2023,17:15,Vizela,Chaves,4-2-3-1,Tulipa,2909,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869213
+21,sex 17/02/2023,17:15,Gil Vicente,Vizela,3-4-3 plano,Tulipa,3212,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869217
+22,sáb 25/02/2023,17:30,Vizela,Benfica,4-2-3-1,Tulipa,5872,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869269
+23,sáb 04/03/2023,12:30,Estoril,Vizela,4-2-3-1,Tulipa,1815,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869270
+24,sáb 11/03/2023,17:30,Vizela,Braga,4-2-3-1,Tulipa,3682,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869340
+25,sáb 18/03/2023,12:30,Portimonense,Vizela,4-2-3-1,Tulipa,1284,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869200
+26,sáb 01/04/2023,11:30,Vizela,Casa Pia,4-2-3-1,Tulipa,3008,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869282
+27,sex 07/04/2023,11:30,Santa Clara,Vizela,4-2-3-1,Tulipa,802,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869288
+28,seg 17/04/2023,16:15,Vizela,Boavista,4-2-3-1,Tulipa,3403,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869240
+29,dom 23/04/2023,16:30,Arouca,Vizela,4-2-3-1,Tulipa,1742,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869232
+30,sáb 29/04/2023,14:00,Vizela,Paços Ferreira,4-2-3-1,Tulipa,4423,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869300
+31,dom 07/05/2023,14:00,Vit. Guimarães,Vizela,4-2-3-1,Tulipa,20031,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869308
+32,sáb 13/05/2023,11:30,Vizela,Famalicão,4-1-4-1,Tulipa,2717,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869328
+33,sex 19/05/2023,16:15,Marítimo,Vizela,4-2-3-1,Tulipa,10181,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869315
+34,sex 26/05/2023,17:15,Vizela,Sporting,3-4-3 plano,Tulipa,3309,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869256

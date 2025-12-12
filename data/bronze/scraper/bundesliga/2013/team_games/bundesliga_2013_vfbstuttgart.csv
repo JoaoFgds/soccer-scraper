@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 11/08/2013,10:30,Mainz,Stuttgart,4-2-3-1,Bruno Labbadia,30279,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321031
+2,sáb 17/08/2013,10:30,Stuttgart,Leverkusen,4-2-3-1,Bruno Labbadia,40800,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321046
+3,dom 25/08/2013,12:30,Augsburg,Stuttgart,4-3-1-2,Bruno Labbadia,30030,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321059
+4,dom 01/09/2013,10:30,Stuttgart,Hoffenheim,4-2-3-1,Thomas Schneider,42450,6:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321065
+5,sex 13/09/2013,15:30,Hertha Berlim,Stuttgart,4-2-3-1,Thomas Schneider,46624,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321080
+6,dom 22/09/2013,12:30,Stuttgart,Frankfurt,4-2-3-1,Thomas Schneider,44810,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321083
+7,dom 29/09/2013,12:30,E. Braunschweig,Stuttgart,4-2-3-1,Thomas Schneider,22760,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321114
+8,sáb 05/10/2013,10:30,Stuttgart,Werder Bremen,4-2-3-1,Thomas Schneider,50410,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321120
+9,dom 20/10/2013,11:30,Hamburgo,Stuttgart,4-2-3-1,Thomas Schneider,53167,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321131
+10,sex 25/10/2013,16:30,Stuttgart,Nuremberg,4-2-3-1,Thomas Schneider,48460,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321139
+11,sex 01/11/2013,17:30,Dortmund,Stuttgart,4-2-3-1,Thomas Schneider,80645,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321144
+12,dom 10/11/2013,14:30,Freiburg,Stuttgart,4-2-3-1,Thomas Schneider,23700,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321160
+13,sex 22/11/2013,17:30,Stuttgart,M'gladbach,4-2-3-1,Thomas Schneider,49560,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321163
+14,sáb 30/11/2013,15:30,Schalke,Stuttgart,4-2-3-1,Thomas Schneider,61973,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321172
+15,sáb 07/12/2013,12:30,Stuttgart,Hannover,4-4-2 duplo 6,Thomas Schneider,46320,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321183
+16,sáb 14/12/2013,15:30,Wolfsburg,Stuttgart,4-4-2 duplo 6,Thomas Schneider,25501,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321194
+17,qua 29/01/2014,17:00,Stuttgart,Bayern,4-4-2,Thomas Schneider,60449,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321201
+18,sáb 25/01/2014,12:30,Stuttgart,Mainz,4-4-2 duplo 6,Thomas Schneider,38000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321210
+19,sáb 01/02/2014,12:30,Leverkusen,Stuttgart,4-4-2 duplo 6,Thomas Schneider,28714,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321219
+20,dom 09/02/2014,12:30,Stuttgart,Augsburg,4-4-2 duplo 6,Thomas Schneider,40200,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321228
+21,sáb 15/02/2014,12:30,Hoffenheim,Stuttgart,4-4-2 duplo 6,Thomas Schneider,29847,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321239
+22,sáb 22/02/2014,11:30,Stuttgart,Hertha Berlim,4-2-3-1,Thomas Schneider,45700,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321246
+23,dom 02/03/2014,13:30,Frankfurt,Stuttgart,4-4-2 losango,Thomas Schneider,43200,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321260
+24,sáb 08/03/2014,11:30,Stuttgart,E. Braunschweig,4-4-2 losango,Thomas Schneider,59000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321264
+25,sáb 15/03/2014,11:30,Werder Bremen,Stuttgart,4-2-3-1,Huub Stevens,41500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321273
+26,sáb 22/03/2014,11:30,Stuttgart,Hamburgo,4-2-3-1,Huub Stevens,55000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321283
+27,qua 26/03/2014,16:00,Nuremberg,Stuttgart,4-2-3-1,Huub Stevens,38188,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321291
+28,sáb 29/03/2014,11:30,Stuttgart,Dortmund,4-2-3-1,Huub Stevens,59500,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321302
+29,sáb 05/04/2014,10:30,Stuttgart,Freiburg,4-2-3-1,Huub Stevens,58500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321308
+30,sáb 12/04/2014,10:30,M'gladbach,Stuttgart,4-2-3-1,Huub Stevens,53560,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321318
+31,dom 20/04/2014,12:30,Stuttgart,Schalke,4-2-3-1,Huub Stevens,60449,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321326
+32,sex 25/04/2014,15:30,Hannover,Stuttgart,4-2-3-1,Huub Stevens,49000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321337
+33,sáb 03/05/2014,10:30,Stuttgart,Wolfsburg,4-2-3-1,Huub Stevens,58000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321345
+34,sáb 10/05/2014,10:30,Bayern,Stuttgart,4-2-3-1,Huub Stevens,71000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321352

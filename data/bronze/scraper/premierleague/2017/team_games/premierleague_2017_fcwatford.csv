@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/08/2017,08:30,Watford,Liverpool,4-3-3 ofensivo,Marco Silva,20407,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872123
+2,sáb 19/08/2017,11:00,Bournemouth,Watford,4-3-3 ofensivo,Marco Silva,10501,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872125
+3,sáb 26/08/2017,11:00,Watford,Brighton,4-3-3 ofensivo,Marco Silva,20181,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872143
+4,sáb 09/09/2017,11:00,Southampton,Watford,4-1-4-1,Marco Silva,31435,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872151
+5,sáb 16/09/2017,11:00,Watford,Man City,4-3-3 ofensivo,Marco Silva,20305,0:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872163
+6,sáb 23/09/2017,11:00,Swansea,Watford,4-2-3-1,Marco Silva,20372,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872173
+7,sáb 30/09/2017,11:00,West Brom,Watford,4-2-3-1,Marco Silva,24606,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872183
+8,sáb 14/10/2017,13:30,Watford,Arsenal,5-4-1 plano,Marco Silva,20384,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872194
+9,sáb 21/10/2017,09:30,Chelsea,Watford,5-4-1 plano,Marco Silva,41467,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872195
+10,sáb 28/10/2017,12:00,Watford,Stoke,4-3-3 ofensivo,Marco Silva,20087,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872213
+11,dom 05/11/2017,14:30,Everton,Watford,4-1-4-1,Marco Silva,38609,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872216
+12,dom 19/11/2017,14:00,Watford,West Ham,3-4-2-1,Marco Silva,20018,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872233
+13,sáb 25/11/2017,13:00,Newcastle,Watford,5-4-1 plano,Marco Silva,52188,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872240
+14,ter 28/11/2017,18:00,Watford,Man Utd,3-5-2 plano,Marco Silva,20552,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872249
+15,sáb 02/12/2017,13:00,Watford,Tottenham,3-4-2-1,Marco Silva,20278,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872263
+16,sáb 09/12/2017,13:00,FC Burnley,Watford,4-1-4-1,Marco Silva,19479,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872265
+17,ter 12/12/2017,18:00,Crystal Palace,Watford,5-4-1 plano,Marco Silva,23566,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872276
+18,sáb 16/12/2017,13:00,Watford,Huddersfield,5-4-1 plano,Marco Silva,20026,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872293
+19,sáb 23/12/2017,13:00,Brighton,Watford,4-2-3-1,Marco Silva,30473,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872296
+20,ter 26/12/2017,13:00,Watford,Leicester,4-2-3-1,Marco Silva,20308,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872313
+21,sáb 30/12/2017,13:00,Watford,Swansea,4-2-3-1,Marco Silva,20000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872323
+22,ter 02/01/2018,18:00,Man City,Watford,4-3-3 ofensivo,Marco Silva,53555,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872330
+23,sáb 13/01/2018,13:00,Watford,Southampton,4-2-3-1,Marco Silva,20018,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872343
+24,sáb 20/01/2018,13:00,Leicester,Watford,4-2-3-1,Marco Silva,31891,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872349
+25,qua 31/01/2018,18:00,Stoke,Watford,4-3-3 ofensivo,Javi Gracia,27458,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872363
+26,seg 05/02/2018,18:00,Watford,Chelsea,3-4-3 plano,Javi Gracia,20157,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872373
+27,sáb 10/02/2018,13:00,West Ham,Watford,5-4-1 plano,Javi Gracia,56197,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872384
+28,sáb 24/02/2018,14:30,Watford,Everton,4-2-3-1,Javi Gracia,20430,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872393
+29,sáb 03/03/2018,12:00,Watford,West Brom,4-2-3-1,Javi Gracia,20022,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872404
+30,dom 11/03/2018,10:30,Arsenal,Watford,4-4-2 duplo 6,Javi Gracia,59131,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872406
+31,sáb 17/03/2018,14:30,Liverpool,Watford,5-4-1 plano,Javi Gracia,53287,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872419
+32,sáb 31/03/2018,11:00,Watford,Bournemouth,4-2-3-1,Javi Gracia,20393,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872433
+33,sáb 07/04/2018,11:00,Watford,FC Burnley,4-2-3-1,Javi Gracia,20044,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872443
+34,sáb 14/04/2018,11:00,Huddersfield,Watford,4-2-3-1,Javi Gracia,23960,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872447
+35,sáb 21/04/2018,11:00,Watford,Crystal Palace,4-4-2,Javi Gracia,20400,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872463
+36,seg 30/04/2018,16:00,Tottenham,Watford,4-2-3-1,Javi Gracia,52675,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872473
+37,sáb 05/05/2018,11:00,Watford,Newcastle,4-4-2,Javi Gracia,20375,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872483
+38,dom 13/05/2018,11:00,Man Utd,Watford,4-3-3 ofensivo,Javi Gracia,75049,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872489

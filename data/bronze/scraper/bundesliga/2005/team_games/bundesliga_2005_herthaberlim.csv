@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 06/08/2005,10:30,Hannover,Hertha Berlim,4-4-2 losango,Falko Götz,40473,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31212
+2,sáb 13/08/2005,10:30,Hertha Berlim,Frankfurt,4-4-2 losango,Falko Götz,49416,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31234
+3,sáb 27/08/2005,10:30,Bayern,Hertha Berlim,4-4-2 losango,Falko Götz,66000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31255
+4,dom 11/09/2005,12:30,Hertha Berlim,Wolfsburg,4-4-2 losango,Falko Götz,40754,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31261
+5,dom 18/09/2005,12:30,Schalke,Hertha Berlim,4-4-2 losango,Falko Götz,60740,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31278
+6,qua 21/09/2005,15:00,Hertha Berlim,MSV Duisburg,4-4-2 losango,Falko Götz,30627,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31297
+7,dom 25/09/2005,12:30,Colônia,Hertha Berlim,4-4-2 losango,Falko Götz,48000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31312
+8,sáb 01/10/2005,10:30,Hertha Berlim,Werder Bremen,4-2-3-1,Falko Götz,64621,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31337
+9,sáb 15/10/2005,10:30,Arm. Bielefeld,Hertha Berlim,4-4-2 duplo 6,Falko Götz,20117,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31356
+10,sáb 22/10/2005,11:30,Hertha Berlim,Mainz,4-4-2 duplo 6,Falko Götz,36392,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31369
+11,sáb 29/10/2005,11:30,Stuttgart,Hertha Berlim,4-1-4-1,Falko Götz,40000,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31390
+12,sáb 05/11/2005,12:30,Hertha Berlim,K'lautern,4-4-2 losango,Falko Götz,36656,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31409
+13,sáb 19/11/2005,12:30,Dortmund,Hertha Berlim,4-4-2 losango,Falko Götz,70500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31422
+14,dom 27/11/2005,14:30,Hertha Berlim,M'gladbach,3-1-4-2,Falko Götz,38438,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31445
+15,dom 04/12/2005,14:30,Leverkusen,Hertha Berlim,4-4-1-1,Falko Götz,22500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31456
+16,sáb 10/12/2005,12:30,Hamburgo,Hertha Berlim,4-4-2 losango,Falko Götz,54129,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31477
+17,dom 18/12/2005,14:30,Hertha Berlim,Nuremberg,4-1-4-1,Falko Götz,30149,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31499
+18,sáb 28/01/2006,12:30,Hertha Berlim,Hannover,4-1-4-1,Falko Götz,33740,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31518
+19,sáb 04/02/2006,12:30,Frankfurt,Hertha Berlim,4-1-4-1,Falko Götz,30000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31531
+20,ter 07/02/2006,17:00,Hertha Berlim,Bayern,3-5-2,Falko Götz,72940,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31552
+21,sáb 11/02/2006,12:30,Wolfsburg,Hertha Berlim,4-1-3-2,Falko Götz,16121,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31571
+22,sáb 18/02/2006,12:30,Hertha Berlim,Schalke,4-4-2 duplo 6,Falko Götz,50948,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31584
+23,dom 26/02/2006,13:30,MSV Duisburg,Hertha Berlim,3-3-3-1,Falko Götz,20131,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31598
+24,sáb 04/03/2006,11:30,Hertha Berlim,Colônia,4-4-2 losango,Falko Götz,38880,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31618
+25,sáb 11/03/2006,11:30,Werder Bremen,Hertha Berlim,3-5-2,Falko Götz,37728,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31630
+26,dom 19/03/2006,13:30,Hertha Berlim,Arm. Bielefeld,3-5-2,Falko Götz,32656,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31653
+27,sáb 25/03/2006,11:30,Mainz,Hertha Berlim,3-5-2,Falko Götz,20300,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31666
+28,sáb 01/04/2006,10:30,Hertha Berlim,Stuttgart,4-4-2 losango,Falko Götz,51436,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31687
+29,sáb 08/04/2006,10:30,K'lautern,Hertha Berlim,4-4-2 losango,Falko Götz,35255,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31702
+30,sáb 15/04/2006,10:30,Hertha Berlim,Dortmund,4-2-3-1,Falko Götz,65662,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31719
+31,sáb 22/04/2006,10:30,M'gladbach,Hertha Berlim,4-1-4-1,Falko Götz,50216,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31738
+32,ter 02/05/2006,15:00,Hertha Berlim,Leverkusen,4-3-3 ofensivo,Falko Götz,51324,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31762
+33,sáb 06/05/2006,10:30,Hertha Berlim,Hamburgo,3-4-3,Falko Götz,74218,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31805
+34,sáb 13/05/2006,10:30,Nuremberg,Hertha Berlim,4-2-3-1,Falko Götz,45817,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/31810

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 16/08/2024,16:30,Las Palmas,Sevilla,4-2-3-1,Luis Carrión,24843,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361548
+2,dom 25/08/2024,14:00,Leganés,Las Palmas,4-2-3-1,Luis Carrión,10052,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361560
+3,qui 29/08/2024,16:30,Las Palmas,Real Madrid,4-1-4-1,Luis Carrión,31192,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361567
+4,dom 01/09/2024,12:00,Alavés,Las Palmas,4-2-3-1,Luis Carrión,16386,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364909
+5,dom 15/09/2024,13:30,Las Palmas,Athletic Club,4-5-1,Luis Carrión,25908,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4405323
+6,sáb 21/09/2024,11:15,Osasuna,Las Palmas,4-3-3 ofensivo,Luis Carrión,19043,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4405337
+7,qui 26/09/2024,14:00,Las Palmas,Betis,4-1-4-1,Luis Carrión,22722,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4405346
+8,seg 30/09/2024,16:00,Villarreal,Las Palmas,4-4-2 duplo 6,Luis Carrión,18159,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4405355
+9,sáb 05/10/2024,13:30,Las Palmas,Celta de Vigo,4-4-2 duplo 6,Luis Carrión,21482,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4405367
+10,seg 21/10/2024,16:00,Valencia,Las Palmas,4-2-3-1,Diego Martínez,42453,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4405377
+11,sáb 26/10/2024,13:30,Las Palmas,Girona,4-2-3-1,Diego Martínez,21506,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407520
+12,dom 03/11/2024,10:00,Atlético,Las Palmas,4-3-3 ofensivo,Diego Martínez,56610,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407695
+13,sex 08/11/2024,17:00,Rayo Vallecano,Las Palmas,4-3-3 ofensivo,Diego Martínez,12978,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407672
+14,sáb 23/11/2024,14:30,Las Palmas,Mallorca,4-2-3-1,Diego Martínez,22940,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407647
+15,sáb 30/11/2024,10:00,Barcelona,Las Palmas,4-2-3-1,Diego Martínez,43921,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407654
+16,sáb 07/12/2024,10:00,Las Palmas,Valladolid,4-2-3-1,Diego Martínez,21610,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407688
+17,dom 15/12/2024,14:30,Real Sociedad,Las Palmas,4-3-3 ofensivo,Diego Martínez,30775,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407713
+18,dom 22/12/2024,14:30,Las Palmas,Espanyol,4-3-3 ofensivo,Diego Martínez,23743,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407683
+19,dom 12/01/2025,10:00,Las Palmas,Getafe,4-2-3-1,Diego Martínez,23698,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407723
+20,dom 19/01/2025,12:15,Real Madrid,Las Palmas,4-5-1,Diego Martínez,74808,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407732
+21,sex 24/01/2025,17:00,Las Palmas,Osasuna,4-2-3-1,Diego Martínez,19762,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407747
+22,seg 03/02/2025,17:00,Girona,Las Palmas,4-2-3-1,Diego Martínez,10088,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407776
+23,sáb 08/02/2025,14:30,Las Palmas,Villarreal,4-2-3-1,Diego Martínez,22909,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407767
+24,dom 16/02/2025,14:30,Mallorca,Las Palmas,4-2-3-1,Diego Martínez,18475,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407762
+25,sáb 22/02/2025,17:00,Las Palmas,Barcelona,4-2-3-1,Diego Martínez,30746,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407539
+26,sex 28/02/2025,17:00,Valladolid,Las Palmas,4-2-3-1,Diego Martínez,15643,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407741
+27,dom 09/03/2025,14:30,Betis,Las Palmas,5-4-1 plano,Diego Martínez,49292,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407786
+28,sex 14/03/2025,17:00,Las Palmas,Alavés,4-2-3-1,Diego Martínez,17566,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407532
+29,seg 31/03/2025,16:00,Celta de Vigo,Las Palmas,5-3-2,Diego Martínez,18549,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407557
+30,dom 06/04/2025,09:00,Las Palmas,Real Sociedad,4-4-2 duplo 6,Diego Martínez,22616,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407546
+31,sáb 12/04/2025,11:15,Getafe,Las Palmas,4-4-2 duplo 6,Diego Martínez,8370,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407627
+32,sáb 19/04/2025,16:00,Las Palmas,Atlético,4-4-2,Diego Martínez,27154,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407638
+33,qua 23/04/2025,14:00,Athletic Club,Las Palmas,4-2-3-1,Diego Martínez,47724,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407614
+34,sáb 03/05/2025,13:30,Las Palmas,Valencia,4-2-3-1,Diego Martínez,24942,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407605
+35,sex 09/05/2025,16:00,Las Palmas,Rayo Vallecano,4-4-2 duplo 6,Diego Martínez,20577,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407600
+36,ter 13/05/2025,16:30,Sevilla,Las Palmas,4-4-2,Diego Martínez,37078,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407582
+37,dom 18/05/2025,14:00,Las Palmas,Leganés,4-4-2 duplo 6,Diego Martínez,11279,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407592
+38,sáb 24/05/2025,13:30,Espanyol,Las Palmas,4-2-3-1,Diego Martínez,32511,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407569

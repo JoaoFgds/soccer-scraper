@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 05/08/2011,15:45,Hull City,Blackpool,4-4-2,Nigel Pearson,18907,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131748
+2,sáb 13/08/2011,11:00,Ipswich,Hull City,4-4-2,Nigel Pearson,18116,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131761
+3,ter 16/08/2011,15:45,Leeds,Hull City,4-4-2,Nigel Pearson,22363,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131774
+4,sáb 20/08/2011,11:00,Hull City,Crystal Palace,4-5-1,Nigel Pearson,17797,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131784
+5,sáb 27/08/2011,11:00,Hull City,Reading,4-4-2,Nigel Pearson,17295,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131795
+6,sáb 10/09/2011,11:00,Peterborough,Hull City,4-4-2,Nigel Pearson,8685,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131811
+7,sáb 17/09/2011,11:00,Hull City,FC Portsmouth,4-4-2,Nigel Pearson,18311,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131818
+8,sáb 24/09/2011,11:00,Bristol City,Hull City,4-4-2,Nigel Pearson,12254,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131829
+9,ter 27/09/2011,15:45,Doncaster Rov.,Hull City,4-4-2,Nigel Pearson,9786,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131846
+10,sáb 01/10/2011,11:00,Hull City,Cardiff,4-4-2,Nigel Pearson,18305,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131854
+11,sáb 15/10/2011,13:30,Brighton,Hull City,4-4-2,Nigel Pearson,19722,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131864
+12,qua 07/12/2011,17:45,Hull City,Birmingham,4-4-2,Nick Barmby,17438,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131878
+13,sáb 22/10/2011,12:00,Hull City,Watford,4-4-2,Nigel Pearson,18324,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131892
+14,sáb 29/10/2011,12:00,Nott'm Forest,Hull City,4-4-2,Nigel Pearson,22841,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131907
+15,ter 01/11/2011,17:45,Barnsley FC,Hull City,4-4-2,Nigel Pearson,9869,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131911
+16,sáb 05/11/2011,13:00,Hull City,West Ham,4-3-3 ofensivo,Nigel Pearson,21756,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131928
+17,sáb 19/11/2011,13:00,Derby,Hull City,4-4-2,Nick Barmby,30391,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131939
+18,sáb 26/11/2011,13:00,Hull City,FC Burnley,4-1-4-1,Nick Barmby,20238,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131953
+19,ter 29/11/2011,17:45,Southampton,Hull City,4-2-3-1,Nick Barmby,22983,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131969
+20,sáb 03/12/2011,13:00,Hull City,Leicester,4-4-2,Nick Barmby,20148,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131977
+21,sáb 10/12/2011,13:00,Coventry City,Hull City,4-4-2,Nick Barmby,12652,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1131986
+22,sáb 17/12/2011,13:00,Hull City,Millwall,4-4-2,Nick Barmby,17841,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132001
+23,seg 26/12/2011,13:00,Middlesbrough,Hull City,4-4-2,Nick Barmby,27794,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132013
+24,sáb 31/12/2011,13:00,FC Burnley,Hull City,4-4-2,Nick Barmby,15071,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132025
+25,seg 02/01/2012,13:00,Hull City,Derby,4-4-2,Nick Barmby,20704,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132035
+26,sáb 14/01/2012,13:00,Hull City,Peterborough,4-4-2,Nick Barmby,18074,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132051
+27,sáb 21/01/2012,13:00,Reading,Hull City,4-4-2,Nick Barmby,17556,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132059
+28,ter 31/01/2012,17:45,Hull City,Doncaster Rov.,4-2-3-1,Nick Barmby,19187,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132074
+29,ter 27/03/2012,15:45,FC Portsmouth,Hull City,4-3-3 ofensivo,Nick Barmby,14751,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132082
+30,sáb 11/02/2012,13:00,Hull City,Bristol City,4-2-3-1,Nick Barmby,17435,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132093
+31,ter 14/02/2012,17:45,Birmingham,Hull City,4-4-2,Nick Barmby,18900,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132106
+32,qua 22/02/2012,17:45,Hull City,Brighton,4-5-1,Nick Barmby,17769,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132116
+33,ter 13/03/2012,16:45,Cardiff,Hull City,4-2-3-1,Nick Barmby,20366,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132130
+34,sex 02/03/2012,16:45,Blackpool,Hull City,4-2-3-1,Nick Barmby,12491,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132144
+35,ter 06/03/2012,16:45,Hull City,Leeds,4-2-3-1,Nick Barmby,22676,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132158
+36,sáb 10/03/2012,12:00,Hull City,Ipswich,4-2-3-1,Nick Barmby,17625,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132169
+37,sáb 17/03/2012,12:00,Crystal Palace,Hull City,4-2-3-1,Nick Barmby,13324,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132180
+38,ter 20/03/2012,16:45,Hull City,Southampton,4-2-3-1,Nick Barmby,18066,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132197
+39,sáb 24/03/2012,12:00,Leicester,Hull City,4-2-3-1,Nick Barmby,23759,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132205
+40,sáb 31/03/2012,11:00,Hull City,Coventry City,4-3-3 ofensivo,Nick Barmby,17279,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132214
+41,sáb 07/04/2012,11:00,Millwall,Hull City,4-5-1,Nick Barmby,12372,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132229
+42,seg 09/04/2012,11:00,Hull City,Middlesbrough,4-2-3-1,Nick Barmby,19613,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132241
+43,sáb 14/04/2012,11:00,Watford,Hull City,4-3-3 defensivo,Nick Barmby,11596,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132252
+44,ter 17/04/2012,15:45,Hull City,Barnsley FC,4-5-1,Nick Barmby,16604,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132259
+45,sáb 21/04/2012,11:00,Hull City,Nott'm Forest,4-5-1,Nick Barmby,20786,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132280
+46,sáb 28/04/2012,08:30,West Ham,Hull City,4-3-3 defensivo,Nick Barmby,35000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1132289

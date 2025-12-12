@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 30/08/2003,16:00,Málaga CF,Villarreal,?,Juande Ramos,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/497
+2,qua 03/09/2003,14:30,Valladolid,Málaga CF,?,Juande Ramos,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/706
+3,dom 14/09/2003,14:00,Valencia,Málaga CF,?,Juande Ramos,45000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/906
+4,dom 21/09/2003,16:30,Málaga CF,Real Madrid,?,Juande Ramos,25000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1105
+5,dom 28/09/2003,12:00,Espanyol,Málaga CF,?,Juande Ramos,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1306
+6,dom 05/10/2003,12:00,Málaga CF,Celta de Vigo,?,Juande Ramos,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1500
+7,dom 19/10/2003,13:00,Rac. Santander,Málaga CF,?,Juande Ramos,,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1704
+8,sáb 25/10/2003,13:30,Málaga CF,Zaragoza,?,Juande Ramos,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1895
+9,qua 29/10/2003,18:00,Athletic Club,Málaga CF,?,Juande Ramos,20000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2101
+10,dom 02/11/2003,14:00,Málaga CF,Sevilla,?,Juande Ramos,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2297
+11,dom 09/11/2003,14:00,Albacete,Málaga CF,?,Juande Ramos,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2497
+12,dom 23/11/2003,14:00,Málaga CF,Osasuna,?,Juande Ramos,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2697
+13,sáb 29/11/2003,18:30,Atlético,Málaga CF,?,Juande Ramos,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2886
+14,qua 03/12/2003,17:00,Málaga CF,Barcelona,4-2-3-1,Juande Ramos,22000,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3084
+15,sáb 06/12/2003,16:30,Deportivo,Málaga CF,?,Juande Ramos,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3246
+16,dom 14/12/2003,14:00,Málaga CF,Mallorca,?,Juande Ramos,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3468
+17,dom 21/12/2003,14:00,Real Murcia,Málaga CF,?,Juande Ramos,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3671
+18,dom 04/01/2004,14:00,Málaga CF,Real Sociedad,?,Juande Ramos,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3825
+19,dom 11/01/2004,14:00,Betis,Málaga CF,?,Juande Ramos,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3914
+20,dom 18/01/2004,14:00,Villarreal,Málaga CF,?,Juande Ramos,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4181
+21,dom 25/01/2004,14:00,Málaga CF,Valladolid,?,Juande Ramos,,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4368
+22,sáb 31/01/2004,16:30,Málaga CF,Valencia,?,Juande Ramos,22000,1:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4530
+23,dom 08/02/2004,18:30,Real Madrid,Málaga CF,?,Juande Ramos,70000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4748
+24,dom 15/02/2004,13:00,Málaga CF,Espanyol,?,Juande Ramos,27825,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4935
+25,sáb 21/02/2004,17:30,Celta de Vigo,Málaga CF,?,Juande Ramos,18000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5150
+26,dom 29/02/2004,13:00,Málaga CF,Rac. Santander,4-4-2,Juande Ramos,23000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5335
+27,dom 07/03/2004,13:00,Zaragoza,Málaga CF,4-4-2,Juande Ramos,27300,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5524
+28,dom 14/03/2004,13:00,Málaga CF,Athletic Club,?,Juande Ramos,22000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5739
+29,dom 21/03/2004,13:00,Sevilla,Málaga CF,4-4-2,Juande Ramos,35000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5959
+30,dom 28/03/2004,12:00,Málaga CF,Albacete,?,Juande Ramos,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6163
+31,dom 04/04/2004,12:30,Osasuna,Málaga CF,?,Juande Ramos,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6372
+32,sáb 10/04/2004,15:00,Málaga CF,Atlético,?,Juande Ramos,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6576
+33,dom 18/04/2004,16:30,Barcelona,Málaga CF,4-4-1-1,Juande Ramos,48813,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6779
+34,sáb 24/04/2004,17:00,Málaga CF,Deportivo,?,Juande Ramos,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6983
+35,dom 02/05/2004,12:30,Mallorca,Málaga CF,?,Juande Ramos,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7195
+36,sáb 08/05/2004,19:00,Málaga CF,Real Murcia,?,Juande Ramos,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7242
+37,sáb 15/05/2004,19:00,Real Sociedad,Málaga CF,?,Juande Ramos,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7298
+38,dom 23/05/2004,14:00,Málaga CF,Betis,?,Juande Ramos,,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7328

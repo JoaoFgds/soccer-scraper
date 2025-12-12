@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 18/08/2024,15:45,Rennes,Lyon,4-3-1-2,Julien Stéphan,26026,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4363751
+2,dom 25/08/2024,12:00,Strasbourg,Rennes,4-3-1-2,Julien Stéphan,19026,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4363753
+3,dom 01/09/2024,12:00,Reims,Rennes,4-4-2,Julien Stéphan,12856,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4363768
+4,dom 15/09/2024,10:00,Rennes,Montpellier,5-4-1 plano,Julien Stéphan,27451,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4363771
+5,sáb 21/09/2024,14:00,Rennes,Lens,5-4-1 plano,Julien Stéphan,28387,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4363786
+6,sex 27/09/2024,16:00,PSG,Rennes,5-4-1 plano,Julien Stéphan,47582,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4363789
+7,sáb 05/10/2024,16:00,Rennes,Monaco,3-4-3 plano,Julien Stéphan,26533,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4363803
+8,sáb 19/10/2024,12:00,Brest,Rennes,3-4-3 plano,Julien Stéphan,15099,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4363813
+9,sex 25/10/2024,15:45,Rennes,Le Havre,4-3-3 ofensivo,Julien Stéphan,27130,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4363821
+10,dom 03/11/2024,13:00,Auxerre,Rennes,4-3-3 defensivo,Julien Stéphan,16366,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4363824
+11,dom 10/11/2024,13:00,Rennes,Toulouse,4-2-3-1,Sébastien Tambouret,27525,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4363839
+12,dom 24/11/2024,11:00,Lille,Rennes,5-4-1 plano,Jorge Sampaoli,46019,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4363846
+13,sáb 30/11/2024,13:00,Rennes,Saint-Étienne,5-4-1 plano,Jorge Sampaoli,27586,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4363852
+14,dom 08/12/2024,13:00,Nantes,Rennes,5-4-1 plano,Jorge Sampaoli,28418,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4363867
+15,dom 15/12/2024,13:00,Rennes,Angers,5-4-1 plano,Jorge Sampaoli,27781,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4363869
+16,sex 03/01/2025,17:00,Nice,Rennes,5-4-1 plano,Jorge Sampaoli,21332,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4363886
+17,sáb 11/01/2025,17:05,Rennes,Marselha,5-4-1 plano,Jorge Sampaoli,26831,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4363895
+18,sáb 18/01/2025,15:00,Rennes,Brest,3-4-2-1,Jorge Sampaoli,28238,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4363904
+19,sáb 25/01/2025,13:00,Monaco,Rennes,3-4-2-1,Jorge Sampaoli,5725,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4363907
+20,dom 02/02/2025,13:15,Rennes,Strasbourg,3-4-3 plano,Habib Beye,26621,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4363921
+21,sáb 08/02/2025,17:05,Saint-Étienne,Rennes,3-4-3 plano,Habib Beye,30385,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4363927
+22,dom 16/02/2025,16:45,Rennes,Lille,3-4-3 plano,Habib Beye,27627,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4363937
+23,sex 21/02/2025,16:45,Rennes,Reims,3-4-2-1,Habib Beye,26818,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4363941
+24,dom 02/03/2025,13:15,Montpellier,Rennes,3-5-2 plano,Habib Beye,11990,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4363953
+25,sáb 08/03/2025,13:00,Rennes,PSG,3-4-3 plano,Habib Beye,28550,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4363966
+26,sáb 15/03/2025,17:05,Lens,Rennes,3-5-2 plano,Habib Beye,38182,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4363973
+27,dom 30/03/2025,12:15,Angers,Rennes,3-4-3 plano,Habib Beye,11747,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4363977
+28,dom 06/04/2025,12:15,Rennes,Auxerre,3-4-2-1,Habib Beye,28268,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4363994
+29,dom 13/04/2025,12:15,Le Havre,Rennes,3-5-2 plano,Habib Beye,21582,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4363996
+30,sex 18/04/2025,15:45,Rennes,Nantes,3-5-2 plano,Habib Beye,27880,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364012
+31,sáb 26/04/2025,16:05,Lyon,Rennes,3-5-2 plano,Habib Beye,51034,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364021
+32,sáb 03/05/2025,14:00,Toulouse,Rennes,3-4-3 plano,Habib Beye,23926,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364028
+33,sáb 10/05/2025,16:00,Rennes,Nice,4-3-3 ofensivo,Habib Beye,26118,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364035
+34,sáb 17/05/2025,16:00,Marselha,Rennes,3-5-2 plano,Habib Beye,57274,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364040

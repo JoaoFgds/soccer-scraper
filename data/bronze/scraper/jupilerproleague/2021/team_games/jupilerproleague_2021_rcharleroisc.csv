@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 24/07/2021,15:45,KV Oostende,R Charleroi SC,5-3-2,Edward Still,2800,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598100
+2,sáb 31/07/2021,11:15,R Charleroi SC,St.Truiden,5-4-1,Edward Still,4648,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598144
+3,dom 08/08/2021,11:00,OH Leuven,R Charleroi SC,5-4-1,Edward Still,3300,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598113
+4,sex 13/08/2021,15:45,R Charleroi SC,Antuérpia,3-5-2 ofensivo,Edward Still,6921,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598108
+5,dom 22/08/2021,11:00,Zulte Waregem,R Charleroi SC,3-5-2,Edward Still,6043,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598152
+6,sáb 28/08/2021,11:15,R Charleroi SC,Beerschot VA,3-5-2,Edward Still,5022,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598134
+7,dom 12/09/2021,11:00,KAA Gent,R Charleroi SC,3-5-2,Edward Still,16379,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598122
+8,sáb 18/09/2021,15:45,R Charleroi SC,Club Brugge,3-5-2,Edward Still,8554,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598198
+9,dom 26/09/2021,16:00,R Charleroi SC,KV Mechelen,3-4-3 plano,Edward Still,6307,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598189
+10,sáb 02/10/2021,11:15,KV Kortrijk,R Charleroi SC,3-5-2,Edward Still,4494,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598203
+11,dom 17/10/2021,13:30,R Charleroi SC,KRC Genk,3-4-1-2,Edward Still,9226,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598171
+12,sex 22/10/2021,15:45,RFC Seraing,R Charleroi SC,3-5-2,Edward Still,5120,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598214
+13,sáb 30/10/2021,11:15,R Charleroi SC,KAS Eupen,3-4-3 plano,Edward Still,5328,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598225
+14,sáb 06/11/2021,16:45,Union SG,R Charleroi SC,3-4-3 plano,Edward Still,8100,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598161
+15,sáb 20/11/2021,12:15,Cercle Brügge,R Charleroi SC,3-4-3 plano,Edward Still,2527,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598230
+16,sáb 27/11/2021,16:45,R Charleroi SC,Anderlecht,3-4-2-1,Edward Still,9200,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598243
+17,dom 05/12/2021,14:30,Standard Liège,R Charleroi SC,3-4-2-1,Edward Still,22512,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598399
+18,sex 10/12/2021,16:45,R Charleroi SC,KV Oostende,3-4-2-1,Edward Still,4315,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598387
+19,qui 16/12/2021,17:00,KRC Genk,R Charleroi SC,3-4-3 plano,Edward Still,10043,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598265
+20,dom 19/12/2021,12:00,KAS Eupen,R Charleroi SC,3-4-3,Edward Still,1437,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598383
+21,seg 27/12/2021,14:45,R Charleroi SC,OH Leuven,3-4-2-1,Edward Still,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598252
+22,dom 16/01/2022,09:30,Antuérpia,R Charleroi SC,3-4-3,Edward Still,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598294
+23,sáb 22/01/2022,16:45,R Charleroi SC,KAA Gent,3-4-3 plano,Edward Still,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598380
+24,ter 25/01/2022,17:00,R Charleroi SC,KV Kortrijk,3-5-2,Edward Still,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598388
+25,sex 28/01/2022,16:45,St.Truiden,R Charleroi SC,3-4-3 plano,Edward Still,2842,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598366
+26,sex 04/02/2022,16:45,R Charleroi SC,RFC Seraing,3-5-2,Edward Still,4063,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598390
+27,dom 13/02/2022,14:30,Club Brugge,R Charleroi SC,3-4-1-2,Edward Still,15358,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598254
+28,sáb 19/02/2022,16:45,R Charleroi SC,Union SG,3-4-2-1,Edward Still,7118,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598287
+29,sex 25/02/2022,16:45,Beerschot VA,R Charleroi SC,3-4-1-2,Edward Still,3500,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598382
+30,dom 06/03/2022,14:30,R Charleroi SC,Standard Liège,3-4-2-1,Edward Still,11503,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598279
+31,sáb 12/03/2022,12:15,KV Mechelen,R Charleroi SC,3-4-2-1,Edward Still,10125,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598305
+32,sáb 19/03/2022,14:30,R Charleroi SC,Cercle Brügge,3-4-1-2,Edward Still,5636,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598385
+33,dom 03/04/2022,13:30,Anderlecht,R Charleroi SC,3-4-1-2,Edward Still,20000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598312
+34,dom 10/04/2022,13:30,R Charleroi SC,Zulte Waregem,3-4-2-1,Edward Still,7866,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598368

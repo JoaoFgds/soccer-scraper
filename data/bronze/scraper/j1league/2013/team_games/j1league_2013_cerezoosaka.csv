@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 02/03/2013,02:00,Cerezo Osaka,Albirex Niigata,4-2-3-1,Levir Culpi,15051,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2286660
+2,sáb 09/03/2013,02:00,Ventforet Kofu,Cerezo Osaka,4-2-3-1,Levir Culpi,12116,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2287819
+3,sáb 16/03/2013,03:00,Cerezo Osaka,FC Tokyo,4-2-3-1,Levir Culpi,13702,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296337
+4,sáb 30/03/2013,01:00,Cerezo Osaka,Vegalta Sendai,4-2-3-1,Levir Culpi,13721,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296335
+5,sáb 06/04/2013,03:00,Kashima Antlers,Cerezo Osaka,4-2-3-1,Levir Culpi,10837,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296329
+6,sáb 13/04/2013,07:00,Cerezo Osaka,Omiya Ardija,4-2-3-1,Levir Culpi,13384,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296443
+7,sáb 20/04/2013,01:00,Shimizu S-Pulse,Cerezo Osaka,4-2-3-1,Levir Culpi,10252,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296372
+8,sáb 27/04/2013,02:00,Cerezo Osaka,Oita Trinita,4-2-3-1,Levir Culpi,14037,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296360
+9,sex 03/05/2013,04:00,Shonan Bellmare,Cerezo Osaka,4-2-3-1,Levir Culpi,10947,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296405
+10,seg 06/05/2013,04:00,Cerezo Osaka,Urawa Reds,4-2-3-1,Levir Culpi,32378,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296394
+11,sáb 11/05/2013,03:00,Kawasaki Front.,Cerezo Osaka,4-2-3-1,Levir Culpi,12345,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296398
+12,sáb 18/05/2013,03:00,Kashiwa Reysol,Cerezo Osaka,4-2-3-1,Levir Culpi,11056,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296452
+13,sáb 25/05/2013,07:00,Cerezo Osaka,Nagoya Grampus,4-2-3-1,Levir Culpi,16362,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296433
+14,sáb 06/07/2013,07:00,Júbilo Iwata,Cerezo Osaka,4-2-3-1,Levir Culpi,12206,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296412
+15,qua 10/07/2013,07:00,Cerezo Osaka,Yokohama F. M.,4-2-3-1,Levir Culpi,13272,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296418
+16,sáb 13/07/2013,07:00,Sanf. Hiroshima,Cerezo Osaka,4-2-3-1,Levir Culpi,19244,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296442
+17,qua 17/07/2013,07:00,Cerezo Osaka,Sagan Tosu,4-2-3-1,Levir Culpi,9119,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296455
+18,qua 31/07/2013,07:00,Albirex Niigata,Cerezo Osaka,4-2-3-1,Levir Culpi,18919,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296525
+19,sáb 03/08/2013,07:00,Cerezo Osaka,Ventforet Kofu,4-2-3-1,Levir Culpi,13633,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296514
+20,sáb 10/08/2013,07:00,Omiya Ardija,Cerezo Osaka,4-4-2 duplo 6,Levir Culpi,12093,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296574
+21,sáb 17/08/2013,07:00,Cerezo Osaka,Shimizu S-Pulse,4-4-2 duplo 6,Levir Culpi,16196,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296575
+22,sáb 24/08/2013,07:00,Nagoya Grampus,Cerezo Osaka,4-4-2 duplo 6,Levir Culpi,18560,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296558
+23,qua 28/08/2013,07:00,Vegalta Sendai,Cerezo Osaka,4-4-2 duplo 6,Levir Culpi,15101,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296559
+24,sáb 31/08/2013,07:00,Cerezo Osaka,Kawasaki Front.,4-4-2 duplo 6,Levir Culpi,30579,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296599
+25,sáb 14/09/2013,07:00,Yokohama F. M.,Cerezo Osaka,4-4-2 duplo 6,Levir Culpi,35528,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296531
+26,dom 22/09/2013,05:00,Cerezo Osaka,Kashiwa Reysol,4-4-2 duplo 6,Levir Culpi,33174,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296592
+27,sáb 28/09/2013,06:00,Cerezo Osaka,Júbilo Iwata,4-4-2 duplo 6,Levir Culpi,15704,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296460
+28,sáb 05/10/2013,04:00,Oita Trinita,Cerezo Osaka,4-4-2 duplo 6,Levir Culpi,11045,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296491
+29,sáb 19/10/2013,07:00,Cerezo Osaka,Shonan Bellmare,4-4-2 duplo 6,Levir Culpi,15766,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296503
+30,dom 27/10/2013,08:00,Sagan Tosu,Cerezo Osaka,4-4-2 duplo 6,Levir Culpi,17382,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296475
+31,dom 10/11/2013,02:00,FC Tokyo,Cerezo Osaka,4-4-2 duplo 6,Levir Culpi,40371,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296462
+32,sáb 23/11/2013,03:00,Cerezo Osaka,Sanf. Hiroshima,4-4-2 duplo 6,Levir Culpi,17489,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296483
+33,sáb 30/11/2013,03:00,Cerezo Osaka,Kashima Antlers,4-4-2 duplo 6,Levir Culpi,36361,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296585
+34,sáb 07/12/2013,04:30,Urawa Reds,Cerezo Osaka,4-4-2 duplo 6,Levir Culpi,54905,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2296596

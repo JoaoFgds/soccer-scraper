@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 11/08/2019,12:00,Boavista,CD Aves,4-4-2 duplo 6,Augusto Inácio,6010,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211334
+2,dom 18/08/2019,12:00,CD Aves,Marítimo,4-4-1-1,Augusto Inácio,1511,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211339
+3,sex 23/08/2019,17:15,Rio Ave,CD Aves,4-4-1-1,Augusto Inácio,2485,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211380
+4,sáb 31/08/2019,12:30,CD Aves,Famalicão,4-2-3-1,Augusto Inácio,3573,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211386
+5,sáb 14/09/2019,17:30,Vit. Guimarães,CD Aves,3-4-1-2,Augusto Inácio,14529,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211396
+6,sex 20/09/2019,16:30,Paços Ferreira,CD Aves,3-4-1-2,Augusto Inácio,2239,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211422
+7,seg 30/09/2019,16:15,CD Aves,Sporting,4-4-2 duplo 6,Augusto Inácio,2850,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211432
+8,sáb 26/10/2019,11:30,B SAD,CD Aves,4-4-2 duplo 6,Leandro Pires,2109,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211449
+9,sáb 05/10/2019,11:30,CD Aves,CD Tondela,3-1-4-2,Augusto Inácio,1336,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211457
+10,dom 03/11/2019,17:00,FC Porto,CD Aves,4-2-3-1,Leandro Pires,29205,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211467
+11,sex 08/11/2019,17:30,CD Aves,Gil Vicente,4-3-3 ofensivo,Leandro Pires,1281,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211478
+12,sáb 30/11/2019,12:30,Moreirense,CD Aves,4-3-3 ofensivo,Nuno Manta Santos,1869,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211487
+13,sáb 07/12/2019,17:30,CD Aves,Braga,4-2-3-1,Nuno Manta Santos,1632,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211492
+14,sáb 14/12/2019,17:30,Vitória FC,CD Aves,4-2-3-1,Nuno Manta Santos,3535,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211505
+15,sáb 04/01/2020,12:30,CD Aves,Santa Clara,4-1-4-1,Nuno Manta Santos,1257,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211578
+16,sex 10/01/2020,16:00,Benfica,CD Aves,4-1-4-1,Nuno Manta Santos,50760,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211783
+17,sáb 18/01/2020,12:30,CD Aves,Portimonense,4-3-3 ofensivo,Nuno Manta Santos,1778,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211786
+18,dom 26/01/2020,17:00,CD Aves,Boavista,4-4-2 duplo 6,Nuno Manta Santos,1526,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211800
+19,dom 02/02/2020,12:00,Marítimo,CD Aves,3-1-4-2,Nuno Manta Santos,5775,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211813
+20,dom 09/02/2020,17:00,CD Aves,Rio Ave,4-1-4-1,Nuno Manta Santos,1289,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211826
+21,dom 16/02/2020,17:00,Famalicão,CD Aves,4-2-3-1,Nuno Manta Santos,2926,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211834
+22,sex 21/02/2020,17:30,CD Aves,Vit. Guimarães,4-2-3-1,Nuno Manta Santos,3818,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211843
+23,dom 01/03/2020,12:00,CD Aves,Paços Ferreira,4-3-3 ofensivo,Nuno Manta Santos,1779,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211849
+24,dom 08/03/2020,14:30,Sporting,CD Aves,3-4-1-2,Nuno Manta Santos,26272,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212600
+25,sex 05/06/2020,17:15,CD Aves,B SAD,4-2-3-1,Nuno Manta Santos,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212612
+26,qui 11/06/2020,17:15,CD Tondela,CD Aves,4-3-3 ofensivo,Nuno Manta Santos,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212619
+27,ter 16/06/2020,17:15,CD Aves,FC Porto,5-3-2,Nuno Manta Santos,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212631
+28,dom 21/06/2020,17:00,Gil Vicente,CD Aves,5-3-2,Nuno Manta Santos,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212640
+29,seg 29/06/2020,13:00,CD Aves,Moreirense,4-4-2,Nuno Manta Santos,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212649
+30,sáb 04/07/2020,17:30,Braga,CD Aves,4-3-3 ofensivo,Nuno Manta Santos,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212656
+31,qua 08/07/2020,17:15,CD Aves,Vitória FC,4-2-3-1,Nuno Manta Santos,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212668
+32,ter 14/07/2020,13:00,Santa Clara,CD Aves,4-4-2,Nuno Manta Santos,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212671
+33,ter 21/07/2020,17:15,CD Aves,Benfica,4-4-2,Nuno Manta Santos,x,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212687
+34,dom 26/07/2020,15:30,Portimonense,CD Aves,4-4-2,Nuno Manta Santos,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212691

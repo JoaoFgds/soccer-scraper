@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 15/07/2011,15:30,Greuther Fürth,Frankfurt,4-3-2-1,Armin Veh,14200,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121024
+2,seg 25/07/2011,15:15,Frankfurt,St. Pauli,4-3-2-1,Armin Veh,16500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121329
+3,dom 07/08/2011,08:30,E. Braunschweig,Frankfurt,4-2-3-1,Armin Veh,23400,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121345
+4,seg 15/08/2011,15:15,Frankfurt,Düsseldorf,4-2-3-1,Armin Veh,42000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121347
+5,dom 21/08/2011,08:30,FSV Frankfurt,Frankfurt,4-2-3-1,Armin Veh,50250,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121361
+6,dom 28/08/2011,08:30,Frankfurt,Paderborn,4-2-3-1,Armin Veh,34200,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121365
+7,sáb 10/09/2011,08:00,Energ. Cottbus,Frankfurt,4-2-3-1,Armin Veh,13520,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121376
+8,sex 16/09/2011,13:00,Frankfurt,Hansa Rostock,4-2-3-1,Armin Veh,38500,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121383
+9,seg 26/09/2011,15:15,Dynamo Dresden,Frankfurt,4-4-2 losango,Armin Veh,28976,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121400
+10,sex 30/09/2011,13:00,Frankfurt,Union Berlim,4-4-2 losango,Armin Veh,35100,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121401
+11,sex 14/10/2011,13:30,Bochum,Frankfurt,4-4-2 losango,Armin Veh,20132,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121411
+12,dom 23/10/2011,09:30,Frankfurt,MSV Duisburg,4-4-2 losango,Armin Veh,39900,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121419
+13,dom 30/10/2011,10:30,Ingolstadt,Frankfurt,4-4-2 losango,Armin Veh,8000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121434
+14,seg 07/11/2011,17:15,Erzgebirge Aue,Frankfurt,4-4-2 losango,Armin Veh,8600,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121438
+15,dom 20/11/2011,10:30,Frankfurt,Alem. Aachen,4-4-2 losango,Armin Veh,38500,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121446
+16,sáb 26/11/2011,10:00,1860 Munique,Frankfurt,4-2-3-1,Armin Veh,30660,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121459
+17,sáb 03/12/2011,10:00,Frankfurt,Karlsruher,4-4-2 losango,Armin Veh,37100,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121464
+18,seg 12/12/2011,17:15,Frankfurt,Greuther Fürth,4-4-2 losango,Armin Veh,35500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121474
+19,seg 19/12/2011,17:15,St. Pauli,Frankfurt,4-2-3-1,Armin Veh,24487,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121482
+20,dom 05/02/2012,10:30,Frankfurt,E. Braunschweig,4-2-3-1,Armin Veh,36200,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121498
+21,seg 13/02/2012,17:15,Düsseldorf,Frankfurt,4-2-3-1,Armin Veh,41213,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121500
+22,sáb 18/02/2012,10:00,Frankfurt,FSV Frankfurt,4-2-3-1,Armin Veh,40700,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121514
+23,dom 26/02/2012,09:30,Paderborn,Frankfurt,4-2-3-1,Armin Veh,15001,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121518
+24,dom 04/03/2012,09:30,Frankfurt,Energ. Cottbus,4-2-3-1,Armin Veh,28000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121529
+25,dom 11/03/2012,09:30,Hansa Rostock,Frankfurt,4-4-2 losango,Armin Veh,13300,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121536
+26,sex 16/03/2012,14:00,Frankfurt,Dynamo Dresden,4-4-2 losango,Armin Veh,37100,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121553
+27,seg 26/03/2012,15:15,Union Berlim,Frankfurt,4-4-2 losango,Armin Veh,16589,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121554
+28,sex 30/03/2012,13:00,Frankfurt,Bochum,4-4-2 losango,Armin Veh,40000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121564
+29,sáb 07/04/2012,08:10,MSV Duisburg,Frankfurt,4-4-2 losango,Armin Veh,19027,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121572
+30,qua 11/04/2012,12:30,Frankfurt,Ingolstadt,4-4-2 losango,Armin Veh,38000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121587
+31,sáb 14/04/2012,08:00,Frankfurt,Erzgebirge Aue,4-2-3-1,Armin Veh,46600,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121591
+32,seg 23/04/2012,15:15,Alem. Aachen,Frankfurt,4-2-3-1,Armin Veh,27942,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121599
+33,dom 29/04/2012,08:30,Frankfurt,1860 Munique,4-4-2 losango,Armin Veh,50800,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121612
+34,dom 06/05/2012,08:30,Karlsruher,Frankfurt,4-2-3-1,Armin Veh,26780,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1121617

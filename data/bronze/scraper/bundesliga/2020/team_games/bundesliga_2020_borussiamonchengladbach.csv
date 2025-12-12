@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 19/09/2020,13:30,Dortmund,M'gladbach,3-4-2-1,Marco Rose,9300,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412884
+2,sáb 26/09/2020,10:30,M'gladbach,Union Berlim,4-2-3-1,Marco Rose,10383,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412901
+3,sáb 03/10/2020,10:30,Colônia,M'gladbach,4-2-3-1,Marco Rose,300,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412925
+4,sáb 17/10/2020,15:30,M'gladbach,Wolfsburg,4-2-3-1,Marco Rose,300,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412937
+5,sáb 24/10/2020,10:30,Mainz,M'gladbach,3-5-2,Marco Rose,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412961
+6,sáb 31/10/2020,14:30,M'gladbach,Leipzig,4-2-3-1,Marco Rose,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412973
+7,dom 08/11/2020,14:00,Leverkusen,M'gladbach,4-4-2 duplo 6,Marco Rose,x,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412993
+8,sáb 21/11/2020,11:30,M'gladbach,Augsburg,4-2-3-1,Marco Rose,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413010
+9,sáb 28/11/2020,14:30,M'gladbach,Schalke,4-2-3-1,Marco Rose,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413020
+10,sáb 05/12/2020,11:30,Freiburg,M'gladbach,4-2-3-1,Marco Rose,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413038
+11,sáb 12/12/2020,11:30,M'gladbach,Hertha Berlim,4-2-3-1,Marco Rose,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413056
+12,ter 15/12/2020,14:30,Frankfurt,M'gladbach,4-2-3-1,Marco Rose,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413074
+13,sáb 19/12/2020,11:30,M'gladbach,Hoffenheim,4-2-3-1,Marco Rose,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413082
+14,sáb 02/01/2021,11:30,Arm. Bielefeld,M'gladbach,4-2-3-1,Marco Rose,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413106
+15,sex 08/01/2021,16:30,M'gladbach,Bayern,4-3-3 ofensivo,Marco Rose,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413118
+16,sáb 16/01/2021,14:30,Stuttgart,M'gladbach,4-3-3 ofensivo,Marco Rose,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413143
+17,ter 19/01/2021,14:30,M'gladbach,Werder Bremen,4-2-3-1,Marco Rose,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413154
+18,sex 22/01/2021,16:30,M'gladbach,Dortmund,5-3-2,Marco Rose,x,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413171
+19,sáb 30/01/2021,11:30,Union Berlim,M'gladbach,4-4-2 duplo 6,Marco Rose,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413167
+20,sáb 06/02/2021,14:30,M'gladbach,Colônia,4-2-3-1,Marco Rose,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413144
+21,dom 14/02/2021,14:00,Wolfsburg,M'gladbach,4-4-2 duplo 6,Marco Rose,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413130
+22,sáb 20/02/2021,11:30,M'gladbach,Mainz,3-5-2 plano,Marco Rose,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413108
+23,sáb 27/02/2021,14:30,Leipzig,M'gladbach,3-1-4-2,Marco Rose,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413092
+24,sáb 06/03/2021,11:30,M'gladbach,Leverkusen,4-2-3-1,Marco Rose,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413064
+25,sex 12/03/2021,16:30,Augsburg,M'gladbach,4-2-3-1,Marco Rose,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413050
+26,sáb 20/03/2021,14:30,Schalke,M'gladbach,4-2-3-1,Marco Rose,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413032
+27,sáb 03/04/2021,15:30,M'gladbach,Freiburg,4-2-3-1,Marco Rose,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413002
+28,sáb 10/04/2021,10:30,Hertha Berlim,M'gladbach,3-5-2,Marco Rose,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412985
+29,sáb 17/04/2021,10:30,M'gladbach,Frankfurt,4-4-2 duplo 6,Marco Rose,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412966
+30,qua 21/04/2021,15:30,Hoffenheim,M'gladbach,4-4-2 duplo 6,Marco Rose,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412948
+31,dom 25/04/2021,13:00,M'gladbach,Arm. Bielefeld,3-4-1-2,Marco Rose,x,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412929
+32,sáb 08/05/2021,13:30,Bayern,M'gladbach,4-4-2 duplo 6,Marco Rose,x,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412910
+33,sáb 15/05/2021,10:30,M'gladbach,Stuttgart,4-2-3-1,Marco Rose,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412893
+34,sáb 22/05/2021,10:30,Werder Bremen,M'gladbach,3-4-2-1,Marco Rose,100,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412881

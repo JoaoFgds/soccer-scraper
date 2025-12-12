@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 13/04/2024,18:30,Criciúma,Juventude,4-3-1-2,Claudio Tencati,12408,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316196
+2,qua 17/04/2024,20:00,Atlético-MG,Criciúma,4-3-2-1,Claudio Tencati,24613,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316258
+3,qua 24/07/2024,19:00,Criciúma,Fortaleza,4-4-2,Claudio Tencati,13625,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316236
+4,sáb 27/04/2024,16:00,Vasco da Gama,Criciúma,4-4-2,Claudio Tencati,17124,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316271
+5,qua 25/09/2024,19:00,Grêmio,Criciúma,4-1-4-1,Claudio Tencati,18457,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316287
+6,dom 09/06/2024,16:00,Criciúma,Cuiabá,4-4-2,Claudio Tencati,13846,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316316
+7,dom 02/06/2024,16:00,Criciúma,Palmeiras,4-3-3 defensivo,Claudio Tencati,19027,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316286
+8,qui 13/06/2024,20:00,Athletico-PR,Criciúma,4-4-2 duplo 6,Claudio Tencati,23424,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316334
+9,dom 16/06/2024,18:30,Criciúma,Bahia,4-4-2,Claudio Tencati,8661,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316206
+10,qua 19/06/2024,19:00,Atlético-GO,Criciúma,4-4-2,Claudio Tencati,6478,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316245
+11,sáb 22/06/2024,16:00,Criciúma,Botafogo,5-3-2,Claudio Tencati,16256,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316306
+12,qui 27/06/2024,20:00,São Paulo,Criciúma,4-4-2,Claudio Tencati,28008,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316343
+13,dom 30/06/2024,18:30,Criciúma,Internacional,5-3-2,Claudio Tencati,15859,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316216
+14,qua 03/07/2024,20:00,Criciúma,Cruzeiro,4-3-2-1,Claudio Tencati,12352,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316356
+15,dom 07/07/2024,18:30,Vitória,Criciúma,4-4-2,Claudio Tencati,16615,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316319
+16,qui 11/07/2024,20:00,Criciúma,Fluminense,4-4-2,Claudio Tencati,11486,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316466
+17,ter 16/07/2024,21:00,Corinthians,Criciúma,4-4-2,Claudio Tencati,43241,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316392
+18,sáb 20/07/2024,16:00,Flamengo,Criciúma,4-4-2,Claudio Tencati,60127,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316540
+19,qua 28/08/2024,19:30,Criciúma,Bragantino,4-1-4-1,Claudio Tencati,11849,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316386
+20,sáb 27/07/2024,19:00,Juventude,Criciúma,4-2-3-1,Claudio Tencati,6564,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316506
+21,sáb 03/08/2024,20:00,Criciúma,Atlético-MG,4-2-3-1,Claudio Tencati,15642,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316366
+22,sáb 10/08/2024,16:00,Fortaleza,Criciúma,4-2-3-1,Claudio Tencati,40311,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316424
+23,dom 18/08/2024,16:00,Criciúma,Vasco da Gama,4-2-3-1,Claudio Tencati,18403,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316436
+24,dom 25/08/2024,16:00,Criciúma,Grêmio,4-4-2,Claudio Tencati,17377,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316446
+25,sáb 31/08/2024,18:30,Cuiabá,Criciúma,4-1-4-1,Claudio Tencati,4095,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316535
+26,dom 15/09/2024,16:00,Palmeiras,Criciúma,4-3-1-2,Claudio Tencati,37244,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316412
+27,dom 22/09/2024,20:00,Criciúma,Athletico-PR,4-1-4-1,Claudio Tencati,12765,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316516
+28,dom 29/09/2024,18:30,Bahia,Criciúma,4-3-1-2,Claudio Tencati,24574,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316249
+29,qui 03/10/2024,19:00,Criciúma,Atlético-GO,4-2-3-1,Claudio Tencati,12343,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316456
+30,sex 18/10/2024,20:00,Botafogo,Criciúma,5-4-1 plano,Claudio Tencati,64727,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316521
+31,sáb 26/10/2024,23:00,Criciúma,São Paulo,4-2-3-1,Claudio Tencati,17422,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316486
+32,ter 05/11/2024,21:30,Internacional,Criciúma,4-4-2,Claudio Tencati,29097,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316367
+33,sáb 09/11/2024,19:00,Cruzeiro,Criciúma,4-2-3-1,Claudio Tencati,29287,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316468
+34,qua 20/11/2024,16:30,Criciúma,Vitória,4-4-2 duplo 6,Claudio Tencati,12123,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316556
+35,ter 26/11/2024,19:00,Fluminense,Criciúma,4-3-1-2,Claudio Tencati,41240,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316220
+36,sáb 30/11/2024,19:30,Criciúma,Corinthians,3-5-2 plano,Claudio Tencati,18075,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316496
+37,qua 04/12/2024,20:00,Criciúma,Flamengo,4-4-2 losango,Claudio Tencati,18849,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316566
+38,dom 08/12/2024,16:00,Bragantino,Criciúma,4-4-2 losango,Claudio Tencati,9110,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316403

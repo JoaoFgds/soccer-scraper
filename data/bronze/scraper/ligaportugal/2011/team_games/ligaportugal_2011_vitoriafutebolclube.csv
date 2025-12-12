@@ -1,0 +1,31 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 14/08/2011,14:00,Vitória FC,Paços Ferreira,4-3-3 ofensivo,Bruno Ribeiro,2925,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1134416
+2,seg 22/08/2011,16:15,Olhanense,Vitória FC,4-3-3 ofensivo,Bruno Ribeiro,2849,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137684
+3,seg 29/08/2011,14:45,Vitória FC,Braga,4-3-3 ofensivo,Bruno Ribeiro,3397,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1139114
+4,sex 09/09/2011,16:15,FC Porto,Vitória FC,4-2-3-1,Bruno Ribeiro,36511,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1144293
+5,dom 18/09/2011,14:00,Vitória FC,Beira-Mar,4-3-3 ofensivo,Bruno Ribeiro,3142,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1148785
+6,sáb 24/09/2011,16:30,Sporting,Vitória FC,4-2-3-1,Bruno Ribeiro,33201,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1150034
+7,sex 30/09/2011,16:15,Vitória FC,Rio Ave,4-4-2 losango,Bruno Ribeiro,2885,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1151273
+8,dom 23/10/2011,13:00,Marítimo,Vitória FC,4-3-3 ofensivo,Bruno Ribeiro,3223,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1151729
+9,dom 30/10/2011,14:00,Leiria,Vitória FC,4-3-3 defensivo,Bruno Ribeiro,1583,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1154312
+10,dom 06/11/2011,14:00,Vitória FC,Gil Vicente,4-3-3 defensivo,Bruno Ribeiro,2626,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1154321
+11,seg 28/11/2011,18:15,Vit. Guimarães,Vitória FC,4-2-3-1,Bruno Ribeiro,9150,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1158623
+12,dom 11/12/2011,14:00,Vitória FC,Feirense,4-2-3-1,Bruno Ribeiro,2400,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1158745
+13,dom 18/12/2011,14:00,Nacional,Vitória FC,4-2-3-1,Bruno Ribeiro,1670,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1158753
+14,sex 06/01/2012,18:15,Vitória FC,Académica,4-2-3-1,Bruno Ribeiro,1824,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1177308
+15,sáb 14/01/2012,16:30,Benfica,Vitória FC,4-2-3-1,Bruno Ribeiro,56155,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1177317
+16,dom 22/01/2012,14:00,Paços Ferreira,Vitória FC,4-3-3 ofensivo,Bruno Ribeiro,1561,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1177807
+17,dom 29/01/2012,14:00,Vitória FC,Olhanense,4-4-2 losango,Bruno Ribeiro,3306,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1179027
+18,sex 10/02/2012,18:15,Braga,Vitória FC,4-3-3 ofensivo,Bruno Ribeiro,8491,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1182994
+19,dom 19/02/2012,16:15,Vitória FC,FC Porto,4-3-3 ofensivo,José Mota,4703,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1183007
+20,dom 26/02/2012,13:00,Beira-Mar,Vitória FC,4-3-3 ofensivo,José Mota,2821,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1183013
+21,sáb 03/03/2012,17:30,Vitória FC,Sporting,4-3-3 ofensivo,José Mota,4000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1186094
+22,dom 11/03/2012,13:00,Rio Ave,Vitória FC,4-3-3 ofensivo,José Mota,4906,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1189139
+23,dom 18/03/2012,15:00,Vitória FC,Marítimo,4-3-3 defensivo,José Mota,2559,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1192791
+24,dom 25/03/2012,12:00,Vitória FC,Leiria,4-3-3 ofensivo,José Mota,4382,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1192902
+25,dom 01/04/2012,12:00,Gil Vicente,Vitória FC,4-3-3 ofensivo,José Mota,3722,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2194024
+26,sex 06/04/2012,16:15,Vitória FC,Vit. Guimarães,4-3-3 defensivo,José Mota,1898,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2194029
+27,dom 22/04/2012,12:00,Feirense,Vitória FC,?,José Mota,2274,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2194568
+28,dom 29/04/2012,12:00,Vitória FC,Nacional,4-3-3 defensivo,José Mota,2276,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2208092
+29,sáb 05/05/2012,16:30,Académica,Vitória FC,4-4-2 losango,José Mota,7001,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2209896
+30,sáb 12/05/2012,14:30,Vitória FC,Benfica,4-3-3 ofensivo,José Mota,5590,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2210793

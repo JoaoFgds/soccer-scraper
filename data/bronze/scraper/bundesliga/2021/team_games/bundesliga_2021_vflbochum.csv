@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 14/08/2021,10:30,Wolfsburg,Bochum,4-3-3 ofensivo,Thomas Reis,8536,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588141
+2,sáb 21/08/2021,10:30,Bochum,Mainz,4-3-3 ofensivo,Thomas Reis,12548,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588155
+3,sáb 28/08/2021,10:30,Colônia,Bochum,4-3-3 ofensivo,Thomas Reis,25000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588174
+4,dom 12/09/2021,12:30,Bochum,Hertha Berlim,4-2-3-1,Thomas Reis,14000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588182
+5,sáb 18/09/2021,10:30,Bayern,Bochum,4-2-3-1,Thomas Reis,25000,7:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588193
+6,dom 26/09/2021,10:30,Bochum,Stuttgart,4-2-3-1,Thomas Reis,15300,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588218
+7,sáb 02/10/2021,13:30,Leipzig,Bochum,4-2-3-1,Thomas Reis,25598,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588221
+8,sáb 16/10/2021,10:30,Greuther Fürth,Bochum,4-3-1-2,Thomas Reis,10586,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588246
+9,dom 24/10/2021,14:30,Bochum,Frankfurt,4-3-3 ofensivo,Thomas Reis,19510,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588264
+10,dom 31/10/2021,13:30,M'gladbach,Bochum,4-1-4-1,Thomas Reis,42361,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588278
+11,sáb 06/11/2021,11:30,Bochum,Hoffenheim,4-3-3 ofensivo,Thomas Reis,19600,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588290
+12,sáb 20/11/2021,11:30,Leverkusen,Bochum,4-3-3 ofensivo,Thomas Reis,22538,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588302
+13,sáb 27/11/2021,11:30,Bochum,Freiburg,4-1-4-1,Thomas Reis,19700,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588326
+14,sáb 04/12/2021,11:30,Augsburg,Bochum,4-3-3 ofensivo,Thomas Reis,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588344
+15,sáb 11/12/2021,11:30,Bochum,Dortmund,4-1-4-1,Thomas Reis,13799,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588353
+16,ter 14/12/2021,16:30,Arm. Bielefeld,Bochum,4-1-4-1,Thomas Reis,13750,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588381
+17,sáb 18/12/2021,11:30,Bochum,Union Berlim,4-3-3 ofensivo,Thomas Reis,13500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588389
+18,dom 09/01/2022,13:30,Bochum,Wolfsburg,4-3-3 ofensivo,Thomas Reis,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588407
+19,sáb 15/01/2022,11:30,Mainz,Bochum,4-3-3 ofensivo,Thomas Reis,1000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588423
+20,sáb 22/01/2022,14:30,Bochum,Colônia,4-3-3 ofensivo,Thomas Reis,750,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588443
+21,sex 04/02/2022,16:30,Hertha Berlim,Bochum,4-1-4-1,Thomas Reis,3000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588460
+22,sáb 12/02/2022,11:30,Bochum,Bayern,4-3-3 ofensivo,Thomas Reis,8500,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588470
+23,sáb 19/02/2022,11:30,Stuttgart,Bochum,4-3-3 ofensivo,Thomas Reis,20056,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588484
+24,dom 27/02/2022,11:30,Bochum,Leipzig,4-3-3 ofensivo,Thomas Reis,10000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588497
+25,sáb 05/03/2022,11:30,Bochum,Greuther Fürth,4-1-4-1,Thomas Reis,19800,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588516
+26,dom 13/03/2022,13:30,Frankfurt,Bochum,4-1-4-1,Thomas Reis,24000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588527
+27,sex 18/03/2022,16:30,Bochum,M'gladbach,4-1-4-1,Thomas Reis,25000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588551
+28,sáb 02/04/2022,10:30,Hoffenheim,Bochum,4-2-3-1,Thomas Reis,15014,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588568
+29,dom 10/04/2022,10:30,Bochum,Leverkusen,4-2-3-1,Thomas Reis,25000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588587
+30,sáb 16/04/2022,10:30,Freiburg,Bochum,4-2-3-1,Thomas Reis,34000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588593
+31,dom 24/04/2022,10:30,Bochum,Augsburg,4-1-4-1,Thomas Reis,23500,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588614
+32,sáb 30/04/2022,10:30,Dortmund,Bochum,4-3-3 ofensivo,Thomas Reis,81365,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588625
+33,sex 06/05/2022,15:30,Bochum,Arm. Bielefeld,4-1-4-1,Thomas Reis,25000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588656
+34,sáb 14/05/2022,10:30,Union Berlim,Bochum,4-3-1-2,Thomas Reis,22012,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588670

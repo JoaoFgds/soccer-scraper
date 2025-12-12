@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 06/08/2017,12:00,Braga B,CF União,4-1-4-1,Paulo Alves,380,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897923
+2,dom 13/08/2017,12:00,CF União,Real SC,?,Paulo Alves,807,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897941
+3,sáb 19/08/2017,12:00,CF União,Académica,4-3-3 ofensivo,Paulo Alves,1058,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897954
+4,qua 23/08/2017,12:00,Gil Vicente,CF União,4-3-3 ofensivo,Paulo Alves,996,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897963
+5,dom 27/08/2017,12:00,CF União,Sporting B,?,Paulo Alves,1511,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897982
+6,sáb 09/09/2017,13:00,Santa Clara,CF União,4-3-3 ofensivo,Paulo Alves,1469,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897992
+7,dom 17/09/2017,12:00,CF União,Leixões,4-3-3 ofensivo,Paulo Alves,701,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898000
+8,qua 27/09/2017,12:00,Vitória SC B,CF União,?,Paulo Alves,984,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898013
+9,sáb 30/09/2017,12:00,CF União,Penafiel,?,Paulo Alves,642,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898028
+10,dom 22/10/2017,12:00,Benfica B,CF União,4-2-3-1,José Viterbo,642,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898032
+11,dom 29/10/2017,13:00,CF União,UD Oliveirense,?,José Viterbo,834,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898049
+12,qua 01/11/2017,13:00,Arouca,CF União,?,José Viterbo,970,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898051
+13,dom 05/11/2017,09:15,CF União,FC Porto B,4-3-3 ofensivo,José Viterbo,692,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898070
+14,sáb 25/11/2017,14:00,Nacional,CF União,4-3-3 ofensivo,José Viterbo,1746,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898075
+15,dom 03/12/2017,09:15,CF União,Académico FC,?,José Viterbo,799,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898083
+16,dom 10/12/2017,09:15,Covilhã,CF União,?,José Viterbo,107,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898093
+17,dom 17/12/2017,14:00,CF União,Famalicão,4-4-2 duplo 6,Ricardo Chéu,826,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898109
+18,dom 12/11/2017,13:00,Varzim,CF União,4-3-3 ofensivo,José Viterbo,971,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898120
+19,sáb 06/01/2018,13:00,CF União,Cova da Piedade,?,Ricardo Chéu,413,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898130
+20,dom 14/01/2018,13:00,CF União,Braga B,3-4-3 plano,Ricardo Chéu,692,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898131
+21,dom 21/01/2018,09:15,Real SC,CF União,4-4-2 duplo 6,Ricardo Chéu,432,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898150
+22,seg 29/01/2018,14:00,Académica,CF União,4-1-4-1,Ricardo Chéu,4332,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898154
+23,dom 04/02/2018,13:00,CF União,Gil Vicente,4-2-3-1,Ricardo Chéu,566,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898163
+24,dom 11/02/2018,13:00,Sporting B,CF União,?,Ricardo Chéu,152,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898180
+25,dom 18/02/2018,12:00,CF União,Santa Clara,?,Ricardo Chéu,584,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898187
+26,dom 25/02/2018,12:00,Leixões,CF União,?,Ricardo Chéu,3956,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898198
+27,dom 04/03/2018,14:00,CF União,Vitória SC B,4-2-3-1,Ricardo Chéu,557,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898203
+28,sáb 10/03/2018,08:15,Penafiel,CF União,4-2-3-1,Ricardo Chéu,610,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898218
+29,qua 14/03/2018,12:00,CF União,Benfica B,4-4-2 duplo 6,Ricardo Chéu,1009,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898222
+30,dom 18/03/2018,12:00,UD Oliveirense,CF União,4-2-3-1,Ricardo Chéu,381,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898239
+31,sáb 31/03/2018,12:00,CF União,Arouca,?,Ricardo Chéu,1093,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898241
+32,sáb 07/04/2018,14:00,FC Porto B,CF União,4-2-3-1,Ricardo Chéu,288,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898260
+33,qua 11/04/2018,15:15,CF União,Nacional,?,Ricardo Chéu,2489,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898265
+34,dom 15/04/2018,11:00,Académico FC,CF União,4-4-2 duplo 6,Ricardo Chéu,1545,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898273
+35,sáb 21/04/2018,12:00,CF União,Covilhã,4-4-2 duplo 6,Ricardo Chéu,564,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898283
+36,dom 29/04/2018,12:00,Famalicão,CF União,4-4-2 duplo 6,Ricardo Chéu,1221,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898299
+37,dom 06/05/2018,12:00,CF União,Varzim,?,Ricardo Chéu,1397,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898310
+38,sáb 12/05/2018,07:15,Cova da Piedade,CF União,4-4-2 duplo 6,Ricardo Chéu,727,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898320

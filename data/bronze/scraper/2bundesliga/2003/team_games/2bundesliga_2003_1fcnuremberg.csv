@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 04/08/2003,15:15,Karlsruher,Nuremberg,4-3-3 ofensivo,Wolfgang Wolf,16900,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/389
+2,dom 10/08/2003,10:00,Nuremberg,W. Burghausen,4-3-3 defensivo,Wolfgang Wolf,14764,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/591
+3,seg 18/08/2003,15:15,Mainz,Nuremberg,4-4-2 duplo 6,Wolfgang Wolf,18400,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/825
+4,seg 25/08/2003,15:15,Nuremberg,Energ. Cottbus,4-3-3 ofensivo,Wolfgang Wolf,14694,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1025
+5,dom 14/09/2003,10:00,Erzgebirge Aue,Nuremberg,4-3-3 defensivo,Wolfgang Wolf,12500,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1256
+6,seg 22/09/2003,15:15,Nuremberg,Greuther Fürth,4-3-3 ofensivo,Wolfgang Wolf,26067,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1487
+7,dom 28/09/2003,10:00,MSV Duisburg,Nuremberg,4-3-3 defensivo,Wolfgang Wolf,8762,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1662
+8,dom 05/10/2003,10:00,Nuremberg,VfB Lübeck,4-4-2 losango,Wolfgang Wolf,10893,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1853
+9,seg 20/10/2003,16:15,Unterhaching,Nuremberg,3-4-3,Wolfgang Wolf,7000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2083
+10,sex 24/10/2003,15:00,Nuremberg,J. Regensburg,3-4-3,Wolfgang Wolf,15955,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2239
+11,dom 02/11/2003,12:00,Eintracht Trier,Nuremberg,4-3-3 defensivo,Wolfgang Wolf,5950,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2469
+12,dom 09/11/2003,12:00,Nuremberg,Union Berlim,4-3-3 defensivo,Wolfgang Wolf,13710,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2663
+13,seg 26/01/2004,17:15,Alem. Aachen,Nuremberg,4-4-2 losango,Wolfgang Wolf,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2909
+14,seg 01/12/2003,17:15,Nuremberg,Arm. Bielefeld,4-4-2 losango,Wolfgang Wolf,10460,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081
+15,dom 07/12/2003,12:00,Nuremberg,VfL Osnabrück,4-3-3 defensivo,Wolfgang Wolf,12365,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3266
+16,sex 12/12/2003,16:00,RW Oberhausen,Nuremberg,4-4-2 losango,Wolfgang Wolf,5661,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433
+17,ter 16/12/2003,16:00,Nuremberg,LR Ahlen,4-3-3 defensivo,Wolfgang Wolf,8539,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3631
+18,dom 01/02/2004,12:00,Nuremberg,Karlsruher,3-4-3,Wolfgang Wolf,12457,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3877
+19,sex 06/02/2004,16:00,W. Burghausen,Nuremberg,3-4-3,Wolfgang Wolf,8100,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4042
+20,seg 16/02/2004,16:15,Nuremberg,Mainz,4-3-3 defensivo,Wolfgang Wolf,11533,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4260
+21,sex 20/02/2004,15:00,Energ. Cottbus,Nuremberg,4-3-3 defensivo,Wolfgang Wolf,13500,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4437
+22,sex 27/02/2004,15:00,Nuremberg,Erzgebirge Aue,3-4-3,Wolfgang Wolf,17383,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4601
+23,dom 07/03/2004,11:00,Greuther Fürth,Nuremberg,?,Wolfgang Wolf,14500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4830
+24,dom 14/03/2004,11:00,Nuremberg,MSV Duisburg,3-4-3,Wolfgang Wolf,17142,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5038
+25,seg 22/03/2004,16:15,VfB Lübeck,Nuremberg,3-4-3,Wolfgang Wolf,8800,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5259
+26,dom 28/03/2004,10:00,Nuremberg,Unterhaching,3-4-3,Wolfgang Wolf,16252,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5438
+27,sex 02/04/2004,14:00,J. Regensburg,Nuremberg,4-4-2 losango,Wolfgang Wolf,11019,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5622
+28,seg 12/04/2004,15:15,Nuremberg,Eintracht Trier,3-4-3,Wolfgang Wolf,16864,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5876
+29,dom 18/04/2004,10:00,Union Berlim,Nuremberg,4-5-1,Wolfgang Wolf,9008,3:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6064
+30,seg 26/04/2004,15:15,Nuremberg,Alem. Aachen,4-3-3 defensivo,Wolfgang Wolf,20829,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6285
+31,seg 03/05/2004,15:15,Arm. Bielefeld,Nuremberg,4-3-3 defensivo,Wolfgang Wolf,23104,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6493
+32,sex 07/05/2004,14:00,VfL Osnabrück,Nuremberg,4-5-1,Wolfgang Wolf,7500,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6651
+33,dom 16/05/2004,10:00,Nuremberg,RW Oberhausen,4-3-3 ofensivo,Wolfgang Wolf,38200,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6887
+34,dom 23/05/2004,10:00,LR Ahlen,Nuremberg,4-5-1,Wolfgang Wolf,9987,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7090

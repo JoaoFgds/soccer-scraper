@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 05/08/2023,11:00,Watford,QPR,4-4-2,Gareth Ainsworth,20087,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108288
+2,sáb 12/08/2023,11:00,Cardiff,QPR,4-2-3-1,Gareth Ainsworth,21230,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108314
+3,sáb 19/08/2023,11:00,QPR,Ipswich,3-4-3 plano,Gareth Ainsworth,16790,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108332
+4,sáb 26/08/2023,11:00,Southampton,QPR,4-3-3 ofensivo,Gareth Ainsworth,30401,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108406
+5,sáb 02/09/2023,11:00,Middlesbrough,QPR,3-4-2-1,Gareth Ainsworth,25671,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108281
+6,sáb 16/09/2023,11:00,QPR,AFC Sunderland,3-4-2-1,Gareth Ainsworth,16383,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108369
+7,ter 19/09/2023,15:45,QPR,Swansea,3-4-3 plano,Gareth Ainsworth,13367,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108195
+8,sex 22/09/2023,16:00,Birmingham,QPR,3-4-2-1,Gareth Ainsworth,19803,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108337
+9,sáb 30/09/2023,11:00,QPR,Coventry City,3-4-2-1,Gareth Ainsworth,16293,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108441
+10,qua 04/10/2023,15:45,Leeds,QPR,3-4-2-1,Gareth Ainsworth,32663,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108247
+11,sáb 07/10/2023,11:00,QPR,Blackburn,4-3-1-2,Gareth Ainsworth,15376,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108224
+12,sáb 21/10/2023,11:00,Huddersfield,QPR,3-4-1-2,Gareth Ainsworth,18010,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108387
+13,ter 24/10/2023,16:00,West Brom,QPR,5-4-1 plano,Gareth Ainsworth,21749,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108414
+14,sáb 28/10/2023,11:00,QPR,Leicester,3-4-2-1,Gareth Ainsworth,17385,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108428
+15,sáb 04/11/2023,12:00,Rotherham,QPR,4-3-3 ofensivo,Martí Cifuentes,10199,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108453
+16,sáb 11/11/2023,12:00,QPR,Bristol City,4-3-3 ofensivo,Martí Cifuentes,17540,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108728
+17,sáb 25/11/2023,12:00,Norwich,QPR,4-3-3 ofensivo,Martí Cifuentes,25650,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108550
+18,ter 28/11/2023,16:45,QPR,Stoke,4-3-3 ofensivo,Martí Cifuentes,16901,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108525
+19,sex 01/12/2023,17:00,Preston NE,QPR,4-1-4-1,Martí Cifuentes,14280,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108540
+20,sáb 09/12/2023,12:00,QPR,Hull City,4-2-3-1,Martí Cifuentes,16967,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108464
+21,qua 13/12/2023,16:45,QPR,Plymouth Argyle,4-2-3-1,Martí Cifuentes,16339,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108480
+22,sáb 16/12/2023,12:00,Sheff Wed,QPR,4-3-3 ofensivo,Martí Cifuentes,24739,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108517
+23,sáb 23/12/2023,12:00,QPR,Southampton,4-3-3 ofensivo,Martí Cifuentes,17745,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108492
+24,ter 26/12/2023,10:00,Millwall,QPR,4-3-3 ofensivo,Martí Cifuentes,17432,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108503
+25,sex 29/12/2023,16:45,Ipswich,QPR,4-2-3-1,Martí Cifuentes,29100,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108574
+26,seg 01/01/2024,12:00,QPR,Cardiff,4-3-3 ofensivo,Martí Cifuentes,16849,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108296
+27,dom 14/01/2024,09:00,QPR,Watford,4-2-3-1,Martí Cifuentes,17409,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108593
+28,sáb 20/01/2024,12:00,QPR,Millwall,4-2-3-1,Martí Cifuentes,17184,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108211
+29,dom 28/01/2024,10:30,QPR,Huddersfield,4-2-3-1,Martí Cifuentes,16483,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108357
+30,sáb 03/02/2024,12:00,Blackburn,QPR,4-2-3-1,Martí Cifuentes,12888,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108301
+31,sáb 10/02/2024,12:00,QPR,Norwich,4-2-3-1,Martí Cifuentes,17831,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108636
+32,qua 14/02/2024,16:45,Stoke,QPR,4-2-3-1,Martí Cifuentes,19307,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108627
+33,sáb 17/02/2024,12:00,Bristol City,QPR,4-2-3-1,Martí Cifuentes,23619,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108253
+34,sáb 24/02/2024,12:00,QPR,Rotherham,4-2-3-1,Martí Cifuentes,16351,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108564
+35,sáb 02/03/2024,12:00,Leicester,QPR,4-2-3-1,Martí Cifuentes,31439,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108584
+36,qua 06/03/2024,17:00,QPR,West Brom,4-2-3-1,Martí Cifuentes,16818,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108694
+37,sáb 09/03/2024,12:00,QPR,Middlesbrough,4-2-3-1,Martí Cifuentes,16689,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108613
+38,sáb 16/03/2024,12:00,AFC Sunderland,QPR,4-2-3-1,Martí Cifuentes,27478,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108273
+39,sex 29/03/2024,12:00,QPR,Birmingham,4-2-3-1,Martí Cifuentes,17170,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108708
+40,seg 01/04/2024,11:00,Swansea,QPR,4-2-3-1,Martí Cifuentes,19704,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108383
+41,sáb 06/04/2024,11:00,QPR,Sheff Wed,4-2-3-1,Martí Cifuentes,17502,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108706
+42,ter 09/04/2024,15:45,Plymouth Argyle,QPR,4-2-3-1,Martí Cifuentes,16928,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108654
+43,sáb 13/04/2024,11:00,Hull City,QPR,4-2-3-1,Martí Cifuentes,21225,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108230
+44,sáb 20/04/2024,13:15,QPR,Preston NE,4-2-3-1,Martí Cifuentes,16464,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108683
+45,sex 26/04/2024,16:00,QPR,Leeds,4-2-3-1,Martí Cifuentes,16677,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108690
+46,sáb 04/05/2024,08:30,Coventry City,QPR,4-2-3-1,Martí Cifuentes,29102,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108651

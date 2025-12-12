@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 01/08/2022,15:45,FC Sochaux,Paris FC,4-2-3-1,Olivier Guégan,12647,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3863142
+2,sáb 06/08/2022,14:00,Grenoble,FC Sochaux,4-2-3-1,Olivier Guégan,4589,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3863145
+3,sáb 13/08/2022,14:00,FC Sochaux,Amiens SC,4-2-3-1,Olivier Guégan,10263,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864779
+4,sáb 20/08/2022,14:00,Pau FC,FC Sochaux,4-1-4-1,Olivier Guégan,3099,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864785
+5,sáb 27/08/2022,14:00,FC Sochaux,Chamois Niort,4-1-4-1,Olivier Guégan,8980,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864796
+6,ter 30/08/2022,15:45,Guingamp,FC Sochaux,4-1-4-1,Olivier Guégan,8136,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864802
+7,sex 02/09/2022,15:45,FC Sochaux,Stade Lavallois,4-1-4-1,Olivier Guégan,9311,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864832
+8,sáb 10/09/2022,14:00,Dijon,FC Sochaux,4-1-4-1,Olivier Guégan,10004,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864836
+9,sáb 17/09/2022,14:00,FC Sochaux,Nîmes Olympique,4-2-3-1,Olivier Guégan,11287,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864851
+10,sáb 01/10/2022,14:00,Valenciennes,FC Sochaux,4-1-4-1,Olivier Guégan,5704,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864878
+11,seg 10/10/2022,15:45,FC Sochaux,Saint-Étienne,4-2-3-1,Olivier Guégan,19205,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864887
+12,sáb 15/10/2022,14:00,FC Metz,FC Sochaux,4-2-3-1,Olivier Guégan,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864909
+13,sáb 22/10/2022,14:00,FC Sochaux,Quevilly Rouen,4-4-1-1,Olivier Guégan,11037,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864932
+14,sáb 05/11/2022,15:00,FC Annecy,FC Sochaux,4-4-1-1,Olivier Guégan,6145,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864942
+15,sáb 12/11/2022,15:00,FC Sochaux,SC Bastia,4-4-1-1,Olivier Guégan,11175,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864959
+16,seg 26/12/2022,17:00,FC Sochaux,Rodez AF,4-4-1-1,Olivier Guégan,11719,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864966
+17,sex 30/12/2022,13:00,Bordeaux,FC Sochaux,4-2-3-1,Olivier Guégan,22363,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3888723
+18,ter 10/01/2023,16:45,Le Havre,FC Sochaux,4-3-3 ofensivo,Olivier Guégan,12026,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3864979
+19,sex 20/01/2023,14:30,FC Sochaux,SM Caen,4-2-3-1,Olivier Guégan,8771,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865003
+20,sáb 28/01/2023,11:00,Saint-Étienne,FC Sochaux,4-2-3-1,Olivier Guégan,18041,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865017
+21,ter 31/01/2023,16:45,FC Sochaux,Valenciennes,4-2-3-1,Olivier Guégan,8623,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865033
+22,sex 03/02/2023,16:45,Rodez AF,FC Sochaux,4-2-3-1,Olivier Guégan,2300,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865040
+23,sáb 11/02/2023,15:00,FC Sochaux,Le Havre,4-2-3-1,Olivier Guégan,15203,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865051
+24,sáb 18/02/2023,15:00,Quevilly Rouen,FC Sochaux,4-2-3-1,Olivier Guégan,4083,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865066
+25,sáb 25/02/2023,15:00,FC Sochaux,FC Annecy,4-2-3-1,Olivier Guégan,10645,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865078
+26,seg 06/03/2023,16:45,SM Caen,FC Sochaux,4-2-3-1,Olivier Guégan,15125,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865089
+27,sáb 11/03/2023,11:00,FC Sochaux,Bordeaux,4-2-3-1,Olivier Guégan,18835,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3888733
+28,sáb 18/03/2023,15:00,FC Sochaux,Grenoble,4-3-3 ofensivo,Olivier Guégan,12000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865159
+29,sáb 01/04/2023,14:00,SC Bastia,FC Sochaux,4-2-3-1,Olivier Guégan,11686,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865176
+30,sáb 08/04/2023,14:00,Chamois Niort,FC Sochaux,4-2-3-1,Olivier Guégan,2298,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865200
+31,sáb 15/04/2023,14:00,FC Sochaux,Pau FC,4-2-3-1,Olivier Guégan,11858,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865227
+32,sáb 22/04/2023,14:00,Stade Lavallois,FC Sochaux,4-2-3-1,Olivier Guégan,7771,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865276
+33,seg 01/05/2023,15:45,FC Sochaux,Dijon,4-2-3-1,Olivier Guégan,10577,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865290
+34,sáb 06/05/2023,14:00,Amiens SC,FC Sochaux,4-2-3-1,Olivier Guégan,10407,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865291
+35,sáb 13/05/2023,14:00,FC Sochaux,Guingamp,4-2-3-1,Olivier Guégan,10146,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865307
+36,sáb 20/05/2023,14:00,Paris FC,FC Sochaux,4-3-3 ofensivo,Pierre-Alain Frau,4762,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865315
+37,sex 26/05/2023,15:45,FC Sochaux,FC Metz,4-3-3 ofensivo,Pierre-Alain Frau,15714,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865325
+38,sex 02/06/2023,15:45,Nîmes Olympique,FC Sochaux,4-2-3-1,Pierre-Alain Frau,1143,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865331

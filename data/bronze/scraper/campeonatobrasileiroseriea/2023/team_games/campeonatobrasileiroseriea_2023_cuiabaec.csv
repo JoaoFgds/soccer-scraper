@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 15/04/2023,16:00,Palmeiras,Cuiabá,4-2-3-1,Ivo Vieira,35835,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4055814
+2,sáb 22/04/2023,18:30,Cuiabá,Bragantino,4-2-3-1,Ivo Vieira,9267,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4059105
+3,dom 30/04/2023,18:30,Cuiabá,Grêmio,4-2-3-1,Ivo Vieira,21385,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060070
+4,dom 07/05/2023,11:00,América-MG,Cuiabá,4-2-3-1,Ivo Vieira,5228,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061502
+5,qua 10/05/2023,20:00,Cuiabá,Atlético-MG,4-2-3-1,Ivo Vieira,12029,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061442
+6,sáb 13/05/2023,18:30,Fluminense,Cuiabá,4-2-3-1,Luiz Fernando Iubel,39040,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061513
+7,seg 22/05/2023,20:00,Cruzeiro,Cuiabá,4-3-3 ofensivo,Luiz Fernando Iubel,15722,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061408
+8,sáb 27/05/2023,18:30,Cuiabá,Coritiba,4-3-3 defensivo,António Oliveira,8660,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061452
+9,dom 04/06/2023,18:30,Goiás,Cuiabá,4-2-3-1,António Oliveira,6987,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061417
+10,sáb 10/06/2023,18:30,Corinthians,Cuiabá,4-2-3-1,António Oliveira,40512,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061526
+11,qui 22/06/2023,20:00,Cuiabá,Botafogo,4-1-4-1,António Oliveira,13981,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061472
+12,seg 26/06/2023,21:00,Vasco da Gama,Cuiabá,4-3-3 ofensivo,António Oliveira,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061504
+13,dom 02/07/2023,18:00,Cuiabá,Santos,4-3-3 ofensivo,António Oliveira,13477,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061562
+14,sáb 08/07/2023,16:00,Cuiabá,Bahia,4-3-3 ofensivo,António Oliveira,10149,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061302
+15,dom 16/07/2023,16:00,Fortaleza,Cuiabá,4-3-3 ofensivo,António Oliveira,43048,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061431
+16,sáb 22/07/2023,18:30,Cuiabá,São Paulo,4-3-3 ofensivo,António Oliveira,34072,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061553
+17,sáb 29/07/2023,16:00,Internacional,Cuiabá,4-3-3 ofensivo,António Oliveira,32020,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061546
+18,dom 06/08/2023,20:00,Cuiabá,Flamengo,4-3-3 ofensivo,António Oliveira,33091,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061282
+19,ter 15/08/2023,20:00,Athletico-PR,Cuiabá,4-3-3 ofensivo,António Oliveira,18444,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061400
+20,sáb 19/08/2023,18:30,Cuiabá,Palmeiras,4-3-3 ofensivo,António Oliveira,19115,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061252
+21,dom 27/08/2023,11:00,Bragantino,Cuiabá,4-3-3 ofensivo,António Oliveira,3683,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061387
+22,dom 03/09/2023,11:00,Grêmio,Cuiabá,4-3-3 ofensivo,António Oliveira,39339,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061289
+23,sex 15/09/2023,20:00,Cuiabá,América-MG,4-3-3 ofensivo,António Oliveira,8509,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061222
+24,sáb 23/09/2023,21:00,Atlético-MG,Cuiabá,4-3-3 ofensivo,António Oliveira,36104,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061258
+25,sáb 30/09/2023,18:30,Cuiabá,Fluminense,4-3-3 defensivo,António Oliveira,8358,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061382
+26,sáb 14/10/2023,21:00,Cuiabá,Cruzeiro,4-3-3 defensivo,António Oliveira,12100,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061272
+27,qua 18/10/2023,20:00,Coritiba,Cuiabá,4-3-3 ofensivo,António Oliveira,20873,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061350
+28,sáb 21/10/2023,18:30,Cuiabá,Goiás,4-3-3 defensivo,António Oliveira,14956,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061332
+29,qua 25/10/2023,21:30,Cuiabá,Corinthians,4-3-3 ofensivo,António Oliveira,36620,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061462
+30,dom 29/10/2023,21:00,Botafogo,Cuiabá,4-3-3 ofensivo,António Oliveira,30659,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061314
+31,qui 02/11/2023,17:00,Cuiabá,Vasco da Gama,4-3-3 ofensivo,António Oliveira,27604,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061242
+32,seg 06/11/2023,21:00,Santos,Cuiabá,5-4-1 plano,António Oliveira,12923,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061226
+33,qui 09/11/2023,20:00,Bahia,Cuiabá,3-4-3 plano,António Oliveira,33931,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061341
+34,dom 12/11/2023,18:30,Cuiabá,Fortaleza,3-4-2-1,António Oliveira,14728,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061312
+35,dom 26/11/2023,18:30,São Paulo,Cuiabá,3-4-2-1,António Oliveira,34252,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061355
+36,qua 29/11/2023,20:00,Cuiabá,Internacional,3-4-2-1,António Oliveira,12527,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061372
+37,dom 03/12/2023,16:00,Flamengo,Cuiabá,3-4-2-1,António Oliveira,63148,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061473
+38,qua 06/12/2023,21:30,Cuiabá,Athletico-PR,5-3-2,António Oliveira,9689,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061492

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 20/08/2017,15:15,Barcelona,Betis,4-3-3 ofensivo,Ernesto Valverde,54560,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899566
+2,sáb 26/08/2017,13:15,Alavés,Barcelona,4-3-3 ofensivo,Ernesto Valverde,14934,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899930
+3,sáb 09/09/2017,15:45,Barcelona,Espanyol,4-4-2 duplo 6,Ernesto Valverde,72857,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899570
+4,sáb 16/09/2017,11:15,Getafe,Barcelona,4-3-3 ofensivo,Ernesto Valverde,14922,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899586
+5,ter 19/09/2017,17:00,Barcelona,Eibar,4-3-3 ofensivo,Ernesto Valverde,49693,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899594
+6,sáb 23/09/2017,15:45,Girona,Barcelona,4-4-2,Ernesto Valverde,13500,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899605
+7,dom 01/10/2017,11:15,Barcelona,Las Palmas,4-4-2,Ernesto Valverde,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899620
+8,sáb 14/10/2017,15:45,Atlético,Barcelona,4-4-2 duplo 6,Ernesto Valverde,64393,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899617
+9,sáb 21/10/2017,16:45,Barcelona,Málaga CF,4-3-3 ofensivo,Ernesto Valverde,74397,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899630
+10,sáb 28/10/2017,16:45,Athletic Club,Barcelona,4-4-2,Ernesto Valverde,43570,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899649
+11,sáb 04/11/2017,17:45,Barcelona,Sevilla,4-3-3 ofensivo,Ernesto Valverde,70723,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899665
+12,sáb 18/11/2017,13:15,Leganés,Barcelona,4-3-3 ofensivo,Ernesto Valverde,11454,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899654
+13,dom 26/11/2017,17:45,Valencia,Barcelona,4-4-2,Ernesto Valverde,47775,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899661
+14,sáb 02/12/2017,10:00,Barcelona,Celta de Vigo,4-4-2 losango,Ernesto Valverde,63208,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899684
+15,dom 10/12/2017,17:45,Villarreal,Barcelona,4-3-3 ofensivo,Ernesto Valverde,21087,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899695
+16,dom 17/12/2017,17:45,Barcelona,Deportivo,4-3-3 ofensivo,Ernesto Valverde,53607,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899707
+17,sáb 23/12/2017,10:00,Real Madrid,Barcelona,4-4-2,Ernesto Valverde,80264,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899698
+18,dom 07/01/2018,13:15,Barcelona,Levante,4-4-2 duplo 6,Ernesto Valverde,56380,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899719
+19,dom 14/01/2018,17:45,Real Sociedad,Barcelona,4-4-2,Ernesto Valverde,23227,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899736
+20,dom 21/01/2018,17:45,Betis,Barcelona,4-4-2,Ernesto Valverde,53426,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899738
+21,dom 28/01/2018,17:45,Barcelona,Alavés,4-4-2 duplo 6,Ernesto Valverde,62369,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899747
+22,dom 04/02/2018,13:15,Espanyol,Barcelona,4-4-2 duplo 6,Ernesto Valverde,23287,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899748
+23,dom 11/02/2018,13:15,Barcelona,Getafe,4-4-2 duplo 6,Ernesto Valverde,74079,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899779
+24,sáb 17/02/2018,13:15,Eibar,Barcelona,4-4-2,Ernesto Valverde,6760,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899791
+25,sáb 24/02/2018,16:45,Barcelona,Girona,4-4-2 duplo 6,Ernesto Valverde,85417,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899805
+26,qui 01/03/2018,17:00,Las Palmas,Barcelona,4-4-2,Ernesto Valverde,23778,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899803
+27,dom 04/03/2018,12:15,Barcelona,Atlético,4-4-2 duplo 6,Ernesto Valverde,90356,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899819
+28,sáb 10/03/2018,16:45,Málaga CF,Barcelona,4-3-3 ofensivo,Ernesto Valverde,26667,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899818
+29,dom 18/03/2018,12:15,Barcelona,Athletic Club,4-4-2 duplo 6,Ernesto Valverde,84053,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899826
+30,sáb 31/03/2018,15:45,Sevilla,Barcelona,4-3-3 ofensivo,Ernesto Valverde,37588,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899845
+31,sáb 07/04/2018,15:45,Barcelona,Leganés,4-4-2 duplo 6,Ernesto Valverde,72126,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899853
+32,sáb 14/04/2018,11:15,Barcelona,Valencia,4-4-2 duplo 6,Ernesto Valverde,69544,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899839
+33,ter 17/04/2018,16:00,Celta de Vigo,Barcelona,4-3-3 ofensivo,Ernesto Valverde,20347,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899871
+34,qua 09/05/2018,15:00,Barcelona,Villarreal,4-3-3 ofensivo,Ernesto Valverde,54743,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899862
+35,dom 29/04/2018,15:45,Deportivo,Barcelona,4-4-2 duplo 6,Ernesto Valverde,25721,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899867
+36,dom 06/05/2018,15:45,Barcelona,Real Madrid,4-4-2 duplo 6,Ernesto Valverde,97939,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899869
+37,dom 13/05/2018,15:45,Levante,Barcelona,4-3-3 ofensivo,Ernesto Valverde,22384,5:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899916
+38,dom 20/05/2018,15:45,Barcelona,Real Sociedad,4-3-3 ofensivo,Ernesto Valverde,84168,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899920

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 09/04/2022,16:30,Fluminense,Santos,3-4-2-1,Abel Braga,20787,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767773
+2,sáb 16/04/2022,21:00,Cuiabá,Fluminense,4-3-3 ofensivo,Abel Braga,10791,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767790
+3,sáb 23/04/2022,19:00,Fluminense,Internacional,3-4-1-2,Abel Braga,16176,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767793
+4,dom 01/05/2022,16:00,Coritiba,Fluminense,4-4-2 losango,Marcão,24622,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767831
+5,dom 08/05/2022,16:00,Palmeiras,Fluminense,4-2-3-1,Fernando Diniz,28776,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767815
+6,sáb 14/05/2022,21:00,Fluminense,Athletico-PR,4-3-1-2,Fernando Diniz,4722,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767803
+7,dom 22/05/2022,16:00,Fortaleza,Fluminense,4-4-1-1,Fernando Diniz,37507,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767838
+8,dom 29/05/2022,18:00,Fluminense,Flamengo,4-4-1-1,Fernando Diniz,57919,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767843
+9,dom 05/06/2022,11:00,Juventude,Fluminense,4-2-3-1,Fernando Diniz,2573,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767857
+10,qua 08/06/2022,21:30,Fluminense,Atlético-MG,4-4-1-1,Fernando Diniz,16143,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767883
+11,sáb 11/06/2022,19:00,Fluminense,Atlético-GO,4-2-3-1,Fernando Diniz,27859,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767873
+12,qua 15/06/2022,21:30,América-MG,Fluminense,4-2-3-1,Fernando Diniz,2599,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767862
+13,sáb 18/06/2022,19:00,Fluminense,Avaí,4-2-3-1,Fernando Diniz,15530,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767893
+14,sáb 25/06/2022,19:00,Botafogo,Fluminense,4-2-3-1,Fernando Diniz,29791,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767906
+15,sáb 02/07/2022,19:00,Fluminense,Corinthians,4-2-3-1,Fernando Diniz,44782,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767913
+16,sáb 09/07/2022,19:00,Fluminense,Ceará,4-2-3-1,Fernando Diniz,63707,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768143
+17,dom 17/07/2022,16:00,São Paulo,Fluminense,4-2-3-1,Fernando Diniz,47141,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768134
+18,qua 20/07/2022,19:00,Goiás,Fluminense,4-2-3-1,Fernando Diniz,11974,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768129
+19,dom 24/07/2022,16:00,Fluminense,Bragantino,4-4-2 duplo 6,Fernando Diniz,9877,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768113
+20,seg 01/08/2022,20:00,Santos,Fluminense,4-2-3-1,Fernando Diniz,11943,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768106
+21,dom 07/08/2022,16:00,Fluminense,Cuiabá,4-2-3-1,Fernando Diniz,46323,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768093
+22,dom 14/08/2022,19:00,Internacional,Fluminense,4-2-3-1,Fernando Diniz,14824,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768087
+23,sáb 20/08/2022,19:00,Fluminense,Coritiba,4-2-3-1,Fernando Diniz,24029,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768073
+24,sáb 27/08/2022,19:00,Fluminense,Palmeiras,4-2-3-1,Fernando Diniz,45084,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768063
+25,sáb 03/09/2022,19:00,Athletico-PR,Fluminense,4-2-3-1,Fernando Diniz,14037,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768061
+26,sáb 10/09/2022,19:00,Fluminense,Fortaleza,4-2-3-1,Fernando Diniz,26533,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768043
+27,dom 18/09/2022,16:00,Flamengo,Fluminense,4-2-3-1,Fernando Diniz,55170,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768033
+28,qua 28/09/2022,19:00,Fluminense,Juventude,4-2-3-1,Fernando Diniz,23396,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768003
+29,sáb 01/10/2022,15:00,Atlético-MG,Fluminense,4-2-3-1,Fernando Diniz,20858,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768012
+30,qua 05/10/2022,19:00,Atlético-GO,Fluminense,4-2-3-1,Fernando Diniz,6075,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768029
+31,dom 09/10/2022,18:00,Fluminense,América-MG,4-2-3-1,Fernando Diniz,23324,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767993
+32,dom 16/10/2022,19:00,Avaí,Fluminense,4-4-2 duplo 6,Fernando Diniz,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767990
+33,dom 23/10/2022,16:00,Fluminense,Botafogo,4-2-3-1,Fernando Diniz,36033,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767973
+34,qua 26/10/2022,21:45,Corinthians,Fluminense,4-3-2-1,Fernando Diniz,37920,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767945
+35,seg 31/10/2022,20:00,Ceará,Fluminense,4-3-2-1,Fernando Diniz,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767958
+36,sáb 05/11/2022,16:30,Fluminense,São Paulo,4-3-2-1,Fernando Diniz,41558,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767963
+37,qua 09/11/2022,19:00,Fluminense,Goiás,4-3-1-2,Fernando Diniz,35410,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767933
+38,dom 13/11/2022,16:00,Bragantino,Fluminense,4-2-3-1,Fernando Diniz,4706,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767924

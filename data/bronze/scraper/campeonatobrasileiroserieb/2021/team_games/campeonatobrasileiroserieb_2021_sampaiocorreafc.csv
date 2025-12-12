@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 31/05/2021,20:00,Sampaio Corrêa,Goiás,4-2-3-1,Felipe Surian,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546391
+2,sáb 05/06/2021,16:30,CSA,Sampaio Corrêa,4-2-3-1,Felipe Surian,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546397
+3,sex 11/06/2021,19:00,Sampaio Corrêa,Ponte Preta,4-2-3-1,Felipe Surian,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3573959
+4,qua 16/06/2021,18:00,Operário-PR,Sampaio Corrêa,4-2-3-1,Felipe Surian,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3573975
+5,sáb 19/06/2021,21:00,Sampaio Corrêa,Confiança,4-2-3-1,Felipe Surian,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3573985
+6,ter 22/06/2021,16:30,Brusque,Sampaio Corrêa,4-2-3-1,Felipe Surian,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3573990
+7,sáb 26/06/2021,16:30,Sampaio Corrêa,Botafogo,4-2-3-1,Felipe Surian,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580674
+8,ter 29/06/2021,21:30,Remo,Sampaio Corrêa,4-2-3-1,Felipe Surian,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580685
+9,sáb 03/07/2021,19:00,Sampaio Corrêa,Londrina,4-2-3-1,Felipe Surian,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584108
+10,sex 09/07/2021,19:00,Vasco da Gama,Sampaio Corrêa,4-2-3-1,Felipe Surian,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584129
+11,ter 13/07/2021,21:30,Vitória,Sampaio Corrêa,4-2-3-1,Felipe Surian,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584127
+12,sex 16/07/2021,21:30,Sampaio Corrêa,Coritiba,4-3-3 ofensivo,Felipe Surian,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584118
+13,ter 20/07/2021,19:00,Guarani,Sampaio Corrêa,4-2-3-1,Felipe Surian,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584141
+14,dom 25/07/2021,20:30,Sampaio Corrêa,CRB,4-2-3-1,Felipe Surian,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584158
+15,sáb 31/07/2021,19:00,Brasil Pelotas,Sampaio Corrêa,4-3-3 ofensivo,Felipe Surian,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584163
+16,sáb 07/08/2021,21:30,Vila Nova,Sampaio Corrêa,4-3-3 ofensivo,Felipe Surian,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584190
+17,qua 11/08/2021,21:30,Sampaio Corrêa,Náutico,4-3-3 ofensivo,Felipe Surian,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584188
+18,sáb 14/08/2021,16:30,Cruzeiro,Sampaio Corrêa,4-3-3 ofensivo,Felipe Surian,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584172
+19,ter 17/08/2021,21:30,Sampaio Corrêa,Avaí,4-2-3-1,Felipe Surian,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584208
+20,dom 22/08/2021,16:00,Goiás,Sampaio Corrêa,4-2-3-1,Felipe Surian,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584210
+21,sáb 28/08/2021,21:00,Sampaio Corrêa,CSA,4-2-3-1,Felipe Surian,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584228
+22,sex 03/09/2021,19:00,Ponte Preta,Sampaio Corrêa,4-3-3 ofensivo,Felipe Surian,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584251
+23,sáb 11/09/2021,16:30,Sampaio Corrêa,Operário-PR,4-2-3-1,Felipe Surian,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584248
+24,sex 17/09/2021,20:30,Confiança,Sampaio Corrêa,4-3-3 ofensivo,Felipe Surian,505,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584237
+25,ter 21/09/2021,19:00,Sampaio Corrêa,Brusque,4-3-3 ofensivo,Felipe Surian,2356,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584268
+26,dom 26/09/2021,18:15,Botafogo,Sampaio Corrêa,4-3-3 ofensivo,Felipe Surian,762,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584269
+27,qui 30/09/2021,21:30,Sampaio Corrêa,Remo,4-3-3 ofensivo,Felipe Surian,1770,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584288
+28,dom 03/10/2021,20:30,Londrina,Sampaio Corrêa,4-3-3 ofensivo,Felipe Surian,83,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584313
+29,sáb 09/10/2021,21:00,Sampaio Corrêa,Vasco da Gama,4-3-3 ofensivo,Felipe Surian,13993,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584308
+30,ter 12/10/2021,19:00,Sampaio Corrêa,Vitória,4-3-3 ofensivo,Felipe Surian,3720,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584298
+31,ter 19/10/2021,21:30,Coritiba,Sampaio Corrêa,4-2-3-1,Felipe Surian,2834,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584325
+32,qui 28/10/2021,19:00,Sampaio Corrêa,Guarani,4-2-3-1,Felipe Surian,850,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584338
+33,qui 04/11/2021,21:30,CRB,Sampaio Corrêa,4-3-3 ofensivo,João Brigatti,3487,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584344
+34,dom 07/11/2021,18:15,Sampaio Corrêa,Brasil Pelotas,4-2-3-1,João Brigatti,1180,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584378
+35,qui 11/11/2021,19:00,Sampaio Corrêa,Vila Nova,4-2-3-1,João Brigatti,873,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584368
+36,seg 15/11/2021,18:00,Náutico,Sampaio Corrêa,4-2-3-1,João Brigatti,2002,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584352
+37,qui 18/11/2021,21:00,Sampaio Corrêa,Cruzeiro,4-2-3-1,João Brigatti,2293,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584388
+38,dom 28/11/2021,16:00,Avaí,Sampaio Corrêa,4-2-3-1,João Brigatti,15588,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584396

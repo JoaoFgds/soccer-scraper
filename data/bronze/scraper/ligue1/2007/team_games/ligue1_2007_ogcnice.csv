@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 04/08/2007,15:00,SM Caen,Nice,4-3-1-2,Frédéric Antonetti,19405,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/74234
+2,sáb 11/08/2007,15:00,Nice,Strasbourg,4-3-3 ofensivo,Frédéric Antonetti,11815,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/74247
+3,qui 16/08/2007,16:00,AS Nancy,Nice,4-3-1-2,Frédéric Antonetti,18389,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/82421
+4,dom 19/08/2007,14:00,Nice,Rennes,4-3-1-2,Frédéric Antonetti,10858,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/82649
+5,sáb 25/08/2007,15:00,Nice,Toulouse,4-3-3 ofensivo,Frédéric Antonetti,9969,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/82669
+6,qua 29/08/2007,13:30,Marselha,Nice,4-3-3 ofensivo,Frédéric Antonetti,55490,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/82721
+7,dom 02/09/2007,15:40,Nice,Lens,4-3-1-2,Frédéric Antonetti,10858,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/82974
+8,sáb 15/09/2007,15:00,Auxerre,Nice,4-3-1-2,Frédéric Antonetti,7591,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/82980
+9,sáb 22/09/2007,15:00,Nice,Saint-Étienne,4-3-1-2,Frédéric Antonetti,11252,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/82989
+10,sáb 06/10/2007,14:00,Le Mans UC 72,Nice,4-3-1-2,Frédéric Antonetti,9602,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/82996
+11,sáb 20/10/2007,12:00,Nice,FC Metz,4-3-1-2,Frédéric Antonetti,9525,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83010
+12,sáb 27/10/2007,16:00,FC Lorient,Nice,4-3-1-2,Frédéric Antonetti,10868,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83019
+13,sáb 03/11/2007,18:00,Nice,FC Sochaux,5-3-2,Frédéric Antonetti,10221,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83031
+14,sáb 10/11/2007,18:00,Lille,Nice,4-3-1-2,Frédéric Antonetti,12286,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83037
+15,dom 25/11/2007,18:55,Nice,PSG,4-3-3 ofensivo,Frédéric Antonetti,11776,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83050
+16,sáb 01/12/2007,18:00,Monaco,Nice,4-3-3 ofensivo,Frédéric Antonetti,15394,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83061
+17,dom 09/12/2007,16:00,Nice,Bordeaux,4-3-1-2,Frédéric Antonetti,11988,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83071
+18,sáb 15/12/2007,15:10,Lyon,Nice,4-3-3 ofensivo,Frédéric Antonetti,37280,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83078
+19,sáb 22/12/2007,16:00,Nice,Valenciennes,4-3-3 ofensivo,Frédéric Antonetti,9640,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83091
+20,sáb 12/01/2008,18:00,Strasbourg,Nice,4-3-1-2,Frédéric Antonetti,15047,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83103
+21,dom 20/01/2008,16:00,Nice,AS Nancy,4-3-1-2,Frédéric Antonetti,11813,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83111
+22,qua 23/01/2008,18:30,Rennes,Nice,4-3-1-2,Frédéric Antonetti,23241,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83122
+23,sáb 26/01/2008,16:00,Toulouse,Nice,4-3-1-2,Frédéric Antonetti,15792,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83134
+24,dom 10/02/2008,16:55,Nice,Marselha,4-3-3 ofensivo,Frédéric Antonetti,15884,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83140
+25,sáb 16/02/2008,16:00,Lens,Nice,4-3-1-2,Frédéric Antonetti,31799,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83147
+26,sáb 23/02/2008,15:00,Nice,Auxerre,4-3-1-2,Frédéric Antonetti,10114,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83159
+27,dom 02/03/2008,13:00,Saint-Étienne,Nice,4-3-1-2,Frédéric Antonetti,28037,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83173
+28,sáb 08/03/2008,15:00,Nice,Le Mans UC 72,4-3-3 ofensivo,Frédéric Antonetti,9713,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83180
+29,sáb 15/03/2008,15:00,FC Metz,Nice,4-3-3 defensivo,Frédéric Antonetti,10683,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83190
+30,sáb 22/03/2008,15:00,Nice,FC Lorient,4-3-3 defensivo,Frédéric Antonetti,9878,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83200
+31,dom 30/03/2008,09:00,FC Sochaux,Nice,4-3-3 ofensivo,Frédéric Antonetti,19303,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83213
+32,sáb 05/04/2008,13:00,Nice,Lille,4-3-1-2,Frédéric Antonetti,9861,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83220
+33,dom 13/04/2008,13:55,PSG,Nice,4-3-3 ofensivo,Frédéric Antonetti,35918,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83232
+34,sáb 19/04/2008,13:00,Nice,Monaco,4-3-3 ofensivo,Frédéric Antonetti,13455,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83240
+35,sáb 26/04/2008,13:00,Bordeaux,Nice,4-4-2 duplo 6,Frédéric Antonetti,29097,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83245
+36,sáb 03/05/2008,10:10,Nice,Lyon,4-3-3 ofensivo,Frédéric Antonetti,14206,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83261
+37,sáb 10/05/2008,15:45,Valenciennes,Nice,4-3-1-2,Frédéric Antonetti,14546,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83274
+38,sáb 17/05/2008,15:50,Nice,SM Caen,4-3-1-2,Frédéric Antonetti,11540,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83281

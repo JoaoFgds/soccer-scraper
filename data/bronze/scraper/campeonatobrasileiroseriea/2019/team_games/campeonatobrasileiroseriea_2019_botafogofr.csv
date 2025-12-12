@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 27/04/2019,16:00,São Paulo,Botafogo,4-3-1-2,Eduardo Barroca,26533,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3173968
+2,qui 02/05/2019,20:00,Botafogo,Bahia,4-3-3 defensivo,Eduardo Barroca,7568,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3180862
+3,dom 05/05/2019,16:00,Botafogo,Fortaleza,4-3-3 defensivo,Eduardo Barroca,13749,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3180868
+4,sáb 11/05/2019,16:00,Fluminense,Botafogo,4-3-3 defensivo,Eduardo Barroca,24600,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3180932
+5,dom 19/05/2019,16:00,Goiás,Botafogo,4-3-1-2,Eduardo Barroca,16347,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3180947
+6,sáb 25/05/2019,16:00,Botafogo,Palmeiras,4-1-4-1,Eduardo Barroca,33143,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3180953
+7,dom 02/06/2019,11:00,Botafogo,Vasco da Gama,4-1-4-1,Eduardo Barroca,19503,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3181104
+8,dom 09/06/2019,19:00,CSA,Botafogo,4-1-4-1,Eduardo Barroca,11602,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3181119
+9,qua 12/06/2019,19:15,Botafogo,Grêmio,4-1-4-1,Eduardo Barroca,17757,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3181141
+10,dom 14/07/2019,16:00,Cruzeiro,Botafogo,4-2-3-1,Eduardo Barroca,18012,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3193490
+11,dom 21/07/2019,11:00,Botafogo,Santos,4-2-3-1,Eduardo Barroca,16248,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3193504
+12,dom 28/07/2019,16:00,Flamengo,Botafogo,4-2-3-1,Eduardo Barroca,45622,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3193513
+13,dom 04/08/2019,16:00,Avaí,Botafogo,4-2-3-1,Eduardo Barroca,7140,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195271
+14,dom 11/08/2019,16:00,Botafogo,Athletico-PR,4-2-3-1,Eduardo Barroca,7992,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195280
+15,sáb 17/08/2019,17:00,Corinthians,Botafogo,4-2-3-1,Eduardo Barroca,39122,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195353
+16,seg 26/08/2019,20:00,Botafogo,Chapecoense,4-2-3-1,Eduardo Barroca,8241,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195432
+17,sáb 31/08/2019,21:00,Internacional,Botafogo,4-2-3-1,Eduardo Barroca,9652,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3197456
+18,dom 08/09/2019,16:00,Botafogo,Atlético-MG,4-2-3-1,Eduardo Barroca,12098,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3197464
+19,sáb 14/09/2019,21:00,Ceará,Botafogo,4-2-3-1,Eduardo Barroca,20906,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3197501
+20,sáb 21/09/2019,11:00,Botafogo,São Paulo,4-2-3-1,Eduardo Barroca,18471,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3255761
+21,qua 25/09/2019,21:30,Bahia,Botafogo,4-4-1-1,Eduardo Barroca,19769,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3255772
+22,seg 30/09/2019,20:00,Fortaleza,Botafogo,?,Eduardo Barroca,24142,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3260658
+23,dom 06/10/2019,16:00,Botafogo,Fluminense,4-2-3-1,Eduardo Barroca,12404,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3260665
+24,qua 09/10/2019,19:15,Botafogo,Goiás,4-2-3-1,Bruno Lazaroni,5574,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3265338
+25,sáb 12/10/2019,21:00,Palmeiras,Botafogo,4-2-3-1,Bruno Lazaroni,19028,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3265350
+26,qua 16/10/2019,21:30,Vasco da Gama,Botafogo,4-2-3-1,Alberto Valentim,16604,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3265511
+27,seg 21/10/2019,20:00,Botafogo,CSA,4-2-3-1,Alberto Valentim,18199,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3265523
+28,dom 27/10/2019,16:00,Grêmio,Botafogo,4-2-3-1,Alberto Valentim,9786,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3268459
+29,qui 31/10/2019,21:30,Botafogo,Cruzeiro,4-2-3-1,Alberto Valentim,22412,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3268471
+30,dom 03/11/2019,19:00,Santos,Botafogo,4-2-3-1,Alberto Valentim,7525,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3272418
+31,qua 06/11/2019,20:00,Botafogo,Flamengo,4-1-4-1,Alberto Valentim,23092,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3272428
+32,dom 10/11/2019,20:00,Botafogo,Avaí,4-2-3-1,Alberto Valentim,19075,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3273311
+33,sáb 16/11/2019,20:00,Athletico-PR,Botafogo,4-2-3-1,Alberto Valentim,18091,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3277732
+34,dom 24/11/2019,18:00,Botafogo,Corinthians,4-2-3-1,Alberto Valentim,22548,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3277743
+35,ter 26/11/2019,20:00,Chapecoense,Botafogo,4-1-4-1,Alberto Valentim,3582,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3277778
+36,sex 29/11/2019,20:00,Botafogo,Internacional,4-2-3-1,Alberto Valentim,30596,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3277806
+37,ter 03/12/2019,20:00,Atlético-MG,Botafogo,4-2-3-1,Alberto Valentim,27924,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3285718
+38,dom 08/12/2019,16:00,Botafogo,Ceará,4-1-4-1,Alberto Valentim,25900,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3285733

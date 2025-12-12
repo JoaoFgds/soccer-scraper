@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 20/08/1994,10:30,Frankfurt,Colônia,3-5-2,Jupp Heynckes,44000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16627
+2,ter 23/08/1994,15:15,K'lautern,Frankfurt,3-5-2,Jupp Heynckes,37000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16631
+3,dom 28/08/1994,13:00,Leverkusen,Frankfurt,?,Jupp Heynckes,25000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16646
+4,sáb 03/09/1994,10:30,Frankfurt,Dortmund,3-5-2,Jupp Heynckes,47500,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16650
+5,dom 18/09/1994,13:00,Stuttgart,Frankfurt,4-4-2 líbero losango,Jupp Heynckes,35000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16664
+6,sex 23/09/1994,15:00,Frankfurt,Bayer 05,?,Jupp Heynckes,16000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16667
+7,sáb 01/10/1994,11:30,Schalke,Frankfurt,?,Jupp Heynckes,33160,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16680
+8,sex 07/10/1994,16:00,Frankfurt,Karlsruher,?,Jupp Heynckes,30700,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16685
+9,sáb 15/10/1994,11:30,Bayern,Frankfurt,?,Jupp Heynckes,63000,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16698
+10,sáb 22/10/1994,12:30,Frankfurt,Dynamo Dresden,?,Jupp Heynckes,22800,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16707
+11,sáb 29/10/1994,12:30,Werder Bremen,Frankfurt,3-5-2 plano,Jupp Heynckes,30732,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16713
+12,sáb 05/11/1994,12:30,Frankfurt,Bochum,4-4-2 líbero plano,Jupp Heynckes,20000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16725
+13,sáb 12/11/1994,12:30,Freiburg,Frankfurt,4-4-2 líbero plano,Jupp Heynckes,18000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16731
+14,sáb 19/11/1994,12:30,Frankfurt,M'gladbach,3-5-2 plano,Jupp Heynckes,40000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16742
+15,dom 27/11/1994,15:00,MSV Duisburg,Frankfurt,3-5-2,Jupp Heynckes,18000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16754
+16,sáb 03/12/1994,12:30,Frankfurt,Hamburgo,?,Jupp Heynckes,28000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16762
+17,sáb 10/12/1994,12:30,1860 Munique,Frankfurt,?,Jupp Heynckes,27500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16771
+18,sex 17/02/1995,17:00,Colônia,Frankfurt,?,Jupp Heynckes,26000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16774
+19,sáb 25/02/1995,11:30,Frankfurt,K'lautern,3-5-2,Jupp Heynckes,24000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16787
+20,sáb 04/03/1995,11:30,Frankfurt,Leverkusen,3-5-2,Jupp Heynckes,20000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16796
+21,sáb 11/03/1995,11:30,Dortmund,Frankfurt,3-5-2,Jupp Heynckes,40000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16802
+22,sáb 18/03/1995,11:30,Frankfurt,Stuttgart,3-5-2 plano,Jupp Heynckes,21000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16815
+23,sex 24/03/1995,16:00,Bayer 05,Frankfurt,3-5-2 plano,Jupp Heynckes,11000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16820
+24,sex 31/03/1995,15:00,Frankfurt,Schalke,3-5-2 plano,Jupp Heynckes,19000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16827
+25,sáb 08/04/1995,10:30,Karlsruher,Frankfurt,?,Karl-Heinz Körbel,26000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16842
+26,sáb 15/04/1995,10:30,Frankfurt,Bayern,3-5-2,Karl-Heinz Körbel,58000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16851
+27,sáb 22/04/1995,10:30,Dynamo Dresden,Frankfurt,3-5-2 ofensivo,Karl-Heinz Körbel,12000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16861
+28,dom 30/04/1995,13:00,Frankfurt,Werder Bremen,3-5-2 plano,Karl-Heinz Körbel,34700,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16871
+29,sáb 06/05/1995,10:30,Bochum,Frankfurt,3-5-2 plano,Karl-Heinz Körbel,19037,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16878
+30,sáb 13/05/1995,10:30,Frankfurt,Freiburg,3-4-2-1,Karl-Heinz Körbel,35200,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16885
+31,dom 21/05/1995,13:00,M'gladbach,Frankfurt,3-5-2 plano,Karl-Heinz Körbel,32700,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16898
+32,sáb 27/05/1995,10:30,Frankfurt,MSV Duisburg,3-5-2,Karl-Heinz Körbel,19200,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16905
+33,sáb 10/06/1995,10:30,Hamburgo,Frankfurt,3-5-2 plano,Karl-Heinz Körbel,18500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16915
+34,sáb 17/06/1995,10:30,Frankfurt,1860 Munique,3-5-2,Karl-Heinz Körbel,28500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/16924

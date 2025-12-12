@@ -1,0 +1,29 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 09/08/2019,19:00,Brest,Toulouse,4-3-3 ofensivo,Alain Casanova,14238,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195024
+2,sáb 17/08/2019,15:00,Toulouse,Dijon,4-3-3 ofensivo,Alain Casanova,10583,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195255
+3,dom 25/08/2019,16:00,PSG,Toulouse,5-3-2,Alain Casanova,47325,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199377
+4,sáb 31/08/2019,15:00,Toulouse,Amiens SC,4-3-3 ofensivo,Alain Casanova,10184,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199388
+5,dom 15/09/2019,12:00,Saint-Étienne,Toulouse,4-2-3-1,Alain Casanova,24240,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199402
+6,sáb 21/09/2019,15:00,Nîmes Olympique,Toulouse,4-2-3-1,Alain Casanova,12258,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199413
+7,qua 25/09/2019,14:00,Toulouse,Angers,4-3-3 ofensivo,Alain Casanova,10177,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199424
+8,sáb 28/09/2019,15:00,FC Metz,Toulouse,4-3-3 ofensivo,Alain Casanova,15042,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199431
+9,sáb 05/10/2019,15:00,Toulouse,Bordeaux,4-3-3 ofensivo,Alain Casanova,20084,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199443
+10,sáb 19/10/2019,15:00,Toulouse,Lille,4-2-3-1,Antoine Kombouaré,12277,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199450
+11,dom 27/10/2019,11:00,Rennes,Toulouse,4-4-2 duplo 6,Antoine Kombouaré,22918,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199458
+12,sáb 02/11/2019,16:00,Toulouse,Lyon,4-4-2 duplo 6,Antoine Kombouaré,16270,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199472
+13,dom 10/11/2019,13:00,Montpellier,Toulouse,4-3-3 ofensivo,Antoine Kombouaré,12734,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199478
+14,dom 24/11/2019,17:00,Toulouse,Marselha,4-4-2 duplo 6,Antoine Kombouaré,23002,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199487
+15,sáb 30/11/2019,16:00,Nantes,Toulouse,4-3-3 ofensivo,Antoine Kombouaré,13751,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199501
+16,qua 04/12/2019,15:00,Toulouse,Monaco,3-4-3 plano,Antoine Kombouaré,13030,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199516
+17,sáb 07/12/2019,16:00,Strasbourg,Toulouse,4-2-3-1,Antoine Kombouaré,23634,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199524
+18,sáb 14/12/2019,16:00,Toulouse,Reims,4-3-3 ofensivo,Antoine Kombouaré,12577,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199533
+19,sáb 21/12/2019,16:45,Nice,Toulouse,4-2-3-1,Antoine Kombouaré,17945,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199545
+20,sáb 11/01/2020,16:00,Toulouse,Brest,4-4-2,Denis Zanko,13666,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199548
+21,dom 26/01/2020,11:00,Lyon,Toulouse,4-1-4-1,Denis Zanko,42582,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199565
+22,sáb 01/02/2020,16:00,Amiens SC,Toulouse,4-1-4-1,Denis Zanko,10992,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199575
+23,qua 05/02/2020,15:00,Toulouse,Strasbourg,4-3-3 ofensivo,Denis Zanko,16956,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199582
+24,sáb 08/02/2020,13:30,Marselha,Toulouse,4-1-4-1,Denis Zanko,53995,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199598
+25,sáb 15/02/2020,16:00,Toulouse,Nice,4-1-4-1,Denis Zanko,12903,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199608
+26,sáb 22/02/2020,16:00,Lille,Toulouse,4-1-4-1,Denis Zanko,37034,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199622
+27,sáb 29/02/2020,16:00,Toulouse,Rennes,4-1-4-1,Denis Zanko,13301,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199634
+28,sáb 07/03/2020,16:00,Dijon,Toulouse,4-3-3 ofensivo,Denis Zanko,12549,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199641

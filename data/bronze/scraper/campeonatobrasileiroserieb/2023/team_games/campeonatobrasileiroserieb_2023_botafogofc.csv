@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 15/04/2023,18:15,Juventude,Botafogo-SP,4-2-3-1,Adilson Batista,3243,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4056137
+2,sex 21/04/2023,19:00,Botafogo-SP,Sampaio Corrêa,4-2-3-1,Adilson Batista,5180,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4059114
+3,sáb 29/04/2023,17:00,Botafogo-SP,CRB,4-2-3-1,Adilson Batista,4124,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060056
+4,ter 02/05/2023,19:00,Ponte Preta,Botafogo-SP,4-2-3-1,Adilson Batista,3271,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060963
+5,sex 05/05/2023,21:30,Botafogo-SP,Vitória,4-2-3-1,Adilson Batista,3426,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060876
+6,dom 14/05/2023,18:00,ABC,Botafogo-SP,4-2-3-1,Adilson Batista,3231,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060892
+7,sáb 20/05/2023,16:00,Sport,Botafogo-SP,4-2-3-1,Adilson Batista,18233,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060958
+8,ter 23/05/2023,19:00,Botafogo-SP,Mirassol,4-2-3-1,Adilson Batista,3464,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060896
+9,sáb 27/05/2023,18:00,Atlético-GO,Botafogo-SP,4-2-3-1,Adilson Batista,2986,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060924
+10,sex 02/06/2023,19:00,Botafogo-SP,Tombense,4-2-3-1,Adilson Batista,3463,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060936
+11,ter 06/06/2023,21:30,Botafogo-SP,Ituano,4-2-3-1,Adilson Batista,2794,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060916
+12,dom 11/06/2023,15:30,Avaí,Botafogo-SP,4-2-3-1,Adilson Batista,4301,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060945
+13,sáb 24/06/2023,11:00,Botafogo-SP,Vila Nova,4-3-3 ofensivo,Adilson Batista,3456,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060976
+14,ter 27/06/2023,21:30,Novorizontino,Botafogo-SP,4-3-3 ofensivo,José Leão,1696,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060997
+15,seg 03/07/2023,20:15,Botafogo-SP,Guarani,4-2-3-1,Marcelo Chamusca,4585,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061036
+16,sex 07/07/2023,21:30,Ceará,Botafogo-SP,4-2-3-1,Marcelo Chamusca,19428,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061019
+17,qua 23/08/2023,21:30,Botafogo-SP,Chapecoense,4-4-2,Marcelo Chamusca,1893,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060986
+18,seg 17/07/2023,20:00,Botafogo-SP,Criciúma,4-2-3-1,Marcelo Chamusca,4384,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061026
+19,seg 24/07/2023,19:00,Londrina,Botafogo-SP,4-2-3-1,Marcelo Chamusca,2054,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061051
+20,sáb 29/07/2023,15:30,Botafogo-SP,Juventude,4-2-3-1,Marcelo Chamusca,5180,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061056
+21,ter 01/08/2023,19:00,Sampaio Corrêa,Botafogo-SP,4-4-2,Marcelo Chamusca,2020,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061089
+22,sáb 05/08/2023,17:00,CRB,Botafogo-SP,4-4-2,Marcelo Chamusca,7963,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061082
+23,sáb 12/08/2023,17:00,Botafogo-SP,Ponte Preta,4-3-3 ofensivo,Marcelo Chamusca,5949,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061106
+24,sex 18/08/2023,19:00,Vitória,Botafogo-SP,4-4-2,Marcelo Chamusca,21621,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061118
+25,seg 28/08/2023,20:00,Botafogo-SP,ABC,4-4-2,Marcelo Chamusca,1837,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061096
+26,dom 03/09/2023,18:00,Botafogo-SP,Sport,3-4-3 plano,Marcelo Chamusca,2023,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061146
+27,sáb 09/09/2023,20:30,Mirassol,Botafogo-SP,4-4-2,Marcelo Chamusca,1303,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061137
+28,sáb 16/09/2023,17:00,Botafogo-SP,Atlético-GO,3-4-3 plano,Marcelo Chamusca,2049,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061126
+29,sáb 23/09/2023,18:00,Tombense,Botafogo-SP,4-4-2,Marcelo Chamusca,550,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061181
+30,sáb 30/09/2023,17:00,Ituano,Botafogo-SP,4-4-2,Marcelo Chamusca,1165,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061166
+31,sáb 07/10/2023,17:00,Botafogo-SP,Avaí,4-4-2,Marcelo Chamusca,2346,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061156
+32,qua 11/10/2023,21:30,Vila Nova,Botafogo-SP,3-4-3 plano,Marcelo Chamusca,3494,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061194
+33,sáb 21/10/2023,17:00,Botafogo-SP,Novorizontino,3-4-3 plano,Marcelo Chamusca,1736,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061186
+34,sex 27/10/2023,21:30,Guarani,Botafogo-SP,3-4-3 plano,Marcelo Chamusca,8479,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060903
+35,sáb 04/11/2023,17:00,Botafogo-SP,Ceará,3-4-3 plano,Marcelo Chamusca,1448,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060865
+36,sáb 11/11/2023,17:00,Chapecoense,Botafogo-SP,3-4-3 plano,Marcelo Chamusca,4415,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061010
+37,sáb 18/11/2023,17:00,Criciúma,Botafogo-SP,4-4-2,Marcelo Chamusca,18673,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061065
+38,sáb 25/11/2023,17:00,Botafogo-SP,Londrina,4-4-2,José Leão,1537,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061206

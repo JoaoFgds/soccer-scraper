@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 09/04/2022,19:00,Atlético-GO,Flamengo,4-2-3-1,Umberto Louzer,10496,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767779
+2,dom 17/04/2022,18:00,Bragantino,Atlético-GO,4-2-3-1,Umberto Louzer,2351,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767784
+3,dom 24/04/2022,18:30,Atlético-GO,Botafogo,4-2-3-1,Umberto Louzer,4427,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767799
+4,sáb 30/04/2022,19:00,Cuiabá,Atlético-GO,4-2-3-1,Umberto Louzer,4517,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767830
+5,dom 08/05/2022,16:00,Atlético-GO,Goiás,4-2-3-1,Umberto Louzer,5431,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767819
+6,sáb 14/05/2022,19:00,Atlético-MG,Atlético-GO,4-2-3-1,Umberto Louzer,20749,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767802
+7,sáb 21/05/2022,16:30,Atlético-GO,Coritiba,4-2-3-1,Jorginho,4676,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767839
+8,seg 30/05/2022,20:00,Internacional,Atlético-GO,4-2-3-1,Jorginho,11050,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767847
+9,sáb 04/06/2022,20:30,Atlético-GO,Corinthians,4-2-3-1,Jorginho,12089,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767859
+10,qua 08/06/2022,20:30,Atlético-GO,Avaí,4-2-3-1,Jorginho,5251,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767889
+11,sáb 11/06/2022,19:00,Fluminense,Atlético-GO,4-2-3-1,Jorginho,27859,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767873
+12,qui 16/06/2022,18:00,Palmeiras,Atlético-GO,4-2-3-1,Jorginho,38888,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767865
+13,dom 19/06/2022,18:00,Atlético-GO,Juventude,4-2-3-1,Jorginho,4524,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767899
+14,dom 26/06/2022,18:00,Ceará,Atlético-GO,4-2-3-1,Jorginho,21337,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767908
+15,dom 03/07/2022,16:00,Atlético-GO,São Paulo,4-2-3-1,Jorginho,12089,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767919
+16,dom 10/07/2022,18:00,Santos,Atlético-GO,4-2-3-1,Jorginho,8588,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768146
+17,dom 17/07/2022,18:00,Atlético-GO,Fortaleza,4-2-3-1,Jorginho,7262,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768139
+18,qua 20/07/2022,19:30,Athletico-PR,Atlético-GO,4-2-3-1,Jorginho,22426,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768131
+19,dom 24/07/2022,18:00,Atlético-GO,América-MG,4-2-3-1,Jorginho,5098,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768119
+20,sáb 30/07/2022,20:30,Flamengo,Atlético-GO,4-1-4-1,Jorginho,59999,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768103
+21,sáb 06/08/2022,19:00,Atlético-GO,Bragantino,4-2-3-1,Jorginho,5930,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768099
+22,sáb 13/08/2022,21:00,Botafogo,Atlético-GO,4-2-3-1,Jorginho,12230,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768086
+23,dom 21/08/2022,18:00,Atlético-GO,Cuiabá,4-2-3-1,Jorginho,4578,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768079
+24,sáb 27/08/2022,16:30,Goiás,Atlético-GO,4-2-3-1,Jorginho,13411,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768069
+25,dom 04/09/2022,18:00,Atlético-GO,Atlético-MG,4-4-2,Eduardo Baptista,7083,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768059
+26,dom 11/09/2022,18:00,Coritiba,Atlético-GO,4-2-3-1,Eduardo Baptista,15046,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768051
+27,seg 19/09/2022,20:00,Atlético-GO,Internacional,4-2-3-1,Eduardo Baptista,5185,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768039
+28,qua 28/09/2022,19:00,Corinthians,Atlético-GO,4-2-3-1,Eduardo Baptista,32398,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768005
+29,sáb 01/10/2022,19:00,Avaí,Atlético-GO,4-2-3-1,Eduardo Souza,8062,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768020
+30,qua 05/10/2022,19:00,Atlético-GO,Fluminense,4-2-3-1,Eduardo Souza,6075,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768029
+31,seg 10/10/2022,18:30,Atlético-GO,Palmeiras,4-3-1-2,Eduardo Souza,12089,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767999
+32,dom 16/10/2022,18:00,Juventude,Atlético-GO,4-2-3-1,Eduardo Souza,1489,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767987
+33,dom 23/10/2022,18:00,Atlético-GO,Ceará,4-3-3 ofensivo,Eduardo Souza,10166,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767979
+34,qui 27/10/2022,19:00,São Paulo,Atlético-GO,4-3-3 ofensivo,Eduardo Souza,17598,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767944
+35,qua 02/11/2022,19:00,Atlético-GO,Santos,4-2-3-1,Eduardo Souza,9090,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767959
+36,dom 06/11/2022,16:00,Fortaleza,Atlético-GO,4-2-3-1,Eduardo Souza,44810,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767968
+37,qua 09/11/2022,21:30,Atlético-GO,Athletico-PR,4-2-3-1,Eduardo Souza,4185,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767939
+38,dom 13/11/2022,16:00,América-MG,Atlético-GO,4-2-3-1,Eduardo Souza,5005,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767922

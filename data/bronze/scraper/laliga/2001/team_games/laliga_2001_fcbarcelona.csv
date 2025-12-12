@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 26/08/2001,16:00,Sevilla,Barcelona,3-4-3 plano,Carles Rexach,42000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1081902
+2,dom 09/09/2001,15:00,Barcelona,Rayo Vallecano,3-5-2,Carles Rexach,65000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1081908
+3,sáb 15/09/2001,16:30,Osasuna,Barcelona,4-3-3 ofensivo,Carles Rexach,14800,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1081923
+4,sáb 22/09/2001,16:00,Barcelona,Tenerife,4-4-2,Carles Rexach,40000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1081930
+5,sáb 29/09/2001,14:15,Real Sociedad,Barcelona,4-2-3-1,Carles Rexach,26817,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1082055
+6,qua 03/10/2001,15:45,Barcelona,Mallorca,4-4-2 duplo 6,Carles Rexach,75000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1082069
+7,sáb 06/10/2001,16:30,Deportivo,Barcelona,3-5-2,Carles Rexach,35500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1082076
+8,dom 14/10/2001,15:00,Barcelona,Valencia,4-4-2 losango,Carles Rexach,90000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1082092
+9,sáb 20/10/2001,15:00,Málaga CF,Barcelona,4-4-2 duplo 6,Carles Rexach,32000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1082095
+10,sáb 27/10/2001,17:30,Barcelona,Betis,4-4-2 duplo 6,Carles Rexach,85000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1082108
+11,dom 04/11/2001,17:00,Real Madrid,Barcelona,4-3-3 ofensivo,Carles Rexach,70000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1083516
+12,dom 11/11/2001,17:00,Barcelona,Valladolid,4-4-2 duplo 6,Carles Rexach,30000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1083530
+13,sáb 17/11/2001,19:00,Las Palmas,Barcelona,4-4-2 duplo 6,Carles Rexach,22000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1083543
+14,sáb 24/11/2001,18:30,Barcelona,Athletic Club,4-4-2 duplo 6,Carles Rexach,70000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1083551
+15,sáb 01/12/2001,18:30,Alavés,Barcelona,4-3-3 ofensivo,Carles Rexach,14200,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1083563
+16,dom 09/12/2001,17:00,Barcelona,Celta de Vigo,4-3-3 ofensivo,Carles Rexach,75000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089640
+17,sáb 15/12/2001,14:00,Villarreal,Barcelona,4-4-2 duplo 6,Carles Rexach,22000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089644
+18,sáb 22/12/2001,18:30,Espanyol,Barcelona,4-4-2 duplo 6,Carles Rexach,25100,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089654
+19,dom 06/01/2002,17:00,Barcelona,Zaragoza,4-4-2 duplo 6,Carles Rexach,40000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089670
+20,dom 13/01/2002,14:00,Barcelona,Sevilla,4-4-2 duplo 6,Carles Rexach,60000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089677
+21,dom 20/01/2002,14:00,Rayo Vallecano,Barcelona,4-4-2 duplo 6,Carles Rexach,15500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089698
+22,dom 27/01/2002,14:00,Barcelona,Osasuna,4-3-3 ofensivo,Carles Rexach,45000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089708
+23,sáb 02/02/2002,19:00,Tenerife,Barcelona,3-5-2 plano,Carles Rexach,22000,0:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089716
+24,qua 06/02/2002,18:00,Barcelona,Real Sociedad,4-2-3-1,Carles Rexach,50000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089727
+25,sáb 09/02/2002,17:30,Mallorca,Barcelona,4-2-3-1,Carles Rexach,20000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089732
+26,sáb 16/02/2002,18:30,Barcelona,Deportivo,4-4-2 losango,Carles Rexach,45000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089744
+27,sáb 23/02/2002,17:30,Valencia,Barcelona,4-2-3-1,Carles Rexach,50000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089754
+28,dom 03/03/2002,13:00,Barcelona,Málaga CF,3-5-2,Carles Rexach,55000,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089766
+29,sáb 09/03/2002,16:30,Betis,Barcelona,4-4-2 losango,Carles Rexach,51000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089773
+30,sáb 16/03/2002,17:30,Barcelona,Real Madrid,4-4-2 losango,Carles Rexach,95000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089783
+31,dom 24/03/2002,16:00,Valladolid,Barcelona,4-3-3 ofensivo,Carles Rexach,16300,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089812
+32,sáb 30/03/2002,17:00,Barcelona,Las Palmas,4-4-2 duplo 6,Carles Rexach,44800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089816
+33,sáb 06/04/2002,16:30,Athletic Club,Barcelona,4-3-3 ofensivo,Carles Rexach,28000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089825
+34,dom 14/04/2002,13:30,Barcelona,Alavés,4-3-3 ofensivo,Carles Rexach,63000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089839
+35,sáb 20/04/2002,15:45,Celta de Vigo,Barcelona,3-4-3 plano,Carles Rexach,28000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089843
+36,sáb 27/04/2002,16:00,Barcelona,Villarreal,3-5-2,Carles Rexach,40000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089878
+37,dom 05/05/2002,15:00,Barcelona,Espanyol,3-5-2,Carles Rexach,55000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089888
+38,sáb 11/05/2002,16:00,Zaragoza,Barcelona,4-4-2 losango,Carles Rexach,20000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089899

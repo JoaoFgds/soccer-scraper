@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 01/08/1997,19:00,Wasquehal,Mulhouse S-A,?,Gilles Bourges,1625,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008458
+2,sex 08/08/1997,19:00,Mulhouse S-A,SM Caen,?,Gilles Bourges,2037,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008471
+3,dom 17/08/1997,19:00,Stade Lavallois,Mulhouse S-A,?,Gilles Bourges,4138,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008481
+4,ter 19/08/1997,19:00,Mulhouse S-A,Chamois Niort,?,Gilles Bourges,2046,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008493
+5,sex 22/08/1997,19:00,SC Toulon 83,Mulhouse S-A,?,Gilles Bourges,2387,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012057
+6,sex 29/08/1997,19:00,Mulhouse S-A,Nice,?,Gilles Bourges,2369,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008515
+7,ter 02/09/1997,19:00,Louh.-Cuiseaux,Mulhouse S-A,?,Gilles Bourges,2028,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008530
+8,sex 05/09/1997,19:00,Mulhouse S-A,AS Beauvais,?,Gilles Bourges,2063,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008543
+9,sex 12/09/1997,19:00,Lille,Mulhouse S-A,?,Gilles Bourges,10375,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008553
+10,sex 19/09/1997,19:00,Mulhouse S-A,FC Martigues,?,Gilles Bourges,2064,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008815
+11,ter 23/09/1997,19:00,Saint-Étienne,Mulhouse S-A,?,Gilles Bourges,4969,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008830
+12,sáb 27/09/1997,19:00,Mulhouse S-A,Nîmes Olympique,?,Gilles Bourges,2466,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008841
+13,sex 03/10/1997,19:00,Le Mans UC 72,Mulhouse S-A,?,Gilles Bourges,2580,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008845
+14,ter 07/10/1997,20:00,Mulhouse S-A,AS Red Star 93,?,Gilles Bourges,2211,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008862
+15,ter 14/10/1997,20:00,FC Lorient,Mulhouse S-A,?,Gilles Bourges,5000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008868
+16,qui 16/10/1997,20:00,Mulhouse S-A,ASOA Valence,?,Gilles Bourges,2873,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008881
+17,sex 24/10/1997,20:00,FC Gueugnon,Mulhouse S-A,?,Gilles Bourges,2812,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008890
+18,dom 02/11/1997,21:00,Mulhouse S-A,Amiens SC,?,Gilles Bourges,4786,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008903
+19,sex 07/11/1997,21:00,FC Sochaux,Mulhouse S-A,?,Gilles Bourges,5064,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008920
+20,sex 14/11/1997,21:00,AS Nancy,Mulhouse S-A,?,Gilles Bourges,6000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008929
+21,seg 17/11/1997,21:00,Mulhouse S-A,Troyes,?,Gilles Bourges,2042,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008933
+22,sex 21/11/1997,21:00,SM Caen,Mulhouse S-A,?,Gilles Bourges,6564,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008954
+23,ter 02/12/1997,21:00,Mulhouse S-A,Stade Lavallois,?,Gilles Bourges,1750,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008964
+24,sex 05/12/1997,21:00,Chamois Niort,Mulhouse S-A,?,Gilles Bourges,2998,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008968
+25,qua 12/11/1997,21:00,Mulhouse S-A,SC Toulon 83,?,Gilles Bourges,3088,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008977
+26,sex 09/01/1998,21:00,Nice,Mulhouse S-A,?,Gilles Bourges,3544,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1008991
+27,ter 20/01/1998,21:00,Mulhouse S-A,Louh.-Cuiseaux,?,Gilles Bourges,1868,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009002
+28,ter 20/01/1998,21:00,AS Beauvais,Mulhouse S-A,?,Gilles Bourges,2128,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009013
+29,qui 29/01/1998,21:00,Mulhouse S-A,Lille,?,Gilles Bourges,1789,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009028
+30,ter 10/02/1998,21:00,FC Martigues,Mulhouse S-A,?,Gilles Bourges,1592,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009042
+31,sex 13/02/1998,21:00,Mulhouse S-A,Saint-Étienne,?,Gilles Bourges,2854,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009046
+32,sex 20/02/1998,21:00,Nîmes Olympique,Mulhouse S-A,?,Gilles Bourges,3596,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009060
+33,sex 06/03/1998,20:00,Mulhouse S-A,Le Mans UC 72,?,Gilles Bourges,1500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009068
+34,sex 13/03/1998,20:00,AS Red Star 93,Mulhouse S-A,?,Gilles Bourges,1594,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009078
+35,sex 20/03/1998,20:00,Mulhouse S-A,FC Lorient,?,Gilles Bourges,2235,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009091
+36,sex 27/03/1998,20:00,ASOA Valence,Mulhouse S-A,?,Gilles Bourges,3009,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009099
+37,seg 06/04/1998,19:00,Mulhouse S-A,FC Gueugnon,?,Lamine N'Diaye,3606,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009112
+38,sex 17/04/1998,19:00,Amiens SC,Mulhouse S-A,?,Lamine N'Diaye,3142,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009127
+39,qui 23/04/1998,19:00,Mulhouse S-A,FC Sochaux,?,Lamine N'Diaye,6216,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009134
+40,ter 28/04/1998,19:00,Mulhouse S-A,AS Nancy,?,Lamine N'Diaye,2249,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009142
+41,seg 04/05/1998,19:00,Troyes,Mulhouse S-A,?,Lamine N'Diaye,6133,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009153
+42,qui 07/05/1998,19:00,Mulhouse S-A,Wasquehal,?,Lamine N'Diaye,2257,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009174

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 20/08/2017,17:15,Deportivo,Real Madrid,4-3-3 ofensivo,Pepe Mel,27770,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899563
+2,sáb 26/08/2017,15:15,Levante,Deportivo,4-2-3-1,Pepe Mel,16345,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899936
+3,dom 10/09/2017,07:00,Deportivo,Real Sociedad,4-4-2 duplo 6,Pepe Mel,21942,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899574
+4,sáb 16/09/2017,13:30,Betis,Deportivo,4-2-3-1,Pepe Mel,46267,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899587
+5,qua 20/09/2017,16:00,Deportivo,Alavés,4-4-2 duplo 6,Pepe Mel,18518,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899597
+6,dom 24/09/2017,07:00,Espanyol,Deportivo,4-2-3-1,Pepe Mel,19585,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899599
+7,sáb 30/09/2017,08:00,Deportivo,Getafe,4-2-3-1,Pepe Mel,19323,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899611
+8,dom 15/10/2017,08:00,Eibar,Deportivo,4-2-3-1,Pepe Mel,5125,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899608
+9,seg 23/10/2017,17:00,Deportivo,Girona,4-2-3-1,Pepe Mel,17463,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899635
+10,seg 30/10/2017,18:00,Las Palmas,Deportivo,4-2-3-1,Cristóbal Parralo,14805,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899639
+11,sáb 04/11/2017,13:15,Deportivo,Atlético,4-2-3-1,Cristóbal Parralo,22733,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899652
+12,dom 19/11/2017,09:00,Málaga CF,Deportivo,4-2-3-1,Cristóbal Parralo,24563,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899653
+13,dom 26/11/2017,09:00,Deportivo,Athletic Club,4-1-4-1,Cristóbal Parralo,20879,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899677
+14,sáb 02/12/2017,15:30,Sevilla,Deportivo,4-2-3-1,Cristóbal Parralo,32017,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899696
+15,sáb 09/12/2017,15:30,Deportivo,Leganés,4-2-3-1,Cristóbal Parralo,18366,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899678
+16,dom 17/12/2017,17:45,Barcelona,Deportivo,4-2-3-1,Cristóbal Parralo,53607,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899707
+17,sáb 23/12/2017,15:30,Deportivo,Celta de Vigo,4-2-3-1,Cristóbal Parralo,27877,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899722
+18,dom 07/01/2018,15:30,Villarreal,Deportivo,4-3-3 ofensivo,Cristóbal Parralo,15442,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899728
+19,sáb 13/01/2018,17:45,Deportivo,Valencia,4-3-3 ofensivo,Cristóbal Parralo,19031,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899741
+20,dom 21/01/2018,13:15,Real Madrid,Deportivo,4-3-3 ofensivo,Cristóbal Parralo,63504,7:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899737
+21,sáb 27/01/2018,10:00,Deportivo,Levante,4-4-2 duplo 6,Cristóbal Parralo,20151,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899743
+22,sex 02/02/2018,18:00,Real Sociedad,Deportivo,4-2-3-1,Cristóbal Parralo,15626,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899762
+23,seg 12/02/2018,18:00,Deportivo,Betis,4-2-3-1,Clarence Seedorf,20490,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899778
+24,sáb 17/02/2018,15:30,Alavés,Deportivo,4-2-3-1,Clarence Seedorf,19453,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899788
+25,sex 23/02/2018,17:00,Deportivo,Espanyol,4-2-3-1,Clarence Seedorf,18028,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899784
+26,qua 28/02/2018,15:30,Getafe,Deportivo,4-2-3-1,Clarence Seedorf,5097,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899883
+27,sáb 03/03/2018,14:30,Deportivo,Eibar,4-2-3-1,Clarence Seedorf,19417,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899812
+28,sex 09/03/2018,17:00,Girona,Deportivo,4-3-3 ofensivo,Clarence Seedorf,10663,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899834
+29,sáb 17/03/2018,09:00,Deportivo,Las Palmas,4-2-3-1,Clarence Seedorf,18942,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899836
+30,dom 01/04/2018,15:45,Atlético,Deportivo,4-3-3 ofensivo,Clarence Seedorf,49351,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899816
+31,sex 06/04/2018,16:00,Deportivo,Málaga CF,4-3-1-2,Clarence Seedorf,16932,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899894
+32,sáb 14/04/2018,15:45,Athletic Club,Deportivo,4-3-3 ofensivo,Clarence Seedorf,37715,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899861
+33,ter 17/04/2018,14:30,Deportivo,Sevilla,4-2-3-1,Clarence Seedorf,23374,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899857
+34,sex 20/04/2018,16:00,Leganés,Deportivo,4-3-1-2,Clarence Seedorf,10124,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899874
+35,dom 29/04/2018,15:45,Deportivo,Barcelona,4-3-1-2,Clarence Seedorf,25721,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899867
+36,sáb 05/05/2018,13:30,Celta de Vigo,Deportivo,4-3-1-2,Clarence Seedorf,20816,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899881
+37,sáb 12/05/2018,13:30,Deportivo,Villarreal,4-3-3 ofensivo,Clarence Seedorf,12885,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899911
+38,dom 20/05/2018,07:00,Valencia,Deportivo,4-2-3-1,Clarence Seedorf,33376,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899926

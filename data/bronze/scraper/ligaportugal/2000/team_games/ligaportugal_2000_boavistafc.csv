@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qui 17/08/2000,19:00,Beira-Mar,Boavista,4-2-3-1,Jaime Pacheco,6000,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854547
+2,dom 27/08/2000,19:00,Boavista,Leiria,4-2-3-1,Jaime Pacheco,6000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854563
+3,sáb 09/09/2000,19:00,CF Estrela,Boavista,4-2-3-1,Jaime Pacheco,1000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854570
+4,seg 18/09/2000,16:30,Boavista,Braga,4-2-3-1,Jaime Pacheco,7000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854581
+5,sex 22/09/2000,19:00,Boavista,Benfica,4-3-3 ofensivo,Jaime Pacheco,8000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854584
+6,dom 01/10/2000,19:00,Belenenses,Boavista,4-3-3 ofensivo,Jaime Pacheco,5000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854598
+7,qui 12/10/2000,20:00,Boavista,Paços Ferreira,4-2-3-1,Jaime Pacheco,4000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854601
+8,qui 19/10/2000,20:00,Campomaiorense,Boavista,4-2-3-1,Jaime Pacheco,1500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854610
+9,dom 29/10/2000,21:00,Boavista,Marítimo,4-3-3 ofensivo,Jaime Pacheco,500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854626
+10,sex 03/11/2000,21:00,Farense,Boavista,4-3-3 ofensivo,Jaime Pacheco,3000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854629
+11,seg 13/11/2000,21:00,Boavista,Vit. Guimarães,4-3-3 ofensivo,Jaime Pacheco,6000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854645
+12,sáb 18/11/2000,21:00,Sporting,Boavista,4-3-1-2,Jaime Pacheco,12500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854654
+13,sáb 02/12/2000,21:00,Boavista,Alverca,4-3-3 defensivo,Jaime Pacheco,2000,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854659
+14,qui 07/12/2000,21:00,Gil Vicente,Boavista,4-3-1-2,Jaime Pacheco,4000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854664
+15,sáb 16/12/2000,21:00,Boavista,Salgueiros,4-3-3 defensivo,Jaime Pacheco,4000,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854677
+16,sáb 06/01/2001,21:00,CD Aves,Boavista,?,Jaime Pacheco,3000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854685
+17,sáb 13/01/2001,17:00,Boavista,FC Porto,4-3-3 ofensivo,Jaime Pacheco,7500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854694
+18,sáb 20/01/2001,16:00,Boavista,Beira-Mar,4-3-3 ofensivo,Jaime Pacheco,4000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854701
+19,sáb 27/01/2001,21:00,Leiria,Boavista,?,Jaime Pacheco,2000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854718
+20,qui 01/02/2001,21:00,Boavista,CF Estrela,?,Jaime Pacheco,2000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854719
+21,sex 16/02/2001,21:00,Braga,Boavista,?,Jaime Pacheco,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854730
+22,dom 25/02/2001,20:00,Benfica,Boavista,?,Jaime Pacheco,82500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854740
+23,qui 01/03/2001,20:00,Boavista,Belenenses,?,Jaime Pacheco,2000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854746
+24,qui 08/03/2001,20:00,Paços Ferreira,Boavista,?,Jaime Pacheco,3000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854755
+25,qui 15/03/2001,20:00,Boavista,Campomaiorense,4-2-3-1,Jaime Pacheco,4129,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854764
+26,sex 30/03/2001,19:00,Marítimo,Boavista,4-3-3 ofensivo,Jaime Pacheco,7000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854774
+27,sáb 07/04/2001,19:00,Boavista,Farense,?,Jaime Pacheco,3500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854788
+28,dom 15/04/2001,19:00,Vit. Guimarães,Boavista,4-3-3 ofensivo,Jaime Pacheco,10118,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854806
+29,sex 20/04/2001,19:00,Boavista,Sporting,4-3-3 ofensivo,Jaime Pacheco,9000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854808
+30,sex 27/04/2001,19:00,Alverca,Boavista,4-3-3 ofensivo,Jaime Pacheco,6000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854816
+31,sex 04/05/2001,19:00,Boavista,Gil Vicente,4-3-3 ofensivo,Jaime Pacheco,9000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854827
+32,dom 13/05/2001,17:00,Salgueiros,Boavista,4-3-3 ofensivo,Jaime Pacheco,3500,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854837
+33,sex 18/05/2001,17:00,Boavista,CD Aves,4-3-3 ofensivo,Jaime Pacheco,10000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854843
+34,dom 27/05/2001,12:00,FC Porto,Boavista,4-3-3 ofensivo,Jaime Pacheco,46000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854855

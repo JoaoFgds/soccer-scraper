@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 13/05/2016,19:15,Vila Nova,Bragantino,4-4-2 duplo 6,Léo Condé,3790,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2684579
+2,ter 17/05/2016,19:55,Bragantino,Luverdense,4-2-3-1,Léo Condé,3219,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2684588
+3,ter 24/05/2016,19:15,Brasil Pelotas,Bragantino,4-2-3-1,Léo Condé,3187,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2694625
+4,sáb 28/05/2016,21:00,Bragantino,Tupi,4-2-3-1,Toninho Cecílio,2248,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2694643
+5,ter 31/05/2016,19:15,Sampaio Corrêa,Bragantino,4-2-3-1,Toninho Cecílio,3024,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2695801
+6,sáb 04/06/2016,21:00,Atlético-GO,Bragantino,4-2-3-1,Toninho Cecílio,1211,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2695815
+7,ter 07/06/2016,19:15,Bragantino,Avaí,4-2-3-1,Toninho Cecílio,1240,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2696855
+8,sáb 11/06/2016,21:00,Bragantino,Paysandu,4-2-3-1,Toninho Cecílio,1407,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2696870
+9,ter 14/06/2016,21:30,CRB,Bragantino,4-2-3-1,Toninho Cecílio,3405,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698613
+10,sáb 18/06/2016,16:00,Náutico,Bragantino,4-2-3-1,Toninho Cecílio,7236,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698628
+11,ter 21/06/2016,21:30,Bragantino,Goiás,4-2-3-1,Toninho Cecílio,1200,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698653
+12,sex 24/06/2016,19:15,Criciúma,Bragantino,4-2-3-1,Toninho Cecílio,5260,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702152
+13,ter 28/06/2016,21:30,Bragantino,Ceará,4-2-3-1,Marcelo Veiga,881,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702179
+14,sáb 02/07/2016,16:00,Bragantino,Paraná,4-2-3-1,Marcelo Veiga,780,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2708429
+15,sáb 09/07/2016,16:00,Oeste,Bragantino,4-2-3-1,Marcelo Veiga,2031,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2708438
+16,sáb 16/07/2016,22:30,Bragantino,Joinville,4-2-3-1,Marcelo Veiga,505,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720255
+17,sáb 23/07/2016,16:30,Vasco da Gama,Bragantino,4-2-3-1,Marcelo Veiga,5538,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720262
+18,sáb 30/07/2016,16:30,Bragantino,Bahia,4-2-3-1,Marcelo Veiga,1254,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2756312
+19,qua 03/08/2016,18:15,Londrina,Bragantino,4-3-2-1,Marcelo Veiga,3176,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2758350
+20,sex 19/08/2016,19:30,Bragantino,Vila Nova,4-3-2-1,Marcelo Veiga,417,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2759440
+21,sáb 27/08/2016,19:00,Luverdense,Bragantino,4-3-2-1,Marcelo Veiga,882,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2760292
+22,ter 30/08/2016,19:30,Bragantino,Brasil Pelotas,4-3-1-2,Marcelo Veiga,410,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2762816
+23,sáb 03/09/2016,14:00,Tupi,Bragantino,4-2-3-1,Marcelo Veiga,1902,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2762822
+24,ter 06/09/2016,16:30,Bragantino,Sampaio Corrêa,4-2-3-1,Marcelo Veiga,448,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2764266
+25,ter 13/09/2016,17:30,Bragantino,Atlético-GO,4-2-3-1,Marcelo Veiga,639,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2766724
+26,sáb 17/09/2016,13:00,Avaí,Bragantino,4-2-3-1,Marcelo Veiga,7435,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2809789
+27,seg 26/09/2016,17:00,Paysandu,Bragantino,4-3-1-2,Marcelo Veiga,14321,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2809803
+28,sáb 01/10/2016,13:00,Bragantino,CRB,4-2-3-1,Marcelo Veiga,545,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2809810
+29,ter 04/10/2016,16:15,Bragantino,Náutico,4-2-3-1,Marcelo Veiga,481,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2809820
+30,sex 07/10/2016,17:30,Goiás,Bragantino,4-2-3-1,Marcelo Veiga,2257,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2809830
+31,seg 10/10/2016,17:00,Bragantino,Criciúma,4-3-3 defensivo,Marcelo Veiga,406,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2809840
+32,sex 21/10/2016,19:30,Ceará,Bragantino,4-3-3 defensivo,Marcelo Veiga,5734,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2811197
+33,sex 28/10/2016,18:30,Paraná,Bragantino,4-3-1-2,Estevam Soares,2085,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2811209
+34,sáb 05/11/2016,20:00,Bragantino,Oeste,4-3-3 defensivo,Estevam Soares,356,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2811224
+35,ter 08/11/2016,20:30,Joinville,Bragantino,4-3-3 defensivo,Estevam Soares,8098,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2811233
+36,sáb 12/11/2016,15:30,Bragantino,Vasco da Gama,3-5-2 plano,Estevam Soares,2320,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2811250
+37,sáb 19/11/2016,16:30,Bahia,Bragantino,4-2-3-1,Estevam Soares,44042,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2811267
+38,sáb 26/11/2016,16:30,Bragantino,Londrina,4-3-3 defensivo,Estevam Soares,270,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2811277

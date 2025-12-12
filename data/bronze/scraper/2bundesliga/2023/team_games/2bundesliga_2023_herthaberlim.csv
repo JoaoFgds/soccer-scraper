@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 29/07/2023,15:30,Düsseldorf,Hertha Berlim,4-4-2 duplo 6,Pál Dárdai,40466,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096274
+2,sex 04/08/2023,13:30,Hertha Berlim,Wehen Wiesbaden,4-2-3-1,Pál Dárdai,40075,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096283
+3,sáb 19/08/2023,15:30,Hamburgo,Hertha Berlim,4-3-3 ofensivo,Pál Dárdai,57000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096291
+4,sáb 26/08/2023,08:00,Hertha Berlim,Greuther Fürth,4-3-3 ofensivo,Pál Dárdai,35291,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096301
+5,sáb 02/09/2023,08:00,Magdeburgo,Hertha Berlim,4-3-3 ofensivo,Pál Dárdai,26872,6:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096313
+6,dom 17/09/2023,08:30,Hertha Berlim,E. Braunschweig,4-3-3 ofensivo,Pál Dárdai,42528,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096319
+7,dom 24/09/2023,08:30,Holstein Kiel,Hertha Berlim,4-4-2 duplo 6,Pál Dárdai,15034,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096329
+8,sáb 30/09/2023,15:30,Hertha Berlim,St. Pauli,4-4-2 duplo 6,Pál Dárdai,66113,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096336
+9,dom 08/10/2023,08:30,Schalke,Hertha Berlim,4-4-2 duplo 6,Pál Dárdai,62271,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096345
+10,dom 22/10/2023,08:30,Nuremberg,Hertha Berlim,4-2-3-1,Pál Dárdai,37320,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096360
+11,sáb 28/10/2023,08:00,Hertha Berlim,Paderborn,4-2-3-1,Pál Dárdai,35608,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096364
+12,dom 05/11/2023,09:30,Hansa Rostock,Hertha Berlim,4-2-3-1,Pál Dárdai,26500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096377
+13,sáb 11/11/2023,16:30,Hertha Berlim,Karlsruher,4-2-3-1,Pál Dárdai,58851,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096382
+14,sex 24/11/2023,14:30,Hannover,Hertha Berlim,4-2-3-1,Pál Dárdai,45100,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096394
+15,dom 03/12/2023,09:30,Hertha Berlim,SV Elversberg,4-2-3-1,Pál Dárdai,33097,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096400
+16,sáb 09/12/2023,09:00,K'lautern,Hertha Berlim,4-2-3-1,Pál Dárdai,45308,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096410
+17,sáb 16/12/2023,09:00,Hertha Berlim,VfL Osnabrück,4-2-3-1,Pál Dárdai,43650,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096418
+18,dom 21/01/2024,09:30,Hertha Berlim,Düsseldorf,4-2-3-1,Pál Dárdai,42902,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096427
+19,sáb 27/01/2024,09:00,Wehen Wiesbaden,Hertha Berlim,4-2-3-1,Pál Dárdai,10454,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096436
+20,sáb 03/02/2024,16:30,Hertha Berlim,Hamburgo,4-2-3-1,Pál Dárdai,58013,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096444
+21,dom 11/02/2024,09:30,Greuther Fürth,Hertha Berlim,4-2-3-1,Pál Dárdai,13459,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096454
+22,sex 16/02/2024,14:30,Hertha Berlim,Magdeburgo,4-2-3-1,Pál Dárdai,52652,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096466
+23,sáb 24/02/2024,09:00,E. Braunschweig,Hertha Berlim,4-2-3-1,Pál Dárdai,22636,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096472
+24,sex 01/03/2024,14:30,Hertha Berlim,Holstein Kiel,4-2-3-1,Pál Dárdai,46835,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096482
+25,dom 10/03/2024,09:30,St. Pauli,Hertha Berlim,4-2-3-1,Pál Dárdai,29546,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096489
+26,dom 17/03/2024,09:30,Hertha Berlim,Schalke,4-2-3-1,Pál Dárdai,69156,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096498
+27,sáb 30/03/2024,16:30,Hertha Berlim,Nuremberg,4-2-3-1,Pál Dárdai,51981,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096513
+28,sex 05/04/2024,13:30,Paderborn,Hertha Berlim,4-2-3-1,Pál Dárdai,15000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096517
+29,sex 12/04/2024,13:30,Hertha Berlim,Hansa Rostock,4-2-3-1,Pál Dárdai,62177,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096530
+30,dom 21/04/2024,08:30,Karlsruher,Hertha Berlim,4-2-3-1,Pál Dárdai,33000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096535
+31,sex 26/04/2024,13:30,Hertha Berlim,Hannover,4-2-3-1,Pál Dárdai,59192,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096547
+32,dom 05/05/2024,08:30,SV Elversberg,Hertha Berlim,4-2-3-1,Pál Dárdai,9502,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096553
+33,sáb 11/05/2024,08:00,Hertha Berlim,K'lautern,4-2-3-1,Pál Dárdai,67144,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096563
+34,dom 19/05/2024,10:30,VfL Osnabrück,Hertha Berlim,4-2-3-1,Pál Dárdai,15741,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096571

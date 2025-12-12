@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 01/08/2015,09:00,FC Metz,Lens,4-2-3-1,José Riga,14535,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2602011
+2,sex 07/08/2015,15:00,FC Sochaux,FC Metz,4-4-2 duplo 6,José Riga,9354,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2602018
+3,seg 17/08/2015,15:30,FC Metz,Valenciennes,4-2-3-1,José Riga,13492,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2602032
+4,sex 21/08/2015,15:00,US Créteil-L,FC Metz,4-4-2,José Riga,2093,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2602038
+5,sáb 29/08/2015,09:00,FC Metz,Évian,4-4-1-1,José Riga,12301,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2602044
+6,sex 11/09/2015,15:00,Stade Lavallois,FC Metz,4-4-1-1,José Riga,7841,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616478
+7,sex 18/09/2015,15:00,FC Metz,AS Nancy,4-4-1-1,José Riga,24071,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616486
+8,ter 22/09/2015,16:00,Le Havre,FC Metz,4-4-2 duplo 6,José Riga,5192,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616501
+9,sex 25/09/2015,15:00,FC Metz,Nîmes Olympique,4-4-2 duplo 6,José Riga,12046,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616511
+10,sáb 03/10/2015,09:00,Brest,FC Metz,4-4-2 duplo 6,José Riga,6037,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616524
+11,sex 16/10/2015,15:00,FC Metz,Clermont Foot,4-4-2 duplo 6,José Riga,10656,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616530
+12,sex 23/10/2015,16:00,AC Ajaccio,FC Metz,4-4-2,José Riga,3520,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616537
+13,sex 30/10/2015,17:00,FC Metz,Paris FC,4-4-2,José Riga,11949,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616562
+14,sex 06/11/2015,17:00,Chamois Niort,FC Metz,4-4-2,José Riga,4570,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616583
+15,sáb 21/11/2015,11:00,FC Metz,Auxerre,4-4-2 duplo 6,José Riga,12748,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616592
+16,sex 27/11/2015,17:00,FC Metz,Bourg-en-Bresse,4-4-2 duplo 6,José Riga,10273,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616616
+17,ter 01/12/2015,18:00,Red Star FC,FC Metz,4-4-2 duplo 6,José Riga,1408,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616625
+18,sáb 12/12/2015,11:00,FC Metz,Dijon,4-4-2,José Riga,12888,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616637
+19,sáb 19/12/2015,11:00,Tours FC,FC Metz,4-2-3-1,José Riga,5338,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616647
+20,seg 11/01/2016,17:30,FC Metz,FC Sochaux,4-2-3-1,Philippe Hinschberger,11259,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2648116
+21,seg 18/01/2016,17:30,Valenciennes,FC Metz,4-2-3-1,Philippe Hinschberger,6258,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2648150
+22,sex 22/01/2016,17:00,FC Metz,US Créteil-L,4-4-2 duplo 6,Philippe Hinschberger,11202,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2648157
+23,sex 29/01/2016,17:00,Évian,FC Metz,4-2-3-1,Philippe Hinschberger,3568,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2648162
+24,ter 02/02/2016,18:00,FC Metz,Stade Lavallois,4-2-3-1,Philippe Hinschberger,10927,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654401
+25,sex 05/02/2016,17:00,AS Nancy,FC Metz,4-2-3-1,Philippe Hinschberger,19152,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654406
+26,sáb 13/02/2016,11:00,FC Metz,Le Havre,4-2-3-1,Philippe Hinschberger,11232,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654424
+27,seg 22/02/2016,16:30,Nîmes Olympique,FC Metz,4-4-2 duplo 6,Philippe Hinschberger,10085,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654432
+28,sex 26/02/2016,16:00,FC Metz,Brest,4-4-2 duplo 6,Philippe Hinschberger,10457,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654440
+29,seg 07/03/2016,16:30,Clermont Foot,FC Metz,4-4-2 duplo 6,Philippe Hinschberger,3836,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654449
+30,sex 11/03/2016,16:00,FC Metz,AC Ajaccio,4-2-3-1,Philippe Hinschberger,10649,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654465
+31,sex 18/03/2016,16:00,Paris FC,FC Metz,4-3-3 ofensivo,Philippe Hinschberger,3216,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654473
+32,sex 01/04/2016,15:00,FC Metz,Chamois Niort,4-4-2 duplo 6,Philippe Hinschberger,11043,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654478
+33,sex 08/04/2016,15:00,Auxerre,FC Metz,4-2-3-1,Philippe Hinschberger,5078,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654487
+34,sex 15/04/2016,15:00,Bourg-en-Bresse,FC Metz,4-4-2 duplo 6,Philippe Hinschberger,3373,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654497
+35,sex 22/04/2016,15:00,FC Metz,Red Star FC,4-4-2 duplo 6,Philippe Hinschberger,15375,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654512
+36,dom 01/05/2016,09:00,Dijon,FC Metz,4-4-2 duplo 6,Philippe Hinschberger,10026,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654516
+37,sex 06/05/2016,15:45,FC Metz,Tours FC,4-4-2 duplo 6,Philippe Hinschberger,25003,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654531
+38,sex 13/05/2016,15:45,Lens,FC Metz,4-4-2 duplo 6,Philippe Hinschberger,36112,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654540

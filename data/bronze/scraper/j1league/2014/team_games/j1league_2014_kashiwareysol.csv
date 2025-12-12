@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 01/03/2014,03:00,Kashiwa Reysol,FC Tokyo,3-4-2-1,Nelsinho Baptista,14623,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2422118
+2,sáb 08/03/2014,03:00,Vissel Kobe,Kashiwa Reysol,3-4-2-1,Nelsinho Baptista,13143,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2422132
+3,sáb 15/03/2014,03:00,Kashiwa Reysol,Nagoya Grampus,4-2-3-1,Nelsinho Baptista,9265,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424503
+4,dom 23/03/2014,02:00,Tokushima Vort.,Kashiwa Reysol,4-2-3-1,Nelsinho Baptista,8097,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424547
+5,sáb 29/03/2014,03:00,Kashiwa Reysol,Omiya Ardija,3-4-2-1,Nelsinho Baptista,11568,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424517
+6,dom 06/04/2014,03:00,Kashiwa Reysol,Cerezo Osaka,3-4-2-1,Nelsinho Baptista,13731,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424516
+7,sex 11/04/2014,07:00,Kawasaki Front.,Kashiwa Reysol,3-4-2-1,Nelsinho Baptista,12379,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424520
+8,sáb 19/04/2014,03:00,Kashiwa Reysol,Yokohama F. M.,3-4-2-1,Nelsinho Baptista,11436,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424569
+9,sáb 26/04/2014,01:00,Kashiwa Reysol,Urawa Reds,3-4-2-1,Nelsinho Baptista,12367,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424549
+10,ter 29/04/2014,04:00,Gamba Osaka,Kashiwa Reysol,4-4-2 duplo 6,Nelsinho Baptista,13845,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424539
+11,sáb 03/05/2014,01:00,Kashiwa Reysol,Kashima Antlers,4-4-2 duplo 6,Nelsinho Baptista,13650,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424494
+12,ter 06/05/2014,03:00,Sagan Tosu,Kashiwa Reysol,4-4-2 duplo 6,Nelsinho Baptista,14457,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424504
+13,sáb 10/05/2014,04:00,Kashiwa Reysol,Albirex Niigata,3-4-2-1,Nelsinho Baptista,11003,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424481
+14,sáb 17/05/2014,04:00,Ventforet Kofu,Kashiwa Reysol,4-3-3 ofensivo,Nelsinho Baptista,10073,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424593
+15,sáb 19/07/2014,04:00,Kashiwa Reysol,Vegalta Sendai,4-4-2 duplo 6,Nelsinho Baptista,8982,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424673
+16,qua 23/07/2014,04:00,Sanf. Hiroshima,Kashiwa Reysol,3-4-2-1,Nelsinho Baptista,12673,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424636
+17,dom 27/07/2014,04:00,Shimizu S-Pulse,Kashiwa Reysol,3-4-2-1,Nelsinho Baptista,11095,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424612
+18,sáb 02/08/2014,07:00,Kashiwa Reysol,Kawasaki Front.,4-4-2 duplo 6,Nelsinho Baptista,11963,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424622
+19,sáb 09/08/2014,04:00,Yokohama F. M.,Kashiwa Reysol,4-4-2 duplo 6,Nelsinho Baptista,24544,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424604
+20,sáb 16/08/2014,07:00,Kashiwa Reysol,Vissel Kobe,3-4-2-1,Nelsinho Baptista,9219,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424664
+21,sáb 23/08/2014,04:00,Nagoya Grampus,Kashiwa Reysol,3-4-2-1,Nelsinho Baptista,15124,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424707
+22,sáb 30/08/2014,07:00,Kashiwa Reysol,Ventforet Kofu,3-4-2-1,Nelsinho Baptista,9022,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424735
+23,sáb 13/09/2014,07:00,Cerezo Osaka,Kashiwa Reysol,3-4-2-1,Nelsinho Baptista,22941,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424677
+24,sáb 20/09/2014,07:00,Urawa Reds,Kashiwa Reysol,4-4-2 duplo 6,Nelsinho Baptista,31652,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424598
+25,ter 23/09/2014,07:00,Kashiwa Reysol,Sagan Tosu,4-4-2 duplo 6,Nelsinho Baptista,9022,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424594
+26,sáb 27/09/2014,04:00,FC Tokyo,Kashiwa Reysol,4-4-2 duplo 6,Nelsinho Baptista,22945,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424729
+27,dom 05/10/2014,04:00,Kashiwa Reysol,Sanf. Hiroshima,4-4-2 duplo 6,Nelsinho Baptista,6115,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424754
+28,sáb 18/10/2014,02:00,Kashima Antlers,Kashiwa Reysol,4-3-2-1,Nelsinho Baptista,15577,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424747
+29,qua 22/10/2014,05:00,Kashiwa Reysol,Gamba Osaka,4-4-2 duplo 6,Nelsinho Baptista,7474,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424714
+30,dom 26/10/2014,02:00,Vegalta Sendai,Kashiwa Reysol,4-4-2 duplo 6,Nelsinho Baptista,15184,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424656
+31,dom 02/11/2014,05:00,Kashiwa Reysol,Tokushima Vort.,4-4-2 duplo 6,Nelsinho Baptista,9251,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424725
+32,sáb 22/11/2014,06:00,Omiya Ardija,Kashiwa Reysol,4-4-2 duplo 6,Nelsinho Baptista,11836,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424710
+33,sáb 29/11/2014,03:00,Kashiwa Reysol,Shimizu S-Pulse,4-4-2 duplo 6,Nelsinho Baptista,13470,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424634
+34,seg 08/12/2014,08:00,Albirex Niigata,Kashiwa Reysol,4-4-2 duplo 6,Nelsinho Baptista,2104,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2424625

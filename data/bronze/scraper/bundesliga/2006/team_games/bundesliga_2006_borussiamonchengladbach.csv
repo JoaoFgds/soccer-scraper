@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/08/2006,10:30,M'gladbach,Energ. Cottbus,4-2-3-1,Jupp Heynckes,47638,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53497
+2,sex 18/08/2006,15:30,Nuremberg,M'gladbach,4-3-2-1,Jupp Heynckes,46780,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53501
+3,sáb 26/08/2006,10:30,M'gladbach,Arm. Bielefeld,4-4-2 losango,Jupp Heynckes,41129,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53514
+4,sáb 16/09/2006,10:30,Alem. Aachen,M'gladbach,4-4-2 losango,Jupp Heynckes,21300,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53524
+5,sex 22/09/2006,15:30,M'gladbach,Dortmund,4-3-1-2,Jupp Heynckes,53531,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53528
+6,sáb 30/09/2006,10:30,Werder Bremen,M'gladbach,4-4-2 losango,Jupp Heynckes,41179,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53537
+7,sáb 14/10/2006,10:30,M'gladbach,Wolfsburg,4-4-2 losango,Jupp Heynckes,45096,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53550
+8,sáb 21/10/2006,10:30,Hertha Berlim,M'gladbach,4-4-2 losango,Jupp Heynckes,43604,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53558
+9,sáb 28/10/2006,10:30,M'gladbach,Leverkusen,4-4-2 losango,Jupp Heynckes,52000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53568
+10,dom 05/11/2006,14:00,Frankfurt,M'gladbach,4-1-4-1,Jupp Heynckes,50050,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53579
+11,qua 08/11/2006,17:00,M'gladbach,Schalke,4-4-2 duplo 6,Jupp Heynckes,52018,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53586
+12,sáb 11/11/2006,12:30,Hamburgo,M'gladbach,4-4-2 losango,Jupp Heynckes,56587,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53592
+13,dom 19/11/2006,14:00,M'gladbach,Hannover,4-4-2 duplo 6,Jupp Heynckes,39670,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53603
+14,dom 26/11/2006,15:00,Stuttgart,M'gladbach,4-4-2 losango,Jupp Heynckes,53000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53614
+15,sáb 02/12/2006,12:30,Bayern,M'gladbach,4-4-2 losango,Jupp Heynckes,69000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53618
+16,sáb 09/12/2006,12:30,M'gladbach,Mainz,4-4-2 losango,Jupp Heynckes,44157,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53632
+17,sex 15/12/2006,17:30,Bochum,M'gladbach,4-4-2 losango,Jupp Heynckes,30500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53642
+18,sáb 27/01/2007,12:30,Energ. Cottbus,M'gladbach,4-4-2 losango,Jupp Heynckes,13044,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53650
+19,ter 30/01/2007,17:00,M'gladbach,Nuremberg,4-4-2 losango,Jupp Heynckes,33116,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53657
+20,sáb 03/02/2007,12:30,Arm. Bielefeld,M'gladbach,4-2-3-1,Jos Luhukay,23114,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53668
+21,sáb 10/02/2007,12:30,M'gladbach,Alem. Aachen,4-2-3-1,Jos Luhukay,52000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53679
+22,sáb 17/02/2007,12:30,Dortmund,M'gladbach,4-2-3-1,Jos Luhukay,73600,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53685
+23,dom 25/02/2007,13:00,M'gladbach,Werder Bremen,4-4-2 losango,Jos Luhukay,50644,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53690
+24,sáb 03/03/2007,11:30,Wolfsburg,M'gladbach,4-4-2 losango,Jos Luhukay,21343,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53703
+25,sáb 10/03/2007,11:30,M'gladbach,Hertha Berlim,4-4-2 losango,Jos Luhukay,40518,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53711
+26,dom 18/03/2007,13:00,Leverkusen,M'gladbach,4-4-2 duplo 6,Jos Luhukay,22500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53721
+27,sáb 31/03/2007,10:30,M'gladbach,Frankfurt,4-4-2 losango,Jos Luhukay,52177,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53732
+28,sáb 07/04/2007,10:30,Schalke,M'gladbach,4-2-3-1,Jos Luhukay,61482,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53739
+29,sex 13/04/2007,15:30,M'gladbach,Hamburgo,4-4-2 losango,Jos Luhukay,54019,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53745
+30,dom 22/04/2007,12:00,Hannover,M'gladbach,4-2-3-1,Jos Luhukay,42000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53756
+31,sáb 28/04/2007,10:30,M'gladbach,Stuttgart,4-4-2 losango,Jos Luhukay,45000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53767
+32,sáb 05/05/2007,10:30,M'gladbach,Bayern,4-4-2 losango,Jos Luhukay,54019,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53771
+33,sáb 12/05/2007,10:30,Mainz,M'gladbach,4-4-2 losango,Jos Luhukay,20300,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53785
+34,sáb 19/05/2007,10:30,M'gladbach,Bochum,4-2-3-1,Jos Luhukay,50001,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53795

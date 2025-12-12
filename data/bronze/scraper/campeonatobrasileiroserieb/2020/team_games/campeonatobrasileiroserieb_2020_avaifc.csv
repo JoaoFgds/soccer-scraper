@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 08/08/2020,19:00,Avaí,Náutico,4-2-3-1,Geninho,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3392048
+2,ter 11/08/2020,20:30,Paraná,Avaí,5-3-2,Geninho,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3414460
+3,ter 15/09/2020,18:15,Confiança,Avaí,4-2-3-1,Geninho,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416275
+4,ter 18/08/2020,19:15,Avaí,Botafogo-SP,4-2-3-1,Geninho,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416277
+5,sáb 22/08/2020,11:00,Avaí,Cuiabá,4-2-3-1,Geninho,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416789
+6,sex 28/08/2020,19:15,Oeste,Avaí,4-2-3-1,Geninho,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416798
+7,qua 02/09/2020,16:30,Avaí,Operário-PR,4-1-4-1,Geninho,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416812
+8,dom 06/09/2020,11:00,Chapecoense,Avaí,4-3-1-2,Geninho,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416826
+9,sex 11/09/2020,19:15,Avaí,Ponte Preta,4-1-4-1,Geninho,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416835
+10,dom 20/09/2020,11:00,Avaí,Sampaio Corrêa,4-2-3-1,Geninho,x,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418157
+11,sex 25/09/2020,21:30,Cruzeiro,Avaí,4-1-4-1,Geninho,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418166
+12,ter 29/09/2020,19:15,Avaí,Figueirense,4-1-4-1,Geninho,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418177
+13,sex 02/10/2020,19:15,CRB,Avaí,4-4-2,Geninho,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418188
+14,ter 06/10/2020,19:15,Avaí,Brasil Pelotas,4-1-4-1,Geninho,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418197
+15,sáb 10/10/2020,16:00,Vitória,Avaí,4-2-3-1,Geninho,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418213
+16,ter 13/10/2020,19:15,Avaí,CSA,4-2-3-1,Geninho,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418217
+17,ter 20/10/2020,19:15,Juventude,Avaí,3-5-2,Geninho,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418232
+18,dom 25/10/2020,18:15,Guarani,Avaí,4-2-3-1,Geninho,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418239
+19,sáb 31/10/2020,19:00,Avaí,América-MG,4-3-3 ofensivo,Geninho,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418247
+20,sex 06/11/2020,19:15,Náutico,Avaí,4-3-3 ofensivo,Geninho,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418263
+21,sex 13/11/2020,18:30,Avaí,Paraná,4-3-3 ofensivo,Geninho,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418267
+22,sex 20/11/2020,16:30,Avaí,Confiança,4-3-3 ofensivo,Geninho,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418277
+23,seg 23/11/2020,20:00,Botafogo-SP,Avaí,4-3-3 ofensivo,Geninho,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418290
+24,sex 27/11/2020,22:30,Cuiabá,Avaí,4-2-3-1,Geninho,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418305
+25,seg 30/11/2020,20:00,Avaí,Oeste,4-3-3 ofensivo,Geninho,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418307
+26,qui 03/12/2020,21:30,Operário-PR,Avaí,4-3-3 ofensivo,Geninho,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418321
+27,ter 08/12/2020,21:30,Avaí,Chapecoense,4-3-3 ofensivo,Evando,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418347
+28,sex 11/12/2020,19:15,Ponte Preta,Avaí,4-3-3 ofensivo,Claudinei Oliveira,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418339
+29,ter 15/12/2020,19:15,Sampaio Corrêa,Avaí,4-3-3 ofensivo,Claudinei Oliveira,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418334
+30,sex 18/12/2020,20:15,Avaí,Cruzeiro,4-3-3 ofensivo,Claudinei Oliveira,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418357
+31,sáb 26/12/2020,16:00,Figueirense,Avaí,4-2-3-1,Claudinei Oliveira,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418367
+32,ter 29/12/2020,19:15,Avaí,CRB,4-2-3-1,Claudinei Oliveira,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419416
+33,sex 08/01/2021,16:00,Brasil Pelotas,Avaí,5-3-2,Augusto Inácio,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419431
+34,qua 13/01/2021,19:00,Avaí,Vitória,3-5-2,Claudinei Oliveira,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419444
+35,sáb 16/01/2021,16:30,CSA,Avaí,3-5-2,Claudinei Oliveira,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419455
+36,ter 19/01/2021,19:15,Avaí,Juventude,4-2-3-1,Claudinei Oliveira,x,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419480
+37,sáb 23/01/2021,18:30,Avaí,Guarani,4-2-3-1,Claudinei Oliveira,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419497
+38,sex 29/01/2021,21:30,América-MG,Avaí,4-2-3-1,Claudinei Oliveira,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3419506

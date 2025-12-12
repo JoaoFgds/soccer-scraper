@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 28/04/2019,11:00,Grêmio,Santos,5-4-1,Jorge Sampaoli,34291,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3173964
+2,qui 02/05/2019,19:15,Santos,Fluminense,4-3-3 defensivo,Jorge Sampaoli,10564,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3180861
+3,dom 05/05/2019,16:00,CSA,Santos,4-2-3-1,Jorge Sampaoli,10313,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3180869
+4,dom 12/05/2019,16:00,Santos,Vasco da Gama,4-3-3 defensivo,Jorge Sampaoli,12952,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3180937
+5,sáb 18/05/2019,19:00,Palmeiras,Santos,4-2-3-1,Jorge Sampaoli,32501,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3180944
+6,dom 26/05/2019,16:00,Santos,Internacional,4-2-3-1,Jorge Sampaoli,12756,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3180955
+7,dom 02/06/2019,16:00,Ceará,Santos,4-3-3 defensivo,Jorge Sampaoli,50809,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3181105
+8,dom 09/06/2019,19:00,Santos,Atlético-MG,4-2-3-1,Jorge Sampaoli,5794,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3181112
+9,qua 12/06/2019,21:30,Santos,Corinthians,4-3-3 ofensivo,Jorge Sampaoli,11831,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3181145
+10,sáb 13/07/2019,19:00,Bahia,Santos,4-1-4-1,Jorge Sampaoli,18853,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3193496
+11,dom 21/07/2019,11:00,Botafogo,Santos,4-3-3 defensivo,Jorge Sampaoli,16248,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3193504
+12,dom 28/07/2019,16:00,Santos,Avaí,4-3-3 defensivo,Jorge Sampaoli,12787,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3193512
+13,dom 04/08/2019,11:00,Santos,Goiás,4-1-4-1,Jorge Sampaoli,13462,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195269
+14,sáb 10/08/2019,17:00,São Paulo,Santos,4-3-3 defensivo,Jorge Sampaoli,47277,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195278
+15,dom 18/08/2019,16:00,Cruzeiro,Santos,3-3-3-1,Jorge Sampaoli,36975,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195351
+16,dom 25/08/2019,16:00,Santos,Fortaleza,4-3-3 ofensivo,Jorge Sampaoli,12515,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195430
+17,sáb 31/08/2019,19:00,Chapecoense,Santos,3-4-3 plano,Jorge Sampaoli,9053,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3197458
+18,dom 08/09/2019,16:00,Santos,Athletico-PR,3-4-3,Jorge Sampaoli,12569,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3197466
+19,sáb 14/09/2019,17:00,Flamengo,Santos,3-4-3,Jorge Sampaoli,68243,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3197498
+20,sáb 21/09/2019,21:00,Santos,Grêmio,4-3-3 defensivo,Jorge Sampaoli,10898,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3255764
+21,qui 26/09/2019,20:00,Fluminense,Santos,3-3-3-1,Jorge Sampaoli,11032,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3255773
+22,dom 29/09/2019,16:00,Santos,CSA,4-2-3-1,Jorge Sampaoli,6615,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3260653
+23,sáb 05/10/2019,17:00,Vasco da Gama,Santos,3-4-3,Jorge Sampaoli,17083,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3260661
+24,qua 09/10/2019,21:30,Santos,Palmeiras,4-3-3 defensivo,Jorge Sampaoli,11408,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3265344
+25,dom 13/10/2019,16:00,Internacional,Santos,3-4-3,Jorge Sampaoli,13572,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3265351
+26,qui 17/10/2019,19:15,Santos,Ceará,3-3-3-1,Jorge Sampaoli,7804,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3265509
+27,dom 20/10/2019,16:00,Atlético-MG,Santos,3-4-3,Jorge Sampaoli,21771,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3265517
+28,sáb 26/10/2019,17:00,Corinthians,Santos,4-3-3 ofensivo,Jorge Sampaoli,32416,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3268452
+29,qui 31/10/2019,19:15,Santos,Bahia,4-3-3 ofensivo,Jorge Sampaoli,5634,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3268468
+30,dom 03/11/2019,19:00,Santos,Botafogo,4-3-3 ofensivo,Jorge Sampaoli,7525,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3272418
+31,ter 05/11/2019,20:00,Avaí,Santos,4-3-3 defensivo,Jorge Sampaoli,4820,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3272422
+32,sex 08/11/2019,20:00,Goiás,Santos,4-3-3 ofensivo,Jorge Sampaoli,13226,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3273302
+33,sáb 16/11/2019,17:00,Santos,São Paulo,4-3-3 ofensivo,Jorge Sampaoli,14062,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3277729
+34,sáb 23/11/2019,21:00,Santos,Cruzeiro,4-3-3 ofensivo,Jorge Sampaoli,7905,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3277740
+35,qua 27/11/2019,20:00,Fortaleza,Santos,4-3-3 ofensivo,Jorge Sampaoli,33925,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3277784
+36,sáb 30/11/2019,20:00,Santos,Chapecoense,4-3-3 ofensivo,Jorge Sampaoli,6961,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3277813
+37,ter 03/12/2019,20:00,Athletico-PR,Santos,4-3-3 ofensivo,Jorge Sampaoli,31988,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3285717
+38,dom 08/12/2019,16:00,Santos,Flamengo,4-3-3 ofensivo,Jorge Sampaoli,13310,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3285731

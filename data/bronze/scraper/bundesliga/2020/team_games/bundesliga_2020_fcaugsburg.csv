@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 19/09/2020,10:30,Union Berlim,Augsburg,4-2-3-1,Heiko Herrlich,4500,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412888
+2,sáb 26/09/2020,10:30,Augsburg,Dortmund,4-2-3-1,Heiko Herrlich,6000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412908
+3,dom 04/10/2020,10:30,Wolfsburg,Augsburg,4-4-2 duplo 6,Heiko Herrlich,4632,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412922
+4,sáb 17/10/2020,10:30,Augsburg,Leipzig,4-4-2 duplo 6,Heiko Herrlich,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412944
+5,seg 26/10/2020,16:30,Leverkusen,Augsburg,4-4-2 duplo 6,Heiko Herrlich,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412958
+6,sáb 31/10/2020,11:30,Augsburg,Mainz,4-4-2 duplo 6,Heiko Herrlich,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412980
+7,sáb 07/11/2020,11:30,Augsburg,Hertha Berlim,4-4-2 duplo 6,Heiko Herrlich,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412997
+8,sáb 21/11/2020,11:30,M'gladbach,Augsburg,4-4-2 duplo 6,Heiko Herrlich,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413010
+9,sáb 28/11/2020,11:30,Augsburg,Freiburg,4-4-2 duplo 6,Heiko Herrlich,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413025
+10,seg 07/12/2020,16:30,Hoffenheim,Augsburg,4-4-2 duplo 6,Heiko Herrlich,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413037
+11,dom 13/12/2020,11:30,Augsburg,Schalke,4-2-3-1,Heiko Herrlich,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413062
+12,qua 16/12/2020,16:30,Arm. Bielefeld,Augsburg,3-5-2 plano,Heiko Herrlich,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413079
+13,sáb 19/12/2020,11:30,Augsburg,Frankfurt,4-4-2 duplo 6,Heiko Herrlich,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413089
+14,sáb 02/01/2021,11:30,Colônia,Augsburg,3-4-3 plano,Heiko Herrlich,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413104
+15,dom 10/01/2021,11:30,Augsburg,Stuttgart,3-4-3 plano,Heiko Herrlich,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413124
+16,sáb 16/01/2021,11:30,Werder Bremen,Augsburg,3-4-3 plano,Heiko Herrlich,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413142
+17,qua 20/01/2021,16:30,Augsburg,Bayern,5-4-1 plano,Heiko Herrlich,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413160
+18,sáb 23/01/2021,11:30,Augsburg,Union Berlim,3-4-3 plano,Heiko Herrlich,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413178
+19,sáb 30/01/2021,11:30,Dortmund,Augsburg,3-4-2-1,Heiko Herrlich,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413163
+20,sáb 06/02/2021,11:30,Augsburg,Wolfsburg,4-2-3-1,Heiko Herrlich,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413151
+21,sex 12/02/2021,16:30,Leipzig,Augsburg,3-4-2-1,Heiko Herrlich,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413128
+22,dom 21/02/2021,09:30,Augsburg,Leverkusen,4-2-3-1,Heiko Herrlich,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413115
+23,dom 28/02/2021,11:30,Mainz,Augsburg,4-2-3-1,Heiko Herrlich,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413096
+24,sáb 06/03/2021,11:30,Hertha Berlim,Augsburg,4-2-3-1,Heiko Herrlich,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413068
+25,sex 12/03/2021,16:30,Augsburg,M'gladbach,4-2-3-1,Heiko Herrlich,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413050
+26,dom 21/03/2021,14:00,Freiburg,Augsburg,4-4-2 duplo 6,Heiko Herrlich,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413029
+27,sáb 03/04/2021,10:30,Augsburg,Hoffenheim,4-2-3-1,Heiko Herrlich,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413007
+28,dom 11/04/2021,10:30,Schalke,Augsburg,4-2-3-1,Heiko Herrlich,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412986
+29,sáb 17/04/2021,10:30,Augsburg,Arm. Bielefeld,4-2-3-1,Heiko Herrlich,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412972
+30,ter 20/04/2021,15:30,Frankfurt,Augsburg,3-4-2-1,Heiko Herrlich,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412949
+31,sex 23/04/2021,15:30,Augsburg,Colônia,4-4-2 duplo 6,Heiko Herrlich,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412936
+32,sex 07/05/2021,15:30,Stuttgart,Augsburg,4-4-2 duplo 6,Markus Weinzierl,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412918
+33,sáb 15/05/2021,10:30,Augsburg,Werder Bremen,4-2-3-1,Markus Weinzierl,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412899
+34,sáb 22/05/2021,10:30,Bayern,Augsburg,4-2-3-1,Markus Weinzierl,250,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412874

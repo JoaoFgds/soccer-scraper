@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 25/07/1997,14:15,Frankfurt,Düsseldorf,4-4-2 losango,Rudolf Wojtowicz,18600,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951019
+2,sex 01/08/1997,14:00,Düsseldorf,KFC Uerdingen,4-4-2,Rudolf Wojtowicz,10300,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951029
+3,sex 08/08/1997,14:00,SV Meppen,Düsseldorf,?,Rudolf Wojtowicz,8500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951039
+4,dom 24/08/1997,10:00,Düsseldorf,Unterhaching,?,Rudolf Wojtowicz,8000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951051
+5,dom 31/08/1997,10:00,Greuther Fürth,Düsseldorf,?,Rudolf Wojtowicz,8000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951061
+6,seg 15/09/1997,14:15,Düsseldorf,St. Pauli,?,Rudolf Wojtowicz,6500,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951072
+7,dom 21/09/1997,10:00,Mainz,Düsseldorf,?,Ulrich Maslo,7602,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951080
+8,sex 26/09/1997,14:00,Düsseldorf,FSV Zwickau,?,Ulrich Maslo,5800,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951083
+9,sáb 04/10/1997,10:30,Fortuna Köln,Düsseldorf,?,Ulrich Maslo,5500,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951093
+10,dom 19/10/1997,11:00,Düsseldorf,FC Gütersloh,?,Ulrich Maslo,10500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951103
+11,dom 26/10/1997,12:00,Düsseldorf,Wattenscheid 09,?,Ulrich Maslo,6500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951113
+12,dom 02/11/1997,11:30,Stuttg. Kickers,Düsseldorf,?,Ulrich Maslo,3800,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951121
+13,dom 09/11/1997,12:00,Düsseldorf,Energ. Cottbus,?,Ulrich Maslo,8500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951132
+14,dom 23/11/1997,12:00,Nuremberg,Düsseldorf,?,Ulrich Maslo,25500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951146
+15,dom 30/11/1997,12:00,Düsseldorf,Freiburg,3-4-2-1,Ulrich Maslo,9000,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951154
+16,sex 05/12/1997,16:00,VfB Leipzig,Düsseldorf,?,Ulrich Maslo,3000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951157
+17,sex 12/12/1997,16:00,Düsseldorf,Carl Zeiss Jena,?,Ulrich Maslo,5000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951167
+18,seg 16/02/1998,16:30,Düsseldorf,Frankfurt,?,Ulrich Maslo,12000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951183
+19,qua 25/02/1998,16:00,KFC Uerdingen,Düsseldorf,?,Ulrich Maslo,10647,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951191
+20,dom 01/03/1998,11:00,Düsseldorf,SV Meppen,?,Ulrich Maslo,25000,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951196
+21,seg 09/03/1998,15:30,Unterhaching,Düsseldorf,?,Ulrich Maslo,2800,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951209
+22,dom 15/03/1998,11:00,Düsseldorf,Greuther Fürth,?,Ulrich Maslo,25000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951216
+23,sex 20/03/1998,15:00,St. Pauli,Düsseldorf,?,Ulrich Maslo,18479,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951222
+24,dom 29/03/1998,10:00,Düsseldorf,Mainz,?,Ulrich Maslo,12000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951232
+25,sex 03/04/1998,14:00,FSV Zwickau,Düsseldorf,?,Ulrich Maslo,3200,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951239
+26,dom 12/04/1998,10:00,Düsseldorf,Fortuna Köln,?,Ulrich Maslo,20000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951251
+27,dom 19/04/1998,10:00,FC Gütersloh,Düsseldorf,?,Ulrich Maslo,11000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951259
+28,sex 24/04/1998,14:00,Wattenscheid 09,Düsseldorf,?,Ulrich Maslo,4100,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951267
+29,dom 03/05/1998,10:00,Düsseldorf,Stuttg. Kickers,?,Ulrich Maslo,6000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951277
+30,dom 10/05/1998,10:00,Energ. Cottbus,Düsseldorf,?,Ulrich Maslo,5700,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951289
+31,sex 15/05/1998,14:00,Düsseldorf,Nuremberg,?,Enver Maric,20000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951292
+32,sex 22/05/1998,14:00,Freiburg,Düsseldorf,3-5-2,Enver Maric,21000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951307
+33,qua 03/06/1998,14:00,Düsseldorf,VfB Leipzig,3-5-2,Enver Maric,16000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951317
+34,dom 07/06/1998,10:00,Carl Zeiss Jena,Düsseldorf,3-5-2,Enver Maric,2433,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/951321

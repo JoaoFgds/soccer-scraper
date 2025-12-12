@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 01/08/1997,15:00,Schalke,Leverkusen,3-5-2,Huub Stevens,48900,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17538
+2,ter 05/08/1997,14:30,MSV Duisburg,Schalke,?,Huub Stevens,23500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17549
+3,sáb 09/08/1997,10:30,Schalke,Dortmund,3-5-2,Huub Stevens,68200,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17559
+4,sáb 23/08/1997,10:30,K'lautern,Schalke,3-5-2,Huub Stevens,38000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17567
+5,sáb 30/08/1997,10:30,Schalke,M'gladbach,3-4-2-1,Huub Stevens,59400,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17577
+6,sáb 13/09/1997,10:30,Wolfsburg,Schalke,?,Huub Stevens,15500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17590
+7,sáb 20/09/1997,10:30,Schalke,Hamburgo,3-5-2,Huub Stevens,44820,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17596
+8,sex 26/09/1997,15:00,Bayern,Schalke,3-4-2-1,Huub Stevens,63000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17601
+9,sáb 04/10/1997,10:30,Schalke,Hertha Berlim,3-5-2,Huub Stevens,42930,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17614
+10,ter 14/10/1997,16:00,Colônia,Schalke,?,Huub Stevens,37000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17619
+11,sáb 18/10/1997,11:30,Hansa Rostock,Schalke,3-5-2,Huub Stevens,18000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17631
+12,sex 24/10/1997,16:00,Schalke,Bochum,3-5-2,Huub Stevens,47640,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17638
+13,sáb 01/11/1997,12:30,Stuttgart,Schalke,3-5-2,Huub Stevens,52900,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17653
+14,sáb 08/11/1997,12:30,Schalke,Karlsruher,3-4-3,Huub Stevens,37960,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17659
+15,ter 18/11/1997,17:00,Werder Bremen,Schalke,3-4-1-2,Huub Stevens,26700,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17667
+16,sáb 22/11/1997,12:30,Schalke,1860 Munique,3-5-2,Huub Stevens,38610,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17676
+17,sáb 29/11/1997,12:30,Arm. Bielefeld,Schalke,3-5-2,Huub Stevens,22512,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17687
+18,sáb 06/12/1997,12:30,Leverkusen,Schalke,3-5-2,Huub Stevens,22500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17693
+19,sáb 13/12/1997,12:30,Schalke,MSV Duisburg,3-4-2-1,Huub Stevens,37390,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17703
+20,sex 19/12/1997,17:00,Dortmund,Schalke,3-4-2-1,Huub Stevens,55000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17709
+21,sáb 31/01/1998,12:30,Schalke,K'lautern,3-4-1-2,Huub Stevens,51600,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17721
+22,sáb 07/02/1998,12:30,M'gladbach,Schalke,?,Huub Stevens,30700,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17732
+23,sáb 14/02/1998,12:30,Schalke,Wolfsburg,3-5-2,Huub Stevens,41540,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17739
+24,sáb 28/02/1998,12:30,Hamburgo,Schalke,3-5-2,Huub Stevens,36304,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17750
+25,dom 08/03/1998,15:45,Schalke,Bayern,3-5-2,Huub Stevens,71017,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17761
+26,sex 13/03/1998,16:00,Hertha Berlim,Schalke,?,Huub Stevens,60517,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17763
+27,qua 29/04/1998,15:00,Schalke,Colônia,?,Huub Stevens,55255,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17779
+28,sáb 28/03/1998,11:30,Schalke,Hansa Rostock,3-5-2,Huub Stevens,47650,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17786
+29,sáb 04/04/1998,10:30,Bochum,Schalke,3-5-2,Huub Stevens,31500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17797
+30,sáb 11/04/1998,10:30,Schalke,Stuttgart,3-5-2,Huub Stevens,56200,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17802
+31,sáb 18/04/1998,10:30,Karlsruher,Schalke,3-5-2,Huub Stevens,33600,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17814
+32,sáb 25/04/1998,10:30,Schalke,Werder Bremen,3-4-1-2,Huub Stevens,43733,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17820
+33,sáb 02/05/1998,10:30,1860 Munique,Schalke,?,Huub Stevens,45700,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17834
+34,sáb 09/05/1998,10:30,Schalke,Arm. Bielefeld,3-4-2-1,Huub Stevens,62000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17836

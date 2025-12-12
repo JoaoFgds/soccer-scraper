@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 14/05/2016,16:00,Palmeiras,Atlético-PR,4-2-3-1,Cuca,33629,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2684564
+2,sáb 21/05/2016,16:00,Ponte Preta,Palmeiras,4-2-3-1,Cuca,7061,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2684573
+3,qua 25/05/2016,21:45,Palmeiras,Fluminense,4-3-3 defensivo,Cuca,28534,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2694649
+4,dom 29/05/2016,16:00,São Paulo,Palmeiras,4-2-3-1,Cuca,21016,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2694660
+5,qui 02/06/2016,21:00,Palmeiras,Grêmio,4-2-3-1,Cuca,19196,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2695574
+6,dom 05/06/2016,16:00,Flamengo,Palmeiras,4-2-3-1,Cuca,54655,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2695589
+7,dom 12/06/2016,16:00,Palmeiras,Corinthians,4-2-3-1,Cuca,39935,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2696879
+8,qua 15/06/2016,21:45,Coritiba,Palmeiras,4-2-3-1,Cuca,12794,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698566
+9,sáb 18/06/2016,16:00,Palmeiras,Santa Cruz,4-2-3-1,Cuca,34162,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698570
+10,ter 21/06/2016,21:30,Palmeiras,América-MG,4-2-3-1,Cuca,27429,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698580
+11,sáb 25/06/2016,19:00,Cruzeiro,Palmeiras,4-2-3-1,Cuca,18082,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702131
+12,qui 30/06/2016,19:30,Palmeiras,Figueirense,4-2-3-1,Cuca,32834,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702149
+13,seg 04/07/2016,20:00,Sport,Palmeiras,4-2-3-1,Cuca,26719,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2708413
+14,ter 12/07/2016,20:30,Palmeiras,Santos,4-3-3 ofensivo,Cuca,40035,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2708423
+15,dom 17/07/2016,16:00,Internacional,Palmeiras,4-2-3-1,Cuca,27293,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713335
+16,dom 24/07/2016,11:00,Palmeiras,Atlético-MG,4-3-3 ofensivo,Cuca,39400,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713354
+17,dom 31/07/2016,18:30,Botafogo,Palmeiras,4-3-3 defensivo,Cuca,8477,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713370
+18,qui 04/08/2016,21:30,Chapecoense,Palmeiras,4-2-3-1,Cuca,9167,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713389
+19,dom 07/08/2016,16:00,Palmeiras,Vitória,4-3-3 defensivo,Cuca,30330,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713395
+20,dom 14/08/2016,18:30,Atlético-PR,Palmeiras,4-3-3 ofensivo,Cuca,23911,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713416
+21,dom 21/08/2016,12:00,Palmeiras,Ponte Preta,4-1-4-1,Cuca,29138,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2767846
+22,dom 28/08/2016,15:00,Fluminense,Palmeiras,4-3-3 ofensivo,Cuca,12037,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2767855
+23,qua 07/09/2016,22:45,Palmeiras,São Paulo,4-1-4-1,Cuca,39944,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770074
+24,dom 11/09/2016,19:30,Grêmio,Palmeiras,4-2-3-1,Cuca,19514,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770087
+25,qua 14/09/2016,21:45,Palmeiras,Flamengo,4-3-3 ofensivo,Cuca,32885,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770094
+26,sáb 17/09/2016,17:00,Corinthians,Palmeiras,4-3-3 defensivo,Cuca,39879,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770100
+27,sáb 24/09/2016,17:00,Palmeiras,Coritiba,4-3-3 defensivo,Cuca,30962,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770150
+28,seg 03/10/2016,21:00,Santa Cruz,Palmeiras,4-3-3 defensivo,Cuca,7189,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770168
+29,dom 09/10/2016,18:00,América-MG,Palmeiras,4-2-3-1,Cuca,27895,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770179
+30,qua 12/10/2016,20:30,Palmeiras,Cruzeiro,4-2-3-1,Cuca,15709,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770184
+31,dom 16/10/2016,19:00,Figueirense,Palmeiras,4-2-3-1,Cuca,16467,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770192
+32,dom 23/10/2016,19:00,Palmeiras,Sport,4-3-3 defensivo,Cuca,31107,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770204
+33,sáb 29/10/2016,19:30,Santos,Palmeiras,3-4-1-2,Cuca,13574,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770227
+34,dom 06/11/2016,17:00,Palmeiras,Internacional,4-2-3-1,Cuca,31967,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770214
+35,qui 17/11/2016,21:00,Atlético-MG,Palmeiras,4-3-3 ofensivo,Cuca,14492,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2778084
+36,dom 20/11/2016,17:00,Palmeiras,Botafogo,4-2-3-1,Cuca,39690,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2778087
+37,dom 27/11/2016,17:00,Palmeiras,Chapecoense,4-3-3 ofensivo,Cuca,24701,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2798387
+38,dom 11/12/2016,17:00,Vitória,Palmeiras,4-3-3 defensivo,Cuca,34757,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2798932

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 22/01/2012,18:30,Real Madrid,Athletic Club,4-3-3 ofensivo,Marcelo Bielsa,75000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125062
+2,dom 28/08/2011,11:00,Athletic Club,Rayo Vallecano,4-2-3-1,Marcelo Bielsa,37000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125239
+3,dom 11/09/2011,17:00,Espanyol,Athletic Club,4-2-3-1,Marcelo Bielsa,21154,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125248
+4,dom 18/09/2011,17:00,Athletic Club,Betis,4-2-3-1,Marcelo Bielsa,30000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125258
+5,qua 21/09/2011,15:00,Málaga CF,Athletic Club,3-4-3,Marcelo Bielsa,20976,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125267
+6,sáb 24/09/2011,13:00,Athletic Club,Villarreal,5-4-1,Marcelo Bielsa,37000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125277
+7,dom 02/10/2011,07:00,Real Sociedad,Athletic Club,4-2-3-1,Marcelo Bielsa,29000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125286
+8,seg 17/10/2011,17:00,Athletic Club,Osasuna,4-2-3-1,Marcelo Bielsa,33000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125299
+9,dom 23/10/2011,16:00,Valencia,Athletic Club,4-2-3-1,Marcelo Bielsa,25000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125305
+10,qui 27/10/2011,18:00,Athletic Club,Atlético,4-2-3-1,Marcelo Bielsa,28000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125315
+11,dom 30/10/2011,09:00,Real Sporting,Athletic Club,4-2-3-1,Marcelo Bielsa,23000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125324
+12,dom 06/11/2011,17:00,Athletic Club,Barcelona,4-2-3-1,Marcelo Bielsa,35000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125334
+13,dom 20/11/2011,15:00,Sevilla,Athletic Club,5-4-1 plano,Marcelo Bielsa,36000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125343
+14,dom 27/11/2011,16:45,Athletic Club,Granada CF,4-2-3-1,Marcelo Bielsa,37000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125353
+15,dom 04/12/2011,17:00,Mallorca,Athletic Club,4-2-3-1,Marcelo Bielsa,12863,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125362
+16,dom 11/12/2011,16:45,Athletic Club,Rac. Santander,4-2-3-1,Marcelo Bielsa,34000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125372
+17,sáb 17/12/2011,17:00,Athletic Club,Zaragoza,4-2-3-1,Marcelo Bielsa,28000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125382
+18,dom 08/01/2012,13:00,Getafe,Athletic Club,4-2-3-1,Marcelo Bielsa,11000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125393
+19,dom 15/01/2012,15:00,Athletic Club,Levante,4-2-3-1,Marcelo Bielsa,34000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125403
+20,qua 02/05/2012,17:00,Athletic Club,Real Madrid,4-2-3-1,Marcelo Bielsa,39000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125413
+21,sáb 28/01/2012,15:00,Rayo Vallecano,Athletic Club,4-4-2 duplo 6,Marcelo Bielsa,12450,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125429
+22,sáb 04/02/2012,15:00,Athletic Club,Espanyol,4-3-3 ofensivo,Marcelo Bielsa,34000,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125438
+23,sáb 11/02/2012,19:00,Betis,Athletic Club,4-2-3-1,Marcelo Bielsa,35000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125448
+24,dom 19/02/2012,13:00,Athletic Club,Málaga CF,4-2-3-1,Marcelo Bielsa,34000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125457
+25,dom 26/02/2012,08:00,Villarreal,Athletic Club,4-2-3-1,Marcelo Bielsa,18000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125467
+26,dom 04/03/2012,12:00,Athletic Club,Real Sociedad,4-2-3-1,Marcelo Bielsa,37000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125476
+27,dom 11/03/2012,17:30,Osasuna,Athletic Club,4-3-3 ofensivo,Marcelo Bielsa,16718,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125489
+28,dom 18/03/2012,14:00,Athletic Club,Valencia,4-1-4-1,Marcelo Bielsa,39750,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125495
+29,qua 21/03/2012,16:00,Atlético,Athletic Club,4-3-3 ofensivo,Marcelo Bielsa,30000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125505
+30,dom 25/03/2012,13:00,Athletic Club,Real Sporting,4-3-3 ofensivo,Marcelo Bielsa,36000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125544
+31,sáb 31/03/2012,17:00,Barcelona,Athletic Club,4-3-3 ofensivo,Marcelo Bielsa,88207,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1134009
+32,dom 08/04/2012,13:00,Athletic Club,Sevilla,4-3-3 ofensivo,Marcelo Bielsa,38000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125523
+33,qua 11/04/2012,15:00,Granada CF,Athletic Club,4-3-3 ofensivo,Marcelo Bielsa,22500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125533
+34,dom 15/04/2012,13:00,Athletic Club,Mallorca,4-2-3-1,Marcelo Bielsa,34000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125552
+35,dom 22/04/2012,11:00,Rac. Santander,Athletic Club,4-2-3-1,Marcelo Bielsa,12194,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125562
+36,dom 29/04/2012,11:00,Zaragoza,Athletic Club,4-2-3-1,Marcelo Bielsa,30000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125572
+37,sáb 05/05/2012,16:00,Athletic Club,Getafe,4-2-3-1,Marcelo Bielsa,34000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125583
+38,dom 13/05/2012,15:00,Levante,Athletic Club,4-2-3-1,Marcelo Bielsa,23142,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125593

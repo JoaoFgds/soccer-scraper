@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 17/08/2014,12:00,Rio Ave,Vitória FC,4-3-3 defensivo,Pedro Martins,1959,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2464774
+2,dom 24/08/2014,13:00,Estoril,Rio Ave,4-3-3 defensivo,Pedro Martins,1748,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2464777
+3,seg 01/09/2014,16:00,Rio Ave,Boavista,4-2-3-1,Pedro Martins,3708,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2464790
+4,sáb 13/09/2014,12:00,Moreirense,Rio Ave,4-2-3-1,Pedro Martins,1576,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2464797
+5,dom 21/09/2014,12:00,Rio Ave,Arouca,4-2-3-1,Pedro Martins,2176,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2466845
+6,sáb 27/09/2014,16:30,Braga,Rio Ave,4-3-3 defensivo,Pedro Martins,9052,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2466850
+7,dom 05/10/2014,15:00,Nacional,Rio Ave,4-3-3 ofensivo,Pedro Martins,1243,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2466859
+8,seg 27/10/2014,18:00,Rio Ave,Penafiel,4-2-3-1,Pedro Martins,2748,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2466875
+9,sex 31/10/2014,17:45,Benfica,Rio Ave,4-3-3 defensivo,Pedro Martins,36599,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2469516
+10,seg 10/11/2014,18:00,Rio Ave,Académica,4-3-3 ofensivo,Pedro Martins,1300,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2469527
+11,dom 30/11/2014,18:15,FC Porto,Rio Ave,4-2-3-1,Pedro Martins,30328,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2469535
+12,sáb 06/12/2014,14:00,Rio Ave,Gil Vicente,4-3-3 ofensivo,Pedro Martins,2144,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2469548
+13,dom 14/12/2014,14:00,Vit. Guimarães,Rio Ave,4-2-3-1,Pedro Martins,19978,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2480117
+14,seg 22/12/2014,19:00,Rio Ave,Belenenses,4-3-3 defensivo,Pedro Martins,1825,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2480140
+15,sáb 03/01/2015,14:00,Paços Ferreira,Rio Ave,4-2-3-1,Pedro Martins,2010,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2480142
+16,dom 11/01/2015,14:00,Rio Ave,Marítimo,4-2-3-1,Pedro Martins,2230,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2480169
+17,dom 18/01/2015,18:15,Sporting,Rio Ave,4-2-3-1,Pedro Martins,27919,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2480183
+18,dom 25/01/2015,14:00,Vitória FC,Rio Ave,4-2-3-1,Pedro Martins,2136,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2490875
+19,dom 01/02/2015,14:00,Rio Ave,Estoril,4-2-3-1,Pedro Martins,1928,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2490879
+20,seg 09/02/2015,18:00,Boavista,Rio Ave,4-3-3 ofensivo,Pedro Martins,2381,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2490892
+21,dom 15/02/2015,14:00,Rio Ave,Moreirense,4-2-3-1,Pedro Martins,2500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498716
+22,dom 22/02/2015,13:00,Arouca,Rio Ave,4-3-3 defensivo,Pedro Martins,1046,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2498724
+23,sáb 28/02/2015,17:15,Rio Ave,Braga,4-3-3 defensivo,Pedro Martins,900,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2512194
+24,seg 09/03/2015,15:00,Rio Ave,Nacional,4-3-3 defensivo,Pedro Martins,1850,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2512206
+25,dom 15/03/2015,13:00,Penafiel,Rio Ave,4-3-3 defensivo,Pedro Martins,1200,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2512219
+26,sáb 21/03/2015,15:00,Rio Ave,Benfica,4-2-3-1,Pedro Martins,9679,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2526195
+27,sex 03/04/2015,12:00,Académica,Rio Ave,4-2-3-1,Pedro Martins,3928,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2526206
+28,sáb 11/04/2015,14:00,Rio Ave,FC Porto,4-2-3-1,Pedro Martins,5543,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2526214
+29,dom 19/04/2015,12:00,Gil Vicente,Rio Ave,4-2-3-1,Pedro Martins,1800,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2526227
+30,sáb 25/04/2015,16:15,Rio Ave,Vit. Guimarães,4-3-3 ofensivo,Pedro Martins,2393,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2526230
+31,seg 04/05/2015,15:45,Belenenses,Rio Ave,4-3-3 ofensivo,Pedro Martins,730,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2526245
+32,sáb 09/05/2015,12:00,Rio Ave,Paços Ferreira,4-2-3-1,Pedro Martins,3721,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2526247
+33,dom 17/05/2015,14:00,Marítimo,Rio Ave,4-2-3-1,Pedro Martins,4672,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2526264
+34,sáb 23/05/2015,14:00,Rio Ave,Sporting,4-2-3-1,Pedro Martins,3747,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2526273

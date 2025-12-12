@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qui 15/08/2024,14:00,Athletic Club,Getafe,4-2-3-1,Ernesto Valverde,47845,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361545
+2,sáb 24/08/2024,14:00,Barcelona,Athletic Club,4-2-3-1,Ernesto Valverde,46448,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361561
+3,qua 28/08/2024,14:00,Athletic Club,Valencia,4-2-3-1,Ernesto Valverde,48644,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361563
+4,sáb 31/08/2024,14:00,Athletic Club,Atlético,4-2-3-1,Ernesto Valverde,48617,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4364905
+5,dom 15/09/2024,13:30,Las Palmas,Athletic Club,4-2-3-1,Ernesto Valverde,25908,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4405323
+6,dom 22/09/2024,11:15,Athletic Club,Celta de Vigo,4-2-3-1,Ernesto Valverde,48737,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4405329
+7,qui 19/09/2024,14:00,Leganés,Athletic Club,4-2-3-1,Ernesto Valverde,8304,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4405344
+8,dom 29/09/2024,11:15,Athletic Club,Sevilla,4-2-3-1,Ernesto Valverde,48288,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4405349
+9,dom 06/10/2024,09:00,Girona,Athletic Club,4-2-3-1,Ernesto Valverde,13396,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4405364
+10,sáb 19/10/2024,09:00,Athletic Club,Espanyol,4-2-3-1,Ernesto Valverde,46713,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4405378
+11,seg 28/10/2024,17:00,Mallorca,Athletic Club,4-2-3-1,Ernesto Valverde,19797,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407516
+12,dom 03/11/2024,17:00,Athletic Club,Betis,4-2-3-1,Ernesto Valverde,46898,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407694
+13,dom 10/11/2024,14:30,Valladolid,Athletic Club,4-2-3-1,Ernesto Valverde,23515,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407668
+14,dom 24/11/2024,17:00,Athletic Club,Real Sociedad,4-2-3-1,Ernesto Valverde,50719,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407644
+15,dom 01/12/2024,14:30,Rayo Vallecano,Athletic Club,4-2-3-1,Ernesto Valverde,13090,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407658
+16,dom 08/12/2024,12:15,Athletic Club,Villarreal,4-2-3-1,Ernesto Valverde,47203,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407684
+17,dom 15/12/2024,12:15,Alavés,Athletic Club,4-2-3-1,Ernesto Valverde,19239,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407707
+18,sáb 21/12/2024,14:30,Osasuna,Athletic Club,4-2-3-1,Ernesto Valverde,22030,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407680
+19,qua 04/12/2024,17:00,Athletic Club,Real Madrid,4-2-3-1,Ernesto Valverde,51364,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407714
+20,dom 19/01/2025,10:00,Celta de Vigo,Athletic Club,4-2-3-1,Ernesto Valverde,22279,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407727
+21,dom 26/01/2025,14:30,Athletic Club,Leganés,4-2-3-1,Ernesto Valverde,47612,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407744
+22,dom 02/02/2025,17:00,Betis,Athletic Club,4-4-2 duplo 6,Ernesto Valverde,49292,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407781
+23,sáb 08/02/2025,12:15,Athletic Club,Girona,4-2-3-1,Ernesto Valverde,48261,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407764
+24,dom 16/02/2025,10:00,Espanyol,Athletic Club,4-2-3-1,Ernesto Valverde,26645,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407758
+25,dom 23/02/2025,10:00,Athletic Club,Valladolid,4-2-3-1,Ernesto Valverde,47715,7:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407534
+26,sáb 01/03/2025,17:00,Atlético,Athletic Club,4-2-3-1,Ernesto Valverde,63810,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407738
+27,dom 09/03/2025,14:30,Athletic Club,Mallorca,4-2-3-1,Ernesto Valverde,48203,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407784
+28,dom 16/03/2025,12:15,Sevilla,Athletic Club,4-2-3-1,Ernesto Valverde,37016,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407527
+29,dom 30/03/2025,13:30,Athletic Club,Osasuna,4-2-3-1,Ernesto Valverde,49671,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407554
+30,dom 06/04/2025,16:00,Villarreal,Athletic Club,4-2-3-1,Ernesto Valverde,19158,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407548
+31,dom 13/04/2025,16:00,Athletic Club,Rayo Vallecano,4-2-3-1,Ernesto Valverde,47584,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407624
+32,dom 20/04/2025,16:00,Real Madrid,Athletic Club,4-2-3-1,Ernesto Valverde,72535,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407637
+33,qua 23/04/2025,14:00,Athletic Club,Las Palmas,4-2-3-1,Ernesto Valverde,47724,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407614
+34,dom 04/05/2025,16:00,Real Sociedad,Athletic Club,4-2-3-1,Ernesto Valverde,36058,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407608
+35,dom 11/05/2025,13:30,Athletic Club,Alavés,4-2-3-1,Ernesto Valverde,47947,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407602
+36,qui 15/05/2025,16:30,Getafe,Athletic Club,3-4-2-1,Ernesto Valverde,11564,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407576
+37,dom 18/05/2025,14:00,Valencia,Athletic Club,4-2-3-1,Ernesto Valverde,45641,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407587
+38,dom 25/05/2025,16:00,Athletic Club,Barcelona,4-2-3-1,Ernesto Valverde,50231,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4407564

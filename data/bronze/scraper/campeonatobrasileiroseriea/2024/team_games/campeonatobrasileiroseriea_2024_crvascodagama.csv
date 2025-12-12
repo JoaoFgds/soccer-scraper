@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 14/04/2024,16:00,Vasco da Gama,Grêmio,4-3-3 ofensivo,Ramón Díaz,18055,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316191
+2,qua 17/04/2024,19:00,Bragantino,Vasco da Gama,4-3-3 ofensivo,Ramón Díaz,5532,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316263
+3,sáb 20/04/2024,16:00,Fluminense,Vasco da Gama,4-3-3 ofensivo,Ramón Díaz,25842,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316230
+4,sáb 27/04/2024,16:00,Vasco da Gama,Criciúma,4-2-3-1,Ramón Díaz,17124,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316271
+5,dom 05/05/2024,16:00,Athletico-PR,Vasco da Gama,4-3-3 ofensivo,Rafael Paiva,31192,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316294
+6,dom 12/05/2024,18:30,Vasco da Gama,Vitória,4-2-3-1,Rafael Paiva,11084,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316311
+7,dom 02/06/2024,16:00,Vasco da Gama,Flamengo,3-4-2-1,Álvaro Pacheco,62228,1:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316281
+8,qui 13/06/2024,21:30,Palmeiras,Vasco da Gama,5-4-1 plano,Álvaro Pacheco,37641,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316332
+9,dom 16/06/2024,18:30,Vasco da Gama,Cruzeiro,4-2-3-1,Álvaro Pacheco,11275,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316201
+10,qua 19/06/2024,20:00,Juventude,Vasco da Gama,4-2-3-1,Álvaro Pacheco,4838,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316246
+11,sáb 22/06/2024,21:30,Vasco da Gama,São Paulo,4-2-3-1,Rafael Paiva,5306,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316301
+12,qua 26/06/2024,21:30,Bahia,Vasco da Gama,4-2-3-1,Rafael Paiva,38318,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316339
+13,sáb 29/06/2024,18:30,Vasco da Gama,Botafogo,4-2-3-1,Rafael Paiva,16121,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316211
+14,qua 03/07/2024,20:00,Vasco da Gama,Fortaleza,4-2-3-1,Rafael Paiva,14384,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316351
+15,dom 07/07/2024,18:30,Internacional,Vasco da Gama,4-2-3-1,Rafael Paiva,41693,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316317
+16,qua 10/07/2024,19:00,Vasco da Gama,Corinthians,4-2-3-1,Rafael Paiva,23307,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316461
+17,qua 17/07/2024,19:00,Atlético-GO,Vasco da Gama,4-2-3-1,Rafael Paiva,12089,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316395
+18,dom 21/07/2024,16:00,Atlético-MG,Vasco da Gama,4-2-3-1,Rafael Paiva,42353,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316538
+19,qui 24/10/2024,19:00,Vasco da Gama,Cuiabá,4-2-3-1,Rafael Paiva,16696,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316381
+20,dom 28/07/2024,19:00,Grêmio,Vasco da Gama,4-2-3-1,Rafael Paiva,17621,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316497
+21,sáb 03/08/2024,19:00,Vasco da Gama,Bragantino,4-2-3-1,Rafael Paiva,17938,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316361
+22,sáb 10/08/2024,21:30,Vasco da Gama,Fluminense,4-2-3-1,Rafael Paiva,20003,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316421
+23,dom 18/08/2024,16:00,Criciúma,Vasco da Gama,4-2-3-1,Rafael Paiva,18403,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316436
+24,seg 26/08/2024,21:00,Vasco da Gama,Athletico-PR,4-2-3-1,Rafael Paiva,16775,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316441
+25,dom 01/09/2024,18:30,Vitória,Vasco da Gama,4-2-3-1,Rafael Paiva,20923,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316529
+26,dom 15/09/2024,18:30,Flamengo,Vasco da Gama,4-2-3-1,Rafael Paiva,65200,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316410
+27,dom 22/09/2024,16:00,Vasco da Gama,Palmeiras,4-2-3-1,Rafael Paiva,25755,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316511
+28,dom 29/09/2024,18:30,Cruzeiro,Vasco da Gama,4-2-3-1,Rafael Paiva,56331,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316248
+29,sáb 05/10/2024,21:00,Vasco da Gama,Juventude,4-2-3-1,Rafael Paiva,18036,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316451
+30,qua 16/10/2024,21:45,São Paulo,Vasco da Gama,4-2-3-1,Rafael Paiva,15497,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316523
+31,seg 28/10/2024,21:00,Vasco da Gama,Bahia,4-2-3-1,Rafael Paiva,17213,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316481
+32,ter 05/11/2024,21:30,Botafogo,Vasco da Gama,4-2-3-1,Rafael Paiva,32007,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316371
+33,sáb 09/11/2024,19:00,Fortaleza,Vasco da Gama,4-3-3 ofensivo,Rafael Paiva,45271,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316474
+34,qui 21/11/2024,20:00,Vasco da Gama,Internacional,4-2-3-1,Rafael Paiva,17339,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316551
+35,dom 24/11/2024,16:00,Corinthians,Vasco da Gama,4-2-3-1,Rafael Paiva,46083,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316222
+36,sáb 30/11/2024,21:30,Vasco da Gama,Atlético-GO,4-2-3-1,Felipe Loureiro,18270,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316491
+37,qua 04/12/2024,19:00,Vasco da Gama,Atlético-MG,4-4-2 losango,Felipe Loureiro,17074,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316561
+38,dom 08/12/2024,16:00,Cuiabá,Vasco da Gama,4-4-2 losango,Felipe Loureiro,7030,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316405

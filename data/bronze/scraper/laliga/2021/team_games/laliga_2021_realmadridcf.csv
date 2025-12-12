@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 14/08/2021,17:00,Alavés,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,3968,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605038
+2,dom 22/08/2021,17:00,Levante,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,9838,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605055
+3,sáb 28/08/2021,17:00,Betis,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,22590,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605060
+4,dom 12/09/2021,16:00,Real Madrid,Celta de Vigo,4-4-2 duplo 6,Carlo Ancelotti,19874,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605201
+5,dom 19/09/2021,16:00,Valencia,Real Madrid,4-4-1-1,Carlo Ancelotti,26689,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605211
+6,qua 22/09/2021,17:00,Real Madrid,Mallorca,4-3-3 ofensivo,Carlo Ancelotti,20113,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605221
+7,sáb 25/09/2021,16:00,Real Madrid,Villarreal,4-3-3 ofensivo,Carlo Ancelotti,23985,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605281
+8,dom 03/10/2021,11:15,Espanyol,Real Madrid,4-3-1-2,Carlo Ancelotti,23377,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605300
+9,qua 01/12/2021,17:00,Real Madrid,Athletic Club,4-3-3 ofensivo,Carlo Ancelotti,33627,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605310
+10,dom 24/10/2021,11:15,Barcelona,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,86422,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605324
+11,qua 27/10/2021,16:30,Real Madrid,Osasuna,4-3-3 ofensivo,Carlo Ancelotti,35691,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607528
+12,sáb 30/10/2021,09:00,Elche,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,23010,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607540
+13,sáb 06/11/2021,17:00,Real Madrid,Rayo Vallecano,4-3-3 ofensivo,Carlo Ancelotti,43283,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607548
+14,dom 21/11/2021,12:15,Granada CF,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,17460,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607555
+15,dom 28/11/2021,17:00,Real Madrid,Sevilla,4-3-3 ofensivo,Carlo Ancelotti,45281,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607568
+16,sáb 04/12/2021,17:00,Real Sociedad,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,35765,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607577
+17,dom 12/12/2021,17:00,Real Madrid,Atlético,4-3-3 ofensivo,Carlo Ancelotti,51024,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607596
+18,dom 19/12/2021,17:00,Real Madrid,Cádiz CF,4-3-3 ofensivo,Carlo Ancelotti,38818,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607605
+19,dom 02/01/2022,10:00,Getafe,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,11890,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607613
+20,sáb 08/01/2022,17:00,Real Madrid,Valencia,4-3-3 ofensivo,Carlo Ancelotti,40617,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607624
+21,qua 22/12/2021,17:30,Athletic Club,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,42722,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3610270
+22,dom 23/01/2022,12:15,Real Madrid,Elche,4-3-3 ofensivo,Carlo Ancelotti,39796,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3610295
+23,dom 06/02/2022,17:00,Real Madrid,Granada CF,4-3-3 ofensivo,Carlo Ancelotti,36665,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3610327
+24,sáb 12/02/2022,12:15,Villarreal,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,17894,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3610349
+25,sáb 19/02/2022,17:00,Real Madrid,Alavés,4-3-3 ofensivo,Carlo Ancelotti,42180,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3610367
+26,sáb 26/02/2022,14:30,Rayo Vallecano,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,9952,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3610378
+27,sáb 05/03/2022,17:00,Real Madrid,Real Sociedad,4-3-3 ofensivo,Carlo Ancelotti,52410,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3610407
+28,seg 14/03/2022,17:00,Mallorca,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,17191,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3610433
+29,dom 20/03/2022,17:00,Real Madrid,Barcelona,4-3-3 ofensivo,Carlo Ancelotti,60017,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3610564
+30,sáb 02/04/2022,13:30,Celta de Vigo,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,15714,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3610572
+31,sáb 09/04/2022,16:00,Real Madrid,Getafe,4-3-3 ofensivo,Carlo Ancelotti,50740,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611444
+32,dom 17/04/2022,16:00,Sevilla,Real Madrid,4-1-4-1,Carlo Ancelotti,40629,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611456
+33,qua 20/04/2022,16:30,Osasuna,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,21360,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611466
+34,sáb 30/04/2022,11:15,Real Madrid,Espanyol,4-3-3 ofensivo,Carlo Ancelotti,60000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611474
+35,dom 08/05/2022,16:00,Atlético,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,63874,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611480
+36,qui 12/05/2022,16:30,Real Madrid,Levante,4-3-3 ofensivo,Carlo Ancelotti,38421,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611493
+37,dom 15/05/2022,14:30,Cádiz CF,Real Madrid,4-3-3 ofensivo,Carlo Ancelotti,19643,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611505
+38,sex 20/05/2022,16:00,Real Madrid,Betis,4-3-3 ofensivo,Carlo Ancelotti,52232,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611513

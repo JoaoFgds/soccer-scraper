@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qua 02/05/2007,19:00,Internacional,Botafogo,,Cuca,11870,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/73327
+2,sáb 19/05/2007,19:00,Botafogo,Atlético-MG,,Cuca,5991,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/73335
+3,sáb 26/05/2007,19:00,Flamengo,Botafogo,,Cuca,12321,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/73343
+4,sáb 02/06/2007,19:00,Botafogo,Grêmio,,Cuca,12681,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/73350
+5,sáb 09/06/2007,19:00,Palmeiras,Botafogo,,Cuca,21322,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/73364
+6,sáb 16/06/2007,19:00,Botafogo,Náutico,,Cuca,25967,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/73369
+7,ter 14/08/2007,19:00,Botafogo,Corinthians,,Cuca,13736,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/73376
+8,sex 29/06/2007,19:00,Fluminense,Botafogo,,Cuca,43810,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/73389
+9,ter 03/07/2007,19:00,Goiás,Botafogo,,Cuca,22835,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/73398
+10,sex 06/07/2007,19:00,Botafogo,Atlético-PR,,Cuca,24923,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/73404
+11,sex 13/07/2007,19:00,Santos,Botafogo,,Cuca,12554,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/73418
+12,qua 13/06/2007,19:00,Botafogo,Vasco da Gama,,Cuca,25287,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/73429
+13,sáb 21/07/2007,19:00,Sport,Botafogo,,Cuca,27570,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/73521
+14,qui 26/07/2007,19:00,Botafogo,Juventude,,Cuca,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/73533
+15,sáb 28/07/2007,19:00,Cruzeiro,Botafogo,,Cuca,13302,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/74135
+16,qua 01/08/2007,19:00,Botafogo,América-RN,,Cuca,13314,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80736
+17,sex 03/08/2007,19:00,Paraná,Botafogo,?,Cuca,12063,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80749
+18,qua 08/08/2007,19:00,Botafogo,São Paulo,,Cuca,40067,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/81080
+19,sáb 11/08/2007,19:00,Figueirense,Botafogo,,Cuca,12281,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/81486
+20,sáb 18/08/2007,19:00,Botafogo,Internacional,,Cuca,21688,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/81868
+21,dom 26/08/2007,11:00,Atlético-MG,Botafogo,,Cuca,19828,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/81995
+22,qua 29/08/2007,15:30,Botafogo,Flamengo,,Cuca,44212,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/82704
+23,dom 02/09/2007,11:00,Grêmio,Botafogo,,Cuca,25515,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83490
+24,qui 06/09/2007,15:30,Botafogo,Palmeiras,,Cuca,8634,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83503
+25,dom 09/09/2007,14:00,Náutico,Botafogo,,Cuca,10622,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/84571
+26,dom 16/09/2007,11:00,Corinthians,Botafogo,,Cuca,7794,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/84604
+27,dom 23/09/2007,13:10,Botafogo,Fluminense,,Cuca,26040,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/85102
+28,dom 30/09/2007,11:00,Botafogo,Goiás,?,Mário Sérgio,7736,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/85108
+29,qua 03/10/2007,16:45,Atlético-PR,Botafogo,?,Mário Sérgio,12413,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/85119
+30,sáb 06/10/2007,13:10,Botafogo,Santos,?,Mário Sérgio,7918,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/85126
+31,dom 14/10/2007,12:00,Vasco da Gama,Botafogo,4-4-2,Cuca,17406,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/85141
+32,sáb 20/10/2007,14:10,Botafogo,Sport,4-4-2,Cuca,15560,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/86053
+33,dom 28/10/2007,15:10,Juventude,Botafogo,4-5-1,Cuca,7104,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/86068
+34,qui 01/11/2007,13:00,Botafogo,Cruzeiro,4-5-1,Cuca,13495,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/86074
+35,dom 04/11/2007,13:00,América-RN,Botafogo,3-5-2,Cuca,5177,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/86085
+36,sáb 10/11/2007,13:00,Botafogo,Paraná,4-5-1,Cuca,9916,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/86094
+37,dom 25/11/2007,13:00,São Paulo,Botafogo,4-4-2,Cuca,30530,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/86110
+38,dom 02/12/2007,13:00,Botafogo,Figueirense,3-5-2,Cuca,8581,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/86116

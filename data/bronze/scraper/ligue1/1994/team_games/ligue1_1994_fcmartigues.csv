@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qui 28/07/1994,19:00,Montpellier,FC Martigues,?,René Exbrayat,9131,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011655
+2,seg 01/08/1994,19:00,FC Martigues,Saint-Étienne,?,René Exbrayat,6000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011666
+3,qui 04/08/1994,19:00,Bordeaux,FC Martigues,?,René Exbrayat,18000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011674
+4,sex 12/08/1994,19:00,FC Martigues,Le Havre,?,René Exbrayat,4000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011687
+5,sex 19/08/1994,19:00,Lens,FC Martigues,?,René Exbrayat,24871,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011694
+6,sex 26/08/1994,19:00,FC Martigues,FC Sochaux,?,René Exbrayat,5000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011708
+7,qua 31/08/1994,15:00,Strasbourg,FC Martigues,?,René Exbrayat,16953,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011717
+8,sex 09/09/1994,19:00,FC Martigues,Nantes,?,René Exbrayat,8000,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011724
+9,sex 16/09/1994,19:00,Cannes,FC Martigues,?,René Exbrayat,6000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011735
+10,qui 22/09/1994,19:00,FC Martigues,SC Bastia,?,René Exbrayat,4500,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011747
+11,sex 30/09/1994,20:00,Monaco,FC Martigues,?,René Exbrayat,3500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011758
+12,seg 10/10/1994,20:00,FC Martigues,FC Metz,?,René Exbrayat,4000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011768
+13,qui 13/10/1994,20:00,Auxerre,FC Martigues,?,René Exbrayat,9000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011776
+14,sex 21/10/1994,21:00,FC Martigues,SM Caen,?,René Exbrayat,4000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011789
+15,sex 28/10/1994,21:00,Lille,FC Martigues,?,René Exbrayat,5616,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011799
+16,sáb 05/11/1994,17:00,FC Martigues,PSG,?,René Exbrayat,9000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011804
+17,qua 09/11/1994,21:00,Nice,FC Martigues,?,René Exbrayat,2000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011822
+18,sáb 19/11/1994,17:00,FC Martigues,Rennes,?,René Exbrayat,3987,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011828
+19,sex 25/11/1994,21:00,Lyon,FC Martigues,?,René Exbrayat,19607,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011834
+20,qua 30/11/1994,21:00,Saint-Étienne,FC Martigues,?,René Exbrayat,11740,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011843
+21,sex 16/12/1994,21:00,FC Martigues,Bordeaux,?,René Exbrayat,4000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011853
+22,sex 06/01/1995,21:00,Le Havre,FC Martigues,?,René Exbrayat,8966,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011869
+23,qui 19/01/1995,21:00,FC Martigues,Lens,?,René Exbrayat,3000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011874
+24,sex 27/01/1995,21:00,FC Sochaux,FC Martigues,?,René Exbrayat,4516,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011888
+25,qua 08/02/1995,17:00,FC Martigues,Strasbourg,?,René Exbrayat,2500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011899
+26,sex 17/02/1995,21:00,Nantes,FC Martigues,?,René Exbrayat,15000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011912
+27,qui 23/02/1995,20:00,FC Martigues,Cannes,?,René Exbrayat,2500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011917
+28,sex 03/03/1995,20:00,SC Bastia,FC Martigues,?,René Exbrayat,4500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011931
+29,qui 09/03/1995,20:00,FC Martigues,Monaco,?,René Exbrayat,3000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011939
+30,ter 21/03/1995,20:00,FC Metz,FC Martigues,?,René Exbrayat,7318,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011949
+31,sex 31/03/1995,19:00,FC Martigues,Auxerre,?,René Exbrayat,3831,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011955
+32,sex 07/04/1995,19:00,SM Caen,FC Martigues,?,René Exbrayat,13436,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011971
+33,sex 14/04/1995,19:00,FC Martigues,Lille,?,René Exbrayat,5000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011981
+34,sáb 29/04/1995,15:00,PSG,FC Martigues,?,René Exbrayat,35522,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011985
+35,sex 05/05/1995,19:00,FC Martigues,Nice,?,René Exbrayat,2000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012001
+36,sáb 20/05/1995,15:00,Rennes,FC Martigues,?,René Exbrayat,10949,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012011
+37,sex 26/05/1995,19:00,FC Martigues,Lyon,?,René Exbrayat,2500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012014
+38,ter 30/05/1995,19:00,FC Martigues,Montpellier,?,René Exbrayat,3200,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012030

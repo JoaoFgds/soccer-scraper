@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 11/08/2013,12:00,AC Ajaccio,Saint-Étienne,4-2-3-1,Fabrizio Ravanelli,7948,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2353761
+2,dom 18/08/2013,16:00,PSG,AC Ajaccio,4-1-4-1,Fabrizio Ravanelli,44413,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2353763
+3,dom 25/08/2013,12:00,AC Ajaccio,Nice,4-3-3 ofensivo,Fabrizio Ravanelli,6991,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330831
+4,sáb 31/08/2013,15:00,FC Sochaux,AC Ajaccio,4-2-3-1,Fabrizio Ravanelli,10294,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330837
+5,sáb 14/09/2013,15:00,AC Ajaccio,Évian,4-3-1-2,Fabrizio Ravanelli,5784,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330845
+6,sáb 21/09/2013,15:00,Rennes,AC Ajaccio,4-2-3-1,Fabrizio Ravanelli,14865,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330858
+7,qua 25/09/2013,14:00,AC Ajaccio,Lyon,4-2-3-1,Fabrizio Ravanelli,6184,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330871
+8,dom 29/09/2013,12:00,AC Ajaccio,Montpellier,4-2-3-1,Fabrizio Ravanelli,6545,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330918
+9,sáb 05/10/2013,15:00,Lille,AC Ajaccio,3-4-2-1,Fabrizio Ravanelli,34384,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330908
+10,sáb 19/10/2013,15:00,AC Ajaccio,Nantes,4-1-4-1,Fabrizio Ravanelli,6460,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330883
+11,sáb 26/10/2013,16:00,Guingamp,AC Ajaccio,4-5-1 plano,Fabrizio Ravanelli,14881,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330944
+12,sáb 02/11/2013,17:00,AC Ajaccio,Valenciennes,4-3-3 ofensivo,Fabrizio Ravanelli,5789,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330917
+13,sáb 09/11/2013,17:00,Toulouse,AC Ajaccio,4-4-2 duplo 6,Christian Bracconi,20559,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330893
+14,sex 22/11/2013,17:30,AC Ajaccio,Marselha,4-4-2 losango,Christian Bracconi,6846,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330936
+15,dom 01/12/2013,11:00,Bordeaux,AC Ajaccio,4-4-1-1,Christian Bracconi,11399,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330929
+16,qua 04/12/2013,16:00,AC Ajaccio,SC Bastia,4-2-3-1,Christian Bracconi,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330960
+17,dom 08/12/2013,18:00,Monaco,AC Ajaccio,4-5-1,Christian Bracconi,5619,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330952
+18,sáb 14/12/2013,17:00,AC Ajaccio,FC Lorient,4-5-1 plano,Christian Bracconi,6057,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330947
+19,sáb 21/12/2013,17:00,Reims,AC Ajaccio,4-2-3-1,Christian Bracconi,14522,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330980
+20,sáb 11/01/2014,14:00,AC Ajaccio,PSG,3-5-2 plano,Christian Bracconi,6721,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2330984
+21,sáb 18/01/2014,17:00,Nice,AC Ajaccio,5-4-1,Christian Bracconi,18629,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331015
+22,sáb 25/01/2014,17:00,AC Ajaccio,FC Sochaux,5-4-1,Christian Bracconi,5924,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331011
+23,sáb 01/02/2014,17:00,Évian,AC Ajaccio,5-4-1 plano,Christian Bracconi,10138,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331008
+24,sáb 08/02/2014,17:00,AC Ajaccio,Rennes,4-1-4-1,Christian Bracconi,5981,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331034
+25,dom 16/02/2014,10:00,Lyon,AC Ajaccio,5-4-1,Christian Bracconi,35103,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331083
+26,sáb 22/02/2014,16:00,Montpellier,AC Ajaccio,5-4-1,Christian Bracconi,12028,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331076
+27,dom 02/03/2014,10:00,AC Ajaccio,Lille,5-4-1,Christian Bracconi,5663,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331081
+28,sáb 08/03/2014,16:00,Nantes,AC Ajaccio,5-4-1,Christian Bracconi,22309,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331078
+29,sáb 15/03/2014,16:00,AC Ajaccio,Guingamp,3-5-2 plano,Christian Bracconi,6018,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331063
+30,sáb 22/03/2014,16:00,Valenciennes,AC Ajaccio,5-4-1,Christian Bracconi,14203,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331056
+31,sáb 29/03/2014,16:00,AC Ajaccio,Toulouse,5-4-1,Christian Bracconi,5961,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331149
+32,sex 04/04/2014,15:30,Marselha,AC Ajaccio,3-5-2 plano,Christian Bracconi,34992,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331143
+33,sáb 12/04/2014,15:00,AC Ajaccio,Bordeaux,4-2-3-1,Christian Bracconi,6319,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331140
+34,dom 20/04/2014,12:00,SC Bastia,AC Ajaccio,4-4-2 duplo 6,Christian Bracconi,14153,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331113
+35,sáb 26/04/2014,12:00,AC Ajaccio,Monaco,4-4-2 duplo 6,Christian Bracconi,6622,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331173
+36,dom 04/05/2014,12:00,FC Lorient,AC Ajaccio,4-5-1 plano,Christian Bracconi,15496,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331154
+37,sáb 10/05/2014,16:00,AC Ajaccio,Reims,4-5-1 plano,Christian Bracconi,5534,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331139
+38,sáb 17/05/2014,16:00,Saint-Étienne,AC Ajaccio,4-2-3-1,Christian Bracconi,37201,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2331175

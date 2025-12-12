@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 02/08/2003,10:30,Schalke,Dortmund,4-4-2 duplo 6,Jupp Heynckes,61014,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/346
+2,sáb 09/08/2003,10:30,1860 Munique,Schalke,4-4-2 duplo 6,Jupp Heynckes,33000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/563
+3,dom 17/08/2003,12:30,Schalke,Colônia,4-4-2 duplo 6,Jupp Heynckes,61266,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/812
+4,sáb 23/08/2003,10:30,Werder Bremen,Schalke,4-1-3-2,Jupp Heynckes,34500,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/972
+5,sáb 13/09/2003,10:30,Schalke,Stuttgart,4-4-2 duplo 6,Jupp Heynckes,61266,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1236
+6,sáb 20/09/2003,10:30,Freiburg,Schalke,4-4-2 duplo 6,Jupp Heynckes,24000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1430
+7,dom 28/09/2003,12:30,Schalke,Frankfurt,4-2-3-1,Jupp Heynckes,61266,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1664
+8,sáb 04/10/2003,10:30,Hannover,Schalke,4-4-2 duplo 6,Jupp Heynckes,20584,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1827
+9,dom 19/10/2003,13:30,Schalke,Bochum,4-4-2 duplo 6,Jupp Heynckes,61178,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2072
+10,sáb 25/10/2003,11:30,Hamburgo,Schalke,4-4-2 duplo 6,Jupp Heynckes,55386,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2249
+11,sáb 01/11/2003,12:30,Schalke,Bayern,4-4-2 duplo 6,Jupp Heynckes,61266,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2449
+12,dom 09/11/2003,14:30,Leverkusen,Schalke,4-4-2 duplo 6,Jupp Heynckes,22500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2668
+13,sáb 22/11/2003,12:30,Schalke,Hansa Rostock,4-4-2 duplo 6,Jupp Heynckes,61266,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2849
+14,dom 30/11/2003,14:30,Hertha Berlim,Schalke,4-4-2 duplo 6,Jupp Heynckes,37325,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3068
+15,dom 07/12/2003,14:30,Schalke,M'gladbach,4-4-2 duplo 6,Jupp Heynckes,61266,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3274
+16,sáb 13/12/2003,12:30,K'lautern,Schalke,4-4-2 duplo 6,Jupp Heynckes,40000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3436
+17,qua 17/12/2003,17:00,Schalke,Wolfsburg,4-4-2 duplo 6,Jupp Heynckes,59775,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3646
+18,sex 30/01/2004,17:30,Dortmund,Schalke,4-4-2 duplo 6,Jupp Heynckes,83000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3865
+19,sáb 07/02/2004,12:30,Schalke,1860 Munique,4-4-2 duplo 6,Jupp Heynckes,61266,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4048
+20,sáb 14/02/2004,12:30,Colônia,Schalke,4-4-2 duplo 6,Jupp Heynckes,50997,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4243
+21,sáb 21/02/2004,11:30,Schalke,Werder Bremen,4-4-2 duplo 6,Jupp Heynckes,61266,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4442
+22,sáb 28/02/2004,11:30,Stuttgart,Schalke,4-2-3-1,Jupp Heynckes,43000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4608
+23,sáb 06/03/2004,11:30,Schalke,Freiburg,4-4-2 duplo 6,Jupp Heynckes,61266,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4810
+24,sáb 13/03/2004,11:30,Frankfurt,Schalke,4-1-3-2,Jupp Heynckes,35255,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5017
+25,sáb 20/03/2004,11:30,Schalke,Hannover,4-4-2,Jupp Heynckes,61266,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5221
+26,sáb 27/03/2004,11:30,Bochum,Schalke,4-5-1,Jupp Heynckes,32645,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5421
+27,sáb 03/04/2004,10:30,Schalke,Hamburgo,4-4-2 duplo 6,Jupp Heynckes,61266,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5635
+28,sáb 10/04/2004,10:30,Bayern,Schalke,4-5-1,Jupp Heynckes,63000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5862
+29,sáb 17/04/2004,10:30,Schalke,Leverkusen,4-4-2 duplo 6,Jupp Heynckes,61266,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6036
+30,sáb 24/04/2004,10:30,Hansa Rostock,Schalke,4-4-2 losango,Jupp Heynckes,26000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6246
+31,dom 02/05/2004,12:30,Schalke,Hertha Berlim,3-5-2,Jupp Heynckes,61673,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6480
+32,sáb 08/05/2004,10:30,M'gladbach,Schalke,4-4-2 losango,Jupp Heynckes,34500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6666
+33,sáb 15/05/2004,10:30,Schalke,K'lautern,4-4-2 losango,Jupp Heynckes,61266,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6856
+34,sáb 22/05/2004,10:30,Wolfsburg,Schalke,4-2-3-1,Jupp Heynckes,30000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7071

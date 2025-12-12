@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 15/04/2023,16:00,Vila Nova,Novorizontino,4-3-3 ofensivo,Claudinei Oliveira,4571,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4056134
+2,dom 18/06/2023,18:00,Sport,Vila Nova,4-2-3-1,Claudinei Oliveira,15004,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4087887
+3,dom 30/04/2023,18:15,Vila Nova,Juventude,4-3-3 ofensivo,Claudinei Oliveira,8177,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060061
+4,qua 03/05/2023,21:15,Avaí,Vila Nova,4-3-3 ofensivo,Claudinei Oliveira,4436,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060965
+5,sáb 06/05/2023,18:15,Mirassol,Vila Nova,4-3-3 ofensivo,Claudinei Oliveira,1637,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060877
+6,sex 12/05/2023,19:00,Vila Nova,Criciúma,4-2-3-1,Claudinei Oliveira,9081,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060884
+7,dom 21/05/2023,18:15,CRB,Vila Nova,4-3-3 ofensivo,Claudinei Oliveira,1996,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060962
+8,qua 24/05/2023,19:00,Vila Nova,Ituano,4-4-2,Claudinei Oliveira,10000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060894
+9,dom 28/05/2023,11:00,Ponte Preta,Vila Nova,4-4-2,Claudinei Oliveira,2471,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060923
+10,sáb 03/06/2023,19:00,Vila Nova,Sampaio Corrêa,4-4-2,Claudinei Oliveira,8260,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060934
+11,ter 06/06/2023,19:00,Chapecoense,Vila Nova,4-4-2,Claudinei Oliveira,4720,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060920
+12,sáb 10/06/2023,16:00,Vila Nova,Guarani,4-4-2,Claudinei Oliveira,10000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060944
+13,sáb 24/06/2023,11:00,Botafogo-SP,Vila Nova,4-4-1-1,Claudinei Oliveira,3456,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060976
+14,ter 27/06/2023,21:30,Vila Nova,Tombense,4-4-1-1,Claudinei Oliveira,8624,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060994
+15,sáb 01/07/2023,16:00,Atlético-GO,Vila Nova,4-2-3-1,Claudinei Oliveira,7920,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061034
+16,seg 10/07/2023,20:00,Vila Nova,Vitória,4-4-2,Claudinei Oliveira,10000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061014
+17,sáb 15/07/2023,17:00,Londrina,Vila Nova,4-3-3 ofensivo,Claudinei Oliveira,576,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060991
+18,qua 19/07/2023,21:30,Ceará,Vila Nova,4-2-3-1,Claudinei Oliveira,20940,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061029
+19,sáb 22/07/2023,17:00,Vila Nova,ABC,4-2-3-1,Claudinei Oliveira,10000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061044
+20,dom 30/07/2023,15:30,Novorizontino,Vila Nova,4-2-3-1,Claudinei Oliveira,4439,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061057
+21,qua 02/08/2023,21:30,Vila Nova,Sport,4-2-3-1,Claudinei Oliveira,7250,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061084
+22,seg 07/08/2023,18:00,Juventude,Vila Nova,4-2-3-1,Marquinhos Santos,3432,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061080
+23,sáb 12/08/2023,18:00,Vila Nova,Avaí,4-2-3-1,Marquinhos Santos,9742,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061104
+24,qui 17/08/2023,21:30,Vila Nova,Mirassol,4-2-3-1,Marquinhos Santos,4099,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061114
+25,ter 22/08/2023,21:30,Criciúma,Vila Nova,4-3-3 ofensivo,Marquinhos Santos,11815,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061095
+26,dom 03/09/2023,15:45,Vila Nova,CRB,4-3-3 ofensivo,Marquinhos Santos,10000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061144
+27,sex 08/09/2023,18:00,Ituano,Vila Nova,4-3-3 ofensivo,Marquinhos Santos,1650,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061136
+28,sex 15/09/2023,19:00,Vila Nova,Ponte Preta,4-3-3 ofensivo,Marquinhos Santos,7928,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061124
+29,ter 19/09/2023,21:30,Sampaio Corrêa,Vila Nova,4-2-3-1,Marquinhos Santos,5257,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061179
+30,dom 01/10/2023,15:45,Vila Nova,Chapecoense,4-4-2,Lisca,23311,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061164
+31,sáb 07/10/2023,18:00,Guarani,Vila Nova,4-3-3 ofensivo,Lisca,7782,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061153
+32,qua 11/10/2023,21:30,Vila Nova,Botafogo-SP,4-3-3 ofensivo,Lisca,3494,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061194
+33,qui 19/10/2023,19:00,Tombense,Vila Nova,4-3-3 ofensivo,Lisca,1390,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061191
+34,sáb 28/10/2023,19:00,Vila Nova,Atlético-GO,4-3-3 ofensivo,Higo Magalhães,5241,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060904
+35,dom 05/11/2023,18:00,Vitória,Vila Nova,4-4-2,Higo Magalhães,29168,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060867
+36,sex 10/11/2023,19:00,Vila Nova,Londrina,4-4-2,Higo Magalhães,4960,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061004
+37,sáb 18/11/2023,17:00,Vila Nova,Ceará,4-4-2,Higo Magalhães,10878,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061064
+38,sáb 25/11/2023,17:00,ABC,Vila Nova,4-4-2,Higo Magalhães,4054,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061212

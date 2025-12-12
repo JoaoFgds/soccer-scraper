@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 13/04/2018,20:30,Oeste,CRB,4-2-3-1,Mazola Júnior,1246,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036436
+2,sáb 21/04/2018,16:30,CRB,Vila Nova,4-2-3-1,Júnior Rocha,2877,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036453
+3,ter 24/04/2018,21:30,Fortaleza,CRB,4-2-3-1,Júnior Rocha,14478,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036456
+4,sex 04/05/2018,20:30,CRB,Atlético-GO,4-2-3-1,Júnior Rocha,4274,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036467
+5,seg 07/05/2018,20:30,Sampaio Corrêa,CRB,4-2-3-1,Júnior Rocha,2183,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036484
+6,ter 15/05/2018,19:15,CRB,Avaí,4-2-3-1,Júnior Rocha,4681,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036485
+7,sáb 26/05/2018,21:00,Guarani,CRB,4-2-3-1,Júnior Rocha,1737,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036495
+8,sáb 02/06/2018,16:30,CRB,Brasil Pelotas,4-2-3-1,Júnior Rocha,4305,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036512
+9,ter 05/06/2018,19:15,Coritiba,CRB,4-2-3-1,Júnior Rocha,5340,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036518
+10,sáb 09/06/2018,16:30,CSA,CRB,4-2-3-1,Júnior Rocha,10051,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036531
+11,sex 15/06/2018,21:30,CRB,Ponte Preta,4-2-3-1,Júnior Rocha,4893,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036542
+12,sáb 23/06/2018,21:00,CRB,Paysandu,4-2-3-1,Júnior Rocha,3691,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036553
+13,ter 26/06/2018,21:30,Goiás,CRB,4-2-3-1,Júnior Rocha,3868,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036560
+14,qua 04/07/2018,20:30,CRB,São Bento,4-2-3-1,Doriva,4036,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036572
+15,sex 13/07/2018,20:30,Boa Esporte,CRB,4-2-3-1,Doriva,493,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036581
+16,sáb 21/07/2018,16:30,Juventude,CRB,4-2-3-1,Doriva,2422,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036587
+17,ter 24/07/2018,20:30,CRB,Criciúma,4-2-3-1,Doriva,4975,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036602
+18,sáb 28/07/2018,16:30,CRB,Londrina,4-2-3-1,Doriva,4132,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036612
+19,ter 31/07/2018,19:15,Figueirense,CRB,4-2-3-1,Doriva,3341,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036618
+20,sáb 11/08/2018,16:30,CRB,Oeste,4-2-3-1,Doriva,4699,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036632
+21,sex 17/08/2018,20:30,Vila Nova,CRB,4-2-3-1,Doriva,2988,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036640
+22,ter 21/08/2018,20:30,CRB,Fortaleza,4-2-3-1,Doriva,5214,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036652
+23,sex 24/08/2018,21:30,Atlético-GO,CRB,4-2-3-1,Doriva,3048,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036661
+24,sex 31/08/2018,21:30,CRB,Sampaio Corrêa,4-2-3-1,Doriva,3857,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036672
+25,ter 04/09/2018,19:15,Avaí,CRB,4-2-3-1,Doriva,3250,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036678
+26,sex 07/09/2018,16:00,CRB,Guarani,4-2-3-1,Doriva,5005,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036692
+27,sáb 15/09/2018,16:30,Brasil Pelotas,CRB,4-2-3-1,Doriva,3704,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036697
+28,sex 21/09/2018,20:30,CRB,Coritiba,4-2-3-1,Roberto Fernandes,4409,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036712
+29,sáb 29/09/2018,16:30,CRB,CSA,4-2-3-1,Roberto Fernandes,10511,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036722
+30,sáb 06/10/2018,18:30,Ponte Preta,CRB,4-2-3-1,Roberto Fernandes,1926,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036725
+31,ter 09/10/2018,19:15,Paysandu,CRB,4-2-3-1,Roberto Fernandes,6770,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036744
+32,sex 19/10/2018,19:15,CRB,Goiás,4-2-3-1,Roberto Fernandes,4698,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036752
+33,sáb 27/10/2018,16:30,São Bento,CRB,4-3-3 defensivo,Roberto Fernandes,1911,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036756
+34,sáb 03/11/2018,16:30,CRB,Boa Esporte,4-3-3 defensivo,Roberto Fernandes,4755,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036772
+35,ter 06/11/2018,21:30,CRB,Juventude,4-3-3 defensivo,Roberto Fernandes,8194,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036782
+36,sáb 10/11/2018,17:00,Criciúma,CRB,4-2-3-1,Roberto Fernandes,5151,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036789
+37,sex 16/11/2018,21:30,Londrina,CRB,3-3-3-1,Roberto Fernandes,24225,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036803
+38,sáb 24/11/2018,17:00,CRB,Figueirense,4-3-3 defensivo,Roberto Fernandes,10024,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036812

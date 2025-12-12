@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 14/08/2021,13:30,Norwich,Liverpool,4-3-3 ofensivo,Daniel Farke,27023,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583483
+2,sáb 21/08/2021,11:00,Man City,Norwich,4-3-3 ofensivo,Daniel Farke,51437,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583525
+3,sáb 28/08/2021,11:00,Norwich,Leicester,4-1-4-1,Daniel Farke,26765,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591997
+4,sáb 11/09/2021,11:00,Arsenal,Norwich,4-2-3-1,Daniel Farke,60000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592021
+5,sáb 18/09/2021,11:00,Norwich,Watford,4-3-3 ofensivo,Daniel Farke,26649,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591967
+6,sáb 25/09/2021,11:00,Everton,Norwich,3-5-2 plano,Daniel Farke,38821,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591985
+7,sáb 02/10/2021,11:00,FC Burnley,Norwich,3-5-2 plano,Daniel Farke,17427,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592002
+8,sáb 16/10/2021,11:00,Norwich,Brighton,3-5-2 plano,Daniel Farke,26777,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592018
+9,sáb 23/10/2021,08:30,Chelsea,Norwich,3-5-2 plano,Daniel Farke,40113,7:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592044
+10,dom 31/10/2021,11:00,Norwich,Leeds,3-4-1-2,Daniel Farke,26913,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591977
+11,sáb 06/11/2021,12:00,Brentford,Norwich,4-2-3-1,Daniel Farke,16837,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591952
+12,sáb 20/11/2021,12:00,Norwich,Southampton,4-1-4-1,Dean Smith,26885,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592037
+13,sáb 27/11/2021,12:00,Norwich,Wolves,4-3-3 ofensivo,Dean Smith,26911,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592100
+14,ter 30/11/2021,16:30,Newcastle,Norwich,4-1-4-1,Dean Smith,50757,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592138
+15,dom 05/12/2021,11:00,Tottenham,Norwich,3-5-2 plano,Dean Smith,57088,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592067
+16,sáb 11/12/2021,14:30,Norwich,Man Utd,4-1-4-1,Dean Smith,27606,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592080
+17,ter 14/12/2021,16:45,Norwich,Aston Villa,4-2-3-1,Dean Smith,26836,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592057
+18,qua 12/01/2022,16:45,West Ham,Norwich,4-4-2 duplo 6,Dean Smith,59775,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592089
+19,dom 26/12/2021,12:00,Norwich,Arsenal,4-3-3 ofensivo,Dean Smith,26940,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592233
+20,ter 28/12/2021,12:00,Crystal Palace,Norwich,4-2-3-1,Dean Smith,24433,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592294
+21,qua 11/05/2022,15:45,Leicester,Norwich,4-1-4-1,Dean Smith,30892,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592307
+22,sáb 15/01/2022,12:00,Norwich,Everton,4-4-2 duplo 6,Dean Smith,26629,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592117
+23,sex 21/01/2022,17:00,Watford,Norwich,4-4-2 duplo 6,Dean Smith,20782,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592130
+24,qua 09/02/2022,16:45,Norwich,Crystal Palace,4-4-2 duplo 6,Dean Smith,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592196
+25,sáb 12/02/2022,14:30,Norwich,Man City,4-3-3 ofensivo,Dean Smith,27010,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592239
+26,sáb 19/02/2022,12:00,Liverpool,Norwich,4-3-3 ofensivo,Dean Smith,53135,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592106
+27,sex 25/02/2022,17:00,Southampton,Norwich,4-1-4-1,Dean Smith,31182,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592292
+28,sáb 05/03/2022,12:00,Norwich,Brentford,4-1-4-1,Dean Smith,26887,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592147
+29,dom 13/03/2022,11:00,Leeds,Norwich,4-3-3 ofensivo,Dean Smith,36321,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592223
+30,qui 10/03/2022,16:30,Norwich,Chelsea,5-3-2,Dean Smith,,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592243
+31,sáb 02/04/2022,11:00,Brighton,Norwich,4-3-1-2,Dean Smith,31245,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592152
+32,dom 10/04/2022,10:00,Norwich,FC Burnley,4-2-3-1,Dean Smith,26361,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592238
+33,sáb 16/04/2022,11:00,Man Utd,Norwich,4-2-3-1,Dean Smith,73381,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592218
+34,sáb 23/04/2022,11:00,Norwich,Newcastle,4-3-3 ofensivo,Dean Smith,26910,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592283
+35,sáb 30/04/2022,11:00,Aston Villa,Norwich,4-2-3-1,Dean Smith,40290,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592185
+36,dom 08/05/2022,10:00,Norwich,West Ham,4-2-3-1,Dean Smith,,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592277
+37,dom 15/05/2022,10:00,Wolves,Norwich,3-5-2 plano,Dean Smith,31219,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592278
+38,dom 22/05/2022,12:00,Norwich,Tottenham,5-4-1 plano,Dean Smith,27022,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592260

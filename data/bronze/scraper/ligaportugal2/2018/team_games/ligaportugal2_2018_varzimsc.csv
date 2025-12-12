@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 12/08/2018,13:00,Varzim,Mafra,4-4-2 losango,Capucho,1439,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070428
+2,dom 19/08/2018,12:00,Leixões,Varzim,4-4-2 losango,Capucho,1162,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070442
+3,sáb 25/08/2018,13:00,Varzim,Covilhã,4-4-2 losango,Capucho,1201,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070446
+4,dom 02/09/2018,07:15,Varzim,Paços Ferreira,4-4-2 losango,Capucho,1945,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070477
+5,sáb 22/09/2018,14:00,Benfica B,Varzim,4-4-2 losango,Capucho,504,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070495
+6,dom 07/10/2018,12:00,Varzim,Vitória SC B,4-4-2 losango,Capucho,1074,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070503
+7,dom 14/10/2018,07:15,Estoril,Varzim,4-1-3-2,Capucho,875,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070517
+8,dom 04/11/2018,13:00,Varzim,Farense,4-4-2 losango,Capucho,782,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070521
+9,seg 12/11/2018,18:15,UD Oliveirense,Varzim,?,Capucho,334,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070535
+10,sáb 01/12/2018,13:00,Varzim,Académico FC,?,Capucho,883,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070537
+11,dom 09/12/2018,13:00,Arouca,Varzim,4-4-2 duplo 6,Fernando Valente,810,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070552
+12,sáb 15/12/2018,13:00,Varzim,Penafiel,?,Fernando Valente,606,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070557
+13,sáb 22/12/2018,13:00,Braga B,Varzim,4-4-2 duplo 6,Fernando Valente,375,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070577
+14,dom 21/10/2018,07:15,Varzim,FC Porto B,?,Capucho,952,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070583
+15,dom 06/01/2019,09:15,Famalicão,Varzim,?,Fernando Valente,4105,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070594
+16,qua 09/01/2019,15:00,Varzim,Cova da Piedade,?,Fernando Valente,640,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070601
+17,dom 13/01/2019,15:00,Académica,Varzim,4-4-2 duplo 6,Fernando Valente,3246,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070613
+18,dom 20/01/2019,13:00,Mafra,Varzim,?,Fernando Valente,467,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070703
+19,ter 29/01/2019,14:00,Varzim,Leixões,?,Fernando Valente,929,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070768
+20,sáb 02/02/2019,13:00,Covilhã,Varzim,4-4-2 duplo 6,Fernando Valente,256,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070774
+21,dom 10/02/2019,13:00,Paços Ferreira,Varzim,4-4-2 duplo 6,Fernando Valente,4265,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070786
+22,sáb 16/02/2019,09:00,Varzim,Benfica B,4-2-3-1,Fernando Valente,1357,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070798
+23,dom 24/02/2019,14:00,Vitória SC B,Varzim,?,Fernando Valente,1308,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070804
+24,dom 03/03/2019,14:00,Varzim,Estoril,4-4-2 duplo 6,Fernando Valente,976,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070817
+25,dom 10/03/2019,12:00,Farense,Varzim,4-3-3 ofensivo,Fernando Valente,1665,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070821
+26,dom 17/03/2019,12:00,Varzim,UD Oliveirense,3-1-4-2,César Peixoto,1916,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070835
+27,dom 31/03/2019,12:00,Académico FC,Varzim,4-3-3 ofensivo,César Peixoto,882,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070836
+28,sáb 06/04/2019,14:00,Varzim,Arouca,3-4-1-2,César Peixoto,1083,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070850
+29,dom 14/04/2019,14:00,Penafiel,Varzim,3-1-4-2,César Peixoto,489,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070856
+30,sex 19/04/2019,14:00,Varzim,Braga B,3-4-1-2,César Peixoto,1912,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070869
+31,ter 23/04/2019,12:00,FC Porto B,Varzim,3-4-1-2,César Peixoto,323,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070874
+32,sáb 04/05/2019,07:00,Varzim,Famalicão,3-4-1-2,César Peixoto,3711,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070886
+33,dom 12/05/2019,12:00,Cova da Piedade,Varzim,3-4-1-2,César Peixoto,1310,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070892
+34,dom 19/05/2019,11:00,Varzim,Académica,4-4-2 losango,César Peixoto,5899,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070904

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 31/07/2015,15:00,AC Ajaccio,Dijon,4-2-3-1,Olivier Dall'Oglio,3359,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2602006
+2,sex 07/08/2015,15:00,Dijon,Chamois Niort,4-2-3-1,Olivier Dall'Oglio,6619,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2602021
+3,sex 14/08/2015,15:00,Bourg-en-Bresse,Dijon,4-2-3-1,Olivier Dall'Oglio,2035,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2602028
+4,sex 21/08/2015,15:00,Dijon,Lens,4-2-3-1,Olivier Dall'Oglio,8873,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2602042
+5,sex 28/08/2015,15:00,Dijon,US Créteil-L,4-2-3-1,Olivier Dall'Oglio,7149,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2602052
+6,sáb 12/09/2015,09:00,Valenciennes,Dijon,4-2-3-1,Olivier Dall'Oglio,7251,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616480
+7,sex 18/09/2015,15:00,Dijon,Le Havre,4-2-3-1,Olivier Dall'Oglio,7482,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616484
+8,ter 22/09/2015,16:00,FC Sochaux,Dijon,4-3-3 ofensivo,Olivier Dall'Oglio,6714,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616500
+9,sáb 26/09/2015,09:00,Dijon,Stade Lavallois,4-2-3-1,Olivier Dall'Oglio,7509,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616509
+10,seg 05/10/2015,15:30,Tours FC,Dijon,4-2-3-1,Olivier Dall'Oglio,4070,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616526
+11,sáb 17/10/2015,09:00,Dijon,Évian,4-2-3-1,Olivier Dall'Oglio,7713,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616528
+12,sáb 24/10/2015,10:00,Nîmes Olympique,Dijon,4-4-2 duplo 6,Olivier Dall'Oglio,4461,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616543
+13,sáb 31/10/2015,11:00,Dijon,Brest,4-2-3-1,Olivier Dall'Oglio,7430,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616560
+14,seg 09/11/2015,17:30,AS Nancy,Dijon,4-4-2 duplo 6,Olivier Dall'Oglio,16122,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616582
+15,sex 20/11/2015,17:00,Dijon,Clermont Foot,4-2-3-1,Olivier Dall'Oglio,6265,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616590
+16,sex 27/11/2015,17:00,Paris FC,Dijon,4-4-2,Olivier Dall'Oglio,2628,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616618
+17,ter 01/12/2015,18:00,Dijon,Auxerre,4-4-2,Olivier Dall'Oglio,9453,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616620
+18,sáb 12/12/2015,11:00,FC Metz,Dijon,4-4-2,Olivier Dall'Oglio,12888,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616637
+19,sex 18/12/2015,17:00,Dijon,Red Star FC,4-2-3-1,Olivier Dall'Oglio,7101,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616640
+20,sex 08/01/2016,17:00,Chamois Niort,Dijon,4-2-3-1,Olivier Dall'Oglio,3342,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2648113
+21,sex 15/01/2016,17:00,Dijon,Bourg-en-Bresse,4-4-2 duplo 6,Olivier Dall'Oglio,6863,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2648141
+22,sáb 23/01/2016,11:00,Lens,Dijon,4-4-2,Olivier Dall'Oglio,26070,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2648159
+23,sex 29/01/2016,17:00,US Créteil-L,Dijon,4-4-2,Olivier Dall'Oglio,1926,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2648169
+24,ter 02/02/2016,18:00,Dijon,Valenciennes,4-4-2,Olivier Dall'Oglio,6847,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654399
+25,seg 08/02/2016,17:30,Le Havre,Dijon,4-4-2,Olivier Dall'Oglio,7619,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654410
+26,sex 12/02/2016,17:00,Dijon,FC Sochaux,4-4-2,Olivier Dall'Oglio,7905,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654418
+27,sex 19/02/2016,17:00,Stade Lavallois,Dijon,4-4-2,Olivier Dall'Oglio,4819,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654434
+28,sex 26/02/2016,16:00,Dijon,Tours FC,4-4-2,Olivier Dall'Oglio,7443,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654438
+29,sex 04/03/2016,16:00,Évian,Dijon,4-4-2,Olivier Dall'Oglio,3426,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654450
+30,sáb 12/03/2016,10:00,Dijon,Nîmes Olympique,4-4-2,Olivier Dall'Oglio,8214,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654457
+31,sex 18/03/2016,16:00,Brest,Dijon,4-4-2,Olivier Dall'Oglio,7057,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654474
+32,sáb 02/04/2016,09:00,Dijon,AS Nancy,4-4-2,Olivier Dall'Oglio,10466,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654476
+33,sáb 09/04/2016,09:00,Clermont Foot,Dijon,4-4-2,Olivier Dall'Oglio,5319,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654490
+34,seg 18/04/2016,15:30,Dijon,Paris FC,4-4-2,Olivier Dall'Oglio,9743,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654496
+35,sáb 23/04/2016,09:00,Auxerre,Dijon,4-4-2,Olivier Dall'Oglio,9621,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654507
+36,dom 01/05/2016,09:00,Dijon,FC Metz,4-4-2,Olivier Dall'Oglio,10026,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654516
+37,sex 06/05/2016,15:45,Red Star FC,Dijon,4-4-2,Olivier Dall'Oglio,2203,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654535
+38,sex 13/05/2016,15:45,Dijon,AC Ajaccio,4-4-2 duplo 6,Olivier Dall'Oglio,10698,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654536

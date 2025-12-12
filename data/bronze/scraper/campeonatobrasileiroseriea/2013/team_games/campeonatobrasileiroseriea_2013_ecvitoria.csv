@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 25/05/2013,18:30,Vitória,Internacional,4-4-2 duplo 6,Caio Júnior,8955,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2317508
+2,qua 29/05/2013,21:00,Náutico,Vitória,4-4-2 duplo 6,Caio Júnior,11230,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2318594
+3,sáb 01/06/2013,18:30,Vitória,Vasco da Gama,4-4-2 duplo 6,Caio Júnior,11535,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2318603
+4,qua 05/06/2013,21:00,Grêmio,Vitória,4-3-2-1,Caio Júnior,15655,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2318728
+5,dom 09/06/2013,18:30,Vitória,Atlético-PR,4-4-2 duplo 6,Caio Júnior,2954,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2319216
+6,dom 07/07/2013,16:00,Goiás,Vitória,4-4-2 duplo 6,Caio Júnior,4420,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2319690
+7,dom 14/07/2013,16:00,Vitória,São Paulo,4-4-2 duplo 6,Caio Júnior,11227,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2327540
+8,dom 21/07/2013,16:00,Vitória,Bahia,4-4-2 duplo 6,Caio Júnior,36996,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343405
+9,dom 28/07/2013,18:30,Coritiba,Vitória,4-4-2 duplo 6,Caio Júnior,16420,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343421
+10,qui 01/08/2013,19:30,Botafogo,Vitória,4-4-2 duplo 6,Caio Júnior,19075,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343430
+11,dom 04/08/2013,18:30,Vitória,Portuguesa,4-4-2 duplo 6,Caio Júnior,7697,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343436
+12,qua 07/08/2013,19:30,Vitória,Fluminense,4-4-2 duplo 6,Caio Júnior,8283,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344053
+13,dom 11/08/2013,16:00,Corinthians,Vitória,4-4-2 duplo 6,Caio Júnior,25603,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344089
+14,qua 14/08/2013,21:00,Vitória,Ponte Preta,4-4-2 duplo 6,Caio Júnior,5156,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344111
+15,sáb 17/08/2013,18:30,Cruzeiro,Vitória,4-3-1-2,Caio Júnior,14369,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344064
+16,sáb 24/08/2013,18:30,Santos,Vitória,4-4-2 duplo 6,Caio Júnior,8350,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344093
+17,dom 01/09/2013,16:00,Vitória,Criciúma,4-3-1-2,Caio Júnior,10629,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344106
+18,qua 04/09/2013,19:30,Flamengo,Vitória,4-3-1-2,Ney Franco,12616,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344068
+19,sáb 07/09/2013,18:30,Vitória,Atlético-MG,4-4-2 duplo 6,Ney Franco,9211,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344199
+20,qui 12/09/2013,19:30,Internacional,Vitória,4-3-1-2,Ney Franco,4456,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344140
+21,dom 15/09/2013,18:30,Vitória,Náutico,4-4-2 duplo 6,Ney Franco,10054,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344193
+22,qua 18/09/2013,19:30,Vasco da Gama,Vitória,4-4-2 duplo 6,Ney Franco,5624,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344120
+23,sáb 21/09/2013,21:00,Vitória,Grêmio,4-4-2 duplo 6,Ney Franco,13378,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344150
+24,dom 29/09/2013,18:30,Atlético-PR,Vitória,4-4-2 duplo 6,Ney Franco,10030,3:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344130
+25,qua 02/10/2013,21:00,Vitória,Goiás,4-4-2 duplo 6,Ney Franco,20498,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344268
+26,sáb 05/10/2013,21:00,São Paulo,Vitória,4-4-2 duplo 6,Ney Franco,22285,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344233
+27,qua 09/10/2013,21:00,Bahia,Vitória,4-4-2 duplo 6,Ney Franco,28225,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344194
+28,sáb 12/10/2013,18:30,Vitória,Coritiba,?,Ney Franco,9415,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344202
+29,qui 17/10/2013,21:00,Vitória,Botafogo,?,Ney Franco,17086,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344171
+30,dom 20/10/2013,18:30,Portuguesa,Vitória,4-4-2 duplo 6,Ney Franco,3687,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344177
+31,dom 27/10/2013,18:30,Fluminense,Vitória,?,Ney Franco,29350,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344174
+32,dom 03/11/2013,17:00,Vitória,Corinthians,?,Ney Franco,33852,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344254
+33,dom 10/11/2013,17:00,Ponte Preta,Vitória,4-4-2 duplo 6,Ney Franco,15666,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344314
+34,qua 13/11/2013,21:50,Vitória,Cruzeiro,?,Ney Franco,25002,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344305
+35,dom 17/11/2013,17:00,Vitória,Santos,?,Ney Franco,13738,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344315
+36,sáb 23/11/2013,19:30,Criciúma,Vitória,?,Ney Franco,9824,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344249
+37,dom 01/12/2013,17:00,Vitória,Flamengo,?,Ney Franco,25148,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344262
+38,dom 08/12/2013,17:00,Atlético-MG,Vitória,4-4-2 duplo 6,Ney Franco,22315,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344266

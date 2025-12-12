@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 06/08/2022,10:30,M'gladbach,Hoffenheim,3-5-2 plano,André Breitenreiter,49659,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839029
+2,sáb 13/08/2022,10:30,Hoffenheim,Bochum,3-5-2 plano,André Breitenreiter,17005,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839057
+3,sáb 20/08/2022,10:30,Leverkusen,Hoffenheim,3-5-2 plano,André Breitenreiter,26339,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839080
+4,sáb 27/08/2022,10:30,Hoffenheim,Augsburg,3-5-2 plano,André Breitenreiter,17206,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839101
+5,sex 02/09/2022,15:30,Dortmund,Hoffenheim,3-5-2 plano,André Breitenreiter,79300,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839105
+6,sáb 10/09/2022,10:30,Hoffenheim,Mainz,3-5-2 plano,André Breitenreiter,20114,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839118
+7,dom 18/09/2022,14:30,Hoffenheim,Freiburg,3-5-2 plano,André Breitenreiter,24233,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839136
+8,dom 02/10/2022,10:30,Hertha Berlim,Hoffenheim,3-4-2-1,André Breitenreiter,41653,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839156
+9,sex 07/10/2022,15:30,Hoffenheim,Werder Bremen,3-1-4-2,André Breitenreiter,25410,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839162
+10,sex 14/10/2022,15:30,Schalke,Hoffenheim,3-5-2 plano,André Breitenreiter,59811,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839184
+11,sáb 22/10/2022,10:30,Hoffenheim,Bayern,3-4-2-1,André Breitenreiter,30150,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839199
+12,dom 30/10/2022,15:30,Colônia,Hoffenheim,3-5-2 plano,André Breitenreiter,49000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839216
+13,sáb 05/11/2022,11:30,Hoffenheim,Leipzig,3-5-2 plano,André Breitenreiter,23127,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839235
+14,qua 09/11/2022,16:30,Frankfurt,Hoffenheim,3-1-4-2,André Breitenreiter,49000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839253
+15,sáb 12/11/2022,11:30,Hoffenheim,Wolfsburg,3-4-1-2,André Breitenreiter,18014,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839261
+16,sáb 21/01/2023,11:30,Union Berlim,Hoffenheim,3-4-2-1,André Breitenreiter,21747,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839278
+17,ter 24/01/2023,16:30,Hoffenheim,Stuttgart,3-4-2-1,André Breitenreiter,23159,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839298
+18,sáb 28/01/2023,11:30,Hoffenheim,M'gladbach,3-1-4-2,André Breitenreiter,24119,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839317
+19,sáb 04/02/2023,11:30,Bochum,Hoffenheim,3-4-1-2,André Breitenreiter,23700,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839336
+20,sáb 11/02/2023,11:30,Hoffenheim,Leverkusen,3-4-2-1,Pellegrino Matarazzo,20619,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839353
+21,sex 17/02/2023,16:30,Augsburg,Hoffenheim,3-4-1-2,Pellegrino Matarazzo,25872,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839373
+22,sáb 25/02/2023,11:30,Hoffenheim,Dortmund,3-4-1-2,Pellegrino Matarazzo,30150,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839389
+23,sáb 04/03/2023,11:30,Mainz,Hoffenheim,3-4-1-2,Pellegrino Matarazzo,28100,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839396
+24,dom 12/03/2023,11:30,Freiburg,Hoffenheim,3-5-2 plano,Pellegrino Matarazzo,33500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839413
+25,sáb 18/03/2023,11:30,Hoffenheim,Hertha Berlim,3-1-4-2,Pellegrino Matarazzo,25027,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839433
+26,dom 02/04/2023,12:30,Werder Bremen,Hoffenheim,3-5-2,Pellegrino Matarazzo,41000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839455
+27,dom 09/04/2023,14:30,Hoffenheim,Schalke,3-5-2 ofensivo,Pellegrino Matarazzo,30150,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839469
+28,sáb 15/04/2023,10:30,Bayern,Hoffenheim,3-5-2,Pellegrino Matarazzo,75000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839483
+29,sáb 22/04/2023,10:30,Hoffenheim,Colônia,3-5-2 ofensivo,Pellegrino Matarazzo,30150,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839505
+30,sáb 29/04/2023,10:30,Leipzig,Hoffenheim,3-5-2 ofensivo,Pellegrino Matarazzo,45294,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839511
+31,sáb 06/05/2023,10:30,Hoffenheim,Frankfurt,3-5-2 ofensivo,Pellegrino Matarazzo,30150,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839532
+32,sáb 13/05/2023,10:30,Wolfsburg,Hoffenheim,3-5-2 ofensivo,Pellegrino Matarazzo,22617,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839552
+33,sáb 20/05/2023,10:30,Hoffenheim,Union Berlim,3-1-4-2,Pellegrino Matarazzo,30150,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839568
+34,sáb 27/05/2023,10:30,Stuttgart,Hoffenheim,3-5-2 ofensivo,Pellegrino Matarazzo,47500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839590

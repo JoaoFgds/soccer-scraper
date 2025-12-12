@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 11/08/2012,16:00,Nice,AC Ajaccio,4-2-3-1,Claude Puel,9342,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2229842
+2,sáb 18/08/2012,15:00,Valenciennes,Nice,4-3-3 ofensivo,Claude Puel,12631,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2229853
+3,sáb 25/08/2012,12:00,Nice,Lille,4-3-3 ofensivo,Claude Puel,8768,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2229861
+4,dom 02/09/2012,09:00,Bordeaux,Nice,4-2-3-1,Claude Puel,18052,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223888
+5,sáb 15/09/2012,15:00,Nice,Brest,4-3-3 defensivo,Claude Puel,9148,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223881
+6,sáb 22/09/2012,15:00,FC Lorient,Nice,4-3-3 defensivo,Claude Puel,14873,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223848
+7,sáb 29/09/2012,15:00,Nice,SC Bastia,4-2-3-1,Claude Puel,9114,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223865
+8,sáb 06/10/2012,15:00,Reims,Nice,4-2-3-1,Claude Puel,13367,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223874
+9,sáb 20/10/2012,15:00,Nice,Saint-Étienne,4-2-3-1,Claude Puel,10079,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223904
+10,sáb 27/10/2012,16:00,Montpellier,Nice,4-2-3-1,Claude Puel,15549,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223924
+11,sáb 03/11/2012,17:00,Nice,AS Nancy,4-2-3-1,Claude Puel,7741,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223917
+12,dom 11/11/2012,11:00,Marselha,Nice,4-2-3-1,Claude Puel,32554,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223933
+13,dom 18/11/2012,14:00,Nice,Toulouse,4-2-3-1,Claude Puel,9095,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223946
+14,sáb 24/11/2012,17:00,FC Sochaux,Nice,4-2-3-1,Claude Puel,13460,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223949
+15,sáb 01/12/2012,17:00,Nice,PSG,4-2-3-1,Claude Puel,16356,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223967
+16,sáb 08/12/2012,17:00,Troyes,Nice,4-2-3-1,Claude Puel,10162,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223970
+17,ter 11/12/2012,16:00,Nice,Rennes,4-2-3-1,Claude Puel,8057,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223984
+18,sáb 15/12/2012,17:00,Nice,Évian,4-2-3-1,Claude Puel,8200,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223896
+19,sáb 22/12/2012,17:00,Lyon,Nice,4-2-3-1,Claude Puel,30903,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2223995
+20,dom 13/01/2013,14:00,Nice,Valenciennes,4-3-3 defensivo,Claude Puel,6533,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224003
+21,dom 20/01/2013,14:00,Lille,Nice,4-2-3-1,Claude Puel,38671,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224010
+22,dom 27/01/2013,14:00,Nice,Bordeaux,4-2-3-1,Claude Puel,12062,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224028
+23,sáb 02/02/2013,17:00,Brest,Nice,4-3-3 defensivo,Claude Puel,11273,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224030
+24,sáb 09/02/2013,17:00,Nice,FC Lorient,4-2-3-1,Claude Puel,8733,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224041
+25,sáb 16/02/2013,17:00,SC Bastia,Nice,4-2-3-1,Claude Puel,14551,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224052
+26,sex 22/02/2013,16:30,Nice,Reims,4-2-3-1,Claude Puel,8463,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224107
+27,sáb 02/03/2013,16:00,Saint-Étienne,Nice,4-3-3 defensivo,Claude Puel,24358,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224100
+28,dom 10/03/2013,10:00,Nice,Montpellier,4-3-3 defensivo,Claude Puel,11642,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224086
+29,dom 17/03/2013,10:00,AS Nancy,Nice,4-2-3-1,Claude Puel,14957,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224080
+30,dom 31/03/2013,09:00,Nice,Marselha,4-2-3-1,Claude Puel,17012,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224067
+31,sáb 06/04/2013,15:00,Toulouse,Nice,4-3-3 ofensivo,Claude Puel,11191,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224163
+32,dom 14/04/2013,09:00,Nice,FC Sochaux,4-2-3-1,Claude Puel,10091,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224162
+33,dom 21/04/2013,16:00,PSG,Nice,4-2-3-1,Claude Puel,45369,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224150
+34,dom 28/04/2013,12:00,Nice,Troyes,4-3-3 ofensivo,Claude Puel,8749,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224139
+35,dom 05/05/2013,09:00,Rennes,Nice,4-3-3 defensivo,Claude Puel,16158,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224133
+36,dom 12/05/2013,12:00,Évian,Nice,4-3-3 defensivo,Claude Puel,11769,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224119
+37,dom 19/05/2013,10:05,Nice,Lyon,4-2-3-1,Claude Puel,15968,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224180
+38,dom 26/05/2013,16:00,AC Ajaccio,Nice,4-2-3-1,Claude Puel,7599,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2224178

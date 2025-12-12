@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 17/08/2019,10:30,Werder Bremen,Düsseldorf,4-3-3 ofensivo,Florian Kohfeldt,42100,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203430
+2,sáb 24/08/2019,10:30,Hoffenheim,Werder Bremen,4-3-2-1,Florian Kohfeldt,27333,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203443
+3,dom 01/09/2019,10:30,Werder Bremen,Augsburg,4-3-1-2,Florian Kohfeldt,40041,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203456
+4,sáb 14/09/2019,10:30,Union Berlim,Werder Bremen,4-2-3-1,Florian Kohfeldt,22012,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203468
+5,sáb 21/09/2019,13:30,Werder Bremen,Leipzig,3-4-3 plano,Florian Kohfeldt,40550,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203474
+6,sáb 28/09/2019,13:30,Dortmund,Werder Bremen,4-3-2-1,Florian Kohfeldt,81365,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203478
+7,dom 06/10/2019,13:00,Frankfurt,Werder Bremen,4-3-3 ofensivo,Florian Kohfeldt,51500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203491
+8,sáb 19/10/2019,10:30,Werder Bremen,Hertha Berlim,4-3-3 ofensivo,Florian Kohfeldt,41447,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203499
+9,sáb 26/10/2019,13:30,Leverkusen,Werder Bremen,4-3-1-2,Florian Kohfeldt,30210,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203506
+10,sáb 02/11/2019,11:30,Werder Bremen,Freiburg,4-3-3 ofensivo,Florian Kohfeldt,41000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203518
+11,dom 10/11/2019,09:30,M'gladbach,Werder Bremen,3-4-1-2,Florian Kohfeldt,54022,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203524
+12,sáb 23/11/2019,11:30,Werder Bremen,Schalke,3-5-2,Florian Kohfeldt,42100,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203536
+13,dom 01/12/2019,14:00,Wolfsburg,Werder Bremen,4-3-3 ofensivo,Florian Kohfeldt,26012,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203543
+14,dom 08/12/2019,14:00,Werder Bremen,Paderborn,4-3-3 ofensivo,Florian Kohfeldt,39870,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203555
+15,sáb 14/12/2019,11:30,Bayern,Werder Bremen,5-3-2,Florian Kohfeldt,75000,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203559
+16,ter 17/12/2019,14:30,Werder Bremen,Mainz,4-3-1-2,Florian Kohfeldt,37720,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203573
+17,sáb 21/12/2019,11:30,Colônia,Werder Bremen,3-4-3 plano,Florian Kohfeldt,50000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203584
+18,sáb 18/01/2020,11:30,Düsseldorf,Werder Bremen,3-5-2 plano,Florian Kohfeldt,46000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203588
+19,dom 26/01/2020,11:30,Werder Bremen,Hoffenheim,3-5-2,Florian Kohfeldt,40000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203601
+20,sáb 01/02/2020,11:30,Augsburg,Werder Bremen,3-4-3 plano,Florian Kohfeldt,29432,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203610
+21,sáb 08/02/2020,11:30,Werder Bremen,Union Berlim,3-4-2-1,Florian Kohfeldt,42100,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203618
+22,sáb 15/02/2020,11:30,Leipzig,Werder Bremen,5-3-2,Florian Kohfeldt,41308,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203623
+23,sáb 22/02/2020,11:30,Werder Bremen,Dortmund,5-4-1 plano,Florian Kohfeldt,42100,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203636
+24,qua 03/06/2020,15:30,Werder Bremen,Frankfurt,4-3-3 ofensivo,Florian Kohfeldt,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203642
+25,sáb 07/03/2020,11:30,Hertha Berlim,Werder Bremen,4-3-3 ofensivo,Florian Kohfeldt,58028,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203653
+26,seg 18/05/2020,15:30,Werder Bremen,Leverkusen,5-3-2,Florian Kohfeldt,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203661
+27,sáb 23/05/2020,10:30,Freiburg,Werder Bremen,4-3-3 ofensivo,Florian Kohfeldt,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203672
+28,ter 26/05/2020,15:30,Werder Bremen,M'gladbach,5-3-2,Florian Kohfeldt,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203680
+29,sáb 30/05/2020,10:30,Schalke,Werder Bremen,4-3-1-2,Florian Kohfeldt,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203691
+30,dom 07/06/2020,08:30,Werder Bremen,Wolfsburg,3-4-2-1,Florian Kohfeldt,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203698
+31,sáb 13/06/2020,10:30,Paderborn,Werder Bremen,3-4-1-2,Florian Kohfeldt,x,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203711
+32,ter 16/06/2020,15:30,Werder Bremen,Bayern,5-4-1 plano,Florian Kohfeldt,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203717
+33,sáb 20/06/2020,10:30,Mainz,Werder Bremen,3-4-2-1,Florian Kohfeldt,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203726
+34,sáb 27/06/2020,10:30,Werder Bremen,Colônia,4-3-1-2,Florian Kohfeldt,x,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203735

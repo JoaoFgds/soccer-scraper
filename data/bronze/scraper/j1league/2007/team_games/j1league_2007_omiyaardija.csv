@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 02/03/2007,20:00,Gamba Osaka,Omiya Ardija,4-2-3-1,Robert Verbeek,18355,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1058133
+2,sex 09/03/2007,20:00,Omiya Ardija,FC Tokyo,4-2-3-1,Robert Verbeek,17023,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1058281
+3,sex 16/03/2007,20:00,Oita Trinita,Omiya Ardija,4-2-3-1,Robert Verbeek,16870,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1058287
+4,sex 30/03/2007,19:00,Omiya Ardija,Shimizu S-Pulse,4-4-2 duplo 6,Robert Verbeek,7737,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1058299
+5,sex 06/04/2007,19:00,Kashima Antlers,Omiya Ardija,4-4-2 duplo 6,Robert Verbeek,10234,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1058309
+6,sex 13/04/2007,19:00,Omiya Ardija,Nagoya Grampus,4-3-3 ofensivo,Robert Verbeek,6584,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1058399
+7,sex 20/04/2007,19:00,JEF Utd. Chiba,Omiya Ardija,4-3-3 ofensivo,Robert Verbeek,9481,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1058410
+8,sex 27/04/2007,19:00,Omiya Ardija,Ventforet Kofu,4-4-2 duplo 6,Robert Verbeek,6628,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1058419
+9,qua 02/05/2007,19:00,Sanf. Hiroshima,Omiya Ardija,4-3-3 ofensivo,Robert Verbeek,13220,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1058432
+10,sáb 05/05/2007,19:00,Omiya Ardija,Urawa Reds,4-3-3 ofensivo,Robert Verbeek,33162,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1058440
+11,sáb 12/05/2007,19:00,Vissel Kobe,Omiya Ardija,4-3-3 ofensivo,Robert Verbeek,7769,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1058451
+12,sex 18/05/2007,19:00,Omiya Ardija,Yokohama FC,4-4-2 duplo 6,Robert Verbeek,9466,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1058458
+13,sáb 26/05/2007,19:00,Kawasaki Front.,Omiya Ardija,4-3-3 ofensivo,Robert Verbeek,14033,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1058470
+14,sex 08/06/2007,19:00,Kashiwa Reysol,Omiya Ardija,4-3-3 ofensivo,Robert Verbeek,12730,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1058478
+15,sex 15/06/2007,19:00,Omiya Ardija,Albirex Niigata,4-3-3 ofensivo,Robert Verbeek,16795,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1058499
+16,ter 19/06/2007,19:00,Júbilo Iwata,Omiya Ardija,4-3-3 ofensivo,Robert Verbeek,9292,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1058513
+17,sáb 23/06/2007,19:00,Omiya Ardija,Yokohama F. M.,4-3-3 ofensivo,Robert Verbeek,10051,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1058524
+18,sex 29/06/2007,19:00,Omiya Ardija,Gamba Osaka,4-3-3 ofensivo,Robert Verbeek,10049,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1058529
+19,sex 10/08/2007,19:00,Shimizu S-Pulse,Omiya Ardija,4-3-3 defensivo,Satoru Sakuma,15047,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1058539
+20,ter 14/08/2007,19:00,Omiya Ardija,Vissel Kobe,4-4-2 duplo 6,Satoru Sakuma,6440,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1058545
+21,sáb 18/08/2007,19:00,Omiya Ardija,Kashima Antlers,4-3-3 defensivo,Satoru Sakuma,13889,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1058560
+22,sex 24/08/2007,19:00,Nagoya Grampus,Omiya Ardija,4-3-3 defensivo,Satoru Sakuma,10804,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1060266
+23,ter 28/08/2007,19:00,Omiya Ardija,Kashiwa Reysol,4-4-2 duplo 6,Satoru Sakuma,6149,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1060270
+24,sex 31/08/2007,19:00,Urawa Reds,Omiya Ardija,4-4-2 duplo 6,Satoru Sakuma,49810,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1060279
+25,sex 14/09/2007,19:00,Omiya Ardija,Júbilo Iwata,4-4-2 duplo 6,Satoru Sakuma,8432,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1060290
+26,sex 21/09/2007,19:00,Omiya Ardija,JEF Utd. Chiba,4-4-2 duplo 6,Satoru Sakuma,8449,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1060395
+27,sex 28/09/2007,19:00,Yokohama F. M.,Omiya Ardija,4-4-2 duplo 6,Satoru Sakuma,12923,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1060413
+28,sex 05/10/2007,19:00,Albirex Niigata,Omiya Ardija,4-4-2 duplo 6,Satoru Sakuma,38507,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1060443
+29,sex 19/10/2007,20:00,Omiya Ardija,Sanf. Hiroshima,?,Satoru Sakuma,11038,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1060449
+30,sex 26/10/2007,20:00,Yokohama FC,Omiya Ardija,4-4-2 duplo 6,Satoru Sakuma,4114,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1060460
+31,sáb 10/11/2007,21:00,Omiya Ardija,Oita Trinita,?,Satoru Sakuma,11752,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1060474
+32,sáb 17/11/2007,21:00,Ventforet Kofu,Omiya Ardija,4-4-2 duplo 6,Satoru Sakuma,15151,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1060479
+33,sex 23/11/2007,21:00,FC Tokyo,Omiya Ardija,4-4-2 duplo 6,Satoru Sakuma,20749,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1060487
+34,sex 30/11/2007,21:00,Omiya Ardija,Kawasaki Front.,4-4-2 duplo 6,Satoru Sakuma,11268,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1060495

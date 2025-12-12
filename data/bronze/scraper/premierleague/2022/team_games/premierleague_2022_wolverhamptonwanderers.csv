@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 06/08/2022,11:00,Leeds,Wolves,4-3-3 ofensivo,Bruno Lage,36347,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3837819
+2,sáb 13/08/2022,11:00,Wolves,Fulham,4-2-3-1,Bruno Lage,31178,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3837824
+3,sáb 20/08/2022,08:30,Tottenham,Wolves,4-2-3-1,Bruno Lage,61298,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3837842
+4,dom 28/08/2022,10:00,Wolves,Newcastle,4-3-3 ofensivo,Bruno Lage,31311,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3837853
+5,qua 31/08/2022,15:30,Bournemouth,Wolves,4-1-4-1,Bruno Lage,10113,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3837854
+6,sáb 03/09/2022,11:00,Wolves,Southampton,4-3-3 ofensivo,Bruno Lage,30546,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3837981
+7,qua 01/03/2023,17:00,Liverpool,Wolves,4-2-3-1,Julen Lopetegui,53259,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3837994
+8,sáb 17/09/2022,08:30,Wolves,Man City,4-3-3 ofensivo,Bruno Lage,31578,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838007
+9,sáb 01/10/2022,13:30,West Ham,Wolves,3-4-2-1,Bruno Lage,62437,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838017
+10,sáb 08/10/2022,11:00,Chelsea,Wolves,4-2-3-1,Steve Davis,39940,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838021
+11,sáb 15/10/2022,11:00,Wolves,Nott'm Forest,4-2-3-1,Steve Davis,31554,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838037
+12,ter 18/10/2022,16:15,Crystal Palace,Wolves,4-2-3-1,Steve Davis,25125,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838056
+13,dom 23/10/2022,10:00,Wolves,Leicester,4-2-3-1,Steve Davis,29811,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838197
+14,sáb 29/10/2022,11:00,Brentford,Wolves,4-2-3-1,Steve Davis,17051,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838206
+15,sáb 05/11/2022,12:00,Wolves,Brighton,4-3-3 ofensivo,Steve Davis,30732,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838235
+16,sáb 12/11/2022,16:45,Wolves,Arsenal,3-5-2 plano,Steve Davis,34624,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838245
+17,seg 26/12/2022,12:00,Everton,Wolves,4-3-3 ofensivo,Julen Lopetegui,39252,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838257
+18,sáb 31/12/2022,09:30,Wolves,Man Utd,4-2-3-1,Julen Lopetegui,31658,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838271
+19,qua 04/01/2023,17:00,Aston Villa,Wolves,4-2-3-1,Julen Lopetegui,39978,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838273
+20,sáb 14/01/2023,12:00,Wolves,West Ham,4-3-3 ofensivo,Julen Lopetegui,31511,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838795
+21,dom 22/01/2023,11:00,Man City,Wolves,4-3-3 ofensivo,Julen Lopetegui,53282,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838785
+22,sáb 04/02/2023,12:00,Wolves,Liverpool,4-4-2 duplo 6,Julen Lopetegui,31664,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838777
+23,sáb 11/02/2023,12:00,Southampton,Wolves,4-2-3-1,Julen Lopetegui,29751,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838762
+24,sáb 18/02/2023,12:00,Wolves,Bournemouth,4-2-3-1,Julen Lopetegui,31222,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838758
+25,sex 24/02/2023,17:00,Fulham,Wolves,4-4-2 duplo 6,Julen Lopetegui,24399,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838744
+26,sáb 04/03/2023,12:00,Wolves,Tottenham,4-2-3-1,Julen Lopetegui,31585,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838731
+27,dom 12/03/2023,13:30,Newcastle,Wolves,4-2-3-1,Julen Lopetegui,52240,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838728
+28,sáb 18/03/2023,12:00,Wolves,Leeds,4-3-3 ofensivo,Julen Lopetegui,31570,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838720
+29,sáb 01/04/2023,11:00,Nott'm Forest,Wolves,4-2-3-1,Julen Lopetegui,29368,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838702
+30,sáb 08/04/2023,11:00,Wolves,Chelsea,4-4-2 duplo 6,Julen Lopetegui,31614,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838691
+31,sáb 15/04/2023,11:00,Wolves,Brentford,4-4-2,Julen Lopetegui,30769,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838676
+32,sáb 22/04/2023,11:00,Leicester,Wolves,4-4-2 duplo 6,Julen Lopetegui,32053,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838668
+33,ter 25/04/2023,15:30,Wolves,Crystal Palace,4-4-2,Julen Lopetegui,30792,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838656
+34,sáb 29/04/2023,11:00,Brighton,Wolves,4-4-2,Julen Lopetegui,31584,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838645
+35,sáb 06/05/2023,11:00,Wolves,Aston Villa,4-4-2 duplo 6,Julen Lopetegui,31641,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838629
+36,sáb 13/05/2023,11:00,Man Utd,Wolves,4-4-2,Julen Lopetegui,73570,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838621
+37,sáb 20/05/2023,11:00,Wolves,Everton,4-4-2,Julen Lopetegui,31684,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838612
+38,dom 28/05/2023,12:30,Arsenal,Wolves,4-3-3 ofensivo,Julen Lopetegui,60095,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838593

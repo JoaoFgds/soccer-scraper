@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 18/08/2019,10:30,Frankfurt,Hoffenheim,3-4-2-1,Adi Hütter,50200,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203429
+2,dom 25/08/2019,10:30,Leipzig,Frankfurt,3-4-1-2,Adi Hütter,40108,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203442
+3,dom 01/09/2019,13:00,Frankfurt,Düsseldorf,3-4-1-2,Adi Hütter,49800,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203455
+4,sáb 14/09/2019,10:30,Augsburg,Frankfurt,3-4-1-2,Adi Hütter,28513,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203465
+5,dom 22/09/2019,13:00,Frankfurt,Dortmund,3-5-2 plano,Adi Hütter,51500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203473
+6,sex 27/09/2019,15:30,Union Berlim,Frankfurt,3-4-1-2,Adi Hütter,22012,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203486
+7,dom 06/10/2019,13:00,Frankfurt,Werder Bremen,3-4-1-2,Adi Hütter,51500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203491
+8,sex 18/10/2019,15:30,Frankfurt,Leverkusen,3-5-2 plano,Adi Hütter,50800,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203498
+9,dom 27/10/2019,14:00,M'gladbach,Frankfurt,3-5-2 plano,Adi Hütter,52300,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203507
+10,sáb 02/11/2019,11:30,Frankfurt,Bayern,3-5-2 plano,Adi Hütter,51500,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203517
+11,dom 10/11/2019,14:00,Freiburg,Frankfurt,3-4-1-2,Adi Hütter,24000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203528
+12,sáb 23/11/2019,11:30,Frankfurt,Wolfsburg,3-4-1-2,Adi Hütter,50700,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203535
+13,seg 02/12/2019,16:30,Mainz,Frankfurt,3-5-2 plano,Adi Hütter,33184,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203546
+14,sex 06/12/2019,16:30,Frankfurt,Hertha Berlim,3-4-1-2,Adi Hütter,50000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203554
+15,dom 15/12/2019,14:00,Schalke,Frankfurt,3-4-2-1,Adi Hütter,60811,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203565
+16,qua 18/12/2019,16:30,Frankfurt,Colônia,3-4-1-2,Adi Hütter,50300,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203572
+17,dom 22/12/2019,14:00,Paderborn,Frankfurt,4-2-3-1,Adi Hütter,15000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203585
+18,sáb 18/01/2020,11:30,Hoffenheim,Frankfurt,4-4-1-1,Adi Hütter,29610,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203587
+19,sáb 25/01/2020,11:30,Frankfurt,Leipzig,4-4-1-1,Adi Hütter,50300,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203600
+20,sáb 01/02/2020,11:30,Düsseldorf,Frankfurt,4-4-1-1,Adi Hütter,45018,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203607
+21,sex 07/02/2020,16:30,Frankfurt,Augsburg,4-4-1-1,Adi Hütter,48800,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203617
+22,sex 14/02/2020,16:30,Dortmund,Frankfurt,4-2-3-1,Adi Hütter,81365,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203622
+23,seg 24/02/2020,16:30,Frankfurt,Union Berlim,4-4-1-1,Adi Hütter,47000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203635
+24,qua 03/06/2020,15:30,Werder Bremen,Frankfurt,3-4-2-1,Adi Hütter,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203642
+25,sáb 07/03/2020,11:30,Leverkusen,Frankfurt,4-3-3 ofensivo,Adi Hütter,30210,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203650
+26,sáb 16/05/2020,13:30,Frankfurt,M'gladbach,4-1-4-1,Adi Hütter,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203660
+27,sáb 23/05/2020,13:30,Bayern,Frankfurt,4-2-3-1,Adi Hütter,x,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203667
+28,ter 26/05/2020,15:30,Frankfurt,Freiburg,3-4-1-2,Adi Hütter,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203679
+29,sáb 30/05/2020,10:30,Wolfsburg,Frankfurt,3-4-2-1,Adi Hütter,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203687
+30,sáb 06/06/2020,10:30,Frankfurt,Mainz,3-4-1-2,Adi Hütter,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203697
+31,sáb 13/06/2020,10:30,Hertha Berlim,Frankfurt,3-4-2-1,Adi Hütter,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203707
+32,qua 17/06/2020,13:30,Frankfurt,Schalke,3-5-2 plano,Adi Hütter,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203716
+33,sáb 20/06/2020,10:30,Colônia,Frankfurt,3-5-2 plano,Adi Hütter,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203728
+34,sáb 27/06/2020,10:30,Frankfurt,Paderborn,3-4-1-2,Adi Hütter,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203734

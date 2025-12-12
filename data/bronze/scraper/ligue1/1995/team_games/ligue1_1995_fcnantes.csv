@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qua 19/07/1995,15:00,Nantes,Auxerre,4-2-3-1,Jean-Claude Suaudeau,30000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011252
+2,qua 26/07/1995,15:00,FC Martigues,Nantes,?,Jean-Claude Suaudeau,7600,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011257
+3,sex 04/08/1995,15:00,Nantes,PSG,?,Jean-Claude Suaudeau,32410,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011266
+4,sex 01/09/1995,15:00,Bordeaux,Nantes,?,Jean-Claude Suaudeau,20000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011284
+5,sáb 19/08/1995,15:00,Nantes,Nice,?,Jean-Claude Suaudeau,20000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011289
+6,sex 25/08/1995,15:00,Lille,Nantes,?,Jean-Claude Suaudeau,7500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011296
+7,ter 29/08/1995,15:00,Nantes,Saint-Étienne,?,Jean-Claude Suaudeau,26388,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011307
+8,sáb 09/09/1995,15:00,SC Bastia,Nantes,?,Jean-Claude Suaudeau,6500,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011317
+9,sáb 16/09/1995,15:00,Nantes,Guingamp,?,Jean-Claude Suaudeau,26030,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011328
+10,sex 22/09/1995,15:00,Nantes,Lens,?,Jean-Claude Suaudeau,17613,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011340
+11,sáb 30/09/1995,16:00,FC Gueugnon,Nantes,?,Jean-Claude Suaudeau,11857,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011350
+12,ter 03/10/1995,16:00,Nantes,Monaco,?,Jean-Claude Suaudeau,20396,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011356
+13,sáb 14/10/1995,16:00,Cannes,Nantes,?,Jean-Claude Suaudeau,4000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011373
+14,sáb 21/10/1995,17:00,Nantes,Lyon,?,Jean-Claude Suaudeau,30474,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011380
+15,sex 27/10/1995,17:00,Le Havre,Nantes,?,Jean-Claude Suaudeau,12654,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011390
+16,sáb 04/11/1995,17:00,Nantes,Montpellier,?,Jean-Claude Suaudeau,24631,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011400
+17,qua 08/11/1995,17:00,Strasbourg,Nantes,?,Jean-Claude Suaudeau,16327,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011411
+18,sáb 18/11/1995,17:00,Nantes,Rennes,?,Jean-Claude Suaudeau,25438,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011419
+19,sáb 25/11/1995,17:00,FC Metz,Nantes,?,Jean-Claude Suaudeau,15880,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011447
+20,sex 01/12/1995,17:00,Nantes,FC Martigues,?,Jean-Claude Suaudeau,14859,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011466
+21,sáb 09/12/1995,17:00,PSG,Nantes,?,Jean-Claude Suaudeau,42034,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011473
+22,sáb 16/12/1995,17:00,Nantes,Bordeaux,?,Jean-Claude Suaudeau,19973,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011485
+23,qua 10/01/1996,17:00,Nice,Nantes,?,Jean-Claude Suaudeau,5245,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011502
+24,sáb 20/01/1996,17:00,Nantes,Lille,?,Jean-Claude Suaudeau,15326,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011509
+25,dom 28/01/1996,17:00,Saint-Étienne,Nantes,?,Jean-Claude Suaudeau,8630,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011521
+26,qua 07/02/1996,17:00,Nantes,SC Bastia,?,Jean-Claude Suaudeau,13591,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011525
+27,sáb 10/02/1996,17:00,Guingamp,Nantes,?,Jean-Claude Suaudeau,14000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011535
+28,sex 16/02/1996,16:00,Lens,Nantes,?,Jean-Claude Suaudeau,26589,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011543
+29,ter 27/02/1996,16:00,Nantes,FC Gueugnon,?,Jean-Claude Suaudeau,15000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011558
+30,sex 01/03/1996,16:00,Monaco,Nantes,?,Jean-Claude Suaudeau,5000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011563
+31,sáb 09/03/1996,16:00,Nantes,Cannes,?,Jean-Claude Suaudeau,15278,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011579
+32,sáb 23/03/1996,16:00,Lyon,Nantes,?,Jean-Claude Suaudeau,23000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011589
+33,sáb 30/03/1996,16:00,Nantes,Le Havre,?,Jean-Claude Suaudeau,5595,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011598
+34,ter 09/04/1996,15:00,Montpellier,Nantes,?,Jean-Claude Suaudeau,11137,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011606
+35,sáb 20/04/1996,15:00,Nantes,Strasbourg,?,Jean-Claude Suaudeau,20963,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011620
+36,sáb 27/04/1996,15:00,Rennes,Nantes,?,Jean-Claude Suaudeau,19577,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011630
+37,sáb 11/05/1996,15:00,Nantes,FC Metz,?,Jean-Claude Suaudeau,27592,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011636
+38,sáb 18/05/1996,15:00,Auxerre,Nantes,?,Jean-Claude Suaudeau,20306,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011643

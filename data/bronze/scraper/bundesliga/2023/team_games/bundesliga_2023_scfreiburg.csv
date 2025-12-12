@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 19/08/2023,10:30,Hoffenheim,Freiburg,4-4-2 duplo 6,Christian Streich,25890,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095973
+2,sáb 26/08/2023,10:30,Freiburg,Werder Bremen,4-4-2 duplo 6,Christian Streich,34700,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095978
+3,sáb 02/09/2023,10:30,Stuttgart,Freiburg,4-2-3-1,Christian Streich,54300,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095993
+4,sáb 16/09/2023,10:30,Freiburg,Dortmund,3-4-3 plano,Christian Streich,34700,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095996
+5,dom 24/09/2023,12:30,Frankfurt,Freiburg,3-4-3 plano,Christian Streich,55800,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096007
+6,dom 01/10/2023,12:30,Freiburg,Augsburg,3-4-3 plano,Christian Streich,33134,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096013
+7,dom 08/10/2023,12:30,Bayern,Freiburg,4-4-2 duplo 6,Christian Streich,75000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096021
+8,sáb 21/10/2023,10:30,Freiburg,Bochum,3-4-3 plano,Christian Streich,33900,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096032
+9,dom 29/10/2023,13:30,Leverkusen,Freiburg,4-3-3 ofensivo,Christian Streich,30210,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096041
+10,sáb 04/11/2023,11:30,Freiburg,M'gladbach,4-2-3-1,Christian Streich,34700,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096050
+11,dom 12/11/2023,15:30,Leipzig,Freiburg,3-4-2-1,Christian Streich,41117,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096058
+12,sáb 25/11/2023,11:30,Freiburg,Darmstadt 98,3-4-3 plano,Christian Streich,34300,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096068
+13,dom 03/12/2023,11:30,Mainz,Freiburg,4-4-2 duplo 6,Christian Streich,30300,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096078
+14,sáb 09/12/2023,11:30,Wolfsburg,Freiburg,4-2-3-1,Christian Streich,20146,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096087
+15,dom 17/12/2023,11:30,Freiburg,Colônia,4-4-2 duplo 6,Christian Streich,34700,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096095
+16,qua 20/12/2023,16:30,Heidenheim,Freiburg,4-2-3-1,Christian Streich,15000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096110
+17,sáb 13/01/2024,11:30,Freiburg,Union Berlim,3-4-3 plano,Christian Streich,33800,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096113
+18,sáb 20/01/2024,11:30,Freiburg,Hoffenheim,4-4-2 duplo 6,Christian Streich,33600,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096126
+19,sáb 27/01/2024,11:30,Werder Bremen,Freiburg,4-4-2 duplo 6,Christian Streich,41500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096131
+20,sáb 03/02/2024,11:30,Freiburg,Stuttgart,4-4-2 duplo 6,Christian Streich,34700,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096146
+21,sex 09/02/2024,16:30,Dortmund,Freiburg,4-4-2 duplo 6,Christian Streich,81365,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096149
+22,dom 18/02/2024,11:30,Freiburg,Frankfurt,3-4-3 plano,Christian Streich,34700,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096160
+23,dom 25/02/2024,15:30,Augsburg,Freiburg,3-4-3 plano,Christian Streich,28894,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096166
+24,sex 01/03/2024,16:30,Freiburg,Bayern,4-4-2 duplo 6,Christian Streich,34700,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096174
+25,dom 10/03/2024,11:30,Bochum,Freiburg,4-4-2 duplo 6,Christian Streich,25594,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096185
+26,dom 17/03/2024,11:30,Freiburg,Leverkusen,4-1-4-1,Christian Streich,34700,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096194
+27,sáb 30/03/2024,11:30,M'gladbach,Freiburg,3-4-3 plano,Christian Streich,53259,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096203
+28,sáb 06/04/2024,10:30,Freiburg,Leipzig,3-4-3 plano,Christian Streich,33200,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096211
+29,dom 14/04/2024,10:30,Darmstadt 98,Freiburg,3-4-3 plano,Christian Streich,17810,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096221
+30,dom 21/04/2024,14:30,Freiburg,Mainz,3-4-3 plano,Christian Streich,34300,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096231
+31,sáb 27/04/2024,10:30,Freiburg,Wolfsburg,3-4-3 plano,Christian Streich,32800,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096240
+32,sáb 04/05/2024,13:30,Colônia,Freiburg,3-5-2 ofensivo,Christian Streich,50000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096248
+33,sáb 11/05/2024,10:30,Freiburg,Heidenheim,3-4-3 plano,Christian Streich,34700,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096263
+34,sáb 18/05/2024,10:30,Union Berlim,Freiburg,3-4-3 plano,Christian Streich,22012,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096266

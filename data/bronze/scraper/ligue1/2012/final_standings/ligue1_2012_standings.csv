@@ -1,0 +1,21 @@
+position,team,played,won,drawn,lost,goal_ratio,goal_difference,points,team_url
+1,FC Paris Saint-Germain,38,25,8,5,69:23,46,83,https://www.transfermarkt.com.br/fc-paris-saint-germain/spielplan/verein/583/saison_id/2012
+2,Olympique Marselha,38,21,8,9,42:36,6,71,https://www.transfermarkt.com.br/olympique-marseille/spielplan/verein/244/saison_id/2012
+3,Olympique Lyon,38,19,10,9,61:38,23,67,https://www.transfermarkt.com.br/olympique-lyon/spielplan/verein/1041/saison_id/2012
+4,OGC Nice,38,18,10,10,57:46,11,64,https://www.transfermarkt.com.br/ogc-nizza/spielplan/verein/417/saison_id/2012
+5,AS Saint-Étienne,38,16,15,7,60:32,28,63,https://www.transfermarkt.com.br/as-saint-etienne/spielplan/verein/618/saison_id/2012
+6,LOSC Lille,38,16,14,8,59:40,19,62,https://www.transfermarkt.com.br/losc-lille/spielplan/verein/1082/saison_id/2012
+7,FCG Bordeaux,38,13,16,9,40:34,6,55,https://www.transfermarkt.com.br/fc-girondins-bordeaux/spielplan/verein/40/saison_id/2012
+8,FC Lorient,38,14,11,13,57:58,-1,53,https://www.transfermarkt.com.br/fc-lorient/spielplan/verein/1158/saison_id/2012
+9,Montpellier HSC,38,15,7,16,54:51,3,52,https://www.transfermarkt.com.br/montpellier-hsc/spielplan/verein/969/saison_id/2012
+10,FC Toulouse,38,13,12,13,49:47,2,51,https://www.transfermarkt.com.br/fc-toulouse/spielplan/verein/415/saison_id/2012
+11,Valenciennes FC,38,12,12,14,49:53,-4,48,https://www.transfermarkt.com.br/fc-valenciennes/spielplan/verein/1423/saison_id/2012
+12,SC Bastia,38,13,8,17,50:66,-16,47,https://www.transfermarkt.com.br/sc-bastia/spielplan/verein/595/saison_id/2012
+13,Stade Rennais FC,38,13,7,18,48:59,-11,46,https://www.transfermarkt.com.br/fc-stade-rennes/spielplan/verein/273/saison_id/2012
+14,Stade Reims,38,10,13,15,33:42,-9,43,https://www.transfermarkt.com.br/stade-reims/spielplan/verein/1421/saison_id/2012
+15,FC Sochaux-Montbéliard,38,10,11,17,41:57,-16,41,https://www.transfermarkt.com.br/fc-sochaux-montbeliard/spielplan/verein/750/saison_id/2012
+16,FC Évian Thonon Gaillard,38,10,10,18,46:53,-7,40,https://www.transfermarkt.com.br/thonon-evian-grand-geneve-fc/spielplan/verein/14171/saison_id/2012
+17,AC Ajaccio,38,9,15,14,39:51,-12,40,https://www.transfermarkt.com.br/ac-ajaccio/spielplan/verein/1147/saison_id/2012
+18,AS Nancy-Lorraine,38,9,11,18,38:58,-20,38,https://www.transfermarkt.com.br/as-nancy-lorraine/spielplan/verein/1159/saison_id/2012
+19,ESTAC Troyes,38,8,13,17,43:61,-18,37,https://www.transfermarkt.com.br/es-troyes-ac/spielplan/verein/1095/saison_id/2012
+20,Stade Brestois 29,38,8,5,25,32:62,-30,29,https://www.transfermarkt.com.br/stade-brest-29/spielplan/verein/3911/saison_id/2012

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 11/08/2023,16:00,FC Burnley,Man City,4-2-3-1,Pep Guardiola,21572,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4087924
+2,sáb 19/08/2023,16:00,Man City,Newcastle,4-2-3-1,Pep Guardiola,53419,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4087939
+3,dom 27/08/2023,10:00,Sheff Utd,Man City,4-2-3-1,Pep Guardiola,31336,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4087953
+4,sáb 02/09/2023,11:00,Man City,Fulham,4-2-3-1,Pep Guardiola,52899,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4087962
+5,sáb 16/09/2023,11:00,West Ham,Man City,4-2-3-1,Pep Guardiola,62475,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4087971
+6,sáb 23/09/2023,11:00,Man City,Nott'm Forest,4-2-3-1,Pep Guardiola,53413,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095070
+7,sáb 30/09/2023,11:00,Wolves,Man City,4-2-3-1,Pep Guardiola,31415,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095145
+8,dom 08/10/2023,12:30,Arsenal,Man City,4-3-3 ofensivo,Pep Guardiola,60233,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095146
+9,sáb 21/10/2023,11:00,Man City,Brighton,3-4-2-1,Pep Guardiola,53466,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095161
+10,dom 29/10/2023,12:30,Man Utd,Man City,4-2-3-1,Pep Guardiola,73502,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095173
+11,sáb 04/11/2023,12:00,Man City,Bournemouth,3-4-2-1,Pep Guardiola,53358,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095181
+12,dom 12/11/2023,13:30,Chelsea,Man City,3-4-2-1,Pep Guardiola,39532,4:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095190
+13,sáb 25/11/2023,09:30,Man City,Liverpool,3-4-2-1,Pep Guardiola,53289,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095201
+14,dom 03/12/2023,13:30,Man City,Tottenham,3-4-2-1,Pep Guardiola,53473,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095212
+15,qua 06/12/2023,17:15,Aston Villa,Man City,3-4-2-1,Pep Guardiola,42321,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095216
+16,dom 10/12/2023,11:00,Luton,Man City,4-2-3-1,Pep Guardiola,11047,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095231
+17,sáb 16/12/2023,12:00,Man City,Crystal Palace,4-2-3-1,Pep Guardiola,53112,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095242
+18,ter 20/02/2024,16:30,Man City,Brentford,4-1-4-1,Pep Guardiola,52247,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095251
+19,qua 27/12/2023,17:15,Everton,Man City,4-2-3-1,Pep Guardiola,39327,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095262
+20,sáb 30/12/2023,12:00,Man City,Sheff Utd,4-2-3-1,Pep Guardiola,53108,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095271
+21,sáb 13/01/2024,14:30,Newcastle,Man City,4-2-3-1,Pep Guardiola,52190,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095284
+22,qua 31/01/2024,16:30,Man City,FC Burnley,4-2-3-1,Pep Guardiola,52143,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095295
+23,seg 05/02/2024,17:00,Brentford,Man City,4-1-4-1,Pep Guardiola,17096,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095298
+24,sáb 10/02/2024,09:30,Man City,Everton,4-1-4-1,Pep Guardiola,52187,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095315
+25,sáb 17/02/2024,14:30,Man City,Chelsea,4-1-4-1,Pep Guardiola,53509,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095325
+26,sáb 24/02/2024,14:30,Bournemouth,Man City,3-4-2-1,Pep Guardiola,11184,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095330
+27,dom 03/03/2024,12:30,Man City,Man Utd,3-4-2-1,Pep Guardiola,55097,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095345
+28,dom 10/03/2024,12:45,Liverpool,Man City,3-4-2-1,Pep Guardiola,59947,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095356
+29,qui 25/04/2024,16:00,Brighton,Man City,4-1-4-1,Pep Guardiola,31596,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095361
+30,dom 31/03/2024,12:30,Man City,Arsenal,4-1-4-1,Pep Guardiola,53422,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095375
+31,qua 03/04/2024,16:15,Man City,Aston Villa,4-2-3-1,Pep Guardiola,53422,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095389
+32,sáb 06/04/2024,08:30,Crystal Palace,Man City,3-4-2-1,Pep Guardiola,25132,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095392
+33,sáb 13/04/2024,11:00,Man City,Luton,4-2-3-1,Pep Guardiola,53449,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095406
+34,ter 14/05/2024,16:00,Tottenham,Man City,4-2-3-1,Pep Guardiola,61065,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095418
+35,dom 28/04/2024,12:30,Nott'm Forest,Man City,4-1-4-1,Pep Guardiola,29677,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095426
+36,sáb 04/05/2024,13:30,Man City,Wolves,4-2-3-1,Pep Guardiola,52439,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095438
+37,sáb 11/05/2024,08:30,Fulham,Man City,4-2-3-1,Pep Guardiola,24418,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095444
+38,dom 19/05/2024,12:00,Man City,West Ham,4-1-4-1,Pep Guardiola,55017,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095460

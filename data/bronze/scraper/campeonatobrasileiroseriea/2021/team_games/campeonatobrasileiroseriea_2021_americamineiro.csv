@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 30/05/2021,18:15,Athletico-PR,América-MG,4-1-4-1,Lisca,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546472
+2,dom 06/06/2021,16:00,América-MG,Corinthians,4-4-1-1,Lisca,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546474
+3,dom 13/06/2021,16:00,Flamengo,América-MG,4-1-4-1,Lisca,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3571600
+4,qui 17/06/2021,16:00,América-MG,Cuiabá,4-1-4-1,Cauan de Almeida,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3572016
+5,dom 20/06/2021,11:00,Palmeiras,América-MG,4-2-3-1,Cauan de Almeida,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3572021
+6,qui 24/06/2021,16:00,América-MG,Juventude,4-2-3-1,Vagner Mancini,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580700
+7,dom 27/06/2021,20:30,América-MG,Internacional,4-1-4-1,Vagner Mancini,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580713
+8,qua 30/06/2021,19:00,Bahia,América-MG,4-2-3-1,Vagner Mancini,x,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580717
+9,sáb 03/07/2021,19:00,América-MG,Santos,4-2-3-1,Vagner Mancini,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583802
+10,qua 07/07/2021,18:00,Fortaleza,América-MG,4-2-3-1,Vagner Mancini,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583814
+11,sáb 10/07/2021,19:00,América-MG,Atlético-MG,3-4-1-2,Vagner Mancini,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583822
+12,seg 19/07/2021,20:00,América-MG,Sport,3-4-1-2,Vagner Mancini,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583832
+13,sáb 24/07/2021,17:00,Grêmio,América-MG,3-4-1-2,Vagner Mancini,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583843
+14,dom 01/08/2021,20:30,Atlético-GO,América-MG,3-4-2-1,Vagner Mancini,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583878
+15,dom 08/08/2021,16:00,América-MG,Fluminense,4-2-3-1,Vagner Mancini,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583862
+16,seg 16/08/2021,20:00,Chapecoense,América-MG,4-2-3-1,Vagner Mancini,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583857
+17,seg 23/08/2021,20:00,América-MG,Bragantino,4-2-3-1,Vagner Mancini,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583882
+18,dom 29/08/2021,11:00,América-MG,Ceará,4-2-3-1,Vagner Mancini,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583892
+19,qua 22/09/2021,20:30,São Paulo,América-MG,4-2-3-1,Vagner Mancini,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583901
+20,sáb 11/09/2021,16:00,América-MG,Athletico-PR,3-4-1-2,Vagner Mancini,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583932
+21,dom 19/09/2021,18:15,Corinthians,América-MG,4-2-3-1,Vagner Mancini,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583920
+22,dom 26/09/2021,11:00,América-MG,Flamengo,4-2-3-1,Vagner Mancini,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583912
+23,sáb 02/10/2021,17:00,Cuiabá,América-MG,4-2-3-1,Vagner Mancini,2426,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583948
+24,qua 06/10/2021,21:30,América-MG,Palmeiras,4-2-3-1,Vagner Mancini,854,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583952
+25,sáb 09/10/2021,21:00,Juventude,América-MG,4-2-3-1,Vagner Mancini,1457,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583967
+26,qua 13/10/2021,21:30,Internacional,América-MG,4-2-3-1,Vagner Mancini,9711,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583993
+27,sáb 16/10/2021,21:00,América-MG,Bahia,4-2-3-1,Diogo Giacomini,746,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583982
+28,sáb 23/10/2021,17:00,Santos,América-MG,4-2-3-1,Marquinhos Santos,6921,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583971
+29,sáb 30/10/2021,23:00,América-MG,Fortaleza,4-3-1-2,Marquinhos Santos,1034,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584002
+30,dom 07/11/2021,16:00,Atlético-MG,América-MG,4-3-3 ofensivo,Marquinhos Santos,60142,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584012
+31,qua 10/11/2021,21:30,Sport,América-MG,4-1-4-1,Marquinhos Santos,5441,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584025
+32,sáb 13/11/2021,18:30,América-MG,Grêmio,4-1-4-1,Marquinhos Santos,3157,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584052
+33,qua 17/11/2021,19:00,América-MG,Atlético-GO,4-1-4-1,Marquinhos Santos,2955,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584042
+34,dom 21/11/2021,17:00,Fluminense,América-MG,4-1-4-1,Marquinhos Santos,14168,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584029
+35,ter 30/11/2021,21:00,América-MG,Chapecoense,4-2-3-1,Marquinhos Santos,2043,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584062
+36,sáb 27/11/2021,19:30,Bragantino,América-MG,4-1-4-1,Marquinhos Santos,2673,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584076
+37,dom 05/12/2021,19:00,Ceará,América-MG,4-2-3-1,Marquinhos Santos,51123,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584084
+38,qui 09/12/2021,21:30,América-MG,São Paulo,4-2-3-1,Marquinhos Santos,9484,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584092

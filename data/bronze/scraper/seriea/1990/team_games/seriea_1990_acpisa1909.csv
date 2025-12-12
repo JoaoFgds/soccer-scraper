@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 09/09/1990,11:00,Bologna,AC Pisa 1909,?,Mircea Lucescu,21763,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216673
+2,dom 16/09/1990,11:00,AC Pisa 1909,Lecce,?,Mircea Lucescu,11982,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216677
+3,dom 23/09/1990,11:00,AC Pisa 1909,Genoa,?,Mircea Lucescu,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216692
+4,dom 30/09/1990,11:00,Napoli,AC Pisa 1909,?,Mircea Lucescu,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216695
+5,dom 07/10/1990,11:00,AC Pisa 1909,Florenz,?,Mircea Lucescu,15915,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216703
+6,dom 21/10/1990,11:30,Inter,AC Pisa 1909,?,Mircea Lucescu,47439,6:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216716
+7,dom 28/10/1990,11:30,AC Pisa 1909,Cagliari,?,Mircea Lucescu,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216723
+8,dom 11/11/1990,11:30,Sampdoria,AC Pisa 1909,?,Mircea Lucescu,28002,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216730
+9,dom 18/11/1990,11:30,AC Pisa 1909,AC Parma,?,Mircea Lucescu,13209,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216740
+10,dom 25/11/1990,11:30,Atalanta,AC Pisa 1909,?,Mircea Lucescu,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216755
+11,dom 02/12/1990,11:30,AC Pisa 1909,Cesena,?,Mircea Lucescu,10500,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216758
+12,qua 23/01/1991,11:30,Milan,AC Pisa 1909,?,Mircea Lucescu,75214,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216773
+13,dom 16/12/1990,11:30,AC Pisa 1909,Torino,?,Mircea Lucescu,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216777
+14,dom 30/12/1990,11:30,Lazio,AC Pisa 1909,?,Mircea Lucescu,25000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216792
+15,dom 06/01/1991,11:30,Bari,AC Pisa 1909,?,Mircea Lucescu,25300,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216798
+16,dom 13/01/1991,11:30,AC Pisa 1909,Juventus,?,Mircea Lucescu,23128,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216803
+17,dom 20/01/1991,11:30,Roma,AC Pisa 1909,?,Mircea Lucescu,34000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216813
+18,dom 27/01/1991,11:30,AC Pisa 1909,Bologna,?,Mircea Lucescu,11648,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216824
+19,dom 03/02/1991,11:30,Lecce,AC Pisa 1909,?,Mircea Lucescu,10494,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216829
+20,dom 10/02/1991,12:00,Genoa,AC Pisa 1909,?,Mircea Lucescu,23322,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216846
+21,dom 17/02/1991,11:00,AC Pisa 1909,Napoli,?,Mircea Lucescu,12271,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216855
+22,dom 24/02/1991,11:00,Florenz,AC Pisa 1909,?,Mircea Lucescu,,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216856
+23,dom 03/03/1991,11:00,AC Pisa 1909,Inter,?,Mircea Lucescu,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216867
+24,dom 10/03/1991,11:00,Cagliari,AC Pisa 1909,?,Mircea Lucescu,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216874
+25,dom 17/03/1991,11:00,AC Pisa 1909,Sampdoria,?,Mircea Lucescu,15278,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216884
+26,dom 24/03/1991,11:00,AC Parma,AC Pisa 1909,?,Luca Giannini,6945,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216895
+27,sáb 30/03/1991,11:00,AC Pisa 1909,Atalanta,?,Luca Giannini,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216902
+28,dom 07/04/1991,11:00,Cesena,AC Pisa 1909,?,Luca Giannini,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216916
+29,dom 14/04/1991,11:00,AC Pisa 1909,Milan,?,Luca Giannini,20797,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216921
+30,dom 21/04/1991,11:00,Torino,AC Pisa 1909,?,Luca Giannini,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216931
+31,dom 05/05/1991,11:00,AC Pisa 1909,Lazio,?,Luca Giannini,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216939
+32,dom 12/05/1991,11:00,AC Pisa 1909,Bari,?,Luca Giannini,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216953
+33,dom 19/05/1991,11:00,Juventus,AC Pisa 1909,?,Luca Giannini,44707,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216955
+34,dom 26/05/1991,11:00,AC Pisa 1909,Roma,?,Luca Giannini,8222,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216964

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 06/08/2022,10:00,UD Oliveirense,Mafra,3-4-3 plano,Ricardo Sousa,823,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869825
+2,seg 15/08/2022,14:00,Mafra,Penafiel,3-5-2 plano,Ricardo Sousa,721,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869804
+3,dom 21/08/2022,10:00,Nacional,Mafra,3-4-3 plano,Ricardo Sousa,859,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869807
+4,seg 29/08/2022,14:00,Mafra,Farense,3-4-3 plano,Ricardo Sousa,767,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869818
+5,dom 04/09/2022,10:00,Feirense,Mafra,3-4-1-2,Ricardo Sousa,1353,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869839
+6,sáb 10/09/2022,11:30,Mafra,FC Porto B,3-4-1-2,Ricardo Sousa,559,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869884
+7,sáb 17/09/2022,07:00,Académico FC,Mafra,3-4-1-2,Ricardo Sousa,1023,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869845
+8,dom 09/10/2022,11:30,Mafra,CD Tondela,3-4-3 plano,Ricardo Sousa,756,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869895
+9,ter 18/10/2022,19:00,Benfica B,Mafra,3-4-1-2,Ricardo Sousa,327,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869857
+10,dom 23/10/2022,11:30,Mafra,Estrela Amadora,3-4-1-2,Ricardo Sousa,1226,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869872
+11,sáb 29/10/2022,07:00,Torreense,Mafra,3-4-1-2,Ricardo Sousa,571,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869863
+12,sex 04/11/2022,15:00,Mafra,Covilhã,3-4-3 plano,Ricardo Sousa,752,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869899
+13,seg 14/11/2022,15:00,Mafra,Leixões,3-4-3 plano,Ricardo Sousa,486,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869916
+14,sex 23/12/2022,16:00,Vilafranquense,Mafra,3-4-3 plano,Ricardo Sousa,75,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869910
+15,sáb 07/01/2023,12:30,Mafra,B SAD,3-4-3 plano,Ricardo Sousa,466,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869954
+16,sex 13/01/2023,15:00,Moreirense,Mafra,3-4-3 plano,Ricardo Sousa,1089,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869960
+17,sáb 21/01/2023,12:30,Mafra,Trofense,3-4-3 plano,Ricardo Sousa,419,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869949
+18,dom 29/01/2023,12:30,Mafra,UD Oliveirense,3-5-2 plano,Ricardo Sousa,547,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869969
+19,dom 05/02/2023,08:00,Penafiel,Mafra,3-4-3 plano,Ricardo Sousa,597,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869939
+20,seg 13/02/2023,15:00,Mafra,Nacional,4-2-3-1,Rui Borges,471,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869926
+21,dom 19/02/2023,12:30,Farense,Mafra,4-2-3-1,Rui Borges,3601,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3995972
+22,dom 26/02/2023,08:00,Mafra,Feirense,4-2-3-1,Rui Borges,1125,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870001
+23,dom 05/03/2023,12:30,FC Porto B,Mafra,4-4-1-1,Rui Borges,355,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870091
+24,dom 12/03/2023,11:00,Mafra,Académico FC,4-4-1-1,Rui Borges,1130,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870034
+25,dom 19/03/2023,08:00,CD Tondela,Mafra,4-4-1-1,Rui Borges,962,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870012
+26,sáb 01/04/2023,08:45,Mafra,Benfica B,4-4-1-1,Rui Borges,1126,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870019
+27,sex 07/04/2023,11:30,Estrela Amadora,Mafra,4-4-1-1,Rui Borges,2121,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869989
+28,dom 16/04/2023,11:30,Mafra,Torreense,4-2-3-1,Rui Borges,921,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870043
+29,seg 24/04/2023,15:00,Covilhã,Mafra,4-3-3 ofensivo,Rui Borges,1178,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870025
+30,dom 30/04/2023,07:00,Leixões,Mafra,4-2-3-1,Rui Borges,1417,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870096
+31,sáb 06/05/2023,07:00,Mafra,Vilafranquense,4-2-3-1,Rui Borges,347,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870063
+32,sáb 13/05/2023,07:00,B SAD,Mafra,4-2-3-1,Rui Borges,467,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3869981
+33,dom 21/05/2023,10:00,Mafra,Moreirense,4-2-3-1,Rui Borges,611,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870050
+34,dom 28/05/2023,11:30,Trofense,Mafra,4-2-3-1,Rui Borges,1321,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3870075

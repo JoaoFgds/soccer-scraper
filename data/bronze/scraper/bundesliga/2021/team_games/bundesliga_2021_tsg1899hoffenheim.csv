@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 14/08/2021,10:30,Augsburg,Hoffenheim,4-2-3-1,Sebastian Hoeneß,9124,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588145
+2,dom 22/08/2021,10:30,Hoffenheim,Union Berlim,4-2-3-1,Sebastian Hoeneß,8014,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588153
+3,sex 27/08/2021,15:30,Dortmund,Hoffenheim,4-2-3-1,Sebastian Hoeneß,25000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588167
+4,sáb 11/09/2021,10:30,Hoffenheim,Mainz,4-2-3-1,Sebastian Hoeneß,8427,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588181
+5,sáb 18/09/2021,10:30,Arm. Bielefeld,Hoffenheim,4-2-3-1,Sebastian Hoeneß,13750,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588200
+6,sáb 25/09/2021,10:30,Hoffenheim,Wolfsburg,4-2-3-1,Sebastian Hoeneß,8523,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588217
+7,sáb 02/10/2021,10:30,Stuttgart,Hoffenheim,4-3-3 ofensivo,Sebastian Hoeneß,24211,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588224
+8,sex 15/10/2021,15:30,Hoffenheim,Colônia,3-4-1-2,Sebastian Hoeneß,14309,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588244
+9,sáb 23/10/2021,10:30,Bayern,Hoffenheim,5-4-1 plano,Sebastian Hoeneß,60000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588256
+10,sex 29/10/2021,15:30,Hoffenheim,Hertha Berlim,3-4-1-2,Sebastian Hoeneß,8127,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588280
+11,sáb 06/11/2021,11:30,Bochum,Hoffenheim,3-4-1-2,Sebastian Hoeneß,19600,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588290
+12,sáb 20/11/2021,11:30,Hoffenheim,Leipzig,4-3-3 ofensivo,Sebastian Hoeneß,13233,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588306
+13,sáb 27/11/2021,11:30,Greuther Fürth,Hoffenheim,4-3-3 ofensivo,Sebastian Hoeneß,3385,3:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588327
+14,sáb 04/12/2021,11:30,Hoffenheim,Frankfurt,5-4-1 plano,Sebastian Hoeneß,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588342
+15,sáb 11/12/2021,11:30,Freiburg,Hoffenheim,5-4-1 plano,Sebastian Hoeneß,750,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588350
+16,qua 15/12/2021,16:30,Leverkusen,Hoffenheim,5-3-2,Sebastian Hoeneß,13272,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588375
+17,sáb 18/12/2021,11:30,Hoffenheim,M'gladbach,5-4-1 plano,Sebastian Hoeneß,750,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588386
+18,sáb 08/01/2022,11:30,Hoffenheim,Augsburg,3-1-4-2,Sebastian Hoeneß,500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588405
+19,sáb 15/01/2022,11:30,Union Berlim,Hoffenheim,3-1-4-2,Sebastian Hoeneß,3000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588420
+20,sáb 22/01/2022,11:30,Hoffenheim,Dortmund,3-5-2 plano,Sebastian Hoeneß,500,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588441
+21,sáb 05/02/2022,11:30,Mainz,Hoffenheim,3-4-1-2,Sebastian Hoeneß,6800,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588458
+22,dom 13/02/2022,13:30,Hoffenheim,Arm. Bielefeld,3-4-1-2,Sebastian Hoeneß,10000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588469
+23,sáb 19/02/2022,11:30,Wolfsburg,Hoffenheim,3-4-2-1,Sebastian Hoeneß,7145,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588483
+24,sex 25/02/2022,16:30,Hoffenheim,Stuttgart,3-1-4-2,Sebastian Hoeneß,18099,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588495
+25,dom 06/03/2022,13:30,Colônia,Hoffenheim,3-4-1-2,Sebastian Hoeneß,37500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588515
+26,sáb 12/03/2022,11:30,Hoffenheim,Bayern,3-4-1-2,Sebastian Hoeneß,25600,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588532
+27,sáb 19/03/2022,11:30,Hertha Berlim,Hoffenheim,3-4-1-2,Sebastian Hoeneß,25000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588549
+28,sáb 02/04/2022,10:30,Hoffenheim,Bochum,3-4-1-2,Sebastian Hoeneß,15014,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588568
+29,dom 10/04/2022,14:30,Leipzig,Hoffenheim,3-4-1-2,Sebastian Hoeneß,35112,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588581
+30,dom 17/04/2022,12:30,Hoffenheim,Greuther Fürth,3-1-4-2,Sebastian Hoeneß,16110,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588594
+31,sáb 23/04/2022,10:30,Frankfurt,Hoffenheim,3-4-2-1,Sebastian Hoeneß,50500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588610
+32,sáb 30/04/2022,13:30,Hoffenheim,Freiburg,4-3-1-2,Sebastian Hoeneß,23627,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588630
+33,sáb 07/05/2022,10:30,Hoffenheim,Leverkusen,4-3-1-2,Sebastian Hoeneß,20033,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588653
+34,sáb 14/05/2022,10:30,M'gladbach,Hoffenheim,4-1-4-1,Sebastian Hoeneß,50395,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588671

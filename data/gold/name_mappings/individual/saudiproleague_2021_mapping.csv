@@ -1,0 +1,17 @@
+league_name,season_year,canonical_name,other_name,precision_score,is_confident_match
+saudiproleague,2021,abhaclub,abha,67,False
+saudiproleague,2021,alahlisfc,alahli,80,True
+saudiproleague,2021,albatinfc,albatin,88,True
+saudiproleague,2021,alettifaqfc,alettifaq,90,True
+saudiproleague,2021,alfaisalyfc,alfaisaly,90,True
+saudiproleague,2021,alfatehsc,alfateh,88,True
+saudiproleague,2021,alfayhafc,alfayha,88,True
+saudiproleague,2021,alhazemsc,alhazem,88,True
+saudiproleague,2021,alhilalsfc,alhilal,82,True
+saudiproleague,2021,alittihadclub,alittihad,82,True
+saudiproleague,2021,alnassrfc,alnassr,88,True
+saudiproleague,2021,alraedsfc,alraed,80,True
+saudiproleague,2021,alshababfc,alshabab,89,True
+saudiproleague,2021,altaawounfc,altaawoun,90,True
+saudiproleague,2021,altaifc,altai,83,True
+saudiproleague,2021,damacfc,damacfc,100,True

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 01/08/2014,15:00,Auxerre,Le Havre,4-2-3-1,Erick Mombaerts,5986,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2477748
+2,sex 08/08/2014,15:00,Le Havre,G. Ajaccio,4-2-3-1,Erick Mombaerts,6103,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2481153
+3,sex 15/08/2014,15:00,Chamois Niort,Le Havre,4-2-3-1,Erick Mombaerts,4797,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2484020
+4,sex 22/08/2014,15:00,Valenciennes,Le Havre,4-2-3-1,Erick Mombaerts,7497,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2486936
+5,sex 29/08/2014,15:00,Le Havre,US Créteil-L,4-2-3-1,Erick Mombaerts,11966,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2486949
+6,sex 12/09/2014,15:00,Clermont Foot,Le Havre,4-2-3-1,Erick Mombaerts,2387,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2490416
+7,sáb 20/09/2014,09:00,Le Havre,Troyes,4-3-3 ofensivo,Erick Mombaerts,6363,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2490421
+8,ter 23/09/2014,15:55,AC Ajaccio,Le Havre,4-4-2 duplo 6,Erick Mombaerts,4119,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2490432
+9,sex 26/09/2014,15:00,Le Havre,Dijon,4-2-3-1,Erick Mombaerts,7920,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2495651
+10,sex 03/10/2014,15:00,US Orléans,Le Havre,4-2-3-1,Erick Mombaerts,4449,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2495665
+11,sex 17/10/2014,15:00,Le Havre,Angers,4-2-3-1,Erick Mombaerts,9550,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2501077
+12,seg 27/10/2014,17:30,AS Nancy,Le Havre,4-2-3-1,Erick Mombaerts,16512,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2501089
+13,sex 31/10/2014,17:00,Le Havre,AC Arles-Avignon,4-2-3-1,Erick Mombaerts,10515,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2502492
+14,sáb 08/11/2014,11:00,Brest,Le Havre,4-2-3-1,Erick Mombaerts,7832,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2507090
+15,sáb 22/11/2014,11:00,Le Havre,FC Sochaux,4-2-3-1,Erick Mombaerts,7949,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2507100
+16,sex 28/11/2014,17:00,Nîmes Olympique,Le Havre,4-2-3-1,Erick Mombaerts,6011,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2507108
+17,sex 12/12/2014,17:00,Le Havre,Stade Lavallois,4-2-3-1,Philippe Bizeul,6033,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2511721
+18,sex 19/12/2014,17:00,Tours FC,Le Havre,4-2-3-1,Philippe Bizeul,4187,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2511735
+19,sex 09/01/2015,17:00,Le Havre,LB Châteauroux,4-3-3 ofensivo,Thierry Goudet,5370,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2520761
+20,sex 16/01/2015,17:00,G. Ajaccio,Le Havre,4-2-3-1,Thierry Goudet,1501,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2520775
+21,sex 23/01/2015,17:00,Le Havre,Chamois Niort,4-2-3-1,Thierry Goudet,4802,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2520783
+22,seg 02/02/2015,17:30,Le Havre,Valenciennes,4-3-3 ofensivo,Thierry Goudet,6787,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2520796
+23,sex 06/02/2015,17:00,US Créteil-L,Le Havre,4-2-3-1,Thierry Goudet,1927,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2520806
+24,sex 13/02/2015,17:00,Le Havre,Clermont Foot,4-2-3-1,Thierry Goudet,5112,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2535719
+25,sáb 21/02/2015,11:00,Troyes,Le Havre,4-2-3-1,Thierry Goudet,7773,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2535726
+26,sex 27/02/2015,16:00,Le Havre,AC Ajaccio,4-2-3-1,Thierry Goudet,5676,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2535739
+27,sáb 07/03/2015,10:00,Dijon,Le Havre,4-2-3-1,Thierry Goudet,8251,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2538825
+28,sex 13/03/2015,16:00,Le Havre,US Orléans,4-3-3 ofensivo,Thierry Goudet,6871,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2538832
+29,sex 20/03/2015,16:00,Angers,Le Havre,4-2-3-1,Thierry Goudet,7502,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2538839
+30,sex 03/04/2015,15:00,Le Havre,AS Nancy,4-3-3 ofensivo,Thierry Goudet,9535,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547625
+31,sex 10/04/2015,15:00,AC Arles-Avignon,Le Havre,4-3-3 ofensivo,Thierry Goudet,1373,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547634
+32,seg 20/04/2015,15:30,Le Havre,Brest,4-2-3-1,Thierry Goudet,5954,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547641
+33,sex 24/04/2015,15:00,FC Sochaux,Le Havre,4-3-3 defensivo,Thierry Goudet,13542,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547659
+34,ter 28/04/2015,15:30,Le Havre,Nîmes Olympique,4-2-3-1,Thierry Goudet,5642,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547667
+35,sex 01/05/2015,15:00,Stade Lavallois,Le Havre,4-3-3 ofensivo,Thierry Goudet,5407,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547675
+36,sex 08/05/2015,15:00,Le Havre,Tours FC,4-3-3 ofensivo,Thierry Goudet,6630,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547686
+37,sex 15/05/2015,15:30,LB Châteauroux,Le Havre,4-2-3-1,Thierry Goudet,5839,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547696
+38,sex 22/05/2015,15:30,Le Havre,Auxerre,4-3-3 ofensivo,Thierry Goudet,9346,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2547707

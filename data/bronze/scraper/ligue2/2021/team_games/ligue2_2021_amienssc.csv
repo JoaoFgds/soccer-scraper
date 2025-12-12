@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 24/07/2021,14:00,Amiens SC,Auxerre,4-3-3 ofensivo,Philippe Hinschberger,5562,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589622
+2,sáb 31/07/2021,14:00,AC Ajaccio,Amiens SC,4-3-3 ofensivo,Philippe Hinschberger,2491,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589632
+3,sáb 07/08/2021,14:00,Amiens SC,Quevilly Rouen,4-3-3 ofensivo,Philippe Hinschberger,5584,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589703
+4,sáb 14/08/2021,14:00,Guingamp,Amiens SC,4-1-4-1,Philippe Hinschberger,6518,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589714
+5,sáb 21/08/2021,14:00,Amiens SC,FC Sochaux,4-1-4-1,Philippe Hinschberger,5982,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589724
+6,sáb 28/08/2021,14:00,Chamois Niort,Amiens SC,4-1-4-1,Philippe Hinschberger,1598,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589905
+7,sáb 11/09/2021,14:00,Amiens SC,Rodez AF,4-2-3-1,Philippe Hinschberger,5853,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589912
+8,sáb 18/09/2021,14:00,Nîmes Olympique,Amiens SC,4-2-3-1,Philippe Hinschberger,2497,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589924
+9,ter 21/09/2021,15:00,Amiens SC,Pau FC,4-1-4-1,Philippe Hinschberger,5715,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589933
+10,sex 24/09/2021,16:00,AS Nancy,Amiens SC,4-1-4-1,Philippe Hinschberger,6010,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589945
+11,sáb 02/10/2021,10:00,Amiens SC,Toulouse,4-1-4-1,Philippe Hinschberger,11733,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589960
+12,sáb 16/10/2021,14:00,Dijon,Amiens SC,4-3-3 ofensivo,Philippe Hinschberger,7445,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589971
+13,sáb 23/10/2021,14:00,Amiens SC,Valenciennes,3-4-2-1,Philippe Hinschberger,8781,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589982
+14,sáb 30/10/2021,14:00,SC Bastia,Amiens SC,3-4-2-1,Philippe Hinschberger,8018,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589991
+15,sáb 06/11/2021,15:00,Amiens SC,SM Caen,3-4-2-1,Philippe Hinschberger,8790,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590002
+16,sáb 20/11/2021,15:00,Le Havre,Amiens SC,3-4-2-1,Philippe Hinschberger,5120,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590015
+17,sex 03/12/2021,17:00,Amiens SC,USL Dunkerque,3-4-2-1,Philippe Hinschberger,7626,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590022
+18,sáb 11/12/2021,15:00,Amiens SC,Grenoble,3-1-4-2,Philippe Hinschberger,7853,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590031
+19,ter 21/12/2021,16:45,Paris FC,Amiens SC,3-5-2,Philippe Hinschberger,2596,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590047
+20,qua 19/01/2022,15:00,Amiens SC,AC Ajaccio,3-5-2,Philippe Hinschberger,2500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590051
+21,qua 26/01/2022,15:00,Quevilly Rouen,Amiens SC,3-4-1-2,Philippe Hinschberger,2200,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590123
+22,sáb 22/01/2022,15:00,Amiens SC,Guingamp,3-5-2,Philippe Hinschberger,4000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590134
+23,sáb 05/02/2022,15:00,FC Sochaux,Amiens SC,3-5-2,Philippe Hinschberger,6623,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590163
+24,sáb 12/02/2022,15:00,Amiens SC,Chamois Niort,3-5-2,Philippe Hinschberger,7182,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590166
+25,sáb 19/02/2022,15:00,Rodez AF,Amiens SC,3-5-2,Philippe Hinschberger,1068,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590182
+26,sáb 26/02/2022,15:00,Amiens SC,Nîmes Olympique,3-5-2,Philippe Hinschberger,7354,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590186
+27,sáb 05/03/2022,15:00,Pau FC,Amiens SC,3-5-2,Philippe Hinschberger,2356,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590200
+28,sáb 12/03/2022,15:00,Amiens SC,AS Nancy,3-5-2,Philippe Hinschberger,7500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590206
+29,ter 15/03/2022,15:00,Toulouse,Amiens SC,3-4-1-2,Philippe Hinschberger,7119,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590223
+30,sáb 19/03/2022,15:00,Amiens SC,Dijon,3-5-2,Philippe Hinschberger,6032,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590226
+31,sáb 02/04/2022,14:00,Valenciennes,Amiens SC,3-5-2,Philippe Hinschberger,5450,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590244
+32,sáb 09/04/2022,14:00,Amiens SC,SC Bastia,3-5-2,Philippe Hinschberger,6297,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590246
+33,sáb 16/04/2022,14:00,SM Caen,Amiens SC,3-5-2,Philippe Hinschberger,11263,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590256
+34,ter 19/04/2022,15:00,Amiens SC,Le Havre,3-5-2,Philippe Hinschberger,8000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590266
+35,sex 22/04/2022,16:00,USL Dunkerque,Amiens SC,5-3-2,Philippe Hinschberger,2400,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590278
+36,sáb 30/04/2022,14:00,Grenoble,Amiens SC,3-5-2,Philippe Hinschberger,4716,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590287
+37,sáb 07/05/2022,14:00,Amiens SC,Paris FC,3-5-2,Philippe Hinschberger,12999,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590295
+38,sáb 14/05/2022,14:00,Auxerre,Amiens SC,3-5-2,Philippe Hinschberger,17051,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590306

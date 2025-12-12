@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/08/2017,11:00,Southampton,Swansea,4-3-3 ofensivo,Paul Clement,31447,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872122
+2,sáb 19/08/2017,08:30,Swansea,Man Utd,3-5-2 plano,Paul Clement,20862,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872132
+3,sáb 26/08/2017,11:00,Crystal Palace,Swansea,3-5-2 plano,Paul Clement,23477,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872137
+4,dom 10/09/2017,12:00,Swansea,Newcastle,4-4-2 losango,Paul Clement,20872,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872153
+5,sáb 16/09/2017,13:30,Tottenham,Swansea,3-5-2 plano,Paul Clement,65366,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872162
+6,sáb 23/09/2017,11:00,Swansea,Watford,3-5-2 plano,Paul Clement,20372,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872173
+7,sáb 30/09/2017,11:00,West Ham,Swansea,4-4-2 losango,Paul Clement,56922,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872184
+8,sáb 14/10/2017,11:00,Swansea,Huddersfield,4-1-4-1,Paul Clement,20657,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872192
+9,sáb 21/10/2017,12:00,Swansea,Leicester,4-1-4-1,Paul Clement,20521,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872202
+10,sáb 28/10/2017,12:00,Arsenal,Swansea,3-5-2 plano,Paul Clement,59493,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872206
+11,sáb 04/11/2017,13:00,Swansea,Brighton,4-3-3 ofensivo,Paul Clement,20822,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872222
+12,sáb 18/11/2017,13:00,FC Burnley,Swansea,4-3-3 defensivo,Paul Clement,18895,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872228
+13,sáb 25/11/2017,13:00,Swansea,Bournemouth,4-3-1-2,Paul Clement,20228,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872242
+14,qua 29/11/2017,17:45,Chelsea,Swansea,4-3-1-2,Paul Clement,41365,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872251
+15,sáb 02/12/2017,13:00,Stoke,Swansea,4-4-2 losango,Paul Clement,28261,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872262
+16,sáb 09/12/2017,13:00,Swansea,West Brom,4-1-4-1,Paul Clement,19580,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872272
+17,qua 13/12/2017,17:45,Swansea,Man City,4-1-4-1,Paul Clement,20870,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872279
+18,seg 18/12/2017,18:00,Everton,Swansea,4-3-3 ofensivo,Paul Clement,37580,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872289
+19,sáb 23/12/2017,13:00,Swansea,Crystal Palace,4-1-4-1,Leon Britton,20354,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872302
+20,ter 26/12/2017,15:30,Liverpool,Swansea,4-1-4-1,Leon Britton,52850,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872309
+21,sáb 30/12/2017,13:00,Watford,Swansea,4-4-2,Carlos Carvalhal,20000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872323
+22,ter 02/01/2018,17:45,Swansea,Tottenham,3-5-2 plano,Carlos Carvalhal,20615,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872333
+23,sáb 13/01/2018,13:00,Newcastle,Swansea,4-4-2,Carlos Carvalhal,51444,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872341
+24,seg 22/01/2018,18:00,Swansea,Liverpool,5-4-1 plano,Carlos Carvalhal,20886,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872353
+25,ter 30/01/2018,17:45,Swansea,Arsenal,5-4-1 plano,Carlos Carvalhal,20819,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872356
+26,sáb 03/02/2018,13:00,Leicester,Swansea,5-4-1 plano,Carlos Carvalhal,31179,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872370
+27,sáb 10/02/2018,13:00,Swansea,FC Burnley,5-4-1 plano,Carlos Carvalhal,20176,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872382
+28,sáb 24/02/2018,12:00,Brighton,Swansea,5-4-1 plano,Carlos Carvalhal,30523,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872387
+29,sáb 03/03/2018,12:00,Swansea,West Ham,5-4-1 plano,Carlos Carvalhal,20829,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872402
+30,sáb 10/03/2018,12:00,Huddersfield,Swansea,3-5-2 plano,Carlos Carvalhal,23567,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872409
+31,ter 08/05/2018,15:45,Swansea,Southampton,3-5-2 plano,Carlos Carvalhal,20858,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872422
+32,sáb 31/03/2018,11:00,Man Utd,Swansea,3-5-2 plano,Carlos Carvalhal,75038,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872430
+33,sáb 07/04/2018,11:00,West Brom,Swansea,5-4-1 plano,Carlos Carvalhal,23297,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872444
+34,sáb 14/04/2018,11:00,Swansea,Everton,4-4-2 duplo 6,Carlos Carvalhal,20933,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872452
+35,dom 22/04/2018,12:30,Man City,Swansea,5-4-1 plano,Carlos Carvalhal,54387,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872461
+36,sáb 28/04/2018,13:30,Swansea,Chelsea,5-4-1 plano,Carlos Carvalhal,20900,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872472
+37,sáb 05/05/2018,11:00,Bournemouth,Swansea,5-4-1 plano,Carlos Carvalhal,10820,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872475
+38,dom 13/05/2018,11:00,Swansea,Stoke,4-4-2 duplo 6,Carlos Carvalhal,20673,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872492

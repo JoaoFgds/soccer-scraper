@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/08/2017,13:30,Brighton,Man City,3-1-4-2,Pep Guardiola,30415,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872116
+2,seg 21/08/2017,16:00,Man City,Everton,3-5-2 plano,Pep Guardiola,49108,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872130
+3,sáb 26/08/2017,08:30,Bournemouth,Man City,4-3-3 ofensivo,Pep Guardiola,10419,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872135
+4,sáb 09/09/2017,08:30,Man City,Liverpool,3-1-4-2,Pep Guardiola,54172,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872150
+5,sáb 16/09/2017,11:00,Watford,Man City,4-3-3 ofensivo,Pep Guardiola,20305,0:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872163
+6,sáb 23/09/2017,11:00,Man City,Crystal Palace,4-3-3 ofensivo,Pep Guardiola,53526,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872170
+7,sáb 30/09/2017,13:30,Chelsea,Man City,4-1-4-1,Pep Guardiola,41530,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872177
+8,sáb 14/10/2017,11:00,Man City,Stoke,4-3-3 ofensivo,Pep Guardiola,54128,7:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872190
+9,sáb 21/10/2017,12:00,Man City,FC Burnley,4-1-4-1,Pep Guardiola,54118,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872198
+10,sáb 28/10/2017,12:00,West Brom,Man City,4-3-3 ofensivo,Pep Guardiola,24003,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872214
+11,dom 05/11/2017,12:15,Man City,Arsenal,4-1-4-1,Pep Guardiola,54286,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872218
+12,sáb 18/11/2017,13:00,Leicester,Man City,4-3-3 ofensivo,Pep Guardiola,31908,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872230
+13,dom 26/11/2017,14:00,Huddersfield,Man City,4-1-4-1,Pep Guardiola,24121,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872237
+14,qua 29/11/2017,18:00,Man City,Southampton,4-3-3 ofensivo,Pep Guardiola,53407,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872253
+15,dom 03/12/2017,14:00,Man City,West Ham,4-2-3-1,Pep Guardiola,54203,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872261
+16,dom 10/12/2017,14:30,Man Utd,Man City,4-3-3 ofensivo,Pep Guardiola,74847,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872269
+17,qua 13/12/2017,17:45,Swansea,Man City,4-1-4-1,Pep Guardiola,20870,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872279
+18,sáb 16/12/2017,15:30,Man City,Tottenham,4-3-3 ofensivo,Pep Guardiola,54214,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872291
+19,sáb 23/12/2017,13:00,Man City,Bournemouth,4-3-3 ofensivo,Pep Guardiola,54270,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872299
+20,qua 27/12/2017,17:45,Newcastle,Man City,4-3-3 ofensivo,Pep Guardiola,52311,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872311
+21,dom 31/12/2017,10:00,Crystal Palace,Man City,4-2-3-1,Pep Guardiola,25804,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872317
+22,ter 02/01/2018,18:00,Man City,Watford,4-3-3 ofensivo,Pep Guardiola,53555,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872330
+23,dom 14/01/2018,14:00,Liverpool,Man City,4-3-3 ofensivo,Pep Guardiola,53285,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872339
+24,sáb 20/01/2018,15:30,Man City,Newcastle,4-1-4-1,Pep Guardiola,54452,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872350
+25,qua 31/01/2018,18:00,Man City,West Brom,4-1-4-1,Pep Guardiola,53241,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872360
+26,sáb 03/02/2018,10:30,FC Burnley,Man City,4-1-4-1,Pep Guardiola,21658,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872368
+27,sáb 10/02/2018,15:30,Man City,Leicester,4-3-3 ofensivo,Pep Guardiola,54416,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872378
+28,qui 01/03/2018,16:45,Arsenal,Man City,4-1-4-1,Pep Guardiola,58420,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872386
+29,dom 04/03/2018,13:00,Man City,Chelsea,4-3-3 ofensivo,Pep Guardiola,54328,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872400
+30,seg 12/03/2018,17:00,Stoke,Man City,4-3-3 ofensivo,Pep Guardiola,29138,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872412
+31,qua 09/05/2018,16:00,Man City,Brighton,4-3-3 ofensivo,Pep Guardiola,54013,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872420
+32,sáb 31/03/2018,13:30,Everton,Man City,3-1-4-2,Pep Guardiola,39221,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872429
+33,sáb 07/04/2018,13:30,Man City,Man Utd,4-3-3 ofensivo,Pep Guardiola,54259,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872441
+34,sáb 14/04/2018,15:45,Tottenham,Man City,4-3-3 ofensivo,Pep Guardiola,80811,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872453
+35,dom 22/04/2018,12:30,Man City,Swansea,4-3-3 ofensivo,Pep Guardiola,54387,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872461
+36,dom 29/04/2018,10:15,West Ham,Man City,4-3-3 ofensivo,Pep Guardiola,56904,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872474
+37,dom 06/05/2018,09:30,Man City,Huddersfield,4-3-3 ofensivo,Pep Guardiola,54350,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872481
+38,dom 13/05/2018,11:00,Southampton,Man City,4-3-3 ofensivo,Pep Guardiola,31882,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872491

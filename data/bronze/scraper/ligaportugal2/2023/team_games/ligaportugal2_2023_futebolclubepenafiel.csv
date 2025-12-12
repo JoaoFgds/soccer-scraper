@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 13/08/2023,10:00,Penafiel,Leixões,4-3-3 defensivo,Hélder Cristóvão,1114,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109786
+2,dom 20/08/2023,16:30,Feirense,Penafiel,4-3-3 defensivo,Hélder Cristóvão,338,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109611
+3,dom 27/08/2023,07:00,UD Oliveirense,Penafiel,4-4-2 duplo 6,Hélder Cristóvão,922,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109785
+4,sáb 02/09/2023,11:30,Penafiel,Académico FC,4-3-3 defensivo,Hélder Cristóvão,981,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109801
+5,sáb 16/09/2023,10:30,Santa Clara,Penafiel,3-4-3 plano,Hélder Cristóvão,1614,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109718
+6,seg 02/10/2023,14:00,Penafiel,Nacional,4-2-3-1,Hélder Cristóvão,711,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109769
+7,seg 09/10/2023,16:15,AVS,Penafiel,3-4-3 plano,Hélder Cristóvão,801,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109809
+8,sex 27/10/2023,14:00,Penafiel,Mafra,3-4-3 plano,Hélder Cristóvão,415,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109817
+9,sáb 04/11/2023,15:00,Benfica B,Penafiel,3-4-3 plano,Hélder Cristóvão,329,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109830
+10,sáb 11/11/2023,11:00,Penafiel,FC Porto B,4-3-3 ofensivo,Hélder Cristóvão,664,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109837
+11,dom 19/11/2023,11:00,Belenenses,Penafiel,4-3-3 ofensivo,Hélder Cristóvão,2165,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109850
+12,dom 03/12/2023,11:00,Penafiel,CD Tondela,3-4-3 plano,Hélder Cristóvão,478,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109871
+13,sáb 09/12/2023,08:00,Paços Ferreira,Penafiel,3-4-3 plano,Hélder Cristóvão,1589,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109882
+14,sáb 16/12/2023,11:00,Penafiel,Leiria,3-5-2,Hélder Cristóvão,479,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109618
+15,sáb 23/12/2023,09:45,Marítimo,Penafiel,3-5-2,Hélder Cristóvão,8374,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109892
+16,sáb 06/01/2024,11:00,Penafiel,Vilaverdense,3-5-2,Hélder Cristóvão,479,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109628
+17,seg 15/01/2024,17:45,Torreense,Penafiel,3-5-2,Hélder Cristóvão,477,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109842
+18,dom 21/01/2024,11:00,Leixões,Penafiel,3-5-2,Hélder Cristóvão,1634,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109859
+19,seg 29/01/2024,15:00,Penafiel,Feirense,3-5-2,Hélder Cristóvão,1240,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109638
+20,sáb 03/02/2024,12:30,Penafiel,UD Oliveirense,3-5-2,Hélder Cristóvão,953,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109911
+21,sáb 10/02/2024,08:00,Académico FC,Penafiel,3-5-2,Hélder Cristóvão,464,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109666
+22,dom 18/02/2024,11:00,Penafiel,Santa Clara,3-5-2,Hélder Cristóvão,963,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109685
+23,sáb 24/02/2024,12:30,Nacional,Penafiel,3-5-2,Hélder Cristóvão,1550,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109652
+24,dom 03/03/2024,11:00,Penafiel,AVS,4-4-2 duplo 6,Hélder Cristóvão,746,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109674
+25,sáb 09/03/2024,08:00,Mafra,Penafiel,4-4-2 duplo 6,Hélder Cristóvão,329,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109646
+26,sáb 16/03/2024,11:00,Penafiel,Benfica B,4-4-2 duplo 6,Hélder Cristóvão,1157,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109704
+27,sáb 30/03/2024,12:30,FC Porto B,Penafiel,4-2-3-1,Hélder Cristóvão,350,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109901
+28,sáb 06/04/2024,07:00,Penafiel,Belenenses,4-2-3-1,Hélder Cristóvão,690,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109705
+29,sáb 13/04/2024,11:30,CD Tondela,Penafiel,4-2-3-1,Hélder Cristóvão,987,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109691
+30,sáb 20/04/2024,07:00,Penafiel,Paços Ferreira,4-2-3-1,Hélder Cristóvão,1128,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109729
+31,qui 25/04/2024,14:00,Leiria,Penafiel,4-2-3-1,Hélder Cristóvão,7368,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109761
+32,dom 05/05/2024,07:00,Penafiel,Marítimo,4-2-3-1,Hélder Cristóvão,542,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109748
+33,sáb 11/05/2024,11:30,Vilaverdense,Penafiel,4-2-3-1,Hélder Cristóvão,84,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109753
+34,qui 16/05/2024,16:15,Penafiel,Torreense,4-2-3-1,Hélder Cristóvão,714,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109733

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 02/08/2014,10:30,Bochum,Greuther Fürth,4-4-2 duplo 6,Peter Neururer,18146,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2460937
+2,sáb 09/08/2014,10:30,Erzgebirge Aue,Bochum,4-4-2 duplo 6,Peter Neururer,8850,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2460949
+3,seg 25/08/2014,15:15,Bochum,Union Berlim,4-4-2 duplo 6,Peter Neururer,16307,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2460957
+4,dom 31/08/2014,08:30,E. Braunschweig,Bochum,4-4-2 duplo 6,Peter Neururer,22275,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2460961
+5,sex 12/09/2014,13:30,Bochum,Karlsruher,4-2-3-1,Peter Neururer,21168,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2460975
+6,sáb 20/09/2014,08:00,FSV Frankfurt,Bochum,4-4-2 duplo 6,Peter Neururer,5677,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2460986
+7,qui 25/09/2014,15:15,Bochum,Düsseldorf,4-4-2 duplo 6,Peter Neururer,24500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2460994
+8,dom 28/09/2014,08:30,Heidenheim,Bochum,4-4-2 duplo 6,Peter Neururer,11500,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461005
+9,sex 03/10/2014,13:30,Bochum,Nuremberg,4-4-2 duplo 6,Peter Neururer,25092,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461012
+10,sex 17/10/2014,13:30,Bochum,Darmstadt 98,4-4-2 duplo 6,Peter Neururer,19618,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461022
+11,sex 24/10/2014,14:30,Leipzig,Bochum,4-4-2 duplo 6,Peter Neururer,30194,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461031
+12,dom 02/11/2014,10:30,Bochum,1860 Munique,4-4-2 losango,Peter Neururer,15607,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461039
+13,sex 07/11/2014,15:30,K'lautern,Bochum,4-3-2-1,Peter Neururer,24708,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461043
+14,sex 21/11/2014,15:30,Bochum,VfR Aalen,4-4-2 duplo 6,Peter Neururer,11709,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461057
+15,sáb 29/11/2014,10:00,Ingolstadt,Bochum,4-4-2 duplo 6,Peter Neururer,8000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461064
+16,sex 05/12/2014,15:30,Bochum,St. Pauli,4-4-2 duplo 6,Peter Neururer,17134,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461074
+17,sex 12/12/2014,15:30,Sandhausen,Bochum,4-1-4-1,Frank Heinemann,4023,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461084
+18,ter 16/12/2014,14:30,Greuther Fürth,Bochum,4-1-4-1,Frank Heinemann,8750,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461088
+19,dom 21/12/2014,10:30,Bochum,Erzgebirge Aue,4-1-4-1,Frank Heinemann,12025,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461101
+20,sáb 07/02/2015,10:00,Union Berlim,Bochum,4-4-1-1,Gertjan Verbeek,19015,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461108
+21,sex 13/02/2015,15:30,Bochum,E. Braunschweig,4-2-3-1,Gertjan Verbeek,13778,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461118
+22,sáb 21/02/2015,10:00,Karlsruher,Bochum,4-2-3-1,Gertjan Verbeek,11989,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461124
+23,sex 27/02/2015,14:30,Bochum,FSV Frankfurt,4-2-3-1,Gertjan Verbeek,11594,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461136
+24,sex 06/03/2015,14:30,Düsseldorf,Bochum,4-2-3-1,Gertjan Verbeek,33481,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461143
+25,sex 13/03/2015,14:30,Bochum,Heidenheim,4-2-3-1,Gertjan Verbeek,14639,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461155
+26,seg 23/03/2015,16:15,Nuremberg,Bochum,4-2-3-1,Gertjan Verbeek,25528,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461158
+27,dom 05/04/2015,08:30,Darmstadt 98,Bochum,4-1-4-1,Gertjan Verbeek,16000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461175
+28,dom 12/04/2015,08:30,Bochum,Leipzig,4-2-3-1,Gertjan Verbeek,18529,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461183
+29,sáb 18/04/2015,08:00,1860 Munique,Bochum,4-2-3-1,Gertjan Verbeek,16000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461187
+30,sex 24/04/2015,13:30,Bochum,K'lautern,4-2-3-1,Gertjan Verbeek,19057,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461200
+31,dom 03/05/2015,08:30,VfR Aalen,Bochum,4-2-3-1,Gertjan Verbeek,8566,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461208
+32,dom 10/05/2015,08:30,Bochum,Ingolstadt,4-2-3-1,Gertjan Verbeek,12611,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461218
+33,dom 17/05/2015,10:30,St. Pauli,Bochum,4-2-3-1,Gertjan Verbeek,23584,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461224
+34,dom 24/05/2015,10:30,Bochum,Sandhausen,4-2-3-1,Gertjan Verbeek,15562,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461235

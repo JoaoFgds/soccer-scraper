@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 26/08/2018,13:00,Dortmund,Leipzig,4-1-4-1,Lucien Favre,80365,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058407
+2,sex 31/08/2018,15:30,Hannover,Dortmund,4-1-4-1,Lucien Favre,49000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058431
+3,sex 14/09/2018,15:30,Dortmund,Frankfurt,4-2-3-1,Lucien Favre,81000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058434
+4,sáb 22/09/2018,10:30,Hoffenheim,Dortmund,4-2-3-1,Lucien Favre,30150,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058443
+5,qua 26/09/2018,15:30,Dortmund,Nuremberg,4-2-3-1,Lucien Favre,75700,7:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058452
+6,sáb 29/09/2018,13:30,Leverkusen,Dortmund,4-2-3-1,Lucien Favre,30210,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058462
+7,sáb 06/10/2018,10:30,Dortmund,Augsburg,4-2-3-1,Lucien Favre,81365,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058471
+8,sáb 20/10/2018,10:30,Stuttgart,Dortmund,4-2-3-1,Lucien Favre,58549,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058480
+9,sáb 27/10/2018,10:30,Dortmund,Hertha Berlim,4-2-3-1,Lucien Favre,81000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058488
+10,sáb 03/11/2018,11:30,Wolfsburg,Dortmund,4-2-3-1,Lucien Favre,30000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058504
+11,sáb 10/11/2018,15:30,Dortmund,Bayern,4-2-3-1,Lucien Favre,81365,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058506
+12,sáb 24/11/2018,12:30,Mainz,Dortmund,4-2-3-1,Lucien Favre,34000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058521
+13,sáb 01/12/2018,12:30,Dortmund,Freiburg,4-2-3-1,Lucien Favre,81365,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058524
+14,sáb 08/12/2018,12:30,Schalke,Dortmund,4-2-3-1,Lucien Favre,61767,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058533
+15,sáb 15/12/2018,15:30,Dortmund,Werder Bremen,4-2-3-1,Lucien Favre,81365,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058542
+16,ter 18/12/2018,17:30,Düsseldorf,Dortmund,4-2-3-1,Lucien Favre,54600,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058558
+17,sex 21/12/2018,17:30,Dortmund,M'gladbach,4-2-3-1,Lucien Favre,81365,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058560
+18,sáb 19/01/2019,15:30,Leipzig,Dortmund,4-2-3-1,Lucien Favre,41939,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058571
+19,sáb 26/01/2019,12:30,Dortmund,Hannover,4-2-3-1,Lucien Favre,81365,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058578
+20,sáb 02/02/2019,12:30,Frankfurt,Dortmund,4-2-3-1,Lucien Favre,51500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058589
+21,sáb 09/02/2019,12:30,Dortmund,Hoffenheim,4-2-3-1,Lucien Favre,81365,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058595
+22,seg 18/02/2019,16:30,Nuremberg,Dortmund,4-2-3-1,Lucien Favre,50000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058611
+23,dom 24/02/2019,14:00,Dortmund,Leverkusen,4-2-3-1,Lucien Favre,81029,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058613
+24,sex 01/03/2019,16:30,Augsburg,Dortmund,4-2-3-1,Lucien Favre,30660,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058636
+25,sáb 09/03/2019,11:30,Dortmund,Stuttgart,4-1-4-1,Lucien Favre,81365,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058641
+26,sáb 16/03/2019,14:30,Hertha Berlim,Dortmund,4-2-3-1,Lucien Favre,74667,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058654
+27,sáb 30/03/2019,11:30,Dortmund,Wolfsburg,4-2-3-1,Lucien Favre,81365,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058658
+28,sáb 06/04/2019,13:30,Bayern,Dortmund,4-2-3-1,Lucien Favre,75000,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058666
+29,sáb 13/04/2019,13:30,Dortmund,Mainz,4-2-3-1,Lucien Favre,81365,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058676
+30,dom 21/04/2019,10:30,Freiburg,Dortmund,4-2-3-1,Lucien Favre,24000,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058690
+31,sáb 27/04/2019,10:30,Dortmund,Schalke,4-2-3-1,Lucien Favre,80196,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058694
+32,sáb 04/05/2019,13:30,Werder Bremen,Dortmund,4-2-3-1,Lucien Favre,42100,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058707
+33,sáb 11/05/2019,10:30,Dortmund,Düsseldorf,4-2-3-1,Lucien Favre,81365,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058712
+34,sáb 18/05/2019,10:30,M'gladbach,Dortmund,4-2-3-1,Lucien Favre,54022,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058722

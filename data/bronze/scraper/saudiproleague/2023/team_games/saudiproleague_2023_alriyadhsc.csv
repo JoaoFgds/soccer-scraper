@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 13/08/2023,15:00,Al-Riyadh,Al-Wehda,3-4-3 plano,Yannick Ferrera,1419,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138466
+2,qui 17/08/2023,12:00,Damac FC,Al-Riyadh,4-4-2,Yannick Ferrera,1109,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138385
+3,qui 24/08/2023,15:00,Al-Riyadh,Al-Ittihad,4-4-2,Yannick Ferrera,8618,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138380
+4,seg 28/08/2023,15:00,Al-Raed,Al-Riyadh,3-4-3 plano,Yannick Ferrera,3870,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138404
+5,sex 01/09/2023,15:00,Al-Riyadh,Al-Okhdood,4-4-2,Yannick Ferrera,133,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138479
+6,sex 15/09/2023,15:00,Al-Hilal,Al-Riyadh,4-2-3-1,Yannick Ferrera,15373,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138208
+7,sex 22/09/2023,12:00,Al-Riyadh,Al-Fayha,4-2-3-1,Bandar Al-Kubaishan,281,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138491
+8,sáb 30/09/2023,09:00,Abha,Al-Riyadh,4-2-3-1,Bandar Al-Kubaishan,210,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138436
+9,qui 05/10/2023,12:00,Al-Riyadh,Al-Shabab,4-2-3-1,Bandar Al-Kubaishan,1684,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138396
+10,dom 22/10/2023,12:00,Al-Riyadh,Al-Ettifaq,4-4-2 duplo 6,Odair Hellmann,696,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138349
+11,sex 27/10/2023,12:00,Al-Tai,Al-Riyadh,4-4-2 duplo 6,Odair Hellmann,3270,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138429
+12,dom 05/11/2023,15:00,Al-Ahli,Al-Riyadh,5-4-1 plano,Odair Hellmann,10094,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138440
+13,qui 09/11/2023,15:00,Al-Riyadh,Al-Fateh,4-2-3-1,Odair Hellmann,397,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138419
+14,sex 24/11/2023,12:00,Al-Taawoun,Al-Riyadh,4-2-3-1,Odair Hellmann,3611,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138461
+15,qui 30/11/2023,12:00,Al-Riyadh,Al-Hazem,4-2-3-1,Odair Hellmann,264,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138471
+16,sex 08/12/2023,15:00,Al-Nassr,Al-Riyadh,4-2-3-1,Odair Hellmann,17047,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138449
+17,sáb 16/12/2023,12:00,Al-Riyadh,Al-Khaleej,4-2-3-1,Odair Hellmann,144,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138501
+18,dom 24/12/2023,15:00,Al-Wehda,Al-Riyadh,4-3-3 ofensivo,Odair Hellmann,668,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138243
+19,qui 28/12/2023,12:00,Al-Riyadh,Damac FC,4-2-3-1,Odair Hellmann,299,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138240
+20,dom 18/02/2024,14:00,Al-Ittihad,Al-Riyadh,4-2-3-1,Odair Hellmann,11864,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138219
+21,sex 23/02/2024,11:00,Al-Riyadh,Al-Raed,3-4-3 plano,Odair Hellmann,292,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138225
+22,sex 01/03/2024,11:00,Al-Okhdood,Al-Riyadh,4-2-3-1,Odair Hellmann,828,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138361
+23,sex 08/03/2024,11:00,Al-Riyadh,Al-Hilal,5-4-1 plano,Odair Hellmann,6755,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138284
+24,sex 15/03/2024,16:00,Al-Fayha,Al-Riyadh,4-2-3-1,Odair Hellmann,811,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138347
+25,sáb 30/03/2024,16:00,Al-Riyadh,Abha,5-4-1 plano,Odair Hellmann,194,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138339
+26,qua 03/04/2024,16:00,Al-Shabab,Al-Riyadh,5-4-1 plano,Odair Hellmann,4317,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138321
+27,sex 05/04/2024,19:00,Al-Ettifaq,Al-Riyadh,4-2-3-1,Odair Hellmann,3573,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138330
+28,sex 19/04/2024,12:00,Al-Riyadh,Al-Tai,4-2-3-1,Odair Hellmann,1631,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138272
+29,qui 25/04/2024,15:00,Al-Riyadh,Al-Ahli,4-4-2 duplo 6,Odair Hellmann,5813,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138302
+30,qui 02/05/2024,15:00,Al-Fateh,Al-Riyadh,4-4-2 duplo 6,Odair Hellmann,6954,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138263
+31,qui 09/05/2024,12:00,Al-Riyadh,Al-Taawoun,4-4-2 duplo 6,Odair Hellmann,1146,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138252
+32,sáb 18/05/2024,13:20,Al-Hazem,Al-Riyadh,4-2-3-1,Odair Hellmann,305,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138288
+33,qui 23/05/2024,15:00,Al-Riyadh,Al-Nassr,4-4-2 duplo 6,Odair Hellmann,1876,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138311
+34,seg 27/05/2024,15:00,Al-Khaleej,Al-Riyadh,4-4-2 duplo 6,Odair Hellmann,1500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4138372

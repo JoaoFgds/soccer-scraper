@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 23/08/2020,10:00,Nîmes Olympique,Brest,4-2-3-1,Jérôme Arpinon,2026,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3393968
+2,dom 30/08/2020,10:00,Nantes,Nîmes Olympique,4-2-3-1,Jérôme Arpinon,4069,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394575
+3,dom 13/09/2020,10:00,Nîmes Olympique,Rennes,4-2-3-1,Jérôme Arpinon,3467,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394585
+4,sex 18/09/2020,16:00,Lyon,Nîmes Olympique,4-3-3 ofensivo,Jérôme Arpinon,4385,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394595
+5,dom 27/09/2020,10:00,Nîmes Olympique,Lens,4-3-3 ofensivo,Jérôme Arpinon,3309,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394609
+6,dom 04/10/2020,08:00,Montpellier,Nîmes Olympique,4-3-3 ofensivo,Jérôme Arpinon,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394614
+7,sex 16/10/2020,16:00,Nîmes Olympique,PSG,4-3-3 ofensivo,Jérôme Arpinon,3526,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394624
+8,dom 25/10/2020,11:00,Bordeaux,Nîmes Olympique,4-3-3 ofensivo,Jérôme Arpinon,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394641
+9,dom 01/11/2020,11:00,Nîmes Olympique,FC Metz,4-4-2 duplo 6,Jérôme Arpinon,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394647
+10,dom 08/11/2020,11:00,Nîmes Olympique,Angers,4-3-3 ofensivo,Jérôme Arpinon,x,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394652
+11,dom 22/11/2020,11:00,Reims,Nîmes Olympique,4-3-3 ofensivo,Jérôme Arpinon,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394664
+12,dom 29/11/2020,11:00,Monaco,Nîmes Olympique,4-3-3 ofensivo,Jérôme Arpinon,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394681
+13,sex 04/12/2020,17:00,Nîmes Olympique,Marselha,4-4-2 duplo 6,Jérôme Arpinon,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394693
+14,dom 13/12/2020,11:00,FC Lorient,Nîmes Olympique,3-4-3 plano,Jérôme Arpinon,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394696
+15,qua 16/12/2020,15:00,Nîmes Olympique,Nice,4-2-3-1,Jérôme Arpinon,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394704
+16,dom 20/12/2020,11:00,Saint-Étienne,Nîmes Olympique,4-3-3 ofensivo,Jérôme Arpinon,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394718
+17,qua 23/12/2020,15:00,Nîmes Olympique,Dijon,4-2-3-1,Jérôme Arpinon,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394728
+18,qua 06/01/2021,15:00,Strasbourg,Nîmes Olympique,4-2-3-1,Jérôme Arpinon,x,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394740
+19,sáb 09/01/2021,17:00,Nîmes Olympique,Lille,4-2-3-1,Jérôme Arpinon,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394745
+20,sáb 16/01/2021,13:00,Marselha,Nîmes Olympique,4-1-4-1,Jérôme Arpinon,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394756
+21,qua 24/02/2021,15:00,Nîmes Olympique,FC Lorient,4-1-4-1,Pascal Plancque,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394769
+22,dom 31/01/2021,11:00,Angers,Nîmes Olympique,4-1-4-1,Jérôme Arpinon,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394778
+23,qua 03/02/2021,17:00,PSG,Nîmes Olympique,4-3-3 ofensivo,Jérôme Arpinon,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394785
+24,dom 07/02/2021,11:00,Nîmes Olympique,Monaco,4-1-4-1,Pascal Plancque,x,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394801
+25,dom 14/02/2021,11:00,Dijon,Nîmes Olympique,4-1-4-1,Pascal Plancque,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394810
+26,dom 21/02/2021,11:00,Nîmes Olympique,Bordeaux,4-3-3 ofensivo,Pascal Plancque,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394816
+27,dom 28/02/2021,11:00,Nîmes Olympique,Nantes,4-1-4-1,Pascal Plancque,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394836
+28,qua 03/03/2021,15:00,Nice,Nîmes Olympique,4-1-4-1,Pascal Plancque,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394863
+29,dom 14/03/2021,09:00,Nîmes Olympique,Montpellier,4-1-4-1,Pascal Plancque,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394888
+30,dom 21/03/2021,13:05,Lille,Nîmes Olympique,4-1-4-1,Pascal Plancque,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394904
+31,dom 04/04/2021,12:05,Nîmes Olympique,Saint-Étienne,4-1-4-1,Pascal Plancque,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394920
+32,dom 11/04/2021,10:00,Brest,Nîmes Olympique,4-1-4-1,Pascal Plancque,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394927
+33,dom 18/04/2021,10:00,Nîmes Olympique,Strasbourg,4-1-4-1,Pascal Plancque,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394932
+34,dom 25/04/2021,10:00,Lens,Nîmes Olympique,4-3-3 ofensivo,Pascal Plancque,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394944
+35,dom 02/05/2021,10:00,Nîmes Olympique,Reims,4-2-3-1,Pascal Plancque,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394968
+36,dom 09/05/2021,10:00,FC Metz,Nîmes Olympique,4-2-3-1,Pascal Plancque,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394978
+37,dom 16/05/2021,16:00,Nîmes Olympique,Lyon,4-2-3-1,Pascal Plancque,x,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394992
+38,dom 23/05/2021,16:00,Rennes,Nîmes Olympique,4-1-4-1,Pascal Plancque,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394998

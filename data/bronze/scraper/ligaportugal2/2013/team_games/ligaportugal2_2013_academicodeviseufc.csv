@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 10/08/2013,13:00,Moreirense,Académico FC,?,Filipe Moreira,932,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343322
+2,qui 15/08/2013,12:00,Académico FC,Braga B,?,Filipe Moreira,801,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343325
+3,qua 21/08/2013,12:00,Marítimo B,Académico FC,?,Filipe Moreira,520,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343324
+4,dom 25/08/2013,13:00,Académico FC,CD Tondela,?,Filipe Moreira,1572,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343323
+5,dom 01/09/2013,12:00,Covilhã,Académico FC,?,Filipe Moreira,392,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343326
+6,dom 15/09/2013,07:15,Farense,Académico FC,4-3-3 ofensivo,Filipe Moreira,910,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343344
+7,dom 08/09/2013,13:00,Académico FC,Chaves,?,Filipe Moreira,1556,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343345
+8,sáb 28/09/2013,11:00,CF União,Académico FC,?,Filipe Moreira,246,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343343
+9,qua 02/10/2013,12:00,Académico FC,Feirense,?,Filipe Moreira,350,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343342
+10,dom 06/10/2013,12:00,Benfica B,Académico FC,?,Filipe Moreira,585,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343340
+11,qua 23/10/2013,12:00,Académico FC,UD Oliveirense,?,Filipe Moreira,482,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343341
+12,seg 28/10/2013,14:00,Sporting B,Académico FC,?,Filipe Moreira,1075,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343331
+13,sáb 02/11/2013,09:15,Académico FC,FC Porto B,?,Filipe Moreira,845,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343330
+14,qua 06/11/2013,13:00,Beira-Mar,Académico FC,?,Filipe Moreira,880,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343329
+15,dom 17/11/2013,13:00,Académico FC,Atlético CP,?,Filipe Moreira,709,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343328
+16,dom 24/11/2013,13:00,Trofense,Académico FC,4-5-1 plano,Filipe Moreira,835,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343327
+17,qua 27/11/2013,13:00,Académico FC,Penafiel,?,Filipe Moreira,252,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343337
+18,dom 01/12/2013,13:00,Leixões,Académico FC,?,Filipe Moreira,1103,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343338
+19,sáb 07/12/2013,13:00,Académico FC,Portimonense,?,Filipe Moreira,611,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343335
+20,qua 11/12/2013,14:00,Santa Clara,Académico FC,?,Filipe Moreira,305,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343336
+21,dom 15/12/2013,13:00,Académico FC,CD Aves,?,Filipe Moreira,797,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343334
+22,dom 22/12/2013,13:00,Académico FC,Moreirense,?,Filipe Moreira,1119,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343332
+23,sáb 28/12/2013,14:00,Braga B,Académico FC,?,Filipe Moreira,652,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343333
+24,dom 12/01/2014,13:00,Académico FC,Marítimo B,?,Ricardo Chéu,297,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343339
+25,sáb 18/01/2014,13:00,CD Tondela,Académico FC,?,Ricardo Chéu,979,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343349
+26,qua 22/01/2014,13:00,Académico FC,Covilhã,?,Ricardo Chéu,521,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343357
+27,qua 29/01/2014,13:00,Académico FC,Farense,?,Ricardo Chéu,686,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343356
+28,dom 02/02/2014,13:00,Chaves,Académico FC,?,Ricardo Chéu,700,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343355
+29,dom 09/02/2014,13:00,Académico FC,CF União,?,Ricardo Chéu,614,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343360
+30,dom 16/02/2014,12:00,Feirense,Académico FC,?,Ricardo Chéu,834,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343358
+31,sáb 22/02/2014,08:15,Académico FC,Benfica B,?,Ricardo Chéu,3031,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343359
+32,dom 02/03/2014,12:00,UD Oliveirense,Académico FC,?,Ricardo Chéu,412,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343361
+33,dom 09/03/2014,12:00,Académico FC,Sporting B,?,Ricardo Chéu,3430,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343363
+34,dom 16/03/2014,12:00,FC Porto B,Académico FC,?,Ricardo Chéu,477,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343362
+35,dom 23/03/2014,13:00,Académico FC,Beira-Mar,?,Ricardo Chéu,1593,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343346
+36,dom 30/03/2014,12:00,Atlético CP,Académico FC,4-3-3 ofensivo,Ricardo Chéu,459,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343347
+37,dom 06/04/2014,12:00,Académico FC,Trofense,4-5-1 plano,Ricardo Chéu,1127,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343348
+38,dom 13/04/2014,12:00,Penafiel,Académico FC,?,Ricardo Chéu,1289,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343351
+39,sáb 19/04/2014,12:00,Académico FC,Leixões,?,Ricardo Chéu,1329,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343352
+40,dom 27/04/2014,12:00,Portimonense,Académico FC,?,Ricardo Chéu,786,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343354
+41,dom 04/05/2014,12:00,Académico FC,Santa Clara,?,Ricardo Chéu,905,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343350
+42,sáb 10/05/2014,12:00,CD Aves,Académico FC,?,Ricardo Chéu,2875,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343353

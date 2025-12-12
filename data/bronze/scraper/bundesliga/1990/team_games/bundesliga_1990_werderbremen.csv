@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 11/08/1990,10:30,Wattenscheid 09,Werder Bremen,4-4-2 líbero losango,Otto Rehhagel,12000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15327
+2,sex 17/08/1990,15:00,Werder Bremen,M'gladbach,3-4-3 plano,Otto Rehhagel,19255,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15332
+3,sáb 25/08/1990,10:30,Colônia,Werder Bremen,3-4-3 plano,Otto Rehhagel,15000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15344
+4,sáb 01/09/1990,10:30,Werder Bremen,Hamburgo,3-4-3 plano,Otto Rehhagel,20441,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15351
+5,sáb 08/09/1990,10:30,Frankfurt,Werder Bremen,3-5-2,Otto Rehhagel,25000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15361
+6,sáb 15/09/1990,10:30,Werder Bremen,Dortmund,3-5-2,Otto Rehhagel,18660,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15371
+7,sáb 22/09/1990,10:30,Hertha Berlim,Werder Bremen,3-4-3 plano,Otto Rehhagel,17182,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15379
+8,sex 28/09/1990,15:00,Werder Bremen,Bayern,3-5-2,Otto Rehhagel,32875,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15386
+9,sáb 06/10/1990,11:30,Nuremberg,Werder Bremen,3-5-2,Otto Rehhagel,20500,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15397
+10,sáb 13/10/1990,11:30,Werder Bremen,Bayer 05,3-5-2,Otto Rehhagel,18426,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15406
+11,sex 19/10/1990,16:00,Leverkusen,Werder Bremen,3-4-2-1,Otto Rehhagel,14500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15412
+12,sex 26/10/1990,17:00,Werder Bremen,St. Pauli,3-5-2,Otto Rehhagel,23192,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15421
+13,sáb 10/11/1990,12:30,Stuttgart,Werder Bremen,3-5-2,Otto Rehhagel,24000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15433
+14,sáb 17/11/1990,12:30,Werder Bremen,Karlsruher,3-5-2,Otto Rehhagel,19000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15444
+15,sáb 24/11/1990,12:30,K'lautern,Werder Bremen,3-5-2,Otto Rehhagel,33704,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15448
+16,sáb 08/12/1990,12:30,Werder Bremen,Düsseldorf,3-5-2,Otto Rehhagel,17742,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15461
+17,sex 14/12/1990,17:00,Bochum,Werder Bremen,3-5-2,Otto Rehhagel,13500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15466
+18,ter 26/02/1991,16:00,Werder Bremen,Wattenscheid 09,3-5-2,Otto Rehhagel,18000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15480
+19,dom 03/03/1991,14:00,M'gladbach,Werder Bremen,3-5-2,Otto Rehhagel,26559,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15492
+20,sex 08/03/1991,16:00,Werder Bremen,Colônia,3-5-2,Otto Rehhagel,24128,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15493
+21,sex 15/03/1991,16:00,Hamburgo,Werder Bremen,4-4-2 líbero plano,Otto Rehhagel,43000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15503
+22,sex 22/03/1991,16:00,Werder Bremen,Frankfurt,3-5-2,Otto Rehhagel,23700,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15511
+23,ter 02/04/1991,15:00,Dortmund,Werder Bremen,3-5-2,Otto Rehhagel,42096,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15522
+24,sex 05/04/1991,15:00,Werder Bremen,Hertha Berlim,3-5-2,Otto Rehhagel,18000,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15529
+25,sáb 13/04/1991,10:30,Bayern,Werder Bremen,3-5-2,Otto Rehhagel,50000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15542
+26,qua 17/04/1991,15:00,Werder Bremen,Nuremberg,3-4-3 plano,Otto Rehhagel,16100,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15552
+27,sáb 20/04/1991,10:30,Bayer 05,Werder Bremen,3-5-2,Otto Rehhagel,9200,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15559
+28,sáb 04/05/1991,10:30,Werder Bremen,Leverkusen,3-5-2,Otto Rehhagel,14600,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15567
+29,sáb 11/05/1991,10:30,St. Pauli,Werder Bremen,3-5-2,Otto Rehhagel,19600,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15579
+30,sex 17/05/1991,15:00,Werder Bremen,Stuttgart,3-5-2,Otto Rehhagel,17023,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15584
+31,sáb 25/05/1991,10:30,Karlsruher,Werder Bremen,3-5-2,Otto Rehhagel,17000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15596
+32,sáb 01/06/1991,10:30,Werder Bremen,K'lautern,3-4-3 plano,Otto Rehhagel,31500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15604
+33,sáb 08/06/1991,10:30,Düsseldorf,Werder Bremen,3-5-2,Otto Rehhagel,8000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15612
+34,sáb 15/06/1991,10:30,Werder Bremen,Bochum,3-5-2,Otto Rehhagel,14492,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/15621

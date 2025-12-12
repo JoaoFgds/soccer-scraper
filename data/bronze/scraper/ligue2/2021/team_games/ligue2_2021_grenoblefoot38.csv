@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 24/07/2021,14:00,Grenoble,Paris FC,4-2-3-1,Maurizio Jacobacci,536,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589627
+2,seg 02/08/2021,15:45,Auxerre,Grenoble,4-2-3-1,Maurizio Jacobacci,4660,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589633
+3,sáb 07/08/2021,14:00,Grenoble,Guingamp,4-2-3-1,Maurizio Jacobacci,309,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589709
+4,sáb 14/08/2021,14:00,Chamois Niort,Grenoble,4-4-2,Maurizio Jacobacci,1329,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589717
+5,sáb 21/08/2021,14:00,Grenoble,Quevilly Rouen,4-4-2,Maurizio Jacobacci,3630,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589729
+6,sáb 28/08/2021,14:00,FC Sochaux,Grenoble,4-4-2 duplo 6,Maurizio Jacobacci,7367,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589909
+7,sáb 11/09/2021,14:00,Grenoble,Nîmes Olympique,4-2-3-1,Maurizio Jacobacci,5274,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589917
+8,sáb 18/09/2021,10:00,Toulouse,Grenoble,5-3-2,Maurizio Jacobacci,8969,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589930
+9,ter 21/09/2021,15:00,Grenoble,AS Nancy,4-2-3-1,Maurizio Jacobacci,3845,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589937
+10,sex 24/09/2021,16:00,Rodez AF,Grenoble,4-2-3-1,Maurizio Jacobacci,1285,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589950
+11,sáb 02/10/2021,14:00,Grenoble,Pau FC,3-5-2,Maurizio Jacobacci,4427,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589964
+12,sáb 16/10/2021,14:00,SC Bastia,Grenoble,3-4-2-1,Maurizio Jacobacci,8303,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589969
+13,sáb 23/10/2021,14:00,Grenoble,Dijon,3-4-2-1,Maurizio Jacobacci,5714,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589985
+14,sáb 30/10/2021,14:00,SM Caen,Grenoble,3-4-2-1,Maurizio Jacobacci,8651,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589992
+15,sáb 06/11/2021,15:00,Grenoble,USL Dunkerque,3-4-2-1,Maurizio Jacobacci,4171,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590004
+16,sáb 20/11/2021,15:00,Valenciennes,Grenoble,3-4-2-1,Maurizio Jacobacci,4927,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590020
+17,sex 03/12/2021,17:00,Grenoble,Le Havre,3-4-2-1,Maurizio Jacobacci,4085,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590024
+18,sáb 11/12/2021,15:00,Amiens SC,Grenoble,3-1-4-2,Maurizio Jacobacci,7853,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590031
+19,ter 21/12/2021,16:45,AC Ajaccio,Grenoble,4-4-2 duplo 6,Frédéric Gueguen,3472,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590041
+20,sáb 08/01/2022,15:00,Grenoble,Auxerre,4-2-3-1,Vincent Hognon,3881,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590056
+21,sáb 15/01/2022,15:00,Guingamp,Grenoble,4-2-3-1,Vincent Hognon,2699,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590118
+22,ter 15/02/2022,15:00,Grenoble,Chamois Niort,4-3-3 ofensivo,Vincent Hognon,3025,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590140
+23,sáb 05/02/2022,15:00,Quevilly Rouen,Grenoble,4-3-3 ofensivo,Vincent Hognon,2400,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590161
+24,sáb 12/02/2022,15:00,Grenoble,FC Sochaux,4-3-3 ofensivo,Vincent Hognon,4001,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590171
+25,sáb 19/02/2022,15:00,Nîmes Olympique,Grenoble,4-3-3 ofensivo,Vincent Hognon,1492,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590178
+26,seg 28/02/2022,16:45,Grenoble,Toulouse,4-3-3 ofensivo,Vincent Hognon,4501,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590190
+27,sáb 05/03/2022,15:00,AS Nancy,Grenoble,3-5-2,Vincent Hognon,7000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590197
+28,sáb 12/03/2022,15:00,Grenoble,Rodez AF,3-4-1-2,Vincent Hognon,3889,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590210
+29,ter 15/03/2022,15:00,Pau FC,Grenoble,4-3-3 ofensivo,Vincent Hognon,2581,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590220
+30,sáb 19/03/2022,15:00,Grenoble,SC Bastia,4-1-4-1,Vincent Hognon,4231,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590229
+31,sáb 02/04/2022,14:00,Dijon,Grenoble,3-1-4-2,Vincent Hognon,4500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590237
+32,sáb 09/04/2022,14:00,Grenoble,SM Caen,3-4-1-2,Vincent Hognon,3937,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590248
+33,sáb 16/04/2022,14:00,USL Dunkerque,Grenoble,3-4-1-2,Vincent Hognon,2300,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590258
+34,ter 19/04/2022,15:00,Grenoble,Valenciennes,5-4-1 plano,Vincent Hognon,4312,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590268
+35,sex 22/04/2022,16:00,Le Havre,Grenoble,3-4-3 plano,Vincent Hognon,4830,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590279
+36,sáb 30/04/2022,14:00,Grenoble,Amiens SC,3-4-3 plano,Vincent Hognon,4716,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590287
+37,sáb 07/05/2022,14:00,Grenoble,AC Ajaccio,4-4-2,Vincent Hognon,5673,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590300
+38,sáb 14/05/2022,14:00,Paris FC,Grenoble,4-1-4-1,Vincent Hognon,6592,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590311

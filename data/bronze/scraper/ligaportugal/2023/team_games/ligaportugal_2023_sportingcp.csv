@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/08/2023,16:30,Sporting,Vizela,3-4-3 plano,Rúben Amorim,37152,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109299
+2,sex 18/08/2023,16:15,Casa Pia,Sporting,3-4-3 plano,Rúben Amorim,6981,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109293
+3,dom 27/08/2023,16:30,Sporting,Famalicão,3-4-3 plano,Rúben Amorim,40287,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109315
+4,dom 03/09/2023,16:30,Braga,Sporting,3-4-3 plano,Rúben Amorim,22781,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109309
+5,dom 17/09/2023,16:30,Sporting,Moreirense,3-4-3 plano,Rúben Amorim,36815,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109350
+6,seg 25/09/2023,16:15,Sporting,Rio Ave,3-4-3 plano,Rúben Amorim,34355,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109322
+7,sáb 30/09/2023,16:30,Farense,Sporting,3-4-3 plano,Rúben Amorim,6020,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109335
+8,dom 08/10/2023,16:30,Sporting,Arouca,3-4-3 plano,Rúben Amorim,36688,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109359
+9,seg 30/10/2023,17:15,Boavista,Sporting,3-4-3 plano,Rúben Amorim,12608,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109435
+10,dom 05/11/2023,17:30,Sporting,Estrela Amadora,3-4-3 plano,Rúben Amorim,38408,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109342
+11,dom 12/11/2023,17:30,Benfica,Sporting,3-4-3 plano,Rúben Amorim,62166,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109391
+12,seg 04/12/2023,17:15,Sporting,Gil Vicente,3-4-3 plano,Rúben Amorim,33712,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109377
+13,sáb 09/12/2023,15:00,Vit. Guimarães,Sporting,3-4-3 plano,Rúben Amorim,20357,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109374
+14,seg 18/12/2023,17:15,Sporting,FC Porto,3-4-2-1,Rúben Amorim,44385,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109493
+15,sáb 30/12/2023,17:30,Portimonense,Sporting,3-4-3 plano,Rúben Amorim,4574,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109416
+16,sex 05/01/2024,15:45,Sporting,Estoril,3-4-3 plano,Rúben Amorim,37483,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109476
+17,sáb 13/01/2024,15:00,Chaves,Sporting,3-1-4-2,Rúben Amorim,5690,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109426
+18,qui 18/01/2024,17:45,Vizela,Sporting,3-4-3 plano,Rúben Amorim,4386,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109409
+19,seg 29/01/2024,17:45,Sporting,Casa Pia,3-4-3 plano,Rúben Amorim,32869,8:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109527
+20,ter 16/04/2024,16:15,Famalicão,Sporting,3-4-3 plano,Rúben Amorim,4944,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109395
+21,dom 11/02/2024,15:00,Sporting,Braga,3-4-3 plano,Rúben Amorim,39851,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109453
+22,seg 19/02/2024,17:15,Moreirense,Sporting,3-4-3 plano,Rúben Amorim,5163,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109512
+23,dom 25/02/2024,17:30,Rio Ave,Sporting,3-4-3 plano,Rúben Amorim,4406,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109484
+24,dom 03/03/2024,15:00,Sporting,Farense,3-4-3 plano,Rúben Amorim,39063,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109506
+25,dom 10/03/2024,15:00,Arouca,Sporting,3-4-3 plano,Rúben Amorim,4061,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109467
+26,dom 17/03/2024,17:30,Sporting,Boavista,3-4-3 plano,Rúben Amorim,38260,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109442
+27,sex 29/03/2024,17:30,Estrela Amadora,Sporting,3-4-3 plano,Rúben Amorim,6764,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109458
+28,sáb 06/04/2024,16:30,Sporting,Benfica,3-4-3 plano,Rúben Amorim,48113,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109560
+29,sex 12/04/2024,16:15,Gil Vicente,Sporting,3-4-3 plano,Rúben Amorim,11121,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109538
+30,dom 21/04/2024,16:30,Sporting,Vit. Guimarães,3-4-3 plano,Rúben Amorim,46101,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109554
+31,dom 28/04/2024,16:30,FC Porto,Sporting,3-4-3 plano,Rúben Amorim,45230,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109528
+32,sáb 04/05/2024,14:00,Sporting,Portimonense,3-4-3 plano,Rúben Amorim,49557,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109578
+33,sáb 11/05/2024,14:00,Estoril,Sporting,3-4-3 plano,Rúben Amorim,5018,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109565
+34,sáb 18/05/2024,14:00,Sporting,Chaves,3-4-3 plano,Rúben Amorim,48628,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109588

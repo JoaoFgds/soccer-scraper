@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/08/2006,10:30,Mainz,Bochum,4-4-2 duplo 6,Marcel Koller,20300,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53498
+2,dom 20/08/2006,12:00,Bochum,Bayern,4-4-1-1,Marcel Koller,31328,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53509
+3,sáb 26/08/2006,10:30,Bochum,Energ. Cottbus,4-4-2 duplo 6,Marcel Koller,21266,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53516
+4,sáb 16/09/2006,10:30,Nuremberg,Bochum,4-4-2 losango,Marcel Koller,40240,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53522
+5,dom 24/09/2006,12:00,Bochum,Arm. Bielefeld,4-4-2 losango,Marcel Koller,20318,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53535
+6,sáb 30/09/2006,10:30,Alem. Aachen,Bochum,4-4-2 losango,Marcel Koller,20300,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53545
+7,sáb 14/10/2006,10:30,Bochum,Werder Bremen,4-4-2 losango,Marcel Koller,31328,0:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53553
+8,sex 20/10/2006,15:30,Dortmund,Bochum,4-4-2 losango,Marcel Koller,75100,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53559
+9,sáb 28/10/2006,10:30,Bochum,Wolfsburg,4-4-2 losango,Marcel Koller,18650,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53571
+10,sex 03/11/2006,16:30,Hannover,Bochum,4-4-2 duplo 6,Marcel Koller,30000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53578
+11,qua 08/11/2006,17:00,Bochum,Leverkusen,4-4-2 duplo 6,Marcel Koller,18469,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53589
+12,sáb 11/11/2006,12:30,Hertha Berlim,Bochum,4-4-1-1,Marcel Koller,29104,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53595
+13,sex 17/11/2006,17:30,Bochum,Frankfurt,4-2-3-1,Marcel Koller,21260,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53606
+14,sex 24/11/2006,17:30,Schalke,Bochum,4-4-1-1,Marcel Koller,61482,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53611
+15,sáb 02/12/2006,12:30,Bochum,Hamburgo,4-4-1-1,Marcel Koller,25715,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53624
+16,sáb 09/12/2006,12:30,Stuttgart,Bochum,4-4-1-1,Marcel Koller,48000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53631
+17,sex 15/12/2006,17:30,Bochum,M'gladbach,4-4-1-1,Marcel Koller,30500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53642
+18,sáb 27/01/2007,12:30,Bochum,Mainz,4-2-3-1,Marcel Koller,20487,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53651
+19,ter 30/01/2007,17:00,Bayern,Bochum,4-2-3-1,Marcel Koller,64000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53660
+20,sáb 03/02/2007,12:30,Energ. Cottbus,Bochum,4-2-3-1,Marcel Koller,12000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53671
+21,dom 11/02/2007,14:00,Bochum,Nuremberg,4-2-3-1,Marcel Koller,18110,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53675
+22,dom 18/02/2007,14:00,Arm. Bielefeld,Bochum,4-4-2 losango,Marcel Koller,21025,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53688
+23,sáb 24/02/2007,12:30,Bochum,Alem. Aachen,4-2-3-1,Marcel Koller,21000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53698
+24,sáb 03/03/2007,11:30,Werder Bremen,Bochum,4-2-3-1,Marcel Koller,42100,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53706
+25,sáb 10/03/2007,11:30,Bochum,Dortmund,4-4-2 duplo 6,Marcel Koller,31278,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53712
+26,sáb 17/03/2007,11:30,Wolfsburg,Bochum,4-1-3-2,Marcel Koller,15743,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53724
+27,dom 01/04/2007,12:00,Bochum,Hannover,4-4-2 duplo 6,Marcel Koller,24177,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53731
+28,dom 08/04/2007,12:00,Leverkusen,Bochum,4-4-1-1,Marcel Koller,22500,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53742
+29,sáb 14/04/2007,10:30,Bochum,Hertha Berlim,4-4-1-1,Marcel Koller,27181,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53748
+30,sáb 21/04/2007,10:30,Frankfurt,Bochum,4-4-2 duplo 6,Marcel Koller,47962,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53759
+31,sex 27/04/2007,15:30,Bochum,Schalke,4-4-2 duplo 6,Marcel Koller,31328,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53764
+32,sáb 05/05/2007,10:30,Hamburgo,Bochum,4-4-2 duplo 6,Marcel Koller,57000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53777
+33,sáb 12/05/2007,10:30,Bochum,Stuttgart,4-4-2 duplo 6,Marcel Koller,31328,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53784
+34,sáb 19/05/2007,10:30,M'gladbach,Bochum,4-4-2 duplo 6,Marcel Koller,50001,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/53795

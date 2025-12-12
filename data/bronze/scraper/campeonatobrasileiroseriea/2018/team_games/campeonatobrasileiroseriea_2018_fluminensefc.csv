@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 15/04/2018,16:00,Corinthians,Fluminense,3-5-2,Abel Braga,28777,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3011400
+2,dom 22/04/2018,16:00,Fluminense,Cruzeiro,3-5-2,Abel Braga,10018,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3034137
+3,dom 29/04/2018,16:00,Fluminense,São Paulo,3-5-2,Abel Braga,19235,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3034147
+4,dom 06/05/2018,16:00,Vitória,Fluminense,3-5-2,Abel Braga,7030,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036821
+5,seg 14/05/2018,20:00,Botafogo,Fluminense,3-5-2,Abel Braga,10382,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036832
+6,dom 20/05/2018,19:00,Fluminense,Atlético-PR,3-5-2,Abel Braga,9172,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036843
+7,sáb 26/05/2018,16:00,Fluminense,Chapecoense,3-5-2,Abel Braga,14541,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036854
+8,qua 30/05/2018,21:45,Grêmio,Fluminense,5-3-2,Abel Braga,20044,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036861
+9,seg 04/06/2018,20:00,Paraná,Fluminense,3-5-2,Abel Braga,4353,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036874
+10,qui 07/06/2018,20:00,Fluminense,Flamengo,5-3-2,Abel Braga,60000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036883
+11,dom 10/06/2018,16:00,Atlético-MG,Fluminense,5-3-2,Abel Braga,14476,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036885
+12,qua 13/06/2018,19:00,Fluminense,Santos,5-3-2,Abel Braga,7438,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036899
+13,qui 19/07/2018,20:00,Vasco da Gama,Fluminense,4-3-1-2,Marcelo Oliveira,11901,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036909
+14,dom 22/07/2018,16:00,Sport,Fluminense,4-3-1-2,Marcelo Oliveira,11119,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036922
+15,qua 25/07/2018,19:30,Fluminense,Palmeiras,4-2-3-1,Marcelo Oliveira,22827,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036929
+16,sáb 28/07/2018,16:00,Ceará,Fluminense,4-3-1-2,Marcelo Oliveira,11322,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036941
+17,dom 05/08/2018,19:00,Fluminense,Bahia,4-2-3-1,Marcelo Oliveira,15461,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036949
+18,seg 13/08/2018,20:00,Fluminense,Internacional,4-2-3-1,Marcelo Oliveira,13735,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036959
+19,dom 19/08/2018,19:00,América-MG,Fluminense,5-3-2,Marcelo Oliveira,4851,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036967
+20,qua 22/08/2018,21:45,Fluminense,Corinthians,4-3-2-1,Marcelo Oliveira,7856,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036979
+21,sáb 25/08/2018,21:00,Cruzeiro,Fluminense,4-3-1-2,Marcelo Oliveira,11453,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036985
+22,dom 02/09/2018,16:00,São Paulo,Fluminense,4-3-1-2,Marcelo Oliveira,49348,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037001
+23,qui 06/09/2018,19:00,Fluminense,Vitória,4-2-3-1,Marcelo Oliveira,8952,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037009
+24,dom 09/09/2018,16:00,Fluminense,Botafogo,4-3-1-2,Marcelo Oliveira,10969,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037019
+25,dom 16/09/2018,16:00,Atlético-PR,Fluminense,4-3-1-2,Marcelo Oliveira,10343,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037026
+26,seg 24/09/2018,20:00,Chapecoense,Fluminense,5-3-2,Marcelo Oliveira,5170,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037037
+27,sáb 29/09/2018,16:00,Fluminense,Grêmio,3-4-2-1,Marcelo Oliveira,8721,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037049
+28,seg 08/10/2018,20:00,Fluminense,Paraná,5-3-2,Marcelo Oliveira,6715,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037059
+29,sáb 13/10/2018,17:00,Flamengo,Fluminense,5-3-2,Marcelo Oliveira,52924,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037070
+30,dom 21/10/2018,16:00,Fluminense,Atlético-MG,5-3-2,Marcelo Oliveira,4762,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037079
+31,sáb 27/10/2018,16:30,Santos,Fluminense,4-3-3 defensivo,Marcelo Oliveira,8680,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037092
+32,sáb 03/11/2018,17:00,Fluminense,Vasco da Gama,5-3-2,Marcelo Oliveira,14275,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037099
+33,dom 11/11/2018,19:00,Fluminense,Sport,4-3-3 defensivo,Marcelo Oliveira,12256,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037109
+34,qua 14/11/2018,21:45,Palmeiras,Fluminense,4-3-3 defensivo,Marcelo Oliveira,37430,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037123
+35,seg 19/11/2018,20:00,Fluminense,Ceará,4-3-3 defensivo,Marcelo Oliveira,6435,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037129
+36,qui 22/11/2018,21:00,Bahia,Fluminense,3-5-2,Marcelo Oliveira,16437,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037138
+37,dom 25/11/2018,19:00,Internacional,Fluminense,4-3-3 defensivo,Marcelo Oliveira,31395,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037154
+38,dom 02/12/2018,17:00,Fluminense,América-MG,4-3-3 defensivo,Fábio Moreno,34870,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037159

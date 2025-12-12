@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 20/04/2024,17:00,Amazonas,Sport,4-4-2,Mariano Soso,6497,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315907
+2,sex 26/04/2024,19:00,Sport,Vila Nova,4-4-2,Mariano Soso,14282,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315808
+3,sex 03/05/2024,21:30,Coritiba,Sport,4-4-2,Mariano Soso,17974,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315866
+4,sáb 11/05/2024,17:00,Sport,Brusque,4-1-4-1,Mariano Soso,25705,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315848
+5,qua 15/05/2024,19:00,Ituano,Sport,4-2-3-1,Mariano Soso,1970,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315882
+6,sáb 18/05/2024,21:00,Sport,Avaí,4-2-3-1,Mariano Soso,13447,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315828
+7,qua 11/09/2024,21:30,CRB,Sport,4-4-2,Pepa,6564,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315815
+8,sex 31/05/2024,21:30,Goiás,Sport,4-2-3-1,Mariano Soso,7115,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315889
+9,seg 10/06/2024,21:30,Sport,Paysandu,4-2-3-1,Mariano Soso,11707,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315918
+10,dom 16/06/2024,18:30,Sport,Mirassol,4-2-3-1,Mariano Soso,14183,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315968
+11,qui 20/06/2024,21:30,Ceará,Sport,4-2-3-1,Mariano Soso,12391,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315838
+12,seg 24/06/2024,19:00,Sport,Novorizontino,4-2-3-1,Mariano Soso,12438,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315938
+13,sáb 29/06/2024,17:00,Botafogo-SP,Sport,4-2-3-1,Mariano Soso,4383,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316001
+14,dom 07/07/2024,18:30,Guarani,Sport,4-2-3-1,Mariano Soso,4286,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315920
+15,sáb 13/07/2024,17:00,Sport,América-MG,4-2-3-1,Mariano Soso,16916,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315998
+16,qua 16/10/2024,21:30,Sport,Operário-PR,4-1-3-2,Pepa,26345,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4400658
+17,ter 23/07/2024,19:00,Chapecoense,Sport,4-2-3-1,César Lucena,4565,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316124
+18,sáb 27/07/2024,18:00,Sport,Ponte Preta,4-2-3-1,César Lucena,14037,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316048
+19,sex 02/08/2024,21:30,Santos,Sport,4-4-2,Guto Ferreira,13629,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316133
+20,sáb 10/08/2024,17:00,Sport,Amazonas,4-4-2,Guto Ferreira,20283,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316148
+21,sex 16/08/2024,21:00,Vila Nova,Sport,4-4-2,Guto Ferreira,5191,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315939
+22,qui 22/08/2024,21:00,Sport,Coritiba,4-4-2 duplo 6,Guto Ferreira,11603,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315858
+23,ter 27/08/2024,21:00,Brusque,Sport,4-4-2 duplo 6,Guto Ferreira,158,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316025
+24,seg 02/09/2024,19:30,Sport,Ituano,4-4-2,César Lucena,8870,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316068
+25,sáb 07/09/2024,19:00,Avaí,Sport,4-4-2,Pepa,9584,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316054
+26,dom 15/09/2024,18:30,Sport,CRB,4-4-2,Pepa,16386,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316088
+27,qua 18/09/2024,19:00,Sport,Goiás,4-4-1-1,Pepa,14432,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316118
+28,seg 23/09/2024,18:30,Paysandu,Sport,4-4-2,Pepa,8118,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316107
+29,dom 29/09/2024,18:30,Mirassol,Sport,4-4-2,Pepa,7417,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316031
+30,seg 07/10/2024,21:00,Sport,Ceará,4-4-2,Pepa,26345,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315958
+31,sex 11/10/2024,18:30,Novorizontino,Sport,4-4-2,Pepa,3106,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315982
+32,dom 20/10/2024,19:30,Sport,Botafogo-SP,4-4-2,Pepa,26345,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315978
+33,qui 24/10/2024,21:30,Sport,Guarani,4-4-2,Pepa,24846,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316078
+34,seg 28/10/2024,21:00,América-MG,Sport,4-4-2,Pepa,1889,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316163
+35,seg 04/11/2024,18:30,Operário-PR,Sport,4-4-2,Pepa,3844,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4315876
+36,dom 10/11/2024,18:30,Sport,Chapecoense,4-4-2,Pepa,25291,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316178
+37,sáb 16/11/2024,21:30,Ponte Preta,Sport,4-4-2,Pepa,4767,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316150
+38,dom 24/11/2024,18:30,Sport,Santos,4-4-2,Pepa,24389,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4316018

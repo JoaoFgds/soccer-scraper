@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 09/08/2008,17:00,FC Sochaux,Grenoble,4-4-2 duplo 6,Francis Gillot,14998,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912746
+2,sáb 16/08/2008,15:00,Saint-Étienne,FC Sochaux,4-4-2 losango,Francis Gillot,30895,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912756
+3,sáb 23/08/2008,15:00,FC Sochaux,PSG,4-4-2 duplo 6,Francis Gillot,16791,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912766
+4,sáb 30/08/2008,17:00,Marselha,FC Sochaux,4-5-1,Francis Gillot,55074,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912772
+5,dom 14/09/2008,13:00,FC Sochaux,Lille,4-4-2 duplo 6,Francis Gillot,12816,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912786
+6,sáb 20/09/2008,15:00,Toulouse,FC Sochaux,4-5-1,Francis Gillot,13815,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912797
+7,sáb 27/09/2008,15:00,FC Sochaux,FC Lorient,4-5-1,Francis Gillot,12296,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912806
+8,sáb 04/10/2008,15:00,Nice,FC Sochaux,4-4-2 duplo 6,Francis Gillot,9957,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912814
+9,sáb 18/10/2008,15:00,FC Sochaux,Le Havre,4-4-2,Francis Gillot,18730,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912826
+10,dom 26/10/2008,16:00,AS Nancy,FC Sochaux,4-5-1,Francis Gillot,17016,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912833
+11,qua 29/10/2008,18:00,FC Sochaux,Lyon,4-5-1,Francis Gillot,17482,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912846
+12,dom 02/11/2008,16:00,Rennes,FC Sochaux,4-3-3 defensivo,Francis Gillot,21856,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912856
+13,sáb 08/11/2008,18:00,FC Sochaux,Le Mans UC 72,4-4-2 duplo 6,Francis Gillot,10714,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912866
+14,sáb 15/11/2008,14:00,Auxerre,FC Sochaux,4-5-1,Francis Gillot,10522,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912868
+15,sáb 22/11/2008,16:00,Valenciennes,FC Sochaux,4-2-3-1,Francis Gillot,11956,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912887
+16,sáb 29/11/2008,18:00,FC Sochaux,Bordeaux,4-5-1,Francis Gillot,13843,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912896
+17,dom 07/12/2008,14:00,Monaco,FC Sochaux,4-4-2 duplo 6,Francis Gillot,6585,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912904
+18,sáb 13/12/2008,16:00,FC Sochaux,SM Caen,4-5-1,Francis Gillot,11215,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912915
+19,sáb 20/12/2008,16:00,Nantes,FC Sochaux,4-4-2 duplo 6,Francis Gillot,23416,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912924
+20,sáb 10/01/2009,18:00,FC Sochaux,Saint-Étienne,4-3-3 defensivo,Francis Gillot,12075,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912936
+21,dom 18/01/2009,14:00,PSG,FC Sochaux,4-4-2 duplo 6,Francis Gillot,34915,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912945
+22,dom 01/02/2009,14:00,FC Sochaux,Marselha,4-4-2 duplo 6,Francis Gillot,19972,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912956
+23,sáb 07/02/2009,18:00,Lille,FC Sochaux,4-4-2 duplo 6,Francis Gillot,13477,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912960
+24,dom 15/02/2009,13:00,FC Sochaux,Toulouse,4-4-2 duplo 6,Francis Gillot,12481,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912974
+25,sáb 21/02/2009,15:00,FC Lorient,FC Sochaux,4-4-2 duplo 6,Francis Gillot,11588,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912981
+26,sáb 28/02/2009,15:00,FC Sochaux,Nice,4-4-2 duplo 6,Francis Gillot,13202,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912996
+27,dom 08/03/2009,13:00,Le Havre,FC Sochaux,4-4-2 duplo 6,Francis Gillot,12123,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/912999
+28,sáb 14/03/2009,15:00,FC Sochaux,AS Nancy,4-4-2 duplo 6,Francis Gillot,13092,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913016
+29,dom 22/03/2009,13:00,Lyon,FC Sochaux,4-4-2 duplo 6,Francis Gillot,37334,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913022
+30,dom 05/04/2009,12:00,FC Sochaux,Rennes,4-4-2 duplo 6,Francis Gillot,13654,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913036
+31,sáb 11/04/2009,14:00,Le Mans UC 72,FC Sochaux,4-4-2 duplo 6,Francis Gillot,12131,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913040
+32,sáb 18/04/2009,14:00,FC Sochaux,Auxerre,4-4-2 duplo 6,Francis Gillot,14271,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913056
+33,dom 26/04/2009,12:00,FC Sochaux,Valenciennes,4-4-2 duplo 6,Francis Gillot,14691,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913066
+34,dom 03/05/2009,16:00,Bordeaux,FC Sochaux,4-4-2 duplo 6,Francis Gillot,27133,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913068
+35,qua 13/05/2009,14:00,FC Sochaux,Monaco,4-4-2 duplo 6,Francis Gillot,16879,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913085
+36,sáb 16/05/2009,14:00,SM Caen,FC Sochaux,4-4-2 duplo 6,Francis Gillot,18927,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913089
+37,sáb 23/05/2009,16:00,FC Sochaux,Nantes,4-4-2 duplo 6,Francis Gillot,19313,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913106
+38,sáb 30/05/2009,16:00,Grenoble,FC Sochaux,4-4-2 duplo 6,Francis Gillot,17334,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913109

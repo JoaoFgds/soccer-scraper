@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 04/08/2014,15:15,K'lautern,1860 Munique,4-3-3 ofensivo,Ricardo Moniz,41092,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2460934
+2,dom 10/08/2014,10:30,1860 Munique,Leipzig,4-3-3 ofensivo,Ricardo Moniz,32000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2460943
+3,sex 22/08/2014,13:30,Heidenheim,1860 Munique,3-5-2,Ricardo Moniz,13000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2460958
+4,dom 31/08/2014,08:30,1860 Munique,Darmstadt 98,4-3-3 ofensivo,Ricardo Moniz,19300,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2460964
+5,dom 14/09/2014,08:30,St. Pauli,1860 Munique,4-3-3 ofensivo,Ricardo Moniz,27892,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2460972
+6,sáb 20/09/2014,08:00,1860 Munique,Ingolstadt,4-3-3 ofensivo,Ricardo Moniz,21800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2460983
+7,ter 23/09/2014,12:30,Sandhausen,1860 Munique,4-4-2 duplo 6,Ricardo Moniz,5083,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2460992
+8,sex 26/09/2014,13:30,1860 Munique,Greuther Fürth,4-3-3 ofensivo,Markus von Ahlen,18300,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461001
+9,sex 03/10/2014,13:30,VfR Aalen,1860 Munique,4-3-3 ofensivo,Markus von Ahlen,9226,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461010
+10,dom 19/10/2014,09:30,Erzgebirge Aue,1860 Munique,4-3-3 ofensivo,Markus von Ahlen,10000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461021
+11,dom 26/10/2014,10:30,1860 Munique,E. Braunschweig,4-2-3-1,Markus von Ahlen,20300,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461026
+12,dom 02/11/2014,10:30,Bochum,1860 Munique,4-3-3 defensivo,Markus von Ahlen,15607,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461039
+13,seg 10/11/2014,17:15,1860 Munique,Düsseldorf,4-2-3-1,Markus von Ahlen,19300,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461044
+14,sáb 22/11/2014,10:00,Union Berlim,1860 Munique,4-2-3-1,Markus von Ahlen,19026,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461055
+15,dom 30/11/2014,10:30,1860 Munique,FSV Frankfurt,4-1-4-1,Markus von Ahlen,13800,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461062
+16,seg 08/12/2014,17:15,Nuremberg,1860 Munique,4-2-3-1,Markus von Ahlen,31079,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461069
+17,sáb 13/12/2014,10:00,1860 Munique,Karlsruher,4-2-3-1,Markus von Ahlen,16400,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461080
+18,qua 17/12/2014,14:30,1860 Munique,K'lautern,4-2-3-1,Markus von Ahlen,13800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461089
+19,seg 22/12/2014,17:15,Leipzig,1860 Munique,4-3-3 defensivo,Markus von Ahlen,27370,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461103
+20,seg 09/02/2015,17:15,1860 Munique,Heidenheim,4-3-3 defensivo,Markus von Ahlen,15100,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461107
+21,dom 15/02/2015,10:30,Darmstadt 98,1860 Munique,4-4-1-1,Markus von Ahlen,15600,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461121
+22,sáb 21/02/2015,10:00,1860 Munique,St. Pauli,4-2-3-1,Torsten Fröhling,25100,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461126
+23,seg 02/03/2015,16:15,Ingolstadt,1860 Munique,4-2-3-1,Torsten Fröhling,15000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461134
+24,dom 08/03/2015,09:30,1860 Munique,Sandhausen,4-2-3-1,Torsten Fröhling,17100,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461144
+25,sex 13/03/2015,14:30,Greuther Fürth,1860 Munique,4-4-2 duplo 6,Torsten Fröhling,13370,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461149
+26,sex 20/03/2015,14:30,1860 Munique,VfR Aalen,4-2-3-1,Torsten Fröhling,16700,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461162
+27,dom 05/04/2015,08:30,1860 Munique,Erzgebirge Aue,4-2-3-1,Torsten Fröhling,20300,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461169
+28,sáb 11/04/2015,08:00,E. Braunschweig,1860 Munique,4-2-3-1,Torsten Fröhling,22050,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461177
+29,sáb 18/04/2015,08:00,1860 Munique,Bochum,4-2-3-1,Torsten Fröhling,16000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461187
+30,sáb 25/04/2015,08:00,Düsseldorf,1860 Munique,4-3-3 defensivo,Torsten Fröhling,25461,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461197
+31,dom 03/05/2015,08:30,1860 Munique,Union Berlim,4-2-3-1,Torsten Fröhling,18800,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461205
+32,sex 08/05/2015,13:30,FSV Frankfurt,1860 Munique,4-4-2 losango,Torsten Fröhling,6679,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461217
+33,dom 17/05/2015,10:30,1860 Munique,Nuremberg,4-2-3-1,Torsten Fröhling,68500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461223
+34,dom 24/05/2015,10:30,Karlsruher,1860 Munique,4-2-3-1,Torsten Fröhling,27771,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2461232

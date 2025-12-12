@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 09/08/2021,14:00,Benfica B,Nacional,4-3-3 ofensivo,Costinha,214,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621655
+2,dom 15/08/2021,11:30,Nacional,Vilafranquense,4-3-3 ofensivo,Costinha,381,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621663
+3,dom 22/08/2021,11:30,FC Porto B,Nacional,4-3-3 ofensivo,Costinha,331,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621695
+4,sáb 28/08/2021,11:30,Nacional,Varzim,4-3-3 ofensivo,Costinha,398,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621682
+5,dom 12/09/2021,07:00,Penafiel,Nacional,4-3-3 ofensivo,Costinha,342,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621672
+6,dom 19/09/2021,07:00,Nacional,Casa Pia,4-3-3 ofensivo,Costinha,496,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621700
+7,seg 04/10/2021,16:15,Trofense,Nacional,4-3-3 ofensivo,Rui Borges,746,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621723
+8,dom 10/10/2021,10:00,Covilhã,Nacional,4-3-3 ofensivo,Rui Borges,231,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621731
+9,dom 24/10/2021,10:00,Nacional,Mafra,4-3-3 ofensivo,Rui Borges,511,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621707
+10,seg 01/11/2021,13:30,Académica,Nacional,4-3-3 ofensivo,Rui Borges,1471,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621781
+11,seg 08/11/2021,15:00,Nacional,Chaves,?,Rui Borges,378,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621734
+12,dom 28/11/2021,11:00,Rio Ave,Nacional,4-3-3 ofensivo,Rui Borges,803,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621788
+13,sáb 04/12/2021,11:00,Nacional,Estrela Amadora,?,Rui Borges,389,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621752
+14,dom 12/12/2021,08:00,Farense,Nacional,?,Rui Borges,2149,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621771
+15,sáb 18/12/2021,12:30,Nacional,Leixões,?,Rui Borges,612,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621761
+16,qua 29/12/2021,12:30,Académico FC,Nacional,?,Rui Borges,71,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621747
+17,seg 10/01/2022,15:00,Nacional,Feirense,4-3-3 ofensivo,Rui Borges,532,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621816
+18,dom 16/01/2022,08:00,Nacional,Benfica B,4-3-3 ofensivo,Rui Borges,1218,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621799
+19,sáb 22/01/2022,08:00,Vilafranquense,Nacional,?,Rui Borges,237,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621807
+20,dom 30/01/2022,08:00,Nacional,FC Porto B,4-2-3-1,Rui Borges,1070,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621944
+21,ter 08/02/2022,12:30,Varzim,Nacional,4-2-3-1,Rui Borges,1538,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621835
+22,dom 13/02/2022,08:00,Nacional,Penafiel,4-2-3-1,Rui Borges,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621913
+23,sáb 19/02/2022,11:00,Casa Pia,Nacional,?,Rui Borges,389,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621826
+24,dom 27/02/2022,08:00,Nacional,Trofense,?,Rui Borges,672,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621940
+25,sáb 05/03/2022,11:00,Nacional,Covilhã,?,Rui Borges,810,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621904
+26,dom 13/03/2022,11:00,Mafra,Nacional,4-2-3-1,Rui Borges,559,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621851
+27,dom 20/03/2022,08:00,Nacional,Académica,4-2-3-1,Rui Borges,722,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621844
+28,dom 03/04/2022,10:00,Chaves,Nacional,4-2-3-1,Rui Borges,1405,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621867
+29,dom 10/04/2022,10:00,Nacional,Rio Ave,4-3-3 ofensivo,Rui Borges,729,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621865
+30,sáb 16/04/2022,13:00,Estrela Amadora,Nacional,?,Rui Borges,4332,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621864
+31,dom 24/04/2022,11:30,Nacional,Farense,?,Rui Borges,835,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621871
+32,sáb 30/04/2022,11:30,Leixões,Nacional,?,Rui Borges,1558,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621898
+33,sáb 07/05/2022,11:30,Nacional,Académico FC,?,Rui Borges,876,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621893
+34,dom 15/05/2022,11:00,Feirense,Nacional,?,Rui Borges,539,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621868

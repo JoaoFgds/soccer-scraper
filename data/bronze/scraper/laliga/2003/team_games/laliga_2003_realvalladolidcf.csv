@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 30/08/2003,16:30,Valencia,Valladolid,?,Fernando Vázquez,45000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/500
+2,qua 03/09/2003,14:30,Valladolid,Málaga CF,?,Fernando Vázquez,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/706
+3,sáb 13/09/2003,14:30,Real Madrid,Valladolid,4-2-3-1,Fernando Vázquez,64725,7:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/898
+4,dom 21/09/2003,12:00,Valladolid,Espanyol,?,Fernando Vázquez,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1104
+5,sáb 27/09/2003,14:30,Celta de Vigo,Valladolid,?,Fernando Vázquez,,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1298
+6,dom 05/10/2003,12:00,Valladolid,Rac. Santander,?,Fernando Vázquez,,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1502
+7,dom 19/10/2003,13:00,Zaragoza,Valladolid,?,Fernando Vázquez,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1700
+8,dom 26/10/2003,14:00,Valladolid,Athletic Club,?,Fernando Vázquez,13000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1899
+9,qua 29/10/2003,18:00,Sevilla,Valladolid,?,Fernando Vázquez,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2097
+10,dom 02/11/2003,14:00,Valladolid,Albacete,?,Fernando Vázquez,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2299
+11,dom 09/11/2003,14:00,Osasuna,Valladolid,?,Fernando Vázquez,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2492
+12,dom 23/11/2003,14:00,Valladolid,Atlético,?,Fernando Vázquez,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2694
+13,dom 30/11/2003,16:00,Barcelona,Valladolid,4-4-1-1,Fernando Vázquez,55958,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893
+14,qua 03/12/2003,17:00,Valladolid,Deportivo,?,Fernando Vázquez,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3086
+15,dom 07/12/2003,14:00,Mallorca,Valladolid,?,Fernando Vázquez,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3278
+16,dom 14/12/2003,14:00,Valladolid,Real Murcia,?,Fernando Vázquez,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3474
+17,sáb 20/12/2003,14:30,Real Sociedad,Valladolid,?,Fernando Vázquez,,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3667
+18,dom 04/01/2004,14:00,Valladolid,Betis,?,Fernando Vázquez,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3822
+19,dom 11/01/2004,14:00,Villarreal,Valladolid,?,Fernando Vázquez,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3910
+20,sáb 17/01/2004,16:30,Valladolid,Valencia,?,Fernando Vázquez,13200,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4180
+21,dom 25/01/2004,14:00,Málaga CF,Valladolid,?,Fernando Vázquez,,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4368
+22,dom 01/02/2004,14:00,Valladolid,Real Madrid,?,Fernando Vázquez,25200,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4528
+23,dom 08/02/2004,14:00,Espanyol,Valladolid,?,Fernando Vázquez,21200,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4740
+24,dom 15/02/2004,13:00,Valladolid,Celta de Vigo,?,Fernando Vázquez,21200,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4932
+25,dom 22/02/2004,13:00,Rac. Santander,Valladolid,?,Fernando Vázquez,16875,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5142
+26,sáb 28/02/2004,15:30,Valladolid,Zaragoza,4-4-2,Fernando Vázquez,9000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5332
+27,dom 07/03/2004,13:00,Athletic Club,Valladolid,4-4-2,Fernando Vázquez,33000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5517
+28,dom 14/03/2004,13:00,Valladolid,Sevilla,5-3-2,Fernando Vázquez,20000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5745
+29,dom 21/03/2004,13:00,Albacete,Valladolid,5-3-2,Fernando Vázquez,16000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5955
+30,dom 28/03/2004,12:00,Valladolid,Osasuna,?,Fernando Vázquez,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6162
+31,dom 04/04/2004,14:30,Atlético,Valladolid,?,Fernando Vázquez,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6366
+32,sáb 10/04/2004,13:00,Valladolid,Barcelona,4-4-2 duplo 6,Fernando Vázquez,17000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6560
+33,sáb 17/04/2004,13:00,Deportivo,Valladolid,?,Fernando Vázquez,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6773
+34,dom 25/04/2004,12:30,Valladolid,Mallorca,?,Fernando Vázquez,,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6981
+35,dom 02/05/2004,12:30,Real Murcia,Valladolid,?,Antonio Sánchez Santos,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7190
+36,sáb 08/05/2004,19:00,Valladolid,Real Sociedad,?,Antonio Sánchez Santos,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7237
+37,sáb 15/05/2004,15:00,Betis,Valladolid,?,Antonio Sánchez Santos,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7294
+38,sáb 22/05/2004,19:00,Valladolid,Villarreal,?,Antonio Sánchez Santos,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7334

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 10/04/2022,11:00,Coritiba,Goiás,4-2-3-1,Gustavo Morínigo,18600,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767781
+2,dom 17/04/2022,11:00,Santos,Coritiba,4-2-3-1,Gustavo Morínigo,13052,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767786
+3,sáb 23/04/2022,21:00,Atlético-MG,Coritiba,4-2-3-1,Gustavo Morínigo,19974,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767792
+4,dom 01/05/2022,16:00,Coritiba,Fluminense,4-2-3-1,Gustavo Morínigo,24622,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767831
+5,seg 09/05/2022,20:00,Avaí,Coritiba,4-2-3-1,Gustavo Morínigo,8548,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767820
+6,dom 15/05/2022,17:30,Coritiba,América-MG,4-2-3-1,Gustavo Morínigo,20818,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767811
+7,sáb 21/05/2022,16:30,Atlético-GO,Coritiba,4-2-3-1,Gustavo Morínigo,4676,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767839
+8,dom 29/05/2022,16:00,Coritiba,Botafogo,4-2-3-1,Gustavo Morínigo,20302,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767851
+9,sáb 04/06/2022,19:00,Ceará,Coritiba,4-2-3-1,Gustavo Morínigo,27602,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767858
+10,qui 09/06/2022,20:00,Coritiba,São Paulo,4-2-3-1,Gustavo Morínigo,21521,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767891
+11,dom 12/06/2022,18:00,Coritiba,Palmeiras,5-4-1 plano,Gustavo Morínigo,27356,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767881
+12,qua 15/06/2022,19:00,Bragantino,Coritiba,4-2-3-1,Gustavo Morínigo,2352,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767864
+13,dom 19/06/2022,16:00,Coritiba,Athletico-PR,4-2-3-1,Gustavo Morínigo,22609,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767901
+14,sex 24/06/2022,21:30,Internacional,Coritiba,4-2-3-1,Gustavo Morínigo,13454,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767907
+15,sáb 02/07/2022,19:00,Coritiba,Fortaleza,4-2-3-1,Gustavo Morínigo,20156,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767921
+16,dom 10/07/2022,11:00,Coritiba,Juventude,4-2-3-1,Gustavo Morínigo,20235,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768151
+17,sáb 16/07/2022,19:00,Flamengo,Coritiba,4-4-2,Gustavo Morínigo,33778,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768133
+18,qua 20/07/2022,21:30,Corinthians,Coritiba,4-2-3-1,Gustavo Morínigo,39852,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768125
+19,seg 25/07/2022,20:00,Coritiba,Cuiabá,4-2-3-1,Gustavo Morínigo,19181,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768121
+20,sáb 30/07/2022,16:30,Goiás,Coritiba,5-4-1 plano,Gustavo Morínigo,11267,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768109
+21,seg 08/08/2022,20:00,Coritiba,Santos,4-3-3 ofensivo,Gustavo Morínigo,22691,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768101
+22,dom 14/08/2022,11:00,Coritiba,Atlético-MG,4-3-3 ofensivo,Gustavo Morínigo,17608,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768091
+23,sáb 20/08/2022,19:00,Fluminense,Coritiba,4-3-3 ofensivo,Guto Ferreira,24029,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768073
+24,sáb 27/08/2022,16:30,Coritiba,Avaí,4-3-3 ofensivo,Guto Ferreira,17597,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768071
+25,sáb 03/09/2022,20:30,América-MG,Coritiba,4-3-3 ofensivo,Guto Ferreira,2840,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768052
+26,dom 11/09/2022,18:00,Coritiba,Atlético-GO,4-2-3-1,Guto Ferreira,15046,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768051
+27,sáb 17/09/2022,19:00,Botafogo,Coritiba,4-2-3-1,Guto Ferreira,15080,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768036
+28,qua 28/09/2022,21:45,Coritiba,Ceará,4-2-3-1,Guto Ferreira,14735,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768011
+29,qui 20/10/2022,20:00,São Paulo,Coritiba,4-4-2,Guto Ferreira,14993,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768014
+30,qui 06/10/2022,19:00,Palmeiras,Coritiba,4-2-3-1,Guto Ferreira,39877,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768025
+31,dom 09/10/2022,18:00,Coritiba,Bragantino,4-2-3-1,Guto Ferreira,18066,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768001
+32,dom 16/10/2022,18:00,Athletico-PR,Coritiba,4-2-3-1,Guto Ferreira,29599,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767991
+33,dom 23/10/2022,18:00,Coritiba,Internacional,4-2-3-1,Guto Ferreira,18485,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767981
+34,qui 27/10/2022,19:00,Fortaleza,Coritiba,4-1-4-1,Guto Ferreira,22341,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767948
+35,qua 02/11/2022,19:00,Juventude,Coritiba,4-1-4-1,Guto Ferreira,3412,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767957
+36,dom 06/11/2022,16:00,Coritiba,Flamengo,4-1-4-1,Guto Ferreira,33304,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767971
+37,qua 09/11/2022,19:00,Coritiba,Corinthians,4-1-4-1,Guto Ferreira,30049,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767941
+38,dom 13/11/2022,16:00,Cuiabá,Coritiba,4-1-4-1,Guto Ferreira,17392,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3767930

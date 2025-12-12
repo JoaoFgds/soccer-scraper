@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 06/08/2017,16:00,Marselha,Dijon,4-2-3-1,Olivier Dall'Oglio,50904,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2890523
+2,dom 13/08/2017,12:00,Dijon,Monaco,5-4-1 plano,Olivier Dall'Oglio,14295,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2899540
+3,sáb 19/08/2017,15:00,Rennes,Dijon,4-1-4-1,Olivier Dall'Oglio,16888,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2901022
+4,sáb 26/08/2017,15:00,Dijon,Montpellier,4-4-2 duplo 6,Olivier Dall'Oglio,10902,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2901095
+5,sáb 09/09/2017,15:00,SM Caen,Dijon,4-4-2 duplo 6,Olivier Dall'Oglio,15328,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2901108
+6,sáb 16/09/2017,15:00,Dijon,Saint-Étienne,4-4-2,Olivier Dall'Oglio,13820,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2901120
+7,sáb 23/09/2017,15:00,Lyon,Dijon,4-2-3-1,Olivier Dall'Oglio,33600,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2901143
+8,sáb 30/09/2017,15:00,Dijon,Strasbourg,4-3-3 ofensivo,Olivier Dall'Oglio,11577,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2901316
+9,sáb 14/10/2017,12:00,Dijon,PSG,4-3-3 ofensivo,Olivier Dall'Oglio,15160,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2903928
+10,sáb 21/10/2017,16:00,FC Metz,Dijon,4-2-3-1,Olivier Dall'Oglio,14748,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2903938
+11,sáb 28/10/2017,16:00,Dijon,Nantes,4-2-3-1,Olivier Dall'Oglio,11764,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942652
+12,dom 05/11/2017,12:00,Nice,Dijon,4-2-3-1,Olivier Dall'Oglio,18987,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942667
+13,sáb 18/11/2017,17:00,Dijon,Troyes,4-2-3-1,Olivier Dall'Oglio,10227,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942670
+14,sáb 25/11/2017,17:00,Dijon,Toulouse,4-3-3 ofensivo,Olivier Dall'Oglio,10126,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942681
+15,ter 28/11/2017,16:00,Amiens SC,Dijon,4-2-3-1,Olivier Dall'Oglio,8693,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942698
+16,sex 01/12/2017,17:45,Dijon,Bordeaux,4-4-2 duplo 6,Olivier Dall'Oglio,10631,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942702
+17,sáb 09/12/2017,17:00,Guingamp,Dijon,4-3-3 ofensivo,Olivier Dall'Oglio,13825,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942711
+18,sáb 16/12/2017,17:00,Dijon,Lille,4-4-2,Olivier Dall'Oglio,10634,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942721
+19,qua 20/12/2017,17:50,Angers,Dijon,4-2-3-1,Olivier Dall'Oglio,8017,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942739
+20,sáb 13/01/2018,17:00,Dijon,FC Metz,4-2-3-1,Olivier Dall'Oglio,10666,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942741
+21,qua 17/01/2018,18:00,PSG,Dijon,4-3-3 ofensivo,Olivier Dall'Oglio,47483,8:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942757
+22,sáb 20/01/2018,17:00,Strasbourg,Dijon,4-3-3 ofensivo,Olivier Dall'Oglio,21067,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942766
+23,sex 26/01/2018,17:45,Dijon,Rennes,4-3-3 ofensivo,Olivier Dall'Oglio,10091,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942771
+24,ter 20/02/2018,14:30,Troyes,Dijon,4-3-3 ofensivo,Olivier Dall'Oglio,10269,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942781
+25,sáb 10/02/2018,17:00,Dijon,Nice,4-3-3 ofensivo,Olivier Dall'Oglio,11901,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942791
+26,sex 16/02/2018,17:45,Monaco,Dijon,4-3-3 ofensivo,Olivier Dall'Oglio,6418,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942800
+27,sáb 24/02/2018,16:00,Dijon,SM Caen,5-3-2,Olivier Dall'Oglio,10518,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942810
+28,sáb 03/03/2018,16:00,Saint-Étienne,Dijon,4-3-3 ofensivo,Olivier Dall'Oglio,25150,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942821
+29,sáb 10/03/2018,16:00,Dijon,Amiens SC,4-2-3-1,Olivier Dall'Oglio,12332,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942830
+30,sáb 17/03/2018,16:00,Montpellier,Dijon,5-3-2,Olivier Dall'Oglio,14747,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942845
+31,sáb 31/03/2018,12:00,Dijon,Marselha,4-3-3 ofensivo,Olivier Dall'Oglio,15157,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942850
+32,sáb 07/04/2018,15:00,Toulouse,Dijon,4-2-3-1,Olivier Dall'Oglio,17246,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942864
+33,sáb 14/04/2018,15:00,Nantes,Dijon,4-2-3-1,Olivier Dall'Oglio,19209,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942871
+34,sex 20/04/2018,16:00,Dijon,Lyon,4-2-3-1,Olivier Dall'Oglio,15102,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942881
+35,sáb 28/04/2018,15:00,Bordeaux,Dijon,5-3-2,Olivier Dall'Oglio,22584,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942892
+36,dom 06/05/2018,12:00,Dijon,Guingamp,5-3-2,Olivier Dall'Oglio,13157,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942901
+37,sáb 12/05/2018,16:00,Lille,Dijon,5-3-2,Olivier Dall'Oglio,46342,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942915
+38,sáb 19/05/2018,16:00,Dijon,Angers,5-3-2,Olivier Dall'Oglio,14270,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2942921

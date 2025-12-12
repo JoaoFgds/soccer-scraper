@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 08/08/2021,10:00,Nice,Reims,3-5-2 plano,Óscar García,18030,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588769
+2,dom 15/08/2021,10:00,Reims,Montpellier,3-4-3 plano,Óscar García,8887,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588790
+3,dom 22/08/2021,10:00,FC Metz,Reims,3-4-3 plano,Óscar García,14799,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588817
+4,dom 29/08/2021,15:45,Reims,PSG,3-5-2 plano,Óscar García,20525,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588837
+5,dom 12/09/2021,10:00,Rennes,Reims,3-4-1-2,Óscar García,24486,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588849
+6,dom 19/09/2021,10:00,Reims,FC Lorient,3-4-1-2,Óscar García,9443,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588918
+7,qua 22/09/2021,14:00,Lille,Reims,5-3-2,Óscar García,32604,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588930
+8,dom 26/09/2021,10:00,Reims,Nantes,4-2-3-1,Óscar García,10585,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589103
+9,sex 01/10/2021,16:00,Lens,Reims,4-3-3 ofensivo,Óscar García,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589108
+10,dom 17/10/2021,10:00,Brest,Reims,3-4-1-2,Óscar García,9693,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589118
+11,dom 24/10/2021,10:00,Reims,Troyes,4-4-2 duplo 6,Óscar García,12326,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589134
+12,dom 31/10/2021,11:00,Bordeaux,Reims,4-2-3-1,Óscar García,11020,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589138
+13,dom 07/11/2021,11:00,Reims,Monaco,4-3-3 ofensivo,Óscar García,12080,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589173
+14,dom 21/11/2021,11:00,Strasbourg,Reims,4-2-3-1,Óscar García,24439,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589208
+15,dom 28/11/2021,11:00,Reims,Clermont Foot,4-3-3 ofensivo,Óscar García,8420,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589230
+16,qua 01/12/2021,17:00,Lyon,Reims,5-3-2,Óscar García,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589259
+17,dom 05/12/2021,11:00,Reims,Angers,3-4-1-2,Óscar García,8238,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589280
+18,sáb 11/12/2021,17:00,Reims,Saint-Étienne,3-5-2,Óscar García,12019,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589293
+19,qua 22/12/2021,17:00,Marselha,Reims,5-4-1 plano,Óscar García,55908,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589306
+20,dom 09/01/2022,11:00,Clermont Foot,Reims,3-4-3 plano,Óscar García,4524,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589324
+21,dom 16/01/2022,11:00,Reims,FC Metz,3-4-2-1,Óscar García,3923,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589336
+22,dom 23/01/2022,16:45,PSG,Reims,5-4-1 plano,Óscar García,5000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589359
+23,dom 06/02/2022,11:00,Reims,Bordeaux,3-4-3 plano,Óscar García,8858,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589365
+24,dom 13/02/2022,11:00,Nantes,Reims,4-4-1-1,Óscar García,14304,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589387
+25,dom 20/02/2022,11:00,Reims,Brest,4-2-3-1,Óscar García,9307,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589405
+26,dom 27/02/2022,09:00,Monaco,Reims,3-5-2 plano,Óscar García,3982,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589423
+27,dom 06/03/2022,11:00,Reims,Strasbourg,3-4-2-1,Óscar García,10405,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589435
+28,dom 13/03/2022,11:00,Angers,Reims,4-1-4-1,Óscar García,5960,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589439
+29,dom 20/03/2022,13:05,Reims,Lyon,4-4-2 duplo 6,Óscar García,14091,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589463
+30,dom 03/04/2022,10:00,Troyes,Reims,3-4-2-1,Óscar García,9402,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589480
+31,sáb 09/04/2022,12:00,Reims,Rennes,3-5-2,Óscar García,10243,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589505
+32,dom 17/04/2022,10:00,Montpellier,Reims,3-5-2 plano,Óscar García,10170,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589527
+33,qua 20/04/2022,14:00,Reims,Lille,5-3-2,Óscar García,10910,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589541
+34,dom 24/04/2022,15:45,Reims,Marselha,3-5-2 plano,Óscar García,20835,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589558
+35,dom 01/05/2022,10:00,FC Lorient,Reims,5-3-2,Óscar García,12216,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589564
+36,dom 08/05/2022,10:00,Reims,Lens,3-5-2,Óscar García,16962,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589580
+37,sáb 14/05/2022,16:00,Saint-Étienne,Reims,4-5-1 plano,Óscar García,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589588
+38,sáb 21/05/2022,16:00,Reims,Nice,3-5-2,Óscar García,12589,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589607

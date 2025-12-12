@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 01/08/2008,15:30,Nîmes Olympique,Brest,?,Pascal Janin,10585,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913459
+2,sex 08/08/2008,15:00,Brest,Clermont Foot,?,Pascal Janin,7546,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913128
+3,sex 15/08/2008,15:00,Troyes,Brest,?,Pascal Janin,7905,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913141
+4,sex 22/08/2008,15:30,Brest,Strasbourg,?,Pascal Janin,7069,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913143
+5,sex 29/08/2008,15:00,Angers,Brest,?,Pascal Janin,8511,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913151
+6,sex 12/09/2008,15:00,Brest,AC Ajaccio,?,Pascal Janin,4745,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913159
+7,sex 19/09/2008,15:00,Amiens SC,Brest,?,Pascal Janin,8061,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913167
+8,sex 26/09/2008,15:00,Brest,US Boulogne,?,Pascal Janin,4447,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913175
+9,sex 03/10/2008,15:00,Tours FC,Brest,?,Pascal Janin,4370,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913189
+10,sex 10/10/2008,15:00,Brest,Montpellier,?,Pascal Janin,4322,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913192
+11,sex 17/10/2008,15:00,Reims,Brest,?,André Guesdon,15293,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913198
+12,sex 24/10/2008,16:30,Brest,FC Metz,?,Christophe Forest,5491,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913208
+13,sex 31/10/2008,18:00,Dijon,Brest,?,Christophe Forest,3621,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913217
+14,sex 07/11/2008,18:00,Brest,SC Bastia,?,Gérald Baticle,6065,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913232
+15,sex 14/11/2008,17:00,CS Sedan,Brest,?,Gérald Baticle,7304,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913229
+16,sex 28/11/2008,17:00,Brest,LB Châteauroux,?,Gérald Baticle,7452,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913240
+17,sex 05/12/2008,17:00,Brest,Vannes,?,Gérald Baticle,7762,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913490
+18,sex 19/12/2008,17:30,Lens,Brest,?,Gérald Baticle,28878,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913258
+19,sex 09/01/2009,17:00,Brest,Guingamp,?,Gérald Baticle,8550,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913264
+20,sex 16/01/2009,17:00,Clermont Foot,Brest,?,Gérald Baticle,4920,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913274
+21,sex 30/01/2009,17:00,Brest,Troyes,?,Gérald Baticle,5992,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913281
+22,sex 06/02/2009,17:30,Strasbourg,Brest,?,Gérald Baticle,10093,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913293
+23,sex 13/02/2009,17:30,Brest,Angers,?,Gérald Baticle,4748,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913296
+24,sex 20/02/2009,16:00,AC Ajaccio,Brest,?,Gérald Baticle,2113,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913303
+25,sex 27/02/2009,16:00,Brest,Amiens SC,?,Gérald Baticle,4497,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913312
+26,sex 06/03/2009,16:00,US Boulogne,Brest,?,Gérald Baticle,4817,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913321
+27,sex 13/03/2009,16:00,Brest,Tours FC,?,Gérald Baticle,4373,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913328
+28,sex 20/03/2009,16:00,Montpellier,Brest,?,Gérald Baticle,7306,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913339
+29,sex 27/03/2009,16:00,Brest,Reims,?,Gérald Baticle,8414,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913345
+30,dom 05/04/2009,12:00,FC Metz,Brest,?,Gérald Baticle,11353,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913355
+31,sex 10/04/2009,15:00,Brest,Dijon,?,Gérald Baticle,5849,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913361
+32,sex 17/04/2009,15:00,SC Bastia,Brest,?,Gérald Baticle,2604,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913368
+33,sex 24/04/2009,15:00,Brest,CS Sedan,?,Gérald Baticle,6805,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913377
+34,sex 01/05/2009,15:00,LB Châteauroux,Brest,?,Gérald Baticle,6297,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913385
+35,sex 08/05/2009,15:00,Vannes,Brest,?,Alex Dupont,6607,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913526
+36,sex 15/05/2009,15:30,Brest,Lens,?,Alex Dupont,8636,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913401
+37,sex 22/05/2009,15:30,Guingamp,Brest,?,Alex Dupont,15529,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913411
+38,sex 29/05/2009,15:45,Brest,Nîmes Olympique,?,Alex Dupont,7592,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913530

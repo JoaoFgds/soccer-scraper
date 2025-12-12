@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 07/09/2003,14:00,Belenenses,CF Estrela,3-4-3 plano,João Alves,3500,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/511
+2,dom 24/08/2003,15:15,CF Estrela,FC Porto,3-3-3-1,João Alves,5000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/681
+3,dom 31/08/2003,12:00,Nacional,CF Estrela,?,,,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/948764
+4,sáb 13/09/2003,13:00,CF Estrela,Moreirense,?,Miguel Quaresma,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003098
+5,dom 21/09/2003,12:00,Gil Vicente,CF Estrela,?,Jorge Paixão,2000,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003734
+6,dom 28/09/2003,12:00,CF Estrela,Marítimo,?,João Alves,1500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003743
+7,dom 05/10/2003,12:00,Beira-Mar,CF Estrela,?,Jorge Paixão,5000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1067221
+8,dom 19/10/2003,13:00,CF Estrela,Alverca,?,João Alves,1000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702835
+9,dom 26/10/2003,14:00,Rio Ave,CF Estrela,?,Jorge Paixão,3000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771702
+10,sáb 01/11/2003,14:00,CF Estrela,Paços Ferreira,?,João Alves,1000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771709
+11,sáb 08/11/2003,17:00,Braga,CF Estrela,?,João Alves,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771720
+12,sex 28/11/2003,19:00,CF Estrela,Boavista,?,Miguel Quaresma,1000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771726
+13,dom 07/12/2003,16:00,CF Estrela,Sporting,?,Miguel Quaresma,3600,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771752
+14,sáb 13/12/2003,14:00,Leiria,CF Estrela,?,João Alves,,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771769
+15,dom 21/12/2003,18:15,CF Estrela,Benfica,?,Miguel Quaresma,7000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771784
+16,dom 04/01/2004,14:00,Vit. Guimarães,CF Estrela,?,Miguel Quaresma,8560,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771787
+17,dom 11/01/2004,14:00,CF Estrela,Académica,?,Miguel Quaresma,1500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771799
+18,seg 19/01/2004,17:45,CF Estrela,Belenenses,?,Miguel Quaresma,1500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771812
+19,sáb 24/01/2004,17:15,FC Porto,CF Estrela,3-4-1-2,Miguel Quaresma,18277,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771815
+20,dom 01/02/2004,14:00,CF Estrela,Nacional,?,Miguel Quaresma,2000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771827
+21,dom 08/02/2004,14:00,Moreirense,CF Estrela,?,Miguel Quaresma,5000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771837
+22,dom 15/02/2004,13:00,CF Estrela,Gil Vicente,?,Miguel Quaresma,2000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4549
+23,dom 22/02/2004,13:00,Marítimo,CF Estrela,?,Miguel Quaresma,3500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771845
+24,dom 29/02/2004,13:00,CF Estrela,Beira-Mar,?,Miguel Quaresma,1500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4959
+25,dom 07/03/2004,13:00,Alverca,CF Estrela,?,Miguel Quaresma,3000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771853
+26,dom 14/03/2004,13:00,CF Estrela,Rio Ave,?,Miguel Quaresma,600,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2771862
+27,dom 21/03/2004,13:00,Paços Ferreira,CF Estrela,?,Miguel Quaresma,2000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5569
+28,dom 28/03/2004,12:00,CF Estrela,Braga,?,Miguel Quaresma,1000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5768
+29,sáb 03/04/2004,14:00,Boavista,CF Estrela,?,Miguel Quaresma,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5974
+30,sáb 10/04/2004,17:15,Sporting,CF Estrela,?,Miguel Quaresma,23340,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6185
+31,sáb 17/04/2004,12:00,CF Estrela,Leiria,?,Miguel Quaresma,500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6392
+32,sáb 24/04/2004,16:00,Benfica,CF Estrela,5-4-1 plano,Miguel Quaresma,21227,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6601
+33,dom 02/05/2004,12:00,CF Estrela,Vit. Guimarães,3-4-3 plano,Miguel Quaresma,3000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6811
+34,dom 09/05/2004,12:00,Académica,CF Estrela,4-2-3-1,Miguel Quaresma,24289,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7018

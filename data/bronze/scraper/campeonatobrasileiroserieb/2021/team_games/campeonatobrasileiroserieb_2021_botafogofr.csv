@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 28/05/2021,21:30,Vila Nova,Botafogo,4-3-3 ofensivo,Marcelo Chamusca,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546383
+2,sáb 05/06/2021,21:00,Botafogo,Coritiba,4-2-3-1,Marcelo Chamusca,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546392
+3,dom 13/06/2021,16:00,Botafogo,Remo,4-2-3-1,Marcelo Chamusca,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3573965
+4,qui 17/06/2021,19:00,Londrina,Botafogo,4-2-3-1,Marcelo Chamusca,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3573977
+5,dom 20/06/2021,16:00,Náutico,Botafogo,4-2-3-1,Marcelo Chamusca,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3573987
+6,ter 27/07/2021,21:30,Botafogo,CSA,4-2-3-1,Enderson Moreira,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3573997
+7,sáb 26/06/2021,16:30,Sampaio Corrêa,Botafogo,4-2-3-1,Marcelo Chamusca,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580674
+8,qua 30/06/2021,21:30,Botafogo,Vitória,4-2-3-1,Marcelo Chamusca,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580688
+9,sáb 03/07/2021,21:00,Avaí,Botafogo,4-2-3-1,Marcelo Chamusca,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584106
+10,ter 06/07/2021,21:30,CRB,Botafogo,4-2-3-1,Marcelo Chamusca,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584134
+11,sáb 10/07/2021,16:30,Botafogo,Cruzeiro,4-2-3-1,Marcelo Chamusca,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584119
+12,sáb 17/07/2021,19:00,Brusque,Botafogo,4-2-3-1,Ricardo Resende,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584116
+13,ter 20/07/2021,19:00,Botafogo,Goiás,4-2-3-1,Ricardo Resende,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584139
+14,sáb 24/07/2021,16:30,Confiança,Botafogo,4-2-3-1,Enderson Moreira,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584157
+15,sáb 31/07/2021,21:00,Botafogo,Vasco da Gama,4-2-3-1,Enderson Moreira,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584159
+16,dom 08/08/2021,20:30,Botafogo,Ponte Preta,4-2-3-1,Enderson Moreira,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584189
+17,qui 12/08/2021,21:30,Operário-PR,Botafogo,4-2-3-1,Enderson Moreira,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584185
+18,dom 15/08/2021,18:15,Botafogo,Brasil Pelotas,4-2-3-1,Enderson Moreira,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584169
+19,qua 18/08/2021,19:00,Guarani,Botafogo,4-2-3-1,Enderson Moreira,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584201
+20,dom 22/08/2021,11:00,Botafogo,Vila Nova,3-5-2,Enderson Moreira,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584209
+21,sex 27/08/2021,21:30,Coritiba,Botafogo,4-2-3-1,Enderson Moreira,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584225
+22,sáb 04/09/2021,19:30,Remo,Botafogo,4-4-2,Enderson Moreira,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584258
+23,sáb 11/09/2021,16:30,Botafogo,Londrina,4-2-3-1,Enderson Moreira,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584239
+24,sáb 18/09/2021,16:30,Botafogo,Náutico,4-3-3 ofensivo,Enderson Moreira,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584229
+25,qui 23/09/2021,19:00,CSA,Botafogo,4-2-3-1,Enderson Moreira,691,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584264
+26,dom 26/09/2021,18:15,Botafogo,Sampaio Corrêa,4-2-3-1,Enderson Moreira,762,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584269
+27,qua 29/09/2021,21:30,Vitória,Botafogo,4-2-3-1,Enderson Moreira,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584287
+28,sáb 02/10/2021,19:00,Botafogo,Avaí,4-2-3-1,Enderson Moreira,751,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584309
+29,sex 08/10/2021,19:00,Botafogo,CRB,4-2-3-1,Enderson Moreira,2139,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584299
+30,ter 12/10/2021,21:30,Cruzeiro,Botafogo,4-2-3-1,Enderson Moreira,5297,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584292
+31,qua 20/10/2021,20:30,Botafogo,Brusque,4-2-3-1,Enderson Moreira,3058,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584319
+32,ter 26/10/2021,21:30,Goiás,Botafogo,4-2-3-1,Enderson Moreira,3594,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584330
+33,qua 03/11/2021,19:00,Botafogo,Confiança,4-2-3-1,Enderson Moreira,4129,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584339
+34,dom 07/11/2021,16:00,Vasco da Gama,Botafogo,4-2-3-1,Enderson Moreira,5536,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584369
+35,qui 11/11/2021,19:00,Ponte Preta,Botafogo,4-2-3-1,Enderson Moreira,4325,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584361
+36,seg 15/11/2021,16:00,Botafogo,Operário-PR,4-2-3-1,Enderson Moreira,25584,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584349
+37,dom 21/11/2021,16:00,Brasil Pelotas,Botafogo,4-2-3-1,Enderson Moreira,1030,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584383
+38,dom 28/11/2021,16:00,Botafogo,Guarani,4-2-3-1,Enderson Moreira,33853,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584389

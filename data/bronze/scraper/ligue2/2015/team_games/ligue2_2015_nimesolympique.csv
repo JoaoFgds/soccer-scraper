@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 31/07/2015,15:00,Nîmes Olympique,Évian,4-3-3 ofensivo,José Pasqualetti,5535,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2602007
+2,sex 07/08/2015,15:00,Brest,Nîmes Olympique,4-3-3 ofensivo,José Pasqualetti,8624,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2602015
+3,sex 14/08/2015,15:00,Clermont Foot,Nîmes Olympique,4-3-3 ofensivo,José Pasqualetti,2800,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2602030
+4,sáb 22/08/2015,09:00,Nîmes Olympique,AS Nancy,4-3-3 ofensivo,José Pasqualetti,5012,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2602039
+5,sex 28/08/2015,15:00,Auxerre,Nîmes Olympique,4-1-4-1,José Pasqualetti,4678,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2602045
+6,sex 11/09/2015,15:00,Nîmes Olympique,AC Ajaccio,4-1-4-1,José Pasqualetti,4628,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616476
+7,sex 18/09/2015,15:00,Chamois Niort,Nîmes Olympique,4-1-4-1,José Pasqualetti,3081,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616483
+8,ter 22/09/2015,16:00,Nîmes Olympique,Paris FC,4-4-2,José Pasqualetti,3698,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616502
+9,sex 25/09/2015,15:00,FC Metz,Nîmes Olympique,4-4-2,José Pasqualetti,12046,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616511
+10,sex 02/10/2015,15:00,Nîmes Olympique,Red Star FC,4-3-3 ofensivo,José Pasqualetti,4656,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616523
+11,sex 16/10/2015,15:00,Bourg-en-Bresse,Nîmes Olympique,4-3-3 defensivo,José Pasqualetti,1063,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616529
+12,sáb 24/10/2015,10:00,Nîmes Olympique,Dijon,4-3-3 defensivo,José Pasqualetti,4461,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616543
+13,sex 30/10/2015,17:00,US Créteil-L,Nîmes Olympique,4-3-3 ofensivo,José Pasqualetti,2514,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616567
+14,sex 06/11/2015,17:00,Nîmes Olympique,FC Sochaux,4-3-3 ofensivo,José Pasqualetti,5022,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616586
+15,sex 20/11/2015,17:00,Valenciennes,Nîmes Olympique,4-4-2,José Pasqualetti,6293,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616599
+16,sex 27/11/2015,17:00,Nîmes Olympique,Tours FC,4-4-2,Bernard Blaquart,3457,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616617
+17,seg 30/11/2015,17:30,Lens,Nîmes Olympique,4-4-2,Bernard Blaquart,20016,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616624
+18,sex 11/12/2015,17:00,Nîmes Olympique,Le Havre,4-4-2 duplo 6,Bernard Blaquart,4725,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616638
+19,sex 18/12/2015,17:00,Stade Lavallois,Nîmes Olympique,4-3-3 ofensivo,Bernard Blaquart,4748,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616646
+20,sex 08/01/2016,17:00,Nîmes Olympique,Brest,4-4-2,Bernard Blaquart,4018,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2648117
+21,sex 15/01/2016,17:00,Nîmes Olympique,Clermont Foot,4-4-2,Bernard Blaquart,4318,6:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2648145
+22,sex 22/01/2016,17:00,AS Nancy,Nîmes Olympique,4-4-2,Bernard Blaquart,13002,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2648153
+23,sex 29/01/2016,17:00,Nîmes Olympique,Auxerre,4-4-2 duplo 6,Bernard Blaquart,9231,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2648165
+24,ter 02/02/2016,18:00,AC Ajaccio,Nîmes Olympique,4-4-2,Bernard Blaquart,3404,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654396
+25,sex 05/02/2016,17:00,Nîmes Olympique,Chamois Niort,4-4-2,Bernard Blaquart,8076,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654411
+26,sex 12/02/2016,17:00,Paris FC,Nîmes Olympique,4-4-2,Bernard Blaquart,2866,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654420
+27,seg 22/02/2016,16:30,Nîmes Olympique,FC Metz,4-4-2,Bernard Blaquart,10085,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654432
+28,sáb 27/02/2016,10:00,Red Star FC,Nîmes Olympique,4-3-3 ofensivo,Bernard Blaquart,2578,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654443
+29,sex 04/03/2016,16:00,Nîmes Olympique,Bourg-en-Bresse,4-4-2,Bernard Blaquart,7629,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654452
+30,sáb 12/03/2016,10:00,Dijon,Nîmes Olympique,4-3-3 ofensivo,Bernard Blaquart,8214,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654457
+31,sex 18/03/2016,16:00,Nîmes Olympique,US Créteil-L,4-3-3 ofensivo,Bernard Blaquart,10013,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654472
+32,sex 01/04/2016,15:00,FC Sochaux,Nîmes Olympique,4-1-4-1,Bernard Blaquart,10621,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654479
+33,sex 08/04/2016,15:00,Nîmes Olympique,Valenciennes,4-3-3 ofensivo,Bernard Blaquart,9018,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654492
+34,sex 15/04/2016,15:00,Tours FC,Nîmes Olympique,4-3-3 ofensivo,Bernard Blaquart,4797,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654503
+35,sex 22/04/2016,15:00,Nîmes Olympique,Lens,4-4-2,Bernard Blaquart,14878,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654513
+36,sex 29/04/2016,15:00,Le Havre,Nîmes Olympique,4-3-3 ofensivo,Bernard Blaquart,7842,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654518
+37,sex 06/05/2016,15:45,Nîmes Olympique,Stade Lavallois,4-4-2,Bernard Blaquart,12573,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654532
+38,sex 13/05/2016,15:45,Évian,Nîmes Olympique,4-4-2,Bernard Blaquart,6283,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654537

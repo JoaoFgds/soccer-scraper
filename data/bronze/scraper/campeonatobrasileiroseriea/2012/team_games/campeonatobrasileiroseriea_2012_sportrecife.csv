@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 19/05/2012,13:30,Sport,Flamengo,3-5-2,Vagner Mancini,26699,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2210937
+2,dom 27/05/2012,11:00,Santos,Sport,4-4-2 duplo 6,Vagner Mancini,5294,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206417
+3,qua 06/06/2012,14:30,Sport,Palmeiras,4-4-2 duplo 6,Vagner Mancini,19096,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206425
+4,dom 10/06/2012,13:30,Cruzeiro,Sport,4-4-2 duplo 6,Vagner Mancini,4574,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206423
+5,dom 17/06/2012,11:00,Bahia,Sport,4-3-1-2,Vagner Mancini,11031,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206442
+6,dom 24/06/2012,13:30,Sport,Internacional,4-4-2 duplo 6,Vagner Mancini,13531,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206447
+7,dom 01/07/2012,11:00,Coritiba,Sport,4-4-2 duplo 6,Vagner Mancini,12447,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206457
+8,dom 08/07/2012,13:30,Sport,Corinthians,4-4-2 duplo 6,Vagner Mancini,20976,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206470
+9,dom 15/07/2012,13:30,Sport,Portuguesa,4-3-1-2,Vagner Mancini,15770,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206478
+10,qua 18/07/2012,14:30,Grêmio,Sport,4-3-1-2,Vagner Mancini,15179,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206368
+11,sáb 21/07/2012,13:30,Sport,Atlético-MG,4-2-3-1,Vagner Mancini,16230,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206382
+12,qua 25/07/2012,14:30,Ponte Preta,Sport,4-2-3-1,Vagner Mancini,4117,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206386
+13,dom 29/07/2012,11:00,Sport,Atlético-GO,4-3-1-2,Vagner Mancini,12860,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206401
+14,dom 05/08/2012,11:00,São Paulo,Sport,4-4-2 duplo 6,Vagner Mancini,23492,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206498
+15,qua 08/08/2012,14:30,Sport,Vasco da Gama,4-1-4-1,Vagner Mancini,13786,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206521
+16,sáb 11/08/2012,13:30,Sport,Figueirense,4-4-2 duplo 6,Vagner Mancini,11258,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206725
+17,qua 15/08/2012,16:50,Botafogo,Sport,4-3-1-2,Waldemar Lemos,4094,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206727
+18,sáb 18/08/2012,13:30,Fluminense,Sport,4-3-1-2,Waldemar Lemos,7096,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206715
+19,dom 26/08/2012,13:30,Sport,Náutico,4-3-1-2,Waldemar Lemos,17066,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206702
+20,qui 30/08/2012,16:00,Flamengo,Sport,4-3-1-2,Waldemar Lemos,8142,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206696
+21,dom 02/09/2012,11:00,Sport,Santos,4-3-1-2,Waldemar Lemos,20171,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206666
+22,qui 06/09/2012,16:00,Palmeiras,Sport,4-3-1-2,Waldemar Lemos,29409,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206662
+23,dom 09/09/2012,13:30,Sport,Cruzeiro,4-3-1-2,Waldemar Lemos,12165,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206645
+24,qua 12/09/2012,15:30,Sport,Bahia,4-3-1-2,Waldemar Lemos,17107,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206639
+25,dom 16/09/2012,13:30,Internacional,Sport,4-4-2 losango,Waldemar Lemos,5448,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206630
+26,dom 23/09/2012,13:30,Sport,Coritiba,4-3-1-2,Waldemar Lemos,15258,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206612
+27,dom 30/09/2012,11:00,Corinthians,Sport,4-3-1-2,Waldemar Lemos,25277,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206615
+28,qui 04/10/2012,16:00,Portuguesa,Sport,4-3-1-2,Waldemar Lemos,2054,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206591
+29,qui 11/10/2012,16:00,Sport,Grêmio,4-4-2 duplo 6,Sérgio Guedes,11210,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206580
+30,dom 14/10/2012,11:00,Atlético-MG,Sport,4-3-1-2,Sérgio Guedes,14265,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206589
+31,qui 18/10/2012,16:00,Sport,Ponte Preta,4-3-1-2,Sérgio Guedes,10280,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206578
+32,dom 21/10/2012,14:30,Atlético-GO,Sport,4-3-1-2,Sérgio Guedes,449,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206545
+33,sáb 27/10/2012,14:30,Sport,São Paulo,4-3-1-2,Sérgio Guedes,29590,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206557
+34,dom 04/11/2012,14:00,Vasco da Gama,Sport,4-3-3 defensivo,Sérgio Guedes,6569,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206542
+35,dom 11/11/2012,16:30,Figueirense,Sport,4-3-3 defensivo,Sérgio Guedes,2869,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206496
+36,dom 18/11/2012,16:30,Sport,Botafogo,4-3-3 defensivo,Sérgio Guedes,22951,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206529
+37,dom 25/11/2012,14:00,Sport,Fluminense,4-3-3 defensivo,Sérgio Guedes,32408,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206486
+38,dom 02/12/2012,14:00,Náutico,Sport,4-3-3 defensivo,Sérgio Guedes,20100,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206677

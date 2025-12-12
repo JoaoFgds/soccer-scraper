@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 01/09/2002,15:30,Recr. Huelva,Málaga CF,?,Lucas Alcaraz,,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/987773
+2,sáb 14/09/2002,16:30,Valencia,Recr. Huelva,?,Lucas Alcaraz,42000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998908
+3,dom 22/09/2002,14:00,Recr. Huelva,Celta de Vigo,?,Lucas Alcaraz,,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998923
+4,dom 29/09/2002,13:00,Atlético,Recr. Huelva,?,Lucas Alcaraz,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998929
+5,sáb 05/10/2002,16:30,Recr. Huelva,Athletic Club,?,Lucas Alcaraz,18000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998935
+6,dom 20/10/2002,13:00,Espanyol,Recr. Huelva,?,Lucas Alcaraz,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998951
+7,sáb 26/10/2002,13:00,Recr. Huelva,Betis,?,Lucas Alcaraz,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998955
+8,dom 03/11/2002,15:00,Osasuna,Recr. Huelva,?,Lucas Alcaraz,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998970
+9,dom 10/11/2002,14:00,Recr. Huelva,Valladolid,?,Lucas Alcaraz,,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998983
+10,dom 17/11/2002,14:00,Alavés,Recr. Huelva,?,Lucas Alcaraz,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1000093
+11,dom 24/11/2002,14:00,Recr. Huelva,Rac. Santander,?,Lucas Alcaraz,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1000104
+12,dom 01/12/2002,14:00,Villarreal,Recr. Huelva,?,Lucas Alcaraz,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1000108
+13,sáb 07/12/2002,15:00,Recr. Huelva,Deportivo,?,Lucas Alcaraz,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1000117
+14,dom 15/12/2002,15:30,Real Madrid,Recr. Huelva,?,Lucas Alcaraz,66302,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1000134
+15,dom 22/12/2002,14:00,Recr. Huelva,Real Sociedad,?,Lucas Alcaraz,,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1000143
+16,dom 05/01/2003,14:00,Barcelona,Recr. Huelva,4-2-3-1,Lucas Alcaraz,45719,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1000151
+17,dom 12/01/2003,14:00,Recr. Huelva,Sevilla,?,Lucas Alcaraz,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1000162
+18,dom 19/01/2003,14:00,Mallorca,Recr. Huelva,?,Lucas Alcaraz,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1000170
+19,dom 26/01/2003,14:00,Recr. Huelva,Rayo Vallecano,?,Lucas Alcaraz,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1000180
+20,dom 02/02/2003,15:00,Málaga CF,Recr. Huelva,?,Lucas Alcaraz,,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1000193
+21,dom 09/02/2003,14:00,Recr. Huelva,Valencia,?,Lucas Alcaraz,18000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1000210
+22,dom 16/02/2003,13:00,Celta de Vigo,Recr. Huelva,?,Lucas Alcaraz,,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004565
+23,dom 23/02/2003,13:00,Recr. Huelva,Atlético,?,Lucas Alcaraz,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004558
+24,sáb 01/03/2003,16:15,Athletic Club,Recr. Huelva,?,Lucas Alcaraz,28000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004378
+25,dom 09/03/2003,13:00,Recr. Huelva,Espanyol,?,Lucas Alcaraz,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004394
+26,dom 16/03/2003,13:00,Betis,Recr. Huelva,?,Lucas Alcaraz,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004402
+27,dom 23/03/2003,13:00,Recr. Huelva,Osasuna,?,Lucas Alcaraz,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004413
+28,dom 06/04/2003,13:00,Valladolid,Recr. Huelva,?,Lucas Alcaraz,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004424
+29,dom 13/04/2003,07:00,Recr. Huelva,Alavés,?,Lucas Alcaraz,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004428
+30,dom 20/04/2003,13:00,Rac. Santander,Recr. Huelva,?,Lucas Alcaraz,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004443
+31,dom 27/04/2003,13:00,Recr. Huelva,Villarreal,?,Lucas Alcaraz,,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004453
+32,dom 04/05/2003,16:00,Deportivo,Recr. Huelva,?,Lucas Alcaraz,,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004465
+33,sáb 10/05/2003,14:00,Recr. Huelva,Real Madrid,?,Lucas Alcaraz,20000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004467
+34,dom 18/05/2003,14:00,Real Sociedad,Recr. Huelva,?,Lucas Alcaraz,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004482
+35,dom 25/05/2003,14:00,Recr. Huelva,Barcelona,4-2-3-1,Lucas Alcaraz,19500,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004510
+36,dom 01/06/2003,15:00,Sevilla,Recr. Huelva,?,Lucas Alcaraz,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004528
+37,dom 15/06/2003,16:00,Recr. Huelva,Mallorca,?,Lucas Alcaraz,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004539
+38,sáb 21/06/2003,14:00,Rayo Vallecano,Recr. Huelva,?,Lucas Alcaraz,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004541

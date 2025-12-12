@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 01/09/1996,12:00,Marítimo,Chaves,4-3-3 ofensivo,Marinho Peres,7000,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855866
+2,dom 08/09/1996,13:00,Salgueiros,Marítimo,4-3-3 ofensivo,Marinho Peres,4000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855875
+3,dom 15/09/1996,12:00,Marítimo,CF Estrela,4-3-3 ofensivo,Marinho Peres,5000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855880
+4,sex 20/09/1996,16:30,Sporting,Marítimo,4-3-3 ofensivo,Marinho Peres,15000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855885
+5,dom 29/09/1996,12:00,Marítimo,Boavista,4-3-3 ofensivo,Marinho Peres,6000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855896
+6,dom 06/10/1996,12:30,SC Espinho,Marítimo,4-3-3 ofensivo,Marinho Peres,8000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855903
+7,dom 20/10/1996,13:00,Marítimo,Farense,4-3-3 ofensivo,Marinho Peres,6000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855920
+8,dom 27/10/1996,14:00,Rio Ave,Marítimo,4-3-1-2,Marinho Peres,3000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855927
+9,dom 03/11/1996,13:00,Belenenses,Marítimo,4-3-3 ofensivo,Marinho Peres,4000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855942
+10,dom 17/11/1996,14:00,Marítimo,Leça,4-2-3-1,Marinho Peres,6000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855960
+11,seg 25/11/1996,19:00,FC Porto,Marítimo,5-4-1 plano,Manuel José,5000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855979
+12,dom 01/12/1996,14:00,Marítimo,Vit. Guimarães,5-4-1 plano,Manuel José,4000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855996
+13,dom 22/12/1996,13:00,Benfica,Marítimo,4-3-3 ofensivo,Manuel José,15000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856005
+14,dom 05/01/1997,14:00,Marítimo,Braga,4-3-3 ofensivo,Manuel José,8000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856018
+15,dom 12/01/1997,13:00,Gil Vicente,Marítimo,4-2-3-1,Manuel José,2000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856024
+16,dom 19/01/1997,14:00,Marítimo,Vitória FC,5-3-2,Manuel José,5000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856033
+17,dom 26/01/1997,13:00,Leiria,Marítimo,5-3-2,Manuel José,3000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856043
+18,dom 02/02/1997,13:00,Chaves,Marítimo,4-3-3 ofensivo,Rui Vieira,2500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856055
+19,sáb 08/02/1997,14:00,Marítimo,Salgueiros,4-2-3-1,Rui Vieira,4000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856056
+20,dom 16/02/1997,12:00,CF Estrela,Marítimo,4-3-3 ofensivo,Rui Vieira,1500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856068
+21,seg 24/02/1997,18:30,Marítimo,Sporting,5-4-1 plano,Augusto Inácio,6000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856082
+22,dom 02/03/1997,13:00,Boavista,Marítimo,5-4-1 plano,Augusto Inácio,5000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856088
+23,dom 16/03/1997,12:30,Marítimo,SC Espinho,4-2-3-1,Augusto Inácio,2000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856095
+24,dom 23/03/1997,13:00,Farense,Marítimo,5-4-1 plano,Augusto Inácio,6000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856104
+25,dom 06/04/1997,12:00,Marítimo,Rio Ave,4-2-3-1,Augusto Inácio,3000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856111
+26,dom 13/04/1997,12:00,Marítimo,Belenenses,4-2-3-1,Augusto Inácio,3000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856121
+27,dom 20/04/1997,12:00,Leça,Marítimo,4-3-3 ofensivo,Augusto Inácio,1500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856132
+28,sex 25/04/1997,17:30,Marítimo,FC Porto,4-3-3 ofensivo,Augusto Inácio,5000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856137
+29,sex 02/05/1997,17:30,Vit. Guimarães,Marítimo,5-3-2,Augusto Inácio,6000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856146
+30,sáb 10/05/1997,17:30,Marítimo,Benfica,5-3-2,Augusto Inácio,5000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856156
+31,dom 18/05/1997,13:00,Braga,Marítimo,5-3-2,Augusto Inácio,6000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856176
+32,dom 25/05/1997,13:00,Marítimo,Gil Vicente,4-3-3 ofensivo,Augusto Inácio,5000,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856193
+33,dom 01/06/1997,13:00,Vitória FC,Marítimo,5-3-2,Augusto Inácio,3000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856203
+34,dom 15/06/1997,13:00,Marítimo,Leiria,5-3-2,Augusto Inácio,2500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856214

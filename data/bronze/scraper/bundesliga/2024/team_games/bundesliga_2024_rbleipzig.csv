@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 24/08/2024,10:30,Leipzig,Bochum,4-4-2 duplo 6,Marco Rose,44611,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373295
+2,sáb 31/08/2024,13:30,Leverkusen,Leipzig,3-4-2-1,Marco Rose,29615,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373311
+3,sáb 14/09/2024,10:30,Leipzig,Union Berlim,3-4-2-1,Alexander Zickler,47800,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373320
+4,dom 22/09/2024,14:30,St. Pauli,Leipzig,4-4-2,Marco Rose,29251,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373346
+5,sáb 28/09/2024,10:30,Leipzig,Augsburg,4-4-2,Marco Rose,44407,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373366
+6,dom 06/10/2024,10:30,Heidenheim,Leipzig,4-4-2,Marco Rose,15000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373386
+7,sáb 19/10/2024,10:30,Mainz,Leipzig,3-4-2-1,Marco Rose,30100,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373407
+8,sáb 26/10/2024,10:30,Leipzig,Freiburg,4-4-2 duplo 6,Marco Rose,45918,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373420
+9,sáb 02/11/2024,14:30,Dortmund,Leipzig,4-4-2 duplo 6,Marco Rose,81365,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373439
+10,sáb 09/11/2024,14:30,Leipzig,M'gladbach,3-4-2-1,Marco Rose,47000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373456
+11,sáb 23/11/2024,11:30,Hoffenheim,Leipzig,3-4-2-1,Marco Rose,28023,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373478
+12,sáb 30/11/2024,11:30,Leipzig,Wolfsburg,4-4-2,Marco Rose,44000,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373491
+13,sáb 07/12/2024,11:30,Holstein Kiel,Leipzig,4-4-2,Marco Rose,14715,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373517
+14,dom 15/12/2024,15:30,Leipzig,Frankfurt,3-4-1-2,Marco Rose,40193,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373527
+15,sex 20/12/2024,16:30,Bayern,Leipzig,3-5-2,Marco Rose,75000,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373547
+16,dom 12/01/2025,11:30,Leipzig,Werder Bremen,3-4-2-1,Marco Rose,47187,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373563
+17,qua 15/01/2025,16:30,Stuttgart,Leipzig,3-4-2-1,Marco Rose,57500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373582
+18,sáb 18/01/2025,11:30,Bochum,Leipzig,3-4-2-1,Marco Rose,24158,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373597
+19,sáb 25/01/2025,11:30,Leipzig,Leverkusen,3-4-1-2,Marco Rose,46793,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373608
+20,sáb 01/02/2025,14:30,Union Berlim,Leipzig,3-4-1-2,Marco Rose,22012,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373632
+21,dom 09/02/2025,13:30,Leipzig,St. Pauli,3-4-2-1,Marco Rose,46021,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373645
+22,sex 14/02/2025,16:30,Augsburg,Leipzig,3-4-2-1,Marco Rose,28260,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373667
+23,dom 23/02/2025,11:30,Leipzig,Heidenheim,4-4-2,Marco Rose,36619,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373690
+24,sáb 01/03/2025,11:30,Leipzig,Mainz,3-4-1-2,Marco Rose,41406,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373708
+25,sáb 08/03/2025,14:30,Freiburg,Leipzig,4-4-2,Marco Rose,32900,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373730
+26,sáb 15/03/2025,14:30,Leipzig,Dortmund,3-4-1-2,Marco Rose,47800,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373744
+27,sáb 29/03/2025,11:30,M'gladbach,Leipzig,3-4-2-1,Marco Rose,52358,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373768
+28,sáb 05/04/2025,10:30,Leipzig,Hoffenheim,4-4-2 duplo 6,Zsolt Löw,44478,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373779
+29,sex 11/04/2025,15:30,Wolfsburg,Leipzig,4-4-2 duplo 6,Zsolt Löw,23070,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373802
+30,sáb 19/04/2025,10:30,Leipzig,Holstein Kiel,4-4-2 duplo 6,Zsolt Löw,45940,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373815
+31,sáb 26/04/2025,13:30,Frankfurt,Leipzig,3-5-2 plano,Zsolt Löw,56500,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373836
+32,sáb 03/05/2025,10:30,Leipzig,Bayern,4-4-2,Zsolt Löw,47800,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373851
+33,sáb 10/05/2025,10:30,Werder Bremen,Leipzig,4-4-2 duplo 6,Zsolt Löw,41000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373873
+34,sáb 17/05/2025,10:30,Leipzig,Stuttgart,4-4-2 duplo 6,Zsolt Löw,47800,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373887

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 16/08/2015,12:00,CF União,Marítimo,4-3-3 ofensivo,Ivo Vieira,2325,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2586587
+2,sáb 22/08/2015,16:45,Marítimo,FC Porto,4-3-3 ofensivo,Ivo Vieira,7200,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2596941
+3,seg 31/08/2015,15:00,Belenenses,Marítimo,4-3-3 ofensivo,Ivo Vieira,2513,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609328
+4,dom 13/09/2015,12:00,Marítimo,Vitória FC,4-3-3 ofensivo,Ivo Vieira,4860,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609348
+5,seg 21/09/2015,15:00,Braga,Marítimo,4-3-3 ofensivo,Ivo Vieira,8991,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609356
+6,dom 27/09/2015,12:00,Marítimo,CD Tondela,4-3-3 ofensivo,Ivo Vieira,5872,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609367
+7,sáb 03/10/2015,14:30,Académica,Marítimo,4-2-3-1,Ivo Vieira,2559,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609372
+8,sáb 24/10/2015,13:15,Marítimo,Paços Ferreira,4-4-2 duplo 6,Ivo Vieira,4250,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609389
+9,dom 01/11/2015,17:15,Boavista,Marítimo,4-4-2 duplo 6,Ivo Vieira,3956,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609391
+10,dom 08/11/2015,14:00,Marítimo,Rio Ave,4-4-2 duplo 6,Ivo Vieira,5216,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609403
+11,sex 27/11/2015,18:30,Nacional,Marítimo,4-3-3 ofensivo,Ivo Vieira,3927,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609414
+12,sáb 05/12/2015,18:45,Marítimo,Sporting,4-3-3 ofensivo,Ivo Vieira,7139,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609421
+13,sáb 12/12/2015,16:30,Vit. Guimarães,Marítimo,4-3-3 ofensivo,Ivo Vieira,10407,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609429
+14,sáb 19/12/2015,16:30,Arouca,Marítimo,4-3-3 ofensivo,Ivo Vieira,1071,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609435
+15,sáb 02/01/2016,14:00,Marítimo,Estoril,4-3-3 ofensivo,Ivo Vieira,5322,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609451
+16,qua 06/01/2016,17:00,Benfica,Marítimo,4-3-3 ofensivo,Ivo Vieira,31590,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609455
+17,dom 10/01/2016,14:00,Marítimo,Moreirense,4-3-3 ofensivo,Ivo Vieira,4937,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2609465
+18,sáb 16/01/2016,16:30,Marítimo,CF União,4-3-3 ofensivo,Ivo Vieira,6937,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613537
+19,dom 24/01/2016,18:30,FC Porto,Marítimo,4-3-3 ofensivo,Nelo Vingada,32120,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613543
+20,seg 01/02/2016,18:00,Marítimo,Belenenses,4-3-3 ofensivo,Nelo Vingada,5783,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613549
+21,sáb 06/02/2016,16:30,Vitória FC,Marítimo,4-3-3 ofensivo,Nelo Vingada,1900,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613560
+22,dom 14/02/2016,17:15,Marítimo,Braga,5-4-1 plano,Nelo Vingada,6874,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613568
+23,dom 21/02/2016,13:00,CD Tondela,Marítimo,4-3-3 ofensivo,Nelo Vingada,1028,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613579
+24,dom 28/02/2016,13:00,Marítimo,Académica,4-3-3 ofensivo,Nelo Vingada,6756,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613584
+25,sex 04/03/2016,17:30,Paços Ferreira,Marítimo,4-3-3 ofensivo,Nelo Vingada,1208,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613601
+26,sex 11/03/2016,17:30,Marítimo,Boavista,4-3-3 ofensivo,Nelo Vingada,6328,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613614
+27,sex 18/03/2016,17:30,Rio Ave,Marítimo,4-3-1-2,Nelo Vingada,2403,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613627
+28,sáb 02/04/2016,14:30,Marítimo,Nacional,4-3-1-2,Nelo Vingada,7098,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613646
+29,sáb 09/04/2016,16:45,Sporting,Marítimo,4-3-1-2,Nelo Vingada,42497,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613653
+30,dom 17/04/2016,14:15,Marítimo,Vit. Guimarães,4-3-1-2,Nelo Vingada,5172,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613661
+31,dom 24/04/2016,12:00,Marítimo,Arouca,4-3-1-2,Nelo Vingada,5330,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613667
+32,dom 01/05/2016,12:00,Estoril,Marítimo,4-3-1-2,Nelo Vingada,4783,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613683
+33,dom 08/05/2016,16:30,Marítimo,Benfica,4-3-1-2,Nelo Vingada,9400,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613687
+34,dom 15/05/2016,11:00,Moreirense,Marítimo,4-3-1-2,Nelo Vingada,922,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2613697

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/08/2023,07:00,Paços Ferreira,Leiria,3-4-3 plano,Vasco Botelho da Costa,2406,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109788
+2,sáb 19/08/2023,10:00,Leiria,Benfica B,3-4-3 plano,Vasco Botelho da Costa,12178,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109608
+3,dom 27/08/2023,07:00,FC Porto B,Leiria,4-2-3-1,Vasco Botelho da Costa,650,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109780
+4,sáb 02/09/2023,11:30,Leiria,AVS,4-2-3-1,Vasco Botelho da Costa,6608,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109799
+5,dom 17/09/2023,10:00,Belenenses,Leiria,4-2-3-1,Vasco Botelho da Costa,2127,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109716
+6,dom 01/10/2023,16:30,Leiria,CD Tondela,4-2-3-1,Vasco Botelho da Costa,8112,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109776
+7,dom 08/10/2023,07:00,Mafra,Leiria,4-2-3-1,Vasco Botelho da Costa,903,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109807
+8,dom 29/10/2023,15:00,UD Oliveirense,Leiria,3-4-1-2,Vasco Botelho da Costa,548,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109816
+9,dom 05/11/2023,11:00,Leiria,Marítimo,3-5-2,Vasco Botelho da Costa,7642,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109827
+10,sáb 11/11/2023,08:00,Nacional,Leiria,3-4-3 plano,Vasco Botelho da Costa,1562,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109834
+11,sáb 18/11/2023,15:00,Leiria,Leixões,3-4-3 plano,Vasco Botelho da Costa,7014,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109849
+12,sex 01/12/2023,12:30,Vilaverdense,Leiria,3-4-3 plano,Vasco Botelho da Costa,251,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109869
+13,sex 08/12/2023,17:30,Leiria,Torreense,3-4-3 plano,Vasco Botelho da Costa,7415,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109880
+14,sáb 16/12/2023,11:00,Penafiel,Leiria,3-4-3 plano,Vasco Botelho da Costa,479,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109618
+15,sáb 30/12/2023,15:00,Leiria,Feirense,3-4-3 plano,Vasco Botelho da Costa,5017,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109885
+16,sáb 06/01/2024,15:00,Académico FC,Leiria,3-4-3 plano,Vasco Botelho da Costa,1268,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109627
+17,dom 14/01/2024,15:00,Leiria,Santa Clara,3-4-3 plano,Vasco Botelho da Costa,4377,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109843
+18,sex 22/12/2023,15:45,Leiria,Paços Ferreira,3-4-3 plano,Vasco Botelho da Costa,3618,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109863
+19,seg 29/01/2024,13:00,Benfica B,Leiria,3-5-2,Vasco Botelho da Costa,446,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109635
+20,sáb 03/02/2024,08:00,Leiria,FC Porto B,3-4-3 plano,Vasco Botelho da Costa,3704,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109905
+21,dom 11/02/2024,08:00,AVS,Leiria,3-4-3 plano,Vasco Botelho da Costa,683,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109663
+22,sáb 17/02/2024,15:00,Leiria,Belenenses,4-4-2 duplo 6,Vasco Botelho da Costa,4863,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109680
+23,sáb 24/02/2024,08:00,CD Tondela,Leiria,4-4-2 duplo 6,Vasco Botelho da Costa,1009,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109659
+24,sáb 02/03/2024,08:00,Leiria,Mafra,4-2-3-1,Vasco Botelho da Costa,4177,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109673
+25,sex 08/03/2024,17:45,Leiria,UD Oliveirense,4-2-3-1,Vasco Botelho da Costa,3155,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109645
+26,sáb 16/03/2024,12:30,Marítimo,Leiria,4-4-2 duplo 6,Vasco Botelho da Costa,6791,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109701
+27,sáb 30/03/2024,08:00,Leiria,Nacional,4-2-3-1,Filipe Cândido,5097,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109896
+28,sáb 06/04/2024,10:00,Leixões,Leiria,4-2-3-1,Filipe Cândido,2216,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109708
+29,sáb 13/04/2024,10:00,Leiria,Vilaverdense,4-2-3-1,Filipe Cândido,4143,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109688
+30,sáb 20/04/2024,10:00,Torreense,Leiria,4-2-3-1,Filipe Cândido,672,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109726
+31,qui 25/04/2024,14:00,Leiria,Penafiel,4-2-3-1,Filipe Cândido,7368,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109761
+32,sáb 04/05/2024,07:00,Feirense,Leiria,4-3-3 ofensivo,Filipe Cândido,1784,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109741
+33,seg 13/05/2024,16:15,Leiria,Académico FC,4-2-3-1,Filipe Cândido,3627,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109752
+34,dom 19/05/2024,12:30,Santa Clara,Leiria,4-2-3-1,Filipe Cândido,7443,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109740

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 15/04/2018,16:00,Internacional,Bahia,4-2-3-1,Guto Ferreira,22235,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3011402
+2,sáb 21/04/2018,16:00,Bahia,Santos,4-2-3-1,Guto Ferreira,15588,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3034132
+3,dom 29/04/2018,16:00,Bahia,Atlético-PR,4-2-3-1,Guto Ferreira,16313,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3034146
+4,dom 06/05/2018,19:00,Sport,Bahia,4-2-3-1,Guto Ferreira,15165,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036817
+5,dom 13/05/2018,16:00,Bahia,São Paulo,4-2-3-1,Guto Ferreira,20847,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036831
+6,sáb 19/05/2018,21:00,Palmeiras,Bahia,4-2-3-1,Guto Ferreira,26351,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036837
+7,dom 27/05/2018,16:00,Bahia,Vasco da Gama,4-2-3-1,Guto Ferreira,15031,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036849
+8,qui 31/05/2018,16:00,Flamengo,Bahia,4-2-3-1,Guto Ferreira,55382,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036862
+9,dom 03/06/2018,16:00,Bahia,Grêmio,4-2-3-1,Guto Ferreira,15990,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036869
+10,qui 07/06/2018,20:00,Paraná,Bahia,4-2-3-1,Claudio Prates,4927,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036882
+11,dom 10/06/2018,16:00,Bahia,Botafogo,4-2-3-1,Claudio Prates,12806,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036888
+12,qua 13/06/2018,21:45,Bahia,Corinthians,4-2-3-1,Claudio Prates,15041,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036898
+13,qui 19/07/2018,19:30,Chapecoense,Bahia,4-2-3-1,Enderson Moreira,7534,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036907
+14,dom 22/07/2018,16:00,Bahia,Vitória,4-2-3-1,Enderson Moreira,24312,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036918
+15,qua 29/08/2018,19:30,Ceará,Bahia,4-3-2-1,Enderson Moreira,10755,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036931
+16,seg 30/07/2018,20:00,Bahia,Atlético-MG,4-2-3-1,Enderson Moreira,15993,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036938
+17,dom 05/08/2018,19:00,Fluminense,Bahia,4-2-3-1,Enderson Moreira,15461,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036949
+18,sáb 11/08/2018,19:00,Bahia,América-MG,4-2-3-1,Enderson Moreira,19100,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036958
+19,dom 19/08/2018,16:00,Cruzeiro,Bahia,4-2-3-1,Enderson Moreira,24367,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036965
+20,qua 22/08/2018,19:30,Bahia,Internacional,4-2-3-1,Enderson Moreira,18671,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036978
+21,sáb 25/08/2018,16:00,Santos,Bahia,4-2-3-1,Enderson Moreira,11564,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036992
+22,dom 02/09/2018,16:00,Atlético-PR,Bahia,4-2-3-1,Enderson Moreira,13433,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036996
+23,qua 05/09/2018,19:30,Bahia,Sport,4-3-2-1,Enderson Moreira,13816,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037008
+24,sáb 08/09/2018,19:00,São Paulo,Bahia,4-3-2-1,Enderson Moreira,43550,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037021
+25,dom 16/09/2018,16:00,Bahia,Palmeiras,4-3-2-1,Enderson Moreira,24951,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037028
+26,seg 24/09/2018,20:00,Vasco da Gama,Bahia,4-2-3-1,Enderson Moreira,13293,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037039
+27,sáb 29/09/2018,21:00,Bahia,Flamengo,4-3-2-1,Enderson Moreira,31626,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037048
+28,sáb 06/10/2018,21:00,Grêmio,Bahia,4-3-2-1,Enderson Moreira,31516,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037064
+29,sáb 13/10/2018,21:00,Bahia,Paraná,4-3-2-1,Enderson Moreira,29328,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037068
+30,sáb 20/10/2018,16:00,Botafogo,Bahia,4-4-1-1,Enderson Moreira,8180,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037080
+31,sáb 27/10/2018,19:00,Corinthians,Bahia,4-2-3-1,Enderson Moreira,35577,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037093
+32,dom 04/11/2018,19:00,Bahia,Chapecoense,4-3-2-1,Enderson Moreira,17448,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037098
+33,dom 11/11/2018,17:00,Vitória,Bahia,4-3-2-1,Enderson Moreira,22332,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037108
+34,qua 14/11/2018,21:00,Bahia,Ceará,4-2-3-1,Enderson Moreira,17825,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037118
+35,sáb 17/11/2018,21:00,Atlético-MG,Bahia,4-4-1-1,Enderson Moreira,17313,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037125
+36,qui 22/11/2018,21:00,Bahia,Fluminense,4-3-2-1,Enderson Moreira,16437,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037138
+37,dom 25/11/2018,19:00,América-MG,Bahia,4-3-1-2,Enderson Moreira,4398,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037147
+38,dom 02/12/2018,17:00,Bahia,Cruzeiro,4-3-1-2,Enderson Moreira,27776,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037158

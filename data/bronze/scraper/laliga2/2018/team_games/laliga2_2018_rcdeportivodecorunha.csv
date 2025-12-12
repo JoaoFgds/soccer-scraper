@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 17/08/2018,17:00,Albacete,Deportivo,4-2-3-1,Natxo González,5934,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080457
+2,sex 24/08/2018,17:00,Extremadura,Deportivo,4-3-3 ofensivo,Natxo González,10827,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080477
+3,sáb 01/09/2018,15:30,Tenerife,Deportivo,4-3-3 ofensivo,Natxo González,12139,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080486
+4,dom 09/09/2018,15:45,Deportivo,Real Sporting,4-3-1-2,Natxo González,15961,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080490
+5,sáb 15/09/2018,15:00,AD Alcorcón,Deportivo,4-3-1-2,Natxo González,3232,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089553
+6,seg 24/09/2018,16:00,Deportivo,Granada CF,4-3-1-2,Natxo González,13822,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089564
+7,dom 30/09/2018,15:30,Gimnàstic,Deportivo,4-3-1-2,Natxo González,4931,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089580
+8,dom 07/10/2018,13:00,Deportivo,Málaga CF,4-3-1-2,Natxo González,18374,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089586
+9,sex 12/10/2018,16:00,Deportivo,Elche,4-3-1-2,Natxo González,17092,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089608
+10,sáb 20/10/2018,15:00,Córdoba,Deportivo,4-3-1-2,Natxo González,10604,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089599
+11,sáb 27/10/2018,11:00,Deportivo,Reus Deportiu,4-3-1-2,Natxo González,15482,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089618
+12,sáb 03/11/2018,16:30,Las Palmas,Deportivo,4-3-1-2,Natxo González,15499,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089635
+13,sáb 10/11/2018,17:30,Deportivo,Real Oviedo,4-3-1-2,Natxo González,18739,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089641
+14,seg 19/11/2018,18:00,UD Almería,Deportivo,4-3-1-2,Natxo González,5477,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089653
+15,sáb 24/11/2018,15:00,Deportivo,Osasuna,4-3-1-2,Natxo González,13628,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089664
+16,dom 02/12/2018,09:00,R. Majadahonda,Deportivo,4-3-1-2,Natxo González,2812,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089680
+17,sáb 08/12/2018,10:00,Deportivo,Numância,4-3-1-2,Natxo González,15576,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089687
+18,dom 16/12/2018,17:30,Deportivo,Zaragoza,4-3-1-2,Natxo González,14276,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089696
+19,sáb 22/12/2018,17:45,Cádiz CF,Deportivo,5-3-2,Natxo González,14126,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089808
+20,dom 06/01/2019,14:30,Deportivo,Lugo,4-3-1-2,Natxo González,21516,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089818
+21,sáb 12/01/2019,17:30,Mallorca,Deportivo,4-3-1-2,Natxo González,7593,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089835
+22,dom 20/01/2019,15:00,Deportivo,Albacete,4-2-3-1,Natxo González,16446,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089842
+23,dom 27/01/2019,15:00,Real Sporting,Deportivo,4-3-3 defensivo,Natxo González,20740,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089856
+24,sáb 02/02/2019,17:30,Deportivo,Tenerife,4-3-3 defensivo,Natxo González,18071,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3089861
+25,dom 10/02/2019,15:00,Granada CF,Deportivo,4-3-3 ofensivo,Natxo González,13128,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3093041
+26,sáb 16/02/2019,13:00,Deportivo,Gimnàstic,4-3-3 defensivo,Natxo González,16818,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3093047
+27,dom 24/02/2019,14:00,Málaga CF,Deportivo,4-3-3 defensivo,Natxo González,22414,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3093063
+28,seg 04/03/2019,17:00,Deportivo,AD Alcorcón,4-2-3-1,Natxo González,16169,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3093072
+29,dom 10/03/2019,16:00,Deportivo,Las Palmas,4-2-3-1,Natxo González,16247,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3093078
+30,dom 17/03/2019,12:00,Reus Deportiu,Deportivo,?,Natxo González,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3093096
+31,sex 22/03/2019,17:00,Deportivo,UD Almería,4-2-3-1,Natxo González,16086,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3093107
+32,dom 31/03/2019,13:00,Real Oviedo,Deportivo,4-2-3-1,Natxo González,18035,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3093117
+33,sáb 06/04/2019,11:00,Deportivo,R. Majadahonda,4-3-1-2,Natxo González,15658,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094019
+34,sáb 13/04/2019,13:00,Osasuna,Deportivo,4-3-1-2,Josep Lluís Martí,16383,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094035
+35,dom 21/04/2019,11:00,Deportivo,Extremadura,4-2-3-1,Josep Lluís Martí,16552,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094043
+36,sex 26/04/2019,16:00,Numância,Deportivo,4-4-2 duplo 6,Josep Lluís Martí,3505,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094067
+37,sáb 04/05/2019,13:00,Zaragoza,Deportivo,4-4-2 duplo 6,Josep Lluís Martí,21404,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094080
+38,dom 12/05/2019,11:00,Deportivo,Cádiz CF,4-4-2 duplo 6,Josep Lluís Martí,18399,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094095
+39,dom 19/05/2019,15:00,Lugo,Deportivo,4-4-2 duplo 6,Josep Lluís Martí,6093,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094106
+40,seg 27/05/2019,16:00,Deportivo,Mallorca,4-4-2 duplo 6,Josep Lluís Martí,13602,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094110
+41,dom 02/06/2019,15:00,Elche,Deportivo,4-4-2 duplo 6,Josep Lluís Martí,5914,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094128
+42,sáb 08/06/2019,15:30,Deportivo,Córdoba,4-4-2 duplo 6,Josep Lluís Martí,22269,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3094139

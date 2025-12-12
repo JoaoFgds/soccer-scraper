@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 08/09/1996,11:00,Cagliari,Atalanta,?,Emiliano Mondonico,15000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214833
+2,dom 15/09/1996,11:00,Atalanta,Florenz,?,Emiliano Mondonico,18000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214843
+3,dom 22/09/1996,11:00,Vicenza,Atalanta,?,Emiliano Mondonico,14000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214847
+4,dom 29/09/1996,11:00,Atalanta,Inter,5-4-1 plano,Emiliano Mondonico,23466,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214861
+5,dom 13/10/1996,11:30,Perugia,Atalanta,5-3-2,Emiliano Mondonico,17346,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214864
+6,dom 20/10/1996,11:30,Sampdoria,Atalanta,4-4-2 duplo 6,Emiliano Mondonico,21836,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214875
+7,sáb 26/10/1996,11:30,Atalanta,Lazio,?,Emiliano Mondonico,17032,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214888
+8,dom 03/11/1996,11:30,Milan,Atalanta,5-4-1 plano,Emiliano Mondonico,53821,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214898
+9,dom 17/11/1996,11:30,Atalanta,Udinese,?,Emiliano Mondonico,15811,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214903
+10,dom 24/11/1996,11:30,Bologna,Atalanta,4-5-1 plano,Emiliano Mondonico,24561,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214911
+11,dom 01/12/1996,11:30,Atalanta,Napoli,3-5-2,Emiliano Mondonico,17291,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214923
+12,dom 08/12/1996,11:30,AC Parma,Atalanta,5-4-1 plano,Emiliano Mondonico,20396,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214932
+13,dom 15/12/1996,11:30,Atalanta,Piacenza,4-4-2 duplo 6,Emiliano Mondonico,15939,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214942
+14,dom 22/12/1996,11:30,Roma,Atalanta,4-5-1,Emiliano Mondonico,46739,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214946
+15,dom 05/01/1997,11:30,Atalanta,Verona,5-3-2,Emiliano Mondonico,17730,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214960
+16,dom 12/01/1997,11:30,Juventus,Atalanta,5-4-1 plano,Emiliano Mondonico,35077,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214967
+17,dom 19/01/1997,11:30,Atalanta,Reggiana,4-4-2 duplo 6,Emiliano Mondonico,25786,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214978
+18,dom 26/01/1997,11:30,Atalanta,Cagliari,4-5-1,Emiliano Mondonico,18538,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214986
+19,dom 02/02/1997,17:30,Florenz,Atalanta,4-5-1,Emiliano Mondonico,34550,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214990
+20,dom 16/02/1997,11:00,Atalanta,Vicenza,4-5-1,Emiliano Mondonico,22669,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215002
+21,dom 23/02/1997,11:00,Inter,Atalanta,4-5-1,Emiliano Mondonico,54803,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215007
+22,dom 02/03/1997,11:00,Atalanta,Perugia,4-4-2,Emiliano Mondonico,18417,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215020
+23,dom 09/03/1997,11:00,Atalanta,Sampdoria,4-4-1-1,Emiliano Mondonico,21500,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215032
+24,dom 16/03/1997,11:00,Lazio,Atalanta,4-5-1,Emiliano Mondonico,33111,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215034
+25,dom 23/03/1997,11:00,Atalanta,Milan,5-3-2,Emiliano Mondonico,24769,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215050
+26,dom 06/04/1997,11:00,Udinese,Atalanta,4-4-2 duplo 6,Emiliano Mondonico,12498,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215053
+27,dom 13/04/1997,11:00,Atalanta,Bologna,4-4-1-1,Emiliano Mondonico,17557,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215068
+28,dom 20/04/1997,15:30,Napoli,Atalanta,5-3-2,Emiliano Mondonico,39215,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215074
+29,dom 04/05/1997,11:00,Atalanta,AC Parma,3-5-2 plano,Emiliano Mondonico,18347,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215082
+30,dom 11/05/1997,11:00,Piacenza,Atalanta,?,Emiliano Mondonico,10876,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215094
+31,qui 15/05/1997,15:30,Atalanta,Roma,?,Emiliano Mondonico,17221,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215100
+32,dom 18/05/1997,11:30,Verona,Atalanta,?,Emiliano Mondonico,12542,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215112
+33,sex 23/05/1997,15:30,Atalanta,Juventus,5-3-2,Emiliano Mondonico,24974,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215124
+34,dom 01/06/1997,11:30,Reggiana,Atalanta,?,Emiliano Mondonico,9678,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215116

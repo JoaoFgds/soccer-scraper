@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 01/08/2022,16:00,Watford,Sheff Utd,3-4-3 plano,Rob Edwards,19536,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856451
+2,seg 08/08/2022,16:00,West Brom,Watford,3-4-3 plano,Rob Edwards,22365,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856519
+3,sex 12/08/2022,16:00,Watford,FC Burnley,4-2-3-1,Rob Edwards,19225,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856538
+4,ter 16/08/2022,15:45,Birmingham,Watford,3-4-1-2,Rob Edwards,16811,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856548
+5,sáb 20/08/2022,11:00,Preston NE,Watford,3-4-1-2,Rob Edwards,15317,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856573
+6,sáb 27/08/2022,11:00,Watford,QPR,4-4-2 duplo 6,Rob Edwards,19977,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856598
+7,ter 30/08/2022,16:00,Watford,Middlesbrough,3-5-2,Rob Edwards,20022,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856775
+8,sáb 03/09/2022,11:00,Rotherham,Watford,3-5-2,Rob Edwards,10607,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856617
+9,ter 08/11/2022,17:00,Watford,Reading,4-2-3-1,Slaven Bilic,18847,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856638
+10,ter 13/09/2022,15:45,Blackburn,Watford,3-4-1-2,Rob Edwards,11803,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856688
+11,sáb 17/09/2022,11:00,Watford,AFC Sunderland,4-2-3-1,Rob Edwards,19767,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856718
+12,dom 02/10/2022,08:00,Stoke,Watford,4-2-3-1,Slaven Bilic,19905,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856885
+13,qua 05/10/2022,15:45,Watford,Swansea,4-2-3-1,Slaven Bilic,17231,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856679
+14,sáb 08/10/2022,11:00,Blackpool,Watford,4-3-3 ofensivo,Slaven Bilic,11567,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856753
+15,sáb 15/10/2022,15:45,Watford,Norwich,4-2-3-1,Slaven Bilic,19400,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856659
+16,qua 19/10/2022,16:00,Millwall,Watford,4-2-3-1,Slaven Bilic,12787,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856805
+17,dom 23/10/2022,08:00,Watford,Luton,4-2-3-1,Slaven Bilic,19282,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856827
+18,sáb 29/10/2022,11:00,Wigan,Watford,4-2-3-1,Slaven Bilic,10642,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856907
+19,qua 02/11/2022,16:45,Cardiff,Watford,4-2-3-1,Slaven Bilic,17036,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856864
+20,sáb 05/11/2022,12:00,Watford,Coventry City,4-2-3-1,Slaven Bilic,20164,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856739
+21,sáb 12/11/2022,12:00,Bristol City,Watford,4-3-3 ofensivo,Slaven Bilic,23501,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856837
+22,dom 11/12/2022,12:00,Watford,Hull City,4-2-3-1,Slaven Bilic,18846,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857123
+23,sáb 17/12/2022,12:00,Huddersfield,Watford,4-2-3-1,Slaven Bilic,18434,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856913
+24,seg 26/12/2022,09:00,Watford,Millwall,4-2-3-1,Slaven Bilic,20204,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857039
+25,sex 30/12/2022,16:45,Swansea,Watford,5-3-2,Slaven Bilic,17339,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856929
+26,seg 02/01/2023,12:00,Norwich,Watford,3-4-2-1,Slaven Bilic,26587,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856986
+27,sáb 14/01/2023,12:00,Watford,Blackpool,5-3-2,Slaven Bilic,19679,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856943
+28,sáb 21/01/2023,12:00,Watford,Rotherham,4-2-3-1,Slaven Bilic,18911,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857014
+29,sáb 28/01/2023,12:00,Middlesbrough,Watford,3-4-2-1,Slaven Bilic,25469,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856960
+30,sáb 04/02/2023,12:00,Reading,Watford,4-4-2 duplo 6,Slaven Bilic,13861,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857096
+31,sáb 11/02/2023,12:00,Watford,Blackburn,4-4-2 duplo 6,Slaven Bilic,19294,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856978
+32,ter 14/02/2023,17:00,FC Burnley,Watford,4-3-3 ofensivo,Slaven Bilic,18393,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857101
+33,seg 20/02/2023,17:00,Watford,West Brom,4-2-3-1,Slaven Bilic,18634,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856954
+34,sáb 25/02/2023,12:00,Sheff Utd,Watford,4-2-3-1,Slaven Bilic,29132,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857048
+35,sáb 04/03/2023,12:00,Watford,Preston NE,4-2-3-1,Slaven Bilic,19244,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857002
+36,sáb 11/03/2023,12:00,QPR,Watford,3-4-3 plano,Chris Wilder,17247,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857182
+37,ter 14/03/2023,16:45,Watford,Birmingham,3-5-2 plano,Chris Wilder,18403,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857128
+38,sáb 18/03/2023,12:00,Watford,Wigan,3-5-2,Chris Wilder,18523,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857147
+39,sáb 01/04/2023,08:30,Luton,Watford,3-5-2 ofensivo,Chris Wilder,10046,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857059
+40,sex 07/04/2023,11:00,Watford,Huddersfield,3-4-2-1,Chris Wilder,19511,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857027
+41,seg 10/04/2023,11:00,Coventry City,Watford,4-1-4-1,Chris Wilder,21112,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857152
+42,sáb 15/04/2023,11:00,Watford,Bristol City,4-1-4-1,Chris Wilder,19148,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857087
+43,qua 19/04/2023,15:45,Watford,Cardiff,4-1-4-1,Chris Wilder,17005,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857075
+44,sáb 22/04/2023,11:00,Hull City,Watford,4-1-4-1,Chris Wilder,20666,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857199
+45,sáb 29/04/2023,11:00,AFC Sunderland,Watford,4-2-3-1,Chris Wilder,44944,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857170
+46,seg 08/05/2023,11:00,Watford,Stoke,5-3-2,Chris Wilder,20100,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857201

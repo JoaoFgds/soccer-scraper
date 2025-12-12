@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 09/08/1997,19:00,Tottenham,Man Utd,4-2-3-1,Alex Ferguson,26359,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941314
+2,ter 12/08/1997,19:00,Man Utd,Southampton,4-2-3-1,Alex Ferguson,55008,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941318
+3,sex 22/08/1997,19:00,Leicester,Man Utd,4-2-3-1,Alex Ferguson,21221,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941332
+4,ter 26/08/1997,19:00,Everton,Man Utd,4-2-3-1,Alex Ferguson,40079,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941343
+5,sex 29/08/1997,19:00,Man Utd,Coventry City,?,Alex Ferguson,55074,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941345
+6,sex 12/09/1997,19:00,Man Utd,West Ham,?,Alex Ferguson,55068,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941358
+7,sex 19/09/1997,19:00,Bolton,Man Utd,?,Alex Ferguson,25000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941369
+8,ter 23/09/1997,19:00,Man Utd,Chelsea,4-2-3-1,Alex Ferguson,55163,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941380
+9,sex 26/09/1997,19:00,Leeds,Man Utd,?,Alex Ferguson,39952,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941392
+10,sex 03/10/1997,19:00,Man Utd,Crystal Palace,?,Alex Ferguson,55143,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941395
+11,sex 17/10/1997,20:00,Derby,Man Utd,?,Alex Ferguson,30014,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941410
+12,sex 24/10/1997,20:00,Man Utd,Barnsley FC,?,Alex Ferguson,55142,7:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941419
+13,sex 31/10/1997,21:00,Man Utd,Sheff Wed,4-3-1-2,Alex Ferguson,55259,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941425
+14,sáb 08/11/1997,21:00,Arsenal,Man Utd,4-4-2,Alex Ferguson,38205,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941442
+15,sex 21/11/1997,21:00,Wimbledon FC,Man Utd,?,Alex Ferguson,26309,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941451
+16,sáb 29/11/1997,21:00,Man Utd,Blackburn,?,Alex Ferguson,55175,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941463
+17,sex 05/12/1997,21:00,Liverpool,Man Utd,4-4-2 duplo 6,Alex Ferguson,41027,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941466
+18,dom 14/12/1997,21:00,Man Utd,Aston Villa,?,Alex Ferguson,55151,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941484
+19,sáb 20/12/1997,21:00,Newcastle,Man Utd,?,Alex Ferguson,36767,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941493
+20,qui 25/12/1997,21:00,Man Utd,Everton,?,Alex Ferguson,55167,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941496
+21,sáb 27/12/1997,21:00,Coventry City,Man Utd,?,Alex Ferguson,23054,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942109
+22,sex 09/01/1998,21:00,Man Utd,Tottenham,4-3-2-1,Alex Ferguson,55281,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942114
+23,dom 18/01/1998,21:00,Southampton,Man Utd,?,Alex Ferguson,15241,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942132
+24,sex 30/01/1998,21:00,Man Utd,Leicester,?,Alex Ferguson,55156,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942135
+25,sex 06/02/1998,21:00,Man Utd,Bolton,?,Alex Ferguson,55156,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942146
+26,ter 10/03/1998,20:00,West Ham,Man Utd,?,Alex Ferguson,25892,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942160
+27,sex 20/02/1998,21:00,Man Utd,Derby,?,Alex Ferguson,55170,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942171
+28,sex 27/02/1998,21:00,Chelsea,Man Utd,?,Alex Ferguson,34511,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942178
+29,sex 06/03/1998,20:00,Sheff Wed,Man Utd,?,Alex Ferguson,39427,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942187
+30,sáb 14/03/1998,08:15,Man Utd,Arsenal,4-4-2 duplo 6,Alex Ferguson,55174,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942198
+31,sex 27/03/1998,20:00,Man Utd,Wimbledon FC,?,Alex Ferguson,55306,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942206
+32,dom 05/04/1998,19:00,Blackburn,Man Utd,?,Alex Ferguson,30547,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942226
+33,qui 09/04/1998,19:00,Man Utd,Liverpool,4-4-2 duplo 6,Alex Ferguson,55171,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942228
+34,ter 17/02/1998,21:00,Aston Villa,Man Utd,?,Alex Ferguson,39372,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942238
+35,sex 17/04/1998,19:00,Man Utd,Newcastle,?,Alex Ferguson,55194,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942248
+36,dom 26/04/1998,19:00,Crystal Palace,Man Utd,?,Alex Ferguson,26180,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942267
+37,dom 03/05/1998,19:00,Man Utd,Leeds,?,Alex Ferguson,55167,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941294
+38,sáb 09/05/1998,19:00,Barnsley FC,Man Utd,?,Alex Ferguson,18694,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941296

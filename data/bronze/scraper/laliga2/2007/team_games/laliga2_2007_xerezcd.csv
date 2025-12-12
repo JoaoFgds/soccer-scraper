@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 25/08/2007,13:30,Hércules CF,Xerez CD,4-5-1,Juan Casuco,7000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79420
+2,dom 02/09/2007,12:30,Xerez CD,Albacete,4-5-1,Miguel Ángel Rondán,6000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79404
+3,dom 09/09/2007,12:00,Numância,Xerez CD,4-4-2 duplo 6,Miguel Ángel Rondán,5000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79433
+4,sáb 15/09/2007,12:30,Xerez CD,Real Sporting,4-5-1,Miguel Ángel Rondán,7000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79446
+5,dom 23/09/2007,12:00,Racing Ferrol,Xerez CD,4-3-3 ofensivo,Miguel Ángel Rondán,4000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79451
+6,dom 30/09/2007,12:00,Xerez CD,Real Sociedad,4-4-2 duplo 6,Miguel Ángel Rondán,8300,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79468
+7,sáb 06/10/2007,12:30,Celta de Vigo,Xerez CD,4-4-2 duplo 6,Miguel Ángel Rondán,7612,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79471
+8,dom 14/10/2007,13:00,Xerez CD,Gimnàstic,4-5-1,Miguel Ángel Rondán,8000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79491
+9,dom 21/10/2007,12:00,Málaga CF,Xerez CD,4-5-1,Miguel Ángel Rondán,18000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79497
+10,dom 28/10/2007,14:00,Xerez CD,Sevilha Atl.,?,Miguel Ángel Rondán,7000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79512
+11,sáb 03/11/2007,15:30,Cádiz CF,Xerez CD,?,Antonio Méndez,17500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79515
+12,dom 11/11/2007,15:00,Xerez CD,Granada 74,?,Juan Casuco,7000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79534
+13,dom 18/11/2007,15:00,Tenerife,Xerez CD,?,Esteban Vigo,10651,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79545
+14,dom 25/11/2007,14:00,Xerez CD,UD Salamanca,?,Juan Casuco,6000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79556
+15,dom 02/12/2007,14:00,Alavés,Xerez CD,?,Juan Casuco,7130,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79558
+16,dom 09/12/2007,14:00,Xerez CD,Córdoba,?,Esteban Vigo,6350,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79578
+17,dom 16/12/2007,14:00,Castellón,Xerez CD,?,Esteban Vigo,8000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79582
+18,sáb 22/12/2007,14:30,Xerez CD,Eibar,?,Juan Casuco,4703,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79600
+19,dom 06/01/2008,14:00,Poli Ejido,Xerez CD,?,Juan Casuco,4000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79609
+20,sáb 12/01/2008,15:30,Xerez CD,Las Palmas,?,Juan Casuco,8000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79622
+21,dom 20/01/2008,14:00,Elche,Xerez CD,?,Juan Casuco,13000,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79630
+22,dom 27/01/2008,14:00,Xerez CD,Hércules CF,?,Juan Casuco,7000,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79644
+23,sáb 02/02/2008,15:30,Albacete,Xerez CD,3-4-3,Juan Casuco,5632,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79646
+24,dom 10/02/2008,14:00,Xerez CD,Numância,4-5-1,Juan Casuco,7000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79666
+25,sáb 16/02/2008,15:30,Real Sporting,Xerez CD,5-4-1,Esteban Vigo,13200,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79672
+26,dom 24/02/2008,13:00,Xerez CD,Racing Ferrol,5-4-1,Esteban Vigo,8500,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79688
+27,dom 02/03/2008,13:00,Real Sociedad,Xerez CD,4-5-1,Esteban Vigo,25425,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79698
+28,sáb 08/03/2008,14:30,Xerez CD,Celta de Vigo,4-5-1,Esteban Vigo,5000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79710
+29,dom 16/03/2008,13:00,Gimnàstic,Xerez CD,4-5-1,Esteban Vigo,11000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79722
+30,sáb 22/03/2008,14:30,Xerez CD,Málaga CF,4-5-1,Esteban Vigo,11000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79732
+31,sáb 29/03/2008,15:00,Sevilha Atl.,Xerez CD,4-5-1,Esteban Vigo,3500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79741
+32,sáb 05/04/2008,13:30,Xerez CD,Cádiz CF,4-5-1,Esteban Vigo,8000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79754
+33,sáb 12/04/2008,14:00,Granada 74,Xerez CD,3-5-2,Esteban Vigo,3500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79759
+34,dom 20/04/2008,12:30,Xerez CD,Tenerife,4-5-1,Esteban Vigo,7168,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79776
+35,dom 27/04/2008,12:00,UD Salamanca,Xerez CD,5-4-1,Esteban Vigo,7558,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79787
+36,dom 04/05/2008,14:00,Xerez CD,Alavés,4-5-1,Esteban Vigo,6000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79798
+37,dom 11/05/2008,13:00,Córdoba,Xerez CD,4-5-1,Esteban Vigo,7000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79804
+38,sáb 17/05/2008,13:30,Xerez CD,Castellón,4-5-1,Esteban Vigo,7000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79820
+39,dom 25/05/2008,13:00,Eibar,Xerez CD,4-5-1,Esteban Vigo,2166,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79826
+40,dom 01/06/2008,12:00,Xerez CD,Poli Ejido,4-5-1,Esteban Vigo,14000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79842
+41,dom 08/06/2008,13:00,Las Palmas,Xerez CD,4-5-1,Esteban Vigo,12632,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79851
+42,dom 15/06/2008,13:00,Xerez CD,Elche,4-5-1,Esteban Vigo,18136,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/79864

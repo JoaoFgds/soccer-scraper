@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 24/08/1997,17:00,Benfica,Campomaiorense,3-5-2,Manuel José,35000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855481
+2,dom 31/08/1997,17:30,Vitória FC,Benfica,3-5-2,Manuel José,5000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855499
+3,dom 14/09/1997,17:30,Benfica,Académica,3-5-2,Manuel José,12000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855571
+4,sáb 20/09/1997,17:30,Rio Ave,Benfica,4-4-2 duplo 6,Manuel José,10000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855578
+5,sáb 27/09/1997,17:30,Benfica,Sporting,4-3-1-2,Mário Wilson,25000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855589
+6,sáb 04/10/1997,17:30,Braga,Benfica,4-3-1-2,Mário Wilson,20000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855595
+7,dom 19/10/1997,13:00,Benfica,Farense,5-3-2,Mário Wilson,10000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855607
+8,sáb 01/11/1997,19:30,Chaves,Benfica,4-4-2 duplo 6,Mário Wilson,10000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855615
+9,seg 10/11/1997,19:00,Benfica,Vit. Guimarães,4-4-2 duplo 6,Graeme Souness,50000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855630
+10,sex 21/11/1997,19:30,Boavista,Benfica,4-4-2 duplo 6,Graeme Souness,12000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855633
+11,sáb 29/11/1997,19:30,Belenenses,Benfica,4-4-2 duplo 6,Graeme Souness,5000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855642
+12,dom 07/12/1997,16:00,Benfica,Salgueiros,4-4-2 duplo 6,Graeme Souness,70000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855656
+13,sex 12/12/1997,19:30,Marítimo,Benfica,?,Graeme Souness,7000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855660
+14,dom 21/12/1997,19:30,Benfica,Varzim,?,Graeme Souness,5000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855672
+15,sáb 03/01/1998,19:30,FC Porto,Benfica,4-2-3-1,Graeme Souness,40000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855678
+16,dom 11/01/1998,14:00,Benfica,CF Estrela,4-4-2,Graeme Souness,25000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855693
+17,dom 18/01/1998,19:30,Leça,Benfica,?,Graeme Souness,8000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855700
+18,sáb 24/01/1998,19:30,Campomaiorense,Benfica,?,Graeme Souness,9000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855705
+19,dom 01/02/1998,14:00,Benfica,Vitória FC,?,Graeme Souness,20000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855721
+20,sáb 07/02/1998,19:30,Académica,Benfica,?,Graeme Souness,20000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855723
+21,dom 15/02/1998,14:00,Benfica,Rio Ave,?,Graeme Souness,50000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855735
+22,dom 22/02/1998,19:30,Sporting,Benfica,4-4-2,Graeme Souness,40000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855747
+23,dom 01/03/1998,15:00,Benfica,Braga,?,Graeme Souness,70000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855757
+24,dom 08/03/1998,18:30,Farense,Benfica,?,Graeme Souness,12000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855765
+25,dom 15/03/1998,13:00,Benfica,Chaves,?,Graeme Souness,50000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855775
+26,dom 22/03/1998,13:00,Vit. Guimarães,Benfica,?,Graeme Souness,25000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855780
+27,sáb 28/03/1998,15:00,Benfica,Boavista,?,Graeme Souness,20000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855786
+28,dom 05/04/1998,13:00,Benfica,Belenenses,?,Graeme Souness,30000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855801
+29,sáb 11/04/1998,17:30,Salgueiros,Benfica,?,Graeme Souness,7000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855808
+30,dom 19/04/1998,13:00,Benfica,Marítimo,?,Graeme Souness,10000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855817
+31,sáb 25/04/1998,17:30,Varzim,Benfica,?,Graeme Souness,7000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855823
+32,sáb 02/05/1998,13:00,Benfica,FC Porto,4-4-2,Graeme Souness,50000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855832
+33,seg 11/05/1998,16:30,CF Estrela,Benfica,4-4-2 duplo 6,Graeme Souness,3000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3709375
+34,dom 17/05/1998,13:00,Benfica,Leça,4-1-3-2,Graeme Souness,5000,7:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855854

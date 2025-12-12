@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 12/08/2018,12:00,Arsenal,Man City,4-2-3-1,Unai Emery,59934,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050167
+2,sáb 18/08/2018,13:30,Chelsea,Arsenal,4-2-3-1,Unai Emery,40491,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050180
+3,sáb 25/08/2018,11:00,Arsenal,West Ham,4-2-3-1,Unai Emery,59830,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050187
+4,dom 02/09/2018,09:30,Cardiff,Arsenal,4-2-3-1,Unai Emery,32316,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050199
+5,sáb 15/09/2018,11:00,Newcastle,Arsenal,4-2-3-1,Unai Emery,52165,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050212
+6,dom 23/09/2018,12:00,Arsenal,Everton,4-2-3-1,Unai Emery,59964,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050217
+7,sáb 29/09/2018,11:00,Arsenal,Watford,4-2-3-1,Unai Emery,60019,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050227
+8,dom 07/10/2018,08:00,Fulham,Arsenal,4-4-2 duplo 6,Unai Emery,25401,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050240
+9,seg 22/10/2018,16:00,Arsenal,Leicester,4-2-3-1,Unai Emery,59886,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050247
+10,dom 28/10/2018,10:30,Crystal Palace,Arsenal,4-2-3-1,Unai Emery,25718,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050259
+11,sáb 03/11/2018,14:30,Arsenal,Liverpool,4-2-3-1,Unai Emery,59993,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050267
+12,dom 11/11/2018,14:30,Arsenal,Wolves,4-2-3-1,Unai Emery,60030,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050277
+13,dom 25/11/2018,11:30,Bournemouth,Arsenal,3-4-2-1,Unai Emery,10792,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050287
+14,dom 02/12/2018,12:05,Arsenal,Tottenham,3-4-2-1,Unai Emery,59973,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050297
+15,qua 05/12/2018,18:00,Man Utd,Arsenal,3-4-2-1,Unai Emery,74507,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3056407
+16,sáb 08/12/2018,13:00,Arsenal,Huddersfield,3-5-2 plano,Unai Emery,59893,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050317
+17,dom 16/12/2018,11:30,Southampton,Arsenal,5-4-1 plano,Unai Emery,29497,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050333
+18,sáb 22/12/2018,10:30,Arsenal,FC Burnley,4-3-1-2,Unai Emery,59493,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050337
+19,qua 26/12/2018,15:15,Brighton,Arsenal,4-3-1-2,Unai Emery,30608,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050417
+20,sáb 29/12/2018,15:30,Liverpool,Arsenal,4-2-3-1,Unai Emery,53326,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050352
+21,ter 01/01/2019,13:00,Arsenal,Fulham,5-4-1 plano,Unai Emery,59887,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050357
+22,sáb 12/01/2019,10:30,West Ham,Arsenal,3-4-3 plano,Unai Emery,59946,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050376
+23,sáb 19/01/2019,15:30,Arsenal,Chelsea,4-3-1-2,Unai Emery,59979,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050377
+24,ter 29/01/2019,17:45,Arsenal,Cardiff,4-3-1-2,Unai Emery,59933,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050387
+25,dom 03/02/2019,14:30,Man City,Arsenal,4-4-2 duplo 6,Unai Emery,54483,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050404
+26,sáb 09/02/2019,13:00,Huddersfield,Arsenal,3-4-3 plano,Unai Emery,24182,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050410
+27,dom 24/02/2019,11:05,Arsenal,Southampton,4-2-3-1,Unai Emery,59877,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050427
+28,qua 27/02/2019,16:45,Arsenal,Bournemouth,3-4-2-1,Unai Emery,59618,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050437
+29,sáb 02/03/2019,09:30,Tottenham,Arsenal,4-2-3-1,Unai Emery,81332,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050453
+30,dom 10/03/2019,13:30,Arsenal,Man Utd,3-4-1-2,Unai Emery,60000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050457
+31,qua 24/04/2019,15:45,Wolves,Arsenal,4-2-3-1,Unai Emery,31436,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050484
+32,seg 01/04/2019,16:00,Arsenal,Newcastle,5-4-1 plano,Unai Emery,59869,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050485
+33,dom 07/04/2019,10:05,Everton,Arsenal,3-4-2-1,Unai Emery,39400,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050497
+34,seg 15/04/2019,16:00,Watford,Arsenal,4-2-3-1,Unai Emery,20480,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050522
+35,dom 21/04/2019,12:00,Arsenal,Crystal Palace,3-4-1-2,Unai Emery,59929,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050523
+36,dom 28/04/2019,08:00,Leicester,Arsenal,4-4-2 duplo 6,Unai Emery,32037,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050537
+37,dom 05/05/2019,12:30,Arsenal,Brighton,4-3-1-2,Unai Emery,59965,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050551
+38,dom 12/05/2019,11:00,FC Burnley,Arsenal,4-2-3-1,Unai Emery,21461,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3050562

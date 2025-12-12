@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 09/04/2022,21:00,Tombense,Operário-PR,4-2-3-1,Claudinei Oliveira,628,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768170
+2,sáb 16/04/2022,11:00,Operário-PR,Ponte Preta,4-2-3-1,Claudinei Oliveira,3122,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768177
+3,sáb 23/04/2022,16:00,Náutico,Operário-PR,4-2-3-1,Claudinei Oliveira,2844,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768154
+4,ter 26/04/2022,19:00,Operário-PR,Grêmio,4-2-3-1,Claudinei Oliveira,6292,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768187
+5,sáb 30/04/2022,16:30,Sampaio Corrêa,Operário-PR,4-3-3 ofensivo,Claudinei Oliveira,2068,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768199
+6,sáb 07/05/2022,16:30,Operário-PR,Criciúma,4-2-3-1,Claudinei Oliveira,3347,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768207
+7,sáb 14/05/2022,20:30,CSA,Operário-PR,4-3-1-2,Claudinei Oliveira,4612,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768213
+8,sáb 21/05/2022,11:00,Operário-PR,Ituano,4-4-2,Claudinei Oliveira,2945,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768227
+9,qua 25/05/2022,19:00,Londrina,Operário-PR,4-4-2,Claudinei Oliveira,960,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768237
+10,sex 03/06/2022,21:30,Operário-PR,Cruzeiro,3-4-3 plano,Claudinei Oliveira,3910,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768247
+11,seg 06/06/2022,20:00,Guarani,Operário-PR,3-4-3 plano,Claudinei Oliveira,2206,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768252
+12,sex 10/06/2022,19:00,Operário-PR,Bahia,3-4-3 plano,Claudinei Oliveira,2984,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768267
+13,sex 17/06/2022,19:00,Vila Nova,Operário-PR,4-3-3 ofensivo,Claudinei Oliveira,1889,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768281
+14,sex 24/06/2022,19:00,Vasco da Gama,Operário-PR,3-4-2-1,Claudinei Oliveira,21739,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768298
+15,ter 28/06/2022,19:00,Operário-PR,Chapecoense,3-4-2-1,Claudinei Oliveira,2862,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768287
+16,sex 01/07/2022,19:00,Brusque,Operário-PR,3-4-2-1,Claudinei Oliveira,2164,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768305
+17,ter 05/07/2022,21:30,Operário-PR,CRB,4-2-3-1,Claudinei Oliveira,2657,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768327
+18,qui 14/07/2022,18:30,Operário-PR,Sport,4-2-3-1,Claudinei Oliveira,3149,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768317
+19,qua 20/07/2022,21:30,Novorizontino,Operário-PR,4-2-3-1,Claudinei Oliveira,1544,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768336
+20,sáb 23/07/2022,19:00,Operário-PR,Tombense,4-2-3-1,Sandro Forner,3481,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768347
+21,sáb 30/07/2022,19:00,Ponte Preta,Operário-PR,4-2-3-1,,6146,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768352
+22,sex 05/08/2022,19:00,Operário-PR,Náutico,4-2-3-1,Matheus Costa,3794,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768367
+23,ter 09/08/2022,19:00,Grêmio,Operário-PR,4-2-3-1,,10174,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768378
+24,sáb 13/08/2022,11:00,Operário-PR,Sampaio Corrêa,4-2-3-1,Matheus Costa,3543,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768487
+25,qua 17/08/2022,19:00,Criciúma,Operário-PR,4-2-3-1,Matheus Costa,10285,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768425
+26,sáb 27/08/2022,18:30,Operário-PR,CSA,4-3-3 ofensivo,Matheus Costa,6064,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768387
+27,ter 30/08/2022,20:30,Ituano,Operário-PR,4-2-3-1,Matheus Costa,1052,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768406
+28,sáb 03/09/2022,20:30,Operário-PR,Londrina,4-2-3-1,Matheus Costa,5207,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768397
+29,qui 08/09/2022,21:30,Cruzeiro,Operário-PR,4-2-3-1,Matheus Costa,52751,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768420
+30,ter 13/09/2022,19:00,Operário-PR,Guarani,4-2-3-1,Matheus Costa,2716,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768477
+31,sáb 24/09/2022,18:15,Bahia,Operário-PR,4-2-3-1,Matheus Costa,39352,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768499
+32,sex 30/09/2022,19:00,Operário-PR,Vila Nova,4-2-3-1,Matheus Costa,4922,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768437
+33,ter 04/10/2022,19:00,Operário-PR,Vasco da Gama,4-2-3-1,Matheus Costa,5819,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768507
+34,sáb 08/10/2022,11:00,Chapecoense,Operário-PR,4-2-3-1,Matheus Costa,9729,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768451
+35,qui 13/10/2022,21:30,Operário-PR,Brusque,4-2-3-1,Matheus Costa,2628,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768457
+36,sex 21/10/2022,21:30,CRB,Operário-PR,4-2-3-1,Matheus Costa,4010,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768523
+37,sex 28/10/2022,19:00,Sport,Operário-PR,4-2-3-1,Sandro Forner,x,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768514
+38,dom 06/11/2022,18:30,Operário-PR,Novorizontino,4-2-3-1,Sandro Forner,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3768467

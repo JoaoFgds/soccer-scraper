@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 30/05/2021,18:15,Corinthians,Atlético-GO,4-2-3-1,Sylvinho,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546469
+2,dom 06/06/2021,16:00,América-MG,Corinthians,4-1-4-1,Sylvinho,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3546474
+3,sáb 12/06/2021,19:00,Palmeiras,Corinthians,4-1-4-1,Sylvinho,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3571593
+4,qua 16/06/2021,20:30,Corinthians,Bragantino,4-2-3-1,Sylvinho,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3572011
+5,dom 20/06/2021,16:00,Bahia,Corinthians,4-1-4-1,Sylvinho,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3572023
+6,qui 24/06/2021,19:00,Corinthians,Sport,4-3-3 ofensivo,Sylvinho,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580701
+7,dom 27/06/2021,16:00,Fluminense,Corinthians,4-2-3-1,Sylvinho,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580708
+8,qua 30/06/2021,21:30,Corinthians,São Paulo,4-2-3-1,Sylvinho,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3580721
+9,sáb 03/07/2021,21:00,Corinthians,Internacional,4-2-3-1,Sylvinho,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583800
+10,qui 08/07/2021,21:00,Chapecoense,Corinthians,4-2-3-1,Sylvinho,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583817
+11,dom 11/07/2021,20:30,Fortaleza,Corinthians,4-2-3-1,Sylvinho,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583824
+12,sáb 17/07/2021,19:00,Corinthians,Atlético-MG,4-2-3-1,Sylvinho,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583830
+13,seg 26/07/2021,20:00,Cuiabá,Corinthians,4-3-3 ofensivo,Sylvinho,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583848
+14,dom 01/08/2021,16:00,Corinthians,Flamengo,4-1-4-1,Sylvinho,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583870
+15,dom 08/08/2021,16:00,Santos,Corinthians,4-1-4-1,Sylvinho,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583861
+16,dom 15/08/2021,16:00,Corinthians,Ceará,4-3-3 ofensivo,Sylvinho,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583850
+17,dom 22/08/2021,16:00,Athletico-PR,Corinthians,4-2-3-1,Sylvinho,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583886
+18,sáb 28/08/2021,21:00,Grêmio,Corinthians,4-2-3-1,Sylvinho,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583893
+19,ter 07/09/2021,21:30,Corinthians,Juventude,4-1-4-1,Sylvinho,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583900
+20,dom 12/09/2021,18:15,Atlético-GO,Corinthians,4-2-3-1,Sylvinho,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583938
+21,dom 19/09/2021,18:15,Corinthians,América-MG,4-3-3 ofensivo,Sylvinho,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583920
+22,sáb 25/09/2021,19:00,Corinthians,Palmeiras,4-3-3 ofensivo,Sylvinho,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583910
+23,sáb 02/10/2021,19:00,Bragantino,Corinthians,4-1-4-1,Sylvinho,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583946
+24,ter 05/10/2021,21:30,Corinthians,Bahia,4-1-4-1,Sylvinho,10470,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583950
+25,sáb 09/10/2021,16:30,Sport,Corinthians,4-1-4-1,Sylvinho,2489,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583965
+26,qua 13/10/2021,21:00,Corinthians,Fluminense,4-1-4-1,Sylvinho,12045,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583990
+27,seg 18/10/2021,20:00,São Paulo,Corinthians,4-1-4-1,Sylvinho,23874,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583981
+28,dom 24/10/2021,16:00,Internacional,Corinthians,4-3-3 ofensivo,Sylvinho,13126,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583973
+29,seg 01/11/2021,21:30,Corinthians,Chapecoense,4-2-3-1,Sylvinho,39897,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584000
+30,sáb 06/11/2021,17:00,Corinthians,Fortaleza,4-2-3-1,Sylvinho,36219,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584010
+31,qua 10/11/2021,19:00,Atlético-MG,Corinthians,4-1-4-1,Sylvinho,58714,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584022
+32,sáb 13/11/2021,21:00,Corinthians,Cuiabá,4-2-3-1,Sylvinho,38616,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584050
+33,qua 17/11/2021,21:30,Flamengo,Corinthians,4-3-3 ofensivo,Sylvinho,48981,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584039
+34,dom 21/11/2021,16:00,Corinthians,Santos,4-3-3 ofensivo,Sylvinho,43583,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584030
+35,qui 25/11/2021,20:00,Ceará,Corinthians,4-2-3-1,Sylvinho,35693,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584064
+36,dom 28/11/2021,16:00,Corinthians,Athletico-PR,4-3-3 ofensivo,Sylvinho,37309,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584070
+37,dom 05/12/2021,16:00,Corinthians,Grêmio,4-1-4-1,Sylvinho,44187,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584080
+38,qui 09/12/2021,21:30,Juventude,Corinthians,4-3-3 ofensivo,Sylvinho,17056,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3584097

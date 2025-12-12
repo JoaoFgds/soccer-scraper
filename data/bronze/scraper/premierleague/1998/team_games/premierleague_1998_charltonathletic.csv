@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 15/08/1998,10:00,Newcastle,Charlton,4-4-2 duplo 6,Alan Curbishley,36719,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149604
+2,sex 21/08/1998,19:00,Charlton,Southampton,?,Alan Curbishley,16488,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149609
+3,sex 28/08/1998,19:00,Arsenal,Charlton,4-4-2 duplo 6,Alan Curbishley,38014,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149619
+4,seg 07/09/1998,19:00,Man Utd,Charlton,?,Alan Curbishley,55147,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149629
+5,sex 11/09/1998,19:00,Charlton,Derby,4-4-2,Alan Curbishley,19516,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149640
+6,sex 18/09/1998,19:00,Liverpool,Charlton,?,Alan Curbishley,44526,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149652
+7,sex 25/09/1998,19:00,Charlton,Coventry City,?,Alan Curbishley,20043,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149664
+8,sex 02/10/1998,19:00,Nott'm Forest,Charlton,?,Alan Curbishley,22661,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149674
+9,sex 16/10/1998,20:00,Chelsea,Charlton,?,Alan Curbishley,34639,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149680
+10,sex 23/10/1998,20:00,Charlton,West Ham,?,Alan Curbishley,20043,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149690
+11,dom 01/11/1998,21:00,Tottenham,Charlton,?,Alan Curbishley,32202,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149707
+12,sex 06/11/1998,21:00,Charlton,Leicester,?,Alan Curbishley,20021,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149712
+13,sex 13/11/1998,21:00,Charlton,Middlesbrough,?,Alan Curbishley,20043,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149720
+14,sex 20/11/1998,21:00,Leeds,Charlton,?,Alan Curbishley,32487,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149731
+15,sex 27/11/1998,21:00,Charlton,Everton,?,Alan Curbishley,20043,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149739
+16,sex 04/12/1998,21:00,Blackburn,Charlton,?,Alan Curbishley,22568,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149750
+17,sex 11/12/1998,21:00,Sheff Wed,Charlton,?,Alan Curbishley,26010,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149764
+18,dom 20/12/1998,21:00,Charlton,Aston Villa,?,Alan Curbishley,20043,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149778
+19,sex 25/12/1998,21:00,Wimbledon FC,Charlton,?,Alan Curbishley,19106,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149788
+20,dom 27/12/1998,21:00,Charlton,Arsenal,4-4-1-1,Alan Curbishley,20043,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149790
+21,sex 08/01/1999,21:00,Southampton,Charlton,?,Alan Curbishley,15222,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149800
+22,sáb 16/01/1999,21:00,Charlton,Newcastle,?,Alan Curbishley,20043,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149817
+23,sáb 30/01/1999,21:00,Charlton,Man Utd,?,Alan Curbishley,20043,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149828
+24,dom 07/02/1999,21:00,Charlton,Wimbledon FC,?,Alan Curbishley,20002,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149838
+25,sex 12/02/1999,21:00,Charlton,Liverpool,?,Alan Curbishley,20043,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149840
+26,sex 19/02/1999,21:00,Derby,Charlton,?,Alan Curbishley,27853,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149851
+27,sex 26/02/1999,20:00,Charlton,Nott'm Forest,?,Alan Curbishley,20007,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149861
+28,sex 05/03/1999,20:00,Coventry City,Charlton,?,Alan Curbishley,20259,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149871
+29,sex 12/03/1999,20:00,Leicester,Charlton,?,Alan Curbishley,20220,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149884
+30,seg 19/04/1999,19:00,Charlton,Tottenham,?,Alan Curbishley,20043,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149897
+31,sex 02/04/1999,19:00,Charlton,Chelsea,?,Alan Curbishley,20046,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149901
+32,dom 04/04/1999,19:00,West Ham,Charlton,4-4-2 losango,Alan Curbishley,26041,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149914
+33,sex 09/04/1999,19:00,Middlesbrough,Charlton,?,Alan Curbishley,34529,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149922
+34,sex 16/04/1999,19:00,Charlton,Leeds,?,Alan Curbishley,20043,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149930
+35,sex 23/04/1999,19:00,Everton,Charlton,5-3-2,Alan Curbishley,40089,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149943
+36,sex 30/04/1999,19:00,Charlton,Blackburn,?,Alan Curbishley,20041,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149951
+37,sex 07/05/1999,19:00,Aston Villa,Charlton,4-4-2,Alan Curbishley,37705,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149959
+38,sáb 15/05/1999,19:00,Charlton,Sheff Wed,?,Alan Curbishley,20043,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1149974

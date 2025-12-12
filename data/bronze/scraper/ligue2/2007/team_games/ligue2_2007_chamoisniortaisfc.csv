@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 27/07/2007,15:00,Chamois Niort,US Boulogne,,Jacky Bonnevay,4314,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80203
+2,sex 03/08/2007,15:00,Guingamp,Chamois Niort,,Jacky Bonnevay,7708,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80215
+3,sex 10/08/2007,15:00,Chamois Niort,CS Sedan,,Jacky Bonnevay,5230,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80227
+4,sex 17/08/2007,15:00,Reims,Chamois Niort,,Jacky Bonnevay,6904,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80240
+5,sex 24/08/2007,15:00,Chamois Niort,Montpellier,,Jacky Bonnevay,4436,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80250
+6,sex 31/08/2007,15:00,Amiens SC,Chamois Niort,,Jacky Bonnevay,8164,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80252
+7,sex 14/09/2007,15:00,Chamois Niort,Angers,,Jacky Bonnevay,4624,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80270
+8,sex 21/09/2007,15:00,LB Châteauroux,Chamois Niort,,Jacky Bonnevay,5492,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80276
+9,sex 28/09/2007,13:00,Chamois Niort,SC Bastia,?,Jacky Bonnevay,6497,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80289
+10,ter 02/10/2007,15:00,Le Havre,Chamois Niort,?,Jacky Bonnevay,9251,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80297
+11,sex 05/10/2007,15:00,Chamois Niort,Brest,?,Jacky Bonnevay,3553,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80310
+12,sex 19/10/2007,16:00,Lib.-St.-Seurin,Chamois Niort,?,Jacky Bonnevay,1771,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80319
+13,seg 29/10/2007,18:30,Chamois Niort,Nantes,?,Jacky Bonnevay,9329,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80329
+14,dom 04/11/2007,16:00,Clermont Foot,Chamois Niort,?,Jacky Bonnevay,4950,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80335
+15,qua 07/11/2007,16:30,Chamois Niort,Grenoble,?,Jacky Bonnevay,6197,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80349
+16,sáb 10/11/2007,16:30,Troyes,Chamois Niort,?,Jacky Bonnevay,7403,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80361
+17,sex 30/11/2007,16:00,Chamois Niort,FC Gueugnon,?,Jacky Bonnevay,4007,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80369
+18,sex 07/12/2007,16:00,Dijon,Chamois Niort,?,Jacky Bonnevay,4126,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80375
+19,sex 21/12/2007,16:00,AC Ajaccio,Chamois Niort,?,Jacky Bonnevay,1771,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80382
+20,sex 11/01/2008,16:00,Chamois Niort,Guingamp,?,Jacky Bonnevay,3303,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80400
+21,sex 18/01/2008,16:00,CS Sedan,Chamois Niort,?,Jacky Bonnevay,7214,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80411
+22,sex 25/01/2008,16:00,Chamois Niort,Reims,?,Jacky Bonnevay,3491,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80420
+23,sex 08/02/2008,16:00,Montpellier,Chamois Niort,?,Samuel Michel,5919,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80429
+24,sex 15/02/2008,16:00,Chamois Niort,Amiens SC,?,Samuel Michel,3374,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80440
+25,sex 22/02/2008,15:00,Angers,Chamois Niort,?,Samuel Michel,5995,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80443
+26,sex 29/02/2008,16:00,Chamois Niort,LB Châteauroux,?,Samuel Michel,3574,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80460
+27,sex 07/03/2008,15:00,SC Bastia,Chamois Niort,?,Samuel Michel,2177,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80463
+28,sex 14/03/2008,15:30,Chamois Niort,Le Havre,?,Samuel Michel,6931,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80480
+29,sex 21/03/2008,15:00,Brest,Chamois Niort,?,Samuel Michel,5981,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80483
+30,sex 28/03/2008,15:00,Chamois Niort,Lib.-St.-Seurin,?,Samuel Michel,8795,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80499
+31,sex 04/04/2008,13:00,Nantes,Chamois Niort,?,Samuel Michel,18567,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80510
+32,sex 11/04/2008,13:00,Chamois Niort,Clermont Foot,?,Samuel Michel,3722,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80519
+33,ter 15/04/2008,13:00,Grenoble,Chamois Niort,?,Samuel Michel,14354,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80526
+34,sex 18/04/2008,13:00,Chamois Niort,Troyes,?,Samuel Michel,6925,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80539
+35,sex 25/04/2008,13:00,FC Gueugnon,Chamois Niort,?,Samuel Michel,2359,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80547
+36,sex 02/05/2008,13:00,Chamois Niort,Dijon,?,Samuel Michel,5863,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80559
+37,seg 12/05/2008,13:30,Chamois Niort,AC Ajaccio,?,Samuel Michel,7646,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80570
+38,sex 16/05/2008,13:45,US Boulogne,Chamois Niort,?,Samuel Michel,7639,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80575

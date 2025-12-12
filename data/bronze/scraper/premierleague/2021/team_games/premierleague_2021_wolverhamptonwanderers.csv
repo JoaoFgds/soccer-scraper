@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 14/08/2021,11:00,Leicester,Wolves,5-4-1 plano,Bruno Lage,31983,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583480
+2,dom 22/08/2021,10:00,Wolves,Tottenham,5-4-1 plano,Bruno Lage,30368,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583528
+3,dom 29/08/2021,12:30,Wolves,Man Utd,5-4-1 plano,Bruno Lage,30621,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592000
+4,sáb 11/09/2021,11:00,Watford,Wolves,5-4-1 plano,Bruno Lage,20019,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592030
+5,sáb 18/09/2021,08:30,Wolves,Brentford,3-4-3 plano,Bruno Lage,29724,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591970
+6,dom 26/09/2021,10:00,Southampton,Wolves,5-4-1 plano,Bruno Lage,28002,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591989
+7,sáb 02/10/2021,11:00,Wolves,Newcastle,5-4-1 plano,Bruno Lage,30483,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592010
+8,sáb 16/10/2021,11:00,Aston Villa,Wolves,3-4-2-1,Bruno Lage,41951,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592012
+9,sáb 23/10/2021,11:00,Leeds,Wolves,5-4-1 plano,Bruno Lage,36475,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592047
+10,seg 01/11/2021,17:00,Wolves,Everton,5-4-1 plano,Bruno Lage,30617,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591980
+11,sáb 06/11/2021,12:00,Crystal Palace,Wolves,5-4-1 plano,Bruno Lage,24390,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591955
+12,sáb 20/11/2021,12:00,Wolves,West Ham,5-4-1 plano,Bruno Lage,30667,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592040
+13,sáb 27/11/2021,12:00,Norwich,Wolves,3-4-3 plano,Bruno Lage,26911,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592100
+14,qua 01/12/2021,16:30,Wolves,FC Burnley,5-4-1 plano,Bruno Lage,30328,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592137
+15,sáb 04/12/2021,12:00,Wolves,Liverpool,5-4-1 plano,Bruno Lage,30729,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592070
+16,sáb 11/12/2021,09:30,Man City,Wolves,3-5-2 plano,Bruno Lage,52613,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592079
+17,qua 15/12/2021,16:30,Brighton,Wolves,5-4-1 plano,Bruno Lage,30362,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592053
+18,dom 19/12/2021,11:00,Wolves,Chelsea,3-5-2 plano,Bruno Lage,30631,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592090
+19,qui 10/03/2022,16:30,Wolves,Watford,5-4-1 plano,Bruno Lage,29658,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592279
+20,qui 24/02/2022,16:45,Arsenal,Wolves,5-4-1 plano,Bruno Lage,59888,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592158
+21,seg 03/01/2022,14:30,Man Utd,Wolves,5-4-1 plano,Bruno Lage,73045,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592308
+22,sáb 15/01/2022,12:00,Wolves,Southampton,3-4-3 plano,Bruno Lage,30057,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592120
+23,sáb 22/01/2022,12:00,Brentford,Wolves,3-5-2 plano,Bruno Lage,16982,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592122
+24,qui 10/02/2022,16:45,Wolves,Arsenal,5-4-1 plano,Bruno Lage,31523,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592228
+25,dom 13/02/2022,11:00,Tottenham,Wolves,3-5-2 plano,Bruno Lage,56452,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592256
+26,dom 20/02/2022,13:30,Wolves,Leicester,3-5-2 plano,Bruno Lage,31497,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592110
+27,dom 27/02/2022,11:00,West Ham,Wolves,5-4-1 plano,Bruno Lage,59946,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592293
+28,sáb 05/03/2022,12:00,Wolves,Crystal Palace,5-4-1 plano,Bruno Lage,31395,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592150
+29,dom 13/03/2022,11:00,Everton,Wolves,3-5-2 plano,Bruno Lage,39112,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592211
+30,sex 18/03/2022,17:00,Wolves,Leeds,3-4-2-1,Bruno Lage,,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592271
+31,sáb 02/04/2022,11:00,Wolves,Aston Villa,5-4-1 plano,Bruno Lage,31012,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592272
+32,sex 08/04/2022,16:00,Newcastle,Wolves,5-4-1 plano,Bruno Lage,52164,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592226
+33,qua 11/05/2022,16:15,Wolves,Man City,3-5-2 plano,Bruno Lage,,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592282
+34,dom 24/04/2022,10:00,FC Burnley,Wolves,5-4-1 plano,Bruno Lage,18960,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592204
+35,sáb 30/04/2022,11:00,Wolves,Brighton,3-5-2 plano,Bruno Lage,31243,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592281
+36,sáb 07/05/2022,11:00,Chelsea,Wolves,3-5-2 plano,Bruno Lage,32190,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592213
+37,dom 15/05/2022,10:00,Wolves,Norwich,3-4-3 plano,Bruno Lage,31219,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592278
+38,dom 22/05/2022,12:00,Liverpool,Wolves,3-5-2 plano,Bruno Lage,53097,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592241

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 09/05/2010,11:00,Flamengo,São Paulo,4-4-2,Ricardo Gomes,11195,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003474
+2,dom 16/05/2010,11:00,São Paulo,Botafogo,3-5-2,Ricardo Gomes,11622,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1003481
+3,dom 23/05/2010,11:00,Internacional,São Paulo,3-5-2,Ricardo Gomes,25185,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004152
+4,qua 26/05/2010,16:00,São Paulo,Palmeiras,3-5-2,Ricardo Gomes,15522,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004784
+5,dom 30/05/2010,11:00,Guarani,São Paulo,3-5-2,Ricardo Gomes,14528,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1004795
+6,qua 02/06/2010,16:50,Goiás,São Paulo,4-4-2,Ricardo Gomes,15592,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005863
+7,dom 06/06/2010,11:00,São Paulo,Grêmio,3-5-2,Ricardo Gomes,14408,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005871
+8,qua 14/07/2010,14:30,São Paulo,Avaí,3-5-2,Ricardo Gomes,7717,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005880
+9,sáb 17/07/2010,13:30,Vitória,São Paulo,3-5-2,Ricardo Gomes,11915,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005888
+10,qua 21/07/2010,14:30,São Paulo,Barueri,3-5-2,Ricardo Gomes,9646,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1005910
+11,dom 25/07/2010,11:00,Santos,São Paulo,4-4-2,Ricardo Gomes,9367,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006304
+12,sáb 31/07/2010,13:30,São Paulo,Ceará,4-4-2,Ricardo Gomes,11793,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006313
+13,dom 08/08/2010,13:30,Atlético-PR,São Paulo,3-5-2,Sérgio Baresi,21789,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006331
+14,dom 15/08/2010,11:00,São Paulo,Cruzeiro,4-4-2,Sérgio Baresi,12338,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006344
+15,dom 22/08/2010,13:30,Corinthians,São Paulo,4-4-2,Sérgio Baresi,28159,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006359
+16,qua 25/08/2010,17:00,São Paulo,Vasco da Gama,4-4-2,Sérgio Baresi,10563,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1006365
+17,dom 29/08/2010,13:30,Fluminense,São Paulo,3-5-2,Sérgio Baresi,30505,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007615
+18,qui 02/09/2010,16:00,São Paulo,Atlético-GO,4-4-2,Sérgio Baresi,9364,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007627
+19,dom 05/09/2010,13:30,Atlético-MG,São Paulo,4-4-2,Sérgio Baresi,11120,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007634
+20,qua 08/09/2010,17:00,São Paulo,Flamengo,4-4-2,Sérgio Baresi,14389,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007638
+21,dom 12/09/2010,11:00,Botafogo,São Paulo,4-4-2,Sérgio Baresi,28414,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1007651
+22,qui 16/09/2010,16:00,São Paulo,Internacional,4-4-2,Sérgio Baresi,11327,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009299
+23,dom 19/09/2010,11:00,Palmeiras,São Paulo,3-5-2,Sérgio Baresi,15011,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009310
+24,qua 22/09/2010,14:30,São Paulo,Guarani,3-5-2,Sérgio Baresi,10264,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009319
+25,sáb 25/09/2010,13:30,São Paulo,Goiás,3-5-2,Sérgio Baresi,18528,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009329
+26,qua 29/09/2010,17:00,Grêmio,São Paulo,3-5-2,Sérgio Baresi,22640,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009345
+27,sáb 02/10/2010,16:00,Avaí,São Paulo,4-4-2,Sérgio Baresi,8040,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009358
+28,qua 06/10/2010,16:50,São Paulo,Vitória,4-4-2,Paulo César Carpegiani,14374,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009359
+29,sáb 09/10/2010,13:30,Barueri,São Paulo,4-4-2,Paulo César Carpegiani,12968,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009373
+30,dom 17/10/2010,14:30,São Paulo,Santos,4-4-2,Paulo César Carpegiani,23791,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009379
+31,dom 24/10/2010,12:00,Ceará,São Paulo,4-4-2,Paulo César Carpegiani,44591,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009397
+32,qui 28/10/2010,17:00,São Paulo,Atlético-PR,4-3-3 defensivo,Paulo César Carpegiani,16480,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009400
+33,qua 03/11/2010,18:50,Cruzeiro,São Paulo,4-3-3 defensivo,Paulo César Carpegiani,25694,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009415
+34,dom 07/11/2010,14:00,São Paulo,Corinthians,4-4-2,Paulo César Carpegiani,42667,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009420
+35,dom 14/11/2010,16:30,Vasco da Gama,São Paulo,4-4-2,Paulo César Carpegiani,5674,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009432
+36,dom 21/11/2010,14:00,São Paulo,Fluminense,4-4-2,Paulo César Carpegiani,14410,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009440
+37,dom 28/11/2010,14:00,Atlético-GO,São Paulo,3-5-2,Paulo César Carpegiani,27938,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009457
+38,dom 05/12/2010,14:00,São Paulo,Atlético-MG,4-4-2,Paulo César Carpegiani,9782,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1009460

@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 06/08/2023,08:00,Leicester,Coventry City,4-3-3 ofensivo,Enzo Maresca,31763,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4101215
+2,sáb 12/08/2023,11:00,Huddersfield,Leicester,4-3-3 ofensivo,Enzo Maresca,19541,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108316
+3,sáb 19/08/2023,11:00,Leicester,Cardiff,4-3-3 ofensivo,Enzo Maresca,31595,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108328
+4,sáb 26/08/2023,11:00,Rotherham,Leicester,4-3-3 ofensivo,Enzo Maresca,11418,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108405
+5,sáb 02/09/2023,11:00,Leicester,Hull City,3-4-3 plano,Enzo Maresca,31318,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108280
+6,sex 15/09/2023,16:00,Southampton,Leicester,4-3-3 ofensivo,Enzo Maresca,28877,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108371
+7,qua 20/09/2023,16:00,Norwich,Leicester,4-3-3 ofensivo,Enzo Maresca,26277,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108202
+8,sáb 23/09/2023,11:00,Leicester,Bristol City,4-3-3 ofensivo,Enzo Maresca,31674,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108341
+9,dom 01/10/2023,08:00,Blackburn,Leicester,4-3-3 ofensivo,Enzo Maresca,15937,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108433
+10,qua 04/10/2023,15:45,Leicester,Preston NE,4-3-3 ofensivo,Enzo Maresca,30380,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108248
+11,sáb 07/10/2023,11:00,Leicester,Stoke,4-3-3 ofensivo,Enzo Maresca,31589,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108221
+12,sáb 21/10/2023,11:00,Swansea,Leicester,4-3-3 ofensivo,Enzo Maresca,18509,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108394
+13,ter 24/10/2023,16:00,Leicester,AFC Sunderland,4-3-3 ofensivo,Enzo Maresca,30951,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108410
+14,sáb 28/10/2023,11:00,QPR,Leicester,4-3-3 ofensivo,Enzo Maresca,17385,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108428
+15,sex 03/11/2023,17:00,Leicester,Leeds,4-3-3 ofensivo,Enzo Maresca,32011,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108448
+16,sáb 11/11/2023,12:00,Middlesbrough,Leicester,4-3-3 ofensivo,Enzo Maresca,30042,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108727
+17,sáb 25/11/2023,12:00,Leicester,Watford,4-3-3 ofensivo,Enzo Maresca,31577,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108548
+18,qua 29/11/2023,16:45,Sheff Wed,Leicester,4-3-3 ofensivo,Enzo Maresca,26036,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108530
+19,sáb 02/12/2023,09:30,West Brom,Leicester,4-3-3 ofensivo,Enzo Maresca,24382,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108544
+20,sáb 09/12/2023,12:00,Leicester,Plymouth Argyle,4-3-3 ofensivo,Enzo Maresca,31265,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108461
+21,qua 13/12/2023,16:45,Leicester,Millwall,4-3-3 ofensivo,Enzo Maresca,28960,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108477
+22,seg 18/12/2023,17:00,Birmingham,Leicester,4-3-3 ofensivo,Enzo Maresca,20334,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108509
+23,sáb 23/12/2023,12:00,Leicester,Rotherham,4-2-3-1,Enzo Maresca,31175,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108488
+24,ter 26/12/2023,16:45,Ipswich,Leicester,4-3-3 ofensivo,Enzo Maresca,29410,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108502
+25,sex 29/12/2023,16:45,Cardiff,Leicester,4-2-3-1,Enzo Maresca,24656,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108570
+26,seg 01/01/2024,12:00,Leicester,Huddersfield,4-2-3-1,Enzo Maresca,30407,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108292
+27,sáb 13/01/2024,09:30,Coventry City,Leicester,4-2-3-1,Enzo Maresca,29914,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108596
+28,seg 22/01/2024,17:00,Leicester,Ipswich,4-2-3-1,Enzo Maresca,31794,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108207
+29,ter 30/01/2024,16:45,Leicester,Swansea,4-1-4-1,Enzo Maresca,28025,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108354
+30,sáb 03/02/2024,12:00,Stoke,Leicester,4-2-3-1,Enzo Maresca,22657,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108309
+31,sáb 10/02/2024,12:00,Watford,Leicester,3-4-2-1,Enzo Maresca,20597,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108640
+32,ter 13/02/2024,16:45,Leicester,Sheff Wed,4-2-3-1,Enzo Maresca,31550,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108619
+33,sáb 17/02/2024,12:00,Leicester,Middlesbrough,4-2-3-1,Enzo Maresca,31487,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108255
+34,sex 23/02/2024,17:00,Leeds,Leicester,4-2-3-1,Enzo Maresca,36954,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108562
+35,sáb 02/03/2024,12:00,Leicester,QPR,4-2-3-1,Enzo Maresca,31439,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108584
+36,ter 05/03/2024,16:45,AFC Sunderland,Leicester,4-2-3-1,Enzo Maresca,33621,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108681
+37,sáb 09/03/2024,12:00,Hull City,Leicester,4-2-3-1,Enzo Maresca,24605,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108609
+38,ter 23/04/2024,16:00,Leicester,Southampton,4-3-3 ofensivo,Enzo Maresca,31872,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108268
+39,sex 29/03/2024,09:30,Bristol City,Leicester,4-3-3 ofensivo,Enzo Maresca,25857,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108647
+40,seg 01/04/2024,08:30,Leicester,Norwich,4-3-3 ofensivo,Enzo Maresca,31825,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108377
+41,sáb 06/04/2024,11:00,Leicester,Birmingham,4-3-3 ofensivo,Enzo Maresca,31825,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108696
+42,ter 09/04/2024,15:45,Millwall,Leicester,4-2-3-1,Enzo Maresca,14889,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108648
+43,sex 12/04/2024,16:00,Plymouth Argyle,Leicester,4-2-3-1,Enzo Maresca,16861,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108234
+44,sáb 20/04/2024,08:30,Leicester,West Brom,4-3-3 ofensivo,Enzo Maresca,31874,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108663
+45,seg 29/04/2024,16:00,Preston NE,Leicester,4-3-3 ofensivo,Enzo Maresca,19641,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108687
+46,sáb 04/05/2024,08:30,Leicester,Blackburn,4-3-3 ofensivo,Enzo Maresca,32117,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4108677

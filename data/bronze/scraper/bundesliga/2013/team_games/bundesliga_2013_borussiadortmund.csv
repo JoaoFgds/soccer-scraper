@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 10/08/2013,10:30,Augsburg,Dortmund,4-2-3-1,Jürgen Klopp,30660,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321032
+2,dom 18/08/2013,12:30,Dortmund,E. Braunschweig,4-2-3-1,Jürgen Klopp,80200,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321044
+3,sex 23/08/2013,15:30,Dortmund,Werder Bremen,4-2-3-1,Jürgen Klopp,80645,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321053
+4,dom 01/09/2013,12:30,Frankfurt,Dortmund,4-2-3-1,Jürgen Klopp,51500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321071
+5,sáb 14/09/2013,13:30,Dortmund,Hamburgo,4-2-3-1,Jürgen Klopp,80645,6:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321072
+6,sáb 21/09/2013,10:30,Nuremberg,Dortmund,4-2-3-1,Jürgen Klopp,50000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321086
+7,sáb 28/09/2013,10:30,Dortmund,Freiburg,4-2-3-1,Jürgen Klopp,80000,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321108
+8,sáb 05/10/2013,10:30,M'gladbach,Dortmund,4-2-3-1,Jürgen Klopp,54010,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321118
+9,sáb 19/10/2013,10:30,Dortmund,Hannover,4-2-3-1,Jürgen Klopp,80645,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321126
+10,sáb 26/10/2013,11:30,Schalke,Dortmund,4-2-3-1,Jürgen Klopp,61973,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321136
+11,sex 01/11/2013,17:30,Dortmund,Stuttgart,4-2-3-1,Jürgen Klopp,80645,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321144
+12,sáb 09/11/2013,12:30,Wolfsburg,Dortmund,4-2-3-1,Jürgen Klopp,30000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321158
+13,sáb 23/11/2013,15:30,Dortmund,Bayern,4-2-3-1,Jürgen Klopp,80645,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321162
+14,sáb 30/11/2013,12:30,Mainz,Dortmund,4-2-3-1,Jürgen Klopp,34000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321178
+15,sáb 07/12/2013,15:30,Dortmund,Leverkusen,4-2-3-1,Jürgen Klopp,80645,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321181
+16,sáb 14/12/2013,12:30,Hoffenheim,Dortmund,4-2-3-1,Jürgen Klopp,30150,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321195
+17,sáb 21/12/2013,12:30,Dortmund,Hertha Berlim,4-2-3-1,Jürgen Klopp,80645,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321199
+18,sáb 25/01/2014,12:30,Dortmund,Augsburg,4-2-3-1,Jürgen Klopp,80645,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321208
+19,sex 31/01/2014,17:30,E. Braunschweig,Dortmund,4-2-3-1,Jürgen Klopp,23325,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321224
+20,sáb 08/02/2014,12:30,Werder Bremen,Dortmund,4-2-3-1,Jürgen Klopp,42100,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321230
+21,sáb 15/02/2014,12:30,Dortmund,Frankfurt,4-2-3-1,Jürgen Klopp,80100,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321235
+22,sáb 22/02/2014,11:30,Hamburgo,Dortmund,4-2-3-1,Jürgen Klopp,57000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321251
+23,sáb 01/03/2014,11:30,Dortmund,Nuremberg,4-2-3-1,Jürgen Klopp,80645,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321253
+24,dom 09/03/2014,11:30,Freiburg,Dortmund,4-2-3-1,Jürgen Klopp,24000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321268
+25,sáb 15/03/2014,11:30,Dortmund,M'gladbach,4-2-3-1,Jürgen Klopp,80645,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321271
+26,sáb 22/03/2014,11:30,Hannover,Dortmund,4-2-3-1,Jürgen Klopp,49000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321288
+27,ter 25/03/2014,16:00,Dortmund,Schalke,4-2-3-1,Jürgen Klopp,77600,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321289
+28,sáb 29/03/2014,11:30,Stuttgart,Dortmund,4-2-3-1,Jürgen Klopp,59500,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321302
+29,sáb 05/04/2014,13:30,Dortmund,Wolfsburg,4-2-3-1,Jürgen Klopp,80645,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321307
+30,sáb 12/04/2014,13:30,Bayern,Dortmund,4-2-3-1,Jürgen Klopp,71000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321316
+31,sáb 19/04/2014,10:30,Dortmund,Mainz,4-2-3-1,Jürgen Klopp,80500,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321325
+32,sáb 26/04/2014,13:30,Leverkusen,Dortmund,4-2-3-1,Jürgen Klopp,30210,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321336
+33,sáb 03/05/2014,10:30,Dortmund,Hoffenheim,4-2-3-1,Jürgen Klopp,80645,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321343
+34,sáb 10/05/2014,10:30,Hertha Berlim,Dortmund,4-2-3-1,Jürgen Klopp,76197,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2321360

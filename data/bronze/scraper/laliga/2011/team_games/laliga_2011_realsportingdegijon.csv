@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 23/01/2012,18:00,Villarreal,Real Sporting,4-2-3-1,Manolo Preciado,15000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125064
+2,sáb 27/08/2011,13:00,Real Sporting,Real Sociedad,4-2-3-1,Manolo Preciado,22500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125234
+3,dom 11/09/2011,13:00,Osasuna,Real Sporting,4-1-4-1,Manolo Preciado,15842,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125243
+4,sáb 17/09/2011,13:00,Real Sporting,Valencia,4-2-3-1,Manolo Preciado,2000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125253
+5,qua 21/09/2011,15:00,Atlético,Real Sporting,4-2-3-1,Manolo Preciado,35000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125262
+6,dom 25/09/2011,15:00,Real Sporting,Rac. Santander,4-2-3-1,Manolo Preciado,22000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125272
+7,dom 02/10/2011,15:00,Real Sporting,Barcelona,4-2-3-1,Manolo Preciado,24000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125282
+8,dom 16/10/2011,18:00,Sevilla,Real Sporting,4-2-3-1,Manolo Preciado,35000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125296
+9,sáb 22/10/2011,14:00,Real Sporting,Granada CF,4-2-3-1,Manolo Preciado,20000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125303
+10,qua 26/10/2011,18:00,Mallorca,Real Sporting,4-2-3-1,Manolo Preciado,9400,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125314
+11,dom 30/10/2011,09:00,Real Sporting,Athletic Club,4-2-3-1,Manolo Preciado,23000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125324
+12,dom 06/11/2011,13:00,Zaragoza,Real Sporting,4-2-3-1,Manolo Preciado,18000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125335
+13,dom 20/11/2011,13:00,Real Sporting,Getafe,4-2-3-1,Manolo Preciado,22000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125345
+14,dom 27/11/2011,13:00,Levante,Real Sporting,4-2-3-1,Manolo Preciado,11287,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125356
+15,sáb 03/12/2011,15:00,Real Sporting,Real Madrid,4-2-3-1,Manolo Preciado,23500,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125366
+16,dom 11/12/2011,09:00,Rayo Vallecano,Real Sporting,4-2-3-1,Manolo Preciado,10100,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125377
+17,sáb 17/12/2011,15:00,Real Sporting,Espanyol,4-2-3-1,Manolo Preciado,22000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125387
+18,dom 08/01/2012,16:45,Betis,Real Sporting,4-2-3-1,Manolo Preciado,35563,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125398
+19,dom 15/01/2012,16:45,Real Sporting,Málaga CF,4-2-3-1,Manolo Preciado,19000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125408
+20,ter 01/05/2012,15:00,Real Sporting,Villarreal,4-2-3-1,Javier Clemente,29000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125415
+21,dom 29/01/2012,13:00,Real Sociedad,Real Sporting,4-2-3-1,Manolo Preciado,22000,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125424
+22,dom 05/02/2012,09:00,Real Sporting,Osasuna,4-2-3-1,Iñaki Tejada,19000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125433
+23,dom 12/02/2012,15:00,Valencia,Real Sporting,4-2-3-1,Javier Clemente,45000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125443
+24,dom 19/02/2012,15:00,Real Sporting,Atlético,4-2-3-1,Javier Clemente,20000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125452
+25,sáb 25/02/2012,15:00,Rac. Santander,Real Sporting,4-2-3-1,Javier Clemente,15902,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125462
+26,sáb 03/03/2012,16:00,Barcelona,Real Sporting,4-2-3-1,Javier Clemente,72442,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125472
+27,sáb 10/03/2012,16:00,Real Sporting,Sevilla,4-2-3-1,Javier Clemente,25000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125486
+28,sáb 17/03/2012,14:00,Granada CF,Real Sporting,4-2-3-1,Javier Clemente,22500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125493
+29,qua 21/03/2012,16:00,Real Sporting,Mallorca,4-2-3-1,Javier Clemente,19500,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125504
+30,dom 25/03/2012,13:00,Athletic Club,Real Sporting,4-3-3 ofensivo,Javier Clemente,36000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125544
+31,sáb 31/03/2012,13:00,Real Sporting,Zaragoza,4-3-3 ofensivo,Javier Clemente,28000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1134010
+32,sáb 07/04/2012,13:00,Getafe,Real Sporting,4-2-3-1,Javier Clemente,6500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125525
+33,qua 11/04/2012,15:00,Real Sporting,Levante,4-2-3-1,Javier Clemente,13000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125536
+34,sáb 14/04/2012,15:00,Real Madrid,Real Sporting,5-4-1 plano,Javier Clemente,75000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125556
+35,sáb 21/04/2012,13:00,Real Sporting,Rayo Vallecano,4-2-3-1,Javier Clemente,22000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125567
+36,sáb 28/04/2012,13:00,Espanyol,Real Sporting,4-2-3-1,Javier Clemente,20640,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125577
+37,sáb 05/05/2012,16:00,Real Sporting,Betis,4-2-3-1,Javier Clemente,20000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125588
+38,dom 13/05/2012,15:00,Málaga CF,Real Sporting,4-2-3-1,Javier Clemente,30000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1125598

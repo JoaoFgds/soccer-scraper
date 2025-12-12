@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 14/08/2016,14:00,Vitória FC,Belenenses,4-3-3 ofensivo,José Couceiro,3303,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720752
+2,dom 21/08/2016,16:15,Benfica,Vitória FC,4-2-3-1,José Couceiro,56351,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720761
+3,dom 28/08/2016,17:00,Vitória FC,Arouca,4-2-3-1,José Couceiro,2223,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720767
+4,dom 11/09/2016,16:15,Chaves,Vitória FC,4-2-3-1,José Couceiro,1885,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720778
+5,sáb 17/09/2016,14:15,Vitória FC,Paços Ferreira,4-2-3-1,José Couceiro,2211,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720791
+6,sáb 24/09/2016,16:30,Braga,Vitória FC,4-4-2 duplo 6,José Couceiro,8945,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720794
+7,dom 02/10/2016,12:00,Vitória FC,Marítimo,4-2-3-1,José Couceiro,2147,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720811
+8,sáb 22/10/2016,13:00,Feirense,Vitória FC,4-3-3 ofensivo,José Couceiro,2086,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720815
+9,sáb 29/10/2016,15:15,Vitória FC,FC Porto,4-2-3-1,José Couceiro,7245,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720829
+10,dom 06/11/2016,14:00,Moreirense,Vitória FC,4-2-3-1,José Couceiro,992,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720832
+11,sex 25/11/2016,18:30,Vitória FC,Rio Ave,4-3-3 ofensivo,José Couceiro,2352,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720847
+12,sáb 03/12/2016,16:15,Sporting,Vitória FC,4-2-3-1,José Couceiro,43467,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720856
+13,sex 09/12/2016,18:30,Vitória FC,Estoril,4-2-3-1,José Couceiro,2754,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720865
+14,dom 18/12/2016,16:00,Vit. Guimarães,Vitória FC,4-3-3 ofensivo,José Couceiro,14571,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720866
+15,sex 23/12/2016,17:00,Vitória FC,CD Tondela,4-3-3 ofensivo,José Couceiro,2081,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720881
+16,dom 08/01/2017,16:00,Boavista,Vitória FC,4-4-2 duplo 6,José Couceiro,4730,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720884
+17,sáb 14/01/2017,14:00,Vitória FC,Nacional,4-4-2 duplo 6,José Couceiro,3081,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720901
+18,dom 22/01/2017,16:00,Belenenses,Vitória FC,4-3-3 defensivo,José Couceiro,3529,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720904
+19,seg 30/01/2017,18:00,Vitória FC,Benfica,4-4-1-1,José Couceiro,10109,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720913
+20,dom 05/02/2017,14:00,Arouca,Vitória FC,4-4-1-1,José Couceiro,935,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720921
+21,sáb 11/02/2017,14:00,Vitória FC,Chaves,4-4-1-1,José Couceiro,2746,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720931
+22,dom 19/02/2017,13:00,Paços Ferreira,Vitória FC,4-4-1-1,José Couceiro,3726,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720944
+23,dom 26/02/2017,15:00,Vitória FC,Braga,4-3-3 ofensivo,José Couceiro,3670,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720947
+24,dom 05/03/2017,13:00,Marítimo,Vitória FC,4-4-1-1,José Couceiro,7982,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720964
+25,sáb 11/03/2017,13:00,Vitória FC,Feirense,4-2-3-1,José Couceiro,3741,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720968
+26,dom 19/03/2017,15:00,FC Porto,Vitória FC,4-4-1-1,José Couceiro,49417,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720982
+27,dom 02/04/2017,12:00,Vitória FC,Moreirense,4-3-3 ofensivo,José Couceiro,3611,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720985
+28,dom 09/04/2017,12:00,Rio Ave,Vitória FC,4-3-3 ofensivo,José Couceiro,2988,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2721000
+29,sex 14/04/2017,16:30,Vitória FC,Sporting,4-3-3 ofensivo,José Couceiro,9038,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2721009
+30,sáb 22/04/2017,14:15,Estoril,Vitória FC,4-4-1-1,José Couceiro,1542,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2721018
+31,sex 28/04/2017,16:30,Vitória FC,Vit. Guimarães,4-4-1-1,José Couceiro,2556,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2721019
+32,dom 07/05/2017,12:00,CD Tondela,Vitória FC,4-2-3-1,José Couceiro,2002,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2721034
+33,seg 15/05/2017,16:00,Vitória FC,Boavista,4-4-1-1,José Couceiro,2304,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2721037
+34,sáb 20/05/2017,12:00,Nacional,Vitória FC,4-4-1-1,José Couceiro,1421,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2721054

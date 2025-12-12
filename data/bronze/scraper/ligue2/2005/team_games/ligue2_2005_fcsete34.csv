@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 29/07/2005,15:30,Clermont FA,FC Sète 34,?,Claude Calabuig,5279,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46923
+2,sex 05/08/2005,15:30,CS Sedan,FC Sète 34,?,Claude Calabuig,10072,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46927
+3,sex 12/08/2005,15:30,FC Sète 34,FC Istres,?,Claude Calabuig,3750,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46941
+4,ter 16/08/2005,15:30,FC Lorient,FC Sète 34,?,Claude Calabuig,7665,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46949
+5,sex 19/08/2005,15:30,FC Sète 34,Dijon,?,Claude Calabuig,2558,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46954
+6,sex 26/08/2005,15:30,Grenoble,FC Sète 34,?,Claude Calabuig,6201,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46969
+7,sex 09/09/2005,15:30,FC Sète 34,SM Caen,?,Claude Calabuig,2527,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46981
+8,sex 16/09/2005,15:30,FC Gueugnon,FC Sète 34,?,Claude Calabuig,4971,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46989
+9,seg 26/09/2005,15:30,FC Sète 34,Montpellier,?,Claude Calabuig,5590,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47003
+10,sex 30/09/2005,15:30,Le Havre,FC Sète 34,?,Claude Calabuig,8572,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47010
+10,sex 07/10/2005,15:30,FC Sète 34,SC Bastia,?,Claude Calabuig,2785,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47019
+12,sex 14/10/2005,15:30,LB Châteauroux,FC Sète 34,?,Claude Calabuig,6778,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47025
+13,sex 21/10/2005,16:30,FC Sète 34,Brest,?,Claude Calabuig,2263,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47040
+14,sáb 29/10/2005,16:00,US Créteil-L,FC Sète 34,?,Claude Calabuig,3883,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47047
+15,sex 04/11/2005,18:30,FC Sète 34,Amiens SC,?,Claude Calabuig,1972,4:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47062
+16,sex 11/11/2005,18:30,Valenciennes,FC Sète 34,?,Claude Calabuig,9408,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47074
+17,sex 25/11/2005,18:30,FC Sète 34,Reims,?,Claude Calabuig,2627,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47083
+18,sex 02/12/2005,18:30,Stade Lavallois,FC Sète 34,?,Claude Calabuig,2970,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47090
+19,sex 16/12/2005,18:30,FC Sète 34,Guingamp,?,Claude Calabuig,1870,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47103
+20,ter 03/01/2006,18:30,FC Sète 34,CS Sedan,?,Ludovic Batelli,1893,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47113
+21,ter 10/01/2006,18:30,FC Istres,FC Sète 34,?,Ludovic Batelli,3272,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47120
+22,sex 13/01/2006,18:30,FC Sète 34,FC Lorient,?,Ludovic Batelli,2226,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47133
+23,sex 20/01/2006,18:30,Dijon,FC Sète 34,?,Ludovic Batelli,3210,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47138
+24,sex 03/02/2006,18:30,FC Sète 34,Grenoble,?,Ludovic Batelli,1780,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47153
+25,sex 10/02/2006,18:30,SM Caen,FC Sète 34,?,Ludovic Batelli,10574,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47157
+26,sex 17/02/2006,18:30,FC Sète 34,FC Gueugnon,?,Ludovic Batelli,1508,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47173
+27,seg 27/02/2006,17:30,Montpellier,FC Sète 34,?,Ludovic Batelli,10860,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47183
+28,sex 03/03/2006,17:30,FC Sète 34,Le Havre,?,Ludovic Batelli,1688,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47193
+29,sex 10/03/2006,17:30,SC Bastia,FC Sète 34,?,Robert Buigues,4317,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47196
+30,sex 17/03/2006,17:30,FC Sète 34,LB Châteauroux,?,Robert Buigues,1490,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47214
+31,sex 24/03/2006,17:30,Brest,FC Sète 34,?,Robert Buigues,5159,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47217
+32,sex 31/03/2006,15:30,FC Sète 34,US Créteil-L,?,Robert Buigues,1595,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47234
+33,sex 07/04/2006,15:30,Amiens SC,FC Sète 34,?,Robert Buigues,7859,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47235
+34,sex 14/04/2006,15:30,FC Sète 34,Valenciennes,?,Robert Buigues,2016,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47254
+35,sex 21/04/2006,15:30,Reims,FC Sète 34,?,Robert Buigues,5386,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47262
+36,sex 28/04/2006,15:30,FC Sète 34,Stade Lavallois,?,Robert Buigues,1515,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47274
+37,sex 05/05/2006,15:30,Guingamp,FC Sète 34,?,Robert Buigues,12734,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47279
+38,sex 12/05/2006,15:30,FC Sète 34,Clermont FA,?,Robert Buigues,1962,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47285

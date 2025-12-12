@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 04/09/1994,11:00,Roma,Foggia,?,Carlo Mazzone,60000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215439
+2,dom 11/09/1994,15:30,Inter,Roma,?,Carlo Mazzone,41884,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215450
+3,dom 18/09/1994,11:00,Roma,Genoa,?,Carlo Mazzone,54000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215457
+4,dom 25/09/1994,11:00,Reggiana,Roma,?,Carlo Mazzone,13000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215468
+5,dom 02/10/1994,11:00,Roma,Sampdoria,?,Carlo Mazzone,63925,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215477
+6,dom 16/10/1994,17:30,Torino,Roma,?,Carlo Mazzone,20940,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215492
+7,dom 23/10/1994,17:30,Roma,Cagliari,?,Carlo Mazzone,58225,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215494
+8,dom 30/10/1994,17:30,AC Parma,Roma,3-5-2,Carlo Mazzone,26436,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215504
+9,dom 06/11/1994,11:30,Roma,Napoli,?,Carlo Mazzone,57662,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215512
+10,dom 20/11/1994,11:30,Brescia,Roma,?,Carlo Mazzone,12683,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215527
+11,dom 27/11/1994,11:30,Lazio,Roma,?,Carlo Mazzone,75631,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215532
+12,dom 04/12/1994,11:30,Roma,Padova,?,Carlo Mazzone,49649,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215540
+13,dom 11/12/1994,11:30,Florenz,Roma,?,Carlo Mazzone,34528,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215550
+14,dom 18/12/1994,12:15,Roma,Milan,5-3-2,Carlo Mazzone,64439,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215558
+15,dom 08/01/1995,11:30,Roma,Bari,?,Carlo Mazzone,53896,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215568
+16,dom 15/01/1995,11:30,Juventus,Roma,3-5-2,Carlo Mazzone,54130,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215574
+17,dom 22/01/1995,11:30,Roma,Cremonese,?,Carlo Mazzone,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215586
+18,dom 29/01/1995,11:30,Foggia,Roma,?,Carlo Mazzone,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215592
+19,dom 12/02/1995,12:00,Roma,Inter,?,Carlo Mazzone,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215602
+20,dom 19/02/1995,11:00,Genoa,Roma,?,Carlo Mazzone,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215610
+21,dom 26/02/1995,11:00,Roma,Reggiana,?,Carlo Mazzone,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215621
+22,dom 05/03/1995,11:00,Sampdoria,Roma,?,Carlo Mazzone,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215630
+23,dom 12/03/1995,11:00,Roma,Torino,?,Carlo Mazzone,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215638
+24,dom 19/03/1995,11:00,Cagliari,Roma,?,Carlo Mazzone,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215647
+25,sáb 01/04/1995,11:00,Roma,AC Parma,3-5-2,Carlo Mazzone,62238,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215657
+26,dom 09/04/1995,11:00,Napoli,Roma,?,Carlo Mazzone,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215664
+27,sáb 15/04/1995,11:00,Roma,Brescia,?,Carlo Mazzone,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215679
+28,dom 23/04/1995,11:00,Roma,Lazio,?,Carlo Mazzone,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215689
+29,dom 30/04/1995,11:00,Padova,Roma,?,Carlo Mazzone,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215693
+30,dom 07/05/1995,11:00,Roma,Florenz,?,Carlo Mazzone,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215705
+31,dom 14/05/1995,11:00,Milan,Roma,5-3-2,Carlo Mazzone,53184,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215713
+32,dom 21/05/1995,11:00,Bari,Roma,?,Carlo Mazzone,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215720
+33,dom 28/05/1995,11:30,Roma,Juventus,3-5-2,Carlo Mazzone,67618,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215727
+34,dom 04/06/1995,11:30,Cremonese,Roma,?,Carlo Mazzone,,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215743

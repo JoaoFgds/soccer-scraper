@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 15/04/2018,11:00,América-MG,Sport,4-1-4-1,Nelsinho Baptista,8662,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3011397
+2,seg 23/04/2018,20:00,Sport,Botafogo,4-2-3-1,Nelsinho Baptista,7083,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3034141
+3,dom 29/04/2018,16:00,Paraná,Sport,4-1-4-1,Claudinei Oliveira,8490,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3034145
+4,dom 06/05/2018,19:00,Sport,Bahia,4-1-4-1,Claudinei Oliveira,15165,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036817
+5,dom 13/05/2018,11:00,Cruzeiro,Sport,4-1-4-1,Claudinei Oliveira,21907,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036828
+6,dom 20/05/2018,16:00,Sport,Corinthians,4-2-3-1,Claudinei Oliveira,28942,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036842
+7,sáb 26/05/2018,19:00,Palmeiras,Sport,4-1-4-1,Claudinei Oliveira,25947,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036846
+8,qua 30/05/2018,19:30,Sport,Atlético-MG,4-2-3-1,Claudinei Oliveira,15605,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036857
+9,sáb 02/06/2018,16:00,Internacional,Sport,4-2-3-1,Claudinei Oliveira,31327,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036866
+10,qua 06/06/2018,21:00,Sport,Atlético-PR,4-2-3-1,Claudinei Oliveira,17841,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036878
+11,sáb 09/06/2018,19:00,Vasco da Gama,Sport,4-2-3-1,Claudinei Oliveira,8418,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036889
+12,qua 13/06/2018,19:30,Sport,Grêmio,4-2-3-1,Claudinei Oliveira,19497,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036902
+13,qua 18/07/2018,19:30,Ceará,Sport,4-2-3-1,Claudinei Oliveira,15197,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036911
+14,dom 22/07/2018,16:00,Sport,Fluminense,4-2-3-1,Claudinei Oliveira,11119,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036922
+15,qui 26/07/2018,19:30,Vitória,Sport,4-2-3-1,Claudinei Oliveira,5706,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036928
+16,dom 29/07/2018,16:00,Flamengo,Sport,4-2-3-1,Claudinei Oliveira,58000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036940
+17,dom 05/08/2018,19:00,Sport,Chapecoense,4-2-3-1,Claudinei Oliveira,6787,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036952
+18,dom 12/08/2018,16:00,Sport,São Paulo,4-2-3-1,Claudinei Oliveira,16050,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036962
+19,sáb 18/08/2018,16:00,Santos,Sport,4-2-3-1,Eduardo Baptista,10991,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036972
+20,qua 22/08/2018,21:00,Sport,América-MG,4-2-3-1,Eduardo Baptista,16425,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036982
+21,sáb 25/08/2018,21:00,Botafogo,Sport,4-2-3-1,Eduardo Baptista,6031,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036990
+22,dom 02/09/2018,16:00,Sport,Paraná,4-2-3-1,Eduardo Baptista,13966,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037002
+23,qua 05/09/2018,19:30,Bahia,Sport,5-4-1,Eduardo Baptista,13816,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037008
+24,sáb 08/09/2018,16:00,Sport,Cruzeiro,4-2-3-1,Eduardo Baptista,9525,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037022
+25,dom 16/09/2018,19:00,Corinthians,Sport,4-2-3-1,Eduardo Baptista,21112,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037033
+26,dom 23/09/2018,18:00,Sport,Palmeiras,4-2-3-1,Eduardo Baptista,18681,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037042
+27,dom 30/09/2018,16:00,Atlético-MG,Sport,4-2-3-1,Milton Mendes,22654,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037045
+28,sex 05/10/2018,19:00,Sport,Internacional,4-2-3-1,Milton Mendes,9979,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037062
+29,dom 14/10/2018,19:00,Atlético-PR,Sport,4-2-3-1,Milton Mendes,13481,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037066
+30,sáb 20/10/2018,19:00,Sport,Vasco da Gama,4-2-3-1,Milton Mendes,13860,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037082
+31,sáb 27/10/2018,16:30,Grêmio,Sport,4-2-3-1,Milton Mendes,13842,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037094
+32,seg 05/11/2018,20:00,Sport,Ceará,4-2-3-1,Milton Mendes,25002,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037102
+33,dom 11/11/2018,19:00,Fluminense,Sport,4-2-3-1,Milton Mendes,12256,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037109
+34,qua 14/11/2018,21:45,Sport,Vitória,4-3-3 defensivo,Milton Mendes,22652,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037122
+35,dom 18/11/2018,17:00,Sport,Flamengo,4-2-3-1,Milton Mendes,26005,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037132
+36,qui 22/11/2018,21:00,Chapecoense,Sport,4-2-3-1,Milton Mendes,12384,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037137
+37,seg 26/11/2018,20:00,São Paulo,Sport,4-2-3-1,Milton Mendes,15235,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037151
+38,dom 02/12/2018,17:00,Sport,Santos,4-2-3-1,Milton Mendes,23451,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037162

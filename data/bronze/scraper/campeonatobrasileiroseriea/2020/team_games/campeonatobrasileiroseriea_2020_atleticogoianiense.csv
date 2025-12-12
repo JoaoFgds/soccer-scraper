@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qua 30/09/2020,21:30,Corinthians,Atlético-GO,4-2-3-1,Vagner Mancini,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417542
+2,ter 11/08/2020,20:30,Atlético-GO,Flamengo,4-2-3-1,Vagner Mancini,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3411144
+3,dom 16/08/2020,19:00,Atlético-GO,Sport,4-2-3-1,Vagner Mancini,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416085
+4,qua 19/08/2020,20:30,Internacional,Atlético-GO,4-3-3 ofensivo,Vagner Mancini,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416220
+5,sáb 22/08/2020,21:00,Goiás,Atlético-GO,4-2-3-1,Vagner Mancini,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416102
+6,dom 30/08/2020,18:00,Atlético-GO,Ceará,4-2-3-1,Vagner Mancini,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416112
+7,qua 02/09/2020,19:15,Fluminense,Atlético-GO,4-2-3-1,Vagner Mancini,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416121
+8,dom 06/09/2020,19:00,Atlético-GO,Grêmio,4-2-3-1,Vagner Mancini,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416136
+9,qui 10/09/2020,21:00,Vasco da Gama,Atlético-GO,4-2-3-1,Vagner Mancini,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416172
+10,dom 13/09/2020,18:00,Bahia,Atlético-GO,4-2-3-1,Vagner Mancini,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416244
+11,sáb 19/09/2020,21:00,Atlético-GO,Atlético-MG,4-2-3-1,Vagner Mancini,x,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417540
+12,dom 27/09/2020,18:15,Atlético-GO,Botafogo,4-2-3-1,Vagner Mancini,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417554
+13,dom 04/10/2020,18:15,Fortaleza,Atlético-GO,4-2-3-1,Vagner Mancini,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417563
+14,qua 07/10/2020,20:30,São Paulo,Atlético-GO,4-2-3-1,Vagner Mancini,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417567
+15,dom 11/10/2020,18:15,Atlético-GO,Bragantino,4-2-3-1,Vagner Mancini,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417584
+16,qua 14/10/2020,20:30,Santos,Atlético-GO,4-2-3-1,Eduardo Souza,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417588
+17,sáb 17/10/2020,19:00,Atlético-GO,Athletico-PR,4-2-3-1,Eduardo Souza,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417604
+18,dom 25/10/2020,16:00,Atlético-GO,Palmeiras,4-2-3-1,Eduardo Souza,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417614
+19,sáb 31/10/2020,19:00,Coritiba,Atlético-GO,4-2-3-1,Eduardo Souza,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417622
+20,sáb 07/11/2020,21:00,Atlético-GO,Corinthians,4-2-3-1,Eduardo Souza,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417629
+21,sáb 14/11/2020,21:30,Flamengo,Atlético-GO,4-2-3-1,Marcelo Cabo,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417644
+22,seg 23/11/2020,19:00,Sport,Atlético-GO,4-2-3-1,Marcelo Cabo,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417669
+23,sáb 28/11/2020,20:00,Atlético-GO,Internacional,4-2-3-1,Marcelo Cabo,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417670
+24,seg 07/12/2020,19:00,Atlético-GO,Goiás,4-3-3 ofensivo,Marcelo Cabo,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417654
+25,sáb 12/12/2020,20:00,Ceará,Atlético-GO,4-2-3-1,Marcelo Cabo,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417684
+26,qua 16/12/2020,21:30,Atlético-GO,Fluminense,4-2-3-1,Marcelo Cabo,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417685
+27,sáb 26/12/2020,20:30,Grêmio,Atlético-GO,4-4-2,Marcelo Cabo,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417695
+28,qui 07/01/2021,20:00,Atlético-GO,Vasco da Gama,4-2-3-1,Marcelo Cabo,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417510
+29,dom 10/01/2021,17:15,Atlético-GO,Bahia,4-2-3-1,Marcelo Cabo,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417520
+30,dom 17/01/2021,18:15,Atlético-MG,Atlético-GO,4-2-3-1,Marcelo Cabo,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417525
+31,qua 20/01/2021,17:00,Botafogo,Atlético-GO,4-2-3-1,Marcelo Cabo,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417706
+32,dom 24/01/2021,18:15,Atlético-GO,Fortaleza,4-2-3-1,Marcelo Cabo,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417813
+33,dom 31/01/2021,16:00,Atlético-GO,São Paulo,4-2-3-1,Marcelo Cabo,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418075
+34,qua 03/02/2021,18:15,Bragantino,Atlético-GO,4-2-3-1,Marcelo Cabo,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418079
+35,sáb 06/02/2021,20:00,Atlético-GO,Santos,4-2-3-1,Marcelo Cabo,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418095
+36,dom 14/02/2021,18:15,Athletico-PR,Atlético-GO,4-2-3-1,Marcelo Cabo,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418103
+37,seg 22/02/2021,18:00,Palmeiras,Atlético-GO,4-2-3-1,Marcelo Cabo,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418108
+38,qui 25/02/2021,21:30,Atlético-GO,Coritiba,4-2-3-1,Marcelo Cabo,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418125

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 19/09/2020,10:30,Werder Bremen,Hertha Berlim,4-3-1-2,Bruno Labbadia,8400,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412890
+2,sex 25/09/2020,15:30,Hertha Berlim,Frankfurt,4-3-1-2,Bruno Labbadia,4000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412905
+3,dom 04/10/2020,13:00,Bayern,Hertha Berlim,4-4-1-1,Bruno Labbadia,x,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412919
+4,sáb 17/10/2020,10:30,Hertha Berlim,Stuttgart,4-3-3 defensivo,Bruno Labbadia,4000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412940
+5,sáb 24/10/2020,10:30,Leipzig,Hertha Berlim,4-3-3 ofensivo,Bruno Labbadia,999,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412957
+6,dom 01/11/2020,14:00,Hertha Berlim,Wolfsburg,4-2-3-1,Bruno Labbadia,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412977
+7,sáb 07/11/2020,11:30,Augsburg,Hertha Berlim,4-4-2 duplo 6,Bruno Labbadia,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412997
+8,sáb 21/11/2020,16:30,Hertha Berlim,Dortmund,4-4-2 duplo 6,Bruno Labbadia,x,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413014
+9,dom 29/11/2020,11:30,Leverkusen,Hertha Berlim,4-4-2 duplo 6,Bruno Labbadia,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413021
+10,sex 04/12/2020,16:30,Hertha Berlim,Union Berlim,4-3-1-2,Bruno Labbadia,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413040
+11,sáb 12/12/2020,11:30,M'gladbach,Hertha Berlim,4-2-3-1,Bruno Labbadia,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413056
+12,ter 15/12/2020,16:30,Hertha Berlim,Mainz,4-3-3 ofensivo,Bruno Labbadia,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413075
+13,dom 20/12/2020,11:30,Freiburg,Hertha Berlim,4-3-3 ofensivo,Bruno Labbadia,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413085
+14,sáb 02/01/2021,14:30,Hertha Berlim,Schalke,4-3-3 ofensivo,Bruno Labbadia,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413103
+15,dom 10/01/2021,14:00,Arm. Bielefeld,Hertha Berlim,4-1-4-1,Bruno Labbadia,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413125
+16,sáb 16/01/2021,11:30,Colônia,Hertha Berlim,4-3-1-2,Bruno Labbadia,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413141
+17,ter 19/01/2021,16:30,Hertha Berlim,Hoffenheim,4-3-1-2,Bruno Labbadia,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413157
+18,sáb 23/01/2021,14:30,Hertha Berlim,Werder Bremen,4-4-2 duplo 6,Bruno Labbadia,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413175
+19,sáb 30/01/2021,11:30,Frankfurt,Hertha Berlim,4-2-3-1,Pál Dárdai,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413166
+20,sex 05/02/2021,16:00,Hertha Berlim,Bayern,4-2-3-1,Pál Dárdai,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413148
+21,sáb 13/02/2021,11:30,Stuttgart,Hertha Berlim,4-2-3-1,Pál Dárdai,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413134
+22,dom 21/02/2021,11:30,Hertha Berlim,Leipzig,3-4-1-2,Pál Dárdai,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413112
+23,sáb 27/02/2021,11:30,Wolfsburg,Hertha Berlim,5-3-2,Pál Dárdai,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413094
+24,sáb 06/03/2021,11:30,Hertha Berlim,Augsburg,3-5-2 plano,Pál Dárdai,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413068
+25,sáb 13/03/2021,14:30,Dortmund,Hertha Berlim,3-5-2 plano,Pál Dárdai,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413045
+26,dom 21/03/2021,11:30,Hertha Berlim,Leverkusen,5-4-1 plano,Pál Dárdai,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413031
+27,dom 04/04/2021,13:00,Union Berlim,Hertha Berlim,4-3-3 ofensivo,Pál Dárdai,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413005
+28,sáb 10/04/2021,10:30,Hertha Berlim,M'gladbach,3-4-3 plano,Pál Dárdai,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412985
+29,seg 03/05/2021,13:00,Mainz,Hertha Berlim,3-5-2 plano,Pál Dárdai,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412971
+30,qui 06/05/2021,13:30,Hertha Berlim,Freiburg,4-3-3 ofensivo,Pál Dárdai,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412950
+31,qua 12/05/2021,13:00,Schalke,Hertha Berlim,4-2-3-1,Pál Dárdai,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412934
+32,dom 09/05/2021,13:00,Hertha Berlim,Arm. Bielefeld,5-3-2,Pál Dárdai,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412915
+33,sáb 15/05/2021,10:30,Hertha Berlim,Colônia,4-2-3-1,Pál Dárdai,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412896
+34,sáb 22/05/2021,10:30,Hoffenheim,Hertha Berlim,4-2-3-1,Pál Dárdai,100,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412876

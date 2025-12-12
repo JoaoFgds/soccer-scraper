@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 12/08/2024,16:15,Arouca,Vit. Guimarães,4-2-3-1,Rui Borges,3394,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396647
+2,dom 18/08/2024,14:00,Vit. Guimarães,Estoril,4-2-3-1,Rui Borges,17331,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396777
+3,dom 25/08/2024,16:30,AVS,Vit. Guimarães,4-2-3-1,Rui Borges,4485,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396759
+4,dom 01/09/2024,16:30,Vit. Guimarães,Famalicão,4-2-3-1,Rui Borges,20134,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396707
+5,dom 15/09/2024,16:30,Braga,Vit. Guimarães,4-2-3-1,Rui Borges,21215,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396655
+6,sáb 21/09/2024,14:00,Vit. Guimarães,FC Porto,4-2-3-1,Rui Borges,26377,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396775
+7,sáb 28/09/2024,14:00,Casa Pia,Vit. Guimarães,4-2-3-1,Rui Borges,2632,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396758
+8,dom 06/10/2024,11:30,Vit. Guimarães,Boavista,4-2-3-1,Rui Borges,15961,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396674
+9,dom 27/10/2024,17:30,Estrela Amadora,Vit. Guimarães,4-2-3-1,Rui Borges,2319,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396665
+10,dom 03/11/2024,15:00,Vit. Guimarães,Moreirense,4-2-3-1,Rui Borges,18031,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396739
+11,dom 10/11/2024,13:30,Santa Clara,Vit. Guimarães,4-2-3-1,Rui Borges,2512,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396687
+12,seg 02/12/2024,15:45,Vit. Guimarães,Gil Vicente,4-2-3-1,Rui Borges,11317,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396684
+13,sáb 07/12/2024,15:00,Benfica,Vit. Guimarães,4-2-3-1,Rui Borges,58839,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396730
+14,seg 16/12/2024,17:45,Rio Ave,Vit. Guimarães,4-2-3-1,Rui Borges,2897,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396817
+15,seg 23/12/2024,15:45,Vit. Guimarães,Nacional,4-2-3-1,Rui Borges,17423,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396837
+16,dom 29/12/2024,12:30,Farense,Vit. Guimarães,4-2-3-1,Daniel Sousa,6012,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396809
+17,sex 03/01/2025,17:15,Vit. Guimarães,Sporting,4-2-3-1,Daniel Sousa,26549,4:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396891
+18,sáb 18/01/2025,17:30,Vit. Guimarães,Arouca,4-2-3-1,Luís Freire,13916,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396829
+19,dom 26/01/2025,12:30,Estoril,Vit. Guimarães,4-3-3 ofensivo,Luís Freire,2660,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396786
+20,sáb 01/02/2025,17:30,Vit. Guimarães,AVS,4-2-3-1,Luís Freire,13647,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396696
+21,sáb 08/02/2025,17:30,Famalicão,Vit. Guimarães,4-2-3-1,Luís Freire,3297,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396860
+22,dom 16/02/2025,17:30,Vit. Guimarães,Braga,4-2-3-1,Luís Freire,28133,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396721
+23,seg 24/02/2025,17:15,FC Porto,Vit. Guimarães,4-2-3-1,Luís Freire,44142,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396910
+24,sáb 01/03/2025,17:30,Vit. Guimarães,Casa Pia,4-2-3-1,João Ferreira,14798,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396902
+25,dom 09/03/2025,17:30,Boavista,Vit. Guimarães,4-2-3-1,Luís Freire,16820,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396746
+26,dom 16/03/2025,17:30,Vit. Guimarães,Estrela Amadora,4-2-3-1,Luís Freire,13974,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396845
+27,dom 30/03/2025,16:30,Moreirense,Vit. Guimarães,4-2-3-1,Luís Freire,3795,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396802
+28,sáb 05/04/2025,16:30,Vit. Guimarães,Santa Clara,4-2-3-1,Luís Freire,15143,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396852
+29,sex 11/04/2025,16:15,Gil Vicente,Vit. Guimarães,4-2-3-1,Luís Freire,6588,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396928
+30,sáb 19/04/2025,16:30,Vit. Guimarães,Benfica,4-2-3-1,Luís Freire,23341,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396919
+31,dom 27/04/2025,14:00,Vit. Guimarães,Rio Ave,4-2-3-1,Luís Freire,17304,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396880
+32,sáb 03/05/2025,11:30,Nacional,Vit. Guimarães,4-2-3-1,Luís Freire,1911,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396873
+33,dom 11/05/2025,14:00,Vit. Guimarães,Farense,4-2-3-1,Luís Freire,20226,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396944
+34,sáb 17/05/2025,14:00,Sporting,Vit. Guimarães,4-2-3-1,Luís Freire,49155,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396936

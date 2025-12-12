@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 14/08/2021,11:00,Watford,Aston Villa,4-1-4-1,Xisco Muñoz,20051,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583485
+2,sáb 21/08/2021,13:30,Brighton,Watford,4-3-3 ofensivo,Xisco Muñoz,29485,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3583521
+3,dom 29/08/2021,10:00,Tottenham,Watford,4-3-3 ofensivo,Xisco Muñoz,57672,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591998
+4,sáb 11/09/2021,11:00,Watford,Wolves,4-3-3 ofensivo,Xisco Muñoz,20019,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592030
+5,sáb 18/09/2021,11:00,Norwich,Watford,4-2-3-1,Xisco Muñoz,26649,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591967
+6,sáb 25/09/2021,11:00,Watford,Newcastle,4-2-3-1,Xisco Muñoz,20650,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591990
+7,sáb 02/10/2021,11:00,Leeds,Watford,4-2-3-1,Xisco Muñoz,36261,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592005
+8,sáb 16/10/2021,08:30,Watford,Liverpool,5-4-1 plano,Claudio Ranieri,21085,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592020
+9,sáb 23/10/2021,11:00,Everton,Watford,4-2-3-1,Claudio Ranieri,38834,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592046
+10,sáb 30/10/2021,11:00,Watford,Southampton,4-2-3-1,Claudio Ranieri,20869,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591979
+11,dom 07/11/2021,11:00,Arsenal,Watford,4-1-4-1,Claudio Ranieri,59833,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3591951
+12,sáb 20/11/2021,12:00,Watford,Man Utd,4-3-3 ofensivo,Claudio Ranieri,21087,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592039
+13,dom 28/11/2021,11:00,Leicester,Watford,4-3-3 ofensivo,Claudio Ranieri,32020,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592097
+14,qua 01/12/2021,16:30,Watford,Chelsea,4-3-3 ofensivo,Claudio Ranieri,20388,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592135
+15,sáb 04/12/2021,14:30,Watford,Man City,4-3-3 ofensivo,Claudio Ranieri,20673,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592068
+16,sex 10/12/2021,17:00,Brentford,Watford,4-2-3-1,Claudio Ranieri,16861,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592072
+17,sáb 05/02/2022,15:00,FC Burnley,Watford,4-4-2,Roy Hodgson,19527,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592054
+18,qua 23/02/2022,16:30,Watford,Crystal Palace,4-3-3 ofensivo,Roy Hodgson,20012,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592088
+19,qui 10/03/2022,16:30,Wolves,Watford,4-3-3 ofensivo,Roy Hodgson,29658,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592279
+20,ter 28/12/2021,12:00,Watford,West Ham,4-3-3 ofensivo,Claudio Ranieri,20073,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592300
+21,sáb 01/01/2022,12:00,Watford,Tottenham,4-4-2,Claudio Ranieri,20391,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592310
+22,sáb 15/01/2022,12:00,Newcastle,Watford,4-3-3 ofensivo,Claudio Ranieri,52223,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592116
+23,sex 21/01/2022,17:00,Watford,Norwich,4-3-3 ofensivo,Claudio Ranieri,20782,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592130
+24,ter 08/02/2022,16:45,West Ham,Watford,4-4-2,Roy Hodgson,59581,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592212
+25,sáb 12/02/2022,12:00,Watford,Brighton,4-4-2,Roy Hodgson,20795,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592266
+26,sáb 19/02/2022,12:00,Aston Villa,Watford,4-3-3 ofensivo,Roy Hodgson,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592102
+27,sáb 26/02/2022,12:00,Man Utd,Watford,4-3-3 ofensivo,Roy Hodgson,73152,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592291
+28,dom 06/03/2022,11:00,Watford,Arsenal,4-3-3 ofensivo,Roy Hodgson,21142,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592149
+29,dom 13/03/2022,11:00,Southampton,Watford,4-3-3 ofensivo,Roy Hodgson,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592248
+30,qua 11/05/2022,15:45,Watford,Everton,4-3-3 ofensivo,Roy Hodgson,20653,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592261
+31,sáb 02/04/2022,08:30,Liverpool,Watford,4-3-3 ofensivo,Roy Hodgson,53104,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592222
+32,sáb 09/04/2022,11:00,Watford,Leeds,4-1-4-1,Roy Hodgson,20957,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592268
+33,sáb 16/04/2022,11:00,Watford,Brentford,4-3-3 ofensivo,Roy Hodgson,20747,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592267
+34,sáb 23/04/2022,11:00,Man City,Watford,4-3-3 ofensivo,Roy Hodgson,53013,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592274
+35,sáb 30/04/2022,11:00,Watford,FC Burnley,4-3-3 ofensivo,Roy Hodgson,20738,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592269
+36,sáb 07/05/2022,11:00,Crystal Palace,Watford,4-1-4-1,Roy Hodgson,24622,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592227
+37,dom 15/05/2022,10:00,Watford,Leicester,4-1-4-1,Roy Hodgson,20257,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592249
+38,dom 22/05/2022,12:00,Chelsea,Watford,4-3-3 ofensivo,Roy Hodgson,32089,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592205

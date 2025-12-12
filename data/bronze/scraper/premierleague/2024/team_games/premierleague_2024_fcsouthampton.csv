@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 17/08/2024,11:00,Newcastle,Southampton,3-5-2 plano,Russell Martin,52196,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361265
+2,sáb 24/08/2024,11:00,Southampton,Nott'm Forest,3-5-2 plano,Russell Martin,31150,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361278
+3,sáb 31/08/2024,11:00,Brentford,Southampton,3-5-2 plano,Russell Martin,16955,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361291
+4,sáb 14/09/2024,08:30,Southampton,Man Utd,4-2-3-1,Russell Martin,31144,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361357
+5,sáb 21/09/2024,11:00,Southampton,Ipswich,4-2-3-1,Russell Martin,31117,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361367
+6,seg 30/09/2024,16:00,Bournemouth,Southampton,4-2-3-1,Russell Martin,10992,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361370
+7,sáb 05/10/2024,11:00,Arsenal,Southampton,5-4-1 plano,Russell Martin,60326,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361380
+8,sáb 19/10/2024,11:00,Southampton,Leicester,4-5-1 plano,Russell Martin,31145,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361397
+9,sáb 26/10/2024,11:00,Man City,Southampton,5-4-1 plano,Russell Martin,55017,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361407
+10,sáb 02/11/2024,12:00,Southampton,Everton,5-4-1 plano,Russell Martin,31143,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361417
+11,sáb 09/11/2024,12:00,Wolves,Southampton,5-4-1 plano,Russell Martin,31403,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361429
+12,dom 24/11/2024,11:00,Southampton,Liverpool,5-4-1 plano,Russell Martin,31278,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361439
+13,sex 29/11/2024,17:00,Brighton,Southampton,5-4-1 plano,Russell Martin,31542,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361441
+14,qua 04/12/2024,16:30,Southampton,Chelsea,5-3-2,Russell Martin,31193,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361459
+15,sáb 07/12/2024,12:00,Aston Villa,Southampton,5-3-2,Russell Martin,42453,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361460
+16,dom 15/12/2024,16:00,Southampton,Tottenham,4-3-1-2,Russell Martin,31090,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361478
+17,dom 22/12/2024,11:00,Fulham,Southampton,3-4-1-2,Simon Rusk,26819,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361484
+18,qui 26/12/2024,12:00,Southampton,West Ham,3-4-1-2,Ivan Juric,31059,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361498
+19,dom 29/12/2024,12:00,Crystal Palace,Southampton,3-4-2-1,Ivan Juric,25130,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361502
+20,sáb 04/01/2025,12:00,Southampton,Brentford,3-4-3 plano,Ivan Juric,31001,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361517
+21,qui 16/01/2025,17:00,Man Utd,Southampton,3-4-1-2,Ivan Juric,73722,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361529
+22,dom 19/01/2025,11:00,Nott'm Forest,Southampton,3-4-1-2,Ivan Juric,30180,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362736
+23,sáb 25/01/2025,12:00,Southampton,Newcastle,3-4-1-2,Ivan Juric,31141,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362745
+24,sáb 01/02/2025,12:00,Ipswich,Southampton,3-4-2-1,Ivan Juric,29902,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362753
+25,sáb 15/02/2025,12:00,Southampton,Bournemouth,3-4-1-2,Ivan Juric,31037,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362765
+26,sáb 22/02/2025,12:00,Southampton,Brighton,3-4-3 plano,Ivan Juric,30775,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362777
+27,ter 25/02/2025,17:15,Chelsea,Southampton,5-4-1 plano,Ivan Juric,39485,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362785
+28,sáb 08/03/2025,12:00,Liverpool,Southampton,4-2-3-1,Ivan Juric,61276,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362792
+29,sáb 15/03/2025,12:00,Southampton,Wolves,3-4-3 plano,Ivan Juric,30950,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362807
+30,qua 02/04/2025,15:45,Southampton,Crystal Palace,3-4-2-1,Ivan Juric,29366,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362816
+31,dom 06/04/2025,10:00,Tottenham,Southampton,4-2-3-1,Ivan Juric,60984,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362826
+32,sáb 12/04/2025,11:00,Southampton,Aston Villa,3-4-3 plano,Simon Rusk,30673,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362836
+33,sáb 19/04/2025,11:00,West Ham,Southampton,3-4-2-1,Simon Rusk,62461,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362847
+34,sáb 26/04/2025,11:00,Southampton,Fulham,3-4-2-1,Simon Rusk,28946,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362856
+35,sáb 03/05/2025,11:00,Leicester,Southampton,3-4-2-1,Simon Rusk,31240,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362865
+36,sáb 10/05/2025,11:00,Southampton,Man City,5-4-1 plano,Simon Rusk,30937,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362875
+37,dom 18/05/2025,08:00,Everton,Southampton,3-4-2-1,Simon Rusk,39201,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4362884
+38,dom 25/05/2025,12:00,Southampton,Arsenal,5-4-1 plano,Simon Rusk,31289,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361537

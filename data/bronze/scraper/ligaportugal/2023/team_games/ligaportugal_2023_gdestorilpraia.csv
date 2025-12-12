@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 13/08/2023,16:30,Arouca,Estoril,4-3-3 ofensivo,Álvaro Pacheco,1752,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109301
+2,sáb 19/08/2023,19:00,Estoril,Rio Ave,4-3-3 ofensivo,Álvaro Pacheco,2359,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109291
+3,sex 25/08/2023,16:15,Estrela Amadora,Estoril,4-3-3 ofensivo,Álvaro Pacheco,3624,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109320
+4,dom 03/09/2023,11:30,Estoril,Boavista,4-3-3 ofensivo,Álvaro Pacheco,3056,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109304
+5,dom 17/09/2023,11:30,Gil Vicente,Estoril,4-3-3 ofensivo,Álvaro Pacheco,2495,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109349
+6,sáb 23/09/2023,11:30,Estoril,Vizela,3-4-3 plano,Álvaro Pacheco,4258,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109329
+7,dom 01/10/2023,14:00,Vit. Guimarães,Estoril,3-3-3-1,Álvaro Pacheco,15101,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109331
+8,sáb 07/10/2023,16:30,Estoril,Benfica,4-3-3 ofensivo,Vasco Seabra,4966,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109358
+9,sáb 28/10/2023,11:30,Portimonense,Estoril,3-4-3 plano,Vasco Seabra,1579,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109430
+10,sex 03/11/2023,17:15,FC Porto,Estoril,3-4-3 plano,Vasco Seabra,30306,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109341
+11,sex 10/11/2023,17:15,Estoril,Casa Pia,3-4-3 plano,Vasco Seabra,2896,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109387
+12,dom 03/12/2023,12:30,Braga,Estoril,3-4-2-1,Vasco Seabra,12902,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109382
+13,dom 10/12/2023,17:30,Estoril,Chaves,3-4-3 plano,Vasco Seabra,1578,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109366
+14,dom 17/12/2023,15:00,Famalicão,Estoril,5-4-1 plano,Vasco Seabra,3599,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109494
+15,sáb 30/12/2023,12:30,Estoril,Farense,3-4-2-1,Vasco Seabra,2562,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109419
+16,sex 05/01/2024,15:45,Sporting,Estoril,3-4-3 plano,Vasco Seabra,37483,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109476
+17,sáb 13/01/2024,17:30,Estoril,Moreirense,3-4-3 plano,Vasco Seabra,1762,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109425
+18,sáb 20/01/2024,12:30,Estoril,Arouca,3-4-3 plano,Vasco Seabra,2184,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109408
+19,qua 31/01/2024,15:45,Rio Ave,Estoril,3-4-3 plano,Vasco Seabra,3058,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109523
+20,dom 04/02/2024,15:00,Estoril,Estrela Amadora,3-4-3 plano,Vasco Seabra,3486,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109401
+21,sáb 10/02/2024,17:30,Boavista,Estoril,3-4-3 plano,Vasco Seabra,7112,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109448
+22,dom 18/02/2024,15:00,Estoril,Gil Vicente,3-4-2-1,Vasco Seabra,3596,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109511
+23,dom 25/02/2024,12:30,Vizela,Estoril,3-4-3 plano,Vasco Seabra,1910,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109491
+24,sáb 02/03/2024,15:00,Estoril,Vit. Guimarães,3-4-3 plano,Vasco Seabra,2086,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109502
+25,dom 10/03/2024,17:30,Benfica,Estoril,3-4-3 plano,Vasco Seabra,48964,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109466
+26,sex 15/03/2024,17:15,Estoril,Portimonense,3-4-3 plano,Vasco Seabra,1870,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109440
+27,sáb 30/03/2024,17:30,Estoril,FC Porto,3-4-3 plano,Vasco Seabra,4578,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109457
+28,seg 08/04/2024,16:15,Casa Pia,Estoril,3-4-3 plano,Vasco Seabra,1391,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109557
+29,sáb 13/04/2024,16:30,Estoril,Braga,3-4-3 plano,Vasco Seabra,3639,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109542
+30,dom 21/04/2024,11:30,Chaves,Estoril,3-4-3 plano,Vasco Seabra,2337,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109546
+31,dom 28/04/2024,14:00,Estoril,Famalicão,3-4-3 plano,Vasco Seabra,3191,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109529
+32,dom 05/05/2024,11:30,Farense,Estoril,3-4-3 plano,Vasco Seabra,5508,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109581
+33,sáb 11/05/2024,14:00,Estoril,Sporting,3-4-3 plano,Vasco Seabra,5018,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109565
+34,sáb 18/05/2024,14:00,Moreirense,Estoril,3-4-3 plano,Vasco Seabra,1697,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4109589

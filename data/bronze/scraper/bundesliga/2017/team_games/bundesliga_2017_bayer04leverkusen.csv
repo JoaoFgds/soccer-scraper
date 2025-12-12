@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 18/08/2017,15:30,Bayern,Leverkusen,4-2-3-1,Heiko Herrlich,75000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871495
+2,sáb 26/08/2017,10:30,Leverkusen,Hoffenheim,3-4-2-1,Heiko Herrlich,27106,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871548
+3,sáb 09/09/2017,10:30,Mainz,Leverkusen,3-4-2-1,Heiko Herrlich,24876,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871598
+4,dom 17/09/2017,10:30,Leverkusen,Freiburg,4-2-3-1,Heiko Herrlich,26232,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871661
+5,qua 20/09/2017,15:32,Hertha Berlim,Leverkusen,4-2-3-1,Heiko Herrlich,32825,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871692
+6,dom 24/09/2017,13:00,Leverkusen,Hamburgo,4-4-2 duplo 6,Heiko Herrlich,27601,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871732
+7,sex 29/09/2017,15:30,Schalke,Leverkusen,4-4-2 duplo 6,Heiko Herrlich,61515,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871777
+8,dom 15/10/2017,11:30,Leverkusen,Wolfsburg,4-4-2 duplo 6,Heiko Herrlich,29104,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871814
+9,sáb 21/10/2017,11:30,M'gladbach,Leverkusen,4-2-3-1,Heiko Herrlich,53053,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871857
+10,sáb 28/10/2017,11:30,Leverkusen,Colônia,4-3-3 ofensivo,Heiko Herrlich,30150,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871904
+11,sáb 04/11/2017,12:30,Augsburg,Leverkusen,4-3-3 ofensivo,Heiko Herrlich,26133,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871959
+12,sáb 18/11/2017,12:30,Leverkusen,Leipzig,3-4-2-1,Heiko Herrlich,29218,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871994
+13,sáb 25/11/2017,12:30,Frankfurt,Leverkusen,3-4-2-1,Heiko Herrlich,49000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872030
+14,sáb 02/12/2017,12:30,Leverkusen,Dortmund,4-3-3 ofensivo,Heiko Herrlich,30210,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871986
+15,sex 08/12/2017,17:30,Stuttgart,Leverkusen,3-4-2-1,Heiko Herrlich,54650,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871943
+16,qua 13/12/2017,17:30,Leverkusen,Werder Bremen,3-4-2-1,Heiko Herrlich,26620,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871913
+17,dom 17/12/2017,12:30,Hannover,Leverkusen,4-2-3-1,Heiko Herrlich,32800,4:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871879
+18,sex 12/01/2018,17:30,Leverkusen,Bayern,3-4-2-1,Heiko Herrlich,30210,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871486
+19,sáb 20/01/2018,12:30,Hoffenheim,Leverkusen,4-2-3-1,Heiko Herrlich,28017,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871509
+20,dom 28/01/2018,12:30,Leverkusen,Mainz,4-2-3-1,Heiko Herrlich,25471,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871575
+21,sáb 03/02/2018,12:30,Freiburg,Leverkusen,4-2-3-1,Heiko Herrlich,24000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871648
+22,sáb 10/02/2018,12:30,Leverkusen,Hertha Berlim,4-4-2 duplo 6,Heiko Herrlich,25601,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871679
+23,sáb 17/02/2018,12:30,Hamburgo,Leverkusen,4-2-3-1,Heiko Herrlich,45691,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871725
+24,dom 25/02/2018,11:30,Leverkusen,Schalke,4-2-3-1,Heiko Herrlich,30210,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871759
+25,sáb 03/03/2018,11:30,Wolfsburg,Leverkusen,4-3-3 defensivo,Heiko Herrlich,24354,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872114
+26,sáb 10/03/2018,14:30,Leverkusen,M'gladbach,4-2-3-1,Heiko Herrlich,28809,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871796
+27,dom 18/03/2018,11:30,Colônia,Leverkusen,4-4-1-1,Heiko Herrlich,50000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871829
+28,sáb 31/03/2018,10:30,Leverkusen,Augsburg,4-2-3-1,Heiko Herrlich,25831,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872021
+29,seg 09/04/2018,15:30,Leipzig,Leverkusen,3-4-2-1,Heiko Herrlich,35617,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872044
+30,sáb 14/04/2018,10:30,Leverkusen,Frankfurt,3-4-2-1,Heiko Herrlich,30210,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872066
+31,sáb 21/04/2018,13:30,Dortmund,Leverkusen,4-2-3-1,Heiko Herrlich,81360,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872070
+32,sáb 28/04/2018,13:30,Leverkusen,Stuttgart,3-4-2-1,Heiko Herrlich,30210,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872085
+33,sáb 05/05/2018,10:30,Werder Bremen,Leverkusen,4-2-3-1,Heiko Herrlich,42100,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872091
+34,sáb 12/05/2018,10:30,Leverkusen,Hannover,4-2-3-1,Heiko Herrlich,30210,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872102

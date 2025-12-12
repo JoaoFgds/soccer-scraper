@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 11/08/2018,15:00,CD Tondela,B SAD,4-4-2 duplo 6,Pepa,2010,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069375
+2,sex 17/08/2018,16:30,CD Aves,CD Tondela,4-4-2 duplo 6,Pepa,1872,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069387
+3,dom 26/08/2018,14:30,CD Tondela,Rio Ave,4-4-2 duplo 6,Pepa,2045,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069393
+4,sex 31/08/2018,17:15,Vit. Guimarães,CD Tondela,4-2-3-1,Pepa,20128,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069407
+5,dom 23/09/2018,12:00,CD Tondela,Moreirense,4-2-3-1,Pepa,1710,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069411
+6,sex 28/09/2018,16:30,FC Porto,CD Tondela,4-2-3-1,Pepa,40011,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069432
+7,sex 05/10/2018,11:30,CD Tondela,Nacional,4-2-3-1,Pepa,1549,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069440
+8,dom 28/10/2018,12:00,CD Tondela,Vitória FC,4-4-1-1,Pepa,1393,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069458
+9,dom 04/11/2018,13:00,Feirense,CD Tondela,4-4-2 duplo 6,Pepa,2136,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069470
+10,dom 11/11/2018,15:30,CD Tondela,Benfica,4-2-3-1,Pepa,4755,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069487
+11,dom 02/12/2018,13:00,Portimonense,CD Tondela,4-2-3-1,Pepa,2383,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069493
+12,sáb 08/12/2018,16:00,CD Tondela,Braga,4-4-1-1,Nuno Pereira,2265,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069502
+13,sáb 15/12/2018,13:30,Boavista,CD Tondela,4-3-3 defensivo,Pepa,3834,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069516
+14,sáb 22/12/2018,13:30,CD Tondela,Marítimo,4-4-1-1,Pepa,1344,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069522
+15,qua 02/01/2019,14:00,Santa Clara,CD Tondela,4-2-3-1,Nuno Pereira,2105,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069528
+16,seg 07/01/2019,17:00,CD Tondela,Sporting,4-3-3 ofensivo,Pepa,4772,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069540
+17,dom 13/01/2019,15:30,Chaves,CD Tondela,4-4-2 duplo 6,Pepa,2666,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069554
+18,sáb 19/01/2019,13:30,B SAD,CD Tondela,4-2-3-1,Pepa,1521,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069558
+19,seg 28/01/2019,17:00,CD Tondela,CD Aves,4-2-3-1,Pepa,1478,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069569
+20,sex 01/02/2019,18:30,Rio Ave,CD Tondela,4-2-3-1,Pepa,1159,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069576
+21,sáb 09/02/2019,18:30,CD Tondela,Vit. Guimarães,4-2-3-1,Pepa,2410,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069590
+22,dom 17/02/2019,12:00,Moreirense,CD Tondela,4-2-3-1,Pepa,2090,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069592
+23,sex 22/02/2019,18:15,CD Tondela,FC Porto,4-2-3-1,Pepa,3963,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069605
+24,sáb 02/03/2019,12:30,Nacional,CD Tondela,4-2-3-1,Pepa,2335,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069613
+25,dom 10/03/2019,14:30,Vitória FC,CD Tondela,4-2-3-1,Pepa,4094,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069622
+26,dom 17/03/2019,17:00,CD Tondela,Feirense,4-2-3-1,Pepa,1871,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069632
+27,sáb 30/03/2019,17:30,Benfica,CD Tondela,4-4-2 duplo 6,Pepa,56594,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069644
+28,seg 08/04/2019,16:15,CD Tondela,Portimonense,4-2-3-1,Pepa,2066,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069645
+29,dom 14/04/2019,13:30,Braga,CD Tondela,4-4-2 duplo 6,Pepa,10636,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069656
+30,sex 19/04/2019,11:30,CD Tondela,Boavista,4-4-2 duplo 6,Pepa,3398,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069669
+31,dom 28/04/2019,11:00,Marítimo,CD Tondela,4-4-2 duplo 6,Pepa,5873,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069674
+32,dom 05/05/2019,11:00,CD Tondela,Santa Clara,4-4-2 duplo 6,Pepa,3916,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069684
+33,sáb 11/05/2019,16:30,Sporting,CD Tondela,4-2-3-1,Pepa,41665,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069693
+34,dom 19/05/2019,13:30,CD Tondela,Chaves,4-4-2 duplo 6,Pepa,4985,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069703

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 16/04/2023,16:00,Flamengo,Coritiba,4-3-3 ofensivo,António Oliveira,42848,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4055821
+2,dom 23/04/2023,18:30,Coritiba,Fortaleza,3-1-4-2,Leonardo Galbes,24423,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4059110
+3,sáb 29/04/2023,16:30,Coritiba,São Paulo,3-4-3 plano,Antônio Carlos Zago,25210,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060062
+4,dom 07/05/2023,16:00,Bahia,Coritiba,3-4-3 plano,Antônio Carlos Zago,37936,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061501
+5,qui 11/05/2023,19:00,Coritiba,Vasco da Gama,5-4-1 plano,Antônio Carlos Zago,20880,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061440
+6,dom 14/05/2023,18:30,Athletico-PR,Coritiba,5-4-1 plano,Antônio Carlos Zago,31252,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061520
+7,sáb 20/05/2023,18:30,Coritiba,Atlético-MG,3-5-2,Antônio Carlos Zago,20047,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061410
+8,sáb 27/05/2023,18:30,Cuiabá,Coritiba,3-4-1-2,Antônio Carlos Zago,8660,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061452
+9,dom 04/06/2023,18:30,Palmeiras,Coritiba,3-4-1-2,Antônio Carlos Zago,33570,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061415
+10,sáb 10/06/2023,16:00,Coritiba,Santos,3-5-2,Antônio Carlos Zago,25512,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061530
+11,qui 22/06/2023,20:00,Coritiba,Internacional,3-1-4-2,Antônio Carlos Zago,25983,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061470
+12,dom 25/06/2023,16:00,Grêmio,Coritiba,3-1-4-2,Antônio Carlos Zago,37048,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061509
+13,seg 03/07/2023,20:00,Goiás,Coritiba,4-1-4-1,Thiago Kosloski,10394,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061557
+14,sáb 08/07/2023,18:30,Coritiba,América-MG,4-1-4-1,Thiago Kosloski,24653,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061300
+15,dom 16/07/2023,11:00,Cruzeiro,Coritiba,4-3-3 ofensivo,Thiago Kosloski,22123,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061428
+16,seg 24/07/2023,19:00,Coritiba,Fluminense,4-1-4-1,Thiago Kosloski,32872,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061549
+17,dom 30/07/2023,16:00,Botafogo,Coritiba,4-1-4-1,Thiago Kosloski,43071,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061535
+18,dom 06/08/2023,18:30,Coritiba,Bragantino,4-1-4-1,Thiago Kosloski,34010,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061280
+19,dom 13/08/2023,16:00,Corinthians,Coritiba,4-1-4-1,Thiago Kosloski,42171,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061396
+20,dom 20/08/2023,16:00,Coritiba,Flamengo,4-1-4-1,Thiago Kosloski,31851,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061250
+21,dom 27/08/2023,18:30,Fortaleza,Coritiba,4-1-4-1,Thiago Kosloski,12467,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061391
+22,qua 27/09/2023,19:00,São Paulo,Coritiba,4-1-4-1,Thiago Kosloski,31720,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061285
+23,qui 14/09/2023,20:00,Coritiba,Bahia,4-1-4-1,Thiago Kosloski,22961,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061220
+24,qui 21/09/2023,19:00,Vasco da Gama,Coritiba,4-4-2,Thiago Kosloski,20321,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061254
+25,dom 01/10/2023,16:00,Coritiba,Athletico-PR,4-1-4-1,Thiago Kosloski,20992,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061380
+26,dom 08/10/2023,18:30,Atlético-MG,Coritiba,4-1-4-1,Thiago Kosloski,38350,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061268
+27,qua 18/10/2023,20:00,Coritiba,Cuiabá,4-1-4-1,Thiago Kosloski,20873,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061350
+28,dom 22/10/2023,18:30,Coritiba,Palmeiras,4-1-4-1,Thiago Kosloski,19387,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061330
+29,qui 26/10/2023,21:30,Santos,Coritiba,4-1-4-1,Thiago Kosloski,12205,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061456
+30,dom 29/10/2023,19:30,Internacional,Coritiba,4-2-3-1,Thiago Kosloski,36272,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061319
+31,qua 01/11/2023,20:00,Coritiba,Grêmio,4-1-4-1,Thiago Kosloski,24308,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061240
+32,dom 05/11/2023,18:30,Coritiba,Goiás,4-1-4-1,Thiago Kosloski,12942,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061230
+33,qua 08/11/2023,19:00,América-MG,Coritiba,4-1-4-1,Thiago Kosloski,1943,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061342
+34,sáb 11/11/2023,16:00,Coritiba,Cruzeiro,4-1-4-1,Thiago Kosloski,7243,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061310
+35,sáb 25/11/2023,21:00,Fluminense,Coritiba,4-4-2,Thiago Kosloski,19219,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061353
+36,qua 29/11/2023,21:30,Coritiba,Botafogo,4-1-4-1,Guto Ferreira,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061370
+37,dom 03/12/2023,18:30,Bragantino,Coritiba,4-1-4-1,Guto Ferreira,3442,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061477
+38,qua 06/12/2023,21:30,Coritiba,Corinthians,4-2-3-1,Guto Ferreira,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061490

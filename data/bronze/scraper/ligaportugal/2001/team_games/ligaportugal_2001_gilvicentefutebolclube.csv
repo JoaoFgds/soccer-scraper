@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 12/08/2001,17:00,Vit. Guimarães,Gil Vicente,4-3-3 ofensivo,Luís Campos,8017,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854037
+2,sex 17/08/2001,19:00,Gil Vicente,Braga,?,Luís Campos,2500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854229
+3,sex 24/08/2001,19:00,Santa Clara,Gil Vicente,?,Luís Campos,10000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854247
+4,sáb 08/09/2001,19:00,Gil Vicente,Paços Ferreira,?,Luís Campos,2500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854260
+5,sáb 15/09/2001,19:00,Sporting,Gil Vicente,4-1-4-1,Luís Campos,18433,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854270
+6,sex 21/09/2001,19:00,Gil Vicente,Boavista,?,Luís Campos,3500,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854274
+7,dom 30/09/2001,19:00,Marítimo,Gil Vicente,?,Luís Campos,2500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854290
+8,dom 14/10/2001,13:00,Gil Vicente,Varzim,4-3-3 ofensivo,Luís Campos,2800,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854298
+9,sex 19/10/2001,20:00,Benfica,Gil Vicente,?,Luís Campos,17800,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854301
+10,sáb 27/10/2001,20:00,Gil Vicente,Vitória FC,?,Luís Campos,3000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854315
+11,sáb 03/11/2001,21:00,Beira-Mar,Gil Vicente,?,Luís Campos,4000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854321
+12,dom 25/11/2001,19:00,Gil Vicente,FC Porto,4-3-3 ofensivo,Luís Campos,3500,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854331
+13,sáb 01/12/2001,21:00,Belenenses,Gil Vicente,?,Luís Campos,2000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854341
+14,ter 02/04/2002,19:00,Gil Vicente,Alverca,?,Vítor Oliveira,5500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854353
+15,sex 14/12/2001,21:00,Leiria,Gil Vicente,?,Luís Campos,2000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854360
+16,sex 21/12/2001,21:00,Salgueiros,Gil Vicente,?,Luís Campos,500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854367
+17,dom 06/01/2002,13:00,Gil Vicente,Farense,4-3-3 ofensivo,Vítor Oliveira,1500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854376
+18,qui 10/01/2002,21:00,Gil Vicente,Vit. Guimarães,?,Vítor Oliveira,1500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854381
+19,dom 20/01/2002,21:00,Braga,Gil Vicente,?,Vítor Oliveira,5000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854398
+20,sáb 26/01/2002,21:00,Gil Vicente,Santa Clara,?,Vítor Oliveira,2500,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854418
+21,dom 03/02/2002,14:00,Paços Ferreira,Gil Vicente,4-2-3-1,Vítor Oliveira,3000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854426
+22,sáb 09/02/2002,21:00,Gil Vicente,Sporting,4-3-1-2,Vítor Oliveira,4200,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854437
+23,sáb 16/02/2002,17:15,Boavista,Gil Vicente,4-3-3 ofensivo,Vítor Oliveira,4500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854439
+24,sáb 23/02/2002,20:00,Gil Vicente,Marítimo,?,Vítor Oliveira,3000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854452
+25,sáb 02/03/2002,20:00,Varzim,Gil Vicente,?,Vítor Oliveira,3000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854463
+26,sex 08/03/2002,20:00,Gil Vicente,Benfica,?,Vítor Oliveira,6000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854468
+27,sex 15/03/2002,20:00,Vitória FC,Gil Vicente,?,Vítor Oliveira,3000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854482
+28,sex 22/03/2002,20:00,Gil Vicente,Beira-Mar,?,Vítor Oliveira,1500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854484
+29,sáb 30/03/2002,15:00,FC Porto,Gil Vicente,4-2-3-1,Vítor Oliveira,12430,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854497
+30,sáb 06/04/2002,19:00,Gil Vicente,Belenenses,?,Vítor Oliveira,3000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854505
+31,sáb 13/04/2002,19:00,Alverca,Gil Vicente,?,Vítor Oliveira,3000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854519
+32,sáb 20/04/2002,19:00,Gil Vicente,Leiria,?,Vítor Oliveira,4000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854526
+33,sáb 27/04/2002,19:00,Gil Vicente,Salgueiros,?,Vítor Oliveira,3000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854534
+34,dom 05/05/2002,12:00,Farense,Gil Vicente,4-3-3 ofensivo,Vítor Oliveira,500,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854546

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 16/07/2022,08:00,St. Pauli,Nuremberg,4-3-1-2,Timo Schultz,28582,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839018
+2,sáb 23/07/2022,15:30,Hannover,St. Pauli,4-3-1-2,Timo Schultz,33600,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839041
+3,dom 07/08/2022,08:30,K'lautern,St. Pauli,4-4-2 losango,Timo Schultz,39579,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839051
+4,dom 14/08/2022,08:30,St. Pauli,Magdeburgo,4-4-2 duplo 6,Timo Schultz,29164,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839063
+5,dom 21/08/2022,08:30,Hansa Rostock,St. Pauli,4-4-2 duplo 6,Timo Schultz,26000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839074
+6,sáb 27/08/2022,08:00,St. Pauli,Paderborn,4-3-1-2,Timo Schultz,29269,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839089
+7,sáb 03/09/2022,08:00,Greuther Fürth,St. Pauli,4-4-2 duplo 6,Timo Schultz,10553,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839123
+8,dom 11/09/2022,08:30,St. Pauli,Sandhausen,4-4-2 losango,Timo Schultz,29546,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839141
+9,dom 18/09/2022,08:30,J. Regensburg,St. Pauli,4-4-2 duplo 6,Timo Schultz,12124,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839175
+10,sáb 01/10/2022,15:30,St. Pauli,Heidenheim,4-3-1-2,Timo Schultz,29242,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839187
+11,sáb 08/10/2022,08:00,E. Braunschweig,St. Pauli,4-3-1-2,Timo Schultz,21000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839212
+12,sex 14/10/2022,13:30,St. Pauli,Hamburgo,3-5-2 plano,Timo Schultz,29205,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839223
+13,sáb 22/10/2022,15:30,Arm. Bielefeld,St. Pauli,3-5-2,Timo Schultz,22626,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839240
+14,sáb 29/10/2022,15:30,St. Pauli,Darmstadt 98,3-5-2,Timo Schultz,29546,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839268
+15,sáb 05/11/2022,09:00,Düsseldorf,St. Pauli,3-4-1-2,Timo Schultz,36430,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839290
+16,ter 08/11/2022,14:30,St. Pauli,Holstein Kiel,3-4-1-2,Timo Schultz,29546,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839304
+17,sáb 12/11/2022,09:00,Karlsruher,St. Pauli,3-4-1-2,Timo Schultz,21487,4:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839328
+18,dom 29/01/2023,09:30,Nuremberg,St. Pauli,3-4-2-1,Fabian Hürzeler,30871,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839343
+19,dom 05/02/2023,09:30,St. Pauli,Hannover,3-4-2-1,Fabian Hürzeler,29546,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839358
+20,dom 12/02/2023,09:30,St. Pauli,K'lautern,3-4-2-1,Fabian Hürzeler,29456,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839377
+21,sáb 18/02/2023,09:00,Magdeburgo,St. Pauli,3-4-2-1,Fabian Hürzeler,24287,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839409
+22,dom 26/02/2023,09:30,St. Pauli,Hansa Rostock,3-4-2-1,Fabian Hürzeler,29205,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839422
+23,sex 03/03/2023,14:30,Paderborn,St. Pauli,3-4-2-1,Fabian Hürzeler,15000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839441
+24,sáb 11/03/2023,09:00,St. Pauli,Greuther Fürth,3-4-2-1,Fabian Hürzeler,29346,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839457
+25,dom 19/03/2023,09:30,Sandhausen,St. Pauli,3-4-2-1,Fabian Hürzeler,7642,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839480
+26,sáb 01/04/2023,08:00,St. Pauli,J. Regensburg,3-4-3 plano,Fabian Hürzeler,29235,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839492
+27,sáb 08/04/2023,15:30,Heidenheim,St. Pauli,3-4-2-1,Fabian Hürzeler,15000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839522
+28,dom 16/04/2023,08:30,St. Pauli,E. Braunschweig,3-4-2-1,Fabian Hürzeler,29546,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839538
+29,sex 21/04/2023,13:30,Hamburgo,St. Pauli,3-4-3 plano,Fabian Hürzeler,56400,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839556
+30,sáb 29/04/2023,08:00,St. Pauli,Arm. Bielefeld,3-4-3 plano,Fabian Hürzeler,29546,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839574
+31,sáb 06/05/2023,15:30,Darmstadt 98,St. Pauli,3-4-3 plano,Fabian Hürzeler,17650,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839593
+32,sáb 13/05/2023,15:30,St. Pauli,Düsseldorf,3-4-3 plano,Fabian Hürzeler,29546,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839601
+33,sex 19/05/2023,13:30,Holstein Kiel,St. Pauli,3-4-3 plano,Fabian Hürzeler,15034,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839614
+34,dom 28/05/2023,10:30,St. Pauli,Karlsruher,3-4-3 plano,Fabian Hürzeler,29546,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839619

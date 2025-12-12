@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 13/08/2021,17:00,Zaragoza,UD Ibiza,4-4-1-1,Juan Carlos Carcedo,8000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605078
+2,dom 22/08/2021,12:00,UD Ibiza,Málaga CF,4-2-3-1,Juan Carlos Carcedo,2487,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605084
+3,sáb 28/08/2021,14:30,Leganés,UD Ibiza,4-4-1-1,Juan Carlos Carcedo,4454,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605092
+4,dom 05/09/2021,11:00,UD Ibiza,SD Amorebieta,3-4-1-2,Juan Carlos Carcedo,3119,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605117
+5,sáb 11/09/2021,13:15,Las Palmas,UD Ibiza,4-2-3-1,Juan Carlos Carcedo,11726,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605122
+6,sáb 18/09/2021,11:00,UD Ibiza,Real Oviedo,4-2-3-1,Juan Carlos Carcedo,3119,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605137
+7,sáb 25/09/2021,11:00,UD Ibiza,Burgos CF,4-1-4-1,Juan Carlos Carcedo,3742,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605145
+8,dom 03/10/2021,09:00,Eibar,UD Ibiza,4-3-3 ofensivo,Juan Carlos Carcedo,3000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605156
+9,dom 10/10/2021,11:00,FC Cartagena,UD Ibiza,4-3-3 defensivo,Juan Carlos Carcedo,6210,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605166
+10,dom 17/10/2021,09:00,UD Ibiza,Mirandés,4-2-3-1,Juan Carlos Carcedo,3217,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3605179
+11,qua 20/10/2021,14:00,Valladolid,UD Ibiza,4-2-3-1,Juan Carlos Carcedo,12991,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607638
+12,sáb 23/10/2021,11:00,UD Ibiza,Fuenlabrada CF,4-2-3-1,Juan Carlos Carcedo,3419,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607644
+13,seg 01/11/2021,12:00,AD Alcorcón,UD Ibiza,4-4-2 duplo 6,Juan Carlos Carcedo,1522,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607651
+14,qui 04/11/2021,17:15,UD Ibiza,Tenerife,4-2-3-1,Juan Carlos Carcedo,3501,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607666
+15,dom 07/11/2021,17:00,Sanse,UD Ibiza,4-2-3-1,Juan Carlos Carcedo,845,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607680
+16,dom 14/11/2021,12:00,UD Ibiza,UD Almería,4-2-3-1,Juan Carlos Carcedo,4937,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607688
+17,dom 21/11/2021,14:15,SD Huesca,UD Ibiza,4-4-1-1,Juan Carlos Carcedo,6164,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607698
+18,dom 28/11/2021,12:00,UD Ibiza,Ponferradina,4-4-1-1,Juan Carlos Carcedo,3971,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607711
+19,dom 05/12/2021,14:15,Lugo,UD Ibiza,4-4-1-1,Juan Carlos Carcedo,2360,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607722
+20,sáb 11/12/2021,12:00,UD Ibiza,Girona,4-2-3-1,Juan Carlos Carcedo,4087,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607733
+21,sáb 18/12/2021,12:00,UD Ibiza,Real Sporting,5-3-2,Juan Carlos Carcedo,3789,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607743
+22,dom 02/01/2022,17:00,Fuenlabrada CF,UD Ibiza,4-2-3-1,Paco Jémez,2037,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3607754
+23,sáb 08/01/2022,12:00,UD Ibiza,AD Alcorcón,4-2-3-1,Paco Jémez,3337,6:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3608177
+24,sáb 22/01/2022,17:00,Málaga CF,UD Ibiza,4-2-3-1,Paco Jémez,15003,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3608204
+25,seg 31/01/2022,17:00,UD Ibiza,Zaragoza,4-2-3-1,Paco Jémez,4678,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611522
+26,sex 04/02/2022,17:00,UD Almería,UD Ibiza,4-2-3-1,Paco Jémez,7993,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611530
+27,sáb 12/02/2022,14:15,UD Ibiza,FC Cartagena,4-2-3-1,Paco Jémez,4418,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611543
+28,sáb 19/02/2022,14:15,Tenerife,UD Ibiza,4-2-3-1,Paco Jémez,13177,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611561
+29,sáb 26/02/2022,12:00,UD Ibiza,SD Huesca,4-2-3-1,Paco Jémez,4263,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611566
+30,dom 06/03/2022,12:00,Ponferradina,UD Ibiza,4-2-3-1,Paco Jémez,4797,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3611589
+31,sáb 12/03/2022,12:00,UD Ibiza,Leganés,4-2-3-1,Paco Jémez,4326,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614245
+32,sáb 19/03/2022,17:00,Girona,UD Ibiza,4-3-3 ofensivo,Paco Jémez,4827,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614255
+33,sáb 26/03/2022,10:00,UD Ibiza,Sanse,4-2-3-1,Paco Jémez,2544,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614267
+34,sáb 02/04/2022,13:15,SD Amorebieta,UD Ibiza,4-2-3-1,Paco Jémez,902,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614274
+35,dom 10/04/2022,13:15,UD Ibiza,Eibar,4-2-3-1,Paco Jémez,5011,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614288
+36,dom 17/04/2022,11:00,Burgos CF,UD Ibiza,4-2-3-1,Paco Jémez,8624,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614297
+37,dom 24/04/2022,11:15,UD Ibiza,Las Palmas,4-2-3-1,Paco Jémez,4238,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614311
+38,dom 01/05/2022,11:00,Real Sporting,UD Ibiza,4-2-3-1,Paco Jémez,11740,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614327
+39,dom 08/05/2022,13:15,UD Ibiza,Lugo,4-2-3-1,Paco Jémez,3262,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614335
+40,dom 15/05/2022,11:00,Mirandés,UD Ibiza,4-2-3-1,Paco Jémez,2568,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614345
+41,sáb 21/05/2022,17:00,UD Ibiza,Valladolid,4-2-3-1,Paco Jémez,4614,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614357
+42,dom 29/05/2022,15:00,Real Oviedo,UD Ibiza,3-5-2,Paco Jémez,21729,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614368

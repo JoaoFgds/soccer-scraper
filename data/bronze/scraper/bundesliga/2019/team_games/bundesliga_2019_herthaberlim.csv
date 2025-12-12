@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 16/08/2019,15:30,Bayern,Hertha Berlim,3-4-1-2,Ante Covic,75000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203424
+2,dom 25/08/2019,13:00,Hertha Berlim,Wolfsburg,4-2-3-1,Ante Covic,42738,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203445
+3,sáb 31/08/2019,10:30,Schalke,Hertha Berlim,4-2-3-1,Ante Covic,58875,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203458
+4,sáb 14/09/2019,10:30,Mainz,Hertha Berlim,3-4-1-2,Ante Covic,22798,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203464
+5,sáb 21/09/2019,10:30,Hertha Berlim,Paderborn,4-2-3-1,Ante Covic,43588,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203475
+6,dom 29/09/2019,13:00,Colônia,Hertha Berlim,4-2-3-1,Ante Covic,49700,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203484
+7,sex 04/10/2019,15:30,Hertha Berlim,Düsseldorf,4-2-3-1,Ante Covic,37128,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203492
+8,sáb 19/10/2019,10:30,Werder Bremen,Hertha Berlim,4-3-3 ofensivo,Ante Covic,41447,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203499
+9,sáb 26/10/2019,10:30,Hertha Berlim,Hoffenheim,4-2-3-1,Ante Covic,44702,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203509
+10,sáb 02/11/2019,14:30,Union Berlim,Hertha Berlim,4-4-2 duplo 6,Ante Covic,22012,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203522
+11,sáb 09/11/2019,11:30,Hertha Berlim,Leipzig,5-4-1 plano,Ante Covic,48532,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203526
+12,dom 24/11/2019,11:30,Augsburg,Hertha Berlim,4-2-3-1,Ante Covic,29233,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203539
+13,sáb 30/11/2019,11:30,Hertha Berlim,Dortmund,3-5-2,Jürgen Klinsmann,74667,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203545
+14,sex 06/12/2019,16:30,Frankfurt,Hertha Berlim,3-4-1-2,Jürgen Klinsmann,50000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203554
+15,sáb 14/12/2019,11:30,Hertha Berlim,Freiburg,4-4-2,Jürgen Klinsmann,37343,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203563
+16,qua 18/12/2019,14:30,Leverkusen,Hertha Berlim,4-3-3 ofensivo,Jürgen Klinsmann,24472,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203569
+17,sáb 21/12/2019,14:30,Hertha Berlim,M'gladbach,4-3-3 ofensivo,Jürgen Klinsmann,50208,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203581
+18,dom 19/01/2020,11:30,Hertha Berlim,Bayern,4-1-4-1,Jürgen Klinsmann,74475,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203589
+19,sáb 25/01/2020,11:30,Wolfsburg,Hertha Berlim,4-1-4-1,Jürgen Klinsmann,24894,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203599
+20,sex 31/01/2020,16:30,Hertha Berlim,Schalke,4-1-4-1,Jürgen Klinsmann,47863,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203608
+21,sáb 08/02/2020,11:30,Hertha Berlim,Mainz,3-5-2 plano,Jürgen Klinsmann,35049,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203619
+22,sáb 15/02/2020,11:30,Paderborn,Hertha Berlim,3-5-2 plano,Alexander Nouri,14687,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203629
+23,sáb 22/02/2020,11:30,Hertha Berlim,Colônia,3-5-2 plano,Alexander Nouri,46207,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203637
+24,sex 28/02/2020,16:30,Düsseldorf,Hertha Berlim,4-4-2,Alexander Nouri,31632,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203644
+25,sáb 07/03/2020,11:30,Hertha Berlim,Werder Bremen,4-4-2 duplo 6,Alexander Nouri,58028,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203653
+26,sáb 16/05/2020,10:30,Hoffenheim,Hertha Berlim,4-4-2 duplo 6,Bruno Labbadia,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203662
+27,sex 22/05/2020,15:30,Hertha Berlim,Union Berlim,4-2-3-1,Bruno Labbadia,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203670
+28,qua 27/05/2020,13:30,Leipzig,Hertha Berlim,4-2-3-1,Bruno Labbadia,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203677
+29,sáb 30/05/2020,10:30,Hertha Berlim,Augsburg,4-2-3-1,Bruno Labbadia,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203688
+30,sáb 06/06/2020,13:30,Dortmund,Hertha Berlim,4-2-3-1,Bruno Labbadia,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203694
+31,sáb 13/06/2020,10:30,Hertha Berlim,Frankfurt,4-3-2-1,Bruno Labbadia,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203707
+32,ter 16/06/2020,15:30,Freiburg,Hertha Berlim,4-4-2 duplo 6,Bruno Labbadia,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203718
+33,sáb 20/06/2020,10:30,Hertha Berlim,Leverkusen,4-1-4-1,Bruno Labbadia,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203725
+34,sáb 27/06/2020,10:30,M'gladbach,Hertha Berlim,4-2-3-1,Bruno Labbadia,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203732

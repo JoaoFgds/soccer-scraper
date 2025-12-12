@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 01/08/2005,15:30,Guingamp,CS Sedan,?,Yvon Pouliquen,11087,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46924
+2,sex 05/08/2005,15:30,FC Istres,Guingamp,?,Yvon Pouliquen,3617,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46930
+3,sex 12/08/2005,15:30,Guingamp,FC Lorient,?,Yvon Pouliquen,12978,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46938
+4,ter 16/08/2005,15:30,Dijon,Guingamp,?,Yvon Pouliquen,5249,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46945
+5,sex 19/08/2005,15:30,Guingamp,Grenoble,?,Yvon Pouliquen,9206,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46955
+6,sex 26/08/2005,15:30,SM Caen,Guingamp,?,Yvon Pouliquen,10901,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46966
+7,sex 09/09/2005,15:30,Guingamp,FC Gueugnon,?,Yvon Pouliquen,7184,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46977
+8,sex 16/09/2005,15:30,US Créteil-L,Guingamp,?,Yvon Pouliquen,4211,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46986
+9,sex 23/09/2005,15:30,Guingamp,SC Bastia,?,Alain Ravera,9260,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46995
+10,sex 30/09/2005,15:30,Montpellier,Guingamp,?,Alain Ravera,4904,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47011
+11,sex 07/10/2005,15:30,Guingamp,Le Havre,?,Alain Ravera,8712,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47014
+12,seg 17/10/2005,16:30,Brest,Guingamp,?,Alain Ravera,8228,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47033
+13,sex 21/10/2005,16:30,Guingamp,LB Châteauroux,?,Alain Ravera,8685,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47037
+14,sáb 29/10/2005,16:00,Reims,Guingamp,?,Alain Ravera,4986,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47051
+15,sex 04/11/2005,18:30,Guingamp,Valenciennes,?,Alain Ravera,7617,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47057
+16,sex 11/11/2005,18:30,Amiens SC,Guingamp,?,Alain Ravera,7132,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47066
+17,sex 25/11/2005,18:30,Guingamp,Stade Lavallois,?,Alain Ravera,8257,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47079
+18,sex 02/12/2005,18:30,Guingamp,Clermont FA,?,Alain Ravera,7047,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47085
+19,sex 16/12/2005,18:30,FC Sète 34,Guingamp,?,Alain Ravera,1870,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47103
+20,ter 03/01/2006,18:30,Guingamp,FC Istres,?,Alain Ravera,8228,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47110
+21,ter 10/01/2006,18:35,FC Lorient,Guingamp,?,Alain Ravera,10101,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47122
+22,sex 13/01/2006,18:30,Guingamp,Dijon,?,Alain Ravera,6171,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47129
+23,sex 20/01/2006,18:30,Grenoble,Guingamp,?,Alain Ravera,5541,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47139
+24,sex 03/02/2006,18:45,Guingamp,SM Caen,?,Alain Ravera,6401,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47148
+25,sex 10/02/2006,18:30,FC Gueugnon,Guingamp,?,Alain Ravera,3364,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47161
+26,sex 17/02/2006,18:30,Guingamp,US Créteil-L,?,Alain Ravera,8805,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47167
+27,sex 24/02/2006,17:30,SC Bastia,Guingamp,?,Alain Ravera,3716,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47175
+28,sex 03/03/2006,17:30,Guingamp,Montpellier,?,Alain Ravera,8084,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47187
+29,sex 10/03/2006,17:30,Le Havre,Guingamp,?,Alain Ravera,9172,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47202
+30,sex 17/03/2006,17:30,Guingamp,Brest,?,Alain Ravera,15592,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47208
+31,sex 24/03/2006,17:30,LB Châteauroux,Guingamp,?,Alain Ravera,6568,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47218
+32,sex 31/03/2006,15:30,Guingamp,Reims,?,Alain Ravera,9233,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47229
+33,sex 07/04/2006,15:30,Valenciennes,Guingamp,?,Alain Ravera,9349,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47243
+34,sex 14/04/2006,15:30,Guingamp,Amiens SC,?,Alain Ravera,12318,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47250
+35,sex 21/04/2006,15:30,Stade Lavallois,Guingamp,?,Alain Ravera,7882,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47260
+36,sex 28/04/2006,15:30,Clermont FA,Guingamp,?,Alain Ravera,5618,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47265
+37,sex 05/05/2006,15:30,Guingamp,FC Sète 34,?,Alain Ravera,12734,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47279
+38,sex 12/05/2006,15:30,CS Sedan,Guingamp,?,Alain Ravera,23130,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/47294

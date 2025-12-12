@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 09/08/2020,19:00,Fortaleza,Athletico-PR,4-2-3-1,Rogério Ceni,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3392045
+2,qui 13/08/2020,19:15,São Paulo,Fortaleza,4-2-3-1,Rogério Ceni,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3411147
+3,dom 16/08/2020,19:30,Fortaleza,Botafogo,4-2-3-1,Rogério Ceni,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416086
+4,qua 19/08/2020,20:30,Goiás,Fortaleza,4-2-3-1,Rogério Ceni,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416221
+5,qua 26/08/2020,21:30,Corinthians,Fortaleza,4-2-3-1,Rogério Ceni,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416100
+6,sáb 29/08/2020,21:00,Fortaleza,Bragantino,4-2-3-1,Rogério Ceni,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416116
+7,qua 02/09/2020,19:00,Ceará,Fortaleza,4-2-3-1,Rogério Ceni,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416119
+8,sáb 05/09/2020,17:00,Flamengo,Fortaleza,4-2-3-1,Rogério Ceni,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416135
+9,qua 09/09/2020,18:00,Fortaleza,Sport,4-2-3-1,Rogério Ceni,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416171
+10,dom 13/09/2020,16:00,Grêmio,Fortaleza,4-2-3-1,Rogério Ceni,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416240
+11,sáb 19/09/2020,19:00,Fortaleza,Internacional,4-2-3-1,Rogério Ceni,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417539
+12,dom 27/09/2020,20:30,Santos,Fortaleza,4-2-3-1,Rogério Ceni,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417548
+13,dom 04/10/2020,18:15,Fortaleza,Atlético-GO,4-2-3-1,Rogério Ceni,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417563
+14,qua 07/10/2020,21:30,Fortaleza,Atlético-MG,4-2-3-1,Rogério Ceni,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417573
+15,sáb 10/10/2020,19:00,Coritiba,Fortaleza,4-2-3-1,Rogério Ceni,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417582
+16,qui 19/11/2020,19:00,Vasco da Gama,Fortaleza,4-4-2,Rogério Ceni,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417586
+17,dom 18/10/2020,20:30,Fortaleza,Palmeiras,4-3-3 defensivo,Rogério Ceni,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417603
+18,qua 11/11/2020,18:45,Bahia,Fortaleza,4-4-2,Marconne Montenegro,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417611
+19,sáb 31/10/2020,21:00,Fortaleza,Fluminense,4-5-1,Rogério Ceni,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417623
+20,sáb 07/11/2020,17:00,Athletico-PR,Fortaleza,4-4-2,Rogério Ceni,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417633
+21,sáb 14/11/2020,19:00,Fortaleza,São Paulo,4-4-2,Marcelo Chamusca,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417637
+22,dom 22/11/2020,17:15,Botafogo,Fortaleza,4-4-2,Marcelo Chamusca,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417667
+23,qui 26/11/2020,19:00,Fortaleza,Goiás,4-3-3 defensivo,Marcelo Chamusca,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417674
+24,qua 02/12/2020,20:30,Fortaleza,Corinthians,4-4-2,Marcelo Chamusca,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417649
+25,sáb 12/12/2020,16:00,Bragantino,Fortaleza,4-2-3-1,Marcelo Chamusca,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417683
+26,sáb 19/12/2020,20:30,Fortaleza,Ceará,4-4-2,Marcelo Chamusca,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417703
+27,sáb 26/12/2020,19:00,Fortaleza,Flamengo,4-2-3-1,Marcelo Chamusca,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417686
+28,qua 06/01/2021,19:30,Sport,Fortaleza,4-2-3-1,Marcelo Chamusca,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417507
+29,sáb 09/01/2021,20:00,Fortaleza,Grêmio,4-2-3-1,Enderson Moreira,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417519
+30,dom 17/01/2021,20:30,Internacional,Fortaleza,4-2-3-1,Enderson Moreira,,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417526
+31,qui 21/01/2021,19:00,Fortaleza,Santos,4-2-3-1,Enderson Moreira,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417713
+32,dom 24/01/2021,18:15,Atlético-GO,Fortaleza,4-2-3-1,Enderson Moreira,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417813
+33,dom 31/01/2021,17:00,Atlético-MG,Fortaleza,4-2-3-1,Enderson Moreira,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418070
+34,qui 04/02/2021,17:30,Fortaleza,Coritiba,4-2-3-1,Enderson Moreira,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418084
+35,qua 10/02/2021,18:15,Fortaleza,Vasco da Gama,4-2-3-1,Enderson Moreira,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418094
+36,dom 14/02/2021,18:15,Palmeiras,Fortaleza,4-2-3-1,Enderson Moreira,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418098
+37,sáb 20/02/2021,21:00,Fortaleza,Bahia,4-2-3-1,Enderson Moreira,x,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418114
+38,qui 25/02/2021,21:30,Fluminense,Fortaleza,4-2-3-1,Enderson Moreira,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418116

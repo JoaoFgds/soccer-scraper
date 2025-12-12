@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 29/07/2005,15:45,PSG,FC Metz,4-4-2 duplo 6,Laurent Fournier,42844,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39202
+2,sáb 06/08/2005,15:00,FC Sochaux,PSG,4-4-2 duplo 6,Laurent Fournier,17543,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39218
+3,sáb 13/08/2005,12:15,PSG,Toulouse,4-4-2 duplo 6,Laurent Fournier,41341,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39222
+4,dom 21/08/2005,15:45,Troyes,PSG,4-4-2 duplo 6,Laurent Fournier,17507,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39241
+5,sáb 27/08/2005,15:00,PSG,Nice,4-4-2 duplo 6,Laurent Fournier,43475,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39246
+6,sáb 10/09/2005,15:00,PSG,Strasbourg,4-4-2 duplo 6,Laurent Fournier,40748,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39255
+7,dom 18/09/2005,16:00,Saint-Étienne,PSG,4-4-2 duplo 6,Laurent Fournier,27771,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39271
+8,qua 21/09/2005,15:45,PSG,Lille,4-5-1,Laurent Fournier,35889,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39280
+9,sáb 24/09/2005,15:00,Le Mans UC 72,PSG,4-4-2 duplo 6,Laurent Fournier,14728,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39289
+10,sáb 01/10/2005,12:15,PSG,Nantes,4-4-2 duplo 6,Laurent Fournier,42164,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39293
+11,dom 16/10/2005,17:00,Marselha,PSG,4-2-3-1,Laurent Fournier,54260,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39304
+12,sáb 22/10/2005,16:00,PSG,AS Nancy,4-4-2 duplo 6,Laurent Fournier,40140,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39317
+13,dom 30/10/2005,18:45,Auxerre,PSG,4-4-2 duplo 6,Laurent Fournier,20000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39322
+14,dom 06/11/2005,18:45,PSG,Monaco,4-4-2 duplo 6,Laurent Fournier,43555,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39337
+15,dom 20/11/2005,18:45,Bordeaux,PSG,4-4-2 duplo 6,Laurent Fournier,32204,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39344
+16,dom 27/11/2005,16:00,PSG,Lens,4-4-2 duplo 6,Laurent Fournier,40895,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39357
+17,sáb 03/12/2005,15:15,Lyon,PSG,4-4-2 duplo 6,Laurent Fournier,38134,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39366
+18,sáb 10/12/2005,18:00,PSG,Rennes,4-4-2,Laurent Fournier,37747,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39378
+19,sáb 17/12/2005,15:15,AC Ajaccio,PSG,?,Laurent Fournier,3672,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39382
+20,qua 04/01/2006,18:30,PSG,FC Sochaux,4-4-2 duplo 6,Guy Lacombe,36806,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39399
+21,qui 12/01/2006,18:45,Toulouse,PSG,4-2-3-1,Guy Lacombe,20151,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39410
+22,dom 15/01/2006,16:00,PSG,Troyes,?,Guy Lacombe,35118,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39419
+23,sáb 21/01/2006,18:00,Nice,PSG,4-4-2 duplo 6,Guy Lacombe,11941,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39427
+24,qua 08/02/2006,18:00,Strasbourg,PSG,?,Guy Lacombe,17803,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39441
+25,sáb 04/02/2006,15:15,PSG,Saint-Étienne,4-1-4-1,Guy Lacombe,43026,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39447
+26,dom 12/02/2006,19:00,Lille,PSG,4-4-2 duplo 6,Guy Lacombe,13392,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39456
+27,sáb 18/02/2006,18:00,PSG,Le Mans UC 72,?,Guy Lacombe,39655,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39466
+28,sáb 25/02/2006,14:15,Nantes,PSG,4-3-3 ofensivo,Guy Lacombe,32691,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39480
+29,dom 05/03/2006,13:00,PSG,Marselha,4-4-2 duplo 6,Guy Lacombe,43906,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39486
+30,sáb 11/03/2006,14:15,AS Nancy,PSG,?,Guy Lacombe,17631,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39498
+31,dom 19/03/2006,16:45,PSG,Auxerre,4-4-2 duplo 6,Guy Lacombe,35528,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39507
+32,dom 26/03/2006,15:45,Monaco,PSG,4-2-3-1,Guy Lacombe,11668,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39518
+33,sáb 01/04/2006,15:00,PSG,Bordeaux,4-4-2 duplo 6,Guy Lacombe,41913,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39527
+34,sáb 08/04/2006,15:00,Lens,PSG,4-4-2 duplo 6,Guy Lacombe,39513,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39535
+35,sáb 15/04/2006,15:00,PSG,Lyon,4-4-2 duplo 6,Guy Lacombe,43128,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39547
+36,qua 03/05/2006,15:45,Rennes,PSG,4-4-2 duplo 6,Guy Lacombe,28400,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39559
+37,sáb 06/05/2006,15:00,PSG,AC Ajaccio,?,Guy Lacombe,41361,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39593
+38,sáb 13/05/2006,15:00,FC Metz,PSG,?,Guy Lacombe,15807,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39604

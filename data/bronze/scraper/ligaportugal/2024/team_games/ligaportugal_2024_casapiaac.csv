@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 10/08/2024,14:00,Casa Pia,Boavista,3-5-2,Alexandre Santana,1142,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396645
+2,sáb 17/08/2024,16:30,Benfica,Casa Pia,3-4-3 plano,João Pereira,58926,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396782
+3,sáb 24/08/2024,11:30,Casa Pia,Santa Clara,3-5-2 plano,João Pereira,1188,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396762
+4,sáb 31/08/2024,14:00,Estrela Amadora,Casa Pia,3-5-2 plano,João Pereira,3471,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396705
+5,sáb 14/09/2024,11:30,Casa Pia,Moreirense,3-4-3 plano,João Pereira,1248,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396659
+6,dom 22/09/2024,11:30,Gil Vicente,Casa Pia,3-4-3 plano,João Pereira,3825,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396768
+7,sáb 28/09/2024,14:00,Casa Pia,Vit. Guimarães,3-4-3 plano,João Pereira,2632,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396758
+8,sáb 05/10/2024,16:30,Sporting,Casa Pia,3-5-2 plano,João Pereira,42887,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396673
+9,sex 25/10/2024,14:45,Casa Pia,Nacional,3-4-3 plano,Alexandre Santana,1004,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396668
+10,sáb 02/11/2024,12:30,Rio Ave,Casa Pia,3-4-3 plano,Alexandre Santana,2323,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396733
+11,sáb 09/11/2024,12:30,Casa Pia,Farense,3-4-3 plano,João Pereira,1202,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396692
+12,seg 02/12/2024,17:45,FC Porto,Casa Pia,3-4-3 plano,João Pereira,32810,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396678
+13,dom 08/12/2024,15:00,Casa Pia,AVS,3-4-3 plano,João Pereira,1147,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396726
+14,dom 15/12/2024,17:30,Estoril,Casa Pia,3-4-3 plano,João Pereira,1873,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396814
+15,sex 20/12/2024,17:15,Casa Pia,Arouca,3-4-3 plano,João Pereira,912,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396833
+16,dom 29/12/2024,15:00,Braga,Casa Pia,3-4-3 plano,João Pereira,20819,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396811
+17,dom 05/01/2025,15:00,Casa Pia,Famalicão,3-4-3 plano,João Pereira,974,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396893
+18,seg 20/01/2025,17:15,Boavista,Casa Pia,3-4-3 plano,João Pereira,2178,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396825
+19,sáb 25/01/2025,15:00,Casa Pia,Benfica,3-4-3 plano,João Pereira,7051,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396791
+20,sáb 01/02/2025,12:30,Santa Clara,Casa Pia,3-4-3 plano,João Pereira,2019,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396698
+21,dom 09/02/2025,17:30,Casa Pia,Estrela Amadora,3-3-3-1,João Pereira,1042,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396858
+22,sáb 15/02/2025,12:30,Moreirense,Casa Pia,3-4-3 plano,João Pereira,1629,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396722
+23,sáb 22/02/2025,12:30,Casa Pia,Gil Vicente,3-4-3 plano,João Pereira,1135,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396903
+24,sáb 01/03/2025,17:30,Vit. Guimarães,Casa Pia,3-4-3 plano,João Pereira,14798,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396902
+25,dom 09/03/2025,15:00,Casa Pia,Sporting,3-5-2,João Pereira,6823,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396745
+26,dom 16/03/2025,12:30,Nacional,Casa Pia,3-4-3 plano,João Pereira,1556,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396848
+27,sáb 29/03/2025,12:30,Casa Pia,Rio Ave,3-4-3 plano,João Pereira,1206,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396798
+28,seg 07/04/2025,14:45,Farense,Casa Pia,3-4-3 plano,João Pereira,5527,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396857
+29,sáb 12/04/2025,16:30,Casa Pia,FC Porto,3-4-3 plano,João Pereira,3649,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396924
+30,sáb 19/04/2025,11:30,AVS,Casa Pia,3-4-3 plano,João Pereira,2057,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396914
+31,ter 29/04/2025,16:30,Casa Pia,Estoril,3-4-3 plano,João Pereira,1032,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396876
+32,dom 04/05/2025,14:00,Arouca,Casa Pia,3-5-2,João Pereira,1032,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396868
+33,sáb 10/05/2025,16:30,Casa Pia,Braga,3-4-3 plano,João Pereira,1342,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396946
+34,sex 16/05/2025,15:00,Famalicão,Casa Pia,3-4-3 plano,João Pereira,4130,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396934

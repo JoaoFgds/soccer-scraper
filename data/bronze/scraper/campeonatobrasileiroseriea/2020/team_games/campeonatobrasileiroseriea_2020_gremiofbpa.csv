@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 09/08/2020,19:00,Grêmio,Fluminense,4-2-3-1,Renato Gaúcho,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3392042
+2,qua 12/08/2020,21:30,Ceará,Grêmio,4-2-3-1,Renato Gaúcho,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3411146
+3,sáb 15/08/2020,19:00,Grêmio,Corinthians,4-2-3-1,Renato Gaúcho,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416078
+4,qua 19/08/2020,19:15,Flamengo,Grêmio,4-3-3 ofensivo,Renato Gaúcho,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416217
+5,dom 23/08/2020,16:00,Vasco da Gama,Grêmio,4-2-3-1,Renato Gaúcho,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416104
+6,seg 30/11/2020,18:00,Grêmio,Goiás,4-2-3-1,Renato Gaúcho,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417544
+7,qui 03/09/2020,19:00,Grêmio,Sport,4-2-3-1,Renato Gaúcho,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416126
+8,dom 06/09/2020,19:00,Atlético-GO,Grêmio,4-2-3-1,Renato Gaúcho,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416136
+9,qui 10/09/2020,19:15,Bahia,Grêmio,4-2-3-1,Renato Gaúcho,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416170
+10,dom 13/09/2020,16:00,Grêmio,Fortaleza,4-2-3-1,Renato Gaúcho,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3416240
+11,dom 20/09/2020,16:00,Grêmio,Palmeiras,4-3-1-2,Renato Gaúcho,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417536
+12,sáb 26/09/2020,21:00,Atlético-MG,Grêmio,4-2-3-1,Renato Gaúcho,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417549
+13,sáb 03/10/2020,17:00,Grêmio,Internacional,4-1-4-1,Renato Gaúcho,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417560
+14,qua 07/10/2020,19:15,Grêmio,Coritiba,4-2-3-1,Renato Gaúcho,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417570
+15,dom 11/10/2020,16:00,Santos,Grêmio,4-2-3-1,Renato Gaúcho,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417578
+16,qua 14/10/2020,19:15,Grêmio,Botafogo,4-2-3-1,Renato Gaúcho,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417590
+17,sáb 17/10/2020,21:00,São Paulo,Grêmio,4-2-3-1,Renato Gaúcho,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417597
+18,dom 25/10/2020,18:15,Athletico-PR,Grêmio,4-2-3-1,Renato Gaúcho,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417612
+19,seg 02/11/2020,20:00,Grêmio,Bragantino,4-2-3-1,Renato Gaúcho,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417620
+20,dom 08/11/2020,20:30,Fluminense,Grêmio,4-2-3-1,Renato Gaúcho,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417630
+21,sáb 14/11/2020,19:00,Grêmio,Ceará,4-2-3-1,Renato Gaúcho,x,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417643
+22,dom 22/11/2020,19:30,Corinthians,Grêmio,4-2-3-1,Renato Gaúcho,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417661
+23,qui 28/01/2021,20:00,Grêmio,Flamengo,4-2-3-1,Renato Gaúcho,x,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417655
+24,dom 06/12/2020,15:00,Grêmio,Vasco da Gama,4-2-3-1,Renato Gaúcho,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417646
+25,sáb 12/12/2020,21:00,Goiás,Grêmio,4-2-3-1,Renato Gaúcho,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417680
+26,sáb 19/12/2020,19:00,Sport,Grêmio,4-2-3-1,Renato Gaúcho,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417700
+27,sáb 26/12/2020,20:30,Grêmio,Atlético-GO,4-2-3-1,Renato Gaúcho,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417695
+28,qua 06/01/2021,18:15,Grêmio,Bahia,4-2-3-1,Renato Gaúcho,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417506
+29,sáb 09/01/2021,20:00,Fortaleza,Grêmio,4-2-3-1,Renato Gaúcho,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417519
+30,sex 15/01/2021,21:30,Palmeiras,Grêmio,4-2-3-1,Renato Gaúcho,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417523
+31,qua 20/01/2021,19:15,Grêmio,Atlético-MG,4-2-3-1,Renato Gaúcho,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417710
+32,dom 24/01/2021,16:00,Internacional,Grêmio,4-1-4-1,Renato Gaúcho,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3417809
+33,dom 31/01/2021,16:00,Coritiba,Grêmio,4-2-3-1,Renato Gaúcho,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418073
+34,qua 03/02/2021,15:00,Grêmio,Santos,4-2-3-1,Renato Gaúcho,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418081
+35,seg 08/02/2021,19:00,Botafogo,Grêmio,4-2-3-1,Renato Gaúcho,x,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418087
+36,dom 14/02/2021,20:30,Grêmio,São Paulo,4-2-3-1,Renato Gaúcho,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418101
+37,dom 21/02/2021,18:15,Grêmio,Athletico-PR,4-3-3 ofensivo,Renato Gaúcho,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418111
+38,qui 25/02/2021,21:30,Bragantino,Grêmio,4-2-3-1,Alexandre Mendes,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3418119

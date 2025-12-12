@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qua 16/09/2020,16:00,PSG,FC Metz,4-3-3 ofensivo,Thomas Tuchel,3352,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3393961
+2,qui 10/09/2020,16:00,Lens,PSG,4-3-3 ofensivo,Thomas Tuchel,5067,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394577
+3,dom 13/09/2020,16:00,PSG,Marselha,4-3-3 ofensivo,Thomas Tuchel,3904,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394582
+4,dom 20/09/2020,08:00,Nice,PSG,4-4-2 duplo 6,Thomas Tuchel,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394593
+5,dom 27/09/2020,16:00,Reims,PSG,4-1-4-1,Thomas Tuchel,4988,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394603
+6,sex 02/10/2020,16:00,PSG,Angers,4-4-2 duplo 6,Thomas Tuchel,1000,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394613
+7,sex 16/10/2020,16:00,Nîmes Olympique,PSG,4-3-3 ofensivo,Thomas Tuchel,3526,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394624
+8,sáb 24/10/2020,16:00,PSG,Dijon,4-3-3 ofensivo,Thomas Tuchel,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394640
+9,sáb 31/10/2020,17:00,Nantes,PSG,4-3-3 ofensivo,Thomas Tuchel,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394650
+10,sáb 07/11/2020,17:00,PSG,Rennes,4-3-3 ofensivo,Thomas Tuchel,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394661
+11,sex 20/11/2020,17:00,Monaco,PSG,4-4-2 duplo 6,Thomas Tuchel,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394673
+12,sáb 28/11/2020,17:00,PSG,Bordeaux,4-4-2 duplo 6,Thomas Tuchel,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394677
+13,sáb 05/12/2020,17:00,Montpellier,PSG,5-3-2,Thomas Tuchel,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394686
+14,dom 13/12/2020,17:00,PSG,Lyon,4-3-3 ofensivo,Thomas Tuchel,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394699
+15,qua 16/12/2020,17:00,PSG,FC Lorient,3-5-2 plano,Thomas Tuchel,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394709
+16,dom 20/12/2020,17:00,Lille,PSG,3-4-2-1,Thomas Tuchel,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394715
+17,qua 23/12/2020,17:00,PSG,Strasbourg,3-5-2 plano,Thomas Tuchel,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394730
+18,qua 06/01/2021,17:00,Saint-Étienne,PSG,4-3-3 ofensivo,Mauricio Pochettino,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394734
+19,sáb 09/01/2021,17:00,PSG,Brest,4-3-3 ofensivo,Mauricio Pochettino,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394747
+20,sáb 16/01/2021,17:00,Angers,PSG,4-2-3-1,Mauricio Pochettino,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394762
+21,sex 22/01/2021,17:00,PSG,Montpellier,4-2-3-1,Mauricio Pochettino,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394768
+22,dom 31/01/2021,11:00,FC Lorient,PSG,4-4-2 duplo 6,Mauricio Pochettino,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394774
+23,qua 03/02/2021,17:00,PSG,Nîmes Olympique,4-4-2 duplo 6,Mauricio Pochettino,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394785
+24,dom 07/02/2021,17:00,Marselha,PSG,4-3-3 ofensivo,Mauricio Pochettino,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394796
+25,sáb 13/02/2021,13:00,PSG,Nice,4-2-3-1,Mauricio Pochettino,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394806
+26,dom 21/02/2021,17:00,PSG,Monaco,4-3-3 ofensivo,Mauricio Pochettino,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394814
+27,sáb 27/02/2021,13:00,Dijon,PSG,4-2-3-1,Mauricio Pochettino,x,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394832
+28,qua 03/03/2021,17:00,Bordeaux,PSG,4-2-3-1,Mauricio Pochettino,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394860
+29,dom 14/03/2021,17:00,PSG,Nantes,4-2-3-1,Mauricio Pochettino,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394889
+30,dom 21/03/2021,17:00,Lyon,PSG,4-2-3-1,Mauricio Pochettino,x,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394911
+31,sáb 03/04/2021,12:00,PSG,Lille,4-2-3-1,Mauricio Pochettino,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394917
+32,sáb 10/04/2021,12:00,Strasbourg,PSG,4-2-3-1,Mauricio Pochettino,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394924
+33,dom 18/04/2021,08:00,PSG,Saint-Étienne,4-2-3-1,Mauricio Pochettino,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394934
+34,sáb 24/04/2021,12:00,FC Metz,PSG,4-3-3 ofensivo,Mauricio Pochettino,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394947
+35,sáb 01/05/2021,12:00,PSG,Lens,4-2-3-1,Mauricio Pochettino,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394966
+36,dom 09/05/2021,16:00,Rennes,PSG,4-3-3 ofensivo,Mauricio Pochettino,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3565111
+37,dom 16/05/2021,16:00,PSG,Reims,4-2-3-1,Mauricio Pochettino,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394993
+38,dom 23/05/2021,16:00,Brest,PSG,4-3-3 ofensivo,Mauricio Pochettino,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3394995

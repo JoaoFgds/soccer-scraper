@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 11/08/2024,14:00,Famalicão,Benfica,4-2-3-1,Roger Schmidt,5025,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396648
+2,sáb 17/08/2024,16:30,Benfica,Casa Pia,4-2-3-1,Roger Schmidt,58926,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396782
+3,sáb 24/08/2024,16:30,Benfica,Estrela Amadora,4-2-3-1,Roger Schmidt,59490,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396766
+4,sex 30/08/2024,16:15,Moreirense,Benfica,4-2-3-1,Roger Schmidt,5817,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396711
+5,sáb 14/09/2024,16:30,Benfica,Santa Clara,4-4-2 duplo 6,Bruno Lage,60145,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396658
+6,seg 23/09/2024,16:15,Boavista,Benfica,4-2-3-1,Bruno Lage,16151,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396776
+7,sáb 28/09/2024,16:30,Benfica,Gil Vicente,4-3-3 ofensivo,Bruno Lage,58965,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396757
+8,qui 19/12/2024,14:00,Nacional,Benfica,4-2-3-1,Bruno Lage,5086,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396675
+9,dom 27/10/2024,15:00,Benfica,Rio Ave,4-4-2 duplo 6,Bruno Lage,58961,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396667
+10,sáb 02/11/2024,15:00,Farense,Benfica,4-3-3 ofensivo,Bruno Lage,12649,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396738
+11,dom 10/11/2024,17:45,Benfica,FC Porto,4-3-3 ofensivo,Bruno Lage,63342,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396694
+12,dom 01/12/2024,15:00,Arouca,Benfica,4-3-3 ofensivo,Bruno Lage,4644,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396685
+13,sáb 07/12/2024,15:00,Benfica,Vit. Guimarães,4-3-3 ofensivo,Bruno Lage,58839,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396730
+14,dom 15/12/2024,15:00,AVS,Benfica,4-4-2 duplo 6,Bruno Lage,5473,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396818
+15,seg 23/12/2024,15:45,Benfica,Estoril,4-2-3-1,Bruno Lage,60572,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396838
+16,dom 29/12/2024,17:30,Sporting,Benfica,4-2-3-1,Bruno Lage,48076,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396804
+17,sáb 04/01/2025,15:00,Benfica,Braga,4-3-3 ofensivo,Bruno Lage,61750,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396892
+18,sex 17/01/2025,17:15,Benfica,Famalicão,4-3-3 ofensivo,Bruno Lage,53985,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396826
+19,sáb 25/01/2025,15:00,Casa Pia,Benfica,4-3-3 ofensivo,Bruno Lage,7051,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396791
+20,dom 02/02/2025,17:30,Estrela Amadora,Benfica,4-3-3 ofensivo,Bruno Lage,6243,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396701
+21,sáb 08/02/2025,15:00,Benfica,Moreirense,4-3-3 ofensivo,Bruno Lage,58189,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396864
+22,sáb 15/02/2025,15:00,Santa Clara,Benfica,4-4-2 duplo 6,Bruno Lage,9933,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396719
+23,sáb 22/02/2025,15:00,Benfica,Boavista,3-4-3 plano,Bruno Lage,58022,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396911
+24,sex 28/03/2025,17:15,Gil Vicente,Benfica,4-3-3 ofensivo,Bruno Lage,11010,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396901
+25,sáb 08/03/2025,15:00,Benfica,Nacional,3-4-3 plano,Bruno Lage,52543,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396747
+26,dom 16/03/2025,15:00,Rio Ave,Benfica,4-3-3 ofensivo,Bruno Lage,4753,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396847
+27,qua 02/04/2025,16:15,Benfica,Farense,4-3-3 ofensivo,Bruno Lage,51790,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396803
+28,dom 06/04/2025,16:30,FC Porto,Benfica,4-3-3 ofensivo,Bruno Lage,49193,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396854
+29,dom 13/04/2025,14:00,Benfica,Arouca,4-3-3 ofensivo,Bruno Lage,61581,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396926
+30,sáb 19/04/2025,16:30,Vit. Guimarães,Benfica,4-3-3 ofensivo,Bruno Lage,23341,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396919
+31,dom 27/04/2025,14:00,Benfica,AVS,3-4-3 plano,Bruno Lage,58102,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396884
+32,sáb 03/05/2025,16:30,Estoril,Benfica,4-2-3-1,Bruno Lage,5026,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396874
+33,sáb 10/05/2025,14:00,Benfica,Sporting,4-3-3 ofensivo,Bruno Lage,63478,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396939
+34,sáb 17/05/2025,14:00,Braga,Benfica,4-3-3 ofensivo,Bruno Lage,20198,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396935

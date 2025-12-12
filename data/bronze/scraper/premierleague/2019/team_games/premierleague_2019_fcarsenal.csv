@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 11/08/2019,10:00,Newcastle,Arsenal,4-2-3-1,Unai Emery,47635,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3194824
+2,sáb 17/08/2019,08:30,Arsenal,FC Burnley,4-2-3-1,Unai Emery,60214,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219095
+3,sáb 24/08/2019,13:30,Liverpool,Arsenal,4-3-1-2,Unai Emery,53298,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219086
+4,dom 01/09/2019,12:30,Arsenal,Tottenham,4-3-3 ofensivo,Unai Emery,60333,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219081
+5,dom 15/09/2019,12:30,Watford,Arsenal,4-3-1-2,Unai Emery,21360,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219078
+6,dom 22/09/2019,12:30,Arsenal,Aston Villa,4-2-3-1,Unai Emery,60331,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219074
+7,seg 30/09/2019,16:00,Man Utd,Arsenal,4-1-4-1,Unai Emery,73201,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219068
+8,dom 06/10/2019,10:00,Arsenal,Bournemouth,4-2-3-1,Unai Emery,60326,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219400
+9,seg 21/10/2019,16:00,Sheff Utd,Arsenal,4-2-3-1,Unai Emery,30775,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219386
+10,dom 27/10/2019,13:30,Arsenal,Crystal Palace,4-4-2 duplo 6,Unai Emery,60345,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219385
+11,sáb 02/11/2019,12:00,Arsenal,Wolves,4-3-1-2,Unai Emery,60383,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219371
+12,sáb 09/11/2019,14:30,Leicester,Arsenal,5-3-2,Unai Emery,32209,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219363
+13,sáb 23/11/2019,12:00,Arsenal,Southampton,3-4-1-2,Unai Emery,60295,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219357
+14,dom 01/12/2019,11:00,Norwich,Arsenal,4-3-3 ofensivo,Freddie Ljungberg,27067,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219338
+15,qui 05/12/2019,17:15,Arsenal,Brighton,4-2-3-1,Freddie Ljungberg,60164,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219334
+16,seg 09/12/2019,17:00,West Ham,Arsenal,4-2-3-1,Freddie Ljungberg,59936,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219311
+17,dom 15/12/2019,13:30,Arsenal,Man City,4-2-3-1,Freddie Ljungberg,60031,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219317
+18,sáb 21/12/2019,09:30,Everton,Arsenal,4-2-3-1,Freddie Ljungberg,39336,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219303
+19,qui 26/12/2019,12:00,Bournemouth,Arsenal,4-2-3-1,Mikel Arteta,10234,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219291
+20,dom 29/12/2019,11:00,Arsenal,Chelsea,4-2-3-1,Mikel Arteta,60309,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219279
+21,qua 01/01/2020,17:00,Arsenal,Man Utd,4-3-3 defensivo,Mikel Arteta,60328,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219285
+22,sáb 11/01/2020,09:30,Crystal Palace,Arsenal,4-2-3-1,Mikel Arteta,25468,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219258
+23,sáb 18/01/2020,12:00,Arsenal,Sheff Utd,4-2-3-1,Mikel Arteta,60310,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219254
+24,ter 21/01/2020,17:15,Chelsea,Arsenal,4-2-3-1,Mikel Arteta,40577,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219249
+25,dom 02/02/2020,11:00,FC Burnley,Arsenal,4-2-3-1,Mikel Arteta,21048,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219233
+26,dom 16/02/2020,13:30,Arsenal,Newcastle,4-2-3-1,Mikel Arteta,60188,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219225
+27,dom 23/02/2020,13:30,Arsenal,Everton,4-2-3-1,Mikel Arteta,60296,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219183
+28,qua 17/06/2020,16:15,Man City,Arsenal,4-3-3 ofensivo,Mikel Arteta,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219130
+29,sáb 07/03/2020,12:00,Arsenal,West Ham,4-2-3-1,Mikel Arteta,60335,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219112
+30,sáb 20/06/2020,11:00,Brighton,Arsenal,4-3-3 ofensivo,Mikel Arteta,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219144
+31,qui 25/06/2020,14:00,Southampton,Arsenal,3-4-3 plano,Mikel Arteta,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219165
+32,qua 01/07/2020,14:00,Arsenal,Norwich,3-4-3 plano,Mikel Arteta,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219173
+33,sáb 04/07/2020,13:30,Wolves,Arsenal,3-4-3 plano,Mikel Arteta,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219205
+34,ter 07/07/2020,16:15,Arsenal,Leicester,3-4-3 plano,Mikel Arteta,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219198
+35,dom 12/07/2020,12:30,Tottenham,Arsenal,3-4-3 plano,Mikel Arteta,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219110
+36,qua 15/07/2020,16:15,Arsenal,Liverpool,3-4-3 plano,Mikel Arteta,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219152
+37,ter 21/07/2020,16:15,Aston Villa,Arsenal,3-4-3 plano,Mikel Arteta,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219101
+38,dom 26/07/2020,12:00,Arsenal,Watford,4-2-3-1,Mikel Arteta,,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3219097

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 18/08/2012,18:00,Mallorca,Espanyol,4-4-2 duplo 6,Joaquín Caparrós,11703,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2244385
+2,sáb 25/08/2012,18:00,Málaga CF,Mallorca,4-4-2 duplo 6,Joaquín Caparrós,23542,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242832
+3,sáb 01/09/2012,17:00,Mallorca,Real Sociedad,4-4-2 duplo 6,Joaquín Caparrós,9916,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242890
+4,dom 16/09/2012,13:00,Osasuna,Mallorca,4-2-3-1,Joaquín Caparrós,19000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242861
+5,dom 23/09/2012,07:00,Mallorca,Valencia,4-4-2 duplo 6,Joaquín Caparrós,14495,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242902
+6,seg 01/10/2012,16:30,Getafe,Mallorca,4-2-3-1,Joaquín Caparrós,10000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242842
+7,dom 07/10/2012,11:00,Mallorca,Granada CF,4-4-2 duplo 6,Joaquín Caparrós,15000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242847
+8,seg 22/10/2012,17:30,Sevilla,Mallorca,4-2-3-1,Joaquín Caparrós,30000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242860
+9,dom 28/10/2012,18:30,Mallorca,Real Madrid,4-4-2 duplo 6,Joaquín Caparrós,17500,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242888
+10,dom 04/11/2012,13:00,Deportivo,Mallorca,4-2-3-1,Joaquín Caparrós,27000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242872
+11,dom 11/11/2012,14:50,Mallorca,Barcelona,4-4-2 duplo 6,Joaquín Caparrós,15500,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242908
+12,dom 18/11/2012,13:00,Celta de Vigo,Mallorca,4-2-3-1,Joaquín Caparrós,17814,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243005
+13,sáb 24/11/2012,13:00,Rayo Vallecano,Mallorca,4-4-2 duplo 6,Joaquín Caparrós,11500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242989
+14,dom 02/12/2012,18:00,Mallorca,Zaragoza,4-2-3-1,Joaquín Caparrós,7735,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243016
+15,dom 09/12/2012,09:00,Levante,Mallorca,4-2-3-1,Joaquín Caparrós,12600,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243054
+16,sáb 15/12/2012,15:00,Mallorca,Athletic Club,4-2-3-1,Joaquín Caparrós,12824,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243039
+17,sáb 22/12/2012,13:00,Betis,Mallorca,4-2-3-1,Joaquín Caparrós,32332,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243045
+18,dom 06/01/2013,18:00,Mallorca,Atlético,4-2-3-1,Joaquín Caparrós,10738,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243060
+19,sáb 12/01/2013,13:00,Valladolid,Mallorca,4-2-3-1,Joaquín Caparrós,12949,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243069
+20,sex 18/01/2013,18:00,Espanyol,Mallorca,4-2-3-1,Joaquín Caparrós,17169,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243083
+21,dom 27/01/2013,18:00,Mallorca,Málaga CF,4-4-2 duplo 6,Joaquín Caparrós,10547,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243088
+22,dom 03/02/2013,18:00,Real Sociedad,Mallorca,4-4-2 losango,Joaquín Caparrós,20000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243113
+23,sáb 09/02/2013,13:00,Mallorca,Osasuna,4-2-3-1,Gregorio Manzano,13816,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243117
+24,dom 17/02/2013,13:00,Valencia,Mallorca,4-2-3-1,Gregorio Manzano,38000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243121
+25,sáb 23/02/2013,12:00,Mallorca,Getafe,4-2-3-1,Gregorio Manzano,14000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243135
+26,dom 03/03/2013,08:00,Granada CF,Mallorca,4-2-3-1,Gregorio Manzano,16500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243142
+27,sáb 09/03/2013,18:00,Mallorca,Sevilla,4-3-3 ofensivo,Gregorio Manzano,20615,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243153
+28,sáb 16/03/2013,16:00,Real Madrid,Mallorca,4-4-1-1,Gregorio Manzano,61000,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243166
+29,dom 31/03/2013,12:00,Mallorca,Deportivo,4-3-3 ofensivo,Gregorio Manzano,23000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243178
+30,sáb 06/04/2013,17:00,Barcelona,Mallorca,4-3-3 ofensivo,Gregorio Manzano,65127,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243191
+31,seg 15/04/2013,16:00,Mallorca,Celta de Vigo,4-3-3 ofensivo,Gregorio Manzano,18290,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242957
+32,sex 19/04/2013,16:00,Mallorca,Rayo Vallecano,4-3-3 defensivo,Gregorio Manzano,19000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242953
+33,sáb 27/04/2013,17:00,Zaragoza,Mallorca,4-1-4-1,Gregorio Manzano,27000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242943
+34,dom 05/05/2013,07:00,Mallorca,Levante,4-2-3-1,Gregorio Manzano,19000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242928
+35,sáb 11/05/2013,11:00,Athletic Club,Mallorca,4-3-3 ofensivo,Gregorio Manzano,39000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242985
+36,seg 20/05/2013,17:00,Mallorca,Betis,4-2-3-1,Gregorio Manzano,16000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242974
+37,dom 26/05/2013,15:00,Atlético,Mallorca,4-4-2 duplo 6,Gregorio Manzano,50000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2242960
+38,sáb 01/06/2013,16:00,Mallorca,Valladolid,4-5-1 plano,Gregorio Manzano,19000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2243038

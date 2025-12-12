@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 07/08/2022,10:00,Lille,Auxerre,4-1-4-1,Jean-Marc Furlan,32292,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839730
+2,dom 14/08/2022,10:00,Auxerre,Angers,4-1-4-1,Jean-Marc Furlan,15577,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839775
+3,dom 21/08/2022,10:00,Montpellier,Auxerre,4-1-4-1,Jean-Marc Furlan,13137,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839820
+4,sáb 27/08/2022,12:00,Auxerre,Strasbourg,4-1-4-1,Jean-Marc Furlan,16059,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839841
+5,qua 31/08/2022,14:00,Lyon,Auxerre,4-1-4-1,Jean-Marc Furlan,38609,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839867
+6,sáb 03/09/2022,12:00,Auxerre,Marselha,4-3-3 ofensivo,Jean-Marc Furlan,17025,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840008
+7,dom 11/09/2022,12:05,Rennes,Auxerre,4-1-4-1,Jean-Marc Furlan,27837,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840025
+8,sex 16/09/2022,16:00,Auxerre,FC Lorient,4-1-4-1,Jean-Marc Furlan,14866,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840027
+9,dom 02/10/2022,10:00,Auxerre,Brest,4-1-4-1,Jean-Marc Furlan,14630,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840040
+10,dom 09/10/2022,10:00,Clermont Foot,Auxerre,4-1-4-1,Jean-Marc Furlan,11119,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840050
+11,dom 16/10/2022,10:00,Auxerre,Nice,4-2-3-1,Michel Padovani,14125,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840059
+12,dom 23/10/2022,10:00,Reims,Auxerre,4-2-3-1,Michel Padovani,11411,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840076
+13,dom 30/10/2022,09:00,Auxerre,AC Ajaccio,4-4-2,Christophe Pélissier,15092,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840079
+14,sex 04/11/2022,17:00,Troyes,Auxerre,4-4-2,Christophe Pélissier,12689,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840098
+15,dom 13/11/2022,09:00,PSG,Auxerre,5-4-1 plano,Christophe Pélissier,45000,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840104
+16,qua 28/12/2022,13:00,Auxerre,Monaco,4-4-1-1,Christophe Pélissier,16503,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840110
+17,dom 01/01/2023,11:00,Nantes,Auxerre,4-4-1-1,Christophe Pélissier,23266,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840121
+18,qua 11/01/2023,15:00,Auxerre,Toulouse,4-4-2 duplo 6,Christophe Pélissier,12405,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840130
+19,sáb 14/01/2023,13:00,Lens,Auxerre,4-2-3-1,Christophe Pélissier,38208,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840145
+20,dom 29/01/2023,11:00,Auxerre,Montpellier,4-3-3 ofensivo,Christophe Pélissier,14206,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840150
+21,qua 01/02/2023,17:00,Monaco,Auxerre,4-3-3 ofensivo,Christophe Pélissier,3561,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840159
+22,dom 05/02/2023,11:00,Auxerre,Reims,4-2-3-1,Christophe Pélissier,14680,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840170
+23,dom 12/02/2023,11:00,Angers,Auxerre,4-3-3 ofensivo,Christophe Pélissier,7873,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840180
+24,sex 17/02/2023,17:00,Auxerre,Lyon,5-4-1 plano,Christophe Pélissier,16396,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840189
+25,dom 26/02/2023,09:00,FC Lorient,Auxerre,5-4-1 plano,Christophe Pélissier,13089,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840203
+26,sex 03/03/2023,17:00,Nice,Auxerre,5-4-1 plano,Christophe Pélissier,21133,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840210
+27,sáb 11/03/2023,13:00,Auxerre,Rennes,5-4-1 plano,Christophe Pélissier,15695,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840220
+28,dom 19/03/2023,11:00,Strasbourg,Auxerre,5-4-1 plano,Christophe Pélissier,25530,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840235
+29,sáb 01/04/2023,12:00,Auxerre,Troyes,3-4-2-1,Christophe Pélissier,16512,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840246
+30,dom 09/04/2023,10:00,AC Ajaccio,Auxerre,3-4-2-1,Christophe Pélissier,6742,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840256
+31,dom 16/04/2023,10:00,Auxerre,Nantes,3-4-2-1,Christophe Pélissier,15714,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840266
+32,sáb 22/04/2023,12:00,Auxerre,Lille,3-4-3 plano,Christophe Pélissier,16779,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840277
+33,dom 30/04/2023,15:45,Marselha,Auxerre,5-4-1 plano,Christophe Pélissier,64523,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840289
+34,dom 07/05/2023,10:00,Auxerre,Clermont Foot,5-4-1 plano,Christophe Pélissier,16330,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840406
+35,dom 14/05/2023,10:00,Brest,Auxerre,5-3-2,Christophe Pélissier,15028,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840422
+36,dom 21/05/2023,15:45,Auxerre,PSG,5-4-1 plano,Christophe Pélissier,16682,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840426
+37,sáb 27/05/2023,16:00,Toulouse,Auxerre,5-4-1 plano,Christophe Pélissier,25172,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840444
+38,sáb 03/06/2023,16:00,Auxerre,Lens,3-4-3 plano,Christophe Pélissier,17246,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3840446

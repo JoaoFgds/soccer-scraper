@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 23/08/2015,17:30,Betis,Villarreal,4-4-2 duplo 6,Marcelino,38572,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594478
+2,sex 28/08/2015,15:30,Villarreal,Espanyol,4-4-2 duplo 6,Marcelino,16722,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594487
+3,dom 13/09/2015,07:00,Granada CF,Villarreal,4-4-2 duplo 6,Marcelino,13996,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594496
+4,dom 20/09/2015,13:15,Villarreal,Athletic Club,4-4-2 duplo 6,Marcelino,18132,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594506
+5,qua 23/09/2015,17:00,Málaga CF,Villarreal,4-4-2 duplo 6,Marcelino,18647,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594515
+6,sáb 26/09/2015,15:30,Villarreal,Atlético,4-4-2,Marcelino,18443,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594525
+7,dom 04/10/2015,13:15,Levante,Villarreal,4-4-2 duplo 6,Marcelino,16058,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594534
+8,dom 18/10/2015,08:00,Villarreal,Celta de Vigo,4-4-2 duplo 6,Marcelino,17436,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594544
+9,dom 25/10/2015,13:00,Las Palmas,Villarreal,4-2-3-1,Marcelino,18517,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594553
+10,sáb 31/10/2015,15:15,Villarreal,Sevilla,4-4-2,Marcelino,15918,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594563
+11,dom 08/11/2015,13:00,Barcelona,Villarreal,4-3-3 ofensivo,Marcelino,72585,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594572
+12,dom 22/11/2015,13:00,Villarreal,Eibar,4-4-2 duplo 6,Marcelino,15788,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594582
+13,dom 29/11/2015,09:00,Getafe,Villarreal,4-3-3 ofensivo,Marcelino,5903,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594591
+14,dom 06/12/2015,13:00,Villarreal,Rayo Vallecano,4-4-2,Marcelino,16101,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594601
+15,dom 13/12/2015,17:30,Villarreal,Real Madrid,4-4-2,Marcelino,19477,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594611
+16,dom 20/12/2015,15:15,Real Sociedad,Villarreal,4-4-2 duplo 6,Marcelino,21949,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594622
+17,qui 31/12/2015,13:00,Villarreal,Valencia,4-4-2,Marcelino,17616,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594632
+18,dom 03/01/2016,15:15,Deportivo,Villarreal,4-4-2,Marcelino,23815,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594643
+19,dom 10/01/2016,09:00,Villarreal,Real Sporting,4-4-2 duplo 6,Marcelino,16705,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594653
+20,sáb 16/01/2016,17:30,Villarreal,Betis,4-4-2 duplo 6,Marcelino,15402,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594668
+21,sáb 23/01/2016,15:15,Espanyol,Villarreal,4-4-2,Marcelino,16251,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594677
+22,sáb 30/01/2016,17:30,Villarreal,Granada CF,4-4-2,Marcelino,16062,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594686
+23,sáb 06/02/2016,17:30,Athletic Club,Villarreal,4-4-2 duplo 6,Marcelino,40941,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594696
+24,sáb 13/02/2016,15:15,Villarreal,Málaga CF,4-4-2 duplo 6,Marcelino,17142,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594705
+25,dom 21/02/2016,16:30,Atlético,Villarreal,4-4-2 duplo 6,Marcelino,41106,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594715
+26,dom 28/02/2016,08:00,Villarreal,Levante,4-4-2 duplo 6,Marcelino,16619,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594724
+27,qua 02/03/2016,16:00,Celta de Vigo,Villarreal,4-4-2 duplo 6,Marcelino,15372,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594734
+28,sáb 05/03/2016,14:15,Villarreal,Las Palmas,4-4-2 duplo 6,Marcelino,15790,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594743
+29,dom 13/03/2016,12:00,Sevilla,Villarreal,4-4-2,Marcelino,35069,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594753
+30,dom 20/03/2016,12:00,Villarreal,Barcelona,4-4-2 duplo 6,Marcelino,24398,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594762
+31,dom 03/04/2016,13:15,Eibar,Villarreal,4-4-2 duplo 6,Marcelino,5183,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594772
+32,dom 10/04/2016,13:15,Villarreal,Getafe,4-4-2 duplo 6,Marcelino,17570,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594781
+33,dom 17/04/2016,13:15,Rayo Vallecano,Villarreal,4-4-2,Marcelino,12409,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594791
+34,qua 20/04/2016,17:00,Real Madrid,Villarreal,4-4-2,Marcelino,62085,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594801
+35,dom 24/04/2016,15:30,Villarreal,Real Sociedad,4-4-2 duplo 6,Marcelino,17215,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594812
+36,dom 01/05/2016,15:30,Valencia,Villarreal,4-4-2 duplo 6,Marcelino,38283,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594822
+37,dom 08/05/2016,12:00,Villarreal,Deportivo,4-4-2 duplo 6,Marcelino,13247,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594833
+38,dom 15/05/2016,14:30,Real Sporting,Villarreal,4-4-2 duplo 6,Marcelino,27834,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594843

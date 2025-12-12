@@ -1,0 +1,9 @@
+league_name,season_year,canonical_name,other_name,precision_score,is_confident_match
+challengerproleague,2021,kmskdeinze2024,kmskdeinze,83,True
+challengerproleague,2021,kskliersekempenzonen,kskliersekem,75,True
+challengerproleague,2021,kvcwesterlo,kvcwesterlo,100,True
+challengerproleague,2021,kvrswaaslandskbeveren,waaslandbeveren,83,True
+challengerproleague,2021,lommelsk,lommelsk,100,True
+challengerproleague,2021,royalexcelmouscron2022,mouscron,53,False
+challengerproleague,2021,royalexcelsiorvirton,revirton,57,False
+challengerproleague,2021,rwdmolenbeek,rwdm,50,False

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 03/08/1997,12:45,Hertha Berlim,Dortmund,3-5-2 ofensivo,Nevio Scala,75737,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17546
+2,qua 06/08/1997,15:00,Dortmund,Colônia,3-4-2-1,Nevio Scala,55000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17553
+3,sáb 09/08/1997,10:30,Schalke,Dortmund,3-4-2-1,Nevio Scala,68200,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17559
+4,sáb 23/08/1997,10:30,Dortmund,Bochum,3-5-2,Nevio Scala,55000,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17570
+5,sáb 30/08/1997,10:30,Stuttgart,Dortmund,3-5-2 ofensivo,Nevio Scala,48500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17580
+6,sáb 13/09/1997,10:30,Dortmund,Karlsruher,3-5-2 plano,Nevio Scala,54500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17586
+7,sáb 20/09/1997,10:30,Werder Bremen,Dortmund,3-5-2,Nevio Scala,32083,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17598
+8,sáb 27/09/1997,10:30,Dortmund,1860 Munique,3-5-2 ofensivo,Nevio Scala,54000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17605
+9,sáb 04/10/1997,10:30,Arm. Bielefeld,Dortmund,3-5-2 ofensivo,Nevio Scala,22512,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17612
+10,ter 14/10/1997,16:00,Dortmund,Leverkusen,3-5-2 plano,Nevio Scala,54000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17620
+11,sáb 18/10/1997,11:30,MSV Duisburg,Dortmund,3-5-2,Nevio Scala,27000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17633
+12,sáb 25/10/1997,11:30,Dortmund,Hansa Rostock,3-5-2,Nevio Scala,55000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17639
+13,sex 31/10/1997,17:00,Dortmund,K'lautern,3-5-2,Nevio Scala,55000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17647
+14,sáb 08/11/1997,12:30,M'gladbach,Dortmund,3-4-2-1,Nevio Scala,34500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17658
+15,ter 18/11/1997,17:00,Dortmund,Wolfsburg,3-5-2,Nevio Scala,50500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17664
+16,sex 21/11/1997,17:00,Hamburgo,Dortmund,3-5-2,Nevio Scala,37854,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17673
+17,ter 11/11/1997,17:00,Dortmund,Bayern,3-4-2-1,Nevio Scala,55000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17683
+18,ter 16/12/1997,17:00,Dortmund,Hertha Berlim,3-5-2,Nevio Scala,51000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17699
+19,sáb 13/12/1997,12:30,Colônia,Dortmund,3-5-2,Nevio Scala,33000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17702
+20,sex 19/12/1997,17:00,Dortmund,Schalke,3-5-2,Nevio Scala,55000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17709
+21,sex 30/01/1998,17:00,Bochum,Dortmund,3-5-2 ofensivo,Nevio Scala,31000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17719
+22,sáb 07/02/1998,12:30,Dortmund,Stuttgart,3-5-2,Nevio Scala,54500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17731
+23,sex 13/02/1998,16:30,Karlsruher,Dortmund,3-5-2 ofensivo,Nevio Scala,27000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17737
+24,sex 27/02/1998,17:00,Dortmund,Werder Bremen,3-5-2,Nevio Scala,55000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17746
+25,sáb 07/03/1998,11:30,1860 Munique,Dortmund,3-5-2 ofensivo,Nevio Scala,31000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17760
+26,sáb 14/03/1998,11:30,Dortmund,Arm. Bielefeld,3-5-2,Nevio Scala,55000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17766
+27,qua 29/04/1998,15:00,Leverkusen,Dortmund,3-4-2-1,Nevio Scala,22500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17778
+28,sáb 28/03/1998,11:30,Dortmund,MSV Duisburg,3-4-1-2,Nevio Scala,54000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17784
+29,sáb 04/04/1998,10:30,Hansa Rostock,Dortmund,3-5-2,Nevio Scala,24500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17794
+30,qui 09/04/1998,15:00,K'lautern,Dortmund,3-5-2,Nevio Scala,38000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17799
+31,sáb 18/04/1998,10:30,Dortmund,M'gladbach,?,Nevio Scala,55000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17812
+32,sáb 25/04/1998,10:30,Wolfsburg,Dortmund,3-4-2-1,Nevio Scala,21600,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17824
+33,sáb 02/05/1998,10:30,Dortmund,Hamburgo,3-4-2-1,Nevio Scala,55000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17829
+34,sáb 09/05/1998,10:30,Bayern,Dortmund,3-5-2,Nevio Scala,63000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/17837

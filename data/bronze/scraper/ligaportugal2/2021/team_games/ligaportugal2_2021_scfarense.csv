@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,ter 10/08/2021,14:00,Leixões,Farense,4-3-3 ofensivo,Jorge Costa,553,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621656
+2,dom 15/08/2021,07:00,Farense,Rio Ave,4-3-3 ofensivo,Jorge Costa,1261,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621662
+3,sáb 21/08/2021,07:00,Estrela Amadora,Farense,4-3-3 ofensivo,Jorge Costa,873,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621697
+4,dom 29/08/2021,15:30,Farense,Feirense,4-3-3 defensivo,Jorge Costa,1555,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621681
+5,seg 13/09/2021,15:30,Académico FC,Farense,4-3-3 ofensivo,Fanã,133,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621675
+6,dom 19/09/2021,07:00,Farense,Benfica B,4-2-3-1,Fanã,1659,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621699
+7,dom 03/10/2021,15:30,Vilafranquense,Farense,4-3-3 ofensivo,Fanã,230,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621722
+8,sáb 13/11/2021,08:00,Farense,Trofense,4-3-3 ofensivo,Fanã,2540,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621726
+9,sáb 23/10/2021,11:30,FC Porto B,Farense,4-3-3 ofensivo,Fanã,342,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621713
+10,seg 01/11/2021,11:00,Farense,Penafiel,4-2-3-1,Fanã,2420,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621780
+11,dom 07/11/2021,16:30,Covilhã,Farense,?,Fanã,175,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621738
+12,sex 26/11/2021,15:00,Farense,Casa Pia,3-1-4-2,Fanã,1878,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621789
+13,dom 05/12/2021,17:30,Mafra,Farense,?,Fanã,439,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621756
+14,dom 12/12/2021,08:00,Farense,Nacional,?,Fanã,2149,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621771
+15,sáb 18/12/2021,11:00,Chaves,Farense,?,Fanã,423,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621762
+16,qui 17/02/2022,12:30,Varzim,Farense,3-4-3 plano,Vasco Faísca,1514,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621748
+17,qui 03/02/2022,17:15,Farense,Académica,?,Vasco Faísca,2859,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621815
+18,seg 17/01/2022,15:00,Farense,Leixões,3-4-3 plano,Vasco Faísca,1887,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621800
+19,dom 23/01/2022,12:30,Rio Ave,Farense,?,Vasco Faísca,798,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621806
+20,sex 28/01/2022,15:00,Farense,Estrela Amadora,3-4-3 plano,Vasco Faísca,2583,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621954
+21,ter 08/02/2022,15:00,Feirense,Farense,?,Vasco Faísca,1021,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621834
+22,dom 13/02/2022,16:30,Farense,Académico FC,3-4-3 plano,Vasco Faísca,3227,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621943
+23,seg 21/02/2022,15:00,Benfica B,Farense,?,Vasco Faísca,481,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621825
+24,dom 27/02/2022,12:30,Farense,Vilafranquense,?,Vasco Faísca,2902,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621936
+25,dom 06/03/2022,17:15,Trofense,Farense,3-4-3 plano,Vasco Faísca,712,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621866
+26,dom 13/03/2022,08:00,Farense,FC Porto B,3-4-3 plano,Vasco Faísca,3009,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621857
+27,sáb 19/03/2022,11:00,Penafiel,Farense,3-4-3 plano,Vasco Faísca,607,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621843
+28,dom 03/04/2022,10:00,Farense,Covilhã,3-4-3 plano,Vasco Faísca,2948,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621906
+29,sáb 09/04/2022,07:00,Casa Pia,Farense,3-4-3 plano,Vasco Faísca,272,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621874
+30,sáb 16/04/2022,07:00,Farense,Mafra,3-4-3 plano,Vasco Faísca,2730,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621907
+31,dom 24/04/2022,11:30,Nacional,Farense,?,Vasco Faísca,835,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621871
+32,sáb 30/04/2022,07:00,Farense,Chaves,?,Vasco Faísca,2584,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621908
+33,dom 08/05/2022,10:00,Farense,Varzim,?,Vasco Faísca,2376,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621902
+34,sáb 14/05/2022,07:00,Académica,Farense,?,Vasco Faísca,658,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621861

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 01/09/1996,13:00,Leça,Leiria,4-3-3 ofensivo,Vítor Manuel,4000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855864
+2,sáb 07/09/1996,14:00,Leiria,FC Porto,5-4-1 plano,Vítor Manuel,7000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855868
+3,dom 15/09/1996,13:00,Vit. Guimarães,Leiria,5-4-1 plano,Vítor Manuel,15000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855884
+4,dom 22/09/1996,13:00,Leiria,Benfica,5-4-1 plano,Vítor Manuel,15000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855893
+5,dom 29/09/1996,12:00,Braga,Leiria,5-4-1 plano,Vítor Manuel,8000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855900
+6,dom 13/10/1996,13:00,Leiria,Gil Vicente,4-3-3 ofensivo,Vítor Manuel,2000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855910
+7,dom 20/10/1996,13:00,Vitória FC,Leiria,4-4-2,Vítor Manuel,5000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855919
+8,dom 27/10/1996,14:00,Leiria,Belenenses,4-4-2 duplo 6,Eurico Gomes,2000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855922
+9,dom 03/11/1996,14:00,Leiria,Chaves,4-3-3 ofensivo,Eurico Gomes,3000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855948
+10,dom 17/11/1996,13:00,Salgueiros,Leiria,4-5-1,Eurico Gomes,2500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855961
+11,sáb 23/11/1996,14:00,Leiria,CF Estrela,4-4-2,Eurico Gomes,3000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855981
+12,dom 01/12/1996,13:00,Sporting,Leiria,4-4-2,Eurico Gomes,8000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855999
+13,dom 22/12/1996,14:00,Leiria,Boavista,5-4-1 plano,Eurico Gomes,3000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856004
+14,dom 05/01/1997,13:00,SC Espinho,Leiria,4-3-3 ofensivo,Eurico Gomes,4000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856015
+15,dom 12/01/1997,14:00,Leiria,Farense,4-3-3 ofensivo,Eurico Gomes,4000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856028
+16,dom 19/01/1997,13:00,Rio Ave,Leiria,4-3-1-2,Eurico Gomes,2000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856032
+17,dom 26/01/1997,13:00,Leiria,Marítimo,5-3-2,Quinito,3000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856043
+18,dom 02/02/1997,13:00,Leiria,Leça,5-4-1 plano,Quinito,3000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856050
+19,sáb 08/02/1997,14:00,FC Porto,Leiria,4-3-3 ofensivo,Quinito,25000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856058
+20,dom 16/02/1997,12:00,Leiria,Vit. Guimarães,4-3-1-2,Quinito,5000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856072
+21,dom 23/02/1997,12:00,Benfica,Leiria,4-3-3 ofensivo,Quinito,15000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856080
+22,dom 02/03/1997,12:00,Leiria,Braga,4-3-3 ofensivo,Quinito,3000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856087
+23,dom 16/03/1997,13:00,Gil Vicente,Leiria,4-3-1-2,Quinito,2000,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856100
+24,dom 23/03/1997,13:00,Leiria,Vitória FC,4-3-3 ofensivo,Quinito,3000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856102
+25,dom 06/04/1997,12:00,Belenenses,Leiria,4-3-1-2,Quinito,2000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856113
+26,dom 13/04/1997,12:00,Chaves,Leiria,4-4-2 duplo 6,Quinito,2000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856127
+27,dom 20/04/1997,12:00,Leiria,Salgueiros,4-2-3-1,Quinito,2000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856133
+28,dom 27/04/1997,12:00,CF Estrela,Leiria,4-4-2 duplo 6,Quinito,2000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856143
+29,dom 04/05/1997,13:00,Leiria,Sporting,4-5-1,Quinito,10000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856148
+30,sex 09/05/1997,17:30,Boavista,Leiria,5-4-1 plano,Quinito,3000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856155
+31,dom 18/05/1997,13:00,Leiria,SC Espinho,4-2-3-1,Quinito,2000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856179
+32,dom 25/05/1997,13:00,Farense,Leiria,4-4-2 duplo 6,Quinito,5000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856188
+33,dom 01/06/1997,13:00,Leiria,Rio Ave,4-4-2,Quinito,2000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856206
+34,dom 15/06/1997,13:00,Marítimo,Leiria,5-3-2,Quinito,2500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2856214

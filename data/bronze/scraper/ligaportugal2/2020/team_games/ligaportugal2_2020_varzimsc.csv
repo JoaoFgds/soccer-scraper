@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 13/09/2020,14:30,Varzim,FC Porto B,4-3-3 ofensivo,Paulo Alves,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431636
+2,sex 18/09/2020,13:00,Chaves,Varzim,4-3-3 ofensivo,Paulo Alves,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431508
+3,ter 22/09/2020,16:00,Varzim,Arouca,4-3-3 ofensivo,Paulo Alves,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431720
+4,sáb 26/09/2020,07:00,Covilhã,Varzim,4-3-3 ofensivo,Paulo Alves,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431703
+5,dom 04/10/2020,07:15,Varzim,Académica,4-3-3 ofensivo,Paulo Alves,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431687
+6,sex 16/10/2020,16:00,Leixões,Varzim,4-3-3 ofensivo,Paulo Alves,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431543
+7,dom 25/10/2020,08:15,Varzim,Estoril,4-3-3 defensivo,Miguel Leal,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431670
+8,dom 01/11/2020,14:30,Mafra,Varzim,4-3-3 ofensivo,Miguel Leal,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431571
+9,sáb 07/11/2020,12:00,Varzim,Académico FC,?,Paulo Alves,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431686
+10,seg 30/11/2020,13:00,Benfica B,Varzim,?,Miguel Leal,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431593
+11,dom 06/12/2020,14:00,Varzim,Cova da Piedade,?,Miguel Leal,,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431743
+12,sáb 19/12/2020,16:00,Varzim,Feirense,?,Miguel Leal,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431721
+13,ter 29/12/2020,14:00,Vizela,Varzim,4-3-3 ofensivo,Miguel Leal,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431676
+14,dom 03/01/2021,14:00,Varzim,Vilafranquense,?,Vitoriano Ramos,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431761
+15,dom 10/01/2021,08:15,Penafiel,Varzim,?,Vitoriano Ramos,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431490
+16,dom 17/01/2021,14:00,Varzim,Casa Pia,?,António Barbosa,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431712
+17,sex 22/01/2021,15:00,UD Oliveirense,Varzim,?,António Barbosa,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431756
+18,dom 31/01/2021,12:00,FC Porto B,Varzim,?,António Barbosa,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431737
+19,sáb 06/02/2021,12:00,Varzim,Chaves,?,António Barbosa,,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431685
+20,sáb 13/02/2021,12:00,Arouca,Varzim,?,António Barbosa,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431751
+21,seg 22/02/2021,15:00,Varzim,Covilhã,?,António Barbosa,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431735
+22,seg 01/03/2021,14:00,Académica,Varzim,?,António Barbosa,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431736
+23,seg 08/03/2021,17:00,Varzim,Leixões,?,António Barbosa,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431750
+24,dom 14/03/2021,08:15,Estoril,Varzim,4-2-3-1,António Barbosa,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431631
+25,sáb 20/03/2021,12:00,Varzim,Mafra,?,António Barbosa,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431640
+26,sex 26/03/2021,13:00,Académico FC,Varzim,?,António Barbosa,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431731
+27,sex 02/04/2021,14:00,Varzim,Benfica B,?,António Barbosa,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431632
+28,sáb 10/04/2021,11:00,Cova da Piedade,Varzim,?,António Barbosa,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431747
+29,sáb 17/04/2021,07:00,Feirense,Varzim,?,António Barbosa,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431633
+30,sáb 24/04/2021,13:30,Varzim,Vizela,,António Barbosa,,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431704
+31,seg 03/05/2021,12:30,Vilafranquense,Varzim,?,António Barbosa,,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431749
+32,dom 09/05/2021,16:30,Varzim,Penafiel,?,António Barbosa,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431627
+33,dom 16/05/2021,11:00,Casa Pia,Varzim,?,António Barbosa,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431754
+34,sáb 22/05/2021,14:00,Varzim,UD Oliveirense,4-2-3-1,António Barbosa,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431608

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 14/04/2023,19:00,Guarani,Avaí,4-2-3-1,Alex,3569,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4056132
+2,sáb 22/04/2023,16:00,Avaí,Mirassol,4-3-3 ofensivo,Alex,4711,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4059117
+3,sex 28/04/2023,19:00,Criciúma,Avaí,4-3-3 ofensivo,Alex,15747,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060052
+4,qua 03/05/2023,21:15,Avaí,Vila Nova,4-2-3-1,Alex,4436,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060965
+5,sáb 06/05/2023,18:15,Tombense,Avaí,4-3-3 ofensivo,Marquinhos,814,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060881
+6,sex 12/05/2023,21:30,Avaí,Chapecoense,4-3-3 ofensivo,Marquinhos,6402,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060885
+7,sex 19/05/2023,21:30,Atlético-GO,Avaí,4-4-2 losango,Gustavo Morínigo,4980,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060954
+8,ter 23/05/2023,21:30,Novorizontino,Avaí,4-3-3 ofensivo,Gustavo Morínigo,1381,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060897
+9,sáb 27/05/2023,17:30,Avaí,Vitória,4-3-3 ofensivo,Gustavo Morínigo,14875,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060925
+10,sáb 03/06/2023,16:00,Juventude,Avaí,5-4-1 plano,Gustavo Morínigo,5197,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060940
+11,qua 07/06/2023,19:00,Sport,Avaí,3-4-3 plano,Gustavo Morínigo,18699,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060918
+12,dom 11/06/2023,15:30,Avaí,Botafogo-SP,4-4-2 losango,Gustavo Morínigo,4301,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060945
+13,sáb 24/06/2023,16:00,Avaí,Londrina,4-2-3-1,Gustavo Morínigo,5678,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060975
+14,qua 28/06/2023,19:00,Ceará,Avaí,4-3-3 ofensivo,Gustavo Morínigo,14513,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060999
+15,sáb 01/07/2023,17:00,Avaí,ABC,4-2-3-1,Gustavo Morínigo,6378,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061035
+16,sáb 08/07/2023,17:00,Avaí,Ponte Preta,4-3-3 ofensivo,Eduardo Barroca,6141,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061015
+17,qua 23/08/2023,19:00,CRB,Avaí,4-3-3 ofensivo,Eduardo Barroca,5665,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060992
+18,qua 19/07/2023,21:30,Avaí,Sampaio Corrêa,4-3-3 ofensivo,Eduardo Barroca,6498,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061025
+19,sáb 22/07/2023,18:00,Ituano,Avaí,4-3-3 ofensivo,Eduardo Barroca,1240,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061046
+20,sáb 29/07/2023,17:00,Avaí,Guarani,4-3-3 ofensivo,Eduardo Barroca,13004,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061055
+21,ter 01/08/2023,19:00,Mirassol,Avaí,4-3-3 ofensivo,Eduardo Barroca,2357,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061087
+22,sáb 05/08/2023,15:30,Avaí,Criciúma,4-3-3 ofensivo,Eduardo Barroca,11127,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061075
+23,sáb 12/08/2023,18:00,Vila Nova,Avaí,4-3-3 ofensivo,Eduardo Barroca,9742,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061104
+24,sáb 19/08/2023,15:30,Avaí,Tombense,4-3-3 ofensivo,Eduardo Barroca,9526,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061115
+25,dom 27/08/2023,15:45,Chapecoense,Avaí,4-3-3 ofensivo,Eduardo Barroca,11199,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061100
+26,sáb 02/09/2023,15:30,Avaí,Atlético-GO,4-3-3 ofensivo,Eduardo Barroca,9412,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061145
+27,seg 11/09/2023,20:30,Avaí,Novorizontino,4-3-3 ofensivo,Eduardo Barroca,7472,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061135
+28,dom 17/09/2023,18:00,Vitória,Avaí,4-3-3 ofensivo,Eduardo Barroca,24082,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061128
+29,seg 25/09/2023,18:30,Avaí,Juventude,4-3-3 ofensivo,Eduardo Barroca,4041,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061175
+30,sex 29/09/2023,19:00,Avaí,Sport,4-3-3 ofensivo,Eduardo Barroca,5205,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061165
+31,sáb 07/10/2023,17:00,Botafogo-SP,Avaí,4-3-3 ofensivo,Eduardo Barroca,2346,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061156
+32,dom 15/10/2023,18:30,Londrina,Avaí,4-3-3 ofensivo,Eduardo Barroca,785,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061201
+33,dom 22/10/2023,18:00,Avaí,Ceará,4-3-3 ofensivo,Eduardo Barroca,8520,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061185
+34,qui 26/10/2023,19:00,ABC,Avaí,4-3-3 ofensivo,Eduardo Barroca,1298,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060912
+35,sáb 04/11/2023,17:00,Ponte Preta,Avaí,4-3-3 ofensivo,Eduardo Barroca,5525,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060862
+36,sáb 11/11/2023,17:00,Avaí,CRB,4-3-3 ofensivo,Eduardo Barroca,6474,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061005
+37,seg 20/11/2023,20:00,Sampaio Corrêa,Avaí,4-3-3 ofensivo,Eduardo Barroca,8740,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061069
+38,sáb 25/11/2023,17:00,Avaí,Ituano,4-3-3 ofensivo,Eduardo Barroca,3427,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061205

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 14/05/2016,16:00,Palmeiras,Atlético-PR,4-2-3-1,Paulo Autuori,33629,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2684564
+2,dom 22/05/2016,11:00,Atlético-PR,Atlético-MG,4-2-3-1,Paulo Autuori,11804,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2684571
+3,qua 25/05/2016,19:30,Botafogo,Atlético-PR,4-2-3-1,Paulo Autuori,4445,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2694645
+4,sáb 28/05/2016,18:30,Atlético-PR,Figueirense,4-2-3-1,Paulo Autuori,10479,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2694656
+5,qua 01/06/2016,19:30,Internacional,Atlético-PR,4-2-3-1,Paulo Autuori,20300,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2695566
+6,sáb 04/06/2016,16:00,Atlético-PR,Santa Cruz,4-4-2 duplo 6,Paulo Autuori,11863,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2695583
+7,sáb 11/06/2016,21:00,São Paulo,Atlético-PR,4-4-2 duplo 6,Paulo Autuori,12389,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2696874
+8,qua 15/06/2016,19:30,Ponte Preta,Atlético-PR,4-3-3 ofensivo,Paulo Autuori,3090,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698562
+9,sáb 18/06/2016,18:00,Atlético-PR,Santos,4-3-3 defensivo,Paulo Autuori,15359,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698571
+10,qui 23/06/2016,15:00,Chapecoense,Atlético-PR,4-2-3-1,Paulo Autuori,3788,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698581
+11,dom 26/06/2016,16:00,Atlético-PR,Grêmio,?,Paulo Autuori,16838,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702134
+12,qua 29/06/2016,21:00,Coritiba,Atlético-PR,?,Paulo Autuori,12861,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702145
+13,sáb 02/07/2016,18:30,Atlético-PR,América-MG,?,Paulo Autuori,10137,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2708405
+14,seg 11/07/2016,20:00,Cruzeiro,Atlético-PR,4-2-3-1,Paulo Autuori,32042,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2708422
+15,dom 17/07/2016,16:00,Atlético-PR,Vitória,?,Paulo Autuori,15683,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713339
+16,dom 24/07/2016,16:00,Atlético-PR,Fluminense,4-3-3 defensivo,Paulo Autuori,14959,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713357
+17,sáb 30/07/2016,18:30,Sport,Atlético-PR,?,Paulo Autuori,22491,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713362
+18,qua 03/08/2016,21:45,Atlético-PR,Corinthians,?,Paulo Autuori,25379,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713386
+19,sáb 06/08/2016,18:30,Flamengo,Atlético-PR,?,Paulo Autuori,19036,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713391
+20,dom 14/08/2016,18:30,Atlético-PR,Palmeiras,4-2-3-1,Paulo Autuori,23911,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713416
+21,dom 21/08/2016,17:00,Atlético-MG,Atlético-PR,5-4-1,Paulo Autuori,17465,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2767849
+22,seg 29/08/2016,21:00,Atlético-PR,Botafogo,4-4-2 duplo 6,Paulo Autuori,11453,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2767862
+23,qua 07/09/2016,17:00,Figueirense,Atlético-PR,4-4-2 duplo 6,Paulo Autuori,5744,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770071
+24,dom 11/09/2016,17:00,Atlético-PR,Internacional,4-3-3 defensivo,Paulo Autuori,12756,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770086
+25,qua 14/09/2016,22:00,Santa Cruz,Atlético-PR,?,Paulo Autuori,2471,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770093
+26,dom 18/09/2016,17:00,Atlético-PR,São Paulo,4-2-3-1,Paulo Autuori,15216,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770104
+27,dom 25/09/2016,12:00,Atlético-PR,Ponte Preta,4-3-3 defensivo,Paulo Autuori,11527,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770153
+28,sáb 01/10/2016,17:00,Santos,Atlético-PR,4-3-1-2,Paulo Autuori,5764,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770162
+29,qua 05/10/2016,20:30,Atlético-PR,Chapecoense,4-2-3-1,Paulo Autuori,10553,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770171
+30,qua 12/10/2016,22:00,Grêmio,Atlético-PR,4-2-3-1,Paulo Autuori,16123,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770189
+31,dom 16/10/2016,19:00,Atlético-PR,Coritiba,4-2-3-1,Paulo Autuori,6684,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770194
+32,seg 24/10/2016,22:00,América-MG,Atlético-PR,4-3-1-2,Paulo Autuori,1315,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770209
+33,sáb 29/10/2016,16:30,Atlético-PR,Cruzeiro,4-2-3-1,Paulo Autuori,17702,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770224
+34,dom 06/11/2016,17:00,Vitória,Atlético-PR,?,Paulo Autuori,21002,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770228
+35,ter 15/11/2016,17:00,Fluminense,Atlético-PR,?,Paulo Autuori,43691,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2778076
+36,dom 20/11/2016,17:00,Atlético-PR,Sport,4-2-3-1,Paulo Autuori,21576,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2778086
+37,sáb 26/11/2016,21:00,Corinthians,Atlético-PR,4-2-3-1,Paulo Autuori,24701,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2798383
+38,dom 11/12/2016,17:00,Atlético-PR,Flamengo,4-2-3-1,Paulo Autuori,35396,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2798938

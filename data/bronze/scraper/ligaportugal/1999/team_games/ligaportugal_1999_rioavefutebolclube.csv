@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 22/08/1999,16:00,Rio Ave,Benfica,4-2-3-1,Carlos Brito,20000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854864
+2,dom 29/08/1999,14:00,Braga,Rio Ave,?,Carlos Brito,6000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854872
+3,dom 12/09/1999,12:00,Rio Ave,Salgueiros,4-3-3 ofensivo,Carlos Brito,2000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854885
+4,sex 17/09/1999,19:00,FC Porto,Rio Ave,4-3-3 ofensivo,Carlos Brito,7562,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854888
+5,sáb 25/09/1999,19:00,Rio Ave,Santa Clara,?,Carlos Brito,3000,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854904
+6,sáb 02/10/1999,16:00,Campomaiorense,Rio Ave,4-3-3 ofensivo,Carlos Brito,1000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854906
+7,sáb 16/10/1999,20:00,Rio Ave,Vitória FC,?,Carlos Brito,3000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854923
+8,sáb 23/10/1999,20:00,Belenenses,Rio Ave,?,Carlos Brito,1500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854927
+9,sáb 30/10/1999,20:00,Rio Ave,Farense,?,Carlos Brito,2000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854940
+10,sáb 06/11/1999,21:00,Leiria,Rio Ave,?,Carlos Brito,3000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854946
+11,sáb 20/11/1999,21:00,Rio Ave,CF Estrela,?,Carlos Brito,1000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854958
+12,sáb 27/11/1999,21:00,Vit. Guimarães,Rio Ave,4-3-3 ofensivo,Carlos Brito,6000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854965
+13,sáb 04/12/1999,21:00,Rio Ave,Gil Vicente,?,Carlos Brito,3000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854976
+14,sáb 11/12/1999,21:00,Sporting,Rio Ave,?,Carlos Brito,10000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854984
+15,sáb 18/12/1999,21:00,Rio Ave,Boavista,?,Carlos Brito,3000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854992
+16,sáb 08/01/2000,14:00,Rio Ave,Marítimo,4-3-3 ofensivo,Carlos Brito,2000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2854999
+17,sáb 15/01/2000,21:00,Alverca,Rio Ave,?,Carlos Brito,650,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855006
+18,sex 21/01/2000,21:00,Benfica,Rio Ave,?,Carlos Brito,20000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855015
+19,sáb 29/01/2000,21:00,Rio Ave,Braga,?,Carlos Brito,3000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855028
+20,sáb 05/02/2000,21:00,Salgueiros,Rio Ave,?,Carlos Brito,3000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855038
+21,dom 13/02/2000,19:00,Rio Ave,FC Porto,4-3-3 ofensivo,Carlos Brito,7000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855047
+22,sáb 19/02/2000,21:00,Santa Clara,Rio Ave,4-3-1-2,Carlos Brito,2500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855055
+23,dom 27/02/2000,13:00,Rio Ave,Campomaiorense,4-3-3 ofensivo,Carlos Brito,6000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855066
+24,sex 03/03/2000,20:00,Vitória FC,Rio Ave,3-4-3 plano,Carlos Brito,5000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855075
+25,sáb 11/03/2000,20:00,Rio Ave,Belenenses,?,Carlos Brito,4000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855084
+26,dom 19/03/2000,13:00,Farense,Rio Ave,4-3-3 ofensivo,Carlos Brito,2000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855090
+27,sáb 25/03/2000,20:00,Rio Ave,Leiria,?,Carlos Brito,3000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855103
+28,sáb 01/04/2000,19:00,CF Estrela,Rio Ave,?,Carlos Brito,2000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855107
+29,qui 06/04/2000,19:00,Rio Ave,Vit. Guimarães,?,Carlos Brito,4000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855113
+30,sáb 15/04/2000,19:00,Gil Vicente,Rio Ave,?,Carlos Brito,2500,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855126
+31,sex 21/04/2000,19:00,Rio Ave,Sporting,?,Carlos Brito,6761,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855137
+32,sex 28/04/2000,19:00,Boavista,Rio Ave,?,Carlos Brito,4000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855142
+33,dom 07/05/2000,12:00,Marítimo,Rio Ave,4-3-3 ofensivo,Carlos Brito,3000,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855154
+34,sáb 13/05/2000,19:00,Rio Ave,Alverca,?,Carlos Brito,1000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2855161

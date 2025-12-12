@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 13/08/2023,16:30,Getafe,Barcelona,4-2-3-1,Xavi,13410,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112811
+2,dom 20/08/2023,14:30,Barcelona,Cádiz CF,3-4-2-1,Xavi,39603,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113131
+3,dom 27/08/2023,12:30,Villarreal,Barcelona,4-3-3 ofensivo,Xavi,21679,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113091
+4,dom 03/09/2023,16:00,Osasuna,Barcelona,4-3-3 ofensivo,Xavi,21966,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113052
+5,sáb 16/09/2023,16:00,Barcelona,Betis,4-3-3 ofensivo,Xavi,45055,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113106
+6,sáb 23/09/2023,13:30,Barcelona,Celta de Vigo,4-3-3 ofensivo,Xavi,43272,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113122
+7,ter 26/09/2023,16:30,Mallorca,Barcelona,4-3-3 ofensivo,Xavi,19939,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113069
+8,sex 29/09/2023,16:00,Barcelona,Sevilla,4-3-3 ofensivo,Xavi,41116,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112970
+9,dom 08/10/2023,16:00,Granada CF,Barcelona,4-3-3 ofensivo,Xavi,20354,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113061
+10,dom 22/10/2023,16:00,Barcelona,Athletic Club,4-3-3 ofensivo,Xavi,38194,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113120
+11,sáb 28/10/2023,11:15,Barcelona,Real Madrid,4-3-3 ofensivo,Xavi,50112,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113124
+12,sáb 04/11/2023,17:00,Real Sociedad,Barcelona,4-2-3-1,Xavi,37555,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113118
+13,dom 12/11/2023,12:15,Barcelona,Alavés,4-3-3 ofensivo,Xavi,38133,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113116
+14,sáb 25/11/2023,10:00,Rayo Vallecano,Barcelona,4-3-3 ofensivo,Xavi,14148,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113089
+15,dom 03/12/2023,17:00,Barcelona,Atlético,4-3-3 ofensivo,Xavi,34568,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113148
+16,dom 10/12/2023,17:00,Barcelona,Girona,4-3-3 ofensivo,Xavi,42848,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112875
+17,sáb 16/12/2023,17:00,Valencia,Barcelona,4-3-3 ofensivo,Xavi,46492,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112850
+18,qua 20/12/2023,15:00,Barcelona,UD Almería,4-3-3 ofensivo,Xavi,34471,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112873
+19,qui 04/01/2024,17:30,Las Palmas,Barcelona,4-3-3 ofensivo,Xavi,31712,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112860
+20,qua 31/01/2024,15:00,Barcelona,Osasuna,4-3-3 ofensivo,Xavi,37888,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112818
+21,dom 21/01/2024,14:30,Betis,Barcelona,4-3-3 ofensivo,Xavi,53288,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112831
+22,sáb 27/01/2024,14:30,Barcelona,Villarreal,4-3-3 ofensivo,Xavi,46229,3:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112843
+23,sáb 03/02/2024,14:30,Alavés,Barcelona,4-3-3 ofensivo,Xavi,19480,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113040
+24,dom 11/02/2024,17:00,Barcelona,Granada CF,4-3-3 ofensivo,Xavi,41901,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112886
+25,sáb 17/02/2024,14:30,Celta de Vigo,Barcelona,4-3-3 ofensivo,Xavi,23096,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113180
+26,sáb 24/02/2024,12:15,Barcelona,Getafe,4-3-3 ofensivo,Xavi,36803,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113026
+27,dom 03/03/2024,17:00,Athletic Club,Barcelona,4-3-3 ofensivo,Xavi,50295,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113005
+28,sex 08/03/2024,17:00,Barcelona,Mallorca,4-3-3 ofensivo,Xavi,38225,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112996
+29,dom 17/03/2024,17:00,Atlético,Barcelona,4-3-3 ofensivo,Xavi,68253,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112985
+30,sáb 30/03/2024,17:00,Barcelona,Las Palmas,4-3-3 ofensivo,Xavi,46788,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112976
+31,sáb 13/04/2024,16:00,Cádiz CF,Barcelona,4-3-3 ofensivo,Xavi,19607,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113022
+32,dom 21/04/2024,16:00,Real Madrid,Barcelona,4-3-3 ofensivo,Xavi,77981,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112930
+33,seg 29/04/2024,16:00,Barcelona,Valencia,4-3-3 ofensivo,Xavi,30167,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112936
+34,sáb 04/05/2024,13:30,Girona,Barcelona,4-3-3 ofensivo,Xavi,14090,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112949
+35,seg 13/05/2024,16:00,Barcelona,Real Sociedad,4-3-3 ofensivo,Xavi,35829,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112957
+36,qui 16/05/2024,16:30,UD Almería,Barcelona,4-3-3 ofensivo,Xavi,15543,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112915
+37,dom 19/05/2024,14:00,Barcelona,Rayo Vallecano,4-3-3 ofensivo,Xavi,35823,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112907
+38,dom 26/05/2024,16:00,Sevilla,Barcelona,4-3-3 ofensivo,Xavi,34888,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112902

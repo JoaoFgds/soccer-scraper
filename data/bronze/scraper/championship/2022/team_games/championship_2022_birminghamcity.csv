@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 30/07/2022,11:00,Luton,Birmingham,3-4-1-2,John Eustace,9921,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856445
+2,sex 05/08/2022,15:45,Birmingham,Huddersfield,3-4-1-2,John Eustace,17065,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856500
+3,sáb 13/08/2022,08:30,Cardiff,Birmingham,3-4-1-2,John Eustace,18893,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856530
+4,ter 16/08/2022,15:45,Birmingham,Watford,3-5-2 plano,John Eustace,16811,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856548
+5,sáb 20/08/2022,11:00,Birmingham,Wigan,3-5-2 plano,John Eustace,16013,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856568
+6,sáb 27/08/2022,11:00,Rotherham,Birmingham,3-5-2 plano,John Eustace,11027,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856596
+7,ter 30/08/2022,15:45,Birmingham,Norwich,3-4-1-2,John Eustace,16156,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856770
+8,sáb 03/09/2022,11:00,Preston NE,Birmingham,3-5-2 plano,John Eustace,16098,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856615
+9,ter 08/11/2022,16:45,Birmingham,Swansea,3-5-2 plano,John Eustace,15491,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856628
+10,qua 14/09/2022,16:00,West Brom,Birmingham,3-5-2 plano,John Eustace,23089,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856699
+11,sáb 17/09/2022,11:00,Birmingham,Coventry City,3-5-2 plano,John Eustace,16633,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856708
+12,sáb 01/10/2022,11:00,Sheff Utd,Birmingham,3-5-2,John Eustace,29927,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856884
+13,qua 05/10/2022,15:45,Middlesbrough,Birmingham,3-5-2 plano,John Eustace,22374,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856676
+14,sáb 08/10/2022,11:00,Birmingham,Bristol City,3-5-2 plano,John Eustace,16807,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856749
+15,dom 16/10/2022,11:00,Hull City,Birmingham,3-5-2 plano,John Eustace,16587,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856651
+16,qua 19/10/2022,15:45,Birmingham,FC Burnley,3-5-2 plano,John Eustace,16303,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856802
+17,sáb 22/10/2022,11:00,Blackburn,Birmingham,3-5-2 plano,John Eustace,14092,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856816
+18,sex 28/10/2022,16:00,Birmingham,QPR,3-5-2 plano,John Eustace,19007,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856896
+19,qua 02/11/2022,16:45,Birmingham,Millwall,3-5-2 plano,John Eustace,15030,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856862
+20,sáb 05/11/2022,12:00,Stoke,Birmingham,3-5-2 plano,John Eustace,22459,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856736
+21,sex 11/11/2022,17:00,Birmingham,AFC Sunderland,3-5-2 plano,John Eustace,18702,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856836
+22,sáb 10/12/2022,12:00,Blackpool,Birmingham,3-5-2 plano,John Eustace,12854,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857113
+23,sex 16/12/2022,17:00,Birmingham,Reading,3-1-4-2,John Eustace,14647,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856908
+24,ter 27/12/2022,17:00,FC Burnley,Birmingham,3-1-4-2,John Eustace,20945,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857029
+25,sex 30/12/2022,16:45,Birmingham,Hull City,3-1-4-2,John Eustace,17868,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856920
+26,seg 02/01/2023,12:00,Birmingham,Middlesbrough,3-4-2-1,John Eustace,17823,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856980
+27,sáb 14/01/2023,12:00,Bristol City,Birmingham,3-5-2 plano,John Eustace,21489,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856932
+28,sáb 21/01/2023,12:00,Birmingham,Preston NE,4-4-2 duplo 6,John Eustace,16608,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857004
+29,ter 21/02/2023,16:45,Norwich,Birmingham,4-2-3-1,John Eustace,25657,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856962
+30,sáb 04/02/2023,12:00,Swansea,Birmingham,5-3-2,John Eustace,17247,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857098
+31,sex 10/02/2023,17:00,Birmingham,West Brom,4-4-2 duplo 6,John Eustace,17781,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856968
+32,ter 14/02/2023,16:45,Birmingham,Cardiff,4-4-2 losango,John Eustace,14369,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857100
+33,sáb 18/02/2023,12:00,Huddersfield,Birmingham,3-5-2 plano,John Eustace,19564,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3856947
+34,sáb 25/02/2023,12:00,Birmingham,Luton,4-4-2,John Eustace,16866,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857040
+35,sáb 04/03/2023,12:00,Wigan,Birmingham,3-4-1-2,John Eustace,13741,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857003
+36,sáb 11/03/2023,12:00,Birmingham,Rotherham,3-4-1-2,John Eustace,15932,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857172
+37,ter 14/03/2023,16:45,Watford,Birmingham,3-5-2 plano,John Eustace,18403,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857128
+38,sáb 18/03/2023,12:00,QPR,Birmingham,4-2-3-1,John Eustace,15097,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857140
+39,sáb 01/04/2023,11:00,Birmingham,Blackburn,4-2-3-1,John Eustace,16623,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857052
+40,sex 07/04/2023,11:00,Reading,Birmingham,4-2-3-1,John Eustace,16084,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857021
+41,seg 10/04/2023,11:00,Birmingham,Stoke,4-2-3-1,John Eustace,17413,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857148
+42,sáb 15/04/2023,11:00,AFC Sunderland,Birmingham,4-2-3-1,John Eustace,37673,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857085
+43,ter 18/04/2023,16:00,Millwall,Birmingham,4-2-3-1,John Eustace,13311,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857065
+44,sáb 22/04/2023,11:00,Birmingham,Blackpool,4-2-3-1,John Eustace,16636,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857181
+45,sáb 29/04/2023,11:00,Coventry City,Birmingham,4-2-3-1,John Eustace,30175,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857164
+46,seg 08/05/2023,11:00,Birmingham,Sheff Utd,3-5-2 plano,John Eustace,18853,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857174

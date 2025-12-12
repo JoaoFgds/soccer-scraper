@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 17/08/2002,11:00,Charlton,Chelsea,4-4-2,Claudio Ranieri,25640,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/19720
+2,sex 23/08/2002,16:00,Chelsea,Man Utd,4-3-3 ofensivo,Claudio Ranieri,41541,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/992731
+3,qua 28/08/2002,15:45,Southampton,Chelsea,?,Claudio Ranieri,31208,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/992768
+4,dom 01/09/2002,12:05,Chelsea,Arsenal,4-4-2,Claudio Ranieri,40037,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/997857
+5,qua 11/09/2002,16:00,Blackburn,Chelsea,4-4-2,Claudio Ranieri,22999,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/997867
+6,sáb 14/09/2002,11:00,Chelsea,Newcastle,4-4-2,Claudio Ranieri,39746,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/997872
+7,seg 23/09/2002,16:00,Fulham,Chelsea,4-4-2,Claudio Ranieri,16503,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/997888
+8,sáb 28/09/2002,11:00,Chelsea,West Ham,4-4-2 losango,Claudio Ranieri,38929,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/997891
+9,dom 06/10/2002,12:05,Liverpool,Chelsea,4-4-2,Claudio Ranieri,43856,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/997907
+10,sáb 19/10/2002,11:00,Man City,Chelsea,4-4-2,Claudio Ranieri,34953,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/997911
+11,sáb 26/10/2002,11:00,Chelsea,West Brom,4-4-2,Claudio Ranieri,40893,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/997921
+12,dom 03/11/2002,12:00,Tottenham,Chelsea,4-4-2 duplo 6,Claudio Ranieri,36049,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/997933
+13,sáb 09/11/2002,13:00,Chelsea,Birmingham,4-4-2,Claudio Ranieri,35237,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/997942
+14,sáb 16/11/2002,13:00,Chelsea,Middlesbrough,?,Claudio Ranieri,39000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/997952
+15,sáb 23/11/2002,13:00,Bolton,Chelsea,4-4-2,Claudio Ranieri,25476,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998025
+16,sáb 30/11/2002,13:00,Chelsea,AFC Sunderland,4-4-2,Claudio Ranieri,38946,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998030
+17,sáb 07/12/2002,13:00,Everton,Chelsea,4-4-2,Claudio Ranieri,39396,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998041
+18,sáb 14/12/2002,13:00,Middlesbrough,Chelsea,4-3-3 ofensivo,Claudio Ranieri,29160,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998049
+19,sáb 21/12/2002,13:00,Chelsea,Aston Villa,?,Claudio Ranieri,38284,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998060
+20,qui 26/12/2002,10:00,Chelsea,Southampton,?,Claudio Ranieri,39428,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998070
+21,sáb 28/12/2002,13:00,Leeds,Chelsea,?,Claudio Ranieri,40122,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998079
+22,qua 01/01/2003,13:00,Arsenal,Chelsea,4-4-2 duplo 6,Claudio Ranieri,38096,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998092
+23,sáb 11/01/2003,13:00,Chelsea,Charlton,?,Claudio Ranieri,37284,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998105
+24,sáb 18/01/2003,10:30,Man Utd,Chelsea,4-4-2,Claudio Ranieri,67606,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998116
+25,ter 28/01/2003,18:00,Chelsea,Leeds,?,Claudio Ranieri,39738,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998129
+26,sáb 01/02/2003,13:00,Chelsea,Tottenham,4-4-2 duplo 6,Claudio Ranieri,41384,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998138
+27,sáb 08/02/2003,13:00,Birmingham,Chelsea,?,Claudio Ranieri,29475,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998151
+28,sáb 22/02/2003,12:00,Chelsea,Blackburn,?,Claudio Ranieri,40850,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998160
+29,sáb 01/03/2003,09:30,Newcastle,Chelsea,4-4-2,Claudio Ranieri,52157,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998166
+30,dom 16/03/2003,13:05,West Brom,Chelsea,?,Claudio Ranieri,27024,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998185
+31,sáb 22/03/2003,12:00,Chelsea,Man City,?,Claudio Ranieri,41105,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998192
+32,sáb 05/04/2003,11:00,AFC Sunderland,Chelsea,?,Claudio Ranieri,40011,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998201
+33,sáb 12/04/2003,11:00,Chelsea,Bolton,?,Claudio Ranieri,39852,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998210
+34,sáb 19/04/2003,11:00,Aston Villa,Chelsea,4-4-2 duplo 6,Claudio Ranieri,39358,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998223
+35,seg 21/04/2003,11:00,Chelsea,Everton,?,Claudio Ranieri,40875,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998231
+36,sáb 26/04/2003,11:00,Chelsea,Fulham,4-4-2 duplo 6,Claudio Ranieri,40792,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998239
+37,sáb 03/05/2003,11:00,West Ham,Chelsea,?,Claudio Ranieri,35042,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998247
+38,dom 11/05/2003,11:00,Chelsea,Liverpool,?,Claudio Ranieri,41911,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/998268

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 08/08/2009,10:30,Hertha Berlim,Hannover,4-4-2 duplo 6,Dieter Hecking,42169,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/953878
+2,sáb 15/08/2009,10:30,Hannover,Mainz,4-4-2 losango,Dieter Hecking,28952,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/955496
+3,sáb 22/08/2009,10:30,Nuremberg,Hannover,4-4-2 losango,Andreas Bergmann,38671,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/955506
+4,sáb 29/08/2009,10:30,Hannover,Hoffenheim,4-4-2 losango,Andreas Bergmann,34257,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/955514
+5,dom 13/09/2009,10:30,Werder Bremen,Hannover,4-4-2 losango,Andreas Bergmann,34000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/955526
+6,sáb 19/09/2009,10:30,Hannover,Dortmund,4-4-2 losango,Andreas Bergmann,43754,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/959049
+7,sáb 26/09/2009,10:30,Wolfsburg,Hannover,4-4-2 losango,Andreas Bergmann,30000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/959056
+8,sáb 03/10/2009,10:30,Hannover,Freiburg,4-4-2 losango,Andreas Bergmann,28412,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/959068
+9,sáb 17/10/2009,10:30,Frankfurt,Hannover,4-4-2 losango,Andreas Bergmann,40700,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/959077
+10,sáb 24/10/2009,11:30,Hannover,Stuttgart,4-4-2 losango,Andreas Bergmann,34423,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/959086
+11,sáb 31/10/2009,12:30,Colônia,Hannover,4-4-2 losango,Andreas Bergmann,46000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/959094
+12,dom 08/11/2009,12:30,Hannover,Hamburgo,4-4-2 losango,Andreas Bergmann,49000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/959101
+13,sáb 21/11/2009,12:30,Schalke,Hannover,4-4-2 losango,Andreas Bergmann,61505,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/959111
+14,dom 29/11/2009,14:30,Hannover,Bayern,4-1-3-2,Andreas Bergmann,49000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/959120
+15,sáb 05/12/2009,12:30,Hannover,Leverkusen,4-4-2 losango,Andreas Bergmann,34341,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/959130
+16,sáb 12/12/2009,12:30,M'gladbach,Hannover,4-4-2 losango,Andreas Bergmann,43528,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/959137
+17,sáb 19/12/2009,12:30,Hannover,Bochum,4-4-2 losango,Andreas Bergmann,33875,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/959149
+18,sáb 16/01/2010,12:30,Hannover,Hertha Berlim,4-4-2 losango,Andreas Bergmann,28712,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/959156
+19,sáb 23/01/2010,12:30,Mainz,Hannover,4-4-2 losango,Mirko Slomka,19300,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/959168
+20,sáb 30/01/2010,12:30,Hannover,Nuremberg,4-2-3-1,Mirko Slomka,26722,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/959178
+21,sáb 06/02/2010,12:30,Hoffenheim,Hannover,4-2-3-1,Mirko Slomka,28100,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/959186
+22,sáb 13/02/2010,12:30,Hannover,Werder Bremen,4-2-3-1,Mirko Slomka,44379,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/959190
+23,sáb 20/02/2010,12:30,Dortmund,Hannover,4-3-1-2,Mirko Slomka,73700,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/959202
+24,dom 28/02/2010,11:30,Hannover,Wolfsburg,4-4-2 losango,Mirko Slomka,34312,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/959209
+25,sáb 06/03/2010,11:30,Freiburg,Hannover,4-4-2 losango,Mirko Slomka,19100,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/959219
+26,sáb 13/03/2010,11:30,Hannover,Frankfurt,4-4-2 losango,Mirko Slomka,38847,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/959226
+27,sáb 20/03/2010,11:30,Stuttgart,Hannover,4-4-2 losango,Mirko Slomka,41000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/959238
+28,sáb 27/03/2010,11:30,Hannover,Colônia,4-4-2 losango,Mirko Slomka,43218,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/959247
+29,dom 04/04/2010,12:30,Hamburgo,Hannover,4-1-4-1,Mirko Slomka,57000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/959252
+30,sáb 10/04/2010,10:30,Hannover,Schalke,4-4-2 losango,Mirko Slomka,49000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/959263
+31,sáb 17/04/2010,13:30,Bayern,Hannover,4-5-1 plano,Mirko Slomka,69000,7:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/959273
+32,sáb 24/04/2010,10:30,Leverkusen,Hannover,4-2-3-1,Mirko Slomka,30210,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/959280
+33,sáb 01/05/2010,10:30,Hannover,M'gladbach,4-2-3-1,Mirko Slomka,49000,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/959291
+34,sáb 08/05/2010,10:30,Bochum,Hannover,4-2-3-1,Mirko Slomka,30748,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/959299

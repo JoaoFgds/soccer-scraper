@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 17/08/2003,12:05,Liverpool,Chelsea,4-4-2 losango,Gérard Houllier,44082,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/461
+2,dom 24/08/2003,10:00,Aston Villa,Liverpool,4-1-3-2,Gérard Houllier,42573,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/673
+3,qua 27/08/2003,16:00,Liverpool,Tottenham,4-1-3-2,Gérard Houllier,43778,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/869
+4,sáb 30/08/2003,08:30,Everton,Liverpool,4-1-3-2,Gérard Houllier,40216,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1032
+5,sáb 13/09/2003,11:00,Blackburn,Liverpool,4-1-3-2,Gérard Houllier,30074,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1237
+6,sáb 20/09/2003,11:00,Liverpool,Leicester,4-1-3-2,Gérard Houllier,44094,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1439
+7,dom 28/09/2003,10:00,Charlton,Liverpool,4-4-2 duplo 6,Gérard Houllier,26508,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1666
+8,sáb 04/10/2003,08:30,Liverpool,Arsenal,4-4-2 duplo 6,Gérard Houllier,44374,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1834
+9,sáb 18/10/2003,11:00,FC Portsmouth,Liverpool,4-4-2 duplo 6,Gérard Houllier,20123,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2055
+10,sáb 25/10/2003,09:30,Liverpool,Leeds,4-4-2 duplo 6,Gérard Houllier,43599,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2250
+11,dom 02/11/2003,12:00,Fulham,Liverpool,4-4-2 losango,Gérard Houllier,17682,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2457
+12,dom 09/11/2003,11:45,Liverpool,Man Utd,4-4-2,Gérard Houllier,44159,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2670
+13,sáb 22/11/2003,13:00,Middlesbrough,Liverpool,4-4-2 duplo 6,Gérard Houllier,35100,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2853
+14,dom 30/11/2003,13:00,Liverpool,Birmingham,4-4-2 duplo 6,Gérard Houllier,42683,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3072
+15,sáb 06/12/2003,10:30,Newcastle,Liverpool,4-3-3 ofensivo,Gérard Houllier,52151,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3247
+16,sáb 13/12/2003,13:00,Liverpool,Southampton,4-4-2 duplo 6,Gérard Houllier,41762,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3451
+17,qua 21/01/2004,17:45,Wolves,Liverpool,4-3-1-2,Gérard Houllier,29380,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3695
+18,sex 26/12/2003,13:00,Liverpool,Bolton,4-4-2 duplo 6,Gérard Houllier,42987,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3821
+19,dom 28/12/2003,13:00,Man City,Liverpool,4-4-2 duplo 6,Gérard Houllier,47201,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3993
+20,qua 07/01/2004,18:00,Chelsea,Liverpool,4-3-3 ofensivo,Gérard Houllier,41420,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4157
+21,sáb 10/01/2004,13:00,Liverpool,Aston Villa,4-4-2 duplo 6,Gérard Houllier,43771,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4349
+22,sáb 17/01/2004,13:00,Tottenham,Liverpool,4-4-2 duplo 6,Gérard Houllier,36104,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4507
+23,sáb 31/01/2004,13:00,Liverpool,Everton,4-2-3-1,Gérard Houllier,44056,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4717
+24,sáb 07/02/2004,13:00,Bolton,Liverpool,4-4-2 duplo 6,Gérard Houllier,27552,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4917
+25,qua 11/02/2004,18:00,Liverpool,Man City,4-1-4-1,Gérard Houllier,43257,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5124
+26,qua 17/03/2004,17:00,Liverpool,FC Portsmouth,4-4-2 duplo 6,Gérard Houllier,34663,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5363
+27,dom 29/02/2004,09:00,Leeds,Liverpool,4-4-2 duplo 6,Gérard Houllier,39932,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5532
+28,dom 14/03/2004,13:05,Southampton,Liverpool,4-4-2 duplo 6,Gérard Houllier,32056,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5750
+29,sáb 20/03/2004,12:00,Liverpool,Wolves,4-4-2 duplo 6,Gérard Houllier,43795,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5942
+30,dom 28/03/2004,11:00,Leicester,Liverpool,4-4-2 duplo 6,Gérard Houllier,32013,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6166
+31,dom 04/04/2004,11:00,Liverpool,Blackburn,4-4-2 duplo 6,Gérard Houllier,41559,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6375
+32,sex 09/04/2004,08:30,Arsenal,Liverpool,4-1-3-2,Gérard Houllier,38119,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6559
+33,seg 12/04/2004,11:00,Liverpool,Charlton,4-4-2 duplo 6,Gérard Houllier,40003,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6762
+34,sáb 17/04/2004,11:00,Liverpool,Fulham,4-4-1-1,Gérard Houllier,42042,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6972
+35,sáb 24/04/2004,11:00,Man Utd,Liverpool,4-4-2 duplo 6,Gérard Houllier,67647,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7176
+36,dom 02/05/2004,12:05,Liverpool,Middlesbrough,4-4-1-1,Gérard Houllier,42031,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7230
+37,sáb 08/05/2004,13:35,Birmingham,Liverpool,4-4-2 duplo 6,Gérard Houllier,29553,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7275
+38,sáb 15/05/2004,11:00,Liverpool,Newcastle,4-4-2 duplo 6,Gérard Houllier,44172,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7319

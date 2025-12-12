@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 09/09/1990,11:00,Atalanta,Bari,?,Pierluigi Frosio,18639,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216674
+2,dom 16/09/1990,11:00,Juventus,Atalanta,?,Pierluigi Frosio,46230,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216684
+3,dom 23/09/1990,11:00,Atalanta,Cagliari,?,Pierluigi Frosio,18626,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216689
+4,dom 30/09/1990,11:00,Florenz,Atalanta,?,Pierluigi Frosio,26903,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216694
+5,dom 07/10/1990,11:00,Atalanta,Inter,?,Pierluigi Frosio,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216709
+6,dom 21/10/1990,11:30,Sampdoria,Atalanta,?,Pierluigi Frosio,26658,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216713
+7,dom 28/10/1990,11:30,Lecce,Atalanta,?,Pierluigi Frosio,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216729
+8,dom 11/11/1990,11:30,Atalanta,Milan,?,Pierluigi Frosio,29229,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216731
+9,dom 18/11/1990,11:30,Lazio,Atalanta,?,Pierluigi Frosio,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216744
+10,dom 25/11/1990,11:30,Atalanta,AC Pisa 1909,?,Pierluigi Frosio,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216755
+11,dom 02/12/1990,11:30,Bologna,Atalanta,?,Pierluigi Frosio,17143,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216763
+12,dom 09/12/1990,11:30,Atalanta,Napoli,?,Pierluigi Frosio,15078,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216772
+13,dom 16/12/1990,11:30,AC Parma,Atalanta,?,Pierluigi Frosio,16433,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216778
+14,dom 30/12/1990,11:30,Atalanta,Roma,?,Pierluigi Frosio,17000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216790
+15,dom 06/01/1991,11:30,Atalanta,Cesena,?,Pierluigi Frosio,14500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216799
+16,dom 13/01/1991,11:30,Genoa,Atalanta,?,Pierluigi Frosio,22844,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216806
+17,dom 20/01/1991,11:30,Atalanta,Torino,?,Pierluigi Frosio,17030,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216818
+18,dom 27/01/1991,11:30,Bari,Atalanta,?,Pierluigi Frosio,23918,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216826
+19,dom 03/02/1991,11:30,Atalanta,Juventus,?,Bruno Giorgi,30868,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216836
+20,dom 10/02/1991,12:00,Cagliari,Atalanta,?,Bruno Giorgi,18785,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216843
+21,dom 17/02/1991,11:00,Atalanta,Florenz,?,Bruno Giorgi,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216854
+22,dom 24/02/1991,11:00,Inter,Atalanta,?,Bruno Giorgi,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216864
+23,dom 03/03/1991,11:00,Atalanta,Sampdoria,?,Bruno Giorgi,19130,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216872
+24,dom 10/03/1991,11:00,Atalanta,Lecce,?,Bruno Giorgi,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216880
+25,dom 17/03/1991,11:00,Milan,Atalanta,?,Bruno Giorgi,76739,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216891
+26,dom 24/03/1991,11:00,Atalanta,Lazio,?,Bruno Giorgi,,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216898
+27,sáb 30/03/1991,11:00,AC Pisa 1909,Atalanta,?,Bruno Giorgi,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216902
+28,dom 07/04/1991,11:00,Atalanta,Bologna,?,Bruno Giorgi,,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216914
+29,dom 14/04/1991,11:00,Napoli,Atalanta,?,Bruno Giorgi,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216922
+30,dom 21/04/1991,11:00,Atalanta,AC Parma,?,Bruno Giorgi,28200,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216934
+31,dom 05/05/1991,11:00,Roma,Atalanta,?,Bruno Giorgi,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216938
+32,dom 12/05/1991,11:00,Cesena,Atalanta,?,Bruno Giorgi,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216951
+33,dom 19/05/1991,11:00,Atalanta,Genoa,?,Bruno Giorgi,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216962
+34,dom 26/05/1991,11:00,Torino,Atalanta,?,Bruno Giorgi,34532,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216972

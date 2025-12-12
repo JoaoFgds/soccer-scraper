@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 26/07/2021,15:45,Dijon,FC Sochaux,4-2-3-1,David Linarès,7641,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589625
+2,sáb 31/07/2021,10:00,Nîmes Olympique,Dijon,4-2-3-1,David Linarès,2375,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589636
+3,sáb 07/08/2021,14:00,Dijon,Rodez AF,4-2-3-1,David Linarès,6004,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589707
+4,sáb 14/08/2021,14:00,Quevilly Rouen,Dijon,3-4-1-2,David Linarès,816,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589719
+5,sáb 21/08/2021,10:00,Dijon,Toulouse,4-4-2 duplo 6,David Linarès,6756,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589727
+6,sáb 28/08/2021,14:00,Pau FC,Dijon,3-4-1-2,Patrice Garande,2263,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589906
+7,sáb 11/09/2021,14:00,Dijon,SC Bastia,4-4-2,Patrice Garande,7249,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589915
+8,sáb 18/09/2021,14:00,Dijon,USL Dunkerque,4-2-3-1,Patrice Garande,7000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589922
+9,ter 21/09/2021,15:00,SM Caen,Dijon,3-4-1-2,Patrice Garande,8391,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589935
+10,sex 24/09/2021,16:00,Dijon,Valenciennes,4-2-3-1,Patrice Garande,7118,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589944
+11,sáb 02/10/2021,14:00,Le Havre,Dijon,3-5-2,Patrice Garande,5096,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589966
+12,sáb 16/10/2021,14:00,Dijon,Amiens SC,4-4-2 losango,Patrice Garande,7445,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589971
+13,sáb 23/10/2021,14:00,Grenoble,Dijon,4-3-1-2,Patrice Garande,5714,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589985
+14,sáb 30/10/2021,14:00,Dijon,Paris FC,4-2-3-1,Patrice Garande,7660,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589993
+15,sáb 06/11/2021,15:00,AC Ajaccio,Dijon,4-2-3-1,Patrice Garande,2532,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590001
+16,seg 22/11/2021,16:45,Dijon,Auxerre,4-2-3-1,Patrice Garande,11301,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590013
+17,sex 03/12/2021,17:00,Guingamp,Dijon,4-3-3 ofensivo,Patrice Garande,7388,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590025
+18,sáb 11/12/2021,15:00,Dijon,Chamois Niort,4-2-3-1,Patrice Garande,6820,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590034
+19,ter 21/12/2021,16:45,AS Nancy,Dijon,4-2-3-1,Patrice Garande,5000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590044
+20,sáb 08/01/2022,15:00,Dijon,Nîmes Olympique,4-2-3-1,Patrice Garande,5400,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590054
+21,sáb 15/01/2022,15:00,Rodez AF,Dijon,4-2-3-1,Patrice Garande,1165,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590124
+22,sáb 22/01/2022,15:00,Dijon,Quevilly Rouen,4-2-3-1,Patrice Garande,3093,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590138
+23,sáb 05/02/2022,11:00,Toulouse,Dijon,3-5-2 plano,Patrice Garande,11000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590164
+24,sáb 12/02/2022,15:00,Dijon,Pau FC,4-2-3-1,Patrice Garande,6465,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590169
+25,sáb 19/02/2022,15:00,SC Bastia,Dijon,4-4-1-1,Patrice Garande,8500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590175
+26,sáb 26/02/2022,15:00,USL Dunkerque,Dijon,4-2-3-1,Patrice Garande,2200,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590189
+27,sáb 05/03/2022,15:00,Dijon,SM Caen,4-4-2 losango,Patrice Garande,4500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590196
+28,sáb 12/03/2022,15:00,Valenciennes,Dijon,4-1-3-2,Patrice Garande,5119,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590214
+29,ter 15/03/2022,15:00,Dijon,Le Havre,5-3-2,Patrice Garande,4500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590216
+30,sáb 19/03/2022,15:00,Amiens SC,Dijon,5-3-2,Patrice Garande,6032,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590226
+31,sáb 02/04/2022,14:00,Dijon,Grenoble,5-3-2,Patrice Garande,4500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590237
+32,seg 11/04/2022,15:45,Paris FC,Dijon,5-3-2,Patrice Garande,3034,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590252
+33,sáb 16/04/2022,14:00,Dijon,AC Ajaccio,3-5-2 plano,Patrice Garande,7466,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590257
+34,ter 19/04/2022,15:00,Auxerre,Dijon,3-5-2,Patrice Garande,13614,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590267
+35,sex 22/04/2022,16:00,Dijon,Guingamp,4-2-3-1,Patrice Garande,5000,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590277
+36,sáb 30/04/2022,14:00,Chamois Niort,Dijon,4-2-3-1,Patrice Garande,1989,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590290
+37,sáb 07/05/2022,14:00,Dijon,AS Nancy,4-3-3 ofensivo,Patrice Garande,7500,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590298
+38,sáb 14/05/2022,14:00,FC Sochaux,Dijon,3-4-1-2,Patrice Garande,19019,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3590314

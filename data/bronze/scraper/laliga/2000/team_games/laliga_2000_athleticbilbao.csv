@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 09/09/2000,16:00,Deportivo,Athletic Club,?,Txetxu Rojo,30000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089933
+2,sáb 16/09/2000,16:00,Athletic Club,Barcelona,?,Txetxu Rojo,38000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089977
+3,sáb 23/09/2000,16:00,Real Madrid,Athletic Club,4-4-2,Txetxu Rojo,65000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089988
+4,dom 01/10/2000,14:00,Athletic Club,Mallorca,?,Txetxu Rojo,30000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091347
+5,dom 15/10/2000,17:00,Numância,Athletic Club,?,Txetxu Rojo,10000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091360
+6,dom 22/10/2000,16:00,Athletic Club,Las Palmas,?,Txetxu Rojo,32000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091373
+7,sáb 28/10/2000,16:15,Villarreal,Athletic Club,?,Txetxu Rojo,16000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091375
+8,qua 01/11/2000,14:00,Athletic Club,Zaragoza,?,Txetxu Rojo,34000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091386
+9,dom 05/11/2000,15:00,Osasuna,Athletic Club,?,Txetxu Rojo,17445,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091400
+10,dom 12/11/2000,14:00,Athletic Club,Celta de Vigo,?,Txetxu Rojo,34000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091405
+11,dom 19/11/2000,14:00,Espanyol,Athletic Club,?,Txetxu Rojo,23000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091463
+12,dom 26/11/2000,14:00,Athletic Club,Rayo Vallecano,?,Txetxu Rojo,32000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091469
+13,dom 03/12/2000,14:00,Alavés,Athletic Club,?,Txetxu Rojo,11940,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091483
+14,dom 10/12/2000,14:00,Athletic Club,Real Oviedo,?,Txetxu Rojo,32000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091491
+15,dom 17/12/2000,14:00,Valladolid,Athletic Club,?,Txetxu Rojo,13000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091506
+16,qua 20/12/2000,18:00,Athletic Club,Valencia,?,Txetxu Rojo,38000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091517
+17,sáb 06/01/2001,18:00,Málaga CF,Athletic Club,?,Txetxu Rojo,12000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091518
+18,dom 14/01/2001,14:00,Real Sociedad,Athletic Club,?,Txetxu Rojo,28300,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091532
+19,dom 21/01/2001,14:00,Athletic Club,Rac. Santander,?,Txetxu Rojo,35000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091540
+20,sáb 27/01/2001,18:00,Athletic Club,Deportivo,?,Txetxu Rojo,32000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091549
+21,sáb 03/02/2001,18:00,Barcelona,Athletic Club,?,Txetxu Rojo,90000,7:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091558
+22,sáb 10/02/2001,17:15,Athletic Club,Real Madrid,?,Txetxu Rojo,39000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091573
+23,dom 18/02/2001,16:00,Mallorca,Athletic Club,?,Txetxu Rojo,15000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091591
+24,dom 25/02/2001,13:00,Athletic Club,Numância,?,Txetxu Rojo,35000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091594
+25,dom 04/03/2001,14:00,Las Palmas,Athletic Club,?,Txetxu Rojo,17582,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091610
+26,sáb 10/03/2001,17:00,Athletic Club,Villarreal,?,Txetxu Rojo,34000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091623
+27,dom 18/03/2001,13:00,Zaragoza,Athletic Club,?,Txetxu Rojo,23000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091650
+28,dom 01/04/2001,15:00,Athletic Club,Osasuna,?,Txetxu Rojo,38000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091661
+29,dom 08/04/2001,13:00,Celta de Vigo,Athletic Club,?,Txetxu Rojo,25000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091664
+30,dom 15/04/2001,13:00,Athletic Club,Espanyol,?,Txetxu Rojo,22000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091676
+31,dom 22/04/2001,13:00,Rayo Vallecano,Athletic Club,?,Txetxu Rojo,7000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091686
+32,dom 29/04/2001,13:00,Athletic Club,Alavés,?,Txetxu Rojo,35000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091695
+33,dom 06/05/2001,13:00,Real Oviedo,Athletic Club,?,Txetxu Rojo,28000,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091709
+34,dom 13/05/2001,13:00,Athletic Club,Valladolid,?,Txetxu Rojo,30000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091716
+35,sex 18/05/2001,16:00,Valencia,Athletic Club,?,Txetxu Rojo,45000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091724
+36,dom 27/05/2001,13:00,Athletic Club,Málaga CF,?,Txetxu Rojo,20000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091736
+37,dom 10/06/2001,16:00,Athletic Club,Real Sociedad,?,Txetxu Rojo,33000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091746
+38,sáb 16/06/2001,16:00,Rac. Santander,Athletic Club,?,Txetxu Rojo,8000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091755

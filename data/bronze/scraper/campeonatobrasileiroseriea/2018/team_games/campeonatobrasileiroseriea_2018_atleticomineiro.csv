@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 15/04/2018,16:00,Vasco da Gama,Atlético-MG,4-2-3-1,Thiago Larghi,7197,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3011405
+2,dom 22/04/2018,16:00,Atlético-MG,Vitória,4-2-3-1,Thiago Larghi,10423,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3034135
+3,dom 29/04/2018,16:00,Atlético-MG,Corinthians,4-2-3-1,Thiago Larghi,19825,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3034144
+4,sáb 05/05/2018,19:00,São Paulo,Atlético-MG,4-2-3-1,Thiago Larghi,31976,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036816
+5,dom 13/05/2018,16:00,Atlético-PR,Atlético-MG,4-2-3-1,Thiago Larghi,8400,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036830
+6,sáb 19/05/2018,16:00,Atlético-MG,Cruzeiro,4-2-3-1,Thiago Larghi,15384,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036835
+7,sáb 26/05/2018,21:00,Atlético-MG,Flamengo,4-2-3-1,Thiago Larghi,15797,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036847
+8,qua 30/05/2018,19:30,Sport,Atlético-MG,4-2-3-1,Thiago Larghi,15605,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036857
+9,sáb 02/06/2018,16:00,Atlético-MG,Chapecoense,4-2-3-1,Thiago Larghi,10298,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036865
+10,qui 07/06/2018,21:00,América-MG,Atlético-MG,4-2-3-1,Thiago Larghi,7776,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036884
+11,dom 10/06/2018,16:00,Atlético-MG,Fluminense,4-2-3-1,Thiago Larghi,14476,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036885
+12,qua 13/06/2018,21:45,Atlético-MG,Ceará,4-2-3-1,Thiago Larghi,22119,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036895
+13,qua 18/07/2018,21:45,Grêmio,Atlético-MG,4-2-3-1,Thiago Larghi,22063,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036914
+14,dom 22/07/2018,16:00,Palmeiras,Atlético-MG,4-2-3-1,Thiago Larghi,29246,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036923
+15,qua 25/07/2018,21:00,Atlético-MG,Paraná,4-1-4-1,Thiago Larghi,17244,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036925
+16,seg 30/07/2018,20:00,Bahia,Atlético-MG,4-2-3-1,Thiago Larghi,15993,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036938
+17,seg 06/08/2018,20:00,Atlético-MG,Internacional,4-2-3-1,Thiago Larghi,22035,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036945
+18,dom 12/08/2018,11:00,Atlético-MG,Santos,4-2-3-1,Thiago Larghi,22062,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036955
+19,dom 19/08/2018,16:00,Botafogo,Atlético-MG,4-2-3-1,Thiago Larghi,8470,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036970
+20,qui 23/08/2018,20:00,Atlético-MG,Vasco da Gama,4-2-3-1,Thiago Larghi,22452,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036975
+21,dom 26/08/2018,16:00,Vitória,Atlético-MG,4-2-3-1,Thiago Larghi,6412,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3036988
+22,sáb 01/09/2018,21:00,Corinthians,Atlético-MG,4-2-3-1,Thiago Larghi,29609,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037003
+23,qua 05/09/2018,21:45,Atlético-MG,São Paulo,4-2-3-1,Thiago Larghi,20852,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037005
+24,seg 10/09/2018,20:00,Atlético-MG,Atlético-PR,4-2-3-1,Thiago Larghi,20922,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037015
+25,dom 16/09/2018,16:00,Cruzeiro,Atlético-MG,4-2-3-1,Thiago Larghi,24999,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037025
+26,dom 23/09/2018,16:00,Flamengo,Atlético-MG,4-2-3-1,Thiago Larghi,39462,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037040
+27,dom 30/09/2018,16:00,Atlético-MG,Sport,4-2-3-1,Thiago Larghi,22654,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037045
+28,sáb 06/10/2018,16:00,Chapecoense,Atlético-MG,4-2-3-1,Thiago Larghi,10074,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037057
+29,dom 14/10/2018,19:00,Atlético-MG,América-MG,4-2-3-1,Thiago Larghi,20526,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037065
+30,dom 21/10/2018,16:00,Fluminense,Atlético-MG,4-3-3 defensivo,Levir Culpi,4762,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037079
+31,seg 29/10/2018,20:00,Ceará,Atlético-MG,4-2-3-1,Levir Culpi,37394,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037091
+32,sáb 03/11/2018,17:00,Atlético-MG,Grêmio,4-2-3-1,Levir Culpi,16758,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037095
+33,dom 11/11/2018,17:00,Atlético-MG,Palmeiras,4-2-3-1,Levir Culpi,20488,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037105
+34,qua 14/11/2018,21:00,Paraná,Atlético-MG,4-2-3-1,Levir Culpi,1610,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037116
+35,sáb 17/11/2018,21:00,Atlético-MG,Bahia,4-2-3-1,Levir Culpi,17313,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037125
+36,qua 21/11/2018,19:30,Internacional,Atlético-MG,4-2-3-1,Levir Culpi,25067,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037144
+37,sáb 24/11/2018,20:00,Santos,Atlético-MG,4-2-3-1,Levir Culpi,4591,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037152
+38,sáb 01/12/2018,19:00,Atlético-MG,Botafogo,4-2-3-1,Levir Culpi,22365,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3037155

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 20/09/2020,08:30,Greuther Fürth,VfL Osnabrück,4-3-1-2,Stefan Leitl,3000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413185
+2,sex 25/09/2020,13:30,Erzgebirge Aue,Greuther Fürth,5-3-2,Stefan Leitl,999,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413192
+3,dom 04/10/2020,08:30,Würzb. Kickers,Greuther Fürth,5-3-2,Stefan Leitl,1877,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413206
+4,sáb 17/10/2020,08:00,Greuther Fürth,Hamburgo,4-3-1-2,Stefan Leitl,3325,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413210
+5,sáb 24/10/2020,08:00,Holstein Kiel,Greuther Fürth,4-3-1-2,Stefan Leitl,2239,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413222
+6,dom 01/11/2020,09:30,Greuther Fürth,Hannover,4-3-1-2,Stefan Leitl,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413234
+7,sáb 07/11/2020,09:00,Bochum,Greuther Fürth,4-3-1-2,Stefan Leitl,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413246
+8,dom 22/11/2020,09:30,Greuther Fürth,J. Regensburg,4-3-1-2,Stefan Leitl,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413256
+9,dom 29/11/2020,09:30,Nuremberg,Greuther Fürth,4-3-1-2,Stefan Leitl,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413269
+10,sáb 05/12/2020,09:00,Greuther Fürth,Heidenheim,4-3-1-2,Stefan Leitl,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413283
+11,sex 11/12/2020,14:30,Sandhausen,Greuther Fürth,5-3-2,Stefan Leitl,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413291
+12,ter 15/12/2020,14:30,Greuther Fürth,Darmstadt 98,4-3-1-2,Stefan Leitl,x,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413312
+13,sáb 19/12/2020,09:00,E. Braunschweig,Greuther Fürth,5-3-2,Stefan Leitl,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413323
+14,dom 03/01/2021,09:30,Greuther Fürth,St. Pauli,4-3-1-2,Stefan Leitl,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413330
+15,sex 08/01/2021,14:30,Karlsruher,Greuther Fürth,4-3-1-2,Stefan Leitl,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413348
+16,sex 15/01/2021,14:30,Greuther Fürth,Paderborn,4-3-1-2,Stefan Leitl,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413356
+17,sex 22/01/2021,14:30,Düsseldorf,Greuther Fürth,4-3-1-2,Stefan Leitl,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413369
+18,ter 26/01/2021,16:30,VfL Osnabrück,Greuther Fürth,4-3-1-2,Stefan Leitl,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413382
+19,sex 29/01/2021,14:30,Greuther Fürth,Erzgebirge Aue,4-3-1-2,Stefan Leitl,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413400
+20,dom 07/02/2021,09:30,Greuther Fürth,Würzb. Kickers,4-3-1-2,Stefan Leitl,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413409
+21,sáb 13/02/2021,09:00,Hamburgo,Greuther Fürth,4-3-1-2,Stefan Leitl,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413424
+22,seg 22/02/2021,16:30,Greuther Fürth,Holstein Kiel,4-2-3-1,Stefan Leitl,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413444
+23,sáb 27/02/2021,09:00,Hannover,Greuther Fürth,4-3-1-2,Stefan Leitl,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413461
+24,sáb 06/03/2021,09:00,Greuther Fürth,Bochum,5-3-2,Stefan Leitl,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413481
+25,qua 17/03/2021,14:30,J. Regensburg,Greuther Fürth,4-3-1-2,Stefan Leitl,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413473
+26,dom 21/03/2021,09:30,Greuther Fürth,Nuremberg,4-3-1-2,Stefan Leitl,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413454
+27,sáb 03/04/2021,08:00,Heidenheim,Greuther Fürth,4-3-1-2,Stefan Leitl,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413432
+28,qua 28/04/2021,13:30,Greuther Fürth,Sandhausen,5-3-2,Stefan Leitl,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413419
+29,sex 16/04/2021,13:30,Darmstadt 98,Greuther Fürth,4-3-1-2,Stefan Leitl,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413387
+30,ter 20/04/2021,13:30,Greuther Fürth,E. Braunschweig,4-3-1-2,Stefan Leitl,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413366
+31,dom 25/04/2021,08:30,St. Pauli,Greuther Fürth,4-3-1-2,Stefan Leitl,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413338
+32,sáb 08/05/2021,08:00,Greuther Fürth,Karlsruher,4-3-1-2,Stefan Leitl,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413303
+33,dom 16/05/2021,10:30,Paderborn,Greuther Fürth,4-3-1-2,Stefan Leitl,x,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413271
+34,dom 23/05/2021,10:30,Greuther Fürth,Düsseldorf,4-3-1-2,Stefan Leitl,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413235

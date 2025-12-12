@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 24/05/2013,21:50,Paysandu,ASA,4-4-2 duplo 6,Ricardo Silva,1047,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2317587
+2,ter 28/05/2013,21:50,ASA,Palmeiras,4-4-2 duplo 6,Ricardo Silva,11519,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2317817
+3,sex 31/05/2013,19:30,Joinville,ASA,4-3-1-2,Ricardo Silva,8021,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2318545
+4,ter 04/06/2013,19:30,Boa Esporte,ASA,4-3-1-2,Ricardo Silva,773,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2318676
+5,sex 07/06/2013,19:30,ASA,Icasa,4-3-1-2,Ricardo Silva,2496,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2319120
+6,ter 11/06/2013,21:50,Paraná,ASA,4-3-1-2,Ricardo Silva,3041,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2319682
+7,sex 05/07/2013,21:00,ASA,Chapecoense,4-3-2-1,Ricardo Silva,2237,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2319934
+8,sáb 13/07/2013,21:00,Ceará,ASA,4-3-2-1,Leandro Campos,5617,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2327534
+9,sáb 20/07/2013,21:00,ASA,Atlético-GO,5-3-2,Leandro Campos,2023,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2328641
+10,ter 23/07/2013,21:00,ASA,Bragantino,4-4-2 duplo 6,Leandro Campos,2009,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343769
+11,ter 30/07/2013,19:30,América-RN,ASA,4-3-2-1,Leandro Campos,906,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343775
+12,sex 02/08/2013,21:50,Oeste,ASA,5-3-2,Leandro Campos,1548,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343776
+13,ter 06/08/2013,19:30,ASA,Sport,5-3-2,Leandro Campos,5537,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343811
+14,sex 09/08/2013,19:30,ASA,América-MG,5-3-2,Leandro Campos,3163,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343795
+15,ter 13/08/2013,19:30,Avaí,ASA,5-3-2,Leandro Campos,2640,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343837
+16,sáb 17/08/2013,21:00,Guaratinguetá,ASA,4-3-1-2,Leandro Campos,772,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343815
+17,ter 20/08/2013,21:00,ASA,ABC,4-3-1-2,Leandro Campos,3291,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343817
+18,ter 27/08/2013,21:00,ASA,Figueirense,4-3-1-2,Leandro Campos,4448,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343844
+19,ter 03/09/2013,21:50,São Caetano,ASA,4-3-1-2,Leandro Campos,205,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343858
+20,sex 06/09/2013,21:50,ASA,Paysandu,4-3-1-2,Leandro Campos,3233,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343854
+21,ter 10/09/2013,19:30,Palmeiras,ASA,4-3-1-2,Leandro Campos,8699,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343886
+22,sex 13/09/2013,19:30,ASA,Joinville,4-3-1-2,Leandro Campos,4188,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343888
+23,ter 17/09/2013,21:50,ASA,Boa Esporte,4-3-3 ofensivo,Leandro Campos,3709,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343895
+24,sex 20/09/2013,19:30,Icasa,ASA,4-3-1-2,Ricardo Silva,2554,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343911
+25,sáb 28/09/2013,21:00,ASA,Paraná,4-4-2 duplo 6,Ricardo Silva,4481,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343909
+26,ter 01/10/2013,19:30,Chapecoense,ASA,5-3-2,Ricardo Silva,6130,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343941
+27,sáb 05/10/2013,16:20,ASA,Ceará,4-3-1-2,Heron Ferreira,5465,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343936
+28,ter 08/10/2013,19:30,Atlético-GO,ASA,4-4-2 duplo 6,Heron Ferreira,862,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343957
+29,sáb 12/10/2013,21:00,Bragantino,ASA,5-4-1 plano,Heron Ferreira,829,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343948
+30,ter 15/10/2013,19:30,ASA,América-RN,5-3-2,Heron Ferreira,2963,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343973
+31,sex 18/10/2013,19:30,ASA,Oeste,4-4-2 duplo 6,Heron Ferreira,2176,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343983
+32,sáb 26/10/2013,16:20,Sport,ASA,4-4-2 duplo 6,Heron Ferreira,22099,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343987
+33,sex 01/11/2013,21:00,América-MG,ASA,4-4-2 duplo 6,Heron Ferreira,6756,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344007
+34,sex 08/11/2013,21:00,ASA,Avaí,4-4-2 duplo 6,Heron Ferreira,1307,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2343996
+35,ter 12/11/2013,21:50,ASA,Guaratinguetá,4-4-2 duplo 6,Heron Ferreira,1517,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344013
+36,sex 15/11/2013,19:30,ABC,ASA,5-3-2,Heron Ferreira,7768,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344028
+37,sex 22/11/2013,19:30,Figueirense,ASA,4-2-3-1,Heron Ferreira,6989,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344019
+38,sex 29/11/2013,19:30,ASA,São Caetano,4-4-2 duplo 6,Heron Ferreira,936,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2344048

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 19/08/2000,11:00,Leeds,Everton,?,Walter Smith,40010,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1041976
+2,qua 23/08/2000,12:00,Everton,Charlton,?,Walter Smith,36300,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1041986
+3,sáb 26/08/2000,11:00,Everton,Derby,?,Walter Smith,34840,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1041993
+4,ter 05/09/2000,15:45,Tottenham,Everton,4-4-2,Walter Smith,35316,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042004
+5,sáb 09/09/2000,11:00,Middlesbrough,Everton,?,Walter Smith,30885,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042016
+6,sáb 16/09/2000,11:00,Everton,Man Utd,?,Walter Smith,38541,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042026
+7,dom 24/09/2000,12:00,Leicester,Everton,?,Walter Smith,18084,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042068
+8,sáb 30/09/2000,11:00,Everton,Ipswich,?,Walter Smith,23597,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042069
+9,sáb 14/10/2000,12:00,Everton,Southampton,?,Walter Smith,29491,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042079
+10,sáb 21/10/2000,12:00,Newcastle,Everton,?,Walter Smith,51625,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042091
+11,dom 29/10/2000,13:00,Liverpool,Everton,?,Walter Smith,44718,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042108
+12,dom 05/11/2000,14:00,Everton,Aston Villa,?,Walter Smith,27670,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042118
+13,sáb 11/11/2000,13:00,Bradford,Everton,?,Walter Smith,17276,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042122
+14,sáb 18/11/2000,13:00,Everton,Arsenal,4-4-2 duplo 6,Walter Smith,33106,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042136
+15,sáb 25/11/2000,13:00,Everton,Chelsea,?,Walter Smith,33515,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042175
+16,seg 04/12/2000,18:00,AFC Sunderland,Everton,?,Walter Smith,46372,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042191
+17,sáb 09/12/2000,13:00,Man City,Everton,?,Walter Smith,34516,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042196
+18,sáb 16/12/2000,13:00,Everton,West Ham,?,Walter Smith,31260,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042204
+19,sáb 23/12/2000,13:00,Charlton,Everton,?,Walter Smith,20043,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042220
+20,ter 26/12/2000,13:00,Everton,Coventry City,?,Walter Smith,35704,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042226
+21,qua 07/02/2001,18:00,Everton,Leeds,?,Walter Smith,34224,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042237
+22,seg 01/01/2001,13:00,Derby,Everton,?,Walter Smith,27358,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042244
+23,sáb 13/01/2001,13:00,Everton,Tottenham,?,Walter Smith,32290,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042254
+24,sáb 20/01/2001,13:00,Coventry City,Everton,4-4-2,Walter Smith,19174,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042262
+25,qua 31/01/2001,18:00,Everton,Middlesbrough,?,Walter Smith,34244,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042279
+26,sáb 03/02/2001,13:00,Man Utd,Everton,?,Walter Smith,67528,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1042287
+27,sáb 10/02/2001,13:00,Everton,Leicester,?,Walter Smith,30409,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043198
+28,sáb 24/02/2001,12:00,Ipswich,Everton,?,Walter Smith,22220,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043208
+29,sáb 03/03/2001,12:00,Everton,Newcastle,?,Walter Smith,35779,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043220
+30,sáb 17/03/2001,12:00,Southampton,Everton,?,Walter Smith,15251,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043228
+31,sáb 31/03/2001,11:00,West Ham,Everton,?,Walter Smith,26044,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043236
+32,dom 08/04/2001,11:00,Everton,Man City,?,Walter Smith,36561,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043247
+33,sáb 14/04/2001,11:00,Aston Villa,Everton,?,Walter Smith,31272,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043262
+34,seg 16/04/2001,14:00,Everton,Liverpool,4-4-2 duplo 6,Walter Smith,40260,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043268
+35,sáb 21/04/2001,11:00,Arsenal,Everton,4-4-1-1,Walter Smith,38029,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043275
+36,sáb 28/04/2001,11:00,Everton,Bradford,?,Walter Smith,34256,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043291
+37,sáb 05/05/2001,11:00,Chelsea,Everton,?,Walter Smith,35196,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043296
+38,sáb 19/05/2001,11:00,Everton,AFC Sunderland,?,Walter Smith,37444,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043306

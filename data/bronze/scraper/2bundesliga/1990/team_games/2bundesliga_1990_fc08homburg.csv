@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 28/07/1990,10:00,FC 08 Homburg,RW Essen,3-5-2 ofensivo,Gerd Schwickert,4000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978517
+2,ter 07/08/1990,14:30,Darmstadt 98,FC 08 Homburg,?,Gerd Schwickert,4200,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978529
+3,ter 11/09/1990,15:00,FC 08 Homburg,Saarbrücken,3-5-2 ofensivo,Gerd Schwickert,10000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978539
+4,ter 14/08/1990,14:30,BW Berlin,FC 08 Homburg,?,Gerd Schwickert,1100,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978548
+5,qua 22/08/1990,14:30,FC 08 Homburg,E. Braunschweig,?,Gerd Schwickert,3000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978560
+6,dom 26/08/1990,10:00,VfL Osnabrück,FC 08 Homburg,3-5-2 ofensivo,Gerd Schwickert,4000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978815
+7,sáb 01/09/1990,10:00,FC 08 Homburg,TSV Havelse,3-5-2 ofensivo,Gerd Schwickert,2000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978824
+8,ter 04/09/1990,14:30,Schweinfurt 05,FC 08 Homburg,?,Gerd Schwickert,4400,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978830
+9,sex 07/09/1990,14:00,FC 08 Homburg,MSV Duisburg,3-5-2 ofensivo,Gerd Schwickert,2000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978882
+10,sáb 15/09/1990,10:00,W. Mannheim,FC 08 Homburg,3-5-2 ofensivo,Gerd Schwickert,6000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978895
+11,ter 25/09/1990,14:30,FC 08 Homburg,Schalke,3-5-2 ofensivo,Gerd Schwickert,8500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978911
+12,dom 30/09/1990,11:00,Stuttg. Kickers,FC 08 Homburg,?,Gerd Schwickert,4900,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978921
+13,dom 07/10/1990,11:00,SV Meppen,FC 08 Homburg,?,Gerd Schwickert,3500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978930
+14,dom 14/10/1990,11:00,FC 08 Homburg,Pr. Münster,?,Gerd Schwickert,2500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978956
+15,sáb 20/10/1990,11:00,VfB Oldenburg,FC 08 Homburg,?,Gerd Schwickert,8000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978964
+16,dom 28/10/1990,12:00,FC 08 Homburg,Hannover,?,Gerd Schwickert,1500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978978
+17,sáb 10/11/1990,12:00,Freiburg,FC 08 Homburg,3-1-4-2,Gerd Schwickert,4400,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978984
+18,sex 16/11/1990,16:00,FC 08 Homburg,Mainz,3-5-2 ofensivo,Gerd Schwickert,2000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/978991
+19,sex 23/11/1990,16:00,Fortuna Köln,FC 08 Homburg,?,Gerd Schwickert,500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979002
+20,sáb 08/12/1990,12:00,RW Essen,FC 08 Homburg,?,Gerd Schwickert,4200,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979014
+21,ter 05/03/1991,15:30,FC 08 Homburg,Darmstadt 98,3-5-2 ofensivo,Gerd Schwickert,2200,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979028
+22,qui 28/03/1991,16:15,Saarbrücken,FC 08 Homburg,3-1-4-2,Gerd Schwickert,9300,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979039
+23,sáb 02/03/1991,11:00,FC 08 Homburg,BW Berlin,?,Gerd Schwickert,2000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979042
+24,dom 10/03/1991,11:00,E. Braunschweig,FC 08 Homburg,?,Gerd Schwickert,6000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979060
+25,sáb 16/03/1991,11:00,FC 08 Homburg,VfL Osnabrück,?,Gerd Schwickert,2200,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979065
+26,dom 24/03/1991,11:00,TSV Havelse,FC 08 Homburg,?,Gerd Schwickert,900,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979079
+27,ter 02/04/1991,14:30,FC 08 Homburg,Schweinfurt 05,?,Gerd Schwickert,1200,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979085
+28,sáb 06/04/1991,10:00,MSV Duisburg,FC 08 Homburg,?,Gerd Schwickert,10000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979094
+29,sáb 13/04/1991,10:00,FC 08 Homburg,W. Mannheim,?,Gerd Schwickert,3000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979107
+30,qua 17/04/1991,14:30,Schalke,FC 08 Homburg,?,Gerd Schwickert,24200,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979121
+31,sáb 20/04/1991,10:00,FC 08 Homburg,Stuttg. Kickers,?,Gerd Schwickert,2500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979127
+32,sáb 04/05/1991,10:00,FC 08 Homburg,SV Meppen,?,Gerd Schwickert,1100,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979139
+33,dom 12/05/1991,10:00,Pr. Münster,FC 08 Homburg,?,Gerd Schwickert,9000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979152
+34,dom 19/05/1991,10:00,FC 08 Homburg,VfB Oldenburg,?,Gerd Schwickert,1000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979160
+35,sáb 25/05/1991,10:00,Hannover,FC 08 Homburg,?,Gerd Schwickert,3900,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979171
+36,sex 31/05/1991,14:00,FC 08 Homburg,Freiburg,?,Gerd Schwickert,1100,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979173
+37,dom 09/06/1991,10:00,Mainz,FC 08 Homburg,?,Gerd Schwickert,2500,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979184
+38,dom 16/06/1991,10:00,FC 08 Homburg,Fortuna Köln,?,Gerd Schwickert,1000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/979195

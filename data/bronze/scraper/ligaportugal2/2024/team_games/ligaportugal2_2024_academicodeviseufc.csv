@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 10/08/2024,14:00,Académico FC,Chaves,4-1-3-2,Rui Ferreira,2100,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397014
+2,dom 18/08/2024,10:00,Feirense,Académico FC,4-1-3-2,Rui Ferreira,1802,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396975
+3,dom 25/08/2024,07:00,Académico FC,FC Porto B,4-4-2 duplo 6,Rui Ferreira,2363,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397010
+4,sex 30/08/2024,14:00,Alverca,Académico FC,4-1-3-2,Rui Ferreira,626,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397000
+5,sáb 14/09/2024,10:00,Académico FC,Leiria,4-4-2 duplo 6,Rui Ferreira,2398,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396992
+6,sáb 28/09/2024,16:30,CD Tondela,Académico FC,4-1-3-2,Rui Ferreira,2863,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396981
+7,sáb 05/10/2024,07:00,Felgueiras,Académico FC,3-4-3 plano,Rui Ferreira,1102,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396958
+8,dom 13/10/2024,11:30,Académico FC,Marítimo,3-4-3 plano,Rui Ferreira,1678,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397028
+9,sáb 26/10/2024,07:00,Penafiel,Académico FC,4-4-2 duplo 6,Rui Ferreira,741,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397042
+10,dom 03/11/2024,08:00,Académico FC,Benfica B,4-4-2 duplo 6,Rui Ferreira,1943,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397037
+11,sáb 09/11/2024,12:30,Mafra,Académico FC,4-4-2 duplo 6,Rui Ferreira,411,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397061
+12,sex 29/11/2024,15:00,Académico FC,Leixões,4-4-2 duplo 6,Rui Ferreira,1033,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397091
+13,sáb 07/12/2024,11:00,Torreense,Académico FC,4-4-2 duplo 6,Rui Ferreira,536,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397102
+14,seg 16/12/2024,15:00,Académico FC,UD Oliveirense,4-4-2 duplo 6,Rui Ferreira,1021,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397073
+15,sáb 21/12/2024,11:00,Portimonense,Académico FC,4-3-3 ofensivo,Rui Ferreira,693,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397052
+16,dom 12/01/2025,08:00,Académico FC,Vizela,4-4-2 duplo 6,Sérgio Vieira,1718,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397127
+17,dom 05/01/2025,15:00,Paços Ferreira,Académico FC,4-2-3-1,Rui Ferreira,866,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397080
+18,sex 17/01/2025,17:15,Chaves,Académico FC,4-2-3-1,Sérgio Vieira,699,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397098
+19,sex 24/01/2025,15:00,Académico FC,Feirense,3-4-2-1,Sérgio Vieira,1482,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397119
+20,sáb 01/02/2025,12:30,FC Porto B,Académico FC,3-4-2-1,Sérgio Vieira,479,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397170
+21,dom 09/02/2025,11:00,Académico FC,Alverca,3-4-2-1,Sérgio Vieira,1402,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397135
+22,seg 17/02/2025,15:00,Leiria,Académico FC,3-4-2-1,Sérgio Vieira,2207,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397152
+23,dom 23/02/2025,12:30,Académico FC,CD Tondela,3-4-3 plano,Sérgio Vieira,5145,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397197
+24,sáb 01/03/2025,08:00,Académico FC,Felgueiras,3-4-3 plano,Sérgio Vieira,1108,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397138
+25,dom 09/03/2025,11:00,Marítimo,Académico FC,3-4-3 plano,Sérgio Vieira,4976,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397181
+26,sáb 15/03/2025,08:00,Académico FC,Penafiel,3-4-3 plano,Sérgio Vieira,1266,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397184
+27,seg 31/03/2025,14:00,Benfica B,Académico FC,3-4-3 plano,Sérgio Vieira,455,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397206
+28,dom 06/04/2025,10:00,Académico FC,Mafra,3-4-3 plano,Sérgio Vieira,1008,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397223
+29,sáb 12/04/2025,07:00,Leixões,Académico FC,3-4-3 plano,Sérgio Vieira,718,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397251
+30,sáb 19/04/2025,10:00,Académico FC,Torreense,3-4-3 plano,Sérgio Vieira,648,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397237
+31,sex 25/04/2025,11:30,UD Oliveirense,Académico FC,3-4-3 plano,Sérgio Vieira,926,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397233
+32,sáb 03/05/2025,07:00,Académico FC,Portimonense,3-4-3 plano,Sérgio Vieira,521,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397156
+33,dom 11/05/2025,10:00,Vizela,Académico FC,3-4-3 plano,Sérgio Vieira,3756,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397262
+34,sáb 17/05/2025,10:00,Académico FC,Paços Ferreira,3-4-3 plano,Sérgio Vieira,776,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4397215

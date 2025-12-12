@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 30/08/2009,12:00,Castellón,Hércules CF,?,David Amaral,4779,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/955790
+2,sáb 05/09/2009,13:00,Recr. Huelva,Castellón,?,David Amaral,10615,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/957739
+3,sáb 12/09/2009,13:00,Castellón,Albacete,?,David Amaral,4199,3:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/957750
+4,sáb 19/09/2009,13:00,FC Cartagena,Castellón,?,David Amaral,9000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/957761
+5,sáb 26/09/2009,13:00,Castellón,Rayo Vallecano,?,David Amaral,4009,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/957773
+6,sáb 03/10/2009,13:00,Real Unión,Castellón,?,David Amaral,3500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/957777
+7,sáb 10/10/2009,15:00,Girona,Castellón,?,David Amaral,4300,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/957796
+8,sáb 17/10/2009,11:00,Castellón,Betis,?,Tintín Márquez,4907,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/957807
+9,sáb 24/10/2009,14:00,Villarreal CF B,Castellón,?,Tintín Márquez,5000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/957817
+10,sáb 31/10/2009,15:00,Castellón,Cádiz CF,?,Tintín Márquez,4262,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/957821
+11,sáb 07/11/2009,15:00,Celta de Vigo,Castellón,?,Tintín Márquez,7196,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/957838
+12,sáb 14/11/2009,15:00,Castellón,Elche,?,Tintín Márquez,7373,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/957849
+13,sáb 21/11/2009,15:00,Las Palmas,Castellón,?,Tintín Márquez,11190,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/957875
+14,dom 29/11/2009,14:00,Castellón,Real Murcia,?,Tintín Márquez,3589,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/957886
+15,dom 06/12/2009,14:00,Gimnàstic,Castellón,?,Tintín Márquez,5000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/957896
+16,sáb 12/12/2009,13:00,Castellón,Real Sociedad,?,Tintín Márquez,4688,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/957907
+17,dom 20/12/2009,14:00,SD Huesca,Castellón,?,Tintín Márquez,3000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/957917
+18,sáb 02/01/2010,13:00,Castellón,Numância,?,Tintín Márquez,3496,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/957933
+19,qua 20/01/2010,17:30,UD Salamanca,Castellón,?,Tintín Márquez,5175,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/957937
+20,sáb 16/01/2010,15:00,Castellón,Levante,?,Tintín Márquez,3906,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/957949
+21,dom 24/01/2010,14:00,Córdoba,Castellón,?,Tintín Márquez,11000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/957959
+22,sáb 30/01/2010,13:00,Hércules CF,Castellón,?,Tintín Márquez,12000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/957971
+23,dom 07/02/2010,14:00,Castellón,Recr. Huelva,?,Tintín Márquez,5921,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/957986
+24,sáb 13/02/2010,15:00,Albacete,Castellón,?,Tintín Márquez,2020,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/957997
+25,sáb 20/02/2010,15:00,Castellón,FC Cartagena,?,Tintín Márquez,5563,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958008
+26,sex 26/02/2010,17:00,Rayo Vallecano,Castellón,?,Tintín Márquez,10000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958020
+27,sáb 06/03/2010,16:00,Castellón,Real Unión,?,Tintín Márquez,4515,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958024
+28,sáb 13/03/2010,16:00,Castellón,Girona,?,Tintín Márquez,3318,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958107
+29,seg 22/03/2010,17:00,Betis,Castellón,?,Tintín Márquez,38000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958118
+30,sáb 27/03/2010,14:00,Castellón,Villarreal CF B,?,Tintín Márquez,3866,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958128
+31,dom 04/04/2010,12:00,Cádiz CF,Castellón,?,Tintín Márquez,8000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958153
+32,dom 11/04/2010,12:00,Castellón,Celta de Vigo,?,Asier Garitano,3000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958173
+33,dom 18/04/2010,12:00,Elche,Castellón,?,Asier Garitano,8904,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958184
+34,sáb 24/04/2010,13:00,Castellón,Las Palmas,?,Asier Garitano,2241,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958194
+35,dom 02/05/2010,12:00,Real Murcia,Castellón,?,Asier Garitano,8000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958205
+36,sex 07/05/2010,16:00,Castellón,Gimnàstic,?,Asier Garitano,1989,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958215
+37,sex 14/05/2010,16:00,Real Sociedad,Castellón,?,Asier Garitano,23000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958253
+38,sáb 22/05/2010,13:00,Castellón,SD Huesca,?,Asier Garitano,2500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958271
+39,dom 30/05/2010,14:00,Numância,Castellón,?,Asier Garitano,2000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958295
+40,sáb 05/06/2010,11:00,Castellón,UD Salamanca,?,Asier Garitano,900,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958316
+41,dom 13/06/2010,13:00,Levante,Castellón,?,Asier Garitano,18172,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958328
+42,sáb 19/06/2010,13:00,Castellón,Córdoba,?,Asier Garitano,600,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/958338

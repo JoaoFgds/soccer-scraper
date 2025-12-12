@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 10/08/2019,17:30,Benfica,Paços Ferreira,4-4-2 duplo 6,Bruno Lage,62956,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211333
+2,sáb 17/08/2019,15:00,B SAD,Benfica,4-4-2 duplo 6,Bruno Lage,17821,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211340
+3,sáb 24/08/2019,15:00,Benfica,FC Porto,4-4-2 duplo 6,Bruno Lage,62735,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211375
+4,dom 01/09/2019,17:00,Braga,Benfica,4-4-2 duplo 6,Bruno Lage,15499,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211387
+5,sáb 14/09/2019,15:00,Benfica,Gil Vicente,4-4-2 duplo 6,Bruno Lage,54706,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211395
+6,sáb 21/09/2019,16:30,Moreirense,Benfica,4-4-2 duplo 6,Bruno Lage,4220,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211426
+7,sáb 28/09/2019,15:00,Benfica,Vitória FC,4-4-2 duplo 6,Bruno Lage,53115,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211433
+8,dom 27/10/2019,12:00,CD Tondela,Benfica,4-4-1-1,Bruno Lage,4705,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211450
+9,qua 30/10/2019,17:15,Benfica,Portimonense,4-4-2 duplo 6,Bruno Lage,42037,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211458
+10,sáb 02/11/2019,15:00,Benfica,Rio Ave,4-4-2 duplo 6,Bruno Lage,53579,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211464
+11,sáb 09/11/2019,15:00,Santa Clara,Benfica,4-4-2 duplo 6,Bruno Lage,8309,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211472
+12,sáb 30/11/2019,15:00,Benfica,Marítimo,4-4-2 duplo 6,Bruno Lage,52772,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211483
+13,sex 06/12/2019,17:30,Boavista,Benfica,4-4-1-1,Bruno Lage,18044,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211496
+14,sáb 14/12/2019,15:00,Benfica,Famalicão,4-4-2 duplo 6,Bruno Lage,51721,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211503
+15,sáb 04/01/2020,17:30,Vit. Guimarães,Benfica,4-4-2 duplo 6,Bruno Lage,27291,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211582
+16,sex 10/01/2020,16:00,Benfica,CD Aves,4-4-1-1,Bruno Lage,50760,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211783
+17,sex 17/01/2020,18:15,Sporting,Benfica,4-4-2 duplo 6,Bruno Lage,41017,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211789
+18,dom 26/01/2020,14:30,Paços Ferreira,Benfica,4-4-1-1,Bruno Lage,9146,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211799
+19,sex 31/01/2020,16:00,Benfica,B SAD,4-4-1-1,Bruno Lage,45134,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211814
+20,sáb 08/02/2020,17:30,FC Porto,Benfica,4-1-4-1,Bruno Lage,49227,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211821
+21,sáb 15/02/2020,15:00,Benfica,Braga,4-4-2 duplo 6,Bruno Lage,59371,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211835
+22,seg 24/02/2020,16:30,Gil Vicente,Benfica,4-2-3-1,Bruno Lage,11986,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211842
+23,seg 02/03/2020,17:45,Benfica,Moreirense,4-2-3-1,Bruno Lage,40861,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211853
+24,sáb 07/03/2020,15:00,Vitória FC,Benfica,4-4-2 duplo 6,Bruno Lage,9152,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212601
+25,qui 04/06/2020,15:15,Benfica,CD Tondela,4-2-3-1,Bruno Lage,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212613
+26,qua 10/06/2020,15:15,Portimonense,Benfica,4-4-2 duplo 6,Bruno Lage,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212620
+27,qua 17/06/2020,17:15,Rio Ave,Benfica,4-4-2 duplo 6,Bruno Lage,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212627
+28,ter 23/06/2020,15:15,Benfica,Santa Clara,4-2-3-1,Bruno Lage,x,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212642
+29,seg 29/06/2020,14:00,Marítimo,Benfica,4-4-2 duplo 6,Bruno Lage,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212645
+30,sáb 04/07/2020,17:15,Benfica,Boavista,4-4-1-1,Nélson Veríssimo,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212660
+31,qui 09/07/2020,17:30,Famalicão,Benfica,4-2-3-1,Nélson Veríssimo,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212666
+32,ter 14/07/2020,17:30,Benfica,Vit. Guimarães,4-4-1-1,Nélson Veríssimo,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212677
+33,ter 21/07/2020,17:15,CD Aves,Benfica,4-4-2 duplo 6,Nélson Veríssimo,x,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212687
+34,sáb 25/07/2020,17:15,Benfica,Sporting,4-2-3-1,Nélson Veríssimo,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212694

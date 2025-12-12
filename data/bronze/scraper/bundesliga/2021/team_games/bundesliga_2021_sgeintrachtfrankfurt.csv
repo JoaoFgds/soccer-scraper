@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 14/08/2021,13:30,Dortmund,Frankfurt,3-4-2-1,Oliver Glasner,25000,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588140
+2,sáb 21/08/2021,10:30,Frankfurt,Augsburg,4-2-3-1,Oliver Glasner,22000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588150
+3,sáb 28/08/2021,10:30,Arm. Bielefeld,Frankfurt,4-2-3-1,Oliver Glasner,13750,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588173
+4,dom 12/09/2021,10:30,Frankfurt,Stuttgart,4-2-3-1,Oliver Glasner,25000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588176
+5,dom 19/09/2021,14:30,Wolfsburg,Frankfurt,4-2-3-1,Oliver Glasner,9266,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588195
+6,sáb 25/09/2021,10:30,Frankfurt,Colônia,4-4-2 duplo 6,Oliver Glasner,24000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588212
+7,dom 03/10/2021,12:30,Bayern,Frankfurt,5-4-1 plano,Oliver Glasner,25000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588220
+8,sáb 16/10/2021,10:30,Frankfurt,Hertha Berlim,3-4-1-2,Oliver Glasner,32000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588239
+9,dom 24/10/2021,14:30,Bochum,Frankfurt,3-4-1-2,Oliver Glasner,19510,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588264
+10,sáb 30/10/2021,13:30,Frankfurt,Leipzig,5-3-2,Oliver Glasner,31000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588275
+11,dom 07/11/2021,15:30,Greuther Fürth,Frankfurt,3-4-2-1,Oliver Glasner,10244,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588291
+12,dom 21/11/2021,11:30,Freiburg,Frankfurt,3-4-2-1,Oliver Glasner,32500,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588305
+13,dom 28/11/2021,11:30,Frankfurt,Union Berlim,3-4-2-1,Oliver Glasner,24000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588322
+14,sáb 04/12/2021,11:30,Hoffenheim,Frankfurt,3-4-2-1,Oliver Glasner,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588342
+15,dom 12/12/2021,13:30,Frankfurt,Leverkusen,3-4-2-1,Oliver Glasner,15000,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588349
+16,qua 15/12/2021,14:30,M'gladbach,Frankfurt,3-4-2-1,Oliver Glasner,10028,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588377
+17,sáb 18/12/2021,11:30,Frankfurt,Mainz,3-4-2-1,Oliver Glasner,15000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588384
+18,sáb 08/01/2022,14:30,Frankfurt,Dortmund,3-4-2-1,Oliver Glasner,250,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588402
+19,dom 16/01/2022,11:30,Augsburg,Frankfurt,3-4-2-1,Oliver Glasner,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588424
+20,sex 21/01/2022,16:30,Frankfurt,Arm. Bielefeld,3-4-2-1,Oliver Glasner,1000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588437
+21,sáb 05/02/2022,11:30,Stuttgart,Frankfurt,3-5-2 plano,Oliver Glasner,10000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588457
+22,sáb 12/02/2022,11:30,Frankfurt,Wolfsburg,3-4-2-1,Oliver Glasner,10000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588464
+23,sáb 19/02/2022,14:30,Colônia,Frankfurt,3-5-2 plano,Oliver Glasner,10000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588489
+24,sáb 26/02/2022,14:30,Frankfurt,Bayern,5-4-1 plano,Oliver Glasner,25000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588490
+25,sáb 05/03/2022,11:30,Hertha Berlim,Frankfurt,3-4-2-1,Oliver Glasner,25000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588513
+26,dom 13/03/2022,13:30,Frankfurt,Bochum,3-4-2-1,Oliver Glasner,24000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588527
+27,dom 20/03/2022,11:30,Leipzig,Frankfurt,3-5-2 plano,Oliver Glasner,43058,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588545
+28,sáb 02/04/2022,10:30,Frankfurt,Greuther Fürth,3-4-2-1,Oliver Glasner,50500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588563
+29,dom 10/04/2022,12:30,Frankfurt,Freiburg,3-4-2-1,Oliver Glasner,47000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588583
+30,dom 17/04/2022,12:30,Union Berlim,Frankfurt,3-4-2-1,Oliver Glasner,22012,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588591
+31,sáb 23/04/2022,10:30,Frankfurt,Hoffenheim,3-4-2-1,Oliver Glasner,50500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588610
+32,seg 02/05/2022,15:30,Leverkusen,Frankfurt,3-4-1-2,Oliver Glasner,26492,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588626
+33,dom 08/05/2022,10:30,Frankfurt,M'gladbach,3-4-1-2,Oliver Glasner,51500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588651
+34,sáb 14/05/2022,10:30,Mainz,Frankfurt,3-4-2-1,Oliver Glasner,33305,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588673

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 13/08/2021,15:30,M'gladbach,Bayern,4-2-3-1,Julian Nagelsmann,22925,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588139
+2,dom 22/08/2021,12:30,Bayern,Colônia,4-2-3-1,Julian Nagelsmann,20000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588148
+3,sáb 28/08/2021,13:30,Bayern,Hertha Berlim,4-2-3-1,Julian Nagelsmann,25000,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588166
+4,sáb 11/09/2021,13:30,Leipzig,Bayern,4-2-3-1,Julian Nagelsmann,34000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588175
+5,sáb 18/09/2021,10:30,Bayern,Bochum,4-2-3-1,Julian Nagelsmann,25000,7:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588193
+6,sex 24/09/2021,15:30,Greuther Fürth,Bayern,3-4-3 plano,Julian Nagelsmann,11740,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588219
+7,dom 03/10/2021,12:30,Bayern,Frankfurt,4-2-3-1,Julian Nagelsmann,25000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588220
+8,dom 17/10/2021,10:30,Leverkusen,Bayern,4-2-3-1,Julian Nagelsmann,25000,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588240
+9,sáb 23/10/2021,10:30,Bayern,Hoffenheim,3-4-2-1,Julian Nagelsmann,60000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588256
+10,sáb 30/10/2021,10:30,Union Berlim,Bayern,4-2-3-1,Julian Nagelsmann,16509,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588277
+11,sáb 06/11/2021,11:30,Bayern,Freiburg,3-4-2-1,Julian Nagelsmann,75024,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588283
+12,sex 19/11/2021,16:30,Augsburg,Bayern,3-4-2-1,Julian Nagelsmann,26000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588308
+13,sáb 27/11/2021,14:30,Bayern,Arm. Bielefeld,4-2-3-1,Julian Nagelsmann,12000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588319
+14,sáb 04/12/2021,14:30,Dortmund,Bayern,4-2-3-1,Julian Nagelsmann,15000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588337
+15,sáb 11/12/2021,11:30,Bayern,Mainz,3-4-2-1,Julian Nagelsmann,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588346
+16,ter 14/12/2021,14:30,Stuttgart,Bayern,4-2-3-1,Julian Nagelsmann,x,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588378
+17,sex 17/12/2021,16:30,Bayern,Wolfsburg,4-2-3-1,Julian Nagelsmann,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588382
+18,sex 07/01/2022,16:30,Bayern,M'gladbach,4-2-3-1,Julian Nagelsmann,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588400
+19,sáb 15/01/2022,11:30,Colônia,Bayern,4-2-3-1,Julian Nagelsmann,1000,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588426
+20,dom 23/01/2022,13:30,Hertha Berlim,Bayern,3-4-2-1,Julian Nagelsmann,3000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588442
+21,sáb 05/02/2022,14:30,Bayern,Leipzig,3-4-2-1,Julian Nagelsmann,10000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588454
+22,sáb 12/02/2022,11:30,Bochum,Bayern,4-1-4-1,Julian Nagelsmann,8500,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588470
+23,dom 20/02/2022,11:30,Bayern,Greuther Fürth,4-2-3-1,Julian Nagelsmann,25000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588481
+24,sáb 26/02/2022,14:30,Frankfurt,Bayern,3-4-2-1,Julian Nagelsmann,25000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588490
+25,sáb 05/03/2022,11:30,Bayern,Leverkusen,4-2-3-1,Julian Nagelsmann,25000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588508
+26,sáb 12/03/2022,11:30,Hoffenheim,Bayern,3-4-2-1,Julian Nagelsmann,25600,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588532
+27,sáb 19/03/2022,14:30,Bayern,Union Berlim,4-2-3-1,Julian Nagelsmann,35000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588544
+28,sáb 02/04/2022,10:30,Freiburg,Bayern,4-2-3-1,Julian Nagelsmann,34700,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588567
+29,sáb 09/04/2022,10:30,Bayern,Augsburg,4-2-3-1,Julian Nagelsmann,75000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588580
+30,dom 17/04/2022,10:30,Arm. Bielefeld,Bayern,3-4-2-1,Julian Nagelsmann,26419,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588597
+31,sáb 23/04/2022,13:30,Bayern,Dortmund,4-2-3-1,Julian Nagelsmann,75000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588607
+32,sáb 30/04/2022,10:30,Mainz,Bayern,3-5-2 plano,Julian Nagelsmann,33305,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588631
+33,dom 08/05/2022,12:30,Bayern,Stuttgart,4-2-3-1,Julian Nagelsmann,75024,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588649
+34,sáb 14/05/2022,10:30,Wolfsburg,Bayern,4-2-3-1,Julian Nagelsmann,30000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3588668

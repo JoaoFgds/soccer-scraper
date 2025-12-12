@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 28/07/2019,10:30,J. Regensburg,Bochum,4-4-2 losango,Robin Dutt,10268,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203437
+2,sex 02/08/2019,13:30,Bochum,Arm. Bielefeld,4-2-3-1,Robin Dutt,21708,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203744
+3,sex 16/08/2019,13:30,Hamburgo,Bochum,4-2-3-1,Robin Dutt,41737,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203749
+4,sáb 24/08/2019,08:00,Bochum,Wehen Wiesbaden,4-2-3-1,Robin Dutt,14189,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203770
+5,seg 02/09/2019,15:30,Stuttgart,Bochum,4-2-3-1,Heiko Butscher,48624,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203780
+6,dom 15/09/2019,08:30,Bochum,Dynamo Dresden,4-2-3-1,Thomas Reis,16859,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203801
+7,sáb 21/09/2019,08:00,Sandhausen,Bochum,4-4-2 duplo 6,Thomas Reis,5339,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203825
+8,sáb 28/09/2019,08:00,Bochum,Darmstadt 98,4-2-3-1,Thomas Reis,14321,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203839
+9,dom 06/10/2019,08:30,Heidenheim,Bochum,4-2-3-1,Thomas Reis,10350,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203847
+10,dom 20/10/2019,08:30,Bochum,Karlsruher,4-2-3-1,Thomas Reis,14954,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203858
+11,sex 25/10/2019,13:30,Holstein Kiel,Bochum,4-2-3-1,Thomas Reis,12359,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203865
+12,seg 04/11/2019,16:30,Bochum,Nuremberg,4-2-3-1,Thomas Reis,16046,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203879
+13,sex 08/11/2019,14:30,St. Pauli,Bochum,4-2-3-1,Thomas Reis,29546,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203886
+14,sex 22/11/2019,14:30,Bochum,VfL Osnabrück,4-2-3-1,Thomas Reis,20768,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203897
+15,sáb 30/11/2019,09:00,Bochum,Erzgebirge Aue,4-2-3-1,Thomas Reis,14794,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203905
+16,sáb 07/12/2019,09:00,Greuther Fürth,Bochum,4-2-3-1,Thomas Reis,8875,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203924
+17,sex 13/12/2019,14:30,Bochum,Hannover,4-4-2 duplo 6,Thomas Reis,16519,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203932
+18,dom 22/12/2019,09:30,Bochum,J. Regensburg,4-4-2 duplo 6,Thomas Reis,18679,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203949
+19,ter 28/01/2020,14:30,Arm. Bielefeld,Bochum,4-3-1-2,Thomas Reis,19685,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203977
+20,seg 03/02/2020,16:30,Bochum,Hamburgo,4-3-3 ofensivo,Thomas Reis,24421,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203996
+21,dom 09/02/2020,09:30,Wehen Wiesbaden,Bochum,4-2-3-1,Thomas Reis,5373,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204014
+22,seg 17/02/2020,16:30,Bochum,Stuttgart,4-2-3-1,Thomas Reis,18090,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204020
+23,sáb 22/02/2020,09:00,Dynamo Dresden,Bochum,4-3-3 ofensivo,Thomas Reis,26279,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204043
+24,dom 01/03/2020,09:30,Bochum,Sandhausen,4-1-4-1,Thomas Reis,14000,4:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204059
+25,sáb 07/03/2020,09:00,Darmstadt 98,Bochum,4-1-4-1,Thomas Reis,15125,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204075
+26,sáb 16/05/2020,08:00,Bochum,Heidenheim,4-2-3-1,Thomas Reis,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204090
+27,dom 24/05/2020,08:30,Karlsruher,Bochum,4-2-3-1,Thomas Reis,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204109
+28,qua 27/05/2020,13:30,Bochum,Holstein Kiel,4-2-3-1,Thomas Reis,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204116
+29,sáb 30/05/2020,08:00,Nuremberg,Bochum,4-2-3-1,Thomas Reis,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204127
+30,sex 05/06/2020,13:30,Bochum,St. Pauli,4-2-3-1,Thomas Reis,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204148
+31,sáb 13/06/2020,08:00,VfL Osnabrück,Bochum,4-2-3-1,Thomas Reis,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204166
+32,qua 17/06/2020,13:30,Erzgebirge Aue,Bochum,4-2-3-1,Thomas Reis,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204175
+33,dom 21/06/2020,10:30,Bochum,Greuther Fürth,4-2-3-1,Thomas Reis,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204181
+34,dom 28/06/2020,10:30,Hannover,Bochum,4-2-3-1,Thomas Reis,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3204187

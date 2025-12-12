@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 12/08/2018,14:00,Covilhã,Académico FC,3-4-1-2,Manuel Cajuda,475,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070432
+2,dom 19/08/2018,13:00,Académico FC,UD Oliveirense,3-4-1-2,Manuel Cajuda,1363,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070438
+3,dom 26/08/2018,13:00,Académico FC,Arouca,3-4-1-2,Manuel Cajuda,300,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070447
+4,sáb 01/09/2018,13:00,FC Porto B,Académico FC,3-4-1-2,Manuel Cajuda,377,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070478
+5,dom 23/09/2018,12:00,Académico FC,Famalicão,4-3-3 defensivo,Manuel Cajuda,956,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070493
+6,dom 07/10/2018,12:00,Braga B,Académico FC,4-3-3 ofensivo,Manuel Cajuda,255,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070506
+7,sáb 27/10/2018,11:00,Académico FC,Leixões,3-4-3 plano,Manuel Cajuda,697,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070512
+8,dom 04/11/2018,15:00,Académica,Académico FC,3-5-2 plano,Manuel Cajuda,2088,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070525
+9,sáb 10/11/2018,13:00,Académico FC,Mafra,3-5-2 plano,Manuel Cajuda,470,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070528
+10,sáb 01/12/2018,13:00,Varzim,Académico FC,3-5-2 plano,Manuel Cajuda,883,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070537
+11,sáb 08/12/2018,13:00,Académico FC,Cova da Piedade,3-5-2 plano,Manuel Cajuda,315,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070548
+12,dom 16/12/2018,13:00,Vitória SC B,Académico FC,4-2-3-1,Manuel Cajuda,779,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070559
+13,dom 23/12/2018,13:00,Académico FC,Paços Ferreira,3-5-2 plano,Manuel Cajuda,792,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070574
+14,qua 16/01/2019,13:00,Benfica B,Académico FC,5-4-1 plano,Floris Schaap,378,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070586
+15,dom 18/11/2018,13:00,Académico FC,Estoril,3-5-2 plano,Manuel Cajuda,560,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070592
+16,qua 09/01/2019,13:00,Penafiel,Académico FC,3-5-2 plano,Manuel Cajuda,311,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070606
+17,dom 13/01/2019,13:00,Académico FC,Farense,3-4-1-2,Manuel Cajuda,551,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070609
+18,dom 20/01/2019,13:00,Académico FC,Covilhã,3-4-1-2,Floris Schaap,574,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070708
+19,seg 28/01/2019,18:30,UD Oliveirense,Académico FC,4-5-1 plano,Floris Schaap,292,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070766
+20,dom 03/02/2019,13:00,Arouca,Académico FC,5-4-1 plano,Floris Schaap,780,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070776
+21,sáb 09/02/2019,09:00,Académico FC,FC Porto B,4-3-3 ofensivo,João Gabriel,400,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070785
+22,sáb 16/02/2019,15:00,Famalicão,Académico FC,4-3-3 ofensivo,João Gabriel,3725,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070793
+23,dom 24/02/2019,12:00,Académico FC,Braga B,4-4-1-1,João Gabriel,477,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070806
+24,dom 03/03/2019,12:00,Leixões,Académico FC,4-4-1-1,João Gabriel,656,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070813
+25,dom 10/03/2019,12:00,Académico FC,Académica,4-4-1-1,João Gabriel,1225,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070825
+26,sáb 16/03/2019,12:00,Mafra,Académico FC,4-4-1-1,João Gabriel,456,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070829
+27,dom 31/03/2019,12:00,Académico FC,Varzim,4-4-1-1,João Gabriel,882,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070836
+28,sáb 06/04/2019,12:00,Cova da Piedade,Académico FC,4-4-2 duplo 6,João Gabriel,1174,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070847
+29,sáb 13/04/2019,12:00,Académico FC,Vitória SC B,4-3-3 ofensivo,João Gabriel,339,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070862
+30,sáb 20/04/2019,07:00,Paços Ferreira,Académico FC,4-3-3 ofensivo,João Gabriel,4322,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070865
+31,dom 28/04/2019,11:00,Académico FC,Benfica B,4-3-3 ofensivo,João Gabriel,1210,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070879
+32,dom 05/05/2019,12:00,Estoril,Académico FC,4-3-3 ofensivo,João Gabriel,536,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070883
+33,sáb 11/05/2019,12:00,Académico FC,Penafiel,4-3-3 ofensivo,João Gabriel,1199,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070898
+34,dom 19/05/2019,11:00,Farense,Académico FC,4-3-3 ofensivo,Rui Borges,5707,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070900

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 06/08/2017,12:00,Famalicão,Arouca,4-2-3-1,Dito,1790,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897928
+2,dom 13/08/2017,13:00,Penafiel,Famalicão,4-4-1-1,Dito,907,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897940
+3,sáb 19/08/2017,07:15,Famalicão,Benfica B,4-4-2 duplo 6,Dito,1796,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897956
+4,qua 23/08/2017,12:00,Nacional,Famalicão,4-4-2 duplo 6,Dito,1684,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897968
+5,dom 27/08/2017,12:00,Famalicão,UD Oliveirense,4-4-2 duplo 6,Dito,1957,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897975
+6,dom 10/09/2017,12:00,Famalicão,Varzim,4-2-3-1,Dito,2911,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897985
+7,dom 17/09/2017,12:00,Covilhã,Famalicão,4-2-3-1,Dito,391,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897995
+8,qua 27/09/2017,13:00,Famalicão,Braga B,4-2-3-1,Dito,1359,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898018
+9,sáb 30/09/2017,12:00,Real SC,Famalicão,4-3-3 ofensivo,Dito,594,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898025
+10,sáb 21/10/2017,13:00,Famalicão,Académico FC,4-3-3 defensivo,Dito,1996,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898034
+11,sáb 28/10/2017,13:00,Vitória SC B,Famalicão,4-2-3-1,Dito,2132,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898046
+12,dom 12/11/2017,14:00,Famalicão,Cova da Piedade,4-2-3-1,Dito,3125,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2957561
+13,dom 05/11/2017,14:00,Gil Vicente,Famalicão,4-2-3-1,Dito,2018,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898067
+14,sáb 25/11/2017,09:15,Famalicão,Sporting B,4-2-3-1,Dito,1742,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898074
+15,dom 03/12/2017,13:00,Académica,Famalicão,4-2-3-1,Dito,4402,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898081
+16,sáb 09/12/2017,09:15,Famalicão,Santa Clara,4-2-3-1,Dito,1660,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898094
+17,dom 17/12/2017,14:00,CF União,Famalicão,4-2-3-1,Dito,826,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898109
+18,qui 21/12/2017,14:00,Famalicão,FC Porto B,4-3-3 ofensivo,Dito,2874,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898113
+19,sáb 06/01/2018,09:15,Leixões,Famalicão,4-2-3-1,Dito,772,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898129
+20,dom 14/01/2018,13:00,Arouca,Famalicão,4-2-3-1,Dito,900,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898136
+21,dom 21/01/2018,14:00,Famalicão,Penafiel,4-3-3 ofensivo,Dito,1577,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898149
+22,ter 30/01/2018,16:00,Benfica B,Famalicão,4-2-3-1,Vasco Seabra,318,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898156
+23,dom 04/02/2018,14:00,Famalicão,Nacional,4-2-3-1,Vasco Seabra,1410,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898169
+24,dom 11/02/2018,13:00,UD Oliveirense,Famalicão,4-2-3-1,Vasco Seabra,420,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898174
+25,dom 18/02/2018,12:00,Varzim,Famalicão,4-2-3-1,Vasco Seabra,2146,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898183
+26,sáb 24/02/2018,08:15,Famalicão,Covilhã,4-2-3-1,Vasco Seabra,1155,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898193
+27,dom 04/03/2018,12:00,Braga B,Famalicão,4-2-3-1,Vasco Seabra,322,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898208
+28,sáb 10/03/2018,13:00,Famalicão,Real SC,4-2-3-1,Vasco Seabra,1062,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898215
+29,dom 25/03/2018,12:00,Académico FC,Famalicão,4-2-3-1,Vasco Seabra,1355,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898224
+30,sáb 17/03/2018,13:00,Famalicão,Vitória SC B,4-2-3-1,Vasco Seabra,1242,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898236
+31,sáb 31/03/2018,12:00,Cova da Piedade,Famalicão,4-2-3-1,Vasco Seabra,763,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898244
+32,sáb 07/04/2018,12:00,Famalicão,Gil Vicente,4-2-3-1,Vasco Seabra,1463,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898257
+33,qua 11/04/2018,12:00,Sporting B,Famalicão,4-2-3-1,Vasco Seabra,116,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898264
+34,dom 15/04/2018,12:00,Famalicão,Académica,4-2-3-1,Vasco Seabra,1506,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898271
+35,dom 22/04/2018,12:00,Santa Clara,Famalicão,4-2-3-1,Vasco Seabra,3066,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898284
+36,dom 29/04/2018,12:00,Famalicão,CF União,4-2-3-1,Vasco Seabra,1221,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898299
+37,sáb 05/05/2018,12:00,FC Porto B,Famalicão,4-2-3-1,Vasco Seabra,349,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898303
+38,sáb 12/05/2018,07:15,Famalicão,Leixões,4-2-3-1,Vasco Seabra,1044,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898319

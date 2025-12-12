@@ -1,0 +1,29 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 10/08/2019,15:00,Dijon,Saint-Étienne,4-2-3-1,Stéphane Jobard,14334,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195018
+2,sáb 17/08/2019,15:00,Toulouse,Dijon,4-3-3 ofensivo,Stéphane Jobard,10583,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195255
+3,sáb 24/08/2019,15:00,Dijon,Bordeaux,4-3-3 ofensivo,Stéphane Jobard,12471,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199379
+4,sáb 31/08/2019,15:00,Angers,Dijon,3-5-2,Stéphane Jobard,8988,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199387
+5,sáb 14/09/2019,15:00,Dijon,Nîmes Olympique,4-3-3 ofensivo,Stéphane Jobard,11413,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199397
+6,sáb 21/09/2019,15:00,Nice,Dijon,4-2-3-1,Stéphane Jobard,16255,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199416
+7,ter 24/09/2019,14:00,Dijon,Marselha,4-2-3-1,Stéphane Jobard,15061,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199423
+8,sáb 28/09/2019,15:00,Reims,Dijon,4-2-3-1,Stéphane Jobard,11033,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199436
+9,sáb 05/10/2019,15:00,Dijon,Strasbourg,4-2-3-1,Stéphane Jobard,12124,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199438
+10,sáb 19/10/2019,12:30,Lyon,Dijon,4-2-3-1,Stéphane Jobard,48454,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199455
+11,sáb 26/10/2019,15:00,Brest,Dijon,4-2-3-1,Stéphane Jobard,14232,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199460
+12,sex 01/11/2019,16:45,Dijon,PSG,4-4-2 duplo 6,Stéphane Jobard,14849,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199473
+13,sáb 09/11/2019,16:00,Monaco,Dijon,4-3-3 ofensivo,Stéphane Jobard,5223,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199480
+14,sáb 23/11/2019,16:00,Dijon,Rennes,4-1-4-1,Stéphane Jobard,12084,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199496
+15,sáb 30/11/2019,16:00,Lille,Dijon,4-2-3-1,Stéphane Jobard,39574,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199505
+16,qua 04/12/2019,15:00,Dijon,Montpellier,4-2-3-1,Stéphane Jobard,11926,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199511
+17,dom 08/12/2019,13:00,Nantes,Dijon,4-2-3-1,Stéphane Jobard,16001,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199523
+18,sáb 14/12/2019,16:00,Amiens SC,Dijon,4-2-3-1,Stéphane Jobard,10530,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199536
+19,sáb 21/12/2019,16:45,Dijon,FC Metz,4-4-2,Stéphane Jobard,12309,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199539
+20,dom 12/01/2020,13:00,Dijon,Lille,4-2-3-1,Stéphane Jobard,12115,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199555
+21,sáb 25/01/2020,16:00,Montpellier,Dijon,4-2-3-1,Stéphane Jobard,11129,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199561
+22,sáb 01/02/2020,16:00,Dijon,Brest,4-2-3-1,Stéphane Jobard,11212,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199570
+23,qua 05/02/2020,15:00,Nîmes Olympique,Dijon,4-2-3-1,Stéphane Jobard,11705,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199585
+24,sáb 08/02/2020,16:00,Dijon,Nantes,4-2-3-1,Stéphane Jobard,11780,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199594
+25,sáb 15/02/2020,16:00,Bordeaux,Dijon,4-2-3-1,Stéphane Jobard,13701,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199605
+26,sáb 22/02/2020,16:00,Dijon,Monaco,4-2-3-1,Stéphane Jobard,13657,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199623
+27,sáb 29/02/2020,13:30,PSG,Dijon,5-4-1 plano,Stéphane Jobard,47542,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199633
+28,sáb 07/03/2020,16:00,Dijon,Toulouse,4-4-2 duplo 6,Stéphane Jobard,12549,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3199641

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 27/04/2019,21:00,Flamengo,Cruzeiro,4-2-3-1,Mano Menezes,29459,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3173969
+2,qua 01/05/2019,19:15,Cruzeiro,Ceará,4-2-3-1,Mano Menezes,22677,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3180856
+3,dom 05/05/2019,16:00,Cruzeiro,Goiás,4-2-3-1,Mano Menezes,19735,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3180870
+4,dom 12/05/2019,16:00,Internacional,Cruzeiro,4-2-3-1,Mano Menezes,23416,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3180936
+5,sáb 18/05/2019,18:00,Fluminense,Cruzeiro,4-2-3-1,Mano Menezes,11437,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3180942
+6,dom 26/05/2019,19:00,Cruzeiro,Chapecoense,4-1-4-1,Mano Menezes,18039,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3180958
+7,dom 02/06/2019,16:00,São Paulo,Cruzeiro,4-2-3-1,Mano Menezes,8517,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3181106
+8,sáb 08/06/2019,19:00,Cruzeiro,Corinthians,4-2-3-1,Mano Menezes,21370,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3181117
+9,qua 12/06/2019,21:00,Fortaleza,Cruzeiro,4-2-3-1,Mano Menezes,17099,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3181142
+10,dom 14/07/2019,16:00,Cruzeiro,Botafogo,4-3-1-2,Mano Menezes,18012,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3193490
+11,sáb 20/07/2019,17:00,Bahia,Cruzeiro,4-3-1-2,Mano Menezes,19040,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3193506
+12,sáb 27/07/2019,19:00,Cruzeiro,Athletico-PR,4-2-3-1,Mano Menezes,20869,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3193517
+13,dom 04/08/2019,19:00,Atlético-MG,Cruzeiro,4-3-3 defensivo,Mano Menezes,13181,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195266
+14,dom 11/08/2019,16:00,Avaí,Cruzeiro,4-3-3 defensivo,Ricardo Resende,4921,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195282
+15,dom 18/08/2019,16:00,Cruzeiro,Santos,4-3-3 defensivo,Rogério Ceni,36975,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195351
+16,dom 25/08/2019,19:00,CSA,Cruzeiro,4-1-4-1,Rogério Ceni,8715,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3195435
+17,dom 01/09/2019,19:00,Cruzeiro,Vasco da Gama,4-1-4-1,Rogério Ceni,26052,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3197455
+18,dom 08/09/2019,11:00,Cruzeiro,Grêmio,4-1-4-1,Rogério Ceni,14208,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3197469
+19,sáb 14/09/2019,19:00,Palmeiras,Cruzeiro,4-3-3 defensivo,Rogério Ceni,35578,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3197500
+20,sáb 21/09/2019,17:00,Cruzeiro,Flamengo,4-3-3 defensivo,Rogério Ceni,40333,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3255762
+21,qua 25/09/2019,19:30,Ceará,Cruzeiro,4-1-4-1,Rogério Ceni,18595,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3255777
+22,seg 30/09/2019,20:00,Goiás,Cruzeiro,4-3-3 defensivo,Abel Braga,20884,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3260654
+23,sáb 05/10/2019,21:00,Cruzeiro,Internacional,4-3-3 defensivo,Abel Braga,22561,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3260659
+24,qua 09/10/2019,21:30,Cruzeiro,Fluminense,4-3-3 defensivo,Abel Braga,38133,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3265343
+25,dom 13/10/2019,19:00,Chapecoense,Cruzeiro,4-3-3 defensivo,Abel Braga,4399,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3265356
+26,qua 16/10/2019,21:00,Cruzeiro,São Paulo,4-3-3 defensivo,Abel Braga,30969,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3265507
+27,sáb 19/10/2019,19:00,Corinthians,Cruzeiro,4-3-3 defensivo,Abel Braga,31882,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3265515
+28,sáb 26/10/2019,23:00,Cruzeiro,Fortaleza,4-2-3-1,Abel Braga,32268,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3268456
+29,qui 31/10/2019,21:30,Botafogo,Cruzeiro,4-2-3-1,Abel Braga,22412,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3268471
+30,dom 03/11/2019,19:00,Cruzeiro,Bahia,4-2-3-1,Abel Braga,25913,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3272417
+31,ter 05/11/2019,20:00,Athletico-PR,Cruzeiro,4-3-3 defensivo,Abel Braga,13047,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3272424
+32,sáb 09/11/2019,20:00,Cruzeiro,Atlético-MG,4-2-3-1,Abel Braga,43205,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3273305
+33,dom 17/11/2019,20:00,Cruzeiro,Avaí,4-2-3-1,Abel Braga,21217,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3277738
+34,sáb 23/11/2019,21:00,Santos,Cruzeiro,4-1-4-1,Abel Braga,7905,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3277740
+35,qua 27/11/2019,20:00,Cruzeiro,CSA,4-3-3 defensivo,Abel Braga,34290,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3277787
+36,dom 01/12/2019,20:00,Vasco da Gama,Cruzeiro,4-3-3 ofensivo,Adilson Batista,19796,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3277815
+37,qua 04/12/2019,20:00,Grêmio,Cruzeiro,4-1-4-1,Adilson Batista,18306,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3285725
+38,dom 08/12/2019,16:00,Cruzeiro,Palmeiras,4-3-3 ofensivo,Adilson Batista,27229,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3285728

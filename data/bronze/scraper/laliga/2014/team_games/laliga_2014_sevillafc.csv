@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 23/08/2014,16:00,Sevilla,Valencia,4-2-3-1,Unai Emery,29352,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475180
+2,sáb 30/08/2014,18:00,Espanyol,Sevilla,4-2-3-1,Unai Emery,16490,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475191
+3,dom 14/09/2014,14:00,Sevilla,Getafe,4-2-3-1,Unai Emery,34600,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475201
+4,dom 21/09/2014,14:00,Córdoba,Sevilla,4-2-3-1,Unai Emery,17023,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475212
+5,qua 24/09/2014,17:00,Sevilla,Real Sociedad,4-2-3-1,Unai Emery,29456,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475222
+6,sáb 27/09/2014,15:00,Atlético,Sevilla,4-1-4-1,Unai Emery,52000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475233
+7,dom 05/10/2014,07:00,Sevilla,Deportivo,4-2-3-1,Unai Emery,31000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475243
+8,dom 19/10/2014,15:00,Elche,Sevilla,4-2-3-1,Unai Emery,26059,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475254
+9,dom 26/10/2014,16:00,Sevilla,Villarreal,4-4-2 duplo 6,Unai Emery,34500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475264
+10,dom 02/11/2014,09:00,Athletic Club,Sevilla,4-2-3-1,Unai Emery,42000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475275
+11,dom 09/11/2014,09:00,Sevilla,Levante,4-2-3-1,Unai Emery,28500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475285
+12,sáb 22/11/2014,17:00,Barcelona,Sevilla,4-2-3-1,Unai Emery,78283,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475296
+13,dom 30/11/2014,14:00,Sevilla,Granada CF,4-2-3-1,Unai Emery,30347,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475306
+14,dom 07/12/2014,09:00,Rayo Vallecano,Sevilla,4-2-3-1,Unai Emery,11604,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475317
+15,dom 14/12/2014,14:00,Sevilla,Eibar,4-2-3-1,Unai Emery,20000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475327
+16,qua 04/02/2015,17:45,Real Madrid,Sevilla,4-3-3 ofensivo,Unai Emery,67126,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475338
+17,sáb 03/01/2015,15:00,Sevilla,Celta de Vigo,4-2-3-1,Unai Emery,31253,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475348
+18,dom 11/01/2015,09:00,UD Almería,Sevilla,4-1-4-1,Unai Emery,12703,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475359
+19,dom 18/01/2015,18:00,Sevilla,Málaga CF,4-2-3-1,Unai Emery,23719,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475369
+20,dom 25/01/2015,18:00,Valencia,Sevilla,4-2-3-1,Unai Emery,46704,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475370
+21,dom 01/02/2015,16:00,Sevilla,Espanyol,4-1-4-1,Unai Emery,27955,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475381
+22,dom 08/02/2015,14:00,Getafe,Sevilla,4-3-1-2,Unai Emery,6297,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475391
+23,sáb 14/02/2015,13:00,Sevilla,Córdoba,4-1-4-1,Unai Emery,29850,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475402
+24,dom 22/02/2015,08:00,Real Sociedad,Sevilla,4-1-4-1,Unai Emery,21378,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475412
+25,dom 01/03/2015,15:00,Sevilla,Atlético,4-2-3-1,Unai Emery,35984,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475423
+26,sáb 07/03/2015,12:00,Deportivo,Sevilla,4-2-3-1,Unai Emery,21555,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475433
+27,dom 15/03/2015,15:00,Sevilla,Elche,4-2-3-1,Unai Emery,31324,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475444
+28,dom 22/03/2015,13:00,Villarreal,Sevilla,4-5-1,Unai Emery,9788,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475454
+29,sáb 04/04/2015,11:00,Sevilla,Athletic Club,4-2-3-1,Unai Emery,27752,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475465
+30,ter 07/04/2015,17:00,Levante,Sevilla,4-2-3-1,Unai Emery,11484,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475475
+31,sáb 11/04/2015,15:00,Sevilla,Barcelona,4-2-3-1,Unai Emery,40355,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475486
+32,dom 19/04/2015,12:00,Granada CF,Sevilla,4-2-3-1,Unai Emery,18247,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475496
+33,dom 26/04/2015,14:00,Sevilla,Rayo Vallecano,4-2-3-1,Unai Emery,28532,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475507
+34,qua 29/04/2015,15:00,Eibar,Sevilla,4-4-2 duplo 6,Unai Emery,5517,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475517
+35,sáb 02/05/2015,15:00,Sevilla,Real Madrid,4-2-3-1,Unai Emery,39689,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475528
+36,dom 10/05/2015,16:00,Celta de Vigo,Sevilla,4-4-2 duplo 6,Unai Emery,18957,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475538
+37,dom 17/05/2015,14:00,Sevilla,UD Almería,4-2-3-1,Unai Emery,32511,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475549
+38,sáb 23/05/2015,13:30,Málaga CF,Sevilla,4-2-3-1,Unai Emery,23103,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2475559

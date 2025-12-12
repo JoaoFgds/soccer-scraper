@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 13/08/1999,14:00,St. Pauli,Greuther Fürth,3-5-2,Willi Reimann,16049,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/940828
+2,dom 22/08/1999,10:00,Stuttg. Kickers,St. Pauli,3-5-2 plano,Willi Reimann,4446,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/940842
+3,dom 29/08/1999,10:00,St. Pauli,Bochum,3-5-2,Willi Reimann,14863,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/940849
+4,sex 10/09/1999,14:00,TeBe Berlin,St. Pauli,3-5-2,Willi Reimann,4574,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/940855
+5,sex 17/09/1999,14:00,St. Pauli,M'gladbach,?,Willi Reimann,20385,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/940863
+6,dom 26/09/1999,10:00,W. Mannheim,St. Pauli,3-5-2,Willi Reimann,6500,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/940876
+7,sex 01/10/1999,14:00,St. Pauli,K. Offenbach,3-5-2,Willi Reimann,13138,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/940923
+8,sex 15/10/1999,15:00,Fortuna Köln,St. Pauli,?,Willi Reimann,3000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941026
+9,dom 24/10/1999,11:00,St. Pauli,Mainz,3-5-2,Willi Reimann,11306,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941039
+10,sex 29/10/1999,15:00,Nuremberg,St. Pauli,3-5-2,Willi Reimann,17500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941045
+11,sex 05/11/1999,16:00,St. Pauli,Chemnitzer FC,3-5-2,Willi Reimann,12207,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941053
+12,sex 19/11/1999,16:00,Hannover,St. Pauli,3-5-2,Willi Reimann,11359,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941064
+13,dom 28/11/1999,12:00,St. Pauli,Karlsruher,3-5-2,Willi Reimann,12445,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941536
+14,dom 05/12/1999,12:00,Alem. Aachen,St. Pauli,?,Willi Reimann,16500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941546
+15,dom 12/12/1999,12:00,St. Pauli,Energ. Cottbus,3-1-4-2,Willi Reimann,10893,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941558
+16,qua 15/12/1999,16:00,St. Pauli,Colônia,3-5-2,Willi Reimann,13291,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941565
+17,dom 19/12/1999,12:00,RW Oberhausen,St. Pauli,3-5-2 ofensivo,Dietmar Demuth,3500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941573
+18,dom 13/02/2000,12:00,Greuther Fürth,St. Pauli,3-5-2 plano,Willi Reimann,5000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941584
+19,dom 20/02/2000,12:00,St. Pauli,Stuttg. Kickers,3-5-2,Willi Reimann,11977,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941595
+20,sex 25/02/2000,16:00,Bochum,St. Pauli,3-5-2,Willi Reimann,15710,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941597
+21,dom 05/03/2000,10:45,St. Pauli,TeBe Berlin,3-5-2,Willi Reimann,11756,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941611
+22,sex 10/03/2000,15:00,M'gladbach,St. Pauli,3-5-2,Willi Reimann,23100,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941615
+23,sex 17/03/2000,15:00,St. Pauli,W. Mannheim,3-4-2-1,Dietmar Demuth,12090,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941624
+24,sex 24/03/2000,15:00,K. Offenbach,St. Pauli,3-4-3 plano,Dietmar Demuth,18000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941634
+25,dom 02/04/2000,10:00,St. Pauli,Fortuna Köln,3-5-2,Dietmar Demuth,13583,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941648
+26,sex 07/04/2000,14:00,Mainz,St. Pauli,3-5-2,Dietmar Demuth,5500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941652
+27,sex 14/04/2000,14:00,St. Pauli,Nuremberg,3-5-2,Dietmar Demuth,14201,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941663
+28,seg 24/04/2000,15:15,Chemnitzer FC,St. Pauli,3-5-2,Dietmar Demuth,6700,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941678
+29,sex 28/04/2000,14:00,St. Pauli,Hannover,3-5-2,Dietmar Demuth,18141,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941679
+30,sex 05/05/2000,14:00,Karlsruher,St. Pauli,3-5-2,Dietmar Demuth,4200,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941688
+31,sex 12/05/2000,14:00,St. Pauli,Alem. Aachen,3-5-2,Dietmar Demuth,16000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941698
+32,qui 18/05/2000,14:00,Energ. Cottbus,St. Pauli,3-1-4-2,Dietmar Demuth,11085,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941708
+33,dom 21/05/2000,10:00,Colônia,St. Pauli,3-5-2,Dietmar Demuth,40000,6:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941716
+34,sex 26/05/2000,14:00,St. Pauli,RW Oberhausen,?,Dietmar Demuth,20751,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941731

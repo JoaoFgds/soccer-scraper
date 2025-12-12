@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/08/2023,11:00,Bournemouth,West Ham,4-2-3-1,David Moyes,11000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4087926
+2,dom 20/08/2023,12:30,West Ham,Chelsea,4-2-3-1,David Moyes,62470,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4087942
+3,sáb 26/08/2023,13:30,Brighton,West Ham,4-1-4-1,David Moyes,31508,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4087947
+4,sex 01/09/2023,16:00,Luton,West Ham,4-2-3-1,David Moyes,10802,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4087961
+5,sáb 16/09/2023,11:00,West Ham,Man City,4-2-3-1,David Moyes,62475,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4087971
+6,dom 24/09/2023,10:00,Liverpool,West Ham,4-2-3-1,David Moyes,50136,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095068
+7,sáb 30/09/2023,11:00,West Ham,Sheff Utd,4-2-3-1,David Moyes,62459,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095144
+8,dom 08/10/2023,10:00,West Ham,Newcastle,4-2-3-1,David Moyes,62473,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095154
+9,dom 22/10/2023,12:30,Aston Villa,West Ham,4-2-3-1,David Moyes,41734,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095157
+10,dom 29/10/2023,10:00,West Ham,Everton,4-2-3-1,David Moyes,62469,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095174
+11,sáb 04/11/2023,12:00,Brentford,West Ham,4-4-2,David Moyes,17103,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095176
+12,dom 12/11/2023,11:00,West Ham,Nott'm Forest,4-2-3-1,David Moyes,62470,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095194
+13,sáb 25/11/2023,12:00,FC Burnley,West Ham,4-2-3-1,David Moyes,21319,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095197
+14,dom 03/12/2023,11:00,West Ham,Crystal Palace,4-2-3-1,David Moyes,62459,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095215
+15,qui 07/12/2023,17:15,Tottenham,West Ham,4-3-3 defensivo,David Moyes,60733,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095222
+16,dom 10/12/2023,11:00,Fulham,West Ham,4-4-1-1,David Moyes,23988,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095230
+17,dom 17/12/2023,11:00,West Ham,Wolves,4-2-3-1,David Moyes,62455,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095245
+18,sáb 23/12/2023,09:30,West Ham,Man Utd,4-2-3-1,David Moyes,62472,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095254
+19,qui 28/12/2023,17:15,Arsenal,West Ham,4-2-3-1,David Moyes,60261,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095257
+20,ter 02/01/2024,16:30,West Ham,Brighton,4-2-3-1,David Moyes,62462,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095274
+21,dom 21/01/2024,11:00,Sheff Utd,West Ham,4-4-2 duplo 6,David Moyes,29164,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095285
+22,qui 01/02/2024,16:30,West Ham,Bournemouth,4-1-4-1,David Moyes,62000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095291
+23,dom 04/02/2024,11:00,Man Utd,West Ham,4-2-3-1,David Moyes,73612,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095303
+24,dom 11/02/2024,11:00,West Ham,Arsenal,4-2-3-1,David Moyes,62474,0:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095318
+25,sáb 17/02/2024,12:00,Nott'm Forest,West Ham,4-2-3-1,David Moyes,29490,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095327
+26,seg 26/02/2024,17:00,West Ham,Brentford,4-2-3-1,David Moyes,62450,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095338
+27,sáb 02/03/2024,12:00,Everton,West Ham,4-2-3-1,David Moyes,39262,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095342
+28,dom 10/03/2024,11:00,West Ham,FC Burnley,4-2-3-1,David Moyes,62441,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095358
+29,dom 17/03/2024,11:00,West Ham,Aston Villa,4-2-3-1,David Moyes,62461,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095368
+30,sáb 30/03/2024,09:30,Newcastle,West Ham,4-2-3-1,David Moyes,52199,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095376
+31,ter 02/04/2024,16:15,West Ham,Tottenham,4-5-1 plano,David Moyes,62469,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095385
+32,sáb 06/04/2024,11:00,Wolves,West Ham,4-2-3-1,David Moyes,31504,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095399
+33,dom 14/04/2024,10:00,West Ham,Fulham,4-2-3-1,David Moyes,62459,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095409
+34,dom 21/04/2024,11:00,Crystal Palace,West Ham,4-2-3-1,David Moyes,25145,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095412
+35,sáb 27/04/2024,08:30,West Ham,Liverpool,4-2-3-1,David Moyes,62474,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095428
+36,dom 05/05/2024,10:00,Chelsea,West Ham,4-2-3-1,David Moyes,39295,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095434
+37,sáb 11/05/2024,11:00,West Ham,Luton,4-2-3-1,David Moyes,62475,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095449
+38,dom 19/05/2024,12:00,Man City,West Ham,3-4-3 plano,David Moyes,55017,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095460

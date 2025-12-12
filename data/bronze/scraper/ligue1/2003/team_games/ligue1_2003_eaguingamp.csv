@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 02/08/2003,15:00,Guingamp,Marselha,5-3-2,Bertrand Marchand,18002,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/362
+2,sáb 09/08/2003,15:00,Strasbourg,Guingamp,5-3-2,Bertrand Marchand,13845,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/606
+3,sáb 16/08/2003,15:00,Guingamp,Bordeaux,4-3-3 ofensivo,Bertrand Marchand,15902,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/796
+4,sáb 23/08/2003,15:00,Rennes,Guingamp,4-3-3 ofensivo,Bertrand Marchand,18428,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/994
+5,sáb 30/08/2003,12:15,Guingamp,Lyon,4-3-3 ofensivo,Bertrand Marchand,11610,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1185
+6,sáb 13/09/2003,15:00,SC Bastia,Guingamp,4-4-2 losango,Bertrand Marchand,5689,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1403
+7,sex 19/09/2003,19:00,Guingamp,PSG,4-4-2 duplo 6,Bertrand Marchand,14797,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1600
+8,sex 26/09/2003,19:00,FC Metz,Guingamp,?,Bertrand Marchand,15703,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1797
+9,sex 03/10/2003,19:00,Guingamp,Monaco,4-4-2 losango,Bertrand Marchand,13206,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2006
+10,sex 17/10/2003,19:00,Montpellier,Guingamp,?,Bertrand Marchand,9874,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2219
+11,sex 24/10/2003,20:00,Guingamp,Toulouse,?,Bertrand Marchand,12738,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2414
+12,sex 31/10/2003,21:00,Lille,Guingamp,4-2-3-1,Bertrand Marchand,12151,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2614
+13,sáb 08/11/2003,21:00,Auxerre,Guingamp,4-2-3-1,Bertrand Marchand,7000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2832
+14,sex 21/11/2003,21:00,Guingamp,FC Sochaux,?,Bertrand Marchand,14458,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3029
+15,sáb 29/11/2003,21:00,Lens,Guingamp,4-3-3 ofensivo,Bertrand Marchand,33430,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3231
+16,ter 02/12/2003,21:00,Guingamp,AC Ajaccio,?,Bertrand Marchand,15314,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3410
+17,sáb 06/12/2003,21:00,Le Mans UC 72,Guingamp,?,Bertrand Marchand,12058,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3615
+18,sex 12/12/2003,21:00,Guingamp,Nantes,?,Bertrand Marchand,15139,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3806
+19,sex 19/12/2003,21:00,Nice,Guingamp,?,Bertrand Marchand,10215,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3985
+20,sex 09/01/2004,21:00,Guingamp,Strasbourg,4-2-3-1,Bertrand Marchand,11791,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4171
+21,sex 16/01/2004,21:00,Bordeaux,Guingamp,4-4-2 duplo 6,Bertrand Marchand,18132,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4361
+22,sex 30/01/2004,21:00,Guingamp,Rennes,?,Bertrand Marchand,15723,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4521
+23,sex 06/02/2004,21:00,Lyon,Guingamp,4-4-2 duplo 6,Bertrand Marchand,34523,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4734
+24,sex 13/02/2004,21:00,Guingamp,SC Bastia,?,Bertrand Marchand,13266,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4924
+25,sex 20/02/2004,20:00,PSG,Guingamp,4-4-2 duplo 6,Bertrand Marchand,41447,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5135
+26,qui 15/04/2004,19:00,Guingamp,FC Metz,?,Bertrand Marchand,16549,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5509
+27,qui 04/03/2004,20:00,Monaco,Guingamp,4-4-2 duplo 6,Bertrand Marchand,4000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5535
+28,sex 12/03/2004,20:00,Guingamp,Montpellier,4-2-3-1,Bertrand Marchand,13718,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5735
+29,qui 18/03/2004,20:00,Toulouse,Guingamp,?,Bertrand Marchand,19213,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5933
+30,sex 26/03/2004,20:00,Guingamp,Lille,?,Bertrand Marchand,14240,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6151
+31,sáb 03/04/2004,19:00,Guingamp,Auxerre,?,Bertrand Marchand,15374,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6378
+32,sex 09/04/2004,19:00,FC Sochaux,Guingamp,?,Bertrand Marchand,15144,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6574
+33,sex 23/04/2004,19:00,Guingamp,Lens,4-4-2 duplo 6,Bertrand Marchand,15094,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6788
+34,sex 30/04/2004,19:00,AC Ajaccio,Guingamp,?,Bertrand Marchand,4000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6999
+35,sex 07/05/2004,19:00,Guingamp,Le Mans UC 72,?,Bertrand Marchand,15414,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7203
+36,ter 11/05/2004,19:00,Nantes,Guingamp,?,Bertrand Marchand,29284,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7248
+37,sex 14/05/2004,19:00,Guingamp,Nice,?,Bertrand Marchand,16303,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7289
+38,sáb 22/05/2004,19:00,Marselha,Guingamp,?,Bertrand Marchand,45000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7344

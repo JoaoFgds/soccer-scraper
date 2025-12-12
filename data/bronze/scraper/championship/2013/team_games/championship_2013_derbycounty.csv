@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 04/08/2013,12:00,Derby,Blackburn,4-4-2,Nigel Clough,21188,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333404
+2,sáb 10/08/2013,11:00,Brighton,Derby,4-4-2,Nigel Clough,26238,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2332869
+3,sáb 17/08/2013,11:00,Derby,Leicester,4-4-2,Nigel Clough,23437,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2332966
+4,sáb 24/08/2013,11:00,Yeovil Town,Derby,4-4-2,Nigel Clough,7047,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2332993
+5,sáb 31/08/2013,11:00,Derby,FC Burnley,4-4-2,Nigel Clough,23514,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2332941
+6,sáb 14/09/2013,11:00,Millwall,Derby,4-4-2 duplo 6,Nigel Clough,9523,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2332957
+7,ter 17/09/2013,16:00,Bolton,Derby,4-4-2 duplo 6,Nigel Clough,14260,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2332939
+8,sáb 21/09/2013,11:00,Derby,Reading,4-4-2,Nigel Clough,21465,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2332912
+9,sáb 28/09/2013,08:15,Nott'm Forest,Derby,4-4-2,Nigel Clough,28276,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2332922
+10,ter 01/10/2013,15:45,Derby,Ipswich,4-4-2 duplo 6,Darren Wassall,21037,4:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2332888
+11,sáb 05/10/2013,11:00,Derby,Leeds,4-3-3 ofensivo,Steve McClaren,26204,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2332876
+12,sáb 19/10/2013,11:00,Watford,Derby,4-3-3 ofensivo,Steve McClaren,16180,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333005
+13,sáb 26/10/2013,12:00,Derby,Birmingham,4-3-3 ofensivo,Steve McClaren,27141,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2332982
+14,sáb 02/11/2013,13:00,QPR,Derby,4-4-2,Steve McClaren,18171,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333316
+15,sáb 09/11/2013,13:00,Derby,Sheff Wed,4-3-3 ofensivo,Steve McClaren,26421,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333258
+16,sáb 23/11/2013,13:00,Bournemouth,Derby,4-3-3 ofensivo,Steve McClaren,10720,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333259
+17,dom 01/12/2013,13:00,Wigan,Derby,4-3-3 ofensivo,Steve McClaren,15097,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333059
+18,qua 04/12/2013,17:45,Derby,Middlesbrough,4-3-3 ofensivo,Steve McClaren,24631,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333054
+19,sáb 07/12/2013,10:15,Derby,Blackpool,4-3-3 ofensivo,Steve McClaren,24063,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333077
+20,sáb 14/12/2013,13:00,Charlton,Derby,4-3-3 ofensivo,Steve McClaren,16871,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333080
+21,sáb 21/12/2013,13:00,Derby,Doncaster Rov.,4-3-3 ofensivo,Steve McClaren,26314,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333016
+22,qui 26/12/2013,13:00,Huddersfield,Derby,4-3-3 ofensivo,Steve McClaren,18159,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333042
+23,dom 29/12/2013,13:00,Barnsley FC,Derby,4-3-3 ofensivo,Steve McClaren,16338,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333110
+24,qua 01/01/2014,13:00,Derby,Wigan,4-3-3 ofensivo,Steve McClaren,26740,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333157
+25,sex 10/01/2014,17:45,Leicester,Derby,4-3-3 ofensivo,Steve McClaren,23140,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333161
+26,sáb 18/01/2014,13:00,Derby,Brighton,4-3-3 ofensivo,Steve McClaren,25392,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333099
+27,sáb 25/01/2014,13:00,Blackburn,Derby,4-3-3 ofensivo,Steve McClaren,13796,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333114
+28,ter 28/01/2014,17:45,Derby,Yeovil Town,4-3-3 ofensivo,Steve McClaren,23615,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333134
+29,sáb 01/02/2014,13:00,Birmingham,Derby,4-3-3 ofensivo,Steve McClaren,15224,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333188
+30,seg 10/02/2014,17:45,Derby,QPR,4-3-3 ofensivo,Steve McClaren,23495,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333184
+31,ter 18/02/2014,16:45,Sheff Wed,Derby,4-3-3 ofensivo,Steve McClaren,21039,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333144
+32,sáb 22/02/2014,12:00,Derby,Bournemouth,4-3-3 ofensivo,Steve McClaren,27306,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333175
+33,sáb 01/03/2014,12:00,FC Burnley,Derby,4-3-3 ofensivo,Steve McClaren,17285,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333163
+34,sáb 08/03/2014,12:00,Derby,Millwall,4-3-3 ofensivo,Steve McClaren,22853,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333301
+35,ter 11/03/2014,16:45,Derby,Bolton,4-3-3 ofensivo,Steve McClaren,23435,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333303
+36,sáb 15/03/2014,12:00,Reading,Derby,4-3-3 ofensivo,Steve McClaren,19514,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333295
+37,sáb 22/03/2014,09:15,Derby,Nott'm Forest,4-3-3 ofensivo,Steve McClaren,33004,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333262
+38,ter 25/03/2014,16:45,Ipswich,Derby,4-3-3 ofensivo,Steve McClaren,17339,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333257
+39,sáb 29/03/2014,12:00,Derby,Charlton,4-3-3 ofensivo,Steve McClaren,24429,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333064
+40,sáb 05/04/2014,11:00,Middlesbrough,Derby,4-3-3 ofensivo,Steve McClaren,15234,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333340
+41,ter 08/04/2014,16:00,Blackpool,Derby,4-3-3 ofensivo,Steve McClaren,13435,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333331
+42,sáb 12/04/2014,11:05,Derby,Huddersfield,4-3-3 ofensivo,Steve McClaren,25809,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333392
+43,sex 18/04/2014,15:30,Doncaster Rov.,Derby,4-3-3 ofensivo,Steve McClaren,11405,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333363
+44,seg 21/04/2014,11:00,Derby,Barnsley FC,4-3-3 ofensivo,Steve McClaren,26046,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333353
+45,sáb 26/04/2014,11:00,Derby,Watford,4-3-3 ofensivo,Steve McClaren,25992,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333311
+46,sáb 03/05/2014,08:15,Leeds,Derby,4-3-3 ofensivo,Steve McClaren,29724,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2333345

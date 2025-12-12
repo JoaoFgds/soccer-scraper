@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qua 19/07/1995,15:00,Monaco,Rennes,?,Jean Tigana,7000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011248
+2,ter 25/07/1995,15:00,Nice,Monaco,?,Jean Tigana,9746,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011256
+3,sáb 05/08/1995,15:00,Monaco,Auxerre,4-3-2-1,Jean Tigana,8000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011268
+4,qua 09/08/1995,15:00,SC Bastia,Monaco,?,Jean Tigana,8500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011276
+5,sáb 19/08/1995,15:00,Monaco,FC Martigues,?,Jean Tigana,9000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011293
+6,sáb 26/08/1995,15:00,Bordeaux,Monaco,?,Jean Tigana,20000,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011300
+7,ter 29/08/1995,15:00,Monaco,Lille,?,Jean Tigana,3000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011310
+8,sáb 09/09/1995,15:00,PSG,Monaco,?,Jean Tigana,39317,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011316
+9,sáb 16/09/1995,15:00,Monaco,FC Metz,?,Jean Tigana,2500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011326
+10,qui 21/09/1995,15:00,Saint-Étienne,Monaco,?,Jean Tigana,14238,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011336
+11,sáb 30/09/1995,16:00,Monaco,Guingamp,?,Jean Tigana,2500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011347
+12,ter 03/10/1995,16:00,Nantes,Monaco,?,Jean Tigana,20396,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011356
+13,sáb 14/10/1995,16:00,Monaco,FC Gueugnon,?,Jean Tigana,2500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011370
+14,sáb 21/10/1995,17:00,Monaco,Montpellier,?,Jean Tigana,3000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011378
+15,sex 27/10/1995,17:00,Cannes,Monaco,?,Jean Tigana,2000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011389
+16,sáb 04/11/1995,17:00,Monaco,Lens,?,Jean Tigana,3500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011397
+17,qua 08/11/1995,17:00,Le Havre,Monaco,?,Jean Tigana,9070,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011412
+18,sáb 18/11/1995,17:00,Monaco,Lyon,?,Jean Tigana,8000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011422
+19,sex 24/11/1995,17:00,Strasbourg,Monaco,?,Jean Tigana,13419,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011444
+20,sex 01/12/1995,17:00,Monaco,Nice,?,Jean Tigana,6000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011470
+21,sáb 09/12/1995,17:00,Auxerre,Monaco,?,Jean Tigana,9000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011474
+22,sáb 16/12/1995,17:00,Monaco,SC Bastia,?,Jean Tigana,3500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011486
+23,ter 09/01/1996,17:00,FC Martigues,Monaco,?,Jean Tigana,4000,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011493
+24,sáb 20/01/1996,17:00,Monaco,Bordeaux,?,Jean Tigana,3000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011507
+25,sáb 27/01/1996,17:00,Lille,Monaco,?,Jean Tigana,7500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011516
+26,qua 07/02/1996,17:00,Monaco,PSG,?,Jean Tigana,8000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011524
+27,dom 14/04/1996,15:00,FC Metz,Monaco,?,Jean Tigana,25339,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011542
+28,sáb 17/02/1996,16:00,Monaco,Saint-Étienne,?,Jean Tigana,4500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011547
+29,ter 27/02/1996,16:00,Guingamp,Monaco,?,Jean Tigana,13208,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011556
+30,sex 01/03/1996,16:00,Monaco,Nantes,?,Jean Tigana,5000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011563
+31,sáb 09/03/1996,16:00,FC Gueugnon,Monaco,?,Jean Tigana,8138,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011575
+32,sáb 23/03/1996,16:00,Montpellier,Monaco,?,Jean Tigana,12259,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011585
+33,sáb 30/03/1996,16:00,Monaco,Cannes,?,Jean Tigana,8500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011595
+34,seg 08/04/1996,15:00,Lens,Monaco,?,Jean Tigana,34067,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011603
+35,sáb 20/04/1996,15:00,Monaco,Le Havre,?,Jean Tigana,4000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011616
+36,sáb 27/04/1996,15:00,Lyon,Monaco,?,Jean Tigana,15000,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011628
+37,sáb 11/05/1996,15:00,Monaco,Strasbourg,?,Jean Tigana,3500,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011635
+38,sáb 18/05/1996,15:00,Rennes,Monaco,?,Jean Tigana,16416,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1011645

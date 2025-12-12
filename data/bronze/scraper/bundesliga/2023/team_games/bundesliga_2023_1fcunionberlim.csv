@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 20/08/2023,10:30,Union Berlim,Mainz,3-5-2 ofensivo,Urs Fischer,22012,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095969
+2,sáb 26/08/2023,10:30,Darmstadt 98,Union Berlim,3-5-2 plano,Urs Fischer,17810,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095984
+3,dom 03/09/2023,12:30,Union Berlim,Leipzig,3-4-3 plano,Urs Fischer,22012,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095986
+4,sáb 16/09/2023,10:30,Wolfsburg,Union Berlim,3-5-2 plano,Urs Fischer,28217,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095997
+5,sáb 23/09/2023,10:30,Union Berlim,Hoffenheim,3-5-2 ofensivo,Urs Fischer,20000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096005
+6,sáb 30/09/2023,10:30,Heidenheim,Union Berlim,3-4-3 plano,Urs Fischer,15000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096019
+7,sáb 07/10/2023,10:30,Dortmund,Union Berlim,3-5-2 plano,Urs Fischer,81365,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096022
+8,sáb 21/10/2023,10:30,Union Berlim,Stuttgart,3-5-2,Urs Fischer,22012,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096031
+9,sáb 28/10/2023,10:30,Werder Bremen,Union Berlim,3-1-4-2,Urs Fischer,42100,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096044
+10,sáb 04/11/2023,11:30,Union Berlim,Frankfurt,3-4-3 plano,Urs Fischer,22012,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096049
+11,dom 12/11/2023,11:30,Leverkusen,Union Berlim,3-4-2-1,Urs Fischer,29387,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096059
+12,sáb 25/11/2023,11:30,Union Berlim,Augsburg,3-4-3 plano,Marco Grote,22012,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096067
+13,qua 24/01/2024,16:30,Bayern,Union Berlim,5-3-2,Nenad Bjelica,75000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096075
+14,sáb 09/12/2023,11:30,Union Berlim,M'gladbach,4-2-3-1,Nenad Bjelica,22012,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096085
+15,sáb 16/12/2023,11:30,Bochum,Union Berlim,4-3-3 ofensivo,Nenad Bjelica,25300,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096099
+16,qua 20/12/2023,14:30,Union Berlim,Colônia,4-3-3 ofensivo,Nenad Bjelica,22012,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096103
+17,sáb 13/01/2024,11:30,Freiburg,Union Berlim,3-1-4-2,Nenad Bjelica,33800,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096113
+18,qua 07/02/2024,14:30,Mainz,Union Berlim,3-1-4-2,Nenad Bjelica,26200,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096122
+19,dom 28/01/2024,11:30,Union Berlim,Darmstadt 98,3-5-2 ofensivo,Nenad Bjelica,21786,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096137
+20,dom 04/02/2024,13:30,Leipzig,Union Berlim,3-5-2 plano,Nenad Bjelica,44032,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096139
+21,sáb 10/02/2024,11:30,Union Berlim,Wolfsburg,3-5-2 plano,Nenad Bjelica,22012,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096150
+22,sáb 17/02/2024,11:30,Hoffenheim,Union Berlim,3-5-2 plano,Nenad Bjelica,19050,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096158
+23,sáb 24/02/2024,11:30,Union Berlim,Heidenheim,3-5-2 plano,Nenad Bjelica,21341,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096172
+24,sáb 02/03/2024,11:30,Union Berlim,Dortmund,3-5-2 plano,Nenad Bjelica,22012,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096175
+25,sex 08/03/2024,16:30,Stuttgart,Union Berlim,3-5-2 plano,Nenad Bjelica,53800,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096184
+26,sáb 16/03/2024,11:30,Union Berlim,Werder Bremen,3-4-1-2,Nenad Bjelica,22012,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096197
+27,sáb 30/03/2024,11:30,Frankfurt,Union Berlim,3-4-2-1,Nenad Bjelica,57100,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096202
+28,sáb 06/04/2024,10:30,Union Berlim,Leverkusen,3-5-2 plano,Nenad Bjelica,22012,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096212
+29,sex 12/04/2024,15:30,Augsburg,Union Berlim,3-5-2,Nenad Bjelica,29731,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096220
+30,sáb 20/04/2024,13:30,Union Berlim,Bayern,3-5-2 plano,Nenad Bjelica,22012,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096228
+31,dom 28/04/2024,10:30,M'gladbach,Union Berlim,3-4-1-2,Nenad Bjelica,53723,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096238
+32,dom 05/05/2024,10:30,Union Berlim,Bochum,3-5-2 plano,Nenad Bjelica,22012,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096252
+33,sáb 11/05/2024,10:30,Colônia,Union Berlim,3-4-2-1,Marco Grote,50000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096256
+34,sáb 18/05/2024,10:30,Union Berlim,Freiburg,3-4-2-1,Marco Grote,22012,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4096266

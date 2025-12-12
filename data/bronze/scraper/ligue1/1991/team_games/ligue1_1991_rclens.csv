@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 19/07/1991,19:00,Lens,FC Metz,?,Arnaud Dos Santos,18442,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012959
+2,sáb 27/07/1991,15:30,SC Toulon Var,Lens,?,Arnaud Dos Santos,4000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012976
+3,ter 30/07/1991,19:00,Lens,SM Caen,?,Arnaud Dos Santos,17215,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012982
+4,sex 02/08/1991,19:00,Nîmes Olympique,Lens,?,Arnaud Dos Santos,12358,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1012992
+5,sex 09/08/1991,19:00,Lens,FC Sochaux,?,Arnaud Dos Santos,20000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013005
+6,sex 16/08/1991,19:00,Toulouse,Lens,?,Arnaud Dos Santos,7487,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013011
+7,qui 22/08/1991,19:00,Lens,Saint-Étienne,?,Arnaud Dos Santos,20000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013017
+8,ter 27/08/1991,19:00,Rennes,Lens,?,Arnaud Dos Santos,15097,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013032
+9,sex 06/09/1991,19:00,Auxerre,Lens,?,Arnaud Dos Santos,8500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013039
+10,sex 13/09/1991,19:00,Lens,Nantes,?,Arnaud Dos Santos,23346,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013775
+11,sex 20/09/1991,19:00,Marselha,Lens,?,Arnaud Dos Santos,25000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013782
+12,sex 27/09/1991,19:00,Lens,Montpellier,?,Arnaud Dos Santos,20042,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013798
+13,sex 04/10/1991,20:00,AS Nancy,Lens,,Arnaud Dos Santos,7590,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013807
+14,sex 18/10/1991,20:00,Lens,Le Havre,?,Arnaud Dos Santos,13382,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013817
+15,sáb 26/10/1991,17:30,Monaco,Lens,?,Arnaud Dos Santos,3000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013822
+16,qui 31/10/1991,21:00,Lens,Cannes,?,Arnaud Dos Santos,14000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013835
+17,sex 08/11/1991,21:00,Lyon,Lens,?,Arnaud Dos Santos,12582,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013848
+18,sex 15/11/1991,21:00,Lens,Lille,?,Arnaud Dos Santos,27812,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013858
+19,sáb 23/11/1991,17:30,PSG,Lens,?,Arnaud Dos Santos,25696,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013891
+20,sáb 30/11/1991,17:30,Lens,SC Toulon Var,?,Arnaud Dos Santos,10345,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013906
+21,qui 05/12/1991,21:00,SM Caen,Lens,?,Arnaud Dos Santos,5511,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013908
+22,sex 13/12/1991,21:00,Lens,Nîmes Olympique,?,Arnaud Dos Santos,10000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013926
+23,ter 17/12/1991,21:00,FC Sochaux,Lens,?,Arnaud Dos Santos,1687,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013935
+24,sex 20/12/1991,21:00,Lens,Toulouse,?,Arnaud Dos Santos,10000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013944
+25,sáb 18/01/1992,21:00,Saint-Étienne,Lens,?,Arnaud Dos Santos,11775,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013955
+26,sex 24/01/1992,21:00,Lens,Rennes,?,Arnaud Dos Santos,8500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013964
+27,sex 31/01/1992,21:00,Lens,Auxerre,?,Arnaud Dos Santos,10000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1013971
+28,sex 07/02/1992,21:00,Nantes,Lens,?,Arnaud Dos Santos,5804,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014011
+29,sex 14/02/1992,20:00,Lens,Marselha,?,Arnaud Dos Santos,48912,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014016
+30,sex 28/02/1992,20:00,Montpellier,Lens,?,Arnaud Dos Santos,10000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014028
+31,sex 06/03/1992,20:00,Lens,AS Nancy,?,Arnaud Dos Santos,13500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014041
+32,sex 20/03/1992,20:00,Le Havre,Lens,?,Arnaud Dos Santos,9278,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014050
+33,sex 27/03/1992,16:30,Lens,Monaco,?,Arnaud Dos Santos,25000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014055
+34,sex 03/04/1992,19:00,Cannes,Lens,?,Arnaud Dos Santos,4500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014071
+35,sex 10/04/1992,19:00,Lens,Lyon,?,Arnaud Dos Santos,15000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014081
+36,sex 17/04/1992,19:00,Lille,Lens,?,Arnaud Dos Santos,15509,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014090
+37,sáb 25/04/1992,15:30,Lens,PSG,?,Arnaud Dos Santos,24529,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014106
+38,qui 30/04/1992,19:00,FC Metz,Lens,?,Arnaud Dos Santos,9213,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1014120

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 23/07/2021,15:45,Standard Liège,KRC Genk,4-2-3-1,John van den Brom,9000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598094
+2,sex 30/07/2021,15:45,KRC Genk,KV Oostende,4-2-3-1,John van den Brom,7500,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598137
+3,sáb 07/08/2021,15:45,KV Kortrijk,KRC Genk,4-2-3-1,John van den Brom,2800,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598114
+4,sáb 14/08/2021,15:45,KRC Genk,OH Leuven,4-2-3-1,John van den Brom,10147,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598101
+5,qua 22/09/2021,15:45,Antuérpia,KRC Genk,4-2-3-1,John van den Brom,15600,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598149
+6,dom 29/08/2021,13:30,KRC Genk,Anderlecht,4-3-3 defensivo,John van den Brom,17000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598128
+7,dom 12/09/2021,16:00,KRC Genk,Union SG,4-3-3 defensivo,John van den Brom,14000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598121
+8,dom 19/09/2021,08:30,St.Truiden,KRC Genk,4-2-3-1,John van den Brom,6000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598197
+9,dom 26/09/2021,16:00,KRC Genk,RFC Seraing,4-2-3-1,John van den Brom,13932,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598184
+10,dom 03/10/2021,16:00,KAS Eupen,KRC Genk,4-2-3-1,John van den Brom,2500,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598208
+11,dom 17/10/2021,13:30,R Charleroi SC,KRC Genk,4-3-3 defensivo,John van den Brom,9226,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598171
+12,dom 24/10/2021,13:30,KRC Genk,KAA Gent,4-3-3 defensivo,John van den Brom,15296,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598210
+13,dom 31/10/2021,09:30,Zulte Waregem,KRC Genk,4-3-3 defensivo,John van den Brom,7249,2:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598222
+14,dom 07/11/2021,17:00,KRC Genk,Cercle Brügge,4-3-3 defensivo,John van den Brom,12829,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598156
+15,dom 21/11/2021,17:00,Beerschot VA,KRC Genk,4-2-3-1,John van den Brom,7000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598234
+16,dom 28/11/2021,09:30,KRC Genk,Club Brugge,4-2-3-1,John van den Brom,18173,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598236
+17,dom 05/12/2021,17:00,KV Mechelen,KRC Genk,4-2-3-1,John van den Brom,13142,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598403
+18,dom 12/12/2021,14:30,KAA Gent,KRC Genk,3-5-2,Bernd Storck,16448,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598318
+19,qui 16/12/2021,17:00,KRC Genk,R Charleroi SC,4-3-3 ofensivo,Bernd Storck,10043,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598265
+20,dom 19/12/2021,14:30,KRC Genk,Antuérpia,4-3-3 defensivo,Bernd Storck,14253,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598323
+21,dom 26/12/2021,17:00,KV Oostende,KRC Genk,4-3-3 defensivo,Bernd Storck,x,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598253
+22,dom 16/01/2022,17:00,KRC Genk,Beerschot VA,4-3-3 ofensivo,Bernd Storck,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598292
+23,dom 23/01/2022,12:00,Union SG,KRC Genk,4-3-3 ofensivo,Bernd Storck,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598340
+24,qua 16/02/2022,14:45,KRC Genk,KV Mechelen,4-3-3 defensivo,Bernd Storck,10719,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598333
+25,qua 09/02/2022,17:00,OH Leuven,KRC Genk,4-3-3 defensivo,Bernd Storck,4042,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598314
+26,dom 06/02/2022,17:00,KRC Genk,Zulte Waregem,4-3-3 ofensivo,Bernd Storck,10012,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598348
+27,dom 13/02/2022,09:30,KRC Genk,Standard Liège,4-2-3-1,Bernd Storck,13581,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598255
+28,dom 20/02/2022,14:30,Anderlecht,KRC Genk,4-3-3 defensivo,Bernd Storck,18000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598281
+29,dom 27/02/2022,12:00,KRC Genk,KV Kortrijk,4-3-3 defensivo,Bernd Storck,13834,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598329
+30,sáb 05/03/2022,12:15,Cercle Brügge,KRC Genk,4-2-3-1,Bernd Storck,4602,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598277
+31,dom 13/03/2022,12:00,KRC Genk,St.Truiden,4-3-3 defensivo,Bernd Storck,19436,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598301
+32,dom 20/03/2022,09:30,Club Brugge,KRC Genk,5-3-2,Bernd Storck,21496,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598317
+33,dom 03/04/2022,16:00,KRC Genk,KAS Eupen,4-3-3 ofensivo,Bernd Storck,10318,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598335
+34,dom 10/04/2022,13:30,RFC Seraing,KRC Genk,4-3-3 ofensivo,Bernd Storck,2550,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3598341

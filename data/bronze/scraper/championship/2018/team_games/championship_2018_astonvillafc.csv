@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 06/08/2018,15:45,Hull City,Aston Villa,4-1-4-1,Steve Bruce,14071,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053577
+2,sáb 11/08/2018,11:00,Aston Villa,Wigan,4-2-3-1,Steve Bruce,34331,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053578
+3,sáb 18/08/2018,11:00,Ipswich,Aston Villa,4-2-3-1,Steve Bruce,17824,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053594
+4,qua 22/08/2018,15:45,Aston Villa,Brentford,4-2-3-1,Steve Bruce,30011,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053635
+5,sáb 25/08/2018,11:00,Aston Villa,Reading,4-2-3-1,Steve Bruce,33405,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053684
+6,sáb 01/09/2018,11:00,Sheff Utd,Aston Villa,4-2-3-1,Steve Bruce,26030,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053729
+7,sáb 15/09/2018,13:30,Blackburn,Aston Villa,4-2-3-1,Steve Bruce,15982,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053741
+8,ter 18/09/2018,15:45,Aston Villa,Rotherham,4-4-2,Steve Bruce,27991,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053765
+9,sáb 22/09/2018,11:00,Aston Villa,Sheff Wed,4-4-2,Steve Bruce,35572,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053788
+10,sex 28/09/2018,16:00,Bristol City,Aston Villa,4-2-3-1,Steve Bruce,24224,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053804
+11,ter 02/10/2018,15:45,Aston Villa,Preston NE,4-2-3-1,Steve Bruce,27331,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053812
+12,sáb 06/10/2018,11:00,Millwall,Aston Villa,4-2-3-1,Kevin MacDonald,14491,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053829
+13,sáb 20/10/2018,11:00,Aston Villa,Swansea,4-1-4-1,Dean Smith,41326,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053836
+14,ter 23/10/2018,15:45,Norwich,Aston Villa,4-1-4-1,Dean Smith,24977,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053850
+15,sex 26/10/2018,15:45,QPR,Aston Villa,4-1-4-1,Dean Smith,16036,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053868
+16,sex 02/11/2018,16:45,Aston Villa,Bolton,4-2-3-1,Dean Smith,30802,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053872
+17,sáb 10/11/2018,13:00,Derby,Aston Villa,4-3-3 ofensivo,Dean Smith,30400,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053888
+18,dom 25/11/2018,10:00,Aston Villa,Birmingham,4-2-3-1,Dean Smith,41200,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053904
+19,qua 28/11/2018,17:45,Aston Villa,Nott'm Forest,4-2-3-1,Dean Smith,32868,5:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053921
+20,sáb 01/12/2018,15:30,Middlesbrough,Aston Villa,4-2-3-1,Dean Smith,23424,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053933
+21,sex 07/12/2018,18:00,West Brom,Aston Villa,4-2-3-1,Dean Smith,26513,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053949
+22,sáb 15/12/2018,13:00,Aston Villa,Stoke,4-2-3-1,Dean Smith,36999,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053951
+23,dom 23/12/2018,11:30,Aston Villa,Leeds,4-2-3-1,Dean Smith,41411,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053963
+24,qua 26/12/2018,13:00,Swansea,Aston Villa,4-1-4-1,Dean Smith,20775,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053985
+25,sáb 29/12/2018,13:00,Preston NE,Aston Villa,4-2-3-1,Dean Smith,19126,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053994
+26,ter 01/01/2019,13:00,Aston Villa,QPR,4-3-3 ofensivo,Dean Smith,37760,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3053999
+27,sáb 12/01/2019,13:00,Wigan,Aston Villa,4-2-3-1,Dean Smith,13882,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054022
+28,sáb 19/01/2019,13:00,Aston Villa,Hull City,4-2-3-1,Dean Smith,33619,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054023
+29,sáb 26/01/2019,13:00,Aston Villa,Ipswich,4-2-3-1,Dean Smith,33653,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054035
+30,sáb 02/02/2019,13:00,Reading,Aston Villa,4-2-3-1,Dean Smith,17458,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054055
+31,sex 08/02/2019,17:45,Aston Villa,Sheff Utd,4-2-3-1,Dean Smith,34892,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054059
+32,qua 13/02/2019,17:45,Brentford,Aston Villa,4-2-3-1,Dean Smith,9636,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054076
+33,sáb 16/02/2019,13:00,Aston Villa,West Brom,4-2-3-1,Dean Smith,39263,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054083
+34,sáb 23/02/2019,12:00,Stoke,Aston Villa,4-4-2 duplo 6,Dean Smith,27975,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054104
+35,sáb 02/03/2019,12:00,Aston Villa,Derby,4-2-3-1,Dean Smith,37273,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054107
+36,dom 10/03/2019,09:00,Birmingham,Aston Villa,4-2-3-1,Dean Smith,26631,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054127
+37,qua 13/03/2019,16:45,Nott'm Forest,Aston Villa,4-2-3-1,Dean Smith,29224,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054142
+38,sáb 16/03/2019,12:00,Aston Villa,Middlesbrough,4-1-4-1,Dean Smith,36263,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054151
+39,sáb 30/03/2019,12:00,Aston Villa,Blackburn,4-2-3-1,Dean Smith,24789,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054163
+40,sáb 06/04/2019,11:00,Sheff Wed,Aston Villa,4-2-3-1,Dean Smith,29458,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054185
+41,qua 10/04/2019,15:45,Rotherham,Aston Villa,4-2-3-1,Dean Smith,10558,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054198
+42,sáb 13/04/2019,11:00,Aston Villa,Bristol City,4-2-3-1,Dean Smith,41418,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054199
+43,sex 19/04/2019,11:00,Bolton,Aston Villa,4-2-3-1,Dean Smith,17344,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054212
+44,seg 22/04/2019,09:00,Aston Villa,Millwall,4-2-3-1,Dean Smith,39839,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054223
+45,dom 28/04/2019,08:00,Leeds,Aston Villa,4-3-3 ofensivo,Dean Smith,36786,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054238
+46,dom 05/05/2019,08:30,Aston Villa,Norwich,4-1-4-1,Dean Smith,41696,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3054261

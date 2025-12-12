@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 01/08/2008,15:00,Tours FC,CS Sedan,?,Landry Chauvin,6338,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913124
+2,sex 08/08/2008,15:00,CS Sedan,Nîmes Olympique,?,Landry Chauvin,15808,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913460
+3,sex 15/08/2008,15:00,Angers,CS Sedan,?,Landry Chauvin,7366,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913136
+4,sex 22/08/2008,15:00,CS Sedan,AC Ajaccio,?,Landry Chauvin,7875,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913149
+5,sex 29/08/2008,15:00,Guingamp,CS Sedan,?,Landry Chauvin,6162,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913153
+6,sex 12/09/2008,15:30,CS Sedan,Strasbourg,?,Landry Chauvin,7882,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913165
+7,sex 19/09/2008,15:30,Montpellier,CS Sedan,?,Landry Chauvin,6136,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913171
+8,sex 26/09/2008,15:00,CS Sedan,Amiens SC,?,Landry Chauvin,7605,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913180
+9,sex 03/10/2008,15:30,FC Metz,CS Sedan,?,Landry Chauvin,7791,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913186
+10,sex 10/10/2008,15:00,CS Sedan,Reims,?,Landry Chauvin,11436,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913196
+11,sex 17/10/2008,15:00,US Boulogne,CS Sedan,?,Landry Chauvin,5740,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913203
+12,sex 24/10/2008,16:00,CS Sedan,Dijon,?,Landry Chauvin,7205,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913212
+13,sex 31/10/2008,18:00,SC Bastia,CS Sedan,?,Landry Chauvin,2253,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913215
+14,sex 07/11/2008,18:00,LB Châteauroux,CS Sedan,?,Landry Chauvin,4948,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913233
+15,sex 14/11/2008,17:00,CS Sedan,Brest,?,Landry Chauvin,7304,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913229
+16,seg 01/12/2008,17:45,Lens,CS Sedan,?,Landry Chauvin,23734,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913242
+17,sex 05/12/2008,17:00,CS Sedan,Clermont Foot,?,Landry Chauvin,11702,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913253
+18,sex 19/12/2008,17:00,Vannes,CS Sedan,?,Landry Chauvin,2753,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913493
+19,ter 27/01/2009,17:00,CS Sedan,Troyes,?,Landry Chauvin,7620,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913270
+20,sex 16/01/2009,17:00,Nîmes Olympique,CS Sedan,?,Landry Chauvin,7047,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913496
+21,sex 30/01/2009,17:00,CS Sedan,Angers,?,Landry Chauvin,7010,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913286
+22,sex 06/02/2009,17:00,AC Ajaccio,CS Sedan,?,Landry Chauvin,2174,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913287
+23,sex 13/02/2009,17:00,CS Sedan,Guingamp,?,Landry Chauvin,7232,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913302
+24,sex 20/02/2009,16:30,Strasbourg,CS Sedan,?,Landry Chauvin,10062,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913309
+25,sex 27/02/2009,16:00,CS Sedan,Montpellier,?,Landry Chauvin,9055,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913318
+26,sáb 07/03/2009,13:00,Amiens SC,CS Sedan,?,Landry Chauvin,9471,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913319
+27,sex 13/03/2009,16:30,CS Sedan,FC Metz,?,Landry Chauvin,9897,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913333
+28,sex 20/03/2009,16:30,Reims,CS Sedan,?,Landry Chauvin,18480,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913340
+29,sex 27/03/2009,16:30,CS Sedan,US Boulogne,?,Landry Chauvin,7761,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913349
+30,sex 03/04/2009,15:00,Dijon,CS Sedan,?,Landry Chauvin,3813,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913353
+31,sex 10/04/2009,15:00,CS Sedan,SC Bastia,?,Landry Chauvin,7516,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913365
+32,sex 17/04/2009,15:00,CS Sedan,LB Châteauroux,?,Landry Chauvin,6951,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913373
+33,sex 24/04/2009,15:00,Brest,CS Sedan,?,Landry Chauvin,6805,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913377
+34,seg 04/05/2009,15:30,CS Sedan,Lens,?,Landry Chauvin,10438,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913390
+35,sex 08/05/2009,15:00,Clermont Foot,CS Sedan,?,Landry Chauvin,4953,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913393
+36,sex 15/05/2009,15:00,CS Sedan,Vannes,?,Landry Chauvin,6958,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913528
+37,sex 22/05/2009,15:30,Troyes,CS Sedan,?,Landry Chauvin,16931,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913415
+38,sex 29/05/2009,15:45,CS Sedan,Tours FC,?,Landry Chauvin,9372,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913423

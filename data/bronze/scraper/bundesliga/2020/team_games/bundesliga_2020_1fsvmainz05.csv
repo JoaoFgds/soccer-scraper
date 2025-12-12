@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 20/09/2020,10:30,Leipzig,Mainz,4-4-2 duplo 6,Achim Beierlorzer,8500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412885
+2,sáb 26/09/2020,10:30,Mainz,Stuttgart,4-2-3-1,Achim Beierlorzer,3403,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412907
+3,sex 02/10/2020,15:30,Union Berlim,Mainz,4-2-3-1,Jan-Moritz Lichte,4400,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412924
+4,sáb 17/10/2020,10:30,Mainz,Leverkusen,4-2-3-1,Jan-Moritz Lichte,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412942
+5,sáb 24/10/2020,10:30,Mainz,M'gladbach,4-2-3-1,Jan-Moritz Lichte,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412961
+6,sáb 31/10/2020,11:30,Augsburg,Mainz,4-2-3-1,Jan-Moritz Lichte,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412980
+7,sáb 07/11/2020,11:30,Mainz,Schalke,4-2-3-1,Jan-Moritz Lichte,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412996
+8,dom 22/11/2020,11:30,Freiburg,Mainz,3-4-1-2,Jan-Moritz Lichte,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413012
+9,dom 29/11/2020,14:00,Mainz,Hoffenheim,3-4-2-1,Jan-Moritz Lichte,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413024
+10,sáb 05/12/2020,11:30,Arm. Bielefeld,Mainz,3-4-2-1,Jan-Moritz Lichte,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413044
+11,sáb 12/12/2020,11:30,Mainz,Colônia,3-4-1-2,Jan-Moritz Lichte,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413061
+12,ter 15/12/2020,16:30,Hertha Berlim,Mainz,5-3-2,Jan-Moritz Lichte,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413075
+13,sáb 19/12/2020,11:30,Mainz,Werder Bremen,3-1-4-2,Jan-Moritz Lichte,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413088
+14,dom 03/01/2021,14:00,Bayern,Mainz,4-3-1-2,Jan Siewert,x,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413099
+15,sáb 09/01/2021,11:30,Mainz,Frankfurt,4-2-3-1,Bo Svensson,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413123
+16,sáb 16/01/2021,11:30,Dortmund,Mainz,3-4-1-2,Bo Svensson,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413136
+17,ter 19/01/2021,16:30,Mainz,Wolfsburg,3-4-1-2,Bo Svensson,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413159
+18,sáb 23/01/2021,11:30,Mainz,Leipzig,3-4-1-2,Bo Svensson,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413177
+19,sex 29/01/2021,16:30,Stuttgart,Mainz,3-4-1-2,Bo Svensson,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413170
+20,sáb 06/02/2021,11:30,Mainz,Union Berlim,3-4-1-2,Bo Svensson,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413150
+21,sáb 13/02/2021,11:30,Leverkusen,Mainz,3-4-1-2,Bo Svensson,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413129
+22,sáb 20/02/2021,11:30,M'gladbach,Mainz,3-4-1-2,Bo Svensson,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413108
+23,dom 28/02/2021,11:30,Mainz,Augsburg,3-4-1-2,Bo Svensson,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413096
+24,sex 05/03/2021,16:30,Schalke,Mainz,3-4-1-2,Bo Svensson,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413069
+25,sáb 13/03/2021,11:30,Mainz,Freiburg,5-3-2,Bo Svensson,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413053
+26,dom 21/03/2021,09:30,Hoffenheim,Mainz,3-4-1-2,Bo Svensson,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413028
+27,sáb 03/04/2021,10:30,Mainz,Arm. Bielefeld,3-4-1-2,Bo Svensson,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3413006
+28,dom 11/04/2021,13:00,Colônia,Mainz,3-4-1-2,Bo Svensson,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412987
+29,seg 03/05/2021,13:00,Mainz,Hertha Berlim,3-4-1-2,Bo Svensson,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412971
+30,qua 21/04/2021,15:30,Werder Bremen,Mainz,3-4-1-2,Bo Svensson,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412952
+31,sáb 24/04/2021,10:30,Mainz,Bayern,5-3-2,Bo Svensson,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412935
+32,dom 09/05/2021,10:30,Frankfurt,Mainz,3-4-2-1,Bo Svensson,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412914
+33,dom 16/05/2021,13:00,Mainz,Dortmund,3-1-4-2,Bo Svensson,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412898
+34,sáb 22/05/2021,10:30,Wolfsburg,Mainz,5-3-2,Bo Svensson,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3412877

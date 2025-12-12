@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 13/08/2000,10:00,Arm. Bielefeld,VfL Osnabrück,3-5-2,Hermann Gerland,21258,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941739
+2,seg 21/08/2000,15:15,SSV Ulm 1846,Arm. Bielefeld,3-5-2,Hermann Gerland,13000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941751
+3,ter 05/09/2000,14:00,Arm. Bielefeld,RW Oberhausen,3-5-2,Hermann Gerland,12030,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941753
+4,sex 08/09/2000,14:00,Mainz,Arm. Bielefeld,3-5-2,Hermann Gerland,5341,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941761
+5,seg 18/09/2000,15:15,Arm. Bielefeld,Alem. Aachen,4-4-2 losango,Hermann Gerland,10143,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941778
+6,sáb 23/09/2000,10:00,St. Pauli,Arm. Bielefeld,4-4-2 losango,Hermann Gerland,17561,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941782
+7,seg 02/10/2000,15:15,Arm. Bielefeld,Nuremberg,5-3-2,Hermann Gerland,15087,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941796
+8,sáb 14/10/2000,11:00,LR Ahlen,Arm. Bielefeld,3-5-2,Hermann Gerland,9050,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941800
+9,sex 20/10/2000,15:00,Arm. Bielefeld,W. Mannheim,3-5-2,Frank Geideck,9581,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941806
+10,sex 27/10/2000,15:00,SSV Reutlingen,Arm. Bielefeld,3-1-4-2,Benno Möhlmann,8000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941816
+11,sex 03/11/2000,16:00,Arm. Bielefeld,Stuttg. Kickers,3-5-2,Benno Möhlmann,7605,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941824
+12,sex 10/11/2000,16:00,MSV Duisburg,Arm. Bielefeld,3-1-4-2,Benno Möhlmann,8502,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941841
+13,seg 20/11/2000,17:15,Hannover,Arm. Bielefeld,3-1-4-2,Benno Möhlmann,12050,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941858
+14,sáb 25/11/2000,12:00,Arm. Bielefeld,M'gladbach,3-4-3,Benno Möhlmann,15588,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941861
+15,sex 01/12/2000,16:00,Greuther Fürth,Arm. Bielefeld,3-5-2,Benno Möhlmann,6135,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941868
+16,sáb 09/12/2000,12:00,Arm. Bielefeld,Chemnitzer FC,3-5-2,Benno Möhlmann,8081,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941879
+17,ter 12/12/2000,16:00,Saarbrücken,Arm. Bielefeld,3-5-2,Benno Möhlmann,7000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941888
+18,sex 15/12/2000,16:00,VfL Osnabrück,Arm. Bielefeld,3-5-2,Benno Möhlmann,10400,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941895
+19,seg 29/01/2001,17:15,Arm. Bielefeld,SSV Ulm 1846,3-5-2,Benno Möhlmann,6505,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941912
+20,qua 14/02/2001,16:00,RW Oberhausen,Arm. Bielefeld,3-5-2,Benno Möhlmann,4192,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941917
+21,dom 11/02/2001,12:00,Arm. Bielefeld,Mainz,3-5-2,Benno Möhlmann,7128,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941927
+22,seg 19/02/2001,16:15,Alem. Aachen,Arm. Bielefeld,3-4-2-1,Benno Möhlmann,10400,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941939
+23,sáb 24/02/2001,11:00,Arm. Bielefeld,St. Pauli,3-4-2-1,Benno Möhlmann,10719,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941943
+24,sáb 03/03/2001,11:00,Nuremberg,Arm. Bielefeld,?,Benno Möhlmann,17000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941950
+25,sáb 10/03/2001,11:00,Arm. Bielefeld,LR Ahlen,3-4-2-1,Benno Möhlmann,9108,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941961
+26,seg 19/03/2001,16:15,W. Mannheim,Arm. Bielefeld,3-5-2,Benno Möhlmann,7300,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941975
+27,sáb 31/03/2001,10:00,Arm. Bielefeld,SSV Reutlingen,3-4-3,Benno Möhlmann,9205,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941979
+28,dom 08/04/2001,10:00,Stuttg. Kickers,Arm. Bielefeld,3-4-3,Benno Möhlmann,7580,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941989
+29,qui 12/04/2001,14:00,Arm. Bielefeld,MSV Duisburg,3-4-3,Benno Möhlmann,10050,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/941994
+30,dom 22/04/2001,10:00,Arm. Bielefeld,Hannover,3-5-2,Benno Möhlmann,12266,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942009
+31,sex 27/04/2001,14:00,M'gladbach,Arm. Bielefeld,3-5-2,Benno Möhlmann,32350,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942013
+32,dom 06/05/2001,10:00,Arm. Bielefeld,Greuther Fürth,3-5-2,Benno Möhlmann,14127,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942024
+33,dom 13/05/2001,10:00,Chemnitzer FC,Arm. Bielefeld,3-5-2,Benno Möhlmann,3380,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942032
+34,dom 20/05/2001,10:00,Arm. Bielefeld,Saarbrücken,3-5-2,Benno Möhlmann,17247,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942045

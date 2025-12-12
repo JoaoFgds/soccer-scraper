@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 07/08/2023,15:45,Pau FC,Bordeaux,4-2-3-1,David Guion,3546,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095502
+2,seg 14/08/2023,15:45,Bordeaux,Concarneau,4-2-3-1,David Guion,24574,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095510
+3,seg 21/08/2023,15:45,AC Ajaccio,Bordeaux,4-2-3-1,David Guion,5995,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095520
+4,sáb 26/08/2023,10:00,Bordeaux,Amiens SC,4-2-3-1,David Guion,20605,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095530
+5,sáb 02/09/2023,10:00,Bordeaux,Auxerre,4-2-3-1,David Guion,26771,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095543
+6,sáb 16/09/2023,14:00,Valenciennes,Bordeaux,4-2-3-1,David Guion,7439,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095553
+7,ter 03/10/2023,13:45,Bordeaux,SM Caen,4-3-3 ofensivo,David Guion,21038,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095563
+8,ter 26/09/2023,15:45,Guingamp,Bordeaux,4-2-3-1,David Guion,8568,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095575
+9,sáb 30/09/2023,14:00,Grenoble,Bordeaux,4-2-3-1,David Guion,8960,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095588
+10,sáb 07/10/2023,10:00,Bordeaux,Stade Lavallois,4-3-3 ofensivo,David Guion,19651,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095590
+11,sáb 21/10/2023,14:00,Angers,Bordeaux,4-2-3-1,Albert Riera,10416,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095601
+12,sáb 28/10/2023,10:00,Bordeaux,Rodez AF,4-3-1-2,Albert Riera,30098,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095611
+13,sáb 04/11/2023,15:00,SC Bastia,Bordeaux,3-5-2,Albert Riera,12071,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095621
+14,sáb 11/11/2023,11:00,Bordeaux,FC Annecy,3-5-2 ofensivo,Albert Riera,18631,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4148523
+15,sáb 25/11/2023,15:00,Paris FC,Bordeaux,5-3-2,Albert Riera,13472,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095643
+16,sáb 02/12/2023,11:00,Bordeaux,Troyes,3-5-2,Albert Riera,19161,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095652
+17,ter 05/12/2023,16:45,QRM,Bordeaux,3-1-4-2,Albert Riera,4743,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095668
+18,sáb 16/12/2023,11:00,Bordeaux,Saint-Étienne,4-3-3 ofensivo,Albert Riera,37658,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095669
+19,ter 19/12/2023,16:45,USL Dunkerque,Bordeaux,4-3-3 ofensivo,Albert Riera,3504,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095687
+20,seg 15/01/2024,16:45,Auxerre,Bordeaux,4-3-3 ofensivo,Albert Riera,13312,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095691
+21,ter 23/01/2024,16:45,Bordeaux,Valenciennes,4-3-3 ofensivo,Albert Riera,15467,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095702
+22,seg 29/01/2024,16:45,Bordeaux,Angers,4-3-3 ofensivo,Albert Riera,17148,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095711
+23,sáb 03/02/2024,15:00,Troyes,Bordeaux,4-3-3 ofensivo,Albert Riera,6093,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095725
+24,sáb 10/02/2024,15:00,Bordeaux,Grenoble,4-3-3 ofensivo,Albert Riera,17818,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095731
+25,seg 19/02/2024,16:45,Amiens SC,Bordeaux,4-3-3 ofensivo,Albert Riera,8564,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095739
+26,sáb 24/02/2024,15:00,Bordeaux,Guingamp,4-3-3 ofensivo,Albert Riera,20109,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095750
+27,sáb 02/03/2024,15:00,Rodez AF,Bordeaux,4-3-3 ofensivo,Albert Riera,3263,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095768
+28,sáb 09/03/2024,15:00,Bordeaux,QRM,4-2-3-1,Albert Riera,19662,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095771
+29,sáb 16/03/2024,15:00,FC Annecy,Bordeaux,4-2-3-1,Albert Riera,5557,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4148538
+30,sáb 30/03/2024,15:00,Bordeaux,Paris FC,4-2-3-1,Albert Riera,19256,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095791
+31,sáb 06/04/2024,14:00,SM Caen,Bordeaux,4-3-3 ofensivo,Albert Riera,19168,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095805
+32,sáb 13/04/2024,14:00,Bordeaux,SC Bastia,4-3-3 ofensivo,Albert Riera,22508,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095811
+33,sáb 20/04/2024,14:00,Saint-Étienne,Bordeaux,4-3-3 ofensivo,Albert Riera,35317,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095824
+34,ter 23/04/2024,15:45,Bordeaux,USL Dunkerque,4-3-3 ofensivo,Albert Riera,20941,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095829
+35,sáb 27/04/2024,14:00,Stade Lavallois,Bordeaux,4-3-3 ofensivo,Albert Riera,7302,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095845
+36,sex 03/05/2024,15:00,Bordeaux,AC Ajaccio,4-3-3 ofensivo,Albert Riera,18276,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095850
+37,sex 10/05/2024,15:45,Concarneau,Bordeaux,4-3-3 ofensivo,Albert Riera,2334,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095868
+38,sex 17/05/2024,15:45,Bordeaux,Pau FC,4-3-3 ofensivo,Albert Riera,21710,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4095870

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 20/05/2012,13:30,Bahia,Santos,4-4-2 duplo 6,Falcão,8908,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2210944
+2,dom 27/05/2012,11:00,São Paulo,Bahia,4-4-2 duplo 6,Falcão,10305,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206422
+3,qua 06/06/2012,15:30,Atlético-MG,Bahia,4-4-2 duplo 6,Falcão,16580,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206409
+4,dom 10/06/2012,12:00,Bahia,Vasco da Gama,4-4-2 duplo 6,Falcão,17908,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206431
+5,dom 17/06/2012,11:00,Bahia,Sport,4-4-2 duplo 6,Falcão,11031,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206442
+6,dom 24/06/2012,11:00,Figueirense,Bahia,4-4-2 duplo 6,Falcão,7728,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206449
+7,dom 01/07/2012,11:00,Bahia,Internacional,4-4-2 duplo 6,Falcão,13447,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206461
+8,sáb 07/07/2012,13:30,Botafogo,Bahia,4-4-2 duplo 6,Falcão,20746,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206464
+9,dom 15/07/2012,11:00,Bahia,Flamengo,4-2-3-1,Falcão,29206,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206476
+10,qui 19/07/2012,16:00,Fluminense,Bahia,4-2-3-1,Falcão,7413,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206378
+11,dom 22/07/2012,13:30,Bahia,Coritiba,4-3-2-1,Caio Júnior,8380,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206384
+12,qui 26/07/2012,16:00,Palmeiras,Bahia,4-4-2 duplo 6,Caio Júnior,7515,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206380
+13,dom 29/07/2012,11:00,Bahia,Corinthians,4-3-2-1,Caio Júnior,24648,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206402
+14,dom 05/08/2012,11:00,Grêmio,Bahia,4-3-1-2,Caio Júnior,23268,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206489
+15,qua 08/08/2012,15:30,Bahia,Portuguesa,4-3-1-2,Caio Júnior,8166,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206524
+16,sáb 11/08/2012,13:30,Bahia,Cruzeiro,4-2-3-1,Caio Júnior,8946,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206717
+17,qua 15/08/2012,15:30,Ponte Preta,Bahia,4-2-3-1,Caio Júnior,4259,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206726
+18,sáb 18/08/2012,13:30,Náutico,Bahia,4-3-2-1,Caio Júnior,14358,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206708
+19,dom 26/08/2012,13:30,Bahia,Atlético-GO,4-2-3-1,Caio Júnior,10901,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206695
+20,qua 29/08/2012,14:30,Santos,Bahia,4-3-2-1,Jorginho,8612,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206693
+21,dom 02/09/2012,11:00,Bahia,São Paulo,4-3-2-1,Jorginho,25945,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206663
+22,qua 05/09/2012,14:30,Bahia,Atlético-MG,4-3-1-2,Jorginho,19629,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206649
+23,dom 09/09/2012,13:30,Vasco da Gama,Bahia,4-3-1-2,Jorginho,7802,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206653
+24,qua 12/09/2012,15:30,Sport,Bahia,4-3-1-2,Jorginho,17107,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206639
+25,dom 16/09/2012,11:00,Bahia,Figueirense,4-3-3 defensivo,Jorginho,22041,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206634
+26,dom 23/09/2012,13:30,Internacional,Bahia,4-3-1-2,Jorginho,9052,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206625
+27,dom 30/09/2012,11:00,Bahia,Botafogo,4-3-2-1,Jorginho,22708,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206604
+28,qui 04/10/2012,16:00,Flamengo,Bahia,4-3-2-1,Jorginho,30209,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206609
+29,qua 10/10/2012,14:30,Bahia,Fluminense,4-3-2-1,Jorginho,21993,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206585
+30,dom 14/10/2012,11:00,Coritiba,Bahia,4-4-2 duplo 6,Jorginho,11148,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206588
+31,qua 17/10/2012,14:30,Bahia,Palmeiras,4-3-2-1,Jorginho,18459,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206570
+32,sáb 20/10/2012,18:30,Corinthians,Bahia,4-3-2-1,Jorginho,20250,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206571
+33,sáb 27/10/2012,14:30,Bahia,Grêmio,4-3-1-2,Jorginho,32157,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206555
+34,dom 04/11/2012,16:30,Portuguesa,Bahia,4-3-1-2,Jorginho,4340,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206532
+35,dom 11/11/2012,16:30,Cruzeiro,Bahia,4-3-1-2,Jorginho,7772,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206543
+36,dom 18/11/2012,14:00,Bahia,Ponte Preta,4-3-1-2,Jorginho,24004,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206528
+37,dom 25/11/2012,14:00,Bahia,Náutico,4-3-2-1,Jorginho,32157,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206493
+38,dom 02/12/2012,14:00,Atlético-GO,Bahia,4-3-2-1,Jorginho,2358,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2206681

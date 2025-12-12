@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 06/08/2022,10:30,Wolfsburg,Werder Bremen,4-2-3-1,Niko Kovac,28015,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839030
+2,dom 14/08/2022,12:30,Bayern,Wolfsburg,4-3-3 ofensivo,Niko Kovac,75000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839052
+3,sáb 20/08/2022,10:30,Wolfsburg,Schalke,4-2-3-1,Niko Kovac,26959,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839084
+4,sáb 27/08/2022,10:30,Leipzig,Wolfsburg,4-2-3-1,Niko Kovac,41243,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839097
+5,sáb 03/09/2022,10:30,Wolfsburg,Colônia,3-4-1-2,Niko Kovac,25654,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839110
+6,sáb 10/09/2022,10:30,Frankfurt,Wolfsburg,4-4-2 duplo 6,Niko Kovac,49000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839119
+7,dom 18/09/2022,10:30,Union Berlim,Wolfsburg,4-4-2 duplo 6,Niko Kovac,22012,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839134
+8,sáb 01/10/2022,10:30,Wolfsburg,Stuttgart,4-1-4-1,Niko Kovac,24125,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839155
+9,sáb 08/10/2022,10:30,Augsburg,Wolfsburg,4-1-4-1,Niko Kovac,26220,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839165
+10,sáb 15/10/2022,10:30,Wolfsburg,M'gladbach,4-3-3 ofensivo,Niko Kovac,26701,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839182
+11,sáb 22/10/2022,10:30,Leverkusen,Wolfsburg,4-1-4-1,Niko Kovac,26294,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839196
+12,sáb 29/10/2022,10:30,Wolfsburg,Bochum,4-3-3 ofensivo,Niko Kovac,24037,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839218
+13,sáb 05/11/2022,11:30,Mainz,Wolfsburg,4-2-3-1,Niko Kovac,26750,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839234
+14,ter 08/11/2022,14:30,Wolfsburg,Dortmund,4-3-3 ofensivo,Niko Kovac,28675,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839254
+15,sáb 12/11/2022,11:30,Hoffenheim,Wolfsburg,4-1-4-1,Niko Kovac,18014,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839261
+16,sáb 21/01/2023,11:30,Wolfsburg,Freiburg,4-1-4-1,Niko Kovac,25849,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839282
+17,ter 24/01/2023,16:30,Hertha Berlim,Wolfsburg,4-3-3 ofensivo,Niko Kovac,29483,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839300
+18,sáb 28/01/2023,11:30,Werder Bremen,Wolfsburg,4-3-3 ofensivo,Niko Kovac,41000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839320
+19,dom 05/02/2023,13:30,Wolfsburg,Bayern,3-5-2 ofensivo,Niko Kovac,30000,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839335
+20,sex 10/02/2023,16:30,Schalke,Wolfsburg,4-3-3 ofensivo,Niko Kovac,60836,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839355
+21,sáb 18/02/2023,11:30,Wolfsburg,Leipzig,4-2-3-1,Niko Kovac,24831,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839371
+22,sáb 25/02/2023,11:30,Colônia,Wolfsburg,4-3-3 ofensivo,Niko Kovac,49300,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839387
+23,dom 05/03/2023,13:30,Wolfsburg,Frankfurt,4-3-3 ofensivo,Niko Kovac,27853,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839398
+24,dom 12/03/2023,15:30,Wolfsburg,Union Berlim,4-2-3-1,Niko Kovac,23554,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839416
+25,sáb 18/03/2023,11:30,Stuttgart,Wolfsburg,4-3-3 ofensivo,Niko Kovac,44900,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839437
+26,sáb 01/04/2023,10:30,Wolfsburg,Augsburg,4-3-3 ofensivo,Niko Kovac,22107,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839453
+27,dom 09/04/2023,10:30,M'gladbach,Wolfsburg,4-3-3 ofensivo,Niko Kovac,51127,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839470
+28,dom 16/04/2023,14:30,Wolfsburg,Leverkusen,5-3-2,Niko Kovac,20137,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839488
+29,sáb 22/04/2023,10:30,Bochum,Wolfsburg,4-3-3 ofensivo,Niko Kovac,24834,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839507
+30,dom 30/04/2023,12:30,Wolfsburg,Mainz,3-4-2-1,Niko Kovac,23817,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839515
+31,dom 07/05/2023,12:30,Dortmund,Wolfsburg,3-1-4-2,Niko Kovac,81365,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839528
+32,sáb 13/05/2023,10:30,Wolfsburg,Hoffenheim,3-1-4-2,Niko Kovac,22617,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839552
+33,sex 19/05/2023,15:30,Freiburg,Wolfsburg,3-1-4-2,Niko Kovac,33300,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839566
+34,sáb 27/05/2023,10:30,Wolfsburg,Hertha Berlim,4-3-3 ofensivo,Niko Kovac,26775,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839588

@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 18/08/2013,14:00,AD Alcorcón,Tenerife,4-3-3 defensivo,Miguel Álvarez,1500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2348107
+2,sáb 24/08/2013,16:00,RM Castilla,AD Alcorcón,4-4-2 duplo 6,Miguel Álvarez,2378,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2348119
+3,dom 01/09/2013,17:00,AD Alcorcón,Recr. Huelva,4-4-2 duplo 6,Miguel Álvarez,1500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2348155
+4,sáb 07/09/2013,13:00,Mallorca,AD Alcorcón,4-4-2 duplo 6,Miguel Álvarez,8000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2348166
+5,dom 15/09/2013,16:00,AD Alcorcón,Ponferradina,4-4-2 duplo 6,Miguel Álvarez,2500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2348190
+6,dom 22/09/2013,13:15,Deportivo,AD Alcorcón,4-2-3-1,Miguel Álvarez,23000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2348195
+7,sáb 28/09/2013,13:15,AD Alcorcón,Alavés,4-2-3-1,Miguel Álvarez,1500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2348476
+8,dom 06/10/2013,12:00,Eibar,AD Alcorcón,4-2-3-1,Miguel Álvarez,2031,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2348483
+9,dom 13/10/2013,16:00,AD Alcorcón,Numância,4-4-2 duplo 6,Miguel Álvarez,2500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2348493
+10,dom 20/10/2013,13:00,Real Jaén,AD Alcorcón,4-5-1 plano,Miguel Álvarez,6000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2348503
+11,dom 27/10/2013,18:00,AD Alcorcón,Girona,4-4-2 duplo 6,Miguel Álvarez,2500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350390
+12,sáb 02/11/2013,17:00,Las Palmas,AD Alcorcón,4-2-3-1,Miguel Álvarez,10604,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350403
+13,sáb 09/11/2013,16:00,AD Alcorcón,Córdoba,4-4-2 duplo 6,Miguel Álvarez,2800,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350410
+14,sáb 16/11/2013,17:00,CE Sabadell,AD Alcorcón,4-2-3-1,Miguel Álvarez,1645,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350417
+15,dom 24/11/2013,18:00,AD Alcorcón,Real Murcia,4-4-2 duplo 6,Miguel Álvarez,3000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2356761
+16,dom 01/12/2013,14:00,Real Sporting,AD Alcorcón,4-2-3-1,Miguel Álvarez,15535,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350445
+17,qua 04/12/2013,17:00,Lugo,AD Alcorcón,4-3-3 ofensivo,Miguel Álvarez,2500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350449
+18,sáb 14/12/2013,15:15,AD Alcorcón,Hércules CF,4-3-3 ofensivo,Miguel Álvarez,2700,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350461
+19,dom 22/12/2013,18:00,Mirandés,AD Alcorcón,4-3-3 ofensivo,Miguel Álvarez,3172,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350475
+20,dom 05/01/2014,15:00,AD Alcorcón,Barcelona B,4-2-3-1,Miguel Álvarez,2000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350481
+21,dom 12/01/2014,15:15,Zaragoza,AD Alcorcón,4-2-3-1,Miguel Álvarez,10000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350490
+22,sáb 18/01/2014,17:00,Tenerife,AD Alcorcón,4-4-2 duplo 6,Miguel Álvarez,7937,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350497
+23,dom 26/01/2014,15:15,AD Alcorcón,RM Castilla,4-2-3-1,Miguel Álvarez,3800,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350509
+24,dom 02/02/2014,15:15,Recr. Huelva,AD Alcorcón,4-4-2 duplo 6,Miguel Álvarez,6273,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350530
+25,dom 09/02/2014,18:00,AD Alcorcón,Mallorca,4-2-3-1,José Bordalás,1700,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350563
+26,dom 16/02/2014,13:00,Ponferradina,AD Alcorcón,4-2-3-1,José Bordalás,6000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350578
+27,dom 23/02/2014,08:00,AD Alcorcón,Deportivo,4-2-3-1,José Bordalás,4900,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350729
+28,sáb 01/03/2014,14:00,Alavés,AD Alcorcón,4-2-3-1,José Bordalás,7823,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350744
+29,sáb 08/03/2014,14:00,AD Alcorcón,Eibar,4-2-3-1,José Bordalás,4100,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350751
+30,dom 16/03/2014,16:00,Numância,AD Alcorcón,5-4-1 plano,José Bordalás,2801,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350761
+31,sáb 22/03/2014,14:00,AD Alcorcón,Real Jaén,4-2-3-1,José Bordalás,4500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350771
+32,dom 30/03/2014,12:00,Girona,AD Alcorcón,4-4-2 duplo 6,José Bordalás,3585,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350780
+33,sáb 05/04/2014,15:00,AD Alcorcón,Las Palmas,4-2-3-1,José Bordalás,4500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350793
+34,dom 13/04/2014,12:00,Córdoba,AD Alcorcón,5-4-1 plano,José Bordalás,13957,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350800
+35,dom 20/04/2014,16:00,AD Alcorcón,CE Sabadell,4-2-3-1,José Bordalás,2917,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350806
+36,dom 27/04/2014,16:00,Real Murcia,AD Alcorcón,4-2-3-1,José Bordalás,6986,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2356782
+37,sáb 03/05/2014,13:00,AD Alcorcón,Real Sporting,4-2-3-1,José Bordalás,4700,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350834
+38,sáb 10/05/2014,15:00,AD Alcorcón,Lugo,4-2-3-1,José Bordalás,4521,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350838
+39,sáb 17/05/2014,15:00,Hércules CF,AD Alcorcón,4-2-3-1,José Bordalás,8500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350850
+40,dom 25/05/2014,16:00,AD Alcorcón,Mirandés,4-2-3-1,José Bordalás,1500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350864
+41,sáb 31/05/2014,14:00,Barcelona B,AD Alcorcón,4-2-3-1,José Bordalás,1941,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350865
+42,dom 08/06/2014,13:15,AD Alcorcón,Zaragoza,4-2-3-1,José Bordalás,3500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2350879

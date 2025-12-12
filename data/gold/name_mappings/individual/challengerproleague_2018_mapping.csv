@@ -1,0 +1,9 @@
+league_name,season_year,canonical_name,other_name,precision_score,is_confident_match
+challengerproleague,2018,afctubize,afctubize,100,True
+challengerproleague,2018,kfcobeerschotwilrijk,kfcobeerschot,79,True
+challengerproleague,2018,ksvroeselare2020,ksvroeselare,86,True
+challengerproleague,2018,kvcwesterlo,kvcwesterlo,100,True
+challengerproleague,2018,kvmechelen,kvmechelen,100,True
+challengerproleague,2018,lommelsk,lommelsk,100,True
+challengerproleague,2018,oudheverleeleuven,ohleuven,64,False
+challengerproleague,2018,unionsaintgilloise,unionsg,56,False

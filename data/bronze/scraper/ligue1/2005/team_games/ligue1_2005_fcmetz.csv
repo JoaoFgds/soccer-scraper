@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 29/07/2005,15:45,PSG,FC Metz,4-2-3-1,Joël Muller,42844,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39202
+2,sáb 06/08/2005,15:00,FC Metz,Le Mans UC 72,4-2-3-1,Joël Muller,18130,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39214
+3,sáb 13/08/2005,15:00,Saint-Étienne,FC Metz,4-2-3-1,Joël Muller,28966,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39229
+4,sáb 20/08/2005,15:00,FC Metz,Strasbourg,4-2-3-1,Joël Muller,19626,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39237
+5,sáb 27/08/2005,15:00,Nantes,FC Metz,4-3-3 ofensivo,Joël Muller,27532,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39247
+6,sáb 10/09/2005,15:00,FC Metz,Lille,4-2-3-1,Joël Muller,15584,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39257
+7,sáb 17/09/2005,15:00,AS Nancy,FC Metz,4-2-3-1,Joël Muller,20052,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39265
+8,qua 21/09/2005,15:30,FC Metz,Auxerre,4-2-3-1,Joël Muller,13630,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39274
+9,sáb 24/09/2005,15:00,Marselha,FC Metz,4-2-3-1,Joël Muller,47287,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39282
+10,sáb 01/10/2005,15:00,FC Metz,Bordeaux,4-3-3 ofensivo,Joël Muller,15263,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39299
+11,sáb 15/10/2005,15:00,Monaco,FC Metz,4-2-3-1,Joël Muller,8128,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39306
+12,sáb 22/10/2005,13:15,FC Metz,Lyon,4-2-3-1,Joël Muller,19333,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39315
+13,sáb 29/10/2005,16:00,Rennes,FC Metz,4-2-3-1,Joël Muller,24079,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39330
+14,sáb 05/11/2005,18:00,FC Metz,AC Ajaccio,4-2-3-1,Joël Muller,12592,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39334
+15,sáb 19/11/2005,18:00,Lens,FC Metz,4-3-3 ofensivo,Joël Muller,31926,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39345
+16,sáb 26/11/2005,18:00,Troyes,FC Metz,?,Joël Muller,10054,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39361
+17,sáb 03/12/2005,18:00,FC Metz,Toulouse,4-2-3-1,Joël Muller,12367,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39367
+18,sáb 10/12/2005,18:00,FC Sochaux,FC Metz,4-2-3-1,Joël Muller,11813,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39379
+19,sáb 17/12/2005,18:00,FC Metz,Nice,4-3-3 ofensivo,Joël Muller,12186,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39387
+20,qua 04/01/2006,18:30,Le Mans UC 72,FC Metz,,Joël Muller,8405,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39393
+21,qua 11/01/2006,18:30,FC Metz,Saint-Étienne,4-2-3-1,Joël Muller,12273,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39406
+22,sáb 14/01/2006,18:00,Strasbourg,FC Metz,?,Joël Muller,15543,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39421
+23,sáb 21/01/2006,18:00,FC Metz,Nantes,3-4-2-1,Joël Muller,12369,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39426
+24,dom 29/01/2006,16:00,Lille,FC Metz,4-2-3-1,Joël Muller,12104,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39435
+25,ter 07/03/2006,17:00,FC Metz,AS Nancy,?,Joël Muller,18324,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39445
+26,sáb 11/02/2006,18:00,Auxerre,FC Metz,4-4-2 duplo 6,Joël Muller,7025,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39452
+27,dom 19/02/2006,15:00,FC Metz,Marselha,4-2-3-1,Joël Muller,22689,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39464
+28,sáb 25/02/2006,17:00,Bordeaux,FC Metz,4-2-3-1,Joël Muller,22461,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39473
+29,sáb 04/03/2006,17:00,FC Metz,Monaco,?,Joël Muller,16757,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39484
+30,sáb 11/03/2006,17:00,Lyon,FC Metz,4-4-2,Joël Muller,37000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39495
+31,sáb 18/03/2006,17:00,FC Metz,Rennes,4-2-3-1,Joël Muller,16591,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39506
+32,sáb 25/03/2006,16:00,AC Ajaccio,FC Metz,?,Joël Muller,3174,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39512
+33,sáb 01/04/2006,15:00,FC Metz,Lens,?,Joël Muller,17957,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39524
+34,sáb 08/04/2006,15:00,FC Metz,Troyes,?,Joël Muller,21027,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39537
+35,sex 14/04/2006,15:00,Toulouse,FC Metz,4-4-2 duplo 6,Joël Muller,16272,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39550
+36,dom 30/04/2006,11:30,FC Metz,FC Sochaux,?,Joël Muller,12250,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39557
+37,sáb 06/05/2006,15:00,Nice,FC Metz,?,Joël Muller,13000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39592
+38,sáb 13/05/2006,15:00,FC Metz,PSG,?,Joël Muller,15807,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/39604

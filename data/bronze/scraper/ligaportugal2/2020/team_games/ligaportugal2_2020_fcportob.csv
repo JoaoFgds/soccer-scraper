@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 13/09/2020,14:30,Varzim,FC Porto B,4-2-3-1,Rui Barros,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431636
+2,sáb 19/09/2020,13:00,FC Porto B,Vizela,4-4-2 duplo 6,Rui Barros,,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431487
+3,qua 23/09/2020,12:00,UD Oliveirense,FC Porto B,4-1-3-2,Rui Barros,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431696
+4,dom 27/09/2020,13:00,FC Porto B,Penafiel,4-4-2 duplo 6,Rui Barros,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431602
+5,dom 04/10/2020,13:00,FC Porto B,Vilafranquense,4-1-3-2,Rui Barros,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431583
+6,sáb 17/10/2020,11:00,Casa Pia,FC Porto B,4-4-2 duplo 6,Rui Barros,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431477
+7,sáb 24/10/2020,11:00,FC Porto B,Chaves,4-1-3-2,Rui Barros,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431532
+8,sáb 31/10/2020,08:00,Covilhã,FC Porto B,?,Rui Barros,,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431723
+9,sáb 07/11/2020,12:00,FC Porto B,Mafra,?,Rui Barros,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431623
+10,dom 29/11/2020,12:00,Arouca,FC Porto B,?,Rui Barros,,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431529
+11,dom 06/12/2020,12:00,FC Porto B,Académica,?,Rui Barros,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431660
+12,seg 21/12/2020,14:00,Estoril,FC Porto B,4-4-2,Rui Barros,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431626
+13,qua 30/12/2020,12:00,FC Porto B,Académico FC,?,Rui Barros,,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431638
+14,seg 04/01/2021,11:00,Cova da Piedade,FC Porto B,?,Rui Barros,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431550
+15,seg 11/01/2021,12:00,FC Porto B,Leixões,,Rui Barros,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431506
+16,dom 17/01/2021,08:15,Feirense,FC Porto B,?,Rui Barros,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431551
+17,seg 25/01/2021,12:00,FC Porto B,Benfica B,?,Rui Barros,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431663
+18,dom 31/01/2021,12:00,FC Porto B,Varzim,?,Rui Barros,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431737
+19,dom 07/02/2021,08:15,Vizela,FC Porto B,?,António Folha,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431665
+20,dom 14/02/2021,12:00,FC Porto B,UD Oliveirense,?,António Folha,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431734
+21,dom 21/02/2021,11:00,Penafiel,FC Porto B,?,António Folha,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431707
+22,sáb 27/02/2021,14:00,Vilafranquense,FC Porto B,?,António Folha,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431654
+23,seg 08/03/2021,12:00,FC Porto B,Casa Pia,4-2-3-1,António Folha,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431625
+24,dom 14/03/2021,11:00,Chaves,FC Porto B,?,António Folha,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431522
+25,dom 21/03/2021,12:00,FC Porto B,Covilhã,?,António Folha,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431758
+26,seg 29/03/2021,13:00,Mafra,FC Porto B,3-4-1-2,António Folha,,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431669
+27,sáb 03/04/2021,11:00,FC Porto B,Arouca,?,António Folha,,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431598
+28,sáb 10/04/2021,07:00,Académica,FC Porto B,?,António Folha,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431652
+29,dom 18/04/2021,11:00,FC Porto B,Estoril,3-4-1-2,António Folha,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431567
+30,dom 25/04/2021,07:15,Académico FC,FC Porto B,?,António Folha,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431639
+31,sáb 01/05/2021,11:00,FC Porto B,Cova da Piedade,?,António Folha,,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431579
+32,dom 09/05/2021,13:30,Leixões,FC Porto B,?,António Folha,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431649
+33,dom 16/05/2021,11:00,FC Porto B,Feirense,4-2-3-1,António Folha,,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431634
+34,sáb 22/05/2021,14:00,Benfica B,FC Porto B,4-3-3 ofensivo,António Folha,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431555

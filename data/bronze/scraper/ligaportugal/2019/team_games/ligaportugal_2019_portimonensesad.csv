@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 09/08/2019,16:30,Portimonense,B SAD,4-2-3-1,António Folha,3486,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211335
+2,seg 19/08/2019,16:15,CD Tondela,Portimonense,4-1-4-1,António Folha,2955,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211345
+3,dom 25/08/2019,14:30,Portimonense,Sporting,4-2-3-1,António Folha,5634,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211377
+4,sex 30/08/2019,15:00,Moreirense,Portimonense,4-2-3-1,António Folha,1432,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211385
+5,dom 15/09/2019,14:00,Portimonense,FC Porto,4-2-3-1,António Folha,5499,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211399
+6,dom 22/09/2019,14:00,Vitória FC,Portimonense,4-2-3-1,António Folha,4833,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211429
+7,dom 29/09/2019,14:00,Portimonense,Braga,4-2-3-1,António Folha,3430,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211437
+8,sáb 26/10/2019,11:30,Gil Vicente,Portimonense,4-2-3-1,António Folha,2628,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211445
+9,qua 30/10/2019,17:15,Benfica,Portimonense,3-4-3 plano,António Folha,42037,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211458
+10,seg 04/11/2019,18:00,Portimonense,Santa Clara,3-4-3 plano,António Folha,2266,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211469
+11,dom 10/11/2019,12:00,Marítimo,Portimonense,3-4-3 plano,António Folha,4816,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211476
+12,sáb 30/11/2019,17:30,Portimonense,Famalicão,3-4-3 plano,António Folha,2714,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211485
+13,dom 08/12/2019,12:00,Vit. Guimarães,Portimonense,3-4-3 plano,António Folha,14913,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211494
+14,sex 13/12/2019,17:30,Portimonense,Rio Ave,3-4-1-2,António Folha,1973,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211502
+15,sáb 04/01/2020,12:30,Boavista,Portimonense,3-4-1-2,António Folha,9366,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211580
+16,sáb 11/01/2020,12:30,Portimonense,Paços Ferreira,3-4-3 plano,António Folha,2452,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211782
+17,sáb 18/01/2020,12:30,CD Aves,Portimonense,3-4-3 plano,António Folha,1778,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211786
+18,dom 26/01/2020,12:00,B SAD,Portimonense,4-3-3 ofensivo,Bruno Lopes,3280,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211801
+19,sáb 01/02/2020,12:30,Portimonense,CD Tondela,4-2-3-1,Bruno Lopes,2241,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211819
+20,dom 09/02/2020,14:30,Sporting,Portimonense,4-1-4-1,Bruno Lopes,28763,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211823
+21,sáb 15/02/2020,12:30,Portimonense,Moreirense,4-3-3 ofensivo,Paulo Sérgio,2493,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211833
+22,dom 23/02/2020,17:30,FC Porto,Portimonense,3-4-3 plano,Paulo Sérgio,40129,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211846
+23,sex 28/02/2020,17:30,Portimonense,Vitória FC,4-3-3 ofensivo,Paulo Sérgio,2522,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3211855
+24,sex 06/03/2020,17:30,Braga,Portimonense,4-1-4-1,Paulo Sérgio,8684,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212606
+25,qua 03/06/2020,15:00,Portimonense,Gil Vicente,4-3-3 ofensivo,Paulo Sérgio,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212609
+26,qua 10/06/2020,15:15,Portimonense,Benfica,4-2-3-1,Paulo Sérgio,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212620
+27,ter 16/06/2020,15:00,Santa Clara,Portimonense,4-3-3 ofensivo,Paulo Sérgio,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212626
+28,seg 22/06/2020,17:00,Portimonense,Marítimo,4-4-2,Paulo Sérgio,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212638
+29,ter 30/06/2020,13:00,Famalicão,Portimonense,4-3-3 ofensivo,Paulo Sérgio,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212647
+30,sáb 04/07/2020,15:15,Portimonense,Vit. Guimarães,4-3-3 ofensivo,Paulo Sérgio,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212658
+31,qui 09/07/2020,13:00,Rio Ave,Portimonense,3-4-3 plano,Paulo Sérgio,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212665
+32,ter 14/07/2020,15:15,Portimonense,Boavista,4-3-3 ofensivo,Paulo Sérgio,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212675
+33,seg 20/07/2020,13:00,Paços Ferreira,Portimonense,4-2-3-1,Paulo Sérgio,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212686
+34,dom 26/07/2020,15:30,Portimonense,CD Aves,4-3-3 ofensivo,Paulo Sérgio,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3212691

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 31/07/2015,15:00,Paris FC,Stade Lavallois,4-2-3-1,Denis Renaud,3500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2602005
+2,sex 07/08/2015,15:00,Tours FC,Paris FC,4-4-2 duplo 6,Denis Renaud,5762,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2602020
+3,sex 14/08/2015,15:00,Paris FC,Le Havre,4-4-2 duplo 6,Denis Renaud,2464,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2602026
+4,sex 21/08/2015,15:00,FC Sochaux,Paris FC,4-2-3-1,Denis Renaud,7954,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2602037
+5,sex 28/08/2015,15:00,Paris FC,Brest,4-2-3-1,Denis Renaud,3136,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2602047
+6,sex 11/09/2015,15:00,Clermont Foot,Paris FC,4-3-1-2,Denis Renaud,2812,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616472
+7,sáb 19/09/2015,09:00,Paris FC,Évian,4-3-3 ofensivo,Denis Renaud,2547,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616487
+8,ter 22/09/2015,16:00,Nîmes Olympique,Paris FC,4-2-3-1,Denis Renaud,3698,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616502
+9,seg 28/09/2015,15:30,Paris FC,AS Nancy,4-2-3-1,Denis Renaud,3086,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616512
+10,sex 02/10/2015,15:00,Auxerre,Paris FC,4-4-2 duplo 6,Denis Renaud,4472,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616517
+11,sex 16/10/2015,15:00,Paris FC,AC Ajaccio,4-2-3-1,Denis Renaud,3012,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616532
+12,sex 23/10/2015,16:00,Paris FC,Chamois Niort,4-2-3-1,Denis Renaud,2986,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616544
+13,sex 30/10/2015,17:00,FC Metz,Paris FC,4-2-3-1,Denis Renaud,11949,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616562
+14,sáb 07/11/2015,11:00,Paris FC,Red Star FC,4-2-3-1,Denis Renaud,7004,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616587
+15,sex 20/11/2015,17:00,Bourg-en-Bresse,Paris FC,4-2-3-1,Denis Renaud,1990,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616591
+16,sex 27/11/2015,17:00,Paris FC,Dijon,4-2-3-1,Denis Renaud,2628,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616618
+17,ter 01/12/2015,18:00,US Créteil-L,Paris FC,4-3-3 defensivo,Jean-Luc Vasseur,2136,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616628
+18,sex 11/12/2015,17:00,Paris FC,Lens,4-3-3 ofensivo,Jean-Luc Vasseur,3835,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616639
+19,sex 18/12/2015,17:00,Valenciennes,Paris FC,4-3-3 ofensivo,Jean-Luc Vasseur,6917,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616649
+20,sex 08/01/2016,17:00,Paris FC,Tours FC,4-3-3 defensivo,Jean-Luc Vasseur,2577,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2648118
+21,sex 15/01/2016,17:00,Le Havre,Paris FC,4-3-3 defensivo,Jean-Luc Vasseur,6055,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2648144
+22,sex 22/01/2016,17:00,Paris FC,FC Sochaux,4-3-3 defensivo,Jean-Luc Vasseur,3195,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2648158
+23,sex 29/01/2016,17:00,Brest,Paris FC,4-2-3-1,Jean-Luc Vasseur,8219,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2648166
+24,seg 01/02/2016,17:30,Paris FC,Clermont Foot,4-3-3 defensivo,Jean-Luc Vasseur,2580,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654402
+25,sex 05/02/2016,17:00,Évian,Paris FC,4-3-3 defensivo,Jean-Luc Vasseur,3205,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654408
+26,sex 12/02/2016,17:00,Paris FC,Nîmes Olympique,4-3-3 ofensivo,Jean-Luc Vasseur,2866,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654420
+27,sex 19/02/2016,17:00,AS Nancy,Paris FC,4-3-3 defensivo,Jean-Luc Vasseur,14030,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654427
+28,sex 26/02/2016,16:00,Paris FC,Auxerre,4-3-3 defensivo,Jean-Luc Vasseur,3389,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654441
+29,sex 04/03/2016,16:00,AC Ajaccio,Paris FC,4-3-3 defensivo,Jean-Luc Vasseur,2915,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654446
+30,sex 11/03/2016,16:00,Chamois Niort,Paris FC,4-3-3 defensivo,Jean-Luc Vasseur,3534,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654456
+31,sex 18/03/2016,16:00,Paris FC,FC Metz,4-3-3 defensivo,Jean-Luc Vasseur,3216,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654473
+32,seg 04/04/2016,15:30,Red Star FC,Paris FC,4-3-3 ofensivo,Jean-Luc Vasseur,3012,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654482
+33,sex 08/04/2016,15:00,Paris FC,Bourg-en-Bresse,4-3-3 ofensivo,Jean-Luc Vasseur,2426,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654493
+34,seg 18/04/2016,15:30,Dijon,Paris FC,4-3-3 ofensivo,Jean-Luc Vasseur,9743,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654496
+35,sex 22/04/2016,15:00,Paris FC,US Créteil-L,4-3-3 ofensivo,Jean-Luc Vasseur,3941,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654514
+36,sex 29/04/2016,15:00,Lens,Paris FC,4-3-3 defensivo,Jean-Luc Vasseur,30229,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654519
+37,sex 06/05/2016,15:45,Paris FC,Valenciennes,4-3-3 ofensivo,Jean-Luc Vasseur,3664,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654534
+38,sex 13/05/2016,15:45,Stade Lavallois,Paris FC,4-3-3 ofensivo,Jean-Luc Vasseur,9684,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654542

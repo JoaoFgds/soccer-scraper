@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 06/08/1999,19:00,Coventry City,Southampton,?,Dave Jones,19915,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1043690
+2,ter 10/08/1999,19:00,Southampton,Leeds,?,Dave Jones,15206,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1055077
+3,sáb 14/08/1999,19:00,Southampton,Newcastle,?,Dave Jones,15013,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1055089
+4,sex 20/08/1999,19:00,Everton,Southampton,4-3-3 defensivo,Dave Jones,31755,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1055093
+5,ter 07/03/2000,20:00,West Ham,Southampton,?,Glenn Hoddle,23484,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1055110
+6,sex 27/08/1999,19:00,Southampton,Sheff Wed,4-4-2,Dave Jones,14815,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1055181
+7,sex 10/09/1999,19:00,Middlesbrough,Southampton,?,Dave Jones,32165,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1055190
+8,sex 17/09/1999,19:00,Southampton,Arsenal,4-4-2,Dave Jones,15242,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1055201
+9,sex 24/09/1999,19:00,Man Utd,Southampton,?,Dave Jones,55249,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113807
+10,dom 03/10/1999,20:00,Southampton,Derby,?,Dave Jones,14208,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113821
+11,sex 15/10/1999,20:00,Leicester,Southampton,4-4-2,Dave Jones,19556,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113826
+12,sex 22/10/1999,20:00,Southampton,Liverpool,?,Dave Jones,15241,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113836
+13,sex 29/10/1999,20:00,Wimbledon FC,Southampton,?,Dave Jones,15754,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113848
+14,sex 05/11/1999,21:00,Aston Villa,Southampton,?,Dave Jones,26474,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113855
+15,sex 19/11/1999,21:00,Southampton,Tottenham,?,Dave Jones,15248,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113866
+16,sáb 27/11/1999,21:00,Leeds,Southampton,?,Dave Jones,39288,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113878
+17,sex 03/12/1999,21:00,Southampton,Coventry City,?,Dave Jones,15168,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113886
+18,sex 17/12/1999,21:00,AFC Sunderland,Southampton,?,Dave Jones,40860,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113895
+19,sáb 25/12/1999,21:00,Southampton,Chelsea,4-4-2,Dave Jones,15232,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113909
+20,seg 27/12/1999,21:00,Watford,Southampton,?,Dave Jones,18459,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113917
+21,dom 02/01/2000,21:00,Southampton,Bradford,?,Glenn Hoddle,15027,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113927
+22,sáb 15/01/2000,21:00,Newcastle,Southampton,?,Glenn Hoddle,35623,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113940
+23,sex 21/01/2000,21:00,Southampton,Everton,?,Glenn Hoddle,15232,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113947
+24,sex 04/02/2000,21:00,Southampton,West Ham,?,Glenn Hoddle,15257,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113958
+25,sex 11/02/2000,21:00,Sheff Wed,Southampton,?,Glenn Hoddle,23470,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113967
+26,sex 25/02/2000,21:00,Arsenal,Southampton,4-4-2,Glenn Hoddle,38044,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113972
+27,sex 03/03/2000,20:00,Southampton,Middlesbrough,?,Glenn Hoddle,15223,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113986
+28,sex 10/03/2000,20:00,Tottenham,Southampton,4-4-2,Glenn Hoddle,36024,7:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113998
+29,sáb 18/03/2000,12:00,Southampton,Aston Villa,?,Glenn Hoddle,15218,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1114005
+30,sáb 25/03/2000,12:00,Chelsea,Southampton,?,Glenn Hoddle,34956,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1114014
+31,sáb 01/04/2000,11:00,Southampton,AFC Sunderland,?,Glenn Hoddle,15245,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1114027
+32,sáb 08/04/2000,11:00,Bradford,Southampton,?,Glenn Hoddle,17349,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1114032
+33,sáb 15/04/2000,11:00,Southampton,Watford,?,Glenn Hoddle,15242,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1114048
+34,sáb 22/04/2000,11:00,Southampton,Man Utd,5-3-2,Glenn Hoddle,15245,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1114056
+35,seg 24/04/2000,09:00,Derby,Southampton,?,Glenn Hoddle,29403,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1114067
+36,sáb 29/04/2000,11:00,Southampton,Leicester,?,Glenn Hoddle,15178,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1114078
+37,dom 07/05/2000,12:00,Liverpool,Southampton,?,Glenn Hoddle,44015,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1114090
+38,dom 14/05/2000,12:00,Southampton,Wimbledon FC,?,Glenn Hoddle,15249,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1114098

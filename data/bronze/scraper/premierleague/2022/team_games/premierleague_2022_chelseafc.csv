@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 06/08/2022,13:30,Everton,Chelsea,3-4-2-1,Thomas Tuchel,39254,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3837821
+2,dom 14/08/2022,12:30,Chelsea,Tottenham,3-4-3 plano,Thomas Tuchel,39946,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3837829
+3,dom 21/08/2022,10:00,Leeds,Chelsea,4-4-2,Thomas Tuchel,36372,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3837838
+4,sáb 27/08/2022,11:00,Chelsea,Leicester,4-2-3-1,Thomas Tuchel,39953,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3837848
+5,ter 30/08/2022,15:45,Southampton,Chelsea,4-4-2 duplo 6,Thomas Tuchel,31072,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3837861
+6,sáb 03/09/2022,11:00,Chelsea,West Ham,3-4-2-1,Thomas Tuchel,39923,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3837975
+7,qui 12/01/2023,17:00,Fulham,Chelsea,3-5-2 plano,Graham Potter,24460,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3837991
+8,ter 04/04/2023,16:00,Chelsea,Liverpool,3-5-2 plano,Bruno Saltor,40093,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838001
+9,sáb 01/10/2022,11:00,Crystal Palace,Chelsea,4-4-2 duplo 6,Graham Potter,25198,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838010
+10,sáb 08/10/2022,11:00,Chelsea,Wolves,4-2-3-1,Graham Potter,39940,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838021
+11,dom 16/10/2022,10:00,Aston Villa,Chelsea,3-4-2-1,Graham Potter,41754,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838028
+12,qua 19/10/2022,15:30,Brentford,Chelsea,3-4-2-1,Graham Potter,17118,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838052
+13,sáb 22/10/2022,13:30,Chelsea,Man Utd,3-4-2-1,Graham Potter,39503,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838189
+14,sáb 29/10/2022,11:00,Brighton,Chelsea,3-4-2-1,Graham Potter,31746,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838207
+15,dom 06/11/2022,09:00,Chelsea,Arsenal,4-2-3-1,Graham Potter,40142,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838227
+16,sáb 12/11/2022,14:30,Newcastle,Chelsea,3-4-2-1,Graham Potter,52264,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838241
+17,ter 27/12/2022,14:30,Chelsea,Bournemouth,4-3-3 ofensivo,Graham Potter,40046,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838255
+18,dom 01/01/2023,13:30,Nott'm Forest,Chelsea,4-3-3 ofensivo,Graham Potter,29229,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838268
+19,qui 05/01/2023,17:00,Chelsea,Man City,4-2-3-1,Graham Potter,39998,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838275
+20,dom 15/01/2023,11:00,Chelsea,Crystal Palace,4-2-3-1,Graham Potter,40075,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838794
+21,sáb 21/01/2023,09:30,Liverpool,Chelsea,4-1-4-1,Graham Potter,53126,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838786
+22,sex 03/02/2023,17:00,Chelsea,Fulham,4-3-3 ofensivo,Graham Potter,40041,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838774
+23,sáb 11/02/2023,09:30,West Ham,Chelsea,4-2-3-1,Graham Potter,62471,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838761
+24,sáb 18/02/2023,12:00,Chelsea,Southampton,4-2-3-1,Graham Potter,40152,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838754
+25,dom 26/02/2023,10:30,Tottenham,Chelsea,4-2-3-1,Graham Potter,61613,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838749
+26,sáb 04/03/2023,12:00,Chelsea,Leeds,3-4-3 plano,Graham Potter,39905,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838736
+27,sáb 11/03/2023,12:00,Leicester,Chelsea,3-4-3 plano,Graham Potter,32170,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838730
+28,sáb 18/03/2023,14:30,Chelsea,Everton,3-4-3 plano,Graham Potter,40025,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838715
+29,sáb 01/04/2023,13:30,Chelsea,Aston Villa,3-4-3 plano,Graham Potter,40082,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838707
+30,sáb 08/04/2023,11:00,Wolves,Chelsea,4-3-3 ofensivo,Frank Lampard,31614,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838691
+31,sáb 15/04/2023,11:00,Chelsea,Brighton,4-2-3-1,Frank Lampard,40126,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838684
+32,qui 25/05/2023,16:00,Man Utd,Chelsea,4-3-3 ofensivo,Frank Lampard,73561,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838666
+33,qua 26/04/2023,15:45,Chelsea,Brentford,3-4-2-1,Frank Lampard,39929,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838649
+34,ter 02/05/2023,16:00,Arsenal,Chelsea,4-3-3 ofensivo,Frank Lampard,60144,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838648
+35,sáb 06/05/2023,11:00,Bournemouth,Chelsea,4-3-3 ofensivo,Frank Lampard,10357,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838623
+36,sáb 13/05/2023,11:00,Chelsea,Nott'm Forest,4-3-3 ofensivo,Frank Lampard,40030,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838616
+37,dom 21/05/2023,12:00,Man City,Chelsea,3-4-1-2,Frank Lampard,53490,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838607
+38,dom 28/05/2023,12:30,Chelsea,Newcastle,4-2-3-1,Frank Lampard,40130,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3838596

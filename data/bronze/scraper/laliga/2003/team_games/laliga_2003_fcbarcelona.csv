@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 30/08/2003,16:30,Athletic Club,Barcelona,4-2-3-1,Frank Rijkaard,37000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/492
+2,ter 02/09/2003,19:05,Barcelona,Sevilla,4-2-3-1,Frank Rijkaard,80237,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/707
+3,dom 14/09/2003,16:30,Albacete,Barcelona,4-2-3-1,Frank Rijkaard,17000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/901
+4,sáb 20/09/2003,14:30,Barcelona,Osasuna,4-3-1-2,Frank Rijkaard,83674,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1100
+5,dom 28/09/2003,16:30,Atlético,Barcelona,4-3-3 ofensivo,Frank Rijkaard,55000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1303
+6,dom 05/10/2003,16:30,Barcelona,Valencia,4-3-3 ofensivo,Frank Rijkaard,78019,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1503
+7,sáb 18/10/2003,16:30,Barcelona,Deportivo,4-3-3 ofensivo,Frank Rijkaard,68222,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1698
+8,dom 26/10/2003,16:00,Mallorca,Barcelona,3-4-3,Frank Rijkaard,22752,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1901
+9,qua 29/10/2003,18:00,Barcelona,Real Murcia,4-3-3 ofensivo,Frank Rijkaard,55255,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2102
+10,dom 02/11/2003,16:00,Real Sociedad,Barcelona,3-4-3,Frank Rijkaard,28800,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2295
+11,dom 09/11/2003,16:05,Barcelona,Betis,4-3-3 ofensivo,Frank Rijkaard,70487,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2493
+12,sáb 22/11/2003,18:30,Villarreal,Barcelona,4-3-3 ofensivo,Frank Rijkaard,18000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2684
+13,dom 30/11/2003,16:00,Barcelona,Valladolid,4-4-2 duplo 6,Frank Rijkaard,55958,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2893
+14,qua 03/12/2003,17:00,Málaga CF,Barcelona,3-5-2,Frank Rijkaard,22000,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3084
+15,sáb 06/12/2003,18:30,Barcelona,Real Madrid,4-4-2 duplo 6,Frank Rijkaard,92524,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3245
+16,sáb 13/12/2003,16:30,Espanyol,Barcelona,3-4-3,Frank Rijkaard,30000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3444
+17,dom 21/12/2003,18:00,Barcelona,Celta de Vigo,4-2-3-1,Frank Rijkaard,47863,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3663
+18,dom 04/01/2004,16:00,Rac. Santander,Barcelona,4-3-3 ofensivo,Frank Rijkaard,16512,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3824
+19,dom 11/01/2004,16:00,Barcelona,Zaragoza,4-3-3 ofensivo,Frank Rijkaard,55876,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3907
+20,sáb 17/01/2004,18:30,Barcelona,Athletic Club,4-3-3 ofensivo,Frank Rijkaard,57659,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4176
+21,dom 25/01/2004,16:00,Sevilla,Barcelona,4-3-3 ofensivo,Frank Rijkaard,40000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4371
+22,dom 01/02/2004,16:00,Barcelona,Albacete,4-3-3 ofensivo,Frank Rijkaard,49619,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4533
+23,dom 08/02/2004,16:00,Osasuna,Barcelona,4-3-3 ofensivo,Frank Rijkaard,19500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4743
+24,dom 15/02/2004,15:00,Barcelona,Atlético,4-3-3 ofensivo,Frank Rijkaard,83559,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4936
+25,sáb 21/02/2004,17:30,Valencia,Barcelona,4-3-3 ofensivo,Frank Rijkaard,48000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5145
+26,dom 29/02/2004,17:00,Deportivo,Barcelona,4-3-3 ofensivo,Frank Rijkaard,32000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5336
+27,dom 07/03/2004,13:00,Barcelona,Mallorca,4-3-3 ofensivo,Frank Rijkaard,71635,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5521
+28,dom 14/03/2004,15:00,Real Murcia,Barcelona,4-3-3 ofensivo,Frank Rijkaard,19000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5742
+29,dom 21/03/2004,17:00,Barcelona,Real Sociedad,4-3-3 ofensivo,Frank Rijkaard,62792,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5956
+30,qua 14/04/2004,16:00,Betis,Barcelona,4-3-3 ofensivo,Frank Rijkaard,40000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6188
+31,sáb 03/04/2004,17:00,Barcelona,Villarreal,4-3-3 ofensivo,Frank Rijkaard,52103,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6371
+32,sáb 10/04/2004,13:00,Valladolid,Barcelona,4-3-3 ofensivo,Frank Rijkaard,17000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6560
+33,dom 18/04/2004,16:30,Barcelona,Málaga CF,4-3-3 ofensivo,Frank Rijkaard,48813,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6779
+34,dom 25/04/2004,14:30,Real Madrid,Barcelona,4-3-3 ofensivo,Frank Rijkaard,76300,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6979
+35,dom 02/05/2004,16:30,Barcelona,Espanyol,4-3-3 ofensivo,Frank Rijkaard,76810,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7189
+36,sáb 08/05/2004,15:00,Celta de Vigo,Barcelona,4-3-3 ofensivo,Frank Rijkaard,25000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7233
+37,dom 16/05/2004,14:30,Barcelona,Rac. Santander,4-3-3 ofensivo,Frank Rijkaard,73342,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7296
+38,dom 23/05/2004,16:00,Zaragoza,Barcelona,4-3-3 ofensivo,Frank Rijkaard,32000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7330

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 10/09/2000,14:00,Osasuna,Celta de Vigo,?,Víctor Fernández,15000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089938
+2,dom 17/09/2000,15:00,Celta de Vigo,Real Sociedad,?,Víctor Fernández,20000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089981
+3,dom 24/09/2000,15:00,Celta de Vigo,Espanyol,?,Víctor Fernández,20000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1089992
+4,dom 01/10/2000,14:00,Rayo Vallecano,Celta de Vigo,?,Víctor Fernández,9000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091349
+5,dom 15/10/2000,17:00,Celta de Vigo,Alavés,?,Víctor Fernández,18000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091357
+6,dom 22/10/2000,14:00,Real Oviedo,Celta de Vigo,?,Víctor Fernández,24000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091369
+7,dom 29/10/2000,15:00,Celta de Vigo,Valladolid,?,Víctor Fernández,18000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091379
+8,qua 01/11/2000,18:00,Valencia,Celta de Vigo,?,Víctor Fernández,45000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091393
+9,sáb 04/11/2000,18:00,Celta de Vigo,Málaga CF,?,Víctor Fernández,14000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091396
+10,dom 12/11/2000,14:00,Athletic Club,Celta de Vigo,?,Víctor Fernández,34000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091405
+11,dom 19/11/2000,14:00,Celta de Vigo,Rac. Santander,?,Víctor Fernández,19000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091462
+12,dom 26/11/2000,17:00,Deportivo,Celta de Vigo,?,Víctor Fernández,30000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091476
+13,sáb 02/12/2000,18:00,Celta de Vigo,Barcelona,?,Víctor Fernández,20000,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091482
+14,dom 10/12/2000,14:00,Real Madrid,Celta de Vigo,?,Víctor Fernández,60124,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091495
+15,dom 17/12/2000,14:00,Celta de Vigo,Mallorca,?,Víctor Fernández,20000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091503
+16,qua 20/12/2000,17:30,Numância,Celta de Vigo,?,Víctor Fernández,7000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091515
+17,dom 07/01/2001,14:00,Celta de Vigo,Las Palmas,?,Víctor Fernández,18000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091520
+18,dom 14/01/2001,14:00,Villarreal,Celta de Vigo,?,Víctor Fernández,16500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091534
+19,dom 21/01/2001,14:00,Celta de Vigo,Zaragoza,?,Víctor Fernández,17000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091541
+20,dom 28/01/2001,14:00,Celta de Vigo,Osasuna,?,Víctor Fernández,18000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091552
+21,dom 04/02/2001,14:00,Real Sociedad,Celta de Vigo,?,Víctor Fernández,27000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091563
+22,sáb 10/02/2001,18:00,Espanyol,Celta de Vigo,?,Víctor Fernández,13800,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091575
+23,dom 18/02/2001,13:00,Celta de Vigo,Rayo Vallecano,?,Víctor Fernández,19000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091585
+24,dom 25/02/2001,13:00,Alavés,Celta de Vigo,?,Víctor Fernández,13232,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091593
+25,dom 04/03/2001,13:00,Celta de Vigo,Real Oviedo,?,Víctor Fernández,20000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091606
+26,dom 11/03/2001,13:00,Valladolid,Celta de Vigo,?,Víctor Fernández,11000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091630
+27,dom 18/03/2001,16:30,Celta de Vigo,Valencia,?,Víctor Fernández,22000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091651
+28,sáb 31/03/2001,16:00,Málaga CF,Celta de Vigo,?,Víctor Fernández,20000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091654
+29,dom 08/04/2001,13:00,Celta de Vigo,Athletic Club,?,Víctor Fernández,25000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091664
+30,dom 15/04/2001,13:00,Rac. Santander,Celta de Vigo,?,Víctor Fernández,22000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091679
+31,sáb 21/04/2001,16:00,Celta de Vigo,Deportivo,?,Víctor Fernández,28000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091682
+32,dom 29/04/2001,15:00,Barcelona,Celta de Vigo,?,Víctor Fernández,45000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091702
+33,sáb 05/05/2001,15:30,Celta de Vigo,Real Madrid,?,Víctor Fernández,30000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091705
+34,dom 13/05/2001,13:00,Mallorca,Celta de Vigo,?,Víctor Fernández,19000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091718
+35,dom 20/05/2001,13:00,Celta de Vigo,Numância,?,Víctor Fernández,18000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091726
+36,sáb 26/05/2001,17:00,Las Palmas,Celta de Vigo,?,Víctor Fernández,15780,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091735
+37,dom 10/06/2001,16:00,Celta de Vigo,Villarreal,?,Víctor Fernández,28000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091747
+38,dom 17/06/2001,16:00,Zaragoza,Celta de Vigo,?,Víctor Fernández,34596,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1091763

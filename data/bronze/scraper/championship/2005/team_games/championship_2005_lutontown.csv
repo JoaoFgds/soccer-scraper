@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 06/08/2005,11:00,Crystal Palace,Luton,?,Mike Newell,21166,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/44894
+2,ter 09/08/2005,15:45,Luton,Southampton,?,Mike Newell,9447,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/44912
+3,sáb 13/08/2005,11:00,Luton,Leeds,?,Mike Newell,10102,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/44918
+4,sáb 20/08/2005,11:00,Stoke,Luton,?,Mike Newell,18653,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/44938
+5,sáb 27/08/2005,11:00,Leicester,Luton,?,Mike Newell,22048,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/44944
+6,seg 29/08/2005,08:00,Luton,Millwall,?,Mike Newell,8220,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/44952
+7,sáb 10/09/2005,11:00,Luton,Wolves,?,Mike Newell,10248,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/44973
+8,ter 13/09/2005,15:45,QPR,Luton,?,Mike Newell,13492,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/44981
+9,sáb 17/09/2005,08:45,Hull City,Luton,?,Mike Newell,19184,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/44989
+10,sex 23/09/2005,15:45,Luton,Sheff Wed,?,Mike Newell,8267,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45000
+11,ter 27/09/2005,15:45,Luton,Preston NE,?,Mike Newell,7815,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45015
+12,sáb 01/10/2005,11:00,Cardiff,Luton,?,Mike Newell,14657,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45033
+13,sáb 15/10/2005,11:00,Crewe Alexandra,Luton,?,Mike Newell,6604,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45039
+14,ter 18/10/2005,16:45,Luton,Norwich,?,Mike Newell,10248,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45054
+15,sáb 22/10/2005,12:00,Luton,Plymouth Argyle,?,Mike Newell,8714,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45062
+16,sáb 29/10/2005,12:00,Coventry City,Luton,?,Mike Newell,22228,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45073
+17,ter 01/11/2005,17:45,Sheff Utd,Luton,?,Mike Newell,22554,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45091
+18,sáb 05/11/2005,13:00,Luton,FC Burnley,?,Mike Newell,8518,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45102
+19,sáb 19/11/2005,13:00,Norwich,Luton,?,Mike Newell,25383,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45109
+20,ter 22/11/2005,17:45,Luton,Crewe Alexandra,?,Mike Newell,7474,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45126
+21,sáb 26/11/2005,13:00,Luton,Crystal Palace,?,Mike Newell,10248,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45136
+22,sáb 03/12/2005,13:00,Reading,Luton,?,Mike Newell,19478,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45151
+23,dom 11/12/2005,11:30,Southampton,Luton,?,Mike Newell,19086,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45165
+24,sáb 17/12/2005,13:00,Luton,Stoke,?,Mike Newell,8296,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45172
+25,seg 26/12/2005,13:00,Derby,Luton,?,Mike Newell,26807,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45184
+26,qua 28/12/2005,17:45,Luton,Brighton,?,Mike Newell,9429,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45195
+27,sáb 31/12/2005,11:00,Ipswich,Luton,?,Mike Newell,23957,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45209
+28,seg 02/01/2006,10:00,Luton,Watford,?,Mike Newell,10248,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45218
+29,sex 13/01/2006,17:45,Wolves,Luton,?,Mike Newell,21823,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45239
+30,sáb 21/01/2006,13:00,Luton,QPR,?,Mike Newell,9797,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45246
+31,ter 31/01/2006,17:45,Sheff Wed,Luton,?,Mike Newell,23965,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45260
+32,sáb 04/02/2006,13:00,Luton,Hull City,?,Mike Newell,8835,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45270
+33,sáb 11/02/2006,13:00,Preston NE,Luton,?,Mike Newell,15237,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45282
+34,ter 14/02/2006,17:45,Luton,Cardiff,?,Mike Newell,7826,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45293
+35,sex 17/02/2006,17:45,Luton,Reading,?,Mike Newell,8705,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45304
+36,sáb 25/02/2006,12:00,Leeds,Luton,?,Mike Newell,23644,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45318
+37,sáb 04/03/2006,12:00,Millwall,Luton,?,Mike Newell,9871,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45328
+38,sáb 11/03/2006,12:00,Luton,Leicester,?,Mike Newell,9783,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45343
+39,sáb 18/03/2006,12:00,Luton,Derby,?,Mike Newell,9163,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45351
+40,sáb 25/03/2006,12:00,Brighton,Luton,?,Mike Newell,7139,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45360
+41,sáb 01/04/2006,11:00,Luton,Ipswich,?,Mike Newell,9820,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45375
+42,sáb 08/04/2006,11:00,Watford,Luton,?,Mike Newell,15922,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45394
+43,sáb 15/04/2006,11:00,Luton,Coventry City,?,Mike Newell,8752,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45402
+44,seg 17/04/2006,11:00,Plymouth Argyle,Luton,?,Mike Newell,13486,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45414
+45,sáb 22/04/2006,11:00,Luton,Sheff Utd,?,Mike Newell,10248,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45426
+46,dom 30/04/2006,09:30,FC Burnley,Luton,?,Mike Newell,12473,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/45433

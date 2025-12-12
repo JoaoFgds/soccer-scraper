@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 24/08/2015,16:00,Bilbao Athletic,Girona,4-2-3-1,Cuco Ziganda,7900,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594854
+2,dom 30/08/2015,15:30,Elche,Bilbao Athletic,4-2-3-1,Cuco Ziganda,10209,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594870
+3,dom 06/09/2015,07:00,Bilbao Athletic,Mallorca,4-2-3-1,Cuco Ziganda,9000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594881
+4,sáb 12/09/2015,13:00,Valladolid,Bilbao Athletic,4-2-3-1,Cuco Ziganda,8249,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594893
+5,sáb 19/09/2015,13:15,Bilbao Athletic,AD Alcorcón,4-2-3-1,Cuco Ziganda,4000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594904
+6,sáb 26/09/2015,13:00,Ponferradina,Bilbao Athletic,4-2-3-1,Cuco Ziganda,4104,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594916
+7,sáb 03/10/2015,13:00,Córdoba,Bilbao Athletic,5-4-1 plano,Cuco Ziganda,12000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594927
+8,sáb 10/10/2015,13:00,Bilbao Athletic,Numância,4-2-3-1,Cuco Ziganda,11564,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594938
+9,sáb 17/10/2015,13:00,Gimnàstic,Bilbao Athletic,4-2-3-1,Cuco Ziganda,5565,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594948
+10,sáb 24/10/2015,14:00,Bilbao Athletic,SD Huesca,4-2-3-1,Cuco Ziganda,8800,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594959
+11,dom 01/11/2015,14:00,Real Oviedo,Bilbao Athletic,4-2-3-1,Cuco Ziganda,13731,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594969
+12,seg 09/11/2015,17:30,Bilbao Athletic,UE Llagostera,4-2-3-1,Cuco Ziganda,6469,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594980
+13,sáb 14/11/2015,15:00,Mirandés,Bilbao Athletic,4-2-3-1,Cuco Ziganda,3599,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594990
+14,sáb 21/11/2015,13:00,Bilbao Athletic,UD Almería,5-4-1 plano,Cuco Ziganda,4638,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595001
+15,sáb 28/11/2015,15:00,Leganés,Bilbao Athletic,5-4-1 plano,Cuco Ziganda,4014,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595011
+16,seg 07/12/2015,17:30,Bilbao Athletic,Zaragoza,5-4-1 plano,Cuco Ziganda,12441,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595022
+17,dom 13/12/2015,14:00,Osasuna,Bilbao Athletic,4-4-2 duplo 6,Cuco Ziganda,13360,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595032
+18,seg 21/12/2015,17:30,Bilbao Athletic,Lugo,4-2-3-1,Cuco Ziganda,9351,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595043
+19,sáb 02/01/2016,15:00,Alavés,Bilbao Athletic,4-4-2,Cuco Ziganda,13581,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595053
+20,dom 10/01/2016,14:00,Bilbao Athletic,Albacete,4-2-3-1,Cuco Ziganda,5997,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595064
+21,sáb 16/01/2016,15:00,Tenerife,Bilbao Athletic,4-2-3-1,Cuco Ziganda,8333,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595074
+22,sáb 23/01/2016,15:00,Girona,Bilbao Athletic,5-4-1 plano,Cuco Ziganda,4206,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595085
+23,dom 31/01/2016,14:00,Bilbao Athletic,Elche,5-4-1 plano,Cuco Ziganda,6631,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595101
+24,dom 07/02/2016,14:00,Mallorca,Bilbao Athletic,5-4-1 plano,Cuco Ziganda,9000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595112
+25,sáb 13/02/2016,15:00,Bilbao Athletic,Valladolid,5-4-1 plano,Cuco Ziganda,7080,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595124
+26,sáb 20/02/2016,15:00,AD Alcorcón,Bilbao Athletic,5-4-1 plano,Cuco Ziganda,2323,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595135
+27,sáb 27/02/2016,14:00,Bilbao Athletic,Ponferradina,5-4-1,Cuco Ziganda,3306,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595147
+28,sáb 05/03/2016,14:00,Bilbao Athletic,Córdoba,5-4-1 plano,Cuco Ziganda,5044,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595158
+29,sáb 12/03/2016,14:00,Numância,Bilbao Athletic,5-3-2,Cuco Ziganda,2938,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595169
+30,dom 20/03/2016,13:00,Bilbao Athletic,Gimnàstic,5-4-1 plano,Cuco Ziganda,4861,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595179
+31,sáb 26/03/2016,14:00,SD Huesca,Bilbao Athletic,4-2-3-1,Cuco Ziganda,3080,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595190
+32,seg 04/04/2016,15:30,Bilbao Athletic,Real Oviedo,4-2-3-1,Cuco Ziganda,5666,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595200
+33,sáb 09/04/2016,13:00,UE Llagostera,Bilbao Athletic,4-2-3-1,Cuco Ziganda,3156,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595211
+34,sáb 16/04/2016,13:00,Bilbao Athletic,Mirandés,4-2-3-1,Cuco Ziganda,8027,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595221
+35,dom 24/04/2016,12:00,UD Almería,Bilbao Athletic,5-4-1 plano,Cuco Ziganda,9549,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595232
+36,seg 02/05/2016,15:30,Bilbao Athletic,Leganés,5-4-1,Cuco Ziganda,4152,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595242
+37,dom 08/05/2016,15:00,Zaragoza,Bilbao Athletic,5-4-1,Cuco Ziganda,17072,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595253
+38,dom 15/05/2016,14:00,Bilbao Athletic,Osasuna,4-2-3-1,Cuco Ziganda,13006,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595263
+39,dom 22/05/2016,12:00,Lugo,Bilbao Athletic,4-2-3-1,Cuco Ziganda,2777,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595274
+40,qui 26/05/2016,15:00,Bilbao Athletic,Alavés,4-2-3-1,Cuco Ziganda,6000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595284
+41,dom 29/05/2016,15:00,Albacete,Bilbao Athletic,5-4-1 plano,Cuco Ziganda,2433,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595295
+42,sáb 04/06/2016,12:30,Bilbao Athletic,Tenerife,4-2-3-1,Cuco Ziganda,727,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2595305

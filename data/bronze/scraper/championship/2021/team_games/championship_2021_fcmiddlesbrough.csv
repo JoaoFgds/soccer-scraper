@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 08/08/2021,09:30,Fulham,Middlesbrough,4-3-1-2,Neil Warnock,16058,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3587431
+2,sáb 14/08/2021,11:00,Middlesbrough,Bristol City,4-1-4-1,Neil Warnock,22004,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3587442
+3,qua 18/08/2021,15:45,Middlesbrough,QPR,4-2-3-1,Neil Warnock,22436,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3587457
+4,sáb 21/08/2021,11:00,Derby,Middlesbrough,4-1-4-1,Neil Warnock,16123,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3587483
+5,sáb 28/08/2021,11:00,Middlesbrough,Blackburn,3-5-2 plano,Neil Warnock,20542,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3587498
+6,sáb 11/09/2021,11:00,Coventry City,Middlesbrough,3-5-2 plano,Neil Warnock,18515,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3587510
+7,qua 15/09/2021,15:45,Nott'm Forest,Middlesbrough,4-2-3-1,Neil Warnock,23830,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589163
+8,sáb 18/09/2021,11:00,Middlesbrough,Blackpool,4-2-3-1,Neil Warnock,21022,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589183
+9,sáb 25/09/2021,08:30,Reading,Middlesbrough,4-2-3-1,Neil Warnock,12469,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589195
+10,ter 28/09/2021,15:45,Middlesbrough,Sheff Utd,3-5-2 plano,Neil Warnock,19390,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589213
+11,sáb 02/10/2021,11:00,Hull City,Middlesbrough,3-5-2 plano,Neil Warnock,13696,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589239
+12,sáb 16/10/2021,11:00,Middlesbrough,Peterborough,3-5-2,Neil Warnock,19556,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589248
+13,qua 20/10/2021,15:45,Middlesbrough,Barnsley FC,3-4-1-2,Neil Warnock,17931,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589873
+14,sáb 23/10/2021,08:30,Cardiff,Middlesbrough,3-5-2 plano,Neil Warnock,17513,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589882
+15,sáb 30/10/2021,11:00,Middlesbrough,Birmingham,3-5-2 plano,Neil Warnock,21582,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3589894
+16,ter 02/11/2021,16:45,Luton,Middlesbrough,3-5-2 plano,Neil Warnock,9790,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592338
+17,sáb 06/11/2021,12:00,West Brom,Middlesbrough,3-5-2 plano,Neil Warnock,22596,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592335
+18,sáb 20/11/2021,12:00,Middlesbrough,Millwall,3-5-2 plano,Chris Wilder,20845,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592353
+19,ter 23/11/2021,16:45,Middlesbrough,Preston NE,3-5-2 plano,Chris Wilder,18013,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592411
+20,sáb 27/11/2021,12:00,Huddersfield,Middlesbrough,3-5-2 plano,Chris Wilder,19192,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592387
+21,sáb 04/12/2021,12:00,Middlesbrough,Swansea,3-5-2 plano,Chris Wilder,18707,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592403
+22,sáb 11/12/2021,12:00,Stoke,Middlesbrough,3-5-2 plano,Chris Wilder,21140,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592381
+23,sáb 18/12/2021,09:30,Middlesbrough,Bournemouth,3-5-2 plano,Chris Wilder,18323,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592367
+24,dom 26/12/2021,12:00,Middlesbrough,Nott'm Forest,3-5-2 plano,Chris Wilder,29832,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592571
+25,qua 29/12/2021,16:45,Blackpool,Middlesbrough,3-5-2 plano,Chris Wilder,13428,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592555
+26,ter 08/03/2022,16:45,Sheff Utd,Middlesbrough,3-5-2 plano,Chris Wilder,28994,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592428
+27,sáb 15/01/2022,12:00,Middlesbrough,Reading,3-5-2 plano,Chris Wilder,21634,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592637
+28,seg 24/01/2022,16:45,Blackburn,Middlesbrough,3-5-2 plano,Chris Wilder,14670,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592506
+29,sáb 29/01/2022,12:00,Middlesbrough,Coventry City,3-5-2 plano,Chris Wilder,22940,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592523
+30,qua 06/04/2022,15:45,Middlesbrough,Fulham,3-5-2 plano,Chris Wilder,21995,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592461
+31,qua 09/02/2022,16:45,QPR,Middlesbrough,3-5-2 plano,Chris Wilder,14140,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592661
+32,sáb 12/02/2022,12:00,Middlesbrough,Derby,3-5-2 plano,Chris Wilder,26266,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592437
+33,sáb 19/02/2022,12:00,Bristol City,Middlesbrough,3-5-2 plano,Chris Wilder,20148,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592530
+34,ter 22/02/2022,16:45,Middlesbrough,West Brom,3-5-2 plano,Chris Wilder,21646,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592470
+35,sáb 26/02/2022,12:00,Barnsley FC,Middlesbrough,3-5-2 plano,Chris Wilder,16107,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592493
+36,sáb 05/03/2022,12:00,Middlesbrough,Luton,3-5-2 plano,Chris Wilder,23817,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592449
+37,sáb 12/03/2022,12:00,Millwall,Middlesbrough,3-5-2,Chris Wilder,16734,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592488
+38,ter 15/03/2022,16:45,Birmingham,Middlesbrough,3-5-2 plano,Chris Wilder,15852,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592542
+39,qua 27/04/2022,15:45,Middlesbrough,Cardiff,3-5-2 plano,Chris Wilder,19727,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592623
+40,sáb 02/04/2022,11:00,Peterborough,Middlesbrough,3-5-2 plano,Chris Wilder,11755,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592638
+41,sáb 09/04/2022,11:00,Middlesbrough,Hull City,3-5-2,Chris Wilder,24603,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592624
+42,sex 15/04/2022,11:00,Bournemouth,Middlesbrough,3-5-2 plano,Chris Wilder,9903,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592576
+43,seg 18/04/2022,08:30,Middlesbrough,Huddersfield,3-5-2,Chris Wilder,24230,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592639
+44,sáb 23/04/2022,11:00,Swansea,Middlesbrough,3-5-2 plano,Chris Wilder,18246,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592682
+45,sáb 30/04/2022,11:00,Middlesbrough,Stoke,3-5-2 plano,Chris Wilder,24942,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592634
+46,sáb 07/05/2022,08:30,Preston NE,Middlesbrough,3-5-2 plano,Chris Wilder,17691,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3592319

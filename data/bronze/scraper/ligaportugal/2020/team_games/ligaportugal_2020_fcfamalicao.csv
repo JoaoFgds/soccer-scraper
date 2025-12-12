@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 18/09/2020,15:00,Famalicão,Benfica,4-3-3 ofensivo,João Pedro Sousa,x,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431959
+2,seg 28/09/2020,15:45,B SAD,Famalicão,4-3-3 ofensivo,João Pedro Sousa,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431970
+3,dom 04/10/2020,14:30,Famalicão,Rio Ave,4-3-3 ofensivo,João Pedro Sousa,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431965
+4,dom 18/10/2020,13:30,Farense,Famalicão,4-3-3 ofensivo,João Pedro Sousa,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432005
+5,dom 25/10/2020,14:30,Famalicão,Boavista,4-3-3 ofensivo,João Pedro Sousa,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431964
+6,seg 02/11/2020,15:45,Braga,Famalicão,4-3-3 ofensivo,João Pedro Sousa,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432002
+7,sáb 07/11/2020,15:00,Famalicão,Marítimo,4-3-3 ofensivo,João Pedro Sousa,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431969
+8,sex 27/11/2020,16:00,Paços Ferreira,Famalicão,4-3-3 ofensivo,João Pedro Sousa,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432000
+9,sáb 05/12/2020,15:00,Famalicão,Sporting,4-3-3 ofensivo,João Pedro Sousa,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3431989
+10,sex 18/12/2020,17:30,Portimonense,Famalicão,4-3-3 ofensivo,João Pedro Sousa,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432153
+11,dom 27/12/2020,12:00,Famalicão,Gil Vicente,4-1-4-1,João Pedro Sousa,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432001
+12,dom 03/01/2021,10:00,CD Tondela,Famalicão,4-3-3 ofensivo,João Pedro Sousa,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432222
+13,sex 08/01/2021,18:00,Famalicão,FC Porto,5-4-1 plano,João Pedro Sousa,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432007
+14,dom 17/01/2021,14:30,Santa Clara,Famalicão,4-2-3-1,João Pedro Sousa,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432083
+15,dom 24/01/2021,17:15,Famalicão,Vit. Guimarães,4-2-3-1,João Pedro Sousa,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432033
+16,sáb 30/01/2021,12:30,Nacional,Famalicão,4-4-1-1,João Pedro Sousa,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432102
+17,qui 04/02/2021,18:30,Famalicão,Moreirense,3-4-2-1,Silas,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432015
+18,seg 08/02/2021,16:00,Benfica,Famalicão,5-4-1 plano,Silas,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432060
+19,sex 12/02/2021,17:30,Famalicão,B SAD,4-2-3-1,Silas,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432040
+20,dom 21/02/2021,12:00,Rio Ave,Famalicão,3-5-2 plano,Silas,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432050
+21,sáb 27/02/2021,12:30,Famalicão,Farense,3-5-2 plano,Silas,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432098
+22,sáb 06/03/2021,17:30,Boavista,Famalicão,3-4-1-2,Silas,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432072
+23,seg 15/03/2021,17:15,Famalicão,Braga,4-3-3 ofensivo,Ivo Vieira,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432063
+24,dom 21/03/2021,14:30,Marítimo,Famalicão,4-3-3 ofensivo,Ivo Vieira,x,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432049
+25,dom 04/04/2021,16:00,Famalicão,Paços Ferreira,4-4-2 duplo 6,Ivo Vieira,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432084
+26,dom 11/04/2021,16:00,Sporting,Famalicão,4-3-3 ofensivo,Ivo Vieira,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432057
+27,dom 18/04/2021,11:00,Famalicão,Portimonense,4-1-4-1,Ivo Vieira,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432214
+28,qui 22/04/2021,13:00,Gil Vicente,Famalicão,4-1-4-1,Ivo Vieira,,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432068
+29,seg 26/04/2021,15:00,Famalicão,CD Tondela,4-1-4-1,Ivo Vieira,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432258
+30,sex 30/04/2021,17:15,FC Porto,Famalicão,4-1-4-1,Ivo Vieira,,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432074
+31,sex 07/05/2021,15:00,Famalicão,Santa Clara,4-2-3-1,Ivo Vieira,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432168
+32,qua 12/05/2021,16:15,Vit. Guimarães,Famalicão,4-2-3-1,Ivo Vieira,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432075
+33,dom 16/05/2021,11:00,Famalicão,Nacional,4-2-3-1,Ivo Vieira,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432055
+34,qua 19/05/2021,16:00,Moreirense,Famalicão,4-2-3-1,Ivo Vieira,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3432076

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 27/07/2007,15:00,FC Gueugnon,Amiens SC,,Alain Ravera,2910,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80205
+2,sex 03/08/2007,15:00,CS Sedan,FC Gueugnon,,Alain Ravera,9106,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80212
+3,sex 10/08/2007,15:00,FC Gueugnon,LB Châteauroux,,Alain Ravera,2392,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80225
+4,sex 17/08/2007,15:00,SC Bastia,FC Gueugnon,,Alain Ravera,3449,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80234
+5,sex 24/08/2007,15:00,FC Gueugnon,Reims,,Alain Ravera,2995,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80246
+6,sex 31/08/2007,15:00,Le Havre,FC Gueugnon,,Alain Ravera,9674,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80258
+7,sex 14/09/2007,15:00,FC Gueugnon,Clermont Foot,,Alain Ravera,3940,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80266
+8,sex 21/09/2007,15:00,Brest,FC Gueugnon,,Alain Ravera,3784,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80275
+9,sex 28/09/2007,13:00,FC Gueugnon,Lib.-St.-Seurin,,Alain Ravera,2041,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80287
+10,qui 04/10/2007,13:15,Nantes,FC Gueugnon,?,Alain Ravera,19512,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80299
+11,dom 07/10/2007,13:00,Grenoble,FC Gueugnon,?,Alain Ravera,5971,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80307
+12,sex 19/10/2007,16:00,FC Gueugnon,Dijon,?,Alain Ravera,3565,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80317
+13,sex 26/10/2007,16:00,US Boulogne,FC Gueugnon,?,Alain Ravera,5200,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80325
+14,sex 02/11/2007,18:00,FC Gueugnon,Troyes,?,Alain Ravera,3173,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80337
+15,ter 06/11/2007,16:00,Angers,FC Gueugnon,?,Alain Ravera,5848,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80344
+16,sex 09/11/2007,16:00,FC Gueugnon,AC Ajaccio,?,Alain Ravera,2590,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80357
+17,sex 30/11/2007,16:00,Chamois Niort,FC Gueugnon,?,Alain Ravera,4007,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80369
+18,sex 07/12/2007,16:00,FC Gueugnon,Guingamp,?,Alain Ravera,3187,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80377
+19,sex 21/12/2007,16:00,Montpellier,FC Gueugnon,?,Alain Ravera,6775,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80389
+20,sex 11/01/2008,16:00,FC Gueugnon,CS Sedan,?,Alex Dupont,2419,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80397
+21,sex 18/01/2008,17:00,LB Châteauroux,FC Gueugnon,?,Alex Dupont,5335,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80405
+22,sex 25/01/2008,16:00,FC Gueugnon,SC Bastia,?,Alex Dupont,2505,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80417
+23,sex 08/02/2008,16:00,Reims,FC Gueugnon,?,Alex Dupont,6082,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80430
+24,sex 15/02/2008,16:00,FC Gueugnon,Le Havre,?,Alex Dupont,2399,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80436
+25,sex 22/02/2008,15:00,Clermont Foot,FC Gueugnon,?,Alex Dupont,4781,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80447
+26,sex 29/02/2008,15:00,FC Gueugnon,Brest,?,Alex Dupont,2812,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80456
+27,sex 07/03/2008,15:00,Lib.-St.-Seurin,FC Gueugnon,?,Alex Dupont,2795,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80468
+28,seg 17/03/2008,15:30,FC Gueugnon,Nantes,?,Alex Dupont,3507,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80477
+29,sex 21/03/2008,15:00,FC Gueugnon,Grenoble,?,Alex Dupont,2759,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80486
+30,sex 28/03/2008,15:00,Dijon,FC Gueugnon,?,Alex Dupont,4487,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80496
+31,sex 04/04/2008,13:00,FC Gueugnon,US Boulogne,?,Alex Dupont,2601,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80507
+32,sex 11/04/2008,13:00,Troyes,FC Gueugnon,?,Alex Dupont,17152,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80521
+33,ter 15/04/2008,13:00,FC Gueugnon,Angers,?,Alex Dupont,2803,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80527
+34,sex 18/04/2008,13:00,AC Ajaccio,FC Gueugnon,?,Alex Dupont,1637,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80532
+35,sex 25/04/2008,13:00,FC Gueugnon,Chamois Niort,?,Alex Dupont,2359,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80547
+36,sex 02/05/2008,13:00,Guingamp,FC Gueugnon,?,Alex Dupont,9261,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80557
+37,seg 12/05/2008,13:30,FC Gueugnon,Montpellier,?,Alex Dupont,2853,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80567
+38,sex 16/05/2008,13:45,Amiens SC,FC Gueugnon,?,Alex Dupont,11272,4:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/80573

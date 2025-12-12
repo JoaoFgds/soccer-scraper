@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 19/08/2017,13:30,Schalke,Leipzig,3-4-2-1,Domenico Tedesco,61435,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871500
+2,dom 27/08/2017,13:00,Hannover,Schalke,3-4-2-1,Domenico Tedesco,49000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871550
+3,dom 10/09/2017,13:02,Schalke,Stuttgart,5-4-1 plano,Domenico Tedesco,61098,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871595
+4,sáb 16/09/2017,10:32,Werder Bremen,Schalke,3-4-2-1,Domenico Tedesco,42100,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871659
+5,ter 19/09/2017,15:30,Schalke,Bayern,3-4-2-1,Domenico Tedesco,62271,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871695
+6,sáb 23/09/2017,10:30,Hoffenheim,Schalke,4-2-3-1,Domenico Tedesco,30150,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871730
+7,sex 29/09/2017,15:30,Schalke,Leverkusen,3-4-2-1,Domenico Tedesco,61515,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871777
+8,sáb 14/10/2017,10:30,Hertha Berlim,Schalke,3-1-4-2,Domenico Tedesco,50590,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871812
+9,sex 20/10/2017,16:32,Schalke,Mainz,3-1-4-2,Domenico Tedesco,59476,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871858
+10,sáb 28/10/2017,11:30,Schalke,Wolfsburg,3-5-2 plano,Domenico Tedesco,60429,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871903
+11,sáb 04/11/2017,12:30,Freiburg,Schalke,3-5-2,Domenico Tedesco,24000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871956
+12,dom 19/11/2017,12:30,Schalke,Hamburgo,3-4-3 plano,Domenico Tedesco,62271,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871993
+13,sáb 25/11/2017,12:30,Dortmund,Schalke,3-5-2,Domenico Tedesco,80179,4:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872025
+14,sáb 02/12/2017,15:30,Schalke,Colônia,3-4-2-1,Domenico Tedesco,61761,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871985
+15,sáb 09/12/2017,15:30,M'gladbach,Schalke,4-1-4-1,Domenico Tedesco,54018,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871938
+16,qua 13/12/2017,17:30,Schalke,Augsburg,3-5-2 ofensivo,Domenico Tedesco,59215,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871912
+17,sáb 16/12/2017,12:30,Frankfurt,Schalke,3-1-4-2,Domenico Tedesco,50600,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871877
+18,sáb 13/01/2018,15:30,Leipzig,Schalke,3-5-2 ofensivo,Domenico Tedesco,42558,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871491
+19,dom 21/01/2018,15:00,Schalke,Hannover,3-1-4-2,Domenico Tedesco,60650,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871552
+20,sáb 27/01/2018,12:30,Stuttgart,Schalke,3-4-2-1,Domenico Tedesco,55096,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871579
+21,sáb 03/02/2018,12:30,Schalke,Werder Bremen,3-4-2-1,Domenico Tedesco,62271,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871650
+22,sáb 10/02/2018,15:30,Bayern,Schalke,3-4-1-2,Domenico Tedesco,75000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871673
+23,sáb 17/02/2018,15:30,Schalke,Hoffenheim,3-4-1-2,Domenico Tedesco,60741,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871722
+24,dom 25/02/2018,11:30,Leverkusen,Schalke,3-4-1-2,Domenico Tedesco,30210,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871759
+25,sáb 03/03/2018,11:30,Schalke,Hertha Berlim,3-4-3 plano,Domenico Tedesco,61578,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872110
+26,sex 09/03/2018,16:30,Mainz,Schalke,3-4-3 plano,Domenico Tedesco,30655,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871797
+27,sáb 17/03/2018,14:30,Wolfsburg,Schalke,3-4-2-1,Domenico Tedesco,27502,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2871835
+28,sáb 31/03/2018,10:30,Schalke,Freiburg,3-5-2,Domenico Tedesco,62271,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872020
+29,sáb 07/04/2018,13:32,Hamburgo,Schalke,3-1-4-2,Domenico Tedesco,54137,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872050
+30,dom 15/04/2018,10:30,Schalke,Dortmund,3-1-4-2,Domenico Tedesco,61786,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872065
+31,dom 22/04/2018,13:00,Colônia,Schalke,5-4-1 plano,Domenico Tedesco,50000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872072
+32,sáb 28/04/2018,10:30,Schalke,M'gladbach,3-4-2-1,Domenico Tedesco,62271,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872084
+33,sáb 05/05/2018,10:30,Augsburg,Schalke,3-4-3 plano,Domenico Tedesco,30660,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872094
+34,sáb 12/05/2018,10:31,Schalke,Frankfurt,3-4-2-1,Domenico Tedesco,61585,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2872101

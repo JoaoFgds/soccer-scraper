@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 17/08/2019,10:30,Wolfsburg,Colônia,3-4-3 plano,Oliver Glasner,25099,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203428
+2,dom 25/08/2019,13:00,Hertha Berlim,Wolfsburg,3-4-3 plano,Oliver Glasner,42738,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203445
+3,sáb 31/08/2019,10:30,Wolfsburg,Paderborn,3-4-3 plano,Oliver Glasner,23750,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203454
+4,sex 13/09/2019,15:30,Düsseldorf,Wolfsburg,3-4-3 plano,Oliver Glasner,36758,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203463
+5,seg 23/09/2019,15:30,Wolfsburg,Hoffenheim,3-4-3 plano,Oliver Glasner,21120,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203472
+6,sáb 28/09/2019,10:30,Mainz,Wolfsburg,3-4-3 plano,Oliver Glasner,24303,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203482
+7,dom 06/10/2019,10:30,Wolfsburg,Union Berlim,3-4-3 plano,Oliver Glasner,27012,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203490
+8,sáb 19/10/2019,10:30,Leipzig,Wolfsburg,5-4-1 plano,Oliver Glasner,39182,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203497
+9,dom 27/10/2019,11:30,Wolfsburg,Augsburg,3-4-3 plano,Oliver Glasner,22630,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203508
+10,sáb 02/11/2019,11:30,Dortmund,Wolfsburg,5-4-1 plano,Oliver Glasner,80200,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203514
+11,dom 10/11/2019,11:30,Wolfsburg,Leverkusen,5-4-1 plano,Oliver Glasner,24112,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203525
+12,sáb 23/11/2019,11:30,Frankfurt,Wolfsburg,3-4-3 plano,Oliver Glasner,50700,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203535
+13,dom 01/12/2019,14:00,Wolfsburg,Werder Bremen,3-4-3 plano,Oliver Glasner,26012,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203543
+14,sáb 07/12/2019,11:30,Freiburg,Wolfsburg,5-4-1 plano,Oliver Glasner,23800,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203556
+15,dom 15/12/2019,11:30,Wolfsburg,M'gladbach,4-3-3 ofensivo,Oliver Glasner,25580,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203560
+16,qua 18/12/2019,16:30,Wolfsburg,Schalke,4-3-3 ofensivo,Oliver Glasner,24651,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203571
+17,sáb 21/12/2019,11:30,Bayern,Wolfsburg,4-3-3 ofensivo,Oliver Glasner,75000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203577
+18,sáb 18/01/2020,11:30,Colônia,Wolfsburg,4-3-3 ofensivo,Oliver Glasner,49100,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203593
+19,sáb 25/01/2020,11:30,Wolfsburg,Hertha Berlim,4-3-3 ofensivo,Oliver Glasner,24894,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203599
+20,dom 02/02/2020,14:00,Paderborn,Wolfsburg,4-3-1-2,Oliver Glasner,13926,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203612
+21,sáb 08/02/2020,11:30,Wolfsburg,Düsseldorf,4-3-1-2,Oliver Glasner,23445,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203616
+22,sáb 15/02/2020,11:30,Hoffenheim,Wolfsburg,4-3-3 ofensivo,Oliver Glasner,22506,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203624
+23,dom 23/02/2020,14:00,Wolfsburg,Mainz,4-4-2,Oliver Glasner,21058,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203634
+24,dom 01/03/2020,09:30,Union Berlim,Wolfsburg,4-4-2,Oliver Glasner,22012,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203648
+25,sáb 07/03/2020,11:30,Wolfsburg,Leipzig,4-2-3-1,Oliver Glasner,27195,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203652
+26,sáb 16/05/2020,10:30,Augsburg,Wolfsburg,4-2-3-1,Oliver Glasner,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203664
+27,sáb 23/05/2020,10:30,Wolfsburg,Dortmund,4-4-2,Oliver Glasner,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203669
+28,ter 26/05/2020,15:30,Leverkusen,Wolfsburg,4-4-2 duplo 6,Oliver Glasner,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203678
+29,sáb 30/05/2020,10:30,Wolfsburg,Frankfurt,4-4-1-1,Oliver Glasner,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203687
+30,dom 07/06/2020,08:30,Werder Bremen,Wolfsburg,4-4-1-1,Oliver Glasner,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203698
+31,sáb 13/06/2020,10:30,Wolfsburg,Freiburg,4-4-2,Oliver Glasner,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203704
+32,ter 16/06/2020,13:30,M'gladbach,Wolfsburg,4-2-3-1,Oliver Glasner,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203715
+33,sáb 20/06/2020,10:30,Schalke,Wolfsburg,4-4-2 duplo 6,Oliver Glasner,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203727
+34,sáb 27/06/2020,10:30,Wolfsburg,Bayern,4-4-2 duplo 6,Oliver Glasner,x,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3203733

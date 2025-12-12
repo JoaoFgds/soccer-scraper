@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 12/08/2016,15:00,SC Bastia,PSG,4-2-3-1,Unai Emery,13122,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698554
+2,dom 21/08/2016,15:45,PSG,FC Metz,4-3-3 ofensivo,Unai Emery,46011,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2701604
+3,dom 28/08/2016,15:45,Monaco,PSG,4-3-3 ofensivo,Unai Emery,15219,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2701617
+4,sex 09/09/2016,15:45,PSG,Saint-Étienne,4-3-3 ofensivo,Unai Emery,44327,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2701624
+5,sex 16/09/2016,15:45,SM Caen,PSG,4-3-3 ofensivo,Unai Emery,18977,0:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2701639
+6,ter 20/09/2016,16:00,PSG,Dijon,4-3-3 ofensivo,Unai Emery,42484,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2701643
+7,sex 23/09/2016,15:45,Toulouse,PSG,4-3-3 ofensivo,Unai Emery,28682,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2701658
+8,sáb 01/10/2016,12:00,PSG,Bordeaux,4-3-3 ofensivo,Unai Emery,44949,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2701663
+9,sáb 15/10/2016,12:00,AS Nancy,PSG,4-3-3 ofensivo,Unai Emery,19524,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2701670
+10,dom 23/10/2016,16:45,PSG,Marselha,4-3-3 ofensivo,Unai Emery,47929,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702720
+11,sex 28/10/2016,16:45,Lille,PSG,4-3-3 ofensivo,Unai Emery,37213,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702734
+12,dom 06/11/2016,17:45,PSG,Rennes,4-3-3 ofensivo,Unai Emery,42002,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702751
+13,sáb 19/11/2016,14:00,PSG,Nantes,4-3-3 ofensivo,Unai Emery,44258,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702763
+14,dom 27/11/2016,17:45,Lyon,PSG,4-2-3-1,Unai Emery,55107,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702774
+15,qua 30/11/2016,18:00,PSG,Angers,4-3-3 defensivo,Unai Emery,40597,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702785
+16,sáb 03/12/2016,14:00,Montpellier,PSG,4-3-3 ofensivo,Unai Emery,17132,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702792
+17,dom 11/12/2016,17:45,PSG,Nice,4-3-3 ofensivo,Unai Emery,47665,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702806
+18,sáb 17/12/2016,14:00,Guingamp,PSG,4-3-3 ofensivo,Unai Emery,18033,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702820
+19,qua 21/12/2016,17:50,PSG,FC Lorient,4-1-4-1,Unai Emery,44844,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702825
+20,sáb 14/01/2017,14:00,Rennes,PSG,4-3-3 ofensivo,Unai Emery,29054,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716702
+21,sáb 21/01/2017,14:00,Nantes,PSG,4-3-3 ofensivo,Unai Emery,32858,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2716710
+22,dom 29/01/2017,18:00,PSG,Monaco,4-3-3 ofensivo,Unai Emery,47238,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2717378
+23,sáb 04/02/2017,17:00,Dijon,PSG,4-3-3 ofensivo,Unai Emery,13416,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2735505
+24,ter 07/02/2017,18:00,PSG,Lille,4-3-3 defensivo,Unai Emery,42885,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2735516
+25,sex 10/02/2017,17:45,Bordeaux,PSG,4-3-3 ofensivo,Unai Emery,37823,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2735523
+26,dom 19/02/2017,17:00,PSG,Toulouse,4-3-3 ofensivo,Unai Emery,45492,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2735536
+27,dom 26/02/2017,17:00,Marselha,PSG,4-3-3 ofensivo,Unai Emery,65252,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2735545
+28,sáb 04/03/2017,13:00,PSG,AS Nancy,4-3-3 ofensivo,Unai Emery,47032,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2735554
+29,dom 12/03/2017,17:00,FC Lorient,PSG,4-3-3 ofensivo,Unai Emery,13643,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2735563
+30,dom 19/03/2017,17:00,PSG,Lyon,4-3-3 ofensivo,Unai Emery,47253,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2735574
+31,ter 18/04/2017,13:30,FC Metz,PSG,4-3-3 ofensivo,Unai Emery,20693,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2735590
+32,dom 09/04/2017,16:00,PSG,Guingamp,4-3-3 ofensivo,Unai Emery,45944,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2735596
+33,sex 14/04/2017,15:45,Angers,PSG,4-3-3 ofensivo,Unai Emery,15909,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2735605
+34,sáb 22/04/2017,12:00,PSG,Montpellier,4-3-3 ofensivo,Unai Emery,45778,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2735617
+35,dom 30/04/2017,16:00,Nice,PSG,4-3-3 ofensivo,Unai Emery,33190,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2735622
+36,sáb 06/05/2017,12:00,PSG,SC Bastia,4-3-3 ofensivo,Unai Emery,45826,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2735637
+37,dom 14/05/2017,16:00,Saint-Étienne,PSG,4-3-3 ofensivo,Unai Emery,34352,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2735641
+38,sáb 20/05/2017,16:00,PSG,SM Caen,4-3-3 ofensivo,Unai Emery,45516,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2735656

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 08/08/2004,10:00,Colônia,Energ. Cottbus,4-4-1-1,Eduard Geyer,42000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21041
+2,seg 16/08/2004,15:15,Energ. Cottbus,Dynamo Dresden,?,Eduard Geyer,17200,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21045
+3,dom 29/08/2004,10:00,Saarbrücken,Energ. Cottbus,5-3-2,Eduard Geyer,6000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21057
+4,sex 10/09/2004,10:00,Energ. Cottbus,RW Oberhausen,4-4-2 duplo 6,Eduard Geyer,10300,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21063
+5,dom 19/09/2004,10:00,RW Essen,Energ. Cottbus,4-4-2,Eduard Geyer,11904,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21073
+6,seg 27/09/2004,15:15,Energ. Cottbus,1860 Munique,4-4-2 losango,Eduard Geyer,8400,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21081
+7,dom 03/10/2004,10:00,Greuther Fürth,Energ. Cottbus,4-4-2 losango,Eduard Geyer,8011,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21097
+8,dom 17/10/2004,10:00,Energ. Cottbus,LR Ahlen,4-3-3 defensivo,Eduard Geyer,9600,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21099
+9,sex 22/10/2004,14:00,Unterhaching,Energ. Cottbus,4-4-2 duplo 6,Eduard Geyer,3500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21113
+10,qui 28/10/2004,15:15,Energ. Cottbus,Erzgebirge Aue,4-4-2,Eduard Geyer,8980,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21117
+11,dom 31/10/2004,11:00,Eintracht Trier,Energ. Cottbus,4-4-2 duplo 6,Eduard Geyer,5450,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21129
+12,dom 07/11/2004,12:00,Energ. Cottbus,Rot-Weiß Erfurt,4-4-2 losango,Eduard Geyer,9315,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21135
+13,dom 14/11/2004,12:00,MSV Duisburg,Energ. Cottbus,4-4-2 duplo 6,Eduard Geyer,12700,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21145
+14,seg 22/11/2004,17:15,Energ. Cottbus,Alem. Aachen,4-4-2 losango,Eduard Geyer,6600,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21153
+15,seg 29/11/2004,17:15,Energ. Cottbus,W. Burghausen,3-5-2,Petrik Sander,7320,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21162
+16,dom 05/12/2004,12:00,Frankfurt,Energ. Cottbus,3-1-4-2,Petrik Sander,18900,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21178
+17,sex 10/12/2004,16:00,Energ. Cottbus,Karlsruher,3-5-2,Petrik Sander,8500,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21180
+18,dom 23/01/2005,12:00,Energ. Cottbus,Colônia,4-2-3-1,Petrik Sander,11000,3:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21194
+19,seg 31/01/2005,17:15,Dynamo Dresden,Energ. Cottbus,4-3-3 defensivo,Petrik Sander,21891,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21198
+20,sex 04/02/2005,16:00,Energ. Cottbus,Saarbrücken,4-3-3 defensivo,Petrik Sander,9800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21210
+21,sex 11/02/2005,16:00,RW Oberhausen,Energ. Cottbus,4-3-3 defensivo,Petrik Sander,3600,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21216
+22,sex 18/02/2005,16:00,Energ. Cottbus,RW Essen,?,Petrik Sander,9250,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21226
+23,sex 25/02/2005,15:00,1860 Munique,Energ. Cottbus,4-3-3 defensivo,Petrik Sander,15300,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21234
+24,dom 06/03/2005,11:00,Energ. Cottbus,Greuther Fürth,4-3-3 defensivo,Petrik Sander,8200,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21250
+25,dom 13/03/2005,11:00,LR Ahlen,Energ. Cottbus,4-3-3 defensivo,Petrik Sander,3237,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21252
+26,dom 20/03/2005,11:00,Energ. Cottbus,Unterhaching,?,Petrik Sander,9500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21266
+27,sex 01/04/2005,14:00,Erzgebirge Aue,Energ. Cottbus,4-3-3 defensivo,Petrik Sander,15000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21270
+28,sex 08/04/2005,14:00,Energ. Cottbus,Eintracht Trier,4-3-1-2,Thomas Hoßmang,8650,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21282
+29,sex 15/04/2005,14:00,Rot-Weiß Erfurt,Energ. Cottbus,4-4-2,Petrik Sander,14790,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21288
+30,dom 24/04/2005,10:00,Energ. Cottbus,MSV Duisburg,?,Petrik Sander,11900,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21298
+31,dom 01/05/2005,10:00,Alem. Aachen,Energ. Cottbus,4-4-2 losango,Petrik Sander,18833,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21306
+32,dom 08/05/2005,10:00,W. Burghausen,Energ. Cottbus,4-4-2,Petrik Sander,3617,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21315
+33,dom 15/05/2005,10:00,Energ. Cottbus,Frankfurt,4-3-3 ofensivo,Petrik Sander,18200,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21331
+34,dom 22/05/2005,10:00,Karlsruher,Energ. Cottbus,3-5-2,Petrik Sander,21700,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/21333

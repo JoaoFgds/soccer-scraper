@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 14/08/2023,14:30,Cádiz CF,Alavés,5-4-1 plano,Luis García,19306,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112814
+2,seg 21/08/2023,14:00,Alavés,Sevilla,4-2-3-1,Luis García,15308,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113150
+3,seg 28/08/2023,14:30,Getafe,Alavés,4-3-3 ofensivo,Luis García,11023,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113099
+4,sáb 02/09/2023,13:30,Alavés,Valencia,4-2-3-1,Luis García,16641,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113050
+5,sex 15/09/2023,16:00,Rayo Vallecano,Alavés,4-2-3-1,Luis García,12116,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113174
+6,sex 22/09/2023,16:00,Alavés,Athletic Club,4-2-3-1,Luis García,19421,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113159
+7,qui 28/09/2023,14:00,Celta de Vigo,Alavés,4-2-3-1,Luis García,16852,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113074
+8,dom 01/10/2023,11:15,Alavés,Osasuna,4-2-3-1,Luis García,19035,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112973
+9,dom 08/10/2023,13:30,Alavés,Betis,4-2-3-1,Luis García,18288,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113059
+10,dom 22/10/2023,13:30,Villarreal,Alavés,4-2-3-1,Luis García,17498,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113151
+11,dom 29/10/2023,17:00,Atlético,Alavés,4-2-3-1,Luis García,50009,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113153
+12,dom 05/11/2023,10:00,Alavés,UD Almería,4-2-3-1,Luis García,16380,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113107
+13,dom 12/11/2023,12:15,Barcelona,Alavés,4-2-3-1,Luis García,38133,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113116
+14,sex 24/11/2023,17:00,Alavés,Granada CF,4-2-3-1,Luis García,15705,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113079
+15,dom 03/12/2023,10:00,Mallorca,Alavés,4-2-3-1,Luis García,15090,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113171
+16,sáb 09/12/2023,10:00,Alavés,Las Palmas,4-2-3-1,Luis García,15971,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112880
+17,seg 18/12/2023,17:00,Girona,Alavés,3-4-3 plano,Luis García,11812,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112854
+18,qui 21/12/2023,17:30,Alavés,Real Madrid,4-2-3-1,Luis García,19275,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112872
+19,ter 02/01/2024,15:15,Real Sociedad,Alavés,4-2-3-1,Luis García,34051,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112864
+20,sex 12/01/2024,17:00,Sevilla,Alavés,4-2-3-1,Luis García,34225,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112824
+21,sex 19/01/2024,17:00,Alavés,Cádiz CF,4-2-3-1,Luis García,15838,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112827
+22,sex 26/01/2024,17:00,UD Almería,Alavés,4-2-3-1,Luis García,13817,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112841
+23,sáb 03/02/2024,14:30,Alavés,Barcelona,4-2-3-1,Luis García,19480,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113040
+24,sáb 10/02/2024,10:00,Alavés,Villarreal,4-2-3-1,Luis García,14523,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112889
+25,dom 18/02/2024,17:00,Betis,Alavés,4-2-3-1,Luis García,43514,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113184
+26,sáb 24/02/2024,14:30,Alavés,Mallorca,4-2-3-1,Luis García,16102,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113033
+27,seg 04/03/2024,17:00,Osasuna,Alavés,4-3-3 ofensivo,Luis García,17215,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113014
+28,dom 10/03/2024,10:00,Alavés,Rayo Vallecano,4-2-3-1,Luis García,16519,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113000
+29,sáb 16/03/2024,17:00,Athletic Club,Alavés,4-2-3-1,Luis García,48257,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112994
+30,dom 31/03/2024,13:30,Alavés,Real Sociedad,4-2-3-1,Luis García,18575,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112980
+31,dom 14/04/2024,11:15,Granada CF,Alavés,4-2-3-1,Luis García,13398,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4113024
+32,dom 21/04/2024,13:30,Alavés,Atlético,4-2-3-1,Luis García,18719,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112929
+33,sáb 27/04/2024,13:30,Alavés,Celta de Vigo,4-2-3-1,Luis García,18039,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112940
+34,dom 05/05/2024,13:30,Valencia,Alavés,4-2-3-1,Luis García,44643,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112954
+35,sex 10/05/2024,16:00,Alavés,Girona,4-2-3-1,Luis García,17906,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112960
+36,ter 14/05/2024,16:30,Real Madrid,Alavés,4-2-3-1,Luis García,68954,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112924
+37,sáb 18/05/2024,16:00,Alavés,Getafe,4-2-3-1,Luis García,18709,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112910
+38,dom 26/05/2024,11:15,Las Palmas,Alavés,4-2-3-1,Luis García,23043,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112904

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 15/04/2023,16:00,Vila Nova,Novorizontino,4-3-3 ofensivo,Eduardo Baptista,4571,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4056134
+2,sáb 22/04/2023,17:00,Novorizontino,Juventude,3-4-3 plano,Eduardo Baptista,1792,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4059118
+3,dom 30/04/2023,15:30,Novorizontino,Sport,3-4-3 plano,Eduardo Baptista,2122,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060059
+4,qua 03/05/2023,19:00,Mirassol,Novorizontino,3-4-3 plano,Eduardo Baptista,2144,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060967
+5,sáb 06/05/2023,20:30,Chapecoense,Novorizontino,3-4-3 plano,Eduardo Baptista,4035,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060880
+6,sáb 13/05/2023,17:00,Novorizontino,CRB,3-4-3 plano,Eduardo Baptista,1706,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060887
+7,sáb 20/05/2023,17:00,Ituano,Novorizontino,3-4-3 plano,Eduardo Baptista,1353,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060956
+8,ter 23/05/2023,21:30,Novorizontino,Avaí,3-4-2-1,Eduardo Baptista,1381,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060897
+9,dom 28/05/2023,15:30,Ceará,Novorizontino,3-4-2-1,Eduardo Baptista,37545,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060929
+10,sáb 03/06/2023,17:00,ABC,Novorizontino,3-4-1-2,Eduardo Baptista,5367,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060942
+11,qua 07/06/2023,19:00,Novorizontino,Guarani,3-4-3 plano,Eduardo Baptista,2190,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060917
+12,sáb 10/06/2023,17:00,Novorizontino,Sampaio Corrêa,3-4-3 plano,Eduardo Baptista,2124,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060947
+13,sáb 24/06/2023,18:15,Tombense,Novorizontino,3-4-3 plano,Eduardo Baptista,326,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060981
+14,ter 27/06/2023,21:30,Novorizontino,Botafogo-SP,3-4-3 plano,Eduardo Baptista,1696,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060997
+15,dom 02/07/2023,20:30,Ponte Preta,Novorizontino,3-4-3 plano,Eduardo Baptista,3942,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061033
+16,sex 07/07/2023,19:00,Novorizontino,Atlético-GO,3-4-3 plano,Eduardo Baptista,1970,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061017
+17,dom 16/07/2023,18:00,Vitória,Novorizontino,3-4-2-1,Eduardo Baptista,19407,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060988
+18,qua 19/07/2023,19:00,Novorizontino,Londrina,3-4-3 plano,Eduardo Baptista,2478,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061027
+19,sáb 22/07/2023,17:00,Criciúma,Novorizontino,3-4-3 plano,Eduardo Baptista,14451,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061045
+20,dom 30/07/2023,15:30,Novorizontino,Vila Nova,3-4-3 plano,Eduardo Baptista,4439,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061057
+21,qua 02/08/2023,21:30,Juventude,Novorizontino,3-4-2-1,Eduardo Baptista,3976,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061090
+22,sáb 05/08/2023,18:00,Sport,Novorizontino,3-4-2-1,Eduardo Baptista,23173,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061078
+23,sex 11/08/2023,19:00,Novorizontino,Mirassol,3-4-2-1,Eduardo Baptista,4719,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061107
+24,dom 20/08/2023,15:45,Novorizontino,Chapecoense,3-4-3 plano,Eduardo Baptista,3912,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061117
+25,sáb 26/08/2023,18:00,CRB,Novorizontino,3-4-2-1,Eduardo Baptista,5030,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061102
+26,qua 30/08/2023,19:00,Novorizontino,Ituano,3-4-3 plano,Eduardo Baptista,2355,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061147
+27,seg 11/09/2023,20:30,Avaí,Novorizontino,3-4-2-1,Eduardo Baptista,7472,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061135
+28,seg 18/09/2023,21:00,Novorizontino,Ceará,3-4-3 plano,Eduardo Baptista,2262,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061127
+29,seg 25/09/2023,21:00,Novorizontino,ABC,4-3-3 ofensivo,Eduardo Baptista,2835,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061177
+30,sáb 30/09/2023,17:00,Guarani,Novorizontino,4-3-3 ofensivo,Eduardo Baptista,8134,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061163
+31,sáb 07/10/2023,17:00,Sampaio Corrêa,Novorizontino,4-3-3 ofensivo,Eduardo Baptista,7150,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061159
+32,sáb 14/10/2023,17:00,Novorizontino,Tombense,4-3-3 ofensivo,Eduardo Baptista,2677,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061197
+33,sáb 21/10/2023,17:00,Botafogo-SP,Novorizontino,3-4-3 plano,Eduardo Baptista,1736,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061186
+34,sex 27/10/2023,21:30,Novorizontino,Ponte Preta,3-4-2-1,Eduardo Baptista,1620,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060907
+35,qua 01/11/2023,20:00,Atlético-GO,Novorizontino,3-4-3 plano,Eduardo Baptista,12089,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4060863
+36,dom 12/11/2023,18:00,Novorizontino,Vitória,3-4-3 plano,Eduardo Baptista,4161,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061007
+37,sex 17/11/2023,21:30,Londrina,Novorizontino,3-4-2-1,Eduardo Baptista,469,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061071
+38,sáb 25/11/2023,17:00,Novorizontino,Criciúma,3-4-3 plano,Eduardo Baptista,3666,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4061207

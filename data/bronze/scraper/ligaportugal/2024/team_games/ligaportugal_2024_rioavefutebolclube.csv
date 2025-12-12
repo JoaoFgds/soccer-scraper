@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 09/08/2024,16:15,Sporting,Rio Ave,3-4-3 plano,Luís Freire,38513,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396646
+2,sáb 17/08/2024,11:30,Rio Ave,Farense,3-4-3 plano,Luís Freire,3177,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396778
+3,sáb 24/08/2024,14:00,FC Porto,Rio Ave,3-4-3 plano,Luís Freire,47113,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396763
+4,dom 01/09/2024,14:00,Rio Ave,Arouca,3-4-3 plano,Luís Freire,2558,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396709
+5,sáb 14/09/2024,14:00,AVS,Rio Ave,3-4-3 plano,Luís Freire,2151,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396651
+6,sáb 21/09/2024,11:30,Rio Ave,Estoril,3-4-3 plano,Luís Freire,3014,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396769
+7,dom 29/09/2024,16:30,Braga,Rio Ave,3-4-3 plano,Luís Freire,11888,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396756
+8,sex 04/10/2024,16:15,Rio Ave,Famalicão,3-4-3 plano,Luís Freire,2708,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396671
+9,dom 27/10/2024,15:00,Benfica,Rio Ave,3-4-3 plano,Luís Freire,58961,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396667
+10,sáb 02/11/2024,12:30,Rio Ave,Casa Pia,3-4-3 plano,Luís Freire,2323,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396733
+11,sáb 09/11/2024,17:30,Boavista,Rio Ave,4-1-4-1,Petit,4495,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396695
+12,sáb 30/11/2024,12:30,Rio Ave,Moreirense,4-3-3 ofensivo,Petit,2009,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396680
+13,sáb 07/12/2024,15:00,Santa Clara,Rio Ave,4-3-3 ofensivo,Petit,1564,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396724
+14,seg 16/12/2024,17:45,Rio Ave,Vit. Guimarães,4-2-3-1,Petit,2897,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396817
+15,seg 23/12/2024,17:45,Estrela Amadora,Rio Ave,4-2-3-1,Petit,2202,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396836
+16,dom 29/12/2024,12:30,Rio Ave,Nacional,4-3-3 ofensivo,Nuno Pereira,2729,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396806
+17,seg 06/01/2025,17:15,Gil Vicente,Rio Ave,4-2-3-1,Petit,3348,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396890
+18,sáb 18/01/2025,15:00,Rio Ave,Sporting,4-3-3 ofensivo,Petit,4756,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396822
+19,sáb 25/01/2025,12:30,Farense,Rio Ave,4-3-3 ofensivo,Petit,5200,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396787
+20,seg 03/02/2025,17:45,Rio Ave,FC Porto,4-2-3-1,Nuno Pereira,4100,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396703
+21,seg 10/02/2025,17:15,Arouca,Rio Ave,4-2-3-1,Petit,1245,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396861
+22,dom 16/02/2025,12:30,Rio Ave,AVS,4-2-3-1,Petit,2206,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396714
+23,sáb 22/02/2025,17:30,Estoril,Rio Ave,4-2-3-1,Petit,2721,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396904
+24,dom 02/03/2025,17:30,Rio Ave,Braga,4-1-4-1,Nuno Pereira,3234,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396900
+25,seg 10/03/2025,17:15,Famalicão,Rio Ave,4-2-3-1,Petit,1780,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396743
+26,dom 16/03/2025,15:00,Rio Ave,Benfica,4-2-3-1,Petit,4753,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396847
+27,sáb 29/03/2025,12:30,Casa Pia,Rio Ave,4-4-2,Petit,1206,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396798
+28,seg 07/04/2025,16:15,Rio Ave,Boavista,4-2-3-1,Petit,1060,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396855
+29,dom 13/04/2025,16:30,Moreirense,Rio Ave,4-2-3-1,Petit,1388,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396922
+30,sex 18/04/2025,11:30,Rio Ave,Santa Clara,4-3-3 ofensivo,Petit,921,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396916
+31,dom 27/04/2025,14:00,Vit. Guimarães,Rio Ave,4-3-3 ofensivo,Petit,17304,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396880
+32,seg 05/05/2025,15:30,Rio Ave,Estrela Amadora,4-2-3-1,Petit,689,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396872
+33,sáb 10/05/2025,11:30,Nacional,Rio Ave,4-1-4-1,Nuno Pereira,1568,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396940
+34,sex 16/05/2025,15:00,Rio Ave,Gil Vicente,4-3-3 ofensivo,Petit,909,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4396937

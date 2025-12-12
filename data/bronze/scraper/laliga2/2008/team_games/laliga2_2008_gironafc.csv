@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 30/08/2008,13:30,Celta de Vigo,Girona,4-3-3 defensivo,Raúl Agné,6000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/919636
+2,dom 07/09/2008,13:30,Girona,Alicante,4-4-2,Raúl Agné,5225,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/924064
+3,dom 14/09/2008,17:00,Albacete,Girona,4-4-2 duplo 6,Raúl Agné,5000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/919658
+4,dom 21/09/2008,13:30,Girona,UD Salamanca,4-4-2,Raúl Agné,5500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/919669
+5,sáb 27/09/2008,13:30,Córdoba,Girona,4-4-2,Raúl Agné,8500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/919679
+6,sáb 04/10/2008,13:30,Girona,Rayo Vallecano,3-5-2,Raúl Agné,4500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/919694
+7,dom 12/10/2008,13:00,Levante,Girona,4-4-2,Raúl Agné,4161,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/919703
+8,sáb 18/10/2008,13:30,Girona,Real Sociedad,4-5-1,Raúl Agné,5000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/919716
+9,sáb 25/10/2008,16:00,Las Palmas,Girona,3-5-2,Raúl Agné,13232,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/919725
+10,sáb 01/11/2008,16:30,Girona,Zaragoza,4-5-1,Raúl Agné,6000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/919731
+11,sáb 08/11/2008,16:30,Real Murcia,Girona,5-4-1,Raúl Agné,7000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/919750
+12,dom 16/11/2008,14:00,Girona,Hércules CF,4-4-2,Raúl Agné,6200,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/919754
+13,dom 23/11/2008,14:00,Alavés,Girona,4-4-2,Raúl Agné,7004,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/919766
+14,sáb 29/11/2008,15:30,Girona,Sevilha Atl.,4-3-3 ofensivo,Raúl Agné,3600,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/919777
+15,sáb 06/12/2008,16:45,Xerez CD,Girona,4-5-1,Raúl Agné,8000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/919794
+16,dom 14/12/2008,14:00,Girona,Elche,4-5-1,Raúl Agné,3000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/919805
+17,sáb 20/12/2008,15:30,Girona,Castellón,4-4-2,Raúl Agné,3000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/919816
+18,sáb 03/01/2009,15:00,Gimnàstic,Girona,4-5-1,Raúl Agné,5000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/933131
+19,dom 11/01/2009,14:00,Girona,Eibar,4-4-2,Raúl Agné,5600,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/933704
+20,dom 18/01/2009,15:00,Tenerife,Girona,4-4-2,Raúl Agné,12800,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/934028
+21,sáb 24/01/2009,15:30,Girona,SD Huesca,4-4-2,Raúl Agné,5700,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/934452
+22,sáb 31/01/2009,15:30,Girona,Celta de Vigo,4-5-1,Raúl Agné,2800,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/934807
+23,dom 08/02/2009,14:00,Alicante,Girona,4-4-2,Raúl Agné,3500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/935685
+24,sáb 14/02/2009,15:30,Girona,Albacete,4-4-2,Raúl Agné,2000,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/936098
+25,dom 22/02/2009,13:00,UD Salamanca,Girona,4-4-2,Raúl Agné,6276,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/936533
+26,sáb 28/02/2009,14:30,Girona,Córdoba,4-4-2,Raúl Agné,5900,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/937088
+27,sáb 07/03/2009,14:30,Rayo Vallecano,Girona,4-4-2,Raúl Agné,11000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/937811
+28,dom 15/03/2009,13:00,Girona,Levante,4-3-3 ofensivo,Raúl Agné,6411,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/938299
+29,dom 22/03/2009,13:00,Real Sociedad,Girona,4-4-2,Raúl Agné,19117,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/939725
+30,sáb 28/03/2009,14:30,Girona,Las Palmas,4-4-2,Raúl Agné,2500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/940248
+31,sáb 04/04/2009,15:30,Zaragoza,Girona,4-4-2,Raúl Agné,18150,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942273
+32,sáb 11/04/2009,13:15,Girona,Real Murcia,4-3-3 ofensivo,Raúl Agné,2500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/942377
+33,dom 19/04/2009,07:00,Hércules CF,Girona,4-4-2,Raúl Agné,8000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/943415
+34,sáb 25/04/2009,13:30,Girona,Alavés,4-4-2,Raúl Agné,4000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/944180
+35,dom 03/05/2009,07:00,Sevilha Atl.,Girona,4-4-2,Raúl Agné,100,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/945218
+36,dom 10/05/2009,12:00,Girona,Xerez CD,4-4-2,Raúl Agné,3500,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/945565
+37,sáb 16/05/2009,13:30,Elche,Girona,4-4-2,Raúl Agné,4534,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/946199
+38,dom 24/05/2009,13:00,Castellón,Girona,4-4-2,Javi Salamero,3986,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/946858
+39,sáb 30/05/2009,13:30,Girona,Gimnàstic,4-5-1,Javi Salamero,5200,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/947178
+40,dom 07/06/2009,13:00,Eibar,Girona,4-4-2,Miquel Olmo,1104,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/948668
+41,sáb 13/06/2009,13:30,Girona,Tenerife,4-4-2,Miquel Olmo,5000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/948681
+42,sáb 20/06/2009,15:15,SD Huesca,Girona,4-4-2,Miquel Olmo,3600,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/948690

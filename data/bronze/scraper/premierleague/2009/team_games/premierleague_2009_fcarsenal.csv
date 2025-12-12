@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 15/08/2009,13:30,Everton,Arsenal,4-3-3 defensivo,Arsène Wenger,39309,1:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/954256
+2,qua 20/01/2010,18:00,Arsenal,Bolton,4-2-3-1,Arsène Wenger,59084,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/993324
+3,sáb 22/08/2009,11:00,Arsenal,FC Portsmouth,4-3-3 ofensivo,Arsène Wenger,60049,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/954269
+4,sáb 29/08/2009,13:15,Man Utd,Arsenal,4-2-3-1,Arsène Wenger,75095,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/954284
+5,sáb 12/09/2009,11:00,Man City,Arsenal,4-2-3-1,Arsène Wenger,47339,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/954293
+6,sáb 19/09/2009,11:00,Arsenal,Wigan,4-4-2 losango,Arsène Wenger,59103,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/954514
+7,sáb 26/09/2009,13:30,Fulham,Arsenal,4-3-3 ofensivo,Arsène Wenger,25700,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/954526
+8,dom 04/10/2009,09:30,Arsenal,Blackburn,4-3-3 ofensivo,Arsène Wenger,59431,6:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/954534
+9,sáb 17/10/2009,11:00,Arsenal,Birmingham,4-1-4-1,Arsène Wenger,60082,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/954544
+10,dom 25/10/2009,14:15,West Ham,Arsenal,4-1-4-1,Arsène Wenger,34442,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/954562
+11,sáb 31/10/2009,10:45,Arsenal,Tottenham,4-2-3-1,Arsène Wenger,60103,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/960954
+12,sáb 07/11/2009,15:30,Wolves,Arsenal,4-3-3 defensivo,Arsène Wenger,28937,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/960970
+13,sáb 21/11/2009,13:00,AFC Sunderland,Arsenal,4-1-4-1,Arsène Wenger,44918,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/960979
+14,dom 29/11/2009,14:00,Arsenal,Chelsea,4-2-3-1,Arsène Wenger,60067,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/960994
+15,sáb 05/12/2009,13:00,Arsenal,Stoke,4-1-4-1,Arsène Wenger,60048,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/960995
+16,dom 13/12/2009,14:00,Liverpool,Arsenal,4-3-3 ofensivo,Arsène Wenger,43853,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961010
+17,qua 16/12/2009,17:45,FC Burnley,Arsenal,4-2-3-1,Arsène Wenger,21309,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961016
+18,sáb 19/12/2009,15:30,Arsenal,Hull City,4-3-3 ofensivo,Arsène Wenger,60006,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961025
+19,dom 27/12/2009,11:30,Arsenal,Aston Villa,4-3-3 defensivo,Arsène Wenger,60056,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961035
+20,qua 30/12/2009,17:45,FC Portsmouth,Arsenal,4-3-3 ofensivo,Arsène Wenger,20404,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961052
+21,sáb 09/01/2010,13:00,Arsenal,Everton,4-3-3 ofensivo,Arsène Wenger,60053,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961055
+22,dom 17/01/2010,14:00,Bolton,Arsenal,4-2-3-1,Arsène Wenger,23893,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961067
+23,qua 27/01/2010,17:45,Aston Villa,Arsenal,4-1-4-1,Arsène Wenger,39601,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961081
+24,dom 31/01/2010,14:00,Arsenal,Man Utd,4-2-3-1,Arsène Wenger,60091,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961085
+25,dom 07/02/2010,14:00,Chelsea,Arsenal,4-2-3-1,Arsène Wenger,41794,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961098
+26,qua 10/02/2010,17:45,Arsenal,Liverpool,4-2-3-1,Arsène Wenger,60045,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961105
+27,sáb 20/02/2010,13:00,Arsenal,AFC Sunderland,4-2-3-1,Arsène Wenger,60083,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961115
+28,sáb 27/02/2010,14:30,Stoke,Arsenal,4-2-3-1,Arsène Wenger,27011,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961132
+29,sáb 06/03/2010,12:00,Arsenal,FC Burnley,4-1-4-1,Arsène Wenger,60043,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961135
+30,sáb 13/03/2010,14:30,Hull City,Arsenal,4-2-3-1,Arsène Wenger,25023,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961149
+31,sáb 20/03/2010,14:30,Arsenal,West Ham,4-2-3-1,Arsène Wenger,60077,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961155
+32,sáb 27/03/2010,12:00,Birmingham,Arsenal,4-2-3-1,Arsène Wenger,27039,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961165
+33,sáb 03/04/2010,11:00,Arsenal,Wolves,4-2-3-1,Arsène Wenger,60067,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961175
+34,qua 14/04/2010,16:00,Tottenham,Arsenal,4-2-3-1,Arsène Wenger,36041,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961190
+35,dom 18/04/2010,09:30,Wigan,Arsenal,4-1-4-1,Arsène Wenger,22113,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961204
+36,sáb 24/04/2010,13:30,Arsenal,Man City,4-2-3-1,Arsène Wenger,60086,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961205
+37,seg 03/05/2010,13:00,Blackburn,Arsenal,4-3-3 ofensivo,Arsène Wenger,26138,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961216
+38,dom 09/05/2010,12:00,Arsenal,Fulham,4-3-3 ofensivo,Arsène Wenger,60039,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/961225

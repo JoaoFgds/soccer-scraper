@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 06/08/2017,12:00,FC Porto B,Gil Vicente,4-3-3 ofensivo,António Folha,668,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897931
+2,dom 13/08/2017,07:15,Arouca,FC Porto B,3-4-1-2,António Folha,1000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897934
+3,sáb 19/08/2017,12:00,FC Porto B,Penafiel,3-4-1-2,António Folha,490,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897960
+4,qua 23/08/2017,12:00,Leixões,FC Porto B,3-4-1-2,António Folha,1008,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897964
+5,dom 27/08/2017,12:00,FC Porto B,Santa Clara,3-4-1-2,António Folha,468,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897977
+6,sáb 09/09/2017,07:15,UD Oliveirense,FC Porto B,3-4-1-2,António Folha,305,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897987
+7,sáb 16/09/2017,13:00,FC Porto B,Nacional,3-4-1-2,António Folha,344,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898001
+8,qua 27/09/2017,12:00,FC Porto B,Cova da Piedade,3-4-1-2,António Folha,250,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898020
+9,sáb 30/09/2017,12:00,Académico FC,FC Porto B,3-4-1-2,António Folha,1077,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898029
+10,dom 22/10/2017,13:00,FC Porto B,Varzim,3-4-1-2,António Folha,649,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898038
+11,dom 29/10/2017,09:15,Covilhã,FC Porto B,3-5-2,António Folha,323,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898042
+12,qua 01/11/2017,12:30,FC Porto B,Real SC,3-4-1-2,António Folha,209,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898056
+13,dom 05/11/2017,09:15,CF União,FC Porto B,3-4-1-2,António Folha,692,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898070
+14,dom 26/11/2017,13:00,FC Porto B,Académica,3-4-1-2,António Folha,568,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898077
+15,sáb 02/12/2017,13:00,Sporting B,FC Porto B,3-4-1-2,António Folha,393,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898089
+16,dom 10/12/2017,13:00,FC Porto B,Vitória SC B,3-4-1-2,António Folha,168,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898099
+17,sáb 16/12/2017,13:00,Braga B,FC Porto B,3-4-1-2,António Folha,260,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898102
+18,qui 21/12/2017,14:00,Famalicão,FC Porto B,3-4-1-2,António Folha,2874,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898113
+19,sáb 06/01/2018,14:00,FC Porto B,Benfica B,3-4-1-2,António Folha,1470,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898127
+20,dom 14/01/2018,09:15,Gil Vicente,FC Porto B,3-4-1-2,António Folha,986,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898138
+21,dom 21/01/2018,13:00,FC Porto B,Arouca,3-4-2-1,António Folha,680,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898142
+22,qua 31/01/2018,13:00,Penafiel,FC Porto B,3-4-1-2,António Folha,830,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898160
+23,dom 04/02/2018,13:00,FC Porto B,Leixões,3-4-1-2,António Folha,930,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898165
+24,dom 11/02/2018,14:00,Santa Clara,FC Porto B,3-4-1-2,António Folha,2541,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898175
+25,dom 18/02/2018,11:30,FC Porto B,UD Oliveirense,3-4-3 plano,António Folha,445,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898185
+26,qua 07/03/2018,12:00,Nacional,FC Porto B,3-4-1-2,António Folha,492,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898199
+27,dom 04/03/2018,12:00,Cova da Piedade,FC Porto B,?,António Folha,543,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898210
+28,dom 11/03/2018,12:00,FC Porto B,Académico FC,3-4-1-2,António Folha,348,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898219
+29,qua 04/04/2018,12:00,Varzim,FC Porto B,3-4-1-2,António Folha,1502,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898228
+30,dom 18/03/2018,12:00,FC Porto B,Covilhã,3-4-1-2,António Folha,358,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898232
+31,sáb 31/03/2018,07:15,Real SC,FC Porto B,3-4-1-2,António Folha,472,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898246
+32,sáb 07/04/2018,14:00,FC Porto B,CF União,3-4-1-2,António Folha,288,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898260
+33,qua 25/04/2018,12:00,Académica,FC Porto B,3-4-1-2,António Folha,11043,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898267
+34,seg 16/04/2018,12:00,FC Porto B,Sporting B,3-4-1-2,António Folha,496,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898279
+35,qua 02/05/2018,12:00,Vitória SC B,FC Porto B,3-4-1-2,António Folha,1060,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898288
+36,dom 29/04/2018,12:00,FC Porto B,Braga B,3-4-1-2,António Folha,360,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898292
+37,sáb 05/05/2018,12:00,FC Porto B,Famalicão,3-4-1-2,António Folha,349,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898303
+38,sáb 12/05/2018,07:15,Benfica B,FC Porto B,3-4-1-2,António Folha,675,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2898317

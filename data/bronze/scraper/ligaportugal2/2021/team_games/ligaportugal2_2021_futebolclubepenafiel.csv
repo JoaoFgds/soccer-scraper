@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 09/08/2021,14:00,Vilafranquense,Penafiel,4-4-2 duplo 6,Pedro Ribeiro,242,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621660
+2,dom 15/08/2021,10:00,Penafiel,Benfica B,4-4-2 duplo 6,Pedro Ribeiro,304,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621666
+3,sáb 21/08/2021,10:00,Penafiel,Casa Pia,3-4-3 plano,Pedro Ribeiro,278,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621690
+4,seg 30/08/2021,17:15,Trofense,Penafiel,3-4-3 plano,Pedro Ribeiro,732,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621688
+5,dom 12/09/2021,07:00,Penafiel,Nacional,?,Pedro Ribeiro,342,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621672
+6,sex 17/09/2021,14:00,Covilhã,Penafiel,3-4-3 plano,Pedro Ribeiro,283,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621705
+7,dom 03/10/2021,10:00,Penafiel,Mafra,3-4-3 plano,Pedro Ribeiro,343,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621717
+8,dom 10/10/2021,15:00,Chaves,Penafiel,3-4-3 plano,Pedro Ribeiro,645,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621728
+9,sáb 23/10/2021,07:00,Penafiel,Rio Ave,4-3-3 ofensivo,Pedro Ribeiro,567,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621709
+10,seg 01/11/2021,11:00,Farense,Penafiel,3-4-3 plano,Pedro Ribeiro,2420,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621780
+11,dom 07/11/2021,08:00,Penafiel,Leixões,3-4-3 plano,Pedro Ribeiro,541,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621735
+12,sáb 27/11/2021,11:00,Varzim,Penafiel,3-4-3 plano,Pedro Ribeiro,899,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621795
+13,dom 05/12/2021,08:00,Penafiel,Académica,?,Pedro Ribeiro,817,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621753
+14,sáb 11/12/2021,08:00,Feirense,Penafiel,4-3-3 ofensivo,Pedro Ribeiro,1017,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621773
+15,dom 19/12/2021,08:00,Penafiel,Estrela Amadora,?,Pedro Ribeiro,859,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621763
+16,qui 23/12/2021,11:30,FC Porto B,Penafiel,4-2-3-1,Pedro Ribeiro,242,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621749
+17,sáb 08/01/2022,08:00,Penafiel,Académico FC,4-2-3-1,Filó,215,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621818
+18,sáb 15/01/2022,12:30,Penafiel,Vilafranquense,4-2-3-1,Filó,622,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621804
+19,dom 23/01/2022,15:00,Benfica B,Penafiel,?,Filó,454,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621810
+20,seg 31/01/2022,14:00,Casa Pia,Penafiel,?,Filó,237,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621884
+21,seg 07/02/2022,14:00,Penafiel,Trofense,?,Filó,457,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621841
+22,dom 13/02/2022,08:00,Nacional,Penafiel,4-3-3 ofensivo,Filó,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621913
+23,dom 20/02/2022,08:00,Penafiel,Covilhã,?,Filó,510,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621831
+24,sáb 26/02/2022,11:00,Mafra,Penafiel,4-3-3 defensivo,Filó,547,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621879
+25,dom 06/03/2022,11:00,Penafiel,Chaves,?,Filó,1226,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621881
+26,sáb 12/03/2022,11:00,Rio Ave,Penafiel,3-4-3 plano,Filó,912,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621853
+27,sáb 19/03/2022,11:00,Penafiel,Farense,3-4-3 plano,Filó,607,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621843
+28,sex 01/04/2022,14:00,Leixões,Penafiel,4-3-3 ofensivo,Filó,1051,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621876
+29,sex 08/04/2022,14:00,Penafiel,Varzim,4-3-3 ofensivo,Filó,297,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621933
+30,sáb 16/04/2022,07:00,Académica,Penafiel,?,Filó,809,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621875
+31,dom 24/04/2022,07:00,Penafiel,Feirense,?,Filó,524,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621886
+32,sáb 30/04/2022,10:00,Estrela Amadora,Penafiel,?,Filó,3908,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621921
+33,sáb 07/05/2022,07:00,Penafiel,FC Porto B,?,Filó,738,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621914
+34,sex 13/05/2022,14:00,Académico FC,Penafiel,4-4-2 duplo 6,Filó,141,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621888

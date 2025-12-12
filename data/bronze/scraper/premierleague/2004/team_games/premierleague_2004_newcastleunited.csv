@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 14/08/2004,13:15,Middlesbrough,Newcastle,4-4-2,Sir Bobby Robson,34268,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28345
+2,sáb 21/08/2004,11:00,Newcastle,Tottenham,4-4-2,Sir Bobby Robson,52185,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28452
+3,qua 25/08/2004,16:00,Newcastle,Norwich,4-4-2,Sir Bobby Robson,51574,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28566
+4,sáb 28/08/2004,11:00,Aston Villa,Newcastle,4-4-2,Sir Bobby Robson,36305,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28662
+5,sáb 11/09/2004,11:00,Newcastle,Blackburn,4-4-2,John Carver,52015,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28673
+6,dom 19/09/2004,10:00,Southampton,Newcastle,4-4-2,Graeme Souness,30709,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28684
+7,sáb 25/09/2004,11:00,Newcastle,West Brom,4-4-2,Graeme Souness,52387,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28693
+8,dom 03/10/2004,11:00,Birmingham,Newcastle,4-4-2,Graeme Souness,29021,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28703
+9,dom 17/10/2004,12:05,Charlton,Newcastle,4-4-2,Graeme Souness,26553,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28715
+10,dom 24/10/2004,11:00,Newcastle,Man City,4-4-2,Graeme Souness,52316,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28355
+11,sáb 30/10/2004,19:00,Bolton,Newcastle,4-4-2,Graeme Souness,27196,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28364
+12,dom 07/11/2004,12:00,Newcastle,Fulham,4-4-2,Graeme Souness,51118,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28375
+13,dom 14/11/2004,14:05,Newcastle,Man Utd,4-4-2,Graeme Souness,52320,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28385
+14,sáb 20/11/2004,13:00,Crystal Palace,Newcastle,4-4-2,Graeme Souness,22837,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28396
+15,dom 28/11/2004,12:00,Newcastle,Everton,4-4-2 duplo 6,Graeme Souness,51247,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28405
+16,sáb 04/12/2004,10:45,Chelsea,Newcastle,4-4-2,Graeme Souness,42328,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28414
+17,sáb 11/12/2004,12:00,Newcastle,FC Portsmouth,4-4-2,Graeme Souness,51480,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28424
+18,dom 19/12/2004,11:30,Liverpool,Newcastle,4-4-2,Graeme Souness,43856,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28431
+19,dom 26/12/2004,13:00,Blackburn,Newcastle,4-4-2,Graeme Souness,29271,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28440
+20,qua 29/12/2004,18:00,Newcastle,Arsenal,4-4-2 duplo 6,Graeme Souness,52300,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28466
+21,sáb 01/01/2005,13:00,Newcastle,Birmingham,4-4-2,Graeme Souness,52222,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28476
+22,seg 03/01/2005,18:00,West Brom,Newcastle,4-4-1-1,Graeme Souness,25259,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28486
+23,sáb 15/01/2005,13:00,Newcastle,Southampton,4-4-2,Graeme Souness,51266,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28496
+24,dom 23/01/2005,14:05,Arsenal,Newcastle,4-4-2,Graeme Souness,38100,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28498
+25,qua 02/02/2005,18:00,Man City,Newcastle,4-4-2,Graeme Souness,45752,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28515
+26,sáb 05/02/2005,13:00,Newcastle,Charlton,4-4-2,Graeme Souness,51114,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28525
+27,qua 04/05/2005,15:45,Fulham,Newcastle,4-4-2,Graeme Souness,19003,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28536
+28,sáb 26/02/2005,12:00,Newcastle,Bolton,4-4-2,Graeme Souness,50430,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28545
+29,sáb 05/03/2005,12:00,Newcastle,Liverpool,4-4-2,Graeme Souness,52323,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28554
+30,sáb 19/03/2005,12:00,FC Portsmouth,Newcastle,4-5-1,Graeme Souness,20165,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28568
+31,sáb 02/04/2005,11:00,Newcastle,Aston Villa,4-3-3 ofensivo,Graeme Souness,52306,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28583
+32,dom 10/04/2005,12:05,Tottenham,Newcastle,4-4-2 duplo 6,Graeme Souness,35885,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28590
+33,qua 27/04/2005,11:00,Newcastle,Middlesbrough,5-4-1,Graeme Souness,52047,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28603
+34,qua 20/04/2005,15:45,Norwich,Newcastle,4-4-2,Graeme Souness,25503,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28609
+35,sáb 23/04/2005,11:00,Man Utd,Newcastle,5-3-2,Graeme Souness,67845,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28627
+36,sáb 30/04/2005,11:00,Newcastle,Crystal Palace,4-4-2,Graeme Souness,52123,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28635
+37,sáb 07/05/2005,11:00,Everton,Newcastle,4-4-2,Graeme Souness,40216,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28642
+38,dom 15/05/2005,11:00,Newcastle,Chelsea,4-4-2,Graeme Souness,52326,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/28655

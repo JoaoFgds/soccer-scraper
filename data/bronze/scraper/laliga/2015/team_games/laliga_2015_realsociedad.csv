@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 22/08/2015,13:30,Deportivo,Real Sociedad,4-4-2 duplo 6,David Moyes,22301,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594476
+2,sáb 29/08/2015,13:30,Real Sociedad,Real Sporting,4-2-3-1,David Moyes,22436,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594489
+3,sáb 12/09/2015,17:00,Betis,Real Sociedad,4-2-3-1,David Moyes,38768,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594498
+4,sáb 19/09/2015,17:00,Real Sociedad,Espanyol,4-2-3-1,David Moyes,17481,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594508
+5,ter 22/09/2015,17:00,Granada CF,Real Sociedad,4-2-3-1,David Moyes,12668,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594517
+6,dom 27/09/2015,15:30,Real Sociedad,Athletic Club,4-2-3-1,David Moyes,26310,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594527
+7,sáb 03/10/2015,17:05,Málaga CF,Real Sociedad,4-2-3-1,David Moyes,17175,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594536
+8,dom 18/10/2015,12:00,Real Sociedad,Atlético,4-2-3-1,David Moyes,25644,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594546
+9,dom 25/10/2015,09:00,Levante,Real Sociedad,4-2-3-1,David Moyes,14270,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594555
+10,sáb 31/10/2015,19:05,Real Sociedad,Celta de Vigo,4-4-1-1,David Moyes,19270,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594565
+11,sex 06/11/2015,17:30,Las Palmas,Real Sociedad,4-2-3-1,David Moyes,17796,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594574
+12,sáb 21/11/2015,13:00,Real Sociedad,Sevilla,4-2-3-1,Eusebio,19865,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594584
+13,sáb 28/11/2015,13:00,Barcelona,Real Sociedad,4-2-3-1,Eusebio,74020,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594593
+14,dom 06/12/2015,09:00,Real Sociedad,Eibar,4-2-3-1,Eusebio,23461,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594603
+15,sex 11/12/2015,17:30,Getafe,Real Sociedad,4-2-3-1,Eusebio,5654,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594612
+16,dom 20/12/2015,15:15,Real Sociedad,Villarreal,4-3-3 ofensivo,Eusebio,21949,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594622
+17,qua 30/12/2015,13:00,Real Madrid,Real Sociedad,4-2-3-1,Eusebio,60907,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594631
+18,dom 03/01/2016,09:00,Rayo Vallecano,Real Sociedad,4-2-3-1,Eusebio,10697,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594641
+19,dom 10/01/2016,13:00,Real Sociedad,Valencia,4-3-3 ofensivo,Eusebio,21263,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594651
+20,sáb 16/01/2016,19:05,Real Sociedad,Deportivo,4-2-3-1,Eusebio,16783,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594666
+21,sex 22/01/2016,17:30,Real Sporting,Real Sociedad,4-2-3-1,Eusebio,23032,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594679
+22,sáb 30/01/2016,19:05,Real Sociedad,Betis,4-3-3 ofensivo,Eusebio,15877,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594688
+23,seg 08/02/2016,17:30,Espanyol,Real Sociedad,4-2-3-1,Eusebio,14155,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594698
+24,dom 14/02/2016,09:00,Real Sociedad,Granada CF,4-2-3-1,Eusebio,19591,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594707
+25,dom 21/02/2016,14:15,Athletic Club,Real Sociedad,4-3-3 ofensivo,Eusebio,47603,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594717
+26,sáb 27/02/2016,18:05,Real Sociedad,Málaga CF,4-2-3-1,Eusebio,12783,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594726
+27,ter 01/03/2016,17:00,Atlético,Real Sociedad,4-3-3 ofensivo,Eusebio,29737,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594736
+28,dom 06/03/2016,14:15,Real Sociedad,Levante,4-3-3 ofensivo,Eusebio,18620,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594745
+29,sáb 12/03/2016,14:15,Celta de Vigo,Real Sociedad,4-3-3 ofensivo,Eusebio,17767,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594755
+30,sáb 19/03/2016,14:15,Real Sociedad,Las Palmas,4-2-3-1,Eusebio,18952,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594764
+31,dom 03/04/2016,15:30,Sevilla,Real Sociedad,4-2-3-1,Eusebio,32163,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594774
+32,sáb 09/04/2016,15:30,Real Sociedad,Barcelona,4-3-3 ofensivo,Eusebio,27895,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594783
+33,sáb 16/04/2016,15:30,Eibar,Real Sociedad,4-2-3-1,Eusebio,5801,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594793
+34,qui 21/04/2016,15:30,Real Sociedad,Getafe,4-3-3 ofensivo,Eusebio,14334,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594802
+35,dom 24/04/2016,15:30,Villarreal,Real Sociedad,4-1-4-1,Eusebio,17215,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594812
+36,sáb 30/04/2016,11:00,Real Sociedad,Real Madrid,4-3-3 ofensivo,Eusebio,26426,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594821
+37,dom 08/05/2016,12:00,Real Sociedad,Rayo Vallecano,4-3-3 ofensivo,Eusebio,18873,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594831
+38,sex 13/05/2016,15:30,Valencia,Real Sociedad,4-3-3 ofensivo,Eusebio,27777,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594841

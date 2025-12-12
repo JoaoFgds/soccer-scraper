@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 05/08/2018,10:30,Darmstadt 98,Paderborn,4-2-3-1,Dirk Schuster,15400,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058419
+2,sex 10/08/2018,15:30,St. Pauli,Darmstadt 98,4-2-3-1,Dirk Schuster,29140,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058627
+3,sex 24/08/2018,13:30,Darmstadt 98,MSV Duisburg,4-2-3-1,Dirk Schuster,15200,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058734
+4,dom 02/09/2018,08:30,Heidenheim,Darmstadt 98,4-2-3-1,Dirk Schuster,10350,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058762
+5,sáb 15/09/2018,08:00,Darmstadt 98,Sandhausen,4-2-3-1,Dirk Schuster,15103,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058770
+6,sáb 22/09/2018,08:00,Dynamo Dresden,Darmstadt 98,4-2-3-1,Dirk Schuster,26530,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058780
+7,ter 25/09/2018,13:30,Darmstadt 98,Arm. Bielefeld,4-4-1-1,Dirk Schuster,14210,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058785
+8,sex 28/09/2018,13:30,Holstein Kiel,Darmstadt 98,4-2-3-1,Dirk Schuster,8527,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058806
+9,sex 05/10/2018,13:30,Darmstadt 98,Hamburgo,4-4-1-1,Dirk Schuster,17400,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058833
+10,dom 21/10/2018,08:30,J. Regensburg,Darmstadt 98,4-2-3-1,Dirk Schuster,10907,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058841
+11,sex 26/10/2018,13:30,Darmstadt 98,Greuther Fürth,4-2-3-1,Dirk Schuster,14050,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058850
+12,sáb 03/11/2018,09:00,Darmstadt 98,Magdeburgo,4-2-3-1,Dirk Schuster,15410,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058860
+13,seg 12/11/2018,17:30,Bochum,Darmstadt 98,4-2-3-1,Dirk Schuster,12022,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058865
+14,sáb 24/11/2018,10:00,Darmstadt 98,Colônia,4-2-3-1,Dirk Schuster,17400,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058916
+15,sáb 01/12/2018,10:00,Union Berlim,Darmstadt 98,4-2-3-1,Dirk Schuster,21474,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058902
+16,sáb 08/12/2018,10:00,Darmstadt 98,Ingolstadt,4-2-3-1,Dirk Schuster,16579,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058924
+17,dom 16/12/2018,10:30,Erzgebirge Aue,Darmstadt 98,4-2-3-1,Dirk Schuster,7400,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058936
+18,dom 23/12/2018,10:30,Paderborn,Darmstadt 98,4-2-3-1,Dirk Schuster,11547,6:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058946
+19,ter 29/01/2019,17:30,Darmstadt 98,St. Pauli,4-4-1-1,Dirk Schuster,11800,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058951
+20,sex 01/02/2019,15:30,MSV Duisburg,Darmstadt 98,4-2-3-1,Dirk Schuster,11213,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058958
+21,dom 10/02/2019,10:30,Darmstadt 98,Heidenheim,4-2-3-1,Dirk Schuster,10120,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058970
+22,sex 15/02/2019,15:30,Sandhausen,Darmstadt 98,4-1-4-1,Dirk Schuster,7624,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058978
+23,sáb 23/02/2019,09:00,Darmstadt 98,Dynamo Dresden,4-2-3-1,Kai Schmitz,11330,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058987
+24,dom 03/03/2019,09:30,Arm. Bielefeld,Darmstadt 98,4-2-3-1,Dimitrios Grammozis,15011,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058994
+25,sáb 09/03/2019,09:00,Darmstadt 98,Holstein Kiel,4-2-3-1,Dimitrios Grammozis,10210,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059005
+26,sáb 16/03/2019,09:00,Hamburgo,Darmstadt 98,4-2-3-1,Dimitrios Grammozis,54668,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059010
+27,sáb 30/03/2019,09:00,Darmstadt 98,J. Regensburg,4-2-3-1,Dimitrios Grammozis,10385,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059023
+28,dom 07/04/2019,08:30,Greuther Fürth,Darmstadt 98,4-2-3-1,Dimitrios Grammozis,9730,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059036
+29,sáb 13/04/2019,08:00,Magdeburgo,Darmstadt 98,4-4-2 duplo 6,Dimitrios Grammozis,17413,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059044
+30,dom 21/04/2019,08:30,Darmstadt 98,Bochum,4-2-3-1,Dimitrios Grammozis,10590,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059051
+31,sex 26/04/2019,13:30,Colônia,Darmstadt 98,4-2-3-1,Dimitrios Grammozis,50000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059055
+32,dom 05/05/2019,08:30,Darmstadt 98,Union Berlim,4-2-3-1,Dimitrios Grammozis,11510,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3059069
+33,dom 12/05/2019,10:30,Ingolstadt,Darmstadt 98,4-2-3-1,Dimitrios Grammozis,10190,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058751
+34,dom 19/05/2019,10:30,Darmstadt 98,Erzgebirge Aue,4-2-3-1,Dimitrios Grammozis,10570,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3058742

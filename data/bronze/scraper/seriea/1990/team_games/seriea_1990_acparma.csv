@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 09/09/1990,11:00,AC Parma,Juventus,4-3-1-2,Nevio Scala,18333,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216667
+2,dom 16/09/1990,11:00,Lazio,AC Parma,3-5-2 plano,Nevio Scala,34031,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216679
+3,dom 23/09/1990,11:00,AC Parma,Napoli,3-4-2-1,Nevio Scala,17652,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216693
+4,dom 30/09/1990,11:00,Bari,AC Parma,3-4-2-1,Nevio Scala,25792,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216701
+5,dom 07/10/1990,11:00,AC Parma,Sampdoria,5-3-2,Nevio Scala,16840,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216706
+6,dom 21/10/1990,11:30,Florenz,AC Parma,5-3-2,Nevio Scala,32406,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216712
+7,dom 28/10/1990,11:30,AC Parma,Roma,5-3-2,Nevio Scala,17159,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216722
+8,dom 11/11/1990,11:30,Inter,AC Parma,3-5-2 plano,Nevio Scala,57768,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216734
+9,dom 18/11/1990,11:30,AC Pisa 1909,AC Parma,5-3-2,Nevio Scala,13209,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216740
+10,dom 25/11/1990,11:30,AC Parma,Cagliari,3-5-2,Nevio Scala,16180,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216748
+11,dom 02/12/1990,11:30,Genoa,AC Parma,5-3-2,Nevio Scala,29571,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216757
+12,dom 09/12/1990,11:30,AC Parma,Bologna,5-3-2,Nevio Scala,16592,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216769
+13,dom 16/12/1990,11:30,AC Parma,Atalanta,3-5-2 plano,Nevio Scala,16433,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216778
+14,dom 30/12/1990,11:30,Torino,AC Parma,5-3-2,Nevio Scala,32034,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216787
+15,dom 06/01/1991,11:30,AC Parma,Lecce,4-3-1-2,Nevio Scala,15396,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216801
+16,dom 13/01/1991,11:30,Cesena,AC Parma,5-3-2,Nevio Scala,14063,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216807
+17,dom 20/01/1991,11:30,AC Parma,Milan,5-3-2,Nevio Scala,20954,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216814
+18,dom 27/01/1991,11:30,Juventus,AC Parma,5-3-2,Nevio Scala,41699,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216820
+19,dom 03/02/1991,11:30,AC Parma,Lazio,5-3-2,Nevio Scala,17819,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216837
+20,dom 10/02/1991,12:00,Napoli,AC Parma,5-3-2,Nevio Scala,50418,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216840
+21,dom 17/02/1991,11:00,AC Parma,Bari,5-3-2,Nevio Scala,16124,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216851
+22,dom 24/02/1991,11:00,Sampdoria,AC Parma,5-3-2,Nevio Scala,31714,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216858
+23,dom 03/03/1991,11:00,AC Parma,Florenz,5-3-2,Nevio Scala,19534,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216868
+24,dom 10/03/1991,11:00,Roma,AC Parma,3-5-2 plano,Nevio Scala,43617,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216876
+25,dom 17/03/1991,11:00,AC Parma,Inter,5-3-2,Nevio Scala,21880,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216885
+26,dom 24/03/1991,11:00,AC Parma,AC Pisa 1909,5-3-2,Nevio Scala,6945,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216895
+27,sáb 30/03/1991,11:00,Cagliari,AC Parma,5-3-2,Nevio Scala,25000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216907
+28,dom 07/04/1991,11:00,AC Parma,Genoa,3-5-2,Nevio Scala,19469,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216917
+29,dom 14/04/1991,11:00,Bologna,AC Parma,3-5-2,Nevio Scala,18955,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216925
+30,dom 21/04/1991,11:00,Atalanta,AC Parma,5-3-2,Nevio Scala,28200,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216934
+31,dom 05/05/1991,11:00,AC Parma,Torino,5-3-2,Nevio Scala,20365,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216940
+32,dom 12/05/1991,11:00,Lecce,AC Parma,5-3-2,Nevio Scala,7794,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216946
+33,dom 19/05/1991,11:00,AC Parma,Cesena,3-5-2,Nevio Scala,18322,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216957
+34,dom 26/05/1991,11:00,Milan,AC Parma,5-3-2,Nevio Scala,83528,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2216970

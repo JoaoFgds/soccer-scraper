@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 23/02/2020,02:00,JEF Utd. Chiba,FC Ryukyu,4-2-3-1,Yasuhiro Higuchi,9701,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3304702
+2,dom 28/06/2020,06:30,FC Ryukyu,Avispa Fukuoka,4-2-3-1,Yasuhiro Higuchi,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3385219
+3,sáb 04/07/2020,07:00,Gir. Kitakyushu,FC Ryukyu,4-2-3-1,Yasuhiro Higuchi,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3385227
+4,sáb 11/07/2020,06:30,FC Ryukyu,Tokushima Vort.,4-1-4-1,Yasuhiro Higuchi,1355,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3385235
+5,qua 15/07/2020,07:00,FC Ryukyu,V-V. Nagasaki,4-1-4-1,Yasuhiro Higuchi,671,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3385252
+6,sáb 18/07/2020,07:00,Reno. Yamaguchi,FC Ryukyu,4-1-4-1,Yasuhiro Higuchi,1631,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3385254
+7,sáb 25/07/2020,07:00,Ehime FC,FC Ryukyu,4-2-3-1,Yasuhiro Higuchi,1442,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3385269
+8,qua 29/07/2020,07:00,FC Ryukyu,Júbilo Iwata,4-2-3-1,Yasuhiro Higuchi,766,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3385285
+9,sáb 01/08/2020,07:00,Fagiano Okayama,FC Ryukyu,4-2-3-1,Yasuhiro Higuchi,2099,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3385286
+10,sáb 08/08/2020,06:00,Tokyo Verdy,FC Ryukyu,4-2-3-1,Yasuhiro Higuchi,2281,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3385297
+11,qua 12/08/2020,07:00,FC Ryukyu,Ventforet Kofu,4-2-3-1,Yasuhiro Higuchi,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3385317
+12,dom 16/08/2020,07:00,Thespaku. Gunma,FC Ryukyu,4-2-3-1,Yasuhiro Higuchi,1028,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3385326
+13,qua 19/08/2020,07:00,FC Ryukyu,Tochigi SC,4-2-3-1,Yasuhiro Higuchi,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3385340
+14,dom 23/08/2020,06:00,Albirex Niigata,FC Ryukyu,4-2-3-1,Yasuhiro Higuchi,4476,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3385346
+15,sáb 29/08/2020,07:00,FC Ryukyu,Monte. Yamagata,4-2-3-1,Yasuhiro Higuchi,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3385359
+16,qua 02/09/2020,07:00,Zweig. Kanazawa,FC Ryukyu,4-2-3-1,Yasuhiro Higuchi,1149,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3422440
+17,dom 06/09/2020,07:00,Machida Zelvia,FC Ryukyu,4-2-3-1,Yasuhiro Higuchi,880,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3422455
+18,qua 09/09/2020,07:00,FC Ryukyu,Omiya Ardija,4-2-3-1,Yasuhiro Higuchi,744,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3422465
+19,dom 13/09/2020,06:30,Kyoto Sanga,FC Ryukyu,4-2-3-1,Yasuhiro Higuchi,2972,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3422474
+20,sáb 19/09/2020,07:00,FC Ryukyu,Mito HollyHock,4-2-3-1,Yasuhiro Higuchi,1267,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3422486
+21,qua 23/09/2020,07:00,Matsumoto Yama.,FC Ryukyu,4-2-3-1,Yasuhiro Higuchi,3270,1:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3422493
+22,dom 27/09/2020,06:30,FC Ryukyu,JEF Utd. Chiba,4-2-3-1,Yasuhiro Higuchi,1464,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3422509
+23,qua 30/09/2020,07:00,FC Ryukyu,Albirex Niigata,4-2-3-1,Yasuhiro Higuchi,695,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3422521
+24,sáb 03/10/2020,07:00,Tokushima Vort.,FC Ryukyu,4-2-3-1,Yasuhiro Higuchi,3133,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3422524
+25,sáb 10/10/2020,02:00,Monte. Yamagata,FC Ryukyu,4-2-3-1,Yasuhiro Higuchi,2529,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3422533
+26,qua 14/10/2020,07:00,FC Ryukyu,Thespaku. Gunma,4-2-3-1,Yasuhiro Higuchi,663,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3422553
+27,sáb 17/10/2020,06:30,FC Ryukyu,Matsumoto Yama.,4-2-3-1,Yasuhiro Higuchi,1559,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3422559
+28,qua 21/10/2020,07:30,Tochigi SC,FC Ryukyu,4-2-3-1,Yasuhiro Higuchi,1382,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3422576
+29,dom 25/10/2020,06:30,FC Ryukyu,Kyoto Sanga,4-2-3-1,Yasuhiro Higuchi,1442,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3422587
+30,dom 01/11/2020,02:00,Omiya Ardija,FC Ryukyu,4-2-3-1,Yasuhiro Higuchi,3273,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3467920
+31,qua 04/11/2020,07:00,Ventforet Kofu,FC Ryukyu,4-2-3-1,Yasuhiro Higuchi,2403,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3467933
+32,dom 08/11/2020,04:00,FC Ryukyu,Reno. Yamaguchi,4-2-3-1,Yasuhiro Higuchi,1084,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3467949
+33,qua 11/11/2020,07:00,Avispa Fukuoka,FC Ryukyu,4-2-3-1,Yasuhiro Higuchi,2640,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3467970
+34,dom 15/11/2020,02:00,V-V. Nagasaki,FC Ryukyu,4-2-3-1,Yasuhiro Higuchi,6004,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3468245
+35,sáb 21/11/2020,04:00,FC Ryukyu,Gir. Kitakyushu,4-2-3-1,Yasuhiro Higuchi,2049,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3468256
+36,qua 25/11/2020,07:30,Júbilo Iwata,FC Ryukyu,4-2-3-1,Yasuhiro Higuchi,2408,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3468276
+37,dom 29/11/2020,01:00,FC Ryukyu,Tokyo Verdy,4-2-3-1,Yasuhiro Higuchi,1560,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3468279
+38,qua 02/12/2020,07:00,FC Ryukyu,Zweig. Kanazawa,4-2-3-1,Yasuhiro Higuchi,689,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3468304
+39,dom 06/12/2020,01:00,FC Ryukyu,Fagiano Okayama,4-2-3-1,Yasuhiro Higuchi,1609,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3468307
+40,dom 13/12/2020,04:00,FC Ryukyu,Ehime FC,4-2-3-1,Yasuhiro Higuchi,3246,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3468327
+41,qua 16/12/2020,07:00,Mito HollyHock,FC Ryukyu,4-2-3-1,Yasuhiro Higuchi,1878,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3468328
+42,dom 20/12/2020,02:00,FC Ryukyu,Machida Zelvia,4-2-3-1,Yasuhiro Higuchi,2546,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3468349

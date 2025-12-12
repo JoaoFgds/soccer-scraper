@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 15/05/2016,11:00,Santa Cruz,Vitória,4-2-3-1,Vagner Mancini,20038,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2684563
+2,dom 22/05/2016,16:00,Vitória,Corinthians,4-2-3-1,Vagner Mancini,12693,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2684565
+3,qua 25/05/2016,21:00,América-MG,Vitória,4-2-3-1,Vagner Mancini,1318,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2694647
+4,dom 29/05/2016,16:00,Vitória,Atlético-MG,4-2-3-1,Vagner Mancini,12867,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2694661
+5,qui 02/06/2016,21:00,Flamengo,Vitória,4-2-3-1,Vagner Mancini,6164,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2695575
+6,dom 05/06/2016,16:00,Vitória,Internacional,4-2-3-1,Vagner Mancini,8924,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2695590
+7,dom 12/06/2016,11:00,Botafogo,Vitória,4-2-3-1,Vagner Mancini,1203,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2696875
+8,qua 15/06/2016,19:30,São Paulo,Vitória,4-4-2 duplo 6,Vagner Mancini,9213,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698561
+9,dom 19/06/2016,11:00,Vitória,Chapecoense,4-3-3 defensivo,Vagner Mancini,7702,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698574
+10,qui 23/06/2016,19:15,Grêmio,Vitória,?,Vagner Mancini,14382,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2698587
+11,dom 26/06/2016,16:00,Vitória,Ponte Preta,?,Vagner Mancini,4814,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702136
+12,qua 29/06/2016,19:30,Vitória,Sport,?,Vagner Mancini,5840,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2702142
+13,dom 03/07/2016,11:00,Cruzeiro,Vitória,?,Vagner Mancini,43821,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2708406
+14,dom 10/07/2016,19:30,Vitória,Fluminense,4-2-3-1,Vagner Mancini,6938,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2708421
+15,dom 17/07/2016,16:00,Atlético-PR,Vitória,?,Vagner Mancini,15683,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713339
+16,dom 24/07/2016,18:30,Vitória,Santos,?,Vagner Mancini,9244,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713359
+17,sáb 30/07/2016,18:30,Figueirense,Vitória,?,Vagner Mancini,4252,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713361
+18,qua 03/08/2016,19:30,Vitória,Coritiba,?,Vagner Mancini,7182,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713383
+19,dom 07/08/2016,16:00,Palmeiras,Vitória,4-2-3-1,Vagner Mancini,30330,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713395
+20,dom 14/08/2016,16:00,Vitória,Santa Cruz,?,Vagner Mancini,6797,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2713408
+21,seg 22/08/2016,21:00,Corinthians,Vitória,?,Vagner Mancini,20207,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2767852
+22,dom 28/08/2016,19:30,Vitória,América-MG,4-3-3 defensivo,Vagner Mancini,8477,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2767861
+23,qua 07/09/2016,20:30,Atlético-MG,Vitória,4-3-3 defensivo,Vagner Mancini,13532,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770073
+24,sáb 10/09/2016,19:30,Vitória,Flamengo,4-1-4-1,Vagner Mancini,28387,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770080
+25,qui 15/09/2016,22:00,Internacional,Vitória,4-3-3 defensivo,Argel Fuchs,20942,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770099
+26,dom 18/09/2016,19:30,Vitória,Botafogo,4-3-3 defensivo,Argel Fuchs,9900,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770108
+27,dom 25/09/2016,17:00,Vitória,São Paulo,4-2-3-1,Argel Fuchs,5651,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770157
+28,sáb 01/10/2016,16:00,Chapecoense,Vitória,4-2-3-1,Argel Fuchs,10363,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770163
+29,qua 05/10/2016,20:30,Vitória,Grêmio,4-3-3 defensivo,Argel Fuchs,19652,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770170
+30,qua 12/10/2016,20:30,Ponte Preta,Vitória,?,Argel Fuchs,8915,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770186
+31,dom 16/10/2016,21:30,Sport,Vitória,4-2-3-1,Argel Fuchs,24138,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770198
+32,dom 23/10/2016,19:00,Vitória,Cruzeiro,4-3-3 defensivo,Argel Fuchs,27489,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770203
+33,sex 28/10/2016,19:30,Fluminense,Vitória,?,Argel Fuchs,20005,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770221
+34,dom 06/11/2016,17:00,Vitória,Atlético-PR,?,Argel Fuchs,21002,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2770228
+35,qui 17/11/2016,19:30,Santos,Vitória,?,Argel Fuchs,9258,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2778083
+36,dom 20/11/2016,17:00,Vitória,Figueirense,4-2-3-1,Argel Fuchs,22648,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2778090
+37,seg 28/11/2016,20:00,Coritiba,Vitória,4-2-3-1,Argel Fuchs,12755,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2798390
+38,dom 11/12/2016,17:00,Vitória,Palmeiras,4-2-3-1,Argel Fuchs,34757,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2798932

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 08/08/2021,07:00,Estrela Amadora,Mafra,3-4-3 plano,Ricardo Sousa,764,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621661
+2,sáb 14/08/2021,14:00,Mafra,Feirense,3-4-3 plano,Ricardo Sousa,310,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621668
+3,dom 22/08/2021,14:00,Académico FC,Mafra,3-4-3 plano,Ricardo Sousa,249,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621693
+4,seg 30/08/2021,15:00,Mafra,Vilafranquense,4-3-3 ofensivo,Ricardo Sousa,296,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621686
+5,dom 12/09/2021,11:30,FC Porto B,Mafra,3-4-3 plano,Ricardo Sousa,445,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621676
+6,sáb 18/09/2021,11:30,Mafra,Trofense,3-4-3 plano,Ricardo Sousa,359,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621704
+7,dom 03/10/2021,10:00,Penafiel,Mafra,3-4-3 plano,Ricardo Sousa,343,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621717
+8,dom 10/10/2021,11:30,Mafra,Casa Pia,4-3-3 ofensivo,Ricardo Sousa,424,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621730
+9,dom 24/10/2021,10:00,Nacional,Mafra,3-4-3 plano,Ricardo Sousa,511,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621707
+10,dom 31/10/2021,08:00,Mafra,Covilhã,4-3-3 ofensivo,Ricardo Sousa,399,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621785
+11,dom 07/11/2021,11:00,Benfica B,Mafra,?,Ricardo Sousa,516,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621736
+12,sáb 27/11/2021,08:00,Chaves,Mafra,3-4-3 plano,Ricardo Sousa,471,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621792
+13,dom 05/12/2021,17:30,Mafra,Farense,?,Ricardo Sousa,439,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621756
+14,sáb 11/12/2021,11:00,Rio Ave,Mafra,?,Ricardo Sousa,743,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621770
+15,sáb 18/12/2021,08:00,Mafra,Académica,?,Ricardo Sousa,387,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621766
+16,qua 02/02/2022,15:00,Leixões,Mafra,3-4-3 plano,Ricardo Sousa,1037,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621746
+17,sáb 08/01/2022,08:00,Mafra,Varzim,3-4-3 plano,Ricardo Sousa,137,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621821
+18,ter 18/01/2022,15:00,Mafra,Estrela Amadora,3-4-3 plano,Ricardo Sousa,987,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621805
+19,dom 23/01/2022,08:00,Feirense,Mafra,3-4-3 plano,Ricardo Sousa,974,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621812
+20,dom 30/01/2022,08:00,Mafra,Académico FC,?,Ricardo Sousa,499,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621929
+21,dom 06/02/2022,11:00,Vilafranquense,Mafra,?,Ricardo Sousa,119,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621839
+22,sáb 12/02/2022,08:00,Mafra,FC Porto B,3-4-3 plano,Ricardo Sousa,509,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621949
+23,dom 20/02/2022,16:30,Trofense,Mafra,?,Ricardo Sousa,651,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621830
+24,sáb 26/02/2022,11:00,Mafra,Penafiel,3-4-3 plano,Ricardo Sousa,547,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621879
+25,ter 08/03/2022,17:15,Casa Pia,Mafra,?,Ricardo Sousa,402,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621894
+26,dom 13/03/2022,11:00,Mafra,Nacional,3-4-3 plano,Ricardo Sousa,559,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621851
+27,sáb 19/03/2022,08:00,Covilhã,Mafra,3-4-3 plano,Ricardo Sousa,504,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621848
+28,sáb 02/04/2022,07:00,Mafra,Benfica B,3-4-1-2,Ricardo Sousa,764,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621885
+29,sáb 09/04/2022,10:00,Mafra,Chaves,3-4-1-2,Ricardo Sousa,784,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621903
+30,sáb 16/04/2022,07:00,Farense,Mafra,3-4-1-2,Ricardo Sousa,2730,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621907
+31,dom 24/04/2022,10:00,Mafra,Rio Ave,?,Ricardo Sousa,804,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621862
+32,sáb 30/04/2022,07:00,Académica,Mafra,?,Ricardo Sousa,540,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621947
+33,sáb 07/05/2022,07:00,Mafra,Leixões,?,Ricardo Sousa,673,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621887
+34,dom 15/05/2022,11:30,Varzim,Mafra,3-5-2 plano,Ricardo Sousa,3532,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3621912

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 31/07/2015,15:00,Paris FC,Stade Lavallois,4-3-1-2,Denis Zanko,3500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2602005
+2,sex 07/08/2015,15:00,Stade Lavallois,AS Nancy,4-3-1-2,Denis Zanko,5501,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2602014
+3,sex 14/08/2015,15:00,Auxerre,Stade Lavallois,4-3-3 ofensivo,Denis Zanko,5109,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2602024
+4,sex 21/08/2015,15:00,Stade Lavallois,Red Star FC,4-3-3 ofensivo,Denis Zanko,5655,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2602033
+5,sex 28/08/2015,15:00,Chamois Niort,Stade Lavallois,4-3-3 ofensivo,Denis Zanko,3636,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2602050
+6,sex 11/09/2015,15:00,Stade Lavallois,FC Metz,4-3-3 ofensivo,Denis Zanko,7841,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616478
+7,sex 18/09/2015,15:00,AC Ajaccio,Stade Lavallois,4-3-3 ofensivo,Denis Zanko,3429,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616481
+8,ter 22/09/2015,16:00,Stade Lavallois,Bourg-en-Bresse,4-3-3 defensivo,Denis Zanko,5240,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616504
+9,sáb 26/09/2015,09:00,Dijon,Stade Lavallois,4-3-3 ofensivo,Denis Zanko,7509,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616509
+10,sex 02/10/2015,15:00,Stade Lavallois,US Créteil-L,4-3-3 defensivo,Denis Zanko,5036,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616525
+11,seg 19/10/2015,16:00,Lens,Stade Lavallois,4-3-3 ofensivo,Denis Zanko,25891,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616533
+12,sex 23/10/2015,16:00,Stade Lavallois,Tours FC,4-3-3 ofensivo,Denis Zanko,5964,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616546
+13,sex 30/10/2015,17:00,Valenciennes,Stade Lavallois,4-3-3 ofensivo,Denis Zanko,7232,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616568
+14,sex 06/11/2015,17:00,Stade Lavallois,Le Havre,4-3-3 ofensivo,Denis Zanko,5264,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616589
+15,sex 20/11/2015,17:00,FC Sochaux,Stade Lavallois,4-3-3 ofensivo,Denis Zanko,13072,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616593
+16,sex 27/11/2015,17:00,Évian,Stade Lavallois,4-3-3 ofensivo,Denis Zanko,3511,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616615
+17,ter 01/12/2015,18:00,Stade Lavallois,Brest,4-3-3 ofensivo,Denis Zanko,4808,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616626
+18,sex 11/12/2015,17:00,Clermont Foot,Stade Lavallois,4-3-3 ofensivo,Denis Zanko,2549,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616634
+19,sex 18/12/2015,17:00,Stade Lavallois,Nîmes Olympique,4-3-3 ofensivo,Denis Zanko,4748,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2616646
+20,sex 08/01/2016,17:00,AS Nancy,Stade Lavallois,4-3-3 ofensivo,Denis Zanko,14046,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2648112
+21,sex 15/01/2016,17:00,Stade Lavallois,Auxerre,4-3-3 ofensivo,Denis Zanko,4533,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2648147
+22,sáb 23/01/2016,11:00,Red Star FC,Stade Lavallois,4-3-3 ofensivo,Denis Zanko,1074,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2648160
+23,sex 29/01/2016,17:00,Stade Lavallois,Chamois Niort,4-3-3 ofensivo,Denis Zanko,4347,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2648167
+24,ter 02/02/2016,18:00,FC Metz,Stade Lavallois,4-3-3 ofensivo,Denis Zanko,10927,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654401
+25,sex 05/02/2016,17:00,Stade Lavallois,AC Ajaccio,4-3-3 ofensivo,Denis Zanko,4234,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654413
+26,sex 12/02/2016,17:00,Bourg-en-Bresse,Stade Lavallois,4-3-3 ofensivo,Denis Zanko,2595,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654419
+27,sex 19/02/2016,17:00,Stade Lavallois,Dijon,4-3-3 ofensivo,Denis Zanko,4819,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654434
+28,sex 26/02/2016,16:00,US Créteil-L,Stade Lavallois,4-3-3 ofensivo,Denis Zanko,2035,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654444
+29,sex 04/03/2016,16:00,Stade Lavallois,Lens,4-3-3 ofensivo,Denis Zanko,4895,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654454
+30,sex 11/03/2016,16:00,Tours FC,Stade Lavallois,4-3-3 ofensivo,Denis Zanko,4726,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654462
+31,sex 18/03/2016,16:00,Stade Lavallois,Valenciennes,4-3-3 defensivo,Denis Zanko,5376,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654475
+32,sex 01/04/2016,15:00,Le Havre,Stade Lavallois,4-3-3 ofensivo,Denis Zanko,7320,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654480
+33,sex 08/04/2016,15:00,Stade Lavallois,FC Sochaux,4-3-3 ofensivo,Denis Zanko,5218,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654495
+34,sex 15/04/2016,15:00,Stade Lavallois,Évian,4-3-3 ofensivo,Denis Zanko,5677,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654502
+35,sex 22/04/2016,15:00,Brest,Stade Lavallois,4-3-3 ofensivo,Denis Zanko,5826,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654515
+36,sex 29/04/2016,15:00,Stade Lavallois,Clermont Foot,4-3-3 ofensivo,Denis Zanko,4599,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654522
+37,sex 06/05/2016,15:45,Nîmes Olympique,Stade Lavallois,4-3-3 ofensivo,Denis Zanko,12573,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654532
+38,sex 13/05/2016,15:45,Stade Lavallois,Paris FC,4-3-3 ofensivo,Denis Zanko,9684,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2654542

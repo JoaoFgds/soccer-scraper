@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 06/08/2022,10:30,Bochum,Mainz,4-2-3-1,Thomas Reis,24110,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839031
+2,sáb 13/08/2022,10:30,Hoffenheim,Bochum,3-4-1-2,Thomas Reis,17005,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839057
+3,dom 21/08/2022,12:30,Bochum,Bayern,4-4-2 losango,Thomas Reis,26000,0:7,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839085
+4,sex 26/08/2022,15:30,Freiburg,Bochum,4-2-3-1,Thomas Reis,32800,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839098
+5,sáb 03/09/2022,10:30,Bochum,Werder Bremen,4-2-3-1,Thomas Reis,25800,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839111
+6,sáb 10/09/2022,13:30,Schalke,Bochum,4-2-3-1,Thomas Reis,62041,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839121
+7,dom 18/09/2022,12:30,Bochum,Colônia,4-3-3 ofensivo,Heiko Butscher,25800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839138
+8,sáb 01/10/2022,10:30,Leipzig,Bochum,5-3-2,Thomas Letsch,45000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839151
+9,sáb 08/10/2022,10:30,Bochum,Frankfurt,4-2-3-1,Thomas Letsch,24850,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839164
+10,sáb 15/10/2022,10:30,Stuttgart,Bochum,4-3-3 ofensivo,Thomas Letsch,45400,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839183
+11,dom 23/10/2022,10:30,Bochum,Union Berlim,4-1-4-1,Thomas Letsch,25460,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839201
+12,sáb 29/10/2022,10:30,Wolfsburg,Bochum,4-2-3-1,Thomas Letsch,24037,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839218
+13,sáb 05/11/2022,11:30,Dortmund,Bochum,4-4-2 losango,Thomas Letsch,81365,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839231
+14,ter 08/11/2022,16:30,Bochum,M'gladbach,4-2-3-1,Thomas Letsch,25900,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839255
+15,sáb 12/11/2022,11:30,Augsburg,Bochum,4-3-3 ofensivo,Thomas Letsch,28011,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839263
+16,sáb 21/01/2023,11:30,Bochum,Hertha Berlim,4-3-3 ofensivo,Thomas Letsch,26000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839283
+17,qua 25/01/2023,16:30,Leverkusen,Bochum,4-2-3-1,Thomas Letsch,25820,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839295
+18,sáb 28/01/2023,11:30,Mainz,Bochum,4-3-3 ofensivo,Thomas Letsch,23100,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839316
+19,sáb 04/02/2023,11:30,Bochum,Hoffenheim,4-2-3-1,Thomas Letsch,23700,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839336
+20,sáb 11/02/2023,11:30,Bayern,Bochum,4-2-3-1,Thomas Letsch,75000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839348
+21,sáb 18/02/2023,11:30,Bochum,Freiburg,4-2-3-1,Thomas Letsch,25100,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839372
+22,sáb 25/02/2023,11:30,Werder Bremen,Bochum,3-4-2-1,Thomas Letsch,42100,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839392
+23,sáb 04/03/2023,11:30,Bochum,Schalke,4-2-3-1,Thomas Letsch,26000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839399
+24,sex 10/03/2023,16:30,Colônia,Bochum,4-2-3-1,Thomas Letsch,50000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839414
+25,sáb 18/03/2023,11:30,Bochum,Leipzig,4-3-1-2,Thomas Letsch,24400,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839435
+26,sex 31/03/2023,15:30,Frankfurt,Bochum,4-4-2 losango,Thomas Letsch,50000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839452
+27,dom 09/04/2023,12:30,Bochum,Stuttgart,4-2-3-1,Thomas Letsch,26000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839471
+28,dom 16/04/2023,12:30,Union Berlim,Bochum,4-3-3 ofensivo,Thomas Letsch,21524,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839485
+29,sáb 22/04/2023,10:30,Bochum,Wolfsburg,4-2-3-1,Thomas Letsch,24834,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839507
+30,sex 28/04/2023,15:30,Bochum,Dortmund,4-2-3-1,Thomas Letsch,26000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839516
+31,sáb 06/05/2023,10:30,M'gladbach,Bochum,4-3-3 defensivo,Thomas Letsch,53797,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839533
+32,sáb 13/05/2023,10:30,Bochum,Augsburg,4-3-3 ofensivo,Thomas Letsch,24453,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839553
+33,sáb 20/05/2023,10:30,Hertha Berlim,Bochum,4-3-3 ofensivo,Thomas Letsch,70692,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839570
+34,sáb 27/05/2023,10:30,Bochum,Leverkusen,4-3-3 ofensivo,Thomas Letsch,26000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3839589
