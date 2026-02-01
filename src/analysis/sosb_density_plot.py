@@ -1,5 +1,6 @@
 """
 SoSB Density Plot - Creates KDE density plots of normalized rankings
+<<<<<<< HEAD
 grouped by G_type (balanced, unbalanced_weak, unbalanced_strong).
 
 This script visualizes how teams with different schedule balance types
@@ -21,6 +22,10 @@ Usage:
 
     # Run ALL thresholds from parameters.py
     python -m src.analysis.sosb_density_plot --all
+=======
+grouped by G_type (balanced, unbalanced_weak, unbalanced_strong)
+for each threshold level (0.200, 0.250, 0.300, 0.350)
+>>>>>>> 238249e8da800de30fa99aa4c9535cd037f80c6c
 """
 
 import argparse
@@ -65,6 +70,7 @@ def classify_by_pvalue(df: pd.DataFrame, p_threshold: float) -> pd.DataFrame:
     Returns:
         DataFrame with added 'g_type_dynamic' column
     """
+<<<<<<< HEAD
     df = df.copy()
 
     conditions = [
@@ -191,20 +197,40 @@ def create_multi_density_plot(
         g_type_columns: List of G_type column names
         threshold_labels: List of human-readable threshold labels
         output_path: Path to save the plot
+=======
+    df['num_teams'] = df['R_array'].apply(lambda x: len(ast.literal_eval(x)) + 1)
+    df['normalized_rank'] = (df['final_position'] - 1) / (df['num_teams'] - 1)
+    return df
+
+
+def create_multi_density_plot(df: pd.DataFrame, output_path: str = None):
     """
+    Create a 2x2 grid of KDE density plots, one for each G_type threshold.
+    Each plot shows three curves: G0 (balanced), G- (unbalanced_weak), G+ (unbalanced_strong)
+>>>>>>> 238249e8da800de30fa99aa4c9535cd037f80c6c
+    """
+    # G_type columns to plot
+    g_type_columns = ['G_type_0.250', 'G_type_0.300', 'G_type_0.350', 'G_type_0.400']
+    threshold_labels = ['α = 0.250', 'α = 0.300', 'α = 0.350', 'α = 0.400']
+    
     # Map the G_type values to display labels
     g_type_mapping = {
         'balanced': 'G0 (Balanced)',
         'unbalanced_weak': 'G- (Unbalanced Weak)',
         'unbalanced_strong': 'G+ (Unbalanced Strong)'
     }
+<<<<<<< HEAD
 
+=======
+    
+>>>>>>> 238249e8da800de30fa99aa4c9535cd037f80c6c
     # Define colors for each group
     colors = {
         'balanced': '#2ecc71',           # Green
         'unbalanced_weak': '#e74c3c',    # Red
         'unbalanced_strong': '#3498db'   # Blue
     }
+<<<<<<< HEAD
 
     # Set up the figure with 2x2 subplots
     n_plots = len(g_type_columns)
@@ -217,6 +243,17 @@ def create_multi_density_plot(
     for idx, (g_type_col, threshold_label) in enumerate(zip(g_type_columns, threshold_labels)):
         ax = axes[idx]
 
+=======
+    
+    # Set up the figure with 2x2 subplots
+    fig, axes = plt.subplots(2, 2, figsize=(14, 12))
+    axes = axes.flatten()
+    sns.set_style("whitegrid")
+    
+    for idx, (g_type_col, threshold_label) in enumerate(zip(g_type_columns, threshold_labels)):
+        ax = axes[idx]
+        
+>>>>>>> 238249e8da800de30fa99aa4c9535cd037f80c6c
         # Create KDE plot for each group
         for g_type, label in g_type_mapping.items():
             subset = df[df[g_type_col] == g_type]['normalized_rank']
@@ -230,7 +267,11 @@ def create_multi_density_plot(
                     alpha=0.3,
                     ax=ax
                 )
+<<<<<<< HEAD
 
+=======
+        
+>>>>>>> 238249e8da800de30fa99aa4c9535cd037f80c6c
         # Customize each subplot
         ax.set_xlabel('Normalized Rank (0 = Champion, 1 = Last Place)', fontsize=10)
         ax.set_ylabel('Density', fontsize=10)
@@ -238,6 +279,7 @@ def create_multi_density_plot(
         ax.legend(title='Schedule Balance Type', fontsize=8, title_fontsize=9)
         ax.set_xlim(0, 1)
         ax.axvline(x=0.5, color='gray', linestyle='--', alpha=0.5)
+<<<<<<< HEAD
 
     # Hide extra subplots if odd number
     for idx in range(n_plots, len(axes)):
@@ -247,12 +289,20 @@ def create_multi_density_plot(
     fig.suptitle('Distribution of Final Positions by Schedule Balance Type\nAcross Different Classification Thresholds',
                  fontsize=14, fontweight='bold', y=1.02)
 
+=======
+    
+    # Overall title
+    fig.suptitle('Distribution of Final Positions by Schedule Balance Type\nAcross Different Significance Thresholds', 
+                 fontsize=14, fontweight='bold', y=1.02)
+    
+>>>>>>> 238249e8da800de30fa99aa4c9535cd037f80c6c
     plt.tight_layout()
     plt.savefig(output_path, dpi=300, bbox_inches='tight')
     print(f"  Multi-panel plot saved: {output_path}")
     plt.close()
 
 
+<<<<<<< HEAD
 # =============================================================================
 # Summary Statistics
 # =============================================================================
@@ -508,6 +558,24 @@ Examples:
     )
 
     return parser.parse_args()
+=======
+def print_statistics(df: pd.DataFrame):
+    """Print summary statistics for each G_type column and group."""
+    g_type_columns = ['G_type_0.250', 'G_type_0.300', 'G_type_0.350', 'G_type_0.400']
+    
+    for g_type_col in g_type_columns:
+        print("\n" + "="*60)
+        print(f"Statistics for {g_type_col}")
+        print("="*60)
+        
+        for g_type in ['balanced', 'unbalanced_weak', 'unbalanced_strong']:
+            subset = df[df[g_type_col] == g_type]['normalized_rank']
+            print(f"\n{g_type.upper()}:")
+            print(f"  Count: {len(subset)}")
+            print(f"  Mean Normalized Rank: {subset.mean():.4f}")
+            print(f"  Std Dev: {subset.std():.4f}")
+            print(f"  Median: {subset.median():.4f}")
+>>>>>>> 238249e8da800de30fa99aa4c9535cd037f80c6c
 
 
 def main():
@@ -516,6 +584,7 @@ def main():
 
     # Define paths
     project_root = Path(__file__).parent.parent.parent
+<<<<<<< HEAD
 
     if args.input:
         csv_path = Path(args.input)
@@ -527,6 +596,15 @@ def main():
     else:
         output_base_dir = project_root / "data" / "gold" / "analysis" / "sosb_density"
 
+=======
+    csv_path = project_root / "data" / "gold" / "analysis" / "spearman_coefficient" / "metrics" / "strength_schedule_balance.csv"
+    output_dir = project_root / "data" / "gold" / "analysis" / "figures"
+    
+    # Create output directory if it doesn't exist
+    output_dir.mkdir(parents=True, exist_ok=True)
+    output_path = output_dir / "sosb_density_plot_multi.png"
+    
+>>>>>>> 238249e8da800de30fa99aa4c9535cd037f80c6c
     print(f"Loading data from: {csv_path}")
 
     # Load data
@@ -535,6 +613,7 @@ def main():
 
     # Compute normalized ranks
     df = compute_normalized_rank(df)
+<<<<<<< HEAD
 
     # Run analysis
     if args.all:
@@ -545,6 +624,14 @@ def main():
     print("\n" + "=" * 70)
     print("ANALYSIS COMPLETE")
     print("=" * 70)
+=======
+    
+    # Print statistics
+    print_statistics(df)
+    
+    # Create and save the multi-panel density plot
+    create_multi_density_plot(df, output_path=str(output_path))
+>>>>>>> 238249e8da800de30fa99aa4c9535cd037f80c6c
 
 
 if __name__ == "__main__":
