@@ -1,0 +1,3 @@
+comparison,threshold_label,n_season_league_combinations,mean_n_test,mean_n_control,mean_delta,median_delta,std_delta,min_delta,max_delta,n_positive_delta,pct_positive_delta,n_negative_delta,pct_negative_delta,effect_size_interpretation,n_negligible_effect,n_small_effect,n_medium_effect,n_large_effect
+G- vs G0,G: 0.350,251,1.7689243027888446,15.896414342629482,-0.06226365865541361,-0.0196078431372549,0.5328750692101292,-1.0,1.0,105,41.832669322709165,126,50.199203187250994,negligible,57,61,33,100
+G+ vs G0,G: 0.350,256,1.74609375,16.08984375,-0.002321385675477586,0.0,0.5388065297372688,-1.0,1.0,122,47.65625,125,48.828125,negligible,38,57,47,114

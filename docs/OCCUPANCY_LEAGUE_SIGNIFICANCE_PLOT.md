@@ -1,6 +1,6 @@
-# League Effect Size Significance Plot
+# Occupancy League Significance Plot
 
-This document explains the methodology and usage of the `league_effect_significance_plot.py` script, which creates scatter plots visualizing the relationship between effect size and statistical significance of schedule imbalance across leagues.
+This document explains the methodology and usage of the `occupancy_league_significancy_plot.py` script, which creates scatter plots visualizing the relationship between schedule imbalance and stadium occupancy significance across leagues.
 
 > [!TIP]
 > **For AI Agents**: This script serves as a reference implementation for batch processing with the `--all` flag. See the [Refactoring Template](#refactoring-template-for-other-scripts) section for guidance on updating other plot scripts.
@@ -9,11 +9,17 @@ This document explains the methodology and usage of the `league_effect_significa
 
 ## Overview
 
-The plot answers the question: **Does schedule imbalance have a meaningful and statistically significant effect on tournament performance across different leagues?**
+The plot answers the question: **Does schedule imbalance correlate with higher or lower stadium attendance, and is this effect statistically significant for each league?**
 
 Each point on the scatter plot represents a single league, with:
-- **Y-axis (Cliff's Delta)**: Magnitude and direction of the effect
-- **X-axis (-log₁₀(p-value))**: Statistical significance of the effect
+- **X-axis (-log₁₀(p-value))**: Statistical significance of the occupancy difference
+- **Y-axis (Mean Difference)**: Direction and magnitude of the effect (unbalanced - balanced)
+
+| Quadrant | Interpretation |
+|----------|----------------|
+| Top-right | Significant evidence that unbalanced schedules correlate with **higher** attendance |
+| Bottom-right | Significant evidence that unbalanced schedules correlate with **lower** attendance |
+| Left side | No significant difference between groups |
 
 ---
 
@@ -42,28 +48,40 @@ Dynamically classifies teams based on the statistical significance of the Spearm
 
 ## Methodology
 
-### 1. Cliff's Delta (Effect Size)
+### 1. Data Sources
 
-Cliff's Delta (δ) measures the probability that a randomly selected team from one group outperforms another.
+| File | Purpose |
+|------|---------|
+| `strength_schedule_balance.csv` | G coefficient, P_value, and `G_type_X.XXX` columns |
+| `occupancy_audit_audience_filled_fb.csv` | Average occupancy for each team-season |
+
+**Join Key:** `(league_name, season_year, team_canonical)`
+
+### 2. Per-League Aggregation
+
+For each league, the script:
+1. Collects all team-season `average_occupancy` values across all seasons
+2. Separates them by G_type classification (balanced vs. unbalanced)
+3. Each data point is the average occupancy of a single team in a single season
+
+### 3. Mean Difference
 
 ```
-δ = (#(unbalanced < balanced) - #(unbalanced > balanced)) / total_pairs
+Mean Difference = mean(unbalanced_occupancy) - mean(balanced_occupancy)
 ```
 
-| δ Value | Interpretation |
-|---------|----------------|
-| +1.0 | Every unbalanced team finishes below every balanced team |
-| 0.0 | No difference between groups |
-| -1.0 | Every unbalanced team finishes above every balanced team |
+| Value | Interpretation |
+|-------|----------------|
+| Positive | Unbalanced schedules correlate with higher attendance |
+| Zero | No difference between groups |
+| Negative | Unbalanced schedules correlate with lower attendance |
 
-**Critical**: Comparisons are only made between teams from the **same season**.
+### 4. Mann-Whitney U Test
 
-### 2. Mann-Whitney U Test
-
-Non-parametric test determining if final position distributions differ significantly.
+Non-parametric test determining if occupancy distributions differ significantly.
 - **p-value < 0.05**: Evidence of significant difference
 
-### 3. -log₁₀(p-value) Transformation
+### 5. -log₁₀(p-value) Transformation
 
 | p-value | -log₁₀(p) | Interpretation |
 |---------|-----------|----------------|
@@ -78,12 +96,12 @@ Non-parametric test determining if final position distributions differ significa
 Outputs are organized in **threshold-specific subfolders**:
 
 ```
-data/gold/analysis/league_significance/
+data/gold/analysis/occupancy_league_significance/
 ├── gtype_0.200/
 │   ├── league_metrics_gminus_vs_g0.csv
 │   ├── league_metrics_gplus_vs_g0.csv
-│   ├── league_significance_gminus_vs_g0.png
-│   └── league_significance_gplus_vs_g0.png
+│   ├── occupancy_significance_gminus_vs_g0.png
+│   └── occupancy_significance_gplus_vs_g0.png
 ├── gtype_0.250/
 │   └── ...
 ├── gtype_0.300/
@@ -96,6 +114,20 @@ data/gold/analysis/league_significance/
     └── ...
 ```
 
+### CSV Schema
+
+| Column | Description |
+|--------|-------------|
+| `league_name` | League identifier |
+| `mean_difference` | Unbalanced mean - Balanced mean occupancy |
+| `mann_whitney_stat` | Mann-Whitney U statistic |
+| `p_value` | Mann-Whitney U test p-value |
+| `neg_log_p` | `-log₁₀(p-value)` for plotting |
+| `n_unbalanced` | Count of unbalanced team-seasons |
+| `n_balanced` | Count of balanced team-seasons |
+| `mean_unbalanced` | Mean occupancy of unbalanced group |
+| `mean_balanced` | Mean occupancy of balanced group |
+
 ---
 
 ## Usage
@@ -103,7 +135,7 @@ data/gold/analysis/league_significance/
 ### Run All Thresholds (Batch Mode)
 
 ```bash
-python -m src.analysis.league_effect_significance_plot --all
+python -m src.analysis.occupancy_league_significancy_plot --all
 ```
 
 This runs all thresholds defined in `src/analysis/parameters.py`.
@@ -112,13 +144,13 @@ This runs all thresholds defined in `src/analysis/parameters.py`.
 
 ```bash
 # G-type mode (default threshold 0.300)
-python -m src.analysis.league_effect_significance_plot
+python -m src.analysis.occupancy_league_significancy_plot
 
 # Custom G-type threshold
-python -m src.analysis.league_effect_significance_plot --mode gtype --threshold 0.250
+python -m src.analysis.occupancy_league_significancy_plot --mode gtype --threshold 0.250
 
 # P-value mode
-python -m src.analysis.league_effect_significance_plot --mode pvalue --p-threshold 0.10
+python -m src.analysis.occupancy_league_significancy_plot --mode pvalue --p-threshold 0.10
 ```
 
 ### Command-Line Arguments
@@ -129,7 +161,8 @@ python -m src.analysis.league_effect_significance_plot --mode pvalue --p-thresho
 | `--mode` | Classification mode: `gtype` or `pvalue` | `gtype` |
 | `--threshold` | G coefficient threshold (gtype mode) | `0.300` |
 | `--p-threshold` | P-value threshold (pvalue mode) | `0.10` |
-| `--input` | Path to input CSV | Auto |
+| `--input-balance` | Path to schedule balance CSV | Auto |
+| `--input-occupancy` | Path to occupancy CSV | Auto |
 | `--output-dir` | Base output directory | Auto |
 
 ---
@@ -172,34 +205,10 @@ from src.analysis.parameters import (
 ### 2. Add CLI Arguments
 
 ```python
-parser.add_argument(
-    "--all",
-    action="store_true",
-    help="Run analysis for ALL thresholds defined in parameters.py"
-)
-
-parser.add_argument(
-    "--mode",
-    type=str,
-    default="gtype",
-    choices=["gtype", "pvalue"],
-    help="Classification mode"
-)
-
-parser.add_argument(
-    "--threshold",
-    type=str,
-    default=DEFAULT_G_TYPE_THRESHOLD,
-    choices=G_TYPE_THRESHOLDS,
-    help="G_type threshold for gtype mode"
-)
-
-parser.add_argument(
-    "--p-threshold",
-    type=float,
-    default=DEFAULT_P_VALUE_THRESHOLD,
-    help="P-value threshold for pvalue mode"
-)
+parser.add_argument("--all", action="store_true", help="Run ALL thresholds")
+parser.add_argument("--mode", type=str, default="gtype", choices=["gtype", "pvalue"])
+parser.add_argument("--threshold", type=str, default=DEFAULT_G_TYPE_THRESHOLD)
+parser.add_argument("--p-threshold", type=float, default=DEFAULT_P_VALUE_THRESHOLD)
 ```
 
 ### 3. Refactor Analysis into Reusable Function
@@ -215,34 +224,16 @@ def run_analysis(df, g_type_col, threshold_label, output_dir):
 
 ```python
 def run_all_thresholds(df, output_dir):
-    """Run analysis for all thresholds from parameters.py."""
     for g_threshold in G_TYPE_THRESHOLDS:
         g_type_col = f"G_type_{g_threshold}"
-        if g_type_col not in df.columns:
-            continue
-        subfolder = f"gtype_{g_threshold}"
-        run_analysis(df, g_type_col, f"G: {g_threshold}", output_dir / subfolder)
+        run_analysis(df, g_type_col, f"G: {g_threshold}", output_dir / f"gtype_{g_threshold}")
     
     for p_threshold in P_VALUE_THRESHOLDS:
         df_classified = classify_by_pvalue(df, p_threshold)
-        subfolder = f"pvalue_{p_threshold}"
-        run_analysis(df_classified, 'g_type_dynamic', f"p<{p_threshold}", output_dir / subfolder)
+        run_analysis(df_classified, 'g_type_dynamic', f"p<{p_threshold}", output_dir / f"pvalue_{p_threshold}")
 ```
 
-### 5. Update Main Function
-
-```python
-def main():
-    args = parse_args()
-    df = load_data(args.input)
-    
-    if args.all:
-        run_all_thresholds(df, Path(args.output_dir))
-    else:
-        run_single_threshold(df, args.mode, args.threshold, args.p_threshold, Path(args.output_dir))
-```
-
-### 6. Output Subfolder Convention
+### 5. Output Subfolder Convention
 
 Use consistent subfolder naming:
 - G-type: `gtype_{threshold}` (e.g., `gtype_0.300`)

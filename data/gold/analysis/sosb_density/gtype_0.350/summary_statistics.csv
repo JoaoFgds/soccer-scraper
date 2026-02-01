@@ -1,0 +1,4 @@
+g_type,g_type_display,threshold_label,n_teams,mean_normalized_rank,median_normalized_rank,std_normalized_rank,min_normalized_rank,max_normalized_rank,n_top_half,pct_top_half,n_bottom_half,pct_bottom_half
+balanced,G0 (Balanced),G: 0.350,5604,0.5018441196458105,0.5217391304347826,0.3039231368076902,0.0,1.0,2784,49.67880085653105,2820,50.32119914346895
+unbalanced_weak,G- (Unbalanced Weak),G: 0.350,444,0.47021567762414446,0.47058823529411764,0.3054475397287726,0.0,1.0,243,54.729729729729726,201,45.270270270270274
+unbalanced_strong,G+ (Unbalanced Strong),G: 0.350,447,0.5058345836546471,0.5263157894736842,0.3027653529044652,0.0,1.0,218,48.769574944071586,229,51.230425055928414

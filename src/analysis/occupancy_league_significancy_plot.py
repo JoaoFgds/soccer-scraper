@@ -1,10 +1,10 @@
 """
-League Effect Size Significance Plot - Creates scatter plots showing the relationship
-between Cliff's Delta (effect size) and -log10(p-value) (significance) for each league.
+Occupancy League Significance Plot - Creates scatter plots showing the relationship
+between mean occupancy difference and -log10(p-value) (significance) for each league.
 
-This script computes per-league metrics using within-season comparisons:
-- Y-axis: Cliff's Delta comparing unbalanced vs balanced groups
+This script computes per-league metrics using pooled team-season data:
 - X-axis: -log10(p-value) from Mann-Whitney U test
+- Y-axis: Mean difference (unbalanced - balanced) in average_occupancy
 
 Two classification modes are available:
 1. G-type mode (default): Uses pre-computed G_type columns with fixed thresholds
@@ -12,14 +12,14 @@ Two classification modes are available:
 
 Usage:
     # Single threshold (default G-type 0.300)
-    python -m src.analysis.league_effect_significance_plot
+    python -m src.analysis.occupancy_league_significancy_plot
     
     # All thresholds from parameters.py
-    python -m src.analysis.league_effect_significance_plot --all
+    python -m src.analysis.occupancy_league_significancy_plot --all
     
     # Custom single threshold
-    python -m src.analysis.league_effect_significance_plot --mode gtype --threshold 0.250
-    python -m src.analysis.league_effect_significance_plot --mode pvalue --p-threshold 0.10
+    python -m src.analysis.occupancy_league_significancy_plot --mode gtype --threshold 0.250
+    python -m src.analysis.occupancy_league_significancy_plot --mode pvalue --p-threshold 0.10
 """
 
 import argparse
@@ -32,7 +32,11 @@ from pathlib import Path
 from typing import Tuple, Optional
 from scipy import stats
 
-from src.utils.paths import GOLD_DATA_DIR, SPEARMAN_BALANCE_PATH
+from src.utils.paths import (
+    GOLD_DATA_DIR,
+    SPEARMAN_BALANCE_PATH,
+    MANN_WHITNEY_ATT_AUDIT_DIR,
+)
 from src.utils.logger import setup_logging
 from src.analysis.parameters import (
     G_TYPE_THRESHOLDS,
@@ -46,24 +50,59 @@ setup_logging()
 logger = logging.getLogger(__name__)
 
 # Default paths
-DEFAULT_INPUT_PATH = SPEARMAN_BALANCE_PATH
-DEFAULT_OUTPUT_DIR = GOLD_DATA_DIR / "analysis" / "league_significance"
+DEFAULT_BALANCE_PATH = SPEARMAN_BALANCE_PATH
+DEFAULT_OCCUPANCY_PATH = MANN_WHITNEY_ATT_AUDIT_DIR / "occupancy_audit_audience_filled_fb.csv"
+DEFAULT_OUTPUT_DIR = GOLD_DATA_DIR / "analysis" / "occupancy_league_significance"
 
 # Classification modes
 MODE_GTYPE = "gtype"
 MODE_PVALUE = "pvalue"
 
 # Color and marker configurations for leagues
-MARKERS = ['o', 's', '^', 'D', 'v', 'p', '*', 'h', 'X', 'P', '<', '>', '8', 'd', 'H']
+MARKERS = ['o', 's', '^', 'D', 'v', 'p', '*', 'h', 'X', 'P', '<', '>', '8', 'd', 'H', '+', 'x']
 COLORS = plt.cm.tab20.colors
 
 
-def load_data(csv_path: str) -> pd.DataFrame:
+def load_schedule_balance(csv_path: Path) -> pd.DataFrame:
     """Load the strength schedule balance CSV file."""
-    logger.info(f"Loading data from {csv_path}")
+    logger.info(f"Loading schedule balance data from {csv_path}")
     df = pd.read_csv(csv_path)
     logger.info(f"Loaded {len(df)} records from {df['league_name'].nunique()} leagues")
     return df
+
+
+def load_occupancy_data(csv_path: Path) -> pd.DataFrame:
+    """Load the occupancy audit CSV file."""
+    logger.info(f"Loading occupancy data from {csv_path}")
+    df = pd.read_csv(csv_path)
+    logger.info(f"Loaded {len(df)} occupancy records")
+    return df
+
+
+def merge_data(balance_df: pd.DataFrame, occupancy_df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Merge schedule balance data with occupancy data.
+    
+    Join on: league_name, season_year, team_canonical
+    """
+    logger.info("Merging schedule balance with occupancy data...")
+    
+    merged = pd.merge(
+        balance_df,
+        occupancy_df[['league_name', 'season_year', 'team_canonical', 'average_occupancy']],
+        on=['league_name', 'season_year', 'team_canonical'],
+        how='inner'
+    )
+    
+    logger.info(f"Merged dataset has {len(merged)} records "
+                f"({len(balance_df)} balance records, {len(occupancy_df)} occupancy records)")
+    
+    # Report any missing matches
+    missing_count = len(balance_df) - len(merged)
+    if missing_count > 0:
+        logger.warning(f"{missing_count} balance records had no matching occupancy data")
+    
+    return merged
 
 
 def classify_by_pvalue(df: pd.DataFrame, p_threshold: float) -> pd.DataFrame:
@@ -95,71 +134,58 @@ def classify_by_pvalue(df: pd.DataFrame, p_threshold: float) -> pd.DataFrame:
     return df
 
 
-def compute_league_cliffs_delta(
+def compute_league_metrics(
     df: pd.DataFrame,
     league_name: str,
     g_type_col: str,
     unbalanced_type: str
-) -> Tuple[float, int, int, int]:
-    """Compute Cliff's Delta for a league using within-season comparisons."""
-    league_df = df[df['league_name'] == league_name]
-    seasons = league_df['season_year'].unique()
+) -> dict:
+    """
+    Compute mean difference and Mann-Whitney p-value for a single league.
     
-    total_greater = 0
-    total_less = 0
-    total_pairs = 0
-    n_unbalanced_total = 0
-    n_balanced_total = 0
-    
-    for season in seasons:
-        season_df = league_df[league_df['season_year'] == season]
-        unbalanced = season_df[season_df[g_type_col] == unbalanced_type]['final_position'].values
-        balanced = season_df[season_df[g_type_col] == 'balanced']['final_position'].values
-        
-        n_unbalanced_total += len(unbalanced)
-        n_balanced_total += len(balanced)
-        
-        if len(unbalanced) == 0 or len(balanced) == 0:
-            continue
-        
-        for u_pos in unbalanced:
-            for b_pos in balanced:
-                if u_pos < b_pos:
-                    total_less += 1   # mudei aqui
-                elif u_pos > b_pos:
-                    total_greater += 1
-                total_pairs += 1
-    
-    if total_pairs == 0:
-        return np.nan, n_unbalanced_total, n_balanced_total, 0
-    
-    delta = (total_greater - total_less) / total_pairs
-    return delta, n_unbalanced_total, n_balanced_total, total_pairs
-
-
-def compute_league_mann_whitney(
-    df: pd.DataFrame,
-    league_name: str,
-    g_type_col: str,
-    unbalanced_type: str
-) -> Tuple[float, float]:
-    """Compute Mann-Whitney U test for a league (pooled across seasons)."""
+    Each data point is the average_occupancy of a team in a season.
+    """
     league_df = df[df['league_name'] == league_name]
     
-    unbalanced = league_df[league_df[g_type_col] == unbalanced_type]['final_position'].values
-    balanced = league_df[league_df[g_type_col] == 'balanced']['final_position'].values
+    # Get occupancy values for each group (pooled across all seasons)
+    unbalanced = league_df[league_df[g_type_col] == unbalanced_type]['average_occupancy'].values
+    balanced = league_df[league_df[g_type_col] == 'balanced']['average_occupancy'].values
     
-    if len(unbalanced) < 2 or len(balanced) < 2:
-        return np.nan, np.nan
+    n_unbal = len(unbalanced)
+    n_bal = len(balanced)
     
-    try:
-        statistic, p_value = stats.mannwhitneyu(
-            unbalanced, balanced, alternative='two-sided'
-        )
-        return statistic, p_value
-    except Exception as e:
-        logger.warning(f"Mann-Whitney test failed for {league_name}: {e}")
-        return np.nan, np.nan
+    # Compute means
+    mean_unbal = np.mean(unbalanced) if n_unbal > 0 else np.nan
+    mean_bal = np.mean(balanced) if n_bal > 0 else np.nan
+    
+    # Compute mean difference
+    mean_diff = mean_unbal - mean_bal if (n_unbal > 0 and n_bal > 0) else np.nan
+    
+    # Compute Mann-Whitney p-value
+    p_value = np.nan
+    stat = np.nan
+    if n_unbal >= 2 and n_bal >= 2:
+        try:
+            stat, p_value = stats.mannwhitneyu(
+                unbalanced, balanced, alternative='two-sided'
+            )
+        except Exception as e:
+            logger.warning(f"Mann-Whitney test failed for {league_name}: {e}")
+    
+    # Compute -log10(p-value)
+    neg_log_p = np.nan if (pd.isna(p_value) or p_value == 0) else -np.log10(p_value)
+    
+    return {
+        'league_name': league_name,
+        'mean_difference': mean_diff,
+        'mann_whitney_stat': stat,
+        'p_value': p_value,
+        'neg_log_p': neg_log_p,
+        'n_unbalanced': n_unbal,
+        'n_balanced': n_bal,
+        'mean_unbalanced': mean_unbal,
+        'mean_balanced': mean_bal,
+    }
 
 
 def compute_all_leagues_metrics(
@@ -167,33 +193,16 @@ def compute_all_leagues_metrics(
     g_type_col: str,
     unbalanced_type: str
 ) -> pd.DataFrame:
-    """Compute Cliff's Delta and Mann-Whitney p-value for all leagues."""
+    """Compute metrics for all leagues."""
     leagues = df['league_name'].unique()
     results = []
     
     for league in leagues:
-        delta, n_unbal, n_bal, n_pairs = compute_league_cliffs_delta(
-            df, league, g_type_col, unbalanced_type
-        )
-        stat, p_val = compute_league_mann_whitney(
-            df, league, g_type_col, unbalanced_type
-        )
-        
-        neg_log_p = np.nan if (pd.isna(p_val) or p_val == 0) else -np.log10(p_val)
-        
-        results.append({
-            'league_name': league,
-            'cliffs_delta': delta,
-            'mann_whitney_stat': stat,
-            'p_value': p_val,
-            'neg_log_p': neg_log_p,
-            'n_unbalanced': n_unbal,
-            'n_balanced': n_bal,
-            'n_pairs': n_pairs
-        })
+        metrics = compute_league_metrics(df, league, g_type_col, unbalanced_type)
+        results.append(metrics)
     
     results_df = pd.DataFrame(results)
-    results_df = results_df.sort_values('cliffs_delta', key=abs, ascending=False)
+    results_df = results_df.sort_values('mean_difference', key=abs, ascending=False)
     return results_df
 
 
@@ -204,7 +213,7 @@ def create_scatter_plot(
     threshold_label: str
 ) -> None:
     """Create scatter plot with unique marker/color per league."""
-    plot_df = metrics_df.dropna(subset=['cliffs_delta', 'neg_log_p']).copy()
+    plot_df = metrics_df.dropna(subset=['mean_difference', 'neg_log_p']).copy()
     
     if len(plot_df) == 0:
         logger.warning(f"No valid data for {comparison_label}")
@@ -224,7 +233,7 @@ def create_scatter_plot(
         league = row['league_name']
         style = league_styles[league]
         ax.scatter(
-            row['neg_log_p'], row['cliffs_delta'],
+            row['neg_log_p'], row['mean_difference'],
             c=[style['color']], marker=style['marker'],
             s=120, edgecolors='black', linewidths=0.5, alpha=0.85
         )
@@ -237,21 +246,22 @@ def create_scatter_plot(
     ax.axhline(y=0, color='gray', linestyle='-', alpha=0.3, linewidth=1)
     
     ax.set_xlabel('-log₁₀(p-value)', fontsize=12)
-    ax.set_ylabel("Cliff's Delta", fontsize=12)
+    ax.set_ylabel('Mean Difference (Unbalanced - Balanced)', fontsize=12)
     ax.set_title(
-        f"League Effect Size vs Significance\n({comparison_label} | {threshold_label})",
+        f"Occupancy Significance by League\n({comparison_label} | {threshold_label})",
         fontsize=14, fontweight='bold'
     )
-    ax.set_ylim(-1.1, 1.1)
     ax.grid(True, alpha=0.3, linestyle='-', linewidth=0.5)
     
     # Quadrant labels
     xlim = ax.get_xlim()
+    ylim = ax.get_ylim()
     text_x = xlim[1] * 0.85
-    ax.text(text_x, 0.8, 'Worse ranking\n(significant)', fontsize=8, 
-            ha='center', alpha=0.5, style='italic')
-    ax.text(text_x, -0.8, 'Better ranking\n(significant)', fontsize=8, 
-            ha='center', alpha=0.5, style='italic')
+    y_range = ylim[1] - ylim[0]
+    ax.text(text_x, ylim[1] - 0.1 * y_range, 'Higher attendance\n(significant)', 
+            fontsize=8, ha='center', alpha=0.5, style='italic')
+    ax.text(text_x, ylim[0] + 0.1 * y_range, 'Lower attendance\n(significant)', 
+            fontsize=8, ha='center', alpha=0.5, style='italic')
     
     # Legend
     legend_ax = fig.add_axes([0.68, 0.12, 0.30, 0.78])
@@ -268,12 +278,12 @@ def create_scatter_plot(
         )
         legend_elements.append(element)
         row = plot_df[plot_df['league_name'] == league].iloc[0]
-        legend_labels.append(f"{league} (δ={row['cliffs_delta']:.2f}, p={row['p_value']:.3f})")
+        legend_labels.append(f"{league} (Δ={row['mean_difference']:.3f}, p={row['p_value']:.3f})")
     
     legend_ax.legend(
         legend_elements, legend_labels, loc='upper left',
         fontsize=8, frameon=True, fancybox=True, shadow=False,
-        title='League (δ, p-value)', title_fontsize=10
+        title='League (Δ, p-value)', title_fontsize=10
     )
     
     plt.savefig(output_path, dpi=150, bbox_inches='tight', facecolor='white')
@@ -288,11 +298,11 @@ def print_summary_statistics(
 ) -> None:
     """Print summary statistics for both comparisons."""
     print("\n" + "=" * 70)
-    print(f"LEAGUE EFFECT SIZE SUMMARY ({threshold_label})")
+    print(f"OCCUPANCY LEAGUE SIGNIFICANCE SUMMARY ({threshold_label})")
     print("=" * 70)
     
     for label, df in [("G- vs G0", metrics_g_minus), ("G+ vs G0", metrics_g_plus)]:
-        valid_df = df.dropna(subset=['cliffs_delta', 'p_value'])
+        valid_df = df.dropna(subset=['mean_difference', 'p_value'])
         significant = valid_df[valid_df['p_value'] < 0.05]
         
         print(f"\n{label}:")
@@ -300,15 +310,15 @@ def print_summary_statistics(
         print(f"  Significant (p < 0.05): {len(significant)}")
         
         if len(valid_df) > 0:
-            print(f"  Mean Cliff's Delta: {valid_df['cliffs_delta'].mean():.3f}")
-            print(f"  Median Cliff's Delta: {valid_df['cliffs_delta'].median():.3f}")
-            print(f"  Range: [{valid_df['cliffs_delta'].min():.3f}, {valid_df['cliffs_delta'].max():.3f}]")
+            print(f"  Mean difference: {valid_df['mean_difference'].mean():.4f}")
+            print(f"  Median difference: {valid_df['mean_difference'].median():.4f}")
+            print(f"  Range: [{valid_df['mean_difference'].min():.4f}, {valid_df['mean_difference'].max():.4f}]")
         
         if len(significant) > 0:
             print(f"\n  Significant leagues:")
             for _, row in significant.iterrows():
-                effect_dir = "worse" if row['cliffs_delta'] > 0 else "better"
-                print(f"    - {row['league_name']}: δ={row['cliffs_delta']:.3f} ({effect_dir}), p={row['p_value']:.4f}")
+                effect_dir = "higher" if row['mean_difference'] > 0 else "lower"
+                print(f"    - {row['league_name']}: Δ={row['mean_difference']:.4f} ({effect_dir}), p={row['p_value']:.4f}")
 
 
 def save_metrics_to_csv(metrics_df: pd.DataFrame, output_path: Path, comparison_label: str) -> None:
@@ -327,7 +337,7 @@ def run_analysis(
     Run the full analysis pipeline for a given classification column.
     
     Args:
-        df: DataFrame with classification column
+        df: Merged DataFrame with classification and occupancy data
         g_type_col: Name of the classification column
         threshold_label: Human-readable label for the threshold
         output_dir: Directory for output files (threshold-specific subfolder)
@@ -360,13 +370,13 @@ def run_analysis(
     create_scatter_plot(
         metrics_g_minus,
         "G- vs G0",
-        str(output_dir / "league_significance_gminus_vs_g0.png"),
+        str(output_dir / "occupancy_significance_gminus_vs_g0.png"),
         threshold_label
     )
     create_scatter_plot(
         metrics_g_plus,
         "G+ vs G0",
-        str(output_dir / "league_significance_gplus_vs_g0.png"),
+        str(output_dir / "occupancy_significance_gplus_vs_g0.png"),
         threshold_label
     )
     
@@ -385,7 +395,7 @@ def run_single_threshold(
     if mode == MODE_GTYPE:
         g_type_col = f"G_type_{g_threshold}"
         if g_type_col not in df.columns:
-            raise ValueError(f"Column {g_type_col} not found")
+            raise ValueError(f"Column {g_type_col} not found in data")
         
         threshold_label = f"G threshold: {g_threshold}"
         subfolder = f"gtype_{g_threshold}"
@@ -437,7 +447,7 @@ def run_all_thresholds(df: pd.DataFrame, output_dir: Path) -> None:
 def main():
     """Main entry point."""
     parser = argparse.ArgumentParser(
-        description="Generate league effect size vs significance scatter plots"
+        description="Generate occupancy significance scatter plots by league"
     )
     
     # Batch processing flag
@@ -473,12 +483,18 @@ def main():
         help=f"P-value threshold for pvalue mode. Default: {DEFAULT_P_VALUE_THRESHOLD}"
     )
     
-    # Common arguments
+    # Path arguments
     parser.add_argument(
-        "--input",
+        "--input-balance",
         type=str,
-        default=str(DEFAULT_INPUT_PATH),
+        default=str(DEFAULT_BALANCE_PATH),
         help="Path to strength_schedule_balance.csv"
+    )
+    parser.add_argument(
+        "--input-occupancy",
+        type=str,
+        default=str(DEFAULT_OCCUPANCY_PATH),
+        help="Path to occupancy audit CSV"
     )
     parser.add_argument(
         "--output-dir",
@@ -490,18 +506,21 @@ def main():
     args = parser.parse_args()
     
     # Setup paths
-    input_path = Path(args.input)
+    balance_path = Path(args.input_balance)
+    occupancy_path = Path(args.input_occupancy)
     output_dir = Path(args.output_dir)
     
-    # Load data once
-    df = load_data(str(input_path))
+    # Load and merge data
+    balance_df = load_schedule_balance(balance_path)
+    occupancy_df = load_occupancy_data(occupancy_path)
+    merged_df = merge_data(balance_df, occupancy_df)
     
     # Execute based on flags
     if args.all:
-        run_all_thresholds(df, output_dir)
+        run_all_thresholds(merged_df, output_dir)
     else:
         run_single_threshold(
-            df, args.mode, args.threshold, args.p_threshold, output_dir
+            merged_df, args.mode, args.threshold, args.p_threshold, output_dir
         )
     
     logger.info("Done!")
