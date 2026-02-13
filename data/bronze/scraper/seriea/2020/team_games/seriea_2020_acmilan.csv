@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 21/09/2020,15:45,Milan,Bologna,4-2-3-1,Stefano Pioli,1000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433190
+2,dom 27/09/2020,13:00,Crotone,Milan,4-2-3-1,Stefano Pioli,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433197
+3,dom 04/10/2020,13:00,Milan,Spezia Calcio,4-2-3-1,Stefano Pioli,1000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433211
+4,sáb 17/10/2020,13:00,Inter,Milan,4-2-3-1,Stefano Pioli,1000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433217
+5,seg 26/10/2020,16:45,Milan,Roma,4-2-3-1,Stefano Pioli,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433232
+6,dom 01/11/2020,08:30,Udinese,Milan,4-2-3-1,Stefano Pioli,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433243
+7,dom 08/11/2020,16:45,Milan,Verona,4-2-3-1,Stefano Pioli,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433251
+8,dom 22/11/2020,16:45,Napoli,Milan,4-2-3-1,Stefano Pioli,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433259
+9,dom 29/11/2020,11:00,Milan,Fiorentina,4-2-3-1,Stefano Pioli,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433271
+10,dom 06/12/2020,16:45,Sampdoria,Milan,4-2-3-1,Stefano Pioli,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433281
+11,dom 13/12/2020,16:45,Milan,Parma,4-2-3-1,Stefano Pioli,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433291
+12,qua 16/12/2020,16:45,Genoa,Milan,4-2-3-1,Stefano Pioli,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433297
+13,dom 20/12/2020,11:00,Sassuolo,Milan,4-2-3-1,Stefano Pioli,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433313
+14,qua 23/12/2020,16:45,Milan,Lazio,4-2-3-1,Stefano Pioli,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433318
+15,dom 03/01/2021,14:00,Benevento,Milan,4-2-3-1,Stefano Pioli,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433326
+16,qua 06/01/2021,16:45,Milan,Juventus,4-2-3-1,Stefano Pioli,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433340
+17,sáb 09/01/2021,16:45,Milan,Torino,4-2-3-1,Stefano Pioli,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433349
+18,seg 18/01/2021,16:45,Cagliari,Milan,4-2-3-1,Stefano Pioli,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433357
+19,sáb 23/01/2021,14:00,Milan,Atalanta,4-2-3-1,Stefano Pioli,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433370
+20,sáb 30/01/2021,11:00,Bologna,Milan,4-2-3-1,Stefano Pioli,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433380
+21,dom 07/02/2021,11:00,Milan,Crotone,4-2-3-1,Stefano Pioli,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433387
+22,sáb 13/02/2021,16:45,Spezia Calcio,Milan,4-2-3-1,Stefano Pioli,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433401
+23,dom 21/02/2021,11:00,Milan,Inter,4-2-3-1,Stefano Pioli,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433407
+24,dom 28/02/2021,16:45,Roma,Milan,4-2-3-1,Stefano Pioli,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433422
+25,qua 03/03/2021,16:45,Milan,Udinese,4-2-3-1,Stefano Pioli,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433433
+26,dom 07/03/2021,11:00,Verona,Milan,4-2-3-1,Stefano Pioli,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433441
+27,dom 14/03/2021,16:45,Milan,Napoli,4-2-3-1,Stefano Pioli,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433449
+28,dom 21/03/2021,14:00,Fiorentina,Milan,4-2-3-1,Stefano Pioli,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433461
+29,sáb 03/04/2021,07:30,Milan,Sampdoria,4-2-3-1,Stefano Pioli,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433471
+30,sáb 10/04/2021,13:00,Parma,Milan,4-2-3-1,Stefano Pioli,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433481
+31,dom 18/04/2021,07:30,Milan,Genoa,4-2-3-1,Stefano Pioli,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433487
+32,qua 21/04/2021,13:30,Milan,Sassuolo,4-2-3-1,Stefano Pioli,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433503
+33,seg 26/04/2021,15:45,Lazio,Milan,4-2-3-1,Stefano Pioli,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433508
+34,sáb 01/05/2021,15:45,Milan,Benevento,4-2-3-1,Stefano Pioli,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433516
+35,dom 09/05/2021,15:45,Juventus,Milan,4-2-3-1,Stefano Pioli,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433530
+36,qua 12/05/2021,15:45,Torino,Milan,4-2-3-1,Stefano Pioli,x,0:7,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433539
+37,dom 16/05/2021,15:45,Milan,Cagliari,4-2-3-1,Stefano Pioli,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433547
+38,dom 23/05/2021,15:45,Atalanta,Milan,4-2-3-1,Stefano Pioli,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433560

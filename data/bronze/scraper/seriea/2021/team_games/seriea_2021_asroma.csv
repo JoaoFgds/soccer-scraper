@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 22/08/2021,15:45,Roma,Fiorentina,4-2-3-1,José Mourinho,26997,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614511
+2,dom 29/08/2021,15:45,Salernitana,Roma,4-2-3-1,José Mourinho,12500,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614538
+3,dom 12/09/2021,15:45,Roma,Sassuolo,4-2-3-1,José Mourinho,29604,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614547
+4,dom 19/09/2021,13:00,Verona,Roma,4-2-3-1,José Mourinho,10148,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614553
+5,qui 23/09/2021,15:45,Roma,Udinese,4-2-3-1,José Mourinho,29593,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614566
+6,dom 26/09/2021,13:00,Lazio,Roma,4-2-3-1,José Mourinho,33000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614577
+7,dom 03/10/2021,13:00,Roma,Empoli,4-2-3-1,José Mourinho,31946,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614588
+8,dom 17/10/2021,15:45,Juventus,Roma,4-2-3-1,José Mourinho,20239,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614596
+9,dom 24/10/2021,13:00,Roma,Napoli,4-2-3-1,José Mourinho,47801,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614611
+10,qua 27/10/2021,15:45,Cagliari,Roma,4-2-3-1,José Mourinho,8547,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614616
+11,dom 31/10/2021,16:45,Roma,Milan,4-2-3-1,José Mourinho,51000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614633
+12,dom 07/11/2021,08:30,Venezia,Roma,3-4-1-2,José Mourinho,8263,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3615125
+13,dom 21/11/2021,16:45,Genoa,Roma,3-5-2 ofensivo,José Mourinho,14667,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614660
+14,dom 28/11/2021,14:00,Roma,Torino,3-5-2 ofensivo,José Mourinho,46728,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614672
+15,qua 01/12/2021,14:30,Bologna,Roma,3-5-2 ofensivo,José Mourinho,15780,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614678
+16,sáb 04/12/2021,14:00,Roma,Inter,3-5-2 ofensivo,José Mourinho,51185,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614694
+17,seg 13/12/2021,16:45,Roma,Spezia Calcio,3-5-2 plano,José Mourinho,44844,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614703
+18,sáb 18/12/2021,11:00,Atalanta,Roma,3-5-2 plano,José Mourinho,14469,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614708
+19,qua 22/12/2021,14:30,Roma,Sampdoria,3-5-2 plano,José Mourinho,49000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3718405
+20,qui 06/01/2022,14:30,Milan,Roma,3-5-2 plano,José Mourinho,35870,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614523
+21,dom 09/01/2022,14:30,Roma,Juventus,4-2-3-1,José Mourinho,33178,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614734
+22,dom 16/01/2022,14:00,Roma,Cagliari,4-2-3-1,José Mourinho,5000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614743
+23,dom 23/01/2022,14:00,Empoli,Roma,3-4-1-2,José Mourinho,5000,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614749
+24,sáb 05/02/2022,11:00,Roma,Genoa,3-4-1-2,José Mourinho,29863,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614763
+25,dom 13/02/2022,14:00,Sassuolo,Roma,3-4-1-2,José Mourinho,8000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614776
+26,sáb 19/02/2022,14:00,Roma,Verona,3-4-2-1,José Mourinho,34777,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614783
+27,dom 27/02/2022,14:00,Spezia Calcio,Roma,3-4-2-1,José Mourinho,8300,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614796
+28,sáb 05/03/2022,14:00,Roma,Atalanta,3-5-2 plano,José Mourinho,42303,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614805
+29,dom 13/03/2022,14:00,Udinese,Roma,3-5-2,José Mourinho,15114,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614817
+30,dom 20/03/2022,14:00,Roma,Lazio,3-4-2-1,José Mourinho,51932,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614825
+31,dom 03/04/2022,13:00,Sampdoria,Roma,3-4-2-1,José Mourinho,16465,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614835
+32,dom 10/04/2022,13:00,Roma,Salernitana,3-4-1-2,José Mourinho,64266,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614844
+33,seg 18/04/2022,14:00,Napoli,Roma,3-4-1-2,José Mourinho,41822,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614864
+34,sáb 23/04/2022,13:00,Inter,Roma,3-4-2-1,José Mourinho,74947,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614872
+35,dom 01/05/2022,15:45,Roma,Bologna,3-4-2-1,José Mourinho,62988,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614884
+36,seg 09/05/2022,15:45,Fiorentina,Roma,3-4-2-1,José Mourinho,29580,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614888
+37,sáb 14/05/2022,15:45,Roma,Venezia,3-4-2-1,José Mourinho,63243,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614905
+38,sex 20/05/2022,15:45,Torino,Roma,3-4-1-2,José Mourinho,16730,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3614916

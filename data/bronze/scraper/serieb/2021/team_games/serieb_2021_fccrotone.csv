@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 22/08/2021,15:30,Crotone,Como,3-4-2-1,Francesco Modesto,2500,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625010
+2,dom 29/08/2021,13:00,Cittadella,Crotone,3-4-3 plano,Francesco Modesto,1273,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3624974
+3,sáb 11/09/2021,13:30,Crotone,Reggina,3-4-2-1,Francesco Modesto,2220,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3624996
+4,sex 17/09/2021,15:30,Brescia,Crotone,3-4-2-1,Francesco Modesto,4250,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625380
+5,ter 21/09/2021,15:30,Crotone,Lecce,3-4-2-1,Francesco Modesto,2277,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625391
+6,sáb 25/09/2021,13:30,Cosenza,Crotone,3-4-2-1,Francesco Modesto,7554,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3638412
+7,sáb 02/10/2021,09:00,Crotone,Ascoli,3-4-3 plano,Francesco Modesto,1490,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625409
+8,sáb 16/10/2021,09:00,Crotone,Pisa,3-4-1-2,Francesco Modesto,1962,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625419
+9,sex 22/10/2021,15:30,Alessandria,Crotone,3-4-1-2,Francesco Modesto,2528,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625424
+10,qui 28/10/2021,15:30,Crotone,Benevento,3-4-1-2,Francesco Modesto,1949,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625439
+11,seg 01/11/2021,11:00,Frosinone,Crotone,3-5-2,Pasquale Marino,5673,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625443
+12,dom 07/11/2021,12:15,Crotone,Monza,4-2-3-1,Pasquale Marino,2226,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625458
+13,sáb 20/11/2021,12:15,Perugia,Crotone,4-3-3 ofensivo,Pasquale Marino,3177,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625463
+14,sex 26/11/2021,14:00,Crotone,LR Vicenza,4-3-3 ofensivo,Pasquale Marino,1856,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625474
+15,seg 29/11/2021,16:30,Ternana,Crotone,4-3-3 ofensivo,Pasquale Marino,2077,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625486
+16,sáb 04/12/2021,10:00,Crotone,SPAL,3-5-2 plano,Pasquale Marino,2176,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625492
+17,sex 10/12/2021,14:00,Cremonese,Crotone,3-5-2 plano,Pasquale Marino,1495,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625497
+18,sáb 18/12/2021,10:00,Crotone,Pordenone,3-4-3 plano,Francesco Modesto,1529,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625510
+19,dom 30/01/2022,10:30,Parma,Crotone,3-5-2 plano,Francesco Modesto,4934,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625517
+20,sáb 22/01/2022,10:00,Como,Crotone,3-4-2-1,Francesco Modesto,1540,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3624968
+21,sáb 05/02/2022,10:00,Crotone,Cittadella,3-4-2-1,Francesco Modesto,1809,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3624983
+22,sáb 12/02/2022,12:15,Reggina,Crotone,3-4-2-1,Francesco Modesto,5882,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625005
+23,qua 16/02/2022,14:30,Crotone,Brescia,3-4-2-1,Francesco Modesto,1595,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625524
+24,dom 20/02/2022,11:30,Lecce,Crotone,3-4-2-1,Francesco Modesto,8196,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625535
+25,qua 23/02/2022,14:30,Crotone,Cosenza,3-4-2-1,Francesco Modesto,3704,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3638431
+26,dom 27/02/2022,11:30,Ascoli,Crotone,3-4-2-1,Francesco Modesto,2720,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625553
+27,qua 02/03/2022,14:30,Pisa,Crotone,4-3-2-1,Francesco Modesto,3623,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625563
+28,dom 06/03/2022,11:30,Crotone,Alessandria,3-4-2-1,Francesco Modesto,1918,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625568
+29,sáb 12/03/2022,12:15,Benevento,Crotone,4-3-2-1,Francesco Modesto,2915,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625583
+30,ter 15/03/2022,14:30,Crotone,Frosinone,3-4-1-2,Francesco Modesto,1311,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625587
+31,sáb 19/03/2022,10:00,Monza,Crotone,3-5-2 plano,Francesco Modesto,3601,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625602
+32,dom 03/04/2022,10:30,Crotone,Perugia,3-4-2-1,Francesco Modesto,1877,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625607
+33,qua 06/04/2022,14:00,LR Vicenza,Crotone,3-4-3 plano,Francesco Modesto,5259,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625618
+34,dom 10/04/2022,10:30,Crotone,Ternana,3-4-2-1,Francesco Modesto,2024,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625630
+35,seg 18/04/2022,07:30,SPAL,Crotone,3-4-2-1,Francesco Modesto,4110,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625636
+36,seg 25/04/2022,10:00,Crotone,Cremonese,3-4-2-1,Francesco Modesto,1546,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625641
+37,sáb 30/04/2022,09:00,Pordenone,Crotone,3-4-2-1,Francesco Modesto,615,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625654
+38,sex 06/05/2022,13:15,Crotone,Parma,3-4-1-2,Francesco Modesto,1362,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625661

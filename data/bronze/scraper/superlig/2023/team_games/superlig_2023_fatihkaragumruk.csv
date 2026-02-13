@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 14/08/2023,15:00,Karagümrük,Besiktas,4-2-3-1,Alparslan Erdem,1134,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4126779
+2,dom 20/08/2023,13:15,Basaksehir,Karagümrük,4-3-3 ofensivo,Alparslan Erdem,2101,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4126789
+3,dom 27/08/2023,13:15,Karagümrük,Ankaragücü,4-2-3-1,Alparslan Erdem,877,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4126816
+4,sex 01/09/2023,15:00,C. Rizespor,Karagümrük,4-2-3-1,Alparslan Erdem,5084,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4126830
+5,seg 18/09/2023,14:00,Karagümrük,Hatayspor,4-2-3-1,Alparslan Erdem,516,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129458
+6,sáb 23/09/2023,11:00,Pendikspor,Karagümrük,4-3-3 ofensivo,Alparslan Erdem,974,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129464
+7,dom 01/10/2023,07:30,Karagümrük,Kasimpasa,4-2-3-1,Alparslan Erdem,314,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129478
+8,sex 06/10/2023,14:00,Alanyaspor,Karagümrük,4-2-3-1,Alparslan Erdem,2335,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129486
+9,seg 23/10/2023,14:00,Karagümrük,Adana Demirspor,4-3-3 ofensivo,Alparslan Erdem,1263,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129498
+10,dom 29/10/2023,10:00,Karagümrük,Trabzonspor,4-3-3 ofensivo,Alparslan Erdem,2350,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129508
+11,dom 05/11/2023,10:00,Konyaspor,Karagümrük,4-3-3 ofensivo,Alparslan Erdem,9837,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129522
+12,sáb 11/11/2023,10:00,Karagümrük,Sivasspor,4-3-3 ofensivo,Alparslan Erdem,513,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129528
+13,dom 26/11/2023,13:00,Fenerbahce,Karagümrük,4-3-3 ofensivo,Alparslan Erdem,38124,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129540
+14,sex 01/12/2023,14:00,Karagümrük,Istanbulspor,4-2-3-1,Alparslan Erdem,310,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129548
+15,sáb 09/12/2023,07:30,Antalyaspor,Karagümrük,4-2-3-1,Alparslan Erdem,4819,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129559
+16,qua 10/01/2024,11:00,Karagümrük,Kayserispor,4-2-3-1,Shota Arveladze,394,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129568
+17,qua 20/12/2023,14:00,Galatasaray,Karagümrük,4-3-3 ofensivo,Shota Arveladze,38587,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129575
+18,sáb 23/12/2023,10:00,Karagümrük,Gaziantep FK,4-3-3 ofensivo,Shota Arveladze,474,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129589
+19,sáb 06/01/2024,13:00,Samsunspor,Karagümrük,4-3-3 ofensivo,Shota Arveladze,12626,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129596
+20,sáb 13/01/2024,13:00,Besiktas,Karagümrük,4-3-3 ofensivo,Shota Arveladze,22109,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4261508
+21,sáb 20/01/2024,10:00,Karagümrük,Basaksehir,4-2-3-1,Shota Arveladze,662,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129618
+22,qua 24/01/2024,11:00,Ankaragücü,Karagümrük,4-2-3-1,Shota Arveladze,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129628
+23,dom 28/01/2024,10:00,Karagümrük,C. Rizespor,4-1-4-1,Shota Arveladze,887,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129642
+24,sex 02/02/2024,11:00,Hatayspor,Karagümrük,4-2-3-1,Shota Arveladze,1684,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129648
+25,sáb 10/02/2024,10:00,Karagümrük,Pendikspor,4-3-3 ofensivo,Shota Arveladze,821,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129654
+26,sex 16/02/2024,14:00,Kasimpasa,Karagümrük,4-2-3-1,Shota Arveladze,2423,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129668
+27,dom 25/02/2024,10:00,Karagümrük,Alanyaspor,4-3-3 ofensivo,Shota Arveladze,994,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129676
+28,seg 04/03/2024,11:00,Adana Demirspor,Karagümrük,4-2-3-1,Shota Arveladze,8828,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129688
+29,sáb 09/03/2024,13:00,Trabzonspor,Karagümrük,4-3-3 ofensivo,Shota Arveladze,7408,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129698
+30,sex 15/03/2024,14:30,Karagümrük,Konyaspor,4-2-3-1,Tolunay Kafkas,779,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129705
+31,qua 03/04/2024,11:00,Sivasspor,Karagümrük,4-2-3-1,Tolunay Kafkas,1755,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129718
+32,dom 14/04/2024,13:00,Karagümrük,Fenerbahce,4-2-3-1,Tolunay Kafkas,11656,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129730
+33,sáb 20/04/2024,07:30,Istanbulspor,Karagümrük,4-2-3-1,Tolunay Kafkas,378,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129738
+34,seg 29/04/2024,14:00,Karagümrük,Antalyaspor,4-3-3 ofensivo,Tolunay Kafkas,641,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129749
+35,sáb 04/05/2024,13:00,Kayserispor,Karagümrük,4-3-3 ofensivo,Tolunay Kafkas,7371,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129758
+36,dom 12/05/2024,13:00,Karagümrük,Galatasaray,4-2-3-1,Tolunay Kafkas,25731,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129765
+37,sáb 18/05/2024,13:00,Gaziantep FK,Karagümrük,4-3-3 ofensivo,Tolunay Kafkas,11245,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129778
+38,sáb 25/05/2024,10:00,Karagümrük,Samsunspor,4-2-3-1,Tolunay Kafkas,675,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129786

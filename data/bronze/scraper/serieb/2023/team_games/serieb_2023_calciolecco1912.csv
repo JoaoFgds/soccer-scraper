@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,ter 24/10/2023,13:30,Pisa,Calcio Lecco 19,4-2-3-1,Emiliano Bonazzoli,6256,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112425
+2,qua 08/11/2023,14:30,Calcio Lecco 19,Spezia Calcio,4-2-3-1,Emiliano Bonazzoli,4029,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112433
+3,ter 28/11/2023,14:30,Como,Calcio Lecco 19,4-3-3 ofensivo,Emiliano Bonazzoli,5847,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112441
+4,dom 03/09/2023,13:30,Calcio Lecco 19,Catanzaro,3-5-2 plano,Luciano Foschi,1909,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112449
+5,sáb 16/09/2023,09:00,Calcio Lecco 19,Brescia,3-5-2 plano,Luciano Foschi,3587,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169959
+6,sáb 23/09/2023,09:00,Modena,Calcio Lecco 19,3-5-2 plano,Luciano Foschi,8514,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112469
+7,ter 26/09/2023,13:15,Calcio Lecco 19,Feralpisalò,3-5-2 plano,Luciano Foschi,3602,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112478
+8,dom 01/10/2023,11:15,Cittadella,Calcio Lecco 19,3-5-2 plano,Luciano Foschi,3014,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112484
+9,sáb 07/10/2023,09:00,Cosenza,Calcio Lecco 19,3-5-2 plano,Luciano Foschi,6212,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112495
+10,sáb 21/10/2023,09:00,Calcio Lecco 19,Ascoli,4-2-3-1,Emiliano Bonazzoli,3298,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112504
+11,dom 29/10/2023,12:15,Palermo,Calcio Lecco 19,4-3-3 ofensivo,Emiliano Bonazzoli,25799,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112515
+12,dom 05/11/2023,12:15,Reggiana,Calcio Lecco 19,4-3-3 ofensivo,Emiliano Bonazzoli,9427,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112525
+13,dom 12/11/2023,12:15,Calcio Lecco 19,Parma,4-3-3 ofensivo,Emiliano Bonazzoli,4983,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112531
+14,sáb 25/11/2023,10:00,Cremonese,Calcio Lecco 19,4-3-3 ofensivo,Emiliano Bonazzoli,8512,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112541
+15,dom 03/12/2023,12:15,Calcio Lecco 19,Bari,4-3-3 ofensivo,Emiliano Bonazzoli,3033,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112548
+16,sáb 09/12/2023,10:00,Sampdoria,Calcio Lecco 19,4-3-3 ofensivo,Emiliano Bonazzoli,21510,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112562
+17,dom 17/12/2023,12:15,Calcio Lecco 19,Ternana,4-3-3 ofensivo,Emiliano Bonazzoli,4137,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112567
+18,sáb 23/12/2023,10:00,Venezia,Calcio Lecco 19,4-3-3 ofensivo,Emiliano Bonazzoli,5142,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112581
+19,ter 26/12/2023,11:00,Calcio Lecco 19,Südtirol,4-3-3 ofensivo,Emiliano Bonazzoli,4288,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112585
+20,sex 12/01/2024,16:30,Catanzaro,Calcio Lecco 19,4-3-3 ofensivo,Emiliano Bonazzoli,7471,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112592
+21,sáb 20/01/2024,12:15,Calcio Lecco 19,Pisa,4-1-4-1,Emiliano Bonazzoli,4286,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112603
+22,sáb 27/01/2024,12:15,Feralpisalò,Calcio Lecco 19,4-3-3 ofensivo,Emiliano Bonazzoli,1282,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112613
+23,sáb 03/02/2024,12:15,Calcio Lecco 19,Cremonese,4-3-3 ofensivo,Emiliano Bonazzoli,4099,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112620
+24,sáb 10/02/2024,12:15,Bari,Calcio Lecco 19,4-3-3 ofensivo,Emiliano Bonazzoli,14978,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112627
+25,sáb 17/02/2024,10:00,Calcio Lecco 19,Cosenza,4-3-3 ofensivo,Alfredo Aglietti,4186,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112639
+26,sáb 24/02/2024,12:15,Ternana,Calcio Lecco 19,4-3-3 ofensivo,Alfredo Aglietti,4869,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112653
+27,ter 27/02/2024,16:30,Calcio Lecco 19,Como,4-3-3 ofensivo,Alfredo Aglietti,4982,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112655
+28,sáb 02/03/2024,10:00,Südtirol,Calcio Lecco 19,4-3-3 ofensivo,Alfredo Aglietti,3767,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112670
+29,dom 10/03/2024,12:15,Calcio Lecco 19,Palermo,4-4-2,Alfredo Aglietti,4447,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112675
+30,dom 17/03/2024,12:15,Ascoli,Calcio Lecco 19,4-4-2,Alfredo Aglietti,6909,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112681
+31,seg 01/04/2024,10:00,Calcio Lecco 19,Cittadella,4-3-3 ofensivo,Alfredo Aglietti,2869,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112692
+32,sáb 06/04/2024,09:00,Spezia Calcio,Calcio Lecco 19,4-3-3 ofensivo,Andrea Malgrati,7581,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112705
+33,sáb 13/04/2024,11:15,Calcio Lecco 19,Reggiana,4-3-3 ofensivo,Andrea Malgrati,3966,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112712
+34,sáb 20/04/2024,11:15,Calcio Lecco 19,Venezia,4-3-3 ofensivo,Andrea Malgrati,3845,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112721
+35,sáb 27/04/2024,09:00,Parma,Calcio Lecco 19,4-3-3 ofensivo,Andrea Malgrati,16057,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112730
+36,qua 01/05/2024,13:00,Calcio Lecco 19,Sampdoria,4-3-3 ofensivo,Andrea Malgrati,5431,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112740
+37,dom 05/05/2024,10:00,Brescia,Calcio Lecco 19,4-3-3 ofensivo,Andrea Malgrati,6859,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169956
+38,sex 10/05/2024,15:30,Calcio Lecco 19,Modena,4-3-3 ofensivo,Andrea Malgrati,3606,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4112758

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 18/08/2024,15:45,Cagliari,Roma,4-2-3-1,Daniele De Rossi,16261,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373906
+2,dom 25/08/2024,15:45,Roma,Empoli,4-3-2-1,Daniele De Rossi,67517,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373922
+3,dom 01/09/2024,15:45,Juventus,Roma,4-3-3 ofensivo,Daniele De Rossi,41375,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373929
+4,dom 15/09/2024,07:30,Genoa,Roma,3-4-2-1,Daniele De Rossi,33009,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373939
+5,dom 22/09/2024,13:00,Roma,Udinese,3-4-2-1,Ivan Juric,63499,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373953
+6,dom 29/09/2024,10:00,Roma,Venezia,3-4-2-1,Ivan Juric,62165,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373962
+7,dom 06/10/2024,13:00,Monza,Roma,3-4-2-1,Ivan Juric,12021,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373972
+8,dom 20/10/2024,15:45,Roma,Inter,3-4-2-1,Ivan Juric,64199,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373983
+9,dom 27/10/2024,16:45,Fiorentina,Roma,3-4-2-1,Ivan Juric,20440,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373987
+10,qui 31/10/2024,16:45,Roma,Torino,3-4-2-1,Ivan Juric,60920,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374003
+11,dom 03/11/2024,14:00,Verona,Roma,3-4-2-1,Ivan Juric,28185,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374007
+12,dom 10/11/2024,11:00,Roma,Bologna,3-4-2-1,Ivan Juric,60681,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374023
+13,dom 24/11/2024,14:00,Napoli,Roma,4-4-1-1,Claudio Ranieri,51164,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374031
+14,seg 02/12/2024,16:45,Roma,Atalanta,3-5-2 plano,Claudio Ranieri,55772,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374042
+15,sáb 07/12/2024,16:45,Roma,Lecce,3-4-2-1,Claudio Ranieri,58213,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374053
+16,dom 15/12/2024,14:00,Como,Roma,3-4-2-1,Claudio Ranieri,10376,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374057
+17,dom 22/12/2024,08:30,Roma,Parma,3-4-2-1,Claudio Ranieri,62968,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374072
+18,dom 29/12/2024,16:45,Milan,Roma,3-5-2 plano,Claudio Ranieri,74283,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374081
+19,dom 05/01/2025,16:45,Roma,Lazio,3-4-2-1,Claudio Ranieri,65042,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374092
+20,dom 12/01/2025,14:00,Bologna,Roma,3-5-2 plano,Claudio Ranieri,30226,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374112
+21,sex 17/01/2025,16:45,Roma,Genoa,3-5-2 plano,Claudio Ranieri,62217,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374131
+22,dom 26/01/2025,11:00,Udinese,Roma,3-5-2 plano,Claudio Ranieri,23853,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374140
+23,dom 02/02/2025,16:45,Roma,Napoli,4-3-3 ofensivo,Claudio Ranieri,60788,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374150
+24,dom 09/02/2025,08:30,Venezia,Roma,3-4-2-1,Claudio Ranieri,9380,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374161
+25,dom 16/02/2025,14:00,Parma,Roma,3-5-2 plano,Claudio Ranieri,20559,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374170
+26,seg 24/02/2025,16:45,Roma,Monza,3-4-2-1,Claudio Ranieri,56965,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374179
+27,dom 02/03/2025,14:00,Roma,Como,3-4-2-1,Claudio Ranieri,62125,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374190
+28,dom 09/03/2025,14:00,Empoli,Roma,3-4-2-1,Claudio Ranieri,12393,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374194
+29,dom 16/03/2025,12:00,Roma,Cagliari,3-4-2-1,Claudio Ranieri,62911,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374208
+30,sáb 29/03/2025,16:45,Lecce,Roma,3-4-2-1,Claudio Ranieri,27207,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374219
+31,dom 06/04/2025,15:45,Roma,Juventus,3-4-3 plano,Claudio Ranieri,65778,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374230
+32,dom 13/04/2025,15:45,Lazio,Roma,4-2-3-1,Claudio Ranieri,63000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374238
+33,sáb 19/04/2025,15:45,Roma,Verona,3-4-2-1,Claudio Ranieri,62714,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374250
+34,dom 27/04/2025,10:00,Inter,Roma,3-5-2 plano,Claudio Ranieri,70240,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374256
+35,dom 04/05/2025,13:00,Roma,Fiorentina,3-4-1-2,Claudio Ranieri,63640,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374270
+36,seg 12/05/2025,15:45,Atalanta,Roma,3-4-2-1,Claudio Ranieri,23249,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374272
+37,dom 18/05/2025,15:45,Roma,Milan,3-5-2 plano,Claudio Ranieri,68143,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374291
+38,dom 25/05/2025,15:45,Torino,Roma,4-1-4-1,Claudio Ranieri,24252,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374299

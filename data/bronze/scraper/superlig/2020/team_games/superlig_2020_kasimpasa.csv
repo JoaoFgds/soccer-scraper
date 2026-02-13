@@ -1,0 +1,41 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 13/09/2020,11:00,Kayserispor,Kasimpasa,4-2-3-1,Mehmet Altıparmak,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426661
+2,dom 20/09/2020,10:00,Kasimpasa,C. Rizespor,4-2-3-1,Mehmet Altıparmak,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426677
+3,sáb 26/09/2020,10:00,Hatayspor,Kasimpasa,4-1-4-1,Mehmet Altıparmak,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426682
+4,dom 04/10/2020,13:00,Kasimpasa,Galatasaray,4-2-3-1,Mehmet Altıparmak,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426692
+5,dom 18/10/2020,10:00,Karagümrük,Kasimpasa,4-1-4-1,Mehmet Altıparmak,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426834
+6,sex 23/10/2020,14:00,Kasimpasa,Göztepe,4-1-4-1,Mehmet Altıparmak,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426844
+7,sex 30/10/2020,14:00,Trabzonspor,Kasimpasa,4-1-4-1,Mehmet Altıparmak,x,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426855
+8,sáb 07/11/2020,07:30,Kasimpasa,Antalyaspor,4-1-4-1,Erkan Çoker,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426865
+9,dom 22/11/2020,10:00,Konyaspor,Kasimpasa,4-1-4-1,İrfan Buz,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426876
+10,dom 29/11/2020,10:00,Kasimpasa,Genclerbirligi,4-2-3-1,Fuat Çapa,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426886
+11,sex 04/12/2020,13:30,Besiktas,Kasimpasa,4-2-3-1,Fuat Çapa,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426897
+12,sex 11/12/2020,13:00,Kasimpasa,Denizlispor,4-2-3-1,Fuat Çapa,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426907
+13,sáb 19/12/2020,10:00,Y. Malatyaspor,Kasimpasa,4-2-3-1,Mustafa Gürsel,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426918
+14,qua 23/12/2020,13:00,Kasimpasa,Gaziantep FK,4-2-3-1,Mustafa Gürsel,x,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426928
+15,dom 27/12/2020,13:00,Basaksehir,Kasimpasa,4-2-3-1,Fuat Çapa,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426939
+16,seg 04/01/2021,13:00,Kasimpasa,Fenerbahce,4-2-3-1,Fuat Çapa,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426949
+18,seg 11/01/2021,13:00,Alanyaspor,Kasimpasa,4-4-2 duplo 6,Fuat Çapa,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426969
+19,seg 18/01/2021,13:00,Kasimpasa,BB Erzurumspor,4-4-2 duplo 6,Fuat Çapa,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426970
+20,qui 21/01/2021,13:00,Ankaragücü,Kasimpasa,4-2-3-1,Fuat Çapa,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426981
+21,seg 25/01/2021,10:00,Kasimpasa,Sivasspor,4-2-3-1,Fuat Çapa,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426991
+22,sáb 30/01/2021,07:30,Kasimpasa,Kayserispor,4-2-3-1,Fuat Çapa,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427002
+23,ter 02/02/2021,13:00,C. Rizespor,Kasimpasa,4-2-3-1,Fuat Çapa,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427018
+24,sáb 06/02/2021,07:30,Kasimpasa,Hatayspor,4-2-3-1,Fuat Çapa,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427023
+25,dom 14/02/2021,10:00,Galatasaray,Kasimpasa,4-2-3-1,Fuat Çapa,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427033
+26,sáb 20/02/2021,07:30,Kasimpasa,Karagümrük,4-1-4-1,Fuat Çapa,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427044
+27,dom 28/02/2021,10:00,Göztepe,Kasimpasa,4-1-4-1,Fuat Çapa,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427054
+28,qui 04/03/2021,10:00,Kasimpasa,Trabzonspor,4-1-4-1,Fuat Çapa,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427065
+29,seg 08/03/2021,10:00,Antalyaspor,Kasimpasa,4-1-4-1,Fuat Çapa,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427075
+30,seg 15/03/2021,13:00,Kasimpasa,Konyaspor,4-1-4-1,Fuat Çapa,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427086
+31,sáb 20/03/2021,07:30,Genclerbirligi,Kasimpasa,4-2-3-1,Fuat Çapa,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427096
+32,dom 04/04/2021,13:00,Kasimpasa,Besiktas,4-1-4-1,Şenol Can,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427107
+33,qui 08/04/2021,10:00,Denizlispor,Kasimpasa,4-1-4-1,Şenol Can,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427117
+34,seg 12/04/2021,10:00,Kasimpasa,Y. Malatyaspor,4-1-4-1,Şenol Can,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427128
+35,dom 18/04/2021,10:00,Gaziantep FK,Kasimpasa,4-1-4-1,Şenol Can,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427138
+36,qui 22/04/2021,13:00,Kasimpasa,Basaksehir,4-1-4-1,Şenol Can,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427149
+37,dom 25/04/2021,14:30,Fenerbahce,Kasimpasa,4-2-3-1,Şenol Can,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427159
+39,seg 03/05/2021,10:00,Kasimpasa,Alanyaspor,4-2-3-1,Şenol Can,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427179
+40,sáb 08/05/2021,14:30,BB Erzurumspor,Kasimpasa,4-2-3-1,Şenol Can,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427180
+41,ter 11/05/2021,14:30,Kasimpasa,Ankaragücü,4-2-3-1,Şenol Can,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427191
+42,sáb 15/05/2021,12:00,Sivasspor,Kasimpasa,4-2-3-1,Şenol Can,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427201

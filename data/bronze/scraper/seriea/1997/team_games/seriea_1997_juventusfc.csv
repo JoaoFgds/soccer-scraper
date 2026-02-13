@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 31/08/1997,11:00,Juventus,Lecce,4-4-2 losango,Marcello Lippi,40413,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214520
+2,dom 14/09/1997,15:30,Roma,Juventus,4-4-2 losango,Marcello Lippi,67639,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214529
+3,dom 21/09/1997,11:00,Juventus,Brescia,4-4-2 duplo 6,Marcello Lippi,40774,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214543
+4,sáb 27/09/1997,11:00,Sampdoria,Juventus,4-4-2 losango,Marcello Lippi,35622,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214544
+5,dom 05/10/1997,10:30,Juventus,Florenz,4-4-2 losango,Marcello Lippi,49336,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214560
+6,dom 19/10/1997,11:30,Bari,Juventus,4-4-2 losango,Marcello Lippi,53774,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214565
+7,sáb 01/11/1997,11:30,Juventus,Udinese,4-4-2 losango,Marcello Lippi,43950,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214572
+8,dom 09/11/1997,17:30,Napoli,Juventus,4-4-2 losango,Marcello Lippi,43864,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214588
+9,dom 23/11/1997,11:30,Juventus,AC Parma,4-4-2 losango,Marcello Lippi,47204,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214594
+10,dom 30/11/1997,17:30,Milan,Juventus,4-4-2 losango,Marcello Lippi,81267,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214600
+11,sáb 06/12/1997,11:30,Juventus,Lazio,4-4-2,Marcello Lippi,42692,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214607
+12,dom 14/12/1997,11:30,Piacenza,Juventus,4-4-2 losango,Marcello Lippi,18411,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214616
+13,dom 21/12/1997,11:30,Juventus,Empoli,4-4-2 losango,Marcello Lippi,41818,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214625
+14,dom 04/01/1998,17:30,Inter,Juventus,4-4-2 losango,Marcello Lippi,80569,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214635
+15,dom 11/01/1998,11:30,Juventus,Vicenza,3-4-1-2,Marcello Lippi,42036,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214643
+16,dom 18/01/1998,11:30,Bologna,Juventus,3-4-1-2,Marcello Lippi,36602,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214657
+17,dom 25/01/1998,11:30,Juventus,Atalanta,3-4-1-2,Marcello Lippi,43254,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214661
+18,dom 01/02/1998,11:30,Lecce,Juventus,3-4-1-2,Marcello Lippi,35704,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214678
+19,dom 08/02/1998,11:30,Juventus,Roma,4-4-2 losango,Marcello Lippi,47604,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214680
+20,qua 11/02/1998,17:30,Brescia,Juventus,3-4-1-2,Marcello Lippi,29779,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214688
+21,dom 15/02/1998,17:30,Juventus,Sampdoria,3-4-1-2,Marcello Lippi,43254,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214698
+22,dom 22/02/1998,12:00,Florenz,Juventus,4-3-2-1,Marcello Lippi,41092,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214706
+23,sáb 28/02/1998,12:00,Juventus,Bari,3-4-1-2,Marcello Lippi,42908,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214716
+24,dom 08/03/1998,11:00,Udinese,Juventus,4-3-3 ofensivo,Marcello Lippi,37813,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214728
+25,sáb 14/03/1998,11:00,Juventus,Napoli,4-3-1-2,Marcello Lippi,44554,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214733
+26,dom 22/03/1998,11:00,AC Parma,Juventus,4-4-2 losango,Marcello Lippi,29809,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214746
+27,sáb 28/03/1998,16:30,Juventus,Milan,4-4-2 duplo 6,Marcello Lippi,55631,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214753
+28,dom 05/04/1998,15:30,Lazio,Juventus,3-4-1-2,Marcello Lippi,70136,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214766
+29,sáb 11/04/1998,11:00,Juventus,Piacenza,3-4-1-2,Marcello Lippi,47417,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214771
+30,dom 19/04/1998,11:00,Empoli,Juventus,3-4-1-2,Marcello Lippi,19095,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214778
+31,dom 26/04/1998,11:00,Juventus,Inter,3-4-1-2,Marcello Lippi,64001,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214787
+32,dom 03/05/1998,11:00,Vicenza,Juventus,3-4-1-2,Marcello Lippi,19984,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214801
+33,dom 10/05/1998,11:00,Juventus,Bologna,3-4-1-2,Marcello Lippi,60251,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214810
+34,sáb 16/05/1998,11:30,Atalanta,Juventus,3-4-1-2,Marcello Lippi,22341,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214814

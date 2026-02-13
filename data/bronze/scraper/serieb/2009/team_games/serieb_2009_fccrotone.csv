@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 21/08/2009,15:45,Sassuolo,FC Crotone,5-3-2,Franco Lerda,2534,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/963995
+2,sáb 29/08/2009,14:00,FC Crotone,Brescia,4-4-2 duplo 6,Franco Lerda,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964100
+3,dom 06/09/2009,10:00,Empoli,FC Crotone,4-2-3-1,Franco Lerda,3028,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964204
+4,sáb 12/09/2009,10:30,FC Crotone,Cesena,4-2-3-1,Franco Lerda,2942,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/973171
+5,sáb 19/09/2009,10:30,Lecce,FC Crotone,4-3-3 ofensivo,Franco Lerda,4133,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/973492
+6,ter 22/09/2009,15:45,FC Crotone,Grosseto,3-5-2 plano,Franco Lerda,2942,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/973500
+7,sáb 26/09/2009,10:30,UC AlbinoLeffe,FC Crotone,4-3-3 defensivo,Franco Lerda,2747,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/973795
+8,sáb 03/10/2009,10:30,FC Crotone,Padova,4-2-3-1,Franco Lerda,3487,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/973810
+9,seg 12/10/2009,15:45,Frosinone,FC Crotone,4-2-3-1,Franco Lerda,5241,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/973895
+10,sáb 17/10/2009,10:30,FC Crotone,Vicenza,4-5-1 plano,Franco Lerda,3960,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/973901
+11,sáb 24/10/2009,11:30,Salernitana,FC Crotone,4-4-2 duplo 6,Franco Lerda,6080,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/973909
+12,sáb 31/10/2009,12:30,FC Crotone,Piacenza,4-4-2 duplo 6,Franco Lerda,3808,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/973924
+13,sáb 07/11/2009,12:30,FC Crotone,Ancona,4-4-2 duplo 6,Franco Lerda,3687,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/973932
+14,dom 15/11/2009,12:00,Modena,FC Crotone,4-5-1,Franco Lerda,4935,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/973948
+15,sáb 21/11/2009,12:30,FC Crotone,Reggina,4-5-1,Franco Lerda,5207,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/973957
+16,sáb 28/11/2009,12:30,Torino,FC Crotone,4-5-1,Franco Lerda,11483,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/973962
+17,sáb 05/12/2009,12:30,Triestina,FC Crotone,4-2-3-1,Franco Lerda,6327,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/973978
+18,sáb 12/12/2009,12:30,FC Crotone,Gallipoli,4-3-3 defensivo,Franco Lerda,3979,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/973992
+19,sáb 30/01/2010,12:30,Mantova,FC Crotone,3-5-2,Franco Lerda,4827,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/990768
+20,ter 05/01/2010,14:00,FC Crotone,Cittadella,4-5-1,Franco Lerda,4124,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974009
+21,sáb 09/01/2010,12:30,Ascoli,FC Crotone,4-5-1,Franco Lerda,3797,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974022
+22,seg 18/01/2010,17:45,FC Crotone,Sassuolo,4-5-1,Franco Lerda,4374,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974036
+23,sáb 23/01/2010,14:00,Brescia,FC Crotone,4-5-1,Franco Lerda,3680,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974047
+24,sáb 06/02/2010,12:30,FC Crotone,Empoli,4-3-3 defensivo,Franco Lerda,3921,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974053
+25,sáb 13/02/2010,11:00,Cesena,FC Crotone,4-3-3 defensivo,Franco Lerda,10060,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974063
+26,seg 22/02/2010,16:45,FC Crotone,Lecce,4-4-2 duplo 6,Franco Lerda,5141,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974079
+27,sáb 27/02/2010,10:00,Grosseto,FC Crotone,4-2-3-1,Franco Lerda,2991,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974085
+28,sáb 06/03/2010,11:30,FC Crotone,UC AlbinoLeffe,4-2-3-1,Franco Lerda,3980,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974101
+29,sáb 13/03/2010,11:30,Padova,FC Crotone,4-4-2 losango,Franco Lerda,5432,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974113
+30,sáb 20/03/2010,11:30,FC Crotone,Frosinone,3-5-2,Franco Lerda,3948,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974118
+31,ter 23/03/2010,16:45,Vicenza,FC Crotone,3-4-2-1,Franco Lerda,6785,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974127
+32,sáb 27/03/2010,11:30,FC Crotone,Salernitana,4-2-3-1,Franco Lerda,4009,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974145
+33,sex 02/04/2010,14:00,Piacenza,FC Crotone,3-5-2,Franco Lerda,3361,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974149
+34,sáb 10/04/2010,10:30,Ancona,FC Crotone,4-3-3 defensivo,Franco Lerda,5165,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974164
+35,ter 13/04/2010,15:45,FC Crotone,Modena,4-3-3 defensivo,Franco Lerda,4106,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974180
+36,seg 19/04/2010,16:00,Reggina,FC Crotone,4-5-1,Franco Lerda,6704,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974192
+37,sáb 24/04/2010,10:30,FC Crotone,Torino,4-5-1,Franco Lerda,5920,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974199
+38,sáb 01/05/2010,10:30,FC Crotone,Triestina,4-5-1,Franco Lerda,6038,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974213
+39,sáb 08/05/2010,11:00,Gallipoli,FC Crotone,4-3-3 defensivo,Franco Lerda,1227,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974215
+40,dom 16/05/2010,10:00,FC Crotone,Mantova,3-4-2-1,Franco Lerda,7622,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974230
+41,dom 23/05/2010,10:00,Cittadella,FC Crotone,4-2-3-1,Franco Lerda,4658,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974247
+42,dom 30/05/2010,11:00,FC Crotone,Ascoli,4-3-2-1,Franco Lerda,7255,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/974257

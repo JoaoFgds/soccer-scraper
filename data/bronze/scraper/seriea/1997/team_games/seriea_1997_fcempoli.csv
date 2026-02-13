@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 31/08/1997,11:00,Empoli,Roma,4-4-2,Luciano Spalletti,13083,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214518
+2,dom 14/09/1997,11:00,Napoli,Empoli,4-4-2,Luciano Spalletti,31337,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214532
+3,dom 21/09/1997,11:00,Empoli,Lazio,4-4-2,Luciano Spalletti,14000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214541
+4,dom 28/09/1997,11:00,Florenz,Empoli,4-4-2,Luciano Spalletti,35000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214551
+5,dom 05/10/1997,10:30,Empoli,Milan,4-4-2 duplo 6,Luciano Spalletti,15700,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214553
+6,sáb 18/10/1997,16:30,Udinese,Empoli,4-4-2,Luciano Spalletti,18912,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214562
+7,dom 02/11/1997,11:30,Empoli,Bari,4-4-2,Luciano Spalletti,7832,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214578
+8,dom 09/11/1997,11:30,AC Parma,Empoli,4-4-1-1,Luciano Spalletti,22910,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214583
+9,dom 23/11/1997,11:30,Empoli,Atalanta,4-4-2,Luciano Spalletti,7780,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214592
+10,dom 30/11/1997,11:30,Empoli,Piacenza,4-4-2,Luciano Spalletti,8541,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214598
+11,dom 07/12/1997,11:30,Brescia,Empoli,5-3-2,Luciano Spalletti,9413,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214614
+12,dom 14/12/1997,11:30,Empoli,Sampdoria,3-5-2 plano,Luciano Spalletti,7740,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214621
+13,dom 21/12/1997,11:30,Juventus,Empoli,3-4-1-2,Luciano Spalletti,41818,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214625
+14,dom 04/01/1998,11:30,Lecce,Empoli,3-5-2 plano,Luciano Spalletti,16186,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214638
+15,dom 11/01/1998,11:30,Empoli,Bologna,3-5-2 plano,Luciano Spalletti,9600,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214648
+16,dom 18/01/1998,11:30,Vicenza,Empoli,3-5-2 plano,Luciano Spalletti,19087,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214655
+17,dom 25/01/1998,11:30,Empoli,Inter,3-5-2 plano,Luciano Spalletti,19720,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214666
+18,dom 01/02/1998,11:30,Roma,Empoli,4-4-2,Luciano Spalletti,42064,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214676
+19,dom 08/02/1998,11:30,Empoli,Napoli,3-4-3 plano,Luciano Spalletti,7178,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214687
+20,qua 11/02/1998,17:30,Lazio,Empoli,3-4-3 plano,Luciano Spalletti,38751,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214693
+21,dom 15/02/1998,12:00,Empoli,Florenz,4-4-2,Luciano Spalletti,14120,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214702
+22,dom 22/02/1998,12:00,Milan,Empoli,4-4-2 duplo 6,Luciano Spalletti,47067,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214712
+23,dom 01/03/1998,11:00,Empoli,Udinese,3-5-2 plano,Luciano Spalletti,8462,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214719
+24,dom 08/03/1998,11:00,Bari,Empoli,3-4-3 plano,Luciano Spalletti,22324,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214729
+25,dom 15/03/1998,11:00,Empoli,AC Parma,3-4-3 plano,Luciano Spalletti,8006,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214737
+26,dom 22/03/1998,11:00,Atalanta,Empoli,3-4-3 plano,Luciano Spalletti,17797,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214747
+27,dom 29/03/1998,15:30,Piacenza,Empoli,3-4-3 plano,Luciano Spalletti,12469,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214755
+28,dom 05/04/1998,11:00,Empoli,Brescia,4-3-3 ofensivo,Luciano Spalletti,8096,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214767
+29,sáb 11/04/1998,11:00,Sampdoria,Empoli,3-4-3 plano,Luciano Spalletti,21691,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214769
+30,dom 19/04/1998,11:00,Empoli,Juventus,3-1-4-2,Luciano Spalletti,19095,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214778
+31,dom 26/04/1998,11:00,Empoli,Lecce,3-4-3 plano,Luciano Spalletti,14920,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214794
+32,dom 03/05/1998,11:00,Bologna,Empoli,3-4-3 plano,Luciano Spalletti,32139,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214797
+33,dom 10/05/1998,11:00,Empoli,Vicenza,3-4-3 plano,Luciano Spalletti,19060,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214808
+34,sáb 16/05/1998,11:30,Inter,Empoli,3-4-3 plano,Luciano Spalletti,58205,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214818

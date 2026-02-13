@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 15/08/2022,13:30,Verona,Napoli,3-5-2 plano,Gabriele Cioffi,16967,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844737
+2,dom 21/08/2022,15:45,Bologna,Verona,3-5-2 plano,Gabriele Cioffi,17725,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844747
+3,dom 28/08/2022,13:30,Verona,Atalanta,3-5-2 plano,Gabriele Cioffi,16106,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844758
+4,qua 31/08/2022,13:30,Empoli,Verona,3-5-2 plano,Gabriele Cioffi,7269,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844768
+5,dom 04/09/2022,13:00,Verona,Sampdoria,3-4-1-2,Gabriele Cioffi,16675,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844778
+6,dom 11/09/2022,13:00,Lazio,Verona,3-4-1-2,Gabriele Cioffi,37703,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844791
+7,dom 18/09/2022,10:00,Fiorentina,Verona,3-4-2-1,Gabriele Cioffi,32216,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844798
+8,seg 03/10/2022,15:45,Verona,Udinese,3-4-2-1,Gabriele Cioffi,15352,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844808
+9,dom 09/10/2022,10:00,Salernitana,Verona,3-4-2-1,Gabriele Cioffi,15922,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844822
+10,dom 16/10/2022,15:45,Verona,Milan,3-4-2-1,Salvatore Bocchetti,22904,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844828
+11,seg 24/10/2022,15:45,Sassuolo,Verona,3-4-1-2,Salvatore Bocchetti,11368,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844844
+12,seg 31/10/2022,14:30,Verona,Roma,3-4-2-1,Salvatore Bocchetti,24000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844848
+13,dom 06/11/2022,11:00,Monza,Verona,3-5-2 plano,Salvatore Bocchetti,11723,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844861
+14,qui 10/11/2022,14:30,Verona,Juventus,3-4-2-1,Salvatore Bocchetti,21934,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844868
+15,dom 13/11/2022,11:00,Verona,Spezia Calcio,3-4-2-1,Salvatore Bocchetti,18000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844879
+16,qua 04/01/2023,10:30,Torino,Verona,3-4-2-1,Marco Zaffaroni,15845,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844894
+17,seg 09/01/2023,14:30,Verona,Cremonese,3-4-2-1,Marco Zaffaroni,15062,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844898
+18,sáb 14/01/2023,16:45,Inter,Verona,3-4-2-1,Marco Zaffaroni,70734,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844909
+19,sáb 21/01/2023,11:00,Verona,Lecce,3-4-2-1,Marco Zaffaroni,19955,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844918
+20,seg 30/01/2023,16:45,Udinese,Verona,3-4-2-1,Marco Zaffaroni,17276,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844935
+21,seg 06/02/2023,14:30,Verona,Lazio,3-4-1-2,Marco Zaffaroni,20329,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844938
+22,seg 13/02/2023,14:30,Verona,Salernitana,3-4-2-1,Marco Zaffaroni,17832,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844948
+23,dom 19/02/2023,16:45,Roma,Verona,3-4-2-1,Marco Zaffaroni,61009,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844960
+24,seg 27/02/2023,14:30,Verona,Fiorentina,3-4-2-1,Marco Zaffaroni,17787,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844969
+25,dom 05/03/2023,08:30,Spezia Calcio,Verona,3-4-2-1,Marco Zaffaroni,10020,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844984
+26,dom 12/03/2023,11:00,Verona,Monza,3-4-2-1,Marco Zaffaroni,16000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844989
+27,dom 19/03/2023,08:30,Sampdoria,Verona,3-4-2-1,Marco Zaffaroni,18228,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845002
+28,sáb 01/04/2023,15:45,Juventus,Verona,3-4-1-2,Marco Zaffaroni,40105,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845010
+29,sáb 08/04/2023,13:30,Verona,Sassuolo,3-4-2-1,Marco Zaffaroni,23100,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845018
+30,sáb 15/04/2023,13:00,Napoli,Verona,3-4-1-2,Marco Zaffaroni,42000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845031
+31,sex 21/04/2023,15:45,Verona,Bologna,3-4-2-1,Marco Zaffaroni,21031,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845038
+32,dom 30/04/2023,10:00,Cremonese,Verona,4-2-3-1,Marco Zaffaroni,11645,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845047
+33,qua 03/05/2023,16:00,Verona,Inter,4-4-1-1,Marco Zaffaroni,19409,0:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845058
+34,dom 07/05/2023,15:45,Lecce,Verona,3-5-2 plano,Marco Zaffaroni,24768,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845069
+35,dom 14/05/2023,07:30,Verona,Torino,3-4-2-1,Marco Zaffaroni,19658,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845078
+36,sáb 20/05/2023,13:00,Atalanta,Verona,3-4-2-1,Marco Zaffaroni,9297,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845086
+37,dom 28/05/2023,07:30,Verona,Empoli,3-5-2 plano,Marco Zaffaroni,22831,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845098
+38,dom 04/06/2023,16:00,Milan,Verona,3-5-2 plano,Marco Zaffaroni,72102,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845110

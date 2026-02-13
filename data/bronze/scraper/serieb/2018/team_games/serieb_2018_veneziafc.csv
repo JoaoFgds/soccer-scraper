@@ -1,0 +1,37 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 25/08/2018,13:00,Venezia,Spezia Calcio,3-5-2 plano,Stefano Vecchi,2181,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092246
+2,sáb 01/09/2018,13:00,Padova,Venezia,3-5-2 plano,Stefano Vecchi,8696,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092305
+3,sex 14/09/2018,16:00,Venezia,Benevento,3-5-2 plano,Stefano Vecchi,3529,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092318
+4,sáb 22/09/2018,10:00,Lecce,Venezia,3-5-2 plano,Stefano Vecchi,9326,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092323
+6,sáb 29/09/2018,13:00,Venezia,AS Livorno,3-5-2 plano,Stefano Vecchi,2919,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092345
+7,sáb 06/10/2018,13:00,Perugia,Venezia,3-5-2 plano,Stefano Vecchi,6883,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092353
+8,dom 21/10/2018,10:00,Venezia,Verona,4-3-3 ofensivo,Walter Zenga,5630,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092363
+9,sex 26/10/2018,16:00,US Palermo,Venezia,4-3-3 ofensivo,Walter Zenga,6067,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092371
+10,ter 30/10/2018,17:00,Cremonese,Venezia,4-3-3 ofensivo,Walter Zenga,6268,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092377
+11,dom 04/11/2018,12:00,Venezia,US Salernitana,4-2-3-1,Walter Zenga,3701,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092390
+12,dom 11/11/2018,12:00,Cittadella,Venezia,4-3-1-2,Walter Zenga,4784,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092394
+13,sáb 24/11/2018,12:00,Venezia,Brescia,4-2-3-1,Walter Zenga,5310,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092408
+14,seg 03/12/2018,18:00,Foggia,Venezia,4-3-1-2,Walter Zenga,9583,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092415
+15,sáb 08/12/2018,12:00,Venezia,Ascoli,4-3-3 ofensivo,Walter Zenga,3339,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092426
+16,dom 16/12/2018,12:00,Crotone,Venezia,3-5-2 plano,Walter Zenga,5146,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092431
+17,dom 23/12/2018,12:00,Venezia,Cosenza,4-3-1-2,Walter Zenga,3142,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092444
+18,qui 27/12/2018,16:00,Pescara,Venezia,4-3-3 ofensivo,Walter Zenga,6834,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092453
+19,dom 30/12/2018,12:00,Venezia,Carpi,4-3-1-2,Walter Zenga,2798,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092462
+20,seg 21/01/2019,18:00,Spezia Calcio,Venezia,4-3-1-2,Walter Zenga,4869,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092471
+21,dom 27/01/2019,12:00,Venezia,Padova,3-5-2 plano,Walter Zenga,5271,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092476
+22,dom 03/02/2019,12:00,Benevento,Venezia,3-4-1-2,Walter Zenga,9810,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092489
+23,seg 11/02/2019,18:00,Venezia,Lecce,4-3-3 ofensivo,Walter Zenga,3595,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092494
+25,dom 24/02/2019,17:00,AS Livorno,Venezia,4-3-3 ofensivo,Walter Zenga,5348,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092516
+26,qua 27/02/2019,15:00,Venezia,Perugia,4-3-1-2,Walter Zenga,2703,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092524
+27,dom 03/03/2019,17:00,Verona,Venezia,4-3-3 ofensivo,Walter Zenga,9828,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092534
+28,seg 11/03/2019,17:00,Venezia,US Palermo,3-5-2 plano,Serse Cosmi,3154,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092542
+29,dom 17/03/2019,11:00,Venezia,Cremonese,3-5-2 plano,Serse Cosmi,3461,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092548
+30,sáb 30/03/2019,11:00,US Salernitana,Venezia,3-4-2-1,Serse Cosmi,1912,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092561
+31,ter 02/04/2019,16:00,Venezia,Cittadella,3-5-2 plano,Serse Cosmi,3104,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092565
+32,sex 05/04/2019,16:00,Brescia,Venezia,3-5-2 plano,Serse Cosmi,9000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092579
+33,sáb 13/04/2019,13:00,Venezia,Foggia,3-5-2 plano,Serse Cosmi,5344,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092586
+34,seg 22/04/2019,16:00,Ascoli,Venezia,3-5-2 plano,Serse Cosmi,6132,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092597
+35,sáb 27/04/2019,10:00,Venezia,Crotone,3-5-2 plano,Serse Cosmi,4152,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092602
+36,qua 01/05/2019,10:00,Cosenza,Venezia,4-5-1 plano,Serse Cosmi,10234,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092615
+37,sáb 04/05/2019,10:00,Venezia,Pescara,4-5-1 plano,Serse Cosmi,2919,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092624
+38,sáb 11/05/2019,10:00,Carpi,Venezia,4-3-3 ofensivo,Serse Cosmi,1906,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092633

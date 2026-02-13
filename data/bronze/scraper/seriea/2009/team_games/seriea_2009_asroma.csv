@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 23/08/2009,15:45,Genoa,Roma,4-2-3-1,Luciano Spalletti,25414,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964281
+2,dom 30/08/2009,13:00,Roma,Juventus,4-1-3-2,Luciano Spalletti,55560,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964293
+3,dom 13/09/2009,10:00,AC Siena,Roma,4-5-1,Claudio Ranieri,10045,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964298
+4,dom 20/09/2009,15:45,Roma,Fiorentina,4-4-2 losango,Claudio Ranieri,33378,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964312
+5,qua 23/09/2009,15:45,US Palermo,Roma,4-1-4-1,Claudio Ranieri,21111,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964321
+6,dom 27/09/2009,10:00,Catania Calcio,Roma,4-3-1-2,Claudio Ranieri,12660,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964324
+7,dom 04/10/2009,10:00,Roma,Napoli,4-4-2 duplo 6,Claudio Ranieri,27119,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964337
+8,dom 18/10/2009,16:45,Milan,Roma,4-4-2 losango,Claudio Ranieri,43407,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964347
+9,dom 25/10/2009,12:00,Roma,AS Livorno,4-4-2 duplo 6,Claudio Ranieri,28328,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964361
+10,qua 28/10/2009,17:45,Udinese,Roma,4-2-3-1,Claudio Ranieri,16563,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964373
+11,dom 01/11/2009,12:00,Roma,Bologna,4-4-2 duplo 6,Claudio Ranieri,28022,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964377
+12,dom 08/11/2009,17:45,Inter,Roma,4-4-2 losango,Claudio Ranieri,56807,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964386
+13,dom 22/11/2009,12:00,Roma,Bari,4-4-2 duplo 6,Claudio Ranieri,41248,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964401
+14,dom 29/11/2009,12:00,Atalanta,Roma,4-2-3-1,Claudio Ranieri,10752,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964404
+15,dom 06/12/2009,17:30,Roma,Lazio,4-4-2 losango,Claudio Ranieri,54273,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964418
+16,dom 13/12/2009,17:45,Sampdoria,Roma,4-1-4-1,Claudio Ranieri,24073,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964432
+17,dom 20/12/2009,12:00,Roma,Parma,4-3-1-2,Claudio Ranieri,36899,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964442
+18,qua 06/01/2010,12:00,Cagliari,Roma,4-3-1-2,Claudio Ranieri,12800,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964451
+19,sáb 09/01/2010,15:00,Roma,Chievo Verona,4-1-4-1,Claudio Ranieri,29467,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964457
+20,dom 17/01/2010,12:00,Roma,Genoa,4-4-1-1,Claudio Ranieri,31746,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964472
+21,sáb 23/01/2010,17:45,Juventus,Roma,4-4-2 duplo 6,Claudio Ranieri,23750,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964478
+22,dom 31/01/2010,12:00,Roma,AC Siena,4-1-4-1,Claudio Ranieri,30537,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964492
+23,dom 07/02/2010,17:45,Fiorentina,Roma,4-2-3-1,Claudio Ranieri,27442,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964500
+24,sáb 13/02/2010,15:00,Roma,US Palermo,4-4-2 duplo 6,Claudio Ranieri,37005,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964512
+25,dom 21/02/2010,11:00,Roma,Catania Calcio,4-2-3-1,Claudio Ranieri,30449,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964522
+26,dom 28/02/2010,11:00,Napoli,Roma,3-5-2 plano,Claudio Ranieri,50832,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964531
+27,sáb 06/03/2010,16:45,Roma,Milan,4-4-1-1,Claudio Ranieri,61036,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964537
+28,dom 14/03/2010,11:00,AS Livorno,Roma,4-2-3-1,Claudio Ranieri,12358,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964550
+29,sáb 20/03/2010,16:45,Roma,Udinese,4-3-1-2,Claudio Ranieri,34138,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964561
+30,qua 24/03/2010,16:45,Bologna,Roma,4-3-1-2,Claudio Ranieri,32775,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964566
+31,sáb 27/03/2010,14:00,Roma,Inter,4-5-1,Claudio Ranieri,61898,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964581
+32,sáb 03/04/2010,10:00,Bari,Roma,4-4-2 duplo 6,Claudio Ranieri,43773,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964590
+33,dom 11/04/2010,10:00,Roma,Atalanta,4-4-2 duplo 6,Claudio Ranieri,49503,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964597
+34,dom 18/04/2010,15:45,Lazio,Roma,4-3-1-2,Claudio Ranieri,61615,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964610
+35,dom 25/04/2010,15:45,Roma,Sampdoria,4-3-3 defensivo,Claudio Ranieri,56379,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964622
+36,sáb 01/05/2010,13:00,Parma,Roma,4-2-3-1,Claudio Ranieri,25014,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964628
+37,dom 09/05/2010,10:00,Roma,Cagliari,4-3-1-2,Claudio Ranieri,50291,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964635
+38,dom 16/05/2010,10:00,Chievo Verona,Roma,4-4-2 duplo 6,Claudio Ranieri,28136,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964648

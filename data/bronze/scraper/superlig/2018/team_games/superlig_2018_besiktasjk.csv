@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 12/08/2018,15:45,Besiktas,Akhisarspor,4-2-3-1,Şenol Güneş,28312,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069364
+2,dom 19/08/2018,13:15,BB Erzurumspor,Besiktas,4-2-3-1,Şenol Güneş,18408,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069719
+3,dom 26/08/2018,15:45,Besiktas,Antalyaspor,4-2-3-1,Şenol Güneş,24588,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069727
+4,dom 02/09/2018,15:45,Bursaspor,Besiktas,4-2-3-1,Şenol Güneş,27807,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069741
+5,sáb 15/09/2018,14:00,Besiktas,Y. Malatyaspor,4-2-3-1,Şenol Güneş,30744,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069750
+6,seg 24/09/2018,15:00,Fenerbahce,Besiktas,4-2-3-1,Şenol Güneş,43791,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069759
+7,sáb 29/09/2018,13:00,Besiktas,Kayserispor,4-2-3-1,Şenol Güneş,27918,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069766
+8,dom 07/10/2018,14:30,Konyaspor,Besiktas,4-2-3-1,Şenol Güneş,22105,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069776
+9,dom 21/10/2018,13:00,Göztepe,Besiktas,4-2-3-1,Şenol Güneş,7608,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069787
+10,seg 29/10/2018,14:00,Besiktas,C. Rizespor,4-4-2 duplo 6,Şenol Güneş,26552,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069794
+11,sáb 03/11/2018,13:00,Basaksehir,Besiktas,4-4-2 duplo 6,Şenol Güneş,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069802
+12,dom 11/11/2018,15:30,Besiktas,Sivasspor,4-2-3-1,Şenol Güneş,25342,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069806
+13,sáb 24/11/2018,14:00,Ankaragücü,Besiktas,4-2-3-1,Şenol Güneş,,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069815
+14,dom 02/12/2018,15:00,Besiktas,Galatasaray,4-2-3-1,Şenol Güneş,39485,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069829
+15,sex 07/12/2018,15:00,Alanyaspor,Besiktas,4-2-3-1,Şenol Güneş,6590,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069835
+16,dom 16/12/2018,14:00,Besiktas,Trabzonspor,4-2-3-1,Şenol Güneş,32941,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069848
+17,sáb 22/12/2018,14:00,Kasimpasa,Besiktas,4-1-4-1,Şenol Güneş,,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069852
+18,sex 18/01/2019,15:30,Akhisarspor,Besiktas,4-2-3-1,Şenol Güneş,10250,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069864
+19,sex 25/01/2019,15:30,Besiktas,BB Erzurumspor,4-2-3-1,Şenol Güneş,28220,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069872
+20,dom 03/02/2019,14:00,Antalyaspor,Besiktas,4-2-3-1,Şenol Güneş,14878,2:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069880
+21,sáb 09/02/2019,14:00,Besiktas,Bursaspor,4-2-3-1,Şenol Güneş,35475,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069894
+22,sex 15/02/2019,15:30,Y. Malatyaspor,Besiktas,4-2-3-1,Şenol Güneş,15892,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069903
+23,seg 25/02/2019,15:00,Besiktas,Fenerbahce,4-2-3-1,Şenol Güneş,39186,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069912
+24,sáb 02/03/2019,10:00,Kayserispor,Besiktas,4-2-3-1,Şenol Güneş,13620,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069919
+25,dom 10/03/2019,13:00,Besiktas,Konyaspor,4-2-3-1,Şenol Güneş,24432,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069929
+26,sáb 16/03/2019,13:00,Besiktas,Göztepe,4-2-3-1,Şenol Güneş,28792,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069940
+27,seg 08/04/2019,14:00,C. Rizespor,Besiktas,4-1-4-1,Şenol Güneş,11855,2:7,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069947
+28,sáb 13/04/2019,13:00,Besiktas,Basaksehir,4-1-4-1,Şenol Güneş,34467,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069955
+29,seg 22/04/2019,14:00,Sivasspor,Besiktas,4-2-3-1,Şenol Güneş,9871,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069959
+30,dom 28/04/2019,13:00,Besiktas,Ankaragücü,4-2-3-1,Şenol Güneş,34395,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069968
+31,dom 05/05/2019,13:00,Galatasaray,Besiktas,4-1-4-1,Şenol Güneş,51578,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069982
+32,seg 13/05/2019,14:00,Besiktas,Alanyaspor,4-2-3-1,Şenol Güneş,17096,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069988
+33,sáb 18/05/2019,13:00,Trabzonspor,Besiktas,4-2-3-1,Şenol Güneş,29255,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070001
+34,sex 24/05/2019,15:00,Besiktas,Kasimpasa,4-3-3 ofensivo,Şenol Güneş,,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070005

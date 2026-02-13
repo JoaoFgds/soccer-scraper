@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/09/1998,11:00,Florenz,Empoli,4-4-2,Mauro Sandreani,35000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214214
+2,dom 20/09/1998,11:00,Empoli,Roma,4-3-3 ofensivo,Mauro Sandreani,11804,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214226
+3,dom 27/09/1998,11:00,Empoli,Inter,3-4-3 plano,Mauro Sandreani,13464,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214234
+4,dom 04/10/1998,10:30,Salernitana,Empoli,4-3-3 ofensivo,Mauro Sandreani,30350,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214246
+5,sáb 17/10/1998,11:30,Empoli,Bologna,3-4-3 plano,Mauro Sandreani,8857,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214248
+6,dom 25/10/1998,11:30,Sampdoria,Empoli,3-4-3 plano,Mauro Sandreani,17680,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214259
+7,dom 01/11/1998,11:30,Empoli,Perugia,3-4-3 plano,Mauro Sandreani,8988,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214272
+8,dom 08/11/1998,11:30,Lazio,Empoli,3-4-3 plano,Mauro Sandreani,35000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214282
+9,dom 15/11/1998,11:30,Empoli,Cagliari,4-4-2,Mauro Sandreani,12053,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214287
+10,dom 22/11/1998,11:30,Juventus,Empoli,3-5-2,Mauro Sandreani,44460,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214300
+11,dom 29/11/1998,11:30,Empoli,Vicenza,3-5-2,Mauro Sandreani,14247,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214306
+12,dom 06/12/1998,11:30,Piacenza,Empoli,4-4-2,Mauro Sandreani,8284,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214315
+13,dom 13/12/1998,11:30,Bari,Empoli,4-4-2,Mauro Sandreani,15334,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214326
+14,dom 20/12/1998,11:30,Empoli,AC Parma,3-5-2 plano,Mauro Sandreani,12312,3:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214333
+15,qua 20/01/1999,11:30,AC Venezia 1907,Empoli,3-4-3 plano,Mauro Sandreani,7098,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214363
+16,dom 10/01/1999,11:30,Empoli,Milan,4-4-2 duplo 6,Mauro Sandreani,13360,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214350
+17,dom 17/01/1999,11:30,Udinese,Empoli,3-4-3 plano,Mauro Sandreani,17827,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214362
+18,dom 24/01/1999,17:30,Empoli,Florenz,3-4-3 plano,Mauro Sandreani,14196,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214368
+19,dom 31/01/1999,11:30,Roma,Empoli,4-5-1,Mauro Sandreani,41126,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214380
+20,dom 07/02/1999,11:30,Inter,Empoli,4-5-1 plano,Mauro Sandreani,65311,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214387
+21,dom 14/02/1999,12:00,Empoli,Salernitana,3-5-2,Mauro Sandreani,6717,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214395
+22,dom 21/02/1999,11:00,Bologna,Empoli,3-5-2 plano,Corrado Orrico,25142,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214406
+23,dom 28/02/1999,11:00,Empoli,Sampdoria,3-5-2 plano,Corrado Orrico,16330,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214414
+24,dom 07/03/1999,11:00,Perugia,Empoli,3-5-2 plano,Corrado Orrico,12712,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214424
+25,dom 14/03/1999,11:00,Empoli,Lazio,3-5-2 plano,Corrado Orrico,15000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214433
+26,dom 21/03/1999,11:00,Cagliari,Empoli,4-5-1,Corrado Orrico,18762,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214441
+27,sáb 03/04/1999,11:00,Empoli,Juventus,3-5-2 plano,Corrado Orrico,12414,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214450
+28,dom 11/04/1999,11:00,Vicenza,Empoli,3-5-2 plano,Corrado Orrico,15389,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214459
+29,dom 18/04/1999,11:00,Empoli,Piacenza,3-5-2 plano,Corrado Orrico,9069,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214471
+30,dom 25/04/1999,11:00,Empoli,Bari,3-5-2 plano,Corrado Orrico,11358,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214478
+31,dom 02/05/1999,11:00,AC Parma,Empoli,5-3-2,Corrado Orrico,17000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214486
+32,dom 09/05/1999,11:00,Empoli,AC Venezia 1907,3-4-3 plano,Corrado Orrico,6080,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214494
+33,sáb 15/05/1999,11:30,Milan,Empoli,3-5-2 plano,Corrado Orrico,74758,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214499
+34,dom 23/05/1999,11:30,Empoli,Udinese,3-5-2 plano,Corrado Orrico,6829,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214508

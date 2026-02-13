@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 27/09/2020,10:00,Cremonese,Cittadella,4-3-1-2,Roberto Venturato,613,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442541
+2,dom 04/10/2020,16:00,Cittadella,Brescia,4-3-1-2,Roberto Venturato,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442551
+3,sáb 17/10/2020,09:00,Cosenza,Cittadella,4-3-1-2,Roberto Venturato,800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442560
+4,ter 20/10/2020,16:00,Cittadella,Pordenone,4-3-1-2,Roberto Venturato,480,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442571
+5,sáb 09/01/2021,10:00,Reggiana,Cittadella,4-3-1-2,Roberto Venturato,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442585
+6,sáb 31/10/2020,10:00,Cittadella,Monza,4-3-1-2,Roberto Venturato,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442592
+7,dom 08/11/2020,11:00,Pescara,Cittadella,4-3-1-2,Roberto Venturato,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442603
+8,sáb 21/11/2020,10:00,Cittadella,Empoli,4-3-1-2,Roberto Venturato,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442611
+9,sáb 28/11/2020,10:00,AC Pisa 1909,Cittadella,4-3-1-2,Roberto Venturato,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442625
+10,sáb 05/12/2020,10:00,Salernitana,Cittadella,4-3-1-2,Roberto Venturato,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442637
+11,sáb 12/12/2020,14:00,Cittadella,SPAL,4-3-1-2,Roberto Venturato,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442641
+12,ter 15/12/2020,17:00,Cittadella,LR Vicenza,4-3-1-2,Roberto Venturato,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442650
+13,sáb 19/12/2020,17:30,Reggina,Cittadella,4-3-1-2,Roberto Venturato,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442666
+14,ter 22/12/2020,15:00,Cittadella,Frosinone,4-3-1-2,Roberto Venturato,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442669
+15,qua 27/01/2021,15:00,Chievo Verona,Cittadella,4-3-1-2,Roberto Venturato,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442681
+16,qua 30/12/2020,11:00,Cittadella,Lecce,4-3-1-2,Roberto Venturato,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442690
+17,seg 04/01/2021,14:00,Virtus Entella,Cittadella,4-3-1-2,Roberto Venturato,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442708
+18,sáb 16/01/2021,10:00,Cittadella,Ascoli,4-3-1-2,Roberto Venturato,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442710
+19,sáb 23/01/2021,10:00,Venezia,Cittadella,4-3-1-2,Roberto Venturato,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442727
+20,dom 31/01/2021,17:00,Cittadella,Cremonese,4-3-1-2,Roberto Venturato,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442731
+21,sáb 06/02/2021,10:00,Brescia,Cittadella,4-3-1-2,Roberto Venturato,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442741
+22,ter 09/02/2021,15:00,Cittadella,Cosenza,4-3-1-2,Roberto Venturato,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442750
+23,sáb 13/02/2021,10:00,Pordenone,Cittadella,4-3-1-2,Roberto Venturato,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442761
+24,sáb 20/02/2021,10:00,Cittadella,Reggiana,4-3-1-2,Roberto Venturato,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442775
+25,sáb 27/02/2021,12:00,Monza,Cittadella,4-3-1-2,Roberto Venturato,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442782
+26,ter 02/03/2021,15:00,Cittadella,Pescara,4-3-1-2,Roberto Venturato,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442793
+27,dom 07/03/2021,11:00,Empoli,Cittadella,4-3-2-1,Roberto Venturato,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442801
+28,sex 12/03/2021,15:00,Cittadella,AC Pisa 1909,4-3-2-1,Roberto Venturato,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442815
+29,ter 16/03/2021,15:00,Cittadella,Salernitana,4-3-1-2,Roberto Venturato,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442827
+30,sáb 20/03/2021,14:00,SPAL,Cittadella,4-3-1-2,Roberto Venturato,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442831
+31,sex 02/04/2021,14:00,LR Vicenza,Cittadella,4-3-1-2,Roberto Venturato,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442840
+32,seg 05/04/2021,10:00,Cittadella,Reggina,4-3-1-2,Roberto Venturato,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442856
+33,sáb 10/04/2021,11:00,Frosinone,Cittadella,4-3-1-2,Roberto Venturato,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442859
+34,sáb 17/04/2021,11:00,Cittadella,Chievo Verona,4-3-1-2,Roberto Venturato,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442871
+35,sáb 01/05/2021,09:00,Lecce,Cittadella,4-3-1-2,Roberto Venturato,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442880
+36,ter 04/05/2021,09:00,Cittadella,Virtus Entella,4-3-1-2,Roberto Venturato,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442898
+37,sex 07/05/2021,09:00,Ascoli,Cittadella,4-3-1-2,Roberto Venturato,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442900
+38,seg 10/05/2021,09:00,Cittadella,Venezia,4-3-1-2,Roberto Venturato,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442917

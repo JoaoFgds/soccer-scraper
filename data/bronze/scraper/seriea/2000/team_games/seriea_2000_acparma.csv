@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 01/10/2000,10:00,AC Parma,Florenz,3-4-1-2,Alberto Malesani,17187,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1153400
+2,dom 15/10/2000,11:00,Brescia,AC Parma,3-5-2,Alberto Malesani,13291,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1153411
+3,dom 22/10/2000,16:30,Perugia,AC Parma,3-4-1-2,Alberto Malesani,7690,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217287
+4,qua 01/11/2000,17:30,AC Parma,Milan,3-4-1-2,Alberto Malesani,21572,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217290
+5,dom 05/11/2000,12:00,Bari,AC Parma,3-4-3 plano,Alberto Malesani,11351,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217303
+6,dom 12/11/2000,17:30,AC Parma,Udinese,3-4-3 plano,Alberto Malesani,14872,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217314
+7,dom 19/11/2000,17:30,Bologna,AC Parma,3-4-3 plano,Alberto Malesani,23280,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217322
+8,dom 26/11/2000,12:00,AC Parma,Lazio,3-4-3 plano,Alberto Malesani,24000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217332
+9,sáb 02/12/2000,17:30,AC Parma,Atalanta,3-4-3 plano,Alberto Malesani,18600,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217341
+10,dom 10/12/2000,12:00,Juventus,AC Parma,3-5-2 plano,Alberto Malesani,40000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217350
+11,dom 17/12/2000,12:00,AC Parma,Vicenza,3-4-3 plano,Alberto Malesani,17000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217359
+12,sáb 23/12/2000,12:00,Napoli,AC Parma,3-4-1-2,Alberto Malesani,45000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217367
+13,dom 07/01/2001,12:00,AC Parma,Reggina,3-4-3 plano,Alberto Malesani,16000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217372
+14,dom 14/01/2001,17:30,Inter,AC Parma,4-3-3 ofensivo,Arrigo Sacchi,49274,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217382
+15,dom 21/01/2001,12:00,AC Parma,Lecce,4-3-3 ofensivo,Arrigo Sacchi,16000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217390
+16,dom 28/01/2001,12:00,Verona,AC Parma,4-4-2,Arrigo Sacchi,16712,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217399
+17,dom 04/02/2001,12:00,AC Parma,Roma,4-4-2 duplo 6,Renzo Ulivieri,28000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217408
+18,dom 11/02/2001,12:00,Florenz,AC Parma,3-4-3 plano,Renzo Ulivieri,30000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217422
+19,dom 18/02/2001,11:00,AC Parma,Brescia,3-4-3 plano,Renzo Ulivieri,20000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217429
+20,dom 25/02/2001,11:00,AC Parma,Perugia,3-4-1-2,Renzo Ulivieri,18000,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217440
+21,dom 04/03/2001,11:00,Milan,AC Parma,3-4-1-2,Renzo Ulivieri,45269,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217443
+22,dom 11/03/2001,16:30,AC Parma,Bari,3-4-1-2,Renzo Ulivieri,16872,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217454
+23,dom 18/03/2001,11:00,Udinese,AC Parma,4-4-2,Renzo Ulivieri,18000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217467
+24,dom 01/04/2001,10:00,AC Parma,Bologna,3-4-1-2,Renzo Ulivieri,21500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217474
+25,qua 18/04/2001,15:30,Lazio,AC Parma,3-5-2 plano,Renzo Ulivieri,50000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217485
+26,sáb 14/04/2001,10:00,Atalanta,AC Parma,3-4-1-2,Renzo Ulivieri,18000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217489
+27,dom 22/04/2001,15:30,AC Parma,Juventus,3-4-1-2,Renzo Ulivieri,29173,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217499
+28,sáb 28/04/2001,10:00,Vicenza,AC Parma,3-4-1-2,Renzo Ulivieri,14140,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217511
+29,dom 06/05/2001,10:00,AC Parma,Napoli,3-4-1-2,Renzo Ulivieri,18000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217521
+30,sáb 12/05/2001,10:00,Reggina,AC Parma,3-4-1-2,Renzo Ulivieri,22974,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217524
+31,qui 17/05/2001,15:30,AC Parma,Inter,3-4-1-2,Renzo Ulivieri,17996,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217536
+32,dom 27/05/2001,15:30,Lecce,AC Parma,3-4-1-2,Renzo Ulivieri,22716,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217542
+33,sáb 09/06/2001,19:00,AC Parma,Verona,3-4-3 plano,Renzo Ulivieri,15000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217550
+34,dom 17/06/2001,10:00,Roma,AC Parma,3-4-1-2,Renzo Ulivieri,75000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217565

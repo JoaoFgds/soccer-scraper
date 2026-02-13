@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 01/10/2000,10:00,Udinese,Brescia,3-5-2,Luigi De Canio,17424,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1153404
+2,dom 15/10/2000,11:00,Verona,Udinese,3-4-1-2,Luigi De Canio,12864,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1153413
+3,sáb 21/10/2000,11:00,Udinese,Inter,3-5-2,Luigi De Canio,27438,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217282
+4,qua 01/11/2000,12:00,Juventus,Udinese,3-5-2 plano,Luigi De Canio,36941,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217292
+5,dom 05/11/2000,12:00,Udinese,Lecce,3-5-2,Luigi De Canio,18885,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217297
+6,dom 12/11/2000,17:30,AC Parma,Udinese,3-5-2,Luigi De Canio,14872,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217314
+7,dom 19/11/2000,12:00,Udinese,Reggina,3-5-2,Luigi De Canio,17566,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217316
+8,dom 26/11/2000,12:00,Bari,Udinese,3-5-2,Luigi De Canio,8954,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217331
+9,dom 03/12/2000,12:00,Udinese,Milan,3-5-2 plano,Luigi De Canio,27000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217335
+10,dom 10/12/2000,12:00,Roma,Udinese,3-5-2,Luigi De Canio,60000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217344
+11,dom 17/12/2000,12:00,Udinese,Florenz,4-4-2,Luigi De Canio,18000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217353
+12,sáb 23/12/2000,12:00,Udinese,Bologna,3-5-2,Luigi De Canio,17865,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217361
+13,dom 07/01/2001,12:00,Perugia,Udinese,3-5-2,Luigi De Canio,8823,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217371
+14,dom 14/01/2001,12:00,Udinese,Lazio,4-5-1,Luigi De Canio,19000,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217379
+15,dom 21/01/2001,12:00,Napoli,Udinese,3-5-2,Luigi De Canio,42315,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217395
+16,dom 28/01/2001,17:30,Udinese,Atalanta,3-5-2,Luigi De Canio,17583,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217397
+17,dom 04/02/2001,12:00,Vicenza,Udinese,3-5-2,Luigi De Canio,14934,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217406
+18,dom 11/02/2001,12:00,Brescia,Udinese,3-5-2 plano,Luigi De Canio,12000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217418
+19,sáb 17/02/2001,12:00,Udinese,Verona,3-4-1-2,Luigi De Canio,16728,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217425
+20,dom 25/02/2001,11:00,Inter,Udinese,3-5-2 plano,Luigi De Canio,47763,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217435
+21,dom 04/03/2001,11:00,Udinese,Juventus,3-5-2 plano,Luigi De Canio,27000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217445
+22,dom 11/03/2001,11:00,Lecce,Udinese,3-4-2-1,Luigi De Canio,12896,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217453
+23,dom 18/03/2001,11:00,Udinese,AC Parma,3-4-2-1,Luigi De Canio,18000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217467
+24,dom 01/04/2001,10:00,Reggina,Udinese,3-4-2-1,Luciano Spalletti,23235,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217469
+25,dom 08/04/2001,10:00,Udinese,Bari,3-4-2-1,Luciano Spalletti,16297,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217478
+26,sáb 14/04/2001,10:00,Milan,Udinese,3-4-2-1,Luciano Spalletti,45922,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217487
+27,dom 22/04/2001,10:00,Udinese,Roma,3-4-1-2,Luciano Spalletti,24000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217497
+28,dom 29/04/2001,10:00,Florenz,Udinese,3-4-1-2,Luciano Spalletti,28000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217507
+29,sáb 05/05/2001,10:00,Bologna,Udinese,3-5-2,Luciano Spalletti,22328,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217514
+30,sáb 12/05/2001,10:00,Udinese,Perugia,3-4-1-2,Luciano Spalletti,16611,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217530
+31,dom 20/05/2001,10:00,Lazio,Udinese,3-4-2-1,Luciano Spalletti,24000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217533
+32,dom 27/05/2001,15:30,Udinese,Napoli,3-4-1-2,Luciano Spalletti,25315,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217541
+33,sáb 09/06/2001,19:00,Atalanta,Udinese,4-3-1-2,Luciano Spalletti,15793,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217557
+34,sáb 16/06/2001,19:00,Udinese,Vicenza,3-4-1-2,Luciano Spalletti,22951,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217558

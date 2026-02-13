@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qua 06/11/2002,17:30,Piacenza,Juventus,3-4-2-1,Andrea Agostinelli,12763,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022403
+2,dom 15/09/2002,15:30,Brescia,Piacenza,3-5-2,Andrea Agostinelli,17284,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022419
+3,dom 22/09/2002,10:00,Piacenza,Udinese,3-4-2-1,Andrea Agostinelli,6976,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022424
+4,dom 29/09/2002,10:00,Bologna,Piacenza,3-4-2-1,Andrea Agostinelli,20548,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022436
+5,dom 06/10/2002,10:00,Piacenza,Inter,3-5-2,Andrea Agostinelli,15029,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022445
+6,dom 20/10/2002,10:00,Como,Piacenza,3-5-2 plano,Andrea Agostinelli,6965,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022454
+7,dom 27/10/2002,11:00,Piacenza,Empoli,4-4-2 duplo 6,Andrea Agostinelli,6617,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022463
+8,dom 03/11/2002,12:00,Atalanta,Piacenza,3-4-1-2,Andrea Agostinelli,13514,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022470
+9,sáb 09/11/2002,17:30,Piacenza,Roma,3-5-2,Andrea Agostinelli,8302,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022475
+10,dom 17/11/2002,12:00,Modena,Piacenza,3-5-2,Andrea Agostinelli,13197,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022488
+11,dom 24/11/2002,12:00,Piacenza,Torino,3-5-2,Andrea Agostinelli,6433,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022494
+12,dom 01/12/2002,12:00,Piacenza,Lazio,3-5-2,Andrea Agostinelli,8177,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022506
+13,dom 08/12/2002,12:15,Perugia,Piacenza,3-4-2-1,Andrea Agostinelli,5883,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022515
+14,sáb 14/12/2002,15:00,Piacenza,Chievo Verona,3-4-2-1,Andrea Agostinelli,6139,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022519
+15,dom 22/12/2002,12:00,Reggina,Piacenza,4-5-1,Andrea Agostinelli,24037,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022533
+16,dom 12/01/2003,12:00,Piacenza,AC Parma,3-5-2,Andrea Agostinelli,7080,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022544
+17,dom 19/01/2003,12:00,Milan,Piacenza,3-5-2 plano,Andrea Agostinelli,54452,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022552
+18,dom 26/01/2003,12:00,Juventus,Piacenza,3-5-2,Andrea Agostinelli,35539,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022558
+19,sáb 01/02/2003,15:00,Piacenza,Brescia,3-4-2-1,Andrea Agostinelli,7705,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022564
+20,sáb 08/02/2003,15:00,Udinese,Piacenza,4-4-2 duplo 6,Luigi Cagni,14327,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022573
+21,dom 16/02/2003,11:00,Piacenza,Bologna,4-4-2 duplo 6,Luigi Cagni,6434,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022589
+22,dom 23/02/2003,11:00,Inter,Piacenza,4-4-2 duplo 6,Luigi Cagni,56352,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022598
+23,dom 02/03/2003,11:00,Piacenza,Como,4-4-2 duplo 6,Luigi Cagni,7130,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022607
+24,dom 09/03/2003,11:00,Empoli,Piacenza,4-4-2 duplo 6,Luigi Cagni,5960,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022616
+25,dom 16/03/2003,11:00,Piacenza,Atalanta,4-4-2 duplo 6,Luigi Cagni,8977,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022623
+26,dom 23/03/2003,11:00,Roma,Piacenza,4-4-2 duplo 6,Luigi Cagni,55235,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022631
+27,dom 06/04/2003,10:00,Piacenza,Modena,4-4-2 duplo 6,Luigi Cagni,10477,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022642
+28,dom 13/04/2003,10:00,Torino,Piacenza,4-4-2 duplo 6,Luigi Cagni,11809,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022647
+29,sáb 19/04/2003,10:00,Lazio,Piacenza,3-4-2-1,Luigi Cagni,32280,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022660
+30,dom 27/04/2003,10:00,Piacenza,Perugia,3-5-2,Luigi Cagni,6437,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022668
+31,sáb 03/05/2003,10:00,Chievo Verona,Piacenza,3-4-2-1,Luigi Cagni,11418,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022673
+32,sáb 10/05/2003,10:00,Piacenza,Reggina,4-3-3 ofensivo,Luigi Cagni,7301,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022686
+33,sáb 17/05/2003,10:00,AC Parma,Piacenza,4-5-1,Luigi Cagni,14267,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022698
+34,sáb 24/05/2003,10:00,Piacenza,Milan,4-3-3 ofensivo,Luigi Cagni,7386,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022704

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 22/08/2021,15:30,Pisa,SPAL,4-2-3-1,Pep Clotet,2933,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3624921
+2,dom 29/08/2021,15:30,SPAL,Pordenone,4-2-3-1,Pep Clotet,2537,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3624982
+3,sáb 11/09/2021,09:00,SPAL,Monza,4-2-3-1,Pep Clotet,3726,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3624999
+4,sáb 18/09/2021,09:00,Reggina,SPAL,4-2-3-1,Pep Clotet,4773,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625387
+5,ter 21/09/2021,15:30,SPAL,LR Vicenza,4-2-3-1,Pep Clotet,3599,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625395
+6,dom 26/09/2021,15:30,Ternana,SPAL,4-2-3-1,Pep Clotet,4369,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625405
+7,sáb 02/10/2021,13:30,SPAL,Parma,4-2-3-1,Pep Clotet,7653,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625414
+8,dom 17/10/2021,15:30,Cittadella,SPAL,4-2-3-1,Pep Clotet,2233,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625416
+9,dom 24/10/2021,15:30,SPAL,Como,4-2-3-1,Pep Clotet,4915,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625431
+10,qui 28/10/2021,13:00,Ascoli,SPAL,4-3-1-2,Pep Clotet,3979,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625434
+11,seg 01/11/2021,11:00,SPAL,Perugia,4-3-1-2,Pep Clotet,5134,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625449
+12,sáb 06/11/2021,10:00,Cremonese,SPAL,4-3-1-2,Pep Clotet,3868,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625457
+13,sáb 20/11/2021,10:00,SPAL,Alessandria,4-3-1-2,Pep Clotet,4546,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625467
+14,sáb 27/11/2021,10:00,Cosenza,SPAL,4-3-3 ofensivo,Pep Clotet,2269,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3638420
+15,ter 30/11/2021,16:30,SPAL,Lecce,4-3-3 ofensivo,Pep Clotet,4157,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625485
+16,sáb 04/12/2021,10:00,Crotone,SPAL,4-3-3 ofensivo,Pep Clotet,2176,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625492
+17,sáb 11/12/2021,10:00,SPAL,Brescia,4-3-1-2,Pep Clotet,3814,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625503
+18,sáb 18/12/2021,12:15,Frosinone,SPAL,4-3-3 ofensivo,Pep Clotet,3208,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625511
+19,dom 16/01/2022,12:15,SPAL,Benevento,4-3-1-2,Roberto Venturato,2546,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625521
+20,sáb 22/01/2022,10:00,SPAL,Pisa,4-3-1-2,Roberto Venturato,2859,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3624970
+21,dom 06/02/2022,12:15,Pordenone,SPAL,4-3-1-2,Roberto Venturato,1213,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3624991
+22,sáb 12/02/2022,10:00,Monza,SPAL,4-3-1-2,Roberto Venturato,3212,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625008
+23,ter 15/02/2022,14:30,SPAL,Reggina,4-3-1-2,Roberto Venturato,3584,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625531
+24,sáb 19/02/2022,10:00,LR Vicenza,SPAL,4-3-1-2,Roberto Venturato,4522,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625539
+25,ter 22/02/2022,14:30,SPAL,Ternana,4-3-1-2,Roberto Venturato,3474,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625549
+26,sáb 26/02/2022,10:00,Parma,SPAL,4-3-1-2,Roberto Venturato,5286,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625558
+27,qua 02/03/2022,14:30,SPAL,Cittadella,4-3-1-2,Roberto Venturato,4132,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625560
+28,sáb 05/03/2022,10:00,Como,SPAL,4-3-1-2,Roberto Venturato,2317,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625575
+29,sáb 12/03/2022,12:15,SPAL,Ascoli,4-3-1-2,Roberto Venturato,4688,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625578
+30,qua 16/03/2022,14:30,Perugia,SPAL,4-3-3 ofensivo,Roberto Venturato,3009,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625593
+31,dom 20/03/2022,12:15,SPAL,Cremonese,4-3-3 ofensivo,Roberto Venturato,4961,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625601
+32,sáb 02/04/2022,09:00,Alessandria,SPAL,4-3-1-2,Roberto Venturato,2868,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625611
+33,ter 05/04/2022,14:00,SPAL,Cosenza,4-3-1-2,Roberto Venturato,4338,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3638439
+34,sáb 09/04/2022,09:00,Lecce,SPAL,4-3-1-2,Roberto Venturato,11578,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625629
+35,seg 18/04/2022,07:30,SPAL,Crotone,4-3-1-2,Roberto Venturato,4110,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625636
+36,seg 25/04/2022,13:00,Brescia,SPAL,4-3-1-2,Roberto Venturato,8710,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625647
+37,sáb 30/04/2022,09:00,SPAL,Frosinone,4-3-1-2,Roberto Venturato,7033,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625655
+38,sex 06/05/2022,15:30,Benevento,SPAL,4-3-1-2,Roberto Venturato,5155,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625665

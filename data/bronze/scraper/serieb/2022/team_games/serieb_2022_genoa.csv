@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 14/08/2022,15:45,Venezia,Genoa,4-4-2 duplo 6,Alexander Blessin,5263,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3873445
+2,sáb 20/08/2022,15:45,Genoa,Benevento,4-4-2 duplo 6,Alexander Blessin,22800,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3873460
+3,dom 28/08/2022,15:45,Pisa,Genoa,4-4-2 duplo 6,Alexander Blessin,9842,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3873472
+4,sáb 03/09/2022,11:15,Genoa,Parma,4-4-2 duplo 6,Alexander Blessin,24153,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3873515
+5,sex 09/09/2022,15:30,Palermo,Genoa,4-4-2 duplo 6,Alexander Blessin,23643,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3873558
+6,sáb 17/09/2022,11:15,Genoa,Modena,4-4-2 duplo 6,Alexander Blessin,24000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3873933
+7,sáb 01/10/2022,09:00,SPAL,Genoa,4-2-3-1,Alexander Blessin,12257,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3873947
+8,sex 07/10/2022,15:30,Genoa,Cagliari,4-2-3-1,Alexander Blessin,26042,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3873952
+9,sáb 15/10/2022,09:00,Cosenza,Genoa,4-2-3-1,Alexander Blessin,7434,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3873962
+10,sáb 22/10/2022,11:15,Ternana,Genoa,4-2-3-1,Alexander Blessin,11059,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3873977
+11,sáb 29/10/2022,11:15,Genoa,Brescia,4-2-3-1,Alexander Blessin,27239,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874022
+12,seg 07/11/2022,16:30,Reggina,Genoa,4-2-3-1,Alexander Blessin,14005,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874035
+13,dom 13/11/2022,12:15,Genoa,Como,4-2-3-1,Alexander Blessin,24747,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874042
+14,dom 27/11/2022,11:00,Perugia,Genoa,4-4-2,Alexander Blessin,7924,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874054
+15,dom 04/12/2022,11:00,Genoa,Cittadella,4-2-3-1,Alexander Blessin,22750,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874124
+16,qui 08/12/2022,11:00,Genoa,Südtirol,4-3-3 ofensivo,Alberto Gilardino,24000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874070
+17,dom 11/12/2022,11:00,Ascoli,Genoa,4-3-3 ofensivo,Alberto Gilardino,7072,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874078
+18,dom 18/12/2022,16:45,Genoa,Frosinone,4-3-3 ofensivo,Alberto Gilardino,22878,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874090
+19,seg 26/12/2022,16:30,Bari,Genoa,4-3-3 ofensivo,Alberto Gilardino,48887,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874099
+20,seg 16/01/2023,14:45,Genoa,Venezia,4-3-3 ofensivo,Alberto Gilardino,21999,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874112
+21,sáb 21/01/2023,10:00,Benevento,Genoa,4-3-3 ofensivo,Alberto Gilardino,7929,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874133
+22,sáb 28/01/2023,12:15,Genoa,Pisa,3-5-2 plano,Alberto Gilardino,29460,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874145
+23,dom 05/02/2023,12:15,Parma,Genoa,3-4-2-1,Alberto Gilardino,14281,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874153
+24,sex 10/02/2023,16:30,Genoa,Palermo,4-3-3 ofensivo,Alberto Gilardino,25185,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874163
+25,dom 19/02/2023,12:15,Modena,Genoa,4-3-3 ofensivo,Alberto Gilardino,14030,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874173
+26,sáb 25/02/2023,12:15,Genoa,SPAL,4-3-3 ofensivo,Alberto Gilardino,20239,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874187
+27,qua 01/03/2023,16:30,Cagliari,Genoa,3-4-2-1,Alberto Gilardino,13520,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874192
+28,seg 06/03/2023,16:30,Genoa,Cosenza,3-5-2 plano,Alberto Gilardino,25000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874202
+29,dom 12/03/2023,12:15,Genoa,Ternana,3-5-2 plano,Alberto Gilardino,26470,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874217
+30,sáb 18/03/2023,10:00,Brescia,Genoa,3-5-2 plano,Alberto Gilardino,6523,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874222
+31,sex 31/03/2023,15:30,Genoa,Reggina,3-5-2 plano,Alberto Gilardino,31755,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874235
+32,seg 10/04/2023,10:00,Como,Genoa,3-5-2 plano,Alberto Gilardino,6526,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874242
+33,sáb 15/04/2023,09:00,Genoa,Perugia,3-5-2 plano,Alberto Gilardino,28833,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874254
+34,sáb 22/04/2023,09:00,Cittadella,Genoa,3-5-2 plano,Alberto Gilardino,5962,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874264
+35,seg 01/05/2023,10:00,Südtirol,Genoa,3-5-2 plano,Alberto Gilardino,5500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874270
+36,sáb 06/05/2023,09:00,Genoa,Ascoli,3-5-2 plano,Alberto Gilardino,32464,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874278
+37,sáb 13/05/2023,11:15,Frosinone,Genoa,3-5-2,Alberto Gilardino,15937,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874290
+38,sex 19/05/2023,15:30,Genoa,Bari,4-3-1-2,Alberto Gilardino,32258,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874299

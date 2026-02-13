@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 11/09/2004,15:30,AC Venezia 1907,UC AlbinoLeffe,?,Julio Ribas,1682,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30271
+2,sex 17/09/2004,15:30,Piacenza,AC Venezia 1907,?,Julio Ribas,6809,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30279
+3,ter 21/09/2004,15:30,AC Venezia 1907,Verona,?,Julio Ribas,2455,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30293
+4,sáb 25/09/2004,15:30,Ternana,AC Venezia 1907,?,Julio Ribas,3265,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30302
+5,sáb 02/10/2004,15:30,AC Venezia 1907,Pescara,?,Julio Ribas,3542,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30315
+6,qua 06/10/2004,15:30,AC Venezia 1907,Cesena,?,Julio Ribas,2068,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30326
+7,dom 10/10/2004,10:00,Modena,AC Venezia 1907,4-3-1-2,Julio Ribas,6725,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30334
+8,sáb 16/10/2004,15:30,AC Venezia 1907,Empoli,4-3-2-1,Julio Ribas,1769,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30348
+9,sex 22/10/2004,15:45,Vicenza,AC Venezia 1907,4-3-2-1,Julio Ribas,7312,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30360
+10,ter 26/10/2004,15:30,AC Venezia 1907,Salernitana,4-3-3 ofensivo,Julio Ribas,1643,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30370
+11,sáb 30/10/2004,15:30,Catanzaro,AC Venezia 1907,?,Julio Ribas,7160,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30376
+12,dom 07/11/2004,12:00,AC Venezia 1907,Ascoli,?,Julio Ribas,2592,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30391
+13,dom 14/11/2004,12:00,Torino,AC Venezia 1907,?,Julio Ribas,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30402
+14,dom 21/11/2004,12:00,AC Venezia 1907,Treviso,?,Julio Ribas,3287,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30413
+15,seg 29/11/2004,17:45,Perugia,AC Venezia 1907,?,Julio Ribas,5000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30420
+16,dom 05/12/2004,12:00,Bari,AC Venezia 1907,?,Julio Ribas,2624,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30430
+17,dom 12/12/2004,12:00,AC Venezia 1907,Triestina,?,Julio Ribas,2044,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30448
+18,dom 19/12/2004,12:00,FC Crotone,AC Venezia 1907,?,Julio Ribas,3375,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30454
+19,qui 06/01/2005,12:00,AC Venezia 1907,Arezzo,?,Julio Ribas,2260,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30469
+20,dom 09/01/2005,12:00,Catania Calcio,AC Venezia 1907,4-3-2-1,Julio Ribas,8684,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30475
+21,dom 16/01/2005,12:00,AC Venezia 1907,Genoa,?,Julio Ribas,4504,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30491
+22,dom 23/01/2005,12:00,UC AlbinoLeffe,AC Venezia 1907,?,Ezio Glerean,1261,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30502
+23,dom 30/01/2005,12:00,AC Venezia 1907,Piacenza,5-4-1 plano,Ezio Glerean,1705,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30510
+24,qui 03/02/2005,17:30,Verona,AC Venezia 1907,?,Ezio Glerean,11480,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30524
+25,dom 06/02/2005,12:00,AC Venezia 1907,Ternana,?,Ezio Glerean,1817,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30533
+26,dom 13/02/2005,12:00,Pescara,AC Venezia 1907,5-4-1,Ezio Glerean,3453,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30546
+27,dom 20/02/2005,11:00,Cesena,AC Venezia 1907,?,Ezio Glerean,11125,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30557
+28,dom 27/02/2005,11:00,AC Venezia 1907,Modena,4-3-3 defensivo,Ezio Glerean,2293,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30565
+29,dom 06/03/2005,11:00,Empoli,AC Venezia 1907,5-4-1,Ezio Glerean,2928,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30579
+30,dom 13/03/2005,11:00,AC Venezia 1907,Vicenza,?,Ezio Glerean,2662,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30591
+31,sáb 26/03/2005,11:00,Salernitana,AC Venezia 1907,?,Ezio Glerean,8896,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30601
+32,sáb 09/04/2005,15:30,AC Venezia 1907,Catanzaro,?,Ezio Glerean,1801,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30607
+33,sáb 16/04/2005,15:30,Ascoli,AC Venezia 1907,?,Ezio Glerean,4400,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30622
+34,qua 20/04/2005,15:30,AC Venezia 1907,Torino,?,Ezio Glerean,1648,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30633
+35,sáb 23/04/2005,15:30,Treviso,AC Venezia 1907,?,Ezio Glerean,5703,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30644
+36,sáb 30/04/2005,15:30,AC Venezia 1907,Perugia,?,Andrea Manzo,1550,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30651
+37,sáb 07/05/2005,15:30,AC Venezia 1907,Bari,?,Andrea Manzo,1568,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30661
+38,seg 16/05/2005,15:45,Triestina,AC Venezia 1907,5-4-1 plano,Andrea Manzo,6534,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30679
+39,sáb 21/05/2005,15:30,AC Venezia 1907,FC Crotone,4-4-2,Andrea Manzo,1998,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30685
+40,sáb 28/05/2005,15:30,Arezzo,AC Venezia 1907,?,Andrea Manzo,4878,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30700
+41,dom 05/06/2005,15:30,AC Venezia 1907,Catania Calcio,?,Andrea Manzo,1469,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30706
+42,sáb 11/06/2005,15:30,Genoa,AC Venezia 1907,?,Andrea Manzo,33951,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30722

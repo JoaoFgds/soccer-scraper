@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 23/08/2015,15:45,Sassuolo,Napoli,4-3-3 ofensivo,Eusebio Di Francesco,13755,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2603983
+2,sáb 29/08/2015,13:00,Bologna,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,15732,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2603985
+3,dom 13/09/2015,10:00,Sassuolo,Atalanta,4-3-3 ofensivo,Eusebio Di Francesco,8644,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604003
+4,dom 20/09/2015,10:00,Roma,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,36727,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604011
+5,qua 23/09/2015,15:45,US Palermo,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,17730,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604020
+6,dom 27/09/2015,10:00,Sassuolo,Chievo Verona,4-3-3 ofensivo,Eusebio Di Francesco,8220,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604032
+7,dom 04/10/2015,07:30,Empoli,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,7634,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604036
+8,dom 18/10/2015,11:00,Sassuolo,Lazio,4-3-3 ofensivo,Eusebio Di Francesco,11812,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604052
+9,dom 25/10/2015,12:00,Milan,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,37568,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604060
+10,qua 28/10/2015,17:45,Sassuolo,Juventus,4-3-3 ofensivo,Eusebio Di Francesco,20570,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604072
+11,dom 01/11/2015,12:00,Udinese,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,13277,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604083
+12,dom 08/11/2015,12:00,Sassuolo,Carpi,4-3-3 ofensivo,Eusebio Di Francesco,10264,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604092
+13,dom 22/11/2015,12:00,Genoa,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,19347,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604098
+14,seg 30/11/2015,16:00,Sassuolo,Fiorentina,4-3-3 ofensivo,Eusebio Di Francesco,13633,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604112
+15,dom 06/12/2015,15:00,Sampdoria,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,20581,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604122
+16,qua 20/01/2016,17:45,Sassuolo,Torino,4-3-3 ofensivo,Eusebio Di Francesco,7000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604132
+17,dom 20/12/2015,12:00,Verona,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,16949,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604139
+18,qua 06/01/2016,12:00,Sassuolo,Frosinone,4-3-3 ofensivo,Eusebio Di Francesco,8850,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604152
+19,dom 10/01/2016,09:30,Inter,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,40322,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604160
+20,sáb 16/01/2016,17:45,Napoli,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,40047,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604173
+21,dom 24/01/2016,12:00,Sassuolo,Bologna,4-3-3 ofensivo,Eusebio Di Francesco,12202,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604175
+22,sáb 30/01/2016,15:00,Atalanta,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,13640,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604193
+23,ter 02/02/2016,17:45,Sassuolo,Roma,4-3-3 ofensivo,Eusebio Di Francesco,11102,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604201
+24,dom 07/02/2016,12:00,Sassuolo,US Palermo,4-3-3 ofensivo,Eusebio Di Francesco,8719,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604210
+25,sáb 13/02/2016,15:00,Chievo Verona,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,8500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604222
+26,dom 21/02/2016,11:00,Sassuolo,Empoli,4-3-3 ofensivo,Eusebio Di Francesco,10243,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604226
+27,seg 29/02/2016,15:00,Lazio,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,13995,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604242
+28,dom 06/03/2016,11:00,Sassuolo,Milan,4-3-3 ofensivo,Eusebio Di Francesco,17697,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604250
+29,sex 11/03/2016,16:45,Juventus,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,39240,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604262
+30,dom 20/03/2016,11:00,Sassuolo,Udinese,4-3-3 ofensivo,Eusebio Di Francesco,10344,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604267
+31,sáb 02/04/2016,13:00,Carpi,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,7457,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604282
+32,sáb 09/04/2016,13:00,Sassuolo,Genoa,4-3-3 ofensivo,Eusebio Di Francesco,10249,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604288
+33,dom 17/04/2016,10:00,Fiorentina,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,27585,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604302
+34,qua 20/04/2016,13:30,Sassuolo,Sampdoria,4-3-3 ofensivo,Eusebio Di Francesco,9392,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604312
+35,dom 24/04/2016,10:00,Torino,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,19751,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604322
+36,dom 01/05/2016,10:00,Sassuolo,Verona,4-3-3 ofensivo,Eusebio Di Francesco,10389,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604329
+37,dom 08/05/2016,10:00,Frosinone,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,6014,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604342
+38,sáb 14/05/2016,15:45,Sassuolo,Inter,4-3-3 ofensivo,Eusebio Di Francesco,14213,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604350

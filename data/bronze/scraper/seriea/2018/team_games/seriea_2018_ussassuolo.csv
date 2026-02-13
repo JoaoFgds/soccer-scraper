@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 19/08/2018,15:30,Sassuolo,Inter,4-3-3 ofensivo,Roberto De Zerbi,19620,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080910
+2,dom 26/08/2018,15:30,Cagliari,Sassuolo,4-3-3 ofensivo,Roberto De Zerbi,14432,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080912
+3,dom 02/09/2018,15:30,Sassuolo,Genoa,3-4-2-1,Roberto De Zerbi,9740,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080930
+4,dom 16/09/2018,10:00,Juventus,Sassuolo,4-3-3 ofensivo,Roberto De Zerbi,40563,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080937
+5,sex 21/09/2018,15:30,Sassuolo,Empoli,4-3-3 ofensivo,Roberto De Zerbi,10183,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080961
+6,qui 27/09/2018,14:00,SPAL,Sassuolo,3-4-3 plano,Roberto De Zerbi,13945,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080984
+7,dom 30/09/2018,15:30,Sassuolo,Milan,4-3-3 ofensivo,Roberto De Zerbi,16795,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080995
+8,dom 07/10/2018,13:00,Napoli,Sassuolo,3-4-3 plano,Roberto De Zerbi,29647,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081038
+9,seg 22/10/2018,15:30,Sampdoria,Sassuolo,3-4-3 plano,Roberto De Zerbi,19064,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081050
+10,dom 28/10/2018,08:30,Sassuolo,Bologna,3-4-3 plano,Roberto De Zerbi,12647,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081059
+11,dom 04/11/2018,12:00,Chievo Verona,Sassuolo,4-3-3 ofensivo,Roberto De Zerbi,8100,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081132
+12,dom 11/11/2018,15:00,Sassuolo,Lazio,3-5-2 plano,Roberto De Zerbi,11317,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081148
+13,dom 25/11/2018,09:30,Parma,Sassuolo,4-2-3-1,Roberto De Zerbi,14354,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081159
+14,dom 02/12/2018,12:00,Sassuolo,Udinese,4-3-3 ofensivo,Roberto De Zerbi,10500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081169
+15,dom 09/12/2018,09:30,Sassuolo,Fiorentina,4-1-4-1,Roberto De Zerbi,11436,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081180
+16,dom 16/12/2018,12:00,Frosinone,Sassuolo,4-3-3 ofensivo,Roberto De Zerbi,12000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081186
+17,sáb 22/12/2018,12:00,Sassuolo,Torino,4-3-3 ofensivo,Roberto De Zerbi,11148,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081200
+18,qua 26/12/2018,15:00,Roma,Sassuolo,4-4-2 duplo 6,Roberto De Zerbi,35893,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081208
+19,sáb 29/12/2018,12:00,Sassuolo,Atalanta,4-3-3 ofensivo,Roberto De Zerbi,12233,2:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081220
+20,sáb 19/01/2019,17:30,Inter,Sassuolo,4-3-3 ofensivo,Roberto De Zerbi,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081230
+21,sáb 26/01/2019,12:00,Sassuolo,Cagliari,4-3-3 ofensivo,Roberto De Zerbi,9970,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081232
+22,dom 03/02/2019,12:00,Genoa,Sassuolo,4-3-3 ofensivo,Roberto De Zerbi,18927,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081250
+23,dom 10/02/2019,15:00,Sassuolo,Juventus,4-3-3 ofensivo,Roberto De Zerbi,21584,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081257
+24,dom 17/02/2019,11:00,Empoli,Sassuolo,4-3-3 ofensivo,Roberto De Zerbi,7202,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081270
+25,dom 24/02/2019,11:00,Sassuolo,SPAL,3-4-3 plano,Roberto De Zerbi,11544,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081280
+26,sáb 02/03/2019,14:00,Milan,Sassuolo,4-3-3 ofensivo,Roberto De Zerbi,61462,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081291
+27,dom 10/03/2019,14:00,Sassuolo,Napoli,5-4-1 plano,Roberto De Zerbi,14969,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081298
+28,sáb 16/03/2019,11:00,Sassuolo,Sampdoria,3-4-3 plano,Roberto De Zerbi,11193,3:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081310
+29,dom 31/03/2019,13:00,Bologna,Sassuolo,4-3-3 ofensivo,Roberto De Zerbi,23551,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081319
+30,qui 04/04/2019,14:00,Sassuolo,Chievo Verona,4-1-4-1,Roberto De Zerbi,9193,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081323
+31,dom 07/04/2019,13:00,Lazio,Sassuolo,3-5-2 plano,Roberto De Zerbi,37487,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081339
+32,dom 14/04/2019,10:00,Sassuolo,Parma,4-3-3 ofensivo,Roberto De Zerbi,12538,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081350
+33,sáb 20/04/2019,10:00,Udinese,Sassuolo,3-4-1-2,Roberto De Zerbi,22343,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081359
+34,seg 29/04/2019,16:00,Fiorentina,Sassuolo,3-4-1-2,Roberto De Zerbi,25567,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081370
+35,dom 05/05/2019,10:00,Sassuolo,Frosinone,3-4-1-2,Roberto De Zerbi,8285,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081376
+36,dom 12/05/2019,07:30,Torino,Sassuolo,4-4-1-1,Roberto De Zerbi,25360,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081390
+37,sáb 18/05/2019,15:30,Sassuolo,Roma,4-3-3 ofensivo,Roberto De Zerbi,12914,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081398
+38,dom 26/05/2019,15:30,Atalanta,Sassuolo,4-3-1-2,Roberto De Zerbi,14376,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081410

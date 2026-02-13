@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 25/08/2012,15:45,Grosseto,Novara Calcio,3-5-2 plano,Francesco Moriero,1678,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2257999
+2,sáb 01/09/2012,15:45,Cittadella,Grosseto,5-4-1 plano,Francesco Moriero,1612,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2259790
+3,dom 09/09/2012,10:00,Padova,Grosseto,3-5-2 plano,Francesco Moriero,5866,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2259739
+4,sáb 15/09/2012,10:00,Grosseto,Crotone,3-4-3 plano,Francesco Moriero,1667,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2259723
+5,sáb 22/09/2012,10:00,Virtus Lanciano,Grosseto,4-2-3-1,Francesco Moriero,1850,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2259760
+6,ter 25/09/2012,15:45,Grosseto,Juve Stabia,4-4-2,Francesco Moriero,1538,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2259776
+7,sáb 29/09/2012,10:00,Vicenza,Grosseto,4-4-2 duplo 6,Francesco Moriero,5841,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2260172
+8,sáb 06/10/2012,10:00,Grosseto,Sassuolo,4-2-3-1,Mario Somma,1772,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2259843
+9,dom 14/10/2012,10:00,Verona,Grosseto,5-3-2,Mario Somma,14857,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2259731
+10,sáb 20/10/2012,10:00,Modena,Grosseto,5-4-1 plano,Mario Somma,4951,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2259733
+11,sáb 27/10/2012,11:00,Grosseto,Ternana,5-4-1 plano,Mario Somma,1841,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2259773
+12,ter 30/10/2012,17:45,Cesena,Grosseto,3-5-2 plano,Mario Somma,9014,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2259788
+13,sáb 03/11/2012,12:00,Grosseto,Ascoli,5-3-2,Mario Somma,1255,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2259806
+14,sex 09/11/2012,17:45,Grosseto,Spezia Calcio,5-3-2,Mario Somma,2388,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2260146
+15,sáb 17/11/2012,12:00,Empoli,Grosseto,5-3-2,Mario Somma,2302,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2260013
+16,sáb 24/11/2012,12:00,Grosseto,Brescia,5-4-1 plano,Lamberto Magrini,2148,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2260057
+17,sáb 01/12/2012,12:00,AS Livorno,Grosseto,4-3-3 ofensivo,Lamberto Magrini,3972,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2260082
+18,sáb 08/12/2012,12:00,Grosseto,Pro Vercelli,4-3-1-2,Lamberto Magrini,1445,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2259918
+19,sáb 19/01/2013,11:30,Varese,Grosseto,4-3-1-2,Leonardo Menichini,3106,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2284534
+20,dom 23/12/2012,12:00,Grosseto,Reggina,4-3-1-2,Leonardo Menichini,1566,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2259985
+21,qua 26/12/2012,12:00,Bari,Grosseto,4-4-2,Leonardo Menichini,6801,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2259867
+22,dom 30/12/2012,12:00,Novara Calcio,Grosseto,4-4-2 duplo 6,Leonardo Menichini,4515,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2260112
+23,sáb 26/01/2013,12:00,Grosseto,Cittadella,5-3-2,Leonardo Menichini,1463,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2260109
+24,sáb 02/02/2013,12:00,Grosseto,Padova,5-3-2,Leonardo Menichini,1469,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2260028
+25,sáb 09/02/2013,12:00,Crotone,Grosseto,5-3-2,Leonardo Menichini,3499,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2259993
+26,sáb 16/02/2013,12:00,Grosseto,Virtus Lanciano,4-2-3-1,Francesco Moriero,1490,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2260046
+27,sex 22/02/2013,15:00,Juve Stabia,Grosseto,4-4-2 duplo 6,Francesco Moriero,1865,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2260065
+28,ter 26/02/2013,16:45,Grosseto,Vicenza,4-4-2 duplo 6,Francesco Moriero,1250,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2260192
+29,sáb 02/03/2013,11:00,Sassuolo,Grosseto,4-2-3-1,Francesco Moriero,2981,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2259990
+30,sáb 09/03/2013,11:00,Grosseto,Verona,4-4-2,Francesco Moriero,1776,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2259874
+31,sáb 16/03/2013,11:00,Grosseto,Modena,4-4-2,Francesco Moriero,1267,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2259850
+32,ter 19/03/2013,16:45,Ternana,Grosseto,4-4-2,Francesco Moriero,5132,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2259895
+33,sáb 23/03/2013,14:00,Grosseto,Cesena,4-4-2 duplo 6,Francesco Moriero,1450,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2260116
+34,qui 28/03/2013,16:45,Ascoli,Grosseto,4-4-2,Francesco Moriero,2440,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2260118
+35,sáb 06/04/2013,10:00,Spezia Calcio,Grosseto,4-4-2 duplo 6,Francesco Moriero,5141,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2260160
+36,sex 12/04/2013,14:00,Grosseto,Empoli,4-5-1 plano,Francesco Moriero,1211,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2259997
+37,ter 16/04/2013,15:45,Brescia,Grosseto,4-3-3 defensivo,Francesco Moriero,5500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2260048
+38,sáb 20/04/2013,10:00,Grosseto,AS Livorno,4-2-3-1,Francesco Moriero,645,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2260074
+39,sáb 27/04/2013,10:00,Pro Vercelli,Grosseto,4-2-3-1,Francesco Moriero,1399,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2259911
+40,sáb 04/05/2013,10:00,Grosseto,Varese,4-2-3-1,Francesco Moriero,1163,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2259963
+41,sáb 11/05/2013,10:00,Reggina,Grosseto,4-2-3-1,Francesco Moriero,4035,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2260000
+42,sáb 18/05/2013,09:30,Grosseto,Bari,5-3-2,Francesco Moriero,1254,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2259868

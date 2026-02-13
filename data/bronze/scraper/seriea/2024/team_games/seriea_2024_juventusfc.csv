@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 19/08/2024,15:45,Juventus,Como,4-2-3-1,Thiago Motta,40696,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373910
+2,seg 26/08/2024,15:45,Verona,Juventus,4-2-3-1,Thiago Motta,29575,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373917
+3,dom 01/09/2024,15:45,Juventus,Roma,4-2-3-1,Thiago Motta,41375,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373929
+4,sáb 14/09/2024,13:00,Empoli,Juventus,4-2-3-1,Thiago Motta,15715,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373938
+5,sáb 21/09/2024,13:00,Juventus,Napoli,4-2-3-1,Thiago Motta,40295,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373950
+6,sáb 28/09/2024,13:00,Genoa,Juventus,4-2-3-1,Thiago Motta,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373958
+7,dom 06/10/2024,07:30,Juventus,Cagliari,4-2-3-1,Thiago Motta,40557,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373970
+8,sáb 19/10/2024,15:45,Juventus,Lazio,4-3-3 ofensivo,Thiago Motta,40800,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373980
+9,dom 27/10/2024,14:00,Inter,Juventus,4-2-3-1,Thiago Motta,75056,4:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373988
+10,qua 30/10/2024,16:45,Juventus,Parma,4-3-3 ofensivo,Thiago Motta,40809,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374000
+11,sáb 02/11/2024,14:00,Udinese,Juventus,4-2-3-1,Thiago Motta,24990,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374014
+12,sáb 09/11/2024,16:45,Juventus,Torino,4-2-3-1,Thiago Motta,41066,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374020
+13,sáb 23/11/2024,14:00,Milan,Juventus,4-4-2 duplo 6,Thiago Motta,75502,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374030
+14,dom 01/12/2024,16:45,Lecce,Juventus,4-2-3-1,Thiago Motta,27080,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374039
+15,sáb 07/12/2024,14:00,Juventus,Bologna,4-2-3-1,Thiago Motta,40748,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374050
+16,sáb 14/12/2024,16:45,Juventus,Venezia,4-2-3-1,Thiago Motta,38425,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374059
+17,dom 22/12/2024,16:45,Monza,Juventus,4-2-3-1,Thiago Motta,15479,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374071
+18,dom 29/12/2024,14:00,Juventus,Fiorentina,4-2-3-1,Thiago Motta,41188,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374079
+19,ter 14/01/2025,16:45,Atalanta,Juventus,4-2-3-1,Thiago Motta,22920,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374085
+20,sáb 11/01/2025,14:00,Torino,Juventus,4-2-3-1,Thiago Motta,27014,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374119
+21,sáb 18/01/2025,14:00,Juventus,Milan,4-2-3-1,Thiago Motta,40784,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374129
+22,sáb 25/01/2025,14:00,Napoli,Juventus,4-2-3-1,Thiago Motta,53589,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374138
+23,dom 02/02/2025,08:30,Juventus,Empoli,4-2-3-1,Thiago Motta,40160,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374146
+24,sex 07/02/2025,16:45,Como,Juventus,4-2-3-1,Thiago Motta,10475,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374153
+25,dom 16/02/2025,16:45,Juventus,Inter,4-2-3-1,Thiago Motta,41361,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374166
+26,dom 23/02/2025,16:45,Cagliari,Juventus,4-2-3-1,Thiago Motta,16412,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374172
+27,seg 03/03/2025,16:45,Juventus,Verona,4-2-3-1,Thiago Motta,36215,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374186
+28,dom 09/03/2025,16:45,Juventus,Atalanta,4-2-3-1,Thiago Motta,40266,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374197
+29,dom 16/03/2025,14:00,Fiorentina,Juventus,4-2-3-1,Thiago Motta,22253,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374204
+30,sáb 29/03/2025,14:00,Juventus,Genoa,3-4-2-1,Igor Tudor,40219,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374217
+31,dom 06/04/2025,15:45,Roma,Juventus,3-4-2-1,Igor Tudor,65778,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374230
+32,sáb 12/04/2025,15:45,Juventus,Lecce,3-4-2-1,Igor Tudor,39259,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374237
+33,qua 23/04/2025,13:30,Parma,Juventus,3-4-2-1,Igor Tudor,21108,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374249
+34,dom 27/04/2025,13:00,Juventus,Monza,3-5-2 plano,Igor Tudor,40016,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374257
+35,dom 04/05/2025,15:45,Bologna,Juventus,3-4-1-2,Igor Tudor,30846,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374262
+36,sáb 10/05/2025,13:00,Lazio,Juventus,3-4-2-1,Igor Tudor,60500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374276
+37,dom 18/05/2025,15:45,Juventus,Udinese,4-2-3-1,Igor Tudor,40259,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374287
+38,dom 25/05/2025,15:45,Venezia,Juventus,3-4-2-1,Igor Tudor,12048,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374301

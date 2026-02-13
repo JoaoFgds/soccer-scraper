@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 23/08/2015,15:45,Fiorentina,Milan,3-4-2-1,Paulo Sousa,33904,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2603975
+2,dom 30/08/2015,15:45,Torino,Fiorentina,3-4-2-1,Paulo Sousa,20482,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2603992
+3,sáb 12/09/2015,13:00,Fiorentina,Genoa,4-3-3 ofensivo,Paulo Sousa,30048,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2603995
+4,dom 20/09/2015,13:00,Carpi,Fiorentina,3-4-3 plano,Paulo Sousa,7981,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604006
+5,qua 23/09/2015,15:45,Fiorentina,Bologna,4-3-3 ofensivo,Paulo Sousa,25085,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604023
+6,dom 27/09/2015,15:45,Inter,Fiorentina,3-4-2-1,Paulo Sousa,42687,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604029
+7,dom 04/10/2015,15:45,Fiorentina,Atalanta,3-4-2-1,Paulo Sousa,25644,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604037
+8,dom 18/10/2015,11:00,Napoli,Fiorentina,3-4-2-1,Paulo Sousa,49800,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604050
+9,dom 25/10/2015,15:00,Fiorentina,Roma,3-4-2-1,Paulo Sousa,36297,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604057
+10,qua 28/10/2015,17:45,Verona,Fiorentina,3-4-2-1,Paulo Sousa,18222,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604067
+11,dom 01/11/2015,09:30,Fiorentina,Frosinone,3-4-2-1,Paulo Sousa,27466,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604077
+12,dom 08/11/2015,17:45,Sampdoria,Fiorentina,3-4-2-1,Paulo Sousa,22457,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604091
+13,dom 22/11/2015,12:00,Fiorentina,Empoli,4-3-3 ofensivo,Paulo Sousa,27618,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604097
+14,seg 30/11/2015,16:00,Sassuolo,Fiorentina,3-4-2-1,Paulo Sousa,13633,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604112
+15,dom 06/12/2015,12:00,Fiorentina,Udinese,3-4-2-1,Paulo Sousa,22334,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604117
+16,dom 13/12/2015,17:45,Juventus,Fiorentina,3-4-2-1,Paulo Sousa,38044,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604127
+17,dom 20/12/2015,12:00,Fiorentina,Chievo Verona,3-4-2-1,Paulo Sousa,25156,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604137
+18,qua 06/01/2016,12:00,US Palermo,Fiorentina,3-4-2-1,Paulo Sousa,13928,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604151
+19,sáb 09/01/2016,15:00,Fiorentina,Lazio,3-4-2-1,Paulo Sousa,25361,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604157
+20,dom 17/01/2016,17:45,Milan,Fiorentina,3-4-2-1,Paulo Sousa,28374,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604165
+21,dom 24/01/2016,09:30,Fiorentina,Torino,3-4-2-1,Paulo Sousa,26392,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604182
+22,dom 31/01/2016,12:00,Genoa,Fiorentina,3-4-1-2,Paulo Sousa,20832,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604185
+23,qua 03/02/2016,17:45,Fiorentina,Carpi,3-4-2-1,Paulo Sousa,22791,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604196
+24,sáb 06/02/2016,15:00,Bologna,Fiorentina,3-4-2-1,Paulo Sousa,19591,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604213
+25,dom 14/02/2016,17:45,Fiorentina,Inter,4-2-3-1,Paulo Sousa,30486,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604219
+26,dom 21/02/2016,11:00,Atalanta,Fiorentina,4-2-3-1,Paulo Sousa,15415,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604227
+27,seg 29/02/2016,17:00,Fiorentina,Napoli,4-2-3-1,Paulo Sousa,31469,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604240
+28,sex 04/03/2016,16:45,Roma,Fiorentina,4-4-1-1,Paulo Sousa,36263,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604247
+29,dom 13/03/2016,11:00,Fiorentina,Verona,4-2-3-1,Paulo Sousa,33081,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604257
+30,dom 20/03/2016,11:00,Frosinone,Fiorentina,3-4-2-1,Paulo Sousa,11000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604271
+31,dom 03/04/2016,10:00,Fiorentina,Sampdoria,4-2-3-1,Paulo Sousa,28803,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604281
+32,dom 10/04/2016,07:30,Empoli,Fiorentina,4-2-3-1,Paulo Sousa,9651,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604287
+33,dom 17/04/2016,10:00,Fiorentina,Sassuolo,4-4-1-1,Paulo Sousa,27585,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604302
+34,qua 20/04/2016,15:45,Udinese,Fiorentina,3-4-2-1,Paulo Sousa,18483,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604307
+35,dom 24/04/2016,15:45,Fiorentina,Juventus,3-4-2-1,Paulo Sousa,33650,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604317
+36,sáb 30/04/2016,15:45,Chievo Verona,Fiorentina,3-5-2 plano,Paulo Sousa,9000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604327
+37,dom 08/05/2016,10:00,Fiorentina,US Palermo,4-2-3-1,Paulo Sousa,28090,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604341
+38,dom 15/05/2016,15:45,Lazio,Fiorentina,4-3-3 ofensivo,Paulo Sousa,31108,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604347

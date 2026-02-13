@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 20/09/2020,10:00,Genoa,Crotone,3-5-2 plano,Giovanni Stroppa,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433187
+2,dom 27/09/2020,13:00,Crotone,Milan,3-4-1-2,Giovanni Stroppa,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433197
+3,sáb 03/10/2020,10:00,Sassuolo,Crotone,5-3-2,Giovanni Stroppa,1000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433213
+4,sáb 17/10/2020,15:45,Crotone,Juventus,3-5-2 plano,Giovanni Stroppa,1000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433216
+5,dom 25/10/2020,08:30,Cagliari,Crotone,3-5-2 plano,Giovanni Stroppa,1000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433227
+6,sáb 31/10/2020,11:00,Crotone,Atalanta,3-5-2 plano,Giovanni Stroppa,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433236
+7,dom 08/11/2020,11:00,Torino,Crotone,3-5-2 plano,Giovanni Stroppa,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433254
+8,sáb 21/11/2020,11:00,Crotone,Lazio,3-5-2 plano,Giovanni Stroppa,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433255
+9,dom 29/11/2020,11:00,Bologna,Crotone,3-5-2 plano,Giovanni Stroppa,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433267
+10,dom 06/12/2020,14:00,Crotone,Napoli,3-5-2 plano,Giovanni Stroppa,x,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433275
+11,sáb 12/12/2020,11:00,Crotone,Spezia Calcio,3-5-2 plano,Giovanni Stroppa,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433288
+12,ter 15/12/2020,14:30,Udinese,Crotone,3-5-2 plano,Giovanni Stroppa,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433303
+13,sáb 19/12/2020,14:00,Sampdoria,Crotone,3-5-2 plano,Giovanni Stroppa,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433312
+14,ter 22/12/2020,14:30,Crotone,Parma,3-5-2 plano,Giovanni Stroppa,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433316
+15,dom 03/01/2021,08:30,Inter,Crotone,3-5-2 plano,Giovanni Stroppa,x,6:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433330
+16,qua 06/01/2021,11:00,Crotone,Roma,3-5-2 plano,Giovanni Stroppa,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433338
+17,dom 10/01/2021,11:00,Verona,Crotone,3-5-2 plano,Giovanni Stroppa,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433354
+18,dom 17/01/2021,11:00,Crotone,Benevento,3-4-1-2,Giovanni Stroppa,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433358
+19,sáb 23/01/2021,16:45,Fiorentina,Crotone,3-5-2 plano,Giovanni Stroppa,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433366
+20,dom 31/01/2021,11:00,Crotone,Genoa,3-5-2 plano,Giovanni Stroppa,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433377
+21,dom 07/02/2021,11:00,Milan,Crotone,3-5-2 plano,Giovanni Stroppa,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433387
+22,dom 14/02/2021,14:00,Crotone,Sassuolo,3-5-2 plano,Giovanni Stroppa,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433403
+23,seg 22/02/2021,16:45,Juventus,Crotone,4-4-2 duplo 6,Giovanni Stroppa,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433406
+24,dom 28/02/2021,11:00,Crotone,Cagliari,3-4-2-1,Giovanni Stroppa,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433417
+25,qua 03/03/2021,16:45,Atalanta,Crotone,3-5-2,Serse Cosmi,x,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433426
+26,dom 07/03/2021,11:00,Crotone,Torino,3-5-2 plano,Serse Cosmi,x,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433444
+27,sex 12/03/2021,11:00,Lazio,Crotone,3-5-2 plano,Serse Cosmi,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433445
+28,sáb 20/03/2021,11:00,Crotone,Bologna,3-5-2 plano,Serse Cosmi,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433457
+29,sáb 03/04/2021,10:00,Napoli,Crotone,3-5-2 plano,Serse Cosmi,x,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433465
+30,sáb 10/04/2021,10:00,Spezia Calcio,Crotone,3-5-2 plano,Serse Cosmi,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433478
+31,sáb 17/04/2021,10:00,Crotone,Udinese,3-5-2 plano,Serse Cosmi,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433493
+32,qua 21/04/2021,15:45,Crotone,Sampdoria,3-5-2 plano,Serse Cosmi,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433502
+33,sáb 24/04/2021,13:00,Parma,Crotone,3-5-2 plano,Serse Cosmi,x,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433506
+34,sáb 01/05/2021,13:00,Crotone,Inter,3-5-2 plano,Serse Cosmi,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433520
+35,dom 09/05/2021,13:00,Roma,Crotone,3-5-2 plano,Serse Cosmi,x,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433528
+36,qui 13/05/2021,15:45,Crotone,Verona,3-5-2 plano,Serse Cosmi,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433544
+37,dom 16/05/2021,10:00,Benevento,Crotone,3-4-1-2,Serse Cosmi,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433548
+38,sáb 22/05/2021,15:45,Crotone,Fiorentina,3-5-2 plano,Serse Cosmi,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433556

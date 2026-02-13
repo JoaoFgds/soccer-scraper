@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 30/08/2008,15:30,Sampdoria,Inter,3-5-2 plano,Walter Mazzarri,33975,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/918603
+2,dom 14/09/2008,10:00,Lazio,Sampdoria,3-5-2 plano,Walter Mazzarri,34300,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/924228
+3,dom 21/09/2008,10:00,Sampdoria,Chievo Verona,3-5-2 plano,Walter Mazzarri,21337,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/924782
+4,qua 24/09/2008,15:30,AC Siena,Sampdoria,3-5-2 plano,Walter Mazzarri,8348,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/925633
+5,sáb 27/09/2008,13:00,Sampdoria,Juventus,3-5-2 plano,Walter Mazzarri,27043,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/926039
+6,dom 05/10/2008,10:00,Atalanta,Sampdoria,3-5-2 plano,Walter Mazzarri,12020,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/926353
+7,dom 19/10/2008,11:00,Milan,Sampdoria,5-4-1,Walter Mazzarri,65960,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/926367
+8,dom 26/10/2008,12:00,Sampdoria,Bologna,3-5-2 plano,Walter Mazzarri,21928,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/927692
+9,qua 14/01/2009,17:30,Roma,Sampdoria,3-5-2 plano,Walter Mazzarri,32304,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/927703
+10,dom 02/11/2008,12:00,Sampdoria,Torino,3-5-2 plano,Walter Mazzarri,20511,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/928482
+11,dom 09/11/2008,12:00,Napoli,Sampdoria,3-5-2 plano,Walter Mazzarri,47782,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/928658
+12,dom 16/11/2008,12:00,Sampdoria,Lecce,3-5-2 plano,Walter Mazzarri,21428,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/929571
+13,dom 23/11/2008,12:00,Sampdoria,Catania Calcio,3-5-2 plano,Walter Mazzarri,22100,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/929793
+14,dom 30/11/2008,12:00,Cagliari,Sampdoria,3-5-2 plano,Walter Mazzarri,13400,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/931177
+15,dom 07/12/2008,17:30,Sampdoria,Genoa,3-5-2 plano,Walter Mazzarri,34395,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/931452
+16,dom 14/12/2008,12:00,Reggina,Sampdoria,3-5-2 plano,Walter Mazzarri,11196,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/931911
+17,dom 21/12/2008,12:00,Sampdoria,Fiorentina,3-5-2 plano,Walter Mazzarri,22813,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932272
+18,dom 11/01/2009,12:00,Udinese,Sampdoria,4-4-2,Walter Mazzarri,14356,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932294
+19,dom 18/01/2009,12:00,Sampdoria,US Palermo,3-5-2 plano,Walter Mazzarri,21546,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932312
+20,dom 25/01/2009,17:30,Inter,Sampdoria,3-5-2 plano,Walter Mazzarri,45359,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932317
+21,qua 28/01/2009,17:30,Sampdoria,Lazio,3-5-2 plano,Walter Mazzarri,21299,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932332
+22,dom 01/02/2009,12:15,Chievo Verona,Sampdoria,3-5-2 plano,Walter Mazzarri,10511,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932716
+23,dom 08/02/2009,12:00,Sampdoria,AC Siena,4-3-2-1,Walter Mazzarri,21118,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932422
+24,dom 15/02/2009,11:00,Juventus,Sampdoria,3-5-2 plano,Walter Mazzarri,23066,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932432
+25,dom 22/02/2009,11:00,Sampdoria,Atalanta,3-5-2 plano,Walter Mazzarri,20387,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932410
+26,dom 01/03/2009,11:00,Sampdoria,Milan,3-5-2 plano,Walter Mazzarri,25402,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932396
+27,dom 08/03/2009,11:00,Bologna,Sampdoria,3-5-2 plano,Walter Mazzarri,18417,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932390
+28,dom 15/03/2009,11:00,Sampdoria,Roma,3-5-2 plano,Walter Mazzarri,21430,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932351
+29,dom 22/03/2009,11:00,Torino,Sampdoria,3-5-2 plano,Walter Mazzarri,16034,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932338
+30,dom 05/04/2009,10:00,Sampdoria,Napoli,3-5-2 plano,Walter Mazzarri,21449,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932216
+31,sáb 11/04/2009,10:00,Lecce,Sampdoria,3-5-2 plano,Walter Mazzarri,12232,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932211
+32,dom 19/04/2009,10:00,Catania Calcio,Sampdoria,3-5-2 plano,Walter Mazzarri,17463,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932201
+33,dom 26/04/2009,10:00,Sampdoria,Cagliari,3-5-2 plano,Walter Mazzarri,21598,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932193
+34,dom 03/05/2009,15:30,Genoa,Sampdoria,5-3-2,Walter Mazzarri,32303,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932299
+35,sáb 09/05/2009,13:00,Sampdoria,Reggina,3-5-2 plano,Walter Mazzarri,21907,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932277
+36,dom 17/05/2009,10:00,Fiorentina,Sampdoria,3-5-2 plano,Walter Mazzarri,37825,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932258
+37,dom 24/05/2009,10:00,Sampdoria,Udinese,3-5-2 plano,Walter Mazzarri,21937,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932248
+38,dom 31/05/2009,10:00,US Palermo,Sampdoria,3-5-2 plano,Walter Mazzarri,23246,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932226

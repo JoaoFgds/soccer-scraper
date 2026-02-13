@@ -1,0 +1,41 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/09/2020,14:00,Galatasaray,Gaziantep FK,5-3-2,Marius Șumudică,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426664
+2,dom 20/09/2020,13:00,Gaziantep FK,Karagümrük,5-3-2,Marius Șumudică,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426674
+3,sáb 26/09/2020,10:00,Göztepe,Gaziantep FK,5-3-2,Marius Șumudică,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426685
+4,sex 02/10/2020,14:00,Gaziantep FK,Trabzonspor,5-3-2,Marius Șumudică,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426695
+5,dom 18/10/2020,10:00,Antalyaspor,Gaziantep FK,5-3-2,Marius Șumudică,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426837
+6,sáb 24/10/2020,10:00,Gaziantep FK,Konyaspor,5-3-2,Marius Șumudică,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426847
+7,sáb 31/10/2020,07:30,Genclerbirligi,Gaziantep FK,5-3-2,Marius Șumudică,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426858
+8,sex 06/11/2020,14:00,Gaziantep FK,Besiktas,5-3-2,Marius Șumudică,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426868
+9,sáb 21/11/2020,10:00,Denizlispor,Gaziantep FK,5-3-2,Marius Șumudică,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426879
+10,sáb 28/11/2020,07:30,Gaziantep FK,Y. Malatyaspor,5-3-2,Marius Șumudică,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426889
+12,dom 13/12/2020,13:00,Basaksehir,Gaziantep FK,5-3-2,Marius Șumudică,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426909
+13,sáb 19/12/2020,13:00,Gaziantep FK,Fenerbahce,5-3-2,Marius Șumudică,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426919
+14,qua 23/12/2020,13:00,Kasimpasa,Gaziantep FK,5-3-2,Marius Șumudică,x,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426928
+15,dom 27/12/2020,07:30,Gaziantep FK,Alanyaspor,5-3-2,Marius Șumudică,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426938
+16,sáb 02/01/2021,07:30,BB Erzurumspor,Gaziantep FK,5-3-2,Marius Șumudică,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426940
+17,ter 05/01/2021,10:00,Gaziantep FK,Ankaragücü,5-3-2,Marius Șumudică,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426951
+18,sáb 09/01/2021,07:30,Sivasspor,Gaziantep FK,5-3-2,Marius Șumudică,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426962
+19,sáb 16/01/2021,10:00,Gaziantep FK,Kayserispor,5-3-2,Erdal Güneş,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426973
+20,qua 20/01/2021,10:00,C. Rizespor,Gaziantep FK,5-3-2,Erdal Güneş,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426984
+21,dom 24/01/2021,13:00,Gaziantep FK,Hatayspor,5-3-2,Ricardo Sá Pinto,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426994
+22,sex 29/01/2021,13:00,Gaziantep FK,Galatasaray,5-3-2,Ricardo Sá Pinto,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427005
+23,qua 03/02/2021,10:00,Karagümrük,Gaziantep FK,5-3-2,Ricardo Sá Pinto,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427015
+24,seg 08/02/2021,10:00,Gaziantep FK,Göztepe,5-3-2,Ricardo Sá Pinto,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427026
+25,sáb 13/02/2021,10:00,Trabzonspor,Gaziantep FK,5-4-1 plano,Ricardo Sá Pinto,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427036
+26,dom 21/02/2021,10:00,Gaziantep FK,Antalyaspor,5-3-2,Ricardo Sá Pinto,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427047
+27,sex 26/02/2021,10:00,Konyaspor,Gaziantep FK,5-3-2,Ricardo Sá Pinto,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427057
+28,ter 02/03/2021,10:00,Gaziantep FK,Genclerbirligi,5-4-1 plano,Ricardo Sá Pinto,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427068
+29,sáb 06/03/2021,13:00,Besiktas,Gaziantep FK,5-4-1 plano,Ricardo Sá Pinto,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427078
+30,dom 14/03/2021,10:00,Gaziantep FK,Denizlispor,4-4-2,Ricardo Sá Pinto,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427089
+31,sáb 20/03/2021,10:00,Y. Malatyaspor,Gaziantep FK,4-4-2,Ricardo Sá Pinto,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427099
+33,qui 08/04/2021,10:00,Gaziantep FK,Basaksehir,4-4-2,Rui Mota,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427119
+34,seg 12/04/2021,13:00,Fenerbahce,Gaziantep FK,4-2-3-1,Rui Mota,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427129
+35,dom 18/04/2021,10:00,Gaziantep FK,Kasimpasa,4-4-2,Rui Mota,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427138
+36,qui 22/04/2021,10:00,Alanyaspor,Gaziantep FK,4-4-2,Ricardo Sá Pinto,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427148
+37,dom 25/04/2021,10:00,Gaziantep FK,BB Erzurumspor,4-4-2,Rui Mota,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427150
+38,qui 29/04/2021,14:30,Ankaragücü,Gaziantep FK,5-3-2,Ricardo Sá Pinto,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427161
+39,seg 03/05/2021,14:30,Gaziantep FK,Sivasspor,5-3-2,Ricardo Sá Pinto,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427172
+40,sáb 08/05/2021,14:30,Kayserispor,Gaziantep FK,5-4-1 plano,Ricardo Sá Pinto,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427183
+41,ter 11/05/2021,14:30,Gaziantep FK,C. Rizespor,4-4-2,Ricardo Sá Pinto,x,4:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427194
+42,sáb 15/05/2021,12:00,Hatayspor,Gaziantep FK,5-3-2,Ricardo Sá Pinto,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427204

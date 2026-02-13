@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 31/08/2003,10:00,Juventus,Empoli,4-2-3-1,Marcello Lippi,30962,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/505
+2,dom 14/09/2003,15:30,Chievo Verona,Juventus,4-2-3-1,Marcello Lippi,27500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/717
+3,dom 21/09/2003,15:30,Juventus,Roma,4-3-1-2,Marcello Lippi,43402,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/916
+4,sáb 27/09/2003,13:00,Reggina,Juventus,4-4-1-1,Marcello Lippi,27454,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1109
+5,dom 05/10/2003,10:00,Juventus,Bologna,4-4-2,Marcello Lippi,31493,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1310
+6,sáb 18/10/2003,15:30,Ancona,Juventus,4-4-2,Marcello Lippi,23976,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1508
+7,dom 26/10/2003,12:00,Juventus,Brescia,4-2-3-1,Marcello Lippi,32360,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1709
+8,sáb 01/11/2003,17:30,Milan,Juventus,4-2-3-1,Marcello Lippi,80074,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1905
+9,dom 09/11/2003,12:00,Juventus,Udinese,4-2-3-1,Marcello Lippi,31418,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2107
+10,sáb 22/11/2003,15:00,Modena,Juventus,4-3-1-2,Marcello Lippi,17000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2304
+11,sáb 29/11/2003,17:30,Juventus,Inter,4-4-2 losango,Marcello Lippi,53883,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2504
+12,sáb 06/12/2003,17:30,Lazio,Juventus,4-2-3-1,Marcello Lippi,60000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2703
+13,dom 14/12/2003,12:00,Juventus,AC Parma,3-4-1-2,Marcello Lippi,31768,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2906
+14,dom 21/12/2003,12:00,Lecce,Juventus,3-4-3 plano,Marcello Lippi,30325,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3107
+15,ter 06/01/2004,12:00,Juventus,Perugia,4-3-1-2,Marcello Lippi,42000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3304
+16,dom 11/01/2004,12:00,Sampdoria,Juventus,4-3-1-2,Marcello Lippi,36703,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3497
+17,dom 18/01/2004,12:00,Juventus,AC Siena,4-4-2 losango,Marcello Lippi,30974,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3693
+18,dom 25/01/2004,17:30,Empoli,Juventus,4-4-2 losango,Marcello Lippi,19500,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3858
+19,dom 01/02/2004,12:00,Juventus,Chievo Verona,4-4-2 losango,Marcello Lippi,30078,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4035
+20,dom 08/02/2004,17:30,Roma,Juventus,4-3-1-2,Marcello Lippi,73261,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4228
+21,dom 15/02/2004,16:30,Juventus,Reggina,4-3-1-2,Marcello Lippi,30116,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4417
+22,dom 22/02/2004,11:00,Bologna,Juventus,4-3-1-2,Marcello Lippi,36000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4584
+23,dom 29/02/2004,11:00,Juventus,Ancona,4-3-2-1,Marcello Lippi,29864,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4780
+24,sáb 06/03/2004,16:30,Brescia,Juventus,4-4-2 losango,Marcello Lippi,22000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4977
+25,dom 14/03/2004,16:30,Juventus,Milan,4-4-1-1,Marcello Lippi,52300,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5194
+26,sáb 20/03/2004,14:00,Udinese,Juventus,4-3-2-1,Marcello Lippi,25000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5378
+27,dom 28/03/2004,10:00,Juventus,Modena,4-2-3-1,Marcello Lippi,30666,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5611
+28,dom 04/04/2004,15:30,Inter,Juventus,3-5-2 plano,Marcello Lippi,72027,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5832
+29,sáb 10/04/2004,15:30,Juventus,Lazio,4-4-1-1,Marcello Lippi,31190,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6010
+30,dom 18/04/2004,10:00,AC Parma,Juventus,4-3-2-1,Marcello Lippi,26678,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6225
+31,dom 25/04/2004,10:00,Juventus,Lecce,4-2-3-1,Marcello Lippi,20000,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6436
+32,dom 02/05/2004,10:00,Perugia,Juventus,4-3-1-2,Marcello Lippi,15000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6646
+33,dom 09/05/2004,10:00,Juventus,Sampdoria,4-4-2 duplo 6,Marcello Lippi,31866,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6851
+34,dom 16/05/2004,10:00,AC Siena,Juventus,4-4-2 duplo 6,Marcello Lippi,13500,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7057

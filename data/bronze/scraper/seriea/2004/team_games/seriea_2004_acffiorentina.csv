@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 12/09/2004,10:00,Roma,Fiorentina,4-4-2,Emiliano Mondonico,57724,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27535
+2,dom 19/09/2004,10:00,Fiorentina,Cagliari,4-4-2 duplo 6,Emiliano Mondonico,33361,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27548
+3,qua 22/09/2004,15:30,US Palermo,Fiorentina,4-4-2 duplo 6,Emiliano Mondonico,32642,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27554
+4,dom 26/09/2004,10:00,Fiorentina,Sampdoria,5-3-2,Emiliano Mondonico,31890,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27568
+5,dom 03/10/2004,10:00,Parma,Fiorentina,4-4-2 duplo 6,Emiliano Mondonico,13653,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27574
+6,dom 17/10/2004,10:00,Fiorentina,AC Siena,4-3-1-2,Emiliano Mondonico,34119,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27582
+7,dom 24/10/2004,10:00,Udinese,Fiorentina,3-4-2-1,Emiliano Mondonico,14233,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27590
+8,qua 27/10/2004,15:30,Reggina,Fiorentina,3-4-2-1,Sergio Buso,15279,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27600
+9,dom 31/10/2004,11:00,Fiorentina,Lecce,4-2-3-1,Sergio Buso,30478,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27617
+10,dom 07/11/2004,12:00,Fiorentina,Inter,4-2-3-1,Sergio Buso,43708,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27628
+11,qua 10/11/2004,17:30,Juventus,Fiorentina,5-4-1 plano,Sergio Buso,22983,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27634
+12,dom 14/11/2004,12:00,Fiorentina,AS Livorno,3-4-2-1,Sergio Buso,33143,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27649
+13,dom 28/11/2004,12:00,Messina Peloro,Fiorentina,3-4-2-1,Sergio Buso,26088,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27652
+14,dom 05/12/2004,12:00,Fiorentina,Bologna,4-4-2 duplo 6,Sergio Buso,28130,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27668
+15,dom 12/12/2004,12:00,Milan,Fiorentina,3-5-2 plano,Sergio Buso,69226,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27671
+16,dom 19/12/2004,12:00,Fiorentina,Chievo Verona,3-4-2-1,Sergio Buso,27133,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27683
+17,qui 06/01/2005,12:00,Atalanta,Fiorentina,3-4-2-1,Sergio Buso,13388,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27697
+18,dom 09/01/2005,12:00,Fiorentina,Lazio,3-4-2-1,Sergio Buso,30142,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27708
+19,sáb 15/01/2005,15:00,Brescia,Fiorentina,4-4-2 duplo 6,Sergio Buso,6705,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27718
+20,dom 23/01/2005,17:30,Fiorentina,Roma,4-4-1-1,Sergio Buso,33788,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27725
+21,dom 30/01/2005,12:00,Cagliari,Fiorentina,3-5-2,Dino Zoff,14000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27738
+22,qua 02/02/2005,17:30,Fiorentina,US Palermo,3-5-2,Dino Zoff,29222,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27740
+23,sáb 05/02/2005,15:00,Sampdoria,Fiorentina,4-4-2 duplo 6,Dino Zoff,22108,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27754
+24,dom 13/02/2005,12:00,Fiorentina,Parma,4-3-1-2,Dino Zoff,29490,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27761
+25,dom 20/02/2005,11:00,AC Siena,Fiorentina,3-5-2,Dino Zoff,13166,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27774
+26,sáb 26/02/2005,16:30,Fiorentina,Udinese,3-4-1-2,Dino Zoff,28056,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27780
+27,dom 06/03/2005,11:00,Fiorentina,Reggina,3-5-2,Dino Zoff,29755,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27790
+28,sáb 12/03/2005,14:00,Lecce,Fiorentina,4-4-2 duplo 6,Dino Zoff,14729,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27807
+29,dom 20/03/2005,11:00,Inter,Fiorentina,3-5-2,Dino Zoff,57157,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27815
+30,sáb 09/04/2005,15:30,Fiorentina,Juventus,4-4-2 duplo 6,Dino Zoff,45614,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27824
+31,dom 17/04/2005,10:00,AS Livorno,Fiorentina,4-4-2 duplo 6,Dino Zoff,17552,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27839
+32,qua 20/04/2005,15:30,Fiorentina,Messina Peloro,4-4-2 duplo 6,Dino Zoff,27704,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27843
+33,dom 24/04/2005,10:00,Bologna,Fiorentina,4-4-2 duplo 6,Dino Zoff,15430,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27858
+34,sáb 30/04/2005,15:30,Fiorentina,Milan,4-4-2 duplo 6,Dino Zoff,45909,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27861
+35,dom 08/05/2005,10:00,Chievo Verona,Fiorentina,4-4-2 duplo 6,Dino Zoff,20236,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27879
+36,dom 15/05/2005,10:00,Fiorentina,Atalanta,4-4-2,Dino Zoff,43384,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27887
+37,dom 22/05/2005,10:00,Lazio,Fiorentina,4-4-2 duplo 6,Dino Zoff,45221,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27899
+38,dom 29/05/2005,10:00,Fiorentina,Brescia,4-4-2 duplo 6,Dino Zoff,44808,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/27908

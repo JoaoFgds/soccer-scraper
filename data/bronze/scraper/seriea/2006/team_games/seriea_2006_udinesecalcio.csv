@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 10/09/2006,10:00,Messina Peloro,Udinese,4-3-1-2,Giovanni Galeone,8650,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65176
+2,dom 17/09/2006,10:00,Udinese,Torino,4-3-3 ofensivo,Giovanni Galeone,14555,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65190
+3,qua 20/09/2006,15:30,Sampdoria,Udinese,4-3-3 ofensivo,Giovanni Galeone,18080,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65193
+4,dom 24/09/2006,15:30,Udinese,Fiorentina,4-3-3 ofensivo,Giovanni Galeone,18500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65210
+5,dom 01/10/2006,10:00,Udinese,Ascoli,4-3-3 ofensivo,Giovanni Galeone,14222,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65219
+6,dom 15/10/2006,10:00,Parma,Udinese,4-3-3 ofensivo,Giovanni Galeone,12000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65226
+7,dom 22/10/2006,10:00,Udinese,Inter,4-2-3-1,Giovanni Galeone,22000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65240
+8,qua 25/10/2006,15:30,Empoli,Udinese,4-3-3 ofensivo,Giovanni Galeone,4000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65243
+9,sáb 28/10/2006,13:00,Udinese,Roma,4-3-3 ofensivo,Giovanni Galeone,16466,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65260
+10,dom 05/11/2006,12:00,AS Livorno,Udinese,4-3-3 ofensivo,Giovanni Galeone,7289,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65265
+11,dom 12/11/2006,12:00,Lazio,Udinese,4-4-2 duplo 6,Giovanni Galeone,21356,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65274
+12,dom 19/11/2006,12:00,Udinese,AC Siena,4-4-2,Giovanni Galeone,14153,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65290
+13,sáb 25/11/2006,15:00,Chievo Verona,Udinese,4-4-2 duplo 6,Giovanni Galeone,5765,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65293
+14,dom 03/12/2006,12:00,Udinese,Reggina,4-3-1-2,Giovanni Galeone,14454,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65310
+15,dom 10/12/2006,12:00,Catania Calcio,Udinese,4-4-2 duplo 6,Giovanni Galeone,18221,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65313
+16,sáb 16/12/2006,17:30,Udinese,Cagliari,4-3-3 ofensivo,Giovanni Galeone,14079,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65330
+17,qua 20/12/2006,17:30,Atalanta,Udinese,4-3-3 ofensivo,Giovanni Galeone,10481,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65331
+18,sáb 23/12/2006,12:00,Udinese,Milan,4-4-2,Giovanni Galeone,18369,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65350
+19,dom 14/01/2007,12:00,US Palermo,Udinese,4-3-3 ofensivo,Giovanni Galeone,20913,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65358
+20,dom 21/01/2007,12:00,Udinese,Messina Peloro,3-5-2 plano,Alberto Malesani,13948,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65370
+21,sáb 27/01/2007,15:00,Torino,Udinese,3-5-2 plano,Alberto Malesani,18987,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65380
+22,qua 18/04/2007,12:30,Udinese,Sampdoria,3-5-2 plano,Alberto Malesani,8500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65390
+23,dom 11/02/2007,12:00,Fiorentina,Udinese,3-5-2 plano,Alberto Malesani,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65394
+24,dom 18/02/2007,12:00,Ascoli,Udinese,3-5-2 plano,Alberto Malesani,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65402
+25,dom 25/02/2007,12:00,Udinese,Parma,3-5-2 plano,Alberto Malesani,13652,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65420
+26,qua 28/02/2007,16:30,Inter,Udinese,3-5-2 plano,Alberto Malesani,47500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65430
+27,dom 04/03/2007,11:00,Udinese,Empoli,3-5-2 plano,Alberto Malesani,12900,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65440
+28,dom 11/03/2007,16:30,Roma,Udinese,3-4-3 plano,Alberto Malesani,43500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65447
+29,dom 18/03/2007,12:00,Udinese,AS Livorno,3-5-2 plano,Alberto Malesani,13652,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65460
+30,dom 01/04/2007,15:30,Udinese,Lazio,3-5-2 plano,Alberto Malesani,13400,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65470
+31,sáb 07/04/2007,10:00,AC Siena,Udinese,3-5-2 plano,Alberto Malesani,7000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65480
+32,sáb 14/04/2007,15:30,Udinese,Chievo Verona,3-5-2 plano,Alberto Malesani,13652,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65490
+33,dom 22/04/2007,10:00,Reggina,Udinese,3-5-2,Alberto Malesani,18200,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65498
+34,dom 29/04/2007,10:00,Udinese,Catania Calcio,3-5-2 plano,Alberto Malesani,13652,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65510
+35,dom 06/05/2007,10:00,Cagliari,Udinese,3-5-2 plano,Alberto Malesani,10400,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65512
+36,dom 13/05/2007,10:00,Udinese,Atalanta,3-5-2 plano,Alberto Malesani,13400,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65530
+37,sáb 19/05/2007,13:00,Milan,Udinese,4-3-2-1,Alberto Malesani,51200,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65537
+38,dom 27/05/2007,10:00,Udinese,US Palermo,3-4-3 plano,Alberto Malesani,11400,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65550

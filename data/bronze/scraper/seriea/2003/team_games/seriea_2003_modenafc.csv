@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 31/08/2003,10:00,Inter,Modena,3-4-1-2,Alberto Malesani,61516,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/504
+2,dom 14/09/2003,10:00,Modena,Udinese,3-4-3 plano,Alberto Malesani,16000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/713
+3,sáb 20/09/2003,15:30,Ancona,Modena,3-4-1-2,Alberto Malesani,11472,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/909
+4,dom 28/09/2003,10:00,Modena,Bologna,3-4-1-2,Alberto Malesani,13387,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1113
+5,dom 05/10/2003,10:00,Empoli,Modena,3-4-2-1,Alberto Malesani,5200,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1309
+6,dom 19/10/2003,11:00,Modena,Lecce,3-4-3 plano,Alberto Malesani,15000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1511
+7,dom 26/10/2003,12:00,AC Parma,Modena,5-4-1 plano,Alberto Malesani,25000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1711
+8,dom 02/11/2003,12:00,Modena,Perugia,3-4-1-2,Alberto Malesani,13706,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1912
+9,dom 09/11/2003,12:00,Reggina,Modena,4-3-1-2,Alberto Malesani,10000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2110
+10,sáb 22/11/2003,15:00,Modena,Juventus,5-4-1 plano,Alberto Malesani,17000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2304
+11,dom 30/11/2003,12:00,Milan,Modena,5-4-1 plano,Alberto Malesani,55000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2508
+12,dom 07/12/2003,12:00,Modena,Brescia,3-4-1-2,Alberto Malesani,14573,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2709
+13,dom 14/12/2003,17:30,Roma,Modena,3-5-2 plano,Alberto Malesani,48000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2908
+14,dom 21/12/2003,12:00,Sampdoria,Modena,3-5-2 plano,Alberto Malesani,24085,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3105
+15,ter 06/01/2004,12:00,Modena,Chievo Verona,3-5-2 plano,Alberto Malesani,13870,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3305
+16,dom 11/01/2004,12:00,AC Siena,Modena,3-5-2 plano,Alberto Malesani,10325,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3502
+17,sáb 17/01/2004,15:00,Modena,Lazio,3-4-2-1,Alberto Malesani,13937,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3685
+18,dom 25/01/2004,12:00,Modena,Inter,5-3-2,Alberto Malesani,19000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3857
+19,dom 01/02/2004,12:00,Udinese,Modena,3-4-2-1,Alberto Malesani,15265,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4038
+20,dom 08/02/2004,12:00,Modena,Ancona,3-4-3 plano,Alberto Malesani,15043,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4225
+21,dom 15/02/2004,11:00,Bologna,Modena,3-4-3 plano,Alberto Malesani,24474,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4411
+22,dom 22/02/2004,11:00,Modena,Empoli,5-4-1 plano,Alberto Malesani,13818,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4583
+23,dom 29/02/2004,11:00,Lecce,Modena,3-4-2-1,Alberto Malesani,14606,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4778
+24,sáb 06/03/2004,14:00,Modena,AC Parma,4-4-2,Alberto Malesani,14247,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4976
+25,dom 14/03/2004,11:00,Perugia,Modena,4-4-2 duplo 6,Alberto Malesani,9356,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5190
+26,dom 21/03/2004,11:00,Modena,Reggina,4-4-2,Alberto Malesani,14232,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5393
+27,dom 28/03/2004,10:00,Juventus,Modena,3-5-2,Gianfranco Bellotto,30666,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5611
+28,dom 04/04/2004,10:00,Modena,Milan,3-4-1-2,Gianfranco Bellotto,18575,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5833
+29,sáb 10/04/2004,10:00,Brescia,Modena,3-5-2 plano,Gianfranco Bellotto,11545,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6004
+30,dom 18/04/2004,15:30,Modena,Roma,3-5-2,Gianfranco Bellotto,17000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6226
+31,dom 25/04/2004,10:00,Modena,Sampdoria,3-5-2,Gianfranco Bellotto,17031,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6437
+32,dom 02/05/2004,10:00,Chievo Verona,Modena,3-5-2,Gianfranco Bellotto,13798,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6647
+33,dom 09/05/2004,10:00,Modena,AC Siena,3-4-1-2,Gianfranco Bellotto,15000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6852
+34,dom 16/05/2004,10:00,Lazio,Modena,3-4-3 plano,Gianfranco Bellotto,50000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7058

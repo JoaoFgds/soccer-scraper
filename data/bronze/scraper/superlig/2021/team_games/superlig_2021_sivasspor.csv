@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 16/08/2021,13:15,Sivasspor,Konyaspor,4-1-4-1,Rıza Çalımbay,1796,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612838
+2,seg 23/08/2021,13:15,Trabzonspor,Sivasspor,4-3-3 ofensivo,Rıza Çalımbay,4582,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612846
+3,dom 29/08/2021,13:15,Sivasspor,Göztepe,4-2-3-1,Rıza Çalımbay,2033,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612858
+4,dom 12/09/2021,11:00,Fenerbahce,Sivasspor,4-2-3-1,Rıza Çalımbay,21620,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612870
+5,sáb 18/09/2021,07:30,Sivasspor,Gaziantep FK,4-2-3-1,Rıza Çalımbay,2135,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612878
+6,ter 21/09/2021,14:00,Y. Malatyaspor,Sivasspor,4-2-3-1,Rıza Çalımbay,1868,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612886
+7,sáb 25/09/2021,07:30,Sivasspor,Karagümrük,4-2-3-1,Rıza Çalımbay,2316,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612898
+8,sáb 02/10/2021,13:00,Besiktas,Sivasspor,4-2-3-1,Rıza Çalımbay,6904,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612905
+9,sáb 16/10/2021,10:00,Sivasspor,Antalyaspor,4-4-2 duplo 6,Rıza Çalımbay,2745,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612918
+10,dom 24/10/2021,10:00,Sivasspor,Adana Demirspor,4-1-4-1,Rıza Çalımbay,3715,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612928
+11,sáb 30/10/2021,10:00,Altay SK,Sivasspor,4-1-4-1,Rıza Çalımbay,2049,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612941
+12,sáb 06/11/2021,07:30,Sivasspor,Giresunspor,4-2-3-1,Rıza Çalımbay,1174,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612948
+13,sáb 20/11/2021,10:00,Basaksehir,Sivasspor,4-2-3-1,Rıza Çalımbay,827,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612960
+14,dom 28/11/2021,10:00,Sivasspor,Hatayspor,4-1-4-1,Rıza Çalımbay,3150,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612968
+15,sáb 04/12/2021,07:30,Alanyaspor,Sivasspor,4-1-4-1,Rıza Çalımbay,1149,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612977
+16,seg 13/12/2021,12:00,Sivasspor,Galatasaray,4-1-4-1,Rıza Çalımbay,7618,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612988
+17,sáb 18/12/2021,07:30,Kasimpasa,Sivasspor,4-1-4-1,Rıza Çalımbay,650,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612995
+18,qua 22/12/2021,11:00,Sivasspor,C. Rizespor,4-1-4-1,Rıza Çalımbay,2402,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613008
+19,seg 27/12/2021,14:00,Kayserispor,Sivasspor,4-1-4-1,Rıza Çalımbay,3389,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613018
+20,dom 09/01/2022,07:30,Konyaspor,Sivasspor,4-1-4-1,Rıza Çalımbay,7507,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613028
+21,sáb 15/01/2022,10:00,Sivasspor,Trabzonspor,4-1-4-1,Rıza Çalımbay,4595,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613036
+22,qua 19/01/2022,11:00,Göztepe,Sivasspor,4-1-4-1,Rıza Çalımbay,7968,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613048
+23,sáb 22/01/2022,10:00,Sivasspor,Fenerbahce,4-1-4-1,Rıza Çalımbay,4799,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613060
+24,sáb 05/02/2022,07:30,Gaziantep FK,Sivasspor,4-1-4-1,Rıza Çalımbay,1516,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613068
+25,dom 13/02/2022,07:30,Sivasspor,Y. Malatyaspor,4-1-4-1,Rıza Çalımbay,2669,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613076
+26,dom 20/02/2022,10:00,Karagümrük,Sivasspor,4-1-4-1,Rıza Çalımbay,146,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613088
+27,sáb 26/02/2022,13:00,Sivasspor,Besiktas,4-1-4-1,Rıza Çalımbay,5241,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613095
+28,dom 06/03/2022,13:00,Antalyaspor,Sivasspor,4-1-4-1,Rıza Çalımbay,7137,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613108
+29,dom 13/03/2022,10:00,Adana Demirspor,Sivasspor,4-1-4-1,Rıza Çalımbay,17759,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613118
+30,dom 20/03/2022,07:30,Sivasspor,Altay SK,4-1-4-1,Rıza Çalımbay,3251,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613131
+31,sáb 02/04/2022,07:30,Giresunspor,Sivasspor,4-1-4-1,Rıza Çalımbay,6128,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613138
+32,dom 10/04/2022,10:00,Sivasspor,Basaksehir,4-1-4-1,Rıza Çalımbay,3909,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613150
+33,sáb 16/04/2022,07:30,Hatayspor,Sivasspor,4-1-4-1,Rıza Çalımbay,4125,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613158
+34,seg 25/04/2022,14:30,Sivasspor,Alanyaspor,4-1-4-1,Rıza Çalımbay,3100,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613167
+35,dom 01/05/2022,14:30,Galatasaray,Sivasspor,4-1-4-1,Rıza Çalımbay,28164,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613178
+36,sáb 07/05/2022,10:00,Sivasspor,Kasimpasa,4-2-3-1,Rıza Çalımbay,2722,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613185
+37,seg 16/05/2022,14:00,C. Rizespor,Sivasspor,4-1-4-1,Rıza Çalımbay,836,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613198
+38,sáb 21/05/2022,10:00,Sivasspor,Kayserispor,4-2-3-1,Rıza Çalımbay,2713,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613208

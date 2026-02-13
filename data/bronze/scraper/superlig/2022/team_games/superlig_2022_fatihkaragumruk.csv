@@ -1,0 +1,37 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 07/08/2022,13:15,Karagümrük,Alanyaspor,4-1-4-1,Andrea Pirlo,421,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3854844
+3,dom 21/08/2022,15:45,Besiktas,Karagümrük,4-2-3-1,Andrea Pirlo,33444,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860273
+4,sáb 27/08/2022,13:15,Karagümrük,Ankaragücü,4-1-4-1,Andrea Pirlo,917,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860182
+5,sáb 03/09/2022,13:15,Sivasspor,Karagümrük,4-1-4-1,Andrea Pirlo,3089,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860238
+6,sáb 10/09/2022,14:00,Karagümrük,Giresunspor,4-1-4-1,Andrea Pirlo,850,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860191
+7,dom 18/09/2022,11:00,Basaksehir,Karagümrük,4-3-3 ofensivo,Andrea Pirlo,2350,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860249
+8,seg 03/10/2022,14:00,Karagümrük,Istanbulspor,4-3-3 ofensivo,Andrea Pirlo,353,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860263
+9,dom 09/10/2022,14:00,Fenerbahce,Karagümrük,4-3-3 ofensivo,Andrea Pirlo,39537,5:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860259
+10,sáb 15/10/2022,08:30,Karagümrük,Hatayspor,4-3-3 ofensivo,Andrea Pirlo,1042,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860218
+11,sáb 22/10/2022,08:30,Ümraniyespor,Karagümrük,4-3-3 ofensivo,Andrea Pirlo,1532,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860281
+12,sex 28/10/2022,14:00,Karagümrük,Galatasaray,4-3-3 ofensivo,Andrea Pirlo,8579,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860299
+13,dom 06/11/2022,11:00,Antalyaspor,Karagümrük,4-1-4-1,Andrea Pirlo,8798,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860334
+14,dom 13/11/2022,08:30,Karagümrük,Gaziantep FK,4-1-4-1,Andrea Pirlo,144,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860308
+15,dom 25/12/2022,07:30,Adana Demirspor,Karagümrük,4-1-4-1,Andrea Pirlo,9648,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860294
+16,qua 28/12/2022,14:00,Karagümrük,Trabzonspor,4-1-4-1,Andrea Pirlo,4071,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860344
+17,qua 04/01/2023,11:00,Kayserispor,Karagümrük,4-1-4-1,Andrea Pirlo,2682,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860324
+18,dom 08/01/2023,07:30,Karagümrük,Konyaspor,4-1-4-1,Andrea Pirlo,772,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860326
+19,dom 15/01/2023,10:00,Kasimpasa,Karagümrük,4-1-4-1,Andrea Pirlo,2887,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860358
+20,dom 22/01/2023,10:00,Alanyaspor,Karagümrük,4-1-4-1,Andrea Pirlo,2827,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860362
+22,ter 31/01/2023,14:00,Karagümrük,Besiktas,4-1-4-1,Andrea Pirlo,2611,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860408
+23,sáb 04/02/2023,07:30,Ankaragücü,Karagümrük,4-1-4-1,Andrea Pirlo,6791,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860380
+24,sáb 04/03/2023,07:30,Karagümrük,Sivasspor,4-1-4-1,Andrea Pirlo,584,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860373
+25,sex 10/03/2023,14:00,Giresunspor,Karagümrük,4-1-4-1,Andrea Pirlo,5418,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860511
+26,dom 19/03/2023,10:00,Karagümrük,Basaksehir,4-1-4-1,Andrea Pirlo,568,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860402
+27,seg 03/04/2023,14:30,Istanbulspor,Karagümrük,4-1-4-1,Andrea Pirlo,822,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860497
+28,seg 10/04/2023,14:30,Karagümrük,Fenerbahce,4-1-4-1,Andrea Pirlo,2083,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860394
+29,sáb 15/04/2023,19:00,Hatayspor,Karagümrük,?,,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860461
+30,ter 18/04/2023,14:30,Karagümrük,Ümraniyespor,4-1-4-1,Andrea Pirlo,120,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860470
+31,dom 23/04/2023,13:00,Galatasaray,Karagümrük,4-1-4-1,Andrea Pirlo,44809,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860443
+32,sáb 29/04/2023,10:00,Karagümrük,Antalyaspor,4-3-3 ofensivo,Andrea Pirlo,502,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860487
+33,sáb 06/05/2023,19:00,Gaziantep FK,Karagümrük,?,,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860479
+34,qua 17/05/2023,14:00,Karagümrük,Adana Demirspor,4-1-4-1,Andrea Pirlo,78,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860456
+35,seg 22/05/2023,14:00,Trabzonspor,Karagümrük,4-1-4-1,Andrea Pirlo,7285,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860515
+36,ter 30/05/2023,14:00,Karagümrük,Kayserispor,4-1-4-1,Alparslan Erdem,233,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860531
+37,sáb 03/06/2023,10:00,Konyaspor,Karagümrük,4-1-4-1,Alparslan Erdem,6732,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860425
+38,ter 06/06/2023,11:00,Karagümrük,Kasimpasa,4-1-4-1,Alparslan Erdem,434,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860439

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 21/08/2021,13:00,Pordenone,Perugia,3-5-2 plano,Massimiliano Alvini,915,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3624922
+2,sáb 28/08/2021,15:30,Perugia,Ascoli,3-5-2 plano,Massimiliano Alvini,3400,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3624979
+3,sáb 11/09/2021,09:00,Frosinone,Perugia,3-5-2 plano,Massimiliano Alvini,5594,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3624997
+4,sáb 18/09/2021,09:00,Perugia,Cosenza,3-5-2 plano,Massimiliano Alvini,3500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3638410
+5,qua 22/09/2021,15:30,Cremonese,Perugia,3-5-2 plano,Massimiliano Alvini,3188,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625390
+6,dom 26/09/2021,09:00,Perugia,Alessandria,3-5-2 plano,Massimiliano Alvini,3179,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625403
+7,dom 03/10/2021,15:30,Benevento,Perugia,3-5-2 plano,Massimiliano Alvini,4326,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625406
+8,sáb 16/10/2021,11:15,Perugia,Brescia,3-5-2 plano,Massimiliano Alvini,4369,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625422
+9,sáb 23/10/2021,09:00,Lecce,Perugia,3-5-2 plano,Massimiliano Alvini,6665,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625427
+10,qui 28/10/2021,15:30,Perugia,Reggina,3-5-2 plano,Massimiliano Alvini,4223,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625441
+11,seg 01/11/2021,11:00,SPAL,Perugia,3-5-2 plano,Massimiliano Alvini,5134,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625449
+12,sáb 06/11/2021,10:00,Como,Perugia,3-5-2 plano,Massimiliano Alvini,2471,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625456
+13,sáb 20/11/2021,12:15,Perugia,Crotone,3-5-2 plano,Massimiliano Alvini,3177,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625463
+14,sáb 27/11/2021,14:30,Perugia,Cittadella,3-5-2 plano,Massimiliano Alvini,2544,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625477
+15,ter 30/11/2021,14:00,Pisa,Perugia,3-5-2 plano,Massimiliano Alvini,4127,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625482
+16,sex 03/12/2021,16:30,Perugia,LR Vicenza,3-5-2 plano,Massimiliano Alvini,3114,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625495
+17,dom 12/12/2021,10:00,Parma,Perugia,3-5-2 plano,Massimiliano Alvini,4935,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625500
+18,dom 19/12/2021,12:15,Perugia,Ternana,3-5-2 plano,Massimiliano Alvini,7556,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625513
+19,dom 16/01/2022,12:15,Monza,Perugia,3-5-2 plano,Massimiliano Alvini,2493,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625516
+20,sáb 22/01/2022,12:15,Perugia,Pordenone,3-5-2 plano,Massimiliano Alvini,2798,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3624971
+21,sáb 05/02/2022,14:30,Ascoli,Perugia,3-5-2 plano,Massimiliano Alvini,3374,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3624988
+22,sáb 12/02/2022,12:15,Perugia,Frosinone,3-5-2 plano,Massimiliano Alvini,3497,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625006
+23,ter 15/02/2022,14:30,Cosenza,Perugia,3-5-2 plano,Massimiliano Alvini,1489,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3638429
+24,sáb 19/02/2022,12:15,Perugia,Cremonese,3-5-2 plano,Massimiliano Alvini,4521,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625534
+25,ter 22/02/2022,14:30,Alessandria,Perugia,3-5-2 plano,Massimiliano Alvini,1745,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625547
+26,sáb 26/02/2022,12:15,Perugia,Benevento,3-5-2 plano,Massimiliano Alvini,4130,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625550
+27,ter 01/03/2022,14:30,Brescia,Perugia,3-5-2 plano,Massimiliano Alvini,2924,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625566
+28,dom 06/03/2022,11:30,Perugia,Lecce,3-5-2 plano,Massimiliano Alvini,4663,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625571
+29,sáb 12/03/2022,10:00,Reggina,Perugia,3-5-2 plano,Massimiliano Alvini,3956,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625585
+30,qua 16/03/2022,14:30,Perugia,SPAL,3-5-2 plano,Massimiliano Alvini,3009,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625593
+31,dom 20/03/2022,10:00,Perugia,Como,3-4-2-1,Massimiliano Alvini,3406,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625600
+32,dom 03/04/2022,10:30,Crotone,Perugia,3-4-2-1,Massimiliano Alvini,1877,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625607
+33,qua 06/04/2022,14:00,Cittadella,Perugia,3-5-2 plano,Massimiliano Alvini,1106,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625621
+34,dom 10/04/2022,13:00,Perugia,Pisa,3-4-2-1,Massimiliano Alvini,5042,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625626
+35,seg 18/04/2022,10:00,LR Vicenza,Perugia,3-4-2-1,Massimiliano Alvini,5307,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625639
+36,seg 25/04/2022,15:30,Perugia,Parma,3-5-2 plano,Massimiliano Alvini,4600,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625644
+37,sáb 30/04/2022,09:00,Ternana,Perugia,3-4-2-1,Massimiliano Alvini,10354,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625657
+38,sex 06/05/2022,15:30,Perugia,Monza,3-4-2-1,Massimiliano Alvini,6828,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625660

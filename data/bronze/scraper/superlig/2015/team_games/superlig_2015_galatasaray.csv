@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 15/08/2015,16:00,Sivasspor,Galatasaray,4-2-3-1,Hamza Hamzaoğlu,4250,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2589253
+2,seg 24/08/2015,15:45,Galatasaray,Osmanlispor FK,4-4-2,Hamza Hamzaoğlu,25000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2590407
+3,sáb 29/08/2015,15:15,Konyaspor,Galatasaray,4-2-3-1,Hamza Hamzaoğlu,26792,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2590414
+4,sáb 12/09/2015,14:15,Galatasaray,Mersin IY,4-2-3-1,Hamza Hamzaoğlu,21450,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2590598
+5,sáb 19/09/2015,14:00,Trabzonspor,Galatasaray,4-2-3-1,Hamza Hamzaoğlu,20384,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2590606
+6,sáb 26/09/2015,13:00,Galatasaray,Gaziantepspor,4-2-3-1,Hamza Hamzaoğlu,20012,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2590610
+7,sáb 03/10/2015,13:00,Basaksehir,Galatasaray,4-2-3-1,Hamza Hamzaoğlu,6793,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2590621
+8,sáb 17/10/2015,13:00,Galatasaray,Genclerbirligi,4-2-3-1,Hamza Hamzaoğlu,22825,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2593954
+9,dom 25/10/2015,14:00,Fenerbahce,Galatasaray,4-2-3-1,Hamza Hamzaoğlu,45070,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2593966
+10,qui 29/10/2015,16:45,Galatasaray,Eskisehirspor,4-2-3-1,Hamza Hamzaoğlu,21092,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2593974
+11,sáb 07/11/2015,14:00,C. Rizespor,Galatasaray,4-4-2,Hamza Hamzaoğlu,3340,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2593998
+12,sáb 21/11/2015,16:15,Galatasaray,Antalyaspor,4-2-3-1,Claudio Taffarel,24800,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594003
+13,dom 29/11/2015,16:15,Kasimpasa,Galatasaray,4-2-3-1,Mustafa Denizli,4001,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594015
+14,sex 04/12/2015,16:00,Galatasaray,Bursaspor,4-2-3-1,Mustafa Denizli,21653,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594021
+15,seg 14/12/2015,16:00,Besiktas,Galatasaray,4-2-3-1,Mustafa Denizli,25801,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594031
+16,dom 20/12/2015,12:00,Galatasaray,Akhisar Belediye,4-2-3-1,Mustafa Denizli,19080,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594039
+17,dom 27/12/2015,12:00,Kayserispor,Galatasaray,4-2-3-1,Mustafa Denizli,6463,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594053
+18,sáb 16/01/2016,15:00,Galatasaray,Sivasspor,4-2-3-1,Mustafa Denizli,17740,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594062
+19,sáb 23/01/2016,15:00,Osmanlispor FK,Galatasaray,4-2-3-1,Mustafa Denizli,6238,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2598039
+20,sáb 06/02/2016,15:00,Galatasaray,Konyaspor,4-2-3-1,Mustafa Denizli,16698,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2598056
+21,sáb 13/02/2016,15:00,Mersin IY,Galatasaray,4-2-3-1,Mustafa Denizli,12388,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2606503
+22,dom 21/02/2016,14:00,Galatasaray,Trabzonspor,4-2-3-1,Mustafa Denizli,22208,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2606511
+23,dom 28/02/2016,14:00,Gaziantepspor,Galatasaray,4-2-3-1,Mustafa Denizli,7254,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2606515
+24,dom 06/03/2016,11:00,Galatasaray,Basaksehir,4-2-3-1,Orhan Atik,13985,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2606526
+25,dom 13/03/2016,11:00,Genclerbirligi,Galatasaray,4-2-3-1,Orhan Atik,5418,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2606531
+26,qua 13/04/2016,13:30,Galatasaray,Fenerbahce,4-2-3-1,Jan Olde Riekerink,37748,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2606543
+27,sáb 02/04/2016,13:00,Eskisehirspor,Galatasaray,4-2-3-1,Jan Olde Riekerink,3961,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611241
+28,sáb 09/04/2016,11:00,Galatasaray,C. Rizespor,4-2-3-1,Jan Olde Riekerink,8524,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611255
+29,sáb 16/04/2016,10:00,Antalyaspor,Galatasaray,4-2-3-1,Jan Olde Riekerink,15298,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611260
+30,dom 24/04/2016,10:00,Galatasaray,Kasimpasa,4-2-3-1,Jan Olde Riekerink,6348,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611272
+31,sex 29/04/2016,14:00,Bursaspor,Galatasaray,4-4-2,Jan Olde Riekerink,21630,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611278
+32,dom 08/05/2016,14:00,Galatasaray,Besiktas,4-2-3-1,Jan Olde Riekerink,26189,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611288
+33,dom 15/05/2016,13:00,Akhisar Belediye,Galatasaray,4-2-3-1,Jan Olde Riekerink,2087,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611306
+34,qui 19/05/2016,14:00,Galatasaray,Kayserispor,4-2-3-1,Jan Olde Riekerink,5577,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611320

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 20/09/2020,07:30,Parma,Napoli,4-3-1-2,Fabio Liverani,1000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433191
+2,seg 28/09/2020,15:45,Bologna,Parma,4-3-1-2,Fabio Liverani,1000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433195
+3,dom 04/10/2020,10:00,Parma,Verona,4-3-1-2,Fabio Liverani,1000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433212
+4,dom 18/10/2020,13:00,Udinese,Parma,4-3-1-2,Fabio Liverani,1000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433223
+5,dom 25/10/2020,11:00,Parma,Spezia Calcio,4-3-1-2,Fabio Liverani,1000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433233
+6,sáb 31/10/2020,14:00,Inter,Parma,5-3-2,Fabio Liverani,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433237
+7,sáb 07/11/2020,16:45,Parma,Fiorentina,3-5-2 plano,Fabio Liverani,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433252
+8,dom 22/11/2020,11:00,Roma,Parma,3-5-2 plano,Fabio Liverani,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433260
+9,seg 30/11/2020,16:45,Genoa,Parma,4-3-2-1,Fabio Liverani,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433269
+10,dom 06/12/2020,11:00,Parma,Benevento,4-3-3 ofensivo,Fabio Liverani,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433279
+11,dom 13/12/2020,16:45,Milan,Parma,4-3-3 ofensivo,Fabio Liverani,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433291
+12,qua 16/12/2020,16:45,Parma,Cagliari,4-3-3 ofensivo,Fabio Liverani,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433300
+13,sáb 19/12/2020,16:45,Parma,Juventus,4-3-3 ofensivo,Fabio Liverani,x,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433311
+14,ter 22/12/2020,14:30,Crotone,Parma,4-3-3 ofensivo,Fabio Liverani,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433316
+15,dom 03/01/2021,11:00,Parma,Torino,4-3-3 ofensivo,Fabio Liverani,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433332
+16,qua 06/01/2021,11:00,Atalanta,Parma,4-3-3 ofensivo,Fabio Liverani,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433335
+17,dom 10/01/2021,11:00,Parma,Lazio,4-3-3 ofensivo,Roberto D'Aversa,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433350
+18,dom 17/01/2021,11:00,Sassuolo,Parma,3-4-3 plano,Roberto D'Aversa,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433363
+19,dom 24/01/2021,16:45,Parma,Sampdoria,4-3-1-2,Roberto D'Aversa,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433371
+20,dom 31/01/2021,14:00,Napoli,Parma,4-3-3 ofensivo,Roberto D'Aversa,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433381
+21,dom 07/02/2021,14:00,Parma,Bologna,3-4-3 plano,Roberto D'Aversa,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433385
+22,seg 15/02/2021,16:45,Verona,Parma,4-3-3 ofensivo,Roberto D'Aversa,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433402
+23,dom 21/02/2021,08:30,Parma,Udinese,4-3-3 ofensivo,Roberto D'Aversa,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433413
+24,sáb 27/02/2021,11:00,Spezia Calcio,Parma,4-3-3 ofensivo,Roberto D'Aversa,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433423
+25,qui 04/03/2021,16:45,Parma,Inter,4-3-1-2,Roberto D'Aversa,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433427
+26,dom 07/03/2021,11:00,Fiorentina,Parma,4-3-1-2,Roberto D'Aversa,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433442
+27,dom 14/03/2021,11:00,Parma,Roma,4-3-3 ofensivo,Roberto D'Aversa,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433450
+28,sex 19/03/2021,16:45,Parma,Genoa,4-3-3 ofensivo,Roberto D'Aversa,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433459
+29,sáb 03/04/2021,10:00,Benevento,Parma,4-3-3 ofensivo,Roberto D'Aversa,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433469
+30,sáb 10/04/2021,13:00,Parma,Milan,4-3-3 ofensivo,Roberto D'Aversa,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433481
+31,sáb 17/04/2021,15:45,Cagliari,Parma,4-3-3 ofensivo,Roberto D'Aversa,x,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433490
+32,qua 21/04/2021,15:45,Juventus,Parma,4-3-3 ofensivo,Roberto D'Aversa,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433501
+33,sáb 24/04/2021,13:00,Parma,Crotone,4-3-3 ofensivo,Roberto D'Aversa,x,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433506
+34,seg 03/05/2021,15:45,Torino,Parma,4-3-1-2,Roberto D'Aversa,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433522
+35,dom 09/05/2021,10:00,Parma,Atalanta,4-1-3-2,Roberto D'Aversa,x,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433525
+36,qua 12/05/2021,15:45,Lazio,Parma,3-5-2 plano,Roberto D'Aversa,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433540
+37,dom 16/05/2021,13:00,Parma,Sassuolo,3-5-2 plano,Roberto D'Aversa,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433553
+38,sáb 22/05/2021,15:45,Sampdoria,Parma,3-5-2 plano,Roberto D'Aversa,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433561

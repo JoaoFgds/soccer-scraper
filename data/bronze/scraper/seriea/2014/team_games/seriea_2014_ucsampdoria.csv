@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 31/08/2014,15:45,US Palermo,Sampdoria,4-3-3 ofensivo,Siniša Mihajlović,17064,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478593
+2,dom 14/09/2014,07:30,Sampdoria,Torino,4-3-3 ofensivo,Siniša Mihajlović,21180,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478607
+3,dom 21/09/2014,10:00,Sassuolo,Sampdoria,4-3-3 ofensivo,Siniša Mihajlović,12004,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478615
+4,qua 24/09/2014,15:45,Sampdoria,Chievo Verona,4-4-2 losango,Siniša Mihajlović,19346,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478627
+5,dom 28/09/2014,15:45,Genoa,Sampdoria,4-3-3 ofensivo,Siniša Mihajlović,29800,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478631
+6,dom 05/10/2014,10:00,Sampdoria,Atalanta,4-3-3 ofensivo,Siniša Mihajlović,20050,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478646
+7,dom 19/10/2014,11:00,Cagliari,Sampdoria,4-3-3 ofensivo,Siniša Mihajlović,9426,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478649
+8,sáb 25/10/2014,16:45,Sampdoria,Roma,4-3-3 ofensivo,Siniša Mihajlović,23548,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478666
+9,qua 29/10/2014,17:45,Inter,Sampdoria,4-3-3 ofensivo,Siniša Mihajlović,28057,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478673
+10,dom 02/11/2014,12:00,Sampdoria,Fiorentina,3-4-1-2,Siniša Mihajlović,20822,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478685
+11,sáb 08/11/2014,17:45,Sampdoria,Milan,4-3-3 ofensivo,Siniša Mihajlović,23893,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478696
+12,dom 23/11/2014,12:00,Cesena,Sampdoria,4-3-3 ofensivo,Siniša Mihajlović,16184,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478699
+13,seg 01/12/2014,18:00,Sampdoria,Napoli,4-3-1-2,Siniša Mihajlović,23893,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478716
+14,seg 08/12/2014,18:00,Verona,Sampdoria,4-3-3 ofensivo,Siniša Mihajlović,18390,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478722
+15,dom 14/12/2014,09:30,Juventus,Sampdoria,4-3-1-2,Siniša Mihajlović,39089,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478732
+16,dom 21/12/2014,12:00,Sampdoria,Udinese,4-3-3 ofensivo,Siniša Mihajlović,21413,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478745
+17,seg 05/01/2015,17:45,Lazio,Sampdoria,4-3-1-2,Siniša Mihajlović,31322,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478753
+18,dom 11/01/2015,12:00,Sampdoria,Empoli,4-3-1-2,Siniša Mihajlović,19931,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478765
+19,dom 18/01/2015,12:00,Parma,Sampdoria,4-3-1-2,Siniša Mihajlović,14130,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478776
+20,dom 25/01/2015,12:00,Sampdoria,US Palermo,4-4-2 losango,Siniša Mihajlović,22023,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478783
+21,dom 01/02/2015,12:00,Torino,Sampdoria,4-3-3 ofensivo,Siniša Mihajlović,14401,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478797
+22,dom 08/02/2015,12:00,Sampdoria,Sassuolo,4-3-1-2,Siniša Mihajlović,19710,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478805
+23,dom 15/02/2015,15:00,Chievo Verona,Sampdoria,4-3-1-2,Siniša Mihajlović,12000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478817
+24,ter 24/02/2015,14:30,Sampdoria,Genoa,4-3-1-2,Siniša Mihajlović,30595,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478821
+25,dom 01/03/2015,11:15,Atalanta,Sampdoria,4-3-3 ofensivo,Siniša Mihajlović,16180,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478836
+26,sáb 07/03/2015,14:00,Sampdoria,Cagliari,4-3-3 ofensivo,Siniša Mihajlović,21127,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478839
+27,seg 16/03/2015,17:00,Roma,Sampdoria,4-3-3 ofensivo,Siniša Mihajlović,33250,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478856
+28,dom 22/03/2015,16:45,Sampdoria,Inter,4-3-3 ofensivo,Siniša Mihajlović,22865,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478863
+29,sáb 04/04/2015,13:30,Fiorentina,Sampdoria,4-3-3 ofensivo,Siniša Mihajlović,33777,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478875
+30,dom 12/04/2015,15:45,Milan,Sampdoria,4-2-3-1,Siniša Mihajlović,30735,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478886
+31,sáb 18/04/2015,13:00,Sampdoria,Cesena,4-2-3-1,Siniša Mihajlović,21182,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478889
+32,dom 26/04/2015,15:45,Napoli,Sampdoria,4-2-3-1,Siniša Mihajlović,52299,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478906
+33,qua 29/04/2015,15:45,Sampdoria,Verona,4-3-1-2,Siniša Mihajlović,19609,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478912
+34,sáb 02/05/2015,13:00,Sampdoria,Juventus,4-3-1-2,Siniša Mihajlović,22083,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478922
+35,dom 10/05/2015,10:00,Udinese,Sampdoria,4-3-1-2,Siniša Mihajlović,8492,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478935
+36,sáb 16/05/2015,15:45,Sampdoria,Lazio,4-3-1-2,Siniša Mihajlović,21843,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478943
+37,dom 24/05/2015,07:30,Empoli,Sampdoria,4-3-1-2,Siniša Mihajlović,9084,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478955
+38,dom 31/05/2015,15:45,Sampdoria,Parma,4-3-1-2,Siniša Mihajlović,20913,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478966

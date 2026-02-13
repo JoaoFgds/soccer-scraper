@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 23/08/2013,15:30,Reggina,Bari,3-4-3 plano,Gianluca Atzori,14713,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2358190
+2,sáb 31/08/2013,15:30,Virtus Lanciano,Reggina,3-4-2-1,Gianluca Atzori,2738,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359595
+3,dom 08/09/2013,10:00,Reggina,Juve Stabia,4-3-3 ofensivo,Gianluca Atzori,4667,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2358311
+4,sáb 14/09/2013,10:00,Trapani,Reggina,4-1-4-1,Gianluca Atzori,5316,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359604
+5,sáb 21/09/2013,10:00,Reggina,Novara Calcio,3-5-2 plano,Gianluca Atzori,4061,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359615
+6,ter 24/09/2013,15:30,Varese,Reggina,3-4-3 plano,Gianluca Atzori,2875,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359628
+7,sáb 28/09/2013,10:00,Reggina,Carpi,3-4-3 plano,Gianluca Atzori,3864,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359635
+8,seg 07/10/2013,15:30,Crotone,Reggina,3-4-2-1,Gianluca Atzori,4742,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359644
+9,sáb 12/10/2013,15:30,Reggina,Empoli,3-4-2-1,Gianluca Atzori,4860,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359657
+10,sáb 19/10/2013,10:00,Modena,Reggina,3-5-2 plano,Gianluca Atzori,4544,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359667
+11,sex 25/10/2013,16:30,Reggina,Pescara,3-5-2,Fabrizio Castori,4157,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359680
+12,sex 01/11/2013,12:00,Latina Calcio,Reggina,3-5-2 plano,Gianluca Atzori,5847,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359688
+13,sáb 09/11/2013,12:00,Reggina,Padova,3-5-2 plano,Fabrizio Castori,3778,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359702
+14,sáb 16/11/2013,17:30,Reggina,US Palermo,3-5-2 plano,Fabrizio Castori,5071,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359713
+15,sáb 23/11/2013,12:00,Cittadella,Reggina,3-5-2 plano,Fabrizio Castori,1842,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359720
+16,sáb 30/11/2013,12:00,Reggina,Spezia Calcio,3-5-2 plano,Fabrizio Castori,3614,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359736
+17,sáb 07/12/2013,12:00,Brescia,Reggina,3-5-2 plano,Gianluca Atzori,4500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359739
+18,sex 13/12/2013,17:30,Reggina,AC Siena,3-5-2 plano,Gianluca Atzori,3769,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359757
+19,sáb 21/12/2013,12:00,Cesena,Reggina,3-5-2 plano,Gianluca Atzori,9503,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359764
+20,qui 26/12/2013,12:00,Reggina,AS Avellino,4-3-3 ofensivo,Gianluca Atzori,4203,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359779
+21,dom 29/12/2013,12:00,Ternana,Reggina,3-5-2 plano,Gianluca Atzori,1886,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359793
+22,sáb 25/01/2014,12:00,Bari,Reggina,5-3-2,Francesco Gagliardi,1733,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359801
+23,sáb 01/02/2014,12:00,Reggina,Virtus Lanciano,3-5-2 plano,Francesco Gagliardi,3885,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359815
+24,sáb 08/02/2014,12:00,Juve Stabia,Reggina,5-3-2,Francesco Gagliardi,2609,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359824
+25,sáb 15/02/2014,12:00,Reggina,Trapani,4-4-2,Francesco Gagliardi,5206,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359835
+26,sáb 22/02/2014,11:00,Novara Calcio,Reggina,4-1-4-1,Francesco Gagliardi,4970,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359846
+27,sáb 01/03/2014,11:00,Reggina,Varese,4-1-4-1,Francesco Gagliardi,3840,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359859
+28,sáb 08/03/2014,11:00,Carpi,Reggina,4-1-4-1,Francesco Gagliardi,2525,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359866
+29,sáb 15/03/2014,11:00,Reggina,Crotone,4-1-4-1,Francesco Gagliardi,4876,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359875
+30,sáb 22/03/2014,11:00,Empoli,Reggina,5-4-1 plano,Francesco Gagliardi,2903,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359888
+31,ter 25/03/2014,16:30,Reggina,Modena,4-1-4-1,Francesco Gagliardi,3726,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359898
+32,sáb 29/03/2014,11:00,Pescara,Reggina,4-1-4-1,Francesco Gagliardi,8187,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359911
+33,sáb 05/04/2014,10:00,Reggina,Latina Calcio,5-4-1 plano,Francesco Gagliardi,3886,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359919
+34,dom 13/04/2014,07:30,Padova,Reggina,4-3-1-2,Francesco Gagliardi,5420,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359933
+35,qui 17/04/2014,15:30,US Palermo,Reggina,4-1-4-1,Francesco Gagliardi,12490,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359944
+36,sáb 26/04/2014,10:00,Reggina,Cittadella,3-5-2 plano,Francesco Gagliardi,3630,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359951
+37,sex 02/05/2014,15:30,Spezia Calcio,Reggina,4-1-4-1,Francesco Gagliardi,5665,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359967
+38,sáb 10/05/2014,10:00,Reggina,Brescia,4-1-4-1,Francesco Gagliardi,2000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359970
+39,ter 13/05/2014,15:30,AC Siena,Reggina,4-1-4-1,Francesco Gagliardi,5725,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359988
+40,sáb 17/05/2014,10:00,Reggina,Cesena,5-4-1 plano,Francesco Gagliardi,2000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359995
+41,dom 25/05/2014,15:30,AS Avellino,Reggina,4-1-4-1,Francesco Gagliardi,8000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2360010
+42,sex 30/05/2014,15:30,Reggina,Ternana,5-4-1 plano,Francesco Gagliardi,1000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2360024

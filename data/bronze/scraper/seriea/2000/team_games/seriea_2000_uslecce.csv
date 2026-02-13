@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 01/10/2000,10:00,Perugia,Lecce,4-4-2,Alberto Cavasin,5942,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1153401
+2,dom 15/10/2000,16:30,Lecce,Roma,3-5-2 plano,Alberto Cavasin,18332,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1153415
+3,dom 22/10/2000,11:00,Reggina,Lecce,3-5-2 plano,Alberto Cavasin,23789,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217286
+4,qua 01/11/2000,12:00,Lecce,Napoli,3-1-4-2,Alberto Cavasin,16068,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217291
+5,dom 05/11/2000,12:00,Udinese,Lecce,5-3-2,Alberto Cavasin,18885,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217297
+6,dom 12/11/2000,12:00,Inter,Lecce,3-1-4-2,Alberto Cavasin,52386,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217306
+7,dom 19/11/2000,12:00,Lecce,Bari,3-5-2 plano,Alberto Cavasin,19922,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217315
+8,sáb 25/11/2000,12:00,Atalanta,Lecce,3-5-2 plano,Alberto Cavasin,16088,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217325
+9,dom 03/12/2000,12:00,Lecce,Florenz,3-1-4-2,Alberto Cavasin,12238,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217333
+10,dom 10/12/2000,12:00,Milan,Lecce,3-1-4-2,Alberto Cavasin,45000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217342
+11,dom 17/12/2000,12:00,Lecce,Juventus,3-4-2-1,Alberto Cavasin,26942,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217351
+12,sáb 23/12/2000,12:00,Brescia,Lecce,3-5-2 plano,Alberto Cavasin,12000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217364
+13,dom 07/01/2001,12:00,Lecce,Verona,3-5-2 plano,Alberto Cavasin,15402,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217373
+14,dom 14/01/2001,12:00,Lecce,Vicenza,3-5-2 plano,Alberto Cavasin,12000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217386
+15,dom 21/01/2001,12:00,AC Parma,Lecce,3-1-4-2,Alberto Cavasin,16000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217390
+16,sáb 27/01/2001,12:00,Lecce,Bologna,3-5-2 plano,Alberto Cavasin,14355,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217404
+17,dom 04/02/2001,12:00,Lazio,Lecce,3-5-2 plano,Alberto Cavasin,55000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217405
+18,dom 11/02/2001,12:00,Lecce,Perugia,3-5-2 plano,Alberto Cavasin,12791,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217414
+19,dom 18/02/2001,11:00,Roma,Lecce,4-4-2 duplo 6,Alberto Cavasin,58275,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217426
+20,dom 25/02/2001,11:00,Lecce,Reggina,3-5-2 plano,Alberto Cavasin,13128,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217439
+21,dom 04/03/2001,11:00,Napoli,Lecce,3-5-2 plano,Alberto Cavasin,35000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217444
+22,dom 11/03/2001,11:00,Lecce,Udinese,3-5-2 plano,Alberto Cavasin,12896,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217453
+23,dom 18/03/2001,11:00,Lecce,Inter,5-3-2,Alberto Cavasin,28337,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217459
+24,sáb 31/03/2001,15:30,Bari,Lecce,3-5-2 plano,Alberto Cavasin,10572,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217475
+25,dom 08/04/2001,10:00,Lecce,Atalanta,3-4-1-2,Alberto Cavasin,12324,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217480
+26,sáb 14/04/2001,10:00,Florenz,Lecce,3-5-2 plano,Alberto Cavasin,28000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217493
+27,dom 22/04/2001,10:00,Lecce,Milan,3-5-2 plano,Alberto Cavasin,21642,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217503
+28,dom 29/04/2001,10:00,Juventus,Lecce,3-5-2 plano,Alberto Cavasin,25000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217505
+29,sáb 05/05/2001,15:30,Lecce,Brescia,3-5-2 plano,Alberto Cavasin,18708,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217518
+30,sáb 12/05/2001,10:00,Verona,Lecce,3-5-2 plano,Alberto Cavasin,14595,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217523
+31,sáb 19/05/2001,19:00,Vicenza,Lecce,3-5-2 plano,Alberto Cavasin,15000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217535
+32,dom 27/05/2001,15:30,Lecce,AC Parma,3-4-2-1,Alberto Cavasin,22716,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217542
+33,sáb 09/06/2001,19:00,Bologna,Lecce,5-3-2,Alberto Cavasin,25373,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217552
+34,sáb 16/06/2001,19:00,Lecce,Lazio,5-4-1 plano,Alberto Cavasin,30200,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217562

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 09/09/2006,15:30,Fiorentina,Inter,4-3-2-1,Cesare Prandelli,41334,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65172
+2,dom 17/09/2006,10:00,AS Livorno,Fiorentina,4-2-3-1,Cesare Prandelli,10964,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65186
+3,qua 20/09/2006,15:30,Fiorentina,Parma,4-2-3-1,Cesare Prandelli,28445,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65198
+4,dom 24/09/2006,15:30,Udinese,Fiorentina,4-3-2-1,Cesare Prandelli,18500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65210
+5,dom 01/10/2006,10:00,Fiorentina,Catania Calcio,4-3-3 ofensivo,Cesare Prandelli,28668,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65213
+6,dom 15/10/2006,10:00,Empoli,Fiorentina,4-3-3 ofensivo,Cesare Prandelli,12700,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65222
+7,dom 22/10/2006,10:00,Fiorentina,Reggina,4-3-3 ofensivo,Cesare Prandelli,28900,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65234
+8,qua 25/10/2006,15:30,Torino,Fiorentina,4-3-3 ofensivo,Cesare Prandelli,21000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65250
+9,dom 29/10/2006,11:00,Fiorentina,US Palermo,4-3-3 ofensivo,Cesare Prandelli,34050,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65254
+10,dom 05/11/2006,17:30,Roma,Fiorentina,4-3-2-1,Cesare Prandelli,37585,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65268
+11,sáb 11/11/2006,15:00,Fiorentina,Atalanta,4-3-3 ofensivo,Cesare Prandelli,30337,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65273
+12,dom 19/11/2006,12:00,Ascoli,Fiorentina,4-3-1-2,Cesare Prandelli,9825,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65281
+13,dom 26/11/2006,12:00,AC Siena,Fiorentina,4-3-3 ofensivo,Cesare Prandelli,13606,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65300
+14,dom 03/12/2006,12:00,Fiorentina,Lazio,4-3-3 ofensivo,Cesare Prandelli,30178,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65303
+15,dom 10/12/2006,12:00,Chievo Verona,Fiorentina,4-3-3 ofensivo,Cesare Prandelli,9509,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65314
+16,sáb 16/12/2006,15:00,Fiorentina,Milan,4-3-1-2,Cesare Prandelli,41578,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65323
+17,qua 20/12/2006,17:30,Cagliari,Fiorentina,4-4-2 duplo 6,Cesare Prandelli,7000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65332
+18,sáb 23/12/2006,12:00,Fiorentina,Messina Peloro,4-3-3 ofensivo,Cesare Prandelli,29220,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65343
+19,dom 14/01/2007,12:00,Sampdoria,Fiorentina,4-3-1-2,Cesare Prandelli,21981,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65359
+20,dom 21/01/2007,12:00,Inter,Fiorentina,4-5-1 plano,Cesare Prandelli,61391,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65364
+21,dom 28/01/2007,12:00,Fiorentina,AS Livorno,4-3-2-1,Cesare Prandelli,31423,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65374
+22,qua 18/04/2007,15:30,Parma,Fiorentina,4-3-3 ofensivo,Cesare Prandelli,16500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65387
+23,dom 11/02/2007,12:00,Fiorentina,Udinese,4-3-3 ofensivo,Cesare Prandelli,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65394
+24,dom 18/02/2007,12:00,Catania Calcio,Fiorentina,4-3-3 ofensivo,Cesare Prandelli,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65403
+25,dom 25/02/2007,12:00,Fiorentina,Empoli,4-3-3 ofensivo,Cesare Prandelli,24100,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65415
+26,qua 28/02/2007,11:00,Reggina,Fiorentina,4-3-2-1,Cesare Prandelli,11200,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65423
+27,dom 04/03/2007,11:00,Fiorentina,Torino,4-3-3 ofensivo,Cesare Prandelli,23800,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65434
+28,dom 11/03/2007,11:00,US Palermo,Fiorentina,4-3-3 ofensivo,Cesare Prandelli,22467,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65445
+29,dom 18/03/2007,11:00,Fiorentina,Roma,4-3-3 ofensivo,Cesare Prandelli,23150,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65454
+30,dom 01/04/2007,10:00,Atalanta,Fiorentina,4-3-3 ofensivo,Cesare Prandelli,13400,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65461
+31,sáb 07/04/2007,10:00,Fiorentina,Ascoli,4-3-3 ofensivo,Cesare Prandelli,34100,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65473
+32,dom 15/04/2007,10:00,Fiorentina,AC Siena,4-3-3 ofensivo,Cesare Prandelli,33400,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65483
+33,dom 22/04/2007,10:00,Lazio,Fiorentina,4-3-3 ofensivo,Cesare Prandelli,25723,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65495
+34,sáb 28/04/2007,15:30,Fiorentina,Chievo Verona,4-3-3 ofensivo,Cesare Prandelli,31000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65502
+35,dom 06/05/2007,10:00,Milan,Fiorentina,4-3-3 ofensivo,Cesare Prandelli,52000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65517
+36,dom 13/05/2007,10:00,Fiorentina,Cagliari,4-3-3 ofensivo,Cesare Prandelli,21800,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65523
+37,dom 20/05/2007,10:00,Messina Peloro,Fiorentina,4-3-3 ofensivo,Cesare Prandelli,14700,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65536
+38,dom 27/05/2007,10:00,Fiorentina,Sampdoria,4-3-3 ofensivo,Cesare Prandelli,29200,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65543

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 26/08/2019,15:45,Inter,Lecce,3-5-2 plano,Antonio Conte,64188,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229169
+2,dom 01/09/2019,15:45,Cagliari,Inter,3-5-2 plano,Antonio Conte,16412,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229178
+3,sáb 14/09/2019,15:45,Inter,Udinese,3-4-2-1,Antonio Conte,57991,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229190
+4,sáb 21/09/2019,15:45,Milan,Inter,3-4-1-2,Antonio Conte,70440,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229202
+5,qua 25/09/2019,16:00,Inter,Lazio,3-5-2 plano,Antonio Conte,56175,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229210
+6,sáb 28/09/2019,13:00,Sampdoria,Inter,3-5-2 plano,Antonio Conte,23694,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229223
+7,dom 06/10/2019,15:45,Inter,Juventus,3-5-2 plano,Antonio Conte,75923,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229232
+8,dom 20/10/2019,07:30,Sassuolo,Inter,3-5-2 plano,Antonio Conte,17935,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229244
+9,sáb 26/10/2019,13:00,Inter,Parma,3-5-2 plano,Antonio Conte,67076,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229251
+10,ter 29/10/2019,17:00,Brescia,Inter,3-5-2 plano,Antonio Conte,16500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229256
+11,sáb 02/11/2019,14:00,Bologna,Inter,3-5-2 plano,Antonio Conte,28498,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229267
+12,sáb 09/11/2019,14:00,Inter,Verona,3-5-2 plano,Antonio Conte,66202,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229278
+13,sáb 23/11/2019,16:45,Torino,Inter,3-5-2 plano,Antonio Conte,26059,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229295
+14,dom 01/12/2019,11:00,Inter,SPAL,3-5-2 plano,Antonio Conte,61221,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229301
+15,sex 06/12/2019,16:45,Inter,Roma,3-5-2 plano,Antonio Conte,67008,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229308
+16,dom 15/12/2019,16:45,Fiorentina,Inter,3-5-2 plano,Antonio Conte,37537,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229319
+17,sáb 21/12/2019,14:00,Inter,Genoa,3-5-2 plano,Antonio Conte,57490,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229328
+18,seg 06/01/2020,16:45,Napoli,Inter,3-5-2 plano,Antonio Conte,31191,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229343
+19,sáb 11/01/2020,16:45,Inter,Atalanta,3-5-2 plano,Antonio Conte,70042,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229349
+20,dom 19/01/2020,11:00,Lecce,Inter,3-5-2 plano,Antonio Conte,25966,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229359
+21,dom 26/01/2020,08:30,Inter,Cagliari,3-5-2 plano,Antonio Conte,70465,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229368
+22,dom 02/02/2020,16:45,Udinese,Inter,3-5-2 plano,Antonio Conte,23215,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229380
+23,dom 09/02/2020,16:45,Inter,Milan,3-5-2 plano,Antonio Conte,75817,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229392
+24,dom 16/02/2020,16:45,Lazio,Inter,3-5-2 plano,Antonio Conte,61000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229400
+25,dom 21/06/2020,16:45,Inter,Sampdoria,3-4-1-2,Antonio Conte,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229413
+26,dom 08/03/2020,16:45,Juventus,Inter,3-5-2 plano,Antonio Conte,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229422
+27,qua 24/06/2020,14:30,Inter,Sassuolo,3-4-1-2,Antonio Conte,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229434
+28,dom 28/06/2020,16:45,Parma,Inter,3-4-1-2,Antonio Conte,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229441
+29,qua 01/07/2020,14:30,Inter,Brescia,3-5-2,Antonio Conte,x,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229446
+30,dom 05/07/2020,12:15,Inter,Bologna,3-4-1-2,Antonio Conte,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229457
+31,qui 09/07/2020,16:45,Verona,Inter,3-5-2,Antonio Conte,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229468
+32,seg 13/07/2020,16:45,Inter,Torino,3-4-1-2,Antonio Conte,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229485
+33,qui 16/07/2020,16:45,SPAL,Inter,3-4-1-2,Antonio Conte,x,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229491
+34,dom 19/07/2020,16:45,Roma,Inter,3-4-1-2,Antonio Conte,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229498
+35,qua 22/07/2020,16:45,Inter,Fiorentina,3-5-2 plano,Antonio Conte,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229509
+36,sáb 25/07/2020,14:30,Genoa,Inter,3-4-1-2,Antonio Conte,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229518
+37,ter 28/07/2020,16:45,Inter,Napoli,3-4-1-2,Antonio Conte,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229533
+38,sáb 01/08/2020,15:45,Atalanta,Inter,3-4-1-2,Antonio Conte,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229539

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 20/08/2017,15:45,Crotone,Milan,4-3-3 ofensivo,Vincenzo Montella,13478,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897160
+2,dom 27/08/2017,15:45,Milan,Cagliari,4-3-3 ofensivo,Vincenzo Montella,49525,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897173
+3,dom 10/09/2017,11:00,Lazio,Milan,4-3-3 ofensivo,Vincenzo Montella,34000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897185
+4,dom 17/09/2017,10:00,Milan,Udinese,3-5-2 plano,Vincenzo Montella,49473,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897192
+5,qua 20/09/2017,15:45,Milan,SPAL,3-1-4-2,Vincenzo Montella,45343,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897206
+6,dom 24/09/2017,07:30,Sampdoria,Milan,3-5-2 plano,Vincenzo Montella,21896,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897215
+7,dom 01/10/2017,13:00,Milan,Roma,3-5-2 plano,Vincenzo Montella,61698,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897223
+8,dom 15/10/2017,16:45,Inter,Milan,3-5-2 plano,Vincenzo Montella,78328,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897233
+9,dom 22/10/2017,11:00,Milan,Genoa,3-4-2-1,Vincenzo Montella,47219,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897242
+10,qua 25/10/2017,16:45,Chievo Verona,Milan,4-3-3 ofensivo,Vincenzo Montella,18000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897251
+11,sáb 28/10/2017,14:00,Milan,Juventus,3-4-2-1,Vincenzo Montella,78328,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897261
+12,dom 05/11/2017,17:45,Sassuolo,Milan,3-4-2-1,Vincenzo Montella,12683,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897277
+13,sáb 18/11/2017,17:45,Napoli,Milan,3-4-2-1,Vincenzo Montella,36557,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897282
+14,dom 26/11/2017,12:00,Milan,Torino,3-5-2 plano,Vincenzo Montella,53923,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897562
+15,dom 03/12/2017,09:30,Benevento,Milan,3-4-2-1,Gennaro Gattuso,15710,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897436
+16,dom 10/12/2017,17:45,Milan,Bologna,4-3-3 ofensivo,Gennaro Gattuso,39504,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897451
+17,dom 17/12/2017,09:30,Verona,Milan,4-3-3 ofensivo,Gennaro Gattuso,19439,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897461
+18,sáb 23/12/2017,15:00,Milan,Atalanta,4-3-3 ofensivo,Gennaro Gattuso,45746,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897471
+19,sáb 30/12/2017,09:30,Fiorentina,Milan,4-3-3 ofensivo,Gennaro Gattuso,30213,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897480
+20,sáb 06/01/2018,12:00,Milan,Crotone,4-3-3 ofensivo,Gennaro Gattuso,42533,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897290
+21,dom 21/01/2018,15:00,Cagliari,Milan,4-3-3 ofensivo,Gennaro Gattuso,15235,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897303
+22,dom 28/01/2018,15:00,Milan,Lazio,4-3-3 ofensivo,Gennaro Gattuso,50822,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897315
+23,dom 04/02/2018,12:00,Udinese,Milan,4-3-3 ofensivo,Gennaro Gattuso,23758,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897322
+24,sáb 10/02/2018,12:00,SPAL,Milan,4-3-3 ofensivo,Gennaro Gattuso,13100,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897336
+25,dom 18/02/2018,16:45,Milan,Sampdoria,4-3-3 ofensivo,Gennaro Gattuso,46594,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897345
+26,dom 25/02/2018,16:45,Roma,Milan,4-3-3 ofensivo,Gennaro Gattuso,42537,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897353
+27,qua 04/04/2018,13:30,Milan,Inter,4-3-3 ofensivo,Gennaro Gattuso,77512,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897363
+28,dom 11/03/2018,14:00,Genoa,Milan,4-3-3 ofensivo,Gennaro Gattuso,20004,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897372
+29,dom 18/03/2018,11:00,Milan,Chievo Verona,4-1-4-1,Gennaro Gattuso,49701,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897381
+30,sáb 31/03/2018,15:45,Juventus,Milan,4-3-3 ofensivo,Gennaro Gattuso,41156,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897391
+31,dom 08/04/2018,15:45,Milan,Sassuolo,4-3-3 ofensivo,Gennaro Gattuso,43140,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897407
+32,dom 15/04/2018,10:00,Milan,Napoli,4-3-3 ofensivo,Gennaro Gattuso,65786,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897412
+33,qua 18/04/2018,15:45,Torino,Milan,4-3-3 ofensivo,Gennaro Gattuso,24264,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897493
+34,sáb 21/04/2018,15:45,Milan,Benevento,4-4-2 duplo 6,Gennaro Gattuso,47655,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897496
+35,dom 29/04/2018,10:00,Bologna,Milan,4-3-3 ofensivo,Gennaro Gattuso,24263,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897511
+36,sáb 05/05/2018,13:00,Milan,Verona,4-3-3 ofensivo,Gennaro Gattuso,49644,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897521
+37,dom 13/05/2018,13:00,Atalanta,Milan,4-3-3 ofensivo,Gennaro Gattuso,19833,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897531
+38,dom 20/05/2018,13:00,Milan,Fiorentina,4-3-3 ofensivo,Gennaro Gattuso,56958,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897540

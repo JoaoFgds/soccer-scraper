@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qua 06/11/2002,17:30,Roma,Como,4-5-1,Loris Dominissini,53000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022408
+2,sáb 14/09/2002,13:00,Como,Empoli,4-4-2,Loris Dominissini,7349,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022413
+3,dom 22/09/2002,10:00,AC Parma,Como,4-5-1,Loris Dominissini,15831,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022422
+4,dom 29/09/2002,10:00,Como,Reggina,4-4-2,Loris Dominissini,9195,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022432
+5,dom 06/10/2002,10:00,Juventus,Como,4-5-1,Loris Dominissini,37112,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022441
+6,dom 20/10/2002,10:00,Como,Piacenza,3-5-2 plano,Loris Dominissini,6965,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022454
+7,dom 27/10/2002,11:00,Brescia,Como,4-5-1,Loris Dominissini,13797,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022459
+8,dom 03/11/2002,12:00,Como,Inter,4-5-1 plano,Loris Dominissini,12452,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022472
+9,dom 10/11/2002,12:00,Bologna,Como,4-4-1-1,Loris Dominissini,20193,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022477
+10,dom 17/11/2002,12:00,Como,Lazio,4-4-2,Loris Dominissini,7008,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022490
+11,dom 24/11/2002,12:00,Perugia,Como,4-5-1,Loris Dominissini,6672,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022495
+12,qua 18/12/2002,17:30,Como,Udinese,3-5-2,Eugenio Fascetti,6276,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2317319
+13,dom 08/12/2002,12:15,Modena,Como,3-4-2-1,Eugenio Fascetti,13407,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022513
+14,dom 15/12/2002,12:00,Como,Milan,3-4-3 plano,Eugenio Fascetti,10508,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022523
+15,dom 22/12/2002,12:00,Chievo Verona,Como,3-4-2-1,Eugenio Fascetti,11527,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022530
+16,dom 12/01/2003,12:00,Como,Atalanta,3-5-2,Eugenio Fascetti,6529,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022543
+17,dom 19/01/2003,12:00,Torino,Como,3-5-2,Eugenio Fascetti,12937,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022550
+18,sáb 25/01/2003,17:30,Como,Roma,3-5-2 plano,Eugenio Fascetti,6520,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022556
+19,dom 02/02/2003,12:00,Empoli,Como,3-5-2,Eugenio Fascetti,4773,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022571
+20,dom 09/02/2003,12:00,Como,AC Parma,4-3-2-1,Eugenio Fascetti,6400,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022576
+21,dom 16/02/2003,11:00,Reggina,Como,3-4-1-2,Eugenio Fascetti,23756,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022585
+22,sáb 22/02/2003,14:00,Como,Juventus,4-4-1-1,Eugenio Fascetti,8377,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022591
+23,dom 02/03/2003,11:00,Piacenza,Como,3-5-2,Eugenio Fascetti,7130,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022607
+24,dom 09/03/2003,11:00,Como,Brescia,3-5-2,Eugenio Fascetti,8005,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022612
+25,dom 16/03/2003,11:00,Inter,Como,3-5-2 plano,Eugenio Fascetti,61967,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022625
+26,dom 23/03/2003,11:00,Como,Bologna,3-5-2,Eugenio Fascetti,6355,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022630
+27,dom 06/04/2003,10:00,Lazio,Como,3-5-2 plano,Eugenio Fascetti,33618,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022643
+28,sáb 12/04/2003,13:00,Como,Perugia,3-4-1-2,Eugenio Fascetti,5401,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022645
+29,sáb 19/04/2003,10:00,Udinese,Como,3-5-2 plano,Eugenio Fascetti,14279,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022658
+30,dom 27/04/2003,10:00,Como,Modena,3-5-2,Eugenio Fascetti,6663,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022666
+31,sáb 03/05/2003,10:00,Milan,Como,3-5-2 plano,Eugenio Fascetti,54503,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022675
+32,sáb 10/05/2003,10:00,Como,Chievo Verona,4-4-2 losango,Eugenio Fascetti,5228,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022683
+33,sáb 17/05/2003,10:00,Atalanta,Como,4-4-2,Eugenio Fascetti,14014,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022696
+34,sáb 24/05/2003,10:00,Como,Torino,3-4-1-2,Eugenio Fascetti,5211,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022701

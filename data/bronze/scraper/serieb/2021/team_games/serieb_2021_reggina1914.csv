@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 22/08/2021,13:00,Reggina,Monza,4-4-2,Alfredo Aglietti,5825,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3624923
+2,dom 29/08/2021,15:30,Reggina,Ternana,4-4-2,Alfredo Aglietti,5005,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3624981
+3,sáb 11/09/2021,13:30,Crotone,Reggina,4-4-2,Alfredo Aglietti,2220,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3624996
+4,sáb 18/09/2021,09:00,Reggina,SPAL,4-2-3-1,Alfredo Aglietti,4773,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625387
+5,ter 21/09/2021,15:30,Pordenone,Reggina,4-2-3-1,Alfredo Aglietti,815,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625394
+6,sáb 25/09/2021,11:15,Reggina,Frosinone,4-2-3-1,Alfredo Aglietti,5034,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625404
+7,sáb 02/10/2021,11:15,Pisa,Reggina,4-2-3-1,Alfredo Aglietti,5029,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625412
+8,sáb 16/10/2021,09:00,LR Vicenza,Reggina,4-4-2,Alfredo Aglietti,5251,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625420
+9,dom 24/10/2021,11:15,Reggina,Parma,4-2-3-1,Alfredo Aglietti,8693,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625430
+10,qui 28/10/2021,15:30,Perugia,Reggina,4-4-2,Alfredo Aglietti,4223,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625441
+11,seg 01/11/2021,11:00,Reggina,Cittadella,4-4-2,Alfredo Aglietti,6292,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625448
+12,sex 05/11/2021,16:30,Cosenza,Reggina,4-4-2,Alfredo Aglietti,8506,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3638418
+13,dom 21/11/2021,10:00,Reggina,Cremonese,4-4-2,Alfredo Aglietti,6335,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625466
+14,sáb 27/11/2021,10:00,Benevento,Reggina,4-4-2,Alfredo Aglietti,4088,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625471
+15,ter 30/11/2021,16:30,Reggina,Ascoli,4-3-3 ofensivo,Alfredo Aglietti,4229,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625484
+16,sáb 04/12/2021,12:15,Lecce,Reggina,4-3-3 ofensivo,Alfredo Aglietti,9026,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625494
+17,dom 12/12/2021,16:30,Reggina,Alessandria,4-4-2 duplo 6,Alfredo Aglietti,3913,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625502
+18,sáb 18/12/2021,10:00,Como,Reggina,4-2-3-1,Domenico Toscano,3098,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625509
+19,sáb 15/01/2022,10:00,Reggina,Brescia,4-2-3-1,Domenico Toscano,3408,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625520
+20,sáb 22/01/2022,10:00,Monza,Reggina,4-2-3-1,Domenico Toscano,3387,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3624972
+21,sáb 05/02/2022,10:00,Ternana,Reggina,4-3-2-1,Roberto Stellone,2361,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3624990
+22,sáb 12/02/2022,12:15,Reggina,Crotone,4-2-3-1,Roberto Stellone,5882,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625005
+23,ter 15/02/2022,14:30,SPAL,Reggina,3-5-2 plano,Roberto Stellone,3584,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625531
+24,sáb 19/02/2022,10:00,Reggina,Pordenone,3-5-2 plano,Roberto Stellone,3685,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625538
+25,qua 23/02/2022,14:30,Frosinone,Reggina,3-5-2,Roberto Stellone,4004,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625548
+26,dom 27/02/2022,11:30,Reggina,Pisa,3-5-2 plano,Roberto Stellone,3597,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625556
+27,qua 02/03/2022,14:30,Reggina,LR Vicenza,3-5-2 plano,Roberto Stellone,3401,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625564
+28,sáb 05/03/2022,10:00,Parma,Reggina,3-5-2 plano,Roberto Stellone,6125,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625574
+29,sáb 12/03/2022,10:00,Reggina,Perugia,3-5-2 plano,Roberto Stellone,3956,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625585
+30,ter 15/03/2022,14:30,Cittadella,Reggina,3-5-2 plano,Roberto Stellone,1105,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625592
+31,sáb 19/03/2022,10:00,Reggina,Cosenza,3-5-2 plano,Roberto Stellone,8506,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3638437
+32,sáb 02/04/2022,09:00,Cremonese,Reggina,3-5-2 plano,Roberto Stellone,7255,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625610
+33,ter 05/04/2022,14:00,Reggina,Benevento,3-5-2 plano,Roberto Stellone,4237,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625615
+34,dom 10/04/2022,10:30,Ascoli,Reggina,3-5-2 plano,Roberto Stellone,4891,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625628
+35,seg 18/04/2022,10:00,Reggina,Lecce,4-4-2,Roberto Stellone,3682,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625638
+36,seg 25/04/2022,10:00,Alessandria,Reggina,3-5-2 plano,Roberto Stellone,4783,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625646
+37,sáb 30/04/2022,11:15,Reggina,Como,4-3-3 ofensivo,Roberto Stellone,3832,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625653
+38,sex 06/05/2022,15:30,Brescia,Reggina,3-5-2 plano,Roberto Stellone,3742,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625664

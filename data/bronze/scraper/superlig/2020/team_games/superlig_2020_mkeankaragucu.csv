@@ -1,0 +1,41 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 13/09/2020,11:00,Ankaragücü,BB Erzurumspor,4-4-2 duplo 6,Fuat Çapa,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426659
+3,dom 27/09/2020,10:00,Sivasspor,Ankaragücü,4-2-3-1,Fuat Çapa,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426680
+4,sex 02/10/2020,14:00,Ankaragücü,Kayserispor,4-2-3-1,Fuat Çapa,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426690
+5,sáb 17/10/2020,07:30,C. Rizespor,Ankaragücü,4-1-4-1,Fuat Çapa,x,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426831
+6,ter 15/12/2020,10:00,Ankaragücü,Hatayspor,4-1-4-1,Mustafa Dalcı,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426841
+7,sáb 31/10/2020,13:00,Galatasaray,Ankaragücü,4-4-2 duplo 6,Fuat Çapa,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426851
+8,dom 08/11/2020,07:30,Ankaragücü,Karagümrük,4-4-2 duplo 6,Fuat Çapa,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426861
+9,dom 22/11/2020,10:00,Göztepe,Ankaragücü,4-2-3-1,Fuat Çapa,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426871
+10,sex 27/11/2020,13:30,Ankaragücü,Trabzonspor,4-2-3-1,Mustafa Dalcı,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426881
+11,dom 06/12/2020,10:00,Antalyaspor,Ankaragücü,4-2-3-1,Mustafa Dalcı,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426891
+12,sáb 12/12/2020,13:00,Ankaragücü,Konyaspor,4-2-3-1,Mustafa Dalcı,x,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426901
+13,dom 20/12/2020,07:30,Genclerbirligi,Ankaragücü,4-1-4-1,Mustafa Dalcı,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426911
+14,qui 24/12/2020,13:00,Ankaragücü,Besiktas,4-4-2 duplo 6,Mustafa Dalcı,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426921
+15,dom 27/12/2020,10:00,Denizlispor,Ankaragücü,4-2-3-1,Mustafa Dalcı,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426931
+16,sáb 02/01/2021,10:00,Ankaragücü,Y. Malatyaspor,4-1-4-1,Mustafa Dalcı,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426941
+17,ter 05/01/2021,10:00,Gaziantep FK,Ankaragücü,4-2-3-1,Mustafa Dalcı,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426951
+18,dom 10/01/2021,10:00,Ankaragücü,Basaksehir,4-2-3-1,Mustafa Dalcı,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426961
+19,seg 18/01/2021,13:00,Fenerbahce,Ankaragücü,4-2-3-1,Mustafa Dalcı,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426971
+20,qui 21/01/2021,13:00,Ankaragücü,Kasimpasa,4-2-3-1,Mustafa Dalcı,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426981
+21,seg 25/01/2021,13:00,Alanyaspor,Ankaragücü,4-2-3-1,Mustafa Dalcı,x,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426990
+22,dom 31/01/2021,07:30,BB Erzurumspor,Ankaragücü,4-1-4-1,Mustafa Dalcı,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427000
+24,dom 07/02/2021,10:00,Ankaragücü,Sivasspor,4-2-3-1,Mustafa Dalcı,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427021
+25,sáb 13/02/2021,07:30,Kayserispor,Ankaragücü,4-2-3-1,Hikmet Karaman,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427031
+26,seg 22/02/2021,13:00,Ankaragücü,C. Rizespor,4-1-4-1,Hikmet Karaman,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427041
+27,sáb 27/02/2021,07:30,Hatayspor,Ankaragücü,4-1-4-1,Hikmet Karaman,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427051
+28,qua 03/03/2021,13:00,Ankaragücü,Galatasaray,4-2-3-1,Hikmet Karaman,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427061
+29,dom 07/03/2021,07:30,Karagümrük,Ankaragücü,4-2-3-1,Hikmet Karaman,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427071
+30,dom 14/03/2021,07:30,Ankaragücü,Göztepe,4-2-3-1,Hikmet Karaman,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427081
+31,sáb 20/03/2021,13:00,Trabzonspor,Ankaragücü,4-2-3-1,Hikmet Karaman,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427091
+32,dom 04/04/2021,10:00,Ankaragücü,Antalyaspor,4-2-3-1,Hikmet Karaman,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427101
+33,qua 07/04/2021,10:00,Konyaspor,Ankaragücü,4-2-3-1,Hikmet Karaman,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427111
+34,dom 11/04/2021,10:00,Ankaragücü,Genclerbirligi,4-4-2 duplo 6,Hikmet Karaman,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427121
+35,sex 16/04/2021,13:00,Besiktas,Ankaragücü,4-4-2 duplo 6,Hikmet Karaman,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427131
+36,qua 21/04/2021,10:00,Ankaragücü,Denizlispor,4-2-3-1,Hikmet Karaman,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427141
+37,dom 25/04/2021,07:30,Y. Malatyaspor,Ankaragücü,4-1-4-1,Hikmet Karaman,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427151
+38,qui 29/04/2021,14:30,Ankaragücü,Gaziantep FK,4-2-3-1,Hikmet Karaman,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427161
+39,seg 03/05/2021,10:00,Basaksehir,Ankaragücü,4-2-3-1,Hikmet Karaman,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427171
+40,sáb 08/05/2021,14:30,Ankaragücü,Fenerbahce,4-2-3-1,Hikmet Karaman,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427181
+41,ter 11/05/2021,14:30,Kasimpasa,Ankaragücü,4-2-3-1,Hikmet Karaman,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427191
+42,sáb 15/05/2021,12:00,Ankaragücü,Alanyaspor,4-1-4-1,Hikmet Karaman,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427200

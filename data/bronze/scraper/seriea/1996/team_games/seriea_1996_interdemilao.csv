@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 07/09/1996,15:00,Udinese,Inter,?,Roy Hodgson,30000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214827
+2,dom 15/09/1996,11:00,Inter,Perugia,?,Roy Hodgson,50000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214842
+3,sáb 21/09/1996,15:30,Inter,Lazio,?,Roy Hodgson,52000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214846
+4,dom 29/09/1996,11:00,Atalanta,Inter,4-4-2,Roy Hodgson,23466,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214861
+5,sáb 12/10/1996,16:30,Inter,Piacenza,4-4-2,Roy Hodgson,47090,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214867
+6,dom 20/10/1996,16:30,Juventus,Inter,4-3-1-2,Roy Hodgson,48412,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214878
+7,dom 27/10/1996,11:30,Inter,AC Parma,4-4-2,Roy Hodgson,50124,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214886
+8,dom 03/11/1996,11:30,Verona,Inter,?,Roy Hodgson,33236,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214892
+9,sáb 16/11/1996,11:30,Inter,Florenz,?,Roy Hodgson,61902,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214905
+10,dom 24/11/1996,17:30,Milan,Inter,4-4-2 duplo 6,Roy Hodgson,80742,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214910
+11,sáb 30/11/1996,11:30,Inter,Cagliari,4-3-1-2,Roy Hodgson,43272,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214922
+12,dom 08/12/1996,11:30,Vicenza,Inter,4-4-2,Roy Hodgson,19155,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214927
+13,dom 15/12/1996,11:30,Inter,Sampdoria,4-3-1-2,Roy Hodgson,45251,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214940
+14,dom 22/12/1996,11:30,Reggiana,Inter,4-3-1-2,Roy Hodgson,14786,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214951
+15,dom 05/01/1997,11:30,Inter,Roma,4-3-1-2,Roy Hodgson,43460,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214953
+16,dom 12/01/1997,11:30,Napoli,Inter,4-3-1-2,Roy Hodgson,60206,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214962
+17,dom 19/01/1997,11:30,Inter,Bologna,4-3-1-2,Roy Hodgson,47545,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214971
+18,dom 26/01/1997,11:30,Inter,Udinese,4-3-1-2,Roy Hodgson,41398,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214982
+19,dom 02/02/1997,11:30,Perugia,Inter,4-4-2,Roy Hodgson,27236,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214993
+20,dom 16/02/1997,11:00,Lazio,Inter,4-4-2,Roy Hodgson,44520,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215003
+21,dom 23/02/1997,11:00,Inter,Atalanta,4-3-1-2,Roy Hodgson,54803,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215007
+22,sáb 01/03/1997,16:30,Piacenza,Inter,4-4-2,Roy Hodgson,16104,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215021
+23,dom 09/03/1997,16:30,Inter,Juventus,4-3-1-2,Roy Hodgson,77648,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215025
+24,sáb 15/03/1997,16:30,AC Parma,Inter,4-4-2,Roy Hodgson,24957,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215041
+25,dom 23/03/1997,11:00,Inter,Verona,4-3-1-2,Roy Hodgson,42421,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215048
+26,sáb 05/04/1997,11:00,Florenz,Inter,4-3-1-2,Roy Hodgson,40631,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215056
+27,dom 13/04/1997,15:30,Inter,Milan,4-3-1-2,Roy Hodgson,70996,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215067
+28,sáb 19/04/1997,11:00,Cagliari,Inter,?,Roy Hodgson,26755,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215076
+29,sáb 03/05/1997,11:00,Inter,Vicenza,?,Roy Hodgson,46432,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215080
+30,dom 11/05/1997,11:00,Sampdoria,Inter,4-4-2 losango,Roy Hodgson,30263,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215092
+31,qui 15/05/1997,15:30,Inter,Reggiana,?,Roy Hodgson,37807,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215105
+32,dom 18/05/1997,11:30,Roma,Inter,?,Roy Hodgson,51262,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215114
+33,dom 25/05/1997,11:30,Inter,Napoli,?,Luciano Castellini,44115,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215129
+34,dom 01/06/1997,11:30,Bologna,Inter,?,Luciano Castellini,30398,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215119

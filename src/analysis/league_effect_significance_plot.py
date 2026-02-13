@@ -203,15 +203,34 @@ def create_scatter_plot(
     output_path: str,
     threshold_label: str
 ) -> None:
-    """Create scatter plot with unique marker/color per league."""
+    """Create scatter plot with unique marker/color per league.
+    
+    Optimized for inclusion in Springer LNCS single-column LaTeX documents.
+    Text width ~12.2 cm means the figure is scaled to ~50%, so all font sizes
+    are set large enough to remain readable at the final printed size.
+    """
     plot_df = metrics_df.dropna(subset=['cliffs_delta', 'neg_log_p']).copy()
     
     if len(plot_df) == 0:
         logger.warning(f"No valid data for {comparison_label}")
         return
     
-    fig = plt.figure(figsize=(14, 8))
-    ax = fig.add_axes([0.08, 0.12, 0.55, 0.78])
+    # --- LaTeX-friendly matplotlib settings ---
+    plt.rcParams.update({
+        'font.family': 'serif',
+        'font.serif': ['Computer Modern Roman', 'DejaVu Serif', 'Times New Roman'],
+        'font.size': 13,
+        'axes.labelsize': 16,
+        'axes.titlesize': 16,
+        'xtick.labelsize': 13,
+        'ytick.labelsize': 13,
+        'legend.fontsize': 10,
+        'legend.title_fontsize': 12,
+        'mathtext.fontset': 'cm',
+    })
+    
+    fig = plt.figure(figsize=(10, 7))
+    ax = fig.add_axes([0.10, 0.12, 0.52, 0.82])
     
     league_styles = {}
     for i, league in enumerate(plot_df['league_name'].values):
@@ -226,35 +245,40 @@ def create_scatter_plot(
         ax.scatter(
             row['neg_log_p'], row['cliffs_delta'],
             c=[style['color']], marker=style['marker'],
-            s=120, edgecolors='black', linewidths=0.5, alpha=0.85
+            s=160, edgecolors='black', linewidths=0.6, alpha=0.85
         )
     
     # Reference lines
     p_05_line = -np.log10(0.05)
-    ax.axvline(x=p_05_line, color='red', linestyle='--', alpha=0.5, linewidth=1.5)
-    ax.text(p_05_line + 0.05, ax.get_ylim()[1] * 0.95, 'p = 0.05', 
-            color='red', fontsize=9, alpha=0.7)
+    ax.axvline(x=p_05_line, color='red', linestyle='--', alpha=0.5, linewidth=2.0)
+    ax.text(p_05_line + 0.05, ax.get_ylim()[1] * 0.95, '$p = 0.05$', 
+            color='red', fontsize=12, alpha=0.7)
     ax.axhline(y=0, color='gray', linestyle='-', alpha=0.3, linewidth=1)
     
-    ax.set_xlabel('-log₁₀(p-value)', fontsize=12)
-    ax.set_ylabel("Cliff's Delta", fontsize=12)
-    ax.set_title(
-        f"League Effect Size vs Significance\n({comparison_label} | {threshold_label})",
-        fontsize=14, fontweight='bold'
-    )
+    # Negligible effect threshold lines (Cliff's Delta)
+    negligible_threshold = 0.147
+    ax.axhline(y=negligible_threshold, color='blue', linestyle='--', alpha=0.5, linewidth=2.0)
+    ax.axhline(y=-negligible_threshold, color='blue', linestyle='--', alpha=0.5, linewidth=2.0)
+    xlim = ax.get_xlim()
+    ax.text(xlim[1] * 0.02, negligible_threshold + 0.04, r'$|\delta| < 0.147$: negligible effect', 
+            color='blue', fontsize=11, alpha=0.7, va='bottom')
+    
+    ax.set_xlabel(r'$-\log_{10}(p\text{-value})$', fontsize=16)
+    ax.set_ylabel(r"Cliff's $\delta$", fontsize=16)
+    # No in-figure title — use \caption{} in LaTeX
     ax.set_ylim(-1.1, 1.1)
     ax.grid(True, alpha=0.3, linestyle='-', linewidth=0.5)
     
     # Quadrant labels
     xlim = ax.get_xlim()
     text_x = xlim[1] * 0.85
-    ax.text(text_x, 0.8, 'Worse ranking\n(significant)', fontsize=8, 
+    ax.text(text_x, 0.8, 'Worse ranking\n(significant)', fontsize=11, 
             ha='center', alpha=0.5, style='italic')
-    ax.text(text_x, -0.8, 'Better ranking\n(significant)', fontsize=8, 
+    ax.text(text_x, -0.8, 'Better ranking\n(significant)', fontsize=11, 
             ha='center', alpha=0.5, style='italic')
     
     # Legend
-    legend_ax = fig.add_axes([0.68, 0.12, 0.30, 0.78])
+    legend_ax = fig.add_axes([0.66, 0.12, 0.32, 0.82])
     legend_ax.axis('off')
     
     legend_elements = []
@@ -264,21 +288,24 @@ def create_scatter_plot(
         element = Line2D(
             [0], [0], marker=style['marker'], color='w',
             markerfacecolor=style['color'], markeredgecolor='black',
-            markeredgewidth=0.5, markersize=10, linestyle='None'
+            markeredgewidth=0.6, markersize=11, linestyle='None'
         )
         legend_elements.append(element)
         row = plot_df[plot_df['league_name'] == league].iloc[0]
-        legend_labels.append(f"{league} (δ={row['cliffs_delta']:.2f}, p={row['p_value']:.3f})")
+        legend_labels.append(f"{league} ($\\delta$={row['cliffs_delta']:.2f}, p={row['p_value']:.3f})")
     
     legend_ax.legend(
         legend_elements, legend_labels, loc='upper left',
-        fontsize=8, frameon=True, fancybox=True, shadow=False,
-        title='League (δ, p-value)', title_fontsize=10
+        fontsize=10, frameon=True, fancybox=True, shadow=False,
+        title=r'League ($\delta$, $p$-value)', title_fontsize=12
     )
     
-    plt.savefig(output_path, dpi=150, bbox_inches='tight', facecolor='white')
+    # Save as PNG (300 DPI) and PDF (vector)
+    plt.savefig(output_path, dpi=300, bbox_inches='tight', facecolor='white')
+    pdf_path = output_path.replace('.png', '.pdf')
+    plt.savefig(pdf_path, bbox_inches='tight', facecolor='white')
     plt.close()
-    logger.info(f"Saved plot to {output_path}")
+    logger.info(f"Saved plot to {output_path} and {pdf_path}")
 
 
 def print_summary_statistics(

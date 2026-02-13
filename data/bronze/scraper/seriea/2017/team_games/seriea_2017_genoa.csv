@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 20/08/2017,15:45,Sassuolo,Genoa,3-4-2-1,Ivan Juric,8134,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897166
+2,sáb 26/08/2017,13:00,Genoa,Juventus,3-4-3 plano,Ivan Juric,26296,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897172
+3,dom 10/09/2017,10:00,Udinese,Genoa,3-4-2-1,Ivan Juric,14032,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897187
+4,dom 17/09/2017,15:45,Genoa,Lazio,3-4-2-1,Ivan Juric,19065,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897191
+5,qua 20/09/2017,15:45,Genoa,Chievo Verona,3-4-1-2,Ivan Juric,18376,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897202
+6,dom 24/09/2017,10:00,Inter,Genoa,3-4-2-1,Ivan Juric,50037,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897212
+7,sáb 30/09/2017,15:45,Genoa,Bologna,3-4-3 plano,Ivan Juric,19154,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897221
+8,dom 15/10/2017,11:00,Cagliari,Genoa,3-5-2 plano,Ivan Juric,13981,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897229
+9,dom 22/10/2017,11:00,Milan,Genoa,3-5-2 plano,Ivan Juric,47219,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897242
+10,qua 25/10/2017,16:45,Genoa,Napoli,3-5-2 plano,Ivan Juric,25367,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897253
+11,dom 29/10/2017,12:00,SPAL,Genoa,3-4-2-1,Ivan Juric,12100,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897265
+12,sáb 04/11/2017,17:45,Genoa,Sampdoria,3-4-2-1,Ivan Juric,32288,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897273
+13,dom 19/11/2017,09:30,Crotone,Genoa,3-5-2 plano,Davide Ballardini,9106,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897279
+14,dom 26/11/2017,12:00,Genoa,Roma,3-5-2 plano,Davide Ballardini,20949,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897559
+15,seg 04/12/2017,18:00,Verona,Genoa,3-5-2 plano,Davide Ballardini,14136,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897440
+16,ter 12/12/2017,16:00,Genoa,Atalanta,3-5-2 plano,Davide Ballardini,18281,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897448
+17,dom 17/12/2017,12:00,Fiorentina,Genoa,3-5-2 plano,Davide Ballardini,21043,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897460
+18,sáb 23/12/2017,12:00,Genoa,Benevento,3-5-2 plano,Davide Ballardini,19465,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897468
+19,sáb 30/12/2017,12:00,Torino,Genoa,3-5-2 plano,Davide Ballardini,17039,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897485
+20,sáb 06/01/2018,12:00,Genoa,Sassuolo,3-5-2 plano,Davide Ballardini,18639,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897296
+21,seg 22/01/2018,17:45,Juventus,Genoa,3-5-2 plano,Davide Ballardini,29069,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897302
+22,dom 28/01/2018,12:00,Genoa,Udinese,3-5-2 plano,Davide Ballardini,18896,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897317
+23,seg 05/02/2018,17:45,Lazio,Genoa,3-5-2 plano,Davide Ballardini,27000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897321
+24,dom 11/02/2018,12:00,Chievo Verona,Genoa,3-5-2 plano,Davide Ballardini,8500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897332
+25,sáb 17/02/2018,17:45,Genoa,Inter,3-5-2 plano,Davide Ballardini,22629,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897342
+26,sáb 24/02/2018,14:00,Bologna,Genoa,3-5-2 plano,Davide Ballardini,16383,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897351
+27,ter 03/04/2018,13:30,Genoa,Cagliari,3-5-2 plano,Davide Ballardini,18869,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897359
+28,dom 11/03/2018,14:00,Genoa,Milan,3-5-2 plano,Davide Ballardini,20004,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897372
+29,dom 18/03/2018,16:45,Napoli,Genoa,3-5-2 plano,Davide Ballardini,30059,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897383
+30,sáb 31/03/2018,10:00,Genoa,SPAL,3-5-2 plano,Davide Ballardini,19853,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897395
+31,sáb 07/04/2018,15:45,Sampdoria,Genoa,3-5-2 plano,Davide Ballardini,30117,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897403
+32,sáb 14/04/2018,13:00,Genoa,Crotone,3-5-2,Davide Ballardini,18988,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897409
+33,qua 18/04/2018,15:45,Roma,Genoa,3-5-2 plano,Davide Ballardini,30095,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897490
+34,seg 23/04/2018,15:45,Genoa,Verona,3-5-2,Davide Ballardini,18839,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897500
+35,dom 29/04/2018,10:00,Atalanta,Genoa,3-5-2 plano,Davide Ballardini,18543,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897508
+36,dom 06/05/2018,10:00,Genoa,Fiorentina,3-5-2 plano,Davide Ballardini,20893,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897520
+37,sáb 12/05/2018,13:00,Benevento,Genoa,3-5-2 plano,Davide Ballardini,13616,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897528
+38,dom 20/05/2018,10:00,Genoa,Torino,3-5-2 plano,Davide Ballardini,21034,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897545

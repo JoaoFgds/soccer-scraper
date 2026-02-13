@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 12/08/2018,15:45,Besiktas,Akhisarspor,4-2-3-1,Safet Susic,28312,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069364
+2,dom 19/08/2018,13:15,Akhisarspor,C. Rizespor,4-2-3-1,Safet Susic,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069723
+3,seg 27/08/2018,13:15,Basaksehir,Akhisarspor,4-2-3-1,Safet Susic,1522,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069729
+4,sáb 01/09/2018,13:15,Akhisarspor,Sivasspor,4-2-3-1,Safet Susic,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069738
+5,sáb 15/09/2018,11:00,Ankaragücü,Akhisarspor,4-2-3-1,Safet Susic,1664,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069743
+6,dom 23/09/2018,13:00,Akhisarspor,Galatasaray,4-1-4-1,Cem Kavçak,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069757
+7,sáb 29/09/2018,10:00,Alanyaspor,Akhisarspor,4-2-3-1,Cihat Arslan,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069767
+8,dom 07/10/2018,13:00,Akhisarspor,Trabzonspor,4-2-3-1,Cihat Arslan,8256,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069774
+9,sáb 20/10/2018,07:30,Kasimpasa,Akhisarspor,4-2-3-1,Cihat Arslan,1434,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069780
+10,seg 29/10/2018,14:00,Akhisarspor,Göztepe,4-2-3-1,Cihat Arslan,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069793
+11,sáb 03/11/2018,10:00,Akhisarspor,BB Erzurumspor,4-2-3-1,Cihat Arslan,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069803
+12,dom 11/11/2018,14:00,Antalyaspor,Akhisarspor,3-4-3 plano,Cihat Arslan,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069810
+13,dom 25/11/2018,11:00,Akhisarspor,Bursaspor,3-4-3 plano,Cihat Arslan,,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069820
+14,seg 03/12/2018,15:00,Y. Malatyaspor,Akhisarspor,4-2-3-1,Cihat Arslan,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069827
+15,dom 09/12/2018,14:00,Akhisarspor,Fenerbahce,4-2-3-1,Cihat Arslan,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069834
+16,dom 16/12/2018,11:00,Kayserispor,Akhisarspor,4-2-3-1,Cihat Arslan,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069843
+17,seg 24/12/2018,15:00,Akhisarspor,Konyaspor,4-2-3-1,Cihat Arslan,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069856
+18,sex 18/01/2019,15:30,Akhisarspor,Besiktas,4-1-4-1,Cihat Arslan,10250,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069864
+19,dom 27/01/2019,08:30,C. Rizespor,Akhisarspor,4-1-4-1,Cihat Arslan,7442,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069876
+20,dom 03/02/2019,11:00,Akhisarspor,Basaksehir,4-2-3-1,Recep Umut,8829,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069882
+21,seg 11/02/2019,15:00,Sivasspor,Akhisarspor,4-2-3-1,Cihat Arslan,7437,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069891
+22,sáb 16/02/2019,08:30,Akhisarspor,Ankaragücü,4-2-3-1,Cem Kavçak,4697,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069896
+23,dom 24/02/2019,13:00,Galatasaray,Akhisarspor,4-1-4-1,Cem Kavçak,24507,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069910
+24,seg 04/03/2019,14:00,Akhisarspor,Alanyaspor,4-2-3-1,Cem Kavçak,5431,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069920
+25,sáb 09/03/2019,10:00,Trabzonspor,Akhisarspor,4-1-4-1,Cem Kavçak,13731,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069927
+26,sáb 16/03/2019,10:00,Akhisarspor,Kasimpasa,4-1-4-1,Cem Kavçak,4778,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069933
+27,dom 07/04/2019,10:00,Göztepe,Akhisarspor,4-1-4-1,Cem Kavçak,7812,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069946
+28,seg 15/04/2019,14:00,BB Erzurumspor,Akhisarspor,4-1-4-1,Cem Kavçak,6763,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069956
+29,sáb 20/04/2019,10:00,Akhisarspor,Antalyaspor,4-1-4-1,Cem Kavçak,3588,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069963
+30,dom 28/04/2019,10:00,Bursaspor,Akhisarspor,4-1-4-1,Cem Kavçak,17222,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069973
+31,dom 05/05/2019,10:00,Akhisarspor,Y. Malatyaspor,4-2-3-1,Cem Kavçak,2919,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069980
+32,sáb 11/05/2019,13:00,Fenerbahce,Akhisarspor,4-1-4-1,Cem Kavçak,23368,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069987
+33,dom 19/05/2019,10:00,Akhisarspor,Kayserispor,4-1-4-1,Cem Kavçak,1638,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069996
+34,sáb 25/05/2019,13:00,Konyaspor,Akhisarspor,4-1-4-1,Cem Kavçak,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070009

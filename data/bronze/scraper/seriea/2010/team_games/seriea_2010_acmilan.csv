@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 29/08/2010,15:45,Milan,Lecce,4-3-3 ofensivo,Massimiliano Allegri,37177,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047330
+2,sáb 11/09/2010,15:45,Cesena,Milan,4-3-1-2,Massimiliano Allegri,21058,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047337
+3,sáb 18/09/2010,15:45,Milan,Catania Calcio,4-3-1-2,Massimiliano Allegri,42637,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047346
+4,qua 22/09/2010,15:45,Lazio,Milan,4-3-3 ofensivo,Massimiliano Allegri,41246,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047360
+5,sáb 25/09/2010,13:00,Milan,Genoa,4-3-3 ofensivo,Massimiliano Allegri,41909,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047371
+6,sáb 02/10/2010,15:45,Parma,Milan,4-3-1-2,Massimiliano Allegri,19615,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047380
+7,sáb 16/10/2010,13:00,Milan,Chievo Verona,4-3-1-2,Massimiliano Allegri,49170,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047388
+8,seg 25/10/2010,16:45,Napoli,Milan,4-4-2 duplo 6,Massimiliano Allegri,53909,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047398
+9,sáb 30/10/2010,16:45,Milan,Juventus,4-3-1-2,Massimiliano Allegri,76768,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047411
+10,dom 07/11/2010,12:00,Bari,Milan,4-3-1-2,Massimiliano Allegri,35780,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047425
+11,qua 10/11/2010,17:45,Milan,US Palermo,4-3-1-2,Massimiliano Allegri,38903,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047428
+12,dom 14/11/2010,17:45,Inter,Milan,4-3-1-2,Massimiliano Allegri,80018,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047436
+13,sáb 20/11/2010,17:45,Milan,Fiorentina,4-3-1-2,Massimiliano Allegri,47549,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047452
+14,sáb 27/11/2010,15:00,Sampdoria,Milan,4-3-1-2,Massimiliano Allegri,26820,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047461
+15,sáb 04/12/2010,17:45,Milan,Brescia,4-3-1-2,Massimiliano Allegri,41418,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047472
+16,dom 12/12/2010,09:30,Bologna,Milan,4-3-3 ofensivo,Massimiliano Allegri,24915,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047481
+17,sáb 18/12/2010,17:45,Milan,Roma,4-3-1-2,Massimiliano Allegri,53769,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047494
+18,qui 06/01/2011,12:00,Cagliari,Milan,4-5-1 plano,Massimiliano Allegri,23486,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047499
+19,dom 09/01/2011,12:00,Milan,Udinese,4-3-3 ofensivo,Massimiliano Allegri,39405,4:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047513
+20,dom 16/01/2011,17:45,Lecce,Milan,4-3-1-2,Massimiliano Allegri,15926,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047516
+21,dom 23/01/2011,17:45,Milan,Cesena,4-3-1-2,Massimiliano Allegri,37952,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047526
+22,sáb 29/01/2011,17:45,Catania Calcio,Milan,4-3-1-2,Massimiliano Allegri,16613,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047541
+23,ter 01/02/2011,17:45,Milan,Lazio,4-3-1-2,Massimiliano Allegri,38809,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047549
+24,dom 06/02/2011,12:00,Genoa,Milan,4-3-1-2,Massimiliano Allegri,24134,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047561
+25,sáb 12/02/2011,15:00,Milan,Parma,4-3-1-2,Massimiliano Allegri,46119,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047573
+26,dom 20/02/2011,11:00,Chievo Verona,Milan,4-3-2-1,Massimiliano Allegri,29404,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047581
+27,seg 28/02/2011,16:45,Milan,Napoli,4-3-1-2,Massimiliano Allegri,77276,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047595
+28,sáb 05/03/2011,16:45,Juventus,Milan,4-3-1-2,Massimiliano Allegri,24908,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047604
+29,dom 13/03/2011,08:30,Milan,Bari,4-3-1-2,Massimiliano Allegri,61363,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047609
+30,sáb 19/03/2011,16:45,US Palermo,Milan,4-3-1-2,Massimiliano Allegri,25116,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047618
+31,sáb 02/04/2011,15:45,Milan,Inter,4-3-1-2,Massimiliano Allegri,80074,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047627
+32,dom 10/04/2011,15:45,Fiorentina,Milan,4-3-1-2,Massimiliano Allegri,32677,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047640
+33,sáb 16/04/2011,15:45,Milan,Sampdoria,4-3-1-2,Massimiliano Allegri,60028,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047654
+34,sáb 23/04/2011,14:00,Brescia,Milan,4-3-1-2,Massimiliano Allegri,22123,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047656
+35,dom 01/05/2011,10:00,Milan,Bologna,4-3-1-2,Massimiliano Allegri,74121,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047669
+36,sáb 07/05/2011,15:45,Roma,Milan,4-3-1-2,Massimiliano Allegri,60000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047679
+37,sáb 14/05/2011,15:45,Milan,Cagliari,4-3-1-2,Massimiliano Allegri,80074,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047686
+38,dom 22/05/2011,15:45,Udinese,Milan,4-3-1-2,Massimiliano Allegri,29644,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1047698

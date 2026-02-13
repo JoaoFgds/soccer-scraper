@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 25/08/2013,15:45,Parma,Chievo Verona,4-4-2 duplo 6,Giuseppe Sannino,11276,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2355585
+2,sáb 31/08/2013,13:00,Chievo Verona,Napoli,4-4-2 duplo 6,Giuseppe Sannino,10031,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359218
+3,dom 15/09/2013,10:00,Lazio,Chievo Verona,4-4-2 duplo 6,Giuseppe Sannino,29934,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359228
+4,sáb 21/09/2013,13:00,Chievo Verona,Udinese,4-4-2 duplo 6,Giuseppe Sannino,7800,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359239
+5,ter 24/09/2013,19:00,Chievo Verona,Juventus,5-3-2,Giuseppe Sannino,20000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359246
+6,dom 29/09/2013,10:00,Catania Calcio,Chievo Verona,4-4-2 duplo 6,Giuseppe Sannino,12172,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359257
+7,sáb 05/10/2013,13:00,Chievo Verona,Atalanta,4-4-2,Giuseppe Sannino,6000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359267
+8,dom 20/10/2013,11:00,Genoa,Chievo Verona,3-5-2 plano,Giuseppe Sannino,18563,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359278
+9,sáb 26/10/2013,20:00,Chievo Verona,Fiorentina,4-4-1-1,Giuseppe Sannino,8000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359287
+10,qui 31/10/2013,17:45,Roma,Chievo Verona,3-5-2 plano,Giuseppe Sannino,46052,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359303
+11,seg 04/11/2013,17:45,Bologna,Chievo Verona,5-3-2,Giuseppe Sannino,15800,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359305
+12,dom 10/11/2013,12:00,Chievo Verona,Milan,3-5-2 plano,Giuseppe Sannino,16000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359318
+13,sáb 23/11/2013,15:00,Verona,Chievo Verona,4-5-1 plano,Eugenio Corini,24200,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359326
+14,dom 01/12/2013,12:00,Chievo Verona,AS Livorno,4-1-4-1,Eugenio Corini,6000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359338
+15,dom 08/12/2013,12:00,Sassuolo,Chievo Verona,4-1-4-1,Eugenio Corini,11202,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359353
+16,dom 15/12/2013,12:00,Chievo Verona,Sampdoria,4-3-3 ofensivo,Eugenio Corini,11000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359356
+17,dom 22/12/2013,12:00,Torino,Chievo Verona,5-3-2,Eugenio Corini,18513,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359374
+18,dom 05/01/2014,12:00,Chievo Verona,Cagliari,3-5-2 plano,Eugenio Corini,9000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359376
+19,seg 13/01/2014,18:00,Inter,Chievo Verona,3-5-2 plano,Eugenio Corini,32765,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359389
+20,dom 19/01/2014,12:00,Chievo Verona,Parma,3-5-2 plano,Eugenio Corini,6000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359402
+21,sáb 25/01/2014,15:00,Napoli,Chievo Verona,3-5-2 plano,Eugenio Corini,39157,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359408
+22,dom 02/02/2014,12:00,Chievo Verona,Lazio,3-5-2 plano,Eugenio Corini,5000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359418
+23,sáb 08/02/2014,15:00,Udinese,Chievo Verona,3-5-2 plano,Eugenio Corini,12097,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359429
+24,dom 16/02/2014,11:00,Juventus,Chievo Verona,3-5-2 plano,Eugenio Corini,38812,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359436
+25,dom 23/02/2014,11:00,Chievo Verona,Catania Calcio,4-3-1-2,Eugenio Corini,5000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359447
+26,dom 02/03/2014,11:00,Atalanta,Chievo Verona,4-3-1-2,Eugenio Corini,12091,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359457
+27,dom 09/03/2014,11:00,Chievo Verona,Genoa,4-3-1-2,Eugenio Corini,5000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359468
+28,dom 16/03/2014,16:45,Fiorentina,Chievo Verona,4-3-1-2,Eugenio Corini,27767,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359477
+29,sáb 22/03/2014,16:45,Chievo Verona,Roma,4-3-3 ofensivo,Eugenio Corini,10000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359493
+30,qua 26/03/2014,16:45,Chievo Verona,Bologna,4-3-1-2,Eugenio Corini,11000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359495
+31,sáb 29/03/2014,16:45,Milan,Chievo Verona,5-3-2,Eugenio Corini,34989,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359508
+32,sáb 05/04/2014,13:00,Chievo Verona,Verona,4-3-1-2,Eugenio Corini,15000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359516
+33,dom 13/04/2014,10:00,AS Livorno,Chievo Verona,4-3-1-2,Eugenio Corini,13540,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359528
+34,sáb 19/04/2014,10:00,Chievo Verona,Sassuolo,4-3-1-2,Eugenio Corini,10000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359543
+35,dom 27/04/2014,10:00,Sampdoria,Chievo Verona,4-3-1-2,Eugenio Corini,20253,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359546
+36,dom 04/05/2014,10:00,Chievo Verona,Torino,5-3-2,Eugenio Corini,8000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359564
+37,dom 11/05/2014,10:00,Cagliari,Chievo Verona,4-3-1-2,Eugenio Corini,4500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359566
+38,dom 18/05/2014,15:45,Chievo Verona,Inter,3-4-2-1,Eugenio Corini,15000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359579

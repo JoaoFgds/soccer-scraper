@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 14/08/2022,13:30,Fiorentina,Cremonese,3-4-1-2,Massimiliano Alvini,34461,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844736
+2,seg 22/08/2022,13:30,Roma,Cremonese,3-4-1-2,Massimiliano Alvini,60859,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844751
+3,sáb 27/08/2022,13:30,Cremonese,Torino,3-4-1-2,Massimiliano Alvini,11572,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844756
+4,ter 30/08/2022,15:45,Inter,Cremonese,3-5-2,Massimiliano Alvini,70750,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844769
+5,dom 04/09/2022,07:30,Cremonese,Sassuolo,3-4-1-2,Massimiliano Alvini,9105,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844776
+6,dom 11/09/2022,07:30,Atalanta,Cremonese,3-4-1-2,Massimiliano Alvini,18252,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844786
+7,dom 18/09/2022,10:00,Cremonese,Lazio,3-4-1-2,Massimiliano Alvini,12991,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844797
+8,dom 02/10/2022,10:00,Lecce,Cremonese,4-2-3-1,Massimiliano Alvini,23377,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844812
+9,dom 09/10/2022,13:00,Cremonese,Napoli,4-2-3-1,Massimiliano Alvini,14238,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844817
+10,dom 16/10/2022,10:00,Spezia Calcio,Cremonese,4-2-3-1,Massimiliano Alvini,8400,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844834
+11,seg 24/10/2022,13:30,Cremonese,Sampdoria,3-4-1-2,Massimiliano Alvini,13021,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844838
+12,dom 30/10/2022,11:00,Cremonese,Udinese,3-4-1-2,Massimiliano Alvini,12810,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844846
+13,sáb 05/11/2022,11:00,Salernitana,Cremonese,3-4-1-2,Massimiliano Alvini,16780,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844863
+14,ter 08/11/2022,16:45,Cremonese,Milan,3-5-2 plano,Massimiliano Alvini,14758,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844866
+15,sex 11/11/2022,16:45,Empoli,Cremonese,3-4-2-1,Massimiliano Alvini,8077,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844878
+16,qua 04/01/2023,14:30,Cremonese,Juventus,3-5-2,Massimiliano Alvini,14896,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844886
+17,seg 09/01/2023,14:30,Verona,Cremonese,3-4-2-1,Massimiliano Alvini,15062,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844898
+18,sáb 14/01/2023,11:00,Cremonese,Monza,3-4-2-1,Massimiliano Alvini,11519,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844907
+19,seg 23/01/2023,14:30,Bologna,Cremonese,3-5-2 plano,Davide Ballardini,15587,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844916
+20,sáb 28/01/2023,14:00,Cremonese,Inter,3-5-2 plano,Davide Ballardini,14554,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844928
+21,sáb 04/02/2023,11:00,Cremonese,Lecce,3-5-2 plano,Davide Ballardini,11189,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844936
+22,dom 12/02/2023,16:45,Napoli,Cremonese,3-5-2 plano,Davide Ballardini,50250,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844953
+23,seg 20/02/2023,16:45,Torino,Cremonese,3-5-2 plano,Davide Ballardini,19095,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844965
+24,ter 28/02/2023,14:30,Cremonese,Roma,3-4-3 plano,Davide Ballardini,11367,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844967
+25,seg 06/03/2023,14:30,Sassuolo,Cremonese,3-4-3 plano,Davide Ballardini,11587,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844983
+26,dom 12/03/2023,11:00,Cremonese,Fiorentina,3-5-2 plano,Davide Ballardini,11506,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844987
+27,sáb 18/03/2023,11:00,Monza,Cremonese,3-5-2 plano,Davide Ballardini,12797,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845000
+28,sáb 01/04/2023,10:00,Cremonese,Atalanta,3-5-2 plano,Davide Ballardini,11891,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845007
+29,sáb 08/04/2023,11:30,Sampdoria,Cremonese,3-4-2-1,Davide Ballardini,20421,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845023
+30,sex 14/04/2023,13:30,Cremonese,Empoli,4-3-1-2,Davide Ballardini,8966,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845027
+31,dom 23/04/2023,10:00,Udinese,Cremonese,4-3-1-2,Davide Ballardini,23445,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845045
+32,dom 30/04/2023,10:00,Cremonese,Verona,4-2-3-1,Davide Ballardini,11645,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845047
+33,qua 03/05/2023,16:00,Milan,Cremonese,4-2-3-1,Davide Ballardini,68136,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845061
+34,sáb 06/05/2023,15:45,Cremonese,Spezia Calcio,4-2-3-1,Davide Ballardini,10260,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845067
+35,dom 14/05/2023,15:45,Juventus,Cremonese,5-3-2,Davide Ballardini,39439,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845080
+36,sáb 20/05/2023,10:00,Cremonese,Bologna,4-2-3-1,Davide Ballardini,11140,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845087
+37,dom 28/05/2023,13:00,Lazio,Cremonese,3-5-2 plano,Davide Ballardini,64171,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845101
+38,sáb 03/06/2023,16:00,Cremonese,Salernitana,3-5-2 plano,Davide Ballardini,10308,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845107

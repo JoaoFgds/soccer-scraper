@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 19/08/2018,15:30,Sassuolo,Inter,4-4-1-1,Luciano Spalletti,19620,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080910
+2,dom 26/08/2018,15:30,Inter,Torino,3-4-3 plano,Luciano Spalletti,59135,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080916
+3,sáb 01/09/2018,13:00,Bologna,Inter,4-2-3-1,Luciano Spalletti,26082,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080923
+4,sáb 15/09/2018,10:00,Inter,Parma,4-2-3-1,Luciano Spalletti,59648,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080936
+5,sáb 22/09/2018,15:30,Sampdoria,Inter,4-2-3-1,Luciano Spalletti,22835,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080960
+6,ter 25/09/2018,16:00,Inter,Fiorentina,4-2-3-1,Luciano Spalletti,55840,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080980
+7,sáb 29/09/2018,15:30,Inter,Cagliari,4-2-3-1,Luciano Spalletti,55487,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080990
+8,dom 07/10/2018,15:30,SPAL,Inter,4-2-3-1,Luciano Spalletti,15750,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081039
+9,dom 21/10/2018,15:30,Inter,Milan,4-2-3-1,Luciano Spalletti,78275,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081046
+10,seg 29/10/2018,16:30,Lazio,Inter,4-3-3 ofensivo,Luciano Spalletti,30000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081056
+11,sáb 03/11/2018,11:00,Inter,Genoa,4-3-3 ofensivo,Luciano Spalletti,67532,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081134
+12,dom 11/11/2018,09:30,Atalanta,Inter,4-3-3 ofensivo,Luciano Spalletti,20633,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081141
+13,sáb 24/11/2018,17:30,Inter,Frosinone,4-2-3-1,Luciano Spalletti,63645,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081155
+14,dom 02/12/2018,17:30,Roma,Inter,4-3-3 ofensivo,Luciano Spalletti,41009,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081167
+15,sex 07/12/2018,17:30,Juventus,Inter,4-3-3 ofensivo,Luciano Spalletti,41495,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081175
+16,sáb 15/12/2018,15:00,Inter,Udinese,4-3-3 ofensivo,Luciano Spalletti,57025,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081187
+17,sáb 22/12/2018,15:00,Chievo Verona,Inter,4-3-3 ofensivo,Luciano Spalletti,19750,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081192
+18,qua 26/12/2018,17:30,Inter,Napoli,4-3-3 ofensivo,Luciano Spalletti,63946,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081207
+19,sáb 29/12/2018,12:00,Empoli,Inter,4-3-3 ofensivo,Luciano Spalletti,10393,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081213
+20,sáb 19/01/2019,17:30,Inter,Sassuolo,4-2-3-1,Luciano Spalletti,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081230
+21,dom 27/01/2019,15:00,Torino,Inter,3-5-2 plano,Luciano Spalletti,22002,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081236
+22,dom 03/02/2019,15:00,Inter,Bologna,4-2-3-1,Luciano Spalletti,51566,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081243
+23,sáb 09/02/2019,17:30,Parma,Inter,4-2-3-1,Luciano Spalletti,18155,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081256
+24,dom 17/02/2019,14:00,Inter,Sampdoria,4-2-3-1,Luciano Spalletti,55127,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081269
+25,dom 24/02/2019,16:30,Fiorentina,Inter,4-2-3-1,Luciano Spalletti,32824,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081276
+26,sex 01/03/2019,16:30,Cagliari,Inter,4-2-3-1,Luciano Spalletti,16223,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081286
+27,dom 10/03/2019,11:00,Inter,SPAL,4-2-3-1,Luciano Spalletti,61399,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081299
+28,dom 17/03/2019,16:30,Milan,Inter,4-3-3 ofensivo,Luciano Spalletti,77749,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081306
+29,dom 31/03/2019,15:30,Inter,Lazio,4-2-3-1,Luciano Spalletti,56348,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081316
+30,qua 03/04/2019,16:00,Genoa,Inter,4-2-3-1,Luciano Spalletti,21865,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081325
+31,dom 07/04/2019,13:00,Inter,Atalanta,4-2-3-1,Luciano Spalletti,60860,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081332
+32,dom 14/04/2019,15:30,Frosinone,Inter,4-2-3-1,Luciano Spalletti,15856,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081346
+33,sáb 20/04/2019,15:30,Inter,Roma,4-2-3-1,Luciano Spalletti,60018,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081357
+34,sáb 27/04/2019,15:30,Inter,Juventus,4-2-3-1,Luciano Spalletti,73855,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081365
+35,sáb 04/05/2019,15:30,Udinese,Inter,4-2-3-1,Luciano Spalletti,25000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081377
+36,seg 13/05/2019,16:00,Inter,Chievo Verona,4-2-3-1,Luciano Spalletti,57855,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081382
+37,dom 19/05/2019,15:30,Napoli,Inter,4-2-3-1,Luciano Spalletti,25445,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081397
+38,dom 26/05/2019,15:30,Inter,Empoli,4-2-3-1,Luciano Spalletti,68051,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081403

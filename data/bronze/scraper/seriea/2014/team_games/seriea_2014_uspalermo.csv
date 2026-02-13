@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 31/08/2014,15:45,US Palermo,Sampdoria,3-5-2 plano,Giuseppe Iachini,17064,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478593
+2,seg 15/09/2014,15:45,Verona,US Palermo,3-5-2 plano,Giuseppe Iachini,18304,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478601
+3,dom 21/09/2014,15:45,US Palermo,Inter,3-5-2 plano,Giuseppe Iachini,18292,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478613
+4,qua 24/09/2014,15:45,Napoli,US Palermo,3-5-2,Giuseppe Iachini,18521,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478625
+5,seg 29/09/2014,16:00,US Palermo,Lazio,3-5-2,Giuseppe Iachini,17087,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478633
+6,dom 05/10/2014,07:30,Empoli,US Palermo,5-3-2,Giuseppe Iachini,7504,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478638
+7,dom 19/10/2014,11:00,US Palermo,Cesena,3-5-2 plano,Giuseppe Iachini,14780,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478654
+8,dom 26/10/2014,12:00,Juventus,US Palermo,3-5-2 plano,Giuseppe Iachini,38891,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478661
+9,qua 29/10/2014,17:45,US Palermo,Chievo Verona,3-5-2,Giuseppe Iachini,13985,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478674
+10,dom 02/11/2014,17:45,Milan,US Palermo,3-5-2 plano,Giuseppe Iachini,28272,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478682
+11,dom 09/11/2014,12:00,US Palermo,Udinese,3-5-2 plano,Giuseppe Iachini,15658,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478694
+12,seg 24/11/2014,17:45,Genoa,US Palermo,3-5-2 plano,Giuseppe Iachini,18588,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478700
+13,dom 30/11/2014,12:00,US Palermo,Parma,3-5-2 plano,Giuseppe Iachini,14444,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478714
+14,sáb 06/12/2014,17:45,Torino,US Palermo,3-5-2 plano,Giuseppe Iachini,13974,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478727
+15,sáb 13/12/2014,15:00,US Palermo,Sassuolo,3-5-2 plano,Giuseppe Iachini,21086,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478735
+16,dom 21/12/2014,12:00,Atalanta,US Palermo,3-5-2 plano,Giuseppe Iachini,12344,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478738
+17,ter 06/01/2015,12:00,US Palermo,Cagliari,3-5-2 plano,Giuseppe Iachini,18268,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478755
+18,dom 11/01/2015,12:00,Fiorentina,US Palermo,3-5-2 plano,Giuseppe Iachini,26376,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478760
+19,sáb 17/01/2015,17:45,US Palermo,Roma,3-5-2 plano,Giuseppe Iachini,15397,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478775
+20,dom 25/01/2015,12:00,Sampdoria,US Palermo,3-5-2 plano,Giuseppe Iachini,22023,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478783
+21,dom 01/02/2015,12:00,US Palermo,Verona,3-5-2 plano,Giuseppe Iachini,14058,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478791
+22,dom 08/02/2015,17:45,Inter,US Palermo,3-5-2 plano,Giuseppe Iachini,30085,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478803
+23,sáb 14/02/2015,17:45,US Palermo,Napoli,4-3-2-1,Giuseppe Iachini,12784,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478815
+24,dom 22/02/2015,11:00,Lazio,US Palermo,3-5-2 plano,Giuseppe Iachini,27186,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478823
+25,dom 01/03/2015,11:15,US Palermo,Empoli,3-5-2 plano,Giuseppe Iachini,22352,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478828
+26,dom 08/03/2015,08:30,Cesena,US Palermo,4-3-2-1,Giuseppe Iachini,15071,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478844
+27,sáb 14/03/2015,14:00,US Palermo,Juventus,3-5-2 plano,Giuseppe Iachini,29832,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478851
+28,sáb 21/03/2015,14:00,Chievo Verona,US Palermo,4-3-2-1,Giuseppe Iachini,9128,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478864
+29,sáb 04/04/2015,10:00,US Palermo,Milan,4-3-2-1,Giuseppe Iachini,15113,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478872
+30,dom 12/04/2015,10:00,Udinese,US Palermo,3-5-2 plano,Giuseppe Iachini,8704,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478884
+31,dom 19/04/2015,10:00,US Palermo,Genoa,3-5-2 plano,Giuseppe Iachini,15471,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478890
+32,dom 26/04/2015,10:00,Parma,US Palermo,3-5-2 plano,Giuseppe Iachini,10921,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478904
+33,qua 29/04/2015,15:45,US Palermo,Torino,3-5-2 plano,Giuseppe Iachini,15238,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478917
+34,sáb 02/05/2015,15:45,Sassuolo,US Palermo,3-5-2 plano,Giuseppe Iachini,11321,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478925
+35,dom 10/05/2015,10:00,US Palermo,Atalanta,3-5-2 plano,Giuseppe Iachini,13792,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478928
+36,dom 17/05/2015,10:00,Cagliari,US Palermo,3-5-2 plano,Giuseppe Iachini,6000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478945
+37,dom 24/05/2015,10:00,US Palermo,Fiorentina,4-4-1-1,Giuseppe Iachini,27429,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478950
+38,dom 31/05/2015,15:45,Roma,US Palermo,3-5-2 plano,Giuseppe Iachini,44752,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478965

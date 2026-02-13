@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qua 30/09/2020,13:00,Benevento,Inter,4-3-3 ofensivo,Filippo Inzaghi,1000,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433185
+2,sáb 26/09/2020,13:00,Sampdoria,Benevento,4-3-3 ofensivo,Filippo Inzaghi,500,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433201
+3,dom 04/10/2020,10:00,Benevento,Bologna,4-3-3 ofensivo,Filippo Inzaghi,1000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433206
+4,dom 18/10/2020,15:45,Roma,Benevento,4-3-3 ofensivo,Filippo Inzaghi,1000,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433219
+5,dom 25/10/2020,11:00,Benevento,Napoli,4-5-1 plano,Filippo Inzaghi,1000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433226
+6,seg 02/11/2020,16:45,Verona,Benevento,4-3-3 ofensivo,Filippo Inzaghi,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433244
+7,sáb 07/11/2020,14:00,Benevento,Spezia Calcio,4-3-2-1,Filippo Inzaghi,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433246
+8,dom 22/11/2020,08:30,Fiorentina,Benevento,4-2-3-1,Filippo Inzaghi,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433256
+9,sáb 28/11/2020,14:00,Benevento,Juventus,4-3-2-1,Filippo Inzaghi,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433266
+10,dom 06/12/2020,11:00,Parma,Benevento,4-3-3 ofensivo,Filippo Inzaghi,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433279
+11,sex 11/12/2020,16:45,Sassuolo,Benevento,4-3-2-1,Filippo Inzaghi,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433293
+12,ter 15/12/2020,16:45,Benevento,Lazio,4-3-2-1,Filippo Inzaghi,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433295
+13,dom 20/12/2020,11:00,Benevento,Genoa,4-3-2-1,Filippo Inzaghi,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433306
+14,qua 23/12/2020,16:45,Udinese,Benevento,4-3-3 ofensivo,Filippo Inzaghi,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433323
+15,dom 03/01/2021,14:00,Benevento,Milan,4-3-3 ofensivo,Filippo Inzaghi,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433326
+16,qua 06/01/2021,08:30,Cagliari,Benevento,4-3-2-1,Filippo Inzaghi,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433337
+17,sáb 09/01/2021,11:00,Benevento,Atalanta,4-3-2-1,Filippo Inzaghi,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433345
+18,dom 17/01/2021,11:00,Crotone,Benevento,4-3-2-1,Filippo Inzaghi,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433358
+19,sex 22/01/2021,16:45,Benevento,Torino,3-5-2 plano,Filippo Inzaghi,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433365
+20,sáb 30/01/2021,16:45,Inter,Benevento,3-5-2 plano,Filippo Inzaghi,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433375
+21,dom 07/02/2021,08:30,Benevento,Sampdoria,4-3-3 ofensivo,Filippo Inzaghi,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433391
+22,sex 12/02/2021,16:45,Bologna,Benevento,4-3-3 ofensivo,Filippo Inzaghi,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433396
+23,dom 21/02/2021,16:45,Benevento,Roma,4-3-2-1,Filippo Inzaghi,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433409
+24,dom 28/02/2021,14:00,Napoli,Benevento,4-3-2-1,Filippo Inzaghi,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433416
+25,qua 03/03/2021,16:45,Benevento,Verona,4-3-3 ofensivo,Filippo Inzaghi,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433434
+26,sáb 06/03/2021,11:00,Spezia Calcio,Benevento,3-5-2 plano,Filippo Inzaghi,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433436
+27,sáb 13/03/2021,14:00,Benevento,Fiorentina,3-5-2 plano,Filippo Inzaghi,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433446
+28,dom 21/03/2021,11:00,Juventus,Benevento,3-5-2 plano,Filippo Inzaghi,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433456
+29,sáb 03/04/2021,10:00,Benevento,Parma,3-5-2 plano,Filippo Inzaghi,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433469
+30,seg 12/04/2021,15:45,Benevento,Sassuolo,3-5-2 plano,Filippo Inzaghi,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433483
+31,dom 18/04/2021,10:00,Lazio,Benevento,4-3-3 ofensivo,Filippo Inzaghi,x,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433485
+32,qua 21/04/2021,15:45,Genoa,Benevento,3-5-2 plano,Filippo Inzaghi,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433496
+33,dom 25/04/2021,07:30,Benevento,Udinese,3-5-2 plano,Filippo Inzaghi,x,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433513
+34,sáb 01/05/2021,15:45,Milan,Benevento,4-3-2-1,Filippo Inzaghi,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433516
+35,dom 09/05/2021,10:00,Benevento,Cagliari,4-3-3 ofensivo,Filippo Inzaghi,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433527
+36,qua 12/05/2021,15:45,Atalanta,Benevento,5-3-2,Filippo Inzaghi,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433535
+37,dom 16/05/2021,10:00,Benevento,Crotone,4-3-2-1,Filippo Inzaghi,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433548
+38,dom 23/05/2021,15:45,Torino,Benevento,3-5-2 plano,Filippo Inzaghi,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433555

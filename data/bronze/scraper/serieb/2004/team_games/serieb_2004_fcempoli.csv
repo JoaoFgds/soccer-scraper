@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 11/09/2004,15:30,Empoli,Ascoli,5-3-2,Mario Somma,3000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30265
+2,sáb 18/09/2004,15:30,Verona,Empoli,3-4-2-1,Mario Somma,9315,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30283
+3,ter 21/09/2004,15:30,Empoli,Ternana,4-3-1-2,Mario Somma,3268,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30287
+4,sáb 25/09/2004,15:30,Triestina,Empoli,4-3-1-2,Mario Somma,6194,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30304
+5,sáb 02/10/2004,15:30,Empoli,Salernitana,4-3-1-2,Mario Somma,3262,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30311
+6,qua 06/10/2004,15:30,Piacenza,Empoli,4-4-2 losango,Mario Somma,6787,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30322
+7,seg 11/10/2004,15:30,Empoli,UC AlbinoLeffe,4-3-1-2,Mario Somma,3300,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30333
+8,sáb 16/10/2004,15:30,AC Venezia 1907,Empoli,4-3-1-2,Mario Somma,1769,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30348
+9,sáb 23/10/2004,15:30,Empoli,FC Crotone,4-3-1-2,Mario Somma,3084,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30354
+10,ter 26/10/2004,15:30,Perugia,Empoli,4-3-1-2,Mario Somma,6042,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30367
+11,sáb 30/10/2004,15:30,Empoli,Torino,5-3-2,Mario Somma,4423,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30377
+12,seg 08/11/2004,17:45,Pescara,Empoli,4-1-4-1,Mario Somma,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30388
+13,dom 14/11/2004,12:00,Empoli,Modena,5-3-2,Mario Somma,3343,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30398
+14,dom 21/11/2004,12:00,Cesena,Empoli,4-3-1-2,Mario Somma,6310,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30408
+15,sex 26/11/2004,17:45,Empoli,Catanzaro,5-3-2,Mario Somma,3383,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30419
+16,dom 05/12/2004,12:00,Vicenza,Empoli,4-3-1-2,Mario Somma,6389,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30437
+17,dom 12/12/2004,12:00,Empoli,Catania Calcio,4-3-1-2,Mario Somma,3511,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30440
+18,dom 19/12/2004,12:00,Genoa,Empoli,4-3-1-2,Mario Somma,30880,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30455
+19,qui 06/01/2005,12:00,Empoli,Treviso,4-3-1-2,Mario Somma,3317,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30462
+20,seg 10/01/2005,17:45,Arezzo,Empoli,5-3-2,Mario Somma,6502,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30472
+21,dom 16/01/2005,12:00,Empoli,Bari,4-3-1-2,Mario Somma,3272,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30484
+22,dom 23/01/2005,12:00,Ascoli,Empoli,4-3-1-2,Mario Somma,6351,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30496
+23,sex 28/01/2005,17:45,Empoli,Verona,4-2-3-1,Mario Somma,3202,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30514
+24,qui 03/02/2005,17:30,Ternana,Empoli,4-2-3-1,Mario Somma,2396,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30518
+25,dom 06/02/2005,12:00,Empoli,Triestina,4-2-3-1,Mario Somma,2961,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30535
+26,dom 13/02/2005,12:00,Salernitana,Empoli,4-3-1-2,Mario Somma,6186,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30542
+27,dom 20/02/2005,11:00,Empoli,Piacenza,4-3-1-2,Mario Somma,3042,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30553
+28,seg 28/02/2005,16:45,UC AlbinoLeffe,Empoli,4-5-1 plano,Mario Somma,1300,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30564
+29,dom 06/03/2005,11:00,Empoli,AC Venezia 1907,4-1-4-1,Mario Somma,2928,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30579
+30,dom 13/03/2005,11:00,FC Crotone,Empoli,4-2-3-1,Mario Somma,5377,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30585
+31,sáb 26/03/2005,11:00,Empoli,Perugia,4-2-3-1,Mario Somma,4443,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30598
+32,sáb 09/04/2005,15:30,Torino,Empoli,4-2-3-1,Mario Somma,12840,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30608
+33,sex 15/04/2005,15:45,Empoli,Pescara,5-3-2,Mario Somma,3139,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30619
+34,qua 20/04/2005,15:30,Modena,Empoli,3-5-2,Mario Somma,7000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30629
+35,sáb 23/04/2005,15:30,Empoli,Cesena,4-3-1-2,Mario Somma,3128,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30639
+36,seg 02/05/2005,15:45,Catanzaro,Empoli,4-3-1-2,Mario Somma,4000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30650
+37,sáb 07/05/2005,15:30,Empoli,Vicenza,4-3-2-1,Mario Somma,3350,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30668
+38,sáb 14/05/2005,15:30,Catania Calcio,Empoli,4-2-3-1,Mario Somma,10631,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30671
+39,sáb 21/05/2005,15:30,Empoli,Genoa,3-4-2-1,Mario Somma,13447,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30686
+40,sáb 28/05/2005,15:30,Treviso,Empoli,4-3-1-2,Mario Somma,6449,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30693
+41,dom 05/06/2005,15:30,Empoli,Arezzo,4-3-1-2,Mario Somma,7230,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30703
+42,sáb 11/06/2005,15:30,Bari,Empoli,4-3-1-2,Mario Somma,7597,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/30715

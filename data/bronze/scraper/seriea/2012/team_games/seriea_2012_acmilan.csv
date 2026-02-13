@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 26/08/2012,13:00,Milan,Sampdoria,4-3-3 ofensivo,Massimiliano Allegri,36288,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251270
+2,sáb 01/09/2012,15:45,Bologna,Milan,4-3-1-2,Massimiliano Allegri,22202,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251273
+3,sáb 15/09/2012,15:45,Milan,Atalanta,4-3-1-2,Massimiliano Allegri,34763,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251286
+4,dom 23/09/2012,10:00,Udinese,Milan,4-3-3 ofensivo,Massimiliano Allegri,22976,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251302
+5,qua 26/09/2012,15:45,Milan,Cagliari,4-3-3 ofensivo,Massimiliano Allegri,28005,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251307
+6,sáb 29/09/2012,13:00,Parma,Milan,4-2-3-1,Massimiliano Allegri,14239,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251320
+7,dom 07/10/2012,15:45,Milan,Inter,4-2-3-1,Massimiliano Allegri,73736,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251327
+8,sáb 20/10/2012,15:45,Lazio,Milan,4-3-1-2,Massimiliano Allegri,41815,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251339
+9,sáb 27/10/2012,16:45,Milan,Genoa,3-4-3 plano,Massimiliano Allegri,33046,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251346
+10,ter 30/10/2012,17:45,US Palermo,Milan,3-5-2 plano,Massimiliano Allegri,12346,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251360
+11,sáb 03/11/2012,15:00,Milan,Chievo Verona,4-2-3-1,Massimiliano Allegri,33360,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251367
+12,dom 11/11/2012,12:00,Milan,Fiorentina,4-2-3-1,Massimiliano Allegri,36180,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251378
+13,sáb 17/11/2012,17:45,Napoli,Milan,4-3-3 ofensivo,Massimiliano Allegri,52546,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251388
+14,dom 25/11/2012,17:45,Milan,Juventus,4-3-3 ofensivo,Massimiliano Allegri,77023,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251397
+15,sex 30/11/2012,17:45,Catania Calcio,Milan,4-3-3 ofensivo,Massimiliano Allegri,16500,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251404
+16,dom 09/12/2012,12:00,Torino,Milan,4-3-3 ofensivo,Massimiliano Allegri,20126,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251422
+17,dom 16/12/2012,12:00,Milan,Pescara,4-3-3 ofensivo,Massimiliano Allegri,42520,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251429
+18,sáb 22/12/2012,17:45,Roma,Milan,4-3-3 ofensivo,Massimiliano Allegri,50206,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251439
+19,dom 06/01/2013,12:00,Milan,AC Siena,4-3-1-2,Massimiliano Allegri,30404,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2252316
+20,dom 13/01/2013,17:45,Sampdoria,Milan,4-3-3 ofensivo,Massimiliano Allegri,24544,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251448
+21,dom 20/01/2013,12:00,Milan,Bologna,4-3-3 ofensivo,Massimiliano Allegri,30031,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251453
+22,dom 27/01/2013,12:00,Atalanta,Milan,4-3-3 ofensivo,Massimiliano Allegri,18805,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251466
+23,dom 03/02/2013,17:45,Milan,Udinese,4-3-3 ofensivo,Massimiliano Allegri,45152,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251482
+24,dom 10/02/2013,12:00,Cagliari,Milan,4-3-3 ofensivo,Massimiliano Allegri,9500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251487
+25,sex 15/02/2013,17:45,Milan,Parma,4-3-3 ofensivo,Massimiliano Allegri,34077,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251500
+26,dom 24/02/2013,16:45,Inter,Milan,4-3-3 ofensivo,Massimiliano Allegri,79341,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251507
+27,sáb 02/03/2013,16:45,Milan,Lazio,4-3-3 ofensivo,Massimiliano Allegri,47421,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251519
+28,sex 08/03/2013,16:45,Genoa,Milan,4-3-3 ofensivo,Massimiliano Allegri,21584,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251526
+29,dom 17/03/2013,11:00,Milan,US Palermo,4-3-3 ofensivo,Massimiliano Allegri,41584,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251540
+30,sáb 30/03/2013,14:30,Chievo Verona,Milan,4-3-3 ofensivo,Massimiliano Allegri,20000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251547
+31,dom 07/04/2013,07:30,Fiorentina,Milan,4-3-3 ofensivo,Massimiliano Allegri,39469,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251558
+32,dom 14/04/2013,15:45,Milan,Napoli,4-3-3 ofensivo,Massimiliano Allegri,72054,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251568
+33,dom 21/04/2013,15:45,Juventus,Milan,4-3-3 ofensivo,Massimiliano Allegri,38839,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251577
+34,dom 28/04/2013,15:45,Milan,Catania Calcio,4-3-3 ofensivo,Massimiliano Allegri,37853,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251584
+35,dom 05/05/2013,10:00,Milan,Torino,4-3-3 ofensivo,Massimiliano Allegri,54898,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251602
+36,qua 08/05/2013,13:00,Pescara,Milan,4-3-3 ofensivo,Massimiliano Allegri,19773,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251609
+37,dom 12/05/2013,15:45,Milan,Roma,4-3-3 ofensivo,Massimiliano Allegri,50983,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251619
+38,dom 19/05/2013,15:45,AC Siena,Milan,4-3-3 ofensivo,Massimiliano Allegri,13083,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251629

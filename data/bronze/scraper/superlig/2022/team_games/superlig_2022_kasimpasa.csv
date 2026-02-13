@@ -1,0 +1,37 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 08/08/2022,13:15,Basaksehir,Kasimpasa,4-1-4-1,Sami Uğurlu,1849,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3854848
+2,seg 15/08/2022,15:45,Kasimpasa,Fenerbahce,4-1-4-1,Sami Uğurlu,4811,0:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860205
+3,sáb 20/08/2022,13:15,Giresunspor,Kasimpasa,4-1-4-1,Şenol Can,7098,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860278
+4,dom 28/08/2022,13:15,Kasimpasa,Hatayspor,4-1-4-1,Şenol Can,1776,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860187
+5,dom 04/09/2022,15:45,Antalyaspor,Kasimpasa,4-1-4-1,Şenol Can,8490,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860235
+6,dom 11/09/2022,14:00,Kasimpasa,Galatasaray,4-1-4-1,Şenol Can,6261,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860196
+7,sáb 17/09/2022,11:00,Ümraniyespor,Kasimpasa,4-1-4-1,Şenol Can,329,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860245
+8,sáb 01/10/2022,08:30,Kasimpasa,Gaziantep FK,4-1-4-1,Şenol Can,1529,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860268
+9,seg 10/10/2022,14:00,Trabzonspor,Kasimpasa,4-1-4-1,Şenol Can,25455,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860255
+10,sáb 15/10/2022,11:00,Kasimpasa,Adana Demirspor,4-1-4-1,Şenol Can,1533,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860223
+11,dom 23/10/2022,08:30,Kasimpasa,Kayserispor,4-1-4-1,Şenol Can,1954,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860285
+12,sáb 29/10/2022,08:30,Konyaspor,Kasimpasa,4-3-3 ofensivo,Şenol Can,10193,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860305
+13,sex 04/11/2022,14:00,Kasimpasa,Ankaragücü,4-2-3-1,Şenol Can,2222,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860339
+15,sáb 24/12/2022,10:00,Kasimpasa,Sivasspor,4-2-3-1,Selçuk İnan,1372,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860295
+16,qua 28/12/2022,11:00,Istanbulspor,Kasimpasa,4-1-4-1,Selçuk İnan,295,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860349
+17,qua 04/01/2023,11:00,Kasimpasa,Alanyaspor,3-4-3 plano,Selçuk İnan,727,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860322
+18,sáb 07/01/2023,13:00,Besiktas,Kasimpasa,4-1-4-1,Selçuk İnan,29077,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860327
+19,dom 15/01/2023,10:00,Kasimpasa,Karagümrük,4-1-4-1,Selçuk İnan,2887,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860358
+20,sáb 21/01/2023,10:00,Kasimpasa,Basaksehir,3-5-2 ofensivo,Selçuk İnan,1910,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860366
+21,dom 29/01/2023,13:00,Fenerbahce,Kasimpasa,4-2-3-1,Selçuk İnan,38030,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860421
+22,qua 01/02/2023,11:00,Kasimpasa,Giresunspor,4-1-4-1,Selçuk İnan,1283,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860413
+23,dom 05/02/2023,10:00,Hatayspor,Kasimpasa,4-1-4-1,Selçuk İnan,4470,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860385
+24,seg 06/03/2023,14:00,Kasimpasa,Antalyaspor,4-1-4-1,Selçuk İnan,1357,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860370
+25,sáb 11/03/2023,13:00,Galatasaray,Kasimpasa,4-2-3-1,Selçuk İnan,45589,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860507
+26,sáb 18/03/2023,07:30,Kasimpasa,Ümraniyespor,4-1-4-1,Selçuk İnan,970,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860398
+27,sáb 01/04/2023,19:00,Gaziantep FK,Kasimpasa,?,,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860502
+28,sáb 08/04/2023,14:30,Kasimpasa,Trabzonspor,4-1-4-1,Kemal Özdeş,2257,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860390
+29,sáb 15/04/2023,10:00,Adana Demirspor,Kasimpasa,4-1-4-1,Kemal Özdeş,11455,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860466
+30,qua 19/04/2023,11:00,Kayserispor,Kasimpasa,4-1-4-1,Kemal Özdeş,3008,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860474
+31,dom 23/04/2023,07:30,Kasimpasa,Konyaspor,4-2-3-1,Kemal Özdeş,1633,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860449
+32,sáb 29/04/2023,13:00,Ankaragücü,Kasimpasa,4-2-3-1,Kemal Özdeş,11979,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860492
+34,ter 16/05/2023,11:00,Sivasspor,Kasimpasa,4-2-3-1,Kemal Özdeş,2026,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860457
+35,sáb 20/05/2023,10:00,Kasimpasa,Istanbulspor,4-1-4-1,Kemal Özdeş,1831,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860520
+36,ter 30/05/2023,14:00,Alanyaspor,Kasimpasa,4-2-3-1,Kemal Özdeş,1362,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860529
+37,sáb 03/06/2023,13:00,Kasimpasa,Besiktas,4-2-3-1,Kemal Özdeş,4533,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860426
+38,ter 06/06/2023,11:00,Karagümrük,Kasimpasa,4-2-3-1,Kemal Özdeş,434,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860439

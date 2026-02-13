@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 18/08/2024,15:45,Lazio,Venezia,4-3-3 ofensivo,Marco Baroni,42000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373911
+2,sáb 24/08/2024,13:30,Udinese,Lazio,4-3-3 ofensivo,Marco Baroni,21636,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373924
+3,sáb 31/08/2024,15:45,Lazio,Milan,4-2-3-1,Marco Baroni,53000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373930
+4,seg 16/09/2024,15:45,Lazio,Verona,4-2-3-1,Marco Baroni,35500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373940
+5,dom 22/09/2024,07:30,Fiorentina,Lazio,4-2-3-1,Marco Baroni,19624,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373947
+6,dom 29/09/2024,07:30,Torino,Lazio,4-2-3-1,Marco Baroni,23130,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373963
+7,dom 06/10/2024,10:00,Lazio,Empoli,4-2-3-1,Marco Baroni,42000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373971
+8,sáb 19/10/2024,15:45,Juventus,Lazio,4-2-3-1,Marco Baroni,40800,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373980
+9,dom 27/10/2024,11:00,Lazio,Genoa,4-2-3-1,Marco Baroni,43000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373989
+10,qui 31/10/2024,16:45,Como,Lazio,4-2-3-1,Marco Baroni,10750,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373997
+11,seg 04/11/2024,16:45,Lazio,Cagliari,4-2-3-1,Marco Baroni,36000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374009
+12,dom 10/11/2024,14:00,Monza,Lazio,4-3-3 ofensivo,Marco Baroni,11706,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374022
+13,dom 24/11/2024,16:45,Lazio,Bologna,4-3-3 ofensivo,Marco Baroni,40000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374029
+14,dom 01/12/2024,11:00,Parma,Lazio,4-3-3 ofensivo,Marco Baroni,20886,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374041
+15,dom 08/12/2024,16:45,Napoli,Lazio,4-2-3-1,Marco Baroni,50000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374052
+16,seg 16/12/2024,16:45,Lazio,Inter,4-2-3-1,Marco Baroni,58000,0:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374060
+17,sáb 21/12/2024,16:45,Lecce,Lazio,4-2-3-1,Marco Baroni,26749,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374070
+18,sáb 28/12/2024,16:45,Lazio,Atalanta,4-2-3-1,Marco Baroni,48000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374080
+19,dom 05/01/2025,16:45,Roma,Lazio,4-2-3-1,Marco Baroni,65042,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374092
+20,sex 10/01/2025,16:45,Lazio,Como,4-2-3-1,Marco Baroni,40000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374115
+21,dom 19/01/2025,14:00,Verona,Lazio,4-2-3-1,Marco Baroni,25747,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374127
+22,dom 26/01/2025,16:45,Lazio,Fiorentina,4-2-3-1,Marco Baroni,37000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374135
+23,seg 03/02/2025,16:45,Cagliari,Lazio,4-2-3-1,Marco Baroni,15751,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374144
+24,dom 09/02/2025,11:00,Lazio,Monza,4-2-3-1,Marco Baroni,38540,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374157
+25,sáb 15/02/2025,14:00,Lazio,Napoli,4-2-3-1,Marco Baroni,42863,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374167
+26,sáb 22/02/2025,11:00,Venezia,Lazio,4-2-3-1,Marco Baroni,8796,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374181
+27,dom 02/03/2025,16:45,Milan,Lazio,4-2-3-1,Marco Baroni,65969,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374187
+28,seg 10/03/2025,16:45,Lazio,Udinese,4-2-3-1,Marco Baroni,34655,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374198
+29,dom 16/03/2025,11:00,Bologna,Lazio,4-2-3-1,Marco Baroni,30846,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374203
+30,seg 31/03/2025,15:45,Lazio,Torino,4-2-3-1,Marco Baroni,38400,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374218
+31,dom 06/04/2025,13:00,Atalanta,Lazio,4-2-3-1,Marco Baroni,22731,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374222
+32,dom 13/04/2025,15:45,Lazio,Roma,4-2-3-1,Marco Baroni,63000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374238
+33,qua 23/04/2025,13:30,Genoa,Lazio,4-2-3-1,Marco Baroni,32038,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374245
+34,seg 28/04/2025,15:45,Lazio,Parma,4-2-3-1,Marco Baroni,32000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374258
+35,dom 04/05/2025,07:30,Empoli,Lazio,4-2-3-1,Marco Baroni,8787,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374264
+36,sáb 10/05/2025,13:00,Lazio,Juventus,4-2-3-1,Marco Baroni,60500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374276
+37,dom 18/05/2025,15:45,Inter,Lazio,4-2-3-1,Marco Baroni,71060,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374286
+38,dom 25/05/2025,15:45,Lazio,Lecce,4-2-3-1,Marco Baroni,53000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374296

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/09/1998,15:30,Milan,Bologna,3-4-3 plano,Carlo Mazzone,50732,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214211
+2,dom 20/09/1998,11:00,Bologna,Udinese,3-4-3 plano,Carlo Mazzone,26505,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214227
+3,sáb 26/09/1998,11:00,Bari,Bologna,3-4-3 plano,Carlo Mazzone,20495,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214230
+4,dom 04/10/1998,10:30,Bologna,AC Parma,4-5-1 plano,Carlo Mazzone,26229,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214245
+5,sáb 17/10/1998,11:30,Empoli,Bologna,4-4-2,Carlo Mazzone,8857,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214248
+6,dom 25/10/1998,11:30,Bologna,Piacenza,4-4-2 duplo 6,Carlo Mazzone,24969,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214263
+7,sáb 31/10/1998,11:30,AC Venezia 1907,Bologna,4-4-2 duplo 6,Carlo Mazzone,10062,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214265
+8,dom 08/11/1998,11:30,Bologna,Roma,4-4-2,Carlo Mazzone,33045,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214281
+9,dom 15/11/1998,11:30,Vicenza,Bologna,4-4-2 duplo 6,Carlo Mazzone,14598,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214285
+10,sáb 21/11/1998,11:30,Bologna,Perugia,4-4-2 duplo 6,Carlo Mazzone,25341,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214294
+11,dom 29/11/1998,11:30,Bologna,Juventus,4-4-2 duplo 6,Carlo Mazzone,36335,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214307
+12,sáb 05/12/1998,11:30,Florenz,Bologna,4-4-2,Carlo Mazzone,32729,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214312
+13,dom 13/12/1998,11:30,Bologna,Salernitana,4-4-2 duplo 6,Carlo Mazzone,26533,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214325
+14,dom 20/12/1998,11:30,Cagliari,Bologna,4-4-2 duplo 6,Carlo Mazzone,18191,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214334
+15,qua 06/01/1999,11:30,Bologna,Lazio,4-4-2,Carlo Mazzone,31160,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214342
+16,dom 10/01/1999,11:30,Sampdoria,Bologna,4-4-2 duplo 6,Carlo Mazzone,17648,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214345
+17,dom 17/01/1999,11:30,Bologna,Inter,4-4-2,Carlo Mazzone,36545,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214360
+18,dom 24/01/1999,11:30,Bologna,Milan,4-4-2 duplo 6,Carlo Mazzone,34938,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214369
+19,dom 31/01/1999,17:30,Udinese,Bologna,4-4-2 duplo 6,Carlo Mazzone,17192,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214374
+20,dom 07/02/1999,11:30,Bologna,Bari,4-4-2,Carlo Mazzone,26298,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214386
+21,dom 14/02/1999,17:30,AC Parma,Bologna,4-5-1 plano,Carlo Mazzone,21068,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214392
+22,dom 21/02/1999,11:00,Bologna,Empoli,4-4-2 duplo 6,Carlo Mazzone,25142,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214406
+23,sáb 27/02/1999,11:00,Piacenza,Bologna,4-4-2 duplo 6,Carlo Mazzone,9574,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214412
+24,dom 07/03/1999,11:00,Bologna,AC Venezia 1907,4-4-2 duplo 6,Carlo Mazzone,26487,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214420
+25,sáb 13/03/1999,11:00,Roma,Bologna,4-4-2,Carlo Mazzone,42686,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214429
+26,dom 21/03/1999,11:00,Bologna,Vicenza,4-4-2 duplo 6,Carlo Mazzone,26793,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214437
+27,sáb 03/04/1999,11:00,Perugia,Bologna,4-4-2 duplo 6,Carlo Mazzone,16311,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214452
+28,dom 11/04/1999,11:00,Juventus,Bologna,4-4-2,Carlo Mazzone,45459,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214460
+29,sáb 17/04/1999,11:00,Bologna,Florenz,4-4-2,Carlo Mazzone,28524,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214465
+30,dom 25/04/1999,11:00,Salernitana,Bologna,4-4-2 duplo 6,Carlo Mazzone,30859,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214477
+31,dom 02/05/1999,11:00,Bologna,Cagliari,4-4-2 duplo 6,Carlo Mazzone,26281,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214487
+32,dom 09/05/1999,11:00,Lazio,Bologna,3-5-2 plano,Carlo Mazzone,60000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214495
+33,dom 16/05/1999,11:30,Bologna,Sampdoria,3-5-2,Carlo Mazzone,29299,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214507
+34,dom 23/05/1999,11:30,Inter,Bologna,4-4-2,Carlo Mazzone,62705,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214510

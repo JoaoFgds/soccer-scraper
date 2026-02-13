@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 22/08/2021,13:00,Ternana,Brescia,4-2-3-1,Cristiano Lucarelli,3359,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3624924
+2,dom 29/08/2021,15:30,Reggina,Ternana,4-2-3-1,Cristiano Lucarelli,5005,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3624981
+3,sáb 11/09/2021,11:15,Ternana,Pisa,4-2-3-1,Cristiano Lucarelli,4003,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625000
+4,sáb 18/09/2021,09:00,Monza,Ternana,3-4-2-1,Cristiano Lucarelli,2332,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625385
+5,qua 22/09/2021,13:00,Ternana,Parma,4-3-3 ofensivo,Cristiano Lucarelli,4611,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625396
+6,dom 26/09/2021,15:30,Ternana,SPAL,4-3-3 ofensivo,Cristiano Lucarelli,4369,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625405
+7,sáb 02/10/2021,09:00,Cremonese,Ternana,4-3-3 ofensivo,Cristiano Lucarelli,2813,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625408
+8,sáb 16/10/2021,09:00,Pordenone,Ternana,4-2-3-1,Cristiano Lucarelli,857,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625423
+9,sáb 23/10/2021,09:00,Ternana,LR Vicenza,4-2-3-1,Cristiano Lucarelli,3723,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625432
+10,qua 27/10/2021,13:00,Cosenza,Ternana,4-4-2,Cristiano Lucarelli,3149,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3638416
+11,seg 01/11/2021,11:00,Ternana,Como,4-2-3-1,Cristiano Lucarelli,3426,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625450
+12,sáb 06/11/2021,10:00,Alessandria,Ternana,4-2-3-1,Cristiano Lucarelli,2198,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625451
+13,sáb 20/11/2021,10:00,Ternana,Cittadella,4-2-3-1,Cristiano Lucarelli,3350,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625468
+14,sex 26/11/2021,16:30,Lecce,Ternana,4-2-3-1,Cristiano Lucarelli,10314,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625476
+15,seg 29/11/2021,16:30,Ternana,Crotone,4-2-3-1,Cristiano Lucarelli,2077,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625486
+16,sáb 04/12/2021,10:00,Frosinone,Ternana,4-2-3-1,Cristiano Lucarelli,5409,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625493
+17,sex 10/12/2021,16:30,Ternana,Benevento,4-4-2 duplo 6,Cristiano Lucarelli,1900,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625504
+18,dom 19/12/2021,12:15,Perugia,Ternana,3-4-2-1,Cristiano Lucarelli,7556,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625513
+19,sex 14/01/2022,16:30,Ternana,Ascoli,4-2-3-1,Cristiano Lucarelli,1147,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625522
+20,sáb 22/01/2022,10:00,Brescia,Ternana,4-3-3 ofensivo,Cristiano Lucarelli,3275,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3624973
+21,sáb 05/02/2022,10:00,Ternana,Reggina,4-3-3 ofensivo,Cristiano Lucarelli,2361,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3624990
+22,sáb 12/02/2022,10:00,Pisa,Ternana,4-3-2-1,Cristiano Lucarelli,4446,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625009
+23,ter 15/02/2022,14:30,Ternana,Monza,4-3-2-1,Cristiano Lucarelli,1713,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625529
+24,sáb 19/02/2022,10:00,Parma,Ternana,4-3-1-2,Cristiano Lucarelli,4629,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625540
+25,ter 22/02/2022,14:30,SPAL,Ternana,4-3-2-1,Cristiano Lucarelli,3474,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625549
+26,sáb 26/02/2022,10:00,Ternana,Cremonese,4-3-3 ofensivo,Cristiano Lucarelli,2022,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625552
+27,ter 01/03/2022,14:30,Ternana,Pordenone,4-3-1-2,Cristiano Lucarelli,1163,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625567
+28,dom 06/03/2022,11:30,LR Vicenza,Ternana,4-3-3 ofensivo,Cristiano Lucarelli,5062,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625576
+29,sáb 12/03/2022,10:00,Ternana,Cosenza,3-5-2 plano,Cristiano Lucarelli,2698,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3638435
+30,ter 15/03/2022,14:30,Como,Ternana,3-5-2 plano,Cristiano Lucarelli,1476,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625594
+31,sáb 19/03/2022,10:00,Ternana,Alessandria,3-5-2 plano,Cristiano Lucarelli,2538,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625595
+32,sáb 02/04/2022,09:00,Cittadella,Ternana,3-5-2 plano,Cristiano Lucarelli,1185,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625612
+33,ter 05/04/2022,14:00,Ternana,Lecce,4-3-1-2,Cristiano Lucarelli,3827,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625620
+34,dom 10/04/2022,10:30,Crotone,Ternana,3-5-2 plano,Cristiano Lucarelli,2024,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625630
+35,seg 18/04/2022,13:00,Ternana,Frosinone,3-5-2 plano,Cristiano Lucarelli,3605,4:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625637
+36,seg 25/04/2022,13:00,Benevento,Ternana,3-5-2 plano,Cristiano Lucarelli,6823,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625648
+37,sáb 30/04/2022,09:00,Ternana,Perugia,3-5-2 plano,Cristiano Lucarelli,10354,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625657
+38,sex 06/05/2022,15:30,Ascoli,Ternana,3-5-2 plano,Cristiano Lucarelli,7651,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625666

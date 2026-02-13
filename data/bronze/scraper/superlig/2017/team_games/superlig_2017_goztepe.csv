@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/08/2017,15:45,Göztepe,Fenerbahce,4-2-3-1,Tamer Tuna,266,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883638
+2,dom 20/08/2017,14:00,Kayserispor,Göztepe,4-2-3-1,Tamer Tuna,17813,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883672
+3,sáb 26/08/2017,15:45,Göztepe,Trabzonspor,4-2-3-1,Tamer Tuna,,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883684
+4,dom 10/09/2017,11:00,Osmanlispor FK,Göztepe,4-2-3-1,Tamer Tuna,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883858
+5,dom 17/09/2017,14:00,Göztepe,Genclerbirligi,4-2-3-1,Tamer Tuna,9580,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883864
+6,dom 24/09/2017,08:00,Sivasspor,Göztepe,4-2-3-1,Tamer Tuna,,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883871
+7,dom 01/10/2017,13:30,Göztepe,Basaksehir,4-2-3-1,Tamer Tuna,9604,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883887
+8,sáb 14/10/2017,10:30,Antalyaspor,Göztepe,4-2-3-1,Tamer Tuna,15000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883893
+9,sex 20/10/2017,15:00,Göztepe,Alanyaspor,4-2-3-1,Tamer Tuna,9500,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883905
+10,sex 27/10/2017,15:00,Kasimpasa,Göztepe,4-2-3-1,Tamer Tuna,2500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883911
+11,dom 05/11/2017,14:30,Göztepe,Besiktas,4-2-3-1,Tamer Tuna,9642,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883917
+12,sáb 18/11/2017,09:00,Bursaspor,Göztepe,4-2-3-1,Tamer Tuna,22876,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883929
+13,sáb 25/11/2017,09:00,Göztepe,Akhisarspor,4-2-3-1,Tamer Tuna,9478,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883941
+14,sáb 02/12/2017,11:30,Karabükspor,Göztepe,4-2-3-1,Tamer Tuna,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883946
+15,sáb 09/12/2017,09:00,Y. Malatyaspor,Göztepe,4-2-3-1,Tamer Tuna,,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883954
+16,seg 18/12/2017,15:00,Göztepe,Konyaspor,4-2-3-1,Tamer Tuna,9630,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883962
+17,dom 24/12/2017,14:30,Galatasaray,Göztepe,4-2-3-1,Tamer Tuna,46374,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883969
+18,sáb 20/01/2018,14:00,Fenerbahce,Göztepe,4-2-3-1,Tamer Tuna,34633,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883986
+19,sáb 27/01/2018,11:00,Göztepe,Kayserispor,4-1-4-1,Tamer Tuna,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883993
+20,seg 05/02/2018,15:00,Trabzonspor,Göztepe,4-1-4-1,Tamer Tuna,23752,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883996
+21,sáb 10/02/2018,08:30,Göztepe,Osmanlispor FK,4-2-3-1,Tamer Tuna,7154,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884011
+22,seg 19/02/2018,14:00,Genclerbirligi,Göztepe,4-1-4-1,Tamer Tuna,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884017
+23,dom 25/02/2018,10:00,Göztepe,Sivasspor,4-2-3-1,Tamer Tuna,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884024
+24,sáb 03/03/2018,10:00,Basaksehir,Göztepe,4-2-3-1,Tamer Tuna,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884040
+25,dom 11/03/2018,07:30,Göztepe,Antalyaspor,4-2-3-1,Tamer Tuna,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884046
+26,dom 18/03/2018,07:30,Alanyaspor,Göztepe,4-2-3-1,Tamer Tuna,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884058
+27,dom 01/04/2018,07:30,Göztepe,Kasimpasa,4-2-3-1,Tamer Tuna,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884064
+28,sáb 07/04/2018,13:00,Besiktas,Göztepe,4-2-3-1,Tamer Tuna,,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884070
+29,dom 15/04/2018,10:00,Göztepe,Bursaspor,4-2-3-1,Tamer Tuna,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884082
+30,dom 22/04/2018,10:00,Akhisarspor,Göztepe,4-2-3-1,Tamer Tuna,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884094
+31,sex 27/04/2018,14:00,Göztepe,Karabükspor,4-2-3-1,Tamer Tuna,,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884099
+32,seg 07/05/2018,14:00,Göztepe,Y. Malatyaspor,4-2-3-1,Tamer Tuna,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884107
+33,sáb 12/05/2018,13:00,Konyaspor,Göztepe,4-2-3-1,Tamer Tuna,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884115
+34,sáb 19/05/2018,13:00,Göztepe,Galatasaray,4-2-3-1,Tamer Tuna,8888,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884122

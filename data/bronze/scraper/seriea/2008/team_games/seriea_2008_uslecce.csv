@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 31/08/2008,10:00,Torino,Lecce,4-4-2 duplo 6,Mario Beretta,17276,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/918604
+2,dom 14/09/2008,10:00,Lecce,Chievo Verona,4-3-1-2,Mario Beretta,7862,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/924219
+3,dom 21/09/2008,10:00,Lecce,AC Siena,4-3-1-2,Mario Beretta,7842,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/924780
+4,qua 24/09/2008,15:30,Inter,Lecce,4-4-2 duplo 6,Mario Beretta,43636,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/925628
+5,dom 28/09/2008,10:00,Lecce,Cagliari,4-3-1-2,Mario Beretta,8098,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/926044
+6,sáb 04/10/2008,13:00,Lazio,Lecce,4-3-1-2,Mario Beretta,38237,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/926351
+7,dom 19/10/2008,11:00,Lecce,Udinese,4-3-1-2,Mario Beretta,9151,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/926366
+8,dom 26/10/2008,12:00,Reggina,Lecce,4-3-1-2,Mario Beretta,11695,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/927691
+9,qua 29/10/2008,17:30,Lecce,US Palermo,4-3-1-2,Mario Beretta,9437,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/927700
+10,dom 02/11/2008,12:00,Atalanta,Lecce,4-3-1-2,Mario Beretta,10236,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/928478
+11,dom 09/11/2008,17:30,Lecce,Milan,4-3-1-2,Mario Beretta,29658,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/928659
+12,dom 16/11/2008,12:00,Sampdoria,Lecce,4-3-1-2,Mario Beretta,21428,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/929571
+13,dom 23/11/2008,12:00,Lecce,Roma,4-4-2 duplo 6,Mario Beretta,11082,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/929790
+14,sáb 29/11/2008,15:00,Catania Calcio,Lecce,4-4-1-1,Mario Beretta,23420,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/931173
+15,dom 07/12/2008,12:00,Lecce,Juventus,4-4-2 duplo 6,Mario Beretta,28222,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/931448
+16,sáb 13/12/2008,17:30,Napoli,Lecce,3-5-2 plano,Mario Beretta,39657,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/931905
+17,dom 21/12/2008,12:00,Lecce,Bologna,4-3-1-2,Mario Beretta,9109,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932270
+18,dom 11/01/2009,12:00,Fiorentina,Lecce,4-3-1-2,Mario Beretta,27551,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932286
+19,dom 18/01/2009,12:00,Lecce,Genoa,4-3-1-2,Mario Beretta,8152,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932310
+20,dom 25/01/2009,12:00,Lecce,Torino,4-3-1-2,Mario Beretta,7888,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932320
+21,qua 28/01/2009,17:30,Chievo Verona,Lecce,4-3-1-2,Mario Beretta,9373,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932328
+22,dom 01/02/2009,12:15,AC Siena,Lecce,3-5-2 plano,Mario Beretta,8965,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932723
+23,sáb 07/02/2009,15:00,Lecce,Inter,4-3-3 ofensivo,Mario Beretta,26669,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932418
+24,dom 15/02/2009,11:00,Cagliari,Lecce,4-3-1-2,Mario Beretta,10100,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932428
+25,dom 22/02/2009,11:00,Lecce,Lazio,4-3-1-2,Mario Beretta,7118,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932407
+26,dom 01/03/2009,11:00,Udinese,Lecce,3-5-2 plano,Mario Beretta,16167,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932400
+27,dom 08/03/2009,11:00,Lecce,Reggina,3-5-2 plano,Mario Beretta,9832,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932389
+28,dom 15/03/2009,11:00,US Palermo,Lecce,3-5-2 plano,Luigi De Canio,19597,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932349
+29,dom 22/03/2009,11:00,Lecce,Atalanta,3-4-3 plano,Luigi De Canio,7534,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932335
+30,dom 05/04/2009,16:00,Milan,Lecce,4-4-1-1,Luigi De Canio,53021,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932217
+31,sáb 11/04/2009,10:00,Lecce,Sampdoria,4-4-2 duplo 6,Luigi De Canio,12232,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932211
+32,dom 19/04/2009,10:00,Roma,Lecce,4-4-1-1,Luigi De Canio,34393,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932196
+33,dom 26/04/2009,10:00,Lecce,Catania Calcio,4-3-1-2,Luigi De Canio,9045,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932187
+34,dom 03/05/2009,10:00,Juventus,Lecce,4-5-1 plano,Luigi De Canio,21809,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932302
+35,dom 10/05/2009,10:00,Lecce,Napoli,3-5-2 plano,Luigi De Canio,14511,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932279
+36,dom 17/05/2009,10:00,Bologna,Lecce,4-4-2 duplo 6,Luigi De Canio,26490,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932261
+37,dom 24/05/2009,10:00,Lecce,Fiorentina,4-3-1-2,Luigi De Canio,7608,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932253
+38,dom 31/05/2009,10:00,Genoa,Lecce,4-3-1-2,Luigi De Canio,28159,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932228

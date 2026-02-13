@@ -1,0 +1,41 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/09/2020,14:00,Galatasaray,Gaziantep FK,4-1-4-1,Fatih Terim,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426664
+2,dom 20/09/2020,13:00,Basaksehir,Galatasaray,4-1-4-1,Fatih Terim,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426675
+3,dom 27/09/2020,13:00,Galatasaray,Fenerbahce,4-1-4-1,Fatih Terim,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426683
+4,dom 04/10/2020,13:00,Kasimpasa,Galatasaray,4-1-4-1,Fatih Terim,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426692
+5,seg 19/10/2020,14:00,Galatasaray,Alanyaspor,4-2-3-1,Fatih Terim,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426833
+6,sáb 24/10/2020,13:00,BB Erzurumspor,Galatasaray,4-1-4-1,Fatih Terim,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426840
+7,sáb 31/10/2020,13:00,Galatasaray,Ankaragücü,4-1-4-1,Fatih Terim,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426851
+8,dom 08/11/2020,13:00,Sivasspor,Galatasaray,4-1-4-1,Fatih Terim,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426862
+9,seg 23/11/2020,13:30,Galatasaray,Kayserispor,4-1-4-1,Fatih Terim,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426873
+10,sáb 28/11/2020,13:00,C. Rizespor,Galatasaray,4-1-4-1,Fatih Terim,x,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426884
+11,sáb 05/12/2020,13:00,Galatasaray,Hatayspor,4-1-4-1,Fatih Terim,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426895
+13,sex 18/12/2020,13:00,Karagümrük,Galatasaray,4-1-4-1,Fatih Terim,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426916
+14,ter 22/12/2020,13:00,Galatasaray,Göztepe,4-1-4-1,Fatih Terim,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426926
+15,sáb 26/12/2020,13:00,Trabzonspor,Galatasaray,4-1-4-1,Fatih Terim,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426936
+16,sáb 02/01/2021,13:00,Galatasaray,Antalyaspor,4-1-4-1,Fatih Terim,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426946
+17,ter 05/01/2021,13:00,Konyaspor,Galatasaray,4-1-4-1,Fatih Terim,x,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426956
+18,sáb 09/01/2021,13:00,Galatasaray,Genclerbirligi,4-3-3 ofensivo,Fatih Terim,x,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426966
+19,dom 17/01/2021,13:00,Besiktas,Galatasaray,4-1-4-1,Fatih Terim,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426976
+20,qua 20/01/2021,13:00,Galatasaray,Denizlispor,4-1-4-1,Fatih Terim,x,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426986
+21,dom 24/01/2021,10:00,Y. Malatyaspor,Galatasaray,4-1-4-1,Fatih Terim,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426995
+22,sex 29/01/2021,13:00,Gaziantep FK,Galatasaray,4-1-4-1,Fatih Terim,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427005
+23,ter 02/02/2021,13:00,Galatasaray,Basaksehir,4-1-4-1,Fatih Terim,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427016
+24,sáb 06/02/2021,13:00,Fenerbahce,Galatasaray,4-1-4-1,Fatih Terim,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427024
+25,dom 14/02/2021,10:00,Galatasaray,Kasimpasa,4-1-4-1,Fatih Terim,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427033
+26,sáb 20/02/2021,13:00,Alanyaspor,Galatasaray,4-1-4-1,Fatih Terim,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427043
+27,sáb 27/02/2021,13:00,Galatasaray,BB Erzurumspor,4-1-4-1,Fatih Terim,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427050
+28,qua 03/03/2021,13:00,Ankaragücü,Galatasaray,4-1-4-1,Fatih Terim,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427061
+29,dom 07/03/2021,13:00,Galatasaray,Sivasspor,4-1-4-1,Fatih Terim,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427072
+30,sáb 13/03/2021,13:00,Kayserispor,Galatasaray,4-4-2 losango,Fatih Terim,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427083
+31,sex 19/03/2021,13:00,Galatasaray,C. Rizespor,4-1-3-2,Fatih Terim,x,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427094
+32,sáb 03/04/2021,13:00,Hatayspor,Galatasaray,4-1-4-1,Fatih Terim,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427105
+34,sáb 10/04/2021,13:00,Galatasaray,Karagümrük,4-1-4-1,Fatih Terim,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427126
+35,sáb 17/04/2021,13:00,Göztepe,Galatasaray,4-1-4-1,Fatih Terim,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427136
+36,qua 21/04/2021,13:00,Galatasaray,Trabzonspor,4-1-4-1,Fatih Terim,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427146
+37,sáb 24/04/2021,14:30,Antalyaspor,Galatasaray,4-1-4-1,Fatih Terim,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427156
+38,qua 28/04/2021,14:30,Galatasaray,Konyaspor,4-1-4-1,Fatih Terim,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427166
+39,dom 02/05/2021,14:30,Genclerbirligi,Galatasaray,4-1-4-1,Fatih Terim,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427176
+40,sáb 08/05/2021,14:30,Galatasaray,Besiktas,4-1-4-1,Fatih Terim,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427186
+41,ter 11/05/2021,14:30,Denizlispor,Galatasaray,4-1-4-1,Fatih Terim,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427196
+42,sáb 15/05/2021,14:30,Galatasaray,Y. Malatyaspor,4-1-4-1,Fatih Terim,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427205

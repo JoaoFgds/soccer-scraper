@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/09/1998,15:30,AC Parma,Vicenza,3-4-1-2,Alberto Malesani,22000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214215
+2,dom 20/09/1998,11:00,AC Venezia 1907,AC Parma,3-4-1-2,Alberto Malesani,10000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214223
+3,sáb 26/09/1998,15:30,AC Parma,Juventus,3-4-1-2,Alberto Malesani,27000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214233
+4,dom 04/10/1998,10:30,Bologna,AC Parma,3-4-1-2,Alberto Malesani,26229,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214245
+5,sáb 17/10/1998,11:30,AC Parma,Salernitana,3-4-1-2,Alberto Malesani,22000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214247
+6,dom 25/10/1998,11:30,Perugia,AC Parma,3-4-1-2,Alberto Malesani,14652,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214264
+7,sáb 31/10/1998,11:30,AC Parma,Florenz,3-4-1-2,Alberto Malesani,28227,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214266
+8,dom 08/11/1998,11:30,Bari,AC Parma,3-4-1-2,Alberto Malesani,17782,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214275
+9,dom 15/11/1998,11:30,AC Parma,Udinese,3-4-1-2,Alberto Malesani,21397,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214289
+10,sáb 21/11/1998,11:30,Cagliari,AC Parma,4-3-1-2,Alberto Malesani,17872,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214292
+11,dom 29/11/1998,11:30,AC Parma,Milan,3-4-2-1,Alberto Malesani,27641,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214305
+12,sáb 05/12/1998,17:30,Sampdoria,AC Parma,3-4-1-2,Alberto Malesani,18733,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214311
+13,dom 13/12/1998,11:30,AC Parma,Roma,3-4-1-2,Alberto Malesani,26927,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214323
+14,dom 20/12/1998,11:30,Empoli,AC Parma,3-4-1-2,Alberto Malesani,12312,3:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214333
+15,qua 06/01/1999,11:30,AC Parma,Inter,3-4-1-2,Alberto Malesani,29964,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214337
+16,dom 10/01/1999,11:30,Piacenza,AC Parma,3-4-1-2,Alberto Malesani,10498,3:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214352
+17,dom 17/01/1999,17:30,AC Parma,Lazio,3-4-1-2,Alberto Malesani,23620,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214354
+18,dom 24/01/1999,11:30,Vicenza,AC Parma,3-4-1-2,Alberto Malesani,12292,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214371
+19,dom 31/01/1999,11:30,AC Parma,AC Venezia 1907,3-4-1-2,Alberto Malesani,24000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214376
+20,dom 07/02/1999,17:30,Juventus,AC Parma,3-5-2,Alberto Malesani,44782,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214390
+21,dom 14/02/1999,17:30,AC Parma,Bologna,3-4-1-2,Alberto Malesani,21068,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214392
+22,dom 21/02/1999,11:00,Salernitana,AC Parma,3-4-3 plano,Alberto Malesani,44596,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214408
+23,sáb 27/02/1999,16:30,AC Parma,Perugia,3-4-3 plano,Alberto Malesani,19769,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214410
+24,dom 07/03/1999,11:00,Florenz,AC Parma,3-4-1-2,Alberto Malesani,33967,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214422
+25,sáb 13/03/1999,16:30,AC Parma,Bari,3-4-3 plano,Alberto Malesani,19131,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214427
+26,dom 21/03/1999,16:30,Udinese,AC Parma,3-4-1-2,Alberto Malesani,20223,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214444
+27,sáb 03/04/1999,11:00,AC Parma,Cagliari,3-4-3 plano,Alberto Malesani,22500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214451
+28,dom 11/04/1999,11:00,Milan,AC Parma,3-4-1-2,Alberto Malesani,66279,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214462
+29,sáb 17/04/1999,15:30,AC Parma,Sampdoria,3-4-1-2,Alberto Malesani,22197,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214463
+30,dom 25/04/1999,11:00,Roma,AC Parma,3-4-1-2,Alberto Malesani,57841,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214472
+31,dom 02/05/1999,11:00,AC Parma,Empoli,3-4-1-2,Alberto Malesani,17000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214486
+32,sáb 08/05/1999,15:30,Inter,AC Parma,3-4-1-2,Alberto Malesani,65744,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214490
+33,dom 16/05/1999,11:30,AC Parma,Piacenza,3-4-1-2,Alberto Malesani,24000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214503
+34,dom 23/05/1999,11:30,Lazio,AC Parma,3-5-2 plano,Alberto Malesani,73967,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214513

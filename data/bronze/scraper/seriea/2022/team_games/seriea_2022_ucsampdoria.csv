@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 13/08/2022,13:30,Sampdoria,Atalanta,4-1-4-1,Marco Giampaolo,20047,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844744
+2,seg 22/08/2022,15:45,Sampdoria,Juventus,4-1-4-1,Marco Giampaolo,27573,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844752
+3,dom 28/08/2022,13:30,Salernitana,Sampdoria,4-1-4-1,Marco Giampaolo,19116,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844764
+4,qua 31/08/2022,13:30,Sampdoria,Lazio,4-1-4-1,Marco Giampaolo,18499,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844773
+5,dom 04/09/2022,13:00,Verona,Sampdoria,4-3-1-2,Marco Giampaolo,16675,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844778
+6,sáb 10/09/2022,15:45,Sampdoria,Milan,4-3-3 ofensivo,Marco Giampaolo,23049,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844794
+7,sáb 17/09/2022,13:00,Spezia Calcio,Sampdoria,4-1-4-1,Marco Giampaolo,10000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844803
+8,dom 02/10/2022,10:00,Sampdoria,Monza,4-3-3 ofensivo,Marco Giampaolo,19806,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844814
+9,sáb 08/10/2022,15:45,Bologna,Sampdoria,4-2-3-1,Dejan Stanković,20871,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844816
+10,seg 17/10/2022,13:30,Sampdoria,Roma,4-4-2 duplo 6,Dejan Stanković,20803,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844833
+11,seg 24/10/2022,13:30,Cremonese,Sampdoria,4-3-1-2,Dejan Stanković,13021,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844838
+12,sáb 29/10/2022,15:45,Inter,Sampdoria,4-4-1-1,Dejan Stanković,73311,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844849
+13,dom 06/11/2022,11:00,Sampdoria,Fiorentina,4-4-2 duplo 6,Dejan Stanković,19226,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845154
+14,qua 09/11/2022,16:45,Torino,Sampdoria,3-4-1-2,Dejan Stanković,15593,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844875
+15,sáb 12/11/2022,14:00,Sampdoria,Lecce,3-4-1-2,Dejan Stanković,20211,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844885
+16,qua 04/01/2023,08:30,Sassuolo,Sampdoria,3-4-1-2,Dejan Stanković,11782,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844892
+17,dom 08/01/2023,14:00,Sampdoria,Napoli,3-4-1-2,Dejan Stanković,24490,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844904
+18,seg 16/01/2023,16:45,Empoli,Sampdoria,3-4-1-2,Dejan Stanković,10364,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844908
+19,dom 22/01/2023,08:30,Sampdoria,Udinese,3-4-1-2,Dejan Stanković,18462,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844924
+20,sáb 28/01/2023,16:45,Atalanta,Sampdoria,3-4-1-2,Dejan Stanković,19095,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844926
+21,seg 06/02/2023,16:45,Monza,Sampdoria,3-4-2-1,Dejan Stanković,11950,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844940
+22,seg 13/02/2023,16:45,Sampdoria,Inter,3-4-1-2,Dejan Stanković,21575,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844954
+23,sáb 18/02/2023,11:00,Sampdoria,Bologna,3-4-1-2,Dejan Stanković,18269,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844962
+24,seg 27/02/2023,16:45,Lazio,Sampdoria,3-4-1-2,Dejan Stanković,35000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844971
+25,dom 05/03/2023,11:00,Sampdoria,Salernitana,3-4-2-1,Dejan Stanković,20353,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844982
+26,dom 12/03/2023,16:45,Juventus,Sampdoria,3-4-2-1,Dejan Stanković,35166,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844990
+27,dom 19/03/2023,08:30,Sampdoria,Verona,3-4-2-1,Dejan Stanković,18228,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845002
+28,dom 02/04/2023,13:00,Roma,Sampdoria,4-2-3-1,Dejan Stanković,62108,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845013
+29,sáb 08/04/2023,11:30,Sampdoria,Cremonese,4-2-3-1,Dejan Stanković,20421,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845023
+30,dom 16/04/2023,07:30,Lecce,Sampdoria,3-4-2-1,Dejan Stanković,22471,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845030
+31,sáb 22/04/2023,15:45,Sampdoria,Spezia Calcio,3-4-2-1,Dejan Stanković,19181,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845044
+32,dom 30/04/2023,13:00,Fiorentina,Sampdoria,3-4-1-2,Dejan Stanković,30602,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845048
+33,qua 03/05/2023,13:00,Sampdoria,Torino,3-4-1-2,Dejan Stanković,16865,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845064
+34,seg 08/05/2023,13:30,Udinese,Sampdoria,3-4-1-2,Dejan Stanković,20430,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845075
+35,seg 15/05/2023,15:45,Sampdoria,Empoli,3-4-1-2,Dejan Stanković,16867,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845084
+36,sáb 20/05/2023,15:45,Milan,Sampdoria,4-4-2 duplo 6,Dejan Stanković,72105,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845090
+37,sex 26/05/2023,15:45,Sampdoria,Sassuolo,3-4-2-1,Dejan Stanković,18430,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845104
+38,dom 04/06/2023,13:30,Napoli,Sampdoria,3-4-1-2,Dejan Stanković,54000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845111

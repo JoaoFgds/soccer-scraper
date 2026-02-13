@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 25/09/2020,11:45,Monza,SPAL,3-4-3 plano,Pasquale Marino,956,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442544
+2,sáb 03/10/2020,11:15,SPAL,Cosenza,3-4-1-2,Pasquale Marino,1000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442556
+3,sáb 17/10/2020,09:00,Pordenone,SPAL,3-4-1-2,Pasquale Marino,459,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442565
+4,ter 20/10/2020,16:00,Empoli,SPAL,3-4-2-1,Pasquale Marino,1000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442572
+5,sáb 24/10/2020,09:00,SPAL,LR Vicenza,3-4-2-1,Pasquale Marino,909,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442587
+6,dom 01/11/2020,11:00,Reggina,SPAL,3-4-1-2,Pasquale Marino,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442596
+7,sex 06/11/2020,17:00,SPAL,Salernitana,3-4-1-2,Pasquale Marino,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442607
+8,sáb 21/11/2020,10:00,SPAL,Pescara,3-4-1-2,Pasquale Marino,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442618
+9,seg 30/11/2020,17:00,Virtus Entella,SPAL,3-4-1-2,Pasquale Marino,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442628
+10,sáb 05/12/2020,10:00,SPAL,AC Pisa 1909,3-4-1-2,Pasquale Marino,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442638
+11,sáb 12/12/2020,14:00,Cittadella,SPAL,3-4-3 plano,Pasquale Marino,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442641
+12,ter 15/12/2020,17:00,SPAL,Chievo Verona,3-4-2-1,Pasquale Marino,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442658
+13,sáb 19/12/2020,14:00,Venezia,SPAL,3-4-3 plano,Pasquale Marino,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442667
+14,ter 22/12/2020,15:00,SPAL,Lecce,3-4-2-1,Pasquale Marino,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442678
+15,dom 27/12/2020,11:00,Ascoli,SPAL,3-4-2-1,Pasquale Marino,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442679
+16,qua 30/12/2020,14:00,SPAL,Brescia,3-4-2-1,Pasquale Marino,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442698
+17,seg 04/01/2021,14:00,Frosinone,SPAL,3-4-2-1,Pasquale Marino,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442703
+18,seg 18/01/2021,17:00,SPAL,Reggiana,3-5-2 plano,Pasquale Marino,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442718
+19,dom 24/01/2021,17:00,Cremonese,SPAL,3-5-2 plano,Pasquale Marino,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442722
+20,dom 31/01/2021,12:00,SPAL,Monza,3-5-2 plano,Pasquale Marino,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442734
+21,sáb 06/02/2021,10:00,Cosenza,SPAL,3-1-4-2,Pasquale Marino,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442746
+22,ter 09/02/2021,15:00,SPAL,Pordenone,3-5-2 plano,Pasquale Marino,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442755
+23,sáb 13/02/2021,12:00,SPAL,Empoli,3-5-2 plano,Pasquale Marino,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442762
+24,sáb 20/02/2021,10:00,LR Vicenza,SPAL,4-3-2-1,Pasquale Marino,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442777
+25,sáb 27/02/2021,10:00,SPAL,Reggina,4-3-1-2,Pasquale Marino,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442786
+26,ter 02/03/2021,15:00,Salernitana,SPAL,3-5-2 plano,Pasquale Marino,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442797
+27,sáb 06/03/2021,10:00,Pescara,SPAL,3-5-2 plano,Pasquale Marino,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442808
+28,sex 12/03/2021,17:00,SPAL,Virtus Entella,3-5-2 plano,Pasquale Marino,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442818
+29,seg 15/03/2021,17:00,AC Pisa 1909,SPAL,3-5-2 plano,Pasquale Marino,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442828
+30,sáb 20/03/2021,14:00,SPAL,Cittadella,3-5-2 plano,Massimo Rastelli,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442831
+31,sex 02/04/2021,14:00,Chievo Verona,SPAL,3-5-2 plano,Massimo Rastelli,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442848
+32,seg 05/04/2021,14:00,SPAL,Venezia,3-5-2 plano,Massimo Rastelli,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442857
+33,sáb 10/04/2021,09:00,Lecce,SPAL,4-3-1-2,Massimo Rastelli,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442868
+34,sex 16/04/2021,16:00,SPAL,Ascoli,4-3-1-2,Massimo Rastelli,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442869
+35,sáb 01/05/2021,09:00,Brescia,SPAL,4-3-1-2,Massimo Rastelli,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442888
+36,ter 04/05/2021,09:00,SPAL,Frosinone,3-4-1-2,Massimo Rastelli,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442893
+37,sex 07/05/2021,09:00,Reggiana,SPAL,3-5-2 plano,Massimo Rastelli,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442908
+38,seg 10/05/2021,09:00,SPAL,Cremonese,3-5-2 plano,Massimo Rastelli,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442912

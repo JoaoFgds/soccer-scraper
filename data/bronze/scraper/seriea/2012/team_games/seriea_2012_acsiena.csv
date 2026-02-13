@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 26/08/2012,15:45,AC Siena,Torino,3-5-2 plano,Serse Cosmi,8251,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251269
+2,dom 02/09/2012,15:45,Sampdoria,AC Siena,5-3-2,Serse Cosmi,22587,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251280
+3,dom 16/09/2012,10:00,AC Siena,Udinese,3-5-2 plano,Serse Cosmi,7831,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251291
+4,dom 23/09/2012,10:00,Inter,AC Siena,3-4-2-1,Serse Cosmi,40357,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251297
+5,qui 27/09/2012,15:45,AC Siena,Bologna,3-5-2 ofensivo,Serse Cosmi,8180,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251311
+6,dom 30/09/2012,10:00,Lazio,AC Siena,3-4-2-1,Serse Cosmi,28512,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251318
+7,dom 07/10/2012,10:00,AC Siena,Juventus,3-4-2-1,Serse Cosmi,15373,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251331
+8,dom 21/10/2012,11:00,Atalanta,AC Siena,5-4-1 plano,Serse Cosmi,18344,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251333
+9,sáb 27/10/2012,14:00,AC Siena,US Palermo,3-4-2-1,Serse Cosmi,8708,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251351
+10,qua 31/10/2012,17:45,Cagliari,AC Siena,3-5-2 plano,Serse Cosmi,4389,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251354
+11,dom 04/11/2012,12:00,AC Siena,Genoa,3-4-2-1,Serse Cosmi,8076,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251372
+12,dom 11/11/2012,12:00,Parma,AC Siena,3-4-2-1,Serse Cosmi,10611,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251380
+13,dom 18/11/2012,12:00,AC Siena,Pescara,3-4-2-1,Serse Cosmi,8382,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251391
+14,dom 25/11/2012,12:00,Chievo Verona,AC Siena,3-4-2-1,Serse Cosmi,6000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251395
+15,dom 02/12/2012,12:00,AC Siena,Roma,3-5-2 plano,Serse Cosmi,10291,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251411
+16,dom 09/12/2012,12:00,AC Siena,Catania Calcio,3-4-2-1,Serse Cosmi,8240,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251421
+17,dom 16/12/2012,09:30,Fiorentina,AC Siena,3-5-2,Serse Cosmi,22455,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251425
+18,sáb 22/12/2012,12:00,AC Siena,Napoli,5-3-2,Giuseppe Iachini,9489,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251441
+19,dom 06/01/2013,12:00,Milan,AC Siena,3-5-2 plano,Giuseppe Iachini,30404,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2252316
+20,dom 13/01/2013,09:30,Torino,AC Siena,5-3-2,Giuseppe Iachini,10783,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251452
+21,dom 20/01/2013,12:00,AC Siena,Sampdoria,3-4-2-1,Giuseppe Iachini,7961,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251460
+22,dom 27/01/2013,12:00,Udinese,AC Siena,3-4-2-1,Giuseppe Iachini,11011,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251471
+23,dom 03/02/2013,12:00,AC Siena,Inter,4-4-1-1,Giuseppe Iachini,12130,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251477
+24,dom 10/02/2013,12:00,Bologna,AC Siena,5-3-2,Giuseppe Iachini,20968,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251491
+25,seg 18/02/2013,16:45,AC Siena,Lazio,5-3-2,Giuseppe Iachini,8679,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251498
+26,dom 24/02/2013,11:00,Juventus,AC Siena,5-3-2,Giuseppe Iachini,38461,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251511
+27,dom 03/03/2013,11:00,AC Siena,Atalanta,5-3-2,Giuseppe Iachini,8155,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251513
+28,dom 10/03/2013,11:00,US Palermo,AC Siena,3-4-2-1,Giuseppe Iachini,18214,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251531
+29,dom 17/03/2013,08:30,AC Siena,Cagliari,5-3-2,Giuseppe Iachini,8639,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251534
+30,sáb 30/03/2013,11:00,Genoa,AC Siena,5-3-2,Giuseppe Iachini,19613,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251552
+31,dom 07/04/2013,10:00,AC Siena,Parma,3-4-2-1,Giuseppe Iachini,9880,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251560
+32,sáb 13/04/2013,13:00,Pescara,AC Siena,3-4-2-1,Giuseppe Iachini,8851,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251571
+33,dom 21/04/2013,10:00,AC Siena,Chievo Verona,3-4-2-1,Giuseppe Iachini,9274,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251575
+34,dom 28/04/2013,10:00,Roma,AC Siena,3-4-2-1,Giuseppe Iachini,41949,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251591
+35,dom 05/05/2013,10:00,Catania Calcio,AC Siena,3-4-3 plano,Giuseppe Iachini,13107,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251601
+36,qua 08/05/2013,15:45,AC Siena,Fiorentina,3-5-2 plano,Giuseppe Iachini,11435,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251605
+37,dom 12/05/2013,10:00,Napoli,AC Siena,3-5-2 plano,Giuseppe Iachini,52433,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251621
+38,dom 19/05/2013,15:45,AC Siena,Milan,3-5-2 plano,Giuseppe Iachini,13083,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251629

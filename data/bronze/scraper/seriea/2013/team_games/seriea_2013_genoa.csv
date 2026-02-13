@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 25/08/2013,13:00,Inter,Genoa,4-3-2-1,Fabio Liverani,42797,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2355581
+2,dom 01/09/2013,15:45,Genoa,Fiorentina,4-3-2-1,Fabio Liverani,21000,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359219
+3,dom 15/09/2013,15:45,Sampdoria,Genoa,5-3-2,Fabio Liverani,34292,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359232
+4,sáb 21/09/2013,15:45,Genoa,AS Livorno,5-3-2,Fabio Liverani,18956,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359240
+5,ter 24/09/2013,15:45,Udinese,Genoa,5-3-2,Fabio Liverani,7810,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359254
+6,sáb 28/09/2013,13:00,Genoa,Napoli,3-5-2 plano,Fabio Liverani,23883,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359259
+7,dom 06/10/2013,10:00,Catania Calcio,Genoa,3-4-3 plano,Gian Piero Gasperini,12482,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359266
+8,dom 20/10/2013,11:00,Genoa,Chievo Verona,3-4-3 plano,Gian Piero Gasperini,18563,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359278
+9,dom 27/10/2013,12:00,Juventus,Genoa,4-4-1-1,Gian Piero Gasperini,38767,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359289
+10,qua 30/10/2013,17:45,Genoa,Parma,3-5-2 plano,Gian Piero Gasperini,18042,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359298
+11,dom 03/11/2013,12:00,Lazio,Genoa,3-5-2 plano,Gian Piero Gasperini,33682,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359307
+12,dom 10/11/2013,09:30,Genoa,Verona,3-4-3 plano,Gian Piero Gasperini,19715,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359320
+13,sáb 23/11/2013,17:45,Milan,Genoa,3-4-3 plano,Gian Piero Gasperini,34848,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359328
+14,sáb 30/11/2013,17:45,Genoa,Torino,3-4-3 plano,Gian Piero Gasperini,19262,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359340
+15,dom 08/12/2013,12:00,Cagliari,Genoa,3-4-3 plano,Gian Piero Gasperini,4500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359346
+16,dom 15/12/2013,12:00,Genoa,Atalanta,3-4-3 plano,Gian Piero Gasperini,18148,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359358
+17,dom 22/12/2013,09:30,Bologna,Genoa,3-5-2 plano,Gian Piero Gasperini,20418,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359366
+18,seg 06/01/2014,12:00,Genoa,Sassuolo,3-4-3 plano,Gian Piero Gasperini,18431,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359378
+19,dom 12/01/2014,12:00,Roma,Genoa,3-5-2 plano,Gian Piero Gasperini,37867,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359391
+20,dom 19/01/2014,12:00,Genoa,Inter,3-5-2 plano,Gian Piero Gasperini,20274,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359398
+21,dom 26/01/2014,17:45,Fiorentina,Genoa,4-5-1,Gian Piero Gasperini,29776,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359409
+22,seg 03/02/2014,17:45,Genoa,Sampdoria,3-4-3 plano,Gian Piero Gasperini,29878,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359422
+23,dom 09/02/2014,12:00,AS Livorno,Genoa,3-4-3 plano,Gian Piero Gasperini,9470,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359430
+24,dom 16/02/2014,11:00,Genoa,Udinese,3-5-2 plano,Gian Piero Gasperini,18061,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359444
+25,seg 24/02/2014,17:00,Napoli,Genoa,3-4-3 plano,Gian Piero Gasperini,30377,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359449
+26,dom 02/03/2014,11:00,Genoa,Catania Calcio,3-4-3 plano,Gian Piero Gasperini,18092,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359456
+27,dom 09/03/2014,11:00,Chievo Verona,Genoa,3-4-3 plano,Gian Piero Gasperini,5000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359468
+28,dom 16/03/2014,16:45,Genoa,Juventus,3-5-2 plano,Gian Piero Gasperini,23832,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359479
+29,dom 23/03/2014,08:30,Parma,Genoa,3-4-3 plano,Gian Piero Gasperini,12441,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359488
+30,qua 26/03/2014,16:45,Genoa,Lazio,4-4-1-1,Gian Piero Gasperini,17875,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359497
+31,dom 30/03/2014,10:00,Verona,Genoa,4-3-3 ofensivo,Gian Piero Gasperini,20144,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359510
+32,seg 07/04/2014,16:00,Genoa,Milan,3-4-3 plano,Gian Piero Gasperini,20887,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359518
+33,dom 13/04/2014,10:00,Torino,Genoa,3-5-2 plano,Gian Piero Gasperini,16108,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359530
+34,sáb 19/04/2014,10:00,Genoa,Cagliari,3-4-3 plano,Gian Piero Gasperini,18318,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359536
+35,dom 27/04/2014,15:45,Atalanta,Genoa,3-4-3 plano,Gian Piero Gasperini,12074,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359548
+36,dom 04/05/2014,10:00,Genoa,Bologna,3-4-3 plano,Gian Piero Gasperini,18601,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359556
+37,dom 11/05/2014,10:00,Sassuolo,Genoa,4-4-2 duplo 6,Gian Piero Gasperini,16678,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359568
+38,dom 18/05/2014,10:00,Genoa,Roma,3-4-3 plano,Gian Piero Gasperini,19223,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359581

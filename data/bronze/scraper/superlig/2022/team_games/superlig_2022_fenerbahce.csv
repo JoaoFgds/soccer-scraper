@@ -1,0 +1,37 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 08/08/2022,15:45,Fenerbahce,Ümraniyespor,4-4-2 losango,Jorge Jesus,37456,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3854850
+2,seg 15/08/2022,15:45,Kasimpasa,Fenerbahce,4-1-3-2,Jorge Jesus,4811,0:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860205
+3,seg 22/08/2022,15:45,Fenerbahce,Adana Demirspor,3-4-3 plano,Jorge Jesus,41686,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860277
+4,seg 29/08/2022,13:15,Konyaspor,Fenerbahce,3-4-3 plano,Jorge Jesus,14172,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860188
+5,sáb 03/09/2022,15:45,Fenerbahce,Kayserispor,3-4-3 plano,Jorge Jesus,38827,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860241
+7,dom 18/09/2022,14:00,Fenerbahce,Alanyaspor,4-4-2 duplo 6,Jorge Jesus,39595,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860251
+8,dom 02/10/2022,14:00,Besiktas,Fenerbahce,3-4-3 plano,Jorge Jesus,39317,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860264
+9,dom 09/10/2022,14:00,Fenerbahce,Karagümrük,4-4-2 duplo 6,Jorge Jesus,39537,5:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860259
+10,seg 17/10/2022,14:00,Ankaragücü,Fenerbahce,3-1-4-2,Jorge Jesus,17450,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860221
+11,sáb 22/10/2022,14:00,Fenerbahce,Basaksehir,3-5-2 ofensivo,Jorge Jesus,42079,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860286
+12,dom 30/10/2022,14:00,Istanbulspor,Fenerbahce,4-4-2 duplo 6,Jorge Jesus,15871,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860304
+13,seg 07/11/2022,14:00,Fenerbahce,Sivasspor,4-1-3-2,Jorge Jesus,40349,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860340
+14,sáb 12/11/2022,11:00,Fenerbahce,Giresunspor,4-1-3-2,Jorge Jesus,41203,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860314
+15,sáb 24/12/2022,13:00,Trabzonspor,Fenerbahce,3-4-3 plano,Jorge Jesus,35705,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860292
+16,ter 27/12/2022,14:00,Fenerbahce,Hatayspor,4-4-2 duplo 6,Jorge Jesus,32961,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860350
+17,ter 03/01/2023,14:00,Antalyaspor,Fenerbahce,4-4-2 duplo 6,Jorge Jesus,24002,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860316
+18,dom 08/01/2023,13:00,Fenerbahce,Galatasaray,3-4-3 plano,Jorge Jesus,45798,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860331
+19,dom 15/01/2023,13:00,Gaziantep FK,Fenerbahce,4-1-3-2,Jorge Jesus,13426,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860356
+20,seg 23/01/2023,14:00,Ümraniyespor,Fenerbahce,4-4-2 duplo 6,Jorge Jesus,2606,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860368
+21,dom 29/01/2023,13:00,Fenerbahce,Kasimpasa,4-4-2 duplo 6,Jorge Jesus,38030,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860421
+22,qui 02/02/2023,14:00,Adana Demirspor,Fenerbahce,4-1-3-2,Jorge Jesus,29298,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860412
+23,sáb 25/02/2023,13:00,Fenerbahce,Konyaspor,4-1-3-2,João de Deus,36259,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860386
+24,sáb 04/03/2023,13:00,Kayserispor,Fenerbahce,4-1-3-2,Jorge Jesus,12370,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860376
+26,dom 19/03/2023,13:00,Alanyaspor,Fenerbahce,4-1-3-2,Jorge Jesus,7840,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860404
+27,dom 02/04/2023,14:30,Fenerbahce,Besiktas,3-5-2,João de Deus,43899,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860498
+28,seg 10/04/2023,14:30,Karagümrük,Fenerbahce,4-1-3-2,Jorge Jesus,2083,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860394
+29,sáb 15/04/2023,14:30,Fenerbahce,Ankaragücü,4-1-3-2,Jorge Jesus,32587,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860464
+30,qua 19/04/2023,14:30,Basaksehir,Fenerbahce,4-1-3-2,Jorge Jesus,5354,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860475
+31,seg 24/04/2023,14:00,Fenerbahce,Istanbulspor,4-1-3-2,Jorge Jesus,39015,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860448
+32,sáb 29/04/2023,13:00,Sivasspor,Fenerbahce,4-1-3-2,Jorge Jesus,12622,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860493
+33,dom 07/05/2023,13:00,Giresunspor,Fenerbahce,4-1-3-2,Jorge Jesus,7499,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860485
+34,qui 18/05/2023,14:00,Fenerbahce,Trabzonspor,4-1-3-2,Jorge Jesus,32622,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860454
+35,sáb 20/05/2023,19:00,Hatayspor,Fenerbahce,?,,,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4072488
+36,ter 30/05/2023,14:00,Fenerbahce,Antalyaspor,4-1-3-2,Jorge Jesus,29564,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860523
+37,dom 04/06/2023,13:00,Galatasaray,Fenerbahce,4-1-3-2,Jorge Jesus,50453,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860430
+38,seg 05/06/2023,19:00,Fenerbahce,Gaziantep FK,?,Jorge Jesus,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4072497

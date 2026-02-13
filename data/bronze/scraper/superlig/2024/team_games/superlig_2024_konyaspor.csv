@@ -1,0 +1,37 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 10/08/2024,13:15,Kasimpasa,Konyaspor,4-2-3-1,Ali Çamdalı,1635,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4387781
+2,sex 16/08/2024,15:00,Konyaspor,Galatasaray,3-4-2-1,Ali Çamdalı,28290,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4387822
+3,sáb 24/08/2024,15:45,Bodrum FK,Konyaspor,4-2-3-1,Ali Çamdalı,2759,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4387834
+4,sáb 31/08/2024,13:15,Konyaspor,Kayserispor,4-2-3-1,Ali Çamdalı,12956,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4387840
+5,sáb 14/09/2024,11:00,Samsunspor,Konyaspor,4-2-3-1,Ali Çamdalı,11322,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393147
+6,sáb 21/09/2024,11:00,Konyaspor,Sivasspor,4-2-3-1,Ali Çamdalı,12281,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393155
+7,dom 29/09/2024,10:00,Trabzonspor,Konyaspor,4-2-3-1,Ali Çamdalı,17427,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393165
+8,dom 06/10/2024,07:30,Konyaspor,Eyüpspor,4-2-3-1,Ali Çamdalı,13385,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393175
+9,dom 20/10/2024,10:00,Besiktas,Konyaspor,4-2-3-1,Ali Çamdalı,33562,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393178
+10,dom 27/10/2024,07:30,Gaziantep FK,Konyaspor,4-2-3-1,Ali Çamdalı,5805,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393188
+11,dom 03/11/2024,07:30,Konyaspor,Basaksehir,4-2-3-1,Recep Uçar,1274,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393199
+12,dom 10/11/2024,07:30,Göztepe,Konyaspor,4-2-3-1,Recep Uçar,16923,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393205
+13,dom 24/11/2024,10:00,Konyaspor,Hatayspor,4-3-3 ofensivo,Recep Uçar,8052,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393217
+14,sáb 30/11/2024,10:00,Adana Demirspor,Konyaspor,4-3-3 ofensivo,Recep Uçar,3502,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393228
+15,sáb 07/12/2024,07:30,Konyaspor,Antalyaspor,4-3-3 ofensivo,Recep Uçar,10700,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393233
+16,sáb 14/12/2024,10:00,C. Rizespor,Konyaspor,4-3-3 ofensivo,Recep Uçar,2897,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393242
+18,sex 03/01/2025,14:00,Alanyaspor,Konyaspor,4-3-3 ofensivo,Recep Uçar,3308,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393266
+19,seg 13/01/2025,14:00,Konyaspor,Fenerbahce,4-2-3-1,Recep Uçar,25822,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393272
+20,dom 19/01/2025,10:00,Konyaspor,Kasimpasa,4-3-3 ofensivo,Recep Uçar,11917,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393282
+21,sáb 25/01/2025,13:00,Galatasaray,Konyaspor,4-2-3-1,Recep Uçar,40005,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393292
+22,sex 31/01/2025,14:00,Konyaspor,Bodrum FK,4-3-3 ofensivo,Recep Uçar,11805,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393300
+23,sáb 08/02/2025,10:00,Kayserispor,Konyaspor,4-2-3-1,Recep Uçar,5695,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393305
+24,dom 16/02/2025,10:00,Konyaspor,Samsunspor,4-3-3 ofensivo,Recep Uçar,20224,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393319
+25,sáb 22/02/2025,07:30,Sivasspor,Konyaspor,4-3-3 ofensivo,Recep Uçar,2444,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393322
+26,seg 03/03/2025,10:00,Konyaspor,Trabzonspor,4-3-3 ofensivo,Recep Uçar,6685,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393336
+27,dom 09/03/2025,10:00,Eyüpspor,Konyaspor,4-2-3-1,Recep Uçar,2134,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393347
+28,sáb 15/03/2025,14:30,Konyaspor,Besiktas,3-4-2-1,Recep Uçar,9013,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393355
+29,sex 28/03/2025,14:30,Konyaspor,Gaziantep FK,4-3-3 ofensivo,Recep Uçar,10106,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393362
+30,sáb 05/04/2025,10:00,Basaksehir,Konyaspor,3-3-3-1,Recep Uçar,1401,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393368
+31,sáb 12/04/2025,10:00,Konyaspor,Göztepe,3-3-3-1,Recep Uçar,12280,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393379
+32,sex 18/04/2025,14:00,Hatayspor,Konyaspor,3-4-3 plano,Recep Uçar,976,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393393
+33,dom 27/04/2025,10:00,Konyaspor,Adana Demirspor,4-3-3 ofensivo,Recep Uçar,10787,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393397
+34,sex 02/05/2025,14:00,Antalyaspor,Konyaspor,4-3-3 ofensivo,Recep Uçar,14676,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393407
+35,sáb 10/05/2025,10:00,Konyaspor,C. Rizespor,4-3-3 ofensivo,Recep Uçar,8872,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393415
+37,dom 25/05/2025,13:00,Konyaspor,Alanyaspor,3-3-3-1,Recep Uçar,9847,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393433
+38,sáb 31/05/2025,10:00,Fenerbahce,Konyaspor,3-4-3 plano,Recep Uçar,7233,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393442

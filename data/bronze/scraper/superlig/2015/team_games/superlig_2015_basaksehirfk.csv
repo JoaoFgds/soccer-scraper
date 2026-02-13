@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 15/08/2015,16:00,Basaksehir,Antalyaspor,4-3-3 ofensivo,Abdullah Avcı,1710,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2589246
+2,sex 21/08/2015,15:45,Kasimpasa,Basaksehir,4-2-3-1,Abdullah Avcı,645,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2590403
+3,sáb 29/08/2015,13:00,Basaksehir,Bursaspor,4-3-3 ofensivo,Abdullah Avcı,2616,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2590412
+4,dom 13/09/2015,11:00,Besiktas,Basaksehir,4-2-3-1,Abdullah Avcı,10419,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2590590
+5,sex 18/09/2015,14:00,Basaksehir,Akhisar Belediye,4-2-3-1,Abdullah Avcı,1458,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2590604
+6,seg 28/09/2015,13:00,Kayserispor,Basaksehir,4-2-3-1,Abdullah Avcı,2390,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2590616
+7,sáb 03/10/2015,13:00,Basaksehir,Galatasaray,4-3-3 ofensivo,Abdullah Avcı,6793,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2590621
+8,seg 19/10/2015,15:00,Osmanlispor FK,Basaksehir,4-2-3-1,Abdullah Avcı,4091,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2593956
+9,dom 25/10/2015,09:00,Basaksehir,Konyaspor,4-2-3-1,Abdullah Avcı,1883,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2593963
+10,qui 29/10/2015,14:00,Mersin IY,Basaksehir,4-2-3-1,Abdullah Avcı,4705,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2593979
+11,sáb 07/11/2015,11:00,Basaksehir,Trabzonspor,4-2-3-1,Abdullah Avcı,6428,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2593996
+12,seg 23/11/2015,16:00,Gaziantepspor,Basaksehir,4-2-3-1,Abdullah Avcı,1659,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594006
+13,sáb 28/11/2015,12:00,Sivasspor,Basaksehir,4-2-3-1,Abdullah Avcı,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594017
+14,dom 06/12/2015,12:00,Basaksehir,Genclerbirligi,4-2-3-1,Abdullah Avcı,1633,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594018
+15,dom 13/12/2015,15:00,Fenerbahce,Basaksehir,4-2-3-1,Abdullah Avcı,28582,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594027
+16,dom 20/12/2015,15:00,Basaksehir,Eskisehirspor,4-2-3-1,Abdullah Avcı,1674,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594041
+17,sáb 26/12/2015,10:00,C. Rizespor,Basaksehir,4-2-3-1,Abdullah Avcı,2225,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594052
+18,dom 17/01/2016,09:30,Antalyaspor,Basaksehir,4-2-3-1,Abdullah Avcı,7174,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594055
+19,seg 25/01/2016,16:00,Basaksehir,Kasimpasa,4-2-3-1,Abdullah Avcı,1008,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2598035
+20,sáb 06/02/2016,12:00,Bursaspor,Basaksehir,4-2-3-1,Abdullah Avcı,16482,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2598054
+21,dom 14/02/2016,15:00,Basaksehir,Besiktas,4-2-3-1,Abdullah Avcı,6870,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2606495
+22,dom 21/02/2016,10:30,Akhisar Belediye,Basaksehir,4-2-3-1,Abdullah Avcı,1951,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2606509
+23,sex 26/02/2016,15:00,Basaksehir,Kayserispor,4-2-3-1,Abdullah Avcı,1065,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2606521
+24,dom 06/03/2016,11:00,Galatasaray,Basaksehir,4-2-3-1,Abdullah Avcı,13985,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2606526
+25,sáb 12/03/2016,10:30,Basaksehir,Osmanlispor FK,4-2-3-1,Abdullah Avcı,2090,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2606533
+26,dom 20/03/2016,08:30,Konyaspor,Basaksehir,4-2-3-1,Abdullah Avcı,17574,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2606540
+27,dom 03/04/2016,07:30,Basaksehir,Mersin IY,4-2-3-1,Abdullah Avcı,1182,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611246
+28,dom 10/04/2016,13:00,Trabzonspor,Basaksehir,4-2-3-1,Abdullah Avcı,6560,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611253
+29,dom 17/04/2016,07:30,Basaksehir,Gaziantepspor,4-2-3-1,Abdullah Avcı,897,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611263
+30,sáb 23/04/2016,10:00,Basaksehir,Sivasspor,4-2-3-1,Abdullah Avcı,1231,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611274
+31,sáb 30/04/2016,07:30,Genclerbirligi,Basaksehir,4-2-3-1,Abdullah Avcı,1150,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611275
+32,seg 09/05/2016,14:00,Basaksehir,Fenerbahce,4-2-3-1,Abdullah Avcı,6364,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611284
+33,sáb 14/05/2016,13:00,Eskisehirspor,Basaksehir,4-4-2,Abdullah Avcı,10836,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611308
+34,qua 18/05/2016,14:00,Basaksehir,C. Rizespor,4-4-2 duplo 6,Abdullah Avcı,728,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611319

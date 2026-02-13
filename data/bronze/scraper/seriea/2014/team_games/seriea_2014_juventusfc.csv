@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 30/08/2014,13:00,Chievo Verona,Juventus,3-5-2 plano,Massimiliano Allegri,25000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478590
+2,sáb 13/09/2014,15:45,Juventus,Udinese,3-5-2 plano,Massimiliano Allegri,38217,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478603
+3,sáb 20/09/2014,15:45,Milan,Juventus,3-5-2 plano,Massimiliano Allegri,78681,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478612
+4,qua 24/09/2014,15:45,Juventus,Cesena,3-5-2 plano,Massimiliano Allegri,36027,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478623
+5,sáb 27/09/2014,15:45,Atalanta,Juventus,3-5-2 plano,Massimiliano Allegri,22074,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478628
+6,dom 05/10/2014,13:00,Juventus,Roma,3-5-2 plano,Massimiliano Allegri,39102,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478641
+7,sáb 18/10/2014,15:45,Sassuolo,Juventus,3-5-2 plano,Massimiliano Allegri,20184,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478656
+8,dom 26/10/2014,12:00,Juventus,US Palermo,3-5-2 plano,Massimiliano Allegri,38891,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478661
+9,qua 29/10/2014,17:45,Genoa,Juventus,3-5-2 plano,Massimiliano Allegri,21641,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478671
+10,sáb 01/11/2014,15:00,Empoli,Juventus,3-5-2 plano,Massimiliano Allegri,14698,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478680
+11,dom 09/11/2014,12:00,Juventus,Parma,4-3-1-2,Massimiliano Allegri,39097,7:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478693
+12,sáb 22/11/2014,17:45,Lazio,Juventus,4-3-2-1,Massimiliano Allegri,52500,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478702
+13,dom 30/11/2014,15:00,Juventus,Torino,4-3-1-2,Massimiliano Allegri,38899,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478712
+14,sex 05/12/2014,17:45,Fiorentina,Juventus,3-5-2 plano,Massimiliano Allegri,38160,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478720
+15,dom 14/12/2014,09:30,Juventus,Sampdoria,4-3-1-2,Massimiliano Allegri,39089,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478732
+16,qui 18/12/2014,16:00,Cagliari,Juventus,4-3-1-2,Massimiliano Allegri,16074,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478739
+17,ter 06/01/2015,18:00,Juventus,Inter,4-3-1-2,Massimiliano Allegri,38791,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478752
+18,dom 11/01/2015,17:45,Napoli,Juventus,4-3-1-2,Massimiliano Allegri,53006,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478763
+19,dom 18/01/2015,17:45,Juventus,Verona,4-3-1-2,Massimiliano Allegri,36243,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478772
+20,dom 25/01/2015,12:00,Juventus,Chievo Verona,4-3-1-2,Massimiliano Allegri,38629,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478780
+21,dom 01/02/2015,12:00,Udinese,Juventus,3-5-2 plano,Massimiliano Allegri,11241,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478793
+22,sáb 07/02/2015,17:45,Juventus,Milan,4-3-1-2,Massimiliano Allegri,39015,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478802
+23,dom 15/02/2015,17:45,Cesena,Juventus,4-3-1-2,Massimiliano Allegri,23661,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478813
+24,sex 20/02/2015,17:45,Juventus,Atalanta,4-3-1-2,Massimiliano Allegri,37195,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478818
+25,seg 02/03/2015,17:00,Roma,Juventus,3-5-2 plano,Massimiliano Allegri,55651,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478831
+26,seg 09/03/2015,17:00,Juventus,Sassuolo,4-3-1-2,Massimiliano Allegri,37506,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478846
+27,sáb 14/03/2015,14:00,US Palermo,Juventus,3-5-2 plano,Massimiliano Allegri,29832,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478851
+28,dom 22/03/2015,11:00,Juventus,Genoa,3-4-1-2,Massimiliano Allegri,39919,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478861
+29,sáb 04/04/2015,16:00,Juventus,Empoli,3-5-2,Massimiliano Allegri,40029,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478870
+30,sáb 11/04/2015,13:00,Parma,Juventus,4-3-2-1,Massimiliano Allegri,15311,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478883
+31,sáb 18/04/2015,15:45,Juventus,Lazio,3-5-2 plano,Massimiliano Allegri,38916,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478892
+32,dom 26/04/2015,10:00,Torino,Juventus,4-3-1-2,Massimiliano Allegri,26296,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478902
+33,qua 29/04/2015,15:45,Juventus,Fiorentina,4-3-1-2,Massimiliano Allegri,37607,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478910
+34,sáb 02/05/2015,13:00,Sampdoria,Juventus,4-3-1-2,Massimiliano Allegri,22083,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478922
+35,sáb 09/05/2015,13:00,Juventus,Cagliari,4-3-3 ofensivo,Massimiliano Allegri,38847,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478929
+36,sáb 16/05/2015,13:00,Inter,Juventus,4-3-1-2,Massimiliano Allegri,60362,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478942
+37,sáb 23/05/2015,13:00,Juventus,Napoli,4-3-1-2,Massimiliano Allegri,40485,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478953
+38,sáb 30/05/2015,13:00,Verona,Juventus,4-3-1-2,Massimiliano Allegri,23149,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478962

@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 26/08/2005,15:45,Verona,Avellino,?,Massimo Ficcadenti,9898,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/35554
+2,dom 04/09/2005,10:00,Atalanta,Verona,?,Massimo Ficcadenti,9833,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37179
+3,ter 04/10/2005,15:30,Verona,Bologna,?,Massimo Ficcadenti,7372,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37191
+4,sáb 10/09/2005,11:00,Cremonese,Verona,4-3-3 ofensivo,Massimo Ficcadenti,4400,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37196
+5,sex 16/09/2005,15:45,Verona,Catanzaro,?,Massimo Ficcadenti,8418,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46049
+6,qua 21/09/2005,15:30,Rimini,Verona,?,Massimo Ficcadenti,6561,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46069
+7,sáb 24/09/2005,11:00,Verona,Brescia,4-3-2-1,Massimo Ficcadenti,8799,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46078
+8,sáb 01/10/2005,11:00,Pescara,Verona,?,Massimo Ficcadenti,3800,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46089
+9,dom 09/10/2005,10:00,Verona,Ternana,4-3-2-1,Massimo Ficcadenti,8788,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46100
+10,sáb 15/10/2005,11:00,Verona,Arezzo,4-3-2-1,Massimo Ficcadenti,7998,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/46111
+11,sáb 22/10/2005,12:00,Modena,Verona,4-3-3 ofensivo,Massimo Ficcadenti,7051,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/49185
+12,qua 26/10/2005,16:30,Verona,UC AlbinoLeffe,?,Massimo Ficcadenti,7764,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/49196
+13,sáb 29/10/2005,12:00,Triestina,Verona,?,Massimo Ficcadenti,6029,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/49206
+14,sáb 05/11/2005,13:00,Verona,FC Crotone,?,Massimo Ficcadenti,7695,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/49219
+15,dom 13/11/2005,13:00,Vicenza,Verona,4-3-3 ofensivo,Massimo Ficcadenti,8716,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/49627
+16,sáb 19/11/2005,13:00,Torino,Verona,?,Massimo Ficcadenti,25025,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/49637
+17,seg 28/11/2005,17:45,Verona,Catania Calcio,?,Massimo Ficcadenti,8806,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/49649
+18,sáb 03/12/2005,13:00,Piacenza,Verona,4-3-3 ofensivo,Massimo Ficcadenti,4749,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2315262
+19,sex 09/12/2005,17:45,Verona,Mantova,4-3-2-1,Massimo Ficcadenti,21000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/51585
+20,sáb 17/12/2005,13:00,Bari,Verona,?,Massimo Ficcadenti,4115,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/51600
+21,ter 20/12/2005,17:30,Verona,Cesena,?,Massimo Ficcadenti,8571,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/51607
+22,sáb 07/01/2006,13:00,Avellino,Verona,?,Massimo Ficcadenti,6394,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/51622
+23,sáb 14/01/2006,13:00,Verona,Atalanta,?,Massimo Ficcadenti,9265,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/51634
+24,ter 17/01/2006,17:30,Bologna,Verona,?,Massimo Ficcadenti,8309,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/51646
+25,sáb 21/01/2006,13:00,Verona,Cremonese,?,Massimo Ficcadenti,7009,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/51654
+26,sáb 18/02/2006,13:00,Catanzaro,Verona,?,Massimo Ficcadenti,6060,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/51672
+27,sáb 04/02/2006,13:00,Verona,Rimini,?,Massimo Ficcadenti,8203,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/51679
+28,ter 07/02/2006,17:30,Brescia,Verona,4-3-2-1,Massimo Ficcadenti,4000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/51690
+29,sáb 11/02/2006,13:00,Verona,Pescara,?,Massimo Ficcadenti,6998,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/51695
+30,sáb 25/02/2006,12:00,Ternana,Verona,?,Massimo Ficcadenti,3567,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/51712
+31,sex 03/03/2006,16:45,Arezzo,Verona,4-3-3 ofensivo,Massimo Ficcadenti,3550,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/51717
+32,sáb 11/03/2006,12:00,Verona,Modena,4-3-3 ofensivo,Massimo Ficcadenti,7746,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/51736
+33,sáb 18/03/2006,12:00,UC AlbinoLeffe,Verona,?,Massimo Ficcadenti,1223,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/51749
+34,sáb 25/03/2006,12:00,Verona,Triestina,?,Massimo Ficcadenti,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/51750
+35,sáb 01/04/2006,11:00,FC Crotone,Verona,4-3-2-1,Massimo Ficcadenti,4986,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/51766
+36,sáb 08/04/2006,11:00,Verona,Vicenza,4-3-2-1,Massimo Ficcadenti,8983,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/51782
+37,dom 23/04/2006,10:00,Verona,Torino,?,Massimo Ficcadenti,9988,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/51793
+38,sex 28/04/2006,15:45,Catania Calcio,Verona,?,Massimo Ficcadenti,16325,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/51798
+39,sáb 06/05/2006,10:00,Verona,Piacenza,?,Massimo Ficcadenti,9090,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/51815
+40,sáb 13/05/2006,10:00,Mantova,Verona,4-3-3 ofensivo,Massimo Ficcadenti,11123,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/51822
+41,dom 21/05/2006,10:00,Verona,Bari,4-3-2-1,Massimo Ficcadenti,9276,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/51837
+42,dom 28/05/2006,10:00,Cesena,Verona,4-3-2-1,Massimo Ficcadenti,10145,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/52305

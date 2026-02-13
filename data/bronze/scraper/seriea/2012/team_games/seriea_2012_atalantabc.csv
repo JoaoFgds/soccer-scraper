@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 26/08/2012,15:45,Atalanta,Lazio,4-4-1-1,Stefano Colantuono,10000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251263
+2,dom 02/09/2012,15:45,Cagliari,Atalanta,4-4-1-1,Stefano Colantuono,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251274
+3,sáb 15/09/2012,15:45,Milan,Atalanta,4-4-1-1,Stefano Colantuono,34763,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251286
+4,dom 23/09/2012,10:00,Atalanta,US Palermo,4-4-1-1,Stefano Colantuono,13467,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251293
+5,qua 26/09/2012,15:45,Catania Calcio,Atalanta,4-4-1-1,Stefano Colantuono,13240,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251303
+6,dom 30/09/2012,10:00,Atalanta,Torino,4-4-2 duplo 6,Stefano Colantuono,13738,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251313
+7,dom 07/10/2012,07:30,Roma,Atalanta,4-4-2 duplo 6,Stefano Colantuono,39795,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251330
+8,dom 21/10/2012,11:00,Atalanta,AC Siena,4-4-2 duplo 6,Stefano Colantuono,18344,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251333
+9,dom 28/10/2012,12:00,Pescara,Atalanta,4-4-1-1,Stefano Colantuono,10325,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251348
+10,qua 31/10/2012,17:45,Atalanta,Napoli,4-4-1-1,Stefano Colantuono,14883,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251353
+11,dom 04/11/2012,12:00,Sampdoria,Atalanta,4-4-1-1,Stefano Colantuono,21505,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251371
+12,dom 11/11/2012,17:45,Atalanta,Inter,4-2-3-1,Stefano Colantuono,19779,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251373
+13,dom 18/11/2012,12:00,Fiorentina,Atalanta,4-2-3-1,Stefano Colantuono,27219,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251385
+14,dom 25/11/2012,12:00,Atalanta,Genoa,4-4-1-1,Stefano Colantuono,14166,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251393
+15,dom 02/12/2012,12:00,Bologna,Atalanta,4-2-3-1,Stefano Colantuono,18006,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251403
+16,sáb 08/12/2012,15:00,Atalanta,Parma,3-4-2-1,Stefano Colantuono,12948,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251413
+17,dom 16/12/2012,12:00,Juventus,Atalanta,4-2-3-1,Stefano Colantuono,38625,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251427
+18,sáb 22/12/2012,12:00,Atalanta,Udinese,4-4-2 duplo 6,Stefano Colantuono,16110,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251433
+19,dom 06/01/2013,12:00,Chievo Verona,Atalanta,4-4-2 duplo 6,Stefano Colantuono,7500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2252309
+20,dom 13/01/2013,12:00,Lazio,Atalanta,4-4-1-1,Stefano Colantuono,30603,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251443
+21,dom 20/01/2013,12:30,Atalanta,Cagliari,4-2-3-1,Stefano Colantuono,15000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251454
+22,dom 27/01/2013,12:00,Atalanta,Milan,4-3-1-2,Stefano Colantuono,18805,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251466
+23,dom 03/02/2013,12:00,US Palermo,Atalanta,4-3-2-1,Stefano Colantuono,23310,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251473
+24,dom 10/02/2013,12:00,Atalanta,Catania Calcio,4-3-2-1,Stefano Colantuono,12277,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251483
+25,dom 17/02/2013,11:00,Torino,Atalanta,4-3-2-1,Stefano Colantuono,11585,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251493
+26,dom 24/02/2013,11:00,Atalanta,Roma,4-4-2,Stefano Colantuono,12160,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251510
+27,dom 03/03/2013,11:00,AC Siena,Atalanta,4-4-2 duplo 6,Stefano Colantuono,8155,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251513
+28,dom 10/03/2013,08:30,Atalanta,Pescara,4-4-2 duplo 6,Stefano Colantuono,16238,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251528
+29,dom 17/03/2013,11:00,Napoli,Atalanta,4-4-1-1,Stefano Colantuono,38337,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251533
+30,sáb 30/03/2013,11:00,Atalanta,Sampdoria,5-4-1 plano,Stefano Colantuono,13377,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251551
+31,dom 07/04/2013,15:45,Inter,Atalanta,3-5-2 plano,Stefano Colantuono,38935,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251553
+32,sáb 13/04/2013,15:45,Atalanta,Fiorentina,4-4-2,Stefano Colantuono,17100,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251565
+33,sáb 20/04/2013,13:00,Genoa,Atalanta,4-4-1-1,Stefano Colantuono,18465,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251573
+34,sáb 27/04/2013,13:00,Atalanta,Bologna,4-4-2,Stefano Colantuono,13079,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251583
+35,dom 05/05/2013,10:00,Parma,Atalanta,4-4-1-1,Stefano Colantuono,11218,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251593
+36,qua 08/05/2013,15:45,Atalanta,Juventus,3-5-2 plano,Stefano Colantuono,22099,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251607
+37,dom 12/05/2013,10:00,Udinese,Atalanta,4-4-2 duplo 6,Stefano Colantuono,18800,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251613
+38,dom 19/05/2013,10:00,Atalanta,Chievo Verona,3-5-2 plano,Stefano Colantuono,16102,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251624

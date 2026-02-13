@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 20/09/2020,10:00,Genoa,Crotone,3-5-2 plano,Rolando Maran,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433187
+2,dom 27/09/2020,13:00,Napoli,Genoa,3-5-2 plano,Rolando Maran,1000,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433199
+3,qua 04/11/2020,13:00,Genoa,Torino,4-3-2-1,Rolando Maran,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433208
+4,seg 19/10/2020,15:45,Verona,Genoa,3-5-2 plano,Rolando Maran,1000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433224
+5,sáb 24/10/2020,13:00,Genoa,Inter,3-5-2 plano,Rolando Maran,1000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433229
+6,dom 01/11/2020,16:45,Sampdoria,Genoa,4-3-1-2,Rolando Maran,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433240
+7,dom 08/11/2020,11:00,Genoa,Roma,4-3-1-2,Rolando Maran,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433249
+8,dom 22/11/2020,14:00,Udinese,Genoa,3-5-2 plano,Rolando Maran,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433263
+9,seg 30/11/2020,16:45,Genoa,Parma,3-5-2 plano,Rolando Maran,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433269
+10,seg 07/12/2020,16:45,Fiorentina,Genoa,4-4-2 duplo 6,Rolando Maran,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433276
+11,dom 13/12/2020,14:00,Genoa,Juventus,4-4-2 duplo 6,Rolando Maran,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433289
+12,qua 16/12/2020,16:45,Genoa,Milan,4-4-2 duplo 6,Rolando Maran,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433297
+13,dom 20/12/2020,11:00,Benevento,Genoa,4-4-2,Rolando Maran,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433306
+14,qua 23/12/2020,16:45,Spezia Calcio,Genoa,3-5-2 plano,Davide Ballardini,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433322
+15,dom 03/01/2021,11:00,Genoa,Lazio,3-5-2 plano,Davide Ballardini,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433329
+16,qua 06/01/2021,11:00,Sassuolo,Genoa,3-5-2 plano,Davide Ballardini,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433343
+17,sáb 09/01/2021,14:00,Genoa,Bologna,3-5-2 plano,Davide Ballardini,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433347
+18,dom 17/01/2021,14:00,Atalanta,Genoa,3-5-2 plano,Davide Ballardini,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433355
+19,dom 24/01/2021,11:00,Genoa,Cagliari,3-5-2 plano,Davide Ballardini,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433367
+20,dom 31/01/2021,11:00,Crotone,Genoa,3-5-2 plano,Davide Ballardini,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433377
+21,sáb 06/02/2021,16:45,Genoa,Napoli,3-5-2 plano,Davide Ballardini,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433389
+22,sáb 13/02/2021,11:00,Torino,Genoa,3-5-2 plano,Davide Ballardini,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433398
+23,sáb 20/02/2021,14:00,Genoa,Verona,3-5-2 plano,Davide Ballardini,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433414
+24,dom 28/02/2021,11:00,Inter,Genoa,3-5-2 plano,Davide Ballardini,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433419
+25,qua 03/03/2021,16:45,Genoa,Sampdoria,3-5-2 plano,Davide Ballardini,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433430
+26,dom 07/03/2021,08:30,Roma,Genoa,3-5-2 plano,Davide Ballardini,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433439
+27,sáb 13/03/2021,16:45,Genoa,Udinese,3-5-2 plano,Davide Ballardini,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433453
+28,sex 19/03/2021,16:45,Parma,Genoa,3-5-2 plano,Davide Ballardini,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433459
+29,sáb 03/04/2021,10:00,Genoa,Fiorentina,3-5-2 plano,Davide Ballardini,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433466
+30,dom 11/04/2021,10:00,Juventus,Genoa,3-5-2 plano,Davide Ballardini,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433479
+31,dom 18/04/2021,07:30,Milan,Genoa,3-5-2 plano,Davide Ballardini,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433487
+32,qua 21/04/2021,15:45,Genoa,Benevento,3-5-2 plano,Davide Ballardini,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433496
+33,sáb 24/04/2021,10:00,Genoa,Spezia Calcio,3-5-2 plano,Davide Ballardini,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433512
+34,dom 02/05/2021,07:30,Lazio,Genoa,3-5-2 plano,Davide Ballardini,x,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433519
+35,dom 09/05/2021,07:30,Genoa,Sassuolo,3-5-2 plano,Davide Ballardini,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433533
+36,qua 12/05/2021,15:45,Bologna,Genoa,4-3-1-2,Davide Ballardini,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433537
+37,sáb 15/05/2021,10:00,Genoa,Atalanta,3-5-2 plano,Davide Ballardini,x,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433545
+38,sáb 22/05/2021,15:45,Cagliari,Genoa,3-5-2 plano,Davide Ballardini,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433557

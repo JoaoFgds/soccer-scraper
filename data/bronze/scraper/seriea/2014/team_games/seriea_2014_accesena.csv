@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 31/08/2014,15:45,Cesena,Parma,4-3-1-2,Pierpaolo Bisoli,14415,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478589
+2,dom 14/09/2014,10:00,Lazio,Cesena,4-3-1-2,Pierpaolo Bisoli,31200,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478604
+3,sáb 20/09/2014,13:00,Cesena,Empoli,4-3-3 ofensivo,Pierpaolo Bisoli,14073,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478609
+4,qua 24/09/2014,15:45,Juventus,Cesena,5-3-2,Pierpaolo Bisoli,36027,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478623
+5,dom 28/09/2014,10:00,Cesena,Milan,4-4-2 losango,Pierpaolo Bisoli,22027,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478629
+6,dom 05/10/2014,10:00,Udinese,Cesena,3-5-2 plano,Pierpaolo Bisoli,8887,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478647
+7,dom 19/10/2014,11:00,US Palermo,Cesena,4-4-1-1,Pierpaolo Bisoli,14780,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478654
+8,dom 26/10/2014,15:00,Cesena,Inter,3-5-2 plano,Pierpaolo Bisoli,22917,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478658
+9,qua 29/10/2014,17:45,Roma,Cesena,4-1-4-1,Pierpaolo Bisoli,34044,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478675
+10,seg 03/11/2014,16:00,Cesena,Verona,3-5-2 plano,Pierpaolo Bisoli,15375,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478678
+11,dom 09/11/2014,12:00,Chievo Verona,Cesena,4-3-2-1,Pierpaolo Bisoli,5000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478689
+12,dom 23/11/2014,12:00,Cesena,Sampdoria,4-4-2 losango,Pierpaolo Bisoli,16184,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478699
+13,dom 30/11/2014,12:00,Cesena,Genoa,4-3-1-2,Pierpaolo Bisoli,14650,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478709
+14,dom 07/12/2014,12:00,Atalanta,Cesena,4-3-1-2,Pierpaolo Bisoli,12495,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478718
+15,dom 14/12/2014,15:00,Cesena,Fiorentina,5-3-2,Domenico Di Carlo,16275,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478728
+16,sáb 20/12/2014,15:00,Sassuolo,Cesena,3-5-2 plano,Domenico Di Carlo,11079,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478746
+17,ter 06/01/2015,15:00,Cesena,Napoli,3-5-2 plano,Domenico Di Carlo,16275,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478748
+18,dom 11/01/2015,12:00,Cagliari,Cesena,3-4-1-2,Domenico Di Carlo,10000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478759
+19,dom 18/01/2015,12:00,Cesena,Torino,4-4-2 losango,Domenico Di Carlo,14910,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478768
+20,dom 25/01/2015,12:00,Parma,Cesena,4-4-2 losango,Domenico Di Carlo,11791,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478779
+21,dom 01/02/2015,12:00,Cesena,Lazio,4-4-2 losango,Domenico Di Carlo,14818,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478794
+22,dom 08/02/2015,12:00,Empoli,Cesena,4-4-2 losango,Domenico Di Carlo,7586,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478799
+23,dom 15/02/2015,17:45,Cesena,Juventus,4-3-1-2,Domenico Di Carlo,23661,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478813
+24,dom 22/02/2015,11:00,Milan,Cesena,4-3-1-2,Domenico Di Carlo,27958,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478819
+25,dom 01/03/2015,11:15,Cesena,Udinese,4-3-1-2,Domenico Di Carlo,14794,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478837
+26,dom 08/03/2015,08:30,Cesena,US Palermo,4-3-1-2,Domenico Di Carlo,15071,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478844
+27,dom 15/03/2015,16:45,Inter,Cesena,4-3-1-2,Domenico Di Carlo,28549,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478848
+28,dom 22/03/2015,16:45,Cesena,Roma,4-3-1-2,Domenico Di Carlo,16575,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478865
+29,sáb 04/04/2015,10:00,Verona,Cesena,4-3-1-2,Domenico Di Carlo,17590,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478868
+30,dom 12/04/2015,07:30,Cesena,Chievo Verona,4-3-1-2,Domenico Di Carlo,15094,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478879
+31,sáb 18/04/2015,13:00,Sampdoria,Cesena,4-3-1-2,Domenico Di Carlo,21182,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478889
+32,dom 26/04/2015,10:00,Genoa,Cesena,4-3-1-2,Domenico Di Carlo,19663,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478899
+33,qua 29/04/2015,15:45,Cesena,Atalanta,4-3-1-2,Domenico Di Carlo,14170,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478908
+34,dom 03/05/2015,10:00,Fiorentina,Cesena,4-3-1-2,Domenico Di Carlo,28675,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478918
+35,dom 10/05/2015,10:00,Cesena,Sassuolo,4-3-1-2,Domenico Di Carlo,13712,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478936
+36,seg 18/05/2015,16:00,Napoli,Cesena,4-3-2-1,Domenico Di Carlo,37568,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478938
+37,dom 24/05/2015,10:00,Cesena,Cagliari,4-2-3-1,Domenico Di Carlo,13945,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478949
+38,dom 31/05/2015,15:45,Torino,Cesena,4-2-3-1,Domenico Di Carlo,18569,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478958

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 01/10/2000,10:00,Milan,Vicenza,3-4-3 plano,Alberto Zaccheroni,46836,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1153405
+2,dom 15/10/2000,11:00,Bologna,Milan,3-4-3 plano,Alberto Zaccheroni,34631,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1153410
+3,sáb 21/10/2000,16:45,Milan,Juventus,3-4-1-2,Alberto Zaccheroni,81954,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217284
+4,qua 01/11/2000,17:30,AC Parma,Milan,3-4-3 plano,Alberto Zaccheroni,21572,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217290
+5,dom 05/11/2000,12:00,Milan,Atalanta,3-4-1-2,Alberto Zaccheroni,54641,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217305
+6,dom 12/11/2000,12:00,Bari,Milan,3-4-3 plano,Alberto Zaccheroni,27353,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217312
+7,sáb 18/11/2000,17:30,Lazio,Milan,3-4-1-2,Alberto Zaccheroni,57562,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217323
+8,sáb 25/11/2000,17:30,Milan,Napoli,3-4-3 plano,Alberto Zaccheroni,49436,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217329
+9,dom 03/12/2000,12:00,Udinese,Milan,3-4-3 plano,Alberto Zaccheroni,27000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217335
+10,dom 10/12/2000,12:00,Milan,Lecce,3-4-1-2,Alberto Zaccheroni,45000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217342
+11,dom 17/12/2000,12:00,Verona,Milan,3-4-3 plano,Alberto Zaccheroni,15000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217352
+12,sáb 23/12/2000,12:00,Milan,Perugia,3-4-3 plano,Alberto Zaccheroni,50000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217368
+13,dom 07/01/2001,17:30,Milan,Inter,3-4-1-2,Alberto Zaccheroni,80287,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217377
+14,sáb 13/01/2001,17:30,Florenz,Milan,3-4-1-2,Alberto Zaccheroni,32000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217383
+15,dom 21/01/2001,17:30,Milan,Roma,4-4-2 duplo 6,Alberto Zaccheroni,61688,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217391
+16,dom 28/01/2001,12:00,Brescia,Milan,3-4-3 plano,Alberto Zaccheroni,31619,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217402
+17,dom 04/02/2001,12:00,Milan,Reggina,3-4-3 plano,Alberto Zaccheroni,47348,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217409
+18,dom 11/02/2001,12:00,Vicenza,Milan,4-4-2 duplo 6,Alberto Zaccheroni,17151,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217419
+19,sáb 17/02/2001,17:30,Milan,Bologna,3-4-3 plano,Alberto Zaccheroni,43543,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217430
+20,dom 25/02/2001,16:30,Juventus,Milan,3-4-1-2,Alberto Zaccheroni,48140,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217437
+21,dom 04/03/2001,11:00,Milan,AC Parma,3-4-1-2,Alberto Zaccheroni,45269,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217443
+22,sáb 10/03/2001,16:30,Atalanta,Milan,3-4-3 plano,Alberto Zaccheroni,20000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217458
+23,dom 18/03/2001,11:00,Milan,Bari,4-4-2 duplo 6,Mauro Tassotti,43668,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217465
+24,dom 01/04/2001,15:30,Milan,Lazio,4-1-4-1,Mauro Tassotti,52010,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217476
+25,dom 08/04/2001,10:00,Napoli,Milan,4-2-3-1,Mauro Tassotti,40000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217477
+26,sáb 14/04/2001,10:00,Milan,Udinese,4-4-2 duplo 6,Mauro Tassotti,45922,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217487
+27,dom 22/04/2001,10:00,Lecce,Milan,4-4-2 duplo 6,Mauro Tassotti,21642,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217503
+28,dom 29/04/2001,10:00,Milan,Verona,4-4-2 duplo 6,Mauro Tassotti,44665,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217506
+29,dom 06/05/2001,10:00,Perugia,Milan,4-4-2 duplo 6,Mauro Tassotti,12781,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217517
+30,sex 11/05/2001,15:30,Inter,Milan,4-4-2 duplo 6,Mauro Tassotti,78054,0:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217522
+31,qua 16/05/2001,19:00,Milan,Florenz,4-4-2 duplo 6,Mauro Tassotti,44699,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217537
+32,dom 27/05/2001,15:30,Roma,Milan,4-4-2 duplo 6,Mauro Tassotti,71407,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217540
+33,sáb 09/06/2001,19:00,Milan,Brescia,4-4-2 duplo 6,Mauro Tassotti,60000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217556
+34,sáb 16/06/2001,19:00,Reggina,Milan,4-4-2 duplo 6,Mauro Tassotti,25912,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217563

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 25/08/2012,15:45,Juventus,Parma,3-5-2 plano,Massimo Carrera,37508,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251267
+2,dom 02/09/2012,13:00,Udinese,Juventus,3-5-2 plano,Massimo Carrera,30000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251282
+3,dom 16/09/2012,10:00,Genoa,Juventus,3-5-2 plano,Massimo Carrera,24854,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251285
+4,sáb 22/09/2012,15:45,Juventus,Chievo Verona,3-5-2 plano,Massimo Carrera,38136,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251298
+5,ter 25/09/2012,15:45,Fiorentina,Juventus,3-5-2 plano,Massimo Carrera,38440,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251305
+6,sáb 29/09/2012,15:45,Juventus,Roma,5-3-2,Massimo Carrera,38327,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251317
+7,dom 07/10/2012,10:00,AC Siena,Juventus,3-5-2 plano,Massimo Carrera,15373,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251331
+8,sáb 20/10/2012,13:00,Juventus,Napoli,3-5-2 plano,Angelo Alessio,40513,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251338
+9,dom 28/10/2012,09:30,Catania Calcio,Juventus,3-5-2 plano,Angelo Alessio,20381,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251344
+10,qua 31/10/2012,17:45,Juventus,Bologna,3-5-2 plano,Angelo Alessio,38895,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251358
+11,sáb 03/11/2012,17:45,Juventus,Inter,3-5-2 plano,Angelo Alessio,40553,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251366
+12,sáb 10/11/2012,17:45,Pescara,Juventus,3-5-2 plano,Angelo Alessio,20355,1:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251381
+13,sáb 17/11/2012,15:00,Juventus,Lazio,3-5-2 plano,Angelo Alessio,38357,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251387
+14,dom 25/11/2012,17:45,Milan,Juventus,3-5-2 plano,Angelo Alessio,77023,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251397
+15,sáb 01/12/2012,17:45,Juventus,Torino,4-3-3 ofensivo,Angelo Alessio,40042,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251408
+16,dom 09/12/2012,12:00,US Palermo,Juventus,3-5-2 plano,Antonio Conte,22738,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251417
+17,dom 16/12/2012,12:00,Juventus,Atalanta,3-5-2 plano,Antonio Conte,38625,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251427
+18,sex 21/12/2012,17:45,Cagliari,Juventus,3-5-2 plano,Antonio Conte,8200,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251435
+19,dom 06/01/2013,12:00,Juventus,Sampdoria,3-5-2 plano,Antonio Conte,38401,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2252315
+20,dom 13/01/2013,12:00,Parma,Juventus,3-5-2 plano,Antonio Conte,19073,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251447
+21,sáb 19/01/2013,17:45,Juventus,Udinese,3-5-2 plano,Antonio Conte,36109,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251462
+22,sáb 26/01/2013,17:45,Juventus,Genoa,3-5-2 plano,Antonio Conte,36408,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251465
+23,dom 03/02/2013,09:30,Chievo Verona,Juventus,3-5-2 plano,Antonio Conte,15000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251478
+24,sáb 09/02/2013,15:00,Juventus,Fiorentina,3-5-2 plano,Antonio Conte,38000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251485
+25,sáb 16/02/2013,17:45,Roma,Juventus,3-5-2 plano,Antonio Conte,54981,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251497
+26,dom 24/02/2013,11:00,Juventus,AC Siena,3-5-2 plano,Antonio Conte,38461,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251511
+27,sex 01/03/2013,16:45,Napoli,Juventus,3-5-2 plano,Antonio Conte,58143,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251518
+28,dom 10/03/2013,11:00,Juventus,Catania Calcio,3-5-2 plano,Antonio Conte,38782,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251524
+29,sáb 16/03/2013,16:45,Bologna,Juventus,3-5-2 plano,Antonio Conte,35206,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251538
+30,sáb 30/03/2013,11:00,Inter,Juventus,3-5-2 plano,Antonio Conte,79341,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251546
+31,sáb 06/04/2013,13:00,Juventus,Pescara,3-5-2 plano,Antonio Conte,38790,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251561
+32,seg 15/04/2013,15:45,Lazio,Juventus,3-4-2-1,Antonio Conte,38641,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251567
+33,dom 21/04/2013,15:45,Juventus,Milan,3-4-2-1,Antonio Conte,38839,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251577
+34,dom 28/04/2013,10:00,Torino,Juventus,3-4-2-1,Antonio Conte,23845,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251588
+35,dom 05/05/2013,10:00,Juventus,US Palermo,3-4-2-1,Antonio Conte,39882,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251597
+36,qua 08/05/2013,15:45,Atalanta,Juventus,3-5-2 plano,Antonio Conte,22099,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251607
+37,sáb 11/05/2013,13:00,Juventus,Cagliari,3-5-2 plano,Antonio Conte,38883,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251615
+38,sáb 18/05/2013,15:45,Sampdoria,Juventus,3-5-2 plano,Antonio Conte,25790,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251627

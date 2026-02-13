@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 17/08/2019,15:45,Kayserispor,Alanyaspor,3-4-3 plano,Hikmet Karaman,9951,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3221066
+2,sáb 24/08/2019,13:15,Ankaragücü,Kayserispor,4-2-3-1,Hikmet Karaman,5870,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3221087
+3,sex 30/08/2019,14:30,Kayserispor,Galatasaray,4-2-3-1,Hikmet Karaman,20034,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3221102
+4,sáb 14/09/2019,14:00,Antalyaspor,Kayserispor,4-2-3-1,Hikmet Karaman,8433,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223048
+5,sáb 21/09/2019,11:30,Kayserispor,Denizlispor,4-4-2 duplo 6,Hikmet Karaman,8782,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223057
+6,dom 29/09/2019,08:00,Konyaspor,Kayserispor,4-4-2 duplo 6,Hikmet Karaman,14671,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223064
+7,sáb 05/10/2019,11:30,Göztepe,Kayserispor,4-2-3-1,Hikmet Karaman,6803,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223075
+8,dom 20/10/2019,08:00,Kayserispor,Kasimpasa,4-2-3-1,Samet Aybaba,7941,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223082
+9,dom 27/10/2019,08:00,Y. Malatyaspor,Kayserispor,4-2-3-1,Samet Aybaba,7994,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223090
+10,dom 03/11/2019,13:00,Kayserispor,Fenerbahce,4-2-3-1,Bülent Uygun,18147,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223101
+11,sáb 09/11/2019,09:00,Genclerbirligi,Kayserispor,4-2-3-1,Bülent Uygun,3720,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223107
+12,dom 24/11/2019,08:00,Kayserispor,Sivasspor,4-2-3-1,Bülent Uygun,11073,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223119
+13,seg 02/12/2019,14:00,Besiktas,Kayserispor,4-3-3 ofensivo,Bülent Uygun,25950,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223128
+14,seg 09/12/2019,14:00,Kayserispor,C. Rizespor,4-2-3-1,Bülent Uygun,4500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223136
+15,dom 15/12/2019,08:00,Gaziantep FK,Kayserispor,4-2-3-1,Bülent Uygun,4695,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223145
+16,dom 22/12/2019,10:30,Kayserispor,Basaksehir,5-4-1 plano,Bülent Uygun,7124,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223155
+17,sáb 28/12/2019,11:30,Trabzonspor,Kayserispor,4-2-3-1,Ömer Faruk Mahir,23294,6:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223162
+18,sáb 18/01/2020,08:00,Alanyaspor,Kayserispor,4-2-3-1,Robert Prosinecki,3405,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223171
+19,sáb 25/01/2020,08:00,Kayserispor,Ankaragücü,4-1-4-1,Robert Prosinecki,6747,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223177
+20,dom 02/02/2020,13:00,Galatasaray,Kayserispor,4-1-4-1,Robert Prosinecki,32535,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223192
+21,dom 09/02/2020,07:30,Kayserispor,Antalyaspor,4-2-3-1,Robert Prosinecki,5892,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223201
+22,sáb 15/02/2020,08:00,Denizlispor,Kayserispor,4-2-3-1,Robert Prosinecki,4761,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223210
+23,sáb 22/02/2020,08:00,Kayserispor,Konyaspor,4-2-3-1,Robert Prosinecki,7276,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223217
+24,seg 02/03/2020,14:00,Kayserispor,Göztepe,4-2-3-1,Robert Prosinecki,6969,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223228
+25,dom 08/03/2020,07:30,Kasimpasa,Kayserispor,4-2-3-1,Robert Prosinecki,2564,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223235
+26,dom 15/03/2020,07:30,Kayserispor,Y. Malatyaspor,4-1-4-1,Robert Prosinecki,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223243
+27,sex 12/06/2020,15:00,Fenerbahce,Kayserispor,4-2-3-1,Robert Prosinecki,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223254
+28,sáb 20/06/2020,12:30,Kayserispor,Genclerbirligi,4-1-4-1,Robert Prosinecki,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223260
+29,dom 28/06/2020,12:30,Sivasspor,Kayserispor,4-4-2 duplo 6,Robert Prosinecki,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223272
+30,seg 06/07/2020,15:00,Kayserispor,Besiktas,4-2-3-1,Robert Prosinecki,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223281
+31,qui 09/07/2020,12:30,C. Rizespor,Kayserispor,4-2-3-1,Robert Prosinecki,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223289
+32,seg 13/07/2020,12:30,Kayserispor,Gaziantep FK,4-1-4-1,Robert Prosinecki,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223298
+33,dom 19/07/2020,15:00,Basaksehir,Kayserispor,4-1-4-1,Robert Prosinecki,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223308
+34,sáb 25/07/2020,15:00,Kayserispor,Trabzonspor,4-1-4-1,Robert Prosinecki,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223315

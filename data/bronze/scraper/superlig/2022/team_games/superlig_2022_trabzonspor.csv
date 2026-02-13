@@ -1,0 +1,37 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 05/08/2022,15:00,Istanbulspor,Trabzonspor,4-1-4-1,Abdullah Avcı,7126,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3854849
+2,sex 12/08/2022,15:00,Trabzonspor,Hatayspor,4-2-3-1,Abdullah Avcı,29789,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860202
+3,sáb 20/08/2022,15:45,Antalyaspor,Trabzonspor,4-1-4-1,Abdullah Avcı,14285,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860271
+4,dom 28/08/2022,15:45,Trabzonspor,Galatasaray,4-2-3-1,Abdullah Avcı,34803,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860184
+5,sex 02/09/2022,15:00,Ümraniyespor,Trabzonspor,4-1-4-1,Abdullah Avcı,5531,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860236
+6,seg 12/09/2022,15:30,Adana Demirspor,Trabzonspor,4-4-2 duplo 6,Abdullah Avcı,24960,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860195
+7,dom 18/09/2022,11:00,Trabzonspor,Gaziantep FK,4-2-3-1,Abdullah Avcı,22062,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860247
+8,sáb 01/10/2022,11:00,Kayserispor,Trabzonspor,4-2-3-1,Abdullah Avcı,10448,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860270
+9,seg 10/10/2022,14:00,Trabzonspor,Kasimpasa,4-2-3-1,Abdullah Avcı,25455,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860255
+10,dom 16/10/2022,14:00,Besiktas,Trabzonspor,4-1-4-1,Abdullah Avcı,35518,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860219
+11,sáb 22/10/2022,11:00,Trabzonspor,Sivasspor,4-2-3-1,Abdullah Avcı,22058,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860283
+13,dom 06/11/2022,14:00,Trabzonspor,Konyaspor,4-2-3-1,Abdullah Avcı,26065,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860337
+14,sex 11/11/2022,14:00,Ankaragücü,Trabzonspor,4-2-3-1,Abdullah Avcı,17383,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860311
+15,sáb 24/12/2022,13:00,Trabzonspor,Fenerbahce,4-2-3-1,Abdullah Avcı,35705,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860292
+16,qua 28/12/2022,14:00,Karagümrük,Trabzonspor,4-1-4-1,Abdullah Avcı,4071,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860344
+17,qui 05/01/2023,14:00,Trabzonspor,Giresunspor,4-4-2 losango,Abdullah Avcı,14947,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860319
+18,seg 09/01/2023,14:00,Alanyaspor,Trabzonspor,4-3-3 ofensivo,Abdullah Avcı,4281,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860325
+19,sáb 14/01/2023,13:00,Trabzonspor,Basaksehir,4-2-3-1,Abdullah Avcı,29767,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860355
+20,dom 22/01/2023,13:00,Trabzonspor,Istanbulspor,4-4-2 losango,Abdullah Avcı,27445,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860367
+21,sáb 28/01/2023,10:00,Hatayspor,Trabzonspor,4-4-2 losango,Abdullah Avcı,10216,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860418
+22,qua 01/02/2023,14:00,Trabzonspor,Antalyaspor,4-2-3-1,Abdullah Avcı,24016,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860406
+23,dom 05/02/2023,13:00,Galatasaray,Trabzonspor,4-1-4-1,Abdullah Avcı,48281,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860382
+24,sáb 04/03/2023,10:00,Trabzonspor,Ümraniyespor,4-4-2 duplo 6,Abdullah Avcı,12343,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860371
+25,dom 12/03/2023,10:00,Trabzonspor,Adana Demirspor,4-2-3-1,Orhan Ak,15390,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860506
+26,sáb 18/03/2023,20:00,Gaziantep FK,Trabzonspor,?,,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860400
+27,sáb 01/04/2023,10:00,Trabzonspor,Kayserispor,4-2-3-1,Orhan Ak,9676,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860504
+28,sáb 08/04/2023,14:30,Kasimpasa,Trabzonspor,4-2-3-1,İhsan Derelioğlu,2257,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860390
+29,dom 16/04/2023,14:30,Trabzonspor,Besiktas,4-1-4-1,İhsan Derelioğlu,27556,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860462
+30,qui 20/04/2023,14:30,Sivasspor,Trabzonspor,4-2-3-1,Nenad Bjelica,4117,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860472
+32,sáb 29/04/2023,10:00,Konyaspor,Trabzonspor,4-1-4-1,Nenad Bjelica,11911,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860490
+33,seg 08/05/2023,14:00,Trabzonspor,Ankaragücü,3-5-2 ofensivo,Nenad Bjelica,11485,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860482
+34,qui 18/05/2023,14:00,Fenerbahce,Trabzonspor,3-1-4-2,Nenad Bjelica,32622,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860454
+35,seg 22/05/2023,14:00,Trabzonspor,Karagümrük,4-2-3-1,Nenad Bjelica,7285,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860515
+36,ter 30/05/2023,14:00,Giresunspor,Trabzonspor,4-2-3-1,Nenad Bjelica,9349,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860526
+37,sáb 03/06/2023,13:00,Trabzonspor,Alanyaspor,4-1-4-1,Nenad Bjelica,14637,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860424
+38,ter 06/06/2023,14:00,Basaksehir,Trabzonspor,4-1-4-1,Nenad Bjelica,2775,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860436

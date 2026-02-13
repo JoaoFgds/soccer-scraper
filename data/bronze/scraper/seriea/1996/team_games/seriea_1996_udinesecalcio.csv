@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 07/09/1996,15:00,Udinese,Inter,?,Alberto Zaccheroni,30000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214827
+2,dom 15/09/1996,11:00,Lazio,Udinese,?,Alberto Zaccheroni,35000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214836
+3,dom 22/09/1996,11:00,Cagliari,Udinese,?,Alberto Zaccheroni,15000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214851
+4,dom 29/09/1996,11:00,Udinese,Bologna,?,Alberto Zaccheroni,20000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214856
+5,dom 13/10/1996,11:30,Napoli,Udinese,4-4-2 duplo 6,Alberto Zaccheroni,43855,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214871
+6,dom 20/10/1996,11:30,Udinese,Vicenza,4-4-2,Alberto Zaccheroni,16155,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214874
+7,dom 27/10/1996,11:30,Perugia,Udinese,?,Alberto Zaccheroni,19367,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214889
+8,dom 03/11/1996,11:30,Udinese,Reggiana,?,Alberto Zaccheroni,11214,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214890
+9,dom 17/11/1996,11:30,Atalanta,Udinese,?,Alberto Zaccheroni,15811,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214903
+10,qua 11/12/1996,17:30,Udinese,Juventus,4-4-2,Alberto Zaccheroni,8352,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214934
+11,dom 01/12/1996,11:30,Udinese,AC Parma,4-4-2 duplo 6,Alberto Zaccheroni,10440,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214918
+12,dom 08/12/1996,11:30,Milan,Udinese,4-4-2 duplo 6,Alberto Zaccheroni,49087,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214926
+13,dom 15/12/1996,11:30,Udinese,Florenz,4-4-2,Alberto Zaccheroni,12427,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214937
+14,dom 22/12/1996,11:30,Verona,Udinese,4-4-2,Alberto Zaccheroni,14273,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214947
+15,dom 05/01/1997,11:30,Udinese,Sampdoria,4-4-2,Alberto Zaccheroni,11639,4:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214955
+16,dom 12/01/1997,11:30,Piacenza,Udinese,4-4-2,Alberto Zaccheroni,8621,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214970
+17,dom 19/01/1997,11:30,Udinese,Roma,4-4-2 duplo 6,Alberto Zaccheroni,11726,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214973
+18,dom 26/01/1997,11:30,Inter,Udinese,4-4-2,Alberto Zaccheroni,41398,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214982
+19,dom 02/02/1997,11:30,Udinese,Lazio,4-4-2,Alberto Zaccheroni,12501,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214991
+20,dom 16/02/1997,11:00,Udinese,Cagliari,4-4-2,Alberto Zaccheroni,11495,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215001
+21,dom 23/02/1997,11:00,Bologna,Udinese,4-4-2,Alberto Zaccheroni,26067,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215014
+22,dom 02/03/1997,16:30,Udinese,Napoli,4-4-2,Alberto Zaccheroni,13181,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215019
+23,dom 09/03/1997,11:00,Vicenza,Udinese,4-4-2,Alberto Zaccheroni,16967,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215026
+24,dom 16/03/1997,11:00,Udinese,Perugia,4-4-2,Alberto Zaccheroni,19231,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215035
+25,dom 23/03/1997,11:00,Reggiana,Udinese,4-4-2,Alberto Zaccheroni,10108,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215046
+26,dom 06/04/1997,11:00,Udinese,Atalanta,4-4-2,Alberto Zaccheroni,12498,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215053
+27,dom 13/04/1997,11:00,Juventus,Udinese,4-4-2,Alberto Zaccheroni,34355,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215066
+28,dom 20/04/1997,11:00,AC Parma,Udinese,3-4-3 plano,Alberto Zaccheroni,22168,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215073
+29,dom 04/05/1997,11:00,Udinese,Milan,3-4-3 plano,Alberto Zaccheroni,27743,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215083
+30,dom 11/05/1997,11:00,Florenz,Udinese,?,Alberto Zaccheroni,36056,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215096
+31,qui 15/05/1997,15:30,Udinese,Verona,?,Alberto Zaccheroni,17818,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215098
+32,dom 18/05/1997,11:30,Sampdoria,Udinese,3-4-3 plano,Alberto Zaccheroni,24103,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215113
+33,dom 25/05/1997,11:30,Udinese,Piacenza,?,Alberto Zaccheroni,26101,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215128
+34,dom 01/06/1997,11:30,Roma,Udinese,?,Alberto Zaccheroni,44062,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2215123

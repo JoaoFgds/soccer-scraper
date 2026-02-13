@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 19/08/2018,15:30,Parma,Udinese,4-4-1-1,Julio Velázquez,13141,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080908
+2,dom 26/08/2018,15:30,Udinese,Sampdoria,4-1-4-1,Julio Velázquez,15770,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080921
+3,dom 02/09/2018,13:00,Fiorentina,Udinese,4-2-3-1,Julio Velázquez,31009,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080925
+4,dom 16/09/2018,10:00,Udinese,Torino,4-1-4-1,Julio Velázquez,18813,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080941
+5,dom 23/09/2018,10:00,Chievo Verona,Udinese,4-1-4-1,Julio Velázquez,13100,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080955
+6,qua 26/09/2018,14:00,Udinese,Lazio,4-1-4-1,Julio Velázquez,19455,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080985
+7,dom 30/09/2018,07:30,Bologna,Udinese,4-3-3 ofensivo,Julio Velázquez,19039,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080986
+8,sáb 06/10/2018,13:00,Udinese,Juventus,4-1-4-1,Julio Velázquez,25021,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081041
+9,sáb 20/10/2018,15:30,Udinese,Napoli,3-5-2 plano,Julio Velázquez,21449,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081051
+10,dom 28/10/2018,11:00,Genoa,Udinese,3-5-2 plano,Julio Velázquez,18880,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081055
+11,dom 04/11/2018,17:30,Udinese,Milan,3-1-4-2,Julio Velázquez,23540,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081140
+12,dom 11/11/2018,12:00,Empoli,Udinese,3-5-2 plano,Julio Velázquez,7553,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081143
+13,sáb 24/11/2018,12:00,Udinese,Roma,3-5-2 plano,Davide Nicola,21986,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081160
+14,dom 02/12/2018,12:00,Sassuolo,Udinese,5-3-2,Davide Nicola,10500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081169
+15,dom 09/12/2018,12:00,Udinese,Atalanta,3-4-2-1,Davide Nicola,24413,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081181
+16,sáb 15/12/2018,15:00,Inter,Udinese,3-5-2 plano,Davide Nicola,57025,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081187
+17,sáb 22/12/2018,12:00,Udinese,Frosinone,3-5-2 plano,Davide Nicola,15954,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081201
+18,qua 26/12/2018,15:00,SPAL,Udinese,3-5-2 plano,Davide Nicola,13195,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081210
+19,sáb 29/12/2018,12:00,Udinese,Cagliari,3-5-2 plano,Davide Nicola,17918,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081221
+20,sáb 19/01/2019,15:00,Udinese,Parma,3-5-2 plano,Davide Nicola,15889,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081228
+21,sáb 26/01/2019,15:00,Sampdoria,Udinese,3-5-2 plano,Davide Nicola,18020,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081241
+22,dom 03/02/2019,12:00,Udinese,Fiorentina,3-5-2 plano,Davide Nicola,18118,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081245
+23,dom 10/02/2019,12:00,Torino,Udinese,3-5-2 plano,Davide Nicola,16557,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081261
+24,dom 17/02/2019,11:00,Udinese,Chievo Verona,3-5-2 plano,Davide Nicola,18008,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081263
+25,qua 17/04/2019,14:00,Lazio,Udinese,3-5-2 plano,Igor Tudor,15000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081281
+26,dom 03/03/2019,11:00,Udinese,Bologna,3-5-2 plano,Davide Nicola,18349,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081282
+27,sex 08/03/2019,16:30,Juventus,Udinese,3-5-2 plano,Davide Nicola,39987,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081301
+28,dom 17/03/2019,14:00,Napoli,Udinese,3-5-2 plano,Davide Nicola,25718,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081311
+29,sáb 30/03/2019,11:00,Udinese,Genoa,4-1-4-1,Igor Tudor,17072,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081315
+30,ter 02/04/2019,14:00,Milan,Udinese,3-5-2 plano,Igor Tudor,49665,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081331
+31,dom 07/04/2019,10:00,Udinese,Empoli,3-4-1-2,Igor Tudor,22537,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081334
+32,sáb 13/04/2019,13:00,Roma,Udinese,3-5-2 plano,Igor Tudor,34449,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081351
+33,sáb 20/04/2019,10:00,Udinese,Sassuolo,3-5-2 plano,Igor Tudor,22343,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081359
+34,seg 29/04/2019,14:00,Atalanta,Udinese,3-5-2 plano,Igor Tudor,18663,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081371
+35,sáb 04/05/2019,15:30,Udinese,Inter,3-5-2 plano,Igor Tudor,25000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081377
+36,dom 12/05/2019,10:00,Frosinone,Udinese,3-5-2 plano,Igor Tudor,12261,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081391
+37,sáb 18/05/2019,10:00,Udinese,SPAL,3-5-2 plano,Igor Tudor,24614,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081400
+38,dom 26/05/2019,15:30,Cagliari,Udinese,3-5-2 plano,Igor Tudor,15378,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081411

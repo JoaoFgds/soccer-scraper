@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 17/08/2015,16:00,Genclerbirligi,C. Rizespor,4-2-3-1,Stuart Baxter,1500,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2589248
+2,dom 23/08/2015,15:45,Antalyaspor,Genclerbirligi,4-2-3-1,Stuart Baxter,3740,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2590399
+3,sáb 29/08/2015,13:00,Genclerbirligi,Kasimpasa,4-2-3-1,Naci Sensoy,1303,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2590409
+4,sáb 12/09/2015,11:00,Bursaspor,Genclerbirligi,4-2-3-1,Mehmet Özdilek,,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2590594
+5,seg 21/09/2015,14:00,Genclerbirligi,Besiktas,4-2-3-1,Mehmet Özdilek,7802,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2590603
+6,sáb 26/09/2015,13:00,Akhisar Belediye,Genclerbirligi,4-2-3-1,Mehmet Özdilek,725,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2590611
+7,sáb 03/10/2015,13:00,Genclerbirligi,Kayserispor,4-2-3-1,Mehmet Özdilek,,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2590620
+8,sáb 17/10/2015,13:00,Galatasaray,Genclerbirligi,4-3-3 ofensivo,Mehmet Özdilek,22825,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2593954
+9,sáb 24/10/2015,11:00,Genclerbirligi,Osmanlispor FK,4-2-3-1,Mehmet Özdilek,2558,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2593967
+10,sex 30/10/2015,14:00,Konyaspor,Genclerbirligi,4-2-3-1,Mehmet Özdilek,14470,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2593972
+11,sex 06/11/2015,15:00,Genclerbirligi,Mersin IY,4-2-3-1,Mehmet Özdilek,1258,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2593995
+12,dom 22/11/2015,12:30,Trabzonspor,Genclerbirligi,4-2-3-1,Mehmet Özdilek,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594000
+13,dom 29/11/2015,10:00,Genclerbirligi,Gaziantepspor,4-2-3-1,Mehmet Özdilek,1315,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594012
+14,dom 06/12/2015,12:00,Basaksehir,Genclerbirligi,4-2-3-1,Mehmet Özdilek,1633,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594018
+15,dom 13/12/2015,10:00,Genclerbirligi,Sivasspor,4-2-3-1,Mehmet Özdilek,1619,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594030
+16,dom 20/12/2015,15:00,Genclerbirligi,Fenerbahce,4-4-2 duplo 6,Mustafa Kaplan,6940,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594040
+17,seg 28/12/2015,15:00,Eskisehirspor,Genclerbirligi,4-2-3-1,Yılmaz Vural,4087,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594047
+18,dom 17/01/2016,09:30,C. Rizespor,Genclerbirligi,4-2-3-1,İbrahim Üzülmez,2823,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594057
+19,dom 24/01/2016,09:00,Genclerbirligi,Antalyaspor,4-2-3-1,İbrahim Üzülmez,1390,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2598031
+20,seg 08/02/2016,16:00,Kasimpasa,Genclerbirligi,4-2-3-1,İbrahim Üzülmez,695,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2598051
+21,sáb 13/02/2016,09:30,Genclerbirligi,Bursaspor,4-2-3-1,İbrahim Üzülmez,2278,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2606499
+22,seg 22/02/2016,15:00,Besiktas,Genclerbirligi,4-2-3-1,İbrahim Üzülmez,14608,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2606508
+23,dom 28/02/2016,11:00,Genclerbirligi,Akhisar Belediye,4-2-3-1,İbrahim Üzülmez,1812,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2606516
+24,sáb 05/03/2016,08:30,Kayserispor,Genclerbirligi,4-2-3-1,İbrahim Üzülmez,2572,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2606525
+25,dom 13/03/2016,11:00,Genclerbirligi,Galatasaray,4-2-3-1,İbrahim Üzülmez,5418,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2606531
+26,sáb 19/03/2016,08:30,Osmanlispor FK,Genclerbirligi,4-2-3-1,İbrahim Üzülmez,3010,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2606544
+27,sáb 02/04/2016,07:30,Genclerbirligi,Konyaspor,4-2-3-1,İbrahim Üzülmez,2155,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611239
+28,dom 10/04/2016,07:30,Mersin IY,Genclerbirligi,4-2-3-1,İbrahim Üzülmez,3647,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611252
+29,seg 18/04/2016,14:00,Genclerbirligi,Trabzonspor,4-2-3-1,İbrahim Üzülmez,2489,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611257
+30,seg 25/04/2016,14:00,Gaziantepspor,Genclerbirligi,4-2-3-1,İbrahim Üzülmez,1619,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611269
+31,sáb 30/04/2016,07:30,Genclerbirligi,Basaksehir,4-2-3-1,İbrahim Üzülmez,1150,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611275
+32,sáb 07/05/2016,07:30,Sivasspor,Genclerbirligi,4-2-3-1,İbrahim Üzülmez,2722,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611287
+33,dom 15/05/2016,13:00,Fenerbahce,Genclerbirligi,4-2-3-1,İbrahim Üzülmez,6339,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611307
+34,qui 19/05/2016,14:00,Genclerbirligi,Eskisehirspor,4-2-3-1,İbrahim Üzülmez,1620,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611314

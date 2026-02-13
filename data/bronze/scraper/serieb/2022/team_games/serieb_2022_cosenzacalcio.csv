@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 14/08/2022,15:45,Benevento,Cosenza,4-3-3 ofensivo,Davide Dionigi,9109,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3873437
+2,dom 21/08/2022,15:45,Cosenza,Modena,4-2-3-1,Davide Dionigi,9229,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3873458
+3,dom 28/08/2022,15:45,Parma,Cosenza,4-3-3 ofensivo,Davide Dionigi,9880,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3873470
+4,sáb 03/09/2022,09:00,Ternana,Cosenza,4-2-3-1,Davide Dionigi,4303,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3873518
+5,sáb 10/09/2022,10:00,Cosenza,Bari,4-3-3 ofensivo,Davide Dionigi,9149,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3873556
+6,sáb 17/09/2022,10:00,Südtirol,Cosenza,4-2-3-1,Davide Dionigi,3488,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3873935
+7,sex 30/09/2022,15:30,Cosenza,Como,4-2-3-1,Davide Dionigi,6076,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3873942
+8,sáb 08/10/2022,11:15,Reggina,Cosenza,4-3-2-1,Davide Dionigi,15417,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3873954
+9,sáb 15/10/2022,09:00,Cosenza,Genoa,3-5-2,Davide Dionigi,7434,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3873962
+10,sáb 22/10/2022,09:00,SPAL,Cosenza,3-4-2-1,Davide Dionigi,8271,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3873975
+11,sáb 29/10/2022,09:00,Cosenza,Frosinone,4-2-3-1,Davide Dionigi,3756,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874021
+12,sáb 05/11/2022,10:00,Pisa,Cosenza,4-3-1-2,William Viali,7297,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874034
+13,sáb 12/11/2022,10:00,Cosenza,Palermo,4-3-1-2,William Viali,4149,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874041
+14,dom 27/11/2022,11:00,Cittadella,Cosenza,4-3-2-1,William Viali,2889,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874049
+15,dom 04/12/2022,11:00,Cosenza,Perugia,4-3-1-2,William Viali,4052,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874123
+16,qui 08/12/2022,11:00,Cosenza,Brescia,4-3-2-1,William Viali,3859,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874069
+17,dom 11/12/2022,11:00,Venezia,Cosenza,4-3-2-1,William Viali,2566,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874087
+18,dom 18/12/2022,10:00,Cosenza,Ascoli,4-3-2-1,William Viali,3399,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874089
+19,seg 26/12/2022,11:00,Cagliari,Cosenza,4-3-2-1,William Viali,14340,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874102
+20,dom 15/01/2023,12:15,Cosenza,Benevento,4-3-1-2,William Viali,1166,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874110
+21,sáb 21/01/2023,10:00,Modena,Cosenza,4-3-1-2,William Viali,8139,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874131
+22,sáb 28/01/2023,10:00,Cosenza,Parma,4-3-1-2,William Viali,2621,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874143
+23,sáb 04/02/2023,10:00,Cosenza,Ternana,4-3-3 ofensivo,William Viali,2591,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874156
+24,dom 12/02/2023,12:15,Bari,Cosenza,4-3-3 ofensivo,William Viali,16172,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874161
+25,sáb 18/02/2023,10:00,Cosenza,Südtirol,3-5-2,William Viali,2735,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874175
+26,sáb 25/02/2023,10:00,Como,Cosenza,3-4-2-1,William Viali,4836,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874182
+27,ter 28/02/2023,16:30,Cosenza,Reggina,4-3-2-1,William Viali,4245,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874194
+28,seg 06/03/2023,16:30,Genoa,Cosenza,4-3-2-1,William Viali,25000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874202
+29,dom 12/03/2023,12:15,Cosenza,SPAL,4-3-2-1,William Viali,5685,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874215
+30,sáb 18/03/2023,10:00,Frosinone,Cosenza,4-4-2,William Viali,12969,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874221
+31,sáb 01/04/2023,09:00,Cosenza,Pisa,4-4-2,William Viali,9200,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874234
+32,seg 10/04/2023,15:30,Palermo,Cosenza,4-4-2,William Viali,21110,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874241
+33,sáb 15/04/2023,09:00,Cosenza,Cittadella,4-4-2,William Viali,7177,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874249
+34,sáb 22/04/2023,09:00,Perugia,Cosenza,4-4-2,William Viali,6386,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874263
+35,seg 01/05/2023,10:00,Brescia,Cosenza,4-4-2 duplo 6,William Viali,10183,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874269
+36,sáb 06/05/2023,09:00,Cosenza,Venezia,4-4-2 duplo 6,William Viali,10941,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874287
+37,sáb 13/05/2023,09:00,Ascoli,Cosenza,4-4-2 duplo 6,William Viali,7876,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874289
+38,sex 19/05/2023,15:30,Cosenza,Cagliari,4-3-2-1,William Viali,14248,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3874302

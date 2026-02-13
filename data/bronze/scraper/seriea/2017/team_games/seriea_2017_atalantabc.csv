@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 20/08/2017,13:00,Atalanta,Roma,3-4-1-2,Gian Piero Gasperini,19108,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897158
+2,dom 27/08/2017,15:45,Napoli,Atalanta,3-4-3 plano,Gian Piero Gasperini,35102,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897174
+3,dom 10/09/2017,10:00,Atalanta,Sassuolo,3-4-1-2,Gian Piero Gasperini,16120,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897178
+4,dom 17/09/2017,13:00,Chievo Verona,Atalanta,3-4-1-2,Gian Piero Gasperini,12000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897188
+5,qua 20/09/2017,15:45,Atalanta,Crotone,3-4-1-2,Gian Piero Gasperini,16378,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897198
+6,dom 24/09/2017,15:45,Fiorentina,Atalanta,3-5-2 plano,Gian Piero Gasperini,21390,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897210
+7,dom 01/10/2017,15:45,Atalanta,Juventus,3-1-4-2,Gian Piero Gasperini,19962,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897218
+8,dom 15/10/2017,11:00,Sampdoria,Atalanta,3-4-1-2,Gian Piero Gasperini,20032,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897236
+9,dom 22/10/2017,11:00,Atalanta,Bologna,3-4-1-2,Gian Piero Gasperini,18205,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897238
+10,qua 25/10/2017,14:30,Atalanta,Verona,3-4-3 plano,Gian Piero Gasperini,16768,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897248
+11,dom 29/10/2017,12:00,Udinese,Atalanta,3-4-2-1,Gian Piero Gasperini,16448,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897267
+12,dom 05/11/2017,15:00,Atalanta,SPAL,3-5-2 plano,Gian Piero Gasperini,17042,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897268
+13,dom 19/11/2017,17:45,Inter,Atalanta,3-5-2 plano,Gian Piero Gasperini,52177,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897281
+14,seg 27/11/2017,17:45,Atalanta,Benevento,3-4-1-2,Gian Piero Gasperini,16687,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897555
+15,sáb 02/12/2017,17:45,Torino,Atalanta,3-4-1-2,Gian Piero Gasperini,14605,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897445
+16,ter 12/12/2017,16:00,Genoa,Atalanta,3-4-1-2,Gian Piero Gasperini,18281,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897448
+17,dom 17/12/2017,17:45,Atalanta,Lazio,3-4-3 plano,Gian Piero Gasperini,16692,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897456
+18,sáb 23/12/2017,15:00,Milan,Atalanta,3-4-2-1,Gian Piero Gasperini,45746,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897471
+19,sáb 30/12/2017,12:00,Atalanta,Cagliari,3-4-1-2,Gian Piero Gasperini,17755,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897476
+20,sáb 06/01/2018,15:00,Roma,Atalanta,5-3-2,Gian Piero Gasperini,32863,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897288
+21,dom 21/01/2018,09:30,Atalanta,Napoli,3-4-1-2,Gian Piero Gasperini,19098,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897304
+22,sáb 27/01/2018,15:00,Sassuolo,Atalanta,3-4-1-2,Gian Piero Gasperini,8852,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897308
+23,dom 04/02/2018,12:00,Atalanta,Chievo Verona,3-4-2-1,Gian Piero Gasperini,17392,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897318
+24,sáb 10/02/2018,15:00,Crotone,Atalanta,3-4-1-2,Gian Piero Gasperini,8795,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897328
+25,dom 18/02/2018,14:00,Atalanta,Fiorentina,3-5-2,Gian Piero Gasperini,17261,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897340
+26,qua 14/03/2018,14:00,Juventus,Atalanta,3-4-3 plano,Gian Piero Gasperini,36753,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3011538
+27,ter 03/04/2018,13:30,Atalanta,Sampdoria,3-4-1-2,Gian Piero Gasperini,17612,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897366
+28,dom 11/03/2018,11:00,Bologna,Atalanta,3-4-2-1,Gian Piero Gasperini,17917,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897368
+29,dom 18/03/2018,11:00,Verona,Atalanta,3-4-2-1,Gian Piero Gasperini,14919,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897378
+30,sáb 31/03/2018,10:00,Atalanta,Udinese,3-4-1-2,Gian Piero Gasperini,17204,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897397
+31,sáb 07/04/2018,13:00,SPAL,Atalanta,3-4-1-2,Gian Piero Gasperini,21009,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897398
+32,sáb 14/04/2018,15:45,Atalanta,Inter,3-5-2 plano,Gian Piero Gasperini,20076,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897411
+33,qua 18/04/2018,13:00,Benevento,Atalanta,3-4-2-1,Gian Piero Gasperini,10013,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897486
+34,dom 22/04/2018,10:00,Atalanta,Torino,3-4-2-1,Gian Piero Gasperini,18856,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897505
+35,dom 29/04/2018,10:00,Atalanta,Genoa,3-5-2 plano,Gian Piero Gasperini,18543,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897508
+36,dom 06/05/2018,10:00,Lazio,Atalanta,3-5-2 plano,Gian Piero Gasperini,45000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897516
+37,dom 13/05/2018,13:00,Atalanta,Milan,3-4-2-1,Gian Piero Gasperini,19833,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897531
+38,dom 20/05/2018,13:00,Cagliari,Atalanta,3-4-1-2,Gian Piero Gasperini,16233,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2897536

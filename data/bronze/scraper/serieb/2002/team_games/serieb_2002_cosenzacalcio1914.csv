@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,ter 05/11/2002,17:30,Cosenza,US Palermo,?,Antonio Sala,3565,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2349802
+2,seg 06/01/2003,12:00,Verona,Cosenza,?,Emiliano Mondonico,9802,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2366140
+3,sáb 14/09/2002,15:30,Cosenza,Vicenza,?,Antonio Sala,5282,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2366681
+4,sáb 21/09/2002,15:30,Napoli,Cosenza,?,Antonio Sala,22040,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2366396
+5,sáb 28/09/2002,15:30,Sampdoria,Cosenza,?,Antonio Sala,19861,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2368058
+6,sáb 05/10/2002,15:30,Cosenza,Bari,?,Antonio Sala,3657,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2368100
+7,sáb 12/10/2002,19:00,Triestina,Cosenza,?,Antonio Sala,8233,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2372850
+8,sex 18/10/2002,19:00,Cosenza,Ascoli,4-3-3 ofensivo,Antonio Sala,3162,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2372869
+9,sex 25/10/2002,19:00,Cosenza,AC Siena,?,Antonio Sala,3297,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2372877
+10,sáb 02/11/2002,16:30,Ternana,Cosenza,?,Antonio Sala,8026,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2372915
+11,sáb 09/11/2002,21:00,Cosenza,Cagliari,?,Antonio Sala,3287,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2372941
+12,sáb 16/11/2002,21:00,Ancona,Cosenza,5-4-1 plano,Antonio Sala,5981,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2372971
+13,sáb 23/11/2002,21:00,Cosenza,AC Venezia 1907,?,Antonio Sala,3056,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2372981
+14,sáb 30/11/2002,21:00,Catania Calcio,Cosenza,?,Emiliano Mondonico,7477,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2372997
+15,sex 06/12/2002,17:30,Cosenza,Messina Peloro,?,Emiliano Mondonico,2782,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2373021
+16,dom 15/12/2002,12:00,AS Livorno,Cosenza,?,Emiliano Mondonico,8043,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2373030
+17,sáb 21/12/2002,21:00,Cosenza,Salernitana,?,Emiliano Mondonico,3300,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2373040
+18,seg 13/01/2003,17:30,Lecce,Cosenza,4-3-3 ofensivo,Emiliano Mondonico,8042,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2367753
+19,dom 19/01/2003,12:00,Cosenza,Genoa,?,Emiliano Mondonico,2897,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2373055
+20,dom 26/01/2003,12:00,US Palermo,Cosenza,?,Emiliano Mondonico,11880,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2373066
+21,dom 02/02/2003,12:00,Cosenza,Verona,?,Emiliano Mondonico,2442,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2373332
+22,dom 09/02/2003,12:00,Vicenza,Cosenza,?,Emiliano Mondonico,6821,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2373360
+23,dom 23/02/2003,11:00,Cosenza,Napoli,?,Valter Salvioni,5824,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2367013
+24,dom 02/03/2003,11:00,Cosenza,Sampdoria,?,Valter Salvioni,4402,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2373478
+25,dom 09/03/2003,11:00,Bari,Cosenza,4-4-2 duplo 6,Valter Salvioni,4324,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2368143
+26,dom 16/03/2003,11:00,Cosenza,Triestina,?,Valter Salvioni,5551,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2373563
+27,dom 23/03/2003,11:00,Ascoli,Cosenza,?,Valter Salvioni,7292,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2373569
+28,dom 30/03/2003,10:00,AC Siena,Cosenza,?,Valter Salvioni,5459,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2373583
+29,sáb 05/04/2003,10:00,Cosenza,Ternana,?,Valter Salvioni,3989,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2373588
+30,sáb 12/04/2003,10:00,Cagliari,Cosenza,?,Antonio Sala,7000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2373846
+31,sáb 19/04/2003,10:00,Cosenza,Ancona,4-3-3 ofensivo,Antonio Sala,1627,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2373853
+32,sáb 26/04/2003,10:00,AC Venezia 1907,Cosenza,?,Antonio Sala,3619,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2373904
+33,sáb 03/05/2003,10:00,Cosenza,Catania Calcio,?,Antonio Sala,4520,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2373913
+34,sáb 10/05/2003,10:00,Messina Peloro,Cosenza,?,Antonio Sala,9196,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2373929
+35,sex 16/05/2003,19:00,Cosenza,AS Livorno,?,Antonio Sala,1743,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2373935
+36,sex 23/05/2003,19:00,Salernitana,Cosenza,?,Antonio Sala,5511,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2373946
+37,sex 30/05/2003,19:00,Cosenza,Lecce,4-3-3 ofensivo,Antonio Sala,2901,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2367977
+38,sex 06/06/2003,19:00,Genoa,Cosenza,?,Antonio Sala,9816,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2375524

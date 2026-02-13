@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 18/08/2019,15:45,Kasimpasa,Trabzonspor,4-2-3-1,Kemal Özdeş,4905,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3221068
+2,sáb 24/08/2019,15:45,Alanyaspor,Kasimpasa,4-2-3-1,Kemal Özdeş,3993,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3221088
+3,sex 30/08/2019,14:30,Kasimpasa,Ankaragücü,4-2-3-1,Kemal Özdeş,2995,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3221096
+4,sex 13/09/2019,14:30,Galatasaray,Kasimpasa,4-2-3-1,Kemal Özdeş,43071,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223047
+5,sáb 21/09/2019,09:00,Kasimpasa,Antalyaspor,4-2-3-1,Kemal Özdeş,2170,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223056
+6,sáb 28/09/2019,09:00,Denizlispor,Kasimpasa,4-2-3-1,Kemal Özdeş,8090,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223065
+7,sáb 05/10/2019,09:00,Kasimpasa,Konyaspor,4-2-3-1,Kemal Özdeş,2503,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223072
+8,dom 20/10/2019,08:00,Kayserispor,Kasimpasa,4-3-3 defensivo,Kemal Özdeş,7941,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223082
+9,dom 27/10/2019,10:30,Göztepe,Kasimpasa,4-2-3-1,Kemal Özdeş,7894,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223093
+10,dom 03/11/2019,10:30,Kasimpasa,Y. Malatyaspor,4-2-3-1,Kemal Özdeş,4012,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223100
+11,sex 08/11/2019,14:30,Fenerbahce,Kasimpasa,4-2-3-1,Kemal Özdeş,37745,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223108
+12,dom 24/11/2019,10:30,Kasimpasa,Genclerbirligi,4-2-3-1,Kemal Özdeş,1919,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223112
+13,sáb 30/11/2019,09:00,Sivasspor,Kasimpasa,4-2-3-1,Kemal Özdeş,9956,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223121
+14,dom 08/12/2019,13:00,Kasimpasa,Besiktas,4-2-3-1,Tayfur Havutçu,5324,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223135
+15,sáb 14/12/2019,09:00,C. Rizespor,Kasimpasa,4-2-3-1,Tayfur Havutçu,5101,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223141
+16,sáb 21/12/2019,11:30,Kasimpasa,Gaziantep FK,4-2-3-1,Tayfur Havutçu,1993,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223154
+17,sáb 28/12/2019,11:30,Basaksehir,Kasimpasa,4-2-3-1,Tayfur Havutçu,1454,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223158
+18,dom 19/01/2020,10:00,Trabzonspor,Kasimpasa,4-2-3-1,Tayfur Havutçu,24849,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223170
+19,sáb 25/01/2020,11:00,Kasimpasa,Alanyaspor,4-2-3-1,Erkan Çoker,1442,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223178
+20,dom 02/02/2020,07:30,Ankaragücü,Kasimpasa,4-2-3-1,Erkan Çoker,13600,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223186
+21,dom 09/02/2020,13:00,Kasimpasa,Galatasaray,4-1-4-1,Fuat Çapa,4949,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223200
+22,seg 17/02/2020,14:00,Antalyaspor,Kasimpasa,4-1-4-1,Fuat Çapa,10860,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223209
+23,seg 24/02/2020,14:00,Kasimpasa,Denizlispor,4-2-3-1,Fuat Çapa,1625,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223218
+24,sáb 29/02/2020,08:00,Konyaspor,Kasimpasa,4-2-3-1,Fuat Çapa,8624,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223225
+25,dom 08/03/2020,07:30,Kasimpasa,Kayserispor,4-2-3-1,Fuat Çapa,2564,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223235
+26,sex 13/03/2020,14:00,Kasimpasa,Göztepe,4-2-3-1,Fuat Çapa,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223246
+27,sáb 13/06/2020,15:00,Y. Malatyaspor,Kasimpasa,4-2-3-1,Fuat Çapa,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223253
+28,dom 21/06/2020,12:30,Kasimpasa,Fenerbahce,4-2-3-1,Fuat Çapa,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223261
+29,seg 29/06/2020,15:00,Genclerbirligi,Kasimpasa,4-2-3-1,Fuat Çapa,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223265
+30,dom 05/07/2020,12:30,Kasimpasa,Sivasspor,4-2-3-1,Fuat Çapa,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223274
+31,qui 09/07/2020,15:00,Besiktas,Kasimpasa,4-2-3-1,Fuat Çapa,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223288
+32,seg 13/07/2020,12:30,Kasimpasa,C. Rizespor,4-2-3-1,Fuat Çapa,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223294
+33,sáb 18/07/2020,15:00,Gaziantep FK,Kasimpasa,4-2-3-1,Fuat Çapa,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223307
+34,dom 26/07/2020,11:00,Kasimpasa,Basaksehir,4-2-3-1,Fuat Çapa,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223311

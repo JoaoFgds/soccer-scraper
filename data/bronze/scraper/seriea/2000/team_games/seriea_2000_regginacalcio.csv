@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 01/10/2000,10:00,Reggina,Inter,4-5-1,Franco Colomba,26555,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1153402
+2,dom 15/10/2000,11:00,Florenz,Reggina,4-4-2,Franco Colomba,26868,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1153412
+3,dom 22/10/2000,11:00,Reggina,Lecce,3-4-1-2,Franco Colomba,23789,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217286
+4,qua 01/11/2000,12:00,Bologna,Reggina,3-5-2 plano,Franco Colomba,26042,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217294
+5,dom 05/11/2000,12:00,Reggina,Juventus,3-5-2 plano,Franco Colomba,25074,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217300
+6,dom 12/11/2000,12:00,Roma,Reggina,3-5-2 plano,Franco Colomba,60740,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217308
+7,dom 19/11/2000,12:00,Udinese,Reggina,4-4-2,Franco Colomba,17566,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217316
+8,dom 26/11/2000,12:00,Reggina,Brescia,3-5-2 plano,Franco Colomba,23232,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217327
+9,sáb 02/12/2000,12:00,Lazio,Reggina,3-5-2 plano,Franco Colomba,40000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217339
+10,sáb 09/12/2000,12:00,Reggina,Verona,4-3-1-2,Franco Colomba,17738,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217345
+11,sáb 16/12/2000,12:00,Napoli,Reggina,3-5-2,Franco Colomba,32007,6:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217355
+12,sáb 23/12/2000,12:00,Reggina,Vicenza,3-5-2,Franco Colomba,23014,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217363
+13,dom 07/01/2001,12:00,AC Parma,Reggina,5-3-2,Franco Colomba,16000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217372
+14,dom 14/01/2001,12:00,Reggina,Atalanta,3-5-2,Franco Colomba,23679,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217385
+15,dom 21/01/2001,12:00,Bari,Reggina,3-5-2,Franco Colomba,10799,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217393
+16,sáb 27/01/2001,17:30,Reggina,Perugia,3-5-2,Franco Colomba,23958,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217403
+17,dom 04/02/2001,12:00,Milan,Reggina,3-5-2 plano,Franco Colomba,47348,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217409
+18,sáb 10/02/2001,17:30,Inter,Reggina,3-5-2 plano,Franco Colomba,52068,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217417
+19,dom 18/02/2001,11:00,Reggina,Florenz,3-5-2 plano,Franco Colomba,23600,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217428
+20,dom 25/02/2001,11:00,Lecce,Reggina,3-5-2 plano,Franco Colomba,13128,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217439
+21,sáb 03/03/2001,11:00,Reggina,Bologna,3-5-2 plano,Franco Colomba,22916,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217447
+22,dom 11/03/2001,11:00,Juventus,Reggina,3-5-2 plano,Franco Colomba,30000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217451
+23,dom 18/03/2001,16:30,Reggina,Roma,3-5-2 plano,Franco Colomba,25072,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217461
+24,dom 01/04/2001,10:00,Reggina,Udinese,3-5-2 plano,Franco Colomba,23235,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217469
+25,dom 08/04/2001,10:00,Brescia,Reggina,3-5-2 plano,Franco Colomba,13000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217482
+26,sáb 14/04/2001,10:00,Reggina,Lazio,3-5-2,Franco Colomba,23234,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217490
+27,dom 22/04/2001,10:00,Verona,Reggina,3-5-2,Franco Colomba,14689,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217498
+28,sáb 28/04/2001,15:30,Reggina,Napoli,3-5-2 plano,Franco Colomba,23900,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217512
+29,dom 06/05/2001,10:00,Vicenza,Reggina,3-5-2,Franco Colomba,15391,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217516
+30,sáb 12/05/2001,10:00,Reggina,AC Parma,3-5-2 plano,Franco Colomba,22974,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217524
+31,sáb 19/05/2001,19:00,Atalanta,Reggina,3-5-2 plano,Franco Colomba,15000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217539
+32,dom 27/05/2001,15:30,Reggina,Bari,3-5-2,Franco Colomba,23761,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217545
+33,sáb 09/06/2001,19:00,Perugia,Reggina,3-5-2 plano,Franco Colomba,17382,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217549
+34,sáb 16/06/2001,19:00,Reggina,Milan,3-5-2 plano,Franco Colomba,25912,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217563

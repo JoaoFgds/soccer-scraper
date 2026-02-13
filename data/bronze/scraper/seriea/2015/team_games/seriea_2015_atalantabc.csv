@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 23/08/2015,15:45,Inter,Atalanta,4-3-3 ofensivo,Edoardo Reja,37042,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2603978
+2,dom 30/08/2015,15:45,Atalanta,Frosinone,4-3-3 ofensivo,Edoardo Reja,14546,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2603984
+3,dom 13/09/2015,10:00,Sassuolo,Atalanta,4-3-3 ofensivo,Edoardo Reja,8644,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604003
+4,dom 20/09/2015,10:00,Atalanta,Verona,4-3-3 ofensivo,Edoardo Reja,14323,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604004
+5,qui 24/09/2015,15:45,Empoli,Atalanta,4-3-3 ofensivo,Edoardo Reja,7625,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604016
+6,seg 28/09/2015,16:00,Atalanta,Sampdoria,4-3-3 ofensivo,Edoardo Reja,15756,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604024
+7,dom 04/10/2015,15:45,Fiorentina,Atalanta,4-3-3 ofensivo,Edoardo Reja,25644,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604037
+8,dom 18/10/2015,11:00,Atalanta,Carpi,4-3-3 ofensivo,Edoardo Reja,46390,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604044
+9,dom 25/10/2015,12:00,Juventus,Atalanta,4-3-3 ofensivo,Edoardo Reja,38720,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604058
+10,qua 28/10/2015,17:45,Atalanta,Lazio,4-3-3 ofensivo,Edoardo Reja,14519,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604064
+11,dom 01/11/2015,12:00,Bologna,Atalanta,4-3-3 ofensivo,Edoardo Reja,15748,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604074
+12,sáb 07/11/2015,17:45,Milan,Atalanta,4-3-3 ofensivo,Edoardo Reja,33912,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604087
+13,dom 22/11/2015,12:00,Atalanta,Torino,4-3-3 ofensivo,Edoardo Reja,15776,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604094
+14,dom 29/11/2015,12:00,Roma,Atalanta,4-3-3 ofensivo,Edoardo Reja,29222,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604111
+15,dom 06/12/2015,12:00,Atalanta,US Palermo,4-3-3 ofensivo,Edoardo Reja,14499,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604114
+16,dom 13/12/2015,12:00,Chievo Verona,Atalanta,4-3-3 ofensivo,Edoardo Reja,7500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604124
+17,dom 20/12/2015,12:00,Atalanta,Napoli,4-3-3 ofensivo,Edoardo Reja,17134,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604134
+18,qua 06/01/2016,09:30,Udinese,Atalanta,4-3-3 ofensivo,Edoardo Reja,13462,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604153
+19,dom 10/01/2016,12:00,Atalanta,Genoa,4-3-3 ofensivo,Edoardo Reja,13946,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604154
+20,sáb 16/01/2016,12:00,Atalanta,Inter,3-5-2 plano,Edoardo Reja,19274,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604168
+21,sáb 23/01/2016,15:00,Frosinone,Atalanta,3-5-2 plano,Edoardo Reja,7564,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604174
+22,sáb 30/01/2016,15:00,Atalanta,Sassuolo,3-5-2 plano,Edoardo Reja,13640,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604193
+23,qua 03/02/2016,17:45,Verona,Atalanta,3-4-2-1,Edoardo Reja,15490,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604194
+24,dom 07/02/2016,15:00,Atalanta,Empoli,4-3-3 ofensivo,Edoardo Reja,12352,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604206
+25,dom 14/02/2016,12:00,Sampdoria,Atalanta,4-3-3 ofensivo,Edoardo Reja,20341,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604214
+26,dom 21/02/2016,11:00,Atalanta,Fiorentina,4-3-3 ofensivo,Edoardo Reja,15415,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604227
+27,dom 28/02/2016,11:00,Carpi,Atalanta,4-3-3 ofensivo,Edoardo Reja,6699,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604234
+28,dom 06/03/2016,11:00,Atalanta,Juventus,3-5-2 plano,Edoardo Reja,19770,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604248
+29,dom 13/03/2016,16:45,Lazio,Atalanta,4-3-3 ofensivo,Edoardo Reja,16553,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604254
+30,dom 20/03/2016,08:30,Atalanta,Bologna,4-2-3-1,Edoardo Reja,18258,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604268
+31,dom 03/04/2016,10:00,Atalanta,Milan,4-2-3-1,Edoardo Reja,18652,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604277
+32,dom 10/04/2016,10:00,Torino,Atalanta,4-3-3 ofensivo,Edoardo Reja,19369,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604284
+33,dom 17/04/2016,07:30,Atalanta,Roma,4-3-3 ofensivo,Edoardo Reja,15326,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604301
+34,qua 20/04/2016,15:45,US Palermo,Atalanta,4-1-4-1,Edoardo Reja,12344,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604304
+35,dom 24/04/2016,10:00,Atalanta,Chievo Verona,4-2-3-1,Edoardo Reja,15914,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604314
+36,seg 02/05/2016,16:00,Napoli,Atalanta,4-4-2 duplo 6,Edoardo Reja,24514,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604324
+37,dom 08/05/2016,10:00,Atalanta,Udinese,4-2-3-1,Edoardo Reja,19380,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604343
+38,dom 15/05/2016,13:00,Genoa,Atalanta,4-2-3-1,Edoardo Reja,26292,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604344

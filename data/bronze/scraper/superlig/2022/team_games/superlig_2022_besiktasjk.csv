@@ -1,0 +1,37 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 06/08/2022,15:45,Besiktas,Kayserispor,4-3-3 ofensivo,Valérien Ismaël,33046,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3854845
+2,dom 14/08/2022,15:45,Alanyaspor,Besiktas,4-1-4-1,Valérien Ismaël,6049,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860199
+3,dom 21/08/2022,15:45,Besiktas,Karagümrük,4-1-4-1,Valérien Ismaël,33444,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860273
+4,seg 29/08/2022,15:45,Besiktas,Sivasspor,4-2-3-1,Valérien Ismaël,34820,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860183
+5,dom 04/09/2022,15:45,Ankaragücü,Besiktas,4-2-3-1,Valérien Ismaël,17265,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860239
+6,seg 12/09/2022,13:00,Besiktas,Basaksehir,4-3-3 ofensivo,Valérien Ismaël,35288,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860192
+7,sáb 17/09/2022,14:00,Istanbulspor,Besiktas,4-3-3 ofensivo,Adam Murray,3613,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860250
+8,dom 02/10/2022,14:00,Besiktas,Fenerbahce,4-2-3-1,Valérien Ismaël,39317,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860264
+9,sáb 08/10/2022,14:00,Giresunspor,Besiktas,4-2-3-1,Valérien Ismaël,10402,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860260
+10,dom 16/10/2022,14:00,Besiktas,Trabzonspor,4-2-3-1,Valérien Ismaël,35518,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860219
+11,seg 24/10/2022,14:00,Hatayspor,Besiktas,4-2-3-1,Valérien Ismaël,18628,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860288
+12,dom 30/10/2022,11:00,Besiktas,Ümraniyespor,4-1-4-1,Şenol Güneş,34889,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860300
+13,sáb 05/11/2022,14:00,Galatasaray,Besiktas,4-1-4-1,Şenol Güneş,49788,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860336
+14,dom 26/02/2023,13:00,Besiktas,Antalyaspor,4-2-3-1,Şenol Güneş,32455,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860309
+15,dom 25/12/2022,10:00,Gaziantep FK,Besiktas,4-1-4-1,Şenol Güneş,7944,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860293
+16,qui 29/12/2022,14:00,Besiktas,Adana Demirspor,4-1-4-1,Şenol Güneş,27183,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860345
+18,sáb 07/01/2023,13:00,Besiktas,Kasimpasa,4-4-2,Şenol Güneş,29077,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860327
+19,sáb 14/01/2023,10:00,Konyaspor,Besiktas,4-2-3-1,Şenol Güneş,21757,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860359
+20,dom 22/01/2023,10:00,Kayserispor,Besiktas,4-2-3-1,Şenol Güneş,14489,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860363
+21,sex 27/01/2023,14:00,Besiktas,Alanyaspor,4-2-3-1,Şenol Güneş,32923,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860415
+22,ter 31/01/2023,14:00,Karagümrük,Besiktas,4-2-3-1,Şenol Güneş,2611,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860408
+23,sáb 04/02/2023,10:00,Sivasspor,Besiktas,4-1-4-1,Şenol Güneş,7411,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860381
+24,dom 05/03/2023,13:00,Besiktas,Ankaragücü,4-1-4-1,Şenol Güneş,30799,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860374
+25,dom 12/03/2023,13:00,Basaksehir,Besiktas,4-1-4-1,Şenol Güneş,5207,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860512
+26,sáb 18/03/2023,13:00,Besiktas,Istanbulspor,4-1-4-1,Şenol Güneş,26447,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860403
+27,dom 02/04/2023,14:30,Fenerbahce,Besiktas,4-1-4-1,Şenol Güneş,43899,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860498
+28,dom 09/04/2023,14:30,Besiktas,Giresunspor,4-2-3-1,Şenol Güneş,30106,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860395
+29,dom 16/04/2023,14:30,Trabzonspor,Besiktas,4-2-3-1,Şenol Güneş,27556,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860462
+30,ter 18/04/2023,19:00,Besiktas,Hatayspor,?,,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860477
+31,sáb 22/04/2023,13:00,Ümraniyespor,Besiktas,4-2-3-1,Şenol Güneş,1776,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860444
+32,dom 30/04/2023,13:00,Besiktas,Galatasaray,4-2-3-1,Şenol Güneş,39165,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860489
+33,sáb 06/05/2023,13:00,Antalyaspor,Besiktas,4-2-3-1,Şenol Güneş,17988,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860480
+34,ter 16/05/2023,19:00,Besiktas,Gaziantep FK,?,,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4072486
+35,dom 21/05/2023,13:00,Adana Demirspor,Besiktas,4-2-3-1,Şenol Güneş,27434,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860516
+37,sáb 03/06/2023,13:00,Kasimpasa,Besiktas,4-2-3-1,Şenol Güneş,4533,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860426
+38,qua 07/06/2023,14:00,Besiktas,Konyaspor,4-2-3-1,Şenol Güneş,29929,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3860440

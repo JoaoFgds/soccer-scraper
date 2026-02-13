@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 19/09/2020,15:45,Verona,Roma,3-4-2-1,Ivan Juric,130,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433194
+2,dom 27/09/2020,10:00,Verona,Udinese,3-4-2-1,Ivan Juric,1000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433204
+3,dom 04/10/2020,10:00,Parma,Verona,3-4-2-1,Ivan Juric,1000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433212
+4,seg 19/10/2020,15:45,Verona,Genoa,3-4-1-2,Ivan Juric,1000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433224
+5,dom 25/10/2020,16:45,Juventus,Verona,3-4-2-1,Ivan Juric,1000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433230
+6,seg 02/11/2020,16:45,Verona,Benevento,3-4-2-1,Ivan Juric,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433244
+7,dom 08/11/2020,16:45,Milan,Verona,3-4-2-1,Ivan Juric,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433251
+8,dom 22/11/2020,11:00,Verona,Sassuolo,4-4-2,Ivan Juric,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433264
+9,sáb 28/11/2020,16:45,Atalanta,Verona,3-4-2-1,Ivan Juric,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433265
+10,dom 06/12/2020,08:30,Verona,Cagliari,3-4-2-1,Ivan Juric,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433284
+11,sáb 12/12/2020,16:45,Lazio,Verona,3-4-2-1,Ivan Juric,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433290
+12,qua 16/12/2020,16:45,Verona,Sampdoria,3-4-2-1,Ivan Juric,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433304
+13,sáb 19/12/2020,11:00,Fiorentina,Verona,3-4-2-1,Ivan Juric,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433308
+14,qua 23/12/2020,14:30,Verona,Inter,3-4-2-1,Ivan Juric,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433324
+15,dom 03/01/2021,11:00,Spezia Calcio,Verona,3-4-2-1,Ivan Juric,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433334
+16,qua 06/01/2021,11:00,Torino,Verona,3-4-2-1,Ivan Juric,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433344
+17,dom 10/01/2021,11:00,Verona,Crotone,3-4-2-1,Ivan Juric,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433354
+18,sáb 16/01/2021,11:00,Bologna,Verona,3-4-2-1,Ivan Juric,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433356
+19,dom 24/01/2021,11:00,Verona,Napoli,3-4-2-1,Ivan Juric,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433374
+20,dom 31/01/2021,16:45,Roma,Verona,3-4-2-1,Ivan Juric,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433384
+21,dom 07/02/2021,11:00,Udinese,Verona,3-4-2-1,Ivan Juric,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433394
+22,seg 15/02/2021,16:45,Verona,Parma,3-4-2-1,Ivan Juric,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433402
+23,sáb 20/02/2021,14:00,Genoa,Verona,3-4-2-1,Ivan Juric,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433414
+24,sáb 27/02/2021,16:45,Verona,Juventus,3-4-2-1,Ivan Juric,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433420
+25,qua 03/03/2021,16:45,Benevento,Verona,3-4-2-1,Ivan Juric,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433434
+26,dom 07/03/2021,11:00,Verona,Milan,3-4-2-1,Ivan Juric,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433441
+27,sáb 13/03/2021,11:00,Sassuolo,Verona,3-4-2-1,Ivan Juric,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433454
+28,dom 21/03/2021,08:30,Verona,Atalanta,3-4-2-1,Ivan Juric,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433455
+29,sáb 03/04/2021,10:00,Cagliari,Verona,3-4-2-1,Ivan Juric,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433474
+30,dom 11/04/2021,10:00,Verona,Lazio,3-4-2-1,Ivan Juric,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433480
+31,sáb 17/04/2021,10:00,Sampdoria,Verona,4-4-2 duplo 6,Ivan Juric,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433494
+32,ter 20/04/2021,15:45,Verona,Fiorentina,3-4-2-1,Ivan Juric,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433498
+33,dom 25/04/2021,10:00,Inter,Verona,3-4-2-1,Ivan Juric,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433514
+34,sáb 01/05/2021,10:00,Verona,Spezia Calcio,3-4-2-1,Ivan Juric,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433524
+35,dom 09/05/2021,10:00,Verona,Torino,3-4-2-1,Ivan Juric,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433534
+36,qui 13/05/2021,15:45,Crotone,Verona,3-4-2-1,Ivan Juric,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433544
+37,seg 17/05/2021,15:45,Verona,Bologna,3-4-2-1,Ivan Juric,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433546
+38,dom 23/05/2021,15:45,Napoli,Verona,3-4-2-1,Ivan Juric,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433564

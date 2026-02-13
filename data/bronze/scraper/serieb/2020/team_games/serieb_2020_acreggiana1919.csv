@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 27/09/2020,16:00,Reggiana,AC Pisa 1909,3-4-1-2,Massimiliano Alvini,1000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442546
+2,sáb 03/10/2020,11:15,Virtus Entella,Reggiana,3-4-1-2,Massimiliano Alvini,300,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442558
+3,sáb 17/10/2020,09:00,Reggiana,Chievo Verona,3-4-1-2,Massimiliano Alvini,998,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442566
+4,ter 20/10/2020,16:00,Ascoli,Reggiana,3-4-1-2,Massimiliano Alvini,1000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442569
+5,sáb 09/01/2021,10:00,Reggiana,Cittadella,3-4-1-2,Massimiliano Alvini,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442585
+6,sáb 31/10/2020,12:00,Salernitana,Reggiana,?,Massimiliano Alvini,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442597
+7,dom 08/11/2020,13:00,Reggiana,Venezia,3-4-1-2,Massimiliano Alvini,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442606
+8,sáb 21/11/2020,10:00,Lecce,Reggiana,3-4-2-1,Massimiliano Alvini,x,7:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442614
+9,dom 29/11/2020,11:00,Reggiana,Cremonese,3-4-1-2,Massimiliano Alvini,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442626
+10,dom 06/12/2020,11:00,Reggiana,Monza,3-4-1-2,Massimiliano Alvini,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442635
+11,sáb 12/12/2020,10:00,Cosenza,Reggiana,3-4-1-2,Massimiliano Alvini,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442642
+12,ter 15/12/2020,14:30,Reggiana,Frosinone,3-5-2,Massimiliano Alvini,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442655
+13,sáb 19/12/2020,10:00,Brescia,Reggiana,3-4-1-2,Massimiliano Alvini,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442659
+14,ter 22/12/2020,17:00,Empoli,Reggiana,3-4-1-2,Massimiliano Alvini,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442671
+15,dom 27/12/2020,08:30,Reggiana,Reggina,3-4-2-1,Massimiliano Alvini,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442686
+16,qua 30/12/2020,11:00,Pordenone,Reggiana,3-4-2-1,Massimiliano Alvini,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442696
+17,seg 04/01/2021,14:00,Reggiana,Pescara,3-4-1-2,Massimiliano Alvini,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442705
+18,seg 18/01/2021,17:00,SPAL,Reggiana,3-4-1-2,Massimiliano Alvini,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442718
+19,sáb 23/01/2021,10:00,Reggiana,LR Vicenza,4-3-1-2,Massimiliano Alvini,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442725
+20,sáb 30/01/2021,12:00,AC Pisa 1909,Reggiana,4-3-1-2,Massimiliano Alvini,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442736
+21,dom 07/02/2021,17:00,Reggiana,Virtus Entella,4-3-1-2,Massimiliano Alvini,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442748
+22,qua 10/02/2021,17:00,Chievo Verona,Reggiana,3-4-1-2,Massimiliano Alvini,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442756
+23,dom 14/02/2021,13:00,Reggiana,Ascoli,4-3-2-1,Massimiliano Alvini,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442759
+24,sáb 20/02/2021,10:00,Cittadella,Reggiana,4-2-3-1,Massimiliano Alvini,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442775
+25,sex 26/02/2021,15:00,Reggiana,Salernitana,4-2-3-1,Massimiliano Alvini,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442787
+26,seg 01/03/2021,17:00,Venezia,Reggiana,4-2-3-1,Massimiliano Alvini,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442796
+27,dom 07/03/2021,17:00,Reggiana,Lecce,4-2-3-1,Massimiliano Alvini,x,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442804
+28,sáb 13/03/2021,10:00,Cremonese,Reggiana,4-2-3-1,Massimiliano Alvini,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442816
+29,ter 16/03/2021,15:00,Monza,Reggiana,4-2-3-1,Massimiliano Alvini,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442825
+30,sáb 20/03/2021,10:00,Reggiana,Cosenza,4-2-3-1,Massimiliano Alvini,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442832
+31,sex 02/04/2021,12:00,Frosinone,Reggiana,3-5-2 plano,Massimiliano Alvini,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442845
+32,seg 05/04/2021,12:00,Reggiana,Brescia,3-5-2 plano,Massimiliano Alvini,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442849
+33,sex 09/04/2021,16:00,Reggiana,Empoli,3-5-2 plano,Massimiliano Alvini,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442861
+34,sáb 17/04/2021,09:00,Reggina,Reggiana,3-4-2-1,Massimiliano Alvini,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442876
+35,sáb 01/05/2021,09:00,Reggiana,Pordenone,4-4-1-1,Massimiliano Alvini,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442886
+36,ter 04/05/2021,09:00,Pescara,Reggiana,4-2-3-1,Massimiliano Alvini,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442895
+37,sex 07/05/2021,09:00,Reggiana,SPAL,3-5-2 plano,Massimiliano Alvini,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442908
+38,seg 10/05/2021,09:00,LR Vicenza,Reggiana,4-2-3-1,Massimiliano Alvini,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442915

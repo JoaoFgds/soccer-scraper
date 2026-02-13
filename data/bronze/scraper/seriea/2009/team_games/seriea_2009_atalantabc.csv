@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 23/08/2009,15:45,Lazio,Atalanta,4-5-1,Angelo Gregucci,25000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964277
+2,dom 30/08/2009,15:45,Atalanta,Genoa,4-4-1-1,Angelo Gregucci,13284,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964284
+3,dom 13/09/2009,10:00,Atalanta,Sampdoria,4-3-1-2,Angelo Gregucci,13461,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964294
+4,dom 20/09/2009,10:00,Bari,Atalanta,4-3-3 ofensivo,Angelo Gregucci,16717,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964308
+5,qua 23/09/2009,15:45,Atalanta,Catania Calcio,4-4-2,Antonio Conte,11152,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964314
+6,dom 27/09/2009,10:00,Chievo Verona,Atalanta,4-4-1-1,Antonio Conte,7657,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964325
+7,dom 04/10/2009,10:00,Atalanta,Milan,4-3-2-1,Antonio Conte,15024,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964334
+8,dom 18/10/2009,11:00,Udinese,Atalanta,4-2-3-1,Antonio Conte,17292,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964353
+9,dom 25/10/2009,12:00,Atalanta,Parma,4-5-1,Antonio Conte,11575,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964354
+10,qua 28/10/2009,17:45,AS Livorno,Atalanta,4-3-2-1,Antonio Conte,9065,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964370
+11,dom 01/11/2009,12:00,Cagliari,Atalanta,4-3-2-1,Antonio Conte,10000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964380
+12,sáb 07/11/2009,17:45,Atalanta,Juventus,4-4-2,Antonio Conte,21784,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964384
+13,dom 22/11/2009,12:00,AC Siena,Atalanta,4-4-2 duplo 6,Antonio Conte,9528,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964403
+14,dom 29/11/2009,12:00,Atalanta,Roma,4-4-2 duplo 6,Antonio Conte,10752,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964404
+15,dom 06/12/2009,12:00,Fiorentina,Atalanta,4-4-2,Antonio Conte,24671,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964420
+16,dom 13/12/2009,12:00,Atalanta,Inter,4-3-1-2,Antonio Conte,14608,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964424
+17,qua 20/01/2010,15:00,Bologna,Atalanta,4-1-4-1,Bortolo Mutti,13727,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964434
+18,qua 06/01/2010,12:00,Atalanta,Napoli,4-4-2,Antonio Conte,11061,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964445
+19,dom 10/01/2010,12:00,US Palermo,Atalanta,4-5-1,Valter Bonacina,18817,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964462
+20,dom 17/01/2010,12:00,Atalanta,Lazio,4-5-1,Bortolo Mutti,10260,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964464
+21,dom 24/01/2010,12:00,Genoa,Atalanta,4-4-1-1,Bortolo Mutti,25875,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964476
+22,dom 31/01/2010,12:00,Sampdoria,Atalanta,4-4-2 duplo 6,Bortolo Mutti,22408,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964493
+23,dom 07/02/2010,12:00,Atalanta,Bari,4-5-1 plano,Bortolo Mutti,12706,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964494
+24,dom 14/02/2010,12:00,Catania Calcio,Atalanta,4-4-1-1,Bortolo Mutti,19071,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964509
+25,dom 21/02/2010,11:00,Atalanta,Chievo Verona,4-5-1,Bortolo Mutti,12897,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964514
+26,dom 28/02/2010,11:00,Milan,Atalanta,4-5-1 plano,Bortolo Mutti,38688,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964530
+27,dom 07/03/2010,11:00,Atalanta,Udinese,4-5-1,Bortolo Mutti,13023,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964534
+28,dom 14/03/2010,11:00,Parma,Atalanta,4-3-1-2,Bortolo Mutti,15560,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964552
+29,dom 21/03/2010,11:00,Atalanta,AS Livorno,4-4-2,Bortolo Mutti,10841,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964554
+30,qua 24/03/2010,16:45,Atalanta,Cagliari,4-4-2,Bortolo Mutti,12597,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964564
+31,dom 28/03/2010,10:00,Juventus,Atalanta,4-4-2,Bortolo Mutti,20310,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964576
+32,sáb 03/04/2010,10:00,Atalanta,AC Siena,4-4-2,Bortolo Mutti,11908,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964584
+33,dom 11/04/2010,10:00,Roma,Atalanta,4-4-2 duplo 6,Bortolo Mutti,49503,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964597
+34,dom 18/04/2010,10:00,Atalanta,Fiorentina,4-4-2,Bortolo Mutti,13614,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964604
+35,sáb 24/04/2010,13:00,Inter,Atalanta,4-5-1,Bortolo Mutti,63779,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964617
+36,dom 02/05/2010,10:00,Atalanta,Bologna,4-4-2 duplo 6,Bortolo Mutti,14105,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964625
+37,dom 09/05/2010,10:00,Napoli,Atalanta,4-4-2,Bortolo Mutti,43111,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964639
+38,dom 16/05/2010,10:00,Atalanta,US Palermo,4-5-1,Bortolo Mutti,12147,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964644

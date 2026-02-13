@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 21/08/2016,15:45,Atalanta,Lazio,4-3-3 ofensivo,Simone Inzaghi,14710,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2725471
+2,sáb 27/08/2016,13:00,Lazio,Juventus,3-4-3 plano,Simone Inzaghi,35000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2725485
+3,dom 11/09/2016,10:00,Chievo Verona,Lazio,4-3-2-1,Simone Inzaghi,10000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2725493
+4,sáb 17/09/2016,13:00,Lazio,Pescara,3-5-2 plano,Simone Inzaghi,12000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726507
+5,ter 20/09/2016,15:45,Milan,Lazio,3-5-2 plano,Simone Inzaghi,26464,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726519
+6,dom 25/09/2016,10:00,Lazio,Empoli,3-5-2 plano,Simone Inzaghi,10100,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726528
+7,sáb 01/10/2016,15:45,Udinese,Lazio,4-3-2-1,Simone Inzaghi,16648,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726542
+8,dom 16/10/2016,11:00,Lazio,Bologna,4-3-3 ofensivo,Simone Inzaghi,15000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726548
+9,dom 23/10/2016,11:00,Torino,Lazio,4-3-1-2,Simone Inzaghi,21517,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726561
+10,qua 26/10/2016,16:45,Lazio,Cagliari,4-3-3 ofensivo,Simone Inzaghi,10000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726568
+11,dom 30/10/2016,12:00,Lazio,Sassuolo,4-3-3 ofensivo,Simone Inzaghi,12000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726579
+12,sáb 05/11/2016,17:45,Napoli,Lazio,3-5-2 plano,Simone Inzaghi,29994,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726587
+13,dom 20/11/2016,12:00,Lazio,Genoa,4-3-3 ofensivo,Simone Inzaghi,20000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726599
+14,dom 27/11/2016,09:30,US Palermo,Lazio,4-3-3 ofensivo,Simone Inzaghi,8689,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726610
+15,dom 04/12/2016,12:00,Lazio,Roma,4-3-3 ofensivo,Simone Inzaghi,40000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726616
+16,sáb 10/12/2016,17:45,Sampdoria,Lazio,4-3-3 ofensivo,Simone Inzaghi,18829,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726631
+17,dom 18/12/2016,17:45,Lazio,Fiorentina,3-5-2 plano,Simone Inzaghi,20000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726637
+18,qua 21/12/2016,17:45,Inter,Lazio,4-3-3 ofensivo,Simone Inzaghi,37868,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726648
+19,dom 08/01/2017,12:00,Lazio,Crotone,4-3-3 ofensivo,Simone Inzaghi,15000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726657
+20,dom 15/01/2017,12:00,Lazio,Atalanta,3-5-2 plano,Simone Inzaghi,11500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726663
+21,dom 22/01/2017,09:30,Juventus,Lazio,4-3-3 ofensivo,Simone Inzaghi,39917,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726677
+22,sáb 28/01/2017,15:00,Lazio,Chievo Verona,4-1-4-1,Simone Inzaghi,12000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726685
+23,dom 05/02/2017,12:00,Pescara,Lazio,4-3-3 ofensivo,Simone Inzaghi,11151,2:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726697
+24,seg 13/02/2017,17:45,Lazio,Milan,4-3-3 ofensivo,Simone Inzaghi,25000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726709
+25,sáb 18/02/2017,17:45,Empoli,Lazio,4-1-4-1,Simone Inzaghi,8743,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726718
+26,dom 26/02/2017,11:00,Lazio,Udinese,4-3-3 ofensivo,Simone Inzaghi,15000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726732
+27,dom 05/03/2017,16:45,Bologna,Lazio,4-4-1-1,Simone Inzaghi,18262,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726738
+28,seg 13/03/2017,16:45,Lazio,Torino,4-3-3 ofensivo,Simone Inzaghi,15000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726751
+29,dom 19/03/2017,11:00,Cagliari,Lazio,4-3-3 ofensivo,Simone Inzaghi,15535,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726758
+30,sáb 01/04/2017,13:00,Sassuolo,Lazio,4-3-3 ofensivo,Simone Inzaghi,12737,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726769
+31,dom 09/04/2017,15:45,Lazio,Napoli,3-5-2 plano,Simone Inzaghi,25000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726777
+32,sáb 15/04/2017,10:00,Genoa,Lazio,4-3-2-1,Simone Inzaghi,19545,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726789
+33,dom 23/04/2017,10:00,Lazio,US Palermo,3-5-2 plano,Simone Inzaghi,25000,6:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726800
+34,dom 30/04/2017,07:30,Roma,Lazio,3-5-2 plano,Simone Inzaghi,43794,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726806
+35,dom 07/05/2017,10:00,Lazio,Sampdoria,3-4-1-2,Simone Inzaghi,40000,7:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726821
+36,sáb 13/05/2017,13:00,Fiorentina,Lazio,3-1-4-2,Simone Inzaghi,25770,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726827
+37,dom 21/05/2017,15:45,Lazio,Inter,3-1-4-2,Simone Inzaghi,30000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726838
+38,dom 28/05/2017,15:45,Crotone,Lazio,3-5-2 plano,Simone Inzaghi,14594,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726847

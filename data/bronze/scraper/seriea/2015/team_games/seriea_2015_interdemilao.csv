@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 23/08/2015,15:45,Inter,Atalanta,4-3-1-2,Roberto Mancini,37042,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2603978
+2,dom 30/08/2015,15:45,Carpi,Inter,4-3-1-2,Roberto Mancini,14091,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2603986
+3,dom 13/09/2015,15:45,Inter,Milan,4-3-1-2,Roberto Mancini,79154,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2603998
+4,dom 20/09/2015,07:30,Chievo Verona,Inter,4-3-1-2,Roberto Mancini,20000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604007
+5,qua 23/09/2015,15:45,Inter,Verona,4-3-2-1,Roberto Mancini,34548,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604017
+6,dom 27/09/2015,15:45,Inter,Fiorentina,3-5-2 plano,Roberto Mancini,42687,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604029
+7,dom 04/10/2015,10:00,Sampdoria,Inter,4-3-3 ofensivo,Roberto Mancini,24329,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604042
+8,dom 18/10/2015,16:45,Inter,Juventus,4-4-2 duplo 6,Roberto Mancini,79154,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604049
+9,sáb 24/10/2015,16:45,US Palermo,Inter,4-4-2,Roberto Mancini,20626,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604061
+10,ter 27/10/2015,17:45,Bologna,Inter,4-3-3 ofensivo,Roberto Mancini,22350,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604065
+11,sáb 31/10/2015,17:45,Inter,Roma,4-3-3 ofensivo,Roberto Mancini,59213,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604079
+12,dom 08/11/2015,09:30,Torino,Inter,3-5-2 plano,Roberto Mancini,25868,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604093
+13,dom 22/11/2015,17:45,Inter,Frosinone,4-2-3-1,Roberto Mancini,37469,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604100
+14,seg 30/11/2015,18:00,Napoli,Inter,4-3-3 ofensivo,Roberto Mancini,54149,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604109
+15,sáb 05/12/2015,17:45,Inter,Genoa,4-4-2 duplo 6,Roberto Mancini,39485,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604120
+16,sáb 12/12/2015,17:45,Udinese,Inter,4-2-3-1,Roberto Mancini,16780,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604133
+17,dom 20/12/2015,17:45,Inter,Lazio,4-2-3-1,Roberto Mancini,46260,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604140
+18,qua 06/01/2016,15:00,Empoli,Inter,4-3-3 ofensivo,Roberto Mancini,13735,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604145
+19,dom 10/01/2016,09:30,Inter,Sassuolo,4-3-3 ofensivo,Roberto Mancini,40322,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604160
+20,sáb 16/01/2016,12:00,Atalanta,Inter,4-3-2-1,Roberto Mancini,19274,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604168
+21,dom 24/01/2016,12:00,Inter,Carpi,4-4-2 duplo 6,Roberto Mancini,35826,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604176
+22,dom 31/01/2016,17:45,Milan,Inter,4-4-2,Roberto Mancini,77043,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604188
+23,qua 03/02/2016,17:45,Inter,Chievo Verona,4-3-3 ofensivo,Roberto Mancini,31494,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604197
+24,dom 07/02/2016,09:30,Verona,Inter,4-3-3 ofensivo,Roberto Mancini,21104,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604207
+25,dom 14/02/2016,17:45,Fiorentina,Inter,4-3-3 ofensivo,Roberto Mancini,30486,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604219
+26,sáb 20/02/2016,17:45,Inter,Sampdoria,4-4-2 duplo 6,Roberto Mancini,39055,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604232
+27,dom 28/02/2016,16:45,Juventus,Inter,3-5-2 plano,Roberto Mancini,40204,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604239
+28,dom 06/03/2016,16:45,Inter,US Palermo,4-2-3-1,Roberto Mancini,32455,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604251
+29,sáb 12/03/2016,16:45,Inter,Bologna,4-2-3-1,Roberto Mancini,40267,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604255
+30,sáb 19/03/2016,16:45,Roma,Inter,4-2-3-1,Roberto Mancini,47049,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604272
+31,dom 03/04/2016,15:45,Inter,Torino,4-2-3-1,Roberto Mancini,39125,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604283
+32,sáb 09/04/2016,10:00,Frosinone,Inter,4-4-2 duplo 6,Roberto Mancini,7954,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604290
+33,sáb 16/04/2016,15:45,Inter,Napoli,4-4-2 duplo 6,Roberto Mancini,59310,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604299
+34,qua 20/04/2016,15:45,Genoa,Inter,4-2-3-1,Roberto Mancini,21781,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604310
+35,sáb 23/04/2016,15:45,Inter,Udinese,4-4-2 duplo 6,Roberto Mancini,48012,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604323
+36,dom 01/05/2016,15:45,Lazio,Inter,4-2-3-1,Roberto Mancini,20000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604330
+37,sáb 07/05/2016,13:00,Inter,Empoli,4-2-3-1,Roberto Mancini,44348,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604335
+38,sáb 14/05/2016,15:45,Sassuolo,Inter,4-3-3 ofensivo,Roberto Mancini,14213,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604350

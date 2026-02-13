@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 24/08/2019,13:00,Parma,Juventus,4-3-3 ofensivo,Maurizio Sarri,20814,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229170
+2,sáb 31/08/2019,15:45,Juventus,Napoli,4-3-3 ofensivo,Maurizio Sarri,39203,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229180
+3,sáb 14/09/2019,10:00,Fiorentina,Juventus,4-3-3 ofensivo,Maurizio Sarri,40312,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229187
+4,sáb 21/09/2019,13:00,Juventus,Verona,4-3-3 ofensivo,Maurizio Sarri,39945,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229199
+5,ter 24/09/2019,16:00,Brescia,Juventus,4-3-1-2,Maurizio Sarri,14000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229206
+6,sáb 28/09/2019,10:00,Juventus,SPAL,4-3-1-2,Maurizio Sarri,38995,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229217
+7,dom 06/10/2019,15:45,Inter,Juventus,4-3-1-2,Maurizio Sarri,75923,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229232
+8,sáb 19/10/2019,15:45,Juventus,Bologna,4-3-1-2,Maurizio Sarri,40461,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229238
+9,sáb 26/10/2019,10:00,Lecce,Juventus,4-3-1-2,Maurizio Sarri,26591,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229252
+10,qua 30/10/2019,17:00,Juventus,Genoa,4-3-1-2,Maurizio Sarri,38732,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229258
+11,sáb 02/11/2019,16:45,Torino,Juventus,4-3-1-2,Maurizio Sarri,26664,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229275
+12,dom 10/11/2019,16:45,Juventus,Milan,4-3-1-2,Maurizio Sarri,40478,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229279
+13,sáb 23/11/2019,11:00,Atalanta,Juventus,4-3-1-2,Maurizio Sarri,20899,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229286
+14,dom 01/12/2019,08:30,Juventus,Sassuolo,4-3-1-2,Maurizio Sarri,40597,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229302
+15,sáb 07/12/2019,16:45,Lazio,Juventus,4-3-1-2,Maurizio Sarri,60000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229309
+16,dom 15/12/2019,11:00,Juventus,Udinese,4-3-1-2,Maurizio Sarri,39127,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229322
+17,qua 18/12/2019,14:55,Sampdoria,Juventus,4-3-1-2,Maurizio Sarri,23136,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229332
+18,seg 06/01/2020,11:00,Juventus,Cagliari,4-3-1-2,Maurizio Sarri,40598,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229340
+19,dom 12/01/2020,16:45,Roma,Juventus,4-3-1-2,Maurizio Sarri,60513,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229352
+20,dom 19/01/2020,16:45,Juventus,Parma,4-3-1-2,Maurizio Sarri,37790,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229360
+21,dom 26/01/2020,16:45,Napoli,Juventus,4-3-1-2,Maurizio Sarri,39111,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229370
+22,dom 02/02/2020,08:30,Juventus,Fiorentina,4-3-3 ofensivo,Maurizio Sarri,39408,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229377
+23,sáb 08/02/2020,16:45,Verona,Juventus,4-3-3 ofensivo,Maurizio Sarri,28654,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229389
+24,dom 16/02/2020,11:00,Juventus,Brescia,4-3-1-2,Maurizio Sarri,40841,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229396
+25,sáb 22/02/2020,14:00,SPAL,Juventus,4-3-3 ofensivo,Maurizio Sarri,15262,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229407
+26,dom 08/03/2020,16:45,Juventus,Inter,4-3-3 ofensivo,Maurizio Sarri,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229422
+27,seg 22/06/2020,16:45,Bologna,Juventus,4-3-3 ofensivo,Maurizio Sarri,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229428
+28,sex 26/06/2020,16:45,Juventus,Lecce,4-3-3 ofensivo,Maurizio Sarri,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229442
+29,ter 30/06/2020,16:45,Genoa,Juventus,4-3-3 ofensivo,Maurizio Sarri,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229448
+30,sáb 04/07/2020,12:15,Juventus,Torino,4-3-3 ofensivo,Maurizio Sarri,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229465
+31,ter 07/07/2020,16:45,Milan,Juventus,4-3-3 ofensivo,Maurizio Sarri,x,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229469
+32,sáb 11/07/2020,16:45,Juventus,Atalanta,4-3-3 ofensivo,Maurizio Sarri,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229476
+33,qua 15/07/2020,16:45,Sassuolo,Juventus,4-3-3 ofensivo,Maurizio Sarri,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229492
+34,seg 20/07/2020,16:45,Juventus,Lazio,4-3-3 ofensivo,Maurizio Sarri,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229499
+35,qui 23/07/2020,14:30,Udinese,Juventus,4-3-3 ofensivo,Maurizio Sarri,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229512
+36,dom 26/07/2020,16:45,Juventus,Sampdoria,4-3-3 ofensivo,Maurizio Sarri,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229522
+37,qua 29/07/2020,16:45,Cagliari,Juventus,4-3-3 ofensivo,Maurizio Sarri,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229530
+38,sáb 01/08/2020,15:45,Juventus,Roma,4-3-3 ofensivo,Maurizio Sarri,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229542

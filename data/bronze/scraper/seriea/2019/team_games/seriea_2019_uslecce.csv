@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 26/08/2019,15:45,Inter,Lecce,4-3-1-2,Fabio Liverani,64188,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229169
+2,dom 01/09/2019,15:45,Lecce,Verona,4-3-3 ofensivo,Fabio Liverani,24418,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229182
+3,seg 16/09/2019,15:45,Torino,Lecce,4-3-3 ofensivo,Fabio Liverani,21620,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229195
+4,dom 22/09/2019,10:00,Lecce,Napoli,4-3-1-2,Fabio Liverani,21644,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229201
+5,qua 25/09/2019,16:00,SPAL,Lecce,4-3-1-2,Fabio Liverani,13292,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229214
+6,dom 29/09/2019,10:00,Lecce,Roma,4-3-1-2,Fabio Liverani,26044,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229219
+7,dom 06/10/2019,10:00,Atalanta,Lecce,4-3-3 ofensivo,Fabio Liverani,20771,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229226
+8,dom 20/10/2019,15:45,Milan,Lecce,4-3-1-2,Fabio Liverani,48703,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229240
+9,sáb 26/10/2019,10:00,Lecce,Juventus,4-3-1-2,Fabio Liverani,26591,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229252
+10,qua 30/10/2019,17:00,Sampdoria,Lecce,4-3-1-2,Fabio Liverani,18685,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229263
+11,dom 03/11/2019,11:00,Lecce,Sassuolo,4-3-1-2,Fabio Liverani,22087,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229271
+12,dom 10/11/2019,11:00,Lazio,Lecce,4-3-1-2,Fabio Liverani,35000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229280
+13,seg 25/11/2019,11:00,Lecce,Cagliari,4-3-1-2,Fabio Liverani,21435,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229289
+14,sáb 30/11/2019,16:45,Fiorentina,Lecce,4-3-1-2,Fabio Liverani,33912,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229298
+15,dom 08/12/2019,08:30,Lecce,Genoa,4-3-1-2,Fabio Liverani,21740,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229310
+16,sáb 14/12/2019,11:00,Brescia,Lecce,4-3-1-2,Fabio Liverani,13131,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229317
+17,dom 22/12/2019,11:00,Lecce,Bologna,4-3-1-2,Fabio Liverani,18763,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229330
+18,seg 06/01/2020,14:00,Lecce,Udinese,4-3-1-2,Fabio Liverani,21321,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229341
+19,seg 13/01/2020,16:45,Parma,Lecce,4-3-1-2,Fabio Liverani,15258,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229351
+20,dom 19/01/2020,11:00,Lecce,Inter,5-3-2,Fabio Liverani,25966,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229359
+21,dom 26/01/2020,11:00,Verona,Lecce,5-3-2,Fabio Liverani,15425,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229372
+22,dom 02/02/2020,14:00,Lecce,Torino,4-3-1-2,Fabio Liverani,21947,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229385
+23,dom 09/02/2020,11:00,Napoli,Lecce,4-3-1-2,Fabio Liverani,40825,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229391
+24,sáb 15/02/2020,11:00,Lecce,SPAL,4-3-1-2,Fabio Liverani,24129,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229404
+25,dom 23/02/2020,14:00,Roma,Lecce,4-3-2-1,Fabio Liverani,34293,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229409
+26,dom 01/03/2020,11:00,Lecce,Atalanta,4-3-2-1,Fabio Liverani,21344,2:7,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229416
+27,seg 22/06/2020,14:30,Lecce,Milan,4-3-2-1,Fabio Liverani,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229430
+28,sex 26/06/2020,16:45,Juventus,Lecce,5-3-2,Fabio Liverani,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229442
+29,qua 01/07/2020,16:45,Lecce,Sampdoria,3-5-2 plano,Fabio Liverani,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229453
+30,sáb 04/07/2020,14:30,Sassuolo,Lecce,4-3-1-2,Fabio Liverani,x,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229461
+31,ter 07/07/2020,14:30,Lecce,Lazio,4-3-2-1,Fabio Liverani,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229470
+32,dom 12/07/2020,14:30,Cagliari,Lecce,4-3-2-1,Fabio Liverani,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229479
+33,qua 15/07/2020,16:45,Lecce,Fiorentina,4-3-2-1,Fabio Liverani,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229488
+34,dom 19/07/2020,14:30,Genoa,Lecce,4-3-2-1,Fabio Liverani,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229500
+35,qua 22/07/2020,16:45,Lecce,Brescia,4-3-2-1,Fabio Liverani,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229507
+36,dom 26/07/2020,12:15,Bologna,Lecce,4-3-2-1,Fabio Liverani,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229520
+37,qua 29/07/2020,14:30,Udinese,Lecce,4-3-2-1,Fabio Liverani,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229531
+38,dom 02/08/2020,15:45,Lecce,Parma,4-3-2-1,Fabio Liverani,x,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229541

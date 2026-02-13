@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 18/08/2018,13:00,Chievo Verona,Juventus,4-2-3-1,Massimiliano Allegri,28375,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080904
+2,sáb 25/08/2018,13:00,Juventus,Lazio,4-3-3 ofensivo,Massimiliano Allegri,40173,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080917
+3,sáb 01/09/2018,15:30,Parma,Juventus,4-3-3 ofensivo,Massimiliano Allegri,20814,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080928
+4,dom 16/09/2018,10:00,Juventus,Sassuolo,4-3-1-2,Massimiliano Allegri,40563,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080937
+5,dom 23/09/2018,15:30,Frosinone,Juventus,4-3-3 ofensivo,Massimiliano Allegri,16225,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080956
+6,qua 26/09/2018,16:00,Juventus,Bologna,3-5-2 plano,Massimiliano Allegri,39194,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080981
+7,sáb 29/09/2018,13:00,Juventus,Napoli,4-3-1-2,Massimiliano Allegri,39252,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080991
+8,sáb 06/10/2018,13:00,Udinese,Juventus,4-3-3 ofensivo,Massimiliano Allegri,25021,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081041
+9,sáb 20/10/2018,13:00,Juventus,Genoa,4-3-3 ofensivo,Massimiliano Allegri,37735,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081047
+10,sáb 27/10/2018,13:00,Empoli,Juventus,4-4-2 duplo 6,Massimiliano Allegri,15889,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081054
+11,sáb 03/11/2018,16:30,Juventus,Cagliari,4-3-3 ofensivo,Massimiliano Allegri,40644,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081135
+12,dom 11/11/2018,17:30,Milan,Juventus,4-3-3 ofensivo,Massimiliano Allegri,74729,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081146
+13,sáb 24/11/2018,15:00,Juventus,SPAL,4-4-2 duplo 6,Massimiliano Allegri,41052,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081156
+14,sáb 01/12/2018,15:00,Fiorentina,Juventus,4-2-3-1,Massimiliano Allegri,40872,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081164
+15,sex 07/12/2018,17:30,Juventus,Inter,4-3-3 ofensivo,Massimiliano Allegri,41495,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081175
+16,sáb 15/12/2018,17:30,Torino,Juventus,4-3-3 ofensivo,Massimiliano Allegri,26550,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081191
+17,sáb 22/12/2018,17:30,Juventus,Roma,4-3-3 ofensivo,Massimiliano Allegri,40069,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081195
+18,qua 26/12/2018,12:00,Atalanta,Juventus,4-3-3 ofensivo,Massimiliano Allegri,19787,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081202
+19,sáb 29/12/2018,09:30,Juventus,Sampdoria,4-3-3 ofensivo,Massimiliano Allegri,40641,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081215
+20,seg 21/01/2019,17:30,Juventus,Chievo Verona,4-4-2 duplo 6,Massimiliano Allegri,30239,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081224
+21,dom 27/01/2019,17:30,Lazio,Juventus,4-3-3 ofensivo,Massimiliano Allegri,60000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081237
+22,sáb 02/02/2019,17:30,Juventus,Parma,4-3-3 ofensivo,Massimiliano Allegri,39548,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081248
+23,dom 10/02/2019,15:00,Sassuolo,Juventus,4-3-3 ofensivo,Massimiliano Allegri,21584,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081257
+24,sex 15/02/2019,17:30,Juventus,Frosinone,4-3-3 ofensivo,Massimiliano Allegri,37294,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081265
+25,dom 24/02/2019,11:00,Bologna,Juventus,4-3-3 ofensivo,Massimiliano Allegri,28934,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081277
+26,dom 03/03/2019,16:30,Napoli,Juventus,4-3-2-1,Massimiliano Allegri,42667,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081287
+27,sex 08/03/2019,16:30,Juventus,Udinese,3-5-2 plano,Massimiliano Allegri,39987,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081301
+28,dom 17/03/2019,08:30,Genoa,Juventus,3-5-2 plano,Massimiliano Allegri,30695,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081307
+29,sáb 30/03/2019,14:00,Juventus,Empoli,4-4-2 duplo 6,Massimiliano Allegri,39290,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081314
+30,ter 02/04/2019,16:00,Cagliari,Juventus,3-5-2 plano,Massimiliano Allegri,15985,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081326
+31,sáb 06/04/2019,13:00,Juventus,Milan,3-5-2 plano,Massimiliano Allegri,40057,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081337
+32,sáb 13/04/2019,10:00,SPAL,Juventus,3-5-2 plano,Massimiliano Allegri,16000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081347
+33,sáb 20/04/2019,13:00,Juventus,Fiorentina,4-4-2 duplo 6,Massimiliano Allegri,40098,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081354
+34,sáb 27/04/2019,15:30,Inter,Juventus,3-5-2 plano,Massimiliano Allegri,73855,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081365
+35,sex 03/05/2019,15:30,Juventus,Torino,4-4-2 duplo 6,Massimiliano Allegri,38530,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081381
+36,dom 12/05/2019,15:30,Roma,Juventus,4-3-3 ofensivo,Massimiliano Allegri,50815,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081385
+37,dom 19/05/2019,15:30,Juventus,Atalanta,4-4-2,Massimiliano Allegri,39531,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081392
+38,dom 26/05/2019,13:00,Sampdoria,Juventus,4-3-3 ofensivo,Massimiliano Allegri,22856,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081405

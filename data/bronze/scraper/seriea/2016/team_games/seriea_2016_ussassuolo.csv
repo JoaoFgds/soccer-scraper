@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 21/08/2016,15:45,US Palermo,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,12935,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2725478
+2,dom 28/08/2016,15:45,Sassuolo,Pescara,4-3-3 ofensivo,Eusebio Di Francesco,9071,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2725488
+3,sáb 10/09/2016,13:00,Juventus,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,39519,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2725496
+4,dom 18/09/2016,10:00,Sassuolo,Genoa,4-3-3 ofensivo,Eusebio Di Francesco,10134,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726510
+5,qua 21/09/2016,15:45,Chievo Verona,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,9000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726515
+6,dom 25/09/2016,10:00,Sassuolo,Udinese,4-3-3 ofensivo,Eusebio Di Francesco,9343,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726531
+7,dom 02/10/2016,13:00,Milan,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,31738,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726537
+8,dom 16/10/2016,11:00,Sassuolo,Crotone,4-3-3 ofensivo,Eusebio Di Francesco,11569,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726552
+9,dom 23/10/2016,14:00,Bologna,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,20201,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726554
+10,qua 26/10/2016,16:45,Sassuolo,Roma,4-2-3-1,Eusebio Di Francesco,13221,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726572
+11,dom 30/10/2016,12:00,Lazio,Sassuolo,5-3-2,Eusebio Di Francesco,12000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726579
+12,dom 06/11/2016,12:00,Sassuolo,Atalanta,3-4-1-2,Eusebio Di Francesco,10140,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726591
+13,dom 20/11/2016,09:30,Sampdoria,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,20052,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726601
+14,seg 28/11/2016,16:00,Napoli,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,49490,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726609
+15,dom 04/12/2016,12:00,Sassuolo,Empoli,4-3-3 ofensivo,Eusebio Di Francesco,9588,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726621
+16,seg 12/12/2016,16:00,Fiorentina,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,22049,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726627
+17,dom 18/12/2016,09:30,Sassuolo,Inter,4-3-3 ofensivo,Eusebio Di Francesco,15221,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726641
+18,qui 22/12/2016,17:45,Cagliari,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,11440,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726645
+19,dom 08/01/2017,12:00,Sassuolo,Torino,4-3-3 ofensivo,Eusebio Di Francesco,11805,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726661
+20,dom 15/01/2017,12:00,Sassuolo,US Palermo,4-2-3-1,Eusebio Di Francesco,9074,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726670
+21,dom 22/01/2017,12:00,Pescara,Sassuolo,4-2-3-1,Eusebio Di Francesco,10513,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726680
+22,dom 29/01/2017,12:00,Sassuolo,Juventus,4-2-3-1,Eusebio Di Francesco,21584,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726688
+23,dom 05/02/2017,12:00,Genoa,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,18686,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726700
+24,dom 12/02/2017,12:00,Sassuolo,Chievo Verona,4-3-3 ofensivo,Eusebio Di Francesco,9581,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726705
+25,dom 19/02/2017,11:00,Udinese,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,17719,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726721
+26,dom 26/02/2017,11:00,Sassuolo,Milan,4-3-3 ofensivo,Eusebio Di Francesco,18842,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726727
+27,dom 05/03/2017,11:00,Crotone,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,7544,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726742
+28,dom 12/03/2017,08:30,Sassuolo,Bologna,4-3-3 ofensivo,Eusebio Di Francesco,10773,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726744
+29,dom 19/03/2017,16:45,Roma,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,25477,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726762
+30,sáb 01/04/2017,13:00,Sassuolo,Lazio,4-3-3 ofensivo,Eusebio Di Francesco,12737,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726769
+31,sáb 08/04/2017,13:00,Atalanta,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,18209,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726781
+32,sáb 15/04/2017,13:00,Sassuolo,Sampdoria,4-3-3 ofensivo,Eusebio Di Francesco,11362,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726791
+33,dom 23/04/2017,07:30,Sassuolo,Napoli,4-3-3 ofensivo,Eusebio Di Francesco,18870,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726799
+34,dom 30/04/2017,10:00,Empoli,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,7484,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726811
+35,dom 07/05/2017,10:00,Sassuolo,Fiorentina,4-3-3 ofensivo,Eusebio Di Francesco,11152,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726817
+36,dom 14/05/2017,07:30,Inter,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,42222,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726831
+37,dom 21/05/2017,10:00,Sassuolo,Cagliari,4-3-3 ofensivo,Eusebio Di Francesco,10806,6:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726835
+38,dom 28/05/2017,15:45,Torino,Sassuolo,4-3-3 ofensivo,Eusebio Di Francesco,16803,5:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726851

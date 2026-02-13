@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 26/08/2013,15:45,Fiorentina,Catania Calcio,4-3-3 ofensivo,Rolando Maran,32845,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2355579
+2,dom 01/09/2013,15:45,Catania Calcio,Inter,4-3-3 ofensivo,Rolando Maran,18821,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359217
+3,dom 15/09/2013,10:00,AS Livorno,Catania Calcio,4-3-3 ofensivo,Rolando Maran,8627,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359229
+4,dom 22/09/2013,10:00,Catania Calcio,Parma,3-5-2 plano,Rolando Maran,13125,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359238
+5,qua 25/09/2013,15:45,Lazio,Catania Calcio,4-2-3-1,Rolando Maran,27140,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359248
+6,dom 29/09/2013,10:00,Catania Calcio,Chievo Verona,4-3-3 ofensivo,Rolando Maran,12172,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359257
+7,dom 06/10/2013,10:00,Catania Calcio,Genoa,4-3-3 ofensivo,Rolando Maran,12482,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359266
+8,sáb 19/10/2013,13:00,Cagliari,Catania Calcio,4-3-3 ofensivo,Rolando Maran,4798,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359276
+9,dom 27/10/2013,12:00,Catania Calcio,Sassuolo,4-3-3 ofensivo,Luigi De Canio,12621,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359286
+10,qua 30/10/2013,17:45,Juventus,Catania Calcio,3-5-2,Luigi De Canio,37464,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359300
+11,sáb 02/11/2013,17:45,Napoli,Catania Calcio,4-4-2,Luigi De Canio,47609,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359310
+12,sáb 09/11/2013,15:00,Catania Calcio,Udinese,4-3-3 ofensivo,Luigi De Canio,12986,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359317
+13,dom 24/11/2013,12:00,Torino,Catania Calcio,4-3-3 ofensivo,Luigi De Canio,13856,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359333
+14,dom 01/12/2013,09:30,Catania Calcio,Milan,4-3-3 ofensivo,Luigi De Canio,17383,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359337
+15,dom 08/12/2013,12:00,Sampdoria,Catania Calcio,4-1-4-1,Luigi De Canio,20071,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359352
+16,sáb 14/12/2013,17:45,Catania Calcio,Verona,4-3-3 ofensivo,Luigi De Canio,15872,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359355
+17,dom 22/12/2013,12:00,Roma,Catania Calcio,4-3-3 ofensivo,Luigi De Canio,40599,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359371
+18,seg 06/01/2014,12:00,Catania Calcio,Bologna,4-3-3 ofensivo,Luigi De Canio,16532,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359375
+19,dom 12/01/2014,12:00,Atalanta,Catania Calcio,4-3-3 ofensivo,Luigi De Canio,15806,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359385
+20,dom 19/01/2014,12:00,Catania Calcio,Fiorentina,4-1-4-1,Rolando Maran,14633,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359396
+21,dom 26/01/2014,12:00,Inter,Catania Calcio,3-5-2 plano,Rolando Maran,35007,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359407
+22,dom 02/02/2014,12:00,Catania Calcio,AS Livorno,3-5-2 plano,Rolando Maran,16084,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359419
+23,dom 09/02/2014,12:00,Parma,Catania Calcio,4-3-3 ofensivo,Rolando Maran,10609,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359428
+24,dom 16/02/2014,08:30,Catania Calcio,Lazio,4-3-3 ofensivo,Rolando Maran,12487,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359438
+25,dom 23/02/2014,11:00,Chievo Verona,Catania Calcio,4-3-3 ofensivo,Rolando Maran,5000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359447
+26,dom 02/03/2014,11:00,Genoa,Catania Calcio,3-5-2 plano,Rolando Maran,18092,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359456
+27,sáb 08/03/2014,16:45,Catania Calcio,Cagliari,4-3-3 ofensivo,Rolando Maran,14653,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359466
+28,dom 16/03/2014,11:00,Sassuolo,Catania Calcio,4-3-3 ofensivo,Rolando Maran,13000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359476
+29,dom 23/03/2014,16:45,Catania Calcio,Juventus,3-5-2 plano,Rolando Maran,19945,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359490
+30,qua 26/03/2014,16:45,Catania Calcio,Napoli,3-5-2 plano,Rolando Maran,13513,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359500
+31,seg 31/03/2014,14:00,Udinese,Catania Calcio,4-3-3 ofensivo,Rolando Maran,15005,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359507
+32,dom 06/04/2014,10:00,Catania Calcio,Torino,4-3-3 ofensivo,Rolando Maran,15467,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359523
+33,dom 13/04/2014,15:45,Milan,Catania Calcio,4-2-3-1,Maurizio Pellegrino,33014,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359527
+34,sáb 19/04/2014,10:00,Catania Calcio,Sampdoria,4-3-3 ofensivo,Maurizio Pellegrino,18555,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359542
+35,dom 27/04/2014,07:30,Verona,Catania Calcio,4-2-3-1,Maurizio Pellegrino,19406,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359545
+36,dom 04/05/2014,10:00,Catania Calcio,Roma,4-2-3-1,Maurizio Pellegrino,19028,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359561
+37,dom 11/05/2014,10:00,Bologna,Catania Calcio,4-4-2 losango,Maurizio Pellegrino,30929,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359565
+38,dom 18/05/2014,10:00,Catania Calcio,Atalanta,4-3-2-1,Maurizio Pellegrino,12380,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359575

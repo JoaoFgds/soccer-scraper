@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 25/08/2013,15:45,Parma,Chievo Verona,3-5-2 plano,Roberto Donadoni,11276,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2355585
+2,dom 01/09/2013,15:45,Udinese,Parma,3-5-2 plano,Roberto Donadoni,9750,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359224
+3,seg 16/09/2013,15:45,Parma,Roma,4-1-4-1,Roberto Donadoni,13118,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359231
+4,dom 22/09/2013,10:00,Catania Calcio,Parma,3-5-2 plano,Roberto Donadoni,13125,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359238
+5,qua 25/09/2013,15:45,Parma,Atalanta,3-5-2 plano,Roberto Donadoni,10409,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359251
+6,seg 30/09/2013,15:45,Fiorentina,Parma,3-5-2 plano,Roberto Donadoni,28524,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359258
+7,dom 06/10/2013,07:30,Parma,Sassuolo,3-5-2 plano,Roberto Donadoni,10500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359272
+8,dom 20/10/2013,11:00,Verona,Parma,3-5-2 plano,Roberto Donadoni,19547,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359279
+9,dom 27/10/2013,12:00,Parma,Milan,3-5-2 plano,Roberto Donadoni,16686,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359292
+10,qua 30/10/2013,17:45,Genoa,Parma,3-5-2 plano,Roberto Donadoni,18042,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359298
+11,sáb 02/11/2013,15:00,Parma,Juventus,3-5-2 plano,Roberto Donadoni,17740,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359311
+12,dom 10/11/2013,12:00,Parma,Lazio,3-5-2 plano,Roberto Donadoni,11139,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359323
+13,sáb 23/11/2013,17:45,Napoli,Parma,4-1-4-1,Roberto Donadoni,36400,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359329
+14,sáb 30/11/2013,15:00,Parma,Bologna,4-3-3 ofensivo,Roberto Donadoni,11973,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359344
+15,dom 08/12/2013,17:45,Inter,Parma,4-3-3 ofensivo,Roberto Donadoni,33732,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359348
+16,dom 15/12/2013,12:00,Parma,Cagliari,4-3-3 ofensivo,Roberto Donadoni,13016,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359363
+17,dom 22/12/2013,12:00,Sampdoria,Parma,4-3-3 ofensivo,Roberto Donadoni,20726,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359372
+18,seg 06/01/2014,12:00,Parma,Torino,4-3-3 ofensivo,Roberto Donadoni,12367,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359383
+19,sáb 11/01/2014,15:00,AS Livorno,Parma,4-3-3 ofensivo,Roberto Donadoni,9039,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359390
+20,dom 19/01/2014,12:00,Chievo Verona,Parma,4-3-3 ofensivo,Roberto Donadoni,6000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359402
+21,dom 26/01/2014,12:00,Parma,Udinese,3-5-2 plano,Roberto Donadoni,10917,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359414
+22,qua 02/04/2014,13:30,Roma,Parma,4-3-2-1,Roberto Donadoni,39473,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2451571
+23,dom 09/02/2014,12:00,Parma,Catania Calcio,3-5-2 plano,Roberto Donadoni,10609,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359428
+24,dom 16/02/2014,11:00,Atalanta,Parma,4-3-3 ofensivo,Roberto Donadoni,11233,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359441
+25,seg 24/02/2014,15:00,Parma,Fiorentina,4-3-3 ofensivo,Roberto Donadoni,14014,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359448
+26,dom 02/03/2014,11:00,Sassuolo,Parma,4-3-3 ofensivo,Roberto Donadoni,11693,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359462
+27,dom 09/03/2014,11:00,Parma,Verona,4-3-3 ofensivo,Roberto Donadoni,14258,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359469
+28,dom 16/03/2014,11:00,Milan,Parma,4-1-4-1,Roberto Donadoni,39249,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359482
+29,dom 23/03/2014,08:30,Parma,Genoa,4-3-3 ofensivo,Roberto Donadoni,12441,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359488
+30,qua 26/03/2014,16:45,Juventus,Parma,3-5-2 plano,Roberto Donadoni,38535,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359501
+31,dom 30/03/2014,10:00,Lazio,Parma,4-3-3 ofensivo,Roberto Donadoni,13271,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359513
+32,dom 06/04/2014,15:45,Parma,Napoli,4-3-3 ofensivo,Roberto Donadoni,14743,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359519
+33,dom 13/04/2014,07:30,Bologna,Parma,4-3-3 ofensivo,Roberto Donadoni,21379,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359534
+34,sáb 19/04/2014,10:00,Parma,Inter,4-3-3 ofensivo,Roberto Donadoni,16289,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359538
+35,dom 27/04/2014,10:00,Cagliari,Parma,4-3-3 ofensivo,Roberto Donadoni,4798,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359553
+36,dom 04/05/2014,10:00,Parma,Sampdoria,4-4-2,Roberto Donadoni,17614,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359562
+37,dom 11/05/2014,10:00,Torino,Parma,4-1-4-1,Roberto Donadoni,25559,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359573
+38,dom 18/05/2014,15:45,Parma,AS Livorno,4-3-3 ofensivo,Roberto Donadoni,16783,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359580

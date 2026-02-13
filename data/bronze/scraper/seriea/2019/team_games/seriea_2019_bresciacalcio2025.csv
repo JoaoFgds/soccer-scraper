@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 25/08/2019,15:45,Cagliari,Brescia,4-3-1-2,Eugenio Corini,16099,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229166
+2,sáb 31/08/2019,13:00,Milan,Brescia,4-3-1-2,Eugenio Corini,56691,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229183
+3,dom 15/09/2019,10:00,Brescia,Bologna,4-3-1-2,Eugenio Corini,16743,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229186
+4,sáb 21/09/2019,10:00,Udinese,Brescia,4-3-1-2,Eugenio Corini,19611,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229205
+5,ter 24/09/2019,16:00,Brescia,Juventus,4-3-1-2,Eugenio Corini,14000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229206
+6,dom 29/09/2019,07:30,Napoli,Brescia,4-3-1-2,Eugenio Corini,45770,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229221
+7,qua 18/12/2019,16:45,Brescia,Sassuolo,4-3-1-2,Eugenio Corini,14535,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229228
+8,seg 21/10/2019,16:00,Brescia,Fiorentina,4-3-1-2,Eugenio Corini,16000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229236
+9,sáb 26/10/2019,15:45,Genoa,Brescia,4-3-1-2,Eugenio Corini,20949,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229249
+10,ter 29/10/2019,17:00,Brescia,Inter,5-3-2,Eugenio Corini,16500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229256
+11,dom 03/11/2019,11:00,Verona,Brescia,3-5-2 plano,Eugenio Corini,16525,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229270
+12,sáb 09/11/2019,11:00,Brescia,Torino,4-3-1-2,Fabio Grosso,13500,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229276
+13,dom 24/11/2019,11:00,Roma,Brescia,4-3-1-2,Fabio Grosso,33695,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229291
+14,sáb 30/11/2019,11:00,Brescia,Atalanta,3-5-2 plano,Fabio Grosso,14000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229296
+15,dom 08/12/2019,11:00,SPAL,Brescia,4-3-1-2,Eugenio Corini,12442,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229313
+16,sáb 14/12/2019,11:00,Brescia,Lecce,4-3-1-2,Eugenio Corini,13131,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229317
+17,dom 22/12/2019,11:00,Parma,Brescia,4-3-1-2,Eugenio Corini,16686,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229331
+18,dom 05/01/2020,08:30,Brescia,Lazio,4-3-1-2,Eugenio Corini,14370,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229338
+19,dom 12/01/2020,11:00,Sampdoria,Brescia,4-3-1-2,Eugenio Corini,20837,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229353
+20,dom 19/01/2020,11:00,Brescia,Cagliari,4-3-1-2,Eugenio Corini,12133,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229356
+21,sex 24/01/2020,16:45,Brescia,Milan,4-3-1-2,Eugenio Corini,19451,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229373
+22,sáb 01/02/2020,11:00,Bologna,Brescia,4-3-1-2,Eugenio Corini,21665,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229376
+23,dom 09/02/2020,11:00,Brescia,Udinese,4-3-1-2,Diego López,13586,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229395
+24,dom 16/02/2020,11:00,Juventus,Brescia,4-3-1-2,Diego López,40841,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229396
+25,sex 21/02/2020,16:45,Brescia,Napoli,4-4-1-1,Diego López,14703,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229411
+26,seg 09/03/2020,14:30,Sassuolo,Brescia,4-3-2-1,Diego López,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229418
+27,seg 22/06/2020,14:30,Fiorentina,Brescia,4-3-2-1,Diego López,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229426
+28,sáb 27/06/2020,12:15,Brescia,Genoa,4-3-1-2,Diego López,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229439
+29,qua 01/07/2020,14:30,Inter,Brescia,4-3-1-2,Diego López,x,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229446
+30,dom 05/07/2020,14:30,Brescia,Verona,4-4-2 duplo 6,Diego López,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229460
+31,qua 08/07/2020,16:45,Torino,Brescia,4-4-2 duplo 6,Diego López,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229466
+32,sáb 11/07/2020,14:30,Brescia,Roma,4-3-3 ofensivo,Diego López,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229481
+33,ter 14/07/2020,16:45,Atalanta,Brescia,4-4-2 duplo 6,Diego López,x,6:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229486
+34,dom 19/07/2020,14:30,Brescia,SPAL,4-4-2 duplo 6,Diego López,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229503
+35,qua 22/07/2020,16:45,Lecce,Brescia,4-4-2 duplo 6,Diego López,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229507
+36,sáb 25/07/2020,12:15,Brescia,Parma,4-4-2 duplo 6,Diego López,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229521
+37,qua 29/07/2020,14:30,Lazio,Brescia,4-4-2 duplo 6,Diego López,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229528
+38,sáb 01/08/2020,13:00,Brescia,Sampdoria,4-4-2 duplo 6,Diego López,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229543

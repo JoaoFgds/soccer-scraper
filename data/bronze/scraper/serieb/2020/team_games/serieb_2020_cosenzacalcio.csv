@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 26/09/2020,09:00,Cosenza,Virtus Entella,3-4-1-2,Roberto Occhiuzzi,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442540
+2,sáb 03/10/2020,11:15,SPAL,Cosenza,3-4-1-2,Roberto Occhiuzzi,1000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442556
+3,sáb 17/10/2020,09:00,Cosenza,Cittadella,3-4-2-1,Roberto Occhiuzzi,800,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442560
+4,ter 20/10/2020,16:00,Reggina,Cosenza,3-4-1-2,Roberto Occhiuzzi,952,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442577
+5,dom 25/10/2020,11:00,Cosenza,Lecce,3-4-1-2,Roberto Occhiuzzi,390,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442579
+6,sáb 31/10/2020,12:00,Chievo Verona,Cosenza,3-4-1-2,Roberto Occhiuzzi,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442591
+7,sáb 07/11/2020,10:00,Cosenza,Brescia,3-4-1-2,Roberto Occhiuzzi,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442599
+8,sex 20/11/2020,17:00,Frosinone,Cosenza,3-4-1-2,Roberto Occhiuzzi,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442612
+9,dom 29/11/2020,17:00,Cosenza,Salernitana,3-4-3 plano,Roberto Occhiuzzi,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442621
+10,dom 06/12/2020,17:00,LR Vicenza,Cosenza,3-4-1-2,Roberto Occhiuzzi,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442632
+11,sáb 12/12/2020,10:00,Cosenza,Reggiana,3-4-1-2,Roberto Occhiuzzi,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442642
+12,ter 15/12/2020,17:00,Ascoli,Cosenza,3-4-1-2,Roberto Occhiuzzi,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442649
+13,sáb 19/12/2020,10:00,Cremonese,Cosenza,3-4-1-2,Roberto Occhiuzzi,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442661
+14,ter 22/12/2020,15:00,Cosenza,Venezia,3-4-1-2,Roberto Occhiuzzi,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442670
+15,dom 27/12/2020,11:00,Cosenza,AC Pisa 1909,3-4-1-2,Roberto Occhiuzzi,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442682
+16,qua 30/12/2020,11:00,Pescara,Cosenza,3-4-2-1,Roberto Occhiuzzi,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442694
+17,seg 04/01/2021,11:00,Cosenza,Empoli,3-4-1-2,Roberto Occhiuzzi,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442701
+18,sáb 16/01/2021,10:00,Monza,Cosenza,3-4-3 plano,Roberto Occhiuzzi,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442713
+19,sáb 23/01/2021,10:00,Cosenza,Pordenone,3-4-1-2,Roberto Occhiuzzi,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442721
+20,sáb 30/01/2021,10:00,Virtus Entella,Cosenza,3-4-1-2,Roberto Occhiuzzi,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442730
+21,sáb 06/02/2021,10:00,Cosenza,SPAL,3-4-1-2,Roberto Occhiuzzi,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442746
+22,ter 09/02/2021,15:00,Cittadella,Cosenza,3-4-2-1,Roberto Occhiuzzi,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442750
+23,seg 15/02/2021,17:00,Cosenza,Reggina,3-4-1-2,Roberto Occhiuzzi,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442767
+24,dom 21/02/2021,17:00,Lecce,Cosenza,3-4-1-2,Roberto Occhiuzzi,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442769
+25,sáb 27/02/2021,10:00,Cosenza,Chievo Verona,4-3-1-2,Roberto Occhiuzzi,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442781
+26,ter 02/03/2021,15:00,Brescia,Cosenza,4-3-1-2,Roberto Occhiuzzi,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442789
+27,sáb 06/03/2021,10:00,Cosenza,Frosinone,3-4-1-2,Roberto Occhiuzzi,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442802
+28,sáb 13/03/2021,12:00,Salernitana,Cosenza,3-4-1-2,Roberto Occhiuzzi,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442811
+29,ter 16/03/2021,13:00,Cosenza,LR Vicenza,3-4-1-2,Roberto Occhiuzzi,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442822
+30,sáb 20/03/2021,10:00,Reggiana,Cosenza,3-4-1-2,Roberto Occhiuzzi,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442832
+31,sex 02/04/2021,10:00,Cosenza,Ascoli,3-4-1-2,Roberto Occhiuzzi,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442839
+32,seg 05/04/2021,10:00,Cosenza,Cremonese,3-4-1-2,Roberto Occhiuzzi,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442851
+33,dom 11/04/2021,14:00,Venezia,Cosenza,3-4-1-2,Roberto Occhiuzzi,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442860
+34,sáb 17/04/2021,09:00,AC Pisa 1909,Cosenza,3-4-1-2,Roberto Occhiuzzi,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442872
+35,sáb 01/05/2021,09:00,Cosenza,Pescara,3-5-2,Roberto Occhiuzzi,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442884
+36,ter 04/05/2021,09:00,Empoli,Cosenza,3-5-2,Roberto Occhiuzzi,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442891
+37,sex 07/05/2021,09:00,Cosenza,Monza,3-5-2 plano,Roberto Occhiuzzi,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442903
+38,seg 10/05/2021,09:00,Pordenone,Cosenza,3-5-2,Roberto Occhiuzzi,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442911

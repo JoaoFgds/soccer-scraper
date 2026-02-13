@@ -1,0 +1,37 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 25/08/2018,13:00,Cremonese,Pescara,4-3-3 ofensivo,Giuseppe Pillon,6226,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092242
+2,dom 02/09/2018,13:00,Pescara,AS Livorno,4-3-3 ofensivo,Giuseppe Pillon,5956,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092308
+3,sáb 15/09/2018,10:00,Brescia,Pescara,4-3-3 ofensivo,Giuseppe Pillon,6000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092311
+4,sáb 22/09/2018,10:00,Pescara,Foggia,4-3-3 ofensivo,Giuseppe Pillon,7191,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092326
+5,ter 25/09/2018,16:00,Pescara,Crotone,4-3-3 ofensivo,Giuseppe Pillon,6211,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092335
+6,ter 02/10/2018,12:30,Padova,Pescara,4-3-3 ofensivo,Giuseppe Pillon,6795,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092342
+7,sáb 06/10/2018,10:00,Pescara,Benevento,4-3-3 ofensivo,Giuseppe Pillon,8074,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092354
+8,sex 19/10/2018,16:00,Spezia Calcio,Pescara,4-3-3 ofensivo,Giuseppe Pillon,6508,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092362
+9,sáb 27/10/2018,10:00,Pescara,Cittadella,4-3-3 ofensivo,Giuseppe Pillon,7205,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092372
+10,ter 30/10/2018,17:00,Cosenza,Pescara,4-3-3 ofensivo,Giuseppe Pillon,6807,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092376
+11,seg 05/11/2018,18:00,Pescara,Lecce,4-3-3 ofensivo,Giuseppe Pillon,8782,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092389
+12,dom 11/11/2018,18:00,US Palermo,Pescara,4-3-3 ofensivo,Giuseppe Pillon,9222,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092397
+13,dom 25/11/2018,12:00,Pescara,Ascoli,4-3-3 ofensivo,Giuseppe Pillon,9060,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092406
+14,dom 02/12/2018,18:00,Perugia,Pescara,4-3-3 ofensivo,Giuseppe Pillon,7657,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092417
+15,sex 07/12/2018,18:00,Pescara,Carpi,4-3-3 ofensivo,Giuseppe Pillon,5516,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092423
+16,seg 17/12/2018,18:00,Verona,Pescara,4-3-3 ofensivo,Giuseppe Pillon,9346,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092433
+18,qui 27/12/2018,16:00,Pescara,Venezia,4-3-3 ofensivo,Giuseppe Pillon,6834,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092453
+19,dom 30/12/2018,12:00,US Salernitana,Pescara,4-3-3 ofensivo,Giuseppe Pillon,9824,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092460
+20,dom 20/01/2019,18:00,Pescara,Cremonese,4-1-4-1,Giuseppe Pillon,5759,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092467
+21,dom 27/01/2019,12:00,AS Livorno,Pescara,4-3-3 ofensivo,Giuseppe Pillon,5277,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092479
+22,dom 03/02/2019,18:00,Pescara,Brescia,4-3-3 ofensivo,Giuseppe Pillon,6383,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092482
+23,dom 10/02/2019,12:00,Foggia,Pescara,4-3-3 ofensivo,Giuseppe Pillon,9630,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092497
+24,seg 18/02/2019,17:00,Crotone,Pescara,4-3-3 ofensivo,Giuseppe Pillon,6479,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092506
+25,sáb 23/02/2019,11:00,Pescara,Padova,4-3-1-2,Giuseppe Pillon,5704,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092513
+26,ter 26/02/2019,14:00,Benevento,Pescara,4-3-1-2,Giuseppe Pillon,10298,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092525
+27,dom 03/03/2019,11:00,Pescara,Spezia Calcio,4-3-1-2,Giuseppe Pillon,6179,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092533
+28,sáb 09/03/2019,11:00,Cittadella,Pescara,4-3-1-2,Giuseppe Pillon,3923,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092543
+29,sex 15/03/2019,17:00,Pescara,Cosenza,4-3-3 ofensivo,Giuseppe Pillon,6088,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092547
+30,dom 31/03/2019,16:00,Lecce,Pescara,4-3-1-2,Giuseppe Pillon,12936,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092560
+31,qua 03/04/2019,16:00,Pescara,US Palermo,3-5-2 plano,Giuseppe Pillon,6557,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092568
+32,dom 07/04/2019,10:00,Ascoli,Pescara,4-3-3 ofensivo,Giuseppe Pillon,7045,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092577
+33,sex 12/04/2019,16:00,Pescara,Perugia,4-3-3 ofensivo,Giuseppe Pillon,5949,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092588
+34,seg 22/04/2019,16:00,Carpi,Pescara,4-3-3 ofensivo,Giuseppe Pillon,2125,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092594
+35,sáb 27/04/2019,10:00,Pescara,Verona,4-3-3 ofensivo,Giuseppe Pillon,6557,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092604
+37,sáb 04/05/2019,10:00,Venezia,Pescara,4-3-3 ofensivo,Giuseppe Pillon,2919,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092624
+38,sáb 11/05/2019,10:00,Pescara,US Salernitana,4-3-3 ofensivo,Giuseppe Pillon,9099,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092631

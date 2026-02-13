@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 21/08/2021,15:30,Cittadella,LR Vicenza,4-3-1-2,Domenico Di Carlo,1788,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3624918
+2,sáb 28/08/2021,13:00,LR Vicenza,Frosinone,4-3-1-2,Domenico Di Carlo,2844,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3624975
+3,dom 12/09/2021,09:00,Cosenza,LR Vicenza,4-3-3 ofensivo,Domenico Di Carlo,3026,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3638409
+4,sáb 18/09/2021,11:15,LR Vicenza,Pisa,4-3-1-2,Domenico Di Carlo,3372,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625383
+5,ter 21/09/2021,15:30,SPAL,LR Vicenza,4-3-1-2,Domenico Di Carlo,3599,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625395
+6,dom 26/09/2021,15:30,LR Vicenza,Cremonese,4-3-1-2,Cristian Brocchi,2927,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625400
+7,dom 03/10/2021,11:15,Pordenone,LR Vicenza,3-4-1-2,Cristian Brocchi,1512,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625413
+8,sáb 16/10/2021,09:00,LR Vicenza,Reggina,3-4-1-2,Cristian Brocchi,5251,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625420
+9,sáb 23/10/2021,09:00,Ternana,LR Vicenza,3-5-2,Cristian Brocchi,3723,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625432
+10,qua 27/10/2021,15:30,LR Vicenza,Monza,3-4-1-2,Cristian Brocchi,4312,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625440
+11,seg 01/11/2021,14:00,Parma,LR Vicenza,3-4-1-2,Cristian Brocchi,5116,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625445
+12,sáb 06/11/2021,10:00,Ascoli,LR Vicenza,4-2-3-1,Cristian Brocchi,3306,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625452
+13,sáb 20/11/2021,14:30,LR Vicenza,Brescia,4-2-3-1,Cristian Brocchi,7171,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625461
+14,sex 26/11/2021,14:00,Crotone,LR Vicenza,4-2-3-1,Cristian Brocchi,1856,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625474
+15,ter 30/11/2021,16:30,LR Vicenza,Benevento,4-2-3-1,Cristian Brocchi,3789,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625480
+16,sex 03/12/2021,16:30,Perugia,LR Vicenza,4-2-3-1,Cristian Brocchi,3114,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625495
+17,dom 12/12/2021,12:15,LR Vicenza,Como,4-2-3-1,Cristian Brocchi,3880,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625498
+18,qua 26/01/2022,16:00,Lecce,LR Vicenza,4-2-3-1,Cristian Brocchi,6422,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625512
+19,dom 30/01/2022,10:30,LR Vicenza,Alessandria,4-2-3-1,Cristian Brocchi,4613,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625515
+20,dom 23/01/2022,12:15,LR Vicenza,Cittadella,4-3-1-2,Cristian Brocchi,4038,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3624966
+21,sáb 05/02/2022,12:15,Frosinone,LR Vicenza,4-2-3-1,Cristian Brocchi,4337,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3624984
+22,sáb 12/02/2022,10:00,LR Vicenza,Cosenza,4-2-3-1,Cristian Brocchi,4748,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3638428
+23,ter 15/02/2022,14:30,Pisa,LR Vicenza,4-3-1-2,Cristian Brocchi,3057,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625527
+24,sáb 19/02/2022,10:00,LR Vicenza,SPAL,4-2-3-1,Cristian Brocchi,4522,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625539
+25,ter 22/02/2022,14:30,Cremonese,LR Vicenza,4-2-3-1,Cristian Brocchi,3207,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625544
+26,sáb 26/02/2022,10:00,LR Vicenza,Pordenone,4-2-3-1,Cristian Brocchi,5125,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625557
+27,qua 02/03/2022,14:30,Reggina,LR Vicenza,4-2-3-1,Cristian Brocchi,3401,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625564
+28,dom 06/03/2022,11:30,LR Vicenza,Ternana,4-2-3-1,Cristian Brocchi,5062,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625576
+29,sáb 12/03/2022,12:15,Monza,LR Vicenza,4-3-3 ofensivo,Cristian Brocchi,3524,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625584
+30,ter 15/03/2022,14:30,LR Vicenza,Parma,4-2-3-1,Cristian Brocchi,5859,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625589
+31,dom 20/03/2022,10:00,LR Vicenza,Ascoli,4-2-3-1,Cristian Brocchi,5041,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625596
+32,dom 03/04/2022,10:30,Brescia,LR Vicenza,4-2-3-1,Cristian Brocchi,5439,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625605
+33,qua 06/04/2022,14:00,LR Vicenza,Crotone,4-2-3-1,Cristian Brocchi,5259,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625618
+34,dom 10/04/2022,09:30,Benevento,LR Vicenza,4-3-1-2,Cristian Brocchi,3214,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625624
+35,seg 18/04/2022,10:00,LR Vicenza,Perugia,4-3-3 ofensivo,Francesco Baldini,5307,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625639
+36,seg 25/04/2022,13:00,Como,LR Vicenza,3-4-2-1,Francesco Baldini,2491,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625642
+37,sáb 30/04/2022,09:00,LR Vicenza,Lecce,3-4-2-1,Francesco Baldini,10019,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625656
+38,sex 06/05/2022,15:30,Alessandria,LR Vicenza,3-4-2-1,Francesco Baldini,4838,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625659

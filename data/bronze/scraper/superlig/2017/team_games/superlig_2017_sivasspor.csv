@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/08/2017,14:00,Akhisarspor,Sivasspor,4-2-3-1,Samet Aybaba,1630,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883631
+2,sáb 19/08/2017,15:45,Sivasspor,Y. Malatyaspor,4-2-3-1,Samet Aybaba,9016,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883666
+3,sex 25/08/2017,15:45,Galatasaray,Sivasspor,4-2-3-1,Samet Aybaba,44693,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883687
+4,sáb 09/09/2017,11:00,Sivasspor,Kayserispor,4-2-3-1,Samet Aybaba,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883857
+5,dom 17/09/2017,11:00,Osmanlispor FK,Sivasspor,4-2-3-1,Samet Aybaba,1414,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883862
+6,dom 24/09/2017,08:00,Sivasspor,Göztepe,4-2-3-1,Samet Aybaba,,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883871
+7,sáb 30/09/2017,08:00,Sivasspor,Antalyaspor,4-2-3-1,Samet Aybaba,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883881
+8,dom 15/10/2017,09:00,Kasimpasa,Sivasspor,4-2-3-1,Samet Aybaba,,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883892
+9,dom 22/10/2017,09:00,Sivasspor,Bursaspor,4-2-3-1,Samet Aybaba,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883903
+10,dom 29/10/2017,09:00,Karabükspor,Sivasspor,4-2-3-1,Samet Aybaba,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883909
+11,dom 05/11/2017,14:30,Sivasspor,Konyaspor,4-2-3-1,Samet Aybaba,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883916
+12,dom 19/11/2017,14:30,Fenerbahce,Sivasspor,4-2-3-1,Samet Aybaba,28151,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883927
+13,dom 26/11/2017,09:00,Sivasspor,Trabzonspor,4-2-3-1,Samet Aybaba,12118,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883934
+14,dom 03/12/2017,09:00,Genclerbirligi,Sivasspor,4-2-3-1,Samet Aybaba,,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883949
+15,dom 10/12/2017,11:30,Sivasspor,Basaksehir,4-2-3-1,Samet Aybaba,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883957
+16,sáb 16/12/2017,11:30,Alanyaspor,Sivasspor,4-2-3-1,Samet Aybaba,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883966
+17,sáb 23/12/2017,11:30,Sivasspor,Besiktas,4-2-3-1,Samet Aybaba,18341,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883975
+18,dom 21/01/2018,08:30,Sivasspor,Akhisarspor,4-2-3-1,Samet Aybaba,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883979
+19,dom 28/01/2018,08:30,Y. Malatyaspor,Sivasspor,4-2-3-1,Samet Aybaba,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883987
+20,dom 04/02/2018,14:00,Sivasspor,Galatasaray,4-2-3-1,Samet Aybaba,,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2883999
+21,dom 11/02/2018,08:30,Kayserispor,Sivasspor,4-2-3-1,Samet Aybaba,23768,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884010
+22,sáb 17/02/2018,11:00,Sivasspor,Osmanlispor FK,4-2-3-1,Samet Aybaba,,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884015
+23,dom 25/02/2018,10:00,Göztepe,Sivasspor,4-2-3-1,Samet Aybaba,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884024
+24,dom 04/03/2018,13:00,Antalyaspor,Sivasspor,4-4-2 duplo 6,Samet Aybaba,,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884034
+25,sáb 10/03/2018,07:30,Sivasspor,Kasimpasa,4-4-2 duplo 6,Samet Aybaba,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884045
+26,sáb 17/03/2018,10:00,Bursaspor,Sivasspor,4-2-3-1,Samet Aybaba,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884056
+27,sex 30/03/2018,14:00,Sivasspor,Karabükspor,4-2-3-1,Samet Aybaba,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884062
+28,dom 08/04/2018,07:30,Konyaspor,Sivasspor,4-4-2 duplo 6,Samet Aybaba,,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884069
+29,sáb 14/04/2018,13:00,Sivasspor,Fenerbahce,4-2-3-1,Samet Aybaba,,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884080
+30,sáb 21/04/2018,10:00,Trabzonspor,Sivasspor,4-2-3-1,Samet Aybaba,18521,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884087
+31,sáb 28/04/2018,07:30,Sivasspor,Genclerbirligi,4-2-3-1,Samet Aybaba,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884102
+32,sex 04/05/2018,14:00,Basaksehir,Sivasspor,4-2-3-1,Samet Aybaba,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884110
+33,dom 13/05/2018,13:00,Sivasspor,Alanyaspor,4-4-2 duplo 6,Samet Aybaba,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884119
+34,sáb 19/05/2018,13:00,Besiktas,Sivasspor,4-2-3-1,Samet Aybaba,,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2884128

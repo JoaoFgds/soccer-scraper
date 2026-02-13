@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 26/09/2020,09:00,Frosinone,Empoli,4-3-1-2,Alessio Dionisi,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442542
+2,sáb 03/10/2020,11:15,Empoli,Monza,4-3-1-2,Alessio Dionisi,669,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442552
+3,sáb 17/10/2020,11:00,Pescara,Empoli,4-3-1-2,Alessio Dionisi,400,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442564
+4,ter 20/10/2020,16:00,Empoli,SPAL,4-3-1-2,Alessio Dionisi,1000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442572
+5,sex 23/10/2020,16:00,Empoli,AC Pisa 1909,4-3-1-2,Alessio Dionisi,960,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442581
+6,sáb 31/10/2020,12:00,Venezia,Empoli,4-3-1-2,Alessio Dionisi,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442598
+7,sáb 07/11/2020,12:00,Empoli,Reggina,4-3-1-2,Alessio Dionisi,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442601
+8,sáb 21/11/2020,10:00,Cittadella,Empoli,4-3-1-2,Alessio Dionisi,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442611
+9,sáb 28/11/2020,10:00,Empoli,LR Vicenza,4-3-1-2,Alessio Dionisi,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442622
+10,seg 07/12/2020,17:00,Pordenone,Empoli,4-3-1-2,Alessio Dionisi,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442634
+11,sáb 12/12/2020,10:00,Virtus Entella,Empoli,4-3-1-2,Alessio Dionisi,x,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442648
+12,ter 15/12/2020,17:00,Empoli,Cremonese,4-3-1-2,Alessio Dionisi,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442651
+13,sáb 19/12/2020,10:00,Chievo Verona,Empoli,4-3-1-2,Alessio Dionisi,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442660
+14,ter 22/12/2020,17:00,Empoli,Reggiana,4-3-1-2,Alessio Dionisi,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442671
+15,dom 27/12/2020,14:00,Brescia,Empoli,4-3-1-2,Alessio Dionisi,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442680
+16,qua 30/12/2020,14:00,Empoli,Ascoli,4-3-1-2,Alessio Dionisi,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442691
+17,seg 04/01/2021,11:00,Cosenza,Empoli,4-3-1-2,Alessio Dionisi,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442701
+18,dom 17/01/2021,17:00,Empoli,Salernitana,4-3-1-2,Alessio Dionisi,x,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442711
+19,dom 24/01/2021,11:00,Lecce,Empoli,4-3-1-2,Alessio Dionisi,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442724
+20,sáb 30/01/2021,10:00,Empoli,Frosinone,4-3-1-2,Alessio Dionisi,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442732
+21,sáb 06/02/2021,12:00,Monza,Empoli,4-3-1-2,Alessio Dionisi,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442742
+22,ter 09/02/2021,15:00,Empoli,Pescara,4-3-1-2,Alessio Dionisi,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442754
+23,sáb 13/02/2021,12:00,SPAL,Empoli,4-3-1-2,Alessio Dionisi,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442762
+24,sáb 20/02/2021,14:00,AC Pisa 1909,Empoli,4-3-1-2,Alessio Dionisi,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442771
+25,sex 26/02/2021,17:00,Empoli,Venezia,4-3-1-2,Alessio Dionisi,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442788
+26,ter 02/03/2021,15:00,Reggina,Empoli,4-3-1-2,Alessio Dionisi,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442791
+27,dom 07/03/2021,11:00,Empoli,Cittadella,4-3-1-2,Alessio Dionisi,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442801
+28,sáb 13/03/2021,14:00,LR Vicenza,Empoli,4-3-1-2,Alessio Dionisi,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442812
+29,ter 16/03/2021,15:00,Empoli,Pordenone,4-3-1-2,Alessio Dionisi,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442824
+30,sáb 20/03/2021,10:00,Empoli,Virtus Entella,4-3-1-2,Alessio Dionisi,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442838
+31,ter 13/04/2021,11:00,Cremonese,Empoli,4-3-1-2,Alessio Dionisi,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442841
+32,ter 27/04/2021,11:00,Empoli,Chievo Verona,4-3-1-2,Alessio Dionisi,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442850
+33,sex 09/04/2021,16:00,Reggiana,Empoli,4-3-1-2,Alessio Dionisi,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442861
+34,sáb 17/04/2021,09:00,Empoli,Brescia,4-3-1-2,Alessio Dionisi,x,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442870
+35,sáb 01/05/2021,09:00,Ascoli,Empoli,4-3-1-2,Alessio Dionisi,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442881
+36,ter 04/05/2021,09:00,Empoli,Cosenza,4-3-1-2,Alessio Dionisi,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442891
+37,sex 07/05/2021,09:00,Salernitana,Empoli,4-3-1-2,Alessio Dionisi,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442901
+38,seg 10/05/2021,09:00,Empoli,Lecce,4-3-1-2,Alessio Dionisi,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442914

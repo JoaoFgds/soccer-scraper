@@ -1,0 +1,41 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 11/09/2020,14:00,C. Rizespor,Fenerbahce,4-2-3-1,Erol Bulut,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426662
+2,seg 21/09/2020,14:00,Fenerbahce,Hatayspor,4-2-3-1,Erol Bulut,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426676
+3,dom 27/09/2020,13:00,Galatasaray,Fenerbahce,4-2-3-1,Erol Bulut,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426683
+4,sáb 03/10/2020,13:00,Fenerbahce,Karagümrük,4-2-3-1,Erol Bulut,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426693
+5,dom 18/10/2020,13:00,Göztepe,Fenerbahce,4-2-3-1,Erol Bulut,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426835
+6,dom 25/10/2020,13:00,Fenerbahce,Trabzonspor,4-2-3-1,Erol Bulut,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426845
+7,seg 02/11/2020,14:00,Antalyaspor,Fenerbahce,4-2-3-1,Erol Bulut,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426856
+8,sáb 07/11/2020,13:00,Fenerbahce,Konyaspor,4-2-3-1,Erol Bulut,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426866
+9,sáb 21/11/2020,10:00,Genclerbirligi,Fenerbahce,4-2-3-1,Erol Bulut,x,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426877
+10,dom 29/11/2020,13:00,Fenerbahce,Besiktas,4-2-3-1,Erol Bulut,x,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426887
+11,dom 06/12/2020,13:00,Denizlispor,Fenerbahce,4-2-3-1,Erol Bulut,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426898
+12,sáb 12/12/2020,13:00,Fenerbahce,Y. Malatyaspor,4-2-3-1,Erol Bulut,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426908
+13,sáb 19/12/2020,13:00,Gaziantep FK,Fenerbahce,4-2-3-1,Erol Bulut,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426919
+14,qua 23/12/2020,13:00,Fenerbahce,Basaksehir,4-4-2 duplo 6,Erol Bulut,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426929
+16,seg 04/01/2021,13:00,Kasimpasa,Fenerbahce,4-2-3-1,Erol Bulut,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426949
+17,qui 07/01/2021,13:00,Fenerbahce,Alanyaspor,4-2-3-1,Erol Bulut,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426959
+18,seg 11/01/2021,10:00,BB Erzurumspor,Fenerbahce,4-2-3-1,Erol Bulut,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426960
+19,seg 18/01/2021,13:00,Fenerbahce,Ankaragücü,4-2-3-1,Erol Bulut,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426971
+20,qui 21/01/2021,13:00,Sivasspor,Fenerbahce,4-2-3-1,Erol Bulut,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426982
+21,seg 25/01/2021,13:00,Fenerbahce,Kayserispor,4-2-3-1,Erol Bulut,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426992
+22,sáb 30/01/2021,13:00,Fenerbahce,C. Rizespor,4-2-3-1,Erol Bulut,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427003
+23,ter 02/02/2021,10:00,Hatayspor,Fenerbahce,4-2-3-1,Erol Bulut,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427017
+24,sáb 06/02/2021,13:00,Fenerbahce,Galatasaray,4-2-3-1,Erol Bulut,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427024
+25,sáb 13/02/2021,13:00,Karagümrük,Fenerbahce,4-2-3-1,Erol Bulut,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427034
+26,dom 21/02/2021,13:00,Fenerbahce,Göztepe,4-2-3-1,Erol Bulut,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427045
+27,dom 28/02/2021,13:00,Trabzonspor,Fenerbahce,4-2-3-1,Erol Bulut,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427055
+28,qui 04/03/2021,13:00,Fenerbahce,Antalyaspor,4-2-3-1,Erol Bulut,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427066
+29,seg 08/03/2021,13:00,Konyaspor,Fenerbahce,4-2-3-1,Erol Bulut,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427076
+30,dom 14/03/2021,13:00,Fenerbahce,Genclerbirligi,4-1-4-1,Erol Bulut,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427087
+31,dom 21/03/2021,13:00,Besiktas,Fenerbahce,4-2-3-1,Erol Bulut,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427097
+32,seg 05/04/2021,13:00,Fenerbahce,Denizlispor,4-1-4-1,Emre Belözoğlu,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427108
+33,qui 08/04/2021,13:00,Y. Malatyaspor,Fenerbahce,4-1-4-1,Emre Belözoğlu,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427118
+34,seg 12/04/2021,13:00,Fenerbahce,Gaziantep FK,4-1-4-1,Emre Belözoğlu,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427129
+35,dom 18/04/2021,13:00,Basaksehir,Fenerbahce,4-1-4-1,Emre Belözoğlu,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427139
+37,dom 25/04/2021,14:30,Fenerbahce,Kasimpasa,4-1-4-1,Emre Belözoğlu,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427159
+38,qui 29/04/2021,14:30,Alanyaspor,Fenerbahce,4-1-4-1,Emre Belözoğlu,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427169
+39,seg 03/05/2021,14:30,Fenerbahce,BB Erzurumspor,4-1-4-1,Emre Belözoğlu,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427170
+40,sáb 08/05/2021,14:30,Ankaragücü,Fenerbahce,4-1-4-1,Emre Belözoğlu,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427181
+41,ter 11/05/2021,14:30,Fenerbahce,Sivasspor,4-1-4-1,Emre Belözoğlu,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427192
+42,sáb 15/05/2021,14:30,Kayserispor,Fenerbahce,4-1-4-1,Emre Belözoğlu,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427202

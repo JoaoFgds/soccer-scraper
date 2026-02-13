@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 20/08/2023,15:45,Udinese,Juventus,3-5-2 plano,Andrea Sottil,24911,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103481
+2,seg 28/08/2023,13:30,Salernitana,Udinese,3-5-2 plano,Andrea Sottil,19259,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103491
+3,sáb 02/09/2023,13:30,Udinese,Frosinone,3-5-2 plano,Andrea Sottil,20116,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103501
+4,dom 17/09/2023,07:30,Cagliari,Udinese,3-5-2 plano,Andrea Sottil,15121,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103502
+5,dom 24/09/2023,10:00,Udinese,Fiorentina,3-5-2 plano,Andrea Sottil,21229,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103521
+6,qua 27/09/2023,15:45,Napoli,Udinese,3-5-2 plano,Andrea Sottil,45305,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103531
+7,dom 01/10/2023,10:00,Udinese,Genoa,3-5-2 plano,Andrea Sottil,20805,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103541
+8,sex 06/10/2023,13:30,Empoli,Udinese,3-5-2 plano,Andrea Sottil,7128,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103543
+9,seg 23/10/2023,13:30,Udinese,Lecce,3-5-2 plano,Andrea Sottil,20113,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103561
+10,dom 29/10/2023,11:00,Monza,Udinese,3-5-2 plano,Gabriele Cioffi,10311,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103569
+11,sáb 04/11/2023,16:45,Milan,Udinese,3-5-2 plano,Gabriele Cioffi,71018,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103578
+12,dom 12/11/2023,11:00,Udinese,Atalanta,3-5-2 plano,Gabriele Cioffi,23300,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103591
+13,dom 26/11/2023,14:00,Roma,Udinese,3-5-2 plano,Gabriele Cioffi,61015,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103600
+14,dom 03/12/2023,11:00,Udinese,Verona,3-5-2 plano,Gabriele Cioffi,22294,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103611
+15,sáb 09/12/2023,16:45,Inter,Udinese,3-5-2 plano,Gabriele Cioffi,71874,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103617
+16,dom 17/12/2023,11:00,Udinese,Sassuolo,3-5-2 plano,Gabriele Cioffi,20490,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103631
+17,sáb 23/12/2023,11:00,Torino,Udinese,3-5-2 plano,Gabriele Cioffi,23536,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103641
+18,sáb 30/12/2023,11:00,Udinese,Bologna,3-5-2 plano,Gabriele Cioffi,24786,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103651
+19,dom 07/01/2024,11:00,Udinese,Lazio,3-5-2 plano,Gabriele Cioffi,23033,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103661
+20,dom 14/01/2024,14:00,Fiorentina,Udinese,3-5-2 plano,Gabriele Cioffi,23686,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103664
+21,sáb 20/01/2024,16:45,Udinese,Milan,3-5-2 plano,Gabriele Cioffi,24591,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103681
+22,sáb 27/01/2024,11:00,Atalanta,Udinese,3-5-2 plano,Gabriele Cioffi,14716,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103682
+23,sáb 03/02/2024,11:00,Udinese,Monza,3-5-2 plano,Gabriele Cioffi,11373,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103701
+24,seg 12/02/2024,16:45,Juventus,Udinese,3-5-2 plano,Gabriele Cioffi,38856,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103706
+25,dom 18/02/2024,11:00,Udinese,Cagliari,3-5-2 plano,Gabriele Cioffi,15445,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103721
+26,sáb 24/02/2024,16:45,Genoa,Udinese,3-5-2 plano,Gabriele Cioffi,31126,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103725
+27,sáb 02/03/2024,11:00,Udinese,Salernitana,3-5-2 plano,Gabriele Cioffi,20189,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103741
+28,seg 11/03/2024,16:45,Lazio,Udinese,3-5-2 plano,Gabriele Cioffi,34000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103747
+29,sáb 16/03/2024,11:00,Udinese,Torino,3-5-2 plano,Gabriele Cioffi,21223,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103761
+30,seg 01/04/2024,10:00,Sassuolo,Udinese,3-5-2 plano,Gabriele Cioffi,11512,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103770
+31,seg 08/04/2024,15:45,Udinese,Inter,3-4-2-1,Gabriele Cioffi,24993,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103781
+32,qui 25/04/2024,15:00,Udinese,Roma,3-5-2 plano,Fabio Cannavaro,24947,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103791
+33,sáb 20/04/2024,15:45,Verona,Udinese,3-4-2-1,Gabriele Cioffi,27662,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103795
+34,dom 28/04/2024,10:00,Bologna,Udinese,3-4-2-1,Fabio Cannavaro,27396,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103803
+35,seg 06/05/2024,15:45,Udinese,Napoli,3-4-2-1,Fabio Cannavaro,20872,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103821
+36,seg 13/05/2024,13:30,Lecce,Udinese,3-4-2-1,Fabio Cannavaro,28041,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103829
+37,dom 19/05/2024,10:00,Udinese,Empoli,3-4-2-1,Fabio Cannavaro,24675,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103841
+38,dom 26/05/2024,15:45,Frosinone,Udinese,3-5-2 plano,Fabio Cannavaro,16010,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103845

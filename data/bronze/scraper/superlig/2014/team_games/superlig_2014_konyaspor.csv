@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 30/08/2014,12:30,Eskisehirspor,Konyaspor,4-2-3-1,Mesut Bakkal,4500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2469936
+2,sáb 13/09/2014,14:00,Konyaspor,Balikesirspor,4-2-3-1,Mesut Bakkal,11400,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2469943
+3,dom 21/09/2014,11:00,Sivasspor,Konyaspor,4-2-3-1,Mesut Bakkal,6200,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2469954
+4,dom 28/09/2014,10:00,Konyaspor,K. Erciyesspor,4-2-3-1,Mesut Bakkal,15300,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2469958
+5,sáb 04/10/2014,15:00,Fenerbahce,Konyaspor,4-2-3-1,Mesut Bakkal,13700,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2469971
+6,sáb 18/10/2014,07:30,Konyaspor,Basaksehir,4-2-3-1,Mesut Bakkal,10000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2469980
+7,sex 24/10/2014,15:00,Kasimpasa,Konyaspor,4-2-3-1,Mesut Bakkal,3000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2469992
+8,seg 03/11/2014,16:00,Konyaspor,Karabükspor,4-2-3-1,Aykut Kocaman,13753,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2469995
+9,dom 09/11/2014,12:00,Trabzonspor,Konyaspor,4-2-3-1,Aykut Kocaman,6000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2470009
+10,dom 23/11/2014,09:30,Konyaspor,Gaziantepspor,4-2-3-1,Aykut Kocaman,12280,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2470016
+11,sex 28/11/2014,15:00,Akhisar Belediye,Konyaspor,4-2-3-1,Aykut Kocaman,2000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2470027
+12,sáb 06/12/2014,09:30,Konyaspor,Mersin IY,4-2-3-1,Aykut Kocaman,11150,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2470035
+13,sáb 13/12/2014,15:00,Konyaspor,Galatasaray,4-2-3-1,Aykut Kocaman,35047,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2470043
+14,sáb 20/12/2014,09:30,Genclerbirligi,Konyaspor,4-2-3-1,Aykut Kocaman,3500,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2470050
+15,dom 28/12/2014,15:00,Konyaspor,Besiktas,4-3-3 ofensivo,Aykut Kocaman,39672,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2470061
+16,sáb 03/01/2015,09:30,C. Rizespor,Konyaspor,4-3-3 ofensivo,Aykut Kocaman,1000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2470074
+17,sex 23/01/2015,15:00,Konyaspor,Bursaspor,4-3-3 ofensivo,Aykut Kocaman,20000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2470079
+18,dom 01/02/2015,09:00,Konyaspor,Eskisehirspor,4-3-3 ofensivo,Aykut Kocaman,16000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2470089
+19,dom 08/02/2015,09:00,Balikesirspor,Konyaspor,4-4-2 duplo 6,Aykut Kocaman,7500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2470096
+20,dom 15/02/2015,09:00,Konyaspor,Sivasspor,4-3-3 ofensivo,Aykut Kocaman,25000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2470107
+21,sex 20/02/2015,16:00,K. Erciyesspor,Konyaspor,4-2-3-1,Aykut Kocaman,4500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2470239
+22,sáb 28/02/2015,14:00,Konyaspor,Fenerbahce,4-2-3-1,Aykut Kocaman,40600,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2470252
+23,dom 08/03/2015,08:00,Basaksehir,Konyaspor,4-2-3-1,Aykut Kocaman,1200,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2470261
+24,sex 13/03/2015,15:00,Konyaspor,Kasimpasa,4-4-2,Aykut Kocaman,18500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2470273
+25,sex 20/03/2015,15:00,Karabükspor,Konyaspor,4-3-3 ofensivo,Aykut Kocaman,4500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2470276
+26,dom 05/04/2015,13:00,Konyaspor,Trabzonspor,4-3-3 ofensivo,Aykut Kocaman,30546,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2470290
+27,sex 17/04/2015,14:00,Gaziantepspor,Konyaspor,4-3-3 ofensivo,Aykut Kocaman,4500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2470297
+28,dom 26/04/2015,07:00,Konyaspor,Akhisar Belediye,4-4-2 duplo 6,Aykut Kocaman,10000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2470308
+29,sáb 02/05/2015,10:00,Mersin IY,Konyaspor,4-2-3-1,Aykut Kocaman,3000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2470316
+30,sex 08/05/2015,14:00,Galatasaray,Konyaspor,4-2-3-1,Aykut Kocaman,27300,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2470324
+31,ter 12/05/2015,10:45,Konyaspor,Genclerbirligi,4-2-3-1,Aykut Kocaman,7500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2470331
+32,seg 18/05/2015,14:00,Besiktas,Konyaspor,4-4-2 duplo 6,Aykut Kocaman,4500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2470342
+33,sáb 23/05/2015,11:00,Konyaspor,C. Rizespor,4-4-2 duplo 6,Aykut Kocaman,,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2470355
+34,sáb 30/05/2015,13:00,Bursaspor,Konyaspor,4-2-3-1,Aykut Kocaman,17500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2470360

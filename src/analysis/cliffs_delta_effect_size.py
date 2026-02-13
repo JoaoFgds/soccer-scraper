@@ -206,22 +206,42 @@ def create_effect_size_plot(
     Create a box plot showing the distribution of Cliff's Delta values
     with 3 boxplots: All seasons, Before 2005, After 2005.
 
+    Optimized for inclusion in Springer LNCS single-column LaTeX documents.
+    Text blocks are placed in a dedicated right-side panel to avoid
+    overlapping data and remain readable at the final printed size.
+
     Args:
         deltas_df: DataFrame with delta values for each season-league
         comparison_label: Label for the comparison (e.g., "G- vs G0")
         output_path: Path to save the plot
         threshold_label: Label describing the threshold used (e.g., "G: 0.300" or "p<0.10")
     """
-    fig, ax = plt.subplots(figsize=(12, 8))
+    # --- LaTeX-friendly matplotlib settings ---
+    plt.rcParams.update({
+        'font.family': 'serif',
+        'font.serif': ['Computer Modern Roman', 'DejaVu Serif', 'Times New Roman'],
+        'font.size': 13,
+        'axes.labelsize': 16,
+        'axes.titlesize': 16,
+        'xtick.labelsize': 13,
+        'ytick.labelsize': 13,
+        'legend.fontsize': 11,
+        'legend.title_fontsize': 12,
+        'mathtext.fontset': 'cm',
+    })
+
     sns.set_style("whitegrid")
+
+    fig = plt.figure(figsize=(12, 7))
+    ax = fig.add_axes([0.08, 0.12, 0.52, 0.82])
 
     # Color based on comparison type
     if 'G-' in comparison_label:
         base_color = '#e74c3c'  # Red for G-
-        test_label = 'G- (Easy Start / Unbalanced Weak)'
+        test_label = r'$G^-$ (Easy Start / Unbalanced Weak)'
     else:
         base_color = '#3498db'  # Blue for G+
-        test_label = 'G+ (Hard Start / Unbalanced Strong)'
+        test_label = r'$G^+$ (Hard Start / Unbalanced Strong)'
 
     # Split data by time period
     all_data = deltas_df['delta'].dropna()
@@ -249,15 +269,15 @@ def create_effect_size_plot(
         patch.set_facecolor(colors[i])
         patch.set_alpha(0.6)
         patch.set_edgecolor('black')
-        patch.set_linewidth(1.5)
+        patch.set_linewidth(2.0)
         median.set_color('black')
-        median.set_linewidth(2)
+        median.set_linewidth(2.5)
 
     # Style whiskers and caps
     for whisker in box['whiskers']:
-        whisker.set_linewidth(1.5)
+        whisker.set_linewidth(2.0)
     for cap in box['caps']:
-        cap.set_linewidth(1.5)
+        cap.set_linewidth(2.0)
 
     # Add jittered points for each group
     for i, (data, pos, color) in enumerate(zip(data_groups, positions, colors)):
@@ -267,20 +287,37 @@ def create_effect_size_plot(
             data,
             alpha=0.4,
             color=color,
-            s=25,
+            s=35,
             edgecolor='white',
             linewidth=0.5,
             zorder=3
         )
 
     # Add reference lines
-    ax.axhline(y=0, color='gray', linestyle='--', linewidth=2, alpha=0.7, label='No Effect (δ=0)')
-    ax.axhline(y=0.33, color='orange', linestyle=':', linewidth=1.5, alpha=0.7, label='Small Effect Threshold (±0.33)')
-    ax.axhline(y=-0.33, color='orange', linestyle=':', linewidth=1.5, alpha=0.7)
-    ax.axhline(y=0.474, color='red', linestyle=':', linewidth=1.5, alpha=0.7, label='Large Effect Threshold (±0.474)')
-    ax.axhline(y=-0.474, color='red', linestyle=':', linewidth=1.5, alpha=0.7)
+    ax.axhline(y=0, color='gray', linestyle='--', linewidth=2, alpha=0.7,
+               label=r'No Effect ($\delta$=0)')
+    ax.axhline(y=0.33, color='orange', linestyle=':', linewidth=2.0, alpha=0.7,
+               label=r'Small Effect Threshold ($\pm$0.33)')
+    ax.axhline(y=-0.33, color='orange', linestyle=':', linewidth=2.0, alpha=0.7)
+    ax.axhline(y=0.474, color='red', linestyle=':', linewidth=2.0, alpha=0.7,
+               label=r'Large Effect Threshold ($\pm$0.474)')
+    ax.axhline(y=-0.474, color='red', linestyle=':', linewidth=2.0, alpha=0.7)
 
-    # Calculate and display statistics for each group
+    # Customize plot axes
+    ax.set_ylabel(r"Cliff's $\delta$", fontsize=16)
+    ax.set_ylim(-1.1, 1.1)
+    ax.set_xlim(0.3, 3.7)
+    ax.set_xticks(positions)
+    ax.set_xticklabels(labels, fontsize=13)
+    # No in-figure title — use \caption{} in LaTeX
+
+    ax.legend(loc='upper right', fontsize=11)
+
+    # --- Right-side text panel ---
+    text_ax = fig.add_axes([0.64, 0.12, 0.34, 0.82])
+    text_ax.axis('off')
+
+    # Statistics block
     stats_lines = []
     for label_text, data in zip(labels, data_groups):
         n = len(data)
@@ -290,51 +327,41 @@ def create_effect_size_plot(
             pct_pos = 100 * n_pos / n
             effect = interpret_effect_size(median)
             stats_lines.append(f"{label_text}:")
-            stats_lines.append(f"  N={n}, Med δ={median:.3f} ({effect})")
-            stats_lines.append(f"  δ>0: {n_pos} ({pct_pos:.1f}%)")
+            stats_lines.append(f"  N={n}, Med $\\delta$={median:.3f} ({effect})")
+            stats_lines.append(f"  $\\delta$>0: {n_pos} ({pct_pos:.1f}%)")
 
     stats_text = "\n".join(stats_lines)
-
-    ax.text(
-        0.02, 0.98, stats_text,
-        transform=ax.transAxes,
-        fontsize=9,
+    text_ax.text(
+        0.05, 0.98, stats_text,
+        transform=text_ax.transAxes,
+        fontsize=10,
         verticalalignment='top',
         bbox=dict(boxstyle='round', facecolor='wheat', alpha=0.8),
-        fontfamily='monospace'
+        fontfamily='serif'
     )
 
-    # Customize plot
-    ax.set_ylabel("Cliff's Delta (δ)", fontsize=12)
-    ax.set_ylim(-1.1, 1.1)
-    ax.set_xlim(0.3, 3.7)
-    ax.set_xticks(positions)
-    ax.set_xticklabels(labels, fontsize=11)
-
-    # Title with interpretation guide
-    title = f"Effect Size Distribution: {comparison_label}\n(Classification: {threshold_label})"
-    ax.set_title(title, fontsize=14, fontweight='bold', pad=20)
-
-    # Add interpretation guide
+    # Interpretation guide
     interpretation = (
         "Interpretation:\n"
-        f"δ > 0 → {test_label} has worse ranks (higher numbers)\n"
-        f"δ < 0 → {test_label} has better ranks (lower numbers)"
+        f"$\\delta$ > 0 \u2192 {test_label}\n"
+        f"  has worse ranks (higher numbers)\n"
+        f"$\\delta$ < 0 \u2192 {test_label}\n"
+        f"  has better ranks (lower numbers)"
     )
-    ax.text(
-        0.98, 0.02, interpretation,
-        transform=ax.transAxes,
-        fontsize=9,
-        verticalalignment='bottom',
-        horizontalalignment='right',
-        bbox=dict(boxstyle='round', facecolor='lightgray', alpha=0.8)
+    text_ax.text(
+        0.05, 0.38, interpretation,
+        transform=text_ax.transAxes,
+        fontsize=10,
+        verticalalignment='top',
+        bbox=dict(boxstyle='round', facecolor='lightgray', alpha=0.8),
+        fontfamily='serif'
     )
 
-    ax.legend(loc='upper right', fontsize=9)
-
-    plt.tight_layout()
-    plt.savefig(output_path, dpi=300, bbox_inches='tight')
-    print(f"  Plot saved: {output_path}")
+    # Save as PNG (300 DPI) and PDF (vector)
+    plt.savefig(output_path, dpi=300, bbox_inches='tight', facecolor='white')
+    pdf_path = output_path.replace('.png', '.pdf')
+    plt.savefig(pdf_path, bbox_inches='tight', facecolor='white')
+    print(f"  Plot saved: {output_path} and {pdf_path}")
     plt.close()
 
 

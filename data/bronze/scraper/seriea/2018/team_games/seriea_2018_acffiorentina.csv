@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qua 19/09/2018,14:00,Sampdoria,Fiorentina,4-1-4-1,Stefano Pioli,18334,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080909
+2,dom 26/08/2018,15:30,Fiorentina,Chievo Verona,4-3-3 ofensivo,Stefano Pioli,27790,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080913
+3,dom 02/09/2018,13:00,Fiorentina,Udinese,4-3-3 ofensivo,Stefano Pioli,31009,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080925
+4,sáb 15/09/2018,13:00,Napoli,Fiorentina,4-3-3 ofensivo,Stefano Pioli,20131,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080938
+5,sáb 22/09/2018,13:00,Fiorentina,SPAL,4-3-3 ofensivo,Stefano Pioli,30068,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080963
+6,ter 25/09/2018,16:00,Inter,Fiorentina,4-3-3 ofensivo,Stefano Pioli,55840,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080980
+7,dom 30/09/2018,10:00,Fiorentina,Atalanta,4-3-3 ofensivo,Stefano Pioli,30535,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080988
+8,dom 07/10/2018,10:00,Lazio,Fiorentina,4-3-3 ofensivo,Stefano Pioli,32886,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081036
+9,dom 21/10/2018,13:00,Fiorentina,Cagliari,4-3-3 ofensivo,Stefano Pioli,31567,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081044
+10,sáb 27/10/2018,15:30,Torino,Fiorentina,4-3-3 ofensivo,Stefano Pioli,17871,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081061
+11,sáb 03/11/2018,14:00,Fiorentina,Roma,4-3-3 ofensivo,Stefano Pioli,30590,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081133
+12,sex 09/11/2018,17:30,Frosinone,Fiorentina,4-3-3 ofensivo,Stefano Pioli,13378,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081144
+13,dom 25/11/2018,12:00,Bologna,Fiorentina,4-3-3 ofensivo,Stefano Pioli,21241,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081151
+14,sáb 01/12/2018,15:00,Fiorentina,Juventus,4-1-4-1,Stefano Pioli,40872,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081164
+15,dom 09/12/2018,09:30,Sassuolo,Fiorentina,4-1-4-1,Stefano Pioli,11436,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081180
+16,dom 16/12/2018,12:00,Fiorentina,Empoli,3-4-1-2,Stefano Pioli,28918,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081185
+17,sáb 22/12/2018,12:00,Milan,Fiorentina,4-3-3 ofensivo,Stefano Pioli,52592,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081197
+18,qua 26/12/2018,12:00,Fiorentina,Parma,4-3-3 ofensivo,Stefano Pioli,31767,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081205
+19,sáb 29/12/2018,12:00,Genoa,Fiorentina,4-3-3 ofensivo,Stefano Pioli,21270,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081214
+20,dom 20/01/2019,12:00,Fiorentina,Sampdoria,4-3-3 ofensivo,Stefano Pioli,27844,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081229
+21,dom 27/01/2019,09:30,Chievo Verona,Fiorentina,4-3-3 ofensivo,Stefano Pioli,10000,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081233
+22,dom 03/02/2019,12:00,Udinese,Fiorentina,4-3-3 ofensivo,Stefano Pioli,18118,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081245
+23,sáb 09/02/2019,15:00,Fiorentina,Napoli,5-3-2,Stefano Pioli,29377,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081258
+24,dom 17/02/2019,08:30,SPAL,Fiorentina,4-3-3 ofensivo,Stefano Pioli,13769,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081264
+25,dom 24/02/2019,16:30,Fiorentina,Inter,4-1-4-1,Stefano Pioli,32824,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081276
+26,dom 03/03/2019,14:00,Atalanta,Fiorentina,3-4-3 plano,Stefano Pioli,18796,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081284
+27,dom 10/03/2019,16:30,Fiorentina,Lazio,4-3-3 ofensivo,Stefano Pioli,28727,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081296
+28,sex 15/03/2019,16:30,Cagliari,Fiorentina,3-1-4-2,Stefano Pioli,14735,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081304
+29,dom 31/03/2019,10:00,Fiorentina,Torino,4-3-3 ofensivo,Stefano Pioli,36707,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081321
+30,qua 03/04/2019,16:00,Roma,Fiorentina,4-3-1-2,Stefano Pioli,30123,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081324
+31,dom 07/04/2019,07:30,Fiorentina,Frosinone,4-3-3 ofensivo,Stefano Pioli,26958,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081335
+32,dom 14/04/2019,10:00,Fiorentina,Bologna,3-5-2 plano,Vincenzo Montella,29394,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081342
+33,sáb 20/04/2019,13:00,Juventus,Fiorentina,3-5-2 plano,Vincenzo Montella,40098,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081354
+34,seg 29/04/2019,16:00,Fiorentina,Sassuolo,3-5-2 plano,Vincenzo Montella,25567,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081370
+35,dom 05/05/2019,07:30,Empoli,Fiorentina,4-3-3 ofensivo,Vincenzo Montella,8285,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081375
+36,sáb 11/05/2019,15:30,Fiorentina,Milan,4-3-3 ofensivo,Vincenzo Montella,33520,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081387
+37,dom 19/05/2019,10:00,Parma,Fiorentina,4-3-3 ofensivo,Vincenzo Montella,17333,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081395
+38,dom 26/05/2019,15:30,Fiorentina,Genoa,3-5-2 plano,Vincenzo Montella,37527,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081404

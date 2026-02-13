@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 25/08/2013,13:00,Inter,Genoa,3-5-2 plano,Walter Mazzarri,42797,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2355581
+2,dom 01/09/2013,15:45,Catania Calcio,Inter,3-5-2 plano,Walter Mazzarri,18821,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359217
+3,sáb 14/09/2013,13:00,Inter,Juventus,3-5-2 plano,Walter Mazzarri,79343,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359227
+4,dom 22/09/2013,07:30,Sassuolo,Inter,3-5-2 plano,Walter Mazzarri,22001,0:7,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359244
+5,qui 26/09/2013,15:45,Inter,Fiorentina,3-5-2 plano,Walter Mazzarri,38291,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359247
+6,dom 29/09/2013,10:00,Cagliari,Inter,3-5-2 plano,Walter Mazzarri,6000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359256
+7,sáb 05/10/2013,15:45,Inter,Roma,3-5-2 plano,Walter Mazzarri,68000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359268
+8,dom 20/10/2013,16:45,Torino,Inter,3-5-2 plano,Walter Mazzarri,20881,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359284
+9,sáb 26/10/2013,16:45,Inter,Verona,3-5-2 plano,Walter Mazzarri,44097,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359288
+10,ter 29/10/2013,17:45,Atalanta,Inter,3-5-2 plano,Walter Mazzarri,16511,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359295
+11,dom 03/11/2013,12:00,Udinese,Inter,3-5-2 plano,Walter Mazzarri,15867,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359314
+12,sáb 09/11/2013,17:45,Inter,AS Livorno,3-5-2 plano,Walter Mazzarri,39775,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359321
+13,dom 24/11/2013,17:45,Bologna,Inter,3-5-2 plano,Walter Mazzarri,23191,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359325
+14,dom 01/12/2013,12:00,Inter,Sampdoria,3-5-2 plano,Walter Mazzarri,43607,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359341
+15,dom 08/12/2013,17:45,Inter,Parma,3-5-2 plano,Walter Mazzarri,33732,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359348
+16,dom 15/12/2013,17:45,Napoli,Inter,3-5-2 plano,Walter Mazzarri,42555,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359362
+17,dom 22/12/2013,17:45,Inter,Milan,3-5-2 plano,Walter Mazzarri,79311,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359369
+18,seg 06/01/2014,15:30,Lazio,Inter,3-5-2 plano,Walter Mazzarri,36818,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359380
+19,seg 13/01/2014,18:00,Inter,Chievo Verona,3-5-2 plano,Walter Mazzarri,32765,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359389
+20,dom 19/01/2014,12:00,Genoa,Inter,3-4-1-2,Walter Mazzarri,20274,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359398
+21,dom 26/01/2014,12:00,Inter,Catania Calcio,3-4-3 plano,Walter Mazzarri,35007,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359407
+22,dom 02/02/2014,17:45,Juventus,Inter,3-5-2 plano,Walter Mazzarri,38979,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359417
+23,dom 09/02/2014,17:45,Inter,Sassuolo,3-5-2 plano,Walter Mazzarri,34528,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359434
+24,sáb 15/02/2014,17:45,Fiorentina,Inter,3-5-2 plano,Walter Mazzarri,35584,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359437
+25,dom 23/02/2014,11:00,Inter,Cagliari,3-5-2 plano,Walter Mazzarri,37893,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359446
+26,sáb 01/03/2014,16:45,Roma,Inter,3-5-2 plano,Walter Mazzarri,37464,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359458
+27,dom 09/03/2014,11:00,Inter,Torino,3-5-2 plano,Walter Mazzarri,43543,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359474
+28,sáb 15/03/2014,16:45,Verona,Inter,3-5-2 plano,Walter Mazzarri,23973,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359478
+29,dom 23/03/2014,11:00,Inter,Atalanta,3-5-2 plano,Walter Mazzarri,39098,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359485
+30,qui 27/03/2014,16:45,Inter,Udinese,3-5-2,Walter Mazzarri,36840,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359504
+31,seg 31/03/2014,16:00,AS Livorno,Inter,3-5-2 plano,Walter Mazzarri,15450,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359511
+32,sáb 05/04/2014,15:45,Inter,Bologna,3-5-2 plano,Walter Mazzarri,38815,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359515
+33,dom 13/04/2014,10:00,Sampdoria,Inter,3-5-2 plano,Walter Mazzarri,24060,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359531
+34,sáb 19/04/2014,10:00,Parma,Inter,3-5-2 plano,Walter Mazzarri,16289,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359538
+35,sáb 26/04/2014,15:45,Inter,Napoli,3-5-2 plano,Walter Mazzarri,47119,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359552
+36,dom 04/05/2014,15:45,Milan,Inter,3-5-2 plano,Walter Mazzarri,73855,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359559
+37,sáb 10/05/2014,15:45,Inter,Lazio,3-5-2 plano,Walter Mazzarri,64718,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359570
+38,dom 18/05/2014,15:45,Chievo Verona,Inter,3-5-2 plano,Walter Mazzarri,15000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359579

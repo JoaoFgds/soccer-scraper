@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 26/08/2012,15:45,US Palermo,Napoli,3-4-1-2,Walter Mazzarri,20736,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251272
+2,dom 02/09/2012,15:45,Napoli,Fiorentina,3-5-2 plano,Walter Mazzarri,32286,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251278
+3,dom 16/09/2012,10:00,Napoli,Parma,3-5-2 plano,Walter Mazzarri,31133,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251287
+4,dom 23/09/2012,10:00,Catania Calcio,Napoli,3-4-3 plano,Walter Mazzarri,13808,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251296
+5,qua 26/09/2012,15:45,Napoli,Lazio,3-4-2-1,Walter Mazzarri,34433,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251308
+6,dom 30/09/2012,10:00,Sampdoria,Napoli,3-4-2-1,Walter Mazzarri,24702,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251321
+7,dom 07/10/2012,15:45,Napoli,Udinese,3-4-2-1,Walter Mazzarri,43148,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251328
+8,sáb 20/10/2012,13:00,Juventus,Napoli,3-4-2-1,Walter Mazzarri,40513,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251338
+9,dom 28/10/2012,17:45,Napoli,Chievo Verona,3-4-2-1,Walter Mazzarri,34953,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251347
+10,qua 31/10/2012,17:45,Atalanta,Napoli,3-4-2-1,Walter Mazzarri,14883,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251353
+11,dom 04/11/2012,12:00,Napoli,Torino,3-4-2-1,Walter Mazzarri,34813,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251368
+12,dom 11/11/2012,12:00,Genoa,Napoli,3-4-2-1,Walter Mazzarri,20581,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251376
+13,sáb 17/11/2012,17:45,Napoli,Milan,3-4-1-2,Walter Mazzarri,52546,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251388
+14,seg 26/11/2012,16:00,Cagliari,Napoli,3-4-2-1,Walter Mazzarri,16000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251394
+15,dom 02/12/2012,09:30,Napoli,Pescara,3-4-2-1,Walter Mazzarri,43243,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251410
+16,dom 09/12/2012,17:45,Inter,Napoli,3-4-1-2,Walter Mazzarri,57374,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251416
+17,dom 16/12/2012,17:45,Napoli,Bologna,3-4-2-1,Walter Mazzarri,26023,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251430
+18,sáb 22/12/2012,12:00,AC Siena,Napoli,3-4-2-1,Walter Mazzarri,9489,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251441
+19,dom 06/01/2013,17:45,Napoli,Roma,3-4-2-1,Walter Mazzarri,42091,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2252317
+20,dom 13/01/2013,12:00,Napoli,US Palermo,3-4-2-1,Walter Mazzarri,27777,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251449
+21,dom 20/01/2013,09:30,Fiorentina,Napoli,3-4-2-1,Walter Mazzarri,22000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251458
+22,dom 27/01/2013,12:00,Parma,Napoli,3-4-2-1,Walter Mazzarri,15883,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251467
+23,sáb 02/02/2013,17:45,Napoli,Catania Calcio,3-5-2,Walter Mazzarri,46055,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251476
+24,sáb 09/02/2013,17:45,Lazio,Napoli,3-4-2-1,Walter Mazzarri,38594,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251488
+25,dom 17/02/2013,11:00,Napoli,Sampdoria,3-4-2-1,Walter Mazzarri,41734,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251501
+26,seg 25/02/2013,15:00,Udinese,Napoli,3-4-2-1,Walter Mazzarri,16000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251508
+27,sex 01/03/2013,16:45,Napoli,Juventus,3-5-2,Walter Mazzarri,58143,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251518
+28,dom 10/03/2013,11:00,Chievo Verona,Napoli,3-4-1-2,Walter Mazzarri,10000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251527
+29,dom 17/03/2013,11:00,Napoli,Atalanta,3-4-2-1,Walter Mazzarri,38337,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251533
+30,sáb 30/03/2013,17:00,Torino,Napoli,3-4-2-1,Walter Mazzarri,18850,3:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251548
+31,dom 07/04/2013,15:45,Napoli,Genoa,3-4-2-1,Walter Mazzarri,34376,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251556
+32,dom 14/04/2013,15:45,Milan,Napoli,3-4-2-1,Walter Mazzarri,72054,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251568
+33,dom 21/04/2013,10:00,Napoli,Cagliari,3-4-2-1,Walter Mazzarri,39987,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251574
+34,sáb 27/04/2013,15:45,Pescara,Napoli,3-4-1-2,Walter Mazzarri,17569,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251590
+35,dom 05/05/2013,15:45,Napoli,Inter,3-4-2-1,Walter Mazzarri,39569,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251596
+36,qua 08/05/2013,15:45,Bologna,Napoli,3-5-2 plano,Walter Mazzarri,25000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251610
+37,dom 12/05/2013,10:00,Napoli,AC Siena,3-5-2,Walter Mazzarri,52433,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251621
+38,dom 19/05/2013,15:45,Roma,Napoli,3-4-2-1,Walter Mazzarri,32454,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2251630

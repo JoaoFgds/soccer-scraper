@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 18/08/2024,13:30,Verona,Napoli,3-4-2-1,Antonio Conte,20027,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373909
+2,dom 25/08/2024,15:45,Napoli,Bologna,3-4-2-1,Antonio Conte,45000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373920
+3,sáb 31/08/2024,15:45,Napoli,Parma,3-4-2-1,Antonio Conte,51520,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373932
+4,dom 15/09/2024,13:00,Cagliari,Napoli,3-4-2-1,Antonio Conte,15733,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373936
+5,sáb 21/09/2024,13:00,Juventus,Napoli,4-2-3-1,Antonio Conte,40295,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373950
+6,dom 29/09/2024,15:45,Napoli,Monza,4-3-3 ofensivo,Antonio Conte,50500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373960
+7,sex 04/10/2024,13:30,Napoli,Como,4-2-3-1,Antonio Conte,50000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373973
+8,dom 20/10/2024,07:30,Empoli,Napoli,4-3-3 ofensivo,Antonio Conte,15164,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373977
+9,sáb 26/10/2024,10:00,Napoli,Lecce,4-2-3-1,Antonio Conte,51103,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373991
+10,ter 29/10/2024,16:45,Milan,Napoli,4-3-3 ofensivo,Antonio Conte,73507,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374002
+11,dom 03/11/2024,08:30,Napoli,Atalanta,4-3-3 ofensivo,Antonio Conte,50873,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374011
+12,dom 10/11/2024,16:45,Inter,Napoli,4-3-3 ofensivo,Antonio Conte,72951,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374019
+13,dom 24/11/2024,14:00,Napoli,Roma,4-3-3 ofensivo,Antonio Conte,51164,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374031
+14,dom 01/12/2024,11:00,Torino,Napoli,4-3-3 ofensivo,Antonio Conte,25060,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374043
+15,dom 08/12/2024,16:45,Napoli,Lazio,4-3-3 ofensivo,Antonio Conte,50000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374052
+16,sáb 14/12/2024,14:00,Udinese,Napoli,4-3-3 ofensivo,Antonio Conte,19981,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374064
+17,sáb 21/12/2024,14:00,Genoa,Napoli,4-3-3 ofensivo,Antonio Conte,33435,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374067
+18,dom 29/12/2024,11:00,Napoli,Venezia,4-3-3 ofensivo,Antonio Conte,51199,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374082
+19,sáb 04/01/2025,14:00,Fiorentina,Napoli,4-3-3 ofensivo,Antonio Conte,21685,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374087
+20,dom 12/01/2025,16:45,Napoli,Verona,4-3-3 ofensivo,Antonio Conte,48750,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374118
+21,sáb 18/01/2025,16:45,Atalanta,Napoli,4-3-3 ofensivo,Antonio Conte,22874,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374122
+22,sáb 25/01/2025,14:00,Napoli,Juventus,4-3-3 ofensivo,Antonio Conte,53589,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374138
+23,dom 02/02/2025,16:45,Roma,Napoli,4-3-3 ofensivo,Antonio Conte,60788,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374150
+24,dom 09/02/2025,16:45,Napoli,Udinese,4-3-3 ofensivo,Antonio Conte,50938,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374159
+25,sáb 15/02/2025,14:00,Lazio,Napoli,3-5-2 plano,Antonio Conte,42863,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374167
+26,dom 23/02/2025,08:30,Como,Napoli,3-5-2 plano,Antonio Conte,10500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374173
+27,sáb 01/03/2025,14:00,Napoli,Inter,3-5-2 plano,Antonio Conte,53851,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374189
+28,dom 09/03/2025,11:00,Napoli,Fiorentina,3-5-2 plano,Antonio Conte,51504,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374200
+29,dom 16/03/2025,08:30,Venezia,Napoli,3-5-2 plano,Antonio Conte,11440,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374211
+30,dom 30/03/2025,15:45,Napoli,Milan,4-3-3 ofensivo,Antonio Conte,52836,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374220
+31,seg 07/04/2025,15:45,Bologna,Napoli,4-3-3 ofensivo,Antonio Conte,31974,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374223
+32,seg 14/04/2025,15:45,Napoli,Empoli,4-3-3 ofensivo,Antonio Conte,50898,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374239
+33,sáb 19/04/2025,13:00,Monza,Napoli,4-3-3 ofensivo,Antonio Conte,13784,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374248
+34,dom 27/04/2025,15:45,Napoli,Torino,4-3-3 ofensivo,Antonio Conte,51144,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374259
+35,sáb 03/05/2025,13:00,Lecce,Napoli,4-3-3 ofensivo,Antonio Conte,28403,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374267
+36,dom 11/05/2025,15:45,Napoli,Genoa,3-5-2 plano,Antonio Conte,51426,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374278
+37,dom 18/05/2025,15:45,Parma,Napoli,4-2-3-1,Antonio Conte,20388,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374290
+38,sex 23/05/2025,15:45,Napoli,Cagliari,4-3-3 ofensivo,Antonio Conte,53400,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374298

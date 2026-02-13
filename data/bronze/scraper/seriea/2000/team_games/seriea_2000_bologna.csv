@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 01/10/2000,10:00,Roma,Bologna,3-5-2,Francesco Guidolin,59942,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1153403
+2,dom 15/10/2000,11:00,Bologna,Milan,3-4-1-2,Francesco Guidolin,34631,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1153410
+3,dom 22/10/2000,11:00,Napoli,Bologna,4-4-1-1,Francesco Guidolin,33456,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217280
+4,qua 01/11/2000,12:00,Bologna,Reggina,3-4-1-2,Francesco Guidolin,26042,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217294
+5,sáb 04/11/2000,17:30,Lazio,Bologna,4-4-2,Francesco Guidolin,43272,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217301
+6,dom 12/11/2000,12:00,Bologna,Florenz,3-4-1-2,Francesco Guidolin,24756,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217311
+7,dom 19/11/2000,17:30,Bologna,AC Parma,4-4-2,Francesco Guidolin,23280,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217322
+8,dom 26/11/2000,12:00,Perugia,Bologna,4-3-3 ofensivo,Francesco Guidolin,6308,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217328
+9,dom 03/12/2000,12:00,Bologna,Vicenza,3-4-1-2,Francesco Guidolin,22013,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217337
+10,dom 10/12/2000,12:00,Bari,Bologna,3-5-2,Francesco Guidolin,9001,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217348
+11,dom 17/12/2000,12:00,Bologna,Atalanta,3-4-1-2,Francesco Guidolin,23424,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217358
+12,sáb 23/12/2000,12:00,Udinese,Bologna,3-4-2-1,Francesco Guidolin,17865,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217361
+13,dom 07/01/2001,12:00,Bologna,Brescia,3-4-1-2,Francesco Guidolin,22029,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217375
+14,dom 14/01/2001,12:00,Juventus,Bologna,3-5-2 plano,Francesco Guidolin,45000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217378
+15,sáb 20/01/2001,12:00,Bologna,Verona,3-4-1-2,Francesco Guidolin,21575,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217392
+16,sáb 27/01/2001,12:00,Lecce,Bologna,3-4-3 plano,Francesco Guidolin,14355,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217404
+17,dom 04/02/2001,12:00,Bologna,Inter,3-4-1-2,Francesco Guidolin,29657,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217410
+18,dom 11/02/2001,12:00,Bologna,Roma,4-4-1-1,Francesco Guidolin,37000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217415
+19,sáb 17/02/2001,17:30,Milan,Bologna,4-3-1-2,Francesco Guidolin,43543,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217430
+20,dom 25/02/2001,11:00,Bologna,Napoli,3-4-1-2,Francesco Guidolin,26286,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217433
+21,sáb 03/03/2001,11:00,Reggina,Bologna,3-4-1-2,Francesco Guidolin,22916,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217447
+22,dom 11/03/2001,11:00,Bologna,Lazio,3-4-1-2,Francesco Guidolin,29000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217450
+23,dom 18/03/2001,11:00,Florenz,Bologna,3-4-1-2,Francesco Guidolin,28300,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217464
+24,dom 01/04/2001,10:00,AC Parma,Bologna,3-4-1-2,Francesco Guidolin,21500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217474
+25,dom 08/04/2001,10:00,Bologna,Perugia,3-4-1-2,Francesco Guidolin,22291,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217481
+26,sáb 14/04/2001,10:00,Vicenza,Bologna,3-4-1-2,Francesco Guidolin,14130,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217492
+27,dom 22/04/2001,10:00,Bologna,Bari,3-4-1-2,Francesco Guidolin,21238,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217501
+28,dom 29/04/2001,10:00,Atalanta,Bologna,3-4-1-2,Francesco Guidolin,16276,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217508
+29,sáb 05/05/2001,10:00,Bologna,Udinese,3-4-1-2,Francesco Guidolin,22328,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217514
+30,sáb 12/05/2001,10:00,Brescia,Bologna,3-4-1-2,Francesco Guidolin,13000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217527
+31,dom 20/05/2001,10:00,Bologna,Juventus,4-4-2,Francesco Guidolin,37000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217531
+32,dom 27/05/2001,15:30,Verona,Bologna,3-4-1-2,Francesco Guidolin,12939,5:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217544
+33,sáb 09/06/2001,19:00,Bologna,Lecce,3-4-1-2,Francesco Guidolin,25373,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217552
+34,sáb 16/06/2001,19:00,Inter,Bologna,3-5-2,Francesco Guidolin,918,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217561

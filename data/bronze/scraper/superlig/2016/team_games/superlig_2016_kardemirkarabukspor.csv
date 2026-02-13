@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 22/08/2016,15:45,Galatasaray,Karabükspor,4-4-2 duplo 6,Igor Tudor,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720736
+2,dom 28/08/2016,13:30,Karabükspor,C. Rizespor,4-4-2 duplo 6,Igor Tudor,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2720739
+3,sáb 10/09/2016,15:15,Besiktas,Karabükspor,5-3-2,Igor Tudor,27650,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2722619
+4,sex 16/09/2016,13:00,Karabükspor,Antalyaspor,4-4-2 duplo 6,Igor Tudor,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2722627
+5,dom 25/09/2016,13:00,Genclerbirligi,Karabükspor,4-4-2 duplo 6,Igor Tudor,1410,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2722635
+6,sáb 01/10/2016,10:00,Karabükspor,Trabzonspor,4-4-2 duplo 6,Igor Tudor,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2722646
+7,sáb 15/10/2016,13:30,Adanaspor,Karabükspor,4-4-2 duplo 6,Igor Tudor,6500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2722650
+8,dom 23/10/2016,08:30,Karabükspor,Basaksehir,4-4-2 duplo 6,Igor Tudor,4391,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2722664
+9,dom 30/10/2016,14:00,Fenerbahce,Karabükspor,4-4-2 duplo 6,Igor Tudor,14283,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2722667
+10,sáb 05/11/2016,11:00,Karabükspor,Bursaspor,4-4-2 duplo 6,Igor Tudor,4712,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2722676
+11,dom 20/11/2016,09:00,Kasimpasa,Karabükspor,4-2-3-1,Igor Tudor,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2722684
+12,sáb 26/11/2016,08:30,Karabükspor,Gaziantepspor,4-4-2 duplo 6,Igor Tudor,3586,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2722695
+13,dom 04/12/2016,11:00,Osmanlispor FK,Karabükspor,4-4-2 duplo 6,Igor Tudor,3621,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2722706
+14,dom 11/12/2016,08:30,Karabükspor,Alanyaspor,4-4-2 duplo 6,Igor Tudor,,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2722713
+15,dom 18/12/2016,08:30,Karabükspor,Konyaspor,4-4-2 duplo 6,Igor Tudor,4185,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2722727
+16,dom 25/12/2016,11:00,Kayserispor,Karabükspor,4-4-2 duplo 6,Igor Tudor,1572,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2722730
+17,sáb 14/01/2017,08:30,Karabükspor,Akhisar Belediye,4-4-2 duplo 6,Igor Tudor,3119,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2722745
+18,sáb 21/01/2017,14:00,Karabükspor,Galatasaray,4-2-3-1,Igor Tudor,7553,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2722753
+19,sáb 28/01/2017,11:00,C. Rizespor,Karabükspor,4-2-3-1,Igor Tudor,1457,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2722756
+20,sex 10/02/2017,14:00,Karabükspor,Besiktas,4-1-4-1,Igor Tudor,7263,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2722772
+21,sáb 18/02/2017,08:30,Antalyaspor,Karabükspor,4-1-4-1,Levent Acikgöz,9814,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2722780
+22,dom 26/02/2017,07:30,Karabükspor,Genclerbirligi,4-4-2 duplo 6,Zoran Barisic,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2722788
+23,sex 03/03/2017,14:00,Trabzonspor,Karabükspor,4-1-4-1,Zoran Barisic,20077,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2722799
+24,sáb 11/03/2017,07:30,Karabükspor,Adanaspor,4-4-2 duplo 6,Zoran Barisic,3250,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2722803
+25,dom 19/03/2017,10:00,Basaksehir,Karabükspor,4-4-2 duplo 6,Zoran Barisic,2976,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2722817
+26,sáb 01/04/2017,13:00,Karabükspor,Fenerbahce,4-2-3-1,Zoran Barisic,7740,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2722821
+27,sex 07/04/2017,14:00,Bursaspor,Karabükspor,4-4-2 duplo 6,Zoran Barisic,8106,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2722828
+28,sex 21/04/2017,14:00,Karabükspor,Kasimpasa,4-1-4-1,Zoran Barisic,2370,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2722837
+29,sex 28/04/2017,14:00,Gaziantepspor,Karabükspor,4-2-3-1,Zoran Barisic,1904,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2722847
+30,seg 08/05/2017,14:00,Karabükspor,Osmanlispor FK,4-2-3-1,Zoran Barisic,2835,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2722859
+31,dom 14/05/2017,13:00,Alanyaspor,Karabükspor,4-2-3-1,Zoran Barisic,4040,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2722865
+32,dom 21/05/2017,10:00,Konyaspor,Karabükspor,4-4-2 duplo 6,Zoran Barisic,6072,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2722872
+33,dom 28/05/2017,10:00,Karabükspor,Kayserispor,4-2-3-1,Zoran Barisic,2064,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2722884
+34,sex 02/06/2017,11:00,Akhisar Belediye,Karabükspor,4-2-3-1,Zoran Barisic,716,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2722898

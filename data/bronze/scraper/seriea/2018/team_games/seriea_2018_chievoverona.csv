@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 18/08/2018,13:00,Chievo Verona,Juventus,4-1-4-1,Lorenzo D'Anna,28375,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080904
+2,dom 26/08/2018,15:30,Fiorentina,Chievo Verona,4-3-3 ofensivo,Lorenzo D'Anna,27790,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080913
+3,dom 02/09/2018,15:30,Chievo Verona,Empoli,4-3-1-2,Lorenzo D'Anna,10200,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080924
+4,dom 16/09/2018,07:30,Roma,Chievo Verona,4-3-1-2,Lorenzo D'Anna,39849,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080939
+5,dom 23/09/2018,10:00,Chievo Verona,Udinese,4-3-1-2,Lorenzo D'Anna,13100,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080955
+6,qua 26/09/2018,16:00,Genoa,Chievo Verona,4-3-3 ofensivo,Lorenzo D'Anna,18969,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080979
+7,dom 30/09/2018,10:00,Chievo Verona,Torino,4-4-2,Lorenzo D'Anna,10500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080987
+8,dom 07/10/2018,10:00,Milan,Chievo Verona,4-4-2 duplo 6,Lorenzo D'Anna,48088,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081037
+9,dom 21/10/2018,10:00,Chievo Verona,Atalanta,3-5-2 plano,Gian Piero Ventura,11100,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081043
+10,dom 28/10/2018,11:00,Cagliari,Chievo Verona,5-3-2,Gian Piero Ventura,5235,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081053
+11,dom 04/11/2018,12:00,Chievo Verona,Sassuolo,4-3-1-2,Gian Piero Ventura,8100,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081132
+12,dom 11/11/2018,12:00,Chievo Verona,Bologna,3-1-4-2,Gian Piero Ventura,7000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081142
+13,dom 25/11/2018,12:00,Napoli,Chievo Verona,4-3-1-2,Domenico Di Carlo,44408,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081158
+14,dom 02/12/2018,15:00,Chievo Verona,Lazio,4-3-1-2,Domenico Di Carlo,7000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081163
+15,dom 09/12/2018,12:00,Parma,Chievo Verona,4-3-1-2,Domenico Di Carlo,13994,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081179
+16,dom 16/12/2018,09:30,SPAL,Chievo Verona,3-4-1-2,Domenico Di Carlo,11882,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081190
+17,sáb 22/12/2018,15:00,Chievo Verona,Inter,4-3-1-2,Domenico Di Carlo,19750,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081192
+18,qua 26/12/2018,12:00,Sampdoria,Chievo Verona,3-4-1-2,Domenico Di Carlo,19190,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081209
+19,sáb 29/12/2018,12:00,Chievo Verona,Frosinone,4-3-1-2,Domenico Di Carlo,10000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081212
+20,seg 21/01/2019,17:30,Juventus,Chievo Verona,4-3-1-2,Domenico Di Carlo,30239,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081224
+21,dom 27/01/2019,09:30,Chievo Verona,Fiorentina,4-4-2 losango,Domenico Di Carlo,10000,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081233
+22,sáb 02/02/2019,12:00,Empoli,Chievo Verona,3-4-1-2,Domenico Di Carlo,7030,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081244
+23,sex 08/02/2019,17:30,Chievo Verona,Roma,4-3-1-2,Domenico Di Carlo,12600,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081259
+24,dom 17/02/2019,11:00,Udinese,Chievo Verona,4-3-1-2,Domenico Di Carlo,18008,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081263
+25,dom 24/02/2019,11:00,Chievo Verona,Genoa,4-3-1-2,Domenico Di Carlo,10500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081275
+26,dom 03/03/2019,08:30,Torino,Chievo Verona,4-3-1-2,Domenico Di Carlo,25269,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081283
+27,sáb 09/03/2019,16:30,Chievo Verona,Milan,4-3-1-2,Domenico Di Carlo,26500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081297
+28,dom 17/03/2019,11:00,Atalanta,Chievo Verona,3-4-1-2,Domenico Di Carlo,18537,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081303
+29,sex 29/03/2019,16:30,Chievo Verona,Cagliari,4-3-1-2,Domenico Di Carlo,10095,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081313
+30,qui 04/04/2019,14:00,Sassuolo,Chievo Verona,3-4-1-2,Domenico Di Carlo,9193,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081323
+31,seg 08/04/2019,15:30,Bologna,Chievo Verona,4-5-1 plano,Domenico Di Carlo,19107,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081333
+32,dom 14/04/2019,13:00,Chievo Verona,Napoli,4-3-1-2,Domenico Di Carlo,13500,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081349
+33,sáb 20/04/2019,10:00,Lazio,Chievo Verona,4-3-1-2,Domenico Di Carlo,33012,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081353
+34,dom 28/04/2019,10:00,Chievo Verona,Parma,4-3-1-2,Domenico Di Carlo,10000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081369
+35,sáb 04/05/2019,13:00,Chievo Verona,SPAL,3-4-1-2,Domenico Di Carlo,4500,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081380
+36,seg 13/05/2019,16:00,Inter,Chievo Verona,4-3-1-2,Domenico Di Carlo,57855,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081382
+37,dom 19/05/2019,07:30,Chievo Verona,Sampdoria,3-5-2,Domenico Di Carlo,10600,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081399
+38,sáb 25/05/2019,13:00,Frosinone,Chievo Verona,3-4-1-2,Domenico Di Carlo,12167,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081402

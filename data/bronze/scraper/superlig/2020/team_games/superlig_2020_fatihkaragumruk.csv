@@ -1,0 +1,41 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/09/2020,11:00,Karagümrük,Y. Malatyaspor,4-2-3-1,Şenol Can,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426665
+2,dom 20/09/2020,13:00,Gaziantep FK,Karagümrük,4-2-3-1,Şenol Can,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426674
+3,sex 25/09/2020,14:00,Karagümrük,Basaksehir,4-1-4-1,Şenol Can,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426684
+4,sáb 03/10/2020,13:00,Fenerbahce,Karagümrük,4-1-4-1,Şenol Can,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426693
+5,dom 18/10/2020,10:00,Karagümrük,Kasimpasa,4-1-4-1,Şenol Can,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426834
+6,dom 25/10/2020,10:00,Alanyaspor,Karagümrük,4-2-3-1,Şenol Can,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426843
+7,sex 30/10/2020,14:00,Karagümrük,BB Erzurumspor,4-1-4-1,Şenol Can,x,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426850
+8,dom 08/11/2020,07:30,Ankaragücü,Karagümrük,4-1-4-1,Şenol Can,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426861
+9,sáb 21/11/2020,07:30,Karagümrük,Sivasspor,4-1-4-1,Şenol Can,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426872
+10,seg 30/11/2020,13:30,Kayserispor,Karagümrük,4-1-4-1,Şenol Can,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426883
+11,dom 06/12/2020,07:30,Karagümrük,C. Rizespor,4-1-4-1,Şenol Can,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426894
+12,sáb 12/12/2020,07:30,Hatayspor,Karagümrük,4-1-4-1,Şenol Can,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426905
+13,sex 18/12/2020,13:00,Karagümrük,Galatasaray,4-2-3-1,Şenol Can,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426916
+15,sáb 26/12/2020,10:00,Göztepe,Karagümrük,4-2-3-1,Şenol Can,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426937
+16,dom 03/01/2021,10:00,Karagümrük,Trabzonspor,4-1-4-1,Şenol Can,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426947
+17,qua 06/01/2021,13:00,Antalyaspor,Karagümrük,4-2-3-1,Şenol Can,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426957
+18,dom 10/01/2021,07:30,Karagümrük,Konyaspor,4-1-4-1,Şenol Can,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426967
+19,sex 15/01/2021,13:00,Genclerbirligi,Karagümrük,4-1-4-1,Şenol Can,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426977
+20,qui 21/01/2021,10:00,Karagümrük,Besiktas,4-1-4-1,Şenol Can,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426987
+21,dom 24/01/2021,10:00,Denizlispor,Karagümrük,4-1-4-1,Şenol Can,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3426996
+22,sex 29/01/2021,10:00,Y. Malatyaspor,Karagümrük,4-1-4-1,Şenol Can,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427006
+23,qua 03/02/2021,10:00,Karagümrük,Gaziantep FK,4-1-4-1,Şenol Can,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427015
+24,sáb 06/02/2021,10:00,Basaksehir,Karagümrük,4-1-4-1,Şenol Can,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427025
+25,sáb 13/02/2021,13:00,Karagümrük,Fenerbahce,4-1-4-1,Şenol Can,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427034
+26,sáb 20/02/2021,07:30,Kasimpasa,Karagümrük,4-1-4-1,Şenol Can,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427044
+27,sáb 27/02/2021,07:30,Karagümrük,Alanyaspor,4-1-4-1,Şenol Can,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427053
+28,qua 03/03/2021,07:30,BB Erzurumspor,Karagümrük,4-1-4-1,Şenol Can,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427060
+29,dom 07/03/2021,07:30,Karagümrük,Ankaragücü,4-1-4-1,Şenol Can,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427071
+30,sáb 13/03/2021,07:30,Sivasspor,Karagümrük,4-1-4-1,Şenol Can,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427082
+31,sex 19/03/2021,10:00,Karagümrük,Kayserispor,4-1-4-1,Murat Akın,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427093
+32,sáb 03/04/2021,10:00,C. Rizespor,Karagümrük,4-1-4-1,Francesco Farioli,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427104
+33,ter 06/04/2021,10:00,Karagümrük,Hatayspor,4-1-4-1,Francesco Farioli,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427115
+34,sáb 10/04/2021,13:00,Galatasaray,Karagümrük,4-1-4-1,Francesco Farioli,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427126
+36,ter 20/04/2021,10:00,Karagümrük,Göztepe,3-1-4-2,Francesco Farioli,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427147
+37,sáb 24/04/2021,10:00,Trabzonspor,Karagümrük,3-5-2 ofensivo,Francesco Farioli,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427157
+38,qua 28/04/2021,10:00,Karagümrük,Antalyaspor,4-1-4-1,Francesco Farioli,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427167
+39,dom 02/05/2021,10:00,Konyaspor,Karagümrük,4-1-4-1,Francesco Farioli,x,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427177
+40,sáb 08/05/2021,14:30,Karagümrük,Genclerbirligi,4-1-4-1,Francesco Farioli,x,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427187
+41,ter 11/05/2021,14:30,Besiktas,Karagümrük,4-1-4-1,Francesco Farioli,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427197
+42,sáb 15/05/2021,12:00,Karagümrük,Denizlispor,4-2-3-1,Francesco Farioli,x,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3427206

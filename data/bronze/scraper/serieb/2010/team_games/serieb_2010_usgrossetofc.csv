@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 22/08/2010,15:45,Grosseto,Ascoli,4-3-3 defensivo,Luigi Apolloni,2983,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044611
+2,sáb 28/08/2010,13:30,Sassuolo,Grosseto,3-5-2 plano,Luigi Apolloni,2400,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044627
+3,dom 05/09/2010,10:00,Grosseto,Vicenza,3-4-1-2,Luigi Apolloni,2252,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044634
+4,sáb 11/09/2010,10:00,Novara Calcio,Grosseto,3-4-2-1,Luigi Apolloni,5560,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044646
+5,sáb 18/09/2010,10:00,Grosseto,Piacenza,4-4-2,Luigi Apolloni,1945,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044656
+6,sáb 25/09/2010,10:00,Empoli,Grosseto,4-4-2 duplo 6,Luigi Apolloni,2886,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044666
+7,sáb 02/10/2010,10:00,Grosseto,Frosinone,4-4-2 duplo 6,Francesco Moriero,2077,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044678
+8,dom 10/10/2010,10:00,Padova,Grosseto,4-3-3 ofensivo,Francesco Moriero,5934,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044692
+9,qua 13/10/2010,15:45,Grosseto,Portosummaga,4-3-3 defensivo,Francesco Moriero,1832,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044700
+10,sáb 16/10/2010,10:00,Pescara,Grosseto,4-3-3 defensivo,Francesco Moriero,7414,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044714
+11,sáb 23/10/2010,14:00,Grosseto,AS Livorno,4-5-1 plano,Francesco Moriero,2487,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044721
+12,sáb 30/10/2010,11:00,Cittadella,Grosseto,4-1-4-1,Francesco Moriero,2206,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044731
+13,sáb 06/11/2010,12:00,Grosseto,Torino,4-3-3 ofensivo,Francesco Moriero,2566,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044744
+14,ter 09/11/2010,17:45,Grosseto,Varese,3-4-1-2,Francesco Moriero,1780,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044755
+15,seg 15/11/2010,18:00,AC Siena,Grosseto,3-5-2 plano,Francesco Moriero,8148,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044773
+16,sáb 20/11/2010,12:00,Grosseto,UC AlbinoLeffe,3-5-2,Francesco Moriero,1702,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044780
+17,sáb 27/11/2010,12:00,Triestina,Grosseto,4-4-2 duplo 6,Francesco Moriero,3881,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044797
+18,sáb 04/12/2010,12:00,Grosseto,Modena,4-3-3 defensivo,Francesco Moriero,1830,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044801
+19,sáb 11/12/2010,12:00,Reggina,Grosseto,4-2-3-1,Francesco Moriero,4100,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044817
+20,sáb 18/12/2010,12:00,Grosseto,FC Crotone,3-5-2,Francesco Moriero,1698,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044823
+21,seg 10/01/2011,17:45,Atalanta,Grosseto,4-2-3-1,Francesco Moriero,17615,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044831
+22,sáb 15/01/2011,12:00,Ascoli,Grosseto,4-1-4-1,Michele Serena,5336,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044844
+23,sáb 22/01/2011,12:00,Grosseto,Sassuolo,4-4-1-1,Michele Serena,1769,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044860
+24,sáb 29/01/2011,12:00,Vicenza,Grosseto,4-4-2 duplo 6,Michele Serena,4694,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044867
+25,sáb 05/02/2011,12:00,Grosseto,Novara Calcio,4-4-2 duplo 6,Michele Serena,2653,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044879
+26,sáb 12/02/2011,12:00,Piacenza,Grosseto,4-4-2 duplo 6,Michele Serena,2291,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044909
+27,sex 18/02/2011,17:45,Grosseto,Empoli,4-4-2 duplo 6,Michele Serena,2132,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044919
+28,sáb 26/02/2011,11:00,Frosinone,Grosseto,4-4-2 duplo 6,Michele Serena,2960,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044931
+29,ter 01/03/2011,16:45,Grosseto,Padova,4-3-1-2,Michele Serena,1699,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044945
+30,sáb 05/03/2011,11:00,Portosummaga,Grosseto,4-3-1-2,Michele Serena,1220,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044953
+31,sáb 12/03/2011,11:00,Grosseto,Pescara,4-3-1-2,Michele Serena,1954,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044967
+32,sáb 19/03/2011,11:00,AS Livorno,Grosseto,4-3-1-2,Michele Serena,4465,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044974
+33,dom 27/03/2011,10:00,Grosseto,Cittadella,4-3-1-2,Michele Serena,2177,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044984
+34,sex 01/04/2011,15:45,Torino,Grosseto,4-3-2-1,Michele Serena,12221,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1044997
+35,sáb 09/04/2011,10:00,Varese,Grosseto,4-3-1-2,Michele Serena,4485,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1045008
+36,sáb 16/04/2011,10:00,Grosseto,AC Siena,4-3-1-2,Michele Serena,4494,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1045024
+37,sex 22/04/2011,14:00,UC AlbinoLeffe,Grosseto,4-3-1-2,Michele Serena,1513,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1045031
+38,sáb 30/04/2011,10:00,Grosseto,Triestina,4-3-1-2,Michele Serena,1852,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1045048
+39,sáb 07/05/2011,10:00,Modena,Grosseto,4-4-2 duplo 6,Michele Serena,5292,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1045052
+40,dom 15/05/2011,10:00,Grosseto,Reggina,4-3-1-2,Michele Serena,1857,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1045068
+41,sáb 21/05/2011,10:00,FC Crotone,Grosseto,4-3-2-1,Michele Serena,3509,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1045074
+42,dom 29/05/2011,11:00,Grosseto,Atalanta,4-4-2 duplo 6,Michele Serena,2089,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1045082

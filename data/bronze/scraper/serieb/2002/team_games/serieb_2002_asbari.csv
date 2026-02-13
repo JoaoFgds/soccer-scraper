@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,ter 05/11/2002,17:30,Bari,Triestina,?,Attilio Perotti,3520,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2349799
+2,seg 06/01/2003,12:00,AC Venezia 1907,Bari,?,Marco Tardelli,1935,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2366147
+3,sáb 14/09/2002,15:30,Bari,Ascoli,4-3-1-2,Attilio Perotti,6992,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2366679
+4,sáb 21/09/2002,15:30,Genoa,Bari,?,Attilio Perotti,9158,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2367666
+5,sáb 28/09/2002,15:30,Bari,Napoli,?,Attilio Perotti,9589,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2366397
+6,sáb 05/10/2002,15:30,Cosenza,Bari,?,Attilio Perotti,3657,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2368100
+7,sáb 12/10/2002,19:00,Bari,Lecce,3-5-2 plano,Attilio Perotti,22578,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2367358
+8,sex 18/10/2002,19:00,AC Siena,Bari,?,Attilio Perotti,4233,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2368101
+9,sex 25/10/2002,19:00,Bari,Sampdoria,?,Attilio Perotti,7406,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2368102
+10,sáb 02/11/2002,16:30,Bari,US Palermo,?,Attilio Perotti,6098,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2368103
+11,sáb 09/11/2002,17:30,Vicenza,Bari,?,Attilio Perotti,4347,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2368119
+12,sáb 16/11/2002,21:00,Bari,Salernitana,?,Attilio Perotti,4201,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2368122
+13,sáb 23/11/2002,21:00,Messina Peloro,Bari,?,Attilio Perotti,6323,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2368127
+14,sáb 30/11/2002,21:00,Bari,Ancona,?,Attilio Perotti,2965,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2368128
+15,sáb 07/12/2002,21:00,Catania Calcio,Bari,?,Attilio Perotti,5931,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2368129
+16,dom 15/12/2002,12:00,Ternana,Bari,?,Attilio Perotti,9699,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2368130
+17,sáb 21/12/2002,21:00,Bari,AS Livorno,?,Attilio Perotti,3751,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2368131
+18,dom 12/01/2003,12:00,Cagliari,Bari,?,Marco Tardelli,6276,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2368132
+19,dom 19/01/2003,12:00,Bari,Verona,?,Marco Tardelli,3453,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2368133
+20,dom 26/01/2003,12:00,Triestina,Bari,?,Marco Tardelli,11537,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2368139
+21,sex 31/01/2003,17:30,Bari,AC Venezia 1907,?,Marco Tardelli,3726,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2368140
+22,dom 09/02/2003,12:00,Ascoli,Bari,?,Marco Tardelli,6819,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2368141
+23,dom 23/02/2003,11:00,Bari,Genoa,?,Marco Tardelli,3438,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2368142
+24,seg 03/03/2003,16:30,Napoli,Bari,?,Marco Tardelli,24347,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2367014
+25,dom 09/03/2003,11:00,Bari,Cosenza,4-4-2 duplo 6,Marco Tardelli,4324,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2368143
+26,dom 16/03/2003,11:00,Lecce,Bari,3-5-2 plano,Marco Tardelli,15398,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2367802
+27,dom 23/03/2003,11:00,Bari,AC Siena,?,Marco Tardelli,3557,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2368145
+28,dom 30/03/2003,10:00,Sampdoria,Bari,?,Marco Tardelli,19053,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2373582
+29,sex 04/04/2003,15:30,US Palermo,Bari,?,Marco Tardelli,8595,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2373586
+30,sex 11/04/2003,15:30,Bari,Vicenza,?,Marco Tardelli,3638,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2373844
+31,sáb 19/04/2003,10:00,Salernitana,Bari,?,Marco Tardelli,7627,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2373857
+32,sáb 26/04/2003,10:00,Bari,Messina Peloro,?,Marco Tardelli,4086,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2373900
+33,sáb 03/05/2003,10:00,Ancona,Bari,5-3-2,Marco Tardelli,8901,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2373912
+34,sex 09/05/2003,15:30,Bari,Catania Calcio,?,Marco Tardelli,5892,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2373924
+35,sex 16/05/2003,19:00,Bari,Ternana,?,Marco Tardelli,3751,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2373933
+36,sex 23/05/2003,19:00,AS Livorno,Bari,?,Marco Tardelli,8892,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2373944
+37,sex 30/05/2003,19:00,Bari,Cagliari,?,Marco Tardelli,3690,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2373951
+38,sex 06/06/2003,19:00,Verona,Bari,?,Marco Tardelli,10461,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2375525

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 19/08/2024,15:45,Juventus,Como,4-4-2 duplo 6,Cesc Fàbregas,40696,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373910
+2,seg 26/08/2024,13:30,Cagliari,Como,4-4-2 duplo 6,Cesc Fàbregas,16365,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373915
+3,dom 01/09/2024,15:45,Udinese,Como,4-4-2 duplo 6,Cesc Fàbregas,20804,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373933
+4,sáb 14/09/2024,10:00,Como,Bologna,4-2-3-1,Cesc Fàbregas,10584,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373937
+5,ter 24/09/2024,15:45,Atalanta,Como,4-2-3-1,Cesc Fàbregas,22977,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373945
+6,dom 29/09/2024,10:00,Como,Verona,4-2-3-1,Cesc Fàbregas,10740,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373956
+7,sex 04/10/2024,13:30,Napoli,Como,4-2-3-1,Cesc Fàbregas,50000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373973
+8,sáb 19/10/2024,10:00,Como,Parma,4-2-3-1,Cesc Fàbregas,10114,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373976
+9,sex 25/10/2024,15:45,Torino,Como,4-2-3-1,Cesc Fàbregas,23571,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373993
+10,qui 31/10/2024,16:45,Como,Lazio,4-2-3-1,Cesc Fàbregas,10750,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373997
+11,seg 04/11/2024,14:30,Empoli,Como,4-2-3-1,Cesc Fàbregas,8102,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374006
+12,qui 07/11/2024,16:45,Genoa,Como,4-2-3-1,Cesc Fàbregas,30708,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374018
+13,dom 24/11/2024,11:00,Como,Fiorentina,4-2-3-1,Cesc Fàbregas,10250,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374025
+14,sáb 30/11/2024,11:00,Como,Monza,4-2-3-1,Cesc Fàbregas,9749,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374037
+15,dom 08/12/2024,14:00,Venezia,Como,4-2-3-1,Cesc Fàbregas,8026,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374054
+16,dom 15/12/2024,14:00,Como,Roma,4-2-3-1,Cesc Fàbregas,10376,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374057
+17,seg 23/12/2024,16:45,Inter,Como,3-4-2-1,Cesc Fàbregas,73204,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374069
+18,seg 30/12/2024,14:30,Como,Lecce,4-2-3-1,Cesc Fàbregas,10421,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374077
+19,ter 14/01/2025,14:30,Como,Milan,4-2-3-1,Cesc Fàbregas,13602,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374086
+20,sex 10/01/2025,16:45,Lazio,Como,4-2-3-1,Cesc Fàbregas,40000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374115
+21,seg 20/01/2025,16:45,Como,Udinese,4-2-3-1,Cesc Fàbregas,9566,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374125
+22,sáb 25/01/2025,11:00,Como,Atalanta,4-2-3-1,Cesc Fàbregas,10366,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374132
+23,sáb 01/02/2025,16:45,Bologna,Como,4-1-4-1,Cesc Fàbregas,26492,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374143
+24,sex 07/02/2025,16:45,Como,Juventus,4-2-3-1,Cesc Fàbregas,10475,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374153
+25,dom 16/02/2025,08:30,Fiorentina,Como,4-3-3 ofensivo,Cesc Fàbregas,19000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374164
+26,dom 23/02/2025,08:30,Como,Napoli,4-2-3-1,Cesc Fàbregas,10500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374173
+27,dom 02/03/2025,14:00,Roma,Como,4-3-3 ofensivo,Cesc Fàbregas,62125,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374190
+28,sáb 08/03/2025,11:00,Como,Venezia,4-3-3 ofensivo,Cesc Fàbregas,10080,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374193
+29,sáb 15/03/2025,14:00,Milan,Como,4-2-3-1,Cesc Fàbregas,74500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374206
+30,sáb 29/03/2025,11:00,Como,Empoli,4-2-3-1,Cesc Fàbregas,10118,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374213
+31,sáb 05/04/2025,10:00,Monza,Como,4-2-3-1,Cesc Fàbregas,8469,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374228
+32,dom 13/04/2025,13:00,Como,Torino,4-3-3 ofensivo,Cesc Fàbregas,10658,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374233
+33,sáb 19/04/2025,10:00,Lecce,Como,4-2-3-1,Cesc Fàbregas,28181,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374246
+34,dom 27/04/2025,07:30,Como,Genoa,4-2-3-1,Cesc Fàbregas,10664,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374253
+35,sáb 03/05/2025,10:00,Parma,Como,4-2-3-1,Cesc Fàbregas,20132,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374269
+36,sáb 10/05/2025,10:00,Como,Cagliari,4-2-3-1,Cesc Fàbregas,10291,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374273
+37,dom 18/05/2025,15:45,Verona,Como,4-2-3-1,Cesc Fàbregas,24344,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374285
+38,sex 23/05/2025,15:45,Como,Inter,4-2-3-1,Cesc Fàbregas,10656,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374294

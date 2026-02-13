@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qua 21/12/2011,17:45,Inter,Lecce,3-5-2 plano,Serse Cosmi,39602,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133588
+2,dom 11/09/2011,10:00,Lecce,Udinese,4-3-2-1,Eusebio Di Francesco,8428,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133601
+3,dom 18/09/2011,10:00,Bologna,Lecce,4-3-1-2,Eusebio Di Francesco,19000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133606
+4,qua 21/09/2011,15:45,Lecce,Atalanta,4-3-1-2,Eusebio Di Francesco,8090,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133620
+5,dom 25/09/2011,10:00,AC Siena,Lecce,4-2-3-1,Eusebio Di Francesco,8469,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137122
+6,dom 02/10/2011,10:00,Lecce,Cagliari,4-4-1-1,Eusebio Di Francesco,6800,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137127
+7,dom 16/10/2011,11:00,Genoa,Lecce,4-3-1-2,Eusebio Di Francesco,20101,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137138
+8,dom 23/10/2011,08:30,Lecce,Milan,4-3-1-2,Eusebio Di Francesco,13295,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137148
+9,qui 27/10/2011,16:45,US Palermo,Lecce,4-3-1-2,Eusebio Di Francesco,19730,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137162
+10,dom 30/10/2011,12:00,Lecce,Novara Calcio,4-4-1-1,Eusebio Di Francesco,6223,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137168
+11,dom 06/11/2011,12:00,Cesena,Lecce,4-4-1-1,Eusebio Di Francesco,15182,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137174
+12,dom 20/11/2011,17:45,Roma,Lecce,4-2-3-1,Eusebio Di Francesco,30768,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137191
+13,sáb 26/11/2011,15:00,Lecce,Catania Calcio,4-4-1-1,Eusebio Di Francesco,5962,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137197
+14,sáb 03/12/2011,17:45,Napoli,Lecce,4-4-2 duplo 6,Eusebio Di Francesco,39544,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137211
+15,sáb 10/12/2011,15:00,Lecce,Lazio,4-1-4-1,Serse Cosmi,6846,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137217
+16,dom 18/12/2011,12:00,Parma,Lecce,4-3-3 ofensivo,Serse Cosmi,12161,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137232
+17,dom 08/01/2012,12:00,Lecce,Juventus,3-5-2 plano,Serse Cosmi,23298,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137237
+18,dom 15/01/2012,12:00,Fiorentina,Lecce,3-5-2 plano,Serse Cosmi,18474,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137246
+19,dom 22/01/2012,12:00,Lecce,Chievo Verona,3-5-2 plano,Serse Cosmi,6543,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137257
+20,dom 29/01/2012,12:00,Lecce,Inter,3-5-2 plano,Serse Cosmi,14078,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137269
+21,qua 01/02/2012,17:45,Udinese,Lecce,4-3-1-2,Serse Cosmi,15818,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137282
+22,dom 05/02/2012,12:00,Lecce,Bologna,3-5-2 plano,Serse Cosmi,5962,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137288
+23,dom 12/02/2012,12:00,Atalanta,Lecce,3-5-2 plano,Serse Cosmi,11877,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137293
+24,dom 19/02/2012,09:30,Lecce,AC Siena,3-5-2 plano,Serse Cosmi,6519,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137308
+25,dom 26/02/2012,11:00,Cagliari,Lecce,3-5-2 plano,Serse Cosmi,9500,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137315
+26,dom 04/03/2012,11:00,Lecce,Genoa,3-5-2 plano,Serse Cosmi,8106,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137327
+27,dom 11/03/2012,11:00,Milan,Lecce,5-3-2,Serse Cosmi,54329,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137339
+28,dom 18/03/2012,11:00,Lecce,US Palermo,3-5-2 plano,Serse Cosmi,8477,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137348
+29,dom 25/03/2012,10:00,Novara Calcio,Lecce,3-5-2 plano,Serse Cosmi,9943,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137361
+30,dom 01/04/2012,10:00,Lecce,Cesena,3-5-2 plano,Serse Cosmi,6950,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137369
+31,sáb 07/04/2012,10:00,Lecce,Roma,3-5-2 plano,Serse Cosmi,12592,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137378
+32,qua 11/04/2012,15:45,Catania Calcio,Lecce,3-5-2 plano,Serse Cosmi,16570,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137384
+33,qua 25/04/2012,10:00,Lecce,Napoli,3-5-2 plano,Serse Cosmi,18113,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137396
+34,dom 22/04/2012,10:00,Lazio,Lecce,3-5-2 plano,Serse Cosmi,30513,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137409
+35,dom 29/04/2012,10:00,Lecce,Parma,3-5-2 plano,Serse Cosmi,10293,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137417
+36,qua 02/05/2012,15:45,Juventus,Lecce,3-5-2 plano,Serse Cosmi,38573,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137428
+37,sáb 05/05/2012,13:00,Lecce,Fiorentina,4-3-1-2,Serse Cosmi,12693,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137437
+38,dom 13/05/2012,15:45,Chievo Verona,Lecce,3-5-2 plano,Serse Cosmi,8000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137445

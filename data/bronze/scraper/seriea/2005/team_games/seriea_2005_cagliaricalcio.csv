@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 28/08/2005,10:00,AC Siena,Cagliari,4-3-3 ofensivo,Attilio Tesser,6935,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/35506
+2,dom 11/09/2005,15:30,Cagliari,Lazio,4-2-3-1,Daniele Arrigoni,10000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/37211
+3,dom 18/09/2005,10:00,Cagliari,Messina Peloro,4-3-3 ofensivo,Davide Ballardini,8000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/40921
+4,qua 21/09/2005,15:30,Empoli,Cagliari,4-3-1-2,Davide Ballardini,4966,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/40926
+5,dom 25/09/2005,10:00,Cagliari,Roma,4-3-3 ofensivo,Davide Ballardini,15500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/40941
+6,dom 02/10/2005,10:00,Lecce,Cagliari,4-4-1-1,Davide Ballardini,11804,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/40948
+7,dom 16/10/2005,16:30,Cagliari,Milan,4-4-2 duplo 6,Davide Ballardini,23000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/40955
+8,dom 23/10/2005,11:00,Chievo Verona,Cagliari,4-3-3 ofensivo,Davide Ballardini,5009,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/40964
+9,qua 26/10/2005,16:30,Cagliari,AS Livorno,4-3-1-2,Davide Ballardini,5000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/40975
+10,dom 30/10/2005,12:00,Fiorentina,Cagliari,4-3-1-2,Davide Ballardini,30267,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/40985
+11,dom 06/11/2005,12:00,Cagliari,Treviso,4-3-1-2,Davide Ballardini,8500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/40995
+12,dom 20/11/2005,12:00,Reggina,Cagliari,4-3-2-1,Nedo Sonetti,9196,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/41009
+13,dom 27/11/2005,12:00,Cagliari,Sampdoria,4-3-3 ofensivo,Nedo Sonetti,10200,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/41015
+14,dom 04/12/2005,12:00,US Palermo,Cagliari,4-3-3 ofensivo,Nedo Sonetti,26209,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/41029
+15,dom 11/12/2005,12:00,Juventus,Cagliari,4-1-4-1,Nedo Sonetti,27587,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/49371
+16,dom 18/12/2005,12:00,Cagliari,Ascoli,4-3-3 ofensivo,Nedo Sonetti,7000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/49363
+17,qua 21/12/2005,17:30,Parma,Cagliari,4-1-4-1,Nedo Sonetti,11160,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/41061
+18,dom 08/01/2006,12:00,Cagliari,Udinese,4-3-3 ofensivo,Nedo Sonetti,5000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/41064
+19,dom 15/01/2006,12:00,Inter,Cagliari,4-4-2 duplo 6,Nedo Sonetti,47354,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/41076
+20,qua 18/01/2006,17:30,Cagliari,AC Siena,4-4-2 duplo 6,Nedo Sonetti,10000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/41084
+21,sáb 21/01/2006,15:00,Lazio,Cagliari,4-4-2 duplo 6,Nedo Sonetti,21972,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/41098
+22,dom 29/01/2006,12:00,Messina Peloro,Cagliari,4-4-2 duplo 6,Nedo Sonetti,19476,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/41108
+23,dom 05/02/2006,12:00,Cagliari,Empoli,4-3-3 ofensivo,Nedo Sonetti,7000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/41114
+24,qua 08/02/2006,17:30,Roma,Cagliari,4-4-2 duplo 6,Nedo Sonetti,x,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/41132
+25,dom 12/02/2006,12:00,Cagliari,Lecce,4-3-3 ofensivo,Nedo Sonetti,7000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/41134
+26,sáb 18/02/2006,17:30,Milan,Cagliari,4-3-1-2,Nedo Sonetti,54599,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/41149
+27,dom 26/02/2006,11:00,Cagliari,Chievo Verona,4-4-2 duplo 6,Nedo Sonetti,9900,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/41155
+28,dom 05/03/2006,11:00,AS Livorno,Cagliari,4-4-2 duplo 6,Nedo Sonetti,10911,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/41167
+29,qua 22/03/2006,16:30,Cagliari,Fiorentina,4-3-3 ofensivo,Nedo Sonetti,10000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/41175
+30,sáb 18/03/2006,14:00,Treviso,Cagliari,4-3-3 ofensivo,Nedo Sonetti,3796,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/41192
+31,dom 26/03/2006,10:00,Cagliari,Reggina,4-3-3 ofensivo,Nedo Sonetti,7800,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/41195
+32,dom 02/04/2006,10:00,Sampdoria,Cagliari,4-4-2 duplo 6,Nedo Sonetti,20779,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/41211
+33,dom 09/04/2006,10:00,Cagliari,US Palermo,4-3-3 ofensivo,Nedo Sonetti,12000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/41215
+34,sáb 15/04/2006,10:00,Cagliari,Juventus,4-5-1 plano,Nedo Sonetti,25000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/41224
+35,sáb 22/04/2006,10:00,Ascoli,Cagliari,4-5-1,Nedo Sonetti,12475,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/41234
+36,dom 30/04/2006,10:00,Cagliari,Parma,4-3-2-1,Nedo Sonetti,14000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/41244
+37,dom 07/05/2006,10:00,Udinese,Cagliari,4-3-3 ofensivo,Nedo Sonetti,16123,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/41263
+38,dom 14/05/2006,10:00,Cagliari,Inter,4-3-3 ofensivo,Nedo Sonetti,14000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/41264

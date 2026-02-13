@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 19/09/2020,13:00,Fiorentina,Torino,3-5-2 plano,Giuseppe Iachini,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433186
+2,sáb 26/09/2020,15:45,Inter,Fiorentina,3-5-2 plano,Giuseppe Iachini,1000,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433198
+3,sex 02/10/2020,15:45,Fiorentina,Sampdoria,3-5-2 plano,Giuseppe Iachini,1000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433207
+4,dom 18/10/2020,10:00,Spezia Calcio,Fiorentina,3-5-2 plano,Giuseppe Iachini,1000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433221
+5,dom 25/10/2020,14:00,Fiorentina,Udinese,3-5-2 plano,Giuseppe Iachini,1000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433228
+6,dom 01/11/2020,14:00,Roma,Fiorentina,3-5-2 plano,Giuseppe Iachini,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433239
+7,sáb 07/11/2020,16:45,Parma,Fiorentina,3-5-2 plano,Giuseppe Iachini,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433252
+8,dom 22/11/2020,08:30,Fiorentina,Benevento,4-2-3-1,Cesare Prandelli,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433256
+9,dom 29/11/2020,11:00,Milan,Fiorentina,4-4-2 duplo 6,Cesare Prandelli,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433271
+10,seg 07/12/2020,16:45,Fiorentina,Genoa,4-3-3 ofensivo,Cesare Prandelli,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433276
+11,dom 13/12/2020,11:00,Atalanta,Fiorentina,4-4-1-1,Cesare Prandelli,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433285
+12,qua 16/12/2020,16:45,Fiorentina,Sassuolo,3-4-2-1,Cesare Prandelli,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433296
+13,sáb 19/12/2020,11:00,Fiorentina,Verona,3-4-2-1,Cesare Prandelli,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433308
+14,ter 22/12/2020,16:45,Juventus,Fiorentina,3-5-2 plano,Cesare Prandelli,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433317
+15,dom 03/01/2021,11:00,Fiorentina,Bologna,3-5-2 plano,Cesare Prandelli,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433328
+16,qua 06/01/2021,11:00,Lazio,Fiorentina,3-4-2-1,Cesare Prandelli,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433339
+17,dom 10/01/2021,14:00,Fiorentina,Cagliari,3-4-2-1,Cesare Prandelli,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433346
+18,dom 17/01/2021,08:30,Napoli,Fiorentina,3-4-2-1,Cesare Prandelli,x,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433361
+19,sáb 23/01/2021,16:45,Fiorentina,Crotone,3-5-2 plano,Cesare Prandelli,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433366
+20,sex 29/01/2021,16:45,Torino,Fiorentina,3-5-2 plano,Cesare Prandelli,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433376
+21,sex 05/02/2021,16:45,Fiorentina,Inter,3-4-2-1,Cesare Prandelli,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433388
+22,dom 14/02/2021,11:00,Sampdoria,Fiorentina,3-5-2 plano,Cesare Prandelli,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433397
+23,sex 19/02/2021,14:30,Fiorentina,Spezia Calcio,3-5-2 plano,Cesare Prandelli,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433411
+24,dom 28/02/2021,11:00,Udinese,Fiorentina,3-5-2 plano,Cesare Prandelli,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433418
+25,qua 03/03/2021,16:45,Fiorentina,Roma,3-5-2 plano,Cesare Prandelli,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433429
+26,dom 07/03/2021,11:00,Fiorentina,Parma,3-4-2-1,Cesare Prandelli,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433442
+27,sáb 13/03/2021,14:00,Benevento,Fiorentina,3-5-2 plano,Cesare Prandelli,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433446
+28,dom 21/03/2021,14:00,Fiorentina,Milan,4-4-2 duplo 6,Cesare Prandelli,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433461
+29,sáb 03/04/2021,10:00,Genoa,Fiorentina,3-5-2 plano,Giuseppe Iachini,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433466
+30,dom 11/04/2021,15:45,Fiorentina,Atalanta,3-5-2 plano,Giuseppe Iachini,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433475
+31,sáb 17/04/2021,13:00,Sassuolo,Fiorentina,3-5-2 plano,Giuseppe Iachini,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433486
+32,ter 20/04/2021,15:45,Verona,Fiorentina,3-5-2 plano,Giuseppe Iachini,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433498
+33,dom 25/04/2021,10:00,Fiorentina,Juventus,3-5-2 plano,Giuseppe Iachini,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433507
+34,dom 02/05/2021,10:00,Bologna,Fiorentina,3-5-2 plano,Giuseppe Iachini,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433518
+35,sáb 08/05/2021,15:45,Fiorentina,Lazio,3-5-2 plano,Giuseppe Iachini,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433529
+36,qua 12/05/2021,13:30,Cagliari,Fiorentina,3-5-2 plano,Giuseppe Iachini,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433536
+37,dom 16/05/2021,07:30,Fiorentina,Napoli,3-5-2 plano,Giuseppe Iachini,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433551
+38,sáb 22/05/2021,15:45,Crotone,Fiorentina,3-5-2 plano,Giuseppe Iachini,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433556

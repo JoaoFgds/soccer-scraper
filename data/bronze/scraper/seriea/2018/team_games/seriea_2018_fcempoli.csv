@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 19/08/2018,15:30,Empoli,Cagliari,4-3-1-2,Aurelio Andreazzoli,7335,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080905
+2,dom 26/08/2018,15:30,Genoa,Empoli,4-3-1-2,Aurelio Andreazzoli,19523,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080915
+3,dom 02/09/2018,15:30,Chievo Verona,Empoli,4-3-1-2,Aurelio Andreazzoli,10200,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080924
+4,dom 16/09/2018,13:00,Empoli,Lazio,4-3-2-1,Aurelio Andreazzoli,10832,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080933
+5,sex 21/09/2018,15:30,Sassuolo,Empoli,4-3-1-2,Aurelio Andreazzoli,10183,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080961
+6,qui 27/09/2018,16:00,Empoli,Milan,4-3-1-2,Aurelio Andreazzoli,13890,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080978
+7,dom 30/09/2018,13:00,Parma,Empoli,4-3-1-2,Aurelio Andreazzoli,14584,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080992
+8,sáb 06/10/2018,15:30,Empoli,Roma,4-3-2-1,Aurelio Andreazzoli,10670,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081034
+9,dom 21/10/2018,07:30,Frosinone,Empoli,4-3-1-2,Aurelio Andreazzoli,12287,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081045
+10,sáb 27/10/2018,13:00,Empoli,Juventus,4-3-2-1,Aurelio Andreazzoli,15889,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081054
+11,sex 02/11/2018,16:30,Napoli,Empoli,4-3-2-1,Aurelio Andreazzoli,31370,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081137
+12,dom 11/11/2018,12:00,Empoli,Udinese,4-3-2-1,Giuseppe Iachini,7553,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081143
+13,dom 25/11/2018,12:00,Empoli,Atalanta,5-3-2,Giuseppe Iachini,8736,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081153
+14,sáb 01/12/2018,12:00,SPAL,Empoli,3-5-2 plano,Giuseppe Iachini,12622,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081170
+15,dom 09/12/2018,12:00,Empoli,Bologna,5-3-2,Giuseppe Iachini,8379,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081173
+16,dom 16/12/2018,12:00,Fiorentina,Empoli,5-3-2,Giuseppe Iachini,28918,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081185
+17,sáb 22/12/2018,12:00,Empoli,Sampdoria,5-3-2,Giuseppe Iachini,8815,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081193
+18,qua 26/12/2018,15:00,Torino,Empoli,3-5-2 plano,Giuseppe Iachini,20050,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081211
+19,sáb 29/12/2018,12:00,Empoli,Inter,3-5-2 plano,Giuseppe Iachini,10393,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081213
+20,dom 20/01/2019,15:00,Cagliari,Empoli,3-5-2 plano,Giuseppe Iachini,13836,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081225
+21,seg 28/01/2019,17:30,Empoli,Genoa,3-5-2 plano,Giuseppe Iachini,7675,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081235
+22,sáb 02/02/2019,12:00,Empoli,Chievo Verona,3-5-2 plano,Giuseppe Iachini,7030,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081244
+23,qui 07/02/2019,17:30,Lazio,Empoli,3-5-2 plano,Giuseppe Iachini,23000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081253
+24,dom 17/02/2019,11:00,Empoli,Sassuolo,3-5-2 plano,Giuseppe Iachini,7202,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081270
+25,sex 22/02/2019,16:30,Milan,Empoli,3-5-2 plano,Giuseppe Iachini,47866,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081274
+26,sáb 02/03/2019,11:00,Empoli,Parma,3-5-2 plano,Giuseppe Iachini,8404,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081288
+27,seg 11/03/2019,16:30,Roma,Empoli,5-3-2,Giuseppe Iachini,34508,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081294
+28,dom 17/03/2019,11:00,Empoli,Frosinone,3-5-2 plano,Aurelio Andreazzoli,7828,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081305
+29,sáb 30/03/2019,14:00,Juventus,Empoli,3-5-2 plano,Aurelio Andreazzoli,39290,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081314
+30,qua 03/04/2019,14:00,Empoli,Napoli,5-3-2,Aurelio Andreazzoli,10911,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081328
+31,dom 07/04/2019,10:00,Udinese,Empoli,3-5-2 plano,Aurelio Andreazzoli,22537,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081334
+32,seg 15/04/2019,15:30,Atalanta,Empoli,3-5-2 plano,Aurelio Andreazzoli,19229,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081344
+33,sáb 20/04/2019,10:00,Empoli,SPAL,3-5-2 plano,Aurelio Andreazzoli,10444,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081360
+34,sáb 27/04/2019,10:00,Bologna,Empoli,3-5-2 plano,Aurelio Andreazzoli,25189,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081363
+35,dom 05/05/2019,07:30,Empoli,Fiorentina,3-5-2 plano,Aurelio Andreazzoli,8285,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081375
+36,dom 12/05/2019,10:00,Sampdoria,Empoli,3-5-2 plano,Aurelio Andreazzoli,19034,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081383
+37,dom 19/05/2019,10:00,Empoli,Torino,3-5-2 plano,Aurelio Andreazzoli,10344,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081401
+38,dom 26/05/2019,15:30,Inter,Empoli,3-5-2 plano,Aurelio Andreazzoli,68051,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081403

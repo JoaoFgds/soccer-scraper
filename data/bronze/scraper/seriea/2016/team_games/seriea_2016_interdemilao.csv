@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 21/08/2016,15:45,Chievo Verona,Inter,3-4-1-2,Frank de Boer,22000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2725473
+2,dom 28/08/2016,13:00,Inter,US Palermo,4-2-3-1,Frank de Boer,40527,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2725484
+3,dom 11/09/2016,15:45,Pescara,Inter,4-2-3-1,Frank de Boer,20088,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2725499
+4,dom 18/09/2016,13:00,Inter,Juventus,4-2-3-1,Frank de Boer,76484,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726506
+5,qua 21/09/2016,15:45,Empoli,Inter,4-3-3 ofensivo,Frank de Boer,10554,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726516
+6,dom 25/09/2016,10:00,Inter,Bologna,4-2-3-1,Frank de Boer,42274,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726527
+7,dom 02/10/2016,15:45,Roma,Inter,4-1-4-1,Frank de Boer,36340,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726539
+8,dom 16/10/2016,11:00,Inter,Cagliari,4-2-3-1,Frank de Boer,43757,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726546
+9,dom 23/10/2016,11:00,Atalanta,Inter,4-3-3 ofensivo,Frank de Boer,18159,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726553
+10,qua 26/10/2016,16:45,Inter,Torino,4-3-3 ofensivo,Frank de Boer,36446,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726566
+11,dom 30/10/2016,17:45,Sampdoria,Inter,4-2-3-1,Frank de Boer,20906,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726581
+12,dom 06/11/2016,15:00,Inter,Crotone,4-2-3-1,Stefano Vecchi,40626,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726586
+13,dom 20/11/2016,17:45,Milan,Inter,4-2-3-1,Stefano Pioli,77882,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726600
+14,seg 28/11/2016,18:00,Inter,Fiorentina,4-2-3-1,Stefano Pioli,40558,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726608
+15,sex 02/12/2016,17:45,Napoli,Inter,4-2-3-1,Stefano Pioli,32341,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726618
+16,dom 11/12/2016,17:45,Inter,Genoa,3-4-2-1,Stefano Pioli,33788,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726628
+17,dom 18/12/2016,09:30,Sassuolo,Inter,4-2-3-1,Stefano Pioli,15221,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726641
+18,qua 21/12/2016,17:45,Inter,Lazio,4-2-3-1,Stefano Pioli,37868,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726648
+19,dom 08/01/2017,09:30,Udinese,Inter,4-2-3-1,Stefano Pioli,25952,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726662
+20,sáb 14/01/2017,17:45,Inter,Chievo Verona,4-2-3-1,Stefano Pioli,34255,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726665
+21,dom 22/01/2017,12:00,US Palermo,Inter,4-2-3-1,Stefano Pioli,16436,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726676
+22,sáb 28/01/2017,17:45,Inter,Pescara,4-2-3-1,Stefano Pioli,38968,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726691
+23,dom 05/02/2017,17:45,Juventus,Inter,3-4-2-1,Stefano Pioli,41408,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726696
+24,dom 12/02/2017,12:00,Inter,Empoli,3-4-2-1,Stefano Pioli,40868,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726706
+25,dom 19/02/2017,08:30,Bologna,Inter,3-4-2-1,Stefano Pioli,28066,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726717
+26,dom 26/02/2017,16:45,Inter,Roma,3-4-2-1,Stefano Pioli,58652,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726729
+27,dom 05/03/2017,11:00,Cagliari,Inter,4-2-3-1,Stefano Pioli,15649,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726736
+28,dom 12/03/2017,11:00,Inter,Atalanta,4-2-3-1,Stefano Pioli,59359,7:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726743
+29,sáb 18/03/2017,14:00,Torino,Inter,4-2-3-1,Stefano Pioli,26000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726756
+30,seg 03/04/2017,15:45,Inter,Sampdoria,4-2-3-1,Stefano Pioli,47043,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726771
+31,dom 09/04/2017,10:00,Crotone,Inter,4-2-3-1,Stefano Pioli,13967,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726776
+32,sáb 15/04/2017,07:30,Inter,Milan,4-2-3-1,Stefano Pioli,78328,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726790
+33,sáb 22/04/2017,15:45,Fiorentina,Inter,4-2-3-1,Stefano Pioli,30011,5:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726798
+34,dom 30/04/2017,15:45,Inter,Napoli,4-2-3-1,Stefano Pioli,57076,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726808
+35,dom 07/05/2017,10:00,Genoa,Inter,4-2-3-1,Stefano Pioli,20980,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726818
+36,dom 14/05/2017,07:30,Inter,Sassuolo,4-2-3-1,Stefano Vecchi,42222,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726831
+37,dom 21/05/2017,15:45,Lazio,Inter,3-4-2-1,Stefano Vecchi,30000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726838
+38,dom 28/05/2017,15:45,Inter,Udinese,4-2-3-1,Stefano Vecchi,36689,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726852

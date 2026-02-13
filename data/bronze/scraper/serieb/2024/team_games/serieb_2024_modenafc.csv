@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 17/08/2024,15:30,Südtirol,Modena,4-5-1,Pierpaolo Bisoli,3513,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385230
+2,sex 23/08/2024,15:30,Modena,Bari,4-3-2-1,Pierpaolo Bisoli,10248,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385778
+3,ter 27/08/2024,15:30,Frosinone,Modena,3-4-2-1,Pierpaolo Bisoli,9841,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385790
+4,sáb 31/08/2024,15:30,Modena,Cittadella,3-5-2 plano,Pierpaolo Bisoli,8928,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385797
+5,sex 13/09/2024,15:30,Cesena,Modena,4-3-2-1,Pierpaolo Bisoli,13974,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385807
+6,sáb 21/09/2024,13:00,Modena,Juve Stabia,4-3-2-1,Pierpaolo Bisoli,8648,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385818
+7,dom 29/09/2024,10:00,Modena,Sampdoria,4-2-3-1,Pierpaolo Bisoli,10101,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385839
+8,dom 06/10/2024,10:00,Catanzaro,Modena,4-5-1,Pierpaolo Bisoli,8394,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385843
+9,sáb 19/10/2024,10:00,Modena,Palermo,4-2-3-1,Pierpaolo Bisoli,10123,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385868
+10,sáb 26/10/2024,12:15,Sassuolo,Modena,4-5-1,Pierpaolo Bisoli,7752,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385889
+11,ter 29/10/2024,16:30,Modena,Cremonese,4-3-1-2,Pierpaolo Bisoli,8251,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385905
+12,sáb 02/11/2024,11:00,Spezia Calcio,Modena,3-4-1-2,Pierpaolo Bisoli,6910,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385919
+13,sáb 09/11/2024,11:00,Modena,Carrarese,4-2-3-1,Paolo Mandelli,8569,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385925
+14,sex 22/11/2024,16:30,Cosenza,Modena,3-4-2-1,Paolo Mandelli,5000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385934
+15,sáb 30/11/2024,13:15,Mantova,Modena,3-4-2-1,Paolo Mandelli,8045,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385943
+16,sáb 07/12/2024,11:00,Modena,Salernitana,3-4-2-1,Paolo Mandelli,9101,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385957
+17,sáb 14/12/2024,11:00,Reggiana,Modena,3-4-2-1,Paolo Mandelli,10339,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385966
+18,sáb 21/12/2024,13:15,Modena,Pisa,3-4-2-1,Paolo Mandelli,9646,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385977
+19,qui 26/12/2024,11:00,Brescia,Modena,3-4-2-1,Paolo Mandelli,6175,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385980
+20,dom 29/12/2024,11:00,Modena,Südtirol,3-4-2-1,Paolo Mandelli,8644,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385997
+21,dom 12/01/2025,11:00,Palermo,Modena,3-4-2-1,Paolo Mandelli,16645,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386008
+22,sáb 18/01/2025,11:00,Modena,Frosinone,3-4-2-1,Paolo Mandelli,7696,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386027
+23,dom 26/01/2025,13:15,Cremonese,Modena,3-4-2-1,Paolo Mandelli,8902,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386047
+24,sáb 01/02/2025,13:15,Modena,Mantova,3-4-2-1,Paolo Mandelli,9806,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386066
+25,sáb 08/02/2025,13:15,Sampdoria,Modena,3-4-2-1,Paolo Mandelli,20413,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386088
+26,sáb 15/02/2025,11:00,Modena,Spezia Calcio,3-4-2-1,Paolo Mandelli,9514,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386108
+27,sáb 22/02/2025,11:00,Cittadella,Modena,3-5-2 plano,Paolo Mandelli,3009,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386121
+28,dom 02/03/2025,11:00,Modena,Cosenza,3-5-2 plano,Paolo Mandelli,9164,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386144
+29,sáb 08/03/2025,11:00,Salernitana,Modena,3-4-2-1,Paolo Mandelli,12521,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386166
+30,sáb 15/03/2025,11:00,Juve Stabia,Modena,3-5-2 plano,Paolo Mandelli,4190,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386183
+31,sáb 29/03/2025,11:00,Modena,Catanzaro,3-4-2-1,Paolo Mandelli,10088,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386201
+32,sáb 05/04/2025,12:15,Pisa,Modena,3-4-2-1,Paolo Mandelli,10809,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386228
+33,sáb 12/04/2025,14:30,Modena,Sassuolo,3-4-2-1,Paolo Mandelli,13340,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386286
+34,ter 13/05/2025,15:30,Modena,Cesena,3-5-2 plano,Paolo Mandelli,9538,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386302
+35,sex 25/04/2025,10:00,Bari,Modena,3-4-2-1,Paolo Mandelli,14481,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386308
+36,qui 01/05/2025,10:00,Modena,Reggiana,3-4-2-1,Paolo Mandelli,14470,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386322
+37,dom 04/05/2025,10:00,Carrarese,Modena,3-5-2 plano,Paolo Mandelli,4194,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386342
+38,sex 09/05/2025,15:30,Modena,Brescia,3-4-2-1,Paolo Mandelli,9161,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386362

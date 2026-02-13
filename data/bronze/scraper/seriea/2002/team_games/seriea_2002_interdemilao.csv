@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qua 06/11/2002,17:30,Empoli,Inter,4-4-2,Héctor Cúper,16469,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022410
+2,sáb 14/09/2002,10:00,Inter,Torino,4-4-2,Héctor Cúper,66134,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022411
+3,dom 22/09/2002,10:00,Reggina,Inter,4-3-1-2,Héctor Cúper,26608,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022427
+4,dom 29/09/2002,15:30,Inter,Chievo Verona,5-3-2,Héctor Cúper,57674,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022437
+5,dom 06/10/2002,10:00,Piacenza,Inter,3-4-1-2,Héctor Cúper,15029,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022445
+6,sáb 19/10/2002,15:30,Inter,Juventus,3-4-1-2,Héctor Cúper,76166,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022448
+7,dom 27/10/2002,11:00,Inter,Bologna,4-4-2,Héctor Cúper,65408,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022462
+8,dom 03/11/2002,12:00,Como,Inter,4-4-2 losango,Héctor Cúper,12452,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022472
+9,sáb 09/11/2002,15:00,Inter,Udinese,4-4-2 losango,Héctor Cúper,58962,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022474
+10,sáb 16/11/2002,17:30,Roma,Inter,4-4-2 duplo 6,Héctor Cúper,61000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022484
+11,sáb 23/11/2002,17:30,Milan,Inter,4-4-2 duplo 6,Héctor Cúper,78843,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022493
+12,dom 01/12/2002,12:00,Inter,Brescia,4-4-2 duplo 6,Héctor Cúper,61294,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022507
+13,sáb 07/12/2002,17:30,Lazio,Inter,4-4-2,Héctor Cúper,60789,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022511
+14,dom 15/12/2002,12:00,Inter,Atalanta,4-4-2 duplo 6,Héctor Cúper,57118,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022526
+15,dom 22/12/2002,17:30,AC Parma,Inter,4-4-2 duplo 6,Héctor Cúper,21133,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022536
+16,dom 12/01/2003,17:30,Inter,Modena,4-4-2 duplo 6,Héctor Cúper,57610,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022545
+17,dom 19/01/2003,12:00,Perugia,Inter,4-4-2 duplo 6,Héctor Cúper,22020,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022553
+18,dom 26/01/2003,12:00,Inter,Empoli,4-4-2 duplo 6,Héctor Cúper,59563,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022562
+19,dom 02/02/2003,17:30,Torino,Inter,4-3-1-2,Héctor Cúper,19254,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022572
+20,dom 09/02/2003,12:00,Inter,Reggina,4-4-2 duplo 6,Héctor Cúper,64319,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022580
+21,sáb 15/02/2003,15:00,Chievo Verona,Inter,4-4-2 duplo 6,Héctor Cúper,34464,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022582
+22,dom 23/02/2003,11:00,Inter,Piacenza,4-4-2 duplo 6,Héctor Cúper,56352,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022598
+23,dom 02/03/2003,16:30,Juventus,Inter,4-4-2 duplo 6,Héctor Cúper,57393,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022608
+24,sáb 08/03/2003,14:00,Bologna,Inter,4-4-2 duplo 6,Héctor Cúper,31433,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022609
+25,dom 16/03/2003,11:00,Inter,Como,4-3-1-2,Héctor Cúper,61967,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022625
+26,dom 23/03/2003,16:30,Udinese,Inter,4-3-1-2,Héctor Cúper,22919,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022635
+27,dom 06/04/2003,15:30,Inter,Roma,4-4-2 duplo 6,Héctor Cúper,64142,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022644
+28,sáb 12/04/2003,15:30,Inter,Milan,4-4-2 duplo 6,Héctor Cúper,76660,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022646
+29,sáb 19/04/2003,10:00,Brescia,Inter,4-4-2 duplo 6,Héctor Cúper,22039,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022661
+30,dom 27/04/2003,15:30,Inter,Lazio,4-4-2 duplo 6,Héctor Cúper,58430,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022671
+31,sáb 03/05/2003,10:00,Atalanta,Inter,4-4-1-1,Héctor Cúper,17864,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022678
+32,sáb 10/05/2003,10:00,Inter,AC Parma,4-4-2 duplo 6,Héctor Cúper,56399,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022689
+33,sáb 17/05/2003,10:00,Modena,Inter,3-4-1-2,Héctor Cúper,14124,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022692
+34,sáb 24/05/2003,10:00,Inter,Perugia,3-5-2 plano,Héctor Cúper,54825,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1022707

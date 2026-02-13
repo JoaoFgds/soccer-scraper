@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 15/08/2015,15:00,Trabzonspor,Bursaspor,4-2-3-1,Shota Arveladze,18300,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2589249
+2,sáb 22/08/2015,15:45,Besiktas,Trabzonspor,4-2-3-1,Shota Arveladze,28422,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2590402
+3,dom 30/08/2015,13:00,Trabzonspor,Akhisar Belediye,4-2-3-1,Shota Arveladze,7890,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2590410
+4,seg 14/09/2015,15:00,Kayserispor,Trabzonspor,4-2-3-1,Shota Arveladze,4910,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2590597
+5,sáb 19/09/2015,14:00,Trabzonspor,Galatasaray,4-2-3-1,Shota Arveladze,20384,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2590606
+6,sáb 26/09/2015,10:00,Osmanlispor FK,Trabzonspor,4-2-3-1,Shota Arveladze,4484,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2590615
+7,sex 02/10/2015,14:00,Trabzonspor,Konyaspor,4-2-3-1,Shota Arveladze,6695,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2590622
+8,seg 19/10/2015,15:00,Mersin IY,Trabzonspor,4-2-3-1,Shota Arveladze,7399,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2593960
+9,sáb 24/10/2015,14:00,Sivasspor,Trabzonspor,3-4-2-1,Shota Arveladze,4584,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2593971
+10,qua 28/10/2015,16:45,Trabzonspor,Gaziantepspor,4-2-3-1,Shota Arveladze,4461,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2593978
+11,sáb 07/11/2015,11:00,Basaksehir,Trabzonspor,4-2-3-1,Shota Arveladze,6428,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2593996
+12,dom 22/11/2015,12:30,Trabzonspor,Genclerbirligi,4-2-3-1,Sadi Tekelioğlu,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594000
+13,seg 30/11/2015,16:00,Fenerbahce,Trabzonspor,4-2-3-1,Sadi Tekelioğlu,37500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594009
+14,seg 07/12/2015,16:00,Trabzonspor,Eskisehirspor,4-2-3-1,Sadi Tekelioğlu,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594023
+15,sáb 12/12/2015,15:00,C. Rizespor,Trabzonspor,4-2-3-1,Sadi Tekelioğlu,3676,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594029
+16,sáb 19/12/2015,15:00,Trabzonspor,Antalyaspor,4-2-3-1,Sadi Tekelioğlu,6351,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594042
+17,sáb 26/12/2015,15:00,Kasimpasa,Trabzonspor,4-1-4-1,Sadi Tekelioğlu,3429,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594046
+18,dom 17/01/2016,12:00,Bursaspor,Trabzonspor,4-2-3-1,Sadi Tekelioğlu,24034,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594058
+19,ter 15/03/2016,14:30,Trabzonspor,Besiktas,4-4-2 duplo 6,Hami Mandıralı,14615,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2598034
+20,dom 07/02/2016,11:00,Akhisar Belediye,Trabzonspor,4-2-3-1,Hami Mandıralı,2854,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2598052
+21,seg 15/02/2016,16:00,Trabzonspor,Kayserispor,4-2-3-1,Hami Mandıralı,4738,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2606502
+22,dom 21/02/2016,14:00,Galatasaray,Trabzonspor,4-2-3-1,Hami Mandıralı,22208,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2606511
+23,sáb 27/02/2016,14:00,Trabzonspor,Osmanlispor FK,4-2-3-1,Hami Mandıralı,15962,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2606520
+24,dom 06/03/2016,14:00,Konyaspor,Trabzonspor,4-2-3-1,Hami Mandıralı,23300,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2606527
+25,sex 11/03/2016,15:00,Trabzonspor,Mersin IY,4-2-3-1,Hami Mandıralı,8896,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2606537
+26,sáb 19/03/2016,11:00,Trabzonspor,Sivasspor,4-2-3-1,Hami Mandıralı,6178,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2606548
+27,sáb 02/04/2016,10:00,Gaziantepspor,Trabzonspor,4-2-3-1,Hami Mandıralı,2717,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611245
+28,dom 10/04/2016,13:00,Trabzonspor,Basaksehir,4-2-3-1,Hami Mandıralı,6560,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611253
+29,seg 18/04/2016,14:00,Genclerbirligi,Trabzonspor,4-2-3-1,Hami Mandıralı,2489,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611257
+30,dom 24/04/2016,14:00,Trabzonspor,Fenerbahce,4-4-2 duplo 6,Hami Mandıralı,18120,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611266
+31,sáb 30/04/2016,10:00,Eskisehirspor,Trabzonspor,4-2-3-1,Hami Mandıralı,9560,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611280
+32,dom 08/05/2016,09:30,Trabzonspor,C. Rizespor,4-2-3-1,Hami Mandıralı,x,6:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611286
+33,sex 13/05/2016,14:00,Antalyaspor,Trabzonspor,4-2-3-1,Hami Mandıralı,10033,7:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611309
+34,qui 19/05/2016,14:00,Trabzonspor,Kasimpasa,4-2-3-1,Taner Yılmaz,x,0:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611313

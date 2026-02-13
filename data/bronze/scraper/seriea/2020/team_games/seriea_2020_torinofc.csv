@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 19/09/2020,13:00,Fiorentina,Torino,4-3-1-2,Marco Giampaolo,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433186
+2,sáb 26/09/2020,10:00,Torino,Atalanta,4-3-1-2,Marco Giampaolo,700,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433203
+3,qua 04/11/2020,13:00,Genoa,Torino,4-3-1-2,Marco Giampaolo,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433208
+4,dom 18/10/2020,10:00,Torino,Cagliari,4-3-1-2,Marco Giampaolo,876,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433222
+5,sex 23/10/2020,15:45,Sassuolo,Torino,4-3-1-2,Marco Giampaolo,700,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433234
+6,dom 01/11/2020,11:00,Torino,Lazio,4-3-1-2,Marco Giampaolo,x,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433242
+7,dom 08/11/2020,11:00,Torino,Crotone,4-3-2-1,Marco Giampaolo,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433254
+8,dom 22/11/2020,11:00,Inter,Torino,3-5-2 plano,Marco Giampaolo,x,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433257
+9,seg 30/11/2020,14:30,Torino,Sampdoria,3-5-2 plano,Marco Giampaolo,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433274
+10,sáb 05/12/2020,14:00,Juventus,Torino,3-5-2 plano,Marco Giampaolo,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433278
+11,sáb 12/12/2020,14:00,Torino,Udinese,3-5-2 plano,Marco Giampaolo,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433294
+12,qui 17/12/2020,16:45,Roma,Torino,3-5-2 plano,Marco Giampaolo,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433301
+13,dom 20/12/2020,08:30,Torino,Bologna,4-3-1-2,Marco Giampaolo,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433314
+14,qua 23/12/2020,16:45,Napoli,Torino,3-5-2 plano,Marco Giampaolo,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433319
+15,dom 03/01/2021,11:00,Parma,Torino,3-5-2 plano,Marco Giampaolo,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433332
+16,qua 06/01/2021,11:00,Torino,Verona,3-5-2 plano,Marco Giampaolo,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433344
+17,sáb 09/01/2021,16:45,Milan,Torino,3-5-2 plano,Marco Giampaolo,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433349
+18,sáb 16/01/2021,14:00,Torino,Spezia Calcio,3-5-2 plano,Marco Giampaolo,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433364
+19,sex 22/01/2021,16:45,Benevento,Torino,3-5-2 plano,Davide Nicola,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433365
+20,sex 29/01/2021,16:45,Torino,Fiorentina,3-5-2 plano,Davide Nicola,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433376
+21,sáb 06/02/2021,11:00,Atalanta,Torino,3-5-2 plano,Davide Nicola,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433393
+22,sáb 13/02/2021,11:00,Torino,Genoa,3-5-2 plano,Davide Nicola,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433398
+23,sex 19/02/2021,16:45,Cagliari,Torino,3-5-2 plano,Davide Nicola,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433412
+24,qua 17/03/2021,11:00,Torino,Sassuolo,3-5-2 plano,Davide Nicola,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433424
+25,ter 18/05/2021,15:30,Lazio,Torino,3-5-2 plano,Davide Nicola,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433432
+26,dom 07/03/2021,11:00,Crotone,Torino,3-5-2 plano,Davide Nicola,x,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433444
+27,dom 14/03/2021,11:00,Torino,Inter,3-5-2 plano,Davide Nicola,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433447
+28,dom 21/03/2021,11:00,Sampdoria,Torino,3-5-2 plano,Davide Nicola,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433464
+29,sáb 03/04/2021,13:00,Torino,Juventus,3-5-2 plano,Davide Nicola,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433468
+30,sáb 10/04/2021,15:45,Udinese,Torino,3-5-2 plano,Davide Nicola,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433484
+31,dom 18/04/2021,13:00,Torino,Roma,3-5-2 plano,Davide Nicola,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433491
+32,qua 21/04/2021,15:45,Bologna,Torino,3-5-2 plano,Davide Nicola,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433504
+33,seg 26/04/2021,13:30,Torino,Napoli,3-5-2 plano,Davide Nicola,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433509
+34,seg 03/05/2021,15:45,Torino,Parma,3-5-2 plano,Davide Nicola,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433522
+35,dom 09/05/2021,10:00,Verona,Torino,3-5-2 plano,Davide Nicola,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433534
+36,qua 12/05/2021,15:45,Torino,Milan,3-5-2 plano,Davide Nicola,x,0:7,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433539
+37,sáb 15/05/2021,10:00,Spezia Calcio,Torino,3-5-2 plano,Davide Nicola,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433554
+38,dom 23/05/2021,15:45,Torino,Benevento,3-5-2 plano,Davide Nicola,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433555

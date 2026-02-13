@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 30/09/2000,15:30,Napoli,Juventus,3-5-2,Carlo Ancelotti,67927,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1153399
+2,dom 15/10/2000,11:00,Juventus,Bari,3-4-1-2,Carlo Ancelotti,35866,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1153409
+3,sáb 21/10/2000,16:45,Milan,Juventus,3-4-1-2,Carlo Ancelotti,81954,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217284
+4,qua 01/11/2000,12:00,Juventus,Udinese,3-4-1-2,Carlo Ancelotti,36941,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217292
+5,dom 05/11/2000,12:00,Reggina,Juventus,3-4-1-2,Carlo Ancelotti,25074,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217300
+6,sáb 11/11/2000,17:30,Juventus,Lazio,3-4-1-2,Carlo Ancelotti,42095,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217310
+7,dom 19/11/2000,12:00,Brescia,Juventus,3-5-2,Carlo Ancelotti,19353,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217321
+8,dom 26/11/2000,12:00,Juventus,Verona,3-4-1-2,Carlo Ancelotti,30000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217330
+9,dom 03/12/2000,17:30,Inter,Juventus,3-4-1-2,Carlo Ancelotti,75377,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217340
+10,dom 10/12/2000,12:00,Juventus,AC Parma,4-3-1-2,Carlo Ancelotti,40000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217350
+11,dom 17/12/2000,12:00,Lecce,Juventus,4-3-1-2,Carlo Ancelotti,26942,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217351
+12,sex 22/12/2000,17:30,Roma,Juventus,4-3-1-2,Carlo Ancelotti,80000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217362
+13,sáb 06/01/2001,17:30,Juventus,Florenz,4-4-2 losango,Carlo Ancelotti,45000,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217374
+14,dom 14/01/2001,12:00,Juventus,Bologna,4-3-1-2,Carlo Ancelotti,45000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217378
+15,dom 21/01/2001,12:00,Perugia,Juventus,4-4-2 losango,Carlo Ancelotti,20000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217389
+16,dom 28/01/2001,12:00,Juventus,Vicenza,4-4-2 losango,Carlo Ancelotti,30000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217396
+17,sáb 03/02/2001,17:30,Atalanta,Juventus,4-4-2 losango,Carlo Ancelotti,24000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217412
+18,dom 11/02/2001,17:30,Juventus,Napoli,4-4-2 losango,Carlo Ancelotti,30000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217421
+19,dom 18/02/2001,11:00,Bari,Juventus,4-4-2 losango,Carlo Ancelotti,33175,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217427
+20,dom 25/02/2001,16:30,Juventus,Milan,4-4-2 losango,Carlo Ancelotti,48140,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217437
+21,dom 04/03/2001,11:00,Udinese,Juventus,4-4-2 losango,Carlo Ancelotti,27000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217445
+22,dom 11/03/2001,11:00,Juventus,Reggina,4-4-2 losango,Carlo Ancelotti,30000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217451
+23,dom 18/03/2001,16:30,Lazio,Juventus,4-3-1-2,Carlo Ancelotti,65000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217463
+24,dom 01/04/2001,10:00,Juventus,Brescia,4-4-2 losango,Carlo Ancelotti,35000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217473
+25,dom 08/04/2001,10:00,Verona,Juventus,4-4-2 losango,Carlo Ancelotti,15924,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217479
+26,sáb 14/04/2001,15:30,Juventus,Inter,4-4-2 losango,Carlo Ancelotti,49916,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217491
+27,dom 22/04/2001,15:30,AC Parma,Juventus,4-4-2 losango,Carlo Ancelotti,29173,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217499
+28,dom 29/04/2001,10:00,Juventus,Lecce,4-4-2 losango,Carlo Ancelotti,25000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217505
+29,dom 06/05/2001,15:30,Juventus,Roma,4-4-2 losango,Carlo Ancelotti,65000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217515
+30,sex 11/05/2001,15:30,Florenz,Juventus,4-4-2 losango,Carlo Ancelotti,45000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217526
+31,dom 20/05/2001,10:00,Bologna,Juventus,4-4-2 losango,Carlo Ancelotti,37000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217531
+32,dom 27/05/2001,15:30,Juventus,Perugia,4-4-2 losango,Carlo Ancelotti,36693,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217547
+33,dom 10/06/2001,10:00,Vicenza,Juventus,4-4-2 losango,Carlo Ancelotti,20000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217553
+34,dom 17/06/2001,10:00,Juventus,Atalanta,4-4-2 losango,Carlo Ancelotti,45000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2217559

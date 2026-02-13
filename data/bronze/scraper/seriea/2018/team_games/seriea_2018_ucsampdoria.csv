@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qua 19/09/2018,14:00,Sampdoria,Fiorentina,4-3-1-2,Marco Giampaolo,18334,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080909
+2,dom 26/08/2018,15:30,Udinese,Sampdoria,4-3-1-2,Marco Giampaolo,15770,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080921
+3,dom 02/09/2018,15:30,Sampdoria,Napoli,4-3-1-2,Marco Giampaolo,19829,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080929
+4,sáb 15/09/2018,15:30,Frosinone,Sampdoria,4-3-1-2,Marco Giampaolo,12502,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080934
+5,sáb 22/09/2018,15:30,Sampdoria,Inter,4-3-1-2,Marco Giampaolo,22835,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080960
+6,qua 26/09/2018,16:00,Cagliari,Sampdoria,4-3-1-2,Marco Giampaolo,14038,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080977
+7,seg 01/10/2018,15:30,Sampdoria,SPAL,4-3-1-2,Marco Giampaolo,17885,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080994
+8,dom 07/10/2018,10:00,Atalanta,Sampdoria,4-3-1-2,Marco Giampaolo,19164,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081032
+9,seg 22/10/2018,15:30,Sampdoria,Sassuolo,4-3-1-2,Marco Giampaolo,19064,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081050
+10,dom 28/10/2018,14:00,Milan,Sampdoria,4-3-1-2,Marco Giampaolo,47347,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081057
+11,dom 04/11/2018,12:00,Sampdoria,Torino,4-3-1-2,Marco Giampaolo,20364,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081139
+12,dom 11/11/2018,12:00,Roma,Sampdoria,4-3-1-2,Marco Giampaolo,37582,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081147
+13,dom 25/11/2018,17:30,Genoa,Sampdoria,4-3-1-2,Marco Giampaolo,33727,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081154
+14,sáb 01/12/2018,17:30,Sampdoria,Bologna,4-3-1-2,Marco Giampaolo,17859,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081168
+15,sáb 08/12/2018,17:30,Lazio,Sampdoria,4-3-1-2,Marco Giampaolo,25000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081176
+16,dom 16/12/2018,12:00,Sampdoria,Parma,4-3-1-2,Marco Giampaolo,19000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081189
+17,sáb 22/12/2018,12:00,Empoli,Sampdoria,4-3-1-2,Marco Giampaolo,8815,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081193
+18,qua 26/12/2018,12:00,Sampdoria,Chievo Verona,4-3-1-2,Marco Giampaolo,19190,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081209
+19,sáb 29/12/2018,09:30,Juventus,Sampdoria,4-3-1-2,Marco Giampaolo,40641,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081215
+20,dom 20/01/2019,12:00,Fiorentina,Sampdoria,4-3-1-2,Marco Giampaolo,27844,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081229
+21,sáb 26/01/2019,15:00,Sampdoria,Udinese,4-3-1-2,Marco Giampaolo,18020,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081241
+22,sáb 02/02/2019,15:00,Napoli,Sampdoria,4-3-1-2,Marco Giampaolo,19455,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081249
+23,dom 10/02/2019,12:00,Sampdoria,Frosinone,4-3-1-2,Marco Giampaolo,18937,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081254
+24,dom 17/02/2019,14:00,Inter,Sampdoria,4-3-1-2,Marco Giampaolo,55127,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081269
+25,dom 24/02/2019,08:30,Sampdoria,Cagliari,4-3-1-2,Marco Giampaolo,18840,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081273
+26,dom 03/03/2019,11:00,SPAL,Sampdoria,4-3-1-2,Marco Giampaolo,12731,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081290
+27,dom 10/03/2019,11:00,Sampdoria,Atalanta,4-3-1-2,Marco Giampaolo,20950,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081292
+28,sáb 16/03/2019,11:00,Sassuolo,Sampdoria,4-3-1-2,Marco Giampaolo,11193,3:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081310
+29,sáb 30/03/2019,16:30,Sampdoria,Milan,4-3-1-2,Marco Giampaolo,23475,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081317
+30,qua 03/04/2019,16:00,Torino,Sampdoria,4-3-1-2,Marco Giampaolo,22618,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081330
+31,sáb 06/04/2019,15:30,Sampdoria,Roma,4-3-1-2,Marco Giampaolo,19594,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081338
+32,dom 14/04/2019,10:00,Sampdoria,Genoa,4-3-1-2,Marco Giampaolo,30548,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081345
+33,sáb 20/04/2019,10:00,Bologna,Sampdoria,4-3-1-2,Marco Giampaolo,21391,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081358
+34,dom 28/04/2019,13:00,Sampdoria,Lazio,4-3-1-2,Marco Giampaolo,18450,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081366
+35,dom 05/05/2019,10:00,Parma,Sampdoria,4-3-1-2,Marco Giampaolo,16992,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081379
+36,dom 12/05/2019,10:00,Sampdoria,Empoli,4-3-1-2,Marco Giampaolo,19034,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081383
+37,dom 19/05/2019,07:30,Chievo Verona,Sampdoria,4-3-1-2,Marco Giampaolo,10600,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081399
+38,dom 26/05/2019,13:00,Sampdoria,Juventus,4-3-1-2,Marco Giampaolo,22856,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081405

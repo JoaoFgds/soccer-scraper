@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 26/08/2007,10:00,Parma,Catania Calcio,4-2-3-1,Silvio Baldini,12579,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/82680
+2,dom 02/09/2007,10:00,Catania Calcio,Genoa,4-3-3 defensivo,Gianluca Atzori,13700,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/82688
+3,dom 16/09/2007,10:00,Inter,Catania Calcio,4-4-2 duplo 6,Silvio Baldini,41720,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83652
+4,dom 23/09/2007,10:00,Catania Calcio,Fiorentina,4-3-2-1,Silvio Baldini,16782,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83662
+5,qua 26/09/2007,15:30,Catania Calcio,Empoli,4-3-3 ofensivo,Silvio Baldini,15887,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83958
+6,dom 30/09/2007,10:00,Milan,Catania Calcio,4-3-3 ofensivo,Silvio Baldini,49835,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83965
+7,dom 07/10/2007,10:00,Catania Calcio,AS Livorno,4-3-3 ofensivo,Silvio Baldini,16313,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83977
+8,dom 21/10/2007,11:00,Cagliari,Catania Calcio,4-3-3 ofensivo,Silvio Baldini,15500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83980
+9,dom 28/10/2007,12:00,Catania Calcio,Sampdoria,4-3-3 ofensivo,Silvio Baldini,18400,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/83989
+10,qua 31/10/2007,17:30,AC Siena,Catania Calcio,4-5-1 plano,Silvio Baldini,7898,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/84006
+11,dom 04/11/2007,12:00,Catania Calcio,Atalanta,4-3-3 ofensivo,Silvio Baldini,16101,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/84010
+12,dom 11/11/2007,12:10,Torino,Catania Calcio,4-3-3 ofensivo,Silvio Baldini,18597,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/84027
+13,dom 25/11/2007,12:00,Napoli,Catania Calcio,4-3-3 ofensivo,Silvio Baldini,31344,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/84036
+14,dom 02/12/2007,12:00,Catania Calcio,US Palermo,4-3-3 ofensivo,Silvio Baldini,18000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/84041
+15,sáb 08/12/2007,15:00,Lazio,Catania Calcio,4-5-1 plano,Silvio Baldini,17291,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/84053
+16,sáb 15/12/2007,15:00,Catania Calcio,Udinese,4-3-3 ofensivo,Silvio Baldini,16551,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/84061
+17,dom 23/12/2007,12:00,Reggina,Catania Calcio,4-5-1 plano,Silvio Baldini,11600,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/84075
+18,sáb 12/01/2008,17:30,Catania Calcio,Juventus,4-3-3 ofensivo,Silvio Baldini,21148,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/84081
+19,dom 20/01/2008,12:00,Roma,Catania Calcio,4-5-1 plano,Silvio Baldini,33378,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/84097
+20,dom 27/01/2008,12:00,Catania Calcio,Parma,4-3-3 ofensivo,Silvio Baldini,16287,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/84101
+21,dom 03/02/2008,12:00,Genoa,Catania Calcio,4-3-3 ofensivo,Silvio Baldini,22935,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/84110
+22,dom 10/02/2008,17:30,Catania Calcio,Inter,4-3-3 ofensivo,Silvio Baldini,21068,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/84121
+23,dom 17/02/2008,11:00,Fiorentina,Catania Calcio,4-3-3 ofensivo,Silvio Baldini,26648,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/84129
+24,dom 24/02/2008,11:00,Empoli,Catania Calcio,4-3-3 ofensivo,Silvio Baldini,5712,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/84141
+25,qua 27/02/2008,16:30,Catania Calcio,Milan,3-5-2 plano,Silvio Baldini,23000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/84150
+26,dom 02/03/2008,11:00,AS Livorno,Catania Calcio,4-3-2-1,Silvio Baldini,9759,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/84162
+27,dom 09/03/2008,11:00,Catania Calcio,Cagliari,4-3-1-2,Silvio Baldini,23420,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/84169
+28,dom 16/03/2008,11:00,Sampdoria,Catania Calcio,4-3-3 ofensivo,Silvio Baldini,19409,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/84187
+29,qua 19/03/2008,16:30,Catania Calcio,AC Siena,4-3-3 ofensivo,Silvio Baldini,16655,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/84190
+30,sáb 22/03/2008,11:00,Atalanta,Catania Calcio,4-3-3 ofensivo,Silvio Baldini,9414,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/84199
+31,dom 30/03/2008,10:00,Catania Calcio,Torino,4-3-3 ofensivo,Silvio Baldini,16955,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/84210
+32,dom 06/04/2008,10:00,Catania Calcio,Napoli,4-4-1-1,Walter Zenga,14246,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/84220
+33,sáb 12/04/2008,13:00,US Palermo,Catania Calcio,4-1-4-1,Walter Zenga,24847,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/84236
+34,dom 20/04/2008,10:00,Catania Calcio,Lazio,4-3-3 ofensivo,Walter Zenga,16100,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/84241
+35,dom 27/04/2008,10:00,Udinese,Catania Calcio,4-3-3 ofensivo,Walter Zenga,13958,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/84258
+36,dom 04/05/2008,10:00,Catania Calcio,Reggina,4-1-4-1,Walter Zenga,18177,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/84261
+37,dom 11/05/2008,10:00,Juventus,Catania Calcio,4-3-3 ofensivo,Walter Zenga,20638,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/84272
+38,dom 18/05/2008,10:00,Catania Calcio,Roma,4-5-1 plano,Walter Zenga,21148,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/84288

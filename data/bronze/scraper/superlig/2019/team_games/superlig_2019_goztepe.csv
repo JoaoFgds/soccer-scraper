@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 18/08/2019,15:45,Göztepe,Antalyaspor,4-4-2 duplo 6,Tamer Tuna,8578,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3221067
+2,sex 23/08/2019,14:30,Besiktas,Göztepe,4-4-2 duplo 6,Tamer Tuna,29923,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3221091
+3,sáb 31/08/2019,15:45,Göztepe,Denizlispor,4-2-3-1,Tamer Tuna,7387,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3221094
+4,dom 15/09/2019,11:00,C. Rizespor,Göztepe,4-2-3-1,Tamer Tuna,7554,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223046
+5,sex 20/09/2019,14:30,Göztepe,Konyaspor,4-2-3-1,Tamer Tuna,8054,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223052
+6,seg 30/09/2019,14:00,Gaziantep FK,Göztepe,4-2-3-1,Tamer Tuna,7676,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223059
+7,sáb 05/10/2019,11:30,Göztepe,Kayserispor,4-1-4-1,Tamer Tuna,6803,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223075
+8,sáb 19/10/2019,11:30,Basaksehir,Göztepe,4-1-4-1,Tamer Tuna,2915,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223081
+9,dom 27/10/2019,10:30,Göztepe,Kasimpasa,4-1-4-1,Tamer Tuna,7894,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223093
+10,sáb 02/11/2019,11:30,Trabzonspor,Göztepe,4-1-4-1,Suat Arıcan,25082,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223099
+11,dom 10/11/2019,08:00,Göztepe,Y. Malatyaspor,4-3-3 ofensivo,İlhan Palut,7689,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223105
+12,dom 24/11/2019,10:30,Alanyaspor,Göztepe,4-2-3-1,İlhan Palut,5693,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223117
+13,sáb 30/11/2019,14:00,Göztepe,Fenerbahce,4-4-2,İlhan Palut,8791,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223129
+14,sáb 07/12/2019,11:30,Ankaragücü,Göztepe,4-4-2,İlhan Palut,8844,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223134
+15,sáb 14/12/2019,11:30,Genclerbirligi,Göztepe,4-4-2 duplo 6,İlhan Palut,4037,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223142
+16,sáb 21/12/2019,14:00,Göztepe,Galatasaray,4-2-3-1,İlhan Palut,8790,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223150
+17,dom 29/12/2019,08:00,Sivasspor,Göztepe,4-2-3-1,İlhan Palut,12961,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223157
+18,dom 19/01/2020,07:30,Antalyaspor,Göztepe,4-4-2,İlhan Palut,8288,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223174
+19,dom 26/01/2020,10:00,Göztepe,Besiktas,4-4-2,İlhan Palut,17855,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223181
+20,seg 03/02/2020,14:00,Denizlispor,Göztepe,4-2-3-1,İlhan Palut,8986,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223184
+21,ter 17/03/2020,14:00,Göztepe,C. Rizespor,4-2-3-1,İlhan Palut,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223199
+22,sáb 15/02/2020,11:00,Konyaspor,Göztepe,4-2-3-1,İlhan Palut,14366,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223205
+23,sáb 22/02/2020,11:00,Göztepe,Gaziantep FK,4-2-3-1,İlhan Palut,16184,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223212
+24,seg 02/03/2020,14:00,Kayserispor,Göztepe,4-2-3-1,İlhan Palut,6969,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223228
+25,sáb 07/03/2020,11:00,Göztepe,Basaksehir,4-2-3-1,İlhan Palut,16383,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223234
+26,sex 13/03/2020,14:00,Kasimpasa,Göztepe,4-2-3-1,İlhan Palut,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223246
+27,sex 12/06/2020,15:00,Göztepe,Trabzonspor,4-2-3-1,İlhan Palut,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223252
+28,sáb 20/06/2020,15:00,Y. Malatyaspor,Göztepe,4-2-3-1,İlhan Palut,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223258
+29,sáb 27/06/2020,15:00,Göztepe,Alanyaspor,4-2-3-1,İlhan Palut,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223270
+30,sáb 04/07/2020,15:00,Fenerbahce,Göztepe,4-2-3-1,İlhan Palut,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223282
+31,qua 08/07/2020,15:00,Göztepe,Ankaragücü,4-2-3-1,İlhan Palut,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223287
+32,sáb 11/07/2020,15:00,Göztepe,Genclerbirligi,4-2-3-1,İlhan Palut,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223295
+33,sáb 18/07/2020,15:00,Galatasaray,Göztepe,4-2-3-1,İlhan Palut,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223303
+34,sáb 25/07/2020,15:00,Göztepe,Sivasspor,4-2-3-1,İlhan Palut,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3223310

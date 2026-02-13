@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 26/09/2020,09:00,Salernitana,Reggina,3-4-1-2,Domenico Toscano,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442547
+2,sáb 03/10/2020,11:15,Reggina,Pescara,3-4-1-2,Domenico Toscano,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442555
+3,sáb 17/10/2020,09:00,Virtus Entella,Reggina,3-4-1-2,Domenico Toscano,500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442568
+4,ter 20/10/2020,16:00,Reggina,Cosenza,3-4-1-2,Domenico Toscano,952,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442577
+5,sáb 24/10/2020,09:00,Pordenone,Reggina,3-4-1-2,Domenico Toscano,660,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442584
+6,dom 01/11/2020,11:00,Reggina,SPAL,3-4-1-2,Domenico Toscano,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442596
+7,sáb 07/11/2020,12:00,Empoli,Reggina,3-4-1-2,Domenico Toscano,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442601
+8,dom 22/11/2020,17:00,Reggina,AC Pisa 1909,3-4-1-2,Domenico Toscano,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442616
+9,sáb 28/11/2020,12:00,Monza,Reggina,3-5-2 plano,Domenico Toscano,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442623
+10,sáb 05/12/2020,11:30,Reggina,Brescia,3-5-2 plano,Domenico Toscano,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442636
+11,sex 11/12/2020,17:00,Chievo Verona,Reggina,3-5-2 plano,Domenico Toscano,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442640
+12,seg 14/12/2020,17:00,Reggina,Venezia,3-4-1-2,Domenico Toscano,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442656
+13,sáb 19/12/2020,17:30,Reggina,Cittadella,4-4-2,Marco Baroni,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442666
+14,ter 22/12/2020,15:00,LR Vicenza,Reggina,4-3-3 ofensivo,Marco Baroni,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442672
+15,dom 27/12/2020,08:30,Reggiana,Reggina,4-2-3-1,Marco Baroni,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442686
+16,qua 30/12/2020,11:00,Reggina,Cremonese,4-2-3-1,Marco Baroni,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442697
+17,seg 04/01/2021,13:00,Ascoli,Reggina,4-2-3-1,Marco Baroni,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442699
+18,sáb 16/01/2021,12:00,Reggina,Lecce,4-2-3-1,Marco Baroni,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442717
+19,sáb 23/01/2021,10:00,Frosinone,Reggina,4-2-3-1,Marco Baroni,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442723
+20,seg 01/02/2021,17:00,Reggina,Salernitana,4-2-3-1,Marco Baroni,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442737
+21,sáb 06/02/2021,10:00,Pescara,Reggina,4-2-3-1,Marco Baroni,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442745
+22,qua 10/02/2021,15:00,Reggina,Virtus Entella,4-2-3-1,Marco Baroni,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442758
+23,seg 15/02/2021,17:00,Cosenza,Reggina,4-2-3-1,Marco Baroni,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442767
+24,dom 21/02/2021,11:00,Reggina,Pordenone,4-2-3-1,Marco Baroni,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442774
+25,sáb 27/02/2021,10:00,SPAL,Reggina,4-2-3-1,Marco Baroni,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442786
+26,ter 02/03/2021,15:00,Reggina,Empoli,4-2-3-1,Marco Baroni,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442791
+27,sáb 06/03/2021,10:00,AC Pisa 1909,Reggina,4-2-3-1,Marco Baroni,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442806
+28,sáb 13/03/2021,10:00,Reggina,Monza,4-2-3-1,Marco Baroni,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442813
+29,ter 16/03/2021,15:00,Brescia,Reggina,4-2-3-1,Marco Baroni,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442826
+30,dom 21/03/2021,11:00,Reggina,Chievo Verona,4-2-3-1,Marco Baroni,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442830
+31,sex 02/04/2021,14:00,Venezia,Reggina,4-2-3-1,Marco Baroni,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442846
+32,seg 05/04/2021,10:00,Cittadella,Reggina,4-2-3-1,Marco Baroni,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442856
+33,dom 11/04/2021,10:00,Reggina,LR Vicenza,4-2-3-1,Marco Baroni,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442862
+34,sáb 17/04/2021,09:00,Reggina,Reggiana,4-2-3-1,Marco Baroni,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442876
+35,sáb 01/05/2021,09:00,Cremonese,Reggina,4-2-3-1,Marco Baroni,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442887
+36,ter 04/05/2021,09:00,Reggina,Ascoli,4-2-3-1,Marco Baroni,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442889
+37,sex 07/05/2021,09:00,Lecce,Reggina,4-2-3-1,Marco Baroni,,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442907
+38,seg 10/05/2021,09:00,Reggina,Frosinone,4-2-3-1,Marco Baroni,x,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442913

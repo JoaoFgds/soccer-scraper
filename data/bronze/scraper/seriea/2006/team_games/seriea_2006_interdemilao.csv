@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 09/09/2006,15:30,Fiorentina,Inter,4-3-1-2,Roberto Mancini,41334,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65172
+2,sáb 16/09/2006,15:30,Inter,Sampdoria,4-4-2 duplo 6,Roberto Mancini,45194,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65184
+3,qua 20/09/2006,15:30,Roma,Inter,4-3-1-2,Roberto Mancini,56476,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65192
+4,dom 24/09/2006,10:00,Inter,Chievo Verona,4-3-1-2,Roberto Mancini,42500,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65204
+5,dom 01/10/2006,10:00,Cagliari,Inter,4-3-1-2,Roberto Mancini,20000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65212
+6,dom 15/10/2006,10:00,Inter,Catania Calcio,4-4-2 duplo 6,Roberto Mancini,45000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65223
+7,dom 22/10/2006,10:00,Udinese,Inter,4-4-2 duplo 6,Roberto Mancini,22000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65240
+8,qua 25/10/2006,15:30,Inter,AS Livorno,4-4-2 duplo 6,Roberto Mancini,40000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65244
+9,sáb 28/10/2006,15:30,Milan,Inter,4-3-1-2,Roberto Mancini,78921,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65258
+10,dom 05/11/2006,12:00,Inter,Ascoli,4-4-2 duplo 6,Roberto Mancini,43372,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65264
+11,dom 12/11/2006,17:30,Parma,Inter,4-3-1-2,Roberto Mancini,20488,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65278
+12,dom 19/11/2006,12:00,Inter,Reggina,4-4-2 duplo 6,Roberto Mancini,43814,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65285
+13,dom 26/11/2006,17:30,US Palermo,Inter,4-4-2 duplo 6,Roberto Mancini,34095,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65297
+14,sáb 02/12/2006,15:00,Inter,AC Siena,4-3-1-2,Roberto Mancini,42299,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65304
+15,dom 10/12/2006,12:00,Empoli,Inter,4-3-1-2,Roberto Mancini,11473,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65315
+16,dom 17/12/2006,12:00,Inter,Messina Peloro,4-3-1-2,Roberto Mancini,41683,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65324
+17,qua 20/12/2006,17:30,Lazio,Inter,4-3-1-2,Roberto Mancini,35203,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65335
+18,sáb 23/12/2006,12:00,Inter,Atalanta,4-3-1-2,Roberto Mancini,49659,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65344
+19,sáb 13/01/2007,17:30,Torino,Inter,4-3-1-2,Roberto Mancini,23695,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65360
+20,dom 21/01/2007,12:00,Inter,Fiorentina,4-3-1-2,Roberto Mancini,61391,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65364
+21,dom 28/01/2007,17:30,Sampdoria,Inter,4-3-1-2,Roberto Mancini,27519,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65379
+22,qua 18/04/2007,12:30,Inter,Roma,4-3-1-2,Roberto Mancini,67500,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65384
+23,dom 11/02/2007,12:00,Chievo Verona,Inter,4-3-1-2,Roberto Mancini,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65393
+24,sáb 17/02/2007,12:00,Inter,Cagliari,4-3-1-2,Roberto Mancini,35152,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65405
+25,dom 25/02/2007,12:00,Catania Calcio,Inter,4-4-2 duplo 6,Roberto Mancini,x,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65413
+26,qua 28/02/2007,16:30,Inter,Udinese,4-3-1-2,Roberto Mancini,47500,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65430
+27,sáb 03/03/2007,11:00,AS Livorno,Inter,4-4-2 losango,Roberto Mancini,5641,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65436
+28,dom 11/03/2007,12:00,Inter,Milan,4-3-1-2,Roberto Mancini,67500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65444
+29,dom 18/03/2007,11:00,Ascoli,Inter,4-3-1-2,Roberto Mancini,4800,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65451
+30,dom 01/04/2007,10:00,Inter,Parma,4-3-1-2,Roberto Mancini,42400,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65465
+31,sáb 07/04/2007,10:00,Reggina,Inter,4-3-1-2,Roberto Mancini,21100,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65478
+32,dom 15/04/2007,15:30,Inter,US Palermo,4-3-1-2,Roberto Mancini,53000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65484
+33,dom 22/04/2007,10:00,AC Siena,Inter,4-4-2 duplo 6,Roberto Mancini,14027,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65500
+34,dom 29/04/2007,10:00,Inter,Empoli,4-3-1-2,Roberto Mancini,69000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65503
+35,dom 06/05/2007,10:00,Messina Peloro,Inter,4-4-2 duplo 6,Roberto Mancini,16500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65516
+36,dom 13/05/2007,10:00,Inter,Lazio,4-3-1-2,Roberto Mancini,39800,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65524
+37,dom 20/05/2007,10:00,Atalanta,Inter,4-3-2-1,Roberto Mancini,15200,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65531
+38,dom 27/05/2007,10:00,Inter,Torino,4-3-1-2,Roberto Mancini,61800,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/65544

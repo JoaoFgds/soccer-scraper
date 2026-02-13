@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 15/08/2021,15:45,Adana Demirspor,Fenerbahce,3-4-3 plano,Vítor Pereira,10340,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612839
+2,dom 22/08/2021,15:45,Fenerbahce,Antalyaspor,3-4-3 plano,Vítor Pereira,8637,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612850
+3,dom 29/08/2021,15:45,Altay SK,Fenerbahce,3-4-3 plano,Vítor Pereira,2579,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612861
+4,dom 12/09/2021,11:00,Fenerbahce,Sivasspor,3-4-3 plano,Vítor Pereira,21620,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612870
+5,dom 19/09/2021,13:00,Basaksehir,Fenerbahce,3-4-2-1,Vítor Pereira,1813,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612880
+6,qui 23/09/2021,14:00,Fenerbahce,Giresunspor,3-4-3 plano,Vítor Pereira,13762,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612890
+7,dom 26/09/2021,10:00,Hatayspor,Fenerbahce,3-4-3 plano,Vítor Pereira,9924,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612902
+8,dom 03/10/2021,10:00,Fenerbahce,Kasimpasa,3-4-1-2,Vítor Pereira,18062,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612910
+9,dom 17/10/2021,13:00,Trabzonspor,Fenerbahce,3-4-1-2,Vítor Pereira,19677,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612913
+10,dom 24/10/2021,13:00,Fenerbahce,Alanyaspor,3-4-3 plano,Vítor Pereira,24369,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612930
+11,sáb 30/10/2021,13:00,Konyaspor,Fenerbahce,3-4-3 plano,Vítor Pereira,10846,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612939
+12,dom 07/11/2021,13:00,Fenerbahce,Kayserispor,3-5-2 plano,Vítor Pereira,17698,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612950
+13,dom 21/11/2021,13:00,Galatasaray,Fenerbahce,4-3-3 ofensivo,Vítor Pereira,47678,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612953
+14,seg 29/11/2021,14:00,Göztepe,Fenerbahce,4-3-3 ofensivo,Vítor Pereira,16226,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612971
+15,dom 05/12/2021,13:00,Fenerbahce,C. Rizespor,3-4-3 plano,Vítor Pereira,17879,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612980
+16,seg 13/12/2021,14:30,Gaziantep FK,Fenerbahce,3-4-3 plano,Vítor Pereira,7929,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612983
+17,dom 19/12/2021,13:00,Fenerbahce,Besiktas,3-4-3 plano,Vítor Pereira,42589,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612993
+18,qua 22/12/2021,14:00,Karagümrük,Fenerbahce,4-2-3-1,Zeki Murat Göle,821,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613004
+19,dom 26/12/2021,13:00,Fenerbahce,Y. Malatyaspor,4-2-3-1,Zeki Murat Göle,12905,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613020
+20,seg 10/01/2022,14:00,Fenerbahce,Adana Demirspor,4-1-4-1,Zeki Murat Göle,14791,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613029
+21,sáb 15/01/2022,13:00,Antalyaspor,Fenerbahce,4-2-3-1,İsmail Kartal,13394,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613040
+22,qua 19/01/2022,14:00,Fenerbahce,Altay SK,4-2-3-1,İsmail Kartal,8746,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613051
+23,sáb 22/01/2022,10:00,Sivasspor,Fenerbahce,4-1-4-1,İsmail Kartal,4799,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613060
+24,sáb 05/02/2022,13:00,Fenerbahce,Basaksehir,4-2-3-1,İsmail Kartal,18560,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613070
+25,sáb 12/02/2022,10:00,Giresunspor,Fenerbahce,4-1-4-1,İsmail Kartal,11167,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613080
+26,dom 20/02/2022,13:00,Fenerbahce,Hatayspor,4-2-3-1,İsmail Kartal,7923,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613092
+27,seg 28/02/2022,14:00,Kasimpasa,Fenerbahce,4-2-3-1,İsmail Kartal,2313,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613100
+28,dom 06/03/2022,13:00,Fenerbahce,Trabzonspor,4-2-3-1,İsmail Kartal,42100,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613103
+29,dom 13/03/2022,13:00,Alanyaspor,Fenerbahce,4-2-3-1,İsmail Kartal,5772,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613120
+30,dom 20/03/2022,13:00,Fenerbahce,Konyaspor,4-2-3-1,İsmail Kartal,35397,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613129
+31,sáb 02/04/2022,10:00,Kayserispor,Fenerbahce,4-2-3-1,İsmail Kartal,13142,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613140
+32,dom 10/04/2022,14:30,Fenerbahce,Galatasaray,4-2-3-1,İsmail Kartal,43878,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613143
+33,sáb 16/04/2022,14:30,Fenerbahce,Göztepe,4-2-3-1,İsmail Kartal,42270,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613161
+34,sex 22/04/2022,14:30,C. Rizespor,Fenerbahce,4-2-3-1,İsmail Kartal,5221,0:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613170
+35,sex 29/04/2022,14:30,Fenerbahce,Gaziantep FK,4-1-4-1,İsmail Kartal,36685,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613173
+36,dom 08/05/2022,13:00,Besiktas,Fenerbahce,4-2-3-1,İsmail Kartal,38563,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613183
+37,dom 15/05/2022,13:00,Fenerbahce,Karagümrük,4-2-3-1,İsmail Kartal,41853,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613194
+38,sáb 21/05/2022,13:00,Y. Malatyaspor,Fenerbahce,4-2-3-1,İsmail Kartal,3901,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613210

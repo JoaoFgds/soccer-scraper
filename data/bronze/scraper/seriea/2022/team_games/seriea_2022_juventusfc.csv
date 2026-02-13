@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 15/08/2022,15:45,Juventus,Sassuolo,4-4-2,Massimiliano Allegri,38725,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844738
+2,seg 22/08/2022,15:45,Sampdoria,Juventus,4-1-4-1,Massimiliano Allegri,27573,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844752
+3,sáb 27/08/2022,13:30,Juventus,Roma,4-3-3 ofensivo,Massimiliano Allegri,41003,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844759
+4,qua 31/08/2022,15:45,Juventus,Spezia Calcio,4-3-3 ofensivo,Massimiliano Allegri,35709,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844770
+5,sáb 03/09/2022,10:00,Fiorentina,Juventus,4-3-3 ofensivo,Massimiliano Allegri,36550,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844777
+6,dom 11/09/2022,15:45,Juventus,Salernitana,4-3-3 ofensivo,Massimiliano Allegri,35097,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844790
+7,dom 18/09/2022,10:00,Monza,Juventus,4-3-3 ofensivo,Massimiliano Allegri,12878,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844800
+8,dom 02/10/2022,15:45,Juventus,Bologna,4-4-2 duplo 6,Massimiliano Allegri,34662,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844810
+9,sáb 08/10/2022,13:00,Milan,Juventus,4-4-2 duplo 6,Massimiliano Allegri,75530,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844819
+10,sáb 15/10/2022,13:00,Torino,Juventus,3-5-2 plano,Massimiliano Allegri,22269,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844835
+11,sex 21/10/2022,15:45,Juventus,Empoli,3-5-2 plano,Massimiliano Allegri,37771,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844840
+12,sáb 29/10/2022,13:00,Lecce,Juventus,4-4-1-1,Massimiliano Allegri,25860,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844851
+13,dom 06/11/2022,16:45,Juventus,Inter,3-4-2-1,Massimiliano Allegri,40387,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844859
+14,qui 10/11/2022,14:30,Verona,Juventus,3-5-2 plano,Massimiliano Allegri,21934,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844868
+15,dom 13/11/2022,16:45,Juventus,Lazio,3-5-2 plano,Massimiliano Allegri,38729,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844880
+16,qua 04/01/2023,14:30,Cremonese,Juventus,3-5-2 plano,Massimiliano Allegri,14896,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844886
+17,sáb 07/01/2023,14:00,Juventus,Udinese,3-5-2 plano,Massimiliano Allegri,39536,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844899
+18,sex 13/01/2023,16:45,Napoli,Juventus,3-5-2 plano,Massimiliano Allegri,51361,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844911
+19,dom 22/01/2023,16:45,Juventus,Atalanta,3-5-2 plano,Massimiliano Allegri,33565,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844920
+20,dom 29/01/2023,11:00,Juventus,Monza,3-5-2 plano,Massimiliano Allegri,39393,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844930
+21,ter 07/02/2023,16:45,Salernitana,Juventus,3-5-2 plano,Massimiliano Allegri,26945,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844942
+22,dom 12/02/2023,14:00,Juventus,Fiorentina,3-4-2-1,Massimiliano Allegri,34844,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844949
+23,dom 19/02/2023,14:00,Spezia Calcio,Juventus,3-5-2 plano,Massimiliano Allegri,11767,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844964
+24,ter 28/02/2023,16:45,Juventus,Torino,3-5-2 plano,Massimiliano Allegri,37806,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844970
+25,dom 05/03/2023,16:45,Roma,Juventus,3-5-2 plano,Massimiliano Allegri,64213,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844981
+26,dom 12/03/2023,16:45,Juventus,Sampdoria,3-5-2 plano,Massimiliano Allegri,35166,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844990
+27,dom 19/03/2023,16:45,Inter,Juventus,3-5-2 plano,Massimiliano Allegri,75224,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3844998
+28,sáb 01/04/2023,15:45,Juventus,Verona,3-5-2 plano,Massimiliano Allegri,40105,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845010
+29,sáb 08/04/2023,15:45,Lazio,Juventus,3-5-2 plano,Massimiliano Allegri,55000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845019
+30,dom 16/04/2023,13:00,Sassuolo,Juventus,3-5-2 plano,Massimiliano Allegri,19566,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845033
+31,dom 23/04/2023,15:45,Juventus,Napoli,3-4-2-1,Massimiliano Allegri,39839,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845039
+32,dom 30/04/2023,15:45,Bologna,Juventus,3-5-2 plano,Massimiliano Allegri,30071,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845046
+33,qua 03/05/2023,13:00,Juventus,Lecce,3-5-2 plano,Massimiliano Allegri,33757,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845059
+34,dom 07/05/2023,07:30,Atalanta,Juventus,3-5-2 plano,Massimiliano Allegri,19570,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845066
+35,dom 14/05/2023,15:45,Juventus,Cremonese,3-5-2 plano,Massimiliano Allegri,39439,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845080
+36,seg 22/05/2023,15:45,Empoli,Juventus,3-5-2 plano,Massimiliano Allegri,15519,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845088
+37,dom 28/05/2023,15:45,Juventus,Milan,3-4-2-1,Massimiliano Allegri,40231,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845100
+38,dom 04/06/2023,16:00,Udinese,Juventus,3-5-2 plano,Massimiliano Allegri,23266,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3845115

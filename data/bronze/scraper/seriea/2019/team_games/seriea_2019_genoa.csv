@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 25/08/2019,15:45,Roma,Genoa,3-5-2 plano,Aurelio Andreazzoli,38779,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229171
+2,dom 01/09/2019,15:45,Genoa,Fiorentina,3-4-1-2,Aurelio Andreazzoli,22466,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229179
+3,dom 15/09/2019,07:30,Genoa,Atalanta,3-5-2 plano,Aurelio Andreazzoli,23395,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229188
+4,sex 20/09/2019,15:45,Cagliari,Genoa,3-4-1-2,Aurelio Andreazzoli,14574,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229198
+5,qua 25/09/2019,16:00,Genoa,Bologna,3-5-2 plano,Aurelio Andreazzoli,20497,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229208
+6,dom 29/09/2019,10:00,Lazio,Genoa,3-5-2 plano,Aurelio Andreazzoli,26000,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229218
+7,sáb 05/10/2019,15:45,Genoa,Milan,3-5-2 plano,Aurelio Andreazzoli,22486,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229230
+8,dom 20/10/2019,13:00,Parma,Genoa,3-5-2 plano,Aurelio Andreazzoli,15299,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229242
+9,sáb 26/10/2019,15:45,Genoa,Brescia,3-4-2-1,Thiago Motta,20949,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229249
+10,qua 30/10/2019,17:00,Juventus,Genoa,4-2-3-1,Thiago Motta,38732,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229258
+11,dom 03/11/2019,11:00,Genoa,Udinese,4-3-3 ofensivo,Thiago Motta,20030,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229269
+12,sáb 09/11/2019,16:45,Napoli,Genoa,4-3-3 ofensivo,Thiago Motta,22947,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229281
+13,seg 25/11/2019,16:45,SPAL,Genoa,4-1-4-1,Thiago Motta,12423,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229294
+14,sáb 30/11/2019,14:00,Genoa,Torino,4-3-3 ofensivo,Thiago Motta,20508,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229299
+15,dom 08/12/2019,08:30,Lecce,Genoa,3-4-2-1,Thiago Motta,21740,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229310
+16,sáb 14/12/2019,16:45,Genoa,Sampdoria,3-4-1-2,Thiago Motta,30658,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229320
+17,sáb 21/12/2019,14:00,Inter,Genoa,4-3-1-2,Thiago Motta,57490,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229328
+18,dom 05/01/2020,14:00,Genoa,Sassuolo,3-5-2 plano,Davide Nicola,21033,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229339
+19,dom 12/01/2020,14:00,Verona,Genoa,3-5-2 plano,Davide Nicola,14849,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229348
+20,dom 19/01/2020,14:00,Genoa,Roma,3-5-2 plano,Davide Nicola,20951,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229361
+21,sáb 25/01/2020,14:00,Fiorentina,Genoa,3-5-2 plano,Davide Nicola,32903,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229369
+22,dom 02/02/2020,11:00,Atalanta,Genoa,3-5-2 plano,Davide Nicola,18755,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229378
+23,dom 09/02/2020,11:00,Genoa,Cagliari,3-5-2 plano,Davide Nicola,21301,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229388
+24,sáb 15/02/2020,14:00,Bologna,Genoa,3-5-2 plano,Davide Nicola,21513,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229398
+25,dom 23/02/2020,08:30,Genoa,Lazio,3-5-2 plano,Davide Nicola,24032,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229408
+26,dom 08/03/2020,11:00,Milan,Genoa,3-5-2 plano,Davide Nicola,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229420
+27,ter 23/06/2020,16:45,Genoa,Parma,3-5-2 plano,Davide Nicola,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229432
+28,sáb 27/06/2020,12:15,Brescia,Genoa,3-4-1-2,Davide Nicola,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229439
+29,ter 30/06/2020,16:45,Genoa,Juventus,3-5-2 plano,Davide Nicola,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229448
+30,dom 05/07/2020,14:30,Udinese,Genoa,3-5-2 plano,Davide Nicola,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229459
+31,qua 08/07/2020,14:30,Genoa,Napoli,3-5-2 plano,Davide Nicola,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229471
+32,dom 12/07/2020,12:15,Genoa,SPAL,4-4-1-1,Davide Nicola,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229484
+33,qui 16/07/2020,14:30,Torino,Genoa,5-3-2,Davide Nicola,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229489
+34,dom 19/07/2020,14:30,Genoa,Lecce,4-4-2 duplo 6,Davide Nicola,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229500
+35,qua 22/07/2020,16:45,Sampdoria,Genoa,4-4-2,Davide Nicola,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229510
+36,sáb 25/07/2020,14:30,Genoa,Inter,3-5-2 plano,Davide Nicola,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229518
+37,qua 29/07/2020,14:30,Sassuolo,Genoa,4-4-2,Davide Nicola,x,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229529
+38,dom 02/08/2020,15:45,Genoa,Verona,3-5-2 plano,Davide Nicola,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229538

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 17/08/2024,15:45,Empoli,Monza,3-4-2-1,Alessandro Nesta,7746,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373907
+2,sáb 24/08/2024,15:45,Monza,Genoa,3-4-2-1,Alessandro Nesta,10394,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373919
+3,dom 01/09/2024,13:30,Fiorentina,Monza,3-4-2-1,Alessandro Nesta,18376,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373926
+4,dom 15/09/2024,15:45,Monza,Inter,3-4-2-1,Alessandro Nesta,14541,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373942
+5,dom 22/09/2024,10:00,Monza,Bologna,3-4-2-1,Alessandro Nesta,9991,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373952
+6,dom 29/09/2024,15:45,Napoli,Monza,3-4-2-1,Alessandro Nesta,50500,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373960
+7,dom 06/10/2024,13:00,Monza,Roma,3-4-2-1,Alessandro Nesta,12021,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373972
+8,seg 21/10/2024,15:45,Verona,Monza,3-4-2-1,Alessandro Nesta,24854,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373979
+9,dom 27/10/2024,11:00,Monza,Venezia,3-4-2-1,Alessandro Nesta,10141,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373990
+10,qua 30/10/2024,16:45,Atalanta,Monza,3-4-2-1,Alessandro Nesta,22142,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373995
+11,sáb 02/11/2024,16:45,Monza,Milan,3-4-2-1,Alessandro Nesta,13781,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374010
+12,dom 10/11/2024,14:00,Monza,Lazio,3-4-2-1,Alessandro Nesta,11706,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374022
+13,dom 24/11/2024,11:00,Torino,Monza,3-4-2-1,Alessandro Nesta,21944,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374033
+14,sáb 30/11/2024,11:00,Como,Monza,3-4-2-1,Alessandro Nesta,9749,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374037
+15,seg 09/12/2024,16:45,Monza,Udinese,3-4-2-1,Alessandro Nesta,9317,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374051
+16,dom 15/12/2024,08:30,Lecce,Monza,3-4-2-1,Alessandro Nesta,23663,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374061
+17,dom 22/12/2024,16:45,Monza,Juventus,3-5-2 plano,Alessandro Nesta,15479,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374071
+18,sáb 28/12/2024,11:00,Parma,Monza,3-4-1-2,Salvatore Bocchetti,17499,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374083
+19,dom 05/01/2025,08:30,Monza,Cagliari,3-4-2-1,Salvatore Bocchetti,10942,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374091
+20,seg 13/01/2025,16:45,Monza,Fiorentina,3-4-2-1,Salvatore Bocchetti,9153,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374117
+21,sáb 18/01/2025,11:00,Bologna,Monza,4-4-2 duplo 6,Salvatore Bocchetti,23381,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374123
+22,seg 27/01/2025,16:45,Genoa,Monza,3-4-2-1,Salvatore Bocchetti,29976,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374134
+23,sáb 01/02/2025,11:00,Monza,Verona,3-4-2-1,Salvatore Bocchetti,11723,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374148
+24,dom 09/02/2025,11:00,Lazio,Monza,3-4-2-1,Salvatore Bocchetti,38540,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374157
+25,dom 16/02/2025,11:00,Monza,Lecce,3-5-2 plano,Alessandro Nesta,11050,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374169
+26,seg 24/02/2025,16:45,Roma,Monza,3-4-2-1,Alessandro Nesta,56965,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374179
+27,dom 02/03/2025,08:30,Monza,Torino,3-5-2 plano,Alessandro Nesta,11053,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374188
+28,sáb 08/03/2025,16:45,Inter,Monza,3-5-2 plano,Alessandro Nesta,66344,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374196
+29,sáb 15/03/2025,11:00,Monza,Parma,3-5-2 plano,Alessandro Nesta,9251,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374207
+30,dom 30/03/2025,07:30,Cagliari,Monza,3-5-2 plano,Alessandro Nesta,16319,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374212
+31,sáb 05/04/2025,10:00,Monza,Como,3-5-2 plano,Alessandro Nesta,8469,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374228
+32,sáb 12/04/2025,10:00,Venezia,Monza,3-5-2 plano,Alessandro Nesta,10001,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374241
+33,sáb 19/04/2025,13:00,Monza,Napoli,3-5-2 plano,Alessandro Nesta,13784,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374248
+34,dom 27/04/2025,13:00,Juventus,Monza,3-5-2 plano,Alessandro Nesta,40016,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374257
+35,dom 04/05/2025,10:00,Monza,Atalanta,3-4-2-1,Alessandro Nesta,10440,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374268
+36,dom 11/05/2025,07:30,Udinese,Monza,3-5-2 plano,Alessandro Nesta,20845,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374280
+37,dom 18/05/2025,15:45,Monza,Empoli,3-5-2 plano,Alessandro Nesta,7742,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374289
+38,sáb 24/05/2025,15:45,Milan,Monza,3-4-3 plano,Alessandro Nesta,69124,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374297

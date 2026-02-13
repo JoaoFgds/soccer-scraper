@@ -1,0 +1,47 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,ter 23/09/2003,15:30,Genoa,Treviso,?,Luigi De Canio,16846,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2315286
+2,qua 08/10/2003,15:30,Ascoli,Genoa,?,Luigi De Canio,5352,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2315795
+3,qui 11/09/2003,15:30,Genoa,AS Livorno,4-4-2,Roberto Donadoni,20090,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2316230
+4,dom 14/09/2003,15:30,Torino,Genoa,?,Roberto Donadoni,16729,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2317503
+5,sáb 20/09/2003,15:30,Genoa,Atalanta,3-5-2 plano,Roberto Donadoni,19099,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2317603
+6,sáb 27/09/2003,15:30,Ternana,Genoa,?,Luigi De Canio,7087,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2318310
+7,sáb 04/10/2003,15:30,Genoa,Bari,?,Luigi De Canio,16487,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2318637
+8,dom 12/10/2003,10:00,AC Venezia 1907,Genoa,?,Luigi De Canio,3868,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2318697
+9,qua 15/10/2003,15:30,Genoa,UC AlbinoLeffe,?,Luigi De Canio,16756,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2322625
+10,sáb 18/10/2003,15:30,Genoa,Pescara,?,Luigi De Canio,17007,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2348515
+11,sáb 25/10/2003,16:30,Verona,Genoa,?,Luigi De Canio,10100,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2351331
+12,dom 02/11/2003,12:00,Genoa,Catania Calcio,?,Luigi De Canio,17934,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2366533
+13,dom 09/11/2003,12:00,Vicenza,Genoa,?,Luigi De Canio,7351,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2366653
+14,dom 16/11/2003,12:00,Fiorentina,Genoa,4-4-2,Luigi De Canio,29094,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2367471
+15,qui 20/11/2003,17:30,Genoa,Triestina,?,Luigi De Canio,15818,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2367630
+16,dom 23/11/2003,12:00,Salernitana,Genoa,4-4-2,Luigi De Canio,12219,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2367643
+17,sex 28/11/2003,17:30,Genoa,US Palermo,4-4-2,Luigi De Canio,18027,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2367673
+18,dom 07/12/2003,12:00,Messina Peloro,Genoa,4-4-2,Luigi De Canio,10917,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2367983
+19,dom 14/12/2003,12:00,Genoa,Avellino,?,Luigi De Canio,15323,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2368043
+20,dom 21/12/2003,12:00,Cagliari,Genoa,4-4-2,Luigi De Canio,18000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2369683
+21,ter 06/01/2004,12:00,Genoa,Como,3-5-2 plano,Luigi De Canio,16949,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2370324
+22,dom 11/01/2004,12:00,Napoli,Genoa,?,Luigi De Canio,17253,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2366350
+23,dom 18/01/2004,12:00,Genoa,Piacenza,4-4-2,Luigi De Canio,16583,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2370836
+24,dom 25/01/2004,12:00,Treviso,Genoa,?,Luigi De Canio,4061,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2370926
+25,dom 01/02/2004,12:00,Genoa,Ascoli,?,Luigi De Canio,16120,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2371458
+26,dom 08/02/2004,12:00,AS Livorno,Genoa,4-4-2,Luigi De Canio,10375,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2371716
+27,dom 15/02/2004,11:00,Genoa,Torino,?,Luigi De Canio,20313,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2372055
+28,dom 22/02/2004,11:00,Atalanta,Genoa,4-4-2 duplo 6,Luigi De Canio,10005,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2372068
+29,sex 27/02/2004,16:30,Genoa,Ternana,?,Luigi De Canio,16232,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2372149
+30,qui 04/03/2004,16:30,Bari,Genoa,4-4-2 duplo 6,Luigi De Canio,5495,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2372166
+31,dom 07/03/2004,11:00,Genoa,AC Venezia 1907,?,Luigi De Canio,15674,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2372216
+32,sex 12/03/2004,16:30,UC AlbinoLeffe,Genoa,?,Luigi De Canio,2646,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2372256
+33,qui 18/03/2004,16:30,Pescara,Genoa,?,Luigi De Canio,4297,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2372274
+34,dom 21/03/2004,11:00,Genoa,Verona,?,Luigi De Canio,16932,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2372288
+35,sáb 27/03/2004,16:30,Catania Calcio,Genoa,?,Luigi De Canio,8489,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2372306
+36,sáb 03/04/2004,15:30,Genoa,Vicenza,?,Luigi De Canio,16530,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2372319
+37,sáb 10/04/2004,10:00,Genoa,Fiorentina,4-4-2,Luigi De Canio,22630,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2372334
+38,sáb 17/04/2004,15:30,Triestina,Genoa,?,Luigi De Canio,7779,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2372349
+39,sáb 24/04/2004,15:30,Genoa,Salernitana,4-4-2,Luigi De Canio,16424,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2372401
+40,sáb 01/05/2004,15:30,US Palermo,Genoa,4-4-2 duplo 6,Luigi De Canio,26885,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2372413
+41,sex 07/05/2004,15:30,Genoa,Messina Peloro,4-4-2,Luigi De Canio,16387,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2372434
+42,dom 16/05/2004,10:00,Avellino,Genoa,?,Luigi De Canio,7264,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2372518
+43,sáb 22/05/2004,15:30,Genoa,Cagliari,4-4-2,Luigi De Canio,17636,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2372521
+44,sáb 29/05/2004,15:30,Como,Genoa,4-4-2 duplo 6,Luigi De Canio,3775,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2372624
+45,sáb 05/06/2004,15:30,Genoa,Napoli,?,Luigi De Canio,17186,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2366391
+46,sáb 12/06/2004,15:30,Piacenza,Genoa,3-5-2 plano,Luigi De Canio,3600,4:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2372653

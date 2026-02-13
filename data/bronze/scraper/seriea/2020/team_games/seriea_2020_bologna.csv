@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 21/09/2020,15:45,Milan,Bologna,4-2-3-1,Siniša Mihajlović,1000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433190
+2,seg 28/09/2020,15:45,Bologna,Parma,4-2-3-1,Siniša Mihajlović,1000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433195
+3,dom 04/10/2020,10:00,Benevento,Bologna,4-2-3-1,Siniša Mihajlović,1000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433206
+4,dom 18/10/2020,07:30,Bologna,Sassuolo,4-2-3-1,Siniša Mihajlović,1000,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433215
+5,sáb 24/10/2020,15:45,Lazio,Bologna,4-2-3-1,Siniša Mihajlović,1000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433231
+6,sáb 31/10/2020,16:45,Bologna,Cagliari,4-2-3-1,Siniša Mihajlović,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433235
+7,dom 08/11/2020,14:00,Bologna,Napoli,4-2-3-1,Siniša Mihajlović,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433247
+8,dom 22/11/2020,11:00,Sampdoria,Bologna,4-2-3-1,Siniša Mihajlović,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433261
+9,dom 29/11/2020,11:00,Bologna,Crotone,4-2-3-1,Siniša Mihajlović,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433267
+10,sáb 05/12/2020,16:45,Inter,Bologna,3-4-2-1,Siniša Mihajlović,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433277
+11,dom 13/12/2020,11:00,Bologna,Roma,4-3-3 ofensivo,Siniša Mihajlović,x,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433286
+12,qua 16/12/2020,16:45,Spezia Calcio,Bologna,4-2-3-1,Siniša Mihajlović,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433302
+13,dom 20/12/2020,08:30,Torino,Bologna,4-2-3-1,Siniša Mihajlović,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433314
+14,qua 23/12/2020,16:45,Bologna,Atalanta,4-2-3-1,Siniša Mihajlović,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433315
+15,dom 03/01/2021,11:00,Fiorentina,Bologna,4-2-3-1,Siniša Mihajlović,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433328
+16,qua 06/01/2021,11:00,Bologna,Udinese,4-2-3-1,Siniša Mihajlović,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433336
+17,sáb 09/01/2021,14:00,Genoa,Bologna,4-2-3-1,Siniša Mihajlović,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433347
+18,sáb 16/01/2021,11:00,Bologna,Verona,4-2-3-1,Siniša Mihajlović,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433356
+19,dom 24/01/2021,08:30,Juventus,Bologna,4-2-3-1,Siniša Mihajlović,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433368
+20,sáb 30/01/2021,11:00,Bologna,Milan,4-2-3-1,Siniša Mihajlović,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433380
+21,dom 07/02/2021,14:00,Parma,Bologna,4-2-3-1,Siniša Mihajlović,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433385
+22,sex 12/02/2021,16:45,Bologna,Benevento,4-2-3-1,Siniša Mihajlović,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433396
+23,sáb 20/02/2021,16:45,Sassuolo,Bologna,4-2-3-1,Siniša Mihajlović,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433405
+24,sáb 27/02/2021,14:00,Bologna,Lazio,4-2-3-1,Siniša Mihajlović,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433421
+25,qua 03/03/2021,16:45,Cagliari,Bologna,4-2-3-1,Siniša Mihajlović,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433425
+26,dom 07/03/2021,16:45,Napoli,Bologna,4-2-3-1,Siniša Mihajlović,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433437
+27,dom 14/03/2021,08:30,Bologna,Sampdoria,4-2-3-1,Siniša Mihajlović,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433451
+28,sáb 20/03/2021,11:00,Crotone,Bologna,4-2-3-1,Siniša Mihajlović,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433457
+29,sáb 03/04/2021,15:45,Bologna,Inter,4-2-3-1,Siniša Mihajlović,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433467
+30,dom 11/04/2021,13:00,Roma,Bologna,4-2-3-1,Siniša Mihajlović,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433476
+31,dom 18/04/2021,10:00,Bologna,Spezia Calcio,4-2-3-1,Siniša Mihajlović,x,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433492
+32,qua 21/04/2021,15:45,Bologna,Torino,4-2-3-1,Siniša Mihajlović,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433504
+33,dom 25/04/2021,15:45,Atalanta,Bologna,3-5-2 plano,Siniša Mihajlović,x,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433505
+34,dom 02/05/2021,10:00,Bologna,Fiorentina,4-2-3-1,Siniša Mihajlović,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433518
+35,sáb 08/05/2021,10:00,Udinese,Bologna,4-2-3-1,Siniša Mihajlović,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433526
+36,qua 12/05/2021,15:45,Bologna,Genoa,4-2-3-1,Siniša Mihajlović,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433537
+37,seg 17/05/2021,15:45,Verona,Bologna,4-2-3-1,Siniša Mihajlović,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433546
+38,dom 23/05/2021,15:45,Bologna,Juventus,4-2-3-1,Siniša Mihajlović,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433558

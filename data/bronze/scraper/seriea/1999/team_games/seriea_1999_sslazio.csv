@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 30/08/1999,15:30,Lazio,Cagliari,4-4-2 duplo 6,Sven-Göran Eriksson,51319,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211297
+2,sáb 11/09/1999,15:30,Bari,Lazio,4-4-2 duplo 6,Sven-Göran Eriksson,28067,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211299
+3,dom 19/09/1999,10:00,Lazio,Torino,4-4-2,Sven-Göran Eriksson,42000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211309
+4,dom 26/09/1999,15:30,AC Parma,Lazio,4-4-2 duplo 6,Sven-Göran Eriksson,21801,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211319
+5,dom 03/10/1999,16:30,Lazio,Milan,4-4-2 duplo 6,Sven-Göran Eriksson,56135,4:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211328
+6,sáb 16/10/1999,11:00,Udinese,Lazio,4-4-2 duplo 6,Sven-Göran Eriksson,18000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211335
+7,dom 24/10/1999,11:00,Lazio,Lecce,4-4-2 duplo 6,Sven-Göran Eriksson,45000,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211350
+8,sáb 30/10/1999,16:30,Inter,Lazio,4-4-2 duplo 6,Sven-Göran Eriksson,76161,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211352
+9,dom 07/11/1999,12:00,Lazio,Verona,4-4-2,Sven-Göran Eriksson,42926,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211369
+10,dom 21/11/1999,12:00,Roma,Lazio,4-4-2,Sven-Göran Eriksson,77988,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211375
+11,dom 28/11/1999,17:30,Lazio,Juventus,4-4-2,Sven-Göran Eriksson,65000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211383
+12,sáb 04/12/1999,17:30,Perugia,Lazio,4-5-1,Sven-Göran Eriksson,15000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211389
+13,dom 12/12/1999,12:00,Lazio,Florenz,4-4-2 duplo 6,Sven-Göran Eriksson,48000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211399
+14,dom 19/12/1999,12:00,Lazio,Piacenza,4-4-2 duplo 6,Sven-Göran Eriksson,40000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211412
+15,qua 05/01/2000,17:30,AC Venezia 1907,Lazio,4-4-2 duplo 6,Sven-Göran Eriksson,9788,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211415
+16,dom 09/01/2000,12:00,Lazio,Bologna,4-5-1,Sven-Göran Eriksson,70000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211424
+17,dom 16/01/2000,12:00,Reggina,Lazio,4-4-2,Sven-Göran Eriksson,24041,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211438
+18,sáb 22/01/2000,17:30,Cagliari,Lazio,4-4-2 duplo 6,Sven-Göran Eriksson,20000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211442
+19,dom 30/01/2000,12:00,Lazio,Bari,4-4-2 duplo 6,Sven-Göran Eriksson,44349,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211458
+20,dom 06/02/2000,12:00,Torino,Lazio,4-4-2 duplo 6,Sven-Göran Eriksson,19016,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211464
+21,dom 13/02/2000,17:30,Lazio,AC Parma,4-4-2 duplo 6,Sven-Göran Eriksson,50000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211472
+22,dom 20/02/2000,17:30,Milan,Lazio,4-4-2 duplo 6,Sven-Göran Eriksson,68943,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211481
+23,sáb 26/02/2000,12:00,Lazio,Udinese,4-4-2,Sven-Göran Eriksson,45000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211488
+24,dom 05/03/2000,11:00,Lecce,Lazio,4-4-2 duplo 6,Sven-Göran Eriksson,16642,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211504
+25,sáb 11/03/2000,16:30,Lazio,Inter,4-4-1-1,Sven-Göran Eriksson,66491,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211505
+26,dom 19/03/2000,11:00,Verona,Lazio,4-5-1,Sven-Göran Eriksson,19606,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211521
+27,sáb 25/03/2000,11:00,Lazio,Roma,4-4-1-1,Sven-Göran Eriksson,70000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211524
+28,sáb 01/04/2000,15:30,Juventus,Lazio,4-5-1 plano,Sven-Göran Eriksson,55000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211532
+29,dom 09/04/2000,10:00,Lazio,Perugia,4-4-2 duplo 6,Sven-Göran Eriksson,45000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211549
+30,sáb 15/04/2000,10:00,Florenz,Lazio,4-4-2 duplo 6,Sven-Göran Eriksson,39000,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211551
+31,sáb 22/04/2000,10:00,Piacenza,Lazio,4-4-2,Sven-Göran Eriksson,8000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211559
+32,dom 30/04/2000,10:00,Lazio,AC Venezia 1907,4-4-2,Sven-Göran Eriksson,50000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211569
+33,dom 07/05/2000,10:00,Bologna,Lazio,4-4-2,Sven-Göran Eriksson,38000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211577
+34,dom 14/05/2000,10:00,Lazio,Reggina,4-4-2,Sven-Göran Eriksson,65000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211589

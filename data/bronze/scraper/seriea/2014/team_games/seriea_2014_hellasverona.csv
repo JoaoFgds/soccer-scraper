@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 31/08/2014,13:00,Atalanta,Verona,4-3-3 ofensivo,Andrea Mandorlini,14295,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478588
+2,seg 15/09/2014,15:45,Verona,US Palermo,4-3-3 ofensivo,Andrea Mandorlini,18304,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478601
+3,dom 21/09/2014,15:45,Torino,Verona,4-3-3 ofensivo,Andrea Mandorlini,13405,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478616
+4,qua 24/09/2014,15:45,Verona,Genoa,5-3-2,Andrea Mandorlini,16780,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478621
+5,sáb 27/09/2014,13:00,Roma,Verona,4-3-3 ofensivo,Andrea Mandorlini,40432,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478634
+6,sáb 04/10/2014,13:00,Verona,Cagliari,4-3-3 ofensivo,Andrea Mandorlini,17813,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478640
+7,dom 19/10/2014,11:00,Verona,Milan,4-3-3 ofensivo,Andrea Mandorlini,27155,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478652
+8,dom 26/10/2014,15:00,Napoli,Verona,5-3-2,Andrea Mandorlini,25992,6:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478664
+9,qui 30/10/2014,17:45,Verona,Lazio,4-3-3 ofensivo,Andrea Mandorlini,17760,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478672
+10,seg 03/11/2014,16:00,Cesena,Verona,4-3-3 ofensivo,Andrea Mandorlini,15375,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478678
+11,dom 09/11/2014,17:45,Inter,Verona,4-1-4-1,Andrea Mandorlini,27314,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478692
+12,dom 23/11/2014,12:00,Verona,Fiorentina,4-1-4-1,Andrea Mandorlini,21553,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478701
+13,sáb 29/11/2014,15:00,Sassuolo,Verona,4-3-3 ofensivo,Andrea Mandorlini,12234,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478717
+14,seg 08/12/2014,18:00,Verona,Sampdoria,3-5-2 plano,Andrea Mandorlini,18390,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478722
+15,dom 14/12/2014,12:00,Udinese,Verona,5-3-2,Andrea Mandorlini,8247,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478737
+16,dom 21/12/2014,09:30,Verona,Chievo Verona,3-5-2 plano,Andrea Mandorlini,22927,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478741
+17,ter 06/01/2015,12:00,Empoli,Verona,4-1-4-1,Andrea Mandorlini,7705,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478750
+18,dom 11/01/2015,12:00,Verona,Parma,3-5-2 plano,Andrea Mandorlini,15915,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478761
+19,dom 18/01/2015,17:45,Juventus,Verona,5-3-2,Andrea Mandorlini,36243,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478772
+20,dom 25/01/2015,12:00,Verona,Atalanta,5-3-2,Andrea Mandorlini,16857,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478778
+21,dom 01/02/2015,12:00,US Palermo,Verona,3-5-2 plano,Andrea Mandorlini,14058,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478791
+22,sáb 07/02/2015,15:00,Verona,Torino,3-5-2 plano,Andrea Mandorlini,17038,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478806
+23,dom 15/02/2015,12:00,Genoa,Verona,3-5-2 plano,Andrea Mandorlini,17823,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478811
+24,dom 22/02/2015,11:00,Verona,Roma,4-3-3 ofensivo,Andrea Mandorlini,17953,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478824
+25,dom 01/03/2015,08:45,Cagliari,Verona,4-3-3 ofensivo,Andrea Mandorlini,14000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478830
+26,sáb 07/03/2015,16:45,Milan,Verona,4-3-3 ofensivo,Andrea Mandorlini,29510,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478842
+27,dom 15/03/2015,14:00,Verona,Napoli,4-3-3 ofensivo,Andrea Mandorlini,22468,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478854
+28,dom 22/03/2015,16:45,Lazio,Verona,4-1-4-1,Andrea Mandorlini,40119,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478862
+29,sáb 04/04/2015,10:00,Verona,Cesena,4-3-3 ofensivo,Andrea Mandorlini,17590,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478868
+30,sáb 11/04/2015,15:45,Verona,Inter,4-3-3 ofensivo,Andrea Mandorlini,20645,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478882
+31,seg 20/04/2015,15:45,Fiorentina,Verona,4-3-3 ofensivo,Andrea Mandorlini,27094,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478891
+32,dom 26/04/2015,10:00,Verona,Sassuolo,4-3-3 ofensivo,Andrea Mandorlini,18375,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478907
+33,qua 29/04/2015,15:45,Sampdoria,Verona,3-5-2 plano,Andrea Mandorlini,19609,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478912
+34,dom 03/05/2015,10:00,Verona,Udinese,4-3-3 ofensivo,Andrea Mandorlini,17418,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478927
+35,dom 10/05/2015,07:30,Chievo Verona,Verona,4-3-3 ofensivo,Andrea Mandorlini,20000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478931
+36,dom 17/05/2015,10:00,Verona,Empoli,4-3-3 ofensivo,Andrea Mandorlini,18588,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478940
+37,dom 24/05/2015,10:00,Parma,Verona,4-3-3 ofensivo,Andrea Mandorlini,11889,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478951
+38,sáb 30/05/2015,13:00,Verona,Juventus,4-3-3 ofensivo,Andrea Mandorlini,23149,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478962

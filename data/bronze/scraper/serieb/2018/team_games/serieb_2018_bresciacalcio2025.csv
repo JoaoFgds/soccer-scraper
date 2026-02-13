@@ -1,0 +1,37 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sex 24/08/2018,16:00,Brescia,Perugia,4-3-1-2,David Suazo,6000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092240
+2,sáb 01/09/2018,13:00,Spezia Calcio,Brescia,4-3-1-2,David Suazo,5105,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092309
+3,sáb 15/09/2018,10:00,Brescia,Pescara,4-3-1-2,David Suazo,6000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092311
+4,sex 21/09/2018,19:00,Carpi,Brescia,4-3-1-2,Eugenio Corini,2691,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092320
+5,ter 25/09/2018,16:00,Brescia,US Palermo,4-3-1-2,Eugenio Corini,6103,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092328
+6,sex 28/09/2018,16:00,Crotone,Brescia,4-3-1-2,Eugenio Corini,5189,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092340
+7,dom 07/10/2018,10:00,Brescia,Padova,4-3-1-2,Eugenio Corini,6521,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092346
+8,sáb 20/10/2018,10:00,Cittadella,Brescia,4-3-3 ofensivo,Eugenio Corini,4288,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092357
+9,sáb 27/10/2018,10:00,Brescia,Cosenza,4-3-2-1,Eugenio Corini,5502,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092365
+11,sáb 03/11/2018,11:00,Foggia,Brescia,4-3-1-2,Eugenio Corini,9834,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092384
+12,dom 11/11/2018,12:00,Brescia,Verona,4-3-1-2,Eugenio Corini,8500,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092392
+13,sáb 24/11/2018,12:00,Venezia,Brescia,4-3-1-2,Eugenio Corini,5310,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092408
+14,dom 02/12/2018,12:00,Brescia,AS Livorno,4-3-1-2,Eugenio Corini,6021,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092410
+15,seg 10/12/2018,18:00,US Salernitana,Brescia,4-3-1-2,Eugenio Corini,8576,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092424
+16,dom 16/12/2018,18:00,Brescia,Lecce,4-3-1-2,Eugenio Corini,6500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092428
+17,sex 21/12/2018,18:00,Ascoli,Brescia,4-3-1-2,Eugenio Corini,5397,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092436
+18,qua 26/12/2018,12:00,Brescia,Cremonese,4-3-1-2,Eugenio Corini,9507,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092445
+19,dom 30/12/2018,13:00,Benevento,Brescia,4-3-1-2,Eugenio Corini,11409,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092455
+20,sáb 19/01/2019,15:00,Perugia,Brescia,4-3-1-2,Eugenio Corini,7682,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092465
+21,dom 27/01/2019,15:00,Brescia,Spezia Calcio,4-3-1-2,Eugenio Corini,7500,4:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092480
+22,dom 03/02/2019,18:00,Pescara,Brescia,4-3-1-2,Eugenio Corini,6383,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092482
+23,sáb 09/02/2019,15:00,Brescia,Carpi,4-3-1-2,Eugenio Corini,7500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092491
+24,sex 15/02/2019,18:00,US Palermo,Brescia,4-3-1-2,Eugenio Corini,22329,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092499
+25,sáb 23/02/2019,11:00,Brescia,Crotone,4-3-1-2,Eugenio Corini,8000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092511
+26,ter 26/02/2019,17:00,Padova,Brescia,4-3-1-2,Eugenio Corini,8053,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092517
+27,sáb 02/03/2019,11:00,Brescia,Cittadella,4-3-1-2,Eugenio Corini,7500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092528
+28,sáb 09/03/2019,11:00,Cosenza,Brescia,4-3-1-2,Eugenio Corini,10345,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092536
+30,sáb 30/03/2019,14:00,Brescia,Foggia,4-3-1-2,Eugenio Corini,10500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092555
+31,ter 02/04/2019,16:00,Verona,Brescia,4-3-1-2,Eugenio Corini,13059,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092563
+32,sex 05/04/2019,16:00,Brescia,Venezia,4-3-1-2,Eugenio Corini,9000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092579
+33,seg 15/04/2019,16:00,AS Livorno,Brescia,4-3-1-2,Eugenio Corini,5945,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092581
+34,seg 22/04/2019,13:00,Brescia,US Salernitana,4-3-1-2,Eugenio Corini,11000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092595
+35,dom 28/04/2019,16:00,Lecce,Brescia,4-3-1-2,Eugenio Corini,21860,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092599
+36,qua 01/05/2019,13:00,Brescia,Ascoli,4-3-1-2,Eugenio Corini,12500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092607
+37,sáb 04/05/2019,10:00,Cremonese,Brescia,4-3-2-1,Eugenio Corini,11840,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092616
+38,sáb 11/05/2019,10:00,Brescia,Benevento,4-3-1-2,Eugenio Corini,14000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3092626

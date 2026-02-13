@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 23/08/2009,15:45,Lazio,Atalanta,4-3-3 defensivo,Davide Ballardini,25000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964277
+2,dom 30/08/2009,15:45,Chievo Verona,Lazio,4-3-1-2,Davide Ballardini,8581,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964285
+3,sáb 12/09/2009,15:45,Lazio,Juventus,4-3-1-2,Davide Ballardini,62500,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964297
+4,dom 20/09/2009,10:00,Catania Calcio,Lazio,4-4-2 losango,Davide Ballardini,12150,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964310
+5,qua 23/09/2009,15:45,Lazio,Parma,4-3-1-2,Davide Ballardini,30000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964320
+6,dom 27/09/2009,10:00,Lazio,US Palermo,4-4-2 duplo 6,Davide Ballardini,31109,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964327
+7,dom 04/10/2009,10:00,Fiorentina,Lazio,4-4-2,Davide Ballardini,26436,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964342
+8,dom 18/10/2009,11:00,Lazio,Sampdoria,4-3-1-2,Davide Ballardini,33103,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964346
+9,dom 25/10/2009,12:00,Bari,Lazio,3-5-2,Davide Ballardini,20675,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964355
+10,qua 28/10/2009,17:45,Lazio,Cagliari,4-3-1-2,Davide Ballardini,30000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964369
+11,dom 01/11/2009,12:00,AC Siena,Lazio,4-3-1-2,Davide Ballardini,10060,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964379
+12,dom 08/11/2009,12:00,Lazio,Milan,4-4-2 losango,Davide Ballardini,38207,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964387
+13,dom 22/11/2009,12:00,Napoli,Lazio,3-4-2-1,Davide Ballardini,48524,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964399
+14,dom 29/11/2009,12:00,Lazio,Bologna,3-4-2-1,Davide Ballardini,30489,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964411
+15,dom 06/12/2009,17:30,Roma,Lazio,5-4-1 plano,Davide Ballardini,54273,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964418
+16,dom 13/12/2009,12:00,Lazio,Genoa,3-4-3 plano,Davide Ballardini,29489,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964426
+17,dom 20/12/2009,17:45,Inter,Lazio,3-4-2-1,Davide Ballardini,52859,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964437
+18,qua 06/01/2010,12:00,Lazio,AS Livorno,5-3-2,Davide Ballardini,30865,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964447
+19,dom 10/01/2010,12:00,Udinese,Lazio,5-4-1 plano,Davide Ballardini,15044,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964463
+20,dom 17/01/2010,12:00,Atalanta,Lazio,4-3-3 defensivo,Davide Ballardini,10260,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964464
+21,dom 24/01/2010,12:00,Lazio,Chievo Verona,4-3-1-2,Davide Ballardini,30308,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964479
+22,dom 31/01/2010,17:45,Juventus,Lazio,4-3-1-2,Davide Ballardini,20899,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964488
+23,dom 07/02/2010,12:00,Lazio,Catania Calcio,4-3-1-2,Davide Ballardini,32496,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964497
+24,dom 14/02/2010,12:00,Parma,Lazio,3-5-2,Edoardo Reja,15313,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964507
+25,dom 21/02/2010,11:00,US Palermo,Lazio,3-5-2,Edoardo Reja,23104,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964521
+26,sáb 27/02/2010,16:45,Lazio,Fiorentina,4-4-2 losango,Edoardo Reja,30708,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964528
+27,dom 07/03/2010,11:00,Sampdoria,Lazio,4-3-2-1,Edoardo Reja,23919,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964538
+28,dom 14/03/2010,11:00,Lazio,Bari,3-5-2 plano,Edoardo Reja,46942,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964546
+29,dom 21/03/2010,11:00,Cagliari,Lazio,3-5-2 plano,Edoardo Reja,12000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964556
+30,qua 24/03/2010,16:45,Lazio,AC Siena,5-3-2,Edoardo Reja,41234,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964570
+31,dom 28/03/2010,15:45,Milan,Lazio,5-3-2,Edoardo Reja,40393,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964578
+32,sáb 03/04/2010,10:00,Lazio,Napoli,3-5-2,Edoardo Reja,25000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964587
+33,dom 11/04/2010,10:00,Bologna,Lazio,3-4-2-1,Edoardo Reja,20952,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964594
+34,dom 18/04/2010,15:45,Lazio,Roma,3-5-2 plano,Edoardo Reja,61615,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964610
+35,dom 25/04/2010,10:00,Genoa,Lazio,3-5-2 plano,Edoardo Reja,26082,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964616
+36,dom 02/05/2010,15:45,Lazio,Inter,3-5-2,Edoardo Reja,50945,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964627
+37,dom 09/05/2010,10:00,AS Livorno,Lazio,3-5-2 plano,Edoardo Reja,9214,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964638
+38,sáb 15/05/2010,15:45,Lazio,Udinese,3-5-2 plano,Edoardo Reja,34455,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/964649

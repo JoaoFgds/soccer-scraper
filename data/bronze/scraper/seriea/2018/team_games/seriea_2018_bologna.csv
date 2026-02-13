@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 19/08/2018,15:30,Bologna,SPAL,3-5-2 plano,Filippo Inzaghi,21158,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080903
+2,dom 26/08/2018,15:30,Frosinone,Bologna,3-5-2 plano,Filippo Inzaghi,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080914
+3,sáb 01/09/2018,13:00,Bologna,Inter,3-5-2 plano,Filippo Inzaghi,26082,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080923
+4,dom 16/09/2018,10:00,Genoa,Bologna,3-1-4-2,Filippo Inzaghi,20032,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080935
+5,dom 23/09/2018,10:00,Bologna,Roma,3-5-2 plano,Filippo Inzaghi,20067,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080954
+6,qua 26/09/2018,16:00,Juventus,Bologna,3-5-2 plano,Filippo Inzaghi,39194,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080981
+7,dom 30/09/2018,07:30,Bologna,Udinese,3-5-2 plano,Filippo Inzaghi,19039,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3080986
+8,sáb 06/10/2018,10:00,Cagliari,Bologna,3-1-4-2,Filippo Inzaghi,15019,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081033
+9,dom 21/10/2018,10:00,Bologna,Torino,3-4-1-2,Filippo Inzaghi,23245,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081042
+10,dom 28/10/2018,08:30,Sassuolo,Bologna,4-3-3 ofensivo,Filippo Inzaghi,12647,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081059
+11,dom 04/11/2018,15:00,Bologna,Atalanta,3-5-2 plano,Filippo Inzaghi,19038,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081131
+12,dom 11/11/2018,12:00,Chievo Verona,Bologna,3-1-4-2,Filippo Inzaghi,7000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081142
+13,dom 25/11/2018,12:00,Bologna,Fiorentina,4-3-3 ofensivo,Filippo Inzaghi,21241,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081151
+14,sáb 01/12/2018,17:30,Sampdoria,Bologna,3-5-2 plano,Filippo Inzaghi,17859,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081168
+15,dom 09/12/2018,12:00,Empoli,Bologna,3-5-2 plano,Filippo Inzaghi,8379,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081173
+16,ter 18/12/2018,17:30,Bologna,Milan,3-5-2 plano,Filippo Inzaghi,22214,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081183
+17,sáb 22/12/2018,15:00,Parma,Bologna,3-5-2 plano,Filippo Inzaghi,15058,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081199
+18,qua 26/12/2018,12:00,Bologna,Lazio,3-5-2 plano,Filippo Inzaghi,19230,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081203
+19,sáb 29/12/2018,15:00,Napoli,Bologna,3-5-2 plano,Filippo Inzaghi,46585,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081218
+20,dom 20/01/2019,12:00,SPAL,Bologna,4-3-3 ofensivo,Filippo Inzaghi,14524,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081223
+21,dom 27/01/2019,12:00,Bologna,Frosinone,4-3-3 ofensivo,Filippo Inzaghi,16076,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081234
+22,dom 03/02/2019,15:00,Inter,Bologna,4-2-3-1,Siniša Mihajlović,51566,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081243
+23,dom 10/02/2019,09:30,Bologna,Genoa,4-3-3 ofensivo,Siniša Mihajlović,17385,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081255
+24,seg 18/02/2019,16:30,Roma,Bologna,4-2-3-1,Siniša Mihajlović,31572,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081262
+25,dom 24/02/2019,11:00,Bologna,Juventus,4-3-3 ofensivo,Siniša Mihajlović,28934,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081277
+26,dom 03/03/2019,11:00,Udinese,Bologna,4-2-3-1,Siniša Mihajlović,18349,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081282
+27,dom 10/03/2019,08:30,Bologna,Cagliari,4-3-3 ofensivo,Siniša Mihajlović,20557,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081293
+28,sáb 16/03/2019,16:30,Torino,Bologna,4-3-3 ofensivo,Siniša Mihajlović,24863,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081302
+29,dom 31/03/2019,13:00,Bologna,Sassuolo,4-3-3 ofensivo,Siniša Mihajlović,23551,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081319
+30,qui 04/04/2019,16:00,Atalanta,Bologna,4-3-3 ofensivo,Siniša Mihajlović,18441,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081322
+31,seg 08/04/2019,15:30,Bologna,Chievo Verona,4-2-3-1,Siniša Mihajlović,19107,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081333
+32,dom 14/04/2019,10:00,Fiorentina,Bologna,4-5-1 plano,Siniša Mihajlović,29394,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081342
+33,sáb 20/04/2019,10:00,Bologna,Sampdoria,4-5-1 plano,Siniša Mihajlović,21391,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081358
+34,sáb 27/04/2019,10:00,Bologna,Empoli,4-2-3-1,Siniša Mihajlović,25189,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081363
+35,seg 06/05/2019,15:30,Milan,Bologna,4-2-3-1,Siniša Mihajlović,51472,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081373
+36,seg 13/05/2019,14:00,Bologna,Parma,4-2-3-1,Siniša Mihajlović,20656,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081389
+37,seg 20/05/2019,15:30,Lazio,Bologna,4-2-3-1,Siniša Mihajlović,25000,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081393
+38,sáb 25/05/2019,15:30,Bologna,Napoli,4-2-3-1,Siniša Mihajlović,19351,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3081408

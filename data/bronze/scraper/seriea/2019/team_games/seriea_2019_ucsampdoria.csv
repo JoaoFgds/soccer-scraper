@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 25/08/2019,15:45,Sampdoria,Lazio,4-3-3 ofensivo,Eusebio Di Francesco,19500,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229172
+2,dom 01/09/2019,15:45,Sassuolo,Sampdoria,4-3-3 ofensivo,Eusebio Di Francesco,9608,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229184
+3,sáb 14/09/2019,13:00,Napoli,Sampdoria,5-3-2,Eusebio Di Francesco,32679,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229191
+4,dom 22/09/2019,10:00,Sampdoria,Torino,3-4-2-1,Eusebio Di Francesco,19041,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229203
+5,qua 25/09/2019,16:00,Fiorentina,Sampdoria,3-4-1-2,Eusebio Di Francesco,33649,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229207
+6,sáb 28/09/2019,13:00,Sampdoria,Inter,3-5-2 plano,Eusebio Di Francesco,23694,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229223
+7,sáb 05/10/2019,13:00,Verona,Sampdoria,3-5-2 plano,Eusebio Di Francesco,17787,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229231
+8,dom 20/10/2019,10:00,Sampdoria,Roma,4-4-2,Claudio Ranieri,20211,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229243
+9,dom 27/10/2019,08:30,Bologna,Sampdoria,4-4-2,Claudio Ranieri,24099,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229247
+10,qua 30/10/2019,17:00,Sampdoria,Lecce,4-3-1-2,Claudio Ranieri,18685,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229263
+11,seg 04/11/2019,16:45,SPAL,Sampdoria,4-4-2 duplo 6,Claudio Ranieri,11617,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229274
+12,dom 10/11/2019,11:00,Sampdoria,Atalanta,4-4-2 duplo 6,Claudio Ranieri,19799,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229283
+13,dom 24/11/2019,14:00,Sampdoria,Udinese,4-4-2,Claudio Ranieri,17031,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229292
+14,seg 02/12/2019,16:45,Cagliari,Sampdoria,4-3-1-2,Claudio Ranieri,15658,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229297
+15,dom 08/12/2019,14:00,Sampdoria,Parma,4-3-1-2,Claudio Ranieri,19516,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229311
+16,sáb 14/12/2019,16:45,Genoa,Sampdoria,4-4-1-1,Claudio Ranieri,30658,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229320
+17,qua 18/12/2019,14:55,Sampdoria,Juventus,4-4-2 duplo 6,Claudio Ranieri,23136,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229332
+18,seg 06/01/2020,11:00,Milan,Sampdoria,4-4-2,Claudio Ranieri,58572,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229342
+19,dom 12/01/2020,11:00,Sampdoria,Brescia,4-4-2,Claudio Ranieri,20837,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229353
+20,sáb 18/01/2020,11:00,Lazio,Sampdoria,4-4-2,Claudio Ranieri,40000,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229362
+21,dom 26/01/2020,11:00,Sampdoria,Sassuolo,4-4-2,Claudio Ranieri,19260,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229374
+22,seg 03/02/2020,16:45,Sampdoria,Napoli,4-4-2,Claudio Ranieri,20017,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229381
+23,sáb 08/02/2020,14:00,Torino,Sampdoria,4-3-1-2,Claudio Ranieri,20664,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229393
+24,dom 16/02/2020,11:00,Sampdoria,Fiorentina,4-3-1-2,Claudio Ranieri,20284,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229397
+25,dom 21/06/2020,16:45,Inter,Sampdoria,3-5-2 plano,Claudio Ranieri,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229413
+26,dom 08/03/2020,11:00,Sampdoria,Verona,4-4-2,Claudio Ranieri,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229421
+27,qua 24/06/2020,16:45,Roma,Sampdoria,4-5-1 plano,Claudio Ranieri,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229433
+28,dom 28/06/2020,14:30,Sampdoria,Bologna,4-4-2,Claudio Ranieri,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229437
+29,qua 01/07/2020,16:45,Lecce,Sampdoria,4-4-1-1,Claudio Ranieri,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229453
+30,dom 05/07/2020,14:30,Sampdoria,SPAL,4-4-1-1,Claudio Ranieri,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229464
+31,qua 08/07/2020,16:45,Atalanta,Sampdoria,4-5-1 plano,Claudio Ranieri,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229473
+32,dom 12/07/2020,14:30,Udinese,Sampdoria,4-4-1-1,Claudio Ranieri,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229482
+33,qua 15/07/2020,14:30,Sampdoria,Cagliari,4-4-2 duplo 6,Claudio Ranieri,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229487
+34,dom 19/07/2020,12:15,Parma,Sampdoria,4-4-1-1,Claudio Ranieri,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229501
+35,qua 22/07/2020,16:45,Sampdoria,Genoa,4-4-2,Claudio Ranieri,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229510
+36,dom 26/07/2020,16:45,Juventus,Sampdoria,4-4-1-1,Claudio Ranieri,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229522
+37,qua 29/07/2020,14:30,Sampdoria,Milan,4-4-1-1,Claudio Ranieri,x,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229532
+38,sáb 01/08/2020,13:00,Brescia,Sampdoria,4-4-2 duplo 6,Claudio Ranieri,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3229543

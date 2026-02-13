@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 26/09/2020,09:00,Brescia,Ascoli,4-3-3 ofensivo,Valerio Bertotto,1000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442539
+2,sáb 03/10/2020,11:15,Ascoli,Lecce,4-3-3 ofensivo,Valerio Bertotto,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442549
+3,sáb 17/10/2020,13:00,Frosinone,Ascoli,4-3-3 ofensivo,Valerio Bertotto,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442562
+4,ter 20/10/2020,16:00,Ascoli,Reggiana,4-2-3-1,Valerio Bertotto,1000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442569
+5,sáb 24/10/2020,09:00,Salernitana,Ascoli,4-2-3-1,Valerio Bertotto,500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442586
+6,sáb 31/10/2020,12:00,Ascoli,Pordenone,4-1-4-1,Valerio Bertotto,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442589
+7,ter 08/12/2020,13:00,AC Pisa 1909,Ascoli,4-3-3 ofensivo,Delio Rossi,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442604
+8,dom 22/11/2020,11:00,Ascoli,Virtus Entella,4-2-3-1,Valerio Bertotto,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442609
+9,sáb 28/11/2020,10:00,Venezia,Ascoli,4-4-1-1,Valerio Bertotto,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442627
+10,sex 04/12/2020,17:00,Ascoli,Pescara,4-4-1-1,Delio Rossi,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442629
+11,sáb 12/12/2020,10:00,Cremonese,Ascoli,4-3-3 ofensivo,Delio Rossi,x,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442643
+12,ter 15/12/2020,17:00,Ascoli,Cosenza,4-3-3 ofensivo,Delio Rossi,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442649
+13,sáb 19/12/2020,10:00,LR Vicenza,Ascoli,4-1-4-1,Delio Rossi,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442663
+14,ter 22/12/2020,15:00,Monza,Ascoli,4-3-3 ofensivo,Delio Rossi,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442673
+15,dom 27/12/2020,11:00,Ascoli,SPAL,4-3-1-2,Andrea Sottil,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442679
+16,qua 30/12/2020,14:00,Empoli,Ascoli,4-3-1-2,Andrea Sottil,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442691
+17,seg 04/01/2021,13:00,Ascoli,Reggina,4-3-1-2,Andrea Sottil,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442699
+18,sáb 16/01/2021,10:00,Cittadella,Ascoli,4-3-1-2,Andrea Sottil,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442710
+19,sáb 23/01/2021,10:00,Ascoli,Chievo Verona,4-3-1-2,Andrea Sottil,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442719
+20,sáb 30/01/2021,10:00,Ascoli,Brescia,4-3-1-2,Andrea Sottil,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442729
+21,sex 05/02/2021,17:00,Lecce,Ascoli,4-3-1-2,Andrea Sottil,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442739
+22,ter 09/02/2021,17:00,Ascoli,Frosinone,4-3-1-2,Andrea Sottil,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442752
+23,dom 14/02/2021,13:00,Reggiana,Ascoli,4-3-1-2,Andrea Sottil,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442759
+24,sáb 20/02/2021,10:00,Ascoli,Salernitana,4-3-1-2,Andrea Sottil,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442776
+25,sáb 27/02/2021,10:00,Pordenone,Ascoli,4-3-1-2,Andrea Sottil,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442779
+26,ter 02/03/2021,15:00,Ascoli,AC Pisa 1909,4-3-1-2,Andrea Sottil,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442794
+27,sáb 06/03/2021,10:00,Virtus Entella,Ascoli,4-3-1-2,Andrea Sottil,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442799
+28,sáb 13/03/2021,10:00,Ascoli,Venezia,4-2-3-1,Andrea Sottil,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442817
+29,ter 16/03/2021,17:00,Pescara,Ascoli,4-3-1-2,Andrea Sottil,x,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442819
+30,sex 19/03/2021,17:00,Ascoli,Cremonese,4-3-1-2,Andrea Sottil,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442833
+31,sex 02/04/2021,10:00,Cosenza,Ascoli,4-3-1-2,Andrea Sottil,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442839
+32,seg 05/04/2021,10:00,Ascoli,LR Vicenza,4-3-1-2,Andrea Sottil,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442853
+33,sáb 10/04/2021,09:00,Ascoli,Monza,4-3-1-2,Andrea Sottil,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442863
+34,sex 16/04/2021,16:00,SPAL,Ascoli,4-3-1-2,Andrea Sottil,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442869
+35,sáb 01/05/2021,09:00,Ascoli,Empoli,4-3-1-2,Andrea Sottil,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442881
+36,ter 04/05/2021,09:00,Reggina,Ascoli,4-3-1-2,Andrea Sottil,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442889
+37,sex 07/05/2021,09:00,Ascoli,Cittadella,4-3-1-2,Andrea Sottil,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442900
+38,seg 10/05/2021,09:00,Chievo Verona,Ascoli,4-3-1-2,Andrea Sottil,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3442909

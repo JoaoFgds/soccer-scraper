@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 11/08/2018,15:45,Fenerbahce,Bursaspor,4-2-3-1,Phillip Cocu,38163,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069367
+2,sáb 18/08/2018,15:45,Y. Malatyaspor,Fenerbahce,4-2-3-1,Phillip Cocu,14440,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069724
+3,sáb 25/08/2018,15:45,Göztepe,Fenerbahce,4-2-3-1,Phillip Cocu,,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069725
+4,sáb 01/09/2018,13:15,Fenerbahce,Kayserispor,4-1-4-1,Phillip Cocu,35147,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069736
+5,dom 16/09/2018,14:00,Konyaspor,Fenerbahce,4-2-3-1,Phillip Cocu,,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069751
+6,seg 24/09/2018,15:00,Fenerbahce,Besiktas,4-2-3-1,Phillip Cocu,43791,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069759
+7,dom 30/09/2018,13:00,C. Rizespor,Fenerbahce,4-2-3-1,Phillip Cocu,9690,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069762
+8,dom 07/10/2018,12:00,Fenerbahce,Basaksehir,4-4-2 duplo 6,Phillip Cocu,35739,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069772
+9,sáb 20/10/2018,13:00,Sivasspor,Fenerbahce,4-4-2 duplo 6,Phillip Cocu,,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069783
+10,dom 28/10/2018,14:30,Fenerbahce,Ankaragücü,3-4-1-2,Phillip Cocu,33524,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069796
+11,sex 02/11/2018,15:00,Galatasaray,Fenerbahce,4-2-3-1,Erwin Koeman,49392,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069805
+12,dom 11/11/2018,13:00,Fenerbahce,Alanyaspor,4-4-2 duplo 6,Erwin Koeman,31303,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069814
+13,dom 25/11/2018,14:00,Trabzonspor,Fenerbahce,4-4-2 duplo 6,Erwin Koeman,36934,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069816
+14,seg 03/12/2018,15:00,Fenerbahce,Kasimpasa,4-2-3-1,Erwin Koeman,30382,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069832
+15,dom 09/12/2018,14:00,Akhisarspor,Fenerbahce,4-2-3-1,Erwin Koeman,,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069834
+16,seg 17/12/2018,15:00,Fenerbahce,BB Erzurumspor,4-2-3-1,Ersun Yanal,38396,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069850
+17,seg 24/12/2018,15:00,Antalyaspor,Fenerbahce,4-1-4-1,Ersun Yanal,18401,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069854
+18,seg 21/01/2019,15:00,Bursaspor,Fenerbahce,4-2-3-1,Ersun Yanal,29610,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069867
+19,seg 28/01/2019,15:00,Fenerbahce,Y. Malatyaspor,4-2-3-1,Ersun Yanal,32230,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069877
+20,sex 01/02/2019,15:30,Fenerbahce,Göztepe,4-2-3-1,Ersun Yanal,37890,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069878
+21,sex 08/02/2019,15:30,Kayserispor,Fenerbahce,4-2-3-1,Ersun Yanal,16408,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069889
+22,sáb 16/02/2019,14:00,Fenerbahce,Konyaspor,4-2-3-1,Ersun Yanal,39260,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069904
+23,seg 25/02/2019,15:00,Besiktas,Fenerbahce,4-2-3-1,Ersun Yanal,39186,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069912
+24,sáb 02/03/2019,13:00,Fenerbahce,C. Rizespor,4-2-3-1,Ersun Yanal,37435,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069915
+25,sáb 09/03/2019,13:00,Basaksehir,Fenerbahce,4-2-3-1,Ersun Yanal,9345,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069925
+26,sex 15/03/2019,14:30,Fenerbahce,Sivasspor,4-2-3-1,Ersun Yanal,32500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069936
+27,dom 07/04/2019,10:00,Ankaragücü,Fenerbahce,4-2-3-1,Ersun Yanal,18818,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069949
+28,dom 14/04/2019,13:00,Fenerbahce,Galatasaray,4-2-3-1,Ersun Yanal,44619,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069958
+29,dom 21/04/2019,13:00,Alanyaspor,Fenerbahce,4-2-3-1,Ersun Yanal,6992,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069967
+30,sáb 27/04/2019,13:00,Fenerbahce,Trabzonspor,4-2-3-1,Ersun Yanal,39028,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069969
+31,sáb 04/05/2019,13:00,Kasimpasa,Fenerbahce,4-2-3-1,Ersun Yanal,5416,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069985
+32,sáb 11/05/2019,13:00,Fenerbahce,Akhisarspor,4-2-3-1,Ersun Yanal,23368,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3069987
+33,seg 20/05/2019,14:00,BB Erzurumspor,Fenerbahce,4-2-3-1,Ersun Yanal,14734,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070003
+34,dom 26/05/2019,13:00,Fenerbahce,Antalyaspor,4-1-4-1,Ersun Yanal,,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3070007

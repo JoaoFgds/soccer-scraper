@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 31/08/2003,15:30,Bologna,AC Parma,4-2-3-1,Cesare Prandelli,21414,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/509
+2,dom 14/09/2003,10:00,AC Parma,Perugia,4-2-3-1,Cesare Prandelli,13500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/714
+3,dom 21/09/2003,10:00,Lazio,AC Parma,4-2-3-1,Cesare Prandelli,45000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/913
+4,dom 28/09/2003,10:00,AC Parma,AC Siena,4-4-2 duplo 6,Cesare Prandelli,15408,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1114
+5,dom 05/10/2003,10:00,AC Parma,Sampdoria,4-2-3-1,Cesare Prandelli,18000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1313
+6,dom 19/10/2003,11:00,Roma,AC Parma,4-2-3-1,Cesare Prandelli,60000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1513
+7,dom 26/10/2003,12:00,AC Parma,Modena,4-2-3-1,Cesare Prandelli,25000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1711
+8,dom 02/11/2003,12:00,Brescia,AC Parma,4-2-3-1,Cesare Prandelli,12724,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1909
+9,dom 09/11/2003,12:00,AC Parma,Milan,4-3-2-1,Cesare Prandelli,30000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2108
+10,dom 23/11/2003,12:00,Empoli,AC Parma,4-3-3 ofensivo,Cesare Prandelli,4500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2310
+11,dom 30/11/2003,12:00,AC Parma,Chievo Verona,4-2-3-1,Cesare Prandelli,12000,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2506
+12,dom 07/12/2003,12:00,Lecce,AC Parma,4-2-3-1,Cesare Prandelli,10633,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2705
+13,dom 14/12/2003,12:00,Juventus,AC Parma,4-2-3-1,Cesare Prandelli,31768,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2906
+14,sáb 20/12/2003,15:00,AC Parma,Reggina,4-2-3-1,Cesare Prandelli,17000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3101
+15,ter 06/01/2004,12:00,Ancona,AC Parma,4-2-3-1,Cesare Prandelli,10433,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3302
+16,sáb 10/01/2004,17:30,AC Parma,Inter,4-4-1-1,Cesare Prandelli,22302,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3496
+17,sáb 17/01/2004,17:30,Udinese,AC Parma,4-2-3-1,Cesare Prandelli,12000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3686
+18,dom 25/01/2004,12:00,AC Parma,Bologna,4-2-3-1,Cesare Prandelli,14251,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3855
+19,dom 01/02/2004,12:00,Perugia,AC Parma,4-2-3-1,Cesare Prandelli,8835,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4036
+20,dom 08/02/2004,12:00,AC Parma,Lazio,4-2-3-1,Cesare Prandelli,18000,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4222
+21,dom 15/02/2004,11:00,AC Siena,AC Parma,4-3-2-1,Cesare Prandelli,9941,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4413
+22,sáb 21/02/2004,14:00,Sampdoria,AC Parma,4-2-3-1,Cesare Prandelli,23436,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4567
+23,dom 29/02/2004,11:00,AC Parma,Roma,4-3-2-1,Cesare Prandelli,16000,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4779
+24,sáb 06/03/2004,14:00,Modena,AC Parma,4-2-3-1,Cesare Prandelli,14247,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4976
+25,dom 14/03/2004,11:00,AC Parma,Brescia,4-2-3-1,Cesare Prandelli,13992,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5188
+26,sáb 20/03/2004,16:30,Milan,AC Parma,4-2-3-1,Cesare Prandelli,63433,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5379
+27,dom 28/03/2004,10:00,AC Parma,Empoli,4-2-3-1,Cesare Prandelli,12995,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5607
+28,dom 04/04/2004,10:00,Chievo Verona,AC Parma,4-1-4-1,Cesare Prandelli,11047,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5828
+29,sáb 10/04/2004,10:00,AC Parma,Lecce,4-2-3-1,Cesare Prandelli,13095,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6003
+30,dom 18/04/2004,10:00,AC Parma,Juventus,4-2-3-1,Cesare Prandelli,26678,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6225
+31,dom 25/04/2004,10:00,Reggina,AC Parma,4-2-3-1,Cesare Prandelli,19165,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6434
+32,dom 02/05/2004,10:00,AC Parma,Ancona,4-2-3-1,Cesare Prandelli,11500,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6642
+33,dom 09/05/2004,10:00,Inter,AC Parma,4-2-3-1,Cesare Prandelli,75000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6849
+34,dom 16/05/2004,10:00,AC Parma,Udinese,4-2-3-1,Cesare Prandelli,27000,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7061

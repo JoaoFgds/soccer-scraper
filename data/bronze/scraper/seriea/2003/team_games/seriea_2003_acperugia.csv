@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 31/08/2003,10:00,Perugia,AC Siena,3-5-2 plano,Serse Cosmi,9862,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/507
+2,dom 14/09/2003,10:00,AC Parma,Perugia,3-5-2 plano,Serse Cosmi,13500,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/714
+3,dom 21/09/2003,10:00,Perugia,Milan,3-5-2 plano,Serse Cosmi,18000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/915
+4,dom 28/09/2003,10:00,Chievo Verona,Perugia,3-5-2 plano,Serse Cosmi,10031,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1111
+5,dom 05/10/2003,13:00,Perugia,Reggina,3-5-2 plano,Serse Cosmi,8000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1315
+6,dom 19/10/2003,11:00,Bologna,Perugia,3-5-2 plano,Serse Cosmi,17000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1509
+7,dom 26/10/2003,12:00,Perugia,Udinese,3-5-2 plano,Serse Cosmi,9000,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1712
+8,dom 02/11/2003,12:00,Modena,Perugia,4-4-2,Serse Cosmi,13706,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1912
+9,dom 09/11/2003,12:00,Perugia,Lecce,3-5-2 plano,Serse Cosmi,10000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2109
+10,dom 23/11/2003,12:00,Lazio,Perugia,3-5-2 plano,Serse Cosmi,44937,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2311
+11,dom 30/11/2003,12:00,Perugia,Empoli,3-5-2 plano,Serse Cosmi,6098,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2509
+12,dom 07/12/2003,12:00,Inter,Perugia,3-5-2 plano,Serse Cosmi,50000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2704
+13,sáb 13/12/2003,17:30,Perugia,Sampdoria,3-4-1-2,Serse Cosmi,23060,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2902
+14,dom 21/12/2003,12:00,Perugia,Brescia,3-5-2 plano,Serse Cosmi,8138,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3108
+15,ter 06/01/2004,12:00,Juventus,Perugia,3-5-2 plano,Serse Cosmi,42000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3304
+16,dom 11/01/2004,12:00,Perugia,Roma,3-5-2,Serse Cosmi,22000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3499
+17,dom 18/01/2004,12:00,Ancona,Perugia,3-5-2 plano,Serse Cosmi,11294,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3691
+18,sáb 24/01/2004,15:00,AC Siena,Perugia,3-5-2 plano,Serse Cosmi,10679,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3843
+19,dom 01/02/2004,12:00,Perugia,AC Parma,3-5-2,Serse Cosmi,8835,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4036
+20,dom 08/02/2004,12:00,Milan,Perugia,3-4-1-2,Serse Cosmi,60000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4224
+21,sáb 14/02/2004,17:30,Perugia,Chievo Verona,3-5-2 plano,Serse Cosmi,8881,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393
+22,dom 22/02/2004,11:00,Reggina,Perugia,4-5-1,Serse Cosmi,18875,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4581
+23,dom 29/02/2004,11:00,Perugia,Bologna,4-4-2 duplo 6,Serse Cosmi,7292,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4781
+24,dom 07/03/2004,11:00,Udinese,Perugia,4-4-2 duplo 6,Serse Cosmi,15043,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4992
+25,dom 14/03/2004,11:00,Perugia,Modena,4-4-2,Serse Cosmi,9356,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5190
+26,dom 21/03/2004,11:00,Lecce,Perugia,4-4-1-1,Serse Cosmi,14381,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5396
+27,dom 28/03/2004,10:00,Perugia,Lazio,4-4-2,Serse Cosmi,9096,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5609
+28,dom 04/04/2004,10:00,Empoli,Perugia,4-4-2,Serse Cosmi,6098,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/5829
+29,dom 11/04/2004,10:00,Perugia,Inter,4-4-1-1,Serse Cosmi,13000,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6019
+30,dom 18/04/2004,10:00,Sampdoria,Perugia,4-4-1-1,Serse Cosmi,23060,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6220
+31,dom 25/04/2004,10:00,Brescia,Perugia,4-4-2,Serse Cosmi,11568,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6435
+32,dom 02/05/2004,10:00,Perugia,Juventus,4-4-2,Serse Cosmi,15000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6646
+33,dom 09/05/2004,10:00,Roma,Perugia,4-4-2,Serse Cosmi,5000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/6850
+34,dom 16/05/2004,10:00,Perugia,Ancona,3-5-2 plano,Serse Cosmi,16000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/7053

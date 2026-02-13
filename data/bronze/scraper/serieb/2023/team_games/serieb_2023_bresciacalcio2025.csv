@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,ter 24/10/2023,13:30,Brescia,Modena,3-5-2 plano,Daniele Gastaldello,2309,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169938
+2,qua 08/11/2023,14:30,Palermo,Brescia,3-5-2 plano,Daniele Gastaldello,16914,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169957
+3,ter 28/11/2023,14:30,Südtirol,Brescia,3-4-2-1,Rolando Maran,2789,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169958
+4,dom 03/09/2023,11:15,Brescia,Cosenza,4-3-1-2,Daniele Gastaldello,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169939
+5,sáb 16/09/2023,09:00,Calcio Lecco 19,Brescia,3-5-2 plano,Daniele Gastaldello,3587,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169959
+6,sáb 23/09/2023,09:00,Brescia,Venezia,3-4-1-2,Daniele Gastaldello,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169940
+7,ter 26/09/2023,15:30,Spezia Calcio,Brescia,3-4-1-2,Daniele Gastaldello,994,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169960
+8,sáb 30/09/2023,09:00,Brescia,Ascoli,3-4-1-2,Daniele Gastaldello,4971,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169941
+9,sex 06/10/2023,15:30,Brescia,Feralpisalò,3-5-2 plano,Daniele Gastaldello,12042,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169942
+10,sáb 21/10/2023,09:00,Ternana,Brescia,3-5-2 plano,Daniele Gastaldello,4575,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169961
+11,dom 29/10/2023,12:15,Brescia,Bari,4-3-1-2,Daniele Gastaldello,5796,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169943
+12,sáb 04/11/2023,10:00,Cittadella,Brescia,4-3-1-2,Daniele Gastaldello,3317,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169962
+13,dom 12/11/2023,12:15,Brescia,Cremonese,4-3-1-2,Luca Belingheri,6949,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169944
+14,sáb 25/11/2023,12:15,Pisa,Brescia,3-4-2-1,Rolando Maran,6647,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169963
+15,dom 03/12/2023,12:15,Brescia,Sampdoria,3-5-2 plano,Rolando Maran,6346,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169945
+16,dom 10/12/2023,12:15,Reggiana,Brescia,3-4-2-1,Rolando Maran,8793,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169964
+17,sáb 16/12/2023,10:00,Brescia,Como,3-4-2-1,Rolando Maran,4640,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169946
+18,sáb 23/12/2023,11:00,Catanzaro,Brescia,3-4-2-1,Rolando Maran,12141,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169965
+19,ter 26/12/2023,11:00,Brescia,Parma,3-4-3 plano,Rolando Maran,8604,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169947
+20,sáb 13/01/2024,10:00,Modena,Brescia,3-4-2-1,Rolando Maran,8663,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169966
+21,sáb 20/01/2024,10:00,Brescia,Südtirol,3-4-2-1,Rolando Maran,5404,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169948
+22,sáb 27/01/2024,10:00,Cremonese,Brescia,4-3-2-1,Rolando Maran,10494,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169967
+23,sáb 03/02/2024,10:00,Brescia,Cittadella,4-3-1-2,Rolando Maran,4337,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169949
+24,sex 09/02/2024,16:30,Como,Brescia,4-3-2-1,Rolando Maran,5387,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169968
+25,sáb 17/02/2024,12:15,Sampdoria,Brescia,4-3-1-2,Rolando Maran,21368,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169969
+26,sáb 24/02/2024,10:00,Brescia,Reggiana,4-3-2-1,Rolando Maran,4605,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169950
+27,ter 27/02/2024,14:15,Ascoli,Brescia,4-3-1-2,Rolando Maran,6020,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169970
+28,sáb 02/03/2024,10:00,Brescia,Palermo,4-3-1-2,Rolando Maran,5317,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169951
+29,sex 08/03/2024,16:30,Parma,Brescia,4-3-2-1,Rolando Maran,13350,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169971
+30,sáb 16/03/2024,10:00,Brescia,Catanzaro,4-3-2-1,Rolando Maran,7785,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169952
+31,seg 01/04/2024,10:00,Cosenza,Brescia,4-3-1-2,Rolando Maran,3760,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169972
+32,sáb 06/04/2024,09:00,Brescia,Pisa,4-3-2-1,Rolando Maran,5415,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169953
+33,dom 14/04/2024,11:15,Venezia,Brescia,4-3-2-1,Rolando Maran,9508,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169973
+34,sáb 20/04/2024,09:00,Brescia,Ternana,4-3-2-1,Rolando Maran,5328,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169954
+35,sáb 27/04/2024,09:00,Brescia,Spezia Calcio,4-3-2-1,Rolando Maran,5321,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169955
+36,qua 01/05/2024,13:00,Feralpisalò,Brescia,3-5-2 plano,Rolando Maran,4509,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169974
+37,dom 05/05/2024,10:00,Brescia,Calcio Lecco 19,4-3-2-1,Rolando Maran,6859,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169956
+38,sex 10/05/2024,15:30,Bari,Brescia,4-3-2-1,Rolando Maran,21732,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4169975

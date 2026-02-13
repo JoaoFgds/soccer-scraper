@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 28/08/2016,12:30,Novara Calcio,Trapani,3-5-2,Serse Cosmi,4172,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2736988
+2,dom 04/09/2016,15:30,Trapani,Pro Vercelli,3-5-2,Serse Cosmi,5565,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737003
+3,sáb 10/09/2016,10:00,Avellino,Trapani,3-5-2,Serse Cosmi,6500,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737006
+4,sáb 17/09/2016,10:00,Trapani,Ascoli Picchio,3-5-2,Serse Cosmi,4599,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737025
+5,ter 20/09/2016,15:30,Trapani,Spezia Calcio,3-5-2 plano,Serse Cosmi,5181,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737036
+6,sáb 24/09/2016,10:00,US Salernitana,Trapani,3-5-2 plano,Serse Cosmi,9943,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737045
+7,sáb 01/10/2016,10:00,Trapani,Cittadella,3-5-2 plano,Serse Cosmi,4598,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737058
+8,dom 09/10/2016,10:00,Latina Calcio,Trapani,3-5-2 plano,Serse Cosmi,2233,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737062
+9,seg 17/10/2016,16:30,Trapani,Ternana,3-5-2,Serse Cosmi,5170,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737080
+10,sáb 22/10/2016,11:00,Bari,Trapani,4-2-3-1,Serse Cosmi,13872,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737082
+11,ter 25/10/2016,16:30,Trapani,Benevento,3-5-2 plano,Serse Cosmi,5012,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737103
+12,dom 30/10/2016,12:00,Verona,Trapani,3-5-2 plano,Serse Cosmi,14567,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737112
+13,sáb 05/11/2016,12:00,Trapani,Vicenza,3-5-2 plano,Serse Cosmi,4671,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737125
+14,dom 13/11/2016,12:00,Perugia,Trapani,3-5-2 plano,Serse Cosmi,9696,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737131
+15,seg 21/11/2016,17:30,Trapani,SPAL,3-5-2 plano,Serse Cosmi,5356,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737147
+16,sáb 26/11/2016,12:00,AC Pisa 1909,Trapani,3-5-2 plano,Serse Cosmi,6500,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737153
+17,sex 02/12/2016,17:30,Trapani,Carpi,3-5-2 plano,Valeriano Recchi,4921,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737168
+18,sáb 10/12/2016,12:00,Virtus Entella,Trapani,4-3-1-2,Alessandro Calori,1717,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737180
+19,sex 16/12/2016,17:30,Trapani,Frosinone,4-3-1-2,Alessandro Calori,4834,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737190
+20,sáb 24/12/2016,12:00,Cesena,Trapani,3-5-2 plano,Alessandro Calori,11531,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737196
+21,sex 30/12/2016,17:30,Trapani,Brescia,3-4-2-1,Alessandro Calori,4695,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737212
+22,sáb 21/01/2017,12:00,Trapani,Novara Calcio,4-4-2,Alessandro Calori,4322,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737219
+23,sáb 28/01/2017,12:00,Pro Vercelli,Trapani,4-3-1-2,Alessandro Calori,2498,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737234
+24,seg 06/02/2017,17:30,Trapani,Avellino,4-4-2,Alessandro Calori,4734,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737237
+25,sáb 11/02/2017,12:00,Ascoli Picchio,Trapani,3-5-2 plano,Alessandro Calori,4911,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737256
+26,sáb 18/02/2017,12:00,Spezia Calcio,Trapani,4-3-1-2,Alessandro Calori,6930,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737267
+27,sáb 25/02/2017,11:00,Trapani,US Salernitana,4-3-3 ofensivo,Alessandro Calori,4814,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737276
+28,ter 28/02/2017,16:30,Cittadella,Trapani,4-3-1-2,Alessandro Calori,2339,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737289
+29,sáb 04/03/2017,11:00,Trapani,Latina Calcio,4-3-1-2,Alessandro Calori,4656,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737293
+30,dom 12/03/2017,11:00,Ternana,Trapani,4-3-1-2,Alessandro Calori,2263,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737311
+31,sáb 18/03/2017,11:00,Trapani,Bari,4-3-1-2,Alessandro Calori,4885,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737313
+32,sáb 25/03/2017,16:30,Benevento,Trapani,4-3-1-2,Alessandro Calori,7671,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737334
+33,sáb 01/04/2017,10:00,Trapani,Verona,4-3-1-2,Alessandro Calori,6345,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737343
+34,ter 04/04/2017,15:30,Vicenza,Trapani,4-3-1-2,Alessandro Calori,7388,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737356
+35,sáb 08/04/2017,10:00,Trapani,Perugia,4-3-1-2,Alessandro Calori,5201,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737362
+36,seg 17/04/2017,07:30,SPAL,Trapani,4-3-2-1,Alessandro Calori,7326,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737378
+37,sáb 22/04/2017,10:00,Trapani,AC Pisa 1909,4-3-3 ofensivo,Alessandro Calori,5450,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737384
+38,ter 25/04/2017,15:30,Carpi,Trapani,4-3-3 ofensivo,Alessandro Calori,2166,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737399
+39,sáb 29/04/2017,10:00,Trapani,Virtus Entella,4-3-3 ofensivo,Alessandro Calori,4911,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737411
+40,sáb 06/05/2017,10:00,Frosinone,Trapani,4-3-2-1,Alessandro Calori,5751,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737421
+41,sáb 13/05/2017,13:00,Trapani,Cesena,4-3-3 ofensivo,Alessandro Calori,6295,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737427
+42,qui 18/05/2017,15:30,Brescia,Trapani,4-3-1-2,Alessandro Calori,14358,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2737443

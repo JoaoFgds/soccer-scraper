@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qua 21/12/2011,17:45,Bologna,Roma,4-3-2-1,Stefano Pioli,17855,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133586
+2,dom 11/09/2011,10:00,Fiorentina,Bologna,4-3-2-1,Pierpaolo Bisoli,20040,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133598
+3,dom 18/09/2011,10:00,Bologna,Lecce,4-3-1-2,Pierpaolo Bisoli,19000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133606
+4,qua 21/09/2011,15:45,Juventus,Bologna,4-4-1-1,Pierpaolo Bisoli,35679,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133619
+5,sáb 24/09/2011,13:00,Bologna,Inter,4-2-3-1,Pierpaolo Bisoli,22467,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137114
+6,dom 02/10/2011,10:00,Udinese,Bologna,4-2-3-1,Pierpaolo Bisoli,16338,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137132
+7,dom 16/10/2011,11:00,Novara Calcio,Bologna,4-3-1-2,Stefano Pioli,10033,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137142
+8,dom 23/10/2011,16:45,Bologna,Lazio,4-3-1-2,Stefano Pioli,17851,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137143
+9,qua 26/10/2011,16:45,Chievo Verona,Bologna,4-3-1-2,Stefano Pioli,8300,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137155
+10,dom 30/10/2011,12:00,Bologna,Atalanta,4-3-1-2,Stefano Pioli,17850,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137163
+11,sáb 05/11/2011,15:00,US Palermo,Bologna,4-3-1-2,Stefano Pioli,18507,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137181
+12,dom 20/11/2011,09:30,Bologna,Cesena,4-3-1-2,Stefano Pioli,20397,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137183
+13,dom 27/11/2011,12:00,Cagliari,Bologna,4-3-2-1,Stefano Pioli,8000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137194
+14,dom 04/12/2011,12:00,Bologna,AC Siena,4-3-2-1,Stefano Pioli,18316,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137203
+15,dom 11/12/2011,12:00,Bologna,Milan,4-3-2-1,Stefano Pioli,25736,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137214
+16,dom 18/12/2011,12:00,Genoa,Bologna,4-3-2-1,Stefano Pioli,19278,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137227
+17,dom 08/01/2012,12:00,Bologna,Catania Calcio,3-5-2,Stefano Pioli,14572,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137234
+18,seg 16/01/2012,17:45,Napoli,Bologna,3-4-1-2,Stefano Pioli,42956,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137251
+19,dom 22/01/2012,09:30,Bologna,Parma,3-5-2,Stefano Pioli,15141,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137254
+20,dom 29/01/2012,12:00,Roma,Bologna,3-4-2-1,Stefano Pioli,34073,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137272
+21,ter 21/02/2012,15:30,Bologna,Fiorentina,3-4-2-1,Stefano Pioli,14120,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137274
+22,dom 05/02/2012,12:00,Lecce,Bologna,3-4-2-1,Stefano Pioli,5962,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137288
+23,qua 07/03/2012,14:30,Bologna,Juventus,3-4-2-1,Stefano Pioli,30321,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137294
+24,sex 17/02/2012,17:45,Inter,Bologna,3-4-2-1,Stefano Pioli,20043,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137306
+25,dom 26/02/2012,16:45,Bologna,Udinese,3-4-2-1,Stefano Pioli,16209,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137314
+26,dom 04/03/2012,14:30,Bologna,Novara Calcio,3-4-2-1,Stefano Pioli,17516,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137323
+27,dom 11/03/2012,16:45,Lazio,Bologna,3-4-2-1,Stefano Pioli,25000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137338
+28,dom 18/03/2012,11:00,Bologna,Chievo Verona,3-4-1-2,Stefano Pioli,17446,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137343
+29,dom 25/03/2012,07:30,Atalanta,Bologna,3-4-2-1,Stefano Pioli,13600,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137353
+30,dom 01/04/2012,10:00,Bologna,US Palermo,3-4-2-1,Stefano Pioli,19440,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137363
+31,sáb 07/04/2012,10:00,Cesena,Bologna,3-4-2-1,Stefano Pioli,16497,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137375
+32,qui 12/04/2012,15:45,Bologna,Cagliari,3-4-1-2,Stefano Pioli,15124,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137383
+33,qua 25/04/2012,10:00,AC Siena,Bologna,3-4-2-1,Stefano Pioli,9011,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137401
+34,dom 22/04/2012,10:00,Milan,Bologna,3-4-2-1,Stefano Pioli,51725,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137410
+35,dom 29/04/2012,07:30,Bologna,Genoa,3-4-2-1,Stefano Pioli,23510,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137414
+36,qua 02/05/2012,15:45,Catania Calcio,Bologna,4-2-3-1,Stefano Pioli,14000,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137423
+37,dom 06/05/2012,10:00,Bologna,Napoli,3-5-2,Stefano Pioli,26647,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137434
+38,dom 13/05/2012,13:00,Parma,Bologna,3-4-2-1,Stefano Pioli,16922,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1137452

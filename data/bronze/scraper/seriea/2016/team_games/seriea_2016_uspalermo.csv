@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 21/08/2016,15:45,US Palermo,Sassuolo,3-4-3 plano,Davide Ballardini,12935,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2725478
+2,dom 28/08/2016,13:00,Inter,US Palermo,3-5-2 plano,Davide Ballardini,40527,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2725484
+3,sáb 10/09/2016,15:45,US Palermo,Napoli,4-3-3 ofensivo,Roberto De Zerbi,10961,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2725498
+4,dom 18/09/2016,10:00,Crotone,US Palermo,4-3-3 ofensivo,Roberto De Zerbi,510,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726504
+5,qua 21/09/2016,15:45,Atalanta,US Palermo,3-5-2 plano,Roberto De Zerbi,14094,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726513
+6,sáb 24/09/2016,13:00,US Palermo,Juventus,3-4-2-1,Roberto De Zerbi,27039,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726530
+7,dom 02/10/2016,10:00,Sampdoria,US Palermo,3-4-2-1,Roberto De Zerbi,18093,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726540
+8,seg 17/10/2016,16:45,US Palermo,Torino,3-4-2-1,Roberto De Zerbi,15961,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726550
+9,dom 23/10/2016,16:45,Roma,US Palermo,3-4-2-1,Roberto De Zerbi,25820,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726559
+10,qui 27/10/2016,16:45,US Palermo,Udinese,4-2-3-1,Roberto De Zerbi,9360,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726570
+11,seg 31/10/2016,18:00,Cagliari,US Palermo,4-3-3 ofensivo,Roberto De Zerbi,14625,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726575
+12,dom 06/11/2016,12:00,US Palermo,Milan,4-3-3 ofensivo,Roberto De Zerbi,13545,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726588
+13,dom 20/11/2016,12:00,Bologna,US Palermo,4-3-3 ofensivo,Roberto De Zerbi,22027,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726594
+14,dom 27/11/2016,09:30,US Palermo,Lazio,3-5-2 plano,Roberto De Zerbi,8689,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726610
+15,dom 04/12/2016,17:45,Fiorentina,US Palermo,3-5-2 plano,Eugenio Corini,22533,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726614
+16,dom 11/12/2016,12:00,US Palermo,Chievo Verona,3-5-2 plano,Eugenio Corini,21232,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726629
+17,dom 18/12/2016,17:45,Genoa,US Palermo,3-4-2-1,Eugenio Corini,19003,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726635
+18,qui 22/12/2016,17:45,US Palermo,Pescara,3-4-2-1,Eugenio Corini,20238,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726649
+19,sáb 07/01/2017,15:00,Empoli,US Palermo,3-5-2 plano,Eugenio Corini,7268,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726654
+20,dom 15/01/2017,12:00,Sassuolo,US Palermo,3-4-2-1,Eugenio Corini,9074,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726670
+21,dom 22/01/2017,12:00,US Palermo,Inter,3-5-2 plano,Eugenio Corini,16436,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726676
+22,dom 29/01/2017,17:45,Napoli,US Palermo,4-1-4-1,Diego López,41166,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726690
+23,dom 05/02/2017,15:00,US Palermo,Crotone,4-3-3 ofensivo,Diego López,8934,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726694
+24,dom 12/02/2017,12:00,US Palermo,Atalanta,4-3-3 ofensivo,Diego López,12844,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726703
+25,sex 17/02/2017,17:45,Juventus,US Palermo,4-3-3 ofensivo,Diego López,39247,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726720
+26,dom 26/02/2017,08:30,US Palermo,Sampdoria,4-2-3-1,Diego López,10139,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726730
+27,dom 05/03/2017,11:00,Torino,US Palermo,4-2-3-1,Diego López,16098,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726740
+28,dom 12/03/2017,16:45,US Palermo,Roma,4-2-3-1,Diego López,12961,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726749
+29,dom 19/03/2017,14:00,Udinese,US Palermo,3-5-2,Diego López,15469,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726760
+30,dom 02/04/2017,10:00,US Palermo,Cagliari,3-5-2 plano,Diego López,11938,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726765
+31,dom 09/04/2017,10:00,Milan,US Palermo,3-5-2 plano,Diego López,36808,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726778
+32,sáb 15/04/2017,10:00,US Palermo,Bologna,4-3-3 ofensivo,Diego Bortoluzzi,9915,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726784
+33,dom 23/04/2017,10:00,Lazio,US Palermo,3-4-3 plano,Diego Bortoluzzi,25000,6:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726800
+34,dom 30/04/2017,10:00,US Palermo,Fiorentina,3-5-2 plano,Diego Bortoluzzi,10327,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726804
+35,dom 07/05/2017,10:00,Chievo Verona,US Palermo,3-1-4-2,Diego Bortoluzzi,10000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726819
+36,dom 14/05/2017,10:00,US Palermo,Genoa,3-5-2 plano,Diego Bortoluzzi,8863,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726825
+37,seg 22/05/2017,15:45,Pescara,US Palermo,3-5-2 plano,Diego Bortoluzzi,10062,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726839
+38,dom 28/05/2017,15:45,US Palermo,Empoli,3-5-2 plano,Diego Bortoluzzi,8559,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2726844

@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 26/08/2001,10:00,Juventus,AC Venezia 1907,4-3-3 defensivo,Cesare Prandelli,35817,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1124214
+2,dom 09/09/2001,10:00,AC Venezia 1907,Verona,4-4-2,Cesare Prandelli,9133,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1124290
+3,dom 16/09/2001,10:00,Inter,AC Venezia 1907,5-3-2,Cesare Prandelli,52129,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1127556
+4,dom 23/09/2001,10:00,AC Venezia 1907,Bologna,4-4-2 duplo 6,Cesare Prandelli,6513,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1127565
+5,dom 30/09/2001,10:00,Florenz,AC Venezia 1907,4-4-2 duplo 6,Cesare Prandelli,13882,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133198
+6,qua 19/12/2001,12:00,AC Venezia 1907,Piacenza,4-4-2 duplo 6,Alfredo Magni,6054,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133203
+7,dom 14/10/2001,11:00,Milan,AC Venezia 1907,4-4-2 duplo 6,Sergio Buso,52192,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133214
+8,dom 21/10/2001,11:00,AC Venezia 1907,Lazio,4-4-2,Alfredo Magni,8293,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133357
+9,dom 28/10/2001,12:00,Brescia,AC Venezia 1907,4-4-2 duplo 6,Alfredo Magni,14572,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133370
+10,sáb 03/11/2001,17:30,AC Venezia 1907,Chievo Verona,4-4-2,Alfredo Magni,10755,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133380
+11,dom 18/11/2001,12:00,Atalanta,AC Venezia 1907,4-5-1,Alfredo Magni,15141,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133241
+12,dom 25/11/2001,12:00,AC Venezia 1907,Lecce,4-4-2,Alfredo Magni,7422,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133248
+13,dom 02/12/2001,12:00,Roma,AC Venezia 1907,3-4-2-1,Alfredo Magni,54000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133255
+14,dom 09/12/2001,12:00,Perugia,AC Venezia 1907,3-4-3 plano,Alfredo Magni,6329,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133267
+15,dom 16/12/2001,12:00,AC Venezia 1907,Udinese,4-4-2,Alfredo Magni,6909,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133273
+16,dom 23/12/2001,12:00,Torino,AC Venezia 1907,4-4-2,Alfredo Magni,14091,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133284
+17,dom 06/01/2002,12:00,AC Venezia 1907,AC Parma,4-4-2 duplo 6,Alfredo Magni,6800,3:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133292
+18,dom 13/01/2002,12:00,AC Venezia 1907,Juventus,4-4-2 duplo 6,Alfredo Magni,11475,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133301
+19,dom 20/01/2002,12:00,Verona,AC Venezia 1907,4-4-2,Alfredo Magni,13514,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133311
+20,dom 27/01/2002,12:00,AC Venezia 1907,Inter,4-4-2,Alfredo Magni,11718,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133321
+21,dom 03/02/2002,12:00,Bologna,AC Venezia 1907,4-4-2 duplo 6,Alfredo Magni,17784,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133332
+22,dom 10/02/2002,12:00,AC Venezia 1907,Florenz,4-4-2,Alfredo Magni,6942,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133347
+23,dom 17/02/2002,11:00,Piacenza,AC Venezia 1907,4-4-2 duplo 6,Alfredo Magni,6329,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133399
+24,dom 24/02/2002,11:00,AC Venezia 1907,Milan,4-4-2 duplo 6,Alfredo Magni,10015,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133407
+25,dom 03/03/2002,11:00,Lazio,AC Venezia 1907,4-4-2,Alfredo Magni,36654,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133437
+26,dom 10/03/2002,11:00,AC Venezia 1907,Brescia,4-4-2 duplo 6,Alfredo Magni,7534,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133506
+27,dom 17/03/2002,11:00,Chievo Verona,AC Venezia 1907,4-4-2,Alfredo Magni,6948,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133519
+28,dom 24/03/2002,11:00,AC Venezia 1907,Atalanta,4-4-2,Alfredo Magni,8449,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133525
+29,sáb 30/03/2002,11:00,Lecce,AC Venezia 1907,4-4-2,Alfredo Magni,11676,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133534
+30,dom 07/04/2002,10:00,AC Venezia 1907,Roma,4-4-2 duplo 6,Alfredo Magni,10982,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133542
+31,dom 14/04/2002,10:00,AC Venezia 1907,Perugia,4-4-2,Alfredo Magni,6288,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133550
+32,dom 21/04/2002,10:00,Udinese,AC Venezia 1907,4-4-2,Alfredo Magni,13000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133560
+33,dom 28/04/2002,10:00,AC Venezia 1907,Torino,3-4-3 plano,Alfredo Magni,6908,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133568
+34,dom 05/05/2002,10:00,AC Parma,AC Venezia 1907,3-4-3 plano,Alfredo Magni,15318,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/1133580

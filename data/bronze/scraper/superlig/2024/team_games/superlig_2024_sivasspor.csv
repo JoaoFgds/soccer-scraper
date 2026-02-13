@@ -1,0 +1,37 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 11/08/2024,13:15,Sivasspor,Trabzonspor,5-4-1 plano,Bülent Uygun,7648,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4387778
+2,sáb 17/08/2024,13:15,Kayserispor,Sivasspor,3-4-3 plano,Bülent Uygun,8183,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4387819
+3,sáb 24/08/2024,13:15,Sivasspor,Eyüpspor,4-2-3-1,Bülent Uygun,4682,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4387826
+4,dom 01/09/2024,15:45,Besiktas,Sivasspor,5-4-1 plano,Bülent Uygun,30197,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4387839
+5,sáb 14/09/2024,11:00,Sivasspor,Gaziantep FK,4-2-3-1,Bülent Uygun,4165,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393142
+6,sáb 21/09/2024,11:00,Konyaspor,Sivasspor,4-2-3-1,Bülent Uygun,12281,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393155
+7,sex 27/09/2024,14:00,Sivasspor,Basaksehir,4-2-3-1,Bülent Uygun,4249,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393160
+8,sáb 05/10/2024,10:00,Göztepe,Sivasspor,3-4-3 plano,Bülent Uygun,16794,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393169
+9,dom 20/10/2024,07:30,Sivasspor,Hatayspor,4-2-3-1,Bülent Uygun,,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393179
+10,sex 25/10/2024,14:00,Adana Demirspor,Sivasspor,4-2-3-1,Bülent Uygun,4040,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393191
+11,sáb 02/11/2024,07:30,Sivasspor,C. Rizespor,4-3-3 ofensivo,Bülent Uygun,3952,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393197
+12,dom 10/11/2024,13:00,Fenerbahce,Sivasspor,4-3-3 ofensivo,Bülent Uygun,34668,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393213
+13,dom 24/11/2024,07:30,Sivasspor,Kasimpasa,4-2-3-1,Bülent Uygun,2658,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393215
+14,sex 29/11/2024,14:00,Antalyaspor,Sivasspor,4-2-3-1,Bülent Uygun,9884,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393229
+15,dom 08/12/2024,10:00,Sivasspor,Galatasaray,3-4-3 plano,Bülent Uygun,11846,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393240
+16,sex 13/12/2024,14:00,Bodrum FK,Sivasspor,4-3-3 ofensivo,Bülent Uygun,2130,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393241
+17,sáb 21/12/2024,10:00,Sivasspor,Samsunspor,4-2-3-1,Ömer Erdoğan,4515,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393252
+19,dom 12/01/2025,07:30,Sivasspor,Alanyaspor,4-2-3-1,Ömer Erdoğan,3879,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393269
+20,seg 20/01/2025,14:00,Trabzonspor,Sivasspor,4-2-3-1,Ömer Erdoğan,19827,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393281
+21,sáb 25/01/2025,07:30,Sivasspor,Kayserispor,4-3-3 ofensivo,Ömer Erdoğan,5268,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393287
+22,sex 31/01/2025,14:00,Eyüpspor,Sivasspor,4-3-3 ofensivo,Ömer Erdoğan,3145,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393298
+23,sáb 08/02/2025,13:00,Sivasspor,Besiktas,4-3-3 ofensivo,Ömer Erdoğan,5442,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393304
+24,sáb 15/02/2025,07:30,Gaziantep FK,Sivasspor,4-2-3-1,Ömer Erdoğan,3365,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393315
+25,sáb 22/02/2025,07:30,Sivasspor,Konyaspor,4-2-3-1,Ömer Erdoğan,2444,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393322
+26,seg 03/03/2025,14:30,Basaksehir,Sivasspor,3-1-4-2,Ömer Erdoğan,900,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393335
+27,dom 09/03/2025,07:30,Sivasspor,Göztepe,4-2-3-1,Rıza Çalımbay,7769,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393341
+28,dom 16/03/2025,10:00,Hatayspor,Sivasspor,4-2-3-1,Rıza Çalımbay,1933,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393357
+29,sáb 29/03/2025,07:30,Sivasspor,Adana Demirspor,4-3-3 ofensivo,Rıza Çalımbay,4551,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393358
+30,sáb 05/04/2025,07:30,C. Rizespor,Sivasspor,4-3-3 ofensivo,Rıza Çalımbay,5206,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393369
+31,dom 13/04/2025,13:00,Sivasspor,Fenerbahce,4-3-3 ofensivo,Rıza Çalımbay,15559,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393376
+32,sáb 19/04/2025,07:30,Kasimpasa,Sivasspor,4-3-3 ofensivo,Rıza Çalımbay,1464,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393390
+33,sáb 26/04/2025,10:00,Sivasspor,Antalyaspor,4-2-3-1,Rıza Çalımbay,5485,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393394
+34,sáb 03/05/2025,13:00,Galatasaray,Sivasspor,4-2-3-1,Rıza Çalımbay,45495,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393403
+35,dom 11/05/2025,10:00,Sivasspor,Bodrum FK,4-3-3 ofensivo,Rıza Çalımbay,10468,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393412
+36,dom 18/05/2025,13:00,Samsunspor,Sivasspor,4-2-3-1,Rıza Çalımbay,17662,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393424
+38,sáb 31/05/2025,13:00,Alanyaspor,Sivasspor,4-3-3 ofensivo,Rıza Çalımbay,1441,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4393447

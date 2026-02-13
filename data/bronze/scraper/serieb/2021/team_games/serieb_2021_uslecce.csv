@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 22/08/2021,15:30,Cremonese,Lecce,4-3-3 ofensivo,Marco Baroni,2372,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3624919
+2,dom 29/08/2021,15:30,Lecce,Como,4-3-3 ofensivo,Marco Baroni,6192,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3624976
+3,sex 10/09/2021,15:30,Benevento,Lecce,4-3-3 ofensivo,Marco Baroni,5102,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3624993
+4,sáb 18/09/2021,09:00,Lecce,Alessandria,4-3-3 ofensivo,Marco Baroni,5003,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625384
+5,ter 21/09/2021,15:30,Crotone,Lecce,4-3-3 ofensivo,Marco Baroni,2277,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625391
+6,sáb 25/09/2021,09:00,Cittadella,Lecce,4-3-3 ofensivo,Marco Baroni,1773,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625398
+7,sex 01/10/2021,15:30,Lecce,Monza,4-3-3 ofensivo,Marco Baroni,8442,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625411
+8,sáb 16/10/2021,09:00,Ascoli,Lecce,4-3-3 ofensivo,Marco Baroni,4390,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625415
+9,sáb 23/10/2021,09:00,Lecce,Perugia,4-3-3 ofensivo,Marco Baroni,6665,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625427
+10,qui 28/10/2021,13:00,Brescia,Lecce,4-3-3 ofensivo,Marco Baroni,5938,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625435
+11,seg 01/11/2021,11:00,Lecce,Cosenza,4-3-3 ofensivo,Marco Baroni,6556,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3638417
+12,dom 07/11/2021,10:00,Lecce,Parma,4-3-3 ofensivo,Marco Baroni,18765,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625459
+13,sáb 20/11/2021,10:00,Frosinone,Lecce,4-3-3 ofensivo,Marco Baroni,7883,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625460
+14,sex 26/11/2021,16:30,Lecce,Ternana,4-3-3 ofensivo,Marco Baroni,10314,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625476
+15,ter 30/11/2021,16:30,SPAL,Lecce,4-3-3 ofensivo,Marco Baroni,4157,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625485
+16,sáb 04/12/2021,12:15,Lecce,Reggina,4-3-3 ofensivo,Marco Baroni,9026,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625494
+17,sáb 11/12/2021,12:15,Pisa,Lecce,4-3-3 ofensivo,Marco Baroni,7401,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625501
+18,qua 26/01/2022,16:00,Lecce,LR Vicenza,4-3-3 ofensivo,Marco Baroni,6422,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625512
+19,dom 16/01/2022,12:15,Pordenone,Lecce,4-3-3 ofensivo,Marco Baroni,976,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625519
+20,dom 23/01/2022,14:30,Lecce,Cremonese,4-3-3 ofensivo,Marco Baroni,3089,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3624967
+21,sáb 05/02/2022,10:00,Como,Lecce,4-3-3 ofensivo,Marco Baroni,2499,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3624985
+22,dom 13/02/2022,11:30,Lecce,Benevento,4-3-3 ofensivo,Marco Baroni,9580,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625002
+23,qua 16/02/2022,14:30,Alessandria,Lecce,4-3-3 ofensivo,Marco Baroni,2109,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625528
+24,dom 20/02/2022,11:30,Lecce,Crotone,4-3-3 ofensivo,Marco Baroni,8196,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625535
+25,qua 23/02/2022,14:30,Lecce,Cittadella,4-3-3 ofensivo,Marco Baroni,6235,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625542
+26,dom 27/02/2022,11:30,Monza,Lecce,4-3-3 ofensivo,Marco Baroni,6858,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625555
+27,qua 02/03/2022,14:30,Lecce,Ascoli,4-3-3 ofensivo,Marco Baroni,5359,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625559
+28,dom 06/03/2022,11:30,Perugia,Lecce,4-2-3-1,Marco Baroni,4663,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625571
+29,sáb 12/03/2022,10:00,Lecce,Brescia,4-3-3 ofensivo,Marco Baroni,12316,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625579
+30,ter 15/03/2022,14:30,Cosenza,Lecce,4-3-3 ofensivo,Marco Baroni,2477,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3638436
+31,sáb 19/03/2022,10:00,Parma,Lecce,4-3-3 ofensivo,Marco Baroni,7916,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625603
+32,sáb 02/04/2022,09:00,Lecce,Frosinone,4-3-3 ofensivo,Marco Baroni,9327,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625604
+33,ter 05/04/2022,14:00,Ternana,Lecce,4-3-3 ofensivo,Marco Baroni,3827,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625620
+34,sáb 09/04/2022,09:00,Lecce,SPAL,4-3-3 ofensivo,Marco Baroni,11578,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625629
+35,seg 18/04/2022,10:00,Reggina,Lecce,4-3-3 ofensivo,Marco Baroni,3682,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625638
+36,seg 25/04/2022,10:00,Lecce,Pisa,4-3-3 ofensivo,Marco Baroni,23933,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625645
+37,sáb 30/04/2022,09:00,LR Vicenza,Lecce,4-3-3 ofensivo,Marco Baroni,10019,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625656
+38,sex 06/05/2022,15:30,Lecce,Pordenone,4-3-3 ofensivo,Marco Baroni,26904,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3625663

@@ -1,0 +1,43 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 30/08/2008,11:00,Mantova,Frosinone,3-4-3 plano,Piero Braglia,6287,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/923212
+2,dom 07/09/2008,10:00,Frosinone,Bari,3-4-3,Piero Braglia,4569,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/924238
+3,seg 15/09/2008,15:45,Salernitana,Frosinone,3-4-3,Piero Braglia,11453,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/924583
+4,sáb 20/09/2008,11:00,Frosinone,Treviso,3-4-3,Piero Braglia,3135,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/924770
+5,ter 23/09/2008,15:30,Parma,Frosinone,3-4-3,Piero Braglia,9738,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/925639
+6,seg 29/09/2008,14:00,Frosinone,Ancona,5-4-1 plano,Piero Braglia,3846,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/926037
+7,sáb 04/10/2008,11:00,Brescia,Frosinone,3-4-3,Piero Braglia,2200,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/926432
+8,dom 12/10/2008,10:00,AS Livorno,Frosinone,4-4-2 duplo 6,Piero Braglia,7839,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/926748
+9,sáb 18/10/2008,10:00,Frosinone,Rimini,5-4-1 plano,Piero Braglia,2995,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/927362
+10,sáb 25/10/2008,12:00,Avellino,Frosinone,3-4-3,Piero Braglia,2993,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/928181
+11,ter 28/10/2008,17:30,Frosinone,Piacenza,4-4-2 losango,Piero Braglia,2700,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/928384
+12,sáb 01/11/2008,12:00,Triestina,Frosinone,3-4-3 plano,Piero Braglia,4567,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/928575
+13,sáb 08/11/2008,13:00,Frosinone,Empoli,5-4-1 plano,Piero Braglia,3481,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/928754
+14,sáb 15/11/2008,13:00,Modena,Frosinone,5-4-1 plano,Piero Braglia,5274,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/929736
+15,sáb 22/11/2008,13:00,Frosinone,Ascoli,3-4-3,Piero Braglia,3533,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/930024
+16,sáb 29/11/2008,13:00,AC Pisa 1909,Frosinone,3-4-3,Piero Braglia,8584,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/930960
+17,sáb 06/12/2008,13:00,Frosinone,Sassuolo,3-4-3,Piero Braglia,2806,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/931773
+18,sex 12/12/2008,17:45,UC AlbinoLeffe,Frosinone,5-4-1 plano,Piero Braglia,2841,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932164
+19,dom 21/12/2008,12:00,Frosinone,Vicenza,3-4-3,Piero Braglia,3013,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932523
+20,sáb 10/01/2009,13:00,Cittadella,Frosinone,3-4-3,Piero Braglia,1601,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932535
+21,seg 19/01/2009,17:45,Frosinone,Grosseto,4-4-2,Piero Braglia,3243,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932545
+22,sáb 24/01/2009,13:00,Frosinone,Mantova,3-4-3,Piero Braglia,2875,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932557
+23,sáb 31/01/2009,13:10,Bari,Frosinone,3-4-3,Piero Braglia,15423,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932566
+24,sáb 07/02/2009,13:00,Frosinone,Salernitana,3-4-3,Piero Braglia,3563,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932579
+25,sáb 14/02/2009,13:00,Treviso,Frosinone,4-4-2 losango,Piero Braglia,2742,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932596
+26,ter 17/02/2009,16:30,Frosinone,Parma,4-4-2,Piero Braglia,3712,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932601
+27,seg 23/02/2009,16:45,Ancona,Frosinone,5-3-2,Piero Braglia,5002,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932608
+28,sáb 28/02/2009,12:00,Frosinone,Brescia,4-4-2,Piero Braglia,3516,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932621
+29,sáb 07/03/2009,12:00,Frosinone,AS Livorno,5-3-2,Piero Braglia,3261,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932635
+30,sáb 14/03/2009,12:00,Rimini,Frosinone,5-3-2,Piero Braglia,3940,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932647
+31,ter 17/03/2009,16:30,Frosinone,Avellino,4-3-3 ofensivo,Piero Braglia,4053,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932667
+32,sáb 21/03/2009,12:00,Piacenza,Frosinone,5-4-1 plano,Piero Braglia,3111,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932692
+33,dom 29/03/2009,11:00,Frosinone,Triestina,4-3-3 ofensivo,Piero Braglia,3033,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932700
+34,sex 03/04/2009,16:00,Empoli,Frosinone,4-4-2,Piero Braglia,3859,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932682
+35,ter 21/04/2009,15:45,Frosinone,Modena,5-3-2,Piero Braglia,3453,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932652
+36,sex 17/04/2009,16:00,Ascoli,Frosinone,4-4-2,Piero Braglia,5240,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932516
+37,sáb 25/04/2009,11:00,Frosinone,AC Pisa 1909,4-4-2,Piero Braglia,4316,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932499
+38,sáb 02/05/2009,11:00,Sassuolo,Frosinone,5-3-2,Piero Braglia,2981,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932495
+39,sáb 09/05/2009,11:00,Frosinone,UC AlbinoLeffe,5-3-2,Piero Braglia,3486,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932483
+40,sáb 16/05/2009,11:00,Vicenza,Frosinone,5-4-1 plano,Piero Braglia,7334,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932468
+41,sáb 23/05/2009,11:00,Frosinone,Cittadella,5-3-2,Piero Braglia,4130,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932460
+42,sáb 30/05/2009,11:00,Grosseto,Frosinone,?,Piero Braglia,4512,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/932448

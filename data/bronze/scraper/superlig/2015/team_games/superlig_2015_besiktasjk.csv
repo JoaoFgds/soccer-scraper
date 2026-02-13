@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 16/08/2015,16:00,Mersin IY,Besiktas,4-2-3-1,Şenol Güneş,12300,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2589250
+2,sáb 22/08/2015,15:45,Besiktas,Trabzonspor,4-2-3-1,Şenol Güneş,28422,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2590402
+3,sex 28/08/2015,15:15,Gaziantepspor,Besiktas,4-2-3-1,Şenol Güneş,5487,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2590413
+4,dom 13/09/2015,11:00,Besiktas,Basaksehir,4-2-3-1,Şenol Güneş,10419,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2590590
+5,seg 21/09/2015,14:00,Genclerbirligi,Besiktas,4-2-3-1,Şenol Güneş,7802,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2590603
+6,dom 27/09/2015,13:00,Besiktas,Fenerbahce,4-2-3-1,Şenol Güneş,27356,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2590612
+7,dom 04/10/2015,11:00,Eskisehirspor,Besiktas,4-2-3-1,Şenol Güneş,8560,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2590624
+8,dom 18/10/2015,15:00,Besiktas,C. Rizespor,4-2-3-1,Şenol Güneş,6760,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2593955
+9,seg 26/10/2015,15:00,Antalyaspor,Besiktas,4-2-3-1,Şenol Güneş,19691,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2593969
+10,sex 30/10/2015,16:45,Besiktas,Kasimpasa,4-2-3-1,Şenol Güneş,14671,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2593976
+11,dom 08/11/2015,16:15,Bursaspor,Besiktas,4-2-3-1,Şenol Güneş,14525,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2593997
+12,dom 22/11/2015,15:00,Besiktas,Sivasspor,4-2-3-1,Şenol Güneş,12102,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594005
+13,dom 29/11/2015,13:00,Besiktas,Akhisar Belediye,4-2-3-1,Şenol Güneş,11455,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594013
+14,sáb 05/12/2015,15:00,Kayserispor,Besiktas,4-2-3-1,Şenol Güneş,6341,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594020
+15,seg 14/12/2015,16:00,Besiktas,Galatasaray,4-2-3-1,Şenol Güneş,25801,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594031
+16,seg 21/12/2015,16:00,Osmanlispor FK,Besiktas,4-2-3-1,Şenol Güneş,4440,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594044
+17,dom 27/12/2015,15:00,Besiktas,Konyaspor,4-2-3-1,Şenol Güneş,13973,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2594049
+18,qua 17/02/2016,15:30,Besiktas,Mersin IY,4-2-3-1,Şenol Güneş,7385,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2656853
+19,ter 15/03/2016,14:30,Trabzonspor,Besiktas,4-2-3-1,Şenol Güneş,14615,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2598034
+20,dom 07/02/2016,15:00,Besiktas,Gaziantepspor,4-2-3-1,Şenol Güneş,15031,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2598055
+21,dom 14/02/2016,15:00,Basaksehir,Besiktas,4-2-3-1,Şenol Güneş,6870,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2606495
+22,seg 22/02/2016,15:00,Besiktas,Genclerbirligi,4-2-3-1,Şenol Güneş,14608,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2606508
+23,seg 29/02/2016,15:00,Fenerbahce,Besiktas,4-2-3-1,Şenol Güneş,43182,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2606517
+24,seg 07/03/2016,15:00,Besiktas,Eskisehirspor,4-2-3-1,Şenol Güneş,6340,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2606529
+25,sáb 12/03/2016,14:00,C. Rizespor,Besiktas,4-2-3-1,Şenol Güneş,7899,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2606532
+26,sáb 19/03/2016,14:00,Besiktas,Antalyaspor,4-2-3-1,Şenol Güneş,13759,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2606546
+27,seg 04/04/2016,14:00,Kasimpasa,Besiktas,4-2-3-1,Şenol Güneş,4517,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611243
+28,seg 11/04/2016,14:00,Besiktas,Bursaspor,4-2-3-1,Şenol Güneş,38420,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611254
+29,sáb 16/04/2016,13:00,Sivasspor,Besiktas,4-2-3-1,Şenol Güneş,10172,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611262
+30,sáb 23/04/2016,13:00,Akhisar Belediye,Besiktas,4-2-3-1,Şenol Güneş,12094,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611270
+31,sáb 30/04/2016,13:00,Besiktas,Kayserispor,4-2-3-1,Şenol Güneş,33955,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611277
+32,dom 08/05/2016,14:00,Galatasaray,Besiktas,4-2-3-1,Şenol Güneş,26189,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611288
+33,dom 15/05/2016,13:00,Besiktas,Osmanlispor FK,4-2-3-1,Şenol Güneş,38421,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611311
+34,qua 18/05/2016,13:00,Konyaspor,Besiktas,4-2-3-1,Şenol Güneş,12326,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2611316

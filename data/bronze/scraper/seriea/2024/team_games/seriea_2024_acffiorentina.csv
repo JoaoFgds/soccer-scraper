@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 17/08/2024,13:30,Parma,Fiorentina,3-4-2-1,Raffaele Palladino,21384,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373914
+2,dom 25/08/2024,13:30,Fiorentina,Venezia,3-4-2-1,Raffaele Palladino,18915,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373916
+3,dom 01/09/2024,13:30,Fiorentina,Monza,3-4-2-1,Raffaele Palladino,18376,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373926
+4,dom 15/09/2024,10:00,Atalanta,Fiorentina,3-4-2-1,Raffaele Palladino,22705,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373935
+5,dom 22/09/2024,07:30,Fiorentina,Lazio,3-4-2-1,Raffaele Palladino,19624,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373947
+6,dom 29/09/2024,13:00,Empoli,Fiorentina,4-2-3-1,Raffaele Palladino,13053,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373957
+7,dom 06/10/2024,15:45,Fiorentina,Milan,4-2-3-1,Raffaele Palladino,21923,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373967
+8,dom 20/10/2024,10:00,Lecce,Fiorentina,4-4-2 duplo 6,Raffaele Palladino,25124,0:6,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373981
+9,dom 27/10/2024,16:45,Fiorentina,Roma,4-2-3-1,Raffaele Palladino,20440,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373987
+10,qui 31/10/2024,14:30,Genoa,Fiorentina,4-2-3-1,Raffaele Palladino,30254,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373999
+11,dom 03/11/2024,11:00,Torino,Fiorentina,4-2-3-1,Raffaele Palladino,23326,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374013
+12,dom 10/11/2024,11:00,Fiorentina,Verona,4-2-3-1,Raffaele Palladino,22495,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374017
+13,dom 24/11/2024,11:00,Como,Fiorentina,4-2-3-1,Raffaele Palladino,10250,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374025
+14,qui 06/02/2025,16:45,Fiorentina,Inter,4-2-3-1,Raffaele Palladino,22351,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374038
+15,dom 08/12/2024,08:30,Fiorentina,Cagliari,4-2-3-1,Raffaele Palladino,19851,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374046
+16,dom 15/12/2024,11:00,Bologna,Fiorentina,4-2-3-1,Raffaele Palladino,27970,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374055
+17,seg 23/12/2024,14:30,Fiorentina,Udinese,4-2-3-1,Raffaele Palladino,20505,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374066
+18,dom 29/12/2024,14:00,Juventus,Fiorentina,4-2-3-1,Raffaele Palladino,41188,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374079
+19,sáb 04/01/2025,14:00,Fiorentina,Napoli,3-4-2-1,Raffaele Palladino,21685,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374087
+20,seg 13/01/2025,16:45,Monza,Fiorentina,4-2-3-1,Raffaele Palladino,9153,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374117
+21,dom 19/01/2025,08:30,Fiorentina,Torino,4-2-3-1,Raffaele Palladino,19313,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374126
+22,dom 26/01/2025,16:45,Lazio,Fiorentina,4-4-2 duplo 6,Raffaele Palladino,37000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374135
+23,dom 02/02/2025,11:00,Fiorentina,Genoa,4-2-3-1,Raffaele Palladino,19088,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374145
+24,seg 10/02/2025,16:45,Inter,Fiorentina,3-5-2 plano,Raffaele Palladino,67484,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374156
+25,dom 16/02/2025,08:30,Fiorentina,Como,4-2-3-1,Raffaele Palladino,19000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374164
+26,dom 23/02/2025,11:00,Verona,Fiorentina,4-2-3-1,Raffaele Palladino,26496,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374175
+27,sex 28/02/2025,16:45,Fiorentina,Lecce,3-5-2 plano,Raffaele Palladino,17383,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374184
+28,dom 09/03/2025,11:00,Napoli,Fiorentina,3-5-2 plano,Raffaele Palladino,51504,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374200
+29,dom 16/03/2025,14:00,Fiorentina,Juventus,3-5-2 plano,Raffaele Palladino,22253,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374204
+30,dom 30/03/2025,10:00,Fiorentina,Atalanta,3-5-2 plano,Raffaele Palladino,20409,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374214
+31,sáb 05/04/2025,15:45,Milan,Fiorentina,3-5-2 plano,Raffaele Palladino,72451,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374227
+32,dom 13/04/2025,10:00,Fiorentina,Parma,3-5-2 plano,Raffaele Palladino,21355,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374234
+33,qua 23/04/2025,13:30,Cagliari,Fiorentina,3-5-2 plano,Raffaele Palladino,15917,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374243
+34,dom 27/04/2025,10:00,Fiorentina,Empoli,3-5-2 plano,Raffaele Palladino,20547,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374254
+35,dom 04/05/2025,13:00,Roma,Fiorentina,3-5-2 plano,Raffaele Palladino,63640,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374270
+36,seg 12/05/2025,13:30,Venezia,Fiorentina,3-4-2-1,Raffaele Palladino,11000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374281
+37,dom 18/05/2025,15:45,Fiorentina,Bologna,4-5-1 plano,Raffaele Palladino,21280,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374283
+38,dom 25/05/2025,15:45,Udinese,Fiorentina,3-5-2 plano,Raffaele Palladino,20463,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374300

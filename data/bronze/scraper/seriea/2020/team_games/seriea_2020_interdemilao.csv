@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,qua 30/09/2020,13:00,Benevento,Inter,3-4-1-2,Antonio Conte,1000,2:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433185
+2,sáb 26/09/2020,15:45,Inter,Fiorentina,3-4-1-2,Antonio Conte,1000,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433198
+3,dom 04/10/2020,10:00,Lazio,Inter,3-4-1-2,Antonio Conte,1000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433210
+4,sáb 17/10/2020,13:00,Inter,Milan,3-4-1-2,Antonio Conte,1000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433217
+5,sáb 24/10/2020,13:00,Genoa,Inter,3-4-1-2,Antonio Conte,1000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433229
+6,sáb 31/10/2020,14:00,Inter,Parma,3-4-1-2,Antonio Conte,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433237
+7,dom 08/11/2020,11:00,Atalanta,Inter,3-5-2 plano,Antonio Conte,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433245
+8,dom 22/11/2020,11:00,Inter,Torino,3-5-2 plano,Antonio Conte,x,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433257
+9,sáb 28/11/2020,11:00,Sassuolo,Inter,3-5-2 plano,Antonio Conte,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433273
+10,sáb 05/12/2020,16:45,Inter,Bologna,3-5-2 plano,Antonio Conte,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433277
+11,dom 13/12/2020,08:30,Cagliari,Inter,3-5-2 plano,Antonio Conte,x,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433287
+12,qua 16/12/2020,16:45,Inter,Napoli,3-5-2 plano,Antonio Conte,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433298
+13,dom 20/12/2020,11:00,Inter,Spezia Calcio,3-5-2 plano,Antonio Conte,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433309
+14,qua 23/12/2020,14:30,Verona,Inter,3-4-2-1,Antonio Conte,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433324
+15,dom 03/01/2021,08:30,Inter,Crotone,3-5-2 plano,Antonio Conte,x,6:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433330
+16,qua 06/01/2021,11:00,Sampdoria,Inter,3-5-2 plano,Antonio Conte,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433342
+17,dom 10/01/2021,08:30,Roma,Inter,3-5-2 plano,Antonio Conte,x,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433351
+18,dom 17/01/2021,16:45,Inter,Juventus,3-5-2 plano,Antonio Conte,x,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433359
+19,sáb 23/01/2021,14:00,Udinese,Inter,3-5-2 plano,Antonio Conte,x,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433373
+20,sáb 30/01/2021,16:45,Inter,Benevento,3-5-2 plano,Antonio Conte,x,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433375
+21,sex 05/02/2021,16:45,Fiorentina,Inter,3-5-2 plano,Antonio Conte,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433388
+22,dom 14/02/2021,16:45,Inter,Lazio,3-5-2 plano,Antonio Conte,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433400
+23,dom 21/02/2021,11:00,Milan,Inter,3-5-2 plano,Antonio Conte,x,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433407
+24,dom 28/02/2021,11:00,Inter,Genoa,3-5-2 plano,Antonio Conte,x,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433419
+25,qui 04/03/2021,16:45,Parma,Inter,3-5-2 plano,Antonio Conte,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433427
+26,seg 08/03/2021,16:45,Inter,Atalanta,3-5-2 plano,Antonio Conte,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433435
+27,dom 14/03/2021,11:00,Torino,Inter,3-5-2 plano,Antonio Conte,x,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433447
+28,qua 07/04/2021,13:45,Inter,Sassuolo,3-5-2 plano,Antonio Conte,x,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433463
+29,sáb 03/04/2021,15:45,Bologna,Inter,3-5-2 plano,Antonio Conte,x,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433467
+30,dom 11/04/2021,07:30,Inter,Cagliari,3-5-2 plano,Antonio Conte,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433477
+31,dom 18/04/2021,15:45,Napoli,Inter,3-5-2 plano,Antonio Conte,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433488
+32,qua 21/04/2021,15:45,Spezia Calcio,Inter,3-5-2 plano,Antonio Conte,x,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433499
+33,dom 25/04/2021,10:00,Inter,Verona,3-5-2 plano,Antonio Conte,x,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433514
+34,sáb 01/05/2021,13:00,Crotone,Inter,3-5-2 plano,Antonio Conte,x,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433520
+35,sáb 08/05/2021,13:00,Inter,Sampdoria,3-5-2 plano,Antonio Conte,x,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433532
+36,qua 12/05/2021,15:45,Inter,Roma,3-5-2 plano,Antonio Conte,x,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433541
+37,sáb 15/05/2021,13:00,Juventus,Inter,3-5-2 plano,Antonio Conte,x,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433549
+38,dom 23/05/2021,10:00,Inter,Udinese,3-5-2 plano,Antonio Conte,1000,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3433563

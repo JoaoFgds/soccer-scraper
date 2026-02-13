@@ -1,6 +1,5 @@
 """
 SoSB Density Plot - Creates KDE density plots of normalized rankings
-<<<<<<< HEAD
 grouped by G_type (balanced, unbalanced_weak, unbalanced_strong).
 
 This script visualizes how teams with different schedule balance types
@@ -22,10 +21,6 @@ Usage:
 
     # Run ALL thresholds from parameters.py
     python -m src.analysis.sosb_density_plot --all
-=======
-grouped by G_type (balanced, unbalanced_weak, unbalanced_strong)
-for each threshold level (0.200, 0.250, 0.300, 0.350)
->>>>>>> 238249e8da800de30fa99aa4c9535cd037f80c6c
 """
 
 import argparse
@@ -70,7 +65,6 @@ def classify_by_pvalue(df: pd.DataFrame, p_threshold: float) -> pd.DataFrame:
     Returns:
         DataFrame with added 'g_type_dynamic' column
     """
-<<<<<<< HEAD
     df = df.copy()
 
     conditions = [
@@ -113,20 +107,40 @@ def create_density_plot(
     """
     Create a KDE density plot for a single threshold.
 
+    Optimized for inclusion in Springer LNCS single-column LaTeX documents.
+    Statistics text box is placed in a dedicated right-side panel to avoid
+    overlapping KDE curves.
+
     Args:
         df: DataFrame with normalized_rank and g_type column
         g_type_col: Column name for G_type classification
         threshold_label: Human-readable label for the threshold
         output_path: Path to save the plot
     """
-    fig, ax = plt.subplots(figsize=(12, 8))
+    # --- LaTeX-friendly matplotlib settings ---
+    plt.rcParams.update({
+        'font.family': 'serif',
+        'font.serif': ['Computer Modern Roman', 'DejaVu Serif', 'Times New Roman'],
+        'font.size': 13,
+        'axes.labelsize': 16,
+        'axes.titlesize': 16,
+        'xtick.labelsize': 13,
+        'ytick.labelsize': 13,
+        'legend.fontsize': 11,
+        'legend.title_fontsize': 12,
+        'mathtext.fontset': 'cm',
+    })
+
     sns.set_style("whitegrid")
+
+    fig = plt.figure(figsize=(12, 7))
+    ax = fig.add_axes([0.08, 0.12, 0.55, 0.82])
 
     # Map the G_type values to display labels
     g_type_mapping = {
-        'balanced': 'G0 (Balanced)',
-        'unbalanced_weak': 'G- (Unbalanced Weak)',
-        'unbalanced_strong': 'G+ (Unbalanced Strong)'
+        'balanced': r'$G^0$ (Balanced)',
+        'unbalanced_weak': r'$G^-$ (Unbalanced Weak)',
+        'unbalanced_strong': r'$G^+$ (Unbalanced Strong)'
     }
 
     # Define colors for each group
@@ -144,42 +158,48 @@ def create_density_plot(
                 data=subset,
                 label=f"{label} (n={len(subset)})",
                 color=colors[g_type],
-                linewidth=2.5,
+                linewidth=3.0,
                 fill=True,
                 alpha=0.3,
                 ax=ax
             )
 
     # Customize plot
-    ax.set_xlabel('Normalized Rank (0 = Champion, 1 = Last Place)', fontsize=12)
-    ax.set_ylabel('Density', fontsize=12)
-    ax.set_title(f'Distribution of Final Positions by Schedule Balance Type\n(Classification: {threshold_label})',
-                 fontsize=14, fontweight='bold')
-    ax.legend(title='Schedule Balance Type', fontsize=10, title_fontsize=11)
+    ax.set_xlabel('Normalized Rank (0 = Champion, 1 = Last Place)', fontsize=16)
+    ax.set_ylabel('Density', fontsize=16)
+    # No in-figure title — use \caption{} in LaTeX
+    ax.legend(title='Schedule Balance Type', fontsize=11, title_fontsize=12)
     ax.set_xlim(0, 1)
-    ax.axvline(x=0.5, color='gray', linestyle='--', alpha=0.5, label='Midpoint')
+    ax.axvline(x=0.5, color='gray', linestyle='--', alpha=0.5, linewidth=2.0)
 
-    # Add statistics text box
+    # --- Right-side text panel ---
+    text_ax = fig.add_axes([0.67, 0.12, 0.31, 0.82])
+    text_ax.axis('off')
+
+    # Statistics block
     stats_lines = []
     for g_type, label in g_type_mapping.items():
         subset = df[df[g_type_col] == g_type]['normalized_rank']
         if len(subset) > 0:
-            stats_lines.append(f"{g_type_mapping[g_type]}:")
-            stats_lines.append(f"  Mean: {subset.mean():.3f}, Median: {subset.median():.3f}")
+            stats_lines.append(f"{label}:")
+            stats_lines.append(f"  Mean: {subset.mean():.3f}")
+            stats_lines.append(f"  Median: {subset.median():.3f}")
 
     stats_text = "\n".join(stats_lines)
-    ax.text(
-        0.02, 0.98, stats_text,
-        transform=ax.transAxes,
-        fontsize=9,
+    text_ax.text(
+        0.05, 0.98, stats_text,
+        transform=text_ax.transAxes,
+        fontsize=10,
         verticalalignment='top',
         bbox=dict(boxstyle='round', facecolor='wheat', alpha=0.8),
-        fontfamily='monospace'
+        fontfamily='serif'
     )
 
-    plt.tight_layout()
-    plt.savefig(output_path, dpi=300, bbox_inches='tight')
-    print(f"  Plot saved: {output_path}")
+    # Save as PNG (300 DPI) and PDF (vector)
+    plt.savefig(output_path, dpi=300, bbox_inches='tight', facecolor='white')
+    pdf_path = output_path.replace('.png', '.pdf')
+    plt.savefig(pdf_path, bbox_inches='tight', facecolor='white')
+    print(f"  Plot saved: {output_path} and {pdf_path}")
     plt.close()
 
 
@@ -192,45 +212,44 @@ def create_multi_density_plot(
     """
     Create a 2x2 grid of KDE density plots for comparison.
 
+    Optimized for inclusion in Springer LNCS single-column LaTeX documents.
+
     Args:
         df: DataFrame with normalized_rank
         g_type_columns: List of G_type column names
         threshold_labels: List of human-readable threshold labels
         output_path: Path to save the plot
-=======
-    df['num_teams'] = df['R_array'].apply(lambda x: len(ast.literal_eval(x)) + 1)
-    df['normalized_rank'] = (df['final_position'] - 1) / (df['num_teams'] - 1)
-    return df
-
-
-def create_multi_density_plot(df: pd.DataFrame, output_path: str = None):
     """
-    Create a 2x2 grid of KDE density plots, one for each G_type threshold.
-    Each plot shows three curves: G0 (balanced), G- (unbalanced_weak), G+ (unbalanced_strong)
->>>>>>> 238249e8da800de30fa99aa4c9535cd037f80c6c
-    """
+    # --- LaTeX-friendly matplotlib settings ---
+    plt.rcParams.update({
+        'font.family': 'serif',
+        'font.serif': ['Computer Modern Roman', 'DejaVu Serif', 'Times New Roman'],
+        'font.size': 12,
+        'axes.labelsize': 13,
+        'axes.titlesize': 14,
+        'xtick.labelsize': 11,
+        'ytick.labelsize': 11,
+        'legend.fontsize': 9,
+        'legend.title_fontsize': 10,
+        'mathtext.fontset': 'cm',
+    })
+
     # G_type columns to plot
     g_type_columns = ['G_type_0.250', 'G_type_0.300', 'G_type_0.350', 'G_type_0.400']
-    threshold_labels = ['α = 0.250', 'α = 0.300', 'α = 0.350', 'α = 0.400']
+    threshold_labels = [r'$\alpha$ = 0.250', r'$\alpha$ = 0.300', r'$\alpha$ = 0.350', r'$\alpha$ = 0.400']
     
     # Map the G_type values to display labels
     g_type_mapping = {
-        'balanced': 'G0 (Balanced)',
-        'unbalanced_weak': 'G- (Unbalanced Weak)',
-        'unbalanced_strong': 'G+ (Unbalanced Strong)'
+        'balanced': r'$G^0$ (Balanced)',
+        'unbalanced_weak': r'$G^-$ (Unbalanced Weak)',
+        'unbalanced_strong': r'$G^+$ (Unbalanced Strong)'
     }
-<<<<<<< HEAD
-
-=======
-    
->>>>>>> 238249e8da800de30fa99aa4c9535cd037f80c6c
     # Define colors for each group
     colors = {
         'balanced': '#2ecc71',           # Green
         'unbalanced_weak': '#e74c3c',    # Red
         'unbalanced_strong': '#3498db'   # Blue
     }
-<<<<<<< HEAD
 
     # Set up the figure with 2x2 subplots
     n_plots = len(g_type_columns)
@@ -243,17 +262,6 @@ def create_multi_density_plot(df: pd.DataFrame, output_path: str = None):
     for idx, (g_type_col, threshold_label) in enumerate(zip(g_type_columns, threshold_labels)):
         ax = axes[idx]
 
-=======
-    
-    # Set up the figure with 2x2 subplots
-    fig, axes = plt.subplots(2, 2, figsize=(14, 12))
-    axes = axes.flatten()
-    sns.set_style("whitegrid")
-    
-    for idx, (g_type_col, threshold_label) in enumerate(zip(g_type_columns, threshold_labels)):
-        ax = axes[idx]
-        
->>>>>>> 238249e8da800de30fa99aa4c9535cd037f80c6c
         # Create KDE plot for each group
         for g_type, label in g_type_mapping.items():
             subset = df[df[g_type_col] == g_type]['normalized_rank']
@@ -262,47 +270,33 @@ def create_multi_density_plot(df: pd.DataFrame, output_path: str = None):
                     data=subset,
                     label=f"{label} (n={len(subset)})",
                     color=colors[g_type],
-                    linewidth=2.5,
+                    linewidth=3.0,
                     fill=True,
                     alpha=0.3,
                     ax=ax
                 )
-<<<<<<< HEAD
-
-=======
-        
->>>>>>> 238249e8da800de30fa99aa4c9535cd037f80c6c
         # Customize each subplot
-        ax.set_xlabel('Normalized Rank (0 = Champion, 1 = Last Place)', fontsize=10)
-        ax.set_ylabel('Density', fontsize=10)
-        ax.set_title(f'SoSB Distribution - {threshold_label}', fontsize=12, fontweight='bold')
-        ax.legend(title='Schedule Balance Type', fontsize=8, title_fontsize=9)
+        ax.set_xlabel('Normalized Rank (0 = Champion, 1 = Last Place)', fontsize=13)
+        ax.set_ylabel('Density', fontsize=13)
+        ax.set_title(f'SoSB Distribution \u2014 {threshold_label}', fontsize=14, fontweight='bold')
+        ax.legend(title='Schedule Balance Type', fontsize=9, title_fontsize=10)
         ax.set_xlim(0, 1)
-        ax.axvline(x=0.5, color='gray', linestyle='--', alpha=0.5)
-<<<<<<< HEAD
+        ax.axvline(x=0.5, color='gray', linestyle='--', alpha=0.5, linewidth=2.0)
 
     # Hide extra subplots if odd number
     for idx in range(n_plots, len(axes)):
         axes[idx].set_visible(False)
 
-    # Overall title
-    fig.suptitle('Distribution of Final Positions by Schedule Balance Type\nAcross Different Classification Thresholds',
-                 fontsize=14, fontweight='bold', y=1.02)
+    # No overall suptitle — use \caption{} in LaTeX
 
-=======
-    
-    # Overall title
-    fig.suptitle('Distribution of Final Positions by Schedule Balance Type\nAcross Different Significance Thresholds', 
-                 fontsize=14, fontweight='bold', y=1.02)
-    
->>>>>>> 238249e8da800de30fa99aa4c9535cd037f80c6c
     plt.tight_layout()
-    plt.savefig(output_path, dpi=300, bbox_inches='tight')
-    print(f"  Multi-panel plot saved: {output_path}")
+    plt.savefig(output_path, dpi=300, bbox_inches='tight', facecolor='white')
+    pdf_path = output_path.replace('.png', '.pdf')
+    plt.savefig(pdf_path, bbox_inches='tight', facecolor='white')
+    print(f"  Multi-panel plot saved: {output_path} and {pdf_path}")
     plt.close()
 
 
-<<<<<<< HEAD
 # =============================================================================
 # Summary Statistics
 # =============================================================================
@@ -558,24 +552,6 @@ Examples:
     )
 
     return parser.parse_args()
-=======
-def print_statistics(df: pd.DataFrame):
-    """Print summary statistics for each G_type column and group."""
-    g_type_columns = ['G_type_0.250', 'G_type_0.300', 'G_type_0.350', 'G_type_0.400']
-    
-    for g_type_col in g_type_columns:
-        print("\n" + "="*60)
-        print(f"Statistics for {g_type_col}")
-        print("="*60)
-        
-        for g_type in ['balanced', 'unbalanced_weak', 'unbalanced_strong']:
-            subset = df[df[g_type_col] == g_type]['normalized_rank']
-            print(f"\n{g_type.upper()}:")
-            print(f"  Count: {len(subset)}")
-            print(f"  Mean Normalized Rank: {subset.mean():.4f}")
-            print(f"  Std Dev: {subset.std():.4f}")
-            print(f"  Median: {subset.median():.4f}")
->>>>>>> 238249e8da800de30fa99aa4c9535cd037f80c6c
 
 
 def main():
@@ -584,7 +560,6 @@ def main():
 
     # Define paths
     project_root = Path(__file__).parent.parent.parent
-<<<<<<< HEAD
 
     if args.input:
         csv_path = Path(args.input)
@@ -596,15 +571,6 @@ def main():
     else:
         output_base_dir = project_root / "data" / "gold" / "analysis" / "sosb_density"
 
-=======
-    csv_path = project_root / "data" / "gold" / "analysis" / "spearman_coefficient" / "metrics" / "strength_schedule_balance.csv"
-    output_dir = project_root / "data" / "gold" / "analysis" / "figures"
-    
-    # Create output directory if it doesn't exist
-    output_dir.mkdir(parents=True, exist_ok=True)
-    output_path = output_dir / "sosb_density_plot_multi.png"
-    
->>>>>>> 238249e8da800de30fa99aa4c9535cd037f80c6c
     print(f"Loading data from: {csv_path}")
 
     # Load data
@@ -613,7 +579,6 @@ def main():
 
     # Compute normalized ranks
     df = compute_normalized_rank(df)
-<<<<<<< HEAD
 
     # Run analysis
     if args.all:
@@ -624,14 +589,6 @@ def main():
     print("\n" + "=" * 70)
     print("ANALYSIS COMPLETE")
     print("=" * 70)
-=======
-    
-    # Print statistics
-    print_statistics(df)
-    
-    # Create and save the multi-panel density plot
-    create_multi_density_plot(df, output_path=str(output_path))
->>>>>>> 238249e8da800de30fa99aa4c9535cd037f80c6c
 
 
 if __name__ == "__main__":

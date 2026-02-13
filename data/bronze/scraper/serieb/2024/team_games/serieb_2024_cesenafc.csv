@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 18/08/2024,15:30,Cesena,Carrarese,3-5-2 plano,Michele Mignani,11382,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385225
+2,sáb 24/08/2024,15:30,Sassuolo,Cesena,3-5-2 plano,Michele Mignani,5017,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385781
+3,qua 28/08/2024,15:30,Cesena,Catanzaro,3-5-2 plano,Michele Mignani,11870,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385786
+4,dom 01/09/2024,15:30,Spezia Calcio,Cesena,3-5-2 plano,Michele Mignani,7573,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385802
+5,sex 13/09/2024,15:30,Cesena,Modena,3-4-1-2,Michele Mignani,13974,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385807
+6,sáb 21/09/2024,10:00,Palermo,Cesena,3-5-2 plano,Michele Mignani,23230,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385819
+7,dom 29/09/2024,10:00,Cesena,Mantova,3-4-2-1,Michele Mignani,12326,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385836
+8,sáb 05/10/2024,10:00,Pisa,Cesena,3-4-2-1,Michele Mignani,7915,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385849
+9,dom 20/10/2024,12:15,Cesena,Sampdoria,5-4-1 plano,Michele Mignani,12000,3:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385865
+10,sáb 26/10/2024,10:00,Cesena,Brescia,3-4-2-1,Michele Mignani,11816,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385883
+11,ter 29/10/2024,16:30,Salernitana,Cesena,3-5-2 plano,Michele Mignani,10141,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385908
+12,dom 03/11/2024,11:00,Cesena,Südtirol,3-4-2-1,Michele Mignani,10754,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385913
+13,dom 10/11/2024,11:00,Cittadella,Cesena,3-4-3 plano,Michele Mignani,4082,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385921
+14,sáb 23/11/2024,13:15,Cesena,Reggiana,3-4-2-1,Michele Mignani,12513,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385933
+15,dom 01/12/2024,11:00,Frosinone,Cesena,3-4-2-1,Michele Mignani,9698,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385942
+16,sáb 07/12/2024,11:00,Bari,Cesena,3-4-2-1,Michele Mignani,14696,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385950
+17,sáb 14/12/2024,11:00,Cesena,Cosenza,3-4-2-1,Michele Mignani,10732,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385961
+18,dom 22/12/2024,11:00,Juve Stabia,Cesena,3-4-2-1,Michele Mignani,4767,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385975
+19,qui 26/12/2024,11:00,Cesena,Cremonese,3-5-2 plano,Michele Mignani,11088,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385981
+20,dom 29/12/2024,11:00,Carrarese,Cesena,3-5-2 plano,Michele Mignani,3813,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4385991
+21,dom 12/01/2025,13:15,Cesena,Cittadella,3-4-2-1,Michele Mignani,10065,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386005
+22,sex 17/01/2025,16:30,Sampdoria,Cesena,3-4-2-1,Michele Mignani,21078,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386030
+23,sáb 25/01/2025,11:00,Cesena,Bari,3-4-2-1,Michele Mignani,12949,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386045
+24,sáb 01/02/2025,11:00,Catanzaro,Cesena,3-4-1-2,Michele Mignani,8514,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386064
+25,dom 09/02/2025,11:00,Reggiana,Cesena,3-5-2 plano,Michele Mignani,10372,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386087
+26,dom 16/02/2025,13:15,Cesena,Pisa,3-4-1-2,Michele Mignani,11376,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386105
+27,sáb 22/02/2025,13:15,Cremonese,Cesena,3-5-2 plano,Michele Mignani,7404,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386123
+28,sáb 01/03/2025,11:00,Cesena,Salernitana,3-4-1-2,Michele Mignani,10895,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386141
+29,sáb 08/03/2025,15:30,Brescia,Cesena,3-4-2-1,Michele Mignani,4818,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386160
+30,sáb 15/03/2025,11:00,Cesena,Spezia Calcio,3-5-2 plano,Michele Mignani,11927,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386180
+31,dom 30/03/2025,10:00,Cesena,Juve Stabia,3-4-2-1,Michele Mignani,12110,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386197
+32,sáb 05/04/2025,10:00,Südtirol,Cesena,3-5-2 plano,Michele Mignani,4525,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386231
+33,dom 13/04/2025,10:00,Cesena,Frosinone,3-4-2-1,Michele Mignani,11169,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386282
+34,ter 13/05/2025,15:30,Modena,Cesena,3-4-2-1,Michele Mignani,9538,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386302
+35,sex 25/04/2025,15:30,Cesena,Sassuolo,3-5-2 plano,Michele Mignani,12374,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386312
+36,qui 01/05/2025,10:00,Mantova,Cesena,3-4-2-1,Michele Mignani,9602,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386321
+37,dom 04/05/2025,10:00,Cesena,Palermo,3-4-2-1,Michele Mignani,12080,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386344
+38,sex 09/05/2025,15:30,Cosenza,Cesena,3-5-2 plano,Michele Mignani,1078,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4386359

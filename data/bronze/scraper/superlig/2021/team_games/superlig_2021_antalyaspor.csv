@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 15/08/2021,15:45,Antalyaspor,Göztepe,4-1-4-1,Ersun Yanal,1146,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612837
+2,dom 22/08/2021,15:45,Fenerbahce,Antalyaspor,4-3-3 ofensivo,Ersun Yanal,8637,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612850
+3,sex 27/08/2021,14:30,Antalyaspor,C. Rizespor,4-2-3-1,Ersun Yanal,1258,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612857
+4,seg 13/09/2021,14:00,Gaziantep FK,Antalyaspor,4-2-3-1,Ersun Yanal,1813,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612864
+5,sáb 18/09/2021,13:00,Antalyaspor,Besiktas,4-2-3-1,Ersun Yanal,5877,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612877
+6,ter 21/09/2021,11:00,Karagümrük,Antalyaspor,4-2-3-1,Ersun Yanal,199,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612884
+7,sáb 25/09/2021,10:00,Antalyaspor,Y. Malatyaspor,4-2-3-1,Ersun Yanal,1535,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612897
+8,sex 01/10/2021,14:00,Antalyaspor,Adana Demirspor,4-2-3-1,Ersun Yanal,4472,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612907
+9,sáb 16/10/2021,10:00,Sivasspor,Antalyaspor,3-4-3 plano,Nuri Şahin,2745,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612918
+10,dom 24/10/2021,10:00,Antalyaspor,Basaksehir,5-4-1 plano,Nuri Şahin,4072,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612927
+11,seg 01/11/2021,14:00,Giresunspor,Antalyaspor,3-4-3 plano,Nuri Şahin,5014,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612933
+12,sáb 06/11/2021,10:00,Antalyaspor,Altay SK,3-4-3 plano,Nuri Şahin,2794,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612947
+13,sáb 20/11/2021,07:30,Hatayspor,Antalyaspor,3-4-3 plano,Nuri Şahin,4912,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612962
+14,sáb 27/11/2021,07:30,Antalyaspor,Alanyaspor,3-4-3 plano,Nuri Şahin,2813,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612967
+15,dom 05/12/2021,07:30,Kayserispor,Antalyaspor,3-4-3 plano,Nuri Şahin,3165,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612978
+16,sáb 11/12/2021,13:00,Antalyaspor,Trabzonspor,3-4-3 plano,Nuri Şahin,10371,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3612987
+17,sáb 18/12/2021,10:00,Konyaspor,Antalyaspor,3-4-3 plano,Nuri Şahin,6882,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613000
+18,ter 21/12/2021,11:00,Antalyaspor,Kasimpasa,3-4-3 plano,Nuri Şahin,2399,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613007
+19,sáb 25/12/2021,10:00,Galatasaray,Antalyaspor,3-4-3 plano,Nuri Şahin,10150,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613015
+20,dom 09/01/2022,10:00,Göztepe,Antalyaspor,4-1-4-1,Nuri Şahin,8080,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613027
+21,sáb 15/01/2022,13:00,Antalyaspor,Fenerbahce,3-4-3 plano,Nuri Şahin,13394,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613040
+22,qui 20/01/2022,11:00,C. Rizespor,Antalyaspor,3-4-3 plano,Nuri Şahin,1616,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613047
+23,dom 23/01/2022,10:00,Antalyaspor,Gaziantep FK,4-2-3-1,Nuri Şahin,3318,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613054
+24,dom 06/02/2022,13:00,Besiktas,Antalyaspor,4-2-3-1,Nuri Şahin,26841,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613067
+25,dom 13/02/2022,10:00,Antalyaspor,Karagümrük,4-2-3-1,Nuri Şahin,5501,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613074
+26,sáb 19/02/2022,07:30,Y. Malatyaspor,Antalyaspor,4-2-3-1,Nuri Şahin,953,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613087
+27,sex 25/02/2022,14:00,Adana Demirspor,Antalyaspor,4-2-3-1,Nuri Şahin,15150,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613097
+28,dom 06/03/2022,13:00,Antalyaspor,Sivasspor,4-2-3-1,Nuri Şahin,7137,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613108
+29,seg 14/03/2022,10:00,Basaksehir,Antalyaspor,4-4-2 duplo 6,Nuri Şahin,383,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613117
+30,dom 20/03/2022,07:30,Antalyaspor,Giresunspor,4-4-2 duplo 6,Nuri Şahin,7051,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613123
+31,sáb 02/04/2022,10:00,Altay SK,Antalyaspor,4-4-2 duplo 6,Nuri Şahin,5123,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613137
+32,seg 11/04/2022,14:30,Antalyaspor,Hatayspor,4-4-2 duplo 6,Nuri Şahin,7932,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613152
+33,sáb 16/04/2022,10:00,Alanyaspor,Antalyaspor,4-4-2 duplo 6,Nuri Şahin,2435,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613157
+34,dom 24/04/2022,14:30,Antalyaspor,Kayserispor,4-4-2 duplo 6,Nuri Şahin,9997,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613168
+35,sáb 30/04/2022,14:30,Trabzonspor,Antalyaspor,4-4-2 duplo 6,Nuri Şahin,40782,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613177
+36,seg 09/05/2022,14:00,Antalyaspor,Konyaspor,4-4-2 duplo 6,Nuri Şahin,10049,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613190
+37,dom 15/05/2022,13:00,Kasimpasa,Antalyaspor,4-4-2 duplo 6,Nuri Şahin,1435,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613197
+38,sex 20/05/2022,14:00,Antalyaspor,Galatasaray,4-4-2 duplo 6,Nuri Şahin,19003,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/3613205

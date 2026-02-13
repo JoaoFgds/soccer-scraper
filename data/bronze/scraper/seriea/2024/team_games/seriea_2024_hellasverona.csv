@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 18/08/2024,13:30,Verona,Napoli,3-4-3 plano,Paolo Zanetti,20027,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373909
+2,seg 26/08/2024,15:45,Verona,Juventus,3-4-3 plano,Paolo Zanetti,29575,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373917
+3,dom 01/09/2024,13:30,Genoa,Verona,3-4-2-1,Paolo Zanetti,30747,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373927
+4,seg 16/09/2024,15:45,Lazio,Verona,3-4-2-1,Paolo Zanetti,35500,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373940
+5,sex 20/09/2024,15:45,Verona,Torino,3-4-1-2,Paolo Zanetti,24801,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373948
+6,dom 29/09/2024,10:00,Como,Verona,4-2-3-1,Paolo Zanetti,10740,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373956
+7,sex 04/10/2024,15:45,Verona,Venezia,4-2-3-1,Paolo Zanetti,25979,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373968
+8,seg 21/10/2024,15:45,Verona,Monza,4-2-3-1,Paolo Zanetti,24854,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373979
+9,sáb 26/10/2024,15:45,Atalanta,Verona,3-4-2-1,Paolo Zanetti,23015,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4373985
+10,ter 29/10/2024,14:30,Lecce,Verona,4-2-3-1,Paolo Zanetti,23698,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374001
+11,dom 03/11/2024,14:00,Verona,Roma,4-2-3-1,Paolo Zanetti,28185,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374007
+12,dom 10/11/2024,11:00,Fiorentina,Verona,4-2-3-1,Paolo Zanetti,22495,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374017
+13,sáb 23/11/2024,11:00,Verona,Inter,3-5-2 plano,Paolo Zanetti,27141,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374028
+14,sex 29/11/2024,16:45,Cagliari,Verona,4-4-2 duplo 6,Paolo Zanetti,16162,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374036
+15,dom 08/12/2024,11:00,Verona,Empoli,4-2-3-1,Paolo Zanetti,23949,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374048
+16,dom 15/12/2024,11:00,Parma,Verona,3-4-2-1,Paolo Zanetti,17003,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374063
+17,sex 20/12/2024,16:45,Verona,Milan,3-4-1-2,Paolo Zanetti,23635,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374068
+18,seg 30/12/2024,16:45,Bologna,Verona,3-5-2 plano,Paolo Zanetti,26484,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374075
+19,sáb 04/01/2025,16:45,Verona,Udinese,3-4-1-2,Paolo Zanetti,23663,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374088
+20,dom 12/01/2025,16:45,Napoli,Verona,3-4-1-2,Paolo Zanetti,48750,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374118
+21,dom 19/01/2025,14:00,Verona,Lazio,3-4-1-2,Paolo Zanetti,25747,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374127
+22,seg 27/01/2025,14:30,Venezia,Verona,3-4-1-2,Paolo Zanetti,9481,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374141
+23,sáb 01/02/2025,11:00,Monza,Verona,3-4-1-2,Paolo Zanetti,11723,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374148
+24,sáb 08/02/2025,11:00,Verona,Atalanta,3-4-1-2,Paolo Zanetti,20872,0:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374155
+25,sáb 15/02/2025,16:45,Milan,Verona,3-5-2 plano,Paolo Zanetti,69578,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374168
+26,dom 23/02/2025,11:00,Verona,Fiorentina,3-5-2,Paolo Zanetti,26496,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374175
+27,seg 03/03/2025,16:45,Juventus,Verona,3-4-2-1,Paolo Zanetti,36215,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374186
+28,dom 09/03/2025,08:30,Verona,Bologna,3-4-2-1,Paolo Zanetti,24612,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374195
+29,sáb 15/03/2025,11:00,Udinese,Verona,3-4-1-2,Paolo Zanetti,20754,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374210
+30,seg 31/03/2025,13:30,Verona,Parma,3-5-2 plano,Paolo Zanetti,22706,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374215
+31,dom 06/04/2025,10:00,Torino,Verona,3-5-2 plano,Paolo Zanetti,25479,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374231
+32,dom 13/04/2025,10:00,Verona,Genoa,3-5-2 plano,Paolo Zanetti,27724,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374235
+33,sáb 19/04/2025,15:45,Roma,Verona,3-5-2 plano,Paolo Zanetti,62714,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374250
+34,seg 28/04/2025,15:45,Verona,Cagliari,3-5-2,Paolo Zanetti,20741,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374255
+35,sáb 03/05/2025,15:45,Inter,Verona,3-5-2 plano,Paolo Zanetti,70222,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374266
+36,dom 11/05/2025,10:00,Verona,Lecce,3-4-1-2,Paolo Zanetti,27709,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374275
+37,dom 18/05/2025,15:45,Verona,Como,3-4-1-2,Paolo Zanetti,24344,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374285
+38,dom 25/05/2025,15:45,Empoli,Verona,3-5-2 plano,Paolo Zanetti,14025,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4374295

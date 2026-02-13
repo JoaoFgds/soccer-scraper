@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 23/08/2015,15:45,Frosinone,Torino,4-4-2 duplo 6,Roberto Stellone,9473,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2603976
+2,dom 30/08/2015,15:45,Atalanta,Frosinone,4-4-2 duplo 6,Roberto Stellone,14546,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2603984
+3,sáb 12/09/2015,13:00,Frosinone,Roma,4-4-2,Roberto Stellone,8934,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2603996
+4,dom 20/09/2015,10:00,Bologna,Frosinone,4-4-2 duplo 6,Roberto Stellone,15722,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604005
+5,qua 23/09/2015,15:45,Juventus,Frosinone,4-4-2,Roberto Stellone,35973,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604018
+6,seg 28/09/2015,14:00,Frosinone,Empoli,4-4-2 duplo 6,Roberto Stellone,7000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604026
+7,dom 04/10/2015,13:00,Lazio,Frosinone,4-4-2 duplo 6,Roberto Stellone,27806,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604039
+8,dom 18/10/2015,11:00,Frosinone,Sampdoria,4-4-2 duplo 6,Roberto Stellone,7252,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604046
+9,dom 25/10/2015,12:00,Udinese,Frosinone,4-4-1-1,Roberto Stellone,13298,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604063
+10,qua 28/10/2015,17:45,Frosinone,Carpi,4-4-2 duplo 6,Roberto Stellone,6444,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604066
+11,dom 01/11/2015,09:30,Fiorentina,Frosinone,4-4-1-1,Roberto Stellone,27466,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604077
+12,dom 08/11/2015,12:00,Frosinone,Genoa,4-4-2 duplo 6,Roberto Stellone,6450,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604085
+13,dom 22/11/2015,17:45,Inter,Frosinone,4-4-2,Roberto Stellone,37469,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604100
+14,dom 29/11/2015,12:00,Frosinone,Verona,4-4-2 duplo 6,Roberto Stellone,6864,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604106
+15,dom 06/12/2015,12:00,Frosinone,Chievo Verona,4-4-2 duplo 6,Roberto Stellone,6007,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604118
+16,sáb 12/12/2015,15:00,US Palermo,Frosinone,4-4-2,Roberto Stellone,14402,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604131
+17,dom 20/12/2015,15:00,Frosinone,Milan,4-4-2 duplo 6,Roberto Stellone,7931,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604138
+18,qua 06/01/2016,12:00,Sassuolo,Frosinone,4-3-3 ofensivo,Roberto Stellone,8850,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604152
+19,dom 10/01/2016,12:00,Frosinone,Napoli,4-4-2,Roberto Stellone,7954,1:5,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604158
+20,sáb 16/01/2016,15:00,Torino,Frosinone,4-3-3 ofensivo,Roberto Stellone,17865,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604166
+21,sáb 23/01/2016,15:00,Frosinone,Atalanta,4-3-3 ofensivo,Roberto Stellone,7564,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604174
+22,sáb 30/01/2016,17:45,Roma,Frosinone,4-3-3 ofensivo,Roberto Stellone,29799,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604186
+23,qua 03/02/2016,15:30,Frosinone,Bologna,4-3-3 ofensivo,Roberto Stellone,6177,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604195
+24,dom 07/02/2016,12:00,Frosinone,Juventus,4-3-3 ofensivo,Roberto Stellone,7954,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604208
+25,sáb 13/02/2016,12:00,Empoli,Frosinone,4-3-3 ofensivo,Roberto Stellone,7897,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604216
+26,dom 21/02/2016,14:00,Frosinone,Lazio,4-3-3 ofensivo,Roberto Stellone,7954,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604229
+27,dom 28/02/2016,11:00,Sampdoria,Frosinone,4-3-3 ofensivo,Roberto Stellone,8850,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604236
+28,dom 06/03/2016,11:00,Frosinone,Udinese,4-4-2 duplo 6,Roberto Stellone,6510,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604253
+29,dom 13/03/2016,11:00,Carpi,Frosinone,4-1-4-1,Roberto Stellone,8147,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604256
+30,dom 20/03/2016,11:00,Frosinone,Fiorentina,4-5-1 plano,Roberto Stellone,11000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604271
+31,dom 03/04/2016,10:00,Genoa,Frosinone,4-3-3 ofensivo,Roberto Stellone,20033,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604275
+32,sáb 09/04/2016,10:00,Frosinone,Inter,4-1-4-1,Roberto Stellone,7954,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604290
+33,dom 17/04/2016,10:00,Verona,Frosinone,4-1-4-1,Roberto Stellone,17761,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604296
+34,qua 20/04/2016,15:45,Chievo Verona,Frosinone,4-2-3-1,Roberto Stellone,7252,5:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604308
+35,dom 24/04/2016,07:30,Frosinone,US Palermo,4-3-3 ofensivo,Roberto Stellone,6095,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604321
+36,dom 01/05/2016,10:00,Milan,Frosinone,4-4-2 duplo 6,Roberto Stellone,35936,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604328
+37,dom 08/05/2016,10:00,Frosinone,Sassuolo,4-4-2 duplo 6,Roberto Stellone,6014,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604342
+38,sáb 14/05/2016,15:45,Napoli,Frosinone,4-4-2 duplo 6,Roberto Stellone,56452,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2604348

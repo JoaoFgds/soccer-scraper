@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,seg 14/08/2023,15:00,Karagümrük,Besiktas,4-3-3 ofensivo,Şenol Güneş,1134,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4126779
+2,dom 20/08/2023,15:45,Besiktas,Pendikspor,4-3-3 defensivo,Şenol Güneş,27130,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4126791
+3,qua 27/09/2023,14:00,Adana Demirspor,Besiktas,4-3-3 ofensivo,Şenol Güneş,23614,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4126815
+4,dom 03/09/2023,13:15,Besiktas,Sivasspor,4-3-3 ofensivo,Şenol Güneş,28199,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4126828
+5,dom 17/09/2023,14:00,Trabzonspor,Besiktas,4-3-3 ofensivo,Şenol Güneş,37590,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129459
+6,dom 24/09/2023,11:00,Besiktas,Kayserispor,4-3-3 ofensivo,Şenol Güneş,29665,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129470
+7,dom 01/10/2023,13:00,Konyaspor,Besiktas,4-4-2 duplo 6,Şenol Güneş,12764,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129482
+8,dom 08/10/2023,10:00,Besiktas,Istanbulspor,4-2-3-1,Burak Yılmaz,24111,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129490
+9,sáb 21/10/2023,13:00,Galatasaray,Besiktas,4-2-3-1,Burak Yılmaz,50429,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129495
+10,seg 30/10/2023,14:00,Besiktas,Gaziantep FK,4-2-3-1,Burak Yılmaz,28952,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129510
+11,dom 05/11/2023,13:00,Antalyaspor,Besiktas,4-3-3 ofensivo,Burak Yılmaz,11413,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129519
+12,dom 12/11/2023,10:00,Besiktas,Basaksehir,4-3-3 ofensivo,Rıza Çalımbay,25400,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129530
+13,dom 26/11/2023,10:00,Samsunspor,Besiktas,4-3-3 ofensivo,Rıza Çalımbay,19927,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129536
+14,dom 03/12/2023,13:00,Ankaragücü,Besiktas,4-3-3 ofensivo,Rıza Çalımbay,16883,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129551
+15,sáb 09/12/2023,13:00,Besiktas,Fenerbahce,4-3-3 ofensivo,Rıza Çalımbay,37703,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129560
+16,ter 09/01/2024,14:00,C. Rizespor,Besiktas,4-2-3-1,Serdar Topraktepe,7221,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129572
+17,qui 21/12/2023,14:00,Besiktas,Alanyaspor,4-3-3 ofensivo,Rıza Çalımbay,13843,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129580
+18,seg 25/12/2023,14:00,Hatayspor,Besiktas,4-2-3-1,Serdar Topraktepe,11434,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129584
+19,sex 05/01/2024,14:00,Besiktas,Kasimpasa,4-3-3 ofensivo,Serdar Topraktepe,15969,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129600
+20,sáb 13/01/2024,13:00,Besiktas,Karagümrük,4-2-3-1,Fernando Santos,22109,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4261508
+21,sáb 20/01/2024,13:00,Pendikspor,Besiktas,4-3-3 ofensivo,Fernando Santos,1393,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129620
+22,ter 23/01/2024,14:00,Besiktas,Adana Demirspor,4-3-3 ofensivo,Fernando Santos,19856,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129627
+23,dom 28/01/2024,10:00,Sivasspor,Besiktas,4-3-3 ofensivo,Fernando Santos,5451,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129640
+24,dom 04/02/2024,13:00,Besiktas,Trabzonspor,4-4-2 duplo 6,Fernando Santos,26862,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129649
+25,seg 12/02/2024,14:00,Kayserispor,Besiktas,4-2-3-1,Fernando Santos,9190,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129660
+26,seg 19/02/2024,14:00,Besiktas,Konyaspor,4-2-3-1,Fernando Santos,21962,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129672
+27,dom 25/02/2024,13:00,Istanbulspor,Besiktas,4-3-3 ofensivo,Fernando Santos,1251,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129680
+28,dom 03/03/2024,13:00,Besiktas,Galatasaray,4-3-3 ofensivo,Fernando Santos,39558,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129685
+29,seg 11/03/2024,14:30,Gaziantep FK,Besiktas,4-3-3 ofensivo,Fernando Santos,10187,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129700
+30,sáb 16/03/2024,14:30,Besiktas,Antalyaspor,4-2-3-1,Fernando Santos,15853,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129712
+31,qui 04/04/2024,14:30,Basaksehir,Besiktas,4-3-3 ofensivo,Fernando Santos,3687,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129720
+32,sáb 13/04/2024,13:00,Besiktas,Samsunspor,4-3-3 ofensivo,Fernando Santos,19123,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129726
+33,sex 19/04/2024,14:00,Besiktas,Ankaragücü,4-2-3-1,Serdar Topraktepe,15630,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129741
+34,sáb 27/04/2024,13:00,Fenerbahce,Besiktas,4-2-3-1,Serdar Topraktepe,38437,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129750
+35,sex 03/05/2024,14:00,Besiktas,C. Rizespor,4-3-3 ofensivo,Serdar Topraktepe,13910,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129762
+36,dom 12/05/2024,13:00,Alanyaspor,Besiktas,4-3-3 ofensivo,Serdar Topraktepe,3767,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129770
+37,sáb 18/05/2024,13:00,Besiktas,Hatayspor,4-2-3-1,Serdar Topraktepe,23765,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129773
+38,dom 26/05/2024,13:00,Kasimpasa,Besiktas,4-2-3-1,Serdar Topraktepe,2123,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129790

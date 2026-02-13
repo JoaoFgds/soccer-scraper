@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 29/08/1999,10:00,Piacenza,Roma,3-5-2 plano,Fabio Capello,18000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211294
+2,dom 12/09/1999,15:30,Roma,Inter,3-4-1-2,Fabio Capello,73260,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211301
+3,dom 19/09/1999,10:00,AC Venezia 1907,Roma,3-4-1-2,Fabio Capello,10655,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211311
+4,dom 26/09/1999,10:00,Roma,Perugia,3-5-2,Fabio Capello,56580,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211318
+5,dom 03/10/1999,11:00,Florenz,Roma,4-4-2 losango,Fabio Capello,35000,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211333
+6,dom 17/10/1999,16:30,Roma,Juventus,3-5-2 plano,Fabio Capello,73261,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211337
+7,dom 24/10/1999,16:30,Torino,Roma,3-5-2 plano,Fabio Capello,40000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211348
+8,dom 31/10/1999,12:00,Roma,Cagliari,3-4-1-2,Fabio Capello,54357,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211358
+9,dom 07/11/1999,12:00,Reggina,Roma,3-4-3 plano,Fabio Capello,25500,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211365
+10,dom 21/11/1999,12:00,Roma,Lazio,3-4-1-2,Fabio Capello,77988,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211375
+11,dom 28/11/1999,12:00,Udinese,Roma,3-4-1-2,Fabio Capello,20000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211382
+12,dom 05/12/1999,12:00,Roma,Lecce,3-4-3 plano,Fabio Capello,55827,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211393
+13,dom 12/12/1999,12:00,Bologna,Roma,3-4-1-2,Fabio Capello,30038,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211404
+14,dom 19/12/1999,12:00,AC Parma,Roma,3-5-2 plano,Fabio Capello,26000,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211408
+15,qui 06/01/2000,12:00,Roma,Bari,3-5-2 plano,Fabio Capello,59119,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211419
+16,dom 09/01/2000,17:30,Milan,Roma,3-4-1-2,Fabio Capello,52838,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211427
+17,dom 16/01/2000,12:00,Roma,Verona,3-4-1-2,Fabio Capello,55399,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211437
+18,sáb 22/01/2000,12:00,Roma,Piacenza,3-4-1-2,Fabio Capello,53147,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211443
+19,dom 30/01/2000,17:30,Inter,Roma,4-4-2,Fabio Capello,67875,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211457
+20,dom 06/02/2000,12:00,Roma,AC Venezia 1907,3-4-1-2,Fabio Capello,53588,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211468
+21,dom 13/02/2000,12:00,Perugia,Roma,3-4-1-2,Fabio Capello,20000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211471
+22,sáb 19/02/2000,17:30,Roma,Florenz,3-5-2,Fabio Capello,59788,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211478
+23,dom 27/02/2000,16:30,Juventus,Roma,3-4-1-2,Fabio Capello,55000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211490
+24,dom 05/03/2000,11:00,Roma,Torino,3-4-1-2,Fabio Capello,53430,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211499
+25,dom 12/03/2000,11:00,Cagliari,Roma,3-4-1-2,Fabio Capello,22000,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211512
+26,dom 19/03/2000,11:00,Roma,Reggina,3-4-1-2,Fabio Capello,56000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211518
+27,sáb 25/03/2000,11:00,Lazio,Roma,3-4-1-2,Fabio Capello,70000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211524
+28,dom 02/04/2000,10:00,Roma,Udinese,3-4-1-2,Fabio Capello,48037,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211536
+29,dom 09/04/2000,10:00,Lecce,Roma,3-4-1-2,Fabio Capello,16343,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211548
+30,dom 16/04/2000,10:00,Roma,Bologna,3-4-1-2,Fabio Capello,49522,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211557
+31,sáb 22/04/2000,10:00,Roma,AC Parma,3-4-1-2,Fabio Capello,58006,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211566
+32,dom 30/04/2000,10:00,Bari,Roma,3-4-1-2,Fabio Capello,20000,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211571
+33,dom 07/05/2000,10:00,Roma,Milan,3-4-1-2,Fabio Capello,64058,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211585
+34,dom 14/05/2000,10:00,Verona,Roma,3-4-1-2,Fabio Capello,19916,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2211594

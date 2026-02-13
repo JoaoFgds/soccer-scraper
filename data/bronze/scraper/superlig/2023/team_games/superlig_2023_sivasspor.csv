@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 13/08/2023,13:15,Sivasspor,Samsunspor,4-1-4-1,Servet Çetin,6311,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4126782
+2,dom 20/08/2023,15:45,Gaziantep FK,Sivasspor,4-3-3 ofensivo,Servet Çetin,7056,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4126788
+3,sáb 26/08/2023,15:45,Sivasspor,Antalyaspor,4-3-3 ofensivo,Servet Çetin,4634,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4126819
+4,dom 03/09/2023,13:15,Besiktas,Sivasspor,4-2-3-1,Servet Çetin,28199,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4126828
+5,seg 18/09/2023,14:00,Sivasspor,Ankaragücü,4-1-4-1,Servet Çetin,3368,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129461
+6,sáb 23/09/2023,11:00,C. Rizespor,Sivasspor,4-3-3 ofensivo,Servet Çetin,5932,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129472
+7,sáb 30/09/2023,07:30,Sivasspor,Hatayspor,4-3-3 ofensivo,Servet Çetin,2522,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129481
+8,sáb 07/10/2023,07:30,Pendikspor,Sivasspor,4-1-4-1,Servet Çetin,1082,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129484
+9,dom 22/10/2023,07:30,Sivasspor,Kasimpasa,4-3-3 ofensivo,Servet Çetin,2656,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129501
+10,sáb 28/10/2023,10:00,Alanyaspor,Sivasspor,4-3-3 ofensivo,Servet Çetin,1805,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129506
+11,dom 05/11/2023,07:30,Sivasspor,Adana Demirspor,4-3-3 ofensivo,Servet Çetin,3724,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129521
+12,sáb 11/11/2023,10:00,Karagümrük,Sivasspor,4-3-3 ofensivo,Servet Çetin,513,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129528
+13,seg 27/11/2023,14:00,Sivasspor,Trabzonspor,4-3-3 ofensivo,Servet Çetin,3401,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129541
+14,seg 04/12/2023,14:00,Fenerbahce,Sivasspor,4-3-3 ofensivo,Servet Çetin,31561,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129550
+15,seg 11/12/2023,14:00,Konyaspor,Sivasspor,4-3-3 ofensivo,Servet Çetin,6899,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129562
+16,qui 11/01/2024,11:00,Sivasspor,Galatasaray,3-5-2 ofensivo,Bülent Uygun,5012,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129571
+17,ter 19/12/2023,11:00,Basaksehir,Sivasspor,4-3-3 ofensivo,Servet Çetin,1331,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129578
+18,sáb 23/12/2023,07:30,Sivasspor,Istanbulspor,4-3-3 ofensivo,Servet Çetin,1816,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129591
+19,dom 07/01/2024,07:30,Kayserispor,Sivasspor,4-2-3-1,Bülent Uygun,8200,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129593
+20,dom 14/01/2024,10:00,Samsunspor,Sivasspor,4-1-4-1,Bülent Uygun,11488,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4261511
+21,dom 21/01/2024,07:30,Sivasspor,Gaziantep FK,4-3-3 ofensivo,Bülent Uygun,4347,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129617
+22,qua 24/01/2024,14:00,Antalyaspor,Sivasspor,3-4-3 plano,Bülent Uygun,7517,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129631
+23,dom 28/01/2024,10:00,Sivasspor,Besiktas,4-1-4-1,Bülent Uygun,5451,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129640
+24,sex 02/02/2024,11:00,Ankaragücü,Sivasspor,3-5-2 ofensivo,Bülent Uygun,229,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129651
+25,dom 11/02/2024,07:30,Sivasspor,C. Rizespor,3-5-2 plano,Bülent Uygun,4264,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129662
+26,sáb 17/02/2024,10:00,Hatayspor,Sivasspor,3-4-3 plano,Bülent Uygun,2092,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129671
+27,dom 25/02/2024,07:30,Sivasspor,Pendikspor,4-2-3-1,Bülent Uygun,5777,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129674
+28,sex 01/03/2024,14:00,Kasimpasa,Sivasspor,3-4-3 plano,Bülent Uygun,2074,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129691
+29,sáb 09/03/2024,07:30,Sivasspor,Alanyaspor,4-3-3 ofensivo,Bülent Uygun,4028,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129696
+30,sáb 16/03/2024,14:30,Adana Demirspor,Sivasspor,4-3-3 ofensivo,Bülent Uygun,8898,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129704
+31,qua 03/04/2024,11:00,Sivasspor,Karagümrük,4-3-3 ofensivo,Bülent Uygun,1755,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129718
+32,sex 12/04/2024,14:00,Trabzonspor,Sivasspor,4-3-3 ofensivo,Bülent Uygun,159,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129731
+33,seg 22/04/2024,14:00,Sivasspor,Fenerbahce,3-4-3 plano,Bülent Uygun,8932,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129740
+34,sáb 27/04/2024,10:00,Sivasspor,Konyaspor,3-4-3 plano,Bülent Uygun,3538,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129752
+35,dom 05/05/2024,13:00,Galatasaray,Sivasspor,5-4-1 plano,Bülent Uygun,48892,6:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129761
+36,dom 12/05/2024,13:00,Sivasspor,Basaksehir,3-4-3 plano,Bülent Uygun,2964,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129768
+37,sex 17/05/2024,11:00,Istanbulspor,Sivasspor,4-3-3 ofensivo,Bülent Uygun,326,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129781
+38,sáb 25/05/2024,13:00,Sivasspor,Kayserispor,4-3-3 ofensivo,Bülent Uygun,4249,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129783

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 31/08/2014,15:45,Torino,Inter,3-4-2-1,Walter Mazzarri,25824,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478596
+2,dom 14/09/2014,10:00,Inter,Sassuolo,3-5-2 plano,Walter Mazzarri,34549,7:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478602
+3,dom 21/09/2014,15:45,US Palermo,Inter,3-5-2 plano,Walter Mazzarri,18292,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478613
+4,qua 24/09/2014,15:45,Inter,Atalanta,3-5-2 plano,Walter Mazzarri,29535,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478622
+5,dom 28/09/2014,10:00,Inter,Cagliari,3-5-2 plano,Walter Mazzarri,36925,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478632
+6,dom 05/10/2014,15:45,Fiorentina,Inter,3-5-2 plano,Walter Mazzarri,34279,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478639
+7,dom 19/10/2014,16:45,Inter,Napoli,3-5-2 plano,Walter Mazzarri,40383,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478653
+8,dom 26/10/2014,15:00,Cesena,Inter,3-5-2 plano,Walter Mazzarri,22917,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478658
+9,qua 29/10/2014,17:45,Inter,Sampdoria,3-5-2 plano,Walter Mazzarri,28057,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478673
+10,sáb 01/11/2014,17:45,Parma,Inter,3-4-1-2,Walter Mazzarri,13539,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478684
+11,dom 09/11/2014,17:45,Inter,Verona,5-3-2,Walter Mazzarri,27314,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478692
+12,dom 23/11/2014,17:45,Milan,Inter,4-3-1-2,Roberto Mancini,79173,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478703
+13,dom 30/11/2014,17:45,Roma,Inter,4-2-3-1,Roberto Mancini,41701,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478715
+14,dom 07/12/2014,17:45,Inter,Udinese,4-1-4-1,Roberto Mancini,34912,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478723
+15,seg 15/12/2014,18:00,Chievo Verona,Inter,4-4-2 losango,Roberto Mancini,15000,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478729
+16,dom 21/12/2014,17:45,Inter,Lazio,4-1-4-1,Roberto Mancini,36344,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478742
+17,ter 06/01/2015,18:00,Juventus,Inter,4-3-1-2,Roberto Mancini,38791,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478752
+18,dom 11/01/2015,09:30,Inter,Genoa,4-2-3-1,Roberto Mancini,37525,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478762
+19,sáb 17/01/2015,15:00,Empoli,Inter,4-4-1-1,Roberto Mancini,13449,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478770
+20,dom 25/01/2015,12:00,Inter,Torino,4-2-3-1,Roberto Mancini,34209,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478786
+21,dom 01/02/2015,09:30,Sassuolo,Inter,4-2-3-1,Roberto Mancini,18446,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478792
+22,dom 08/02/2015,17:45,Inter,US Palermo,4-3-1-2,Roberto Mancini,30085,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478803
+23,dom 15/02/2015,12:00,Atalanta,Inter,4-3-1-2,Roberto Mancini,13765,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478812
+24,seg 23/02/2015,17:00,Cagliari,Inter,4-3-1-2,Roberto Mancini,16000,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478822
+25,dom 01/03/2015,14:15,Inter,Fiorentina,4-3-1-2,Roberto Mancini,39310,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478829
+26,dom 08/03/2015,16:45,Napoli,Inter,4-3-1-2,Roberto Mancini,36646,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478843
+27,dom 15/03/2015,16:45,Inter,Cesena,4-3-1-2,Roberto Mancini,28549,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478848
+28,dom 22/03/2015,16:45,Sampdoria,Inter,4-3-1-2,Roberto Mancini,22865,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478863
+29,sáb 04/04/2015,10:00,Inter,Parma,4-3-3 ofensivo,Roberto Mancini,33175,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478874
+30,sáb 11/04/2015,15:45,Verona,Inter,4-3-1-2,Roberto Mancini,20645,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478882
+31,dom 19/04/2015,15:45,Inter,Milan,4-3-1-2,Roberto Mancini,74022,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478893
+32,sáb 25/04/2015,15:45,Inter,Roma,4-3-1-2,Roberto Mancini,37695,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478905
+33,ter 28/04/2015,15:45,Udinese,Inter,4-3-1-2,Roberto Mancini,10862,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478913
+34,dom 03/05/2015,10:00,Inter,Chievo Verona,4-3-1-2,Roberto Mancini,33144,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478919
+35,dom 10/05/2015,15:45,Lazio,Inter,4-3-1-2,Roberto Mancini,47367,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478932
+36,sáb 16/05/2015,13:00,Inter,Juventus,4-3-1-2,Roberto Mancini,60362,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478942
+37,sáb 23/05/2015,15:45,Genoa,Inter,4-3-1-2,Roberto Mancini,27161,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478952
+38,dom 31/05/2015,15:45,Inter,Empoli,4-3-1-2,Roberto Mancini,32036,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478960

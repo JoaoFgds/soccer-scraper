@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 20/08/2023,13:30,Roma,Salernitana,3-4-2-1,Paulo Sousa,62050,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103478
+2,seg 28/08/2023,13:30,Salernitana,Udinese,3-4-2-1,Paulo Sousa,19259,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103491
+3,dom 03/09/2023,15:45,Lecce,Salernitana,3-4-2-1,Paulo Sousa,28052,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103496
+4,seg 18/09/2023,13:30,Salernitana,Torino,3-4-2-1,Paulo Sousa,15480,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103511
+5,sex 22/09/2023,13:30,Salernitana,Frosinone,3-4-2-1,Paulo Sousa,16217,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103518
+6,qua 27/09/2023,13:30,Empoli,Salernitana,3-4-2-1,Paulo Sousa,7979,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103523
+7,sáb 30/09/2023,15:45,Salernitana,Inter,4-2-3-1,Paulo Sousa,28085,0:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103538
+8,dom 08/10/2023,07:30,Monza,Salernitana,3-4-2-1,Paulo Sousa,12494,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103550
+9,dom 22/10/2023,10:00,Salernitana,Cagliari,4-3-2-1,Filippo Inzaghi,17409,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103558
+10,sex 27/10/2023,15:45,Genoa,Salernitana,3-4-2-1,Filippo Inzaghi,31904,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103564
+11,sáb 04/11/2023,11:00,Salernitana,Napoli,4-2-3-1,Filippo Inzaghi,16812,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103580
+12,sex 10/11/2023,14:30,Sassuolo,Salernitana,4-3-3 ofensivo,Filippo Inzaghi,10945,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103590
+13,sáb 25/11/2023,11:00,Salernitana,Lazio,3-4-2-1,Filippo Inzaghi,16700,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103601
+14,dom 03/12/2023,11:00,Fiorentina,Salernitana,3-4-2-1,Filippo Inzaghi,26286,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103602
+15,dom 10/12/2023,14:00,Salernitana,Bologna,3-4-2-1,Filippo Inzaghi,16700,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103621
+16,seg 18/12/2023,16:45,Atalanta,Salernitana,4-2-3-1,Filippo Inzaghi,14264,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103622
+17,sex 22/12/2023,16:45,Salernitana,Milan,4-2-3-1,Filippo Inzaghi,23467,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103639
+18,sáb 30/12/2023,14:00,Verona,Salernitana,4-2-3-1,Filippo Inzaghi,18181,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103646
+19,dom 07/01/2024,14:00,Salernitana,Juventus,3-4-2-1,Filippo Inzaghi,29405,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103658
+20,sáb 13/01/2024,11:00,Napoli,Salernitana,3-4-2-1,Filippo Inzaghi,40000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103671
+21,dom 21/01/2024,14:00,Salernitana,Genoa,4-3-2-1,Filippo Inzaghi,17440,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103678
+22,seg 29/01/2024,16:45,Salernitana,Roma,3-4-2-1,Filippo Inzaghi,18038,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103691
+23,dom 04/02/2024,08:30,Torino,Salernitana,3-4-2-1,Filippo Inzaghi,24461,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103700
+24,sex 09/02/2024,16:45,Salernitana,Empoli,3-4-2-1,Filippo Inzaghi,18511,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103710
+25,sex 16/02/2024,17:00,Inter,Salernitana,3-5-2 plano,Fabio Liverani,72609,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103716
+26,sáb 24/02/2024,14:00,Salernitana,Monza,3-4-2-1,Fabio Liverani,18560,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103730
+27,sáb 02/03/2024,11:00,Udinese,Salernitana,4-3-1-2,Fabio Liverani,20189,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103741
+28,sáb 09/03/2024,11:00,Cagliari,Salernitana,4-3-1-2,Fabio Liverani,16118,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103743
+29,sáb 16/03/2024,14:00,Salernitana,Lecce,4-3-1-2,Fabio Liverani,15376,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103760
+30,seg 01/04/2024,07:30,Bologna,Salernitana,4-2-3-1,Stefano Colantuono,27255,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103762
+31,sex 05/04/2024,15:45,Salernitana,Sassuolo,4-3-3 ofensivo,Stefano Colantuono,14036,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103780
+32,sex 12/04/2024,15:45,Lazio,Salernitana,3-4-1-2,Stefano Colantuono,34000,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103786
+33,dom 21/04/2024,13:00,Salernitana,Fiorentina,3-4-2-1,Stefano Colantuono,14597,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103799
+34,sex 26/04/2024,15:45,Frosinone,Salernitana,3-4-2-1,Stefano Colantuono,13728,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103805
+35,seg 06/05/2024,13:00,Salernitana,Atalanta,3-4-2-1,Stefano Colantuono,12980,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103818
+36,dom 12/05/2024,13:00,Juventus,Salernitana,3-4-2-1,Stefano Colantuono,37305,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103827
+37,seg 20/05/2024,13:30,Salernitana,Verona,3-4-2-1,Stefano Colantuono,15998,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103838
+38,sáb 25/05/2024,15:45,Milan,Salernitana,3-4-2-1,Stefano Colantuono,70831,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4103850

@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 13/08/2023,13:15,Sivasspor,Samsunspor,3-1-4-2,Hüseyin Eroğlu,6311,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4126782
+2,seg 21/08/2023,15:00,Samsunspor,Fenerbahce,3-1-4-2,Hüseyin Eroğlu,29781,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4126787
+3,dom 27/08/2023,13:15,Kayserispor,Samsunspor,3-1-4-2,Hüseyin Eroğlu,7171,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4126811
+4,qua 08/11/2023,14:00,Samsunspor,Istanbulspor,4-4-2 duplo 6,Markus Gisdol,20617,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4126824
+5,sáb 16/09/2023,14:00,Galatasaray,Samsunspor,4-2-3-1,Hüseyin Eroğlu,43103,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129455
+6,sáb 23/09/2023,14:00,Antalyaspor,Samsunspor,4-2-3-1,Hüseyin Eroğlu,7404,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129469
+7,sex 29/09/2023,14:00,Samsunspor,Gaziantep FK,4-2-3-1,Emre Bayraktar,13056,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129476
+8,dom 08/10/2023,07:30,C. Rizespor,Samsunspor,4-2-3-1,Fuat Çapa,5917,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129492
+9,dom 22/10/2023,13:00,Samsunspor,Basaksehir,4-4-2 duplo 6,Markus Gisdol,12965,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129496
+10,dom 29/10/2023,13:00,Ankaragücü,Samsunspor,4-4-2 duplo 6,Markus Gisdol,10594,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129511
+11,sáb 04/11/2023,10:00,Samsunspor,Hatayspor,4-2-3-1,Markus Gisdol,8092,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129516
+12,dom 12/11/2023,07:30,Pendikspor,Samsunspor,4-2-3-1,Markus Gisdol,1065,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129524
+13,dom 26/11/2023,10:00,Samsunspor,Besiktas,4-2-3-1,Markus Gisdol,19927,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129536
+14,sáb 02/12/2023,13:00,Adana Demirspor,Samsunspor,4-2-3-1,Markus Gisdol,9743,2:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129547
+15,sáb 09/12/2023,10:00,Samsunspor,Kasimpasa,4-2-3-1,Markus Gisdol,12173,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129556
+16,qui 11/01/2024,14:00,Trabzonspor,Samsunspor,4-2-3-1,Markus Gisdol,11434,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129569
+17,qui 21/12/2023,11:00,Samsunspor,Konyaspor,4-2-3-1,Markus Gisdol,10724,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129576
+18,seg 25/12/2023,11:00,Alanyaspor,Samsunspor,4-2-3-1,Markus Gisdol,2207,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129587
+19,sáb 06/01/2024,13:00,Samsunspor,Karagümrük,4-4-2 duplo 6,Markus Gisdol,12626,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129596
+20,dom 14/01/2024,10:00,Samsunspor,Sivasspor,4-2-3-1,Markus Gisdol,11488,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4261511
+21,dom 21/01/2024,10:00,Fenerbahce,Samsunspor,4-2-3-1,Markus Gisdol,39515,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129616
+22,qui 25/01/2024,11:00,Samsunspor,Kayserispor,4-2-3-1,Markus Gisdol,12703,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129623
+23,seg 29/01/2024,11:00,Istanbulspor,Samsunspor,4-2-3-1,Markus Gisdol,732,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129636
+24,sex 02/02/2024,14:00,Samsunspor,Galatasaray,4-2-3-1,Markus Gisdol,33919,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129645
+25,seg 12/02/2024,14:00,Samsunspor,Antalyaspor,4-2-3-1,Markus Gisdol,16212,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129659
+26,dom 18/02/2024,10:00,Gaziantep FK,Samsunspor,4-2-3-1,Markus Gisdol,7486,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129666
+27,sex 23/02/2024,14:00,Samsunspor,C. Rizespor,4-2-3-1,Markus Gisdol,20407,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129682
+28,dom 03/03/2024,07:30,Basaksehir,Samsunspor,4-2-3-1,Markus Gisdol,2431,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129686
+29,dom 10/03/2024,10:00,Samsunspor,Ankaragücü,4-2-3-1,Markus Gisdol,19878,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129701
+30,dom 17/03/2024,10:00,Hatayspor,Samsunspor,4-2-3-1,Markus Gisdol,2128,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129709
+31,qui 04/04/2024,14:30,Samsunspor,Pendikspor,4-2-3-1,Markus Gisdol,12487,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129714
+32,sáb 13/04/2024,13:00,Besiktas,Samsunspor,4-2-3-1,Markus Gisdol,19123,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129726
+33,sáb 20/04/2024,13:00,Samsunspor,Adana Demirspor,4-2-3-1,Markus Gisdol,17858,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129737
+34,sáb 27/04/2024,10:00,Kasimpasa,Samsunspor,4-2-3-1,Markus Gisdol,2239,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129746
+35,sáb 04/05/2024,13:00,Samsunspor,Trabzonspor,4-2-3-1,Markus Gisdol,26992,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129759
+36,dom 12/05/2024,13:00,Konyaspor,Samsunspor,4-2-3-1,Markus Gisdol,15644,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129766
+37,sáb 18/05/2024,13:00,Samsunspor,Alanyaspor,4-2-3-1,Markus Gisdol,13347,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129776
+38,sáb 25/05/2024,10:00,Karagümrük,Samsunspor,4-2-3-1,Markus Gisdol,675,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/4129786

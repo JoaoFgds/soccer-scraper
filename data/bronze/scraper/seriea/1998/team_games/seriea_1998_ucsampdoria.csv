@@ -1,0 +1,35 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,sáb 12/09/1998,11:00,Udinese,Sampdoria,4-4-2 losango,Luciano Spalletti,18116,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214212
+2,dom 20/09/1998,11:00,Sampdoria,Perugia,4-4-2 losango,Luciano Spalletti,19296,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214228
+3,dom 27/09/1998,11:00,Cagliari,Sampdoria,4-4-2,Luciano Spalletti,17856,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214237
+4,dom 04/10/1998,15:30,Sampdoria,Roma,4-4-2,Luciano Spalletti,18496,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214239
+5,dom 18/10/1998,11:30,Piacenza,Sampdoria,4-4-2 duplo 6,Luciano Spalletti,10421,4:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214253
+6,dom 25/10/1998,11:30,Sampdoria,Empoli,3-4-1-2,Luciano Spalletti,17680,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214259
+7,dom 01/11/1998,11:30,Juventus,Sampdoria,3-4-1-2,Luciano Spalletti,45806,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214268
+8,dom 08/11/1998,11:30,Sampdoria,Salernitana,3-4-1-2,Luciano Spalletti,18537,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214274
+9,dom 15/11/1998,11:30,Inter,Sampdoria,3-4-1-2,Luciano Spalletti,65436,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214290
+10,dom 22/11/1998,11:30,Sampdoria,Vicenza,3-4-1-2,Luciano Spalletti,17620,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214298
+11,dom 29/11/1998,11:30,AC Venezia 1907,Sampdoria,3-4-1-2,Luciano Spalletti,9391,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214303
+12,sáb 05/12/1998,17:30,Sampdoria,AC Parma,4-4-2,Luciano Spalletti,18733,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214311
+13,dom 13/12/1998,11:30,Lazio,Sampdoria,3-5-2 plano,Luciano Spalletti,35000,5:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214324
+14,dom 20/12/1998,11:30,Sampdoria,Milan,4-4-2,Giorgio Veneri,22763,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214330
+15,qua 06/01/1999,11:30,Florenz,Sampdoria,5-3-2,Giorgio Veneri,36223,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214341
+16,dom 10/01/1999,11:30,Sampdoria,Bologna,4-4-2,Giorgio Veneri,17648,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214345
+17,dom 17/01/1999,11:30,Bari,Sampdoria,4-4-2,Giorgio Veneri,18786,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214361
+18,dom 24/01/1999,11:30,Sampdoria,Udinese,3-4-1-2,Giorgio Veneri,18369,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214365
+19,dom 31/01/1999,11:30,Perugia,Sampdoria,4-4-2,Giorgio Veneri,11976,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214381
+20,dom 07/02/1999,11:30,Sampdoria,Cagliari,5-3-2,Luciano Spalletti,20470,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214388
+21,dom 14/02/1999,12:00,Roma,Sampdoria,5-3-2,Luciano Spalletti,52715,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214399
+22,dom 21/02/1999,11:00,Sampdoria,Piacenza,3-4-1-2,Luciano Spalletti,18749,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214401
+23,dom 28/02/1999,11:00,Empoli,Sampdoria,3-4-1-2,Luciano Spalletti,16330,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214414
+24,dom 07/03/1999,16:30,Sampdoria,Juventus,3-4-3 plano,Luciano Spalletti,12557,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214421
+25,dom 14/03/1999,11:00,Salernitana,Sampdoria,3-5-2 plano,Luciano Spalletti,31829,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214431
+26,dom 21/03/1999,11:00,Sampdoria,Inter,3-4-1-2,Luciano Spalletti,24777,4:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214440
+27,sáb 03/04/1999,11:00,Vicenza,Sampdoria,3-5-2 plano,Luciano Spalletti,16665,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214448
+28,dom 11/04/1999,11:00,Sampdoria,AC Venezia 1907,3-4-2-1,Luciano Spalletti,18929,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214457
+29,sáb 17/04/1999,15:30,AC Parma,Sampdoria,3-4-3 plano,Luciano Spalletti,22197,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214463
+30,dom 25/04/1999,11:00,Sampdoria,Lazio,3-4-1-2,Luciano Spalletti,16885,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214479
+31,dom 02/05/1999,11:00,Milan,Sampdoria,3-5-2 plano,Luciano Spalletti,68653,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214483
+32,dom 09/05/1999,11:00,Sampdoria,Florenz,3-4-1-2,Luciano Spalletti,21000,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214498
+33,dom 16/05/1999,11:30,Bologna,Sampdoria,3-4-1-2,Luciano Spalletti,29299,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214507
+34,dom 23/05/1999,11:30,Sampdoria,Bari,3-5-2 plano,Luciano Spalletti,16185,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2214509

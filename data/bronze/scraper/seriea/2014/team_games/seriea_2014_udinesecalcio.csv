@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 31/08/2014,15:45,Udinese,Empoli,3-5-2 plano,Andrea Stramaccioni,7889,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478597
+2,sáb 13/09/2014,15:45,Juventus,Udinese,3-5-2,Andrea Stramaccioni,38217,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478603
+3,dom 21/09/2014,13:00,Udinese,Napoli,4-3-2-1,Andrea Stramaccioni,8833,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478617
+4,qui 25/09/2014,15:45,Lazio,Udinese,4-3-2-1,Andrea Stramaccioni,26500,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478624
+5,seg 29/09/2014,14:00,Udinese,Parma,4-3-1-2,Andrea Stramaccioni,8652,4:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478637
+6,dom 05/10/2014,10:00,Udinese,Cesena,4-3-2-1,Andrea Stramaccioni,8887,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478647
+7,dom 19/10/2014,11:00,Torino,Udinese,4-3-2-1,Andrea Stramaccioni,13434,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478657
+8,dom 26/10/2014,12:00,Udinese,Atalanta,4-4-2,Andrea Stramaccioni,8300,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478667
+9,qua 29/10/2014,17:45,Fiorentina,Udinese,4-3-1-2,Andrea Stramaccioni,27016,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478670
+10,dom 02/11/2014,12:00,Udinese,Genoa,4-4-2,Andrea Stramaccioni,8701,2:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478687
+11,dom 09/11/2014,12:00,US Palermo,Udinese,4-4-2,Andrea Stramaccioni,15658,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478694
+12,dom 23/11/2014,12:00,Udinese,Chievo Verona,4-4-2 duplo 6,Andrea Stramaccioni,8544,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478707
+13,dom 30/11/2014,12:00,Milan,Udinese,4-3-1-2,Andrea Stramaccioni,36170,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478713
+14,dom 07/12/2014,17:45,Inter,Udinese,3-5-2 plano,Andrea Stramaccioni,34912,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478723
+15,dom 14/12/2014,12:00,Udinese,Verona,5-3-2,Andrea Stramaccioni,8247,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478737
+16,dom 21/12/2014,12:00,Sampdoria,Udinese,4-4-2,Andrea Stramaccioni,21413,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478745
+17,ter 06/01/2015,09:30,Udinese,Roma,3-5-2 plano,Andrea Stramaccioni,10870,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478757
+18,sáb 10/01/2015,15:00,Sassuolo,Udinese,3-5-2 plano,Andrea Stramaccioni,11221,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478766
+19,dom 18/01/2015,12:00,Udinese,Cagliari,5-3-2,Andrea Stramaccioni,9366,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478777
+20,seg 26/01/2015,16:00,Empoli,Udinese,5-3-2,Andrea Stramaccioni,7381,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478787
+21,dom 01/02/2015,12:00,Udinese,Juventus,5-3-2,Andrea Stramaccioni,11241,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478793
+22,dom 08/02/2015,12:00,Napoli,Udinese,3-5-2 plano,Andrea Stramaccioni,28773,3:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478807
+23,dom 15/02/2015,12:00,Udinese,Lazio,3-5-2,Andrea Stramaccioni,8282,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478814
+24,qua 08/04/2015,13:30,Parma,Udinese,3-4-2-1,Andrea Stramaccioni,9772,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478827
+25,dom 01/03/2015,11:15,Cesena,Udinese,3-5-2 plano,Andrea Stramaccioni,14794,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478837
+26,dom 08/03/2015,11:00,Udinese,Torino,3-4-2-1,Andrea Stramaccioni,8519,3:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478847
+27,dom 15/03/2015,11:00,Atalanta,Udinese,3-5-2 plano,Andrea Stramaccioni,14073,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478857
+28,dom 22/03/2015,16:45,Udinese,Fiorentina,3-5-2 plano,Andrea Stramaccioni,9000,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478860
+29,sáb 04/04/2015,10:00,Genoa,Udinese,4-4-2,Andrea Stramaccioni,18117,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478877
+30,dom 12/04/2015,10:00,Udinese,US Palermo,3-5-2 plano,Andrea Stramaccioni,8704,1:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478884
+31,dom 19/04/2015,10:00,Chievo Verona,Udinese,3-5-2 plano,Andrea Stramaccioni,9000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478897
+32,sáb 25/04/2015,13:00,Udinese,Milan,4-3-1-2,Andrea Stramaccioni,9006,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478903
+33,ter 28/04/2015,15:45,Udinese,Inter,4-3-1-2,Andrea Stramaccioni,10862,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478913
+34,dom 03/05/2015,10:00,Verona,Udinese,4-3-1-2,Andrea Stramaccioni,17418,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478927
+35,dom 10/05/2015,10:00,Udinese,Sampdoria,4-3-1-2,Andrea Stramaccioni,8492,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478935
+36,dom 17/05/2015,15:45,Roma,Udinese,4-3-1-2,Andrea Stramaccioni,35720,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478947
+37,dom 24/05/2015,10:00,Udinese,Sassuolo,4-3-1-2,Andrea Stramaccioni,8899,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478956
+38,dom 31/05/2015,13:00,Cagliari,Udinese,4-4-2 duplo 6,Andrea Stramaccioni,5000,4:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2478967

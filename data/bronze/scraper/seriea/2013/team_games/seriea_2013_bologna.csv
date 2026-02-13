@@ -1,0 +1,39 @@
+round,date,time,home_team,away_team,formation,coach,audience,result,match_link
+1,dom 25/08/2013,15:45,Napoli,Bologna,4-4-1-1,Stefano Pioli,39632,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2355584
+2,dom 01/09/2013,15:45,Bologna,Sampdoria,4-4-2 losango,Stefano Pioli,16509,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359216
+3,dom 15/09/2013,10:00,Udinese,Bologna,4-3-1-2,Stefano Pioli,11000,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359234
+4,dom 22/09/2013,10:00,Bologna,Torino,4-3-1-2,Stefano Pioli,21658,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359236
+5,qua 25/09/2013,15:45,Bologna,Milan,4-2-3-1,Stefano Pioli,22953,3:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359245
+6,dom 29/09/2013,15:45,Roma,Bologna,4-2-3-1,Stefano Pioli,38467,5:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359262
+7,dom 06/10/2013,10:00,Bologna,Verona,4-3-1-2,Stefano Pioli,16743,1:4,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359265
+8,dom 20/10/2013,11:00,Sassuolo,Bologna,5-4-1,Stefano Pioli,12666,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359283
+9,dom 27/10/2013,12:00,Bologna,AS Livorno,5-4-1,Stefano Pioli,21793,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359285
+10,qua 30/10/2013,17:45,Cagliari,Bologna,3-5-2 plano,Stefano Pioli,4500,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359296
+11,seg 04/11/2013,17:45,Bologna,Chievo Verona,3-5-2 plano,Stefano Pioli,15800,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359305
+12,dom 10/11/2013,12:00,Atalanta,Bologna,3-5-2 plano,Stefano Pioli,12511,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359315
+13,dom 24/11/2013,17:45,Bologna,Inter,3-4-1-2,Stefano Pioli,23191,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359325
+14,sáb 30/11/2013,15:00,Parma,Bologna,3-4-2-1,Stefano Pioli,11973,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359344
+15,sex 06/12/2013,17:45,Bologna,Juventus,4-2-3-1,Stefano Pioli,30490,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359345
+16,dom 15/12/2013,12:00,Fiorentina,Bologna,4-2-3-1,Stefano Pioli,29600,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359357
+17,dom 22/12/2013,09:30,Bologna,Genoa,3-5-2,Stefano Pioli,20418,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359366
+18,seg 06/01/2014,12:00,Catania Calcio,Bologna,5-3-2,Stefano Pioli,16532,2:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359375
+19,sáb 11/01/2014,17:45,Bologna,Lazio,3-5-2,Davide Ballardini,16243,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359386
+20,dom 19/01/2014,12:00,Bologna,Napoli,3-5-2 plano,Davide Ballardini,23398,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359401
+21,dom 26/01/2014,12:00,Sampdoria,Bologna,3-5-2 plano,Davide Ballardini,20481,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359406
+22,sáb 01/02/2014,15:00,Bologna,Udinese,3-5-2 plano,Davide Ballardini,15227,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359424
+23,dom 09/02/2014,09:30,Torino,Bologna,5-3-2,Davide Ballardini,16411,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359426
+24,sex 14/02/2014,17:45,Milan,Bologna,3-5-2 plano,Davide Ballardini,29631,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359435
+25,sáb 22/02/2014,16:45,Bologna,Roma,3-5-2 plano,Davide Ballardini,31256,0:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359452
+26,dom 02/03/2014,11:00,Verona,Bologna,3-5-2 plano,Davide Ballardini,20476,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359455
+27,dom 09/03/2014,11:00,Bologna,Sassuolo,5-3-2,Davide Ballardini,21694,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359473
+28,dom 16/03/2014,11:00,AS Livorno,Bologna,3-5-2 plano,Davide Ballardini,10000,2:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359475
+29,dom 23/03/2014,11:00,Bologna,Cagliari,3-5-2 plano,Davide Ballardini,16286,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359486
+30,qua 26/03/2014,16:45,Chievo Verona,Bologna,3-5-2 plano,Davide Ballardini,11000,3:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359495
+31,sáb 29/03/2014,14:00,Bologna,Atalanta,4-4-2,Davide Ballardini,20413,0:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359505
+32,sáb 05/04/2014,15:45,Inter,Bologna,3-5-2 plano,Davide Ballardini,38815,2:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359515
+33,dom 13/04/2014,07:30,Bologna,Parma,3-5-2 plano,Davide Ballardini,21379,1:1,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359534
+34,sáb 19/04/2014,13:30,Juventus,Bologna,3-5-2 plano,Davide Ballardini,39131,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359535
+35,sáb 26/04/2014,13:00,Bologna,Fiorentina,3-5-2 plano,Davide Ballardini,23875,0:3,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359547
+36,dom 04/05/2014,10:00,Genoa,Bologna,3-5-2 plano,Davide Ballardini,18601,0:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359556
+37,dom 11/05/2014,10:00,Bologna,Catania Calcio,3-5-2 plano,Davide Ballardini,30929,1:2,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359565
+38,dom 18/05/2014,15:45,Lazio,Bologna,5-3-2,Davide Ballardini,26752,1:0,https://www.transfermarkt.com.br/spielbericht/index/spielbericht/2359576
