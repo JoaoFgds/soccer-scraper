@@ -72,6 +72,6 @@ Thumbs.db
 
 
 # Data files
-.csv
-.png 
-.pdf
+*.csv
+*.png 
+*.pdf
