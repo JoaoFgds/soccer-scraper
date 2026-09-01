@@ -314,7 +314,7 @@ def calculate_strength_schedule_balance() -> pd.DataFrame:
     market_standings_df["market_value_rank"] = (
     market_standings_df
     .groupby(["league_name", "season_year"])["total_market_value_euros"]
-    .rank(method="min", ascending=False)
+    .rank(method="first", ascending=False)
     .astype("Int64")
 )
 

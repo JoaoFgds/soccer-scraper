@@ -49,14 +49,28 @@ This module provides support functionalities used throughout the project.
 - **Output**: Validated, complete master CSV files stored in `data/silver/`. These data are considered reliable and ready for business intelligence and statistical analysis.
 
 ### Stage 3: Analysis (Gold Layer)
-- **Responsibility**: Consume validated data from the Silver layer and generate high-level insights and analytical artifacts.
+- **Responsibility**: Read the validated Silver datasets and generate the paper-analysis metrics, tables, effect-size analyses, and figures under `data/gold/analysis/`.The analysis stage reads the Silver outputs.
+- **Entry point**: Run `uv run main.py analysis` to call `analysis_pipeline()` in `analysis/main.py`. The pipeline executes the following tasks in order:
+  1. Calculate Spearman’s G coefficient for final-standing and market-value schedule-strength proxies.
+  2. Aggregate G-type counts into a summary table.
+  3. Generate the paper’s Tables 2 and 3 for the magnitude thresholds `0.200`, `0.300`, and `0.400`, and significance levels `0.10` and `0.05`.
+  4. Calculate season-level Cliff’s delta and generate Figure 1.
+  5. Calculate league-level significance results and generate Figure 2 for both proxies.
+- **Inputs**: `data/silver/team_games_valid.csv` and `data/silver/final_standings_valid_market_ranking.csv`.
 - **Main Modules**:
-  - `analysis/main.py`: Orchestrates the entire analysis pipeline.
-  - `analysis/spearman_coeff.py`: Calculates the "Schedule Strength Balance" (Spearman’s G coefficient) for each team in each valid season. Generates detailed JSON files with the raw data used in calculations.
-  - `analysis/spearman_coeff_summary.py`: Aggregates detailed G coefficient results into a summary table, providing an overview of schedule types (strong, weak, balanced) by season, league, and overall.
-  - `analysis/mann_whitney_seasons.py`: Performs Mann-Whitney U tests to assess whether schedule balance significantly impacts a team’s final league position.
-  - `analysis/mann_whitney_attendance.py`: Conducts a sensitivity analysis to determine if schedule balance correlates with stadium occupancy, testing with multiple imputed audience metrics.
-- **Output**: Final summary tables (CSV), detailed JSON files with statistical entries, and visualization plots stored in `data/gold/`. This layer represents the culmination of the project’s analytical objectives.
+  - `analysis/main.py`: Orchestrates the five analysis tasks.
+  - `analysis/spearman_coeff_calculate.py`: Calculates schedule balance, writes the coefficient tables, and stores the individual schedule vectors as JSON.
+  - `analysis/spearman_coeff_summary.py`: Aggregates G-type counts across seasons, leagues, and the complete dataset.
+  - `analysis/schedule_classifications.py`: Defines the magnitude and significance classifications used by the paper analyses.
+  - `analysis/ssb_proportions.py`: Generates Tables 2 and 3 for both schedule-strength proxies.
+  - `analysis/cliffs_delta.py`: Calculates season-level Cliff’s delta and generates Figure 1.
+  - `analysis/significancy_analysis.py`: Calculates league-level Cliff’s delta and Mann-Whitney p-values and generates Figure 2.
+- **Outputs**:
+  - `data/gold/analysis/spearman_coefficient/metrics/`: Spearman balance results and the G-type summary.
+  - `data/gold/analysis/spearman_coefficient/schedules_data/individual/`: Per-league-season schedule vectors in JSON format.
+  - `data/gold/analysis/spearman_coefficient/{classification}/`: `table_2.csv` and `table_3.csv` for each `G_type_0.200`, `G_type_0.300`, `G_type_0.400`, `significance_0.10`, and `significance_0.05` classification.
+  - `data/gold/analysis/cliffs_delta/{classification}/`: Cliff’s delta CSV results and Figure 1 PNG files.
+  - `data/gold/analysis/significancy_analysis/{market-value-proxy,final-ranking-proxy}/{classification}/`: significance CSV results and Figure 2 PNG files for each classification.
 
 ## 4. Data Artifacts and Schemas
 The project produces structured data artifacts at each pipeline layer.
@@ -322,6 +336,25 @@ The full pipeline is controlled via `main.py` using command-line arguments.
      ```bash
      uv run main.py all
      ```
+
+### Paper reproduction from frozen Silver inputs
+
+Run the analysis-only paper workflow without invoking the scraper or processor:
+
+```bash
+uv run python -m src.analysis.paper
+```
+
+Artifacts are written to `data/gold/paper_reproduction/`. Use `--output-dir PATH`
+to write an isolated output tree and `--verbose` to log completion. The command
+validates and reads three frozen Silver files; it does not reproduce the unavailable
+market-value acquisition, merge, or rank tie-breaking stages from raw data.
+
+See the generated
+[`reproduction_report.md`](data/gold/paper_reproduction/reproduction_report.md) for
+the input hashes and result checks. The tracked
+[`paper-analysis reproduction discrepancy ledger`](docs/2026-08-17_paper-analysis-reproduction-discrepancies.md)
+documents the evidence boundary and known camera-ready differences.
 
 ## 9. License
 This project is licensed under the MIT License.

@@ -180,14 +180,14 @@ def plot_significancy(results: pd.DataFrame, output_path: Path) -> None:
 
 
 def write_significancy_analysis(
-    market_balance: pd.DataFrame,
+    schedule_balance: pd.DataFrame,
     output_dir: Path,
 ) -> list[Path]:
     """Write significance data and plot into each classification folder."""
     output_paths = []
 
-    for classification, groups in iter_schedule_classifications(market_balance):
-        results = calculate_stratified_league_effects(market_balance, groups)
+    for classification, groups in iter_schedule_classifications(schedule_balance):
+        results = calculate_stratified_league_effects(schedule_balance, groups)
         classification_dir = output_dir / classification
         classification_dir.mkdir(parents=True, exist_ok=True)
         data_path = classification_dir / "significancy_analysis.csv"
@@ -200,10 +200,18 @@ def write_significancy_analysis(
 
 
 def generate_significancy_analysis() -> list[Path]:
-    """Load market-value schedule groups and generate all Figure 2 outputs."""
-    output_paths = write_significancy_analysis(
-        pd.read_csv(paths.SPEARMAN_BALANCE_MARKET_PATH),
-        paths.SIGNIFICANCY_ANALYSIS_DIR,
+    """Generate Figure 2 outputs for both strength proxies."""
+    market_balance = pd.read_csv(paths.SPEARMAN_BALANCE_MARKET_PATH)
+    ranking_balance = pd.read_csv(paths.SPEARMAN_BALANCE_RANKING_PATH)
+
+    market_output_paths = write_significancy_analysis(
+        market_balance,
+        paths.SIGNIFICANCY_ANALYSIS_MARKET_DIR,
     )
+    ranking_output_paths = write_significancy_analysis(
+        ranking_balance,
+        paths.SIGNIFICANCY_ANALYSIS_FINAL_RANKING_DIR,
+    )
+    output_paths = market_output_paths + ranking_output_paths
     logger.info("Generated %d significance-analysis outputs.", len(output_paths))
     return output_paths
