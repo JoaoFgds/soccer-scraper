@@ -2,10 +2,15 @@ import logging
 
 
 from src.analysis import (
+    cliffs_delta,
+    significancy_analysis,
     spearman_coeff_summary,
     spearman_coeff_calculate,
+    ssb_proportions,
     mann_whitney_seasons,
     mann_whitney_attendance,
+    mann_whitney_sensitivity,
+    mann_whitney_sensitivity_plot,
     spearman_coeff_plots,
 )
 
@@ -26,10 +31,9 @@ def analysis_pipeline():
     1.  Calculates Spearman's G coefficient to measure the strength and
         balance of each team's schedule for every valid season.
     2.  Aggregates the G coefficient results into a high-level summary table.
-    3.  Conducts Mann-Whitney U tests to determine if a team's schedule
-        balance has a statistically significant effect on its final rank.
-    4.  Runs a sensitivity analysis using Mann-Whitney U tests to explore the
-        relationship between schedule balance and stadium occupancy.
+    3.  Generates Tables 2 and 3 for each magnitude and significance threshold.
+    4.  Calculates and plots season-level Cliff's delta distributions.
+    5.  Generates league-level significance results and plots.
     """
 
     setup_logging()
@@ -47,16 +51,36 @@ def analysis_pipeline():
         spearman_coeff_summary.create_g_type_summary()
 
         print("\n")
-        logger.info("Task 3: Creating plots for G-type analysis.")
-        spearman_coeff_plots.generate_all_visualizations()
+        logger.info("Task 3: Generating paper Tables 2 and 3.")
+        ssb_proportions.generate_ssb_proportion_tables()
 
         print("\n")
-        logger.info("Task 4: Running Mann-Whitney U tests for season final ranks.")
-        mann_whitney_seasons.run_seasons_analysis()
+        logger.info("Task 4: Generating Cliff's delta analysis and Figure 1.")
+        cliffs_delta.generate_cliffs_delta_analysis()
 
         print("\n")
-        logger.info("Task 5: Running Mann-Whitney U tests for stadium occupancy.")
-        mann_whitney_attendance.run_occupancy_analysis()
+        logger.info("Task 5: Generating significance analysis and Figure 2.")
+        significancy_analysis.generate_significancy_analysis()
+
+        # print("\n")
+        # logger.info("Task 6: Creating plots for G-type analysis.")
+        # spearman_coeff_plots.generate_all_visualizations()
+
+        # print("\n")
+        # logger.info("Task 7: Running Mann-Whitney U tests for season final ranks.")
+        # mann_whitney_seasons.run_seasons_analysis()
+
+        # print("\n")
+        # logger.info("Task 8: Running Mann-Whitney U tests for stadium occupancy.")
+        # mann_whitney_attendance.run_occupancy_analysis()
+
+        # print("\n")
+        # logger.info("Task 9: Running Mann-Whitney sensitivity analysis.")
+        # mann_whitney_sensitivity.run_sensitivity_analysis()
+
+        # print("\n")
+        # logger.info("Task 10: Running Mann-Whitney sensitivity plots.")
+        # mann_whitney_sensitivity_plot.run_plotting()
 
     except Exception as e:
         logger.critical(

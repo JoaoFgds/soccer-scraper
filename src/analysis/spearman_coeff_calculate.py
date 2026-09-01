@@ -5,7 +5,7 @@ import pandas as pd
 
 from src.utils import paths
 from scipy.stats import spearmanr
-from typing import Any, Dict, List, Tuple
+from typing import Any, Dict, List
 
 logger = logging.getLogger(__name__)
 
@@ -131,39 +131,24 @@ def _classify_g_type(
         return "balanced"
 
 
-def calculate_strength_schedule_balance() -> pd.DataFrame:
+def _calculate_schedule_balance(
+    games_df: pd.DataFrame,
+    standings_df: pd.DataFrame,
+    strength_column: str,
+    final_position_column: str,
+    write_schedule_data: bool = False,
+) -> pd.DataFrame:
     """
-    Calculates schedule balance for all teams using Spearman's G coefficient.
+    Calculates schedule balance using one standings strength proxy.
 
-    This function orchestrates the entire schedule balance analysis. It loads
-    the validated games and standings data. For each team in each season, it:
-    1. Determines the "ideal" opponent rank list (R_list).
-    2. Determines the actual opponent schedule list (S_list) using
-       `_get_first_round_opponents`.
-    3. Calculates the Spearman's rank correlation (G-coefficient) and p-value
-       between R_list and S_list.
-    4. Classifies the G-coefficient against multiple predefined thresholds
-       using `_classify_g_type`.
-    5. Saves the detailed results (including R and S arrays, G, p-value, and
-       classifications) to a CSV file.
-    6. Saves intermediate JSON data for schedule auditing.
+    `strength_column` determines the ranks used in R_array and S_array.
+    `final_position_column` remains the team's observed final position in the
+    output, so a market-value analysis does not replace the outcome column.
 
     Returns:
-        A DataFrame containing the calculated balance metrics for all
-        teams/seasons, or an empty DataFrame if a critical error occurs
-        (e.g., file not found).
+        A DataFrame containing the calculated balance metrics.
     """
-    logger.info("Starting Strength of Schedule Balance calculation.")
-    try:
-        games_df = pd.read_csv(paths.GAMES_VALID_PATH)
-        standings_df = pd.read_csv(paths.STANDINGS_VALID_PATH)
-        logger.info("Successfully loaded validated games and standings files.")
-    except FileNotFoundError as e:
-        logger.error("Input file not found: %s. Aborting analysis.", e, exc_info=True)
-        return pd.DataFrame()
-
     results: List[Dict[str, Any]] = []
-    all_json_data: List[Dict[str, Any]] = []
 
     for (league, season), season_standings in standings_df.groupby(
         ["league_name", "season_year"]
@@ -177,20 +162,23 @@ def calculate_strength_schedule_balance() -> pd.DataFrame:
             continue
 
         position_map = season_standings.set_index("team_canonical")[
-            "position"
+            strength_column
         ].to_dict()
 
-        all_positions = sorted([int(p) for p in season_standings["position"]])
+        all_positions = sorted(
+            [int(p) for p in season_standings[strength_column]]
+        )
 
         season_json_data = []
 
         for _, team_row in season_standings.iterrows():
             team_canonical = team_row["team_canonical"]
-            final_pos = team_row["position"]
+            final_pos = team_row[final_position_column]
+            strength_pos = team_row[strength_column]
 
-            if pd.isna(final_pos):
+            if pd.isna(final_pos) or pd.isna(strength_pos):
                 logger.warning(
-                    "Skipping %s in %s %d due to missing final position.",
+                    "Skipping %s in %s %d due to missing position data.",
                     team_canonical,
                     league,
                     season,
@@ -198,10 +186,11 @@ def calculate_strength_schedule_balance() -> pd.DataFrame:
                 continue
 
             final_pos = int(final_pos)
+            strength_pos = int(strength_pos)
             r_list = all_positions.copy()
 
             try:
-                r_list.remove(final_pos)
+                r_list.remove(strength_pos)
             except ValueError:
                 pass
 
@@ -259,18 +248,19 @@ def calculate_strength_schedule_balance() -> pd.DataFrame:
 
             results.append(result_row)
 
-            season_json_data.append(
-                {
-                    "league_name": league,
-                    "season_year": int(season),
-                    "canonical_name": team_canonical,
-                    "R_list": r_list,
-                    "S_list_names": opponents_canonical,
-                    "S_list_classif": s_list,
-                }
-            )
+            if write_schedule_data:
+                season_json_data.append(
+                    {
+                        "league_name": league,
+                        "season_year": int(season),
+                        "canonical_name": team_canonical,
+                        "R_list": r_list,
+                        "S_list_names": opponents_canonical,
+                        "S_list_classif": s_list,
+                    }
+                )
 
-        if season_json_data:
+        if write_schedule_data and season_json_data:
             json_file = (
                 paths.SCHEDULES_DATA_INDIVIDUAL_DIR
                 / f"schedule_data_{league}_{season}.json"
@@ -284,14 +274,68 @@ def calculate_strength_schedule_balance() -> pd.DataFrame:
         logger.warning("No results were generated across all seasons.")
         return pd.DataFrame()
 
-    result_df = pd.DataFrame(results)
-    result_df.to_csv(paths.SPEARMAN_BALANCE_PATH, index=False)
-    logger.info("Saved schedule balance results to %s.", paths.SPEARMAN_BALANCE_PATH)
+    return pd.DataFrame(results)
 
+
+def calculate_strength_schedule_balance() -> pd.DataFrame:
+    """Generate final-ranking and market-value schedule-balance results."""
+    logger.info("Starting Strength of Schedule Balance calculation.")
+    try:
+        games_df = pd.read_csv(paths.GAMES_VALID_PATH)
+        ranking_standings_df = pd.read_csv(
+                    paths.STANDINGS_VALID_RANKING_PATH
+                )
+        market_standings_df = pd.read_csv(
+            paths.STANDINGS_VALID_MARKET_RANKING_PATH
+        )
+        logger.info("Successfully loaded validated games and standings files.")
+    except FileNotFoundError as e:
+        logger.error("Input file not found: %s. Aborting analysis.", e, exc_info=True)
+        return pd.DataFrame()
+
+    ranking_result_df = _calculate_schedule_balance(
+        games_df,
+        ranking_standings_df,
+        strength_column="position",
+        final_position_column="position",
+        write_schedule_data=True,
+    )
+    if ranking_result_df.empty:
+        return ranking_result_df
+
+    ranking_result_df.to_csv(paths.SPEARMAN_BALANCE_RANKING_PATH, index=False)
+    ranking_result_df.to_csv(paths.SPEARMAN_BALANCE_PATH, index=False)
+    logger.info(
+        "Saved final-ranking schedule balance results to %s.",
+        paths.SPEARMAN_BALANCE_RANKING_PATH,
+    )
+
+    # computing market value rank before passing to SSB computation
+    market_standings_df["market_value_rank"] = (
+    market_standings_df
+    .groupby(["league_name", "season_year"])["total_market_value_euros"]
+    .rank(method="min", ascending=False)
+    .astype("Int64")
+)
+
+    market_result_df = _calculate_schedule_balance(
+        games_df,
+        market_standings_df,
+        strength_column="market_value_rank",
+        final_position_column="position",
+    )
+    if not market_result_df.empty:
+        market_result_df.to_csv(paths.SPEARMAN_BALANCE_MARKET_PATH, index=False)
+        logger.info(
+            "Saved market-value schedule balance results to %s.",
+            paths.SPEARMAN_BALANCE_MARKET_PATH,
+        )
+
+    # Preserve the legacy combined artifact behavior for existing consumers.
     with open(paths.SCHEDULES_DATA_COMBINED_PATH, "w", encoding="utf-8") as f:
-        json.dump(all_json_data, f, indent=2, cls=NumpyEncoder, ensure_ascii=False)
+        json.dump([], f, indent=2, cls=NumpyEncoder, ensure_ascii=False)
     logger.info(
         "Saved combined schedule JSON data to %s.", paths.SCHEDULES_DATA_COMBINED_PATH
     )
 
-    return result_df
+    return ranking_result_df
