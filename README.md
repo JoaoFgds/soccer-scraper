@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 1. Overview
-This project is a complete and robust data engineering pipeline designed to extract, process, and analyze professional soccer data from the [Transfermarkt](https://www.transfermarkt.com.br) website. Operating as a fully automated system, it transforms raw, unstructured web data into structured, validated datasets and, ultimately, actionable statistical insights. The application architecture is based on the **Medallion Architecture** with three stages (scrape, process, analysis), mirroring the Bronze, Silver, and Gold layers. This approach ensures data quality, traceability, and robustness. The ultimate goal is to analyze the concept of "schedule balance" and determine its statistical significance in team performance metrics, such as final league position and stadium occupancy.
+This project is a complete and robust data engineering pipeline designed to extract, process, and analyze professional soccer data from the [Transfermarkt](https://www.transfermarkt.com.br) website. Operating as a fully automated system, it transforms raw, unstructured web data into structured, validated datasets and, ultimately, actionable statistical insights. The application architecture is based on the **Medallion Architecture** with three stages (scrape, process, analysis), mirroring the Bronze, Silver, and Gold layers. This approach ensures data quality, traceability, and robustness. The ultimate goal is to analyze the concept of "schedule balance" and determine its statistical significance in team performance, especially final league position.
 
 ## 2. Main Features
 - **End-to-End Automated Pipeline**: A single command can trigger the entire workflow: extracting raw data, cleaning and validating it, and running a full suite of statistical analyses.
@@ -15,7 +15,9 @@ This project is a complete and robust data engineering pipeline designed to extr
 - **Automated Data Processing and Validation**: The processing stage applies a series of business rules to validate data quality, checking for completeness (e.g., all team files present), correctness (e.g., valid team URLs), and structural integrity (e.g., round-robin format).
 - **Advanced Statistical Analysis**: The analysis stage automatically calculates:
   - **Spearman’s G Coefficient**: To quantify the strength and balance of each team’s schedule.
-  - **Mann-Whitney U Test**: To determine if schedule balance has a statistically significant impact on a team’s final league position and stadium occupancy rate.
+  - **Schedule-Group Proportions**: SSB measurement across multiple magnitude and significance classifications.
+  - **Cliff’s Delta**: To measure the effect of schedule classification on final league position.
+  - **Mann-Whitney U Test**: To assess differences in final-position distributions between unbalanced and balanced schedule groups.
 - **Modular and Maintainable Code**: The project is logically structured into distinct modules for scraping, processing, analysis, and utilities, following software engineering best practices.
 
 ## 3. Project Architecture and Data Flow
@@ -49,14 +51,28 @@ This module provides support functionalities used throughout the project.
 - **Output**: Validated, complete master CSV files stored in `data/silver/`. These data are considered reliable and ready for business intelligence and statistical analysis.
 
 ### Stage 3: Analysis (Gold Layer)
-- **Responsibility**: Consume validated data from the Silver layer and generate high-level insights and analytical artifacts.
+- **Responsibility**: Read the validated Silver datasets and generate the analysis metrics, tables, effect-size analyses, and figures under `data/gold/analysis/`. The analysis stage reads the Silver outputs.
+- **Entry point**: Run `uv run main.py analysis` to call `analysis_pipeline()` in `analysis/main.py`. The pipeline executes the following tasks in order:
+  1. Calculate Spearman’s G coefficient for final-standing and market-value schedule-strength proxies.
+  2. Aggregate G-type counts into a summary table.
+  3. Generate the Tables for the magnitude thresholds `0.200`, `0.300`, and `0.400`, and significance levels `0.10` and `0.05`.
+  4. Calculate season-level Cliff’s delta and generate Figure 1.
+  5. Calculate league-level significance results and generate Figure 2 for both proxies.
+- **Inputs**: `data/silver/team_games_valid.csv` and `data/silver/final_standings_valid_market_ranking.csv`.
 - **Main Modules**:
-  - `analysis/main.py`: Orchestrates the entire analysis pipeline.
-  - `analysis/spearman_coeff.py`: Calculates the "Schedule Strength Balance" (Spearman’s G coefficient) for each team in each valid season. Generates detailed JSON files with the raw data used in calculations.
-  - `analysis/spearman_coeff_summary.py`: Aggregates detailed G coefficient results into a summary table, providing an overview of schedule types (strong, weak, balanced) by season, league, and overall.
-  - `analysis/mann_whitney_seasons.py`: Performs Mann-Whitney U tests to assess whether schedule balance significantly impacts a team’s final league position.
-  - `analysis/mann_whitney_attendance.py`: Conducts a sensitivity analysis to determine if schedule balance correlates with stadium occupancy, testing with multiple imputed audience metrics.
-- **Output**: Final summary tables (CSV), detailed JSON files with statistical entries, and visualization plots stored in `data/gold/`. This layer represents the culmination of the project’s analytical objectives.
+  - `analysis/main.py`: Orchestrates the five analysis tasks.
+  - `analysis/spearman_coeff_calculate.py`: Calculates schedule balance, writes the coefficient tables, and stores the individual schedule vectors as JSON.
+  - `analysis/spearman_coeff_summary.py`: Aggregates G-type counts across seasons, leagues, and the complete dataset.
+  - `analysis/schedule_classifications.py`: Defines the magnitude and significance classifications used.
+  - `analysis/ssb_proportions.py`: Generates Tables 2 and 3 for both schedule-strength proxies.
+  - `analysis/cliffs_delta.py`: Calculates season-level Cliff’s delta and generates Figure 1.
+  - `analysis/significancy_analysis.py`: Calculates league-level Cliff’s delta and Mann-Whitney p-values and generates Figure 2.
+- **Outputs**:
+  - `data/gold/analysis/spearman_coefficient/metrics/`: Spearman balance results and the G-type summary.
+  - `data/gold/analysis/spearman_coefficient/schedules_data/individual/`: Per-league-season schedule vectors in JSON format.
+  - `data/gold/analysis/spearman_coefficient/{classification}/`: `table_2.csv` and `table_3.csv` for each `G_type_0.200`, `G_type_0.300`, `G_type_0.400`, `significance_0.10`, and `significance_0.05` classification.
+  - `data/gold/analysis/cliffs_delta/{classification}/`: Cliff’s delta CSV results and Figure 1 PNG files.
+  - `data/gold/analysis/significancy_analysis/{market-value-proxy,final-ranking-proxy}/{classification}/`: significance CSV results and Figure 2 PNG files for each classification.
 
 ## 4. Data Artifacts and Schemas
 The project produces structured data artifacts at each pipeline layer.
@@ -191,8 +207,11 @@ The project produces structured data artifacts at each pipeline layer.
 | is_confident_match | boolean | Flag indicating if the similarity score is above a confidence threshold (70). |
 
 #### Schedule Balance Coefficients
-- **Path**: `data/gold/analysis/spearman_coefficient/strength_schedule_balance.csv`
-- **Description**: The main output of the schedule balance analysis, containing the calculated G coefficient for each team-season.
+- **Paths**:
+  - `data/gold/analysis/spearman_coefficient/metrics/strength_schedule_balance.csv`
+  - `data/gold/analysis/spearman_coefficient/metrics/strength_schedule_balance_ranking.csv`
+  - `data/gold/analysis/spearman_coefficient/metrics/strength_schedule_balance_market.csv`
+- **Description**: Schedule-balance results for final-standing and market-value strength proxies, containing one row per team-season.
 
 | Column          | Type    | Description                                                                 |
 |-----------------|---------|-----------------------------------------------------------------------------|
@@ -204,57 +223,62 @@ The project produces structured data artifacts at each pipeline layer.
 | R_array         | string  | String representation of the ideal opponent rankings list.                   |
 | S_array         | string  | String representation of the actual opponent rankings list in the order faced. |
 | G               | float   | Spearman’s rank correlation coefficient.                                     |
-| G_rounded       | float   | G coefficient rounded to 4 decimal places.                                   |
-| G_type          | string  | Schedule classification: unbalanced_strong, unbalanced_weak, or balanced.    |
+| P_value         | float   | P-value associated with the Spearman correlation.                            |
+| is_significant  | boolean | Whether the correlation meets the 0.05 significance level.                   |
+| G_type_0.200    | string  | Classification at the 0.200 magnitude threshold.                             |
+| G_type_0.250    | string  | Classification at the 0.250 magnitude threshold.                             |
+| G_type_0.300    | string  | Classification at the 0.300 magnitude threshold.                             |
+| G_type_0.350    | string  | Classification at the 0.350 magnitude threshold.                             |
+| G_type_0.400    | string  | Classification at the 0.400 magnitude threshold.                             |
 
 #### G Coefficient Summary
-- **Path**: `data/gold/analysis/spearman_coefficient/strength_schedule_summary.csv`
-- **Description**: An aggregated table summarizing the distribution of G types across three levels: by season, by league, and overall.
+- **Path**: `data/gold/analysis/spearman_coefficient/metrics/strength_schedule_summary.csv`
+- **Description**: An aggregated table containing total tests, significant tests, and G-type counts by league-season, league, and the complete dataset.
 
 | Column       | Type    | Description                                                                 |
 |--------------|---------|-----------------------------------------------------------------------------|
 | league_name  | string  | League name (all_leagues for overall summary).                               |
 | season_year  | string  | Season year (all_seasons for league and overall summaries).                  |
-| G_type       | string  | Schedule balance type.                                                       |
-| n_samples    | integer | Number of teams falling under this G type for the given scope.               |
-| G_avg        | float   | Average G coefficient for all samples in the group.                          |
+| total_tests  | integer | Number of team-season results in the aggregation.                            |
+| significant_tests | integer | Number of results classified as significant.                             |
+| G_type_*     | integer | Count for each schedule classification and magnitude threshold.              |
 
 #### Schedule Raw Data
-- **Path (Combined)**: `data/gold/analysis/schedules_data/combined/schedule_data_combined.json`
-- **Path (Individual)**: `data/gold/analysis/schedules_data/individual/schedule_data_{league}_{season}.json`
-- **Description**: JSON files containing the raw data used to calculate Spearman’s G coefficient for each team, enabling full traceability and auditability of the analysis.
+- **Path**: `data/gold/analysis/spearman_coefficient/schedules_data/individual/schedule_data_{league}_{season}.json`
+- **Description**: Per-league-season JSON files containing the opponent order and rank vectors used to calculate Spearman’s G coefficient.
 
-#### Mann-Whitney U Test Results (P-Values)
-- **Description**: A series of CSV files containing p-values from significance tests.
+#### Cliff’s Delta Results
+- **Path**: `data/gold/analysis/cliffs_delta/{classification}/cliffs_delta.csv`
+- **Description**: Season-level Cliff’s delta results comparing unbalanced schedule groups with the balanced group for each strength proxy.
+
+#### Significance Analysis Results
 - **Paths**:
-  - `data/gold/analysis/mann_whitney/metrics/seasons/overall_mann_whitney_p_values.csv`: P-values comparing final ranking distributions across G groups for the entire dataset.
-  - `data/gold/analysis/mann_whitney/metrics/seasons/per_league_mann_whitney_p_values.csv`: P-values per league, aggregated across all seasons.
-  - `data/gold/analysis/mann_whitney/metrics/seasons/per_season_mann_whitney_p_values.csv`: P-values for each individual season.
-  - `data/gold/analysis/mann_whitney/metrics/attendance/attendance_p_values_consolidated.csv`: Consolidated p-values from the stadium occupancy sensitivity analysis.
+  - `data/gold/analysis/significancy_analysis/market-value-proxy/{classification}/significancy_analysis.csv`
+  - `data/gold/analysis/significancy_analysis/final-ranking-proxy/{classification}/significancy_analysis.csv`
+- **Description**: League-level Cliff’s delta and two-sided Mann-Whitney U results for final-position comparisons.
 
 #### Visualization Plots
-- **Description**: Boxplots visualizing the distributions of final rankings and average attendance by G type group.
 - **Paths**:
-  - `data/gold/analysis/mann_whitney/plots/seasons/`: Contains boxplots for the final ranking analysis.
-  - `data/gold/analysis/mann_whitney/plots/attendance/`: Contains boxplots for the attendance analysis.
+  - `data/gold/analysis/cliffs_delta/{classification}/cliffs_delta.png`: Figure 1, the season-level Cliff’s delta distributions.
+  - `data/gold/analysis/significancy_analysis/{market-value-proxy,final-ranking-proxy}/{classification}/significancy_analysis.png`: Figure 2, the league-level significance analysis.
 
 ## 5. Statistical Analysis Explained
 The core of this project is to investigate whether a team’s game schedule has a tangible effect on its performance.
 
 ### Spearman’s G Coefficient: Measuring Schedule Balance
-To quantify schedule balance, we calculate Spearman’s rank correlation coefficient (**G**) between two vectors for the first half of the season:
-1. **R Vector (Ideal Schedule)**: A list of the final rankings of a team’s opponents, ordered from best to worst (1, 2, 3...). This represents an ideal "strongest to weakest" schedule.
-2. **S Vector (Actual Schedule)**: A list of the final rankings of the same opponents, but in the chronological order they were actually faced.
-The resulting **G** correlation is interpreted as follows:
-- **G > 0.3 (Unbalanced Strong)**: A strong positive correlation. The team tended to play weaker opponents first and stronger ones later, often perceived as an "easier start" to the season.
-- **G < -0.3 (Unbalanced Weak)**: A strong negative correlation. The team tended to play stronger opponents first and weaker ones later, perceived as a "tougher start."
-- **-0.3 <= G <= 0.3 (Balanced)**: No significant correlation. The team faced a mix of strong and weak opponents throughout the first half of the season.
+To quantify schedule balance, we calculate Spearman’s rank correlation coefficient (**G**) between two vectors built from the first encounter with each opponent:
+1. **R Vector (Ideal Schedule)**: The team’s opponents ordered by the selected strength proxy, from strongest to weakest.
+2. **S Vector (Actual Schedule)**: The same opponents ordered chronologically by the first match against each one.
+The resulting **G** correlation is interpreted at each configured magnitude threshold (**τ**):
+- **G > τ (Unbalanced Strong / G+)**: Stronger opponents tend to appear earlier in the schedule, producing a harder or front-loaded start.
+- **G < -τ (Unbalanced Weak / G-)**: Weaker opponents tend to appear earlier in the schedule, producing an easier or back-loaded start.
+- **-τ <= G <= τ (Balanced / G0)**: The schedule does not meet the selected magnitude threshold for an unbalanced classification.
+
+### Cliff’s Delta: Measuring Effect Size
+Cliff’s delta measures the direction and magnitude of rank differences between two groups. For each league-season and strength proxy, the analysis compares final league positions for `G-` or `G+` schedules against `G0` schedules. Values range from `-1` to `1`; a negative value means that the compared unbalanced group tends to have lower, better final-position values than `G0`. The results are written to CSV and visualized in Figure 1.
 
 ### Mann-Whitney U Test: Testing Significance
-After classifying each team’s schedule into one of three types (G-, G0, G+), we use the **Mann-Whitney U Test** to answer key questions. This non-parametric test determines if there is a statistically significant difference between the distributions of two independent groups. We use it to compare:
-1. **Final Rankings**: Is the distribution of final league positions for teams with an "unbalanced weak" schedule significantly different from those with a "balanced" or "unbalanced strong" schedule?
-2. **Stadium Occupancy**: Do teams with a perceived "easier start" (unbalanced strong) have a statistically different stadium occupancy rate compared to those with a "tougher start"?
-A low p-value (typically < 0.05) from this test would suggest that the observed differences are not due to chance, implying that schedule balance may indeed have a significant effect.
+The significance analysis applies a two-sided Mann-Whitney U test to final-position distributions at league level. It compares `G-` with `G0` and `G+` with `G0` for each configured magnitude or significance classification. A low p-value, typically below `0.05`, indicates evidence that the compared distributions differ. The output also includes the season-stratified Cliff’s delta and the `-log10(p-value)` used in Figure 2.
 
 ## 6. Project Structure
 ```
