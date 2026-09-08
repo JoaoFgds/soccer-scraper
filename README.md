@@ -1,5 +1,5 @@
 # Soccer Analytics Engine
-[![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![Python Version](https://img.shields.io/badge/python-3.13+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 1. Overview
@@ -13,6 +13,7 @@ This project is a complete and robust data engineering pipeline designed to extr
   - **Gold Layer**: Aggregated business insights and statistical model outputs.
 - **Robust and Ethical Scraping**: The scraper is built to be resilient with automatic retries and exponential backoff. It incorporates random delays to ensure ethical, low-impact interaction with the source server.
 - **Automated Data Processing and Validation**: The processing stage applies a series of business rules to validate data quality, checking for completeness (e.g., all team files present), correctness (e.g., valid team URLs), and structural integrity (e.g., round-robin format).
+- **Club Market Values**: A dedicated Transfermarkt scraper collects squad and club market values by league-season and consolidates them into a Silver dataset.
 - **Advanced Statistical Analysis**: The analysis stage automatically calculates:
   - **Spearman’s G Coefficient**: To quantify the strength and balance of each team’s schedule.
   - **Schedule-Group Proportions**: SSB measurement across multiple magnitude and significance classifications.
@@ -41,6 +42,12 @@ This module provides support functionalities used throughout the project.
   - `scraper/parsers.py`: Contains logic to parse HTML content from web pages using BeautifulSoup and extract structured data into pandas DataFrames.
   - `scraper/exceptions.py`: Defines the custom `ScrapingError` exception to handle predictable scraping failures.
 - **Output**: Raw CSV files organized by league and season, stored in `data/bronze/`. This layer serves as the single source of truth for all subsequent processing.
+
+#### Club Market-Value Scraper
+
+- **Responsibility**: Extract squad size, average age, foreign-player count, and average and total club market values for the historical league-season scope.
+- **Entry point**: `python -m src.market_value.main`.
+- **Output**: League-season CSV files in `data/bronze/market_values/`; `python -m src.market_value.process_silver` consolidates them into `data/silver/market_values_silver.csv`.
 
 ### Stage 2: Processor (Silver Layer)
 - **Responsibility**: Transform raw data from the Bronze layer into clean, validated, analysis-ready datasets.
@@ -292,9 +299,14 @@ The significance analysis applies a two-sided Mann-Whitney U test to final-posit
 │   └── app.log
 ├── src/
 │   ├── analysis/
+│   ├── market_value/
 │   ├── processor/
 │   ├── scraper/
-│   └── utils/
+│   ├── utils/
+│   └── consolidate_football_data.py
+├── docs/
+│   └── REPRODUCIBILITY.md
+├── reproducibility/
 ├── main.py
 ├── pyproject.toml
 └── README.md
@@ -303,14 +315,14 @@ The significance analysis applies a two-sided Mann-Whitney U test to final-posit
 ## 7. Setup and Installation
 
 ### Prerequisites
-- Python 3.9+
+- Python 3.13+
 - uv (recommended package manager)
 
 ### Installation Steps
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd soccer-analytics-engine
+   git clone https://github.com/JoaoFgds/soccer-scraper.git
+   cd soccer-scraper
    ```
 2. **Create and activate a virtual environment:**
    ```bash
@@ -319,7 +331,7 @@ The significance analysis applies a two-sided Mann-Whitney U test to final-posit
    ```
 3. **Install dependencies from pyproject.toml:**
    ```bash
-   uv sync
+   uv sync --locked
    ```
    This command installs all dependencies specified in `pyproject.toml`, ensuring the project environment is correctly configured.
 
@@ -347,5 +359,33 @@ The full pipeline is controlled via `main.py` using command-line arguments.
      uv run main.py all
      ```
 
-## 9. License
+### Market-value pipeline
+
+```bash
+# One league-season; omit the options to run the configured historical scope.
+uv run --locked python -m src.market_value.main \
+  --league premierleague \
+  --season 2024
+
+uv run --locked python -m src.market_value.process_silver
+```
+
+### Team-season consolidated dataset
+
+After restoring the frozen inputs documented in
+[`docs/REPRODUCIBILITY.md`](docs/REPRODUCIBILITY.md):
+
+```bash
+uv run --locked python -m src.consolidate_football_data
+```
+
+## 9. Reproducing published results
+
+Live scraping can change as Transfermarkt changes. Exact historical
+reproduction therefore uses versioned input snapshots and SHA-256 manifests.
+See [`docs/REPRODUCIBILITY.md`](docs/REPRODUCIBILITY.md) for the input schemas,
+commands, expected row counts, checksums, and remaining manual data-publication
+step.
+
+## 10. License
 This project is licensed under the MIT License.
