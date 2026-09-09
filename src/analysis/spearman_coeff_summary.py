@@ -144,3 +144,4 @@ def create_g_type_summary():
         len(summary_df),
         paths.SPEARMAN_SUMMARY_PATH,
     )
+    return summary_df

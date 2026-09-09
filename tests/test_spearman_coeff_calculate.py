@@ -11,6 +11,15 @@ from src.analysis import spearman_coeff_calculate
 
 
 class StrengthProxySelectionTest(unittest.TestCase):
+    def test_missing_input_is_not_reported_as_success(self):
+        with patch.object(
+            spearman_coeff_calculate.pd,
+            "read_csv",
+            side_effect=FileNotFoundError("missing.csv"),
+        ):
+            with self.assertRaises(FileNotFoundError):
+                spearman_coeff_calculate.calculate_strength_schedule_balance()
+
     def test_enriched_standings_use_final_and_market_rank_columns(self):
         games = pd.DataFrame()
         standings = pd.DataFrame(

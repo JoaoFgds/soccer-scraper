@@ -14,9 +14,30 @@ from src.analysis import (
     spearman_coeff_plots,
 )
 
+from src.utils import paths
 from src.utils.logger import setup_logging
 
 logger = logging.getLogger(__name__)
+
+
+def _require_analysis_inputs() -> None:
+    """Fail before analysis when the two required Silver inputs are absent."""
+
+    required_inputs = {
+        paths.GAMES_VALID_PATH,
+        paths.STANDINGS_VALID_MARKET_RANKING_PATH,
+    }
+    missing_inputs = sorted(
+        (path for path in required_inputs if not path.is_file()),
+        key=str,
+    )
+    if missing_inputs:
+        missing_list = ", ".join(str(path) for path in missing_inputs)
+        raise FileNotFoundError(
+            "Missing required analysis inputs: "
+            f"{missing_list}. Restore the reproducibility release data and run "
+            "the processor before analysis."
+        )
 
 
 def analysis_pipeline():
@@ -40,27 +61,36 @@ def analysis_pipeline():
     logger.info("--- Starting Data Analysis Workflow ---")
 
     try:
+        _require_analysis_inputs()
+
         print("\n")
         logger.info(
             "Task 1: Calculating Spearman's coefficient for strength of schedule."
         )
-        spearman_coeff_calculate.calculate_strength_schedule_balance()
+        balance = spearman_coeff_calculate.calculate_strength_schedule_balance()
+        if balance.empty:
+            raise RuntimeError("Schedule-balance calculation produced no results.")
 
         print("\n")
         logger.info("Task 2: Creating summary table for G-type analysis.")
-        spearman_coeff_summary.create_g_type_summary()
+        summary = spearman_coeff_summary.create_g_type_summary()
+        if summary is None or summary.empty:
+            raise RuntimeError("Schedule-balance summary produced no results.")
 
         print("\n")
         logger.info("Task 3: Generating paper Tables 2 and 3.")
-        ssb_proportions.generate_ssb_proportion_tables()
+        if not ssb_proportions.generate_ssb_proportion_tables():
+            raise RuntimeError("No schedule-proportion tables were generated.")
 
         print("\n")
         logger.info("Task 4: Generating Cliff's delta analysis and Figure 1.")
-        cliffs_delta.generate_cliffs_delta_analysis()
+        if not cliffs_delta.generate_cliffs_delta_analysis():
+            raise RuntimeError("No Cliff's delta outputs were generated.")
 
         print("\n")
         logger.info("Task 5: Generating significance analysis and Figure 2.")
-        significancy_analysis.generate_significancy_analysis()
+        if not significancy_analysis.generate_significancy_analysis():
+            raise RuntimeError("No significance-analysis outputs were generated.")
 
         # print("\n")
         # logger.info("Task 6: Creating plots for G-type analysis.")
@@ -84,9 +114,10 @@ def analysis_pipeline():
 
     except Exception as e:
         logger.critical(
-            "An unhandled error occurred during the analysis pipeline: %s",
+            "The analysis pipeline failed: %s",
             e,
             exc_info=True,
         )
+        raise
     else:
         logger.info("--- Data Analysis Workflow Complete ---")

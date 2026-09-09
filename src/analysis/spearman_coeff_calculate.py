@@ -291,7 +291,7 @@ def calculate_strength_schedule_balance() -> pd.DataFrame:
         logger.info("Successfully loaded validated games and standings files.")
     except FileNotFoundError as e:
         logger.error("Input file not found: %s. Aborting analysis.", e, exc_info=True)
-        return pd.DataFrame()
+        raise
 
     ranking_position_column = (
         "position_old"
