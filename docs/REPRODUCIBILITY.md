@@ -1,16 +1,7 @@
 # Reproducibility
 
-This document describes how to reproduce the historical outputs contributed by
-the `TransfermarketPlayersValue` and `PedroTask_20260614` projects.
-
-The imported code is traceable as follows:
-
-- `src/market_value/` preserves the market-value extraction and Bronze-to-Silver
-  processing developed in `TransfermarketPlayersValue`.
-- `src/consolidate_football_data.py` preserves the team-season consolidation
-  developed in `PedroTask_20260614`.
-- No code was imported from the old `soccer_scraper` copy because its functional
-  content is already present in the main repository.
+This document describes how to reproduce the Soccer Scraper processing and
+analysis results from a frozen, publicly available data snapshot.
 
 ## Reproduction boundary
 
@@ -18,11 +9,10 @@ Transfermarkt is a live source. Club values, historical coverage, redirects,
 and HTML structure can change. Running the scraper again therefore creates a
 new data collection; it cannot guarantee the exact historical results.
 
-Exact reproduction uses a frozen input snapshot. That snapshot is intentionally
-not tracked in Git and must be published separately as a versioned release
-asset. Until the asset and its public download URL are added, the code is
-reproducible against the local snapshot but the public repository is not yet a
-self-contained reproduction package.
+Exact reproduction uses the frozen input snapshot published in the
+[`reproducibility-v1` GitHub Release](https://github.com/JoaoFgds/soccer-scraper/releases/tag/reproducibility-v1).
+The data remain outside Git history while their version, download location, and
+integrity checksums remain stable and public.
 
 ## Environment
 
@@ -39,6 +29,63 @@ Run the complete code-only test suite without downloading or scraping data:
 
 ```bash
 uv run --locked python -m unittest discover -s tests -v
+```
+
+## Download and restore the release data
+
+Download the four release assets into an ignored working directory:
+
+```bash
+mkdir -p downloads/reproducibility-v1
+cd downloads/reproducibility-v1
+
+curl --fail --location --remote-name \
+  https://github.com/JoaoFgds/soccer-scraper/releases/download/reproducibility-v1/analysis-inputs-v1.zip
+curl --fail --location --remote-name \
+  https://github.com/JoaoFgds/soccer-scraper/releases/download/reproducibility-v1/market-values-bronze-v1.zip
+curl --fail --location --remote-name \
+  https://github.com/JoaoFgds/soccer-scraper/releases/download/reproducibility-v1/soccer-scraper-bronze-v1.zip
+curl --fail --location --remote-name \
+  https://github.com/JoaoFgds/soccer-scraper/releases/download/reproducibility-v1/SHA256SUMS.txt
+```
+
+Verify the downloaded archives on Linux:
+
+```bash
+sha256sum -c SHA256SUMS.txt
+```
+
+On macOS, use:
+
+```bash
+shasum -a 256 -c SHA256SUMS.txt
+```
+
+All three archives must report `OK`. The expected archive hashes are also
+versioned in `reproducibility/release-assets.sha256`.
+
+Restore the files to the repository paths expected by the pipelines:
+
+```bash
+mkdir -p ../../data/bronze/market_values
+mkdir -p ../../data/silver
+mkdir -p ../../data/gold/analysis/mann_whitney/attendance/audit
+mkdir -p ../../data/gold/analysis/spearman_coefficient/metrics
+
+unzip -qo soccer-scraper-bronze-v1.zip -d ../../data -x '__MACOSX/*'
+unzip -jo market-values-bronze-v1.zip 'bronze/*.csv' \
+  -d ../../data/bronze/market_values
+unzip -jo analysis-inputs-v1.zip \
+  source/final_standings_valid_market_ranking.csv \
+  -d ../../data/silver
+unzip -jo analysis-inputs-v1.zip \
+  source/occupancy_audit_audience_filled_fb.csv \
+  -d ../../data/gold/analysis/mann_whitney/attendance/audit
+unzip -jo analysis-inputs-v1.zip \
+  'source/strength_schedule_balance_*.csv' \
+  -d ../../data/gold/analysis/spearman_coefficient/metrics
+
+cd ../..
 ```
 
 ## Frozen input snapshot
@@ -127,25 +174,27 @@ Consolidate the Bronze files with:
 uv run --locked python -m src.market_value.process_silver
 ```
 
-The historical local snapshot contains 451 successful league-season files. Its
-Silver result has 8,703 rows and the SHA-256 recorded in
-`reproducibility/market-values-output.sha256`. Reproducing that exact file
-requires publication of the corresponding frozen Bronze directory. A fresh
-scrape validates the current pipeline, but is not evidence of historical byte
+The published snapshot contains 451 successful league-season files plus the
+scraping status report. Its Silver result has 8,703 rows and the SHA-256
+recorded in `reproducibility/market-values-output.sha256`. A fresh scrape
+validates the current pipeline, but is not evidence of historical byte
 reproducibility.
 
-## Manual publication still required
+## Full validation order
 
-Before calling the GitHub repository fully reproducible:
+From a clean clone with the release data restored, run:
 
-1. Publish the frozen data archive in a stable, versioned location such as a
-   GitHub Release or a research-data repository.
-2. Add the archive URL, version, SHA-256, and extraction command to this file.
-3. Confirm that redistribution of the snapshot is permitted and document its
-   provenance and collection date.
-4. Clone the public repository into a clean directory, download the archive,
-   verify the manifests, and run the tests and consolidation command.
-5. Confirm both the output row count and SHA-256 shown above.
+```bash
+uv sync --locked
+uv run --locked python -m unittest discover -s tests -v
+sha256sum -c reproducibility/consolidation-inputs.sha256
+uv run --locked python -m src.market_value.process_silver
+sha256sum -c reproducibility/market-values-output.sha256
+uv run --locked python -m src.consolidate_football_data
+sha256sum -c reproducibility/consolidation-output.sha256
+```
 
-Do not publish local virtual environments, logs, ZIP metadata, or generated
-plots as source code. These remain ignored by `.gitignore`.
+On macOS, replace each `sha256sum -c` invocation with `shasum -a 256 -c`.
+
+The source website is Transfermarkt. The release is a research reproducibility
+snapshot and Transfermarkt is not affiliated with this repository.

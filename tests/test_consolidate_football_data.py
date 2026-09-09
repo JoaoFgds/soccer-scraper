@@ -1,4 +1,4 @@
-"""Tests for the team-season consolidation contributed by PedroTask."""
+"""Tests for the reproducible team-season consolidation."""
 
 import tempfile
 import unittest
