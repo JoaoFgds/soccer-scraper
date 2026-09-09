@@ -3,10 +3,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 1. Overview
-This project is a complete and robust data engineering pipeline designed to extract, process, and analyze professional soccer data from the [Transfermarkt](https://www.transfermarkt.com.br) website. Operating as a fully automated system, it transforms raw, unstructured web data into structured, validated datasets and, ultimately, actionable statistical insights. The application architecture is based on the **Medallion Architecture** with three stages (scrape, process, analysis), mirroring the Bronze, Silver, and Gold layers. This approach ensures data quality, traceability, and robustness. The ultimate goal is to analyze the concept of "schedule balance" and determine its statistical significance in team performance, especially final league position.
+This project extracts, processes, and analyzes professional soccer data from the [Transfermarkt](https://www.transfermarkt.com.br) website. It uses a **Medallion Architecture** with Bronze, Silver, and Gold layers. The supported path for reproducing the published historical results uses the frozen data release; live scraping is a separate, best-effort collection workflow. The analytical goal is to study schedule balance and its relationship with team rankings.
 
 ## 2. Main Features
-- **End-to-End Automated Pipeline**: A single command can trigger the entire workflow: extracting raw data, cleaning and validating it, and running a full suite of statistical analyses.
+- **Frozen-Data Reproducibility**: The published release, locked dependencies, and SHA-256 manifests reproduce the historical processing and analysis outputs.
 - **Medallion Data Architecture**:
   - **Bronze Layer**: Raw, untouched data directly from the source.
   - **Silver Layer**: Cleaned, validated, enriched, and analysis-ready data.
@@ -17,15 +17,15 @@ This project is a complete and robust data engineering pipeline designed to extr
 - **Advanced Statistical Analysis**: The analysis stage automatically calculates:
   - **Spearman’s G Coefficient**: To quantify the strength and balance of each team’s schedule.
   - **Schedule-Group Proportions**: SSB measurement across multiple magnitude and significance classifications.
-  - **Cliff’s Delta**: To measure the effect of schedule classification on final league position.
-  - **Mann-Whitney U Test**: To assess differences in final-position distributions between unbalanced and balanced schedule groups.
+  - **Cliff’s Delta**: To measure rank differences between schedule classifications.
+  - **Mann-Whitney U Test**: To assess rank-distribution differences between unbalanced and balanced schedule groups.
 - **Modular and Maintainable Code**: The project is logically structured into distinct modules for scraping, processing, analysis, and utilities, following software engineering best practices.
 
 ## 3. Project Architecture and Data Flow
-The application is orchestrated by `main.py` at the project root, which executes the three main pipelines in sequence. Each stage consumes data from the previous layer and produces artifacts for the next.
+The legacy scraper, processor, and analysis entry points are exposed through `main.py`. The market-value and team-season consolidation commands are separate. Exact historical reproduction follows the explicit sequence in `docs/REPRODUCIBILITY.md` rather than the `all` shortcut.
 
 ### Main Module (main.py)
-This is the application’s entry point. It uses `argparse` to allow the user to run one of the three pipelines (scrape, process, analysis) or all sequentially (`all`). It contains no business logic, only orchestrating the execution of the main modules for each stage.
+This is the application’s entry point. It uses `argparse` to run the legacy scraper, processor, or analysis pipeline. The `all` option invokes those three commands sequentially, but does not run the separate market-value processor, create the enriched standings input, or build the final team-season consolidation.
 
 ### Utilities Module (src/utils)
 This module provides support functionalities used throughout the project.
@@ -58,7 +58,7 @@ This module provides support functionalities used throughout the project.
 - **Output**: Validated, complete master CSV files stored in `data/silver/`. These data are considered reliable and ready for business intelligence and statistical analysis.
 
 ### Stage 3: Analysis (Gold Layer)
-- **Responsibility**: Read the validated Silver datasets and generate the analysis metrics, tables, effect-size analyses, and figures under `data/gold/analysis/`. The analysis stage reads the Silver outputs.
+- **Responsibility**: Read the validated games and frozen enriched standings datasets and generate metrics, tables, effect-size analyses, and figures under `data/gold/analysis/`.
 - **Entry point**: Run `uv run main.py analysis` to call `analysis_pipeline()` in `analysis/main.py`. The pipeline executes the following tasks in order:
   1. Calculate Spearman’s G coefficient for final-standing and market-value schedule-strength proxies.
   2. Aggregate G-type counts into a summary table.
@@ -226,7 +226,7 @@ The project produces structured data artifacts at each pipeline layer.
 | league_name     | string  | League name.                                                                |
 | season_year     | integer | Season year.                                                                |
 | team_canonical  | string  | Canonical team name.                                                        |
-| final_position  | integer | Team’s final league ranking.                                                 |
+| final_position  | integer | Outcome rank: final league position for the standings proxy; historical market-value rank for the market proxy in v1. |
 | R_array         | string  | String representation of the ideal opponent rankings list.                   |
 | S_array         | string  | String representation of the actual opponent rankings list in the order faced. |
 | G               | float   | Spearman’s rank correlation coefficient.                                     |
@@ -262,7 +262,7 @@ The project produces structured data artifacts at each pipeline layer.
 - **Paths**:
   - `data/gold/analysis/significancy_analysis/market-value-proxy/{classification}/significancy_analysis.csv`
   - `data/gold/analysis/significancy_analysis/final-ranking-proxy/{classification}/significancy_analysis.csv`
-- **Description**: League-level Cliff’s delta and two-sided Mann-Whitney U results for final-position comparisons.
+- **Description**: League-level Cliff’s delta and two-sided Mann-Whitney U results for ranking comparisons. See the v1 interpretation note in Section 9.
 
 #### Visualization Plots
 - **Paths**:
@@ -282,10 +282,10 @@ The resulting **G** correlation is interpreted at each configured magnitude thre
 - **-τ <= G <= τ (Balanced / G0)**: The schedule does not meet the selected magnitude threshold for an unbalanced classification.
 
 ### Cliff’s Delta: Measuring Effect Size
-Cliff’s delta measures the direction and magnitude of rank differences between two groups. For each league-season and strength proxy, the analysis compares final league positions for `G-` or `G+` schedules against `G0` schedules. Values range from `-1` to `1`; a negative value means that the compared unbalanced group tends to have lower, better final-position values than `G0`. The results are written to CSV and visualized in Figure 1.
+Cliff’s delta measures the direction and magnitude of rank differences between two groups. For each league-season and strength proxy, the analysis compares the proxy output rank for `G-` or `G+` schedules against `G0` schedules. Values range from `-1` to `1`; a negative value means that the compared unbalanced group tends to have lower rank values than `G0`. In v1, that outcome is final league position for the standings proxy and market-value rank for the market proxy. The results are written to CSV and visualized in Figure 1.
 
 ### Mann-Whitney U Test: Testing Significance
-The significance analysis applies a two-sided Mann-Whitney U test to final-position distributions at league level. It compares `G-` with `G0` and `G+` with `G0` for each configured magnitude or significance classification. A low p-value, typically below `0.05`, indicates evidence that the compared distributions differ. The output also includes the season-stratified Cliff’s delta and the `-log10(p-value)` used in Figure 2.
+The significance analysis applies a two-sided Mann-Whitney U test to those rank distributions at league level. It compares `G-` with `G0` and `G+` with `G0` for each configured magnitude or significance classification. A low p-value, typically below `0.05`, indicates evidence that the compared distributions differ. The output also includes the season-stratified Cliff’s delta and the `-log10(p-value)` used in Figure 2.
 
 ## 6. Project Structure
 ```
@@ -316,7 +316,8 @@ The significance analysis applies a two-sided Mann-Whitney U test to final-posit
 
 ### Prerequisites
 - Python 3.13+
-- uv (recommended package manager)
+- uv (required for the locked reproduction workflow)
+- `curl` and `unzip` for restoring the release data on macOS or Linux
 
 ### Installation Steps
 1. **Clone the repository:**
@@ -336,7 +337,7 @@ The significance analysis applies a two-sided Mann-Whitney U test to final-posit
    This command installs all dependencies specified in `pyproject.toml`, ensuring the project environment is correctly configured.
 
 ## 8. How to Run
-The full pipeline is controlled via `main.py` using command-line arguments.
+For exact published results, skip to Section 9 and follow the frozen-data guide. The commands below expose individual workflows and are not a complete Bronze-to-Gold reproduction path.
 1. **Activate the virtual environment:**
    ```bash
    source .venv/bin/activate  # On Windows: .venv\Scripts\activate
@@ -346,6 +347,7 @@ The full pipeline is controlled via `main.py` using command-line arguments.
      ```bash
      uv run main.py scrape
      ```
+     The checked-in historical configuration marks every league as already processed, so this command currently skips them. Live collection requires an intentional configuration change and will not reproduce the frozen historical data.
    - To run only the data processor:
      ```bash
      uv run main.py process
@@ -354,10 +356,11 @@ The full pipeline is controlled via `main.py` using command-line arguments.
      ```bash
      uv run main.py analysis
      ```
-   - To run the entire end-to-end pipeline:
+   - To run the legacy three-stage sequence:
      ```bash
      uv run main.py all
      ```
+     This shortcut does not include the market-value workflow, enriched-standings construction, or final team-season consolidation. Do not use it for exact reproduction.
 
 ### Market-value pipeline
 
@@ -387,6 +390,11 @@ reproduction therefore uses the frozen data in the
 and versioned SHA-256 manifests. See
 [`docs/REPRODUCIBILITY.md`](docs/REPRODUCIBILITY.md) for the input schemas,
 download and execution commands, expected row counts, and checksums.
+
+The v1 release intentionally preserves its published output contract. In its
+market-value proxy tables, the historical `final_position` field contains the
+market-value ranking. See the reproducibility guide before interpreting those
+effect-size and significance results as final league-position comparisons.
 
 ## 10. License
 This project is licensed under the MIT License.

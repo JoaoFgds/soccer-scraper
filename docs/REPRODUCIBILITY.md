@@ -14,10 +14,18 @@ Exact reproduction uses the frozen input snapshot published in the
 The data remain outside Git history while their version, download location, and
 integrity checksums remain stable and public.
 
+The exact analysis boundary begins at the frozen enriched inputs in that
+release. The Bronze archives also allow the main processor and market-value
+processor to be rerun and verified independently, but the repository does not
+currently contain the transformation that joins their Silver outputs into
+`final_standings_valid_market_ranking.csv`.
+
 ## Environment
 
 The supported environment is Python 3.13 with the dependency versions recorded
-in `uv.lock`.
+in `uv.lock`. The commands require `uv`, `curl`, `unzip`, and a POSIX-compatible
+shell. Byte-identical validation was performed on macOS. Linux commands are
+provided below; Windows output bytes and checksums have not been validated.
 
 ```bash
 git clone https://github.com/JoaoFgds/soccer-scraper.git
@@ -49,20 +57,22 @@ curl --fail --location --remote-name \
   https://github.com/JoaoFgds/soccer-scraper/releases/download/reproducibility-v1/SHA256SUMS.txt
 ```
 
-Verify the downloaded archives on Linux:
+Verify the downloaded archives against both the manifest tracked by Git and the
+copy supplied with the release. On Linux:
 
 ```bash
+sha256sum -c ../../reproducibility/release-assets.sha256
 sha256sum -c SHA256SUMS.txt
 ```
 
 On macOS, use:
 
 ```bash
+shasum -a 256 -c ../../reproducibility/release-assets.sha256
 shasum -a 256 -c SHA256SUMS.txt
 ```
 
-All three archives must report `OK`. The expected archive hashes are also
-versioned in `reproducibility/release-assets.sha256`.
+All three archives must report `OK` in both checks.
 
 Restore the files to the repository paths expected by the pipelines:
 
@@ -155,7 +165,7 @@ columns and SHA-256
 
 ## Market-value collection
 
-To collect one current league-season:
+To collect one configured league-season from the live website:
 
 ```bash
 uv run --locked python -m src.market_value.main \
@@ -180,6 +190,27 @@ recorded in `reproducibility/market-values-output.sha256`. A fresh scrape
 validates the current pipeline, but is not evidence of historical byte
 reproducibility.
 
+The configured historical scope ends in 2024. The main scraper configuration
+also marks every league as already processed, so `python main.py scrape` skips
+all leagues unless those flags are deliberately changed. Neither live scraper
+is part of the exact reproduction workflow.
+
+## Version 1 interpretation boundary
+
+The v1 output contract preserves one historical column meaning that is
+important when interpreting the results:
+
+- `position_old` is the final league position.
+- `position` is the market-value ranking.
+- In `strength_schedule_balance_market.csv`, the historical `final_position`
+  output is populated from `position`. The downstream market-proxy Cliff's delta
+  and Mann-Whitney results therefore evaluate market-value rankings, not final
+  league positions.
+
+This behavior is retained so the published v1 tables remain byte-reproducible.
+Changing the outcome to `position_old` would require recalculated results,
+updated checksums, and a new reproducibility release.
+
 ## Full validation order
 
 From a clean clone with the release data restored, run:
@@ -199,6 +230,10 @@ sha256sum -c reproducibility/consolidation-output.sha256
 ```
 
 On macOS, replace each `sha256sum -c` invocation with `shasum -a 256 -c`.
+
+Do not substitute `python main.py all` for this sequence. Each command above
+must exit successfully and every listed file must report `OK`; missing or
+unusable processor and analysis inputs cause a non-zero exit status.
 
 The processor manifest covers its six primary Silver and name-mapping CSVs.
 The analysis manifest covers the 29 generated statistical CSVs. Schedule JSON
