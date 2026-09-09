@@ -293,11 +293,16 @@ def calculate_strength_schedule_balance() -> pd.DataFrame:
         logger.error("Input file not found: %s. Aborting analysis.", e, exc_info=True)
         return pd.DataFrame()
 
+    ranking_position_column = (
+        "position_old"
+        if "position_old" in ranking_standings_df.columns
+        else "position"
+    )
     ranking_result_df = _calculate_schedule_balance(
         games_df,
         ranking_standings_df,
-        strength_column="position",
-        final_position_column="position",
+        strength_column=ranking_position_column,
+        final_position_column=ranking_position_column,
         write_schedule_data=True,
     )
     if ranking_result_df.empty:
