@@ -382,10 +382,11 @@ uv run --locked python -m src.consolidate_football_data
 ## 9. Reproducing published results
 
 Live scraping can change as Transfermarkt changes. Exact historical
-reproduction therefore uses versioned input snapshots and SHA-256 manifests.
-See [`docs/REPRODUCIBILITY.md`](docs/REPRODUCIBILITY.md) for the input schemas,
-commands, expected row counts, checksums, and remaining manual data-publication
-step.
+reproduction therefore uses the frozen data in the
+[`reproducibility-v1` release](https://github.com/JoaoFgds/soccer-scraper/releases/tag/reproducibility-v1)
+and versioned SHA-256 manifests. See
+[`docs/REPRODUCIBILITY.md`](docs/REPRODUCIBILITY.md) for the input schemas,
+download and execution commands, expected row counts, and checksums.
 
 ## 10. License
 This project is licensed under the MIT License.
